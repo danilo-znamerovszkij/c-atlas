@@ -1,0 +1,185 @@
+.theory-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+.theory-header {
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 2px solid #e1e5e9;
+}
+
+.theory-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 0 0 1rem 0;
+  color: #2c3e50;
+}
+
+.theory-meta {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.theory-content {
+  display: grid;
+  gap: 3rem;
+}
+
+.theory-section {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 2rem;
+  border-left: 4px solid #3498db;
+}
+
+.theory-section h2 {
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin: 0 0 1.5rem 0;
+  color: #2c3e50;
+  border-bottom: 1px solid #dee2e6;
+  padding-bottom: 0.5rem;
+}
+
+.section-content {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.field {
+  margin-bottom: 1rem;
+}
+
+.field-label {
+  font-weight: 600;
+  color: #495057;
+  margin-bottom: 0.25rem;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.field-value {
+  color: #212529;
+  margin-bottom: 0.5rem;
+  padding-left: 0.5rem;
+}
+
+.notes {
+  background: #e3f2fd;
+  border-left: 3px solid #2196f3;
+  padding: 0.75rem 1rem;
+  margin-top: 0.5rem;
+  font-style: italic;
+  color: #1565c0;
+  font-size: 0.9rem;
+  border-radius: 0 4px 4px 0;
+}
+
+.nested-section {
+  background: #ffffff;
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+}
+
+.nested-title {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin: 0 0 1rem 0;
+  color: #495057;
+  border-bottom: 1px solid #dee2e6;
+  padding-bottom: 0.5rem;
+}
+
+.arguments-section {
+  margin-top: 2rem;
+}
+
+.arguments-section h3 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin: 0 0 1rem 0;
+  color: #495057;
+}
+
+.arguments-list {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.array-item {
+  background: #ffffff;
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.item-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0 0 1rem 0;
+  color: #495057;
+  border-bottom: 1px solid #dee2e6;
+  padding-bottom: 0.5rem;
+}
+
+.array-list {
+  margin: 0.5rem 0;
+  padding-left: 1.5rem;
+}
+
+.array-list li {
+  margin-bottom: 0.25rem;
+  color: #495057;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .theory-page {
+    padding: 1rem;
+  }
+
+  .theory-title {
+    font-size: 2rem;
+  }
+
+  .theory-section {
+    padding: 1.5rem;
+  }
+
+  .nested-section {
+    padding: 1rem;
+  }
+
+  .array-item {
+    padding: 1rem;
+  }
+}
+
+/* Print styles */
+@media print {
+  .theory-page {
+    max-width: none;
+    padding: 0;
+  }
+
+  .theory-section {
+    background: none;
+    border: 1px solid #000;
+    page-break-inside: avoid;
+  }
+
+  .notes {
+    background: #f5f5f5;
+    border: 1px solid #ccc;
+  }
+}

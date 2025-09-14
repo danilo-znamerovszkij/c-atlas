@@ -1,0 +1,21 @@
+{
+  "name": "c-atlas",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "type-check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "sass": "^1.91.0",
+    "typescript": "~5.8.3",
+    "vite": "^7.1.2"
+  },
+  "dependencies": {
+    "echarts": "^6.0.0",
+    "vite-tsconfig-paths": "^5.1.4"
+  }
+}
