@@ -1,7 +1,7 @@
 export class SearchBar {
   private container: HTMLElement
-  private input: HTMLInputElement
-  private dropdown: HTMLElement
+  private input!: HTMLInputElement
+  private dropdown!: HTMLElement
   private router: any
   private allTheories: Array<{category: string, theory: string, title: string}> = []
 
@@ -25,8 +25,16 @@ export class SearchBar {
           id="theory-search" 
           placeholder="Search theories..." 
           autocomplete="off"
+          aria-label="Search theories"
+          aria-describedby="search-dropdown"
+          role="combobox"
+          aria-expanded="false"
+          aria-haspopup="listbox"
         />
-        <div class="search-dropdown" id="search-dropdown"></div>
+        <div class="search-dropdown" 
+             id="search-dropdown" 
+             role="listbox" 
+             aria-label="Search results"></div>
       </div>
     `
 
@@ -51,6 +59,18 @@ export class SearchBar {
       setTimeout(() => {
         this.hideDropdown()
       }, 200)
+    })
+
+    // Add keyboard navigation
+    this.input.addEventListener('keydown', (e) => {
+      const keyboardEvent = e as KeyboardEvent
+      if (keyboardEvent.key === 'ArrowDown') {
+        e.preventDefault()
+        this.focusFirstItem()
+      } else if (keyboardEvent.key === 'Escape') {
+        this.hideDropdown()
+        this.input.blur()
+      }
     })
 
     // Prevent dropdown from closing when clicking on it
@@ -84,17 +104,23 @@ export class SearchBar {
 
     this.dropdown.innerHTML = theoriesToShow
       .slice(0, 8) // Limit to 8 results
-      .map(theory => `
-        <div class="search-item" data-category="${theory.category}" data-theory="${theory.theory}">
+      .map((theory) => `
+        <div class="search-item" 
+             data-category="${theory.category}" 
+             data-theory="${theory.theory}"
+             role="option"
+             tabindex="0"
+             aria-selected="false">
           <div class="search-item-title">${theory.title}</div>
           <div class="search-item-category">${theory.category}</div>
         </div>
       `).join('')
 
     this.dropdown.classList.add('visible')
+    this.input.setAttribute('aria-expanded', 'true')
 
     // Add click handlers to dropdown items
-    this.dropdown.querySelectorAll('.search-item').forEach(item => {
+    this.dropdown.querySelectorAll('.search-item').forEach((item, index) => {
       item.addEventListener('click', () => {
         const category = item.getAttribute('data-category')
         const theory = item.getAttribute('data-theory')
@@ -104,10 +130,49 @@ export class SearchBar {
           this.hideDropdown()
         }
       })
+
+      // Add keyboard navigation
+      item.addEventListener('keydown', (e) => {
+        const keyboardEvent = e as KeyboardEvent
+        if (keyboardEvent.key === 'Enter' || keyboardEvent.key === ' ') {
+          e.preventDefault()
+          const category = item.getAttribute('data-category')
+          const theory = item.getAttribute('data-theory')
+          if (category && theory) {
+            this.router.navigateToTheory(category, theory)
+            this.input.value = ''
+            this.hideDropdown()
+          }
+        } else if (keyboardEvent.key === 'ArrowDown') {
+          e.preventDefault()
+          const nextItem = this.dropdown.querySelectorAll('.search-item')[index + 1] as HTMLElement
+          if (nextItem) {
+            nextItem.focus()
+          }
+        } else if (keyboardEvent.key === 'ArrowUp') {
+          e.preventDefault()
+          if (index === 0) {
+            this.input.focus()
+          } else {
+            const prevItem = this.dropdown.querySelectorAll('.search-item')[index - 1] as HTMLElement
+            if (prevItem) {
+              prevItem.focus()
+            }
+          }
+        }
+      })
     })
   }
 
   private hideDropdown() {
     this.dropdown.classList.remove('visible')
+    this.input.setAttribute('aria-expanded', 'false')
+  }
+
+  private focusFirstItem() {
+    const firstItem = this.dropdown.querySelector('.search-item') as HTMLElement
+    if (firstItem) {
+      firstItem.focus()
+    }
   }
 }
