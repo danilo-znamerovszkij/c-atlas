@@ -1,6 +1,4 @@
-import IITData from '@/data/IIT.json'
-import MaterialismData from '@/data/Materialism.json'
-import ZhangData from '@/data/Zhang.json'
+// Lazy loading - no imports at startup
 
 // Define the interface locally to avoid import issues
 interface TheoryData {
@@ -95,23 +93,34 @@ export class Router {
   }
 
   private async loadTheory(category: string, theory: string): Promise<TheoryData> {
-    // Map URL segments to imported data
-    const theoryMap: Record<string, Record<string, TheoryData>> = {
+    // Map URL segments to file paths for lazy loading
+    const theoryMap: Record<string, Record<string, string>> = {
       'materialism': {
-        'iit': IITData as TheoryData,
-        'materialism': MaterialismData as TheoryData
+        'iit': '/src/data/IIT.json',
+        'materialism': '/src/data/Materialism.json'
       },
       'electromagnetic': {
-        'zhang': ZhangData as TheoryData
+        'zhang': '/src/data/Zhang.json'
       }
     }
 
-    const theoryData = theoryMap[category]?.[theory]
-    if (!theoryData) {
+    const filePath = theoryMap[category]?.[theory]
+    if (!filePath) {
       throw new Error(`Theory not found: ${category}/${theory}`)
     }
 
-    return theoryData
+    try {
+      // Dynamically fetch the JSON file
+      const response = await fetch(filePath)
+      if (!response.ok) {
+        throw new Error(`Failed to load theory data: ${response.statusText}`)
+      }
+      const theoryData = await response.json() as TheoryData
+      return theoryData
+    } catch (error) {
+      console.error(`Error loading theory ${category}/${theory}:`, error)
+      throw new Error(`Failed to load theory data: ${error}`)
+    }
   }
 
   public navigateToTheory(category: string, theory: string) {
