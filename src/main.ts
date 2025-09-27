@@ -25,7 +25,7 @@ const itemDetailsPanel = chartExample.getItemDetailsPanel()
 ;(window as any).router = router
 
 // Initialize search bar
-const searchBar = new SearchBar('search-container', router)
+new SearchBar('search-container', router)
 
 // Set up close callback to navigate to home when panel is closed
 itemDetailsPanel.setCloseCallback(() => {

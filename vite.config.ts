@@ -6,19 +6,29 @@ export default defineConfig({
     tsconfigPaths()
   ],
   server: {
-    port: 3000,
+    port: 8080,
     open: true,
     historyApiFallback: true
   },
   build: {
-    target: 'esnext',
+    target: 'es2020',
     minify: 'esbuild',
+    sourcemap: false,
     rollupOptions: {
       output: {
         manualChunks: {
           echarts: ['echarts']
         }
       }
-    }
+    },
+    chunkSizeWarningLimit: 1000,
+    outDir: 'dist',
+    emptyOutDir: true
+  },
+  optimizeDeps: {
+    include: ['echarts']
+  },
+  define: {
+    'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV || 'production')
   }
 })

@@ -13,7 +13,7 @@ export class ChartContainer {
     this.container = element
   }
 
-  init(renderer: 'canvas' | 'svg' = 'svg', theme?: string) {
+  init(renderer: 'canvas' | 'svg' = 'svg', theme: string = 'dark') {
     this.chart = echarts.init(this.container, theme, {
       renderer
     })

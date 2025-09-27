@@ -116,15 +116,21 @@ export class ItemDetailsPanel {
 
   private render() {
     this.container.innerHTML = `
-      <div class="item-details-panel ${this.isVisible ? 'visible' : ''}">
+      <div class="item-details-panel ${this.isVisible ? 'visible' : ''}" 
+           role="dialog" 
+           aria-labelledby="item-title" 
+           aria-hidden="${!this.isVisible}">
         <div class="panel-header">
           <h3 id="item-title">Item Details</h3>
-          <button class="close-btn" id="close-panel">×</button>
+          <button class="close-btn" 
+                  id="close-panel" 
+                  aria-label="Close panel"
+                  title="Close panel">×</button>
         </div>
         <div class="panel-content">
           <div id="item-info">
             <div class="welcome-message">
-              <div class="mystic-icon">✦</div>
+              <div class="mystic-icon" aria-hidden="true">✦</div>
               <p>Select an item from the chart to explore its mysteries</p>
             </div>
           </div>
@@ -143,12 +149,33 @@ export class ItemDetailsPanel {
         // Call the close callback to update URL
         this.onCloseCallback?.()
       })
+
+      // Add keyboard support
+      closeBtn.addEventListener('keydown', (e) => {
+        const keyboardEvent = e as KeyboardEvent
+        if (keyboardEvent.key === 'Enter' || keyboardEvent.key === ' ') {
+          e.preventDefault()
+          this.hide()
+          this.onCloseCallback?.()
+        }
+      })
     }
+
+    // Add escape key support
+    document.addEventListener('keydown', (e) => {
+      const keyboardEvent = e as KeyboardEvent
+      if (keyboardEvent.key === 'Escape' && this.isVisible) {
+        this.hide()
+        this.onCloseCallback?.()
+      }
+    })
   }
 
   public show(itemName: string) {
     this.isVisible = true
-    this.container.querySelector('.item-details-panel')?.classList.add('visible')
+    const panel = this.container.querySelector('.item-details-panel')
+    panel?.classList.add('visible')
+    panel?.setAttribute('aria-hidden', 'false')
     
     const itemData = this.itemData.get(itemName)
     
@@ -212,7 +239,9 @@ export class ItemDetailsPanel {
 
   public showTheory(theoryData: TheoryData) {
     this.isVisible = true
-    this.container.querySelector('.item-details-panel')?.classList.add('visible')
+    const panel = this.container.querySelector('.item-details-panel')
+    panel?.classList.add('visible')
+    panel?.setAttribute('aria-hidden', 'false')
     
     // Update the title
     const titleElement = this.container.querySelector('#item-title')
@@ -270,7 +299,9 @@ export class ItemDetailsPanel {
 
   public showError(message: string) {
     this.isVisible = true
-    this.container.querySelector('.item-details-panel')?.classList.add('visible')
+    const panel = this.container.querySelector('.item-details-panel')
+    panel?.classList.add('visible')
+    panel?.setAttribute('aria-hidden', 'false')
     
     // Update the title
     const titleElement = this.container.querySelector('#item-title')
@@ -293,7 +324,9 @@ export class ItemDetailsPanel {
 
   public hide() {
     this.isVisible = false
-    this.container.querySelector('.item-details-panel')?.classList.remove('visible')
+    const panel = this.container.querySelector('.item-details-panel')
+    panel?.classList.remove('visible')
+    panel?.setAttribute('aria-hidden', 'true')
   }
 
   public isPanelVisible(): boolean {
