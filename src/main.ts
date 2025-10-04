@@ -5,10 +5,12 @@ import { SVGRenderer } from 'echarts/renderers'
 import { CanvasRenderer } from 'echarts/renderers'
 import { ChartExample } from '@/components/ChartExample'
 import { SearchBar } from '@/components/SearchBar'
+import { FormPopup } from '@/components/FormPopup'
 import { Router } from '@/utils/routing'
 
 // Import styles
 import './components/ItemDetailsPanel.scss'
+import './components/FormPopup.scss'
 
 // Register the required components
 echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
@@ -26,6 +28,17 @@ const itemDetailsPanel = chartExample.getItemDetailsPanel()
 
 // Initialize search bar
 new SearchBar('search-container', router)
+
+// Initialize form popup
+const formPopup = new FormPopup('form-popup')
+
+// Connect feedback button
+const feedbackButton = document.getElementById('feedback-button')
+if (feedbackButton) {
+  feedbackButton.addEventListener('click', () => {
+    formPopup.show()
+  })
+}
 
 // Set up close callback to navigate to home when panel is closed
 itemDetailsPanel.setCloseCallback(() => {

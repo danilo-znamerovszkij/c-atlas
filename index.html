@@ -18,21 +18,29 @@
       <!-- Navigation for testing -->
       <div class="nav-buttons">
         <div id="search-container"></div>
-        <button onclick="router.navigateToTheory('materialism', 'iit')">
-          Load IIT Theory
+        <button id="feedback-button" class="feedback-btn">
+          <svg
+            width="16"
+            height="16"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+          >
+            <path
+              d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"
+            />
+          </svg>
+          Feedback
         </button>
-        <button onclick="router.navigateToTheory('materialism', 'materialism')">
-          Load Materialism Theory
-        </button>
-        <button onclick="router.navigateToTheory('electromagnetic', 'zhang')">
-          Load Zhang Theory
-        </button>
-        <button onclick="router.goHome()">Home</button>
       </div>
     </div>
 
     <!-- Item Details Panel -->
     <div id="item-details"></div>
+
+    <!-- Form Popup -->
+    <div id="form-popup"></div>
 
     <style>
       * {
@@ -103,6 +111,42 @@
       .search-container {
         position: relative;
         min-width: 320px;
+      }
+
+      .feedback-btn {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        background: rgba(59, 130, 246, 0.1);
+        border: 1px solid rgba(59, 130, 246, 0.2);
+        color: #3b82f6;
+        padding: 10px 16px;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 13px;
+        font-weight: 500;
+        transition: all 0.2s ease;
+        backdrop-filter: blur(10px);
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        white-space: nowrap;
+
+        &:hover {
+          background: rgba(59, 130, 246, 0.15);
+          border-color: rgba(59, 130, 246, 0.3);
+          transform: translateY(-1px);
+          box-shadow: 0 4px 12px rgba(59, 130, 246, 0.2);
+        }
+
+        &:focus {
+          outline: 2px solid rgba(59, 130, 246, 0.5);
+          outline-offset: 2px;
+        }
+
+        svg {
+          width: 16px;
+          height: 16px;
+          flex-shrink: 0;
+        }
       }
 
       #theory-search {

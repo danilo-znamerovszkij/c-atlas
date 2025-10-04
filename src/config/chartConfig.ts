@@ -468,7 +468,7 @@ export const getChartOptions = (): EChartsOption => {
   return {
     backgroundColor: 'transparent',
     title: {
-      text: 'C-Atlas Chart',
+      // text: 'C-Atlas Chart',
       left: 'center',
       textStyle: {
         color: '#fff'
