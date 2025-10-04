@@ -2,8 +2,8 @@ import { mockApiSubmit, isApiAvailable } from '@/utils/apiMock'
 
 export class FormPopup {
   private container: HTMLElement
-  private overlay: HTMLElement
-  private form: HTMLFormElement
+  private overlay!: HTMLElement
+  private form!: HTMLFormElement
   private isVisible: boolean = false
 
   constructor(containerId: string) {
