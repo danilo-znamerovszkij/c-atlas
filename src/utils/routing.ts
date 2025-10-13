@@ -4,7 +4,7 @@ import { generateSlug } from './slugUtils'
 
 async function loadTheoryByName(theoryName: string): Promise<TheoryData> {
   const fileName = `${theoryName}.json`
-  const filePath = `/src/data/${fileName}`
+  const filePath = `/data/${fileName}`
   
   try {
     const response = await fetch(filePath)

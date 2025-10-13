@@ -81,7 +81,7 @@ export class TheoryChart {
           // Check if this is a theory with JSON data by trying to load it
           const theoryName = params.data.name
           const fileName = `${theoryName}.json`
-          const filePath = `/src/data/${fileName}`
+          const filePath = `/data/${fileName}`
           
           // Try to fetch the theory data directly
           fetch(filePath)

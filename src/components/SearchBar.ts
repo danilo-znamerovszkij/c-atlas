@@ -35,7 +35,7 @@ export class SearchBar {
 
   private async loadAndNavigateToTheory(theoryName: string) {
     const fileName = `${theoryName}.json`
-    const filePath = `/src/data/${fileName}`
+    const filePath = `/data/${fileName}`
     
     try {
       const response = await fetch(filePath)
