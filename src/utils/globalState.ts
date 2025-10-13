@@ -21,7 +21,7 @@ class GlobalState {
     for (const mainCategory of baseData) {
       if (mainCategory.children) {
         for (const subcategory of mainCategory.children) {
-          if (subcategory.children) {
+          if ('children' in subcategory && subcategory.children) {
             for (const theory of subcategory.children) {
               this.theoryMappings.set(theory.name, {
                 name: theory.name,
