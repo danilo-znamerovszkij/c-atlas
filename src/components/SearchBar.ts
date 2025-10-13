@@ -1,9 +1,12 @@
+import { generateSlug } from '../utils/slugUtils'
+import globalState from '../utils/globalState'
+
 export class SearchBar {
   private container: HTMLElement
   private input!: HTMLInputElement
   private dropdown!: HTMLElement
   private router: any
-  private allTheories: Array<{category: string, theory: string, title: string}> = []
+  private allTheories: Array<{name: string, title: string}> = []
 
   constructor(containerId: string, router: any) {
     const element = document.getElementById(containerId)
@@ -12,25 +15,62 @@ export class SearchBar {
     }
     this.container = element
     this.router = router
-    this.allTheories = router.getAllTheories()
+    this.loadTheories()
     this.render()
     this.attachEventListeners()
+  }
+
+  private async loadTheories() {
+    try {
+      const { theoryFullNames } = await import('../data/theoryNames')
+      this.allTheories = Object.entries(theoryFullNames).map(([name, title]) => ({
+        name,
+        title
+      }))
+    } catch (error) {
+      console.error('Failed to load theory names:', error)
+      this.allTheories = []
+    }
+  }
+
+  private async loadAndNavigateToTheory(theoryName: string) {
+    const fileName = `${theoryName}.json`
+    const filePath = `/src/data/${fileName}`
+    
+    try {
+      const response = await fetch(filePath)
+      if (response.ok) {
+        const slug = generateSlug(theoryName)
+        const category = globalState.getTheoryCategory(theoryName) || 'neurobiological'
+        this.router.navigateToTheory(category, slug)
+      } else {
+        console.warn(`Theory ${theoryName} not found`)
+      }
+    } catch (error) {
+      console.error(`Error loading theory ${theoryName}:`, error)
+    }
   }
 
   private render() {
     this.container.innerHTML = `
       <div class="search-container">
-        <input 
-          type="text" 
-          id="theory-search" 
-          placeholder="Search theories..." 
-          autocomplete="off"
-          aria-label="Search theories"
-          aria-describedby="search-dropdown"
-          role="combobox"
-          aria-expanded="false"
-          aria-haspopup="listbox"
-        />
+        <div class="search-input-wrapper">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8"></circle>
+            <path d="m21 21-4.35-4.35"></path>
+          </svg>
+          <input 
+            type="text" 
+            id="theory-search" 
+            placeholder="Search theories..." 
+            autocomplete="off"
+            aria-label="Search theories"
+            aria-describedby="search-dropdown"
+            role="combobox"
+            aria-expanded="false"
+            aria-haspopup="listbox"
+          />
+        </div>
         <div class="search-dropdown" 
              id="search-dropdown" 
              role="listbox" 
@@ -87,14 +127,13 @@ export class SearchBar {
 
     const filteredTheories = this.allTheories.filter(theory => 
       theory.title.toLowerCase().includes(query) ||
-      theory.category.toLowerCase().includes(query) ||
-      theory.theory.toLowerCase().includes(query)
+      theory.name.toLowerCase().includes(query)
     )
 
     this.showDropdown(filteredTheories)
   }
 
-  private showDropdown(theories?: Array<{category: string, theory: string, title: string}>) {
+  private showDropdown(theories?: Array<{name: string, title: string}>) {
     const theoriesToShow = theories || this.allTheories
     
     if (theoriesToShow.length === 0) {
@@ -106,13 +145,12 @@ export class SearchBar {
       .slice(0, 8) // Limit to 8 results
       .map((theory) => `
         <div class="search-item" 
-             data-category="${theory.category}" 
-             data-theory="${theory.theory}"
+             data-theory="${theory.name}"
              role="option"
              tabindex="0"
              aria-selected="false">
           <div class="search-item-title">${theory.title}</div>
-          <div class="search-item-category">${theory.category}</div>
+          <div class="search-item-name">${theory.name}</div>
         </div>
       `).join('')
 
@@ -122,10 +160,10 @@ export class SearchBar {
     // Add click handlers to dropdown items
     this.dropdown.querySelectorAll('.search-item').forEach((item, index) => {
       item.addEventListener('click', () => {
-        const category = item.getAttribute('data-category')
-        const theory = item.getAttribute('data-theory')
-        if (category && theory) {
-          this.router.navigateToTheory(category, theory)
+        const theoryName = item.getAttribute('data-theory')
+        if (theoryName) {
+          // Try to load the theory directly and let the router handle category detection
+          this.loadAndNavigateToTheory(theoryName)
           this.input.value = ''
           this.hideDropdown()
         }
@@ -136,10 +174,9 @@ export class SearchBar {
         const keyboardEvent = e as KeyboardEvent
         if (keyboardEvent.key === 'Enter' || keyboardEvent.key === ' ') {
           e.preventDefault()
-          const category = item.getAttribute('data-category')
-          const theory = item.getAttribute('data-theory')
-          if (category && theory) {
-            this.router.navigateToTheory(category, theory)
+          const theoryName = item.getAttribute('data-theory')
+          if (theoryName) {
+            this.loadAndNavigateToTheory(theoryName)
             this.input.value = ''
             this.hideDropdown()
           }
@@ -175,4 +212,5 @@ export class SearchBar {
       firstItem.focus()
     }
   }
+
 }

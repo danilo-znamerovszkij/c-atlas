@@ -1,8 +1,11 @@
+// Import shared mixins
+@use "../styles/mixins" as *;
+
 .item-details-panel {
   position: fixed;
   top: 0;
-  right: -400px;
-  width: 400px;
+  right: -425px;
+  width: 425px;
   height: 100vh;
   background: rgba(15, 23, 42, 0.95);
   backdrop-filter: blur(20px);
@@ -13,6 +16,7 @@
   z-index: 1000;
   overflow-y: auto;
   transform: translateX(0);
+  @include outfit-font;
 
   &::before {
     content: "";
@@ -235,6 +239,15 @@
             font-weight: 500;
             text-transform: uppercase;
             letter-spacing: 0.05em;
+            margin-bottom: 8px;
+          }
+
+          .theory-tagline {
+            color: #3b82f6;
+            font-size: 16px;
+            font-weight: 500;
+            font-style: italic;
+            margin-bottom: 16px;
           }
         }
 
@@ -295,6 +308,132 @@
           }
         }
 
+        .thinkers-section {
+          margin-bottom: 24px;
+
+          h3 {
+            margin: 0 0 12px 0;
+            color: #3b82f6;
+            font-size: 16px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            border-bottom: 1px solid rgba(59, 130, 246, 0.2);
+            padding-bottom: 8px;
+          }
+
+          .thinkers-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+
+            .thinker-tag {
+              background: rgba(59, 130, 246, 0.1);
+              border: 1px solid rgba(59, 130, 246, 0.2);
+              color: #3b82f6;
+              padding: 6px 12px;
+              border-radius: 6px;
+              font-size: 12px;
+              font-weight: 500;
+              transition: all 0.2s ease;
+              backdrop-filter: blur(10px);
+
+              &:hover {
+                background: rgba(59, 130, 246, 0.15);
+                border-color: rgba(59, 130, 246, 0.3);
+                transform: translateY(-1px);
+                box-shadow: 0 2px 8px rgba(59, 130, 246, 0.2);
+              }
+            }
+          }
+        }
+
+        .classification-tags {
+          margin-bottom: 24px;
+
+          h3 {
+            margin: 0 0 12px 0;
+            color: #3b82f6;
+            font-size: 16px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            border-bottom: 1px solid rgba(59, 130, 246, 0.2);
+            padding-bottom: 8px;
+          }
+
+          .tags-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+
+            .tag {
+              background: rgba(16, 185, 129, 0.1);
+              border: 1px solid rgba(16, 185, 129, 0.2);
+              color: #10b981;
+              padding: 6px 12px;
+              border-radius: 6px;
+              font-size: 12px;
+              font-weight: 500;
+              transition: all 0.2s ease;
+              backdrop-filter: blur(10px);
+
+              &:hover {
+                background: rgba(16, 185, 129, 0.15);
+                border-color: rgba(16, 185, 129, 0.3);
+                transform: translateY(-1px);
+                box-shadow: 0 2px 8px rgba(16, 185, 129, 0.2);
+              }
+            }
+          }
+        }
+
+        .theory-section {
+          margin-bottom: 32px;
+          background: rgba(59, 130, 246, 0.05);
+          border-radius: 8px;
+          padding: 20px;
+          border-left: 4px solid rgba(59, 130, 246, 0.3);
+
+          h2 {
+            margin: 0 0 20px 0;
+            color: #3b82f6;
+            font-size: 18px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            border-bottom: 1px solid rgba(59, 130, 246, 0.2);
+            padding-bottom: 8px;
+          }
+
+          .section-content {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+          }
+
+          .field {
+            margin-bottom: 16px;
+
+            .field-label {
+              font-weight: 600;
+              color: #3b82f6;
+              margin-bottom: 8px;
+              font-size: 14px;
+              text-transform: uppercase;
+              letter-spacing: 0.05em;
+            }
+
+            .field-value {
+              color: #e2e8f0;
+              margin-bottom: 8px;
+              padding-left: 8px;
+              line-height: 1.6;
+              font-size: 14px;
+            }
+          }
+        }
+
         .theory-components {
           h3 {
             margin: 0 0 16px 0;
@@ -325,6 +464,70 @@
               line-height: 1.7;
               font-size: 14px;
               font-weight: 400;
+            }
+          }
+        }
+
+        // New styles for MTTS v5.0 sections
+        .implication-item {
+          margin-bottom: 20px;
+          padding: 16px;
+          background: rgba(59, 130, 246, 0.05);
+          border-left: 3px solid rgba(59, 130, 246, 0.3);
+          border-radius: 0 8px 8px 0;
+
+          .implication-question {
+            font-size: 14px;
+            font-weight: 600;
+            color: #3b82f6;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 8px;
+          }
+
+          .implication-stance {
+            font-size: 16px;
+            font-weight: 700;
+            color: #f1f5f9;
+            margin-bottom: 8px;
+          }
+
+          .implication-rationale {
+            font-size: 14px;
+            color: #cbd5e1;
+            line-height: 1.6;
+          }
+        }
+
+        // Array list styling
+        .array-list {
+          margin: 0.5rem 0;
+          padding-left: 1.5rem;
+
+          li {
+            margin-bottom: 0.5rem;
+            color: #cbd5e1;
+            line-height: 1.6;
+            font-size: 14px;
+
+            strong {
+              color: #f1f5f9;
+              font-weight: 600;
+            }
+          }
+        }
+
+        // Additional styles for theory sections
+        .theory-content {
+          .field {
+            .field-label {
+              display: block;
+              margin-bottom: 8px;
+            }
+
+            .field-value {
+              display: block;
+              margin-bottom: 16px;
             }
           }
         }
@@ -395,8 +598,8 @@
 // Responsive adjustments
 @media (max-width: 1024px) {
   .item-details-panel {
-    width: 380px;
-    right: -380px;
+    width: 405px;
+    right: -405px;
   }
 }
 
@@ -452,5 +655,414 @@
         }
       }
     }
+  }
+}
+
+// Scholarly Panel Styles
+.scholarly-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 32px;
+  max-width: 100%;
+  background: $primary-bg;
+  color: $primary-text;
+}
+
+// Breadcrumb
+.breadcrumb {
+  @include outfit-font;
+  font-size: 12px;
+  font-weight: 400;
+  color: $accent-gold;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+
+  &-separator {
+    margin: 0 8px;
+    color: #666;
+  }
+}
+
+// Headline
+.headline {
+  @include bodoni-font;
+  font-size: 42px;
+  line-height: 1.1;
+  font-weight: normal;
+  letter-spacing: 1px;
+  color: $accent-gold-light;
+  margin: 0 0 16px 0;
+}
+
+// Thinker Line
+.thinker-line {
+  @include outfit-font;
+  font-size: 14px;
+  font-weight: 400;
+  color: $text-muted;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 24px;
+
+  .thinker-name {
+    font-weight: 500;
+    color: $primary-text;
+  }
+
+  .thinker-role {
+    color: $text-secondary;
+    font-style: italic;
+  }
+}
+
+// Quote Block
+.summary-quote {
+  @include outfit-font;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #e0e0e0;
+  border-left: 3px solid $accent-gold;
+  padding: 20px;
+  margin: 0 0 24px 0;
+  font-style: italic;
+  background: rgba(234, 189, 97, 0.05);
+  border-radius: 0 8px 8px 0;
+}
+
+// Shields Section
+.shields-section {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin: 24px 0;
+}
+
+.shield {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid $border-color;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+
+  &:hover {
+    background: rgba(234, 189, 97, 0.1);
+    border-color: rgba(234, 189, 97, 0.4);
+    transform: translateY(-2px);
+  }
+
+  &[data-tooltip]:hover::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    bottom: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.9);
+    color: $primary-text;
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-size: 12px;
+    white-space: nowrap;
+    z-index: 1000;
+    border: 1px solid rgba(234, 189, 97, 0.3);
+  }
+
+  &-icon {
+    font-size: 24px;
+    margin-bottom: 8px;
+  }
+
+  &-label {
+    @include outfit-font;
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: capitalize;
+    color: $accent-gold;
+    text-align: center;
+  }
+}
+
+// Callout Element - CORE ONTOLOGY Style
+.callout {
+  border: 1px solid $accent-gold;
+  border-radius: 8px;
+  padding: 20px;
+  background: rgba(234, 189, 97, 0.05);
+  margin: 24px 0;
+
+  &-title {
+    @include outfit-font;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: $accent-gold;
+    margin-bottom: 16px;
+    letter-spacing: 0.5px;
+  }
+
+  &-table {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+}
+
+.table-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 0;
+  border-bottom: 1px solid rgba(234, 189, 97, 0.2);
+  position: relative;
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  &:nth-child(1)::after {
+    content: "🧠";
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+    color: $accent-gold-light;
+  }
+
+  &:nth-child(2)::after {
+    content: "🌳";
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+    color: $accent-gold-light;
+  }
+}
+
+.table-cell {
+  &:first-child {
+    @include outfit-font;
+    font-size: 14px;
+    font-weight: 400;
+    color: $text-muted;
+    flex: 1;
+  }
+
+  &:last-child {
+    @include outfit-font;
+    color: $primary-text;
+    font-weight: 400;
+    font-size: 14px;
+    flex: 2;
+    text-align: right;
+  }
+}
+
+// Relations Block - CRITIQUE & RELATED THEORIES Style
+.relations-block {
+  margin: 24px 0;
+
+  .relations-title {
+    @include outfit-font;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: $accent-gold;
+    margin-bottom: 16px;
+    letter-spacing: 0.5px;
+  }
+
+  .relations-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+}
+
+.relation-item {
+  @include outfit-font;
+  font-size: 14px;
+  color: $text-muted;
+  padding: 4px 0 4px 16px;
+  list-style: none;
+  position: relative;
+
+  &::before {
+    content: "•";
+    color: $accent-gold;
+    position: absolute;
+    left: 0;
+    font-size: 16px;
+  }
+
+  .relation-type {
+    @include outfit-font;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: capitalize;
+    color: $text-secondary;
+  }
+
+  .relation-name {
+    @include outfit-font;
+    color: $primary-text;
+    font-weight: 400;
+  }
+}
+
+// FAQ Section - IMPLICATIONS Style
+.faq-section {
+  margin: 24px 0;
+
+  .faq-item {
+    margin-bottom: 16px;
+
+    .faq-question {
+      @include outfit-font;
+      font-size: 14px;
+      font-weight: 500;
+      text-transform: uppercase;
+      color: $accent-gold;
+      margin-bottom: 12px;
+      letter-spacing: 0.5px;
+      background: none;
+      border: none;
+      padding: 0;
+      cursor: default;
+      display: block;
+      width: 100%;
+      text-align: left;
+
+      &:hover {
+        background: none;
+      }
+    }
+
+    .faq-icon {
+      display: none;
+    }
+
+    &.active .faq-icon {
+      transform: none;
+    }
+
+    .faq-answer {
+      max-height: none;
+      overflow: visible;
+      background: none;
+
+      p {
+        @include outfit-font;
+        padding: 0;
+        margin: 0 0 16px 0;
+        color: $text-muted;
+        line-height: 1.6;
+        font-size: 14px;
+      }
+    }
+  }
+}
+
+// References
+.references {
+  margin-top: 32px;
+  padding-top: 24px;
+  border-top: 1px solid rgba(234, 189, 97, 0.2);
+
+  &-title {
+    @include outfit-font;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: capitalize;
+    color: $accent-gold;
+    margin-bottom: 12px;
+  }
+
+  &-list {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  &-item {
+    @include outfit-font;
+    font-size: 11px;
+    font-weight: 300;
+    padding: 4px 0;
+    color: $text-secondary;
+  }
+}
+
+// Bottom Action Buttons
+.action-buttons {
+  display: flex;
+  gap: 12px;
+  margin-top: 24px;
+  padding-top: 24px;
+  border-top: 1px solid rgba(234, 189, 97, 0.2);
+}
+
+.action-button {
+  @include outfit-font;
+  flex: 1;
+  padding: 12px 16px;
+  background: transparent;
+  border: 1px solid $accent-gold;
+  border-radius: 6px;
+  color: $primary-text;
+  font-size: 14px;
+  font-weight: 400;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-align: center;
+  position: relative;
+
+  &:hover {
+    background: rgba(234, 189, 97, 0.1);
+    border-color: $accent-gold-light;
+  }
+
+  .separator {
+    color: $accent-gold;
+    font-weight: bold;
+    margin: 0 4px;
+  }
+}
+
+// Responsive Design
+@media (max-width: 768px) {
+  .scholarly-panel {
+    padding: 20px;
+    gap: 20px;
+  }
+
+  .headline {
+    font-size: 32px;
+    line-height: 36px;
+  }
+
+  .shields-section {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+
+  .table-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+  }
+
+  .relation-item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
   }
 }

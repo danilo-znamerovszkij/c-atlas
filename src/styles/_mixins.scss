@@ -1,0 +1,17 @@
+// Global Variables
+$primary-bg: #1b1b1b;
+$primary-text: #fff;
+$accent-gold: #eabd61;
+$accent-gold-light: #fcd771;
+$text-muted: #ccc;
+$text-secondary: #999;
+$border-color: rgba(234, 189, 97, 0.2);
+
+// Global Mixins
+@mixin bodoni-font {
+  font-family: "Bodoni 72", "Apple System", "Helvetica Neue", Arial, serif;
+}
+
+@mixin outfit-font {
+  font-family: "Outfit", "Apple System", "Helvetica Neue", Arial, sans-serif;
+}

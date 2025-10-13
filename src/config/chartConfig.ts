@@ -1,4 +1,5 @@
 import type { EChartsOption } from 'echarts'
+import { getTheoryFullName } from '@/data/theoryNames'
 
 // Color palette - Mystic Depths & Illumination
 const mysticPalette = {
@@ -253,7 +254,7 @@ export const baseData = [
           { name: 'Lamme', value: 1 },
           { name: 'Higher-Order', value: 1 },
           { name: 'Lau', value: 1 },
-          { name: 'LeDoux', value: 1 },
+          { name: 'LeDoux Higher-Order', value: 1 },
           { name: 'Humphrey', value: 1 },
           { name: 'Metzinger', value: 1 },
           { name: 'Jackson', value: 1 },
@@ -262,15 +263,15 @@ export const baseData = [
           { name: 'Tye', value: 1 },
           { name: 'Thagard', value: 1 },
           { name: 'T. Clark', value: 1 },
-          { name: 'Deacon', value: 1 }
+          { name: 'Deacon Symbolic', value: 1 }
         ]
       },
       {
         name: 'Language',
         children: [
           { name: 'Chomsky', value: 1 },
-          { name: 'Searle', value: 1 },
-          { name: 'Koch', value: 1 },
+          { name: 'Searle Language', value: 1 },
+          { name: 'Koch Language', value: 1 },
           { name: 'Smith', value: 1 },
           { name: 'Jaynes', value: 1 },
           { name: 'Parrington', value: 1 }
@@ -279,8 +280,8 @@ export const baseData = [
       {
         name: 'Phylogenetic',
         children: [
-          { name: 'Dennett', value: 1 },
-          { name: 'LeDoux', value: 1 },
+          { name: 'Dennett Evolution', value: 1 },
+          { name: 'LeDoux Deep Roots', value: 1 },
           { name: 'Ginsburg-Jablonka', value: 1 },
           { name: 'Cleeremans', value: 1 },
           { name: 'Andrews', value: 1 },
@@ -298,9 +299,9 @@ export const baseData = [
       { name: 'Ellis', value: 1 },
       { name: 'Murphy', value: 1 },
       { name: 'van Inwagen', value: 1 },
-      { name: 'Nagasawa', value: 1 },
+      { name: 'Nagasawa Nontheoretical', value: 1 },
       { name: 'Sanfey', value: 1 },
-      { name: 'Northoff', value: 1 }
+      { name: 'Northoff Non-Reductive', value: 1 }
     ]
   },
   {
@@ -328,7 +329,7 @@ export const baseData = [
     name: 'Integrated Info',
     children: [
       { name: 'Critiques', value: 1 },
-      { name: 'Koch', value: 1 }
+      { name: 'Koch IIT', value: 1 }
     ],
   },
   {
@@ -354,7 +355,7 @@ export const baseData = [
       { name: 'Russellian', value: 1 },
       { name: 'Davidson', value: 1 },
       { name: 'Velmans', value: 1 },
-      { name: 'Strawson', value: 1 },
+      { name: 'Strawson Realistic', value: 1 },
       { name: 'Polkinghorne', value: 1 },
       { name: 'Teilhard', value: 1 },
       { name: 'Atmanspacher', value: 1 },
@@ -393,7 +394,7 @@ export const baseData = [
   {
     name: 'Idealism',
     children: [
-      { name: 'Indian', value: 1 },
+      { name: 'Indian Cosmic', value: 1 },
       { name: 'Buddhism', value: 1 },
       { name: 'Dao', value: 1 },
       { name: 'Kastrup', value: 1 },
@@ -421,12 +422,12 @@ export const baseData = [
       { name: 'Wilber', value: 1 },
       { name: 'Combs', value: 1 },
       { name: 'Schooler', value: 1 },
-      { name: 'Sheldrake', value: 1 },
+      { name: 'Sheldrake Morphic', value: 1 },
       { name: 'Grinberg', value: 1 },
       { name: 'Graboi', value: 1 },
       { name: 'NDE', value: 1 },
       { name: 'DOPS', value: 1 },
-      { name: 'Bitbol', value: 1 },
+      { name: 'Bitbol Phenomenological', value: 1 },
       { name: 'Campbell', value: 1 },
       { name: 'Hiller', value: 1 },
       { name: 'Harp', value: 1 },
@@ -444,7 +445,7 @@ export const baseData = [
       { name: 'S. Harris', value: 1 },
       { name: 'Eagleman', value: 1 },
       { name: 'Tallis', value: 1 },
-      { name: 'Nagasawa', value: 1 },
+      { name: 'Nagasawa Mind-Body', value: 1 },
       { name: 'Musser', value: 1 },
       { name: 'Davies', value: 1 }
     ]
@@ -474,16 +475,25 @@ export const getChartOptions = (): EChartsOption => {
         color: '#fff'
       }
     },
-    // tooltip: {
-    //   trigger: 'item',
-    //   formatter: '{b}: {c}',
-    //   transitionDuration: 0,
-    //   backgroundColor: 'rgba(0, 0, 0, 0.8)',
-    //   borderColor: '#333',
-    //   textStyle: {
-    //     color: '#fff'
-    //   }
-    // },
+    tooltip: {
+      show: true,
+      formatter: function (params: any) {
+        // Don't show tooltip if no parent or if parent is Materialism
+        if (!params.data || params.data.parent === undefined || params.data.parent === 'Materialism') {
+          return ''
+        }
+        const fullName = getTheoryFullName(params.data.name)
+        return fullName
+      },
+      backgroundColor: 'rgba(0, 0, 0, 0.8)',
+      borderColor: '#FCD771',
+      borderWidth: 1,
+      textStyle: {
+        color: '#fff',
+        fontSize: 16
+      },
+      padding: [8, 12]
+    },
     animation: false,
     series: [
       {
@@ -493,7 +503,24 @@ export const getChartOptions = (): EChartsOption => {
         startAngle: 83.5,
         label: {
           rotate: 'radial',
-          show: true
+          show: true,
+          // fontSize: 18,
+          formatter: function (params: any) {
+            // console.log(params.data.parent)
+            // Make Materialism and Monism titles bigger
+            if (params.data.parent === undefined) {
+              return `{title|${params.name}}`
+            }
+            return params.name
+          },
+          rich: {
+            // fontSize: 18,
+            title: {
+              fontSize: 14,
+              // fontWeight: 'bold',
+              // color: '#FCD771'
+            }
+          }
         },
         itemStyle: {
           borderRadius: 3,
@@ -530,7 +557,7 @@ export const getChartOptions = (): EChartsOption => {
           },
           {
             r0: '60%',
-            r: '65%',
+            r: '67%',
             itemStyle: {
               borderWidth: 1
             }

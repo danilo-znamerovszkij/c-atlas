@@ -1,5 +1,9 @@
 import type { EChartsOption } from 'echarts'
 import * as echarts from 'echarts/core'
+import { TooltipComponent } from 'echarts/components'
+
+// Register the tooltip component
+echarts.use([TooltipComponent])
 
 export class ChartContainer {
   private chart: echarts.ECharts | null = null

@@ -1,43 +1,20 @@
-// Lazy loading - no imports at startup
+import type { TheoryData } from '../types/theory'
+import { generateSlug } from './slugUtils'
 
-// Define the interface locally to avoid import issues
-interface TheoryData {
-  theoryTitle: string
-  category: string
-  summary: string
-  overview: {
-    purpose: string
-    focus: string
-    approach: string
-  }
-  components: {
-    ontologicalStatus: string
-    explanatoryIdentity: string
-    functionAndEvolution: {
-      function: string
-      evolution: string
+
+async function loadTheoryByName(theoryName: string): Promise<TheoryData> {
+  const fileName = `${theoryName}.json`
+  const filePath = `/src/data/${fileName}`
+  
+  try {
+    const response = await fetch(filePath)
+    if (!response.ok) {
+      throw new Error(`Failed to load theory data: ${response.statusText}`)
     }
-    causation: string
-    location: string
-    arguments: Array<{
-      id: string
-      description: string
-      tags: string[]
-      clarity_rationality: string
-      philosophical_tensions: string[]
-    }>
-  }
-  bigQuestions: {
-    ultimateMeaning: string
-    aiConsciousness: string
-    virtualImmortality: string
-    survivalBeyondDeath: string
-  }
-  philosophicalFocus: {
-    mindBodyProblem: string
-    consciousnessNature: string
-    primitiveVsEmergent: string
-    reductionism: string
+    const theoryData = await response.json() as TheoryData
+    return theoryData
+  } catch (error) {
+    throw new Error(`Failed to load theory data: ${error}`)
   }
 }
 
@@ -83,7 +60,6 @@ export class Router {
       } catch (error) {
         console.error('Failed to load theory:', error)
         this.currentTheory = null
-        // Pass error to callback for display
         this.onTheoryChange?.(null, error instanceof Error ? error.message : 'Unknown error')
       }
     } else {
@@ -93,34 +69,12 @@ export class Router {
   }
 
   private async loadTheory(category: string, theory: string): Promise<TheoryData> {
-    // Map URL segments to file paths for lazy loading
-    const theoryMap: Record<string, Record<string, string>> = {
-      'materialism': {
-        'iit': '/src/data/IIT.json',
-        'materialism': '/src/data/Materialism.json'
-      },
-      'electromagnetic': {
-        'zhang': '/src/data/Zhang.json'
-      }
-    }
-
-    const filePath = theoryMap[category]?.[theory]
-    if (!filePath) {
-      throw new Error(`Theory not found: ${category}/${theory}`)
-    }
-
-    try {
-      // Dynamically fetch the JSON file
-      const response = await fetch(filePath)
-      if (!response.ok) {
-        throw new Error(`Failed to load theory data: ${response.statusText}`)
-      }
-      const theoryData = await response.json() as TheoryData
-      return theoryData
-    } catch (error) {
-      console.error(`Error loading theory ${category}/${theory}:`, error)
-      throw new Error(`Failed to load theory data: ${error}`)
-    }
+    const theoryName = theory.replace(/-/g, ' ')
+      .split(' ')
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+      .join(' ')
+    
+    return await loadTheoryByName(theoryName)
   }
 
   public navigateToTheory(category: string, theory: string) {
@@ -138,11 +92,7 @@ export class Router {
     this.parseCurrentURL()
   }
 
-  public getAllTheories(): Array<{category: string, theory: string, title: string}> {
-    return [
-      { category: 'materialism', theory: 'iit', title: 'Integrated Information Theory (IIT)' },
-      { category: 'materialism', theory: 'materialism', title: 'Materialism' },
-      { category: 'electromagnetic', theory: 'zhang', title: 'Zhang\'s Long-Distance Light-Speed Telecommunications' }
-    ]
+  public async getAllTheories(): Promise<Array<{category: string, theory: string, title: string}>> {
+    return []
   }
 }

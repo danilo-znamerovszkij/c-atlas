@@ -3,25 +3,31 @@ import { TitleComponent } from 'echarts/components'
 import { SunburstChart } from 'echarts/charts'
 import { SVGRenderer } from 'echarts/renderers'
 import { CanvasRenderer } from 'echarts/renderers'
-import { ChartExample } from '@/components/ChartExample'
+import { TheoryChart } from '@/components/ChartExample'
 import { SearchBar } from '@/components/SearchBar'
 import { FormPopup } from '@/components/FormPopup'
 import { Router } from '@/utils/routing'
+import globalState from '@/utils/globalState'
 
 // Import styles
+import './styles/main.scss'
 import './components/ItemDetailsPanel.scss'
 import './components/FormPopup.scss'
 
 // Register the required components
 echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
 
-// Initialize the chart using the component
-const chartExample = new ChartExample('main')
-chartExample.initialize()
+// Initialize global state first
+globalState.initialize()
 
 // Initialize routing
 const router = Router.getInstance()
-const itemDetailsPanel = chartExample.getItemDetailsPanel()
+
+// Initialize the chart using the component with router
+const theoryChart = new TheoryChart('main', router)
+theoryChart.initialize()
+
+const itemDetailsPanel = theoryChart.getItemDetailsPanel()
 
 // Make router globally accessible for navigation buttons
 ;(window as any).router = router
@@ -37,6 +43,16 @@ const feedbackButton = document.getElementById('feedback-button')
 if (feedbackButton) {
   feedbackButton.addEventListener('click', () => {
     formPopup.show()
+  })
+}
+
+// Connect logo click to navigate home
+const logoContainer = document.querySelector('.logo-container')
+if (logoContainer) {
+  logoContainer.addEventListener('click', () => {
+    if ((window as any).router) {
+      (window as any).router.goHome()
+    }
   })
 }
 

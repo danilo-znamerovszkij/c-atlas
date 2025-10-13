@@ -1,0 +1,359 @@
+// Import shared mixins
+@use "mixins" as *;
+
+// Base styles
+* {
+  margin: 0;
+  padding: 0;
+  @include outfit-font;
+  font-weight: 400;
+  background: $primary-bg;
+  overflow: hidden;
+}
+
+// Layout
+.app-container {
+  display: flex;
+  height: 100vh;
+  background: $primary-bg;
+}
+
+.chart-container {
+  flex: 1;
+  position: relative;
+  width: 100%;
+  background: $primary-bg;
+}
+
+#main {
+  width: 100%;
+  height: 100%;
+  background: transparent;
+}
+
+// Logo
+.logo-container {
+  position: fixed;
+  top: 24px;
+  left: 24px;
+  z-index: 1000;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  overflow: visible;
+
+  .logo {
+    transition: all 0.3s ease;
+    height: 40px;
+
+    &:hover {
+      transform: scale(1.02);
+    }
+
+    &:active {
+      transform: scale(0.98);
+    }
+  }
+}
+
+// Search section
+.search-section {
+  position: fixed;
+  top: 100px;
+  left: 20px;
+  z-index: 1001;
+  width: 320px;
+}
+
+// GitHub link
+.github-link {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+
+  &:hover {
+    transform: scale(1.05);
+  }
+
+  svg {
+    width: 30px;
+    height: 30px;
+    transition: all 0.2s ease;
+  }
+
+  &:hover svg {
+    transform: scale(1.05);
+  }
+}
+
+// Navigation buttons
+.nav-buttons {
+  button {
+    background: rgba(59, 130, 246, 0.1);
+    border: 1px solid rgba(59, 130, 246, 0.2);
+    color: #3b82f6;
+    padding: 10px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+
+    &:hover {
+      background: rgba(59, 130, 246, 0.15);
+      border-color: rgba(59, 130, 246, 0.3);
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(59, 130, 246, 0.2);
+    }
+
+    &:focus {
+      outline: 2px solid rgba(59, 130, 246, 0.5);
+      outline-offset: 2px;
+    }
+  }
+}
+
+// Search container
+.search-container {
+  position: relative;
+  width: 100%;
+
+  .search-input-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+}
+
+.search-icon {
+  position: absolute;
+  left: 12px;
+  z-index: 1;
+  color: $primary-text;
+  width: 16px;
+  height: 16px;
+  pointer-events: none;
+}
+
+// Feedback button
+.feedback-btn {
+  position: fixed;
+  bottom: 24px;
+  left: 24px;
+  z-index: 1001;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(198, 160, 50, 0.1);
+  border: 1px solid rgba(198, 160, 50, 0.5);
+  color: #c6a032;
+  padding: 10px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  backdrop-filter: blur(10px);
+  white-space: nowrap;
+
+  &:hover {
+    background: rgba(198, 160, 50, 0.15);
+    border-color: rgba(198, 160, 50, 0.7);
+    transform: translateY(-1px);
+  }
+
+  &:focus {
+    outline: 2px solid rgba(198, 160, 50, 0.5);
+    outline-offset: 2px;
+  }
+
+  svg {
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+  }
+}
+
+// Search input
+#theory-search {
+  width: 100%;
+  padding: 12px 16px 12px 40px;
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(198, 160, 50, 0.5);
+  border-radius: 4px;
+  color: $primary-text;
+  font-size: 14px;
+  font-weight: 400;
+  backdrop-filter: blur(10px);
+  transition: all 0.2s ease;
+
+  &::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  &:focus {
+    outline: none;
+    border-color: rgba(198, 160, 50, 0.7);
+    background: rgba(0, 0, 0, 0.3);
+  }
+}
+
+// Search dropdown
+.search-dropdown {
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: rgba(15, 23, 42, 0.95);
+  border: 1px solid rgba(59, 130, 246, 0.2);
+  border-radius: 8px;
+  margin-top: 4px;
+  max-height: 300px;
+  overflow-y: auto;
+  z-index: 1002;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: all 0.2s ease;
+  backdrop-filter: blur(20px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+
+  &.visible {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+}
+
+.search-item {
+  padding: 12px 16px;
+  cursor: pointer;
+  border-bottom: 1px solid rgba(59, 130, 246, 0.1);
+  transition: all 0.2s ease;
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  &:hover {
+    background: rgba(59, 130, 246, 0.1);
+  }
+
+  &-title {
+    color: #f1f5f9;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 4px;
+    line-height: 1.3;
+  }
+
+  &-category {
+    color: #64748b;
+    font-size: 12px;
+    text-transform: capitalize;
+    font-weight: 400;
+  }
+}
+
+// Responsive design
+@media (max-width: 768px) {
+  .app-container {
+    flex-direction: column;
+  }
+
+  .logo-container {
+    position: fixed;
+    top: 16px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000;
+
+    .logo {
+      width: 120px;
+      height: 19px;
+    }
+  }
+
+  .search-section {
+    position: fixed;
+    top: 50px;
+    left: 16px;
+    right: 16px;
+    width: auto;
+    z-index: 1001;
+  }
+
+  .github-link {
+    top: 16px;
+    right: 16px;
+    width: 36px;
+    height: 36px;
+
+    svg {
+      width: 26px;
+      height: 26px;
+    }
+  }
+
+  .feedback-btn {
+    position: fixed;
+    bottom: 16px;
+    left: 16px;
+    right: 16px;
+    width: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .logo-container {
+    top: 12px;
+
+    .logo {
+      width: 100px;
+      height: 16px;
+    }
+  }
+
+  .search-section {
+    top: 40px;
+    left: 12px;
+    right: 12px;
+  }
+
+  .feedback-btn {
+    bottom: 12px;
+    left: 12px;
+    right: 12px;
+    padding: 8px 12px;
+    font-size: 12px;
+  }
+
+  #theory-search {
+    padding: 10px 12px 10px 36px;
+    font-size: 13px;
+  }
+
+  .search-icon {
+    left: 10px;
+    width: 14px;
+    height: 14px;
+  }
+
+  .github-link {
+    top: 12px;
+    right: 12px;
+    width: 32px;
+    height: 32px;
+
+    svg {
+      width: 24px;
+      height: 24px;
+    }
+  }
+}
