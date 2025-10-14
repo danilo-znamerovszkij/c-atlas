@@ -61,6 +61,11 @@ itemDetailsPanel.setCloseCallback(() => {
   router.goHome()
 })
 
+// Set up loading callback to show loading state
+router.setLoadingCallback((category, theory) => {
+  itemDetailsPanel.showLoading(category, theory)
+})
+
 // Set up routing callback to show theory data when URL changes
 router.setTheoryChangeCallback((theory, error) => {
   if (theory) {

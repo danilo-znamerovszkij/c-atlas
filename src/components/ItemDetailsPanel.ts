@@ -649,6 +649,41 @@ export class ItemDetailsPanel {
     }
   }
 
+  public showLoading(category: string, theory: string) {
+    this.isVisible = true
+    const panel = this.container.querySelector('.item-details-panel')
+    panel?.classList.add('visible')
+    panel?.setAttribute('aria-hidden', 'false')
+    
+    // Convert theory slug to display name
+    const theoryName = theory.replace(/-/g, ' ')
+      .split(' ')
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+      .join(' ')
+    
+    // Convert category slug to display name
+    const categoryName = category.charAt(0).toUpperCase() + category.slice(1)
+    
+    // Update the title
+    const titleElement = this.container.querySelector('#item-title')
+    if (titleElement) {
+      titleElement.textContent = theoryName
+    }
+    
+    // Update the content with loading message and breadcrumb
+    const infoElement = this.container.querySelector('#item-info')
+    if (infoElement) {
+      infoElement.innerHTML = `
+        <div class="loading-content">
+          <div class="theory-breadcrumb">${categoryName} • ${theoryName}</div>
+          <div class="loading-spinner"></div>
+          <h3>Loading theory data...</h3>
+          <p>Please wait while we fetch the detailed information.</p>
+        </div>
+      `
+    }
+  }
+
   public hide() {
     this.isVisible = false
     const panel = this.container.querySelector('.item-details-panel')

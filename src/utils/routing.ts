@@ -1,8 +1,14 @@
 import type { TheoryData } from '../types/theory'
 import { generateSlug } from './slugUtils'
 
+// Simple cache for theory data
+const theoryCache = new Map<string, TheoryData>()
 
 async function loadTheoryByName(theoryName: string): Promise<TheoryData> {
+  // Check cache first
+  if (theoryCache.has(theoryName)) {
+    return theoryCache.get(theoryName)!
+  }
   const fileName = `${theoryName}.json`
   const filePath = `/data/${fileName}`
   
@@ -12,6 +18,8 @@ async function loadTheoryByName(theoryName: string): Promise<TheoryData> {
       throw new Error(`Failed to load theory data: ${response.statusText}`)
     }
     const theoryData = await response.json() as TheoryData
+    // Cache the result
+    theoryCache.set(theoryName, theoryData)
     return theoryData
   } catch (error) {
     throw new Error(`Failed to load theory data: ${error}`)
@@ -22,6 +30,7 @@ export class Router {
   private static instance: Router
   private currentTheory: TheoryData | null = null
   private onTheoryChange: ((theory: TheoryData | null, error?: string) => void) | null = null
+  private onLoading: ((category: string, theory: string) => void) | null = null
 
   private constructor() {
     this.setupPopstateListener()
@@ -39,6 +48,10 @@ export class Router {
     this.onTheoryChange = callback
   }
 
+  public setLoadingCallback(callback: (category: string, theory: string) => void) {
+    this.onLoading = callback
+  }
+
   private setupPopstateListener() {
     window.addEventListener('popstate', () => {
       this.parseCurrentURL()
@@ -52,6 +65,9 @@ export class Router {
     if (segments.length >= 2) {
       const category = segments[0]
       const theory = segments[1]
+      
+      // Show loading state with category and theory info
+      this.onLoading?.(category, theory)
       
       try {
         const theoryData = await this.loadTheory(category, theory)
