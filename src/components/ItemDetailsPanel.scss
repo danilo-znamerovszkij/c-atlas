@@ -4,14 +4,14 @@
 .item-details-panel {
   position: fixed;
   top: 0;
-  right: -425px;
-  width: 425px;
+  right: -550px;
+  width: 550px;
   height: 100vh;
-  background: rgba(15, 23, 42, 0.95);
+  background: #100f0a;
   backdrop-filter: blur(20px);
-  border-left: 1px solid rgba(148, 163, 184, 0.2);
-  box-shadow: -10px 0 30px rgba(0, 0, 0, 0.3),
-    inset 0 0 50px rgba(59, 130, 246, 0.05);
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: -10px 0 30px rgba(0, 0, 0, 0.5),
+    inset 0 0 50px rgba(255, 255, 255, 0.02);
   transition: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
   z-index: 1000;
   overflow-y: auto;
@@ -45,62 +45,45 @@
       inset 0 0 60px rgba(59, 130, 246, 0.08);
   }
 
-  .panel-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px 24px;
-    border-bottom: 1px solid rgba(148, 163, 184, 0.15);
-    background: rgba(59, 130, 246, 0.05);
-    position: relative;
-    z-index: 1;
-
-    h3 {
-      margin: 0;
-      color: #f1f5f9;
-      font-size: 18px;
-      font-weight: 600;
-      letter-spacing: -0.025em;
-      line-height: 1.2;
-    }
-
-    .close-btn {
-      background: rgba(148, 163, 184, 0.1);
-      border: 1px solid rgba(148, 163, 184, 0.2);
-      font-size: 20px;
-      color: #94a3b8;
-      cursor: pointer;
-      padding: 0;
-      width: 40px;
-      height: 40px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      border-radius: 8px;
-      transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-      backdrop-filter: blur(10px);
-      font-weight: 400;
-      line-height: 1;
-
-      &:hover {
-        background: rgba(239, 68, 68, 0.1);
-        border-color: rgba(239, 68, 68, 0.3);
-        color: #ef4444;
-        transform: scale(1.05);
-        box-shadow: 0 4px 12px rgba(239, 68, 68, 0.2);
-      }
-
-      &:focus {
-        outline: 2px solid rgba(59, 130, 246, 0.5);
-        outline-offset: 2px;
-      }
-    }
-  }
-
   .panel-content {
     padding: 24px;
     position: relative;
     z-index: 1;
+
+    .close-btn {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      background: rgba(0, 0, 0, 0.3);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      font-size: 18px;
+      color: #ffffff;
+      cursor: pointer;
+      padding: 0;
+      width: 32px;
+      height: 32px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      transition: all 0.2s ease;
+      backdrop-filter: blur(10px);
+      font-weight: 400;
+      line-height: 1;
+      z-index: 10;
+
+      &:hover {
+        background: rgba(0, 0, 0, 0.5);
+        color: #ffffff;
+        border-color: rgba(255, 255, 255, 0.4);
+        transform: scale(1.1);
+      }
+
+      &:focus {
+        outline: 2px solid rgba(255, 255, 255, 0.5);
+        outline-offset: 2px;
+      }
+    }
 
     #item-info {
       .welcome-message {
@@ -222,24 +205,33 @@
 
         .theory-header {
           margin-bottom: 28px;
-          text-align: center;
+          text-align: left;
+          position: relative;
 
           .theory-title {
             margin: 0 0 8px 0;
-            color: #f1f5f9;
-            font-size: 26px;
-            font-weight: 700;
-            line-height: 1.2;
-            letter-spacing: -0.025em;
+            color: #ffffff;
+            font-size: 28px;
+            font-weight: 400;
+            line-height: 1.3;
+            letter-spacing: -0.02em;
+            @include bodoni-font;
           }
 
           .theory-category {
-            color: #64748b;
+            color: #fcd771;
             font-size: 14px;
             font-weight: 500;
             text-transform: uppercase;
             letter-spacing: 0.05em;
             margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+
+            svg {
+              flex-shrink: 0;
+            }
           }
 
           .theory-tagline {
@@ -265,6 +257,7 @@
             font-size: 16px;
             font-style: italic;
             font-weight: 400;
+            background: transparent;
           }
         }
 
@@ -311,39 +304,21 @@
         .thinkers-section {
           margin-bottom: 24px;
 
-          h3 {
-            margin: 0 0 12px 0;
-            color: #3b82f6;
-            font-size: 16px;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-            border-bottom: 1px solid rgba(59, 130, 246, 0.2);
-            padding-bottom: 8px;
-          }
-
           .thinkers-list {
             display: flex;
             flex-wrap: wrap;
+            align-items: center;
             gap: 8px;
 
-            .thinker-tag {
-              background: rgba(59, 130, 246, 0.1);
-              border: 1px solid rgba(59, 130, 246, 0.2);
-              color: #3b82f6;
-              padding: 6px 12px;
-              border-radius: 6px;
-              font-size: 12px;
-              font-weight: 500;
-              transition: all 0.2s ease;
-              backdrop-filter: blur(10px);
+            svg {
+              flex-shrink: 0;
+              color: #f1f5f9;
+            }
 
-              &:hover {
-                background: rgba(59, 130, 246, 0.15);
-                border-color: rgba(59, 130, 246, 0.3);
-                transform: translateY(-1px);
-                box-shadow: 0 2px 8px rgba(59, 130, 246, 0.2);
-              }
+            .thinker-tag {
+              color: #f1f5f9;
+              font-size: 14px;
+              font-weight: 400;
             }
           }
         }
@@ -397,8 +372,8 @@
 
           h2 {
             margin: 0 0 20px 0;
-            color: #3b82f6;
-            font-size: 18px;
+            color: #fcd771;
+            font-size: 16px;
             font-weight: 600;
             text-transform: uppercase;
             letter-spacing: 0.05em;
@@ -417,17 +392,17 @@
 
             .field-label {
               font-weight: 600;
-              color: #3b82f6;
+              color: #fcd771;
               margin-bottom: 8px;
-              font-size: 14px;
+              font-size: 12px;
               text-transform: uppercase;
-              letter-spacing: 0.05em;
+              letter-spacing: 0.1em;
             }
 
             .field-value {
-              color: #e2e8f0;
+              color: #ffffff;
               margin-bottom: 8px;
-              padding-left: 8px;
+              padding-left: 0;
               line-height: 1.6;
               font-size: 14px;
             }
@@ -469,34 +444,122 @@
         }
 
         // New styles for MTTS v5.0 sections
-        .implication-item {
-          margin-bottom: 20px;
-          padding: 16px;
-          background: rgba(59, 130, 246, 0.05);
-          border-left: 3px solid rgba(59, 130, 246, 0.3);
-          border-radius: 0 8px 8px 0;
+        // Implications List Styles
+        .implications-list {
+          display: flex;
+          flex-direction: column;
+          gap: 16px;
+          margin: 16px 0;
+        }
 
-          .implication-question {
-            font-size: 14px;
-            font-weight: 600;
-            color: #3b82f6;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-            margin-bottom: 8px;
+        .implication-item {
+          background: rgba(59, 130, 246, 0.05);
+          border-left: 4px solid rgba(59, 130, 246, 0.4);
+          border-radius: 0 12px 12px 0;
+          padding: 20px;
+          transition: all 0.3s ease;
+
+          &:hover {
+            background: rgba(59, 130, 246, 0.08);
+            transform: translateX(4px);
+            box-shadow: 0 4px 12px rgba(59, 130, 246, 0.15);
+          }
+
+          .implication-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 12px;
+
+            .implication-icon {
+              font-size: 20px;
+              flex-shrink: 0;
+            }
+
+            .implication-question {
+              font-size: 16px;
+              font-weight: 700;
+              color: #3b82f6;
+              text-transform: uppercase;
+              letter-spacing: 0.05em;
+            }
           }
 
           .implication-stance {
-            font-size: 16px;
+            font-size: 18px;
             font-weight: 700;
-            color: #f1f5f9;
-            margin-bottom: 8px;
+            color: #10b981;
+            margin-bottom: 12px;
+            padding: 8px 12px;
+            background: rgba(16, 185, 129, 0.1);
+            border-radius: 6px;
+            border-left: 3px solid rgba(16, 185, 129, 0.3);
           }
 
           .implication-rationale {
             font-size: 14px;
             color: #cbd5e1;
             line-height: 1.6;
+            padding: 12px;
+            background: rgba(15, 23, 42, 0.3);
+            border-radius: 8px;
+            border: 1px solid rgba(148, 163, 184, 0.1);
           }
+        }
+
+        // Icon-based Lists
+        .claims-list,
+        .sources-list,
+        .related-theories-list {
+          display: flex;
+          flex-direction: column;
+          gap: 12px;
+        }
+
+        .claim-item,
+        .source-item,
+        .related-theory-item {
+          display: flex;
+          align-items: flex-start;
+          gap: 12px;
+          padding: 12px;
+          background: rgba(59, 130, 246, 0.05);
+          border-radius: 8px;
+          border-left: 3px solid rgba(59, 130, 246, 0.3);
+          transition: all 0.2s ease;
+
+          &:hover {
+            background: rgba(59, 130, 246, 0.08);
+            transform: translateX(2px);
+          }
+        }
+
+        .claim-icon,
+        .source-icon,
+        .theory-icon {
+          font-size: 16px;
+          flex-shrink: 0;
+          margin-top: 2px;
+        }
+
+        .claim-text,
+        .source-title,
+        .theory-name {
+          font-weight: 600;
+          color: #f1f5f9;
+          margin-bottom: 4px;
+        }
+
+        .source-year,
+        .theory-relationship {
+          font-size: 12px;
+          color: #94a3b8;
+          font-style: italic;
+        }
+
+        .source-content,
+        .theory-content {
+          flex: 1;
         }
 
         // Array list styling
@@ -638,49 +701,87 @@
   }
 }
 
-// Responsive adjustments
-@media (max-width: 1024px) {
-  .item-details-panel {
-    width: 405px;
-    right: -405px;
-  }
-}
-
 @media (max-width: 768px) {
   .item-details-panel {
     width: 100%;
     right: -100%;
-
-    .panel-header {
-      padding: 16px 20px;
-
-      h3 {
-        font-size: 18px;
-      }
-
-      .close-btn {
-        width: 36px;
-        height: 36px;
-        font-size: 18px;
-      }
-    }
+    z-index: 9999; /* Ensure panel appears above search field on mobile */
 
     .panel-content {
       padding: 20px;
+
+      .close-btn {
+        top: 16px;
+        right: 16px;
+        width: 28px;
+        height: 28px;
+        font-size: 16px;
+      }
+    }
+
+    // Mobile implications adjustments
+    .implications-list {
+      gap: 12px;
+      margin: 12px 0;
+    }
+
+    .implication-item {
+      padding: 16px;
+
+      .implication-header {
+        gap: 10px;
+        margin-bottom: 10px;
+
+        .implication-icon {
+          font-size: 18px;
+        }
+
+        .implication-question {
+          font-size: 14px;
+        }
+      }
+
+      .implication-stance {
+        font-size: 16px;
+        margin-bottom: 10px;
+        padding: 6px 10px;
+      }
+
+      .implication-rationale {
+        font-size: 13px;
+        padding: 10px;
+      }
+    }
+
+    // Mobile icon lists
+    .claim-item,
+    .source-item,
+    .related-theory-item {
+      padding: 10px;
+      gap: 10px;
+    }
+
+    .claim-icon,
+    .source-icon,
+    .theory-icon {
+      font-size: 14px;
+    }
+
+    .claim-text,
+    .source-title,
+    .theory-name {
+      font-size: 13px;
+    }
+
+    .source-year,
+    .theory-relationship {
+      font-size: 11px;
     }
   }
 }
 
 @media (max-width: 480px) {
   .item-details-panel {
-    .panel-header {
-      padding: 16px;
-
-      h3 {
-        font-size: 16px;
-      }
-    }
-
     .panel-content {
       padding: 16px;
 
@@ -762,17 +863,23 @@
 }
 
 // Quote Block
+blockquote {
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: none;
+  box-shadow: none;
+}
+
 .summary-quote {
   @include outfit-font;
   font-size: 16px;
   line-height: 1.6;
-  color: #e0e0e0;
-  border-left: 3px solid $accent-gold;
-  padding: 20px;
+  color: #f1f5f9;
+  border-left: 2px solid #ffffff;
+  padding-left: 16px;
   margin: 0 0 24px 0;
   font-style: italic;
-  background: rgba(234, 189, 97, 0.05);
-  border-radius: 0 8px 8px 0;
 }
 
 // Shields Section

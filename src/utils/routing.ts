@@ -66,6 +66,12 @@ export class Router {
       const category = segments[0]
       const theory = segments[1]
       
+      // Convert slug back to theory name for loading and callback
+      const theoryName = theory
+        .split('-')
+        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+        .join('-')
+      
       // Show loading state with category and theory info
       this.onLoading?.(category, theory)
       
@@ -85,10 +91,11 @@ export class Router {
   }
 
   private async loadTheory(category: string, theory: string): Promise<TheoryData> {
-    const theoryName = theory.replace(/-/g, ' ')
-      .split(' ')
+    // Convert slug back to theory name, preserving dashes
+    const theoryName = theory
+      .split('-')
       .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-      .join(' ')
+      .join('-')
     
     return await loadTheoryByName(theoryName)
   }

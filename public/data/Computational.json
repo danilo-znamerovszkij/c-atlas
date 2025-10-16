@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Computational Theory",
+    "summary": "Computational theories of mind propose that the mind operates like a computer, viewing mental states as functional roles defined by systematic, step-by-step instructions or algorithms, independent of the underlying physical substrate. These theories drove the rise of cognitive science by emulating mind-like capabilities such as reasoning and perception.",
+    "associated_thinkers": ["Nick Bostrom", "James Reggia"],
+    "category": "Materialism",
+    "subcategory": "Computational and Informational",
+    "core_identity_tagline": "Consciousness as Algorithm and Computation",
+    "classification_tags": [
+      "computation",
+      "functionalism",
+      "AI",
+      "reductionism",
+      "cognitive science"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness (or mental states generally) is identified with the performance of computations of a particular, discoverable kind. Mental states are defined by their functional role or output, not their internal constitution or material substrate.",
+    "ontological_status": "Physicalism",
+    "mind_body_relationship": "Identity/Functionalist. Mental states are functional states that can be instantiated (or realized) in any form of matter capable of processing information, such as neural tissue or computer chips.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consistent with the materialist framework, it is assumed that mental properties, though high-level, can in principle be fully explained or reduced to the fundamental underlying computational and physical processes, even if the practical explanation is complex.",
+    "subjectivity_and_intentionality": "Intentionality (directedness of thought) is explained through cognitive symbols that can be manipulated to describe concepts. Subjectivity (phenomenal consciousness) remains a challenge, as the focus is primarily on external functionality and information processing, rather than inner experience.",
+    "qualia_account": "Uncertain/Deflationary. The theory struggles to provide a compelling demonstration of phenomenal consciousness, focusing instead on capturing cognitive and behavioral correlates. Some approaches aligned with this view might treat qualia as illusory or incoherent, while others assert they correspond to integrated, reportable computational states.",
+    "ontological_commitments": "Algorithms, systematic step-by-step instructions, Turing machines (abstract models of computation), and any physical substrate capable of instantiating information.",
+    "epistemic_access": "Primarily through computational modeling, simulation, and objective measurement of information processing capabilities and behavioral correlates.",
+    "constituents_and_structure": "Routines of systematic, step-by-step instructions (algorithms), typically modeled using abstract computational structures like Turing machines."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Access (e.g., global access to information), Memory, Knowledge Structure, Perception, Reasoning, Problem Solving, and Linguistic Comprehension. Phenomenal consciousness (qualia) is often excluded or treated as an unsolved problem.",
+    "distinctive_mechanism_or_principle": "The principle that performing computations of a specific kind (algorithmic processing) is both necessary and sufficient for consciousness.",
+    "dynamics_of_emergence": "Algorithmic/Systematic. Consciousness arises through the systematic processing of information via algorithms, enabling the emulation of mind-like capabilities.",
+    "location_and_distribution": "The location is functional rather than material; consciousness resides wherever the necessary computational functions are instantiated, whether in biological neural tissue or non-biological computer chips.",
+    "causation_and_functional_role": "Mental states are causally effective because they are functional states realized in the physical world. The functional role is to organize information processing, enabling capabilities like planning, decision-making, and problem-solving.",
+    "integration_or_binding": "Implicitly achieved through the complex processing of information and the integration of specialized computational functions necessary for cognitive capabilities like knowledge structure and reasoning.",
+    "information_flow_or_representation": "Mental states are abstract information or cognitive symbols that are manipulated algorithmically by the underlying physical substrate to generate thought and comprehension.",
+    "evolutionary_account": "Not explicitly addressed by the core theory in the sources, but compatible with the general materialist view that consciousness is an evolved product of neurobiological complexity, specifically for adaptive processing and computation.",
+    "core_claims_and_evidence": [
+      "Performing computations of a particular, discoverable kind is both necessary and sufficient for consciousness.",
+      "Mental states are determined solely by their outputs or functional roles, regardless of the physical medium.",
+      "Computational modeling is an accepted methodology for scientifically studying consciousness."
+    ],
+    "basis_of_belief_or_evidence_type": "Computational, Philosophical (Functionalism), and Logical."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable. The methodology involves using computational modeling to assess whether systems successfully simulate known neurobiological, cognitive, and behavioral correlates of conscious processing.",
+    "known_empirical_interventions_or_tests": [
+      "Development and testing of computational models and machine simulations of cognitive correlates."
+    ],
+    "criticisms_and_tensions": "Criticized as a historical analogy that likens the mind to the 'science of the day.' The main tension is the lack of a compelling demonstration of phenomenal machine consciousness, leading to the critique that it only addresses 'easy problems' (function) while ignoring the 'hard problem' (experience).",
+    "open_questions_and_limitations": "The key unresolved issue is whether performing computations, regardless of complexity, is genuinely sufficient to produce phenomenal consciousness ('what it is like').",
+    "ontological_coherence": "Coherent within the reductive physicalist and functionalist frameworks, relying on the premise that all mental reality can be reduced to information processing or algorithmic structure."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "Since computational functionalism posits that consciousness is a result of performing the right kind of computation, AI consciousness is not only possible but inevitable, given the exponential growth of computational sophistication in non-biological intelligences."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is tied to physical or functional realization in a substrate. Traditional survival beyond death is denied, but continuation is possible only through digital mind uploading (virtual immortality)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "As a Materialism Theory, it does not support any ultimate cosmic meaning or purpose; meaning and value are considered emergent, self-created phenomena arising from the complex functions of conscious beings."
+    },
+    "virtual_immortality": {
+      "stance": "Yes",
+      "rationale": "If consciousness is purely computational/functional (meaning its essence is algorithmic), then a perfect duplication of the brain’s functional patterns in a non-biological medium would preserve the first-person mental self, making virtual immortality attainable in principle."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Core principle"
+      },
+      {
+        "name": "Computational Functionalism",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The computational theory of mind, Michael Rescorla",
+        "year": 2020
+      },
+      {
+        "title_with_names": "The rise of machine consciousness: studying consciousness with computational models, James Reggia",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Emperor’s New Mind - Concerning Computers, Minds, and the Law of Physics, Roger Penrose",
+        "year": 1999
+      }
+    ]
+  }
+}

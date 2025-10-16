@@ -7,7 +7,6 @@
   padding: 0;
   @include outfit-font;
   font-weight: 400;
-  background: $primary-bg;
   overflow: hidden;
 }
 
@@ -305,8 +304,9 @@
     position: fixed;
     bottom: 16px;
     left: 16px;
-    right: 16px;
+    right: auto;
     width: auto;
+    max-width: calc(100vw - 32px);
   }
 }
 

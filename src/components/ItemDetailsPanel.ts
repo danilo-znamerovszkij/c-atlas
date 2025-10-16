@@ -82,13 +82,11 @@ export class ItemDetailsPanel {
            role="dialog" 
            aria-labelledby="item-title" 
            aria-hidden="${!this.isVisible}">
-        <div class="panel-header">
+        <div class="panel-content">
           <button class="close-btn" 
                   id="close-panel" 
                   aria-label="Close panel"
                   title="Close panel">×</button>
-        </div>
-        <div class="panel-content">
           <div id="item-info">
             <div class="welcome-message">
               <div class="mystic-icon" aria-hidden="true">✦</div>
@@ -390,7 +388,13 @@ export class ItemDetailsPanel {
         <div class="theory-content">
           <div class="theory-header">
             <h1 class="theory-title">${theoryData.id_and_class.theory_title}</h1>
-            <div class="theory-category">${theoryData.id_and_class.category} • ${theoryData.id_and_class.subcategory}</div>
+            <div class="theory-category">
+              ${theoryData.id_and_class.category}
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M4.5 2L7.5 6L4.5 10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+              ${theoryData.id_and_class.subcategory}
+            </div>
             <div class="theory-tagline">${theoryData.id_and_class.core_identity_tagline}</div>
           </div>
           
@@ -399,69 +403,29 @@ export class ItemDetailsPanel {
           </div>
           
           <div class="thinkers-section">
-            <h3>Associated Thinkers</h3>
             <div class="thinkers-list">
+              <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M7.8125 8.33252C9.19321 8.33252 10.3125 7.21323 10.3125 5.83252C10.3125 4.45181 9.19321 3.33252 7.8125 3.33252C6.43179 3.33252 5.3125 4.45181 5.3125 5.83252C5.3125 7.21323 6.43179 8.33252 7.8125 8.33252Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M3.54297 12.2326C3.98921 11.5001 4.61638 10.8948 5.36418 10.4747C6.11197 10.0546 6.95526 9.83398 7.81297 9.83398C8.67068 9.83398 9.51396 10.0546 10.2618 10.4747C11.0096 10.8948 11.6367 11.5001 12.083 12.2326" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M7.8125 13.8325C11.4024 13.8325 14.3125 10.9224 14.3125 7.33252C14.3125 3.74267 11.4024 0.83252 7.8125 0.83252C4.22265 0.83252 1.3125 3.74267 1.3125 7.33252C1.3125 10.9224 4.22265 13.8325 7.8125 13.8325Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
               ${theoryData.id_and_class.associated_thinkers.map(thinker => 
                 `<span class="thinker-tag">${thinker}</span>`
               ).join('')}
             </div>
           </div>
           
-          <div class="classification-tags">
-            <h3>Classification</h3>
-            <div class="tags-container">
-              ${theoryData.id_and_class.classification_tags.map(tag => 
-                `<span class="tag">${tag}</span>`
-              ).join('')}
-            </div>
-          </div>
-          
-          <!-- I. Identity & Classification -->
+          <!-- I. Conceptual Ground -->
           <div class="theory-section">
-            <h2>I. Identity & Classification</h2>
-            <div class="section-content">
-              <div class="field">
-                <div class="field-label">Theory Title</div>
-                <div class="field-value">${theoryData.id_and_class.theory_title}</div>
-              </div>
-              <div class="field">
-                <div class="field-label">Category</div>
-                <div class="field-value">${theoryData.id_and_class.category}</div>
-              </div>
-              <div class="field">
-                <div class="field-label">Subcategory</div>
-                <div class="field-value">${theoryData.id_and_class.subcategory}</div>
-              </div>
-              <div class="field">
-                <div class="field-label">Core Identity Tagline</div>
-                <div class="field-value">${theoryData.id_and_class.core_identity_tagline}</div>
-              </div>
-            </div>
-          </div>
-          
-          <!-- II. Conceptual Ground -->
-          <div class="theory-section">
-            <h2>II. Conceptual Ground</h2>
+            <h2>I. Conceptual Ground</h2>
             <div class="section-content">
               <div class="field">
                 <div class="field-label">Explanatory Identity Claim</div>
                 <div class="field-value">${theoryData.conceptual_ground.explanatory_identity_claim}</div>
               </div>
               <div class="field">
-                <div class="field-label">Ontological Status</div>
-                <div class="field-value">${theoryData.conceptual_ground.ontological_status}</div>
-              </div>
-              <div class="field">
                 <div class="field-label">Mind-Body Relationship</div>
                 <div class="field-value">${theoryData.conceptual_ground.mind_body_relationship}</div>
-              </div>
-              <div class="field">
-                <div class="field-label">Primitive or Emergent Status</div>
-                <div class="field-value">${theoryData.conceptual_ground.primitive_or_emergent_status}</div>
-              </div>
-              <div class="field">
-                <div class="field-label">Emergence Type</div>
-                <div class="field-value">${theoryData.conceptual_ground.emergence_type}</div>
               </div>
               <div class="field">
                 <div class="field-label">Subjectivity and Intentionality</div>
@@ -483,12 +447,27 @@ export class ItemDetailsPanel {
                 <div class="field-label">Constituents and Structure</div>
                 <div class="field-value">${theoryData.conceptual_ground.constituents_and_structure}</div>
               </div>
+              
+              <div class="field">
+                <div class="field-label">Primitive or Emergent Status</div>
+                <div class="field-value">${theoryData.conceptual_ground.primitive_or_emergent_status}</div>
+              </div>
+              ${theoryData.conceptual_ground.emergence_type && theoryData.conceptual_ground.emergence_type.trim() !== '' ? `
+              <div class="field">
+                <div class="field-label">Emergence Type</div>
+                <div class="field-value">${theoryData.conceptual_ground.emergence_type}</div>
+              </div>
+              ` : ''}
+              <div class="field">
+                <div class="field-label">Ontological Status</div>
+                <div class="field-value">${theoryData.conceptual_ground.ontological_status}</div>
+              </div>
             </div>
           </div>
           
-          <!-- III. Mechanism & Dynamics -->
+          <!-- II. Mechanism & Dynamics -->
           <div class="theory-section">
-            <h2>III. Mechanism & Dynamics</h2>
+            <h2>II. Mechanism & Dynamics</h2>
             <div class="section-content">
               <div class="field">
                 <div class="field-label">Scope of Consciousness</div>
@@ -510,10 +489,12 @@ export class ItemDetailsPanel {
                 <div class="field-label">Causation and Functional Role</div>
                 <div class="field-value">${theoryData.mechanism_and_dynamics.causation_and_functional_role}</div>
               </div>
+              ${theoryData.mechanism_and_dynamics.integration_or_binding && theoryData.mechanism_and_dynamics.integration_or_binding !== 'Not specified' ? `
               <div class="field">
                 <div class="field-label">Integration or Binding</div>
-                <div class="field-value">${theoryData.mechanism_and_dynamics.integration_or_binding || 'Not specified'}</div>
+                <div class="field-value">${theoryData.mechanism_and_dynamics.integration_or_binding}</div>
               </div>
+              ` : ''}
               <div class="field">
                 <div class="field-label">Information Flow or Representation</div>
                 <div class="field-value">${theoryData.mechanism_and_dynamics.information_flow_or_representation}</div>
@@ -525,11 +506,14 @@ export class ItemDetailsPanel {
               <div class="field">
                 <div class="field-label">Core Claims and Evidence</div>
                 <div class="field-value">
-                  <ul class="array-list">
+                  <div class="claims-list">
                     ${theoryData.mechanism_and_dynamics.core_claims_and_evidence.map(claim => 
-                      `<li>${claim}</li>`
+                      `<div class="claim-item">
+                        <div class="claim-icon">⚡</div>
+                        <div class="claim-text">${claim}</div>
+                      </div>`
                     ).join('')}
-                  </ul>
+                  </div>
                 </div>
               </div>
               <div class="field">
@@ -539,18 +523,20 @@ export class ItemDetailsPanel {
             </div>
           </div>
           
-          <!-- IV. Empirics & Critiques -->
+          <!-- III. Empirics & Critiques -->
           <div class="theory-section">
-            <h2>IV. Empirics & Critiques</h2>
+            <h2>III. Empirics & Critiques</h2>
             <div class="section-content">
               <div class="field">
                 <div class="field-label">Testability Status</div>
                 <div class="field-value">${theoryData.empirics_and_critiques.testability_status}</div>
               </div>
+              ${theoryData.empirics_and_critiques.known_empirical_interventions_or_tests && theoryData.empirics_and_critiques.known_empirical_interventions_or_tests !== 'Not specified' ? `
               <div class="field">
                 <div class="field-label">Known Empirical Interventions or Tests</div>
-                <div class="field-value">${theoryData.empirics_and_critiques.known_empirical_interventions_or_tests || 'Not specified'}</div>
+                <div class="field-value">${theoryData.empirics_and_critiques.known_empirical_interventions_or_tests}</div>
               </div>
+              ` : ''}
               <div class="field">
                 <div class="field-label">Criticisms and Tensions</div>
                 <div class="field-value">${theoryData.empirics_and_critiques.criticisms_and_tensions}</div>
@@ -566,55 +552,91 @@ export class ItemDetailsPanel {
             </div>
           </div>
           
-          <!-- V. Implications -->
+          <!-- IV. Implications -->
           <div class="theory-section">
-            <h2>V. Implications</h2>
+            <h2>IV. Implications</h2>
             <div class="section-content">
-              <div class="implication-item">
-                <div class="implication-question">AI Consciousness</div>
-                <div class="implication-stance">${theoryData.implications.AI_consciousness.stance}</div>
-                <div class="implication-rationale">${theoryData.implications.AI_consciousness.rationale}</div>
-              </div>
-              <div class="implication-item">
-                <div class="implication-question">Survival Beyond Death</div>
-                <div class="implication-stance">${theoryData.implications.survival_beyond_death.stance}</div>
-                <div class="implication-rationale">${theoryData.implications.survival_beyond_death.rationale}</div>
-              </div>
-              <div class="implication-item">
-                <div class="implication-question">Meaning and Purpose</div>
-                <div class="implication-stance">${theoryData.implications.meaning_and_purpose.stance}</div>
-                <div class="implication-rationale">${theoryData.implications.meaning_and_purpose.rationale}</div>
-              </div>
-              <div class="implication-item">
-                <div class="implication-question">Virtual Immortality</div>
-                <div class="implication-stance">${theoryData.implications.virtual_immortality.stance}</div>
-                <div class="implication-rationale">${theoryData.implications.virtual_immortality.rationale}</div>
+              <div class="implications-list">
+                <div class="implication-item">
+                  <div class="implication-header">
+                    <div class="implication-icon">🤖</div>
+                    <div class="implication-question">AI Consciousness</div>
+                  </div>
+                  <div class="implication-stance">${theoryData.implications.AI_consciousness.stance}</div>
+                  <div class="implication-rationale">${theoryData.implications.AI_consciousness.rationale}</div>
+                </div>
+                <div class="implication-item">
+                  <div class="implication-header">
+                    <div class="implication-icon">💀</div>
+                    <div class="implication-question">Survival Beyond Death</div>
+                  </div>
+                  <div class="implication-stance">${theoryData.implications.survival_beyond_death.stance}</div>
+                  <div class="implication-rationale">${theoryData.implications.survival_beyond_death.rationale}</div>
+                </div>
+                <div class="implication-item">
+                  <div class="implication-header">
+                    <div class="implication-icon">🎯</div>
+                    <div class="implication-question">Meaning and Purpose</div>
+                  </div>
+                  <div class="implication-stance">${theoryData.implications.meaning_and_purpose.stance}</div>
+                  <div class="implication-rationale">${theoryData.implications.meaning_and_purpose.rationale}</div>
+                </div>
+                <div class="implication-item">
+                  <div class="implication-header">
+                    <div class="implication-icon">♾️</div>
+                    <div class="implication-question">Virtual Immortality</div>
+                  </div>
+                  <div class="implication-stance">${theoryData.implications.virtual_immortality.stance}</div>
+                  <div class="implication-rationale">${theoryData.implications.virtual_immortality.rationale}</div>
+                </div>
               </div>
             </div>
           </div>
           
-          <!-- VI. Relations & Sources -->
+          <!-- V. Relations & Sources -->
           <div class="theory-section">
-            <h2>VI. Relations & Sources</h2>
+            <h2>V. Relations & Sources</h2>
             <div class="section-content">
               <div class="field">
                 <div class="field-label">Related Theories</div>
                 <div class="field-value">
-                  <ul class="array-list">
+                  <div class="related-theories-list">
                     ${theoryData.relations_and_sources.related_theories.map(relation => 
-                      `<li><strong>${relation.name}</strong> - ${relation.relationship}</li>`
+                      `<div class="related-theory-item">
+                        <div class="theory-icon">🧠</div>
+                        <div class="theory-content">
+                          <div class="theory-name">${relation.name}</div>
+                          <div class="theory-relationship">${relation.relationship}</div>
+                        </div>
+                      </div>`
                     ).join('')}
-                  </ul>
+                  </div>
                 </div>
               </div>
+          
+              <div class="classification-tags">
+                <h3>Classification</h3>
+                <div class="tags-container">
+                  ${theoryData.id_and_class.classification_tags.map(tag => 
+                    `<span class="tag">${tag}</span>`
+                  ).join('')}
+                </div>
+              </div>
+
               <div class="field">
                 <div class="field-label">Sources and References</div>
                 <div class="field-value">
-                  <ul class="array-list">
+                  <div class="sources-list">
                     ${theoryData.relations_and_sources.sources_and_references.map(source => 
-                      `<li>${source.title_with_names}${source.year ? ` (${source.year})` : ''}</li>`
+                      `<div class="source-item">
+                        <div class="source-icon">📚</div>
+                        <div class="source-content">
+                          <div class="source-title">${source.title_with_names}</div>
+                          ${source.year ? `<div class="source-year">${source.year}</div>` : ''}
+                        </div>
+                      </div>`
                     ).join('')}
-                  </ul>
+                  </div>
                 </div>
               </div>
             </div>
@@ -655,11 +677,11 @@ export class ItemDetailsPanel {
     panel?.classList.add('visible')
     panel?.setAttribute('aria-hidden', 'false')
     
-    // Convert theory slug to display name
-    const theoryName = theory.replace(/-/g, ' ')
-      .split(' ')
+    // Convert theory slug to display name, preserving dashes
+    const theoryName = theory
+      .split('-')
       .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-      .join(' ')
+      .join('-')
     
     // Convert category slug to display name
     const categoryName = category.charAt(0).toUpperCase() + category.slice(1)

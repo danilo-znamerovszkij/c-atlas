@@ -97,6 +97,10 @@ export const applyPaletteToData = (data: any[]) => {
         if (parentName === 'Materialism') {
           labelPosition = undefined // Stay inside
         } else {
+          if (isMobile()) {
+          showLabel = false;
+          // labelPosition = undefined;
+        }
           labelPosition = 'outside' // Go outside
         }
       } else if (level >= 2 && parentColor) {
@@ -107,10 +111,10 @@ export const applyPaletteToData = (data: any[]) => {
         // Third level and beyond always go outside
         labelPosition = 'outside'
         
-        // On mobile, hide labels for level 3+ (smallest items - outermost ring)
-        if (isMobile() && level >= 3) {
-          showLabel = false
-          console.log(`Mobile detected: hiding label for level ${level} item: ${item.name}`)
+        // On mobile, hide labels for the last row (level 4+ - outermost ring)
+        if (isMobile()) {
+          showLabel = false;
+          // labelPosition = undefined;
         }
       } else {
         color = '#666666' // Fallback color
@@ -120,12 +124,12 @@ export const applyPaletteToData = (data: any[]) => {
         ...item,
         parent: parentName, // Add parent name to each item
         itemStyle: { color },
-        label: showLabel && labelPosition ? { 
+        label:  showLabel && labelPosition ? { 
           position: labelPosition,
           fontSize: level >= 2 || (level === 1 && parentName !== 'Materialism') ? 10 : 12
         } : showLabel ? {
           fontSize: level >= 2 || (level === 1 && parentName !== 'Materialism') ? 10 : 12
-        } : undefined
+        } : { fontSize: 0 }
       }
       
       if (item.children) {

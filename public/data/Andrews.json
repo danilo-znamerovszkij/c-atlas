@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "Andrews's Consciousness Without Complex Brains",
+    "summary": "This perspective critiques the neurocentric bias in consciousness studies, which assumes that only complex mammalian brains can support consciousness. It proposes that consciousness is multiply realizable across diverse physical systems and advocates for studying simpler animals (like bees or octopuses) to identify fundamental, rather than contingent, features of sentience.",
+    "associated_thinkers": ["Kristin Andrews"],
+    "category": "Materialism Theories",
+    "subcategory": "Phylogenetic Evolution",
+    "core_identity_tagline": "Consciousness realized via multiple simple systems",
+    "classification_tags": [
+      "evolution",
+      "animal minds",
+      "multiple realizability",
+      "comparative cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is identified as the underlying capacity that enables robust behavioral profiles (e.g., pain avoidance, nutrient seeking), which can be instantiated by very different physical systems (multiple realizability).",
+    "ontological_status": "Physicalism",
+    "mind_body_relationship": "Consciousness correlates with, and is instantiated by, physical processes, but this relationship is flexible, allowing for non-complex and phylogenetically distant neural substrates (multiple realizability) in contrast to strict identity theories focused only on complex brains.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
+    "subjectivity_and_intentionality": "Subjectivity and intentionality are inferred from the robust behavioral profiles exhibited by animals (e.g., purposeful movement toward desired stimuli), suggesting these mental capacities are linked to diverse physical mechanisms.",
+    "qualia_account": "The approach assumes the existence of phenomenal experience (sentience) in simpler animals, aiming to identify the essential physical basis of consciousness, independent of complex brain features traditionally associated with qualia.",
+    "ontological_commitments": "Physical systems capable of supporting sentient behavior, particularly diverse neurological systems (cephalopods, arthropods, vertebrates).",
+    "epistemic_access": "Primarily accessed through observing and analyzing a robust profile of adaptive behaviors in diverse species, alongside general consciousness markers (e.g., self-recognition, reaction to stimulation).",
+    "constituents_and_structure": "The specific physical structure is variable (multiple realizability), focusing on the necessary organization within biological systems, potentially including simple neural circuits, rather than specific structures like the cerebral cortex."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness (sentience), Adaptive behavior, Learning, Self-awareness (as studied through markers).",
+    "distinctive_mechanism_or_principle": "The principle of multiple realizability, asserting that mental capacities are not confined to complex mammalian neural architecture, guiding research toward identifying universal behavioral markers of consciousness in phylogenetically distant species.",
+    "dynamics_of_emergence": "Evolved through phylogenetic development, potentially arising only once in a common worm-like ancestor or independently in distinct lineages (e.g., arthropods, cephalopods, vertebrates).",
+    "location_and_distribution": "Distributed across various organisms on the tree of life (e.g., bees, octopuses, worms), challenging the neurocentric focus on localization in higher mammals.",
+    "causation_and_functional_role": "Consciousness functions as an adaptive advantage, enabling organisms to solve survival problems such as avoiding pain and seeking nutrients, and supporting flexible behavior.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Related research addresses key topics like mental representation, but the core theory emphasizes behavioral profiles associated with experience.",
+    "evolutionary_account": "Consciousness arose through evolution, selected for its role in enhancing survival; studying multiple instances of evolved consciousness helps disentangle essential features from contingent ones (the 'N = 1 problem').",
+    "core_claims_and_evidence": [
+      "Focusing exclusively on complex mammalian brains (like primates) results in an 'N = 1 problem' that prevents identifying truly essential features of consciousness.",
+      "Sentience likely evolved only a few times on Earth, or perhaps only once in a distant common ancestor.",
+      "Robust behavioral profiles (e.g., moving away from painful stimuli) warrant the hypothesis that simpler animals are conscious."
+    ],
+    "basis_of_belief_or_evidence_type": "Comparative Biology, Philosophical, Empirical"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable through comparative behavioral studies, although challenging due to limitations in cross-species assessment.",
+    "known_empirical_interventions_or_tests": [
+      "Analysis of consciousness markers identified in the Cambridge Declaration (e.g., homologous brain circuits, mirror self-recognition)",
+      "Behavioral observation of adaptive responses (e.g., pain avoidance, nutrient seeking)"
+    ],
+    "criticisms_and_tensions": "Contradicts the prevailing conventional wisdom in consciousness studies that requires a complex brain for consciousness. If consciousness is found in distant ancestors, theories relying on specialized brain regions (like the cerebral cortex for information integration) are challenged.",
+    "open_questions_and_limitations": "The 'N = 1 problem' remains if sentience evolved only once in a very ancient ancestor, meaning that the essential underlying feature relating to sentience is still unknown.",
+    "ontological_coherence": "Coherent within a broadly physicalist framework, serving as a methodological critique of materialist theories that are overly specific about the necessary physical substrate."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "If consciousness is multiply realizable across diverse biological systems, it is highly probable it can be instantiated in non-biological (artificial) systems that achieve the necessary functional organization and behavioral complexity, though understanding animal minds is crucial for this goal."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "As a theory rooted in Materialism and phylogenetic evolution, consciousness is fundamentally dependent on physical/biological hardware and does not postulate a non-physical substance capable of post-mortem survival."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic/Adaptive",
+      "rationale": "The focus is on the evolved functional and adaptive role of consciousness in promoting survival and thriving, which supports humanistic meaning derived from biological existence rather than cosmic teleology."
+    },
+    "virtual_immortality": {
+      "stance": "Likely",
+      "rationale": "The central concept of 'multiple realizability' implies that the conscious mental self could be reproduced in non-biological hardware, provided the functional properties are accurately duplicated."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Crick and Koch’s Neural Correlates of Consciousness",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Dennett’s Evolution of Minds",
+        "relationship": "Overlap"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is it like to be a crab?, Kristin Andrews",
+        "year": ""
+      },
+      {
+        "title_with_names": "How to Study Animal Minds, Kristin Andrews",
+        "year": 2020
+      },
+      {
+        "title_with_names": "What has feelings?, Kristin Andrews and Jonathan Birch",
+        "year": 2023
+      }
+    ]
+  }
+}
