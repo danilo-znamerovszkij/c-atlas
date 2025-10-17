@@ -1,1 +1,96 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Grossberg’s Adaptive Resonance Theory (ART)",
+    "summary": "Grossberg’s theory establishes that all conscious states are resonant states arising from the interaction of bottom-up sensory patterns with learned top-down expectations. This theoretical foundation, Adaptive Resonance Theory (ART), explains how the brain self-organizes to consciously attend, categorize, recognize, and predict phenomena in a dynamic world. It claims the varieties of these brain resonances make progress toward solving the hard problem of consciousness.",
+    "associated_thinkers": [
+      "Stephen Grossberg"
+    ],
+    "category": "Materialism",
+    "subcategory": "Computational and Informational",
+    "core_identity_tagline": "‘Conscious States as Resonant States’",
+    "classification_tags": [
+      "computation",
+      "resonance",
+      "neurobiological",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is identified as a persistent resonant state resulting from the interaction between bottom-up patterns and learned top-down expectations, capable of supporting conscious awareness when it includes feature-selective cells representing qualia. The mind is conceptualized as an activity, or a verb, not a static entity.",
+    "ontological_status": "Physicalism",
+    "mind_body_relationship": "Identity/Monistic. Mind is the activity (a verb, not a noun) of the physical brain, regulated by mechanistically similar laws conserved across cellular systems.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Based on its classification as a Materialism Theory relying on computational structures and conserved biological laws, consciousness is expected to be fully explicable by, though perhaps not intuitively reducible to, lower-level processes.",
+    "subjectivity_and_intentionality": "Intentionality (recognition, prediction, learning) is regulated by attentive consciousness, which is realized in the resonant state. Subjectivity is accounted for by the inclusion of feature-selective cells that represent qualia within these states.",
+    "qualia_account": "Qualia are identified as feature-selective cells included within the persistent resonant state, supporting conscious awareness. Grossberg suggests this helps address the hard problem of consciousness.",
+    "ontological_commitments": "Resonant states, computational structures, bottom-up sensory patterns, top-down expectations, and conserved laws of short-term and long-term memory/activation across biological systems.",
+    "epistemic_access": "Accessible via neural and cognitive modeling, observation of brain data, and analysis of how humans consciously perceive and know things.",
+    "constituents_and_structure": "A resonant state established through the continuous interaction of bottom-up sensory inputs and top-down learned expectations, regulated by common laws of short-term and long-term memory."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal, Attentive Consciousness, Learning, Recognition, Prediction, Action Regulation.",
+    "distinctive_mechanism_or_principle": "Adaptive Resonance Theory (ART), where a persistent, maximally irreducible resonant state between bottom-up and top-down pathways is claimed to be the necessary and sufficient condition for consciousness (all conscious states are resonant states).",
+    "dynamics_of_emergence": "Dynamic process. Consciousness is realized as a dynamic resonant state that continually interacts with and regulates cognitive processes like learning and prediction.",
+    "location_and_distribution": "Localized within brain structures, particularly where feature-selective cells that represent qualia are included in the resonant state.",
+    "causation_and_functional_role": "Attentive consciousness regulates actions that interact with cognitive processes like learning, recognition, and prediction. It provides the ability to autonomously learn and categorize objects and events in a changing world."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically and computationally testable, based on its foundation in cognitive and neural models.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "No specific major external criticisms are detailed in the sources, but general tensions common to materialist theories (e.g., the difficulty of fully capturing subjective quality/qualia through purely functional definitions) apply.",
+    "open_questions_and_limitations": "The theory aims towards solving the hard problem, indicating that fully defining the relationship between resonant states and phenomenal experience is an ongoing challenge.",
+    "ontological_coherence": "Coherent within the computational and materialist ontological frameworks, aligning the nature of consciousness directly with functional brain activity."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "The theory is a functionalist model where consciousness is the result of specific computational structures and conserved laws being realized. If these computational structures (resonant states) can be implemented in non-biological hardware, AI consciousness is possible."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is fundamentally tied to the physically instantiated resonant activity of the biological brain, offering no conceptual pathway for persistence after bodily death."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "As a Materialist theory focused on the self-organization and adaptive function of the brain (learning, prediction, survival), it does not imply any ultimate or cosmic meaning or purpose outside of human experience."
+    },
+    "virtual_immortality": {
+      "stance": "Likely",
+      "rationale": "If the mind is functionally defined as a system of computational activities (resonant states), then a sufficiently complete reproduction of this structure in a non-biological medium should, in principle, preserve the first-person mental self."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Bach’s Cortical Conductor Theory",
+        "relationship": "Similarity (Functionalist Approach)"
+      },
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Similarity (Functionalist Approach)"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "Similarity (Functionalist Approach)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Adaptive Resonance Theory: how a brain learns to consciously attend, learn, and recognize a changing world, Stephen Grossberg",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The resonant brain: how attentive conscious seeing regulates action sequences that interact with attentive cognitive learning, recognition, and prediction, Stephen Grossberg",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Conscious Mind, Resonant Brain: How Each Brain Makes a Mind, Stephen Grossberg",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Towards solving the hard problem of consciousness: the varieties of brain resonances and the conscious experiences that they support, Stephen Grossberg",
+        "year": 2017
+      }
+    ]
+  }
+}

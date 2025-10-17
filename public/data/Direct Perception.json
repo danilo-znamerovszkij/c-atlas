@@ -1,1 +1,101 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Direct Perception Theory",
+    "summary": "This theory posits that all information necessary for perception is external to the observer and stems solely from the properties of the distal stimulus.\nPerceptual consciousness is a direct and unanalyzable awareness relation to external objects, operating without the aid of internal inference, memory, or the construction of representations.",
+    "associated_thinkers": [
+      "Ned Block (as describer of direct realist/naïve realist views)"
+    ],
+    "category": "Materialism",
+    "subcategory": "Embodied and Enactive",
+    "core_identity_tagline": "‘Perception as Direct Awareness of the Distal Stimulus’",
+    "classification_tags": [
+      "perception",
+      "realism",
+      "non-representational",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Phenomenal consciousness, particularly its perceptual character, is identified as a direct awareness relation—likely a primitive, unanalyzable acquaintance relation—to objects or properties in the environment.",
+    "ontological_status": "Direct Realism / Naïve Realism (A form of Physicalism).",
+    "mind_body_relationship": "Phenomenal character is 'object-constituted' in the sense that the existence and individuation of a perceptual experience depend directly on the external object, suggesting a non-mediated, direct constitutive relation.",
+    "primitive_or_emergent_status": "Primitive (The direct awareness relation itself is suggested to be a primitive unanalyzable acquaintance relation).",
+    "emergence_type": "N/A (The core awareness relation is described as primitive and unanalyzable, making the concept of emergence non-applicable to the immediate conscious act itself).",
+    "subjectivity_and_intentionality": "Subjective, first-person experience (phenomenal character) is directly constituted by the external object (intentionality). Intentionality is thus non-representational, achieving directedness simply by depending on the external object itself.",
+    "qualia_account": "Qualitative feel (phenomenal character) is object-constituted. If an experience is of a different object, it has a different phenomenal character, even if subjectively indistinguishable (e.g., from a perfect hallucination).",
+    "ontological_commitments": "Distal stimulus (external objects and properties in the environment) and a primitive unanalyzable acquaintance relation (direct awareness).",
+    "epistemic_access": "Knowledge of the world is accessed directly through perception, rather than through internal representation or introspection of the mediating mental states.",
+    "constituents_and_structure": "Consciousness is structured by the properties of the distal stimulus alone. The fundamental building block is the direct 'acquaintance relation' to the peculiar entity (like a sense datum) or to objects/properties in the environment."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness (specifically perceptual consciousness).",
+    "distinctive_mechanism_or_principle": "The lack of intermediate processing; consciousness arises from direct detection of external information unaided by internal cognitive processes (inference, memory, representation construction).",
+    "dynamics_of_emergence": "The theory focuses on the nature of the immediate awareness relation as primitive, rather than describing a dynamic process of how this relation arises or changes over time.",
+    "location_and_distribution": "The information required for perception is external to the observer (external to the brain/body, residing in the distal stimulus). However, the conscious phenomenal experience is instantiated in the observer.",
+    "causation_and_functional_role": "The primary functional role is enabling the observer to perceive an object accurately based on the distal stimulus alone, bypassing traditional cognitive processes that might construct representations.",
+    "integration_or_binding": "Unspecified. Integration of phenomenal distinctions is presumed to be a feature of the primitive unanalyzable acquaintance relation to the object itself, rather than a computational or informational binding process.",
+    "information_flow_or_representation": "Information flows directly from the external world (distal stimulus) to the observer's perception, rejecting the necessity of internal construction of mental representations.",
+    "evolutionary_account": "Not explicitly addressed in the provided sources. (The ecological psychology variant, Gibson's theory, implies an evolutionary fit between organism and environment, but DPT itself focuses on the non-representational mechanism).",
+    "core_claims_and_evidence": [
+      "Perception is based on properties of the distal stimulus alone, unaided by inference or memory.",
+      "The phenomenal character of experience is object-constituted; a change in the object necessitates a change in phenomenal character.",
+      "The awareness relation is a primitive unanalyzable acquaintance relation that is not a matter of representation."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical and Conceptual (Defense of Naïve Realism against representational theories, relying on thought experiments distinguishing between veridical perception and subjectively indistinguishable hallucination)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable (via thought experiments). Empirical testing to isolate a purely 'unanalyzable primitive acquaintance relation' separate from cognitive processing is challenging.",
+    "known_empirical_interventions_or_tests": "None explicitly listed in the source, which focuses on the conceptual implications of the theory, such as comparing the phenomenal character of real perception versus subjectively indistinguishable hallucination.",
+    "criticisms_and_tensions": "A major tension is the implication that subjectively indistinguishable experiences (e.g., seeing a real tomato versus hallucinating an identical one) must necessarily have different phenomenal characters because the phenomenal experience is dependent on the external object’s existence.",
+    "open_questions_and_limitations": "The precise nature of the 'primitive unanalyzable acquaintance relation' remains undefined. The theory must account for the difference in phenomenal character between real objects and subjectively indistinguishable illusory or hallucinatory experiences.",
+    "ontological_coherence": "Coherent within a strict physicalist/realist ontology that rejects the mediation of internal phenomenal properties, but challenged by phenomenological facts like hallucinations, where the object-constituted nature breaks down."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "If the primitive acquaintance relation is fundamentally dependent on specific biological structures necessary for directly coupling to distal stimuli, AI consciousness might be impossible. Since the theory is physicalist/materialist, if the underlying direct mechanism can be reproduced, AI consciousness is possible."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "The theory emphasizes the dependence of experience on the external physical environment (distal stimulus) and is categorized under Materialism, suggesting consciousness is tied to the physical organism and its environment."
+    },
+    "meaning_and_purpose": {
+      "stance": "Conditional",
+      "rationale": "The theory primarily concerns the mechanics of perception, not ultimate reality or existence. As a Materialist theory, it defaults to humanistic meaning, purpose, and value created by ourselves."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "Virtual immortality requires the perfect duplication of consciousness. Since phenomenal character is object-constituted, a virtual self might fail to retain its original phenomenal character if it lacks a true 'direct awareness relation' to the real physical environment."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Naïve Realist Theories",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Gibson’s Ecological Psychology",
+        "relationship": "Overlap (shares anti-representational stance)"
+      },
+      {
+        "name": "Representational Theories",
+        "relationship": "Critique (rejects mediation by representation)"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Critique (implied, as phenomenal character is based on object constitution, not functional role)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Direct Perception Theory",
+        "year": "APA website"
+      },
+      {
+        "title_with_names": "The Border between Seeing and Thinking, N. Block",
+        "year": "2023"
+      }
+    ]
+  }
+}

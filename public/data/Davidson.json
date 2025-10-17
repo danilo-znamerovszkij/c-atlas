@@ -1,1 +1,84 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Davidson’s Anomalous Monism",
+    "summary": "Anomalous Monism posits that every mental event is identical to a physical event (token identity), maintaining a monistic ontology. However, the theory insists that there are no strict, exceptionless natural laws connecting mental concepts (types) with physical concepts, leading to the irreducibility of psychology to physics. This dual assertion resolves the apparent conflict between mental causation and the causal completeness of the physical world.",
+    "associated_thinkers": ["Donald Davidson"],
+    "category": "Monisms",
+    "subcategory": "Anomalous Monism",
+    "core_identity_tagline": "Mental Tokens are Physical, Mental Types are Anomalous",
+    "classification_tags": [
+      "monism",
+      "physicalism",
+      "token identity",
+      "property dualism",
+      "mental causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Mental entities (particular time- and space-bound objects and events, or tokens) are physical entities. However, mental concepts are non-reducible to physical concepts by definition or natural law.",
+    "ontological_status": "Monism (Token Identity Physicalism/Property Dualism). The theory holds that mental events have a physical ontology.",
+    "mind_body_relationship": "Token Identity: Mental events are identical to physical events. This is justified through arguing for the impossibility of type-identities between mental and physical properties. The theory is a form of property dualism.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence. (Justification: The mental properties are irreducible in principle and cannot be captured by strict psychophysical laws , aligning with strong irreducibility.)",
+    "subjectivity_and_intentionality": "The theory addresses the intentional essence of mental phenomena (e.g., aboutness) as a property that distinguishes mental phenomena from physical laws or things.",
+    "qualia_account": "Qualitative feel (qualia) is incorporated under the broader category of mental properties/concepts which are anomalous—meaning they are not subject to reduction by physical concepts or laws.",
+    "ontological_commitments": "Physical entities and events (tokens); irreducible mental properties/concepts (types).",
+    "epistemic_access": "Known through philosophical analysis of causality and the unique requirements of psychological explanation, which cannot yield exceptionless laws like physics.",
+    "constituents_and_structure": "The constituents are physical entities/events, but consciousness is structured by mental concepts/properties that are irreducible."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Mental events (tokens); mental causation; intentionality.",
+    "distinctive_mechanism_or_principle": "Mental Anomalism: the assertion that there are no natural laws connecting mental phenomena with physical phenomena, even though mental events cause physical events and all causal relationships are backed by natural laws (token identity is justified by the impossibility of type identity).",
+    "dynamics_of_emergence": "Conscious mental states arise as unique physical events (tokens), characterized by the fact that they cannot be governed by strict predictive laws like those in basic physics.",
+    "location_and_distribution": "The mental events are physical entities, thus located in the brain/physical substrate.",
+    "causation_and_functional_role": "Mental events possess genuine causal powers and cause physical events.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Mental phenomena are defined by their intentional essence, which seems radically different from purely physical laws.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Mental events (tokens) are identical to physical events.",
+      "Mental properties (types) are not reducible to physical concepts or natural law.",
+      "Mental events have genuine causal powers and cause physical events.",
+      "Psychology cannot yield exceptionless laws for predicting human thoughts and actions (mental anomalism)."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (Deductive argument based on three premises about causality and nomological character)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptual/Philosophical. (Justification: The theory's core claims rest on philosophical necessity regarding the nature of causality and psychological explanation.)",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "The main tension arises from the conjunction of three claims: (i) mental causation exists, (ii) all causation is law-backed, and (iii) there are no psychophysical laws. This conjunction appears inconsistent or contradictory at first glance.",
+    "open_questions_and_limitations": "The framework must fully account for how mental causation can occur if there are no strict laws relating the mental property types to the physical property types (the problem of causal efficacy of the anomalous properties).",
+    "ontological_coherence": "The internal consistency is achieved, provided the three foundational premises are accepted as valid, as the token identity conclusion is embedded within them. It shares features with Non-Reductive Physicalism."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Since the ontology is fundamentally monist (all mental events are physical events), AI consciousness is possible in principle if the relevant complex physical systems can be replicated in artificial media, though the lack of predictable mental laws (anomalism) complicates assessment."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Mental events are dependent on physical events (token identity). Survival beyond the destruction of the biological substrate is precluded under this materialist assumption."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "As an ontological monism theory, it aligns with materialist categories that generally do not rationalize ultimate meaning or purpose beyond that which humans create for themselves."
+    },
+    "virtual_immortality": {
+      "stance": "Likely",
+      "rationale": "If the physical substrate (the brain pattern) is duplicated, the mental events (which are identical to those tokens) should be duplicated as well, making virtual immortality attainable, similar to other non-reductive physicalist views."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Non-Reductive Physicalism", "relationship": "Overlap" },
+      { "name": "Property Dualism", "relationship": "Overlap" },
+      {
+        "name": "Mind-Brain Identity Theory (Type Identity)",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+    ]
+  }
+}

@@ -1,1 +1,81 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Frank/Gleiser/Thompson’s “The Blind Spot”",
+    "summary": "This framework critiques traditional materialist and dualist approaches by asserting the mutual primacy of consciousness and embodiment, arguing that all scientific investigation necessarily occurs within the 'horizon of consciousness'. It defines the 'hard problem' as an artifact of the 'Blind Spot'—the failure to recognize the irreducible precondition of experience in the search for objective truth—and proposes a radical shift toward neurophenomenology.",
+    "associated_thinkers": ["Adam Frank", "Marcello Gleiser", "Evan Thompson"],
+    "category": "Materialism Theories",
+    "subcategory": "Embodied and Enactive",
+    "core_identity_tagline": "Consciousness as Irreducible Precondition and Embodied Strange Loop",
+    "classification_tags": [
+      "embodiment",
+      "phenomenology",
+      "non-reductionism",
+      "strange loop",
+      "critique"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is identified as an irreducible precondition of scientific knowledge residing within an inescapable 'horizon,' mutually enfolded with embodiment.",
+    "ontological_status": "Non-Reductive Physicalism/Phenomenological Realism (Inferred stance, as the theory explicitly rejects reductionism and physicalism, but advocates a scientifically informed view based on the primacy of experience and embodiment. The source classifies it under Materialism/Embodied and Enactive ).",
+    "mind_body_relationship": "The relationship is described as a 'strange loop,' where the 'primacy of consciousness' subsumes embodiment, and the 'primacy of embodiment' subsumes consciousness, necessitating an integrated view.",
+    "primitive_or_emergent_status": "Primitive/Fundamental (Consciousness is characterized as an 'irreducible precondition' and 'ineliminable primacy' of knowledge, not something that arises sequentially from physical matter, although it is mutually dependent on embodiment ).",
+    "emergence_type": "Not Applicable (The theory rejects the framework of reductionism, physicalism, and objectivism that necessitate traditional weak or strong emergence arguments. The relation is one of 'enfolding' ).",
+    "subjectivity_and_intentionality": "Subjectivity (first-person experience) is given 'primacy' and is central to the theory, rejecting approaches that seek to comprehend consciousness outside this perspective (the Blind Spot). Intentionality is implicitly integrated through associated concepts like neurophenomenology.",
+    "qualia_account": "The qualitative nature of experience (the hard problem) is dismissed as an 'artifact of the Blind Spot,' meaning it is a problem built into reductive metaphysics and is not solvable in those terms.",
+    "ontological_commitments": "Primacy of Consciousness, Primacy of Embodiment, and the Strange Loop relationship between them.",
+    "epistemic_access": "Consciousness is known by acknowledging that 'we inescapably use consciousness to study consciousness'. Access is achieved through the methodology of neurophenomenology, which braids first-person (phenomenological) and third-person (neuroscience) accounts.",
+    "constituents_and_structure": "The basic structure is the mutually encompassing 'strange loop' of consciousness and embodiment."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness, first-person subjective experience, and the necessary relationship between the experiencer and the world (embodiment).",
+    "distinctive_mechanism_or_principle": "Identifying the 'Blind Spot' (humanity's amnesia of experience in the pursuit of objective truth) and advocating for a shift to neurophenomenology to incorporate the primacy of experience into science.",
+    "dynamics_of_emergence": "Consciousness and embodiment dynamically 'enfold each other' rather than one linearly giving rise to the other.",
+    "location_and_distribution": "The location is the 'horizon of consciousness' which subsumes the world and is inextricably tied to the body (embodiment).",
+    "causation_and_functional_role": "Consciousness serves as the necessary context (horizon) and precondition for knowledge acquisition, including scientific knowledge. Its functional role is rooted in the inseparable connection between mind and life processes."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable through the application of neurophenomenological methods, aiming to produce new experiences that serve as touchstones for advancing both phenomenology and neuroscience.",
+    "known_empirical_interventions_or_tests": [
+      "Neurophenomenology (braiding first-person experiential reports with third-person brain data)",
+      "First-person experiential methods (e.g., meditation) to refine attention and awareness"
+    ],
+    "criticisms_and_tensions": "The theory is tension with established materialist theories because it rejects reductionism, physicalism, and the notion that consciousness is an illusion, arguing instead that such approaches are 'artifacts of the Blind Spot'. This radical departure challenges the core foundations of mainstream scientific methodology.",
+    "open_questions_and_limitations": "The theory proposes to dissolve the hard problem by revealing its faulty premises, rather than solving it within traditional scientific parameters, necessitating a major overhaul of the science of consciousness.",
+    "ontological_coherence": "High coherence within its own framework, as it systematically identifies competing theories (NCC, Dualism, Illusionism) as conceptually flawed due to their shared adherence to the 'Blind Spot' worldview."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "The theory views consciousness as intrinsically linked to embodied, first-person experience within a 'strange loop'. Since they critique the computational functionalism underlying most AI approaches, it is unclear if mere non-biological computation could achieve this irreducible, embodied consciousness."
+    },
+    "survival_beyond_death": {
+      "stance": "Uncertain",
+      "rationale": "The theory stresses the primacy of embodiment , suggesting consciousness is tied to the organism. However, its non-reductive stance, supporting a science based on the primacy of experience, does not preclude possibilities for survival, though the sources do not specify a stance."
+    },
+    "meaning_and_purpose": {
+      "stance": "Intrinsic/Existential",
+      "rationale": "The theory aims to reclaim the 'central place of human experience in the scientific enterprise' , implying that meaning and value are fundamentally present in the irreducible reality of consciousness and experience."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Virtual immortality relies on the successful digitization and replication of mental states (computational functionalism). Since the theory views consciousness as an irreducible, embodied phenomenon—a 'strange loop'—it strongly implies that mind uploading would be impossible due to its rejection of the underlying reductionist philosophy."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Neurophenomenology", "relationship": "Support/Extension" },
+      { "name": "Embodied and Enactive Theories", "relationship": "Alignment" },
+      {
+        "name": "Reductionism/Physicalism",
+        "relationship": "Critique/Rejection"
+      },
+      { "name": "Francisco Varela’s work", "relationship": "Influence" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Blind Spot: Why Science Cannot Ignore Human Experience, A. Frank, M. Gleiser, E. Thompson",
+        "year": 2024
+      }
+    ]
+  }
+}

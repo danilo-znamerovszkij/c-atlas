@@ -1,1 +1,106 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Dennett’s Evolution of Minds",
+    "summary": "This framework posits that the mind and consciousness are entirely the result of evolution by natural selection, emphasizing that complex organization (design, reasons, competence) arose without requiring a conscious designer or reasoner. It explains the development of human minds through successive, purely material levels of abstraction and complexity.",
+    "associated_thinkers": [
+      "Daniel Dennett"
+    ],
+    "category": "Materialism Theories",
+    "subcategory": "Phylogenetic Evolution",
+    "core_identity_tagline": "Evolved Minds via Natural Selection without Magic",
+    "classification_tags": [
+      "evolution",
+      "naturalism",
+      "phylogenetic",
+      "materialism",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness and mind are identified as highly complex physical processes—an evolved suite of thinking tools built upon material processes, where the 'magic' of the mind is accomplished without magic.",
+    "ontological_status": "Physicalism",
+    "mind_body_relationship": "Identity theory/Reductionist. Mental states are wholly the product of biological brains, explained fully by physical states, consistent with Dennett's broader materialist stance.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consciousness is fully explainable in principle by underlying physical processes, rejecting the need for strong emergence or non-physical intervention.",
+    "subjectivity_and_intentionality": "Subjectivity is constructed via evolved organizational structures, such as the 'center of narrative gravity'. Intentionality (aboutness) arises when complicated clumps of molecules evolve the capacity to have meaning or content.",
+    "qualia_account": "Qualia (qualitative feel) are treated as incoherent and illusory 'user-illusions'—complex, activated neural networks resulting from the evolutionary process, rather than intrinsic, unanalyzable mental properties.",
+    "ontological_commitments": "Physical world, natural laws, biological brains, and natural selection processes.",
+    "epistemic_access": "Third-person perspective of science, specifically using the method of heterophenomenology to treat introspective claims as data to be explained, not as true accounts of mental reality.",
+    "constituents_and_structure": "The structure of the mind consists of an elaborate kit of evolved 'thinking tools' and hierarchical organizational layers built upon biological evolution."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phylogenetic Origin, Content, Mind structure, Consciousness (deflated/illusionary), Self-awareness (as narrative construction).",
+    "distinctive_mechanism_or_principle": "The immense power of evolution by natural selection, which creates results characterized by 'reasons without a reasoner, design without a designer, and competence without comprehension'.",
+    "dynamics_of_emergence": "Consciousness arose through a gradual, incrementalistic process of mental development across phylogenetic history, traceable from early life forms to human minds.",
+    "location_and_distribution": "Localized in the complex brains of higher organisms, particularly humans, where advanced organization of neural activity supports complex 'thinking tools'.",
+    "causation_and_functional_role": "Mind arose because it provided an adaptive, fitness-enhanced advantage in challenging environments. Its function is to enable complex behaviors and cognition, like self-reflection.",
+    "integration_or_binding": "Integration is achieved via the evolution of content fixation and propagation in the brain which coalesces into a kind of life story or 'center of narrative gravity'.",
+    "information_flow_or_representation": "Evolution enables the brain to process information such that different brain regions generate 'multiple drafts' which compete for attention (fame in the brain), forming a narrative stream.",
+    "evolutionary_account": "Consciousness is a non-magical, evolutionary achievement where organisms developed complex capabilities like modeling, predicting, and simulating, culminating in human introspection and abstract thought.",
+    "core_claims_and_evidence": [
+      "The origin of minds can be explained by biological evolution without recourse to non-physical elements.",
+      "The complexity of the human mind is the culmination of evolution, producing specialized 'thinking tools'.",
+      "Phenomenal properties are incoherent illusions arising from complex, evolved neural activity."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical Argument, Evolutionary Biology, Logic"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable against biological and neo-Darwinian consistency; indirectly supported by neuroscientific findings correlated with functionalist models.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Criticized for sidestepping the 'hard problem' by asserting that consciousness (qualia) is an illusion or pseudo-problem. Opponents question the evolutionary advantage of subjective experience if it is merely an illusion or epiphenomenon.",
+    "open_questions_and_limitations": "Does not provide a direct explanation for the subjective feel of experience, only an explanation for why we *report* having such an experience.",
+    "ontological_coherence": "Highly coherent, using Darwinian evolution as a 'universal acid' to ground all aspects of mind, including traditionally non-material concepts, firmly within a strict physicalist ontology."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "As consciousness is entirely material and results from complex organization (functionalism/materialism), there is no principled prohibition against non-biological intelligences achieving consciousness if the correct complexity is replicated."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is tied wholly to the physical brain; death results in irrevocable and permanent non-existence, unless the self is preserved digitally (virtual immortality)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The evolutionary process operates by 'design without a designer', meaning there is no inherent cosmic meaning or purpose; meaning is self-created by conscious humans."
+    },
+    "virtual_immortality": {
+      "stance": "Yes",
+      "rationale": "If consciousness is wholly explained by the evolved physical/functional organization of the brain, then a perfect duplication of these neural patterns and pathways in a non-biological medium should preserve the first-person mental self."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Multiple Drafts Model",
+        "relationship": "Foundation"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Lycan’s Homuncular Functionalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "LeDoux’s Deep Roots of Consciousness",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "From Bacteria to Bach and Back: The Evolution of Minds, Daniel Dennett",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Consciousness Explained, Daniel Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Darwin’s Dangerous Idea: Evolution and the Meanings of Life, Daniel Dennett",
+        "year": 1995
+      }
+    ]
+  }
+}

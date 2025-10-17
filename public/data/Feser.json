@@ -1,1 +1,96 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Feser’s Neo-Thomistic, Neo-Aristotelian, Common-Sense Dualism",
+    "summary": "This dualist theory posits that human intellect (abstract concepts and reasoning) is an immaterial faculty and cannot be reduced to material processes. It solves the 'hard problem' by advocating a return to Aristotelian common-sense realism, where sensory qualities (qualia) are objective properties of the external material world, thereby dissolving the dilemma caused by the modern austere, quantitative conception of matter.",
+    "associated_thinkers": ["Edward Feser"],
+    "category": "Dualisms",
+    "subcategory": "Neo-Thomistic, Neo-Aristotelian, Common-Sense Dualism",
+    "core_identity_tagline": "Consciousness via Immaterial Intellect and Objective Qualities",
+    "classification_tags": [
+      "dualism",
+      "aristotelian",
+      "immaterial",
+      "intellect",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is identified as a composite reality consisting of an immaterial intellectual faculty, responsible for determinate thought, and material sensory faculties perceiving objective, qualitative properties in the world.",
+    "ontological_status": "Dualism (Neo-Thomistic/Neo-Aristotelian form)",
+    "mind_body_relationship": "The soul is a substantial, unified reality that acts as the form of the body (Thomistic view). The intellectual faculty (a subset of mental states) is irreducible to material processes. The theory challenges the materialist conception of matter that generated the mind-body problem.",
+    "primitive_or_emergent_status": "Non-Emergent (for intellect); Sensory properties are fundamental to objective reality",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "The intellect's capacity to grasp universals and maintain determinate, unambiguous conceptual content (intentionality) necessitates its irreducibility to material processes. Common-sense direct realism means we perceive the world actually as it appears.",
+    "qualia_account": "Qualitative features (secondary qualities like color, sound, heat) are argued to be real, objective properties inherent in external material objects (common-sense direct realism), eliminating the need for them to be located solely in an immaterial mind as per Cartesian models.",
+    "ontological_commitments": "Immaterial substances or faculties (intellect, soul) , alongside material entities possessing inherent objective qualitative properties.",
+    "epistemic_access": "Primarily accessed through philosophical analysis, logic, and reasoning about the nature of thought, supported by common-sense perception (direct realism).",
+    "constituents_and_structure": "A hylomorphic composite structure where the soul (including the immaterial intellect) is the form of the living body. Intellectual activity involves grasping abstract concepts (universals)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Intellectual Activity (reasoning, determinate thought), Sensory Consciousness (phenomenal qualia as objective properties).",
+    "distinctive_mechanism_or_principle": "The argument that the necessity of determinate content in thought (logic, mathematics) entails the irreducibility and immateriality of the intellectual faculty.",
+    "dynamics_of_emergence": "The focus is on refuting the metaphysical premises that lead to the hard problem rather than describing emergence. The irreducibility of the intellect is based on its nature (grasping universals) being fundamentally incompatible with material processes (which handle particulars).",
+    "location_and_distribution": "The intellect is associated with the soul, which is immaterial and subsistent. Sensory qualities are located objectively in external objects in the world, not just in the brain.",
+    "causation_and_functional_role": "The intellect's function is crucial for mathematics, logic, and language by ensuring thoughts and concepts have determinate, unambiguous content.",
+    "integration_or_binding": "Unity of experience is implicitly grounded in the soul as the substantial, unified reality that informs the body. (Explicit mechanistic description is not provided in the sources.)",
+    "information_flow_or_representation": "Intellectual activity involves concepts (universals) which are categorically distinct from, and irreducible to, mental images or sensations (particulars).",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "The hard problem is a pseudo-problem arising from a flawed modern conception of matter (Galileo's Error).",
+      "Intellectual activity cannot be reduced to material processes because this reduction inevitably denies the existence of determinate or unambiguous content in thought.",
+      "Secondary qualities (like color and sound) are objective properties of matter, consistent with common sense."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical, Rationalist, Common-Sense"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Primarily conceptually and logically grounded. Arguments are used to demonstrate the incompatibility of reductive materialism with determinate thought.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Critics argue that neuroscience will eventually close the explanatory gap without needing an immaterial intellect. It must provide a coherent account of mental causation, although it attempts to avoid the Cartesian interaction problem by redefining matter.",
+    "open_questions_and_limitations": "The precise mechanism of how the immaterial intellect interacts with the physical brain remains largely unexplained (the interaction problem).",
+    "ontological_coherence": "Highly coherent within its Neo-Thomistic/Neo-Aristotelian framework, arguing that it resolves the misleading dichotomy between traditional materialism and Cartesian dualism."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely No",
+      "rationale": "If the intellect (required for determinate thought and abstract concepts) is fundamentally immaterial and irreducible to material processes , then purely computational/material AI cannot instantiate the complete human consciousness described by the theory."
+    },
+    "survival_beyond_death": {
+      "stance": "Yes",
+      "rationale": "The soul is defined as an immaterial and subsistent entity, capable of existing and exercising cognitive function on its own apart from the body, though this is considered unnatural to it."
+    },
+    "meaning_and_purpose": {
+      "stance": "Yes",
+      "rationale": "The preservation of determinate content in thought, logic, and intellectual universals, coupled with the ontological commitment to the soul, implies a non-deflationary view of meaning that avoids materialistic nihilism."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "Virtual immortality relies on computational functionalism. Since Feser argues that intellectual consciousness is not reducible to, or explicable by, material processes , the complete human self cannot be digitally uploaded."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Stump’s Thomistic Dualism", "relationship": "Compatible" },
+      { "name": "Cartesian Dualism", "relationship": "Critique" },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "Critique"
+      },
+      { "name": "Mind-Brain Identity Theory", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Think, McFly, think, Edward Feser", "year": 2012 },
+      {
+        "title_with_names": "Aristotle, call your office, Edward Feser",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Chomsky on consciousness, Edward Feser",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Non-cartesian substance dualism and materialism without reductionism, Eleonore Stump",
+        "year": 1995
+      }
+    ]
+  }
+}

@@ -1,1 +1,82 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Hirstein’s Mindmelding",
+    "summary": "William Hirstein argues that the primary obstacle preventing a straightforward physical explanation of the conscious mind is the unfounded 'assumption of privacy'. By removing this metaphysical assumption—the idea that one person can never experience another’s conscious states—the motivation for creating vexing dualisms, panpsychisms, and theories claiming insolubility is undermined.",
+    "associated_thinkers": ["William Hirstein"],
+    "category": "Materialism",
+    "subcategory": "Neurobiological",
+    "core_identity_tagline": "Consciousness explained by rejecting metaphysical privacy",
+    "classification_tags": [
+      "privacy",
+      "physicalism",
+      "neuroscience",
+      "anti-dualism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a physical phenomenon explainable in straightforward physical terms, provided the false philosophical premise of intrinsic privacy is dismissed.",
+    "ontological_status": "Physicalism / Reductive Physicalism (Inferred: The theory aims to counter non-physicalist ontologies by arguing for a fully physical explanation and is categorized under Materialism.)",
+    "mind_body_relationship": "Identity (Inferred: By aiming to explain the conscious mind in 'straightforwardly physical terms,' the theory fundamentally supports a mind-brain identity stance, overcoming the conceptual barriers that motivate dualism.)",
+    "primitive_or_emergent_status": "Emergent (Inferred: As a Materialist/Neurobiological theory , consciousness is presumed to arise from complex underlying physical processes rather than being fundamental.)",
+    "emergence_type": "Weak Emergence or Reduction (Justification: The goal is to show consciousness can be explained physically and without residue, indicating that the properties are reducible or weakly emergent in principle.)",
+    "subjectivity_and_intentionality": "Subjectivity is conceived as fully compatible with physicalist explanation once the 'assumption of privacy'—which creates the illusion of metaphysical distance—is rejected.",
+    "qualia_account": "The qualitative feel of consciousness is fundamentally accounted for within a physicalist explanation, once the conceptual need for non-physical explanations (driven by the privacy assumption) is dissolved.",
+    "ontological_commitments": "Physical processes and neurobiological mechanisms (Inferred: The theory resides within the Materialism category, suggesting that physical reality, specifically the brain, is the substrate.)",
+    "epistemic_access": "Primarily through objective, third-person scientific and neurobiological investigation, supported by the philosophical realization that the apparent difficulty of gaining first-person access to others' states is not a metaphysical barrier.",
+    "constituents_and_structure": "Neural mechanisms and structures (Inferred from its classification under Neurobiological Theories.)"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness (The focus is on explaining the nature of the conscious mind in terms that refute non-physicalist theories, which often focus on qualia and subjectivity).",
+    "distinctive_mechanism_or_principle": "The rejection or undermining of the conceptual 'assumption of privacy' is the core explanatory principle, allowing the conscious mind to be solved by standard physical explanation.",
+    "dynamics_of_emergence": "The mechanism is implicitly neurobiological and dynamic, consistent with other theories in its category. Specific dynamics are not detailed in the provided sources.",
+    "location_and_distribution": "Localized in the brain (Inferred from its classification as a Neurobiological Materialism Theory.)",
+    "causation_and_functional_role": "Consciousness has causal efficacy that is compatible with physical causation, as the theory aims to provide a 'straightforwardly physical' account that defeats dualism.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Information flow/processing is implied to be the basis of consciousness, consistent with other Materialist theories, once conceptual barriers are removed.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "The 'assumption of privacy' (metaphysical impossibility of sharing conscious states) falsely leads to non-physicalist theories of consciousness.",
+      "The conscious mind can be explained in straightforwardly physical terms if conceptual errors like the assumption of privacy are overcome."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (Critique of metaphysical barriers) and inferred Neurobiological/Empirical (as the basis for the positive, 'straightforwardly physical' explanation )."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable, as the primary claim relies on refuting a philosophical premise ('assumption of privacy'). Empirical testability relies on the success of the implied subsequent physicalist theory.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "The main criticism would likely focus on whether simply identifying the 'assumption of privacy' as the error actually suffices to close the explanatory gap and deliver a complete, detailed physical explanation of consciousness.",
+    "open_questions_and_limitations": "The theory must ultimately present the detailed positive physical description that explains consciousness (e.g., specific neural correlates or mechanisms) once the philosophical obstacle is removed.",
+    "ontological_coherence": "Highly coherent with physicalist and materialist ontological frameworks, as its goal is explicitly to demonstrate the sufficiency of physical explanations."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "Since the theory seeks a 'straightforwardly physical' explanation for consciousness and is categorized as Materialism, there is no in-principle prohibition on creating conscious AI."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "The theory is a Materialist model aiming to defeat dualisms. Materialism holds that consciousness is solely a product of the biological brain, meaning it ceases upon biological death."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Materialism Theories generally assert that while humans can create meaning and value for themselves, there is no ultimate cosmic meaning or purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Yes",
+      "rationale": "If consciousness is wholly explainable in physical terms (as Hirstein argues) , then uploading a person's complete neural patterns and pathways would, in principle, preserve the first-person mental self."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Substance Dualism", "relationship": "Critique" },
+      { "name": "Panpsychisms", "relationship": "Critique" },
+      { "name": "Mind-Brain Identity Theory", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Hirstein’s mindmelding", "year": "" },
+      {
+        "title_with_names": "Mindmelding: Consciousness, Neuroscience, and the Mind’s Privacy, William Hirstein",
+        "year": 2012
+      }
+    ]
+  }
+}

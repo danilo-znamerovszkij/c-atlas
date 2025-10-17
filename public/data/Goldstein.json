@@ -1,1 +1,95 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Goldstein’s Mind-Body Problem",
+    "summary": "This theory asserts that consciousness consists entirely of brain matter, rejecting nonmaterial states. However, it centers the mind-body problem on the idea that while physical processes can be analyzed completely by science (the external description), the internal subjective description of a person (thoughts, emotions, feelings) cannot be derived or fully accessed by that purely physical description, highlighting a persistent explanatory gap.",
+    "associated_thinkers": [
+      "Rebecca Newberger Goldstein"
+    ],
+    "category": "Materialism",
+    "subcategory": "Philosophical",
+    "core_identity_tagline": "‘Consciousness as Inderivable Brain Stuff’",
+    "classification_tags": [
+      "explanatory gap",
+      "materialism",
+      "subjectivity",
+      "description"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness, encompassing inner thoughts, perceptions, emotions, dreams, and states of feeling, is identified as being entirely brain stuff, although the subjective, internal description of this brain stuff is inaccessible to complete external scientific analysis.",
+    "ontological_status": "Physicalism",
+    "mind_body_relationship": "Conscious states are radically identical to brain states (Materialist Identity Theory), but the conceptual complexity of the subjective (internal) description cannot be deduced from the descriptive analysis of the physical (external) brain state.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence/Explanatory Gap. Consciousness is ultimately material, but its subjective description cannot, even in principle, be derived from the objective description of the physical substrate.",
+    "subjectivity_and_intentionality": "Subjectivity is the 'inner description' of being a person (thoughts, emotions, dreams), which a complete analysis of the physical brain cannot fully access or describe. Intentional states are entirely based on brain stuff.",
+    "qualia_account": "Qualia (states of feeling) are aspects of the internal description of conscious experience that are entirely brain stuff but are not fully articulable by the purely physical vocabulary of science.",
+    "ontological_commitments": "Physical bodies and brains. Explicit rejection of nonmaterial states or substances (rejects dualism).",
+    "epistemic_access": "The internal description is known primarily through the first-person perspective, such as when creating a character in a novel. The third-person scientific approach (analyzing the brain) is inherently limited in accessing this knowledge.",
+    "constituents_and_structure": "The basic underlying stuff is 'entirely brain stuff'. The core structure revolves around the tension between the physical/analyzable description and the inner/inaccessible description of a single material reality."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": [
+      "Phenomenal",
+      "Intentionality"
+    ],
+    "distinctive_mechanism_or_principle": "The principle centers on the non-derivability of the subjective, internal description of a person from a complete, objective analysis of their physical body and brain, despite the ontological identity of the mental and the physical.",
+    "dynamics_of_emergence": "The focus is philosophical and descriptive, emphasizing the informational/conceptual separation between physical and mental descriptions rather than a temporal or systemic developmental mechanism.",
+    "location_and_distribution": "Located solely in the physical bodies and brains.",
+    "causation_and_functional_role": "Consciousness, as intentional states and states of feeling, is physical brain stuff. As a materialist view, mental states are causally effective as physical brain states."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Philosophical/Conceptual. The central claim is about the inherent limitations of descriptive science to access subjectivity, which is not falsifiable via empirical means.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "The theory faces the inherent tension of Type B Materialism: accepting the ontological claim that consciousness is entirely physical, while asserting a potentially unclosable explanatory (epistemic) gap regarding the nature of subjective experience.",
+    "open_questions_and_limitations": "The primary limitation is the persistent inability for science to bridge the descriptive gap between brain states and the richness of first-person experience, even if the underlying reality is monistic.",
+    "ontological_coherence": "Highly coherent within physicalist frameworks that acknowledge the hard problem as primarily epistemic, not ontological, such as Type B Materialism."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "As the theory is fundamentally materialist and rejects nonmaterial substances, AI consciousness should be possible in principle if computational or physical systems can instantiate the necessary 'brain stuff' configurations, even if the resulting subjective experience remains opaque to external analysis."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is entirely 'brain stuff' and inseparable from the physical body, and the theory explicitly rejects dualism, which is often associated with survival after death."
+    },
+    "meaning_and_purpose": {
+      "stance": "Uncertain",
+      "rationale": "While ontologically physicalist, the theory's focus on the irreducibly rich inner life of the person implies a profound, inherent value in subjectivity, though it does not mandate a cosmic or ultimate purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Likely",
+      "rationale": "If conscious states are identical to physical brain states (brain stuff), then a perfect duplication or uploading of those physical states into a new medium should logically preserve the original first-person mental self."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Stoljar’s Epistemic View and Non-Standard Physicalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Dualisms",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "Contrasting View"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Why a Mind-Body Problem?",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Is consciousness irreducible?",
+        "year": 2011
+      }
+    ]
+  }
+}

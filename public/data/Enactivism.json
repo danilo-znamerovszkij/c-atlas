@@ -1,1 +1,111 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Enactivism",
+    "summary": "Enactivism posits that mental activities and cognition arise from the dynamic, reciprocal interaction between a living organism and its environment, mediated by its sensorimotor processes. Consciousness is seen as an embodied activity, making the idea of a mind without a body incoherent.",
+    "associated_thinkers": [
+      "Francisco Varela",
+      "Eleanor Rosch",
+      "Evan Thompson"
+    ],
+    "category": "Materialism",
+    "subcategory": "Embodied and Enactive",
+    "core_identity_tagline": "Cognition via Dynamic Organism-Environment Interaction",
+    "classification_tags": [
+      "embodied",
+      "cognition",
+      "dynamic",
+      "interaction",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Mental activities are identified as embodied activities that emerge from the dynamic, bidirectional exchanges between an organism and its surroundings, regulated by sensorimotor processes.",
+    "ontological_status": "Physicalism",
+    "mind_body_relationship": "Mind and mental life ramify through the body and environment, meaning they cannot be reduced simply to brain processes inside the head. The relationship is one of dynamic interaction and co-relation, often termed 'embodied dynamism'.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Natural Emergence. Consciousness arises via evolutionary stages of cognition and proto-consciousness. The approach seeks to explain the transition from life to mind using the same kind of processes that enable the transition from nonlife to life.",
+    "subjectivity_and_intentionality": "Subjectivity is explored through the primacy of lived experience (phenomenology). Intentionality (directedness of thought) is explained by the idea that the mind actively constitutes its objects, bringing the world to awareness or disclosing it through interaction.",
+    "qualia_account": "The theory’s associated methodology, Neurophenomenology, emphasizes the irreducible nature of conscious experience and lived experience. While the mechanistic details of qualia generation are not explicitly detailed in the provided text, the focus is on experience’s direct, lived quality.",
+    "ontological_commitments": "Living systems, organism-environment interactions, sensorimotor processes, and self-organizing constraints. The approach is sometimes characterized as an ontological breakthrough emphasizing the primacy of embodiment.",
+    "epistemic_access": "Lived experience is the necessary starting point and guiding thread for investigation ('neurophenomenology'), which must be linked systematically with advances in biology and cognitive science.",
+    "constituents_and_structure": "Self-creating, self-organizing, self-adapting, self-sustaining living creatures whose mind arises from continuous reciprocal interactions (embodied dynamism)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness (studied via neurophenomenology) , Cognition (as embodied activities) , and Agency (organisms as active agents).",
+    "distinctive_mechanism_or_principle": "Continuous, iterative, and dynamic bidirectional exchanges between the organism and its environment, mediated by sensorimotor processes.",
+    "dynamics_of_emergence": "Consciousness is a dynamic, ongoing, temporal process, where self-organized internal states emerge as compensations triggered by environmental perturbations, rather than solely as internal representations.",
+    "location_and_distribution": "The location of consciousness is distributed or 'situated in the world,' ramifying through the body and environment, exceeding the bounds of the brain alone.",
+    "causation_and_functional_role": "Enables organisms to be active agents who self-regulate, maintain self-integrity, and persistently recreate their capacity for self-creation.",
+    "integration_or_binding": "Integration is implicit in the definition of the organism-environment system as the unit of analysis and the resulting self-organizing, self-sustaining nature of the living organism.",
+    "information_flow_or_representation": "Often frames cognition as non-representational, contrasting with internal representation theories. Internal states are described as self-organized compensations triggered by perturbations, not representations of external affairs.",
+    "evolutionary_account": "Consciousness evolved via stages of cognition and proto-consciousness selected due to fitness-enhanced traits in challenging environments.",
+    "core_claims_and_evidence": [
+      "Cognition/mental activities are constituted by embodied activities.",
+      "The organism actively shapes, and is shaped by, its environment iteratively.",
+      "Neurophenomenology, an extension of enactivism, attempts to systematically link irreducible lived experience (first-person) with neuroscience (third-person)."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (Phenomenological), Theoretical, Biological/Evolutionary."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable through the application of Neurophenomenology, which coordinates first-person descriptions with third-person neurobiological data.",
+    "known_empirical_interventions_or_tests": [
+      "Neurophenomenological research methods (e.g., micro-phenomenological interviews) ",
+      "Investigations into the experience of boundaries of the self using neurological and phenomenological data "
+    ],
+    "criticisms_and_tensions": "The main methodological challenge lies in gathering accurate first-person reporting and interpretation and systematically correlating it with objective neuroscientific data.",
+    "open_questions_and_limitations": "Does not fully bridge the explanatory gap in a reductive sense, but rather seeks to enlarge and enrich the resources for addressing it.",
+    "ontological_coherence": "High. The approach uses phenomenology to naturalize its investigations by aligning them with biology and cognitive science, seeking internal consistency between the lived world and scientific description."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "Enactivism is a Materialism Theory (Embodied). Materialism generally holds that AI consciousness must be possible in principle, provided the necessary physical and embodied organizational complexity (including the ability to interact dynamically with an environment) is replicated in the artificial system."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is tightly tied to the embodied, living organism and its biological processes. Since the organism is physical, consciousness is expected to cease upon biological death (standard Materialist position)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "As a Materialism Theory , Enactivism provides no evidence for ultimate cosmic meaning or purpose, recognizing only the meaning and value that humans create for themselves through agency and interaction."
+    },
+    "virtual_immortality": {
+      "stance": "Yes",
+      "rationale": "If Enactivism is correct, then virtual immortality would be attainable if the complex, dynamic processes that constitute the embodied, self-organizing mind could be perfectly duplicated or simulated in a non-biological medium."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Embodied Cognition",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Neurophenomenology",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Ecological Psychology (Gibson’s)",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Dynamic Systems Approach",
+        "relationship": "Influence"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, Francisco Varela, Eleanor Rosch, Evan Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Mind in Life: Biology, Phenomenology, and the Sciences of Mind, Evan Thompson",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Enactivism, Daniel Hutto",
+        "year": 2023
+      }
+    ]
+  }
+}

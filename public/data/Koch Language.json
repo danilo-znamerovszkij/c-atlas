@@ -1,1 +1,99 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Koch’s Consciousness does not Depend on Language Theory",
+    "summary": "This theory asserts that phenomenal consciousness, or basic inner experience, is functionally independent of language capacity. It is supported by clinical cases where language ability is severely impaired or lost, yet fundamental awareness is retained, leading to the conclusion that basic sentience is a widespread property shared with many non-linguistic animals.",
+    "associated_thinkers": ["Christof Koch"],
+    "category": "Materialism Theories",
+    "subcategory": "Language Relationships",
+    "core_identity_tagline": "Consciousness is independent of language",
+    "classification_tags": [
+      "phenomenal consciousness",
+      "language",
+      "neurobiology",
+      "animal consciousness",
+      "materialism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is identified as a physical/biological phenomenon in the brain whose fundamental mechanism is distinct from, and independent of, symbolic language processing.",
+    "ontological_status": "Physicalism",
+    "mind_body_relationship": "Mind (basic phenomenal consciousness) is tied to the physical brain processes, which are separate from linguistic processes.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
+    "subjectivity_and_intentionality": "Basic subjectivity (sentience) is retained even without language. Language contributes massively to the self as a 'narrative center,' which constitutes higher-order aspects of subjectivity.",
+    "qualia_account": "Qualia (basic inner experience) exists in non-linguistic entities and is independent of symbolic capabilities.",
+    "ontological_commitments": "Biological brains and the underlying physical mechanisms that generate basic awareness.",
+    "epistemic_access": "Accessed through third-person observation, specifically clinical cases showing a dissociation between language loss and consciousness retention.",
+    "constituents_and_structure": "Consciousness arises from physical brain mechanisms that are independent of the cerebral structures dedicated to language and inner speech."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness (basic inner experience) and sentience.",
+    "distinctive_mechanism_or_principle": "The principle of dissociation, where the neural substrate necessary and sufficient for consciousness (NCC) is distinct from the neural correlates of language.",
+    "dynamics_of_emergence": "Basic consciousness is a product of biological processes that evolved independently of human linguistic complexity.",
+    "location_and_distribution": "Located in the biological brain; distributed widely across species (e.g., all mammals) regardless of language ability.",
+    "causation_and_functional_role": "Basic consciousness operates independently of language functions. Language's role is primarily to enhance higher-order human functions, such as the sense of self.",
+    "binding_and_unity": "The unity of basic phenomenal experience must be achieved through non-linguistic physical or neural mechanisms.",
+    "information_flow_or_representation": "Information processing related to raw experience does not require symbolic language representation.",
+    "evolutionary_account": "Consciousness evolved prior to human language capabilities, as evidenced by its presence in non-linguistic animals, suggesting its adaptive role is not contingent on language.",
+    "core_claims_and_evidence": [
+      "Consciousness does not depend on language.",
+      "Clinical cases of brain insult demonstrate that consciousness is retained when language is lost.",
+      "Sentience is shared with all mammals, rejecting the anthropocentric view that only humans experience anything."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical, Clinical, and Philosophical"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable through neuroscientific study of non-linguistic animals and clinical research on brain trauma victims demonstrating persistent awareness despite aphasiac conditions.",
+    "critiques_and_challenges": "Although Koch argues against classical views linking language and consciousness, the contemporary scientific consensus already agrees that basic consciousness does not require language.",
+    "open_questions_and_limitations": "The theory confirms what consciousness is *not* dependent on (language) but does not provide a positive solution for the hard problem of consciousness (i.e., what phenomenal experience literally is).",
+    "ontological_coherence": "Highly coherent within the Materialist category, particularly for arguments distinguishing basic awareness from complex, language-mediated self-consciousness."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Since language is not necessary for consciousness, AI's linguistic capability (LLMs) is irrelevant. AI consciousness depends entirely on whether the necessary non-linguistic physical substrate can be replicated in artificial systems."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consistent with its materialist categorization, consciousness is tied to a physical substrate (the brain) and cannot persist after biological death."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Consciousness enables the self to function as a narrative center via language, allowing for human-created meaning, but the underlying material reality suggests no ultimate cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Conditional",
+      "rationale": "If consciousness is decoupled from language, the focus shifts entirely to duplicating the non-linguistic, physical substrate of basic awareness. If this specific non-linguistic neural structure can be duplicated, virtual immortality is possible."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Searle’s Language and Consciousness",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Andrews’s Consciousness Without Complex Brains",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Smith’s Language as Classifier of Consciousness",
+        "relationship": "Overlap"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Feeling of Life Itself: Why Consciousness is Widespread but Can’t Be Computed",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Consciousness doesn’t depend on language, Christof Koch",
+        "year": 2019
+      }
+    ]
+  }
+}

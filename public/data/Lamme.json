@@ -1,1 +1,99 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Lamme's Recurrent Processing Theory",
+    "summary": "Lamme's Recurrent Processing Theory (RPT) posits that consciousness is both necessary and sufficient when reciprocal (recurrent) feedback connections occur among neural areas, particularly in sensory systems. This processing, which happens locally in sensory and post-sensory areas (Stage 3), generates phenomenal experience without requiring global broadcast access.",
+    "associated_thinkers": ["Victor Lamme"],
+    "category": "Materialism",
+    "subcategory": "Representational",
+    "core_identity_tagline": "‘Consciousness as Recurrent Processing in Sensory Systems’",
+    "classification_tags": [
+      "neuroscience",
+      "visual system",
+      "recurrent connections",
+      "first-order theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is identified as a specific recurrent processing state holding within relevant neural circuitry, such as the visual system.",
+    "ontological_status": "Physicalism",
+    "mind_body_relationship": "Identity/Reductionist approach, arguing that the notion of mind must move toward that of the brain, and consciousness is identical to a recurrent processing state in physical circuitry.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
+    "subjectivity_and_intentionality": "Subjectivity (phenomenal consciousness) is the recurrent processing state itself. Intentionality is carried by the content represented within these loops (Inferred as a Representational/First-Order theory).",
+    "qualia_account": "Qualia are generated when a certain recurrent processing state holds of the relevant visual circuitry, making the visual state conscious.",
+    "ontological_commitments": "Brain sensory systems, neural circuitry (visual circuitry), feedforward and feedback connections.",
+    "epistemic_access": "Accessible via neural and behavioral measures, which Lamme suggests should be put on an equal footing.",
+    "constituents_and_structure": "Massively interconnected neural circuits (recurrent loops) involving feedforward and feedback connections."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal",
+    "distinctive_mechanism_or_principle": "Recurrent processing (feedback connections) in sensory and post-sensory areas (Stage 3) is considered sufficient for consciousness.",
+    "dynamics_of_emergence": "Dynamic process. Conscious states are the result of dynamic activity yielded by feedback connections linking visual areas with other brain regions.",
+    "location_and_distribution": "Localized in sensory and post-sensory areas, specifically recurrent activations in the 'back of the head'.",
+    "causation_and_functional_role": "Consciousness is the specific recurrent processing state itself. The underlying purpose is implied to move the understanding of mind toward the brain.",
+    "integration_or_binding": "Integration is achieved locally within the recurrent loops in perceptual areas.",
+    "information_flow_or_representation": "Information involves an initial forward sweep (unconscious registration) followed by feedback connections yielding recurrent processing (consciousness).",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Consciousness requires massively interconnected sensory systems involving feedforward and feedback connections (recurrent processing).",
+      "Recurrent processing in sensory and post-sensory areas is necessary and sufficient for phenomenal consciousness.",
+      "Conscious perception is identified with recurrent activations in the back of the head (first-order theory)."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical, Neurobiological, Conceptual"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Critiques Global Workspace Theory (GWT) as being 'all about access but not about seeing'. Is itself criticized by Ned Block as a 'truncated form of the global workspace account'.",
+    "open_questions_and_limitations": "Recurrent activations are only sufficient for consciousness given certain 'background conditions' such as intact connectivity with subcortical structures.",
+    "ontological_coherence": "Highly coherent within the Materialist ontology by grounding consciousness wholly in specific, identified neural mechanisms."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "As a Materialism Theory, AI consciousness must, in principle, be possible if the requisite pattern of recurrent processing could be artificially duplicated in a non-biological substrate."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is tied to physical brain activity and specific neural circuitry (recurrent processing states), suggesting cessation upon bodily death."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The theory focuses on a purely physicalist, neurobiological explanation of phenomenal experience and does not support any ultimate cosmic meaning or purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Yes",
+      "rationale": "Since consciousness is the recurrent processing state itself, a perfect duplication of that process onto a new medium (upload) would generate the first-person self, enabling virtual immortality."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Critique"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Block’s Biological Reductionism",
+        "relationship": "Overlap"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Towards a true neural stance on consciousness, Victor Lamme",
+        "year": 2006
+      },
+      {
+        "title_with_names": "How neuroscience will change our view on consciousness, Victor Lamme",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Wu, 2018 (Discussing Lamme's RPT)",
+        "year": 2018
+      }
+    ]
+  }
+}

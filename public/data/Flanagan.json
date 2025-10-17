@@ -1,1 +1,100 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Flanagan’s Constructive Naturalism",
+    "summary": "This theory asserts that human consciousness is neither miraculous nor mysterious, offering a powerful synthetic view where subjective, phenomenal aspects are fully recognized while being entirely accounted for by their neural bases, residing without residue in the brain. Flanagan seeks to mesh a naturalistic metaphysics of mind with the maturing understanding of how the brain functions.",
+    "associated_thinkers": [
+      "Owen Flanagan"
+    ],
+    "category": "Materialism",
+    "subcategory": "Philosophical",
+    "core_identity_tagline": "‘Consciousness as Neurophilosophical Constructive Naturalism’",
+    "classification_tags": [
+      "physicalism",
+      "neurophilosophy",
+      "emergence",
+      "subjectivity",
+      "causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is identified as a heterogeneous set of events and processes that share the property of being experienced; fundamentally, mind and brain are one and the same thing.",
+    "ontological_status": "Physicalism / Constructive Naturalism",
+    "mind_body_relationship": "Mind and brain are identical, being one and the same thing seen from two different perspectives; the gap between subjective and objective views is epistemic, not ontological.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence (Flanagan recognizes emergent natural properties that, despite obeying physical laws, are not reducible to physics.)",
+    "subjectivity_and_intentionality": "Subjective consciousness is real and plays an important causal role. Subjectivity accrues first-personally because individuals possess organismic integrity. Intentionality is implicitly accounted for by the brain being a 'Darwin machine' where meaning holism is true.",
+    "qualia_account": "The subjective, phenomenal aspects of consciousness are granted their full due as real, though reliance on phenomenology alone is cautioned against because it can foster illusions about consciousness's nature.",
+    "ontological_commitments": "Material reality; complex biological brains (described as 'Darwin machines' of parallel processors); emergent natural properties.",
+    "epistemic_access": "Through neurophilosophical integration of naturalistic metaphysics and empirical neuroscience, while acknowledging that self-reporting can be mistaken.",
+    "constituents_and_structure": "Consciousness is a heterogeneous set of experienced processes realized in the brain, which is viewed as a massively well-connected system of parallel processors interacting extensively."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness, Subjectivity, Causal Role/Agency.",
+    "distinctive_mechanism_or_principle": "Consciousness arises from emergent natural properties within the brain that facilitate mental causation, such as ideas originating in one cortical region (e.g., prefrontal cortex) calling up information from another (e.g., parietal association cortex).",
+    "dynamics_of_emergence": "Consciousness is a dynamic set of events and processes arising from the massive, parallel interaction of processors within the brain.",
+    "location_and_distribution": "Resides without residue in the brain.",
+    "causation_and_functional_role": "Conscious thought plays an important causal role in action execution, directly rejecting epiphenomenalism. Mental causation is brain-bound, relying on neural mechanisms.",
+    "binding_and_unity": "Unity and binding are implicitly achieved through the function of the brain as a 'massively well-connected system of parallel processors' where meaning holism is achieved.",
+    "information_flow_or_representation": "Information is processed holistically within the highly connected system of parallel processors; mental states are realized physically in unique ways within the individual brain.",
+    "evolutionary_account": "Implicitly relies on evolution, viewing the mind as the brain, a 'Darwin machine.' The philosophical implication is explored through 'neuroexistentialism'—the clash between the scientific and humanistic images of persons."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable (based on congruence with maturing neuroscience).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Must defend the claim that consciousness is real and causally effective while remaining entirely brain-bound. Also must address the 'epistemic gap' (the difference between first-person seeming and third-person description) without postulating an ontological gap.",
+    "open_questions_and_limitations": "The 'really hard problem' for the theory is finding 'meaning in a material world' ('neuroexistentialism'). The explanatory framework relies on a 'still sketchy but maturing understanding' of brain function.",
+    "ontological_coherence": "Coherent within its defined framework of constructive naturalism, uniting physical identity with non-reductive emergent properties. It stands opposed to epiphenomenalism and strict eliminative materialism."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "As a strong physicalist theory where consciousness resides entirely in the brain, the realization of the requisite complex emergent neural processes in artificial systems would conceptually enable AI consciousness."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is entirely constituted by physical brain processes and their emergent properties, prohibiting survival after the biological substrate is destroyed."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The materialist foundation implies no ultimate cosmic purpose. Flanagan addresses the existential concerns of finding 'meaning in a material world' (neuroexistentialism), suggesting purpose must be self-created."
+    },
+    "virtual_immortality": {
+      "stance": "Likely",
+      "rationale": "If the conscious self is identical to the brain's complex processes (including emergent properties and causal roles), a perfect, advanced replication of this system in non-biological media should, in principle, achieve virtual immortality."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Emergence",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness Reconsidered, Owen Flanagan",
+        "year": 1993
+      },
+      {
+        "title_with_names": "The Problem of the Soul, Owen Flanagan",
+        "year": 2003
+      },
+      {
+        "title_with_names": "The Really Hard Problem: Meaning in a Material World, Owen Flanagan",
+        "year": 2007
+      }
+    ]
+  }
+}

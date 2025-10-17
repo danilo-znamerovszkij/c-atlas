@@ -1,1 +1,110 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Dennett’s Multiple Drafts Model",
+    "summary": "This neurobiological theory rejects the idea of a central ‘Cartesian Theater’ where consciousness is observed. Instead, it posits that conscious content arises from parallel, multi-track streams of information processing ('multiple drafts') that compete for attention, with the winning draft achieving 'fame in the brain'. The continuous integration of these moments forms the subjective sense of self, which is characterized as a 'center of narrative gravity'.",
+    "associated_thinkers": [
+      "Daniel Dennett",
+      "Patricia Churchland",
+      "Paul Churchland",
+      "Keith Frankish"
+    ],
+    "category": "Materialism Theories",
+    "subcategory": "Neurobiological",
+    "core_identity_tagline": "Consciousness as Multiple Drafts and Narrative Gravity",
+    "classification_tags": [
+      "eliminative materialism",
+      "illusionism",
+      "functionalism",
+      "narrative",
+      "evolutionary"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is identified as a continually revised 'narrative stream or sequence' resulting from parallel interpretation processes in the brain. Subjective phenomenal properties (qualia) are defined as 'user-illusions' or incoherent neural constructs.",
+    "ontological_status": "Physicalism / Eliminative Materialism",
+    "mind_body_relationship": "Identity/Reduction. Mental states are fully reducible to physical states, and the common-sense view of mind (folk psychology) is radically false, eventually to be displaced by neuroscience.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Justified by the fact that the theory holds consciousness can be fully reduced to, or explained by, fundamental physical processes, supporting a reductionist materialist view and rejecting strong emergence in principle.",
+    "subjectivity_and_intentionality": "Subjectivity (the 'self') is conceptualized as a distributed fictional construct called a 'center of narrative gravity'. Intentionality (content) is prioritized and seen as a function of complicated clumps of molecules, preceding the need for consciousness.",
+    "qualia_account": "Qualia are rejected as illusory and incoherent concepts. They are explained away as 'user-illusions'—complex activated neural networks that dispose us to believe we have intrinsic, unanalyzable phenomenal properties.",
+    "ontological_commitments": "Physical brains and their biological processes. 'Real patterns' which are different versions of what actually exists, represented by the scientific image (physics, chemistry, molecular biology, and neurophysiology).",
+    "epistemic_access": "Exclusively through the third-person perspective of science, termed 'heterophenomenology'. First-person introspection and beliefs about internal states are treated as data to be explained, not necessarily as true accounts of mental reality.",
+    "constituents_and_structure": "A 'bundle of semi-independent agencies' or brain regions/modules, generating parallel interpretations ('multiple drafts') subject to continuous editing."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (deflated/eliminated); Access; Self-awareness (as narrative structure); Content/Intentionality.",
+    "distinctive_mechanism_or_principle": "The suppression of the 'Cartesian Theater' metaphor. The mechanism involves the competition among different brain regions/modules (drafts) for processing resources, resulting in 'fame in the brain' for the winner, which determines the conscious moment's content.",
+    "dynamics_of_emergence": "Consciousness is a dynamic process—a stream of editorial revisions and narrative formation over time. It arises gradually through natural selection, emphasizing 'reasons without a reasoner' and 'design without a designer'.",
+    "location_and_distribution": "Distributed across the brain. Explicitly denies a single central location or inner observer.",
+    "causation_and_functional_role": "Functionally, consciousness is a complex informational and reactive engagement with the world. Its evolutionary role is providing an inner adaptation that enhances fitness and reproductive success.",
+    "integration_or_binding": "Integration is achieved retrospectively through the coalescence of continuous conscious moments into a cohesive life story (the 'center of narrative gravity').",
+    "information_flow_or_representation": "Parallel, multitrack processing of interpretations and elaborations, leading to a narrative stream. Content precedes consciousness, allowing complex clumps of molecules to have meaning.",
+    "evolutionary_account": "Consciousness and minds evolved through natural selection, starting from bacterial levels and progressing through the creation of thinking tools (like language) necessary to understand phenomena like consciousness itself.",
+    "core_claims_and_evidence": [
+      "There is no 'Cartesian Theater' or inner witness viewing conscious experience.",
+      "Consciousness is composed of 'multiple drafts' competing for 'fame in the brain'.",
+      "The subjective self is a functional construct ('center of narrative gravity').",
+      "Qualia are rejected as illusory and incoherent properties."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (Eliminativism), Evolutionary/Biological, Computational (Functionalism), Cognitive Science (Heterophenomenology)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable. Dennett advocates for testing via objective third-person methods (heterophenomenology) rather than relying on misleading introspection.",
+    "known_empirical_interventions_or_tests": "The sources do not list specific named experimental interventions, but the theory relies on supporting data obtainable via standard cognitive science procedures and third-person methodologies ('heterophenomenology').",
+    "criticisms_and_tensions": "The main criticism is that the theory fails to address phenomenal consciousness (the hard problem) by declaring it an illusion, leading critics to argue that Dennett is solving the 'easy problems' but avoiding the core mystery. His denial of qualia is considered a critical move requiring adherence to counterintuitive premises.",
+    "open_questions_and_limitations": "Requires overcoming common-sense intuition about inner experience, which many find a 'tall order'. The possibility that the Hard Problem might not 'evaporate' remains an open tension.",
+    "ontological_coherence": "Highly coherent within a purely reductive, deflationary materialist framework, consistent with the belief that consciousness can be fully explained by physics and neuroscience."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "As a strong materialist theory rooted in functionalism/computation, it holds that consciousness is entirely physical and computational functionalism is true. Therefore, non-biological intelligences achieving super-strong AI must eventually achieve consciousness."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "In Materialism Theories, the death of the biological brain and body results in irrevocable and permanent non-existence of the person."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Materialism Theories do not rationalize ultimate cosmic meaning or purpose, emphasizing instead the humanistic meaning and value that individuals create for themselves."
+    },
+    "virtual_immortality": {
+      "stance": "Yes",
+      "rationale": "If consciousness is wholly physical and reducible to information processing (as the theory holds), the first-person mental self would be uploadable/duplicable to a non-biological medium, making virtual immortality attainable, given sufficient technology."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "Overlap (Core philosophical basis)"
+      },
+      {
+        "name": "Attention Schema Theory (Graziano)",
+        "relationship": "Similarity (Functionalist approach)"
+      },
+      {
+        "name": "Global Workspace Theory (GWT)",
+        "relationship": "Comparison (Both reject Cartesian Theater and focus on informational access, though differing on specifics)"
+      },
+      {
+        "name": "Higher-Order Thought Theories",
+        "relationship": "Overlap (Dennett’s model often considered a form of Higher-Order theory in prioritizing cognitive content)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness Explained, Daniel C. Dennett",
+        "year": 1992
+      },
+      {
+        "title_with_names": "From Bacteria to Bach and Back: The Evolution of Minds, Daniel Dennett",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Eliminative Materialism and the Propositional Attitudes, Paul Churchland",
+        "year": 1981
+      }
+    ]
+  }
+}

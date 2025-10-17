@@ -1,1 +1,111 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "First-Order Representationalism",
+    "summary": "First-Order Representationalism (FOR) seeks to explain consciousness by reducing it to external, world-directed intentional states. It claims that the phenomenal character of experience is entirely determined by the content of the representation, identifying qualia with the external properties experience represents objects as having.",
+    "associated_thinkers": [
+      "Fred Dretske",
+      "Peter Carruthers",
+      "Neil Mehta",
+      "George Mashour"
+    ],
+    "category": "Materialism Theories",
+    "subcategory": "Representational",
+    "core_identity_tagline": "Consciousness as external, world-directed intentional states",
+    "classification_tags": [
+      "representationalism",
+      "intentionality",
+      "reductionism",
+      "phenomenology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Phenomenal aspects of perceptual experiences are one and the same as external, real-world properties that experience represents objects as having.",
+    "ontological_status": "Physicalism",
+    "mind_body_relationship": "Identity theory/Reductionist correlation. Mental states are identified with representations realized in brain states that acquire specific informational functions.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
+    "subjectivity_and_intentionality": "Intentionality (directedness of thought) is primary. Subjectivity is wholly determined by the representational content, as sensory representations are directly available to the subject.",
+    "qualia_account": "Qualia (phenomenal character) are identified with representational content (strong representationalism) or external properties represented by experience, thus solving the hard problem via reductive explanation.",
+    "ontological_commitments": "Mental representations, brain states acquiring informational functions, sensory/perceptual circuitry.",
+    "epistemic_access": "Accessible via third-person methods focusing on neural correlates and the global broadcasting of representations, complemented by self-report.",
+    "constituents_and_structure": "First-order sensory representations and non-conceptual contents, globally broadcast in the brain."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness, Access consciousness, Sensory experience.",
+    "distinctive_mechanism_or_principle": "Consciousness arises when brain states acquire, typically through natural selection, the function of carrying information relevant to external objects, thus becoming mental representations.",
+    "dynamics_of_emergence": "Consciousness dynamically arises as non-conceptual contents are globally broadcast throughout the brain for access and utilization.",
+    "location_and_distribution": "Neural correlates of specific consciousness include activity in the sensory cortex and specific thalamic nuclei, linking to recurrent processing in perceptual areas.",
+    "causation_and_functional_role": "Consciousness functions to make perceptual information available to systems that allow for flexible behavior, belief formation, and action selection.",
+    "integration_or_binding": "Integration is achieved through the availability of sensory information (representations) across global cognitive networks (co-occurring with global broadcasting).",
+    "information_flow_or_representation": "First-order representations flow directly from external stimuli; information processing is crucial for turning brain states into consciousness-suited representations.",
+    "evolutionary_account": "Consciousness evolved via natural selection, whereby brain states acquired the function of carrying information that enhances adaptive capabilities for the organism.",
+    "core_claims_and_evidence": [
+      "Phenomenal properties are identical to external, real-world properties represented by experience.",
+      "Conscious experience co-occurs with the global broadcasting of first-order non-conceptual contents in the brain.",
+      "Conscious states are representations whose content fully determines the subjective feel."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (conceptual reduction, intentionality focus) and Empirical (neuroscientific correlation data)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": [
+      "Mapping neural correlates of general and specific consciousness (sensory cortex, thalamic nuclei)",
+      "Studies correlating consciousness with global broadcasting of first-order content"
+    ],
+    "criticisms_and_tensions": "Faces the general challenge for representational theories: explaining phenomenology purely in terms of intentionality. Critics question how mere representation or information content can fully account for the qualitative feel (qualia).",
+    "open_questions_and_limitations": "The precise mechanism by which a non-conceptual representation's content determines the subjective 'what it's like' remains an explanatory gap, although proponents argue the phenomenal aspect is resolved by identity with external properties.",
+    "ontological_coherence": "Highly coherent within a reductive materialist and functionalist ontology."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "As a materialist theory where consciousness depends on informational content and functional architecture, artificial systems could instantiate consciousness if they realize the necessary representational structures and information functions."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is realized wholly by physical brain processes; survival beyond the destruction of the biological substrate is ruled out."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "As a Materialism Theory, it does not rationalize any ultimate cosmic meaning or purpose, only meaning generated by conscious agents themselves."
+    },
+    "virtual_immortality": {
+      "stance": "Yes",
+      "rationale": "If the first-person self is entirely captured by representational content and informational states, a perfect duplication (uploading) of these states to a non-biological medium should preserve the original mental self."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Critique/Contrast"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Extension/Overlap"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Compatible/Overlap"
+      },
+      {
+        "name": "Transparency Theory",
+        "relationship": "Influence"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Naturalizing the Mind, Fred Dretske",
+        "year": 1997
+      },
+      {
+        "title_with_names": "In defence of first-order representationalism, Peter Carruthers",
+        "year": 2017
+      },
+      {
+        "title_with_names": "General and specific consciousness: a first-order representationalist approach, Neil Mehta and George Mashour",
+        "year": 2013
+      }
+    ]
+  }
+}

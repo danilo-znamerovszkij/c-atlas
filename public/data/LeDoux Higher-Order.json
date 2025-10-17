@@ -1,1 +1,101 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "LeDoux’s Higher-Order Theory of Emotional Consciousness",
+    "summary": "This theory proposes that conscious emotional feelings, such as fear, are not fundamentally different from perceptual conscious experiences, arguing that both arise from cortically based general networks of cognition (GNC) that generate higher-order representations (HORs) of lower-order information. The essence of phenomenal consciousness lies in a re-representation of a prior higher-order state, termed a HOROR (Higher-Order Representation of a Representation).",
+    "associated_thinkers": ["Joseph LeDoux", "Richard Brown"],
+    "category": "Materialism",
+    "subcategory": "Representational",
+    "core_identity_tagline": "Consciousness as Higher-Order Representation of Emotional and Perceptual States",
+    "classification_tags": [
+      "neurobiology",
+      "emotion",
+      "higher-order",
+      "representation",
+      "cognition"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is identified as a third-order state (HOROR), specifically the appropriate higher-order representation (HOR) of lower-order information, instantiated by cortically based General Networks of Cognition (GNC).",
+    "ontological_status": "Physicalism. The theory is materialist, arguing that consciousness arises from one system in the brain, instantiated in cortical circuits.",
+    "mind_body_relationship": "Identity/Causal Dependence. Mental states (conscious emotional feelings and perceptual experiences) are wholly dependent on, and instantiated in, specific physical processes and networks (GNC, cortical circuits).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justified: As a detailed neurobiological/materialist theory focused on discoverable neural mechanisms, the complexity of consciousness is assumed, in principle, to be deducible from physical processes.)",
+    "subjectivity_and_intentionality": "Subjectivity (the emotional, self-aware experience) arises when the self is included in the HOROR state. Intentionality is achieved because consciousness is fundamentally representational (HORs of information).",
+    "qualia_account": "Phenomenal experience consists of having the appropriate HOR of lower-order information, which is a thought-like state instantiating the phenomenal, introspectively accessed experience. The theory aims to explain the subjective 'what-it-is-like-ness' mediated by these higher-order representations.",
+    "ontological_commitments": "Cortically based General Networks of Cognition (GNC), higher-order representations (HORs), neural circuits (e.g., PFC, sensory cortex), and lower-order information.",
+    "epistemic_access": "Introspection (passive noticing and active scrutinizing) leads to phenomenal experience. The underlying mechanisms are accessible via neurobiological research and cognitive modeling.",
+    "constituents_and_structure": "A multi-state hierarchical model involving primary lower-order states (sensory cortex), secondary lower-order states (memory areas), sub-higher-order states (meso-cortical PFC), and higher-order states (granular PFC) that index and re-represent information to construct mental models."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness, emotional consciousness (e.g., fear), perceptual consciousness, self-awareness (as an 'ensemble of being'), and conscious agency.",
+    "distinctive_mechanism_or_principle": "The instantiation of a Higher-Order Representation of a Representation (HOROR), which is the necessary third-order cognitive state for conscious experience. This mechanism is thought-like and non-inferential, making a nonconscious HOR introspectively aware.",
+    "dynamics_of_emergence": "Consciousness is a product of complex, multi-state hierarchical processing that arises dynamically through cognitive interpretation, particularly serving to maintain a sense of mental unity.",
+    "location_and_distribution": "Cortical structures, particularly the prefrontal cortex (PFC) (granular and sub-granular areas), which hosts the GNC and higher-order states, interacting with sensory and memory cortices (lower-order states).",
+    "causation_and_functional_role": "The formation of HORORs allows for conscious experience (feelings of fear, perception), providing conscious agency and enabling the expression of abstract mentalese narratives that drive overt behavior and verbal expression.",
+    "integration_or_binding": "Integration occurs through the cognitive assembly where nonconscious subcortical inputs coalesce with other neural signals to form conscious emotional experiences. Higher-order states re-represent various other states to construct unified mental models in working memory.",
+    "information_flow_or_representation": "Information progresses from first-order perceptual/threat representations, through nonconscious HORs, to conscious HORORs, which are thought-like states accessible to introspection.",
+    "evolutionary_account": "Consciousness emerged late in evolution, built upon previous 'realms of existence' (bodily, neural, cognitive), with nervous systems evolving to enhance survival, ultimately leading to sophisticated conscious brains.",
+    "core_claims_and_evidence": [
+      "Conscious experiences (emotional and perceptual) arise from a single system in the brain (cortically based GNC).",
+      "Conscious feelings are higher-order states instantiated in cortical circuits.",
+      "Phenomenal consciousness involves having a third-order state (HOROR), which is an introspective awareness of a nonconscious HOR.",
+      "The theory rejects the traditional view that emotional states are innately programmed solely in subcortical areas."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurobiological, Cognitive"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable, particularly through testing the correlation between conscious experience and activity patterns in the specific hierarchical cortical networks described (e.g., PFC involvement in generating HOROR states).",
+    "known_empirical_interventions_or_tests": "Relies on identification of activity in cortical structures (e.g., PFC and sensory/memory areas) corresponding to hierarchical representation processing, consistent with research on cognitive and metacognitive functions.",
+    "criticisms_and_tensions": "Faces the general challenge directed at Higher-Order Theories (HOT) regarding the nature of the higher-order state itself, specifically how a thought-like representation makes a first-order state conscious (the 'mystery' noted by Block for general HOT). It also challenges traditional views of emotion localization.",
+    "open_questions_and_limitations": "The possibility of conscious agency (free will) arising from the resulting conscious mental model is still a matter of debate.",
+    "ontological_coherence": "High. The theory provides a detailed neurocognitive pathway for consciousness and emotional experience that is highly consistent with Materialism and naturalistic explanation."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "As a materialist, functional theory based on hierarchical information processing (GNC/HORORs), consciousness is, in principle, replicable in non-biological systems capable of instantiating the necessary computational and representational structures."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is entirely a product of the highly complex, physically instantiated, biological systems (cortical circuits and GNC), providing no resources for survival beyond the body's physical existence."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Consciousness is an evolved biological mechanism that enhances survival and enables self-centered emotional states, but the theory does not posit any ultimate, cosmic, or transcendental meaning or purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Yes",
+      "rationale": "Since the first-person self is grounded in complex, functional, and representational states of the brain, a perfect duplication of these physical states via uploading technology would, in principle, preserve the self and achieve virtual immortality."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Traditional Higher-Order Thought Theory (HOT)",
+        "relationship": "Refinement"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A higher-order theory of emotional consciousness, J. LeDoux and R. Brown",
+        "year": 2017
+      },
+      {
+        "title_with_names": "The Four Realms of Existence - A New Theory of Being Human, J. LeDoux",
+        "year": 2023
+      }
+    ]
+  }
+}

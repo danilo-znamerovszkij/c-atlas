@@ -1,1 +1,104 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Jackson's Diaphanous Representationalism and the Knowledge Argument",
+    "summary": "Frank Jackson's Diaphanous Representationalism posits that the phenomenal character of perceptual experience is exhausted by its representational content, meaning we 'see right through' experience to the object's properties. This position was developed primarily to undermine the conclusion of his own famous thought experiment, the Knowledge Argument, which previously argued against Physicalism.",
+    "associated_thinkers": ["Frank Jackson"],
+    "category": "Materialism Theories",
+    "subcategory": "Representational",
+    "core_identity_tagline": "‘Phenomenal Character is Exhausted by Representational Content’",
+    "classification_tags": [
+      "representationalism",
+      "qualia",
+      "physicalism defense",
+      "epistemology",
+      "intentionality"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness (phenomenal character) is identified as the representational content of relevant mental states that meets certain conditions, often linked to the properties of the object of experience.",
+    "ontological_status": "Reductive Physicalism. (Justification: The theory's primary goal is to defeat the Knowledge Argument, thereby maintaining the sufficiency of physicalism/materialism regarding phenomenal consciousness).",
+    "mind_body_relationship": "Identity. The phenomenal nature is exhausted by the functional and intentional contents (representational facts), which are instantiated physically.",
+    "primitive_or_emergent_status": "Emergent. (Justification: Consciousness is fully captured by the representational content instantiated by physical processes, meaning it is not fundamental to reality).",
+    "emergence_type": "Weak Emergence. (Justification: As a reductive physicalist defense, the phenomenal properties are fully captured by, or identical to, the physical/representational contents and functional roles, implying derivability in principle).",
+    "subjectivity_and_intentionality": "Subjectivity is accounted for by the diaphanousness thesis: accessing the experience's nature is simply accessing the properties of its object. Intentionality, the 'aboutness' of mental states, is central, as experience is essentially representational.",
+    "qualia_account": "Qualia (phenomenal character) are fully explained by or exhausted by the representational contents of the relevant mental states. This is intended to show that no non-physical knowledge (like 'what it is like to see red') remains unexplained by physical/representational facts.",
+    "ontological_commitments": "Mental representations, physical facts, and the functional role/intentional contents of mental states.",
+    "epistemic_access": "Introspection supports the diaphanous thesis by revealing only external objects and their properties, not intrinsic features of the experience itself. Third-person scientific study of representational content is thus adequate.",
+    "constituents_and_structure": "The structure of consciousness is determined entirely by the intentional contents or representational nature of the mental states; the representational facts form a package sufficient to capture the perceptual experience."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness (specifically the qualitative nature of perceptual experience/qualia).",
+    "distinctive_mechanism_or_principle": "Diaphanousness (transparency) of perceptual experience. Consciousness is the result of representations of objects, where the subject 'sees right through' the perceptual state to the object's properties.",
+    "dynamics_of_emergence": "Static Property. (Justification: The model identifies consciousness with the representational content/intentional structure, focusing on the end-state identity rather than a dynamic process of generation. The sources do not detail temporal dynamics)",
+    "location_and_distribution": "Located in the mental states instantiated by the brain's representational processing.",
+    "causation_and_functional_role": "Conscious experience is exhausted by functional role and representational content. The representational facts are sufficient to capture the full perceptual experience.",
+    "integration_or_binding": "Implicitly achieved through the comprehensive nature of the intentional contents that make up the perceptual experience package. (Justification: Explicit mechanism for binding is not detailed in the sources, but unification is assumed in the 'package'.)",
+    "information_flow_or_representation": "Mental representations elevate the explanatory power of inner-perceived notions/imagery over mere neural states, exhausting the experiential nature.",
+    "evolutionary_account": "Consciousness is presumed to have evolved as part of the representational machinery of the brain. (Justification: This is inferred from its classification as a Materialism Theory, but no specific account is given by Jackson in the sources.)",
+    "core_claims_and_evidence": [
+      "Experience is diaphanous (transparent): phenomenal properties are properties of the object of experience.",
+      "Strong representationalism asserts that how an experience represents things fully exhausts its experiential nature.",
+      "The Knowledge Argument fails because phenomenal learning is reduced to representational facts, thus preserving physicalism."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical/Conceptual (based on logical analysis of phenomenal concepts and the nature of introspection)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually Testable. (The theory's success rests on the philosophical argument that representational content can logically exhaust phenomenal character, thereby resolving thought experiments like the Knowledge Argument).",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "The main tension is that critics argue representationalism does not logically reject the Knowledge Argument, as a representationalist version of the 'Mary challenge' maintains the difficulty for physicalism.",
+    "open_questions_and_limitations": "The precise conditions under which representational content captures phenomenal character must be specified, and the conceptual coherence of reducing phenomenal properties entirely to intentional properties remains challenged.",
+    "ontological_coherence": "Highly coherent within a reductive physicalist framework, as its entire motivation is to maintain physicalism by eliminating irreducible phenomenal properties ('qualia')."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "If consciousness is exhausted by representational content and functional role, and these properties can be computationally realized, then AI systems can achieve consciousness."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "The theory is a defense of Materialism/Physicalism, implying consciousness is tied solely to the physical system (the brain or its functional/representational equivalent), preventing survival beyond biological cessation."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "As a materialist theory, it offers no ultimate meaning or purpose outside of what humans create for themselves."
+    },
+    "virtual_immortality": {
+      "stance": "Yes",
+      "rationale": "Since phenomenal character is fully captured by the functional/representational content, a perfect duplication (uploading) of those contents would preserve the original first-person mental self."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Knowledge Argument (Mary's Room)",
+        "relationship": "Critique/Origin"
+      },
+      {
+        "name": "Transparency Theory",
+        "relationship": "Foundation"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Contrast"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The knowledge argument, diaphanousness, representationalism, Frank Jackson",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Epiphenomenal Qualia, Frank Jackson",
+        "year": 1982
+      },
+      {
+        "title_with_names": "What Mary Didn’t Know, Frank Jackson",
+        "year": 1986
+      }
+    ]
+  }
+}

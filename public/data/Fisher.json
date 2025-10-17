@@ -1,1 +1,95 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Fisher’s Quantum Cognition",
+    "summary": "This theory proposes that quantum processing involving nuclear spins is operative in the brain and key to its functioning, serving as the biological mechanism for consciousness. It posits that phosphorus nuclear spins act as qubits (neural qubits) protected by Posner molecules, enabling quantum entanglement necessary to influence neural activity.",
+    "associated_thinkers": [
+      "Matthew Fisher"
+    ],
+    "category": "Quantum Theories",
+    "subcategory": "Quantum Cognition",
+    "core_identity_tagline": "Consciousness as Nuclear Spin Quantum Processing",
+    "classification_tags": [
+      "quantum",
+      "neurobiology",
+      "materialist",
+      "qubit",
+      "entanglement"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is identified as a result of quantum processing utilizing biological qubits (phosphorus nuclear spins) and long-lived entanglement, which fundamentally influences neural communication.",
+    "ontological_status": "Physicalism",
+    "mind_body_relationship": "Identity theory. Consciousness is a physical process, derived from (or identical to) specific, low-level quantum mechanical interactions within the biological substrate.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. The consciousness arises from complex biological structures enabling quantum mechanical processes, which are governed by known fundamental physics principles.",
+    "subjectivity_and_intentionality": "The theory focuses on the underlying physical substrate required for consciousness but does not explicitly detail how this quantum mechanism generates subjective feel or intentionality. These properties are implicitly assumed to arise if the necessary quantum processing functions are achieved.",
+    "qualia_account": "The source material details the physical mechanism (qubits, entanglement) necessary for consciousness, but does not offer an explicit account of how the qualitative feel (qualia) emerges from or corresponds to these specific quantum biological processes.",
+    "ontological_commitments": "Phosphorus nuclear spins (as neural qubits), phosphate ions, Posner molecules (calcium phosphate clusters), quantum entanglement, and neural firing rates.",
+    "epistemic_access": "Accessible through scientific investigation, particularly condensed matter physics, quantum biology, and the modeling of quantum mechanical interactions within the brain.",
+    "constituents_and_structure": "The basic building blocks are phosphorus nuclear spins (qubits) housed within Posner molecules, organized to allow entanglement and subsequent non-local correlations that influence large-scale neural network activity."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness, brain function, and neural quantum processing.",
+    "distinctive_mechanism_or_principle": "Quantum entanglement of neural qubits (phosphorus nuclear spins in Posner molecules) followed by quantum measurement, which translates into calcium ion release that influences neurotransmitter release and neuron firing.",
+    "dynamics_of_emergence": "Consciousness is a dynamic process arising from the cycle of quantum entanglement (protected by Posner molecules) and objective reduction (measurement/collapse), which modulates classical neural signals.",
+    "location_and_distribution": "Localized to specific molecular structures (Posner molecules) and subsequent effects on the micro-level dynamics of neurons within the brain.",
+    "causation_and_functional_role": "Provides a mechanism for neural quantum processing, where the quantum measurement events (binding and melting of Posner molecules) trigger the release of calcium ions that enhance post-synaptic neuron firing.",
+    "integration_or_binding": "Integration is achieved via non-local quantum correlations of neuron firing rates, resulting from the entanglement of multiple Posner molecules.",
+    "information_flow_or_representation": "Information is encoded and stored in quantum memory (Posner molecules) and entanglement, facilitating complex, non-local information processing that feeds into classical neural systems.",
+    "evolutionary_account": "Not explicitly discussed in the sources, but implicitly relies on biological evolution selecting for systems capable of utilizing quantum mechanics for enhanced processing and function.",
+    "core_claims_and_evidence": [
+      "Phosphorus nuclear spins serve as neural qubits for quantum processing in the brain.",
+      "Posner molecules protect these qubits as quantum memory.",
+      "Entangled Posner molecules trigger non-local quantum correlations of neuron firing rates via calcium release.",
+      "The theory identifies the specific explanatory steps required if quantum processing is fundamental for consciousness."
+    ],
+    "basis_of_belief_or_evidence_type": "Conceptual modeling based on condensed matter physics and the emerging field of quantum biology."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable/Speculative. The theory is specific enough to identify potential biological targets and explanatory steps for future empirical testing in quantum neuroscience.",
+    "known_empirical_interventions_or_tests": "No specific empirical interventions or tests are listed in the sources as having verified or falsified the theory. Its primary role, so far, is conceptual guidance for future quantum biological research.",
+    "criticisms_and_tensions": "The source notes that the theory may be 'incorrect in its specifics' and, like most quantum theories of consciousness, faces skepticism from physicists and neuroscientists.",
+    "open_questions_and_limitations": "The specific chemical and biological details regarding qubits and Posner molecules might be biologically inaccurate. It is unclear whether this mechanism, even if true for brain function, is sufficient or necessary for phenomenal consciousness.",
+    "ontological_coherence": "Coherent within an extended materialist or physicalist ontology that accepts quantum mechanics as playing a specific, fundamental role in biological computation related to consciousness."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "If consciousness relies on quantum mechanics and its predictable regularities, then advanced technology could, in principle, create AI consciousness, provided the technological challenges of controlling quantum states can be overcome."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "The theory strictly ties consciousness to specific, short-lived molecular/biological structures and processes (phosphorus, Posner molecules) within the physical brain, suggesting that consciousness ceases upon biological death."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "As a purely physicalist explanation of consciousness based on molecular mechanisms, the theory does not introduce non-physical or ultimate cosmic meaning, limiting purpose to what is created by conscious, biological agents."
+    },
+    "virtual_immortality": {
+      "stance": "Probably (with uncertainty)",
+      "rationale": "Uploading consciousness would require technology capable of precisely manipulating and duplicating complex quantum states. While quantum mechanics is governed by regularities, its intrinsic indeterminacy introduces a degree of uncertainty regarding perfect duplicability."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Quantum Theories",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Poznanski’s Dynamic Organicity Theory",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Matthew Fisher, Quantum cognition: the possibility of processing with nuclear spins in the brain",
+        "year": 2015
+      }
+    ]
+  }
+}

@@ -1,1 +1,106 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Lau’s Perceptual Reality Monitoring Theory",
+    "summary": "This empirically-grounded higher-order theory proposes that conscious perception occurs when a specific higher-order representation (HOR) validates a first-order sensory representation as a reliable reflection of the external world. The HOR acts as an interface between perception and cognition, providing the subjective sense of justification for the conscious experience.",
+    "associated_thinkers": ["Hakwan Lau"],
+    "category": "Materialism",
+    "subcategory": "Representational",
+    "core_identity_tagline": "‘Consciousness as Perceptual Reality Monitoring’",
+    "classification_tags": [
+      "higher-order theory",
+      "representationalism",
+      "metacognition",
+      "functionalism",
+      "neurobiological"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a functional mechanism or interface between perception and cognition, instantiated by higher-order representations that monitor the reliability and epistemic status of first-order sensory states.",
+    "ontological_status": "Physicalism / Functionalism",
+    "mind_body_relationship": "Consciousness is identical to the specific functional activity of higher-order neural mechanisms (likely in the prefrontal cortex) monitoring first-order sensory representations. This is a materialist account based on brain function.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consciousness is a function arising from specific complex organizational structures (HORs) in the brain, suggesting it is explainable or reducible in principle, consistent with its materialist classification.",
+    "subjectivity_and_intentionality": "Subjectivity arises from the connection of consciousness to belief formation and epistemic justification on a subjective level. Intentionality is carried by the first-order perceptual representation that is being monitored.",
+    "qualia_account": "The subjective 'what-it-is-like-ness' is explained by higher-order representations accessing richer, lower-level analog perceptual signals. The analog nature of these signals determines the subjective similarity relative to other possible experiences.",
+    "ontological_commitments": "First-order perceptual representations, higher-order monitoring representations (HORs), and specific neural mechanisms located primarily in the prefrontal cortex.",
+    "epistemic_access": "Accessible via empirical investigation and neural modeling, focused on similarities between conscious perception and sensory metacognition mechanisms. The HOR itself is a subpersonal process, but its output leads to subjectively justified inferences for the agent.",
+    "constituents_and_structure": "The structure involves a two-level process: first-order (sensory) representations being tagged or monitored by higher-order (cognitive/metacognitive) representations, forming a mechanistic interface between perception and cognition."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (perception and qualia), Cognitive (metacognition, belief formation), Access (as a potential consequence).",
+    "distinctive_mechanism_or_principle": "The functioning of a higher-order representation (HOR) as a 'tag or label' indicating the perceived reliability of first-order sensory representations (Perceptual Reality Monitoring), distinguishing it from fantasy or neuronal noise.",
+    "dynamics_of_emergence": "Consciousness arises dynamically upon the instantiation of the specific functional HOR mechanism, serving as a critical interface between sensory input and cognitive processing.",
+    "location_and_distribution": "The mechanism likely resides within the mammalian prefrontal cortex, outside primary sensory regions, overlapping with areas responsible for perceptual metacognition.",
+    "causation_and_functional_role": "The HOR acts as a gating mechanism to route reliable sensory information for further cognitive processing, ensuring the agent can distinguish reality from fantasy in a reliable fashion.",
+    "integration_or_binding": "The higher-order representation accesses richer, lower-level analog perceptions of the first-order representations, implying this monitoring process facilitates the integration necessary for a unified phenomenal experience.",
+    "information_flow_or_representation": "Information flows from spatially 'analog' sensory representations (first-order) to higher-order cognitive systems, enabling computational advantages and determining qualitative character.",
+    "evolutionary_account": "The theory is consistent with an evolutionary account, as it incorporates a discriminator (analogous to AI) that enhances survival by reliably differentiating true perceptions of the world from self-generated images or noise.",
+    "core_claims_and_evidence": [
+      "Conscious perception requires a higher-order representation validating first-order sensory input as reliable.",
+      "The neural mechanisms for conscious perception overlap with those for sensory metacognition (prefrontal and parietal cortices).",
+      "The theory coherently explains blindsight as the occurrence of a first-order representation without the corresponding necessary higher-order representation."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical/Cognitive Neuroscientific, Functionalist"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable by mapping and comparing the neural correlates of conscious perception and sensory metacognition, and through the predictive power regarding blindsight phenomena.",
+    "known_empirical_interventions_or_tests": [
+      "Neuroimaging studies correlating prefrontal/parietal activity with sensory metacognition and conscious perception."
+    ],
+    "criticisms_and_tensions": "Lau criticizes rival models, positioning the theory as a superior 'centrist' approach intermediate between Global Workspace Theory (too focused on access) and purely local/recurrent theories (too focused on early sensory areas). It faces the standard difficulty of explaining why monitoring/metacognition should produce qualitative 'what-it-is-like-ness'.",
+    "open_questions_and_limitations": "Needs to fully substantiate the ambitious claim that a mechanistic, analog representation accessed by a higher-order tag can fully explain the subjective quality of experience.",
+    "ontological_coherence": "Highly coherent within a neurobiological and functionalist materialist framework."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "As a functionalist theory, consciousness depends on the implementation of the correct informational/functional architecture (the HOR mechanism). If this architecture can be instantiated in a robot or computer program, artificial consciousness is possible."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is explicitly tied to specific, specialized neural mechanisms located in the biological brain (e.g., prefrontal cortex), leaving no room for persistence after biological death."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The mechanism's primary role is functional (distinguishing reality from fantasy and routing information). It offers no cosmic or ultimate purpose beyond the adaptive advantages conferred by this biological mechanism."
+    },
+    "virtual_immortality": {
+      "stance": "Likely",
+      "rationale": "If the specific functional and informational architecture, including the analog nature of the representations, can be perfectly uploaded and run on a non-biological substrate, the first-person mental self would be preserved because the consciousness is defined by that functional structure."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Higher-Order Theories",
+        "relationship": "Specific Instance/Extension"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Critique (Positioned as a superior intermediate alternative)"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Critique (Positioned as a superior intermediate alternative)"
+      },
+      {
+        "name": "Graziano’s Attention Schema Theory",
+        "relationship": "Compatible (Shares a functionalist/cognitive approach to explaining conscious claims)"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness, metacognition, & perceptual reality monitoring, Hakwan Lau",
+        "year": 2019
+      },
+      {
+        "title_with_names": "In Consciousness We Trust: the Cognitive Neuroscience of Subjective Experience, Hakwan Lau",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Is consciousness a battle between your beliefs and perceptions?, Hakwan Lau",
+        "year": 2019
+      }
+    ]
+  }
+}

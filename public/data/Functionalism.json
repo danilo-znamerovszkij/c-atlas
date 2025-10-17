@@ -1,1 +1,108 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Functionalism",
+    "summary": "Functionalism posits that mental states are defined by their causal relations to one another, to sensory inputs, and to behavioral outputs, independent of the physical medium (substrate) in which they are realized. The essence of consciousness is determined by how mental states function or operate, rather than by what they are materially composed of.",
+    "associated_thinkers": [
+      "Ned Block",
+      "J.J.C. Smart",
+      "Janet Levin"
+    ],
+    "category": "Materialism",
+    "subcategory": "Philosophical",
+    "core_identity_tagline": "Mental states are functional states defined by their causal role",
+    "classification_tags": [
+      "functional role",
+      "multiple realizability",
+      "computational",
+      "causal relations"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Mental states are identified as functional states, constituted by their causal relations, roles, results, and outputs, implying they are realizable in any substrate that supports those functions.",
+    "ontological_status": "Physicalism (broadly, agnostic to substance). The theory is classified under Materialism, but it is metaphysically agnostic regarding nonphysical substances, focusing primarily on the functional description of mental states.",
+    "mind_body_relationship": "Mental states are functional states identical to the functional roles that are realized or instantiated in a physical substrate, leading to 'functional state identity theses'.",
+    "primitive_or_emergent_status": "Emergent. Consciousness arises from the functional organization realized by a sufficiently complex substrate (like neural tissue or computer chips).",
+    "emergence_type": "Weak Emergence. Since the function is definable and potentially multiply realizable across different substrates, the emergent mental property is, in principle, explainable by the underlying functional structure and physical laws.",
+    "subjectivity_and_intentionality": "Subjectivity and intentionality are accounted for in terms of specific functional organization and causal relations. For instance, in related functionalist theories, intentionality is understood via second-order representation of mental states.",
+    "qualia_account": "The theory traditionally struggles to account for phenomenal qualia, often addressing them by asserting that the qualitative feel is entirely exhausted by the functional role, or by coupling with representational theories.",
+    "ontological_commitments": "Functional roles or causal relations are the critical entities. The theory assumes the existence of substrates capable of instantiating information and functional architecture, whether neural tissue or computer chips.",
+    "epistemic_access": "Consciousness is accessed and understood by analyzing how mental states work through their causal relations to sensory inputs and behavioural outputs, often associated with computational and third-person perspectives.",
+    "constituents_and_structure": "Mental states are composed of causal relations defined between sensory inputs, internal states, and behavioural outputs. These relations constitute the functional structure of the mind."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Psychological states (remembering, thinking, creating) and the structural requirements for phenomenal consciousness; provides the foundation for artificial intelligence consciousness and virtual immortality.",
+    "distinctive_mechanism_or_principle": "The principle of multiple realizability, stating that mental state realization is independent of the physical substrate, contingent only upon the required function being instantiated.",
+    "dynamics_of_emergence": "Consciousness is realized as a functional process or activity whenever the necessary functional relations (such as those defined by algorithms or causal flow) are present within a physical system.",
+    "location_and_distribution": "Distributed wherever the functional organization is successfully realized, regardless of whether the substrate is neural tissue or hardwired computing components.",
+    "causation_and_functional_role": "Functions, roles, and outputs are dispositive. Mental states are causally effective because they are defined by their causal relations within the system (functional role).",
+    "integration_or_binding": "Integration is achieved via the successful realization of complex functional architectures where multiple inputs and internal states are causally related to produce unified outputs.",
+    "information_flow_or_representation": "Information is central, especially in computational functionalism, where classical computational models (algorithms) exemplify the functional requirements of mental states.",
+    "evolutionary_account": "Not addressed directly, but fully compatible with evolutionary accounts since the theory is categorized under Materialism, suggesting consciousness is an evolved mechanism that confers adaptive or survival advantages via functional processes.",
+    "core_claims_and_evidence": [
+      "Mental states are constituted by their causal relations to one another and to inputs/outputs.",
+      "Mental states are identical to functional states (functional state identity theses).",
+      "The nature of the substrate does not matter, only the functions performed.",
+      "It serves as the theoretical foundation for ‘virtual immortality’."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (conceptual definitions), Computational (via computational theories of mind)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually and empirically testable. Thought experiments (like substrate replacement) probe its conceptual limits, and computational realization (AI) tests its empirical application.",
+    "known_empirical_interventions_or_tests": "The silicon chip replacement thought experiment is used conceptually to test whether phenomenal consciousness is preserved when the functional role is maintained across a change in substrate.",
+    "criticisms_and_tensions": "It is criticized heavily for failing to account for phenomenal consciousness (qualia) by describing only the functional role, leading to the 'hard problem' challenge that functional roles may not exhaust the nature of conscious experience.",
+    "open_questions_and_limitations": "The major unresolved issue is whether conscious experience is entirely exhausted by functional role. It is unclear how functional definitions fully capture the subjective, qualitative aspects of experience.",
+    "ontological_coherence": "Highly coherent with broad Physicalist ontologies. Although defined by one proponent as an 'incompatible rival' to Reductive Physicalism on metaphysical grounds, it provides the required functional characterization necessary for reductive projects."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "Functionalism holds that consciousness is based on function, not biology. If the correct functions can be realized computationally in non-biological substrates, AI consciousness is possible in principle and certain if Materialism is true."
+    },
+    "survival_beyond_death": {
+      "stance": "Conditional/No",
+      "rationale": "As a physicalist theory, consciousness is tied to the substrate. Survival beyond death of the biological body is only possible if the functional mental state can be successfully transferred (uploaded) to a new, continuing substrate (virtual immortality)."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Functionalism describes the mechanism by which mind/consciousness operates within a physical world, providing capacities for agency and reflection, but offers no rationale for ultimate cosmic meaning or teleology, aligning with the general stance of Materialism."
+    },
+    "virtual_immortality": {
+      "stance": "Attainable",
+      "rationale": "Functionalism serves as the theoretical basis for virtual immortality. If the functional role of the mental self can be perfectly duplicated and uploaded to a new medium, the first-person mental self is preserved."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Functionalism",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Homuncular Functionalism (Lycan)",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Reductive Physicalism",
+        "relationship": "Compatible/Rival"
+      },
+      {
+        "name": "Neurofunctionalism (Prinz)",
+        "relationship": "Extension"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is functionalism? (N. Block)",
+        "year": 1980
+      },
+      {
+        "title_with_names": "What Is Functionalism? Consciousness, Function, and Representation (N. Block)",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Functionalism (J. Levin)",
+        "year": 2023
+      }
+    ]
+  }
+}

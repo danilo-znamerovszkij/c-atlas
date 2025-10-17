@@ -1,1 +1,99 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Gibson’s Ecological Psychology",
+    "summary": "Gibson proposes an embodied, situated, and non-representational approach to perception, arguing that information is directly available in the environment (invariants) and is perceived in terms of affordances. This approach offers a third way beyond cognitivism and behaviorism, and can be cautiously inferred as an explanation for consciousness.",
+    "associated_thinkers": [
+      "James J. Gibson"
+    ],
+    "category": "Materialism",
+    "subcategory": "Embodied and Enactive",
+    "core_identity_tagline": "Consciousness as Embodied, Situated Perception of Affordances",
+    "classification_tags": [
+      "ecological psychology",
+      "perception",
+      "non-representational",
+      "embodied",
+      "direct realism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is understood by extension as a function of the continuous interaction and informational flow within the organism-environment system, characterized by direct perception of invariants and affordances, rather than internal mental representations.",
+    "ontological_status": "Physicalism/Direct Realism",
+    "mind_body_relationship": "Mind/perception is continuous with action, focusing on the organism-environment system as the unit of analysis, rejecting the idea that mind is solely reducible to processes inside the head.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
+    "subjectivity_and_intentionality": "Subjectivity is constituted by the dynamic, situated relationship of the organism to the environment (organism-environment system). Intentionality (directedness of thought) is explained by the perception of affordances, which are action possibilities inherent in the environment.",
+    "qualia_account": "The theory is non-representational and is generally aligned with views that reject internal sense data (qualia) as traditionally conceived, favoring direct perception of environmental properties (invariants and affordances).",
+    "ontological_commitments": "Organism-environment system, optical information (invariants), affordances.",
+    "epistemic_access": "Accessible through studying the relationship between the organism and its socio-physical environment, rather than introspection focused on internal states.",
+    "constituents_and_structure": "The structure of consciousness/perception is based on the functional relationship between the organism and the environment, emphasizing the continuity of perception and action."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Perception/Cognition, Phenomenal (by cautious inference)",
+    "distinctive_mechanism_or_principle": "Direct perception of environmental invariants (unchanging elements in the optical flow) and affordances (action opportunities provided by the environment).",
+    "dynamics_of_emergence": "The focus is on dynamic flow and continuity within the organism-environment system, rather than emergence from discrete, localized neural structures.",
+    "location_and_distribution": "Situated within the organism-environment system, extending beyond the brain and inside the head.",
+    "causation_and_functional_role": "Perception functions to guide adaptive behavior and enhances fitness by detecting invariants and opportunities for action (affordances).",
+    "integration_or_binding": "Integration is inherent in the direct and unified apprehension of the organism-environment system as a single unit of analysis.",
+    "information_flow_or_representation": "Rejects information processing models; information is external (invariants) and directly accessed by the perceptual systems without the need for internal construction of representations.",
+    "evolutionary_account": "The emphasis on affordances suggests that this perceptual system evolved because it provided obvious survival value and enhanced fitness.",
+    "core_claims_and_evidence": [
+      "Perception is directly related to the stimulus alone, requiring neither inference nor internal mental representations.",
+      "The primary objects of perception are affordances, not particular sensory qualities.",
+      "The unit of analysis for understanding perception is the organism-environment system.",
+      "The theory rejects the premise of the poverty of the stimulus common in cognitivist models."
+    ],
+    "basis_of_belief_or_evidence_type": "Experimental, Philosophical, Ecological"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable, particularly within ecological psychology and perception studies.",
+    "known_empirical_interventions_or_tests": "Empirical observation of perception and detailed analysis of organism-environment interaction fields.",
+    "criticisms_and_tensions": "The theory critiques mainstream theories of perception, specifically attacking both behaviorism and cognitivism/information processing. Its extension to phenomenal consciousness is speculative and subject to skepticism from those committed to internal representation theories.",
+    "open_questions_and_limitations": "The core theory addresses perception and cognition; the application or extension to explaining phenomenal consciousness (the 'what-it-is-like' aspect) requires cautious inference.",
+    "ontological_coherence": "Highly coherent within its ecological and situated anti-reductionist materialist ontology, but fundamentally conflicts with theories reliant on cognitive symbol manipulation."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "If consciousness is a product of direct, situated interaction within an organism-environment system (as implied by this Materialism theory), then AI could achieve consciousness if engineered to embody and interact within a physical environment capable of perceiving affordances."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "The theory is classified under Materialism, focusing on the living, biological organism and its physical environment. There is no posited non-physical component that could survive bodily death."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic/Adaptive",
+      "rationale": "The primary functional role of perception is adaptive behavior through the detection of affordances, consistent with a Materialist view where meaning is created by humans in their environment for survival and flourishing."
+    },
+    "virtual_immortality": {
+      "stance": "Conditional",
+      "rationale": "As consciousness is tied to the physical organism-environment unit, virtual immortality would be attainable only if the essential embodied, non-representational interactions could be perfectly captured and simulated in a new physical medium."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Direct Perception Theory",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Ecological Approach to Visual Perception, James J. Gibson",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The history and philosophy of ecological psychology, Lobo et al.",
+        "year": 2018
+      }
+    ]
+  }
+}

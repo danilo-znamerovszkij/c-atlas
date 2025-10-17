@@ -1,1 +1,108 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Higher-Order Theories of Consciousness",
+    "summary": "Higher-Order Theories (HOT) posit that what makes a perception conscious is the presence of an accompanying cognitive state about that perception. This mechanism is a two-level process where the phenomenal consciousness is the higher-level sensing of first-order perceptions or mental states.",
+    "associated_thinkers": [
+      "Peter Carruthers",
+      "David Rosenthal",
+      "Joseph LeDoux",
+      "Hakwan Lau"
+    ],
+    "category": "Materialism",
+    "subcategory": "Representational",
+    "core_identity_tagline": "Consciousness as Higher-Order Representation",
+    "classification_tags": [
+      "representation",
+      "cognitive",
+      "two-level process",
+      "inner-sense theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Phenomenal consciousness is identified as the higher-level sensing or representation (a cognitive state or thought) directed at a first-order mental state or perception.",
+    "ontological_status": "Reductive Physicalism/Functionalism (Justification: As a Materialist theory, it reduces consciousness to functional/cognitive processes implemented by the brain, often framed in mentalistic terms.)",
+    "mind_body_relationship": "Consciousness arises through the causal relationship between two mental levels (first-order and second-order states), both of which are fully realized by physical processes in the brain.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justification: As a core Materialist theory, consciousness is held to be reducible in principle, even if the reduction is phrased in mentalistic or functional terms rather than direct neurophysiology.)",
+    "subjectivity_and_intentionality": "Subjectivity arises when the first-order state is the object of a second-order thought, lending a dimension of 'seeming' or self-awareness. Intentionality operates at both levels: first-order (about the world) and second-order (about the first-order state).",
+    "qualia_account": "Qualia, or phenomenal character, are accounted for by the presence of the accompanying higher-order cognitive state about the perception, aiming to reductively explain phenomenal consciousness in mentalistic terms.",
+    "ontological_commitments": "First-order mental states (perceptions/sensations), second-order cognitive states (thoughts/representations), and complex cortical networks (e.g., prefrontal cortex) that instantiate these representations.",
+    "epistemic_access": "Accessible via introspection (as conscious states are states we are aware of) and through third-person modeling of the cognitive architectures and correlated neural activation patterns (e.g., perceptual reality monitoring).",
+    "constituents_and_structure": "A two-level processing structure consisting of first-order representations (sensory information) and second-order cognitive representations (thoughts or perceptions) directed at those first-order states."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness; Self-awareness (as awareness of one's own states); Emotional consciousness (in LeDoux's variant).",
+    "distinctive_mechanism_or_principle": "The presence of an accompanying cognitive or meta-state (the higher-order representation or thought) which targets a lower-level mental state, thereby transforming it from unconscious to conscious.",
+    "dynamics_of_emergence": "Consciousness is a dynamic, processual phenomenon arising from the two-level relationship between the sensory representation and the monitoring cognitive structure (e.g., actual causation in Actualist HOT, or availability in Dispositionalist HOT).",
+    "location_and_distribution": "Localized primarily in cortical regions associated with higher-order cognitive function and metacognition, such as the prefrontal cortex (PFC), contrasting with 'back of the head' theories.",
+    "causation_and_functional_role": "The higher-order state confers consciousness on the lower-level state (Actualist HOT). The functional role is typically to make the content of the first-order perception available for flexible cognitive processing and report.",
+    "integration_or_binding": "Integration is presumed to occur, perhaps implicitly through the functional integration enabled by the unified higher-order representation, or through memory mechanisms linking perceptual representations (as noted in Lau's variant).",
+    "information_flow_or_representation": "Consciousness is achieved by a flow of information resulting in representations of representations (second-order representations) which 'tag' or categorize the first-order sensory input.",
+    "evolutionary_account": "Conscious mechanisms evolved from simpler processes, potentially enabling complex emotional experiences and self-centered awareness through cortically based general networks of cognition.",
+    "core_claims_and_evidence": [
+      "Phenomenal consciousness is mediated by a cognitive state about the perception (two-level process).",
+      "Conscious states are distinguished from unconscious states by the presence of a higher-order representation.",
+      "Blindsight is explained by the existence of a first-order representation without the corresponding higher-order representation."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (explaining the conscious/unconscious distinction), Cognitive, Neuroscientific Modeling (e.g., blindsight studies)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable (especially regarding the difference between first-order processing and corresponding higher-order activity in the cortex).",
+    "known_empirical_interventions_or_tests": "Empirical evidence is often sought through comparisons of conscious vs. unconscious perception (like blindsight) to test for the existence or activity of the requisite higher-order representation.",
+    "criticisms_and_tensions": "Criticized for the difficulty in specifying the exact relationship required between the higher-order thought and the first-order perception to confer consciousness, leading to content-description inadequacies. The 'double representation' approach is seen as conceptually mysterious.",
+    "open_questions_and_limitations": "The precise nature of the relation that must obtain between a higher-order state and a first-order perception for consciousness to arise remains an open question. It also faces the general objection concerning the explanatory gap for qualia.",
+    "ontological_coherence": "Highly coherent within a physicalist/materialist and functionalist ontology, relying on scientifically tractable concepts like representation and cognitive states."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "As a Materialist theory based on cognitive and representational structures, consciousness is fundamentally computational or functional, meaning advanced AI systems capable of self-monitoring and forming high-level representations could achieve consciousness."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is realized entirely by complex, cortically based brain mechanisms; therefore, it cannot persist beyond the breakdown of the biological substrate."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Arising from emergent biological processes, consciousness provides self-reflection and agency but does not imply any ultimate cosmic teleology, aligning with the deflationary stance of Materialism."
+    },
+    "virtual_immortality": {
+      "stance": "Likely",
+      "rationale": "If consciousness is wholly defined by representational and functional relationships, a perfect duplication and uploading of these complex cognitive states into a non-biological medium should preserve the first-person mental self."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Attention Schema Theory (Graziano)",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "relationship": "Extension"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Higher-Order Theories of Consciousness, Peter Carruthers",
+        "year": 2020
+      },
+      {
+        "title_with_names": "A higher-order theory of emotional consciousness, Joseph LeDoux and Richard Brown",
+        "year": 2017
+      },
+      {
+        "title_with_names": "In Consciousness We Trust: the Cognitive Neuroscience of Subjective Experience, Hakwan Lau",
+        "year": 2022
+      }
+    ]
+  }
+}

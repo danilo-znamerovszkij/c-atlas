@@ -1,1 +1,96 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Jaynes’s Breakdown of the Bicameral Mind",
+    "summary": "This theory posits that consciousness, defined as introspection, is a learned behaviour rooted in language and culture, rather than being innate or fundamental. It suggests that consciousness historically emerged around the 2nd millennium BCE, following the societal breakdown of a non-conscious mentality called the bicameral mind, characterized by auditory hallucinations.",
+    "associated_thinkers": ["Julian Jaynes"],
+    "category": "Materialism Theories",
+    "subcategory": "Language Relationships",
+    "core_identity_tagline": "Consciousness as a Learned Linguistic/Metaphorical Analog of the World",
+    "classification_tags": [
+      "language",
+      "introspection",
+      "culture",
+      "historical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness, or 'subjective conscious mind,' is an analog of the real world constructed from a vocabulary of metaphors derived from external behaviour; it functions as an operator rather than a repository or thing.",
+    "ontological_status": "Physicalism/Materialism (This deflationary theory is classified under Materialism, implying consciousness is wholly material, albeit a non-obvious cultural product.)",
+    "mind_body_relationship": "Identity Theory (Mind is implicitly identical to the brain processes that execute linguistic functions and organize metaphorical 'mind-space'; Jaynes posited a neurobiological correlate involving cerebral hemispheres.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Consciousness is explained as an evolutionarily recent, non-fundamental cultural construct built upon underlying biological and linguistic machinery, suggesting reducibility in principle.)",
+    "subjectivity_and_intentionality": "Subjectivity is constituted by an analog 'I' relating to mental 'seeing' in a metaphorical 'mind-space.' Intentionality is achieved through narratization—constantly fitting events into a story—which is a learned analog of external behaviour.",
+    "qualia_account": "Qualia are implicitly redefined or dismissed, as the focus is on 'introspective consciousness' which is explicitly distinguished from phenomenal consciousness ('raw inner experience').",
+    "ontological_commitments": "Language/lexical fields, cultural structures, and brain regions (cerebral hemispheres are suggested as the correlate for the preceding bicameral state).",
+    "epistemic_access": "Linguistic analysis, introspection on 'mind-space,' historical texts, and archaeological evidence.",
+    "constituents_and_structure": "The subjective mind is structured as a 'mind-space,' composed of metaphors and analogs of behaviour, and organized dynamically through processes like narratization, concentration, and suppression."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Introspective consciousness, self-awareness, volition/decision-making, and attention ('concentration'). (Explicitly rejects phenomenal consciousness and sensory awareness.)",
+    "distinctive_mechanism_or_principle": "The historical breakdown of the bicameral mentality (where decisions were made by auditory hallucinations) and its replacement by a linguistic, metaphorical construction of an internal analog world ('mind-space').",
+    "dynamics_of_emergence": "Consciousness is a learned, historically emergent process (phylogenetically, around the 2nd millennium BCE) that operates as an operator, continually fitting experience into narrative form (narratization).",
+    "location_and_distribution": "The theory grants consciousness only an arbitrary and functional location, though the precursor bicameral mind was correlated with communication between the cerebral hemispheres.",
+    "causation_and_functional_role": "Consciousness's primary functional role is enabling individuals to shortcut behavioural processes and arrive at more adequate decisions, intimately linked with volition.",
+    "integration_or_binding": "Integration is achieved via 'narratization'—fitting events into a continuous story—and 'consilience,' the analog of perceptual assimilation.",
+    "information_flow_or_representation": "Information is represented as an analog of the real world using metaphorical language (lexical field) to facilitate abstract thinking and decision-making.",
+    "evolutionary_account": "Consciousness is a learned behaviour that evolved relatively recently (2nd millennium BCE) in humans, triggered by the need for a new decision-making system after social instability broke down the bicameral system.",
+    "core_claims_and_evidence": [
+      "Consciousness is rooted in language and metaphor and is not an innate property.",
+      "Consciousness functions as an analog system to shortcut and improve decision-making.",
+      "Early human society was characterized by a non-conscious 'bicameral mind' where directives were perceived as auditory hallucinations.",
+      "The theory is supported by interpretations of ancient texts and neurobiological lateralization (speculatively)."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical, Linguistic, Psychohistorical, Neurobiological speculation."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable/Speculative (The core historical and linguistic claims are subject to scholarly debate rather than traditional empirical verification, and the theory is not widely accepted by experts.)",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "The theory uses an idiosyncratic definition of consciousness ('introspective consciousness') that excludes phenomenal consciousness, which is the main target of inquiry in the field. It is not accepted by consciousness experts.",
+    "open_questions_and_limitation": "The primary limitation is its failure to account for or acknowledge phenomenal consciousness ('raw inner experience') as traditionally defined.",
+    "ontological_coherence": "Consistent (The reliance on linguistic and cultural construction aligns with a deflationary materialist ontology, viewing consciousness as a complex, functional emergent property.)"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "If consciousness is a learned analog/operator rooted fundamentally in language and informational processes, advances in large language models and AI could plausibly instantiate this form of consciousness."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "As a physicalist and deflationary theory, consciousness is tied to the physical machinery of the brain and the linguistic structures it supports, leaving no basis for survival beyond physical death."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Consciousness serves a functional, survival-driven purpose (improving decision-making) derived from biological and cultural imperatives, offering no inherent cosmic meaning."
+    },
+    "virtual_immortality": {
+      "stance": "Likely",
+      "rationale": "Since the mind is defined by linguistic and metaphorical structures capable of being uploaded or replicated in non-biological substrates (similar to software), virtual immortality would be conceptually viable under this model."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Dennett’s Multiple Drafts Model",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Language Theories (General)",
+        "relationship": "Extension"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Origin of Consciousness in the Breakdown of the Bicameral Mind",
+        "year": 1976
+      },
+      {
+        "title_with_names": "Consciousness and the voices of the mind",
+        "year": 1987
+      }
+    ]
+  }
+}

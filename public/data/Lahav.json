@@ -1,1 +1,91 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Lahav's relativistic theory",
+    "summary": "This theory characterizes consciousness as a physical phenomenon that is relative to the measurements performed by a 'cognitive frame of reference'. Analogous to velocity in physics, different observers operating in different cognitive frames will manifest different physical properties (conscious awareness for oneself versus measured brain activity for another) when observing the same phenomenon.",
+    "associated_thinkers": ["Nir Lahav", "Z.A. Neemeh"],
+    "category": "Materialism",
+    "subcategory": "Relational",
+    "core_identity_tagline": "Consciousness as a physical phenomenon relative to a cognitive frame of reference",
+    "classification_tags": [
+      "relativistic",
+      "measurement",
+      "physical phenomenon",
+      "relational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Conscious experiences are identified as arising due to the process of physical measurement relative to a 'cognitive frame of reference'.",
+    "ontological_status": "Physicalism",
+    "mind_body_relationship": "The relationship is relativistic: the same underlying phenomenon is manifested as conscious awareness (from the internal frame) or brain activity (from an external frame) depending on the measurement context. This suggests a frame-dependent identity or correlation.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Not explicitly detailed, but likely Weak Emergence, as it relies on established (or analogous) physical principles (relativity, measurement) rather than postulating new fundamental laws for the existence of consciousness itself.",
+    "subjectivity_and_intentionality": "Subjectivity is inherent in the definition of the 'cognitive frame of reference'; two people, being in different cognitive frames, experience consciousness differently. Intentionality (directedness of thought) is not explicitly addressed in the provided sources.",
+    "qualia_account": "Qualia are implicitly accounted for as subjective physical properties manifested within a specific cognitive frame of reference, although the intrinsic qualitative nature of the experience itself is not detailed.",
+    "ontological_commitments": "Physical reality, physical measurement processes, and a 'cognitive frame of reference' analogized from relativistic physics.",
+    "epistemic_access": "Access is frame-dependent: within one's own cognitive frame, conscious awareness is experienced; from a separate cognitive frame, only brain activity can be measured.",
+    "constituents_and_structure": "Consciousness is structured by the physical measurement process itself, resulting in different physical properties or manifestations depending on the frame of reference."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conscious awareness, physical manifestation of properties.",
+    "distinctive_mechanism_or_principle": "The principle of consciousness being relative to physical measurement in a cognitive frame of reference, rather than being created by computations.",
+    "dynamics_of_emergence": "Consciousness arises dynamically from the process of physical measurement. Different physical measurements in different frames of reference yield different manifestations of conscious experience and brain activity.",
+    "location_and_distribution": "Localized relative to the observer's 'cognitive frame of reference.'",
+    "causation_and_functional_role": "Conscious experiences arise 'due to' the physical measurement process itself. Consciousness does not arise from computational processes performed by the brain.",
+    "integration_or_binding": "Not explicitly addressed, but assumed to be unified within a single cognitive frame of reference.",
+    "information_flow_or_representation": "Information processing (computation) is explicitly noted as *not* the origin of conscious experiences; consciousness arises from the underlying process of physical measurement.",
+    "evolutionary_account": "This field is not addressed in the provided source material.",
+    "core_claims_and_evidence": [
+      "Consciousness is a physical phenomenon that is relative to the measurements of a cognitive frame of reference.",
+      "Conscious experiences arise due to the process of physical measurement.",
+      "The brain does not create conscious experiences through computations."
+    ],
+    "basis_of_belief_or_evidence_type": "Conceptual/Theoretical argument based on analogy to physics (relativity)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable, as the theory deals with defining physical phenomena and measurement, though empirical testing relies on developing mechanisms to test the cognitive frame analogy.",
+    "known_empirical_interventions_or_tests": "No specific empirical interventions or tests are listed in the sources.",
+    "criticisms_and_tensions": "The source provides a description, not a critique section. Potential tension lies in translating the analogy of physical relativity (like velocity) into verifiable, non-metaphorical cognitive or neurobiological processes.",
+    "open_questions_and_limitations": "The precise physical or neural instantiation and definition of the 'cognitive frame of reference' remains an open question.",
+    "ontological_coherence": "Coherent within a physicalist framework that allows fundamental physical properties to be relative to an observer or measurement process."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Since the theory posits consciousness arises from physical measurement, not computation, AI systems would require non-computational physical measurement processes that constitute a cognitive frame of reference, making it conditional on hardware implementation beyond simple computation."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": "This field is not addressed in the provided source material."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": "This field is not addressed in the provided source material."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Since consciousness is non-computational and dependent on the process of physical measurement, standard virtual immortality (uploading software/data) is unlikely, though physical duplication of the relativistic physical system might theoretically be possible."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Relational Theories of consciousness",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Computational Theories of Mind",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Rovelli's Relationship Physics",
+        "relationship": "Influence"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A relativistic theory of consciousness",
+        "year": 2022
+      }
+    ]
+  }
+}
