@@ -1,1 +1,90 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Stump’s Thomistic Dualism",
+    "summary": "This theory presents St. Thomas Aquinas’s account of the human soul as a non-Cartesian form of dualism. It posits the soul as an essentially immaterial or configurational component that is nonetheless realized within material components, allowing for the reconciliation of human materiality with the survival of the spirit after bodily death.",
+    "associated_thinkers": ["Eleonore Stump", "St. Thomas Aquinas"],
+    "category": "Dualisms",
+    "subcategory": "Philosophical",
+    "core_identity_tagline": "Non-Cartesian Immaterial Soul Realized in Matter",
+    "classification_tags": ["dualism", "thomism", "non-Cartesian", "soul"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness, or the human soul/spirit, is an essentially immaterial or configurational substance that is realized in material components (the body).",
+    "ontological_status": "Substance Dualism (Non-Cartesian/Thomistic Variant)",
+    "mind_body_relationship": "The immaterial soul/spirit is realized in material components, accommodating both the person's material nature ('dust thou art') and the spirit's survival after death ('the spirit shall return to God').",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence/Non-reductive (Justification: The soul is described as retaining an immaterial essence that persists independently of the body, indicating that it is not fully reducible to the material processes from which it arises.)",
+    "subjectivity_and_intentionality": "Subjectivity and intentionality are fundamentally seated in the immaterial/configurational soul, as evidenced by its capacity to persist as the spirit after bodily dissolution.",
+    "qualia_account": "Qualia are associated with the properties of the immaterial/configurational soul component that is realized in the material body.",
+    "ontological_commitments": "Material body (subject to dissolution, like 'dust') and an essentially immaterial or configurational soul/spirit capable of independent existence.",
+    "epistemic_access": "Primarily accessed through philosophical argument and theological interpretation of foundational texts or intuitions regarding human nature and spiritual survival.",
+    "constituents_and_structure": "The human person is a composite entity where the soul acts as the form or configurational structure realized by the body's material components."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "First-person subjectivity, personal identity, survival beyond death.",
+    "distinctive_mechanism_or_principle": "The human soul's non-Cartesian nature allows it to be inherently configurational, binding the physical person together, while maintaining its independent existence as an immaterial component, thus accommodating both material existence and spiritual survival.",
+    "dynamics_of_emergence": "The soul is realized in the material body during life. At death, while the body dissolves ('dust thou art'), the spirit persists as the non-material element ('the spirit shall return to God').",
+    "location_and_distribution": "The soul is intrinsically immaterial or configurational but is realized or instantiated in the material body during life. Post-mortem, the soul is non-localized relative to the physical world.",
+    "causation_and_functional_role": "The theory is focused on ontology rather than function, but the soul's function is implied to be necessary for coherent personal identity and persistence through life and beyond.",
+    "integration_or_binding": "The soul/spirit serves as the unifying, configurational principle (form) that binds the material components into a single human being.",
+    "information_flow_or_representation": "The theory focuses on ontological composition (matter and form/spirit) rather than informational or representational processing mechanics.",
+    "evolutionary_account": "The theory is founded on historical scholastic philosophy, but modern interpretations would likely accommodate biological complexity as a necessary condition for the soul’s realization, thus enabling emergence.",
+    "core_claims_and_evidence": [
+      "The soul is non-Cartesian and configurational, realized in material components.",
+      "A human being is a material object (aligned with Genesis 3:19).",
+      "The human person survives death because the spirit continues to exist (aligned with Ecclesiastes 12:7)."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical and Theological"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Largely conceptual, focusing on philosophical coherence and metaphysical consistency with religious doctrines regarding life and death.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "It attempts to address the common philosophical criticism that traditional Cartesian dualism is widely regarded as false or incoherent, particularly concerning the problem of interaction.",
+    "open_questions_and_limitations": "The precise mechanism by which an immaterial/configurational essence is 'realized' in material components, and how this essence sustains consciousness post-mortem, is left undefined by the source material.",
+    "ontological_coherence": "High coherence within its defined Thomistic metaphysical framework, specifically designed to harmonize the existence of a material body with an enduring spiritual element."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "If consciousness is tied to an essentially immaterial or configurational soul realized in biological matter, artificial systems constructed only from physical components would likely lack this necessary non-physical constituent, unless the psychophysical laws generating the soul could apply to non-biological substrates."
+    },
+    "survival_beyond_death": {
+      "stance": "Yes",
+      "rationale": "The theory is explicitly constructed to accommodate the persistence of the spirit/soul, which is the seat of the person’s consciousness, after the body dissolves."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cosmic/Theological",
+      "rationale": "The framework is rooted in Christian scholastic philosophy, integrating biblical doctrines about creation and the return of the spirit to God, thereby providing ultimate meaning and purpose."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "As a substance dualism variant requiring a nonphysical substance (the soul), duplication of only the physical structure (as in virtual immortality) would omit the essential nonphysical component necessary for the self's continuity."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Property Dualism",
+        "relationship": "Distinction (While property dualism denies substance dualism, Thomistic dualism seeks to transcend the traditional dichotomy between substance and material reductionism.)"
+      },
+      {
+        "name": "Substance Dualism (Cartesian)",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Jaworski’s Hylomorphism",
+        "relationship": "Overlap"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Non-Cartesian Substance Dualism and Materialism Without Reductionism, Eleonore Stump",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Summa Theologiae, St. Thomas Aquinas",
+        "year": "c. 1265-1274"
+      }
+    ]
+  }
+}

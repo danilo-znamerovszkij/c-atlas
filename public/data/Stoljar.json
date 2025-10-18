@@ -1,1 +1,99 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Stoljar’s Epistemic View and Non-Standard Physicalism",
+    "summary": "This theory defends physicalism against anti-materialist arguments by introducing the ignorance hypothesis, which posits that we are profoundly unaware of a type of physical fact or property relevant to consciousness. It argues that the supposed compatibility problem between consciousness and physicalism arises from our current epistemic limitations, not an ontological flaw in physicalism itself.",
+    "associated_thinkers": ["Daniel Stoljar"],
+    "category": "Materialism",
+    "subcategory": "Philosophical",
+    "core_identity_tagline": "Physicalism Defended via Epistemic Ignorance",
+    "classification_tags": [
+      "physicalism",
+      "epistemology",
+      "ignorance hypothesis",
+      "compatibility problem"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a physical phenomenon, constituted by a type of physical fact or property currently unknown to us. Conscious states are dependent on other things and are not fundamental.",
+    "ontological_status": "Non-Standard Physicalism",
+    "mind_body_relationship": "Consciousness is identical to physical properties (token identity) or necessitated by them, but the specific nature of this physical property is unknown due to epistemic ignorance. This relationship defends physicalism as an empirical truth.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Epistemic Emergence. This is justified because while the theory defends physicalism (suggesting weak emergence or identity in principle), the defining characteristic is that the relevant physical facts are currently unknowable by standard methods, maintaining an explanatory gap based on ignorance.",
+    "subjectivity_and_intentionality": "Subjectivity and intentionality are ultimately realized by the unknown physical properties relevant to consciousness, consistent with the overall physicalist ontology defended by the theory. The specific realization mechanism is currently unknown.",
+    "qualia_account": "Qualitative feel (qualia) corresponds to specific, unknown physical facts or properties. Anti-physicalist arguments based on qualia (like the Conceivability Argument) fail because they falsely presuppose complete knowledge of these underlying physical facts.",
+    "ontological_commitments": "Physical properties, specifically a type of physical fact or property relevant to consciousness, the nature of which is currently profoundly ignorant. Also committed to the existence of consciousness and the overall structure of physicalism.",
+    "epistemic_access": "Access is currently profoundly limited by the 'ignorance hypothesis,' meaning we cannot fully know the physical facts relevant to consciousness using current scientific methods. However, a limited 'science of consciousness' establishing empirical laws is possible.",
+    "constituents_and_structure": "Conscious states are dependent structures that are realized by, but not fundamental properties of, the physical world; their realization depends on the currently unknown physical facts."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness (specifically addressing arguments against its compatibility with physicalism).",
+    "distinctive_mechanism_or_principle": "The Ignorance Hypothesis: The idea that we are ignorant of the relevant type of physical fact/property needed to fully explain consciousness, thereby undermining anti-physicalist arguments that assume complete physical knowledge.",
+    "dynamics_of_emergence": "Consciousness arises as a dependent property of physical systems. The actual dynamic process of dependence on the unknown physical facts remains to be discovered.",
+    "location_and_distribution": "The brain and body, realized by the specific physical facts we are ignorant of, consistent with physicalism.",
+    "causation_and_functional_role": "The theory focuses on metaphysical compatibility rather than functional role. Conscious states are not fundamental and 'depend on other things.' Causal power is implied to reside within the fully understood physical realm (when ignorance is overcome).",
+    "integration_or_binding": "Unspecified. The binding problem is presumed to be resolved by the eventual discovery and characterization of the currently unknown physical facts underlying consciousness.",
+    "information_flow_or_representation": "Unspecified. The theory focuses on the metaphysical defense of physicalism rather than specific cognitive or informational mechanisms.",
+    "evolutionary_account": "The theory is compatible with a standard physicalist evolutionary account, whereby consciousness emerged as an evolutionary outcome of complex biological organization, realized by the unknown physical properties.",
+    "core_claims_and_evidence": [
+      "The Conceivability Argument and Knowledge Argument against physicalism are unpersuasive because they falsely presuppose complete knowledge of the physical facts relevant to consciousness.",
+      "Conscious states are not fundamental and depend on other (physical) things.",
+      "Physicalism is an empirical truth, not an a priori argument, and is currently defensible through the ignorance hypothesis."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (Conceptual analysis and defense)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically constrained. Stoljar believes a science of consciousness establishing empirical laws is possible, though he doubts a complete systematic theory can be constructed.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "The theory relies on the assumption of profound ignorance regarding key physical facts, which critics might view as deferring explanation. It also critiques 'standard physicalism' while remaining non-traditional itself.",
+    "open_questions_and_limitations": "The precise identity and nature of the physical facts or properties relevant to consciousness remain unknown. The possibility of achieving systematic knowledge of the laws governing consciousness is also considered implausible by Stoljar.",
+    "ontological_coherence": "High coherence, as it provides a self-contained philosophical framework designed to uphold physicalism against incompatibility arguments, shifting the burden from ontological explanation (for now) to epistemic limitation."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "As a defense of physicalism, the theory asserts that consciousness is physical. Therefore, in principle, any artificial system realizing the necessary physical facts (even the currently unknown ones) should become conscious."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is dependent on physical facts and processes, and is not fundamental. Upon the destruction of the physical substrate (the brain), consciousness ceases to exist, consistent with physicalism."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Consistent with its foundational physicalist commitment, the theory provides no basis for ultimate cosmic meaning or purpose; meaning is constructed by conscious agents."
+    },
+    "virtual_immortality": {
+      "stance": "Likely",
+      "rationale": "If consciousness is entirely physical, the first-person mental self is potentially uploadable, provided the complex physical substrate (including the unknown properties identified in the ignorance hypothesis) can be duplicated in a non-biological medium."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Conceivability Argument",
+        "relationship": "Critique/Response"
+      },
+      {
+        "name": "Knowledge Argument",
+        "relationship": "Critique/Response"
+      },
+      {
+        "name": "Standard Physicalism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Kind’s Dualism 2.0",
+        "relationship": "Debate Partner/Shared Project"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What Is Consciousness? (Little Debates about Big Questions), A. Kind and D. Stoljar",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Physicalism, D. Stoljar",
+        "year": 2010
+      }
+    ]
+  }
+}

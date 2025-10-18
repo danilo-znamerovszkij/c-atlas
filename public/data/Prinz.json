@@ -1,1 +1,100 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+    "summary": "This theory claims that consciousness arises from attention, which facilitates the flow of perceptual information to memory systems at an intermediate stage of processing. This process relies fundamentally on synchronized neural firing and results in an integrated, point-of-view-retaining representation of the stimulus.",
+    "associated_thinkers": ["Jesse Prinz"],
+    "category": "Materialism",
+    "subcategory": "Neurobiological",
+    "core_identity_tagline": "Consciousness as Attended Intermediate Representation",
+    "classification_tags": [
+      "attention",
+      "neurofunctionalism",
+      "perceptual",
+      "representational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is identified as the process wherein an integrated, point-of-view-retaining representation of a stimulus becomes available to working memory due to the mechanism of attention.",
+    "ontological_status": "Reductive Physicalism",
+    "mind_body_relationship": "Prinz posits a \"neurofunctional response\" to the mind-body problem, combining functional roles with their underlying neurobiological realization, such that mental states are fully contained within materialism.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
+    "subjectivity_and_intentionality": "Subjectivity is intrinsic to the 'point-of-view-retaining format' of the representation made available by the attention process. All consciousness is perceptual, meaning intentionality (directedness) is key, but self-consciousness is not directly experienced.",
+    "qualia_account": "The theory attempts to synthesize empirical findings to offer a complete materialist explanation that counters the hard problem . Qualia are accounted for as the integrated representations resulting from the attention process .",
+    "ontological_commitments": "Synchronized neural firing, perceptual processing stages, and information representations .",
+    "epistemic_access": "Accessible via neuroscientifically grounded empirical exploration and modeling, combining functional and neurobiological data .",
+    "constituents_and_structure": "The fundamental components are representations integrated at an intermediate stage of processing, constrained and enabled by synchronized neural firing ."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal, Perceptual .",
+    "distinctive_mechanism_or_principle": "Attention, which changes the flow of information by using synchronized neural firing to make intermediate perceptual information representations available to memory systems .",
+    "dynamics_of_emergence": "Consciousness is a dynamic process arising when perceptual information reaches the specific 'intermediate' stage and is acted upon by the attention mechanism .",
+    "location_and_distribution": "Localized at a specific, intermediate stage of perceptual processing .",
+    "causation_and_functional_role": "Consciousness is causally efficacious, serving the function of making perceptual information readily available to systems that enable flexible behavior .",
+    "integration_or_binding": "Integration is achieved by the attention process, which unifies stimulus properties into a single, point-of-view-retaining format accessible to working memory .",
+    "information_flow_or_representation": "Information flow is modified by attention to grant access to memory systems, and consciousness relies entirely on integrated representations .",
+    "evolutionary_account": "Consciousness evolved to make perceptual information available to systems for flexible behavior, providing an adaptive advantage . (Justification: Based on the explicitly stated function of consciousness in enabling flexible behavior.)",
+    "core_claims_and_evidence": [
+      "Consciousness depends on attention and arises at the intermediate stage of perceptual processing .",
+      "This process relies on synchronized neural firing .",
+      "All conscious experience is perceptual, serving to enable flexible behavior .",
+      "The theory offers a complete explanation within materialism, solving Chalmers' hard problem ."
+    ],
+    "basis_of_belief_or_evidence_type": "Neuroscientific, Functional, Philosophical"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "The theory is supported by evidence linking synchronized neural firing to the unity and temporal duration of experience, serving as a basis for its neurobiological claims .",
+    "criticisms_and_tensions": "Prinz’s claim of a 'satisfying and surprisingly complete theory' entirely within materialism is rejected by critics like David Chalmers, who argue that no purely physical explanation can account for conscious experience .",
+    "open_questions_and_limitations": "The core limitation, as addressed by the theory itself, is convincing critics (like Chalmers) that a purely functional and neurobiological description suffices to explain phenomenal experience, despite the philosophical arguments against physicalism .",
+    "ontological_coherence": "Highly coherent, as it explicitly blends functionalism and neurobiology into a consistent materialist framework, aiming to resolve traditional dualist challenges ."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "Since the theory identifies consciousness as a specific neurofunctional process of making information available to memory via attention, this computational function should be achievable in sufficiently advanced non-biological systems ."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "As a theory contained entirely within materialism, consciousness is fully dependent upon and generated by the biological organization and processes of the brain (e.g., synchronized neural firing) and ceases upon the destruction of the brain ."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Consciousness's function is pragmatic—making perceptual information available for flexible behavior . It operates within a materialist paradigm which typically entails meaning and purpose are self-created, not cosmic ."
+    },
+    "virtual_immortality": {
+      "stance": "Yes",
+      "rationale": "Given its foundation in neurofunctionalism and its aim for a complete materialist explanation , the perfect functional duplication of the attention-based representational system in a non-biological substrate should preserve the original first-person conscious self ."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Extension"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Chalmers’s hard problem of consciousness",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Recurrent Processing Theory",
+        "relationship": "Overlap"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Conscious Brain: How Attention Engenders Experience, Jesse J. Prinz",
+        "year": 2012
+      },
+      {
+        "title_with_names": "The conscious brain, Christopher Mole",
+        "year": 2013
+      }
+    ]
+  }
+}

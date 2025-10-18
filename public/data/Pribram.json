@@ -1,1 +1,106 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Pribram’s Holonomic Brain Theory",
+    "summary": "This theory proposes that human consciousness arises from quantum effects occurring within or between brain cells, causing the brain to function as a holographic information storage network. This holographic nature means information, particularly memory, is stored non-locally across neural networks, enabling robust function even after damage.",
+    "associated_thinkers": ["Karl Pribram", "David Bohm"],
+    "category": "Materialism Theories",
+    "subcategory": "Computational and Informational",
+    "core_identity_tagline": "‘Consciousness as Holographic Quantum Storage’",
+    "classification_tags": [
+      "quantum",
+      "holographic",
+      "memory",
+      "non-local",
+      "neuroscience"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is identified as wave interference patterns within neuronal dendritic webs, characteristic of holographic information encoding derived from quantum effects.",
+    "ontological_status": "Physicalism (Extended/Quantum-Biological)",
+    "mind_body_relationship": "Mind/consciousness is identical to specific quantum processes and information structures within the physical brain, suggesting an identity theory at a quantum level.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence",
+    "subjectivity_and_intentionality": "Consciousness is linked to the organized retrieval and reconstruction of holographic information patterns, facilitating rapid associative memory necessary for subjective experience and enabling perception that transcends simple feedforward processing.",
+    "qualia_account": "Qualia are implicitly accounted for by the non-local, holographic storage structure, which allows the entirety and unity of the complex stored information (memory/perception) to be reconstructed from any part.",
+    "ontological_commitments": "Quantum effects/processes, dendritic webs, wave interference patterns, Hilbert phase space, and non-local memory distribution.",
+    "epistemic_access": "Accessible via theoretical inference from observed phenomena (e.g., non-local memory effects in brain lesions) and mathematical modeling, such as holographic principles.",
+    "constituents_and_structure": "Information is encoded in electric oscillations and wave interference patterns within the fine-fibered dendritic webs of neurons, forming a non-local, distributed storage network."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (unity and robustness), Memory, Information processing, Non-locality.",
+    "distinctive_mechanism_or_principle": "Holographic analogy, where non-local storage of information in interference patterns ensures that all stored content can be accessed from any part of the memory network.",
+    "dynamics_of_emergence": "Consciousness arises dynamically as quantum effects generate oscillations that create interference patterns, which then encode and reconstruct experience.",
+    "location_and_distribution": "Distributed and non-local, residing in electric oscillations in the dendritic webs of neurons, particularly in relation to the non-local storage of memory.",
+    "causation_and_functional_role": "Enables fast associative memory that rapidly connects disparate pieces of stored information and provides robustness against localized brain damage.",
+    "integration_or_binding": "Integration is solved by the holographic nature of the information itself; like a hologram, every part of the field contains the entire information necessary to reconstruct the unified percept.",
+    "information_flow_or_representation": "Information is flow and representation encoded in wave interference patterns, stored across the neural network rather than in specific local circuits.",
+    "evolutionary_account": "The theory focuses on the mechanical means by which consciousness and non-local memory function, rather than providing an explicit phylogenetic account for the origin of this mechanism.",
+    "core_claims_and_evidence": [
+      "Consciousness results from quantum effects in brain cells acting as a holographic storage network.",
+      "Memory is distributed non-locally, allowing brain function despite localized damage (supported by Lashley's experiments).",
+      "Information is encoded via wave interference patterns in dendritic webs."
+    ],
+    "basis_of_belief_or_evidence_type": "Conceptual, Mathematical (Holographic models), Empirical (Neurobiological lesion studies), Theoretical (Quantum physics)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable, but faces extreme empirical difficulty in verifying the necessary quantum biological conditions within the brain.",
+    "known_empirical_interventions_or_tests": [
+      "Lashley's engram experiments showing robust memory function despite large cerebral cortex lesions."
+    ],
+    "criticisms_and_tensions": "Mainstream neuroscience dismisses the theory for lack of empirical support, particularly regarding how coherent quantum effects could be maintained in the brain's hot, noisy environment (decoherence challenge).",
+    "open_questions_and_limitations": "The precise physical substrate of the quantum storage and the mechanism for maintaining quantum coherence remain unknown and are largely dismissed by mainstream science.",
+    "ontological_coherence": "Coherent within an extended model of quantum physics and information theory, but fundamentally incompatible with classical reductionist materialism."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "If consciousness is dependent on specific quantum/physical properties (like dendritic oscillations and wave interference) rather than classical computation alone, artificial systems could only be conscious if they replicate this specific, currently unknown, physical structure."
+    },
+    "survival_beyond_death": {
+      "stance": "Highly Unlikely/No",
+      "rationale": "Consciousness is tied to the emergent quantum dynamics within the physical brain's dendritic webs; the destruction of this physical structure would typically entail the termination of consciousness, consistent with a physicalist ontology."
+    },
+    "meaning_and_purpose": {
+      "stance": "Uncertain/Humanistic only",
+      "rationale": "As a purely mechanistic and physicalist theory (albeit one invoking unconventional physics), it does not necessitate any inherent cosmic meaning or value, though it informs the physical basis of human experience and value creation."
+    },
+    "virtual_immortality": {
+      "stance": "Conditional",
+      "rationale": "Virtual immortality is theoretically possible only if technology can perfectly measure, map, and replicate the incredibly complex, highly sensitive quantum/holographic patterns and dynamics of the biological brain in a non-biological substrate."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "Extension/Collaboration"
+      },
+      {
+        "name": "Bohm's Implicate-Explicate Order",
+        "relationship": "Influence/Collaboration"
+      },
+      {
+        "name": "Holonomic Principle",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Electromagnetic Field Theories",
+        "relationship": "Overlap"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Holonomic Brain Theory",
+        "year": "N/A"
+      },
+      {
+        "title_with_names": "The Emperor’s New Mind - Concerning Computers, Minds, and the Law of Physics, Roger Penrose",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Wholeness and the Implicate Order, David Bohm",
+        "year": 1980
+      }
+    ]
+  }
+}

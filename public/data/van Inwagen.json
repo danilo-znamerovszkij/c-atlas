@@ -1,1 +1,95 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "van Inwagen’s Christian Materialism and Resurrection of the Dead",
+    "summary": "This theory proposes a form of Christian Materialism where the human person is entirely a material entity, thereby rejecting substance dualism on both philosophical and biblical grounds. It argues that personal identity across death is maintained by God preserving a physically and causally continuous 'bare kernel' of the original material body until the final resurrection.",
+    "associated_thinkers": ["Peter van Inwagen"],
+    "category": "Non-Reductive Physicalism",
+    "subcategory": "Christian Materialism",
+    "core_identity_tagline": "Materialism Reconciled with Biblical Resurrection",
+    "classification_tags": [
+      "christian philosophy",
+      "materialism",
+      "personal identity",
+      "theology",
+      "resurrection"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "The conscious person is a material thing that must maintain material and causal continuity to retain personal identity.",
+    "ontological_status": "Christian Materialism (a unique physicalist stance that incorporates divine action for identity continuity).",
+    "mind_body_relationship": "Identity Theory: the person (including the mind) is identical to a material thing, though the precise mechanism for long-term survival relies on divine preservation.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "The theory focuses on ontological continuity (God's preservation of the material entity) rather than specific neurological emergence mechanisms, but assumes a physicalist/materialist account of consciousness during life.",
+    "subjectivity_and_intentionality": "Subjectivity and intentionality are properties of the material person/brain, consistent with standard materialist positions, as the theory focuses primarily on post-mortem continuity rather than conscious function during life.",
+    "qualia_account": "The theory is primarily concerned with ontological continuity, but implicitly assumes that qualitative experience is an entirely physical phenomenon of the material organism, consistent with its underlying materialist foundation.",
+    "ontological_commitments": "The material person/body, atoms, and God's power (to secure material and causal continuity). It rejects non-physical substances like the soul.",
+    "epistemic_access": "Accessible via philosophical reasoning and theological exegesis, particularly focusing on biblical texts concerning death and resurrection.",
+    "constituents_and_structure": "The basic constituent is the material body, specifically the part that maintains identity continuity after death, symbolized by the 'gumnos kókkos' (bare kernel or naked grain)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Personal Identity, Survival Beyond Death, Theological Coherence.",
+    "distinctive_mechanism_or_principle": "The mechanism by which God preserves a small portion of the original matter (a bare kernel) to ensure material and causal continuity of the person between death and resurrection.",
+    "dynamics_of_emergence": "Consciousness arises from the complex material organism during life. Its persistence through death is not continuous but secured by God retaining an element of the material substrate.",
+    "location_and_distribution": "Located in the physical body/brain during life. Identity continuity is maintained by the preservation of a 'gumnos kókkos' after death.",
+    "causation_and_functional_role": "Consciousness and the mental life of the person are causally efficacious within the physical realm, as they are properties of the material entity.",
+    "integration_or_binding": "The coherence of consciousness during life is presumed to be achieved through neural processes within the material body, consistent with a materialist framework.",
+    "information_flow_or_representation": "Conscious processing is based on the functional representation and information flow within the material brain.",
+    "evolutionary_account": "The emergence of consciousness during life follows biological and evolutionary processes, as upheld by its materialist position.",
+    "core_claims_and_evidence": [
+      "The human person is a material thing, rejecting substance dualism.",
+      "The traditional dualist understanding of the New Testament resurrection texts is convoluted, favoring a materialist reading.",
+      "God must preserve some physical 'gumnos kókkos' of the person to ensure material and causal continuity for resurrection."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical argument, Theological/Biblical exegesis."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative/Conceptual. The central claims about resurrection rely on philosophical/theological argument and are not empirically testable by science.",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "The theory faces difficulty explaining how omnipotence can reassemble a person whose atoms have fluxed and spread widely (the conundrum of myriad duplicates). Furthermore, the argument against an immortal soul failed to persuade many Christian dualists.",
+    "open_questions_and_limitations": "The precise mechanism by which God preserves the 'gumnos kókkos' and ensures personal identity given the constant flux and scattering of bodily atoms remains an unresolved requirement.",
+    "ontological_coherence": "Coherent in reconciling materialism with Christian doctrine, but relies on a mechanism (divine preservation) that introduces a supernatural element to secure material continuity."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "As a materialist theory, consciousness is ultimately a product of complex physical arrangement, meaning AI should, in principle, be able to instantiate consciousness if the required physical substrate is achieved."
+    },
+    "survival_beyond_death": {
+      "stance": "Yes (Conditional on Divine Intervention)",
+      "rationale": "The theory's primary goal is to provide a mechanism (God preserving a bare kernel) for the material person to achieve biblical resurrection and post-mortem survival."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cosmic/Theological",
+      "rationale": "The entire framework is underpinned by a theological commitment to the resurrection of the dead, implying ultimate meaning and purpose within a divine plan."
+    },
+    "virtual_immortality": {
+      "stance": "Likely",
+      "rationale": "Since the person is a material thing, uploading the complete physical state of the brain should, in principle, result in a functional duplication of the conscious self, allowing for virtual immortality."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Substance Dualism", "relationship": "Critique" },
+      { "name": "Papineau’s Mind-Brain Identity", "relationship": "Overlap" },
+      {
+        "name": "Murphy’s Non-Reductive Physicalism",
+        "relationship": "Compatible"
+      },
+      { "name": "Mind-Brain Identity Theory", "relationship": "Overlap" }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dualism and Materialism: Athens and Jerusalem?",
+        "year": 1995
+      },
+      {
+        "title_with_names": "A materialist ontology of the human person",
+        "year": 2007
+      },
+      {
+        "title_with_names": "What is the nature of personal identity?",
+        "year": 2007
+      }
+    ]
+  }
+}

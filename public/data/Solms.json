@@ -1,1 +1,104 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Solms's Affect as the Hidden Spring of Consciousness",
+    "summary": "This theory identifies the elemental form of consciousness as affect (feeling) and locates its physiological mechanism in the upper brainstem, functioning as an extended form of homeostasis. It applies Friston’s free energy principle, arguing that affective experience (pleasure/unpleasure) is the efficient mechanism that complex organisms use to monitor environmental uncertainty and optimize survival behavior.",
+    "associated_thinkers": ["Mark Solms"],
+    "category": "Materialism",
+    "subcategory": "Homeostatic and Affective",
+    "core_identity_tagline": "Affect as the Foundational Form of Consciousness",
+    "classification_tags": [
+      "affect",
+      "homeostasis",
+      "free energy principle",
+      "brainstem",
+      "physicalist"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness, in its elementary form of sentient subjectivity, is constituted by affect (feelings), which operationalizes free energy minimization (unexpected uncertainty is felt as unpleasure, while decreases are felt as pleasure).",
+    "ontological_status": "Dual-Aspect Monism (interpreted within a Physicalist framework). This model views physiological and psychological phenomena as dual manifestations of a single underlying process, reducible to unitary physical causes, aligning with Materialism in its practical application to biological mechanisms.",
+    "mind_body_relationship": "Dual-aspect; physiological and psychological phenomena are complementary manifestations of a single underlying unitary process (electrical discharge analogy), rather than one causing the other.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justified: The functional mechanism of consciousness is claimed to be reducible to physical laws, such as the free-energy law, suggesting that although consciousness may seem novel, it is explainable in principle by fundamental physics.)",
+    "subjectivity_and_intentionality": "Sentient subjectivity is literally constituted by affect, which allows the organism to proactively resist entropy. Intentionality arises because self-organizing systems must chronically 'ask' questions about their free energy (existential needs) to determine their actions.",
+    "qualia_account": "Qualia are explained as 'color-coded' or 'flavored' categorical variables (affects, e.g., thirst vs. fear) that efficiently code the multiple needs of complex organisms, avoiding a computationally complex 'combinatorial explosion' for survival optimization.",
+    "ontological_commitments": "Physical laws (such as the free-energy law), physiological processes (extended homeostasis), and the specific structures of the upper brainstem/reticular activating system.",
+    "epistemic_access": "Accessible through investigation of corresponding neurophysiological events (third-person) and the indubitable reality of first-person affective experience.",
+    "constituents_and_structure": "The essential structure is the extended homeostatic mechanism realized in the upper brainstem, where cortical consciousness is contingent upon this foundational brainstem consciousness."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (affective/sentient subjectivity); Agency; Survival Optimization.",
+    "distinctive_mechanism_or_principle": "The operationalization of the Free Energy Principle (FEP) as affective states (pleasure/unpleasure) in the upper brainstem, which guides the organism’s behavior towards stability.",
+    "dynamics_of_emergence": "Consciousness is a dynamic process arising from the necessity of self-organizing systems to monitor their existential needs and generate predictive actions to minimize expected uncertainty.",
+    "location_and_distribution": "The foundational mechanism is located in the upper brainstem/reticular activating system. Cortical consciousness (content) is enabled by, and contingent upon, this brainstem affective consciousness (level).",
+    "causation_and_functional_role": "Affect plays a crucial causal role by functioning as a highly efficient algorithm to monitor environmental interactions, modify behavior, and optimize survival in unpredictable contexts.",
+    "integration_or_binding": "Integration of conflicting biological needs (e.g., fear vs. sleepiness) is achieved efficiently by coding them as distinct, qualitative affects (qualia/flavors), which allows context-dependent resolution without excessive calculation.",
+    "information_flow_or_representation": "Consciousness is associated with information processing systems that must engage proactively with the world regarding existential needs; affect is the feeling associated with monitoring changes in expected uncertainty (information).",
+    "evolutionary_account": "Consciousness, in the form of affect, evolved as the most efficient mechanism (algorithm) for enabling complex organisms to cope with unpredictable environments and manage multiple, context-dependent needs for survival.",
+    "core_claims_and_evidence": [
+      "Affect is the foundational form of consciousness, originating in the upper brainstem.",
+      "The core mechanism reduces to Friston’s free-energy law, making consciousness mathematically tractable.",
+      "Consciousness is part of nature and arises from proactive resistance to entropy.",
+      "Damage to the upper brainstem reliably obliterates consciousness, supporting its foundational role."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurobiological, Phenomenological, Computational (FEP)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable (specifically regarding the role of the brainstem and the nature of affect).",
+    "known_empirical_interventions_or_tests": [
+      "Correlating consciousness loss with damage to the reticular activating system (upper brainstem).",
+      "Empirical investigation of FEP parameters correlated with subjective pleasure/unpleasure."
+    ],
+    "criticisms_and_tensions": "The theory must argue convincingly against the traditional view that the brainstem only regulates the *level* of consciousness (waking/comatose) and not its *qualitative content*. Its self-description as dual-aspect monism is philosophically subtle, given its categorization as a Materialism Theory based on physiological mechanisms.",
+    "open_questions_and_limitations": "The precise mechanism explaining how proactive resistance to entropy 'feels like something' to the organism, beyond claiming its functional necessity, remains an area for further explanation.",
+    "ontological_coherence": "High coherence. The framework successfully embeds subjective experience within a mathematically tractable, naturalistic system governed by physical laws (FEP), upholding a physically grounded understanding of mind."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "If the theory is correct, an artificially conscious self-organizing system can be engineered, provided the system is designed to proactively resist entropy and manage existential needs, generating affective states as feedback."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "As a Materialism Theory, consciousness is entirely dependent on the biological brain and its physical processes, implying permanent non-existence upon the death of the organism."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic/Biological",
+      "rationale": "The core of consciousness is rooted in the biological imperative for survival (avoiding oblivion and minimizing free energy), which supports biological and humanistically constructed meaning, but no ultimate cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Yes",
+      "rationale": "As a Materialism Theory, the first-person mental self is, in principle, uploadable, provided the complex physical mechanisms (including the affective and homeostatic dynamics) can be comprehensively duplicated in a synthetic substrate."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Influence/Extension"
+      },
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Critique/Contrast"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The hard problem of consciousness and the free energy principle",
+        "year": 2018
+      },
+      {
+        "title_with_names": "The Hidden Spring: A Journey to the Source of Consciousness",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Précis of the hidden spring: a journey to the source of consciousness",
+        "year": 2021
+      }
+    ]
+  }
+}

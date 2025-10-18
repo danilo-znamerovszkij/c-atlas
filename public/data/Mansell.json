@@ -1,1 +1,97 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Mansell’s Perceptual Control Theory (PCT)",
+    "summary": "This theory proposes that consciousness emerges from the vital process of reorganization necessary to adaptively modify control systems. This modification aims to reduce error in intrinsic mechanisms that govern essential, mostly physiological, variables. Consciousness encompasses primary (phenomenal), secondary (access), and tertiary (self-awareness) aspects, linked to hierarchical control functions.",
+    "associated_thinkers": ["Warren Mansell"],
+    "category": "Materialism",
+    "subcategory": "Homeostatic and Affective",
+    "core_identity_tagline": "Consciousness as reorganization minimizing intrinsic error",
+    "classification_tags": [
+      "homeostatic",
+      "control theory",
+      "emergentism",
+      "purposiveness",
+      "functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Primary (phenomenal) consciousness is identified as emerging directly from the process of reorganization required for adaptive modification of control systems that minimize error in intrinsic physiological systems.",
+    "ontological_status": "Physicalism",
+    "mind_body_relationship": "Emergentist. Mind arises as a result of reorganization processes occurring within physical control systems (brain/body).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Based on its classification under Materialism, the fundamental processes governing consciousness (reorganization, error reduction) are assumed to be explainable in principle by underlying physical laws.",
+    "subjectivity_and_intentionality": "Subjectivity arises implicitly from the control of hierarchically organized perceptual variables. Intentionality is addressed via 'purposiveness,' which is the control exerted over these perceptual variables to achieve a goal (reference value).",
+    "qualia_account": "Primary (phenomenal) consciousness emerges from the specific reorganization process required for reducing error in intrinsic systems controlling basic physiological variables.",
+    "ontological_commitments": "Hierarchical control systems, physiological variables, perceptual variables, and symbols (for tertiary consciousness).",
+    "epistemic_access": "Accessed through studying adaptive modification processes (reorganization) and linking hierarchical control functions to the three levels of consciousness (primary, secondary, tertiary).",
+    "constituents_and_structure": "The basic structure is a system of hierarchically organized perceptual variables regulated by outputs designed to counteract disturbances and reduce the error between current value and goal state."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (Primary), Access (Secondary), Self-awareness (Tertiary)",
+    "distinctive_mechanism_or_principle": "Reorganization, defined as the process that adaptively modifies internal control systems to maintain essential variables against external disturbances, thereby generating consciousness.",
+    "dynamics_of_emergence": "Dynamic process. Secondary (access) consciousness is sustained by controlling the integration rate of novel information through exploratory behavior, attention, and imagination.",
+    "location_and_distribution": "Systemic. Consciousness arises from the reorganization dynamics across the hierarchical control systems of the organism (brain/body).",
+    "causation_and_functional_role": "Consciousness has the functional role of adaptive modification and error reduction. Tertiary consciousness (self-awareness) provides reflection and learning via symbolic systems.",
+    "integration_or_binding": "Integration is a process actively managed and controlled by secondary consciousness, specifically through managing the rate of integration of novel information.",
+    "information_flow_or_representation": "Tertiary (self-awareness) consciousness associates internally sustained perceptual information with symbols (language, logic) to form a propositional system for reflection.",
+    "evolutionary_account": "Consciousness evolved to contribute to, and address limitations of, nonconscious processes, specifically by enabling adaptive modification necessary to maintain control against unpredictable disturbances.",
+    "core_claims_and_evidence": [
+      "Consciousness emerges from the reorganization mechanism operating to reduce internal error signals.",
+      "Consciousness is split into three levels: primary (phenomenal), secondary (access), and tertiary (self-awareness).",
+      "Tertiary consciousness uses symbolic systems (language/logic) associated with internally sustained perceptual information.",
+      "Consciousness's primary function is to enable adaptive modifications of nonconscious control systems for survival."
+    ],
+    "basis_of_belief_or_evidence_type": "Conceptual, Psychological, Neurophilosophical"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable. The theory relies on quantifiable psychological processes (attention, imagination) and physiological error reduction signals.",
+    "known_empirical_interventions_or_tests": "Testable via experiments designed to measure the rate of adaptive modification (reorganization) in response to unpredictable physiological or perceptual disturbances, correlating these changes with reported phenomenal or access experiences.",
+    "criticisms_and_tensions": "Likely faces the challenge of explaining how a purely functional, error-reducing process (reorganization) fully accounts for the qualitative feel (qualia) of primary consciousness, a common criticism levied against functionalist and computational theories.",
+    "open_questions_and_limitations": "The precise physical implementation of the reorganization mechanism and the explicit link between physiological error reduction and the subjective emergence of phenomenal experience (qualia) are implicit rather than fully specified.",
+    "ontological_coherence": "Highly coherent within a physicalist framework that defines consciousness based on its adaptive functional role in controlling an organism's interaction with the environment."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "Since consciousness is mechanistically defined by processes like error reduction, hierarchical control, and symbolic manipulation (for self-awareness), these functions are theoretically realizable in sufficiently complex artificial computational systems."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is intrinsically tied to the dynamical emergence from the reorganization of biological control systems (implicitly physical/neural substrate), implying cessation upon the dissolution of this substrate."
+    },
+    "meaning_and_purpose": {
+      "stance": "Pragmatic/Existential",
+      "rationale": "The existence of consciousness is explained by its function in promoting adaptive behavior, maintaining control (purposiveness), and addressing the limitations of nonconscious life, without positing a cosmic or ultimate purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "If consciousness is wholly captured by the underlying informational structure and dynamics of the control system hierarchy, this functional pattern could potentially be replicated and sustained in a non-biological substrate."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "An Integrative Control Theory Perspective on Consciousness, W. Mansell",
+        "year": 2022
+      }
+    ]
+  }
+}

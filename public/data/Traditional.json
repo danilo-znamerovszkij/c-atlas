@@ -1,1 +1,115 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Historical and Traditional Dualisms",
+    "summary": "This category encompasses dualistic theories prevalent across millennia, often assuming a nonphysical aspect of mind (such as a soul) separate from the physical body. These dualisms, including those found in ancient philosophy and major religious traditions (like Abrahamic religions and certain Indian schools), assert that reality consists of at least two distinct ontological categories: physical and nonphysical.",
+    "associated_thinkers": [
+      "Plato",
+      "René Descartes (Modern Start)",
+      "Richard Swinburne",
+      "J.P. Moreland"
+    ],
+    "category": "Dualisms",
+    "subcategory": "Historical/Traditional Dualism",
+    "core_identity_tagline": "‘Consciousness as Separate Nonphysical Substance (Soul)’",
+    "classification_tags": [
+      "dualism",
+      "substance",
+      "soul",
+      "religion",
+      "classical philosophy",
+      "nonphysical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is identified with a nonphysical substance (often called the soul or spirit) that is independent of the brain and body.",
+    "ontological_status": "Substance Dualism",
+    "mind_body_relationship": "Typically characterized as Interactionism, where physical states cause mental states, and vice versa, requiring the physical world not to be causally closed.",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "N/A",
+    "subjectivity_and_intentionality": "Subjectivity is inherent to the nonphysical substance (soul/spirit), which acts as the first-person experiencer or 'I'. Intentionality is often viewed as a property of this distinct mental substance.",
+    "qualia_account": "Qualitative features (qualia) reside entirely within the nonphysical substance (mind/soul), which is distinct from physical matter.",
+    "ontological_commitments": "Physical matter/brain and a separate nonphysical substance (soul, spirit, purusha).",
+    "epistemic_access": "Generally known through common intuition, philosophical rumination, and religious/spiritual traditions, rather than empirical science.",
+    "constituents_and_structure": "Two distinct kinds of substance: physical (extended) and nonphysical (unextended, mental)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal experience, personal identity, survival beyond death, moral values, and the concept of self.",
+    "distinctive_mechanism_or_principle": "Interaction between the radically distinct physical and nonphysical substances, resulting in the notorious 'interaction problem'.",
+    "dynamics_of_emergence": "Consciousness is a persistent characteristic of the nonphysical substance, existing independently of dynamic physical processes.",
+    "location_and_distribution": "The physical part (body/brain) is local; the nonphysical part (soul) is separate and non-localized, existing independently of physical constraints.",
+    "causation_and_functional_role": "Mental states (of the nonphysical substance) play a causal role in affecting the physical world, and the soul grounds personal identity.",
+    "integration_or_binding": "Unity (binding) is inherent to the unified, indivisible nonphysical substance (soul).",
+    "information_flow_or_representation": "Information or representation is a property of the mental substance, which is characterized as thoroughly teleological and inherently intentional.",
+    "evolutionary_account": "Not typically addressed, as consciousness (soul) is often considered a fundamental creation or given component, rather than an evolutionary product.",
+    "core_claims_and_evidence": [
+      "Reality consists of two irreducible substances: physical and nonphysical (soul/spirit)",
+      "The soul grounds personal identity and survives bodily death",
+      "Mental causation is real: nonphysical states affect physical states",
+      "Intuition and widespread belief (especially in Abrahamic religions) support the existence of a separate soul"
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical, Religious/Traditional, Intuitive"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative/Philosophical",
+    "known_empirical_interventions_or_tests": "N/A",
+    "criticisms_and_tensions": "Faces the interaction problem (how nonphysical substance causes physical change), the problem of non-parsimony (Occam's razor), and lack of objective scientific knowledge regarding the soul.",
+    "open_questions_and_limitations": "The fundamental mechanism allowing interaction between physical and nonphysical substances (interaction problem) is unresolved.",
+    "ontological_coherence": "Inconsistent with the common assumption in science of the causal closure of the physical world."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No (Mostly)",
+      "rationale": "Consciousness requires a radically separate, nonphysical substance (soul) not causally determined by the physical world; therefore, non-biological intelligences cannot experience true inner awareness."
+    },
+    "survival_beyond_death": {
+      "stance": "Yes",
+      "rationale": "The nonphysical soul/spirit, being independent of the body, provides the clearest mechanism for the first-person self to survive the dissolution of the physical body, dominating religious traditions."
+    },
+    "meaning_and_purpose": {
+      "stance": "Ultimate Meaning/Purpose/Value",
+      "rationale": "Dualism is closely tied to religious belief systems (e.g., Abrahamic religions) that inherently attribute cosmic meaning, purpose, and value to existence and human life."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "Uploading the brain would fail to duplicate the necessary nonphysical component (soul) required for consciousness, thus preventing virtual immortality."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Substance Dualism (Generic)",
+        "relationship": "Identity"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Contrast"
+      },
+      {
+        "name": "Interactive Dualism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Contrast/Extension"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dualism, Howard Robinson",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Soul: How We Know It’s Real and Why it Matters, J.P. Moreland",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The Origin of Consciousness in the Breakdown of the Bicameral Mind, Julian Jaynes",
+        "year": 1976
+      },
+      {
+        "title_with_names": "Theosophy, Theosophy Wiki",
+        "year": 2023
+      }
+    ]
+  }
+}

@@ -1,1 +1,94 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Pereira’s Sentience",
+    "summary": "This theory posits that consciousness has two distinct modalities: foundational sentience, characterized by basic feelings like pain and hunger, and higher-level cognitive consciousness, involving abstract thinking and representation. The core claim is that cognitive capacity is dependent on this underlying sentient state, which is biologically grounded in homeostatic systems.",
+    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "category": "Materialism",
+    "subcategory": "Homeostatic and Affective",
+    "core_identity_tagline": "Consciousness as a two-tiered system grounded in sentience",
+    "classification_tags": [
+      "sentience",
+      "homeostatic",
+      "neurobiological",
+      "dual-modality",
+      "clinical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a composite biological system consisting of sentience (correlated with dynamic control of biochemical homeostasis) and cognitive consciousness (correlated with patterns of bioelectrical activity in neural networks).",
+    "ontological_status": "Physicalism/Naturalism (Inferred from its categorization under Materialism and focus on physiological/neural correlates)",
+    "mind_body_relationship": "Conscious modalities (sentience and cognition) are functionally dependent on, and have precise physiological correlates within, the biological organism, specifically homeostatic systems and neural networks.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justified by its strict grounding in observable and measurable biological/physiological processes, suggesting it is, in principle, explainable by physical laws, despite complexity.)",
+    "subjectivity_and_intentionality": "Subjectivity arises from sentience, the capacity to feel basic sensations (e.g., hunger, pain). Intentionality is present in cognitive consciousness through the elaboration of linguistic and imagery representations.",
+    "qualia_account": "Qualia are accounted for via the foundational modality of sentience, which corresponds directly to the capacity to feel basic, qualitative sensations (e.g., pain, thirst).",
+    "ontological_commitments": "Physiological systems controlling biochemical homeostasis; patterns of bioelectrical activity in neural networks; hierarchical neural organization.",
+    "epistemic_access": "Accessed through the study of physiological correlates, particularly in relation to the dynamic control of homeostasis, and clinically via observing basic sentient responses.",
+    "constituents_and_structure": "A hierarchical, two-tiered system: Sentience (low-level, homeostatic foundation) and Cognitive Consciousness (high-level, representational processing)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (basic sensations/sentience); Cognitive Consciousness (thinking/representation); Clinical diagnosis of consciousness disorders.",
+    "distinctive_mechanism_or_principle": "The principle of functional dependence, where the higher-level cognitive consciousness is strictly contingent upon and supported by the lower-level modality of sentience, rooted in homeostatic systems.",
+    "dynamics_of_emergence": "Consciousness arises through a hierarchical relationship where the existence of basic sentience, linked to physiological control, is a necessary base for the emergence of cognitive functioning.",
+    "location_and_distribution": "The core correlates are distributed across physiological systems responsible for homeostatic control (for sentience) and neural networks (for cognitive processing).",
+    "causation_and_functional_role": "Sentience serves the vital function of regulating physiological processes to maintain homeostasis and life continuation. It provides the conscious feedback necessary for basic biological regulation.",
+    "integration_or_binding": "Unspecified. (Justified by the theory’s focus on the distinction and hierarchical relationship between conscious modalities, rather than the mechanism for unifying sensory inputs.)",
+    "information_flow_or_representation": "Cognitive consciousness involves the processing and elaboration of linguistic and imagery representations, which occurs in neural networks.",
+    "evolutionary_account": "Unspecified in detail, but inferred to be adaptive and evolutionary, linking consciousness modalities to fundamental biological imperatives like survival and maintenance of homeostasis.",
+    "core_claims_and_evidence": [
+      "Cognitive consciousness depends on sentience, but not the reverse.",
+      "Sentience correlates with the capacity for dynamic control of biochemical homeostasis.",
+      "The capacity for feeling basic sensations (sentience) is the minimal requirement for minimal consciousness (relevant for clinical diagnosis)."
+    ],
+    "basis_of_belief_or_evidence_type": "Neuroscientific, Clinical/Medical, Philosophical"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable through clinical assessment and intervention, especially in analyzing minimal consciousness in vegetative states or under anesthesia.",
+    "known_empirical_interventions_or_tests": [
+      "Assessing capacity to feel basic sensations (hunger, pain) as a standard for diagnosing prolonged disorders of consciousness."
+    ],
+    "criticisms_and_tensions": "No explicit criticisms are provided in the source material. (Justification: The source material is descriptive and does not include critical discourse on this specific theory.)",
+    "open_questions_and_limitations": "The explicit physiological and bioelectrical mechanisms that realize the strict boundaries and hierarchical dependence between sentience and cognitive consciousness remain to be fully elucidated. Higher cognition tests may be inadequate for assessing all conscious states.",
+    "ontological_coherence": "Highly consistent within the boundaries of naturalism, linking two distinct aspects of consciousness to concrete, observable physiological systems."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "If artificial systems can fully replicate the physiological systems governing dynamic biochemical homeostasis (required for sentience) and the necessary bioelectrical network activity (for cognition), then artificial consciousness is possible."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "As consciousness is strictly dependent on functional biological systems (homeostasis control and neural networks), it is presumed to cease upon the irreversible dissolution of the body and brain."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The theory focuses on the functional, adaptive role of consciousness in maintaining biological stability (homeostasis) and enabling flexible cognition, providing no basis for cosmic or ultimate purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Conditional",
+      "rationale": "Theoretically possible only if the specific dynamic homeostatic and bioelectrical patterns identified as correlates of sentience and cognition can be perfectly digitized and replicated in a non-biological medium."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The role of sentience in the theory of consciousness and medical practice, A. Pereira Jr.",
+        "year": 2021
+      }
+    ]
+  }
+}

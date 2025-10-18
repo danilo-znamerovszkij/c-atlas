@@ -1,1 +1,102 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Mind-Brain Identity Theory",
+    "summary": "This classic philosophical theory of consciousness posits that mental states, events, or processes are strictly identical to specific states, events, or processes occurring in the brain. It functions as the exemplar of materialism by claiming that consciousness is entirely physical.",
+    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "category": "Materialism",
+    "subcategory": "Philosophical",
+    "core_identity_tagline": "Mental States Are Brain States",
+    "classification_tags": [
+      "identity",
+      "reductionism",
+      "physicalism",
+      "classical"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness (mental states/processes) is literally identical to physical states/processes of the brain. This is an identity claim in the strong sense, similar to comparing the Morning Star and the Evening Star to Venus.",
+    "ontological_status": "Reductive Physicalism/Materialism",
+    "mind_body_relationship": "Identity theory: Mental events and physical events are the same things, radically identical, meaning the 'two' cannot come apart.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
+    "subjectivity_and_intentionality": "Subjectivity and intentionality are strictly identical to certain physical states. The view implies that asking why a feeling accompanies a physical state is misguided because they are one and the same.",
+    "qualia_account": "Qualia (felt experience), such as pain or seeing red, are literally identical to specific physical states of the brain, such as the firing of nociceptive-specific neurons.",
+    "ontological_commitments": "Physical states and processes of the brain. The theory is committed to consciousness being wholly physical.",
+    "epistemic_access": "Knowledge of these identities is based on a posteriori empirical investigation, requiring science to discover which physical states correspond to which mental states.",
+    "constituents_and_structure": "Consciousness consists of the specific physical states and processes found in the brain, organized such that they are synonymous with mental states."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal, Access",
+    "distinctive_mechanism_or_principle": "The principle of rigorous identity relation applied to correlate mental kinds (e.g., pain) with physical kinds (e.g., C-fiber firing).",
+    "dynamics_of_emergence": "Consciousness is a consequence of biological processes, specifically identified with the brain's physical dynamics.",
+    "location_and_distribution": "Localized entirely within the brain.",
+    "causation_and_functional_role": "Mental causation is implicitly solved because mental states are physical states, which possess causal efficacy and functional roles.",
+    "integration_or_binding": "Integration is realized in the complex organization of the identical physical brain state. As a philosophical claim, it does not specify a distinct neurobiological mechanism for binding.",
+    "information_flow_or_representation": "Mental content or representations are equivalent to the physical states embodying them, adhering to physical laws.",
+    "evolutionary_account": "Consciousness is an evolved physical product arising from biological brains.",
+    "core_claims_and_evidence": [
+      "Mental states are strictly identical to brain states.",
+      "This identity is discovered a posteriori through empirical evidence linking mental events (e.g., pain) and specific neuronal activity."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical inference supported by accumulating empirical evidence of correlation."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable in principle by mapping correlations between specific mental and physical states.",
+    "known_empirical_interventions_or_tests": "Empirical correlation evidence (e.g., linking pain with nociceptive-specific neuron firing).",
+    "criticisms_and_tensions": "Generally considered undermined in its original form by objections, most notably multiple realizability (the same mental state could be realized by different physical mechanisms). The core philosophical challenge is the 'explanatory gap' or why brain states feel like something.",
+    "open_questions_and_limitations": "The theory struggles to resolve the intuition that philosophical zombies (physically identical creatures lacking consciousness) are conceivable, which implies the 'two' can come apart. It does not clearly distinguish which types of neural activity constitute consciousness.",
+    "ontological_coherence": "Highly coherent within a strict reductive physicalist ontology, but faces tension with basic phenomenological intuitions regarding subjectivity and qualia."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "Since MBIT asserts consciousness is reducible to physical processes, if those specific physical processes can be reproduced in an artificial, non-biological substrate, consciousness is necessarily instantiated."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is strictly identical to the functional and physical integrity of the brain; its dissolution upon death results in permanent cessation of the conscious self."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "As a materialist theory, MBIT entails no ultimate cosmic meaning or purpose. Meaning and value are emergent properties created by conscious human agents."
+    },
+    "virtual_immortality": {
+      "stance": "Yes",
+      "rationale": "If the consciousness (the precise physical pattern) can be scanned and perfectly duplicated/uploaded into a new physical medium (digital or otherwise), the theory guarantees the survival of the identical conscious self."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Papineau’s Mind-Brain Identity",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Tye’s Contingentism",
+        "relationship": "Influence"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The mind/brain identity theory, J.J.C. Smart",
+        "year": 2007
+      },
+      {
+        "title_with_names": "We must shed our metaphysical assumptions, David Papineau",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Mind-Brain Identity Theory, István Aranyosi",
+        "year": ""
+      }
+    ]
+  }
+}

@@ -1,1 +1,110 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Mathematical Theories",
+    "summary": "This category includes approaches that utilize rigorous mathematical tools to describe the structure, level, content, and dynamics of conscious experience (epistemological view) and foundational theories that posit mathematical structures as the ultimate basis or essence of consciousness itself (ontological view).",
+    "associated_thinkers": [
+      "Johannes Kleiner",
+      "Tim Ludwig",
+      "Yucong Duan",
+      "Max Tegmark",
+      "Roger Penrose"
+    ],
+    "category": "Materialism",
+    "subcategory": "Computational and Informational",
+    "core_identity_tagline": "Consciousness as Formal Mathematical Structure",
+    "classification_tags": [
+      "mathematics",
+      "ontology",
+      "formalism",
+      "structure",
+      "computation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is fundamentally identified with, or derived from, underlying mathematical structures, relations, or spaces, enabling formalization of experiential properties.",
+    "ontological_status": "Conditional Monism (Justification: Ranges from supporting traditional Physicalism/Materialism models to proposing ontological claims of mathematical reality as ultimate foundation, which transcends strict materialism.)",
+    "mind_body_relationship": "Highly variable. Ontological variants suggest that both the physical world and mental experience are secondary manifestations or 'shadows' of primary mathematical reality (e.g., Penrose's Platonic world). Epistemological variants suggest structural isomorphism between phenomenal experience and mathematical space.",
+    "primitive_or_emergent_status": "Variable",
+    "emergence_type": "Variable (Justification: Ontological variants suggest consciousness is primitive/fundamental as part of ultimate mathematical reality. Models focusing on dynamics suggest weak emergence of conscious states through complex mathematical relationships.)",
+    "subjectivity_and_intentionality": "Subjectivity and phenomenal qualities are formally characterized by mathematical spaces and structures, aiming to identify the composition and domains that correspond to experienced aspects of consciousness.",
+    "qualia_account": "Qualia, or phenomenal spaces, are treated as mathematical structures whose features are isomorphic to the properties of the experience. The theory attempts to ensure that something in conscious experience literally corresponds to the asserted structure.",
+    "ontological_commitments": "Mathematical structures and forms; domains representing aspects of conscious experience; abstract Platonic reality (in some variants).",
+    "epistemic_access": "Accessed via abstract formal methods, mathematical modeling, and rigorous quantitative or structural description of phenomenal features.",
+    "constituents_and_structure": "Consists of sets called 'domains' whose elements correspond to aspects of conscious experiences, and rigorously defined relations or functions operating on those domains."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Structure, level, content, and dynamics (evolution track, stable state, information flow) of conscious experience.",
+    "distinctive_mechanism_or_principle": "The key mechanism is the rigorous formal representation of consciousness. Ontological views posit that consciousness is inherently structured by mathematical laws, much like quantum mechanics.",
+    "dynamics_of_emergence": "Consciousness dynamics can be described using theories like dynamic system theory, which characterizes the evolution track and stable states.",
+    "location_and_distribution": "Location is secondary to the abstract mathematical structure. In ontological views, the location might be cosmic or reside in the Platonic realm of forms.",
+    "causation_and_functional_role": "Mathematics acts as the 'language of consciousness' required to find patterns, periodicity, and relevance, thereby revealing causal relationships and functions.",
+    "integration_or_binding": "Unity and binding are typically quantified or described through formalized mathematical structures, such as information flow models or measures of complexity and integration.",
+    "information_flow_or_representation": "Information theory is often applied to quantify the flow and entropy values within consciousness. The core project is representing conscious experience in terms of mathematical spaces.",
+    "evolutionary_account": "Not directly addressed by the core theory (Justification: The focus of Mathematical Theories is generally on instantaneous structure and fundamental essence rather than phylogenetic development, although it supports theories like Friston's FEP that have evolutionary accounts).",
+    "core_claims_and_evidence": [
+      "Consciousness is constituted by mathematical structures (ontological view).",
+      "Conscious experience corresponds precisely to mathematical objects and geometrical features.",
+      "Mathematical tools like dynamic system theory and information theory can quantify consciousness's internal dynamics."
+    ],
+    "basis_of_belief_or_evidence_type": "Formal/Mathematical, Conceptual"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable. Empirically testable when providing the mathematical framework for specific scientific theories (e.g., Integrated Information Theory).",
+    "known_empirical_interventions_or_tests": "Theory-dependent (Justification: This approach provides the formal language for other theories, such as Integrated Information Theory and Free-Energy Principle, which then define specific empirical measures and interventions).",
+    "criticisms_and_tensions": "Criticized for the difficulty in demonstrating that the mathematical formalism captures the actual essence of conscious experience rather than merely describing functional correlates. Ontological claims (like consciousness being 'made of' mathematics) are highly controversial.",
+    "open_questions_and_limitations": "The major unresolved issue is how to bridge the abstract formal entities of mathematics with the concrete phenomenal feel of conscious experience (qualia).",
+    "ontological_coherence": "High coherence when paired with a Platonist or Mathematical Universe Hypothesis ontology; faces challenges explaining qualitative subjectivity when applied to strict reductive physicalism."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "If consciousness is purely defined by abstract mathematical structure or computational logic, then artificial systems realizing that structure could potentially instantiate consciousness."
+    },
+    "survival_beyond_death": {
+      "stance": "Conditional",
+      "rationale": "Ontological mathematical theories (e.g., Tegmark, Penrose) suggest reality's foundation is eternal mathematical structure, potentially allowing consciousness to persist beyond the physical brain in an abstract sense."
+    },
+    "meaning_and_purpose": {
+      "stance": "Conditional Cosmic",
+      "rationale": "If the cosmos is fundamentally mathematical or rooted in Platonic forms, it implies an intrinsic rational significance to existence, although not necessarily personal teleological meaning."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "If the mind is reduced entirely to a quantifiable mathematical structure or information flow, then this pattern could, in principle, be preserved and instantiated in a new substrate."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Tegmark’s State of Matter",
+        "relationship": "Extension"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "What is a mathematical structure of conscious experience?",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Our Mathematical Universe: My Quest for the Ultimate Nature of Reality, Max Tegmark",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Shadows of the Mind: A Search for the Missing Science of Consciousness, Roger Penrose",
+        "year": 1996
+      },
+      {
+        "title_with_names": "Consciousness, mathematics, and natural laws, Yucong Duan and Shiming Gong",
+        "year": 2024
+      }
+    ]
+  }
+}

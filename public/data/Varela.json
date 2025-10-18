@@ -1,1 +1,106 @@
-{}
+{
+  "id_and_class": {
+    "theory_title": "Varela’s Neurophenomenology",
+    "summary": "Neurophenomenology is a methodological approach that seeks to establish mutual constraints between first-person phenomena present in lived experience (phenomenology) and third-person neural phenomena established by cognitive sciences. The goal is to marry rigorous science with a disciplined examination of human experience, placing the structure of experience at the core of the scientific inquiry.",
+    "associated_thinkers": ["Francisco Varela"],
+    "category": "Materialism",
+    "subcategory": "Embodied and Enactive",
+    "core_identity_tagline": "Consciousness as Mutual Constraint of Experience and Brain",
+    "classification_tags": [
+      "phenomenology",
+      "methodological",
+      "embodied",
+      "first-person",
+      "dissolution"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is identified by its irreducible nature as a field of first-hand phenomena, which acts as a guide or constraint for correlative neurobiological investigation.",
+    "ontological_status": "Methodological Physicalism",
+    "mind_body_relationship": "Co-determination/Mutual Constraint (The phenomenal and neurobiological domains are given equal status and illuminate each other reciprocally.)",
+    "primitive_or_emergent_status": "Methodological/Agnostic",
+    "emergence_type": "N/A",
+    "subjectivity_and_intentionality": "Subjectivity (first-person experience) is taken as the irreducible starting point and central focus of inquiry, essential for restoring 'human life' to the scientific account.",
+    "qualia_account": "Qualia are incorporated as the irreducible, lived qualities of first-hand experience that must be rigorously examined and correlated with neurobiological data.",
+    "ontological_commitments": "First-person experience/phenomena; neurobiological phenomena (cognitive sciences data); the 'act of distinction'.",
+    "epistemic_access": "Achieved through rigorous phenomenological methods (e.g., disciplined examination of experience) braided with third-person neurobiological and cognitive science methodologies.",
+    "constituents_and_structure": "The structure of human experience itself; the organizing principle is the 'act of distinction'."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal, Lived Experience, Action, Perception, Emotion.",
+    "distinctive_mechanism_or_principle": "The reciprocal, mutually constraining relationship between rigorous first-person phenomenological accounts and third-person neurobiological measurements.",
+    "dynamics_of_emergence": "Consciousness is a dynamic, lived quality linked to action, perception, and emotion dynamics. The approach transforms the hard problem into an open-ended research program.",
+    "location_and_distribution": "Distributed throughout the embodied system (ramifies through the body and environment), not strictly localized to brain processes inside the head.",
+    "causation_and_functional_role": "The functional role is to re-insert human life and lived experience into explanations, making the structure of experience central to scientific endeavor.",
+    "integration_or_binding": "Implicitly handled by the inherent unity of embodied, lived experience, which encompasses the dynamics of action, perception, and emotion.",
+    "information_flow_or_representation": "Focuses on phenomena and structures of experience rather than mental content as traditionally defined in computational philosophy of mind, linking these structures to correlative neurobiological phenomena.",
+    "evolutionary_account": "Related to Autopoiesis and the origin of living systems; the same processes enabling the nonlife-to-life transition may enable the life-to-mind transition (as posited by Evan Thompson, a related thinker).",
+    "core_claims_and_evidence": [
+      "First-hand experience is an irreducible field of phenomena that must guide scientific inquiry.",
+      "Phenomenological and neurobiological accounts must function as equal partners in a co-determining, mutually illuminating loop.",
+      "The approach dissolves the traditional hard problem by changing the methodology, rather than finding a theoretical fix."
+    ],
+    "basis_of_belief_or_evidence_type": "Phenomenological, Conceptual, Empirical/Neurobiological."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable/Methodological (The approach defines an open-ended research program using new tools, such as the neurophenomenological laboratory).",
+    "known_empirical_interventions_or_tests": [
+      "Braiding first-person experiential methods (e.g., meditation) with third-person brain investigations (neurophenomenological laboratory)"
+    ],
+    "criticisms_and_tensions": "The approach is often overlooked or misunderstood. The challenge is ensuring that the reciprocal direction—from experience guiding science—is not ignored in practice. It seeks to supersede the dualist thought style, which some critics might find insufficiently reductive or insufficiently dualistic.",
+    "open_questions_and_limitations": "The framework aims to dissolve the hard problem existentially/methodologically, meaning it does not offer a traditional intellectual solution for the physical origin of primary consciousness.",
+    "ontological_coherence": "High, as the framework is specifically designed to overcome the bifurcation problem and explanatory gap inherent in dualist models by harmonizing two distinct domains (first-person and third-person) through methodical constraint."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "Consciousness relies heavily on embodied, lived experience and dynamics tied to biological processes, making mere computational replication insufficient."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "The theory is classified under Materialism/Embodied theories, focusing on consciousness as rooted in and ramifying through the living, biological organism, implying cessation upon bodily death."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic/Pragmatic",
+      "rationale": "The methodology seeks to restore 'human life' and subjective experience to the scientific account, providing meaning by valuing lived experience over alienation by pure function, without positing a cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "If consciousness is rooted in embodied, lived experience that extends beyond the brain, simple uploading of neural/functional data would fail to capture the necessary dynamics of the organism-environment relationship."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Thompson’s Mind in Life",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Bitbol’s Radical Neurophenomenology",
+        "relationship": "Extension/Refinement"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "Category Overlap"
+      },
+      {
+        "name": "Chalmers's Hard Problem",
+        "relationship": "Critique/Framework for Dissolution"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Neurophenomenology: a methodological remedy for the hard problem",
+        "year": 1996
+      },
+      {
+        "title_with_names": "The Embodied Mind - Cognitive Science and Human Experience, F. Varela, E. Rosch, E. Thompson",
+        "year": 1991
+      },
+      {
+        "title_with_names": "At the cradle of things - the act of distinction and Francisco Varela’s non-dualist thought, S. Vörös",
+        "year": 2023
+      }
+    ]
+  }
+}
