@@ -51,50 +51,50 @@
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "The core tenet relies on holding that the identity of conscious states is contingent while other scientific identity statements are necessary, which critics might challenge. The argument acknowledges the conceivability of philosophical zombies while denying their relevance to the actual world.",
     "open_questions_and_limitations": "Tye ultimately expressed doubt regarding a thoroughgoing reductive physicalism, believing that an element of consciousness cannot be captured by higher-level reductions, leading him toward a form of panpsychism.",
-    "ontological_coherence": "Highly coherent within the framework of orthodox a posteriori physicalism, providing a philosophical tool to maintain physicalism in the face of the knowledge argument.",
-    "implications": {
-      "AI_consciousness": {
-        "stance": "Likely",
-        "rationale": "If consciousness is contingently identical to physical/functional/representational states in our world, and these states can be instantiated in non-biological systems, then AI consciousness is possible in principle."
-      },
-      "survival_beyond_death": {
-        "stance": "No",
-        "rationale": "Consciousness is contingent upon and identical to physical brain processes in the actual world; the dissolution of the brain entails the end of the first-person conscious self."
-      },
-      "meaning_and_purpose": {
-        "stance": "Humanistic only",
-        "rationale": "As a theory rooted in materialism and reductive physicalism, it offers no grounds for ultimate cosmic meaning or purpose beyond that which is created by conscious human agents."
-      },
-      "virtual_immortality": {
-        "stance": "Yes",
-        "rationale": "Since phenomenal consciousness is identified with physical states (R), duplicating R, such as through digital uploading, would successfully upload Q, making virtual immortality attainable in principle."
-      }
+    "ontological_coherence": "Highly coherent within the framework of orthodox a posteriori physicalism, providing a philosophical tool to maintain physicalism in the face of the knowledge argument."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "If consciousness is contingently identical to physical/functional/representational states in our world, and these states can be instantiated in non-biological systems, then AI consciousness is possible in principle."
     },
-    "relations_and_sources": {
-      "related_theories": [
-        {
-          "name": "First-Order Representationalism",
-          "relationship": "Compatible"
-        },
-        {
-          "name": "Mind-Brain Identity Theory",
-          "relationship": "Influence"
-        },
-        {
-          "name": "Panpsychisms",
-          "relationship": "Extension/Shift"
-        }
-      ],
-      "sources_and_references": [
-        {
-          "title_with_names": "A New Solution to the Hard Problem of Consciousness, Michael Tye",
-          "year": 2023
-        },
-        {
-          "title_with_names": "Representationalism and the Transparency of Experience, Michael Tye",
-          "year": 2002
-        }
-      ]
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is contingent upon and identical to physical brain processes in the actual world; the dissolution of the brain entails the end of the first-person conscious self."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "As a theory rooted in materialism and reductive physicalism, it offers no grounds for ultimate cosmic meaning or purpose beyond that which is created by conscious human agents."
+    },
+    "virtual_immortality": {
+      "stance": "Yes",
+      "rationale": "Since phenomenal consciousness is identified with physical states (R), duplicating R, such as through digital uploading, would successfully upload Q, making virtual immortality attainable in principle."
     }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Mind-Brain Identity Theory",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Panpsychisms",
+        "relationship": "Extension/Shift"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A New Solution to the Hard Problem of Consciousness, Michael Tye",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Representationalism and the Transparency of Experience, Michael Tye",
+        "year": 2002
+      }
+    ]
   }
 }

@@ -3,7 +3,143 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>C-Atlas Chart</title>
+    <title>
+      Consciousness Atlas: Interactive Visualization of 325+ Theories from
+      Kuhn's Landscape of Consciousness
+    </title>
+    <meta
+      name="description"
+      content="Explore the ultimate map of the mind. The Consciousness Atlas is a free web app visualizing Robert Kuhn's Landscape of Consciousness—355+ theories of phenomenal consciousness in one interactive chart. Compare theories on AI consciousness, survival after death, and the hard problem of consciousness."
+    />
+    <meta
+      name="keywords"
+      content="consciousness, theories, philosophy, neuroscience, AI consciousness, survival after death, hard problem of consciousness, Robert Kuhn, interactive visualization, materialism, idealism, panpsychism"
+    />
+    <meta name="author" content="Consciousness Atlas" />
+    <meta
+      property="og:title"
+      content="Consciousness Atlas: Interactive Visualization of 325+ Theories from Kuhn's Landscape of Consciousness"
+    />
+    <meta
+      property="og:description"
+      content="Explore the ultimate map of the mind. The Consciousness Atlas is a free web app visualizing Robert Kuhn's Landscape of Consciousness—355+ theories of phenomenal consciousness in one interactive chart."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://consciousnessatlas.com" />
+    <meta
+      property="og:image"
+      content="https://consciousnessatlas.com/logo.png"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Consciousness Atlas: Interactive Visualization of 325+ Theories from Kuhn's Landscape of Consciousness"
+    />
+    <meta
+      name="twitter:description"
+      content="Explore the ultimate map of the mind. The Consciousness Atlas is a free web app visualizing Robert Kuhn's Landscape of Consciousness—355+ theories of phenomenal consciousness in one interactive chart."
+    />
+    <meta
+      name="twitter:image"
+      content="https://consciousnessatlas.com/logo.png"
+    />
+
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Consciousness Atlas",
+        "description": "Interactive visualization of 325+ theories from Kuhn's Landscape of Consciousness. Explore the ultimate map of the mind with 355+ theories of phenomenal consciousness in one interactive chart.",
+        "url": "https://consciousnessatlas.com",
+        "applicationCategory": "EducationalApplication",
+        "operatingSystem": "Web Browser",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "creator": {
+          "@type": "Organization",
+          "name": "Consciousness Atlas",
+          "url": "https://consciousnessatlas.com"
+        },
+        "about": {
+          "@type": "Thing",
+          "name": "Consciousness Theories",
+          "description": "Theories of phenomenal consciousness including materialism, idealism, panpsychism, and more"
+        },
+        "keywords": "consciousness, theories, philosophy, neuroscience, AI consciousness, survival after death, hard problem of consciousness, Robert Kuhn, interactive visualization",
+        "inLanguage": "en",
+        "isAccessibleForFree": true,
+        "browserRequirements": "Requires JavaScript. Requires HTML5.",
+        "softwareVersion": "1.0",
+        "datePublished": "2024-01-01",
+        "dateModified": "2024-12-19",
+        "mainEntity": {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What is phenomenal consciousness?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Phenomenal consciousness is 'what it is like' to experience—qualia like the redness of red. Kuhn's Landscape focuses exclusively here, ignoring 'easy problems' like behavior."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which consciousness theory is most likely true?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "'Likelihood' depends on your criteria (Kuhn). Use our slider: Empirical (favor Materialism); Explanatory Power (favor Idealism). No single winner—you decide."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How to evaluate consciousness theories?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kuhn's 5 Criteria: 1) Ontology (What is it?); 2) Mind-Body Relation; 3) Primitive/Emergent; 4) Big Questions (AI, Survival); 5) Rationality. See full table below."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Can AI achieve consciousness?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Physicalist theories: Likely (e.g., IIT). Nonphysicalist: No (needs soul). Filter Atlas by 'AI_consciousness' stance."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does consciousness survive death?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dualism/Idealism: Yes (soul persists). Materialism: No (brain-dependent). 40% of theories say Possible—explore 'survival_beyond_death' implications."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are limitations of consciousness theories?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1) Correlation ≠ Causation; 2) Hard Problem unsolved; 3) Taboo in academia; 4) Speculative (e.g., Idealism untestable). Atlas highlights open questions per theory."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Consciousness Atlas different from Kuhn's paper?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kuhn: Text catalog. Atlas: Interactive viz + MTTS schemas + likelihood tools. 100% faithful to his 'collect, not assess' ethos."
+              }
+            }
+          ]
+        }
+      }
+    </script>
+
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
@@ -170,6 +306,8 @@
         Feedback
       </button>
     </div>
+
+    <article class="metainfo-container"></article>
 
     <div id="item-details"></div>
     <div id="form-popup"></div>

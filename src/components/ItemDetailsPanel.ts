@@ -402,6 +402,7 @@ export class ItemDetailsPanel {
             <p class="theory-summary-text">${theoryData.id_and_class.summary}</p>
           </div>
           
+          ${theoryData.id_and_class.associated_thinkers && theoryData.id_and_class.associated_thinkers.length > 0 ? `
           <div class="thinkers-section">
             <div class="thinkers-list">
               <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -409,11 +410,10 @@ export class ItemDetailsPanel {
                 <path d="M3.54297 12.2326C3.98921 11.5001 4.61638 10.8948 5.36418 10.4747C6.11197 10.0546 6.95526 9.83398 7.81297 9.83398C8.67068 9.83398 9.51396 10.0546 10.2618 10.4747C11.0096 10.8948 11.6367 11.5001 12.083 12.2326" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
                 <path d="M7.8125 13.8325C11.4024 13.8325 14.3125 10.9224 14.3125 7.33252C14.3125 3.74267 11.4024 0.83252 7.8125 0.83252C4.22265 0.83252 1.3125 3.74267 1.3125 7.33252C1.3125 10.9224 4.22265 13.8325 7.8125 13.8325Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
               </svg>
-              ${theoryData.id_and_class.associated_thinkers.map(thinker => 
-                `<span class="thinker-tag">${thinker}</span>`
-              ).join('')}
+              ${theoryData.id_and_class.associated_thinkers.join(', ')}
             </div>
           </div>
+          ` : ''}
           
           <!-- I. Conceptual Ground -->
           <div class="theory-section">
@@ -503,6 +503,7 @@ export class ItemDetailsPanel {
                 <div class="field-label">Evolutionary Account</div>
                 <div class="field-value">${theoryData.mechanism_and_dynamics.evolutionary_account}</div>
               </div>
+              ${theoryData.mechanism_and_dynamics?.core_claims_and_evidence && theoryData.mechanism_and_dynamics.core_claims_and_evidence.length > 0 ? `
               <div class="field">
                 <div class="field-label">Core Claims and Evidence</div>
                 <div class="field-value">
@@ -516,6 +517,7 @@ export class ItemDetailsPanel {
                   </div>
                 </div>
               </div>
+              ` : ''}
               <div class="field">
                 <div class="field-label">Basis of Belief or Evidence Type</div>
                 <div class="field-value">${theoryData.mechanism_and_dynamics.basis_of_belief_or_evidence_type}</div>

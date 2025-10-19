@@ -210,6 +210,7 @@
 
           .theory-title {
             margin: 0 0 8px 0;
+            padding-right: 30px;
             color: #ffffff;
             font-size: 28px;
             font-weight: 400;
@@ -306,19 +307,15 @@
 
           .thinkers-list {
             display: flex;
-            flex-wrap: wrap;
             align-items: center;
             gap: 8px;
+            color: #f1f5f9;
+            font-size: 14px;
+            font-weight: 400;
 
             svg {
               flex-shrink: 0;
               color: #f1f5f9;
-            }
-
-            .thinker-tag {
-              color: #f1f5f9;
-              font-size: 14px;
-              font-weight: 400;
             }
           }
         }
