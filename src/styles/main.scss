@@ -1,20 +1,16 @@
-// Import shared mixins
 @use "mixins" as *;
-
-// Base styles
 * {
   margin: 0;
   padding: 0;
   @include outfit-font;
   font-weight: 400;
-  overflow: hidden;
 }
 
-// Layout
 .app-container {
   display: flex;
   height: 100vh;
   background: $primary-bg;
+  overflow: hidden;
 }
 
 .chart-container {
@@ -30,7 +26,6 @@
   background: transparent;
 }
 
-// Logo
 .logo-container {
   position: fixed;
   top: 24px;
@@ -43,6 +38,10 @@
   .logo {
     transition: all 0.3s ease;
     height: 40px;
+    backdrop-filter: blur(6px);
+    padding: 20px 18px 40px;
+    margin: -20px -20px -40px;
+    border-radius: 8px;
 
     &:hover {
       transform: scale(1.02);
@@ -54,7 +53,6 @@
   }
 }
 
-// Search section
 .search-section {
   position: fixed;
   top: 100px;
@@ -63,7 +61,6 @@
   width: 320px;
 }
 
-// GitHub link
 .github-link {
   position: fixed;
   top: 20px;
@@ -90,7 +87,6 @@
   }
 }
 
-// Navigation buttons
 .nav-buttons {
   button {
     background: rgba(59, 130, 246, 0.1);
@@ -119,7 +115,6 @@
   }
 }
 
-// Search container
 .search-container {
   position: relative;
   width: 100%;
@@ -141,7 +136,6 @@
   pointer-events: none;
 }
 
-// Feedback button
 .feedback-btn {
   position: fixed;
   bottom: 24px;
@@ -180,7 +174,6 @@
   }
 }
 
-// Search input
 #theory-search {
   width: 100%;
   padding: 12px 16px 12px 40px;
@@ -204,13 +197,16 @@
   }
 }
 
-// Search dropdown
 .search-dropdown {
   top: 100%;
   left: 0;
   right: 0;
-  background: rgba(15, 23, 42, 0.95);
-  border: 1px solid rgba(59, 130, 246, 0.2);
+  background: linear-gradient(
+    135deg,
+    rgba(0, 0, 0, 0.95) 0%,
+    rgba(20, 20, 20, 0.98) 100%
+  );
+  border: 1px solid rgba(247, 184, 1, 0.3);
   border-radius: 8px;
   margin-top: 4px;
   max-height: 300px;
@@ -221,7 +217,7 @@
   transform: translateY(-10px);
   transition: all 0.2s ease;
   backdrop-filter: blur(20px);
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
 
   &.visible {
     opacity: 1;
@@ -233,7 +229,7 @@
 .search-item {
   padding: 12px 16px;
   cursor: pointer;
-  border-bottom: 1px solid rgba(59, 130, 246, 0.1);
+  border-bottom: 1px solid rgba(247, 184, 1, 0.2);
   transition: all 0.2s ease;
 
   &:last-child {
@@ -241,26 +237,25 @@
   }
 
   &:hover {
-    background: rgba(59, 130, 246, 0.1);
+    background: rgba(247, 184, 1, 0.1);
   }
 
   &-title {
-    color: #f1f5f9;
+    color: #ffffff;
     font-size: 14px;
     font-weight: 500;
     margin-bottom: 4px;
     line-height: 1.3;
   }
 
-  &-category {
-    color: #64748b;
+  &-name {
+    color: #f7b801;
     font-size: 12px;
     text-transform: capitalize;
     font-weight: 400;
   }
 }
 
-// Responsive design
 @media (max-width: 768px) {
   .app-container {
     flex-direction: column;

@@ -95,13 +95,11 @@ export class SearchBar {
     })
 
     this.input.addEventListener('blur', () => {
-      // Delay hiding to allow clicks on dropdown items
       setTimeout(() => {
         this.hideDropdown()
       }, 200)
     })
 
-    // Add keyboard navigation
     this.input.addEventListener('keydown', (e) => {
       const keyboardEvent = e as KeyboardEvent
       if (keyboardEvent.key === 'ArrowDown') {
@@ -113,7 +111,6 @@ export class SearchBar {
       }
     })
 
-    // Prevent dropdown from closing when clicking on it
     this.dropdown.addEventListener('mousedown', (e) => {
       e.preventDefault()
     })
@@ -142,7 +139,7 @@ export class SearchBar {
     }
 
     this.dropdown.innerHTML = theoriesToShow
-      .slice(0, 8) // Limit to 8 results
+      .slice(0, 8)
       .map((theory) => `
         <div class="search-item" 
              data-theory="${theory.name}"

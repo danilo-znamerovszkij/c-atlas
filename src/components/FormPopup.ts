@@ -83,25 +83,20 @@ export class FormPopup {
   }
 
   private attachEventListeners() {
-    // Close button
     const closeBtn = this.container.querySelector('#form-close') as HTMLElement
     closeBtn.addEventListener('click', () => this.hide())
 
-    // Cancel button
     const cancelBtn = this.container.querySelector('#form-cancel') as HTMLElement
     cancelBtn.addEventListener('click', () => this.hide())
 
-    // Overlay click to close
     this.overlay.addEventListener('click', (e) => {
       if (e.target === this.overlay) {
         this.hide()
       }
     })
 
-    // Form submission
     this.form.addEventListener('submit', (e) => this.handleSubmit(e))
 
-    // Escape key to close
     document.addEventListener('keydown', (e) => {
       if (e.key === 'Escape' && this.isVisible) {
         this.hide()
@@ -116,7 +111,6 @@ export class FormPopup {
     const submitText = this.container.querySelector('.submit-text') as HTMLElement
     const submitLoading = this.container.querySelector('.submit-loading') as HTMLElement
     
-    // Get form data
     const formData = new FormData(this.form)
     const data = {
       name: formData.get('name') as string || '',
@@ -124,13 +118,11 @@ export class FormPopup {
       message: formData.get('message') as string
     }
 
-    // Validate required message
     if (!data.message.trim()) {
       this.showError('Please enter a message')
       return
     }
 
-    // Show loading state
     submitBtn.disabled = true
     submitText.style.display = 'none'
     submitLoading.style.display = 'flex'
@@ -139,7 +131,6 @@ export class FormPopup {
       let response: any
       
       if (isApiAvailable()) {
-        // Use real API when deployed
         const apiResponse = await fetch('/api/submit', {
           method: 'POST',
           headers: {
@@ -154,7 +145,6 @@ export class FormPopup {
           throw new Error('Failed to send message')
         }
       } else {
-        // Use mock API in development
         response = await mockApiSubmit(data)
       }
 
@@ -169,7 +159,6 @@ export class FormPopup {
       console.error('Form submission error:', error)
       this.showError('Failed to send message. Please try again.')
     } finally {
-      // Reset button state
       submitBtn.disabled = false
       submitText.style.display = 'flex'
       submitLoading.style.display = 'none'
@@ -177,21 +166,17 @@ export class FormPopup {
   }
 
   private showError(message: string) {
-    // Remove existing error messages
     const existingError = this.container.querySelector('.form-error')
     if (existingError) {
       existingError.remove()
     }
 
-    // Create error message
     const errorDiv = document.createElement('div')
     errorDiv.className = 'form-error'
     errorDiv.textContent = message
     
-    // Insert after form
     this.form.parentNode?.insertBefore(errorDiv, this.form.nextSibling)
     
-    // Auto-remove after 5 seconds
     setTimeout(() => {
       if (errorDiv.parentNode) {
         errorDiv.remove()
@@ -200,18 +185,15 @@ export class FormPopup {
   }
 
   private showSuccess(message: string) {
-    // Remove existing messages
     const existingMessage = this.container.querySelector('.form-success')
     if (existingMessage) {
       existingMessage.remove()
     }
 
-    // Create success message
     const successDiv = document.createElement('div')
     successDiv.className = 'form-success'
     successDiv.textContent = message
     
-    // Insert after form
     this.form.parentNode?.insertBefore(successDiv, this.form.nextSibling)
   }
 
@@ -220,7 +202,6 @@ export class FormPopup {
     this.overlay.classList.add('visible')
     document.body.style.overflow = 'hidden'
     
-    // Focus first input
     const firstInput = this.form.querySelector('input, textarea') as HTMLElement
     if (firstInput) {
       setTimeout(() => firstInput.focus(), 100)
@@ -232,10 +213,8 @@ export class FormPopup {
     this.overlay.classList.remove('visible')
     document.body.style.overflow = ''
     
-    // Clear form
     this.form.reset()
     
-    // Remove any error/success messages
     const errorMsg = this.container.querySelector('.form-error')
     const successMsg = this.container.querySelector('.form-success')
     if (errorMsg) errorMsg.remove()

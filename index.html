@@ -44,7 +44,6 @@
       content="https://consciousnessatlas.com/logo.png"
     />
 
-    <!-- JSON-LD Structured Data -->
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -74,8 +73,8 @@
         "isAccessibleForFree": true,
         "browserRequirements": "Requires JavaScript. Requires HTML5.",
         "softwareVersion": "1.0",
-        "datePublished": "2024-01-01",
-        "dateModified": "2024-12-19",
+        "datePublished": "2025-10-23",
+        "dateModified": "2025-10-23",
         "mainEntity": {
           "@type": "FAQPage",
           "mainEntity": [
@@ -140,9 +139,99 @@
       }
     </script>
 
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://consciousnessatlas.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Consciousness Theories",
+            "item": "https://consciousnessatlas.com#theories"
+          }
+        ]
+      }
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Consciousness Atlas",
+        "url": "https://consciousnessatlas.com",
+        "description": "Interactive visualization of consciousness theories from Kuhn's Landscape of Consciousness",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://consciousnessatlas.com?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "Consciousness Atlas",
+          "url": "https://consciousnessatlas.com"
+        }
+      }
+    </script>
+
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+    <!-- Additional SEO meta tags -->
+    <meta
+      name="robots"
+      content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    />
+    <meta name="googlebot" content="index, follow" />
+    <meta name="bingbot" content="index, follow" />
+    <meta name="language" content="English" />
+    <meta name="revisit-after" content="7 days" />
+    <meta name="rating" content="General" />
+    <meta name="distribution" content="Global" />
+    <meta name="geo.region" content="US" />
+    <meta name="geo.placename" content="United States" />
+    <meta name="theme-color" content="#F7B801" />
+    <meta name="msapplication-TileColor" content="#F7B801" />
+    <meta name="msapplication-config" content="/browserconfig.xml" />
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://consciousnessatlas.com" />
+
+    <!-- Additional Open Graph tags -->
+    <meta property="og:site_name" content="Consciousness Atlas" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta
+      property="og:image:alt"
+      content="Consciousness Atlas - Interactive visualization of consciousness theories"
+    />
+
+    <!-- Additional Twitter Card tags -->
+    <meta name="twitter:site" content="@consciousnessatlas" />
+    <meta name="twitter:creator" content="@danilo_z_j" />
+    <meta
+      name="twitter:image:alt"
+      content="Consciousness Atlas - Interactive visualization of consciousness theories"
+    />
+
+    <!-- Schema.org markup for better search visibility -->
+    <meta itemprop="name" content="Consciousness Atlas" />
+    <meta
+      itemprop="description"
+      content="Interactive visualization of 325+ theories from Kuhn's Landscape of Consciousness. Explore the ultimate map of the mind with 355+ theories of phenomenal consciousness in one interactive chart."
+    />
+    <meta itemprop="image" content="https://consciousnessatlas.com/logo.png" />
+
     <link rel="manifest" href="/site.webmanifest" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -307,7 +396,190 @@
       </button>
     </div>
 
-    <article class="metainfo-container"></article>
+    <main class="ca-main">
+      <header>
+        <h1>The Consciousness Atlas</h1>
+        <p class="subtitle">Visualizing the Landscape of Consciousness</p>
+      </header>
+
+      <section id="intro">
+        <p>
+          The Consciousness Atlas is an interactive web app that visualizes more
+          than 325 theories of consciousness. It is based on Robert Lawrence
+          Kuhn's 2024 paper,
+          <a
+            href="https://www.sciencedirect.com/science/article/pii/S0079610723001128"
+            rel="nofollow"
+            >"A Landscape of Consciousness"</a
+          >. The Atlas maps theories that address phenomenal consciousness - the
+          subjective feel of experience, such as the redness of red.
+        </p>
+      </section>
+
+      <section id="what-is">
+        <h2>What the Atlas is</h2>
+        <p>
+          The Atlas is a visual reference built on Kuhn's taxonomy. It presents
+          the full set of theories at once so you can explore the field visually
+          and open any theory to read its entry, like an encyclopedia with
+          structured entries. Each theory entry shows a concise identity line,
+          conceptual ground, suggested mechanism, empirical notes, implications,
+          and sources.
+        </p>
+      </section>
+
+      <section id="why">
+        <h2>Why this exists</h2>
+        <p>
+          Consciousness is studied across disciplines - neuroscience,
+          philosophy, and sometimes spiritual or anomalous-state research.
+          Kuhn's paper collects and organizes hundreds of theories along a
+          spectrum from most physical to least physical. The Atlas puts that
+          organization into a visual form so readers, students, and researchers
+          can quickly see how different positions relate and where each theory
+          sits on the spectrum.
+        </p>
+      </section>
+
+      <section id="how">
+        <h2>How it works</h2>
+        <p>
+          Theories are grouped into ten main categories, arranged by their
+          stance on the physical-to-nonphysical spectrum. Examples of categories
+          include Materialism, Non-Reductive Physicalism, Functionalism,
+          Quantum-based theories, Panpsychism, Monism, Dualism, Idealism,
+          Anomalous States, and Challenge Theories. The app shows the whole map
+          at once. Click any theory to read its structured entry, which includes
+          references to canonical sources and named thinkers.
+        </p>
+      </section>
+
+      <section id="audience">
+        <h2>Who it is for</h2>
+        <ul>
+          <li>Students learning philosophy of mind and cognitive science</li>
+          <li>
+            Researchers and lecturers looking for an at-a-glance comparative
+            resource
+          </li>
+          <li>
+            Journalists and writers who need a quick reference to the range of
+            positions
+          </li>
+          <li>
+            Curious readers who want a clear view of what people mean when they
+            talk about consciousness
+          </li>
+        </ul>
+      </section>
+
+      <section id="not-do">
+        <h2>What the Atlas does not do</h2>
+        <p>
+          The Atlas does not endorse or rank theories. It is a visualization and
+          reference based on Kuhn's taxonomy - collect and present, not judge.
+          It does not attempt to settle the hard problem of consciousness. It is
+          a tool for exploration and comparison.
+        </p>
+      </section>
+
+      <section id="kuhn-note">
+        <h2>A note from Kuhn</h2>
+        <p>
+          Kuhn explicitly states the project's purpose: "collect and categorize,
+          not assess and adjudicate." The Consciousness Atlas follows that
+          approach. The data and structure are derived from Kuhn's paper;
+          feedback and suggested corrections are welcome, but the app is a
+          visualization layer on top of Kuhn's work.
+        </p>
+      </section>
+
+      <section id="faq">
+        <h2>FAQ</h2>
+
+        <div class="faq-item">
+          <h3>What is phenomenal consciousness?</h3>
+          <p>
+            Phenomenal consciousness refers to subjective experience - the
+            qualitative feel of being aware, like the taste of coffee or the
+            redness of red.
+          </p>
+        </div>
+
+        <div class="faq-item">
+          <h3>How many theories does the Atlas include?</h3>
+          <p>
+            The Atlas visualizes over 325 individual theories, grouped into ten
+            broad categories.
+          </p>
+        </div>
+
+        <div class="faq-item">
+          <h3>Does the Atlas show which theory is true?</h3>
+          <p>
+            No. The Atlas presents theories neutrally. It is a map, not an
+            argument for any single position.
+          </p>
+        </div>
+
+        <div class="faq-item">
+          <h3>Is the Atlas academic?</h3>
+          <p>
+            The Atlas is based on an academic source - Robert Kuhn's 2024 paper,
+            "A Landscape of Consciousness" - and links to canonical sources
+            where available.
+          </p>
+        </div>
+
+        <div class="faq-item">
+          <h3>Can I use the Atlas data for research?</h3>
+          <p>
+            Yes. Cite the Atlas and the original sources. If you plan wide
+            redistribution or commercial use, please contact the team for
+            licensing details.
+          </p>
+        </div>
+      </section>
+
+      <section id="related">
+        <h2>Related reading</h2>
+        <p>
+          The Atlas references canonical research across philosophy and
+          neuroscience, including Integrated Information Theory, Global
+          Workspace Theory, panpsychist proposals, quantum-based ideas, and
+          historical positions from classical thinkers. For the original
+          academic context, see Kuhn's article on ScienceDirect:
+          <a
+            href="https://www.sciencedirect.com/science/article/pii/S0079610723001128"
+            rel="nofollow"
+            >A Landscape of Consciousness</a
+          >.
+        </p>
+      </section>
+
+      <section id="summary">
+        <h2>Summary</h2>
+        <p>
+          The Consciousness Atlas is a straightforward visualization tool: it
+          presents Kuhn's taxonomy as a single, explorable map and lets users
+          open individual theory entries to read structured, referenced
+          summaries. It is designed to make this complex field easier to survey
+          and to serve as a practical reference.
+        </p>
+      </section>
+
+      <footer>
+        <p>
+          Built by
+          <a
+            href="https://x.com/danilo_z_j"
+            target="_blank"
+            rel="noopener noreferrer"
+            >Danilo</a
+          >
+        </p>
+      </footer>
+    </main>
 
     <div id="item-details"></div>
     <div id="form-popup"></div>

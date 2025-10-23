@@ -21,8 +21,12 @@
 }
 
 .form-popup {
-  background: rgba(15, 23, 42, 0.95);
-  border: 1px solid rgba(59, 130, 246, 0.2);
+  background: linear-gradient(
+    135deg,
+    rgba(0, 0, 0, 0.95) 0%,
+    rgba(20, 20, 20, 0.98) 100%
+  );
+  border: 1px solid rgba(247, 184, 1, 0.3);
   border-radius: 12px;
   width: 90%;
   max-width: 500px;
@@ -43,11 +47,11 @@
   align-items: center;
   justify-content: space-between;
   padding: 24px 24px 0 24px;
-  border-bottom: 1px solid rgba(59, 130, 246, 0.1);
+  border-bottom: 1px solid rgba(247, 184, 1, 0.2);
   margin-bottom: 24px;
 
   h3 {
-    color: #f1f5f9;
+    color: #ffffff;
     font-size: 20px;
     font-weight: 600;
     margin: 0;
@@ -86,7 +90,7 @@
 
   label {
     display: block;
-    color: #f1f5f9;
+    color: #ffffff;
     font-size: 14px;
     font-weight: 500;
     margin-bottom: 8px;
@@ -96,24 +100,24 @@
   textarea {
     width: 100%;
     padding: 12px 16px;
-    background: rgba(59, 130, 246, 0.1);
-    border: 1px solid rgba(59, 130, 246, 0.2);
+    background: rgba(247, 184, 1, 0.1);
+    border: 1px solid rgba(247, 184, 1, 0.2);
     border-radius: 8px;
-    color: #f1f5f9;
+    color: #ffffff;
     font-size: 14px;
     font-family: inherit;
     transition: all 0.2s ease;
     backdrop-filter: blur(10px);
 
     &::placeholder {
-      color: rgba(59, 130, 246, 0.6);
+      color: rgba(247, 184, 1, 0.6);
     }
 
     &:focus {
       outline: none;
-      border-color: rgba(59, 130, 246, 0.4);
-      background: rgba(59, 130, 246, 0.15);
-      box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+      border-color: rgba(247, 184, 1, 0.4);
+      background: rgba(247, 184, 1, 0.15);
+      box-shadow: 0 0 0 3px rgba(247, 184, 1, 0.1);
     }
 
     &:invalid {
@@ -134,7 +138,7 @@
   justify-content: flex-end;
   margin-top: 24px;
   padding-top: 20px;
-  border-top: 1px solid rgba(59, 130, 246, 0.1);
+  border-top: 1px solid rgba(247, 184, 1, 0.2);
 }
 
 .form-cancel,
@@ -160,35 +164,35 @@
 
 .form-cancel {
   background: transparent;
-  border-color: rgba(107, 114, 128, 0.3);
-  color: #9ca3af;
+  border-color: rgba(247, 184, 1, 0.3);
+  color: #f7b801;
 
   &:hover:not(:disabled) {
-    background: rgba(107, 114, 128, 0.1);
-    border-color: rgba(107, 114, 128, 0.5);
-    color: #d1d5db;
+    background: rgba(247, 184, 1, 0.1);
+    border-color: rgba(247, 184, 1, 0.5);
+    color: #ffffff;
   }
 
   &:focus {
-    outline: 2px solid rgba(107, 114, 128, 0.5);
+    outline: 2px solid rgba(247, 184, 1, 0.5);
     outline-offset: 2px;
   }
 }
 
 .form-submit {
-  background: rgba(59, 130, 246, 0.1);
-  border-color: rgba(59, 130, 246, 0.2);
-  color: #3b82f6;
+  background: rgba(247, 184, 1, 0.1);
+  border-color: rgba(247, 184, 1, 0.2);
+  color: #f7b801;
 
   &:hover:not(:disabled) {
-    background: rgba(59, 130, 246, 0.15);
-    border-color: rgba(59, 130, 246, 0.3);
+    background: rgba(247, 184, 1, 0.15);
+    border-color: rgba(247, 184, 1, 0.3);
     transform: translateY(-1px);
-    box-shadow: 0 4px 12px rgba(59, 130, 246, 0.2);
+    box-shadow: 0 4px 12px rgba(247, 184, 1, 0.2);
   }
 
   &:focus {
-    outline: 2px solid rgba(59, 130, 246, 0.5);
+    outline: 2px solid rgba(247, 184, 1, 0.5);
     outline-offset: 2px;
   }
 }
@@ -225,16 +229,15 @@
 .form-error {
   background: rgba(239, 68, 68, 0.1);
   border: 1px solid rgba(239, 68, 68, 0.2);
-  color: #fca5a5;
+  color: #ffffff;
 }
 
 .form-success {
   background: rgba(34, 197, 94, 0.1);
   border: 1px solid rgba(34, 197, 94, 0.2);
-  color: #86efac;
+  color: #ffffff;
 }
 
-// Mobile responsiveness
 @media (max-width: 768px) {
   .form-popup {
     width: 95%;

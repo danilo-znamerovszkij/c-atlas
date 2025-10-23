@@ -1,7 +1,4 @@
-// Dynamic mapping of theory names to full names based on available JSON files
-// This will be populated at runtime based on which theory files actually exist
-
-// Static mapping for all possible theories (fallback)
+// Static mapping for all theories
 const staticTheoryNames: Record<string, string> = {
   // 1.1 Philosophical Theories
   'Eliminative': 'Eliminative Materialism / Illusionism',
@@ -251,10 +248,8 @@ const staticTheoryNames: Record<string, string> = {
   'Davies': 'Davies\'s Consciousness in the Cosmos'
 }
 
-// Export the static theory names as the main mapping
 export const theoryFullNames = staticTheoryNames
 
-// Function to get theory full name with fallback
 export function getTheoryFullName(shortName: string): string {
   return staticTheoryNames[shortName] || shortName
 }

@@ -1,0 +1,238 @@
+main.ca-main {
+  background: #1b1b1b;
+  color: #ffffff;
+  padding: 4rem 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  line-height: 1.6;
+
+  header {
+    text-align: center;
+    margin-bottom: 4rem;
+    padding-bottom: 2rem;
+    border-bottom: 2px solid #f7b801;
+
+    h1 {
+      font-family: "Bodoni72C", serif;
+      font-size: 3.5rem;
+      font-weight: 600;
+      margin-bottom: 1rem;
+      color: #ffffff;
+      line-height: 1.2;
+
+      @media (max-width: 768px) {
+        font-size: 2.5rem;
+      }
+    }
+
+    .subtitle {
+      font-family: "Outfit", sans-serif;
+      font-size: 1.5rem;
+      color: #f7b801;
+      margin: 0;
+      font-weight: 400;
+
+      @media (max-width: 768px) {
+        font-size: 1.2rem;
+      }
+    }
+  }
+
+  section {
+    margin-bottom: 3rem;
+
+    h2 {
+      font-family: "Bodoni72C", serif;
+      font-size: 2.5rem;
+      font-weight: 600;
+      margin-bottom: 1.5rem;
+      color: #ffffff;
+      line-height: 1.3;
+
+      @media (max-width: 768px) {
+        font-size: 2rem;
+      }
+    }
+
+    h3 {
+      font-family: "Bodoni72C", serif;
+      font-size: 1.8rem;
+      font-weight: 600;
+      margin-bottom: 1rem;
+      color: #f7b801;
+      line-height: 1.3;
+
+      @media (max-width: 768px) {
+        font-size: 1.5rem;
+      }
+    }
+
+    p {
+      font-family: "Outfit", sans-serif;
+      font-size: 1.1rem;
+      color: #ffffff;
+      margin-bottom: 1.5rem;
+      line-height: 1.7;
+
+      @media (max-width: 768px) {
+        font-size: 1rem;
+      }
+
+      a {
+        color: #f7b801;
+        text-decoration: none;
+        font-weight: 500;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+
+    ul {
+      font-family: "Outfit", sans-serif;
+      font-size: 1.1rem;
+      color: #ffffff;
+      margin-bottom: 1.5rem;
+      padding-left: 2rem;
+
+      @media (max-width: 768px) {
+        font-size: 1rem;
+        padding-left: 1.5rem;
+      }
+
+      li {
+        margin-bottom: 0.8rem;
+        line-height: 1.6;
+      }
+    }
+  }
+
+  #intro {
+    background: rgba(247, 184, 1, 0.05);
+    padding: 2rem;
+    border-radius: 12px;
+    border-left: 4px solid #f7b801;
+    margin-bottom: 3rem;
+
+    @media (max-width: 768px) {
+      padding: 1.5rem;
+    }
+  }
+
+  #faq {
+    .faq-item {
+      background: rgba(247, 184, 1, 0.05);
+      padding: 2rem;
+      border-radius: 12px;
+      margin-bottom: 1.5rem;
+      border-left: 4px solid #f7b801;
+      transition: all 0.3s ease;
+
+      @media (max-width: 768px) {
+        padding: 1.5rem;
+      }
+
+      &:hover {
+        background: rgba(247, 184, 1, 0.08);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(247, 184, 1, 0.1);
+      }
+
+      h3 {
+        margin-top: 0;
+        margin-bottom: 1rem;
+        color: #f7b801;
+      }
+
+      p {
+        margin-bottom: 0;
+        color: #ffffff;
+      }
+    }
+  }
+
+  #audience {
+    ul {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1rem;
+      list-style: none;
+      padding-left: 0;
+
+      li {
+        background: rgba(247, 184, 1, 0.05);
+        padding: 1.5rem;
+        border-radius: 8px;
+        border-left: 4px solid #f7b801;
+        transition: all 0.3s ease;
+
+        &:hover {
+          background: rgba(247, 184, 1, 0.08);
+          transform: translateY(-2px);
+        }
+
+        @media (max-width: 768px) {
+          padding: 1rem;
+        }
+      }
+    }
+  }
+
+  #related {
+    background: rgba(247, 184, 1, 0.05);
+    padding: 2rem;
+    border-radius: 12px;
+    border-left: 4px solid #f7b801;
+
+    @media (max-width: 768px) {
+      padding: 1.5rem;
+    }
+  }
+
+  #summary {
+    background: rgba(247, 184, 1, 0.1);
+    padding: 2rem;
+    border-radius: 12px;
+    border-left: 4px solid #f7b801;
+    text-align: center;
+
+    @media (max-width: 768px) {
+      padding: 1.5rem;
+    }
+
+    h2 {
+      color: #f7b801;
+    }
+  }
+
+  footer {
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 2px solid #f7b801;
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+    font-size: 1rem;
+    color: #ffffff;
+
+    a {
+      color: #f7b801;
+      text-decoration: none;
+      font-weight: 600;
+      transition: all 0.3s ease;
+
+      &:hover {
+        text-decoration: underline;
+        color: #e6a600;
+      }
+    }
+  }
+
+  @media (max-width: 768px) {
+    padding: 2rem 1rem;
+
+    section {
+      margin-bottom: 2rem;
+    }
+  }
+}

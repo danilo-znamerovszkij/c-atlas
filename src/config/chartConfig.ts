@@ -69,11 +69,23 @@ export const colorUtils = {
 // Function to get current palette colors
 export const getCurrentPalette = () => mysticPalette
 
+// Global state for mobile label visibility
+let showMobileLabels = false
+
+// Function to set mobile label visibility
+export const setMobileLabelVisibility = (visible: boolean) => {
+  showMobileLabels = visible
+}
+
+// Function to get mobile label visibility
+export const getMobileLabelVisibility = () => showMobileLabels
+
 // Function to apply colors to data
 export const applyPaletteToData = (data: any[]) => {
   let mainColorIndex = 0
   
   const applyColors = (items: any[], level: number = 0, parentColor?: string, parentName?: string) => {
+    console.log(`Applying colors to items: ${items.length} at level ${level}`)
     return items.map((item, index) => {
       let color: string
       let labelPosition: string | undefined
@@ -97,10 +109,10 @@ export const applyPaletteToData = (data: any[]) => {
         if (parentName === 'Materialism') {
           labelPosition = undefined // Stay inside
         } else {
-          if (isMobile()) {
-          showLabel = false;
-          // labelPosition = undefined;
-        }
+          if (isMobile() && !showMobileLabels) {
+            showLabel = false;
+            // labelPosition = undefined;
+          }
           labelPosition = 'outside' // Go outside
         }
       } else if (level >= 2 && parentColor) {
@@ -112,7 +124,7 @@ export const applyPaletteToData = (data: any[]) => {
         labelPosition = 'outside'
         
         // On mobile, hide labels for the last row (level 4+ - outermost ring)
-        if (isMobile()) {
+        if (isMobile() && !showMobileLabels) {
           showLabel = false;
           // labelPosition = undefined;
         }
@@ -461,10 +473,14 @@ export const getCurrentData = () => {
   return applyPaletteToData(baseData)
 }
 
+// Function to refresh chart with current mobile label settings
+export const refreshChartData = () => {
+  return applyPaletteToData(baseData)
+}
+
 // Function to check if device is mobile
 const isMobile = () => {
   const isMobileDevice = window.innerWidth <= 768
-  console.log(`Screen width: ${window.innerWidth}, isMobile: ${isMobileDevice}`)
   return isMobileDevice
 }
 
@@ -570,6 +586,26 @@ export const getChartOptions = (): EChartsOption => {
       }
     ]
   }
+}
+
+// Function to extract all theory names from chart data in order
+export const getAllTheoryNames = (): string[] => {
+  const theoryNames: string[] = []
+  
+  const extractTheories = (items: any[]) => {
+    items.forEach(item => {
+      // Only add items that don't have children (leaf nodes - actual theories)
+      if (!item.children) {
+        theoryNames.push(item.name)
+      } else {
+        // Recursively process children
+        extractTheories(item.children)
+      }
+    })
+  }
+  
+  extractTheories(baseData)
+  return theoryNames
 }
 
 // Legacy chart options (kept for backward compatibility)
