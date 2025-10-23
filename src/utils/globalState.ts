@@ -30,7 +30,6 @@ class GlobalState {
               })
             }
           } else {
-            // Theory directly under main category
             this.theoryMappings.set(subcategory.name, {
               name: subcategory.name,
               category: mainCategory.name.toLowerCase()
@@ -59,10 +58,8 @@ class GlobalState {
   }
 }
 
-// Create singleton instance
 const globalState = new GlobalState()
 
-// Make it available on window for global access
 ;(window as any).globalState = globalState
 
 export default globalState

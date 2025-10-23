@@ -154,19 +154,16 @@ export class SearchBar {
     this.dropdown.classList.add('visible')
     this.input.setAttribute('aria-expanded', 'true')
 
-    // Add click handlers to dropdown items
     this.dropdown.querySelectorAll('.search-item').forEach((item, index) => {
       item.addEventListener('click', () => {
         const theoryName = item.getAttribute('data-theory')
         if (theoryName) {
-          // Try to load the theory directly and let the router handle category detection
           this.loadAndNavigateToTheory(theoryName)
           this.input.value = ''
           this.hideDropdown()
         }
       })
 
-      // Add keyboard navigation
       item.addEventListener('keydown', (e) => {
         const keyboardEvent = e as KeyboardEvent
         if (keyboardEvent.key === 'Enter' || keyboardEvent.key === ' ') {

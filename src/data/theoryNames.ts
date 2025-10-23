@@ -1,4 +1,3 @@
-// Static mapping for all theories
 const staticTheoryNames: Record<string, string> = {
   // 1.1 Philosophical Theories
   'Eliminative': 'Eliminative Materialism / Illusionism',

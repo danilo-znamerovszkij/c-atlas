@@ -1,7 +1,6 @@
 import type { EChartsOption } from 'echarts'
 import { getTheoryFullName } from '@/data/theoryNames'
 
-// Color palette - Mystic Depths & Illumination
 const mysticPalette = {
   mainColors: [
     '#03045E', // Midnight Blue
@@ -17,7 +16,6 @@ const mysticPalette = {
   ]
 }
 
-// Color utility functions
 export const colorUtils = {
   // Lighten a color by percentage
   lighten: (hex: string, percent: number): string => {
@@ -31,7 +29,6 @@ export const colorUtils = {
       (B < 255 ? B < 1 ? 0 : B : 255)).toString(16).slice(1)
   },
 
-  // Desaturate a color by percentage
   desaturate: (hex: string, percent: number): string => {
     const num = parseInt(hex.replace('#', ''), 16)
     const R = num >> 16
@@ -45,7 +42,6 @@ export const colorUtils = {
     return '#' + (0x1000000 + newR * 0x10000 + newG * 0x100 + newB).toString(16).slice(1)
   },
 
-  // Adjust saturation down by percentage
   reduceSaturation: (hex: string, percent: number): string => {
     const num = parseInt(hex.replace('#', ''), 16)
     const R = num >> 16
@@ -66,75 +62,62 @@ export const colorUtils = {
   }
 }
 
-// Function to get current palette colors
 export const getCurrentPalette = () => mysticPalette
 
-// Global state for mobile label visibility
 let showMobileLabels = false
 
-// Function to set mobile label visibility
 export const setMobileLabelVisibility = (visible: boolean) => {
   showMobileLabels = visible
 }
 
-// Function to get mobile label visibility
 export const getMobileLabelVisibility = () => showMobileLabels
 
-// Function to apply colors to data
 export const applyPaletteToData = (data: any[]) => {
   let mainColorIndex = 0
   
   const applyColors = (items: any[], level: number = 0, parentColor?: string, parentName?: string) => {
-    console.log(`Applying colors to items: ${items.length} at level ${level}`)
     return items.map((item, index) => {
       let color: string
       let labelPosition: string | undefined
       let showLabel = true
       
-      console.log(`Processing item: ${item.name} at level ${level}`)
-      
       if (level === 0) {
-        // Top level - assign unique color from palette
         color = mysticPalette.mainColors[mainColorIndex % mysticPalette.mainColors.length]
         mainColorIndex++
-        // Top level labels stay inside
         labelPosition = undefined
       } else if (level === 1 && parentColor) {
-        // Second level - lighten by 20-30% with variation based on index
-        const lightenAmount = 20 + (index * 3) % 15 // 20-35% variation
+        const lightenAmount = 20 + (index * 3) % 15
         color = colorUtils.lighten(parentColor, lightenAmount)
         
-        // For Materialism category, subcategories stay inside
-        // For other categories, subcategories go outside
         if (parentName === 'Materialism') {
-          labelPosition = undefined // Stay inside
+          labelPosition = undefined
         } else {
           if (isMobile() && !showMobileLabels) {
             showLabel = false;
-            // labelPosition = undefined;
+          } else if (isMobile() && showMobileLabels) {
+            labelPosition = undefined
+          } else {
+            labelPosition = 'outside'
           }
-          labelPosition = 'outside' // Go outside
         }
       } else if (level >= 2 && parentColor) {
-        // Third level and beyond - desaturate with variation based on index
-        const desatAmount = 25 + (index * 2) % 20 // 25-45% variation
+        const desatAmount = 25 + (index * 2) % 20
         color = colorUtils.desaturate(parentColor, desatAmount)
         
-        // Third level and beyond always go outside
-        labelPosition = 'outside'
-        
-        // On mobile, hide labels for the last row (level 4+ - outermost ring)
         if (isMobile() && !showMobileLabels) {
           showLabel = false;
-          // labelPosition = undefined;
+        } else if (isMobile() && showMobileLabels) {
+          labelPosition = undefined
+        } else {
+          labelPosition = 'outside'
         }
       } else {
-        color = '#666666' // Fallback color
+        color = '#666666'
       }
       
       const newItem = {
         ...item,
-        parent: parentName, // Add parent name to each item
+        parent: parentName,
         itemStyle: { color },
         label:  showLabel && labelPosition ? { 
           position: labelPosition,
@@ -155,7 +138,6 @@ export const applyPaletteToData = (data: any[]) => {
   return applyColors(data)
 }
 
-// Base data structure without colors
 export const baseData = [
   {
     name: 'Materialism',
@@ -468,28 +450,23 @@ export const baseData = [
   }
 ]
 
-// Get current data with applied palette
 export const getCurrentData = () => {
   return applyPaletteToData(baseData)
 }
 
-// Function to refresh chart with current mobile label settings
 export const refreshChartData = () => {
   return applyPaletteToData(baseData)
 }
 
-// Function to check if device is mobile
 const isMobile = () => {
   const isMobileDevice = window.innerWidth <= 768
   return isMobileDevice
 }
 
-// Function to get chart options with current mobile state
 export const getChartOptions = (): EChartsOption => {
   return {
     backgroundColor: 'transparent',
     title: {
-      // text: 'C-Atlas Chart',
       left: 'center',
       textStyle: {
         color: '#fff'
@@ -498,7 +475,6 @@ export const getChartOptions = (): EChartsOption => {
     tooltip: {
       show: true,
       formatter: function (params: any) {
-        // Don't show tooltip if no parent or if parent is Materialism
         if (!params.data || params.data.parent === undefined || params.data.parent === 'Materialism') {
           return ''
         }
@@ -524,21 +500,15 @@ export const getChartOptions = (): EChartsOption => {
         label: {
           rotate: 'radial',
           show: true,
-          // fontSize: 18,
           formatter: function (params: any) {
-            // console.log(params.data.parent)
-            // Make Materialism and Monism titles bigger
             if (params.data.parent === undefined) {
               return `{title|${params.name}}`
             }
             return params.name
           },
           rich: {
-            // fontSize: 18,
             title: {
-              fontSize: 14,
-              // fontWeight: 'bold',
-              // color: '#FCD771'
+              fontSize: 14
             }
           }
         },
@@ -588,17 +558,14 @@ export const getChartOptions = (): EChartsOption => {
   }
 }
 
-// Function to extract all theory names from chart data in order
 export const getAllTheoryNames = (): string[] => {
   const theoryNames: string[] = []
   
   const extractTheories = (items: any[]) => {
     items.forEach(item => {
-      // Only add items that don't have children (leaf nodes - actual theories)
       if (!item.children) {
         theoryNames.push(item.name)
       } else {
-        // Recursively process children
         extractTheories(item.children)
       }
     })
@@ -608,6 +575,5 @@ export const getAllTheoryNames = (): string[] => {
   return theoryNames
 }
 
-// Legacy chart options (kept for backward compatibility)
 export const chartOptions: EChartsOption = getChartOptions()
 

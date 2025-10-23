@@ -1,5 +1,6 @@
 import { baseData } from '../config/chartConfig'
 import type { TheoryData } from '../types/theory'
+import analytics from '../utils/analytics'
 
 interface ItemData {
   name: string
@@ -32,7 +33,6 @@ export class ItemDetailsPanel {
   }
 
   private initializeItemData() {
-    // Sample data for some key items - you can expand this
     this.itemData.set('Eliminative', {
       name: 'Eliminative',
       heading: 'Eliminative Materialism',
@@ -72,8 +72,6 @@ export class ItemDetailsPanel {
       category: 'Quantum',
       subcategory: 'Quantum Extensions'
     })
-
-    // Add more items as needed...
   }
 
   private render() {
@@ -105,11 +103,9 @@ export class ItemDetailsPanel {
     if (closeBtn) {
       closeBtn.addEventListener('click', () => {
         this.hide()
-        // Call the close callback to update URL
         this.onCloseCallback?.()
       })
 
-      // Add keyboard support
       closeBtn.addEventListener('keydown', (e) => {
         const keyboardEvent = e as KeyboardEvent
         if (keyboardEvent.key === 'Enter' || keyboardEvent.key === ' ') {
@@ -120,7 +116,6 @@ export class ItemDetailsPanel {
       })
     }
 
-    // Add escape key support
     document.addEventListener('keydown', (e) => {
       const keyboardEvent = e as KeyboardEvent
       if (keyboardEvent.key === 'Escape' && this.isVisible) {
@@ -139,33 +134,27 @@ export class ItemDetailsPanel {
     const itemData = this.itemData.get(itemName)
     
     if (itemData) {
-      // Update the content with modern scholarly layout
       const infoElement = this.container.querySelector('#item-info')
       if (infoElement) {
         infoElement.innerHTML = `
           <div class="scholarly-panel">
-            <!-- Breadcrumb -->
             <div class="breadcrumb">
               ${this.buildBreadcrumb(itemName).split(' > ').map((item, index, array) => 
                 `<span class="breadcrumb-item">${item}</span>${index < array.length - 1 ? '<span class="breadcrumb-separator">›</span>' : ''}`
               ).join('')}
             </div>
             
-            <!-- Headline -->
             <h1 class="headline">${itemData.heading}</h1>
             
-            <!-- Thinker Line -->
             <div class="thinker-line">
               <span class="thinker-name">${itemName}</span>
               <span class="thinker-role">Philosopher & Theorist</span>
             </div>
             
-            <!-- Quote Block -->
             <blockquote class="summary-quote">
               <p>${itemData.text}</p>
             </blockquote>
             
-            <!-- Shields Section -->
             <div class="shields-section">
               <div class="shield" data-tooltip="Core philosophical position">
                 <div class="shield-icon">⚖️</div>
@@ -185,7 +174,6 @@ export class ItemDetailsPanel {
               </div>
             </div>
             
-            <!-- CORE ONTOLOGY Section -->
             <div class="callout">
               <div class="callout-title">CORE ONTOLOGY</div>
               <div class="callout-table">
@@ -200,7 +188,6 @@ export class ItemDetailsPanel {
               </div>
             </div>
             
-            <!-- CRITIQUE & RELATED THEORIES Section -->
             <div class="relations-block">
               <h3 class="relations-title">CRITIQUE & RELATED THEORIES</h3>
               <div class="relations-grid">
@@ -211,7 +198,6 @@ export class ItemDetailsPanel {
               </div>
             </div>
             
-            <!-- IMPLICATIONS Section -->
             <div class="faq-section">
               <div class="faq-item">
                 <div class="faq-question">IMPLICATIONS</div>
@@ -235,7 +221,6 @@ export class ItemDetailsPanel {
               </div>
             </div>
             
-            <!-- Action Buttons -->
             <div class="action-buttons">
               <button class="action-button">Phenomenal</button>
               <button class="action-button">Access <span class="separator">·</span> Memory</button>
@@ -244,7 +229,6 @@ export class ItemDetailsPanel {
         `
       }
     } else {
-      // Fallback for items without data
       const infoElement = this.container.querySelector('#item-info')
       if (infoElement) {
         infoElement.innerHTML = `
@@ -322,8 +306,8 @@ export class ItemDetailsPanel {
       }
     }
     
-    // Attach FAQ event listeners
     this.attachFAQListeners()
+    this.attachLinkTracking()
   }
 
   private attachFAQListeners() {
@@ -347,14 +331,25 @@ export class ItemDetailsPanel {
     })
   }
 
+  private attachLinkTracking() {
+    const readMoreLinks = this.container.querySelectorAll('a[href="#"]')
+    readMoreLinks.forEach(link => {
+      link.addEventListener('click', (event) => {
+        const rect = link.getBoundingClientRect()
+        analytics.trackClick('read_more_link', {
+          x: (event as MouseEvent).clientX - rect.left,
+          y: (event as MouseEvent).clientY - rect.top
+        }, link.getAttribute('href') || '')
+      })
+    })
+  }
+
   private buildBreadcrumb(itemName: string): string {
-    // Search for the item in the imported baseData hierarchy
     for (const topLevel of baseData) {
       for (const secondLevel of topLevel.children) {
         if (secondLevel.name === itemName) {
           return `${topLevel.name}`
         }
-        // Check if it's a third-level item
         if ('children' in secondLevel && secondLevel.children) {
           for (const thirdLevel of secondLevel.children) {
             if (thirdLevel.name === itemName) {
@@ -365,7 +360,6 @@ export class ItemDetailsPanel {
       }
     }
 
-    // Fallback for items not found in the hierarchy
     return 'Philosophy'
   }
 
@@ -375,13 +369,11 @@ export class ItemDetailsPanel {
     panel?.classList.add('visible')
     panel?.setAttribute('aria-hidden', 'false')
     
-    // Update the title
     const titleElement = this.container.querySelector('#item-title')
     if (titleElement) {
       titleElement.textContent = theoryData.id_and_class.theory_title
     }
     
-    // Update the content with theory data using MTTS v5.0 format
     const infoElement = this.container.querySelector('#item-info')
     if (infoElement) {
       infoElement.innerHTML = `
@@ -646,6 +638,8 @@ export class ItemDetailsPanel {
         </div>
       `
     }
+    
+    this.attachLinkTracking()
   }
 
   public showError(message: string) {
@@ -654,13 +648,11 @@ export class ItemDetailsPanel {
     panel?.classList.add('visible')
     panel?.setAttribute('aria-hidden', 'false')
     
-    // Update the title
     const titleElement = this.container.querySelector('#item-title')
     if (titleElement) {
       titleElement.textContent = 'Error'
     }
     
-    // Update the content with error message
     const infoElement = this.container.querySelector('#item-info')
     if (infoElement) {
       infoElement.innerHTML = `
@@ -679,22 +671,18 @@ export class ItemDetailsPanel {
     panel?.classList.add('visible')
     panel?.setAttribute('aria-hidden', 'false')
     
-    // Convert theory slug to display name, preserving dashes
     const theoryName = theory
       .split('-')
       .map(word => word.charAt(0).toUpperCase() + word.slice(1))
       .join('-')
     
-    // Convert category slug to display name
     const categoryName = category.charAt(0).toUpperCase() + category.slice(1)
     
-    // Update the title
     const titleElement = this.container.querySelector('#item-title')
     if (titleElement) {
       titleElement.textContent = theoryName
     }
     
-    // Update the content with loading message and breadcrumb
     const infoElement = this.container.querySelector('#item-info')
     if (infoElement) {
       infoElement.innerHTML = `

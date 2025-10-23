@@ -1,4 +1,5 @@
 import { mockApiSubmit, isApiAvailable } from '@/utils/apiMock'
+import analytics from '@/utils/analytics'
 
 export class FormPopup {
   private container: HTMLElement
@@ -149,6 +150,7 @@ export class FormPopup {
       }
 
       if (response.success) {
+        analytics.trackFormSubmission('feedback', true)
         this.showSuccess('Message sent successfully!')
         this.form.reset()
         setTimeout(() => this.hide(), 1500)
@@ -157,6 +159,7 @@ export class FormPopup {
       }
     } catch (error) {
       console.error('Form submission error:', error)
+      analytics.trackFormSubmission('feedback', false, error instanceof Error ? error.message : 'Unknown error')
       this.showError('Failed to send message. Please try again.')
     } finally {
       submitBtn.disabled = false

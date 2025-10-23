@@ -1,9 +1,6 @@
 import type { ChartDataItem } from '@/types/chart'
 
 export const chartUtils = {
-  /**
-   * Calculate the total value of a chart data tree
-   */
   calculateTotal(data: ChartDataItem[]): number {
     return data.reduce((total, item) => {
       const itemValue = item.value || 0
@@ -12,9 +9,6 @@ export const chartUtils = {
     }, 0)
   },
 
-  /**
-   * Flatten chart data into a single array
-   */
   flattenData(data: ChartDataItem[]): ChartDataItem[] {
     const result: ChartDataItem[] = []
     
@@ -31,9 +25,6 @@ export const chartUtils = {
     return result
   },
 
-  /**
-   * Find a specific item in the chart data
-   */
   findItem(data: ChartDataItem[], name: string): ChartDataItem | null {
     for (const item of data) {
       if (item.name === name) {
@@ -47,9 +38,6 @@ export const chartUtils = {
     return null
   },
 
-  /**
-   * Generate random chart data for testing
-   */
   generateRandomData(depth: number = 3, maxChildren: number = 5): ChartDataItem[] {
     const generateNode = (currentDepth: number): ChartDataItem => {
       const name = `Node_${Math.random().toString(36).substr(2, 5)}`

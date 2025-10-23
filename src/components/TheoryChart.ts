@@ -5,6 +5,7 @@ import { getTheoryFullName } from '@/data/theoryNames'
 import { Router } from '@/utils/routing'
 import { generateSlug } from '@/utils/slugUtils'
 import globalState from '@/utils/globalState'
+import analytics from '@/utils/analytics'
 
 export class TheoryChart {
   private chartContainer: ChartContainer
@@ -65,7 +66,6 @@ export class TheoryChart {
         if (params.data && params.data.name) {
           this.handleTheoryClick(params.data)
         } else {
-          // Clicked outside chart - hide mobile labels
           if (this.isMobile()) {
             setMobileLabelVisibility(false)
             this.refreshChartWithNewData()
@@ -81,7 +81,6 @@ export class TheoryChart {
     window.addEventListener('resize', () => {
       clearTimeout(resizeTimeout)
       resizeTimeout = window.setTimeout(() => {
-        // Reset mobile label visibility on resize
         setMobileLabelVisibility(false)
         this.chartContainer.setOption(getChartOptions())
       }, 100)
@@ -142,7 +141,6 @@ export class TheoryChart {
     const chart = this.chartContainer.getChart()
     if (!chart) return
 
-    // Dispatch a highlight event to the chart
     chart.dispatchAction({
       type: 'highlight',
       seriesIndex: 0,
@@ -179,16 +177,23 @@ export class TheoryChart {
 
   private handleTheoryClick(theoryData: any) {
     if (theoryData.children) {
-      // Parent category clicked - show mobile labels if on mobile
-      if (this.isMobile()) {
+      if (this.isMobile() && theoryData.name !== 'Materialism') {
         setMobileLabelVisibility(true)
         this.refreshChartWithNewData()
       }
+      
+      const chart = this.chartContainer.getChart()
+      if (chart) {
+        chart.dispatchAction({
+          type: 'sunburstRootToNode',
+          targetNodeId: theoryData.name
+        })
+      }
+      
       this.itemDetailsPanel.hide()
       return
     }
     
-    // Leaf node clicked - hide mobile labels if on mobile
     if (this.isMobile()) {
       setMobileLabelVisibility(false)
       this.refreshChartWithNewData()
@@ -202,14 +207,22 @@ export class TheoryChart {
         if (response.ok) {
           const slug = generateSlug(theoryName)
           const category = globalState.getTheoryCategory(theoryName) || theoryData.parent?.toLowerCase() || 'neurobiological'
+          
+          // Track page view for theory navigation
+          analytics.trackPageView(theoryName, category, theoryData.parent)
+          
           this.router.navigateToTheory(category, slug)
         } else {
-          // No JSON data, show generic item details
+          // Track page view for generic theory display
+          const category = theoryData.parent?.toLowerCase() || 'unknown'
+          analytics.trackPageView(theoryName, category, theoryData.parent)
           this.itemDetailsPanel.show(theoryData.name)
         }
       })
       .catch(() => {
-        // Error loading, show generic item details
+        // Track page view for error case
+        const category = theoryData.parent?.toLowerCase() || 'unknown'
+        analytics.trackPageView(theoryName, category, theoryData.parent)
         this.itemDetailsPanel.show(theoryData.name)
       })
   }

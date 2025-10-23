@@ -2,7 +2,6 @@ import type { EChartsOption } from 'echarts'
 import * as echarts from 'echarts/core'
 import { TooltipComponent } from 'echarts/components'
 
-// Register the tooltip component
 echarts.use([TooltipComponent])
 
 export class ChartContainer {
@@ -22,7 +21,6 @@ export class ChartContainer {
       renderer
     })
     
-    // Handle window resize
     window.addEventListener('resize', () => {
       this.chart?.resize()
     })
@@ -36,7 +34,6 @@ export class ChartContainer {
 
   refreshData() {
     if (this.chart) {
-      // Force a re-render by setting the option again
       this.chart.setOption(this.chart.getOption(), true)
     }
   }

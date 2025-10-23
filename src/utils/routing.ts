@@ -1,11 +1,9 @@
 import type { TheoryData } from '../types/theory'
 import { generateSlug } from './slugUtils'
 
-// Simple cache for theory data
 const theoryCache = new Map<string, TheoryData>()
 
 async function loadTheoryByName(theoryName: string): Promise<TheoryData> {
-  // Check cache first
   if (theoryCache.has(theoryName)) {
     return theoryCache.get(theoryName)!
   }
@@ -18,7 +16,6 @@ async function loadTheoryByName(theoryName: string): Promise<TheoryData> {
       throw new Error(`Failed to load theory data: ${response.statusText}`)
     }
     const theoryData = await response.json() as TheoryData
-    // Cache the result
     theoryCache.set(theoryName, theoryData)
     return theoryData
   } catch (error) {
@@ -66,13 +63,11 @@ export class Router {
       const category = segments[0]
       const theory = segments[1]
       
-      // Convert slug back to theory name for loading and callback
       const theoryName = theory
         .split('-')
         .map(word => word.charAt(0).toUpperCase() + word.slice(1))
         .join('-')
       
-      // Show loading state with category and theory info
       this.onLoading?.(category, theory)
       
       try {
@@ -91,7 +86,6 @@ export class Router {
   }
 
   private async loadTheory(category: string, theory: string): Promise<TheoryData> {
-    // Convert slug back to theory name, preserving dashes
     const theoryName = theory
       .split('-')
       .map(word => word.charAt(0).toUpperCase() + word.slice(1))
