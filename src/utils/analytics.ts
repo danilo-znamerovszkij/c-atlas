@@ -24,8 +24,9 @@ class Analytics {
     try {
       mixpanel.init(this.config.token, {
         debug: !import.meta.env.PROD,
-        track_pageview: false, // We'll handle page views manually
-        persistence: 'localStorage'
+        track_pageview: false,
+        persistence: 'localStorage',
+        ignore_dnt: true
       })
       this.mixpanel = mixpanel
     } catch (error) {

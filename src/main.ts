@@ -17,6 +17,7 @@ import './components/MetainfoContainer.scss'
 echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
 
 globalState.initialize()
+analytics.trackPageView('Home', 'landing', 'overview')
 
 const router = Router.getInstance()
 const theoryChart = new TheoryChart('main', router)
