@@ -1,6 +1,8 @@
-# Consciousness Atlas
+# 🧠 Consciousness Atlas
 
-An interactive web application that visualizes Robert Lawrence Kuhn's "Landscape of Consciousness" - mapping over 325 theories of phenomenal consciousness in an explorable sunburst chart.
+![Consciousness Atlas](./public/banner.png)
+
+An interactive web application that visualizes Robert Lawrence Kuhn's "Landscape of Consciousness" - mapping over 300+ theories of phenomenal consciousness in an explorable sunburst chart.
 
 ## Tech Stack & Architecture
 
@@ -29,40 +31,9 @@ The feedback form uses a serverless API endpoint (`api/submit.ts`) that forwards
 - **Error Handling**: Graceful fallback with user feedback
 - **Security**: Basic validation and sanitization of form inputs
 
-## Analytics & Mixpanel Integration
+## Analytics 
 
-The application includes comprehensive analytics tracking using Mixpanel:
-
-### Setup
-1. Create a Mixpanel project and get your project token
-2. Set the environment variable: `VITE_MIXPANEL_TOKEN=your_token_here`
-3. Analytics will automatically initialize in production mode
-
-### Tracked Events
-
-1. **Page Views** - Each theory navigation is tracked as a page view
-   - Event: `Page View`
-   - Properties: `theory_name`, `category`, `subcategory`, `page_type`
-
-2. **Click Tracking** - Various user interactions
-   - Event: `Click`
-   - Elements tracked:
-     - Feedback button clicks
-     - GitHub link clicks
-     - Kuhn paper link clicks
-     - Twitter/X link clicks
-     - "Read more" link clicks
-   - Properties: `element`, `position`, `link_url`, `click_type`
-
-3. **Form Submissions** - Feedback form interactions
-   - Event: `Form Submission`
-   - Properties: `form_type`, `success`, `error_message`, `submission_type`
-
-### Analytics Configuration
-- **Debug Mode**: Enabled in development, disabled in production
-- **Persistence**: Uses localStorage for session persistence
-- **Tracking**: Only tracks in production when token is provided
-- **Properties**: Includes timestamp, URL, user agent, and additional custom properties
+Mixpanel integration tracks page views, clicks (buttons, links), and form submissions. Set `VITE_MIXPANEL_TOKEN` environment variable to enable. Tracks only in production.
 
 ## Project Structure
 
