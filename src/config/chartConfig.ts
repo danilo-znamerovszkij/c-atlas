@@ -114,7 +114,7 @@ export const applyPaletteToData = (data: any[]) => {
       } else {
         color = '#666666'
       }
-      
+
       const newItem = {
         ...item,
         parent: parentName,
@@ -124,7 +124,7 @@ export const applyPaletteToData = (data: any[]) => {
           fontSize: level >= 2 || (level === 1 && parentName !== 'Materialism') ? 10 : 12
         } : showLabel ? {
           fontSize: level >= 2 || (level === 1 && parentName !== 'Materialism') ? 10 : 12
-        } : { fontSize: 0 }
+        } : { show: false }
       }
       
       if (item.children) {
@@ -574,6 +574,4 @@ export const getAllTheoryNames = (): string[] => {
   extractTheories(baseData)
   return theoryNames
 }
-
-export const chartOptions: EChartsOption = getChartOptions()
 

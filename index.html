@@ -9,7 +9,7 @@
     </title>
     <meta
       name="description"
-      content="Explore the ultimate map of the mind. The Consciousness Atlas is a free web app visualizing Robert Kuhn's Landscape of Consciousness—355+ theories of phenomenal consciousness in one interactive chart. Compare theories on AI consciousness, survival after death, and the hard problem of consciousness."
+      content="Explore 300+ theories of consciousness. The Consciousness Atlas is a free web app visualizing Robert Kuhn's Landscape of Consciousness—325+ theories of phenomenal consciousness in one interactive chart. Compare theories on AI consciousness, survival after death, and the hard problem of consciousness."
     />
     <meta
       name="keywords"
@@ -22,13 +22,13 @@
     />
     <meta
       property="og:description"
-      content="Explore the ultimate map of the mind. The Consciousness Atlas is a free web app visualizing Robert Kuhn's Landscape of Consciousness—355+ theories of phenomenal consciousness in one interactive chart."
+      content="Explore 300+ theories of consciousness. The Consciousness Atlas is a free web app visualizing Robert Kuhn's Landscape of Consciousness—325+ theories of phenomenal consciousness in one interactive chart."
     />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://consciousnessatlas.com" />
     <meta
       property="og:image"
-      content="https://consciousnessatlas.com/logo.png"
+      content="https://consciousnessatlas.com/banner.png"
     />
     <meta name="twitter:card" content="summary_large_image" />
     <meta
@@ -37,11 +37,11 @@
     />
     <meta
       name="twitter:description"
-      content="Explore the ultimate map of the mind. The Consciousness Atlas is a free web app visualizing Robert Kuhn's Landscape of Consciousness—355+ theories of phenomenal consciousness in one interactive chart."
+      content="Explore the ultimate map of the mind. The Consciousness Atlas is a free web app visualizing Robert Kuhn's Landscape of Consciousness—325+ theories of phenomenal consciousness in one interactive chart."
     />
     <meta
       name="twitter:image"
-      content="https://consciousnessatlas.com/logo.png"
+      content="https://consciousnessatlas.com/banner.png"
     />
 
     <script type="application/ld+json">
@@ -49,7 +49,7 @@
         "@context": "https://schema.org",
         "@type": "WebApplication",
         "name": "Consciousness Atlas",
-        "description": "Interactive visualization of 325+ theories from Kuhn's Landscape of Consciousness. Explore the ultimate map of the mind with 355+ theories of phenomenal consciousness in one interactive chart.",
+        "description": "Interactive visualization of 325+ theories from Kuhn's Landscape of Consciousness. Explore the ultimate map of the mind with 325+ theories of phenomenal consciousness in one interactive chart.",
         "url": "https://consciousnessatlas.com",
         "applicationCategory": "EducationalApplication",
         "operatingSystem": "Web Browser",
@@ -186,7 +186,6 @@
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="shortcut icon" href="/favicon.ico" />
 
-    <!-- Additional SEO meta tags -->
     <meta
       name="robots"
       content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
@@ -203,10 +202,8 @@
     <meta name="msapplication-TileColor" content="#F7B801" />
     <meta name="msapplication-config" content="/browserconfig.xml" />
 
-    <!-- Canonical URL -->
     <link rel="canonical" href="https://consciousnessatlas.com" />
 
-    <!-- Additional Open Graph tags -->
     <meta property="og:site_name" content="Consciousness Atlas" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:image:width" content="1200" />
@@ -216,7 +213,6 @@
       content="Consciousness Atlas - Interactive visualization of consciousness theories"
     />
 
-    <!-- Additional Twitter Card tags -->
     <meta name="twitter:site" content="@consciousnessatlas" />
     <meta name="twitter:creator" content="@danilo_z_j" />
     <meta
@@ -224,13 +220,15 @@
       content="Consciousness Atlas - Interactive visualization of consciousness theories"
     />
 
-    <!-- Schema.org markup for better search visibility -->
     <meta itemprop="name" content="Consciousness Atlas" />
     <meta
       itemprop="description"
-      content="Interactive visualization of 325+ theories from Kuhn's Landscape of Consciousness. Explore the ultimate map of the mind with 355+ theories of phenomenal consciousness in one interactive chart."
+      content="Interactive visualization of 325+ theories from Kuhn's Landscape of Consciousness. Explore the ultimate map of the mind with 325+ theories of phenomenal consciousness in one interactive chart."
     />
-    <meta itemprop="image" content="https://consciousnessatlas.com/logo.png" />
+    <meta
+      itemprop="image"
+      content="https://consciousnessatlas.com/banner.png"
+    />
 
     <link rel="manifest" href="/site.webmanifest" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -347,6 +345,10 @@
     <div class="app-container">
       <div class="chart-container">
         <div id="main"></div>
+        <div class="chart-loader" id="chart-loader">
+          <div class="loader-spinner"></div>
+          <div class="loader-text">Loading chart...</div>
+        </div>
       </div>
 
       <div class="logo-container">
@@ -426,8 +428,9 @@
           than 325 theories of consciousness. It is based on Robert Lawrence
           Kuhn's 2024 paper,
           <a
-            href="https://www.sciencedirect.com/science/article/pii/S0079610723001128"
-            rel="nofollow"
+            target="_blank"
+            href="https://doi.org/10.1016/j.pbiomolbio.2023.12.003"
+            rel="nofollow noopener"
             >"A Landscape of Consciousness"</a
           >. The Atlas maps theories that address phenomenal consciousness - the
           subjective feel of experience, such as the redness of red.
@@ -559,8 +562,9 @@
           historical positions from classical thinkers. For the original
           academic context, see Kuhn's article on ScienceDirect:
           <a
-            href="https://www.sciencedirect.com/science/article/pii/S0079610723001128"
-            rel="nofollow"
+            href="https://doi.org/10.1016/j.pbiomolbio.2023.12.003"
+            rel="nofollow noopener"
+            target="_blank"
             >A Landscape of Consciousness</a
           >.
         </p>

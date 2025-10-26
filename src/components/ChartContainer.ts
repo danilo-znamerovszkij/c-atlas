@@ -17,13 +17,38 @@ export class ChartContainer {
   }
 
   init(renderer: 'canvas' | 'svg' = 'svg', theme: string = 'dark') {
-    this.chart = echarts.init(this.container, theme, {
-      renderer
-    })
+    if (this.container.clientWidth === 0 || this.container.clientHeight === 0) {
+      console.warn('ChartContainer: Container has zero dimensions, waiting for layout...')
+      this.container.style.width = '100%'
+      this.container.style.height = '100%'
+      
+      requestAnimationFrame(() => {
+        this.init(renderer, theme)
+      })
+      return
+    }
     
-    window.addEventListener('resize', () => {
-      this.chart?.resize()
-    })
+    try {
+      this.chart = echarts.init(this.container, theme, {
+        renderer
+      })
+      
+      const loader = document.getElementById('chart-loader')
+      if (loader) {
+        loader.style.display = 'none'
+      }
+      
+      window.addEventListener('resize', () => {
+        this.chart?.resize()
+      })
+    } catch (error) {
+      console.error('Failed to initialize ECharts:', error)
+      const loader = document.getElementById('chart-loader')
+      if (loader) {
+        loader.style.display = 'none'
+      }
+      throw error
+    }
   }
 
   setOption(option: EChartsOption) {

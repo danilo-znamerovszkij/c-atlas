@@ -10,6 +10,75 @@ body {
   background: #1b1b1b;
 }
 
+// iPhone-style loader
+.chart-loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  .loader-spinner {
+    width: 40px;
+    height: 40px;
+    border: 3px solid rgba(234, 189, 97, 0.2);
+    border-top: 3px solid #eabd61;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+  }
+
+  .loader-text {
+    color: #eabd61;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 16px;
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+// Safari mobile fixes
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  .chart-container {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    // Ensure Safari calculates dimensions properly
+    min-width: 1px;
+    min-height: 1px;
+  }
+
+  .chart-container canvas {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+    touch-action: manipulation;
+  }
+
+  // Safari-specific fix for flexbox dimension calculation
+  .app-container {
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+  }
+}
+
 .app-container {
   display: flex;
   height: 100vh;

@@ -487,14 +487,18 @@ export class ItemDetailsPanel {
                 <div class="field-value">${theoryData.mechanism_and_dynamics.integration_or_binding}</div>
               </div>
               ` : ''}
+              ${theoryData.mechanism_and_dynamics.information_flow_or_representation && theoryData.mechanism_and_dynamics.information_flow_or_representation !== 'Not specified' ? `
               <div class="field">
                 <div class="field-label">Information Flow or Representation</div>
                 <div class="field-value">${theoryData.mechanism_and_dynamics.information_flow_or_representation}</div>
               </div>
+              ` : ''}
+              ${theoryData.mechanism_and_dynamics.evolutionary_account && theoryData.mechanism_and_dynamics.evolutionary_account !== 'Not specified' ? `
               <div class="field">
                 <div class="field-label">Evolutionary Account</div>
                 <div class="field-value">${theoryData.mechanism_and_dynamics.evolutionary_account}</div>
               </div>
+              ` : ''}
               ${theoryData.mechanism_and_dynamics?.core_claims_and_evidence && theoryData.mechanism_and_dynamics.core_claims_and_evidence.length > 0 ? `
               <div class="field">
                 <div class="field-label">Core Claims and Evidence</div>
@@ -510,10 +514,12 @@ export class ItemDetailsPanel {
                 </div>
               </div>
               ` : ''}
+              ${theoryData.mechanism_and_dynamics.basis_of_belief_or_evidence_type && theoryData.mechanism_and_dynamics.basis_of_belief_or_evidence_type !== 'Not specified' ? `
               <div class="field">
                 <div class="field-label">Basis of Belief or Evidence Type</div>
                 <div class="field-value">${theoryData.mechanism_and_dynamics.basis_of_belief_or_evidence_type}</div>
               </div>
+              ` : ''}
             </div>
           </div>
           
