@@ -66,10 +66,9 @@ export class TheoryChart {
         if (params.data && params.data.name) {
           this.handleTheoryClick(params.data)
         } else {
-          if (this.isMobile()) {
-            setMobileLabelVisibility(false)
-            this.refreshChartWithNewData()
-          }
+          setMobileLabelVisibility(false)
+          this.refreshChartWithNewData()
+
         }
       })
     }
@@ -177,7 +176,7 @@ export class TheoryChart {
 
   private handleTheoryClick(theoryData: any) {
     if (theoryData.children) {
-      if (this.isMobile() && theoryData.name !== 'Materialism') {
+      if (theoryData.name !== 'Materialism') {
         setMobileLabelVisibility(true)
         this.refreshChartWithNewData()
       }
@@ -194,11 +193,8 @@ export class TheoryChart {
       return
     }
     
-    if (this.isMobile()) {
-      setMobileLabelVisibility(false)
-      this.refreshChartWithNewData()
-    }
-    
+    setMobileLabelVisibility(false)
+
     const theoryName = theoryData.name
     const fileName = `${theoryName}.json`
     const filePath = `/data/${fileName}`

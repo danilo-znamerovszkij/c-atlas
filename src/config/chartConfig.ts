@@ -74,28 +74,34 @@ export const getMobileLabelVisibility = () => showMobileLabels
 
 export const applyPaletteToData = (data: any[]) => {
   let mainColorIndex = 0
-  
+
   const applyColors = (items: any[], level: number = 0, parentColor?: string, parentName?: string) => {
     return items.map((item, index) => {
       let color: string
       let labelPosition: string | undefined
       let showLabel = true
+      let fontSize: number | undefined
       
       if (level === 0) {
         color = mysticPalette.mainColors[mainColorIndex % mysticPalette.mainColors.length]
         mainColorIndex++
         labelPosition = undefined
+        fontSize = undefined
       } else if (level === 1 && parentColor) {
         const lightenAmount = 20 + (index * 3) % 15
         color = colorUtils.lighten(parentColor, lightenAmount)
         
         if (parentName === 'Materialism') {
           labelPosition = undefined
+          fontSize = 12
         } else {
-          if (isMobile() && !showMobileLabels) {
-            showLabel = false;
-          } else if (isMobile() && showMobileLabels) {
-            labelPosition = undefined
+          fontSize = 10
+          if (!showMobileLabels) {
+            showLabel = !isMobile();
+            labelPosition = 'outside';
+          } else if (showMobileLabels) {
+            labelPosition = isMobile() ? undefined : 'outside'
+            fontSize = isMobile() ? 13 : 16
           } else {
             labelPosition = 'outside'
           }
@@ -103,16 +109,20 @@ export const applyPaletteToData = (data: any[]) => {
       } else if (level >= 2 && parentColor) {
         const desatAmount = 25 + (index * 2) % 20
         color = colorUtils.desaturate(parentColor, desatAmount)
+        fontSize = 10
         
-        if (isMobile() && !showMobileLabels) {
-          showLabel = false;
-        } else if (isMobile() && showMobileLabels) {
-          labelPosition = undefined
+        if (!showMobileLabels) {
+          showLabel = !isMobile();
+          labelPosition = 'outside';
+        } else if (showMobileLabels) {
+          labelPosition = isMobile() ? undefined : 'outside'
+          fontSize = isMobile() ? 13 : 16
         } else {
           labelPosition = 'outside'
         }
       } else {
         color = '#666666'
+        fontSize = undefined
       }
 
       const newItem = {
@@ -121,10 +131,10 @@ export const applyPaletteToData = (data: any[]) => {
         itemStyle: { color },
         label:  showLabel && labelPosition ? { 
           position: labelPosition,
-          fontSize: level >= 2 || (level === 1 && parentName !== 'Materialism') ? 10 : 12
+          fontSize: fontSize
         } : showLabel ? {
-          fontSize: level >= 2 || (level === 1 && parentName !== 'Materialism') ? 10 : 12
-        } : { show: false }
+          fontSize: fontSize
+        } : { show: false, labelPosition: 'outside' }
       }
       
       if (item.children) {

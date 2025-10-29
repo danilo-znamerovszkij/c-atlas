@@ -340,7 +340,7 @@ body {
   transition: all 0.2s ease;
 
   &::placeholder {
-    color: rgba(255, 255, 255, 0.6);
+    color: rgba(255, 255, 255, 0.7);
   }
 
   &:focus {
@@ -459,7 +459,7 @@ body {
     left: 16px;
     right: auto;
     width: auto;
-    max-width: calc(100vw - 32px);
+    max-width: 200px;
   }
 
   .about-btn {
@@ -477,12 +477,15 @@ body {
 
 @media (max-width: 480px) {
   .logo-container {
-    top: 16px;
+    top: 12px;
+    left: 0;
+    transform: unset;
 
     .logo {
-      width: 100px;
-      height: 16px;
-      padding: 10px 14px;
+      width: 132px;
+      height: 24px;
+      padding: 8px 12px 8px 2px;
+      margin-left: 14px;
     }
   }
 
@@ -514,7 +517,8 @@ body {
 
   #theory-search {
     padding: 10px 12px 10px 36px;
-    font-size: 13px;
+    font-size: 16px;
+    font-weight: 400;
   }
 
   .search-icon {
