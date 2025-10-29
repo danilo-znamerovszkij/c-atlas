@@ -1,8 +1,11 @@
 {
   "id_and_class": {
-    "theory_title": "Noë’s “Out of Our Heads” Theory",
+    "theory_title": "Sensorimotor (Enactive) Theory of Consciousness (Noë’s “Out of Our Heads” View)",
     "summary": "This theory rejects the assumption that consciousness occurs exclusively inside the brain, arguing that internal brain processes alone are insufficient to generate experience. Consciousness is fundamentally an activity or a process enacted through the dynamic, continuous, and skilled interaction between the brain, the body, and the environment.",
-    "associated_thinkers": ["Alva Noë"],
+    "associated_thinkers": [
+      "Alva Noë",
+      "Kevin O’Regan"
+    ],
     "category": "Materialism",
     "subcategory": "Relational",
     "core_identity_tagline": "Consciousness as Active World-Interaction",
@@ -69,10 +72,13 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Enactivism", "relationship": "Influence" },
-      { "name": "A. Clark’s Extended Mind", "relationship": "Compatible" },
-      { "name": "Dualisms", "relationship": "Critique" },
-      { "name": "Materialism Theories", "relationship": "Critique" }
+      { "name": "Enactivism (Varela & Thompson)", "relationship": "Constituent Framework" },
+      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "Foundational Influence" },
+      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "Philosophical Influence" },
+      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "Partially Compatible / Overlapping" },
+      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "Related / Complementary (active perception, shared circuits model)" },
+      { "name": "Internalist Materialism", "relationship": "Critique" },
+      { "name": "Dualism", "relationship": "Critique" }
     ],
     "sources_and_references": [
       {
@@ -83,6 +89,28 @@
       {
         "title_with_names": "Is consciousness an illusion, Alva Noë",
         "year": 2007
+      },
+      {
+        "title_with_names": "O’Regan, K., & Noë, A. A sensorimotor account of vision and visual consciousness. Behavioral and Brain Sciences, 24(5), 939–1031.",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Noë, A. Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness.",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Varela, F., Thompson, E., & Rosch, E. The Embodied Mind: Cognitive Science and Human Experience.",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Gibson, J.J. The Ecological Approach to Visual Perception.",
+        "year": 1979
+      },
+      {
+        "title_with_names": "Hurley, S. L. (1998). Consciousness in Action. Harvard University Press."
+      },
+      {
+        "title_with_names": "Hurley, S. (2008). The Shared Circuits Model (SCM): How control, mirroring, and simulation can enable imitation, deliberation, and mindreading. Behavioral and Brain Sciences, 31(1)."
       }
     ]
   }

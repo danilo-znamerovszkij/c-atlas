@@ -1,11 +1,10 @@
 {
   "id_and_class": {
-    "theory_title": "Transparency Theory",
-    "summary": "Transparency theory argues that sensory experience is purely representational, focusing attention solely on external objects and their properties, rather than on the intrinsic features of the perceptual state itself. The core thesis holds that because introspection fails to reveal any mental properties beyond these representations, phenomenal consciousness poses no special problem for materialism.",
+    "theory_title": "Transparency Thesis (Transparency Theory)",
+    "summary": "Transparency thesis argues that sensory experience is purely representational, focusing attention solely on external objects and their properties, rather than on the intrinsic features of the perceptual state itself. The core thesis holds that because introspection fails to reveal any mental properties beyond these representations, phenomenal consciousness poses no special problem for materialism.",
     "associated_thinkers": [
       "William G. Lycan",
       "Gilbert Harman",
-      "Amy Kind",
       "Michael Tye",
       "Dirk Franken"
     ],
@@ -23,7 +22,7 @@
     "explanatory_identity_claim": "Phenomenal consciousness (phenomenal character) is identified as, or reduced to, the representational content (intentional content) of experience.",
     "ontological_status": "Reductive Physicalism/Materialism (The theory is used to undermine arguments against physicalism).",
     "mind_body_relationship": "Identity theory/Reductionism (The phenomenal character is reduced to intentional content, which is presumed to be physically realized, fitting the materialist camp).",
-    "primitive_or_emergent_status": "Emergent (Implicitly emergent, as it is categorized under Materialism Theories, which posit consciousness as a product of biological brains).",
+    "primitive_or_emergent_status": "Not primitive; reductively emergent (supervenient on neural representational content)",
     "emergence_type": "Weak Emergence (The theory aims to show that phenomenal properties are entirely exhausted or reducible to representational content, which aligns with the principles of weak emergence/reductionism).",
     "subjectivity_and_intentionality": "Subjective phenomenal quality is entirely defined and exhausted by the sensible properties presented to the subject. Intentionality (the quality of representing external objects) is fundamental to the conscious state.",
     "qualia_account": "Qualia, or the qualitative features of phenomenal consciousness, are illusory or incoherent if they are taken to be properties of the perceptual state over and above its representational properties. Phenomonal character is reduced to intentional content.",
@@ -89,6 +88,10 @@
       {
         "name": "Jackson’s Representationalism",
         "relationship": "Extension/Support"
+      },
+      {
+        "name": "Amy Kind",
+        "relationship": "Critique/Refinement"
       }
     ],
     "sources_and_references": [

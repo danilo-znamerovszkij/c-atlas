@@ -91,7 +91,7 @@ const staticTheoryNames: Record<string, string> = {
   'Metzinger': 'Metzinger\'s No-Self Representational Theory of Subjectivity',
   'Jackson': 'Jackson\'s Representationalism and the Knowledge Argument',
   'Lycan': 'Lycan\'s Homuncular Functionalism',
-  'Transparency': 'Transparency Theory',
+  'Transparency': 'Transparency Thesis',
   'Tye': 'Tye\'s Contingentism',
   'Thagard': 'Thagard\'s Neural Representation, Binding, Coherence, Competition',
   'T. Clark': 'T. Clark\'s Content Hypothesis',
