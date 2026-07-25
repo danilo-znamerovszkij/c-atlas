@@ -10,7 +10,8 @@
       "Bash(rtk ls *)",
       "Bash(rtk grep *)",
       "Bash(rtk read *)",
-      "Bash(node -e \"const g=require\\('./docs/i18n/glossary.json'\\); const first=Object.values\\(g.terms||g\\)[0]; console.log\\('sample term renderings locales:', Object.keys\\(\\(first&&first.renderings\\)||{}\\).join\\(', '\\)\\)\")"
+      "Bash(node -e \"const g=require\\('./docs/i18n/glossary.json'\\); const first=Object.values\\(g.terms||g\\)[0]; console.log\\('sample term renderings locales:', Object.keys\\(\\(first&&first.renderings\\)||{}\\).join\\(', '\\)\\)\")",
+      "Bash(rtk git *)"
     ]
   }
 }
