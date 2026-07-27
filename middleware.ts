@@ -121,6 +121,15 @@ export default async function middleware(request: Request) {
     path = path.slice(0, -1)
   }
 
+  // English is the default locale and is served unprefixed. A stray /en/...
+  // link would otherwise fall through parseLocaleFromPath as a broken
+  // default-locale path returning 200; permanently redirect it to the
+  // canonical unprefixed URL so it never gets indexed as a duplicate.
+  if (path === `/${DEFAULT_LOCALE}` || path.startsWith(`/${DEFAULT_LOCALE}/`)) {
+    const stripped = path.slice(DEFAULT_LOCALE.length + 1) || '/'
+    return Response.redirect(`${SITE_ORIGIN}${stripped}`, 308)
+  }
+
   const canonicalUrl = path === '/'
     ? `${SITE_ORIGIN}/`
     : `${SITE_ORIGIN}${path}`
