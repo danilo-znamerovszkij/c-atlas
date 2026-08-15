@@ -1,0 +1,116 @@
+{
+  "id_and_class": {
+    "theory_title": "투명성 논제(투명성 이론)",
+    "summary": "투명성 논제는 감각 경험이 순전히 표상적이며, 지각 상태 자체의 내재적 특징이 아니라 오로지 외부 대상과 그 속성에만 주의를 향한다고 주장한다. 핵심 논제는 내성이 이러한 표상을 넘어선 어떠한 심적 속성도 드러내지 못하므로, 현상적 의식이 유물론에 특별한 문제를 제기하지 않는다는 것이다.",
+    "associated_thinkers": [
+      "William G. Lycan",
+      "Gilbert Harman",
+      "Michael Tye",
+      "Dirk Franken"
+    ],
+    "category": "유물론 이론",
+    "subcategory": "표상 이론",
+    "core_identity_tagline": "‘투명한 표상으로서의 의식’",
+    "classification_tags": [
+      "representationalism",
+      "materialism",
+      "intentionalism",
+      "qualia_reduction"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "현상적 의식(현상적 성격)은 경험의 표상적 내용(지향적 내용)과 동일시되거나 그것으로 환원된다.",
+    "ontological_status": "환원적 물리주의/유물론 (이 이론은 물리주의에 반대하는 논변들을 무너뜨리는 데 사용된다).",
+    "mind_body_relationship": "동일론/환원주의 (현상적 성격은 지향적 내용으로 환원되며, 이 내용은 물리적으로 실현된다고 전제되어 유물론 진영에 속한다).",
+    "primitive_or_emergent_status": "근본적이지 않음. 환원적으로 창발적임(신경 표상 내용에 수반함)",
+    "emergence_type": "약한 창발 (이 이론은 현상적 속성이 표상적 내용에 의해 전적으로 남김없이 규정되거나 그것으로 환원 가능함을 보이고자 하며, 이는 약한 창발/환원주의의 원리에 부합한다).",
+    "subjectivity_and_intentionality": "주관적인 현상적 성질은 전적으로 주체에게 제시된 감각 가능한 속성들에 의해 정의되고 남김없이 규정된다. 지향성(외부 대상을 표상한다는 성질)은 의식 상태에 근본적이다.",
+    "qualia_account": "감각질, 곧 현상적 의식의 질적 특징은 지각 상태의 표상적 속성을 넘어선 그 상태의 속성으로 간주될 경우 환상이거나 비정합적이다. 현상적 성격은 지향적 내용으로 환원된다.",
+    "ontological_commitments": "외부 대상과 그 현상하는 속성, 지각 상태, 그리고 표상적 내용. 이 이론은 내재적이고 비표상적인 심적 속성의 존재를 명시적으로 부정한다.",
+    "epistemic_access": "내성 (핵심적인 투명성 논제는 경험에 대한 내성에 의존하며, 이 내성은 대상에 의해 표상되는 속성 이외의 어떠한 내재적 속성도 드러내지 않는다고 여겨진다).",
+    "constituents_and_structure": "지각 상태로서, 이는 오로지 외부 대상과 그 속성을 표상함으로써만 기능한다. 의식 경험의 구조는 주체에게 제시된 감각 가능한 속성들의 분포이다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "현상적 의식(감각질), 지각(특히 시각 경험).",
+    "distinctive_mechanism_or_principle": "투명성 논제. 주의가 안으로 향할 때에도 오직 지각되고 있는 외부 대상의 특징만을 발견한다는 원리로, 이는 현상적 성격이 표상적 내용과 같다는 주장을 뒷받침한다.",
+    "dynamics_of_emergence": "초점은 창발의 동역학적 과정을 기술하는 데 있지 않고 의식 상태의 속성을 규정하는 데 있다. 이 이론은 매개 상태를 '꿰뚫어 보게' 되는 결과적 상태를 기술한다.",
+    "location_and_distribution": "이 이론은 현상적 내용(표상) 자체의 본성에 초점을 맞춘다. 암묵적으로, 유물론 이론으로서 이 내용은 뇌의 신경 활동에 의해 실현된다.",
+    "causation_and_functional_role": "기능적 역할은 지각 상태 자체가 아니라 외부 대상을 정확히 표상하고 그 대상에 속성을 귀속시키는 것이다.",
+    "integration_or_binding": "명시적으로 상술되어 있지는 않으나, 지각된 속성(예: 색, 형태)이 통일된 외부 대상에 성공적으로 귀속되는 데 함축되어 있다. 지각된 속성은 현상하는 장 안에서 주체에게 현전하는 속성이다.",
+    "information_flow_or_representation": "정보는 표상으로 처리된다. 현상적 의식은 본질적으로 정보적이며, 구체적으로는 외부 대상을 표상하는 내용이다.",
+    "evolutionary_account": "명시적으로 다루어지지 않으나, 유물론의 표상주의 하위 범주와 부합하며, 이는 환경을 정확히 표상함으로써 적응도를 높이는 감각 기능에 관한 진화론적 설명과 대체로 양립한다.",
+    "core_claims_and_evidence": [
+      "감각 경험은 외부 대상과 그 현상하는 속성을 표상하며, 이로써 유물론의 난점이 제거된다.",
+      "내성은 표상적 속성을 넘어선 어떠한 심적 속성도 드러내지 않는다(본래적 의미의 투명성 논제).",
+      "강한 표상주의가 유물론에 반대하는 지식 논변을 무너뜨린다는 주장."
+    ],
+    "basis_of_belief_or_evidence_type": "철학적 (현상학적 관찰과 내성에 근거한 논변)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "개념적으로 검증 가능/현상학적으로 제약됨 (주된 검증은 내성적 주장의 일관성이며, 객관적 반증 방법은 핵심적이지 않다).",
+    "known_empirical_interventions_or_tests": "내성 (이 이론은 '가장 철저한 내성이 과연 그러한 추가적 속성을 드러내는가'에 달려 있다). 흐릿한 시각과 같은 문제 사례는 지지자들에 의해 다루어진다.",
+    "criticisms_and_tensions": "비판자들은 지각되는 모든 속성이 대상의 외부 속성이라는 주장에 대한 잠재적 반례로 흐릿한 시각과 같은 현상을 든다. 이 논제는 현상적 성질이 심적 상태의 독립적 속성이라는 생각을 부정한다.",
+    "open_questions_and_limitations": "경험이 오직 외부 속성만을 담고 있다면 흐릿한 시각과 같은 내적 상태가 어떻게 경험될 수 있는가와 같은 명백한 비일관성을 해소해야 한다.",
+    "ontological_coherence": "높음 (환원 불가능한 현상적 속성의 존재를 부정함으로써 심신 문제를 해결하려는 환원적 물리주의 및 강한 표상주의 같은 이론들과 내적으로 고도로 일관된다)."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "가능성 높음",
+      "rationale": "유물론 이론들에 대한 철학적 옹호로서, 의식이 계산적이거나 표상적이라는 견해를 지지하며, 이는 AI 의식이 원리적으로 전적으로 가능함을 뜻한다."
+    },
+    "survival_beyond_death": {
+      "stance": "불가능함",
+      "rationale": "의식은 물리적 뇌에서 파생된 표상 상태에 근거한다. 유물론적 패러다임에 따라 뇌의 파괴는 그 사람의 영구적 비존재를 뜻한다."
+    },
+    "meaning_and_purpose": {
+      "stance": "인간적 차원에 한정",
+      "rationale": "이 이론은 유물론을 강화하는 기능을 하며, 유물론은 일반적으로 인간이 만들어낸 의미와 목적, 가치만을 지지한다."
+    },
+    "virtual_immortality": {
+      "stance": "가능함",
+      "rationale": "의식이 전적으로 표상적 내용으로 설명된다면, 이 정보는 이론적으로 복제되어 비생물학적 기질에 업로드될 수 있으며, 이로써 가상적 불멸이 달성 가능해진다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Representational Theories",
+        "relationship": "토대"
+      },
+      {
+        "name": "Intentionalism",
+        "relationship": "유사/등가"
+      },
+      {
+        "name": "Materialism Theories",
+        "relationship": "옹호/지지"
+      },
+      {
+        "name": "Jackson’s Representationalism",
+        "relationship": "확장/지지"
+      },
+      {
+        "name": "Amy Kind",
+        "relationship": "비판/정교화"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The intrinsic quality of experience, G. Harman",
+        "year": 1990
+      },
+      {
+        "title_with_names": "Representationalism and the transparency of experience, M. Tye",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Transparency and the Structure of Consciousness, D. Franken",
+        "year": ""
+      },
+      {
+        "title_with_names": "Representational theories of consciousness, W. Lycan",
+        "year": 2019
+      }
+    ]
+  }
+}

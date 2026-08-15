@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "라메의 재귀 처리 이론",
+    "summary": "라메의 재귀 처리 이론(RPT)은 특히 감각 체계 내 신경 영역들 사이에 상호적(재귀적) 되먹임 연결이 일어날 때 의식이 발생하며, 이것이 의식의 필요조건이자 충분조건이라고 주장한다. 감각 영역 및 감각 후 영역에서 국소적으로 일어나는 이 처리(3단계)는 전역적 방송 접근 없이도 현상 경험을 산출한다.",
+    "associated_thinkers": ["Victor Lamme"],
+    "category": "유물론",
+    "subcategory": "표상적",
+    "core_identity_tagline": "'감각 체계 내 재귀 처리로서의 의식'",
+    "classification_tags": [
+      "neuroscience",
+      "visual system",
+      "recurrent connections",
+      "first-order theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "의식은 시각 체계와 같은 관련 신경 회로 안에서 성립하는 특정한 재귀 처리 상태와 동일시된다.",
+    "ontological_status": "물리주의",
+    "mind_body_relationship": "동일성/환원주의적 접근. 마음이라는 개념이 뇌라는 개념으로 이행해야 하며, 의식은 물리적 회로 내의 재귀 처리 상태와 동일하다고 논한다.",
+    "primitive_or_emergent_status": "창발적",
+    "emergence_type": "약한 창발",
+    "subjectivity_and_intentionality": "주관성(현상적 의식)은 재귀 처리 상태 그 자체이다. 지향성은 이 순환 고리 안에서 표상되는 내용에 의해 담지된다(표상적/일차 이론으로서 추론됨).",
+    "qualia_account": "감각질은 관련 시각 회로에 특정한 재귀 처리 상태가 성립할 때 산출되며, 이로써 시각 상태가 의식적인 것이 된다.",
+    "ontological_commitments": "뇌의 감각 체계, 신경 회로(시각 회로), 전방향 및 되먹임 연결.",
+    "epistemic_access": "신경적 측정과 행동적 측정을 통해 접근 가능하며, 라메는 이 둘이 동등한 지위에 놓여야 한다고 제안한다.",
+    "constituents_and_structure": "전방향 연결과 되먹임 연결을 포함하는 대규모로 상호 연결된 신경 회로(재귀 고리)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "현상적 의식",
+    "distinctive_mechanism_or_principle": "감각 영역 및 감각 후 영역(3단계)에서의 재귀 처리(되먹임 연결)가 의식에 충분한 것으로 간주된다.",
+    "dynamics_of_emergence": "역동적 과정. 의식 상태는 시각 영역을 다른 뇌 영역과 연결하는 되먹임 연결이 산출하는 역동적 활동의 결과이다.",
+    "location_and_distribution": "감각 영역 및 감각 후 영역에, 구체적으로는 '머리 뒤쪽'의 재귀적 활성화에 국소화된다.",
+    "causation_and_functional_role": "의식은 특정한 재귀 처리 상태 그 자체이다. 그 기저의 목적은 마음에 대한 이해를 뇌 쪽으로 옮기는 데 있다고 함축된다.",
+    "integration_or_binding": "통합은 지각 영역 내 재귀 고리 안에서 국소적으로 이루어진다.",
+    "information_flow_or_representation": "정보는 최초의 전방향 흐름(무의식적 등록)에 이어 재귀 처리를 산출하는 되먹임 연결(의식)로 이어진다.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "의식은 전방향 연결과 되먹임 연결을 포함하는 대규모로 상호 연결된 감각 체계를 요구한다(재귀 처리).",
+      "감각 영역 및 감각 후 영역의 재귀 처리는 현상적 의식의 필요조건이자 충분조건이다.",
+      "의식적 지각은 머리 뒤쪽의 재귀적 활성화와 동일시된다(일차 이론)."
+    ],
+    "basis_of_belief_or_evidence_type": "경험적, 신경생물학적, 개념적"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "경험적으로 검증 가능",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "전역 작업공간 이론(GWT)이 '온통 접근에 관한 것일 뿐 봄에 관한 것이 아니다'라고 비판한다. 한편 자신은 Ned Block으로부터 '전역 작업공간 설명의 축소된 형태'라는 비판을 받는다.",
+    "open_questions_and_limitations": "재귀적 활성화는 피질하 구조와의 온전한 연결성 같은 특정한 '배경 조건'이 주어진 경우에만 의식에 충분하다.",
+    "ontological_coherence": "의식을 전적으로 특정하게 식별된 신경 기제에 정초함으로써 유물론 존재론 안에서 매우 정합적이다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "가능성 높음",
+      "rationale": "유물론 이론으로서, 요구되는 재귀 처리 패턴이 비생물학적 기질에서 인공적으로 복제될 수 있다면 원리적으로 AI 의식은 가능해야 한다."
+    },
+    "survival_beyond_death": {
+      "stance": "아니오",
+      "rationale": "의식은 물리적 뇌 활동과 특정 신경 회로(재귀 처리 상태)에 결부되어 있으므로 신체의 죽음과 함께 소멸함을 시사한다."
+    },
+    "meaning_and_purpose": {
+      "stance": "인간주의적 의미에 한함",
+      "rationale": "이 이론은 현상 경험에 대한 순수하게 물리주의적이고 신경생물학적인 설명에 초점을 맞추며, 어떠한 궁극적 우주적 의미나 목적도 뒷받침하지 않는다."
+    },
+    "virtual_immortality": {
+      "stance": "예",
+      "rationale": "의식이 재귀 처리 상태 그 자체이므로, 그 과정을 새로운 매체에 완벽하게 복제(업로드)하면 일인칭 자아가 산출되어 가상적 불멸이 가능해진다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "비판"
+      },
+      {
+        "name": "First-Order Representationalism",
+        "relationship": "확장"
+      },
+      {
+        "name": "Block’s Biological Reductionism",
+        "relationship": "중첩"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Towards a true neural stance on consciousness, Victor Lamme",
+        "year": 2006
+      },
+      {
+        "title_with_names": "How neuroscience will change our view on consciousness, Victor Lamme",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Wu, 2018 (Discussing Lamme's RPT)",
+        "year": 2018
+      }
+    ]
+  }
+}

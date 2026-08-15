@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "피셔의 양자 인지",
+    "summary": "이 이론은 핵스핀을 포함하는 양자 처리가 뇌에서 작동하며 그 기능의 핵심으로서 의식의 생물학적 메커니즘 역할을 한다고 제안한다. 인 원자의 핵스핀이 포스너 분자에 의해 보호되는 큐비트(신경 큐비트)로 작용하여, 신경 활동에 영향을 미치는 데 필요한 양자 얽힘을 가능하게 한다고 상정한다.",
+    "associated_thinkers": [
+      "Matthew Fisher"
+    ],
+    "category": "양자 이론",
+    "subcategory": "양자 인지",
+    "core_identity_tagline": "핵스핀 양자 처리로서의 의식",
+    "classification_tags": [
+      "quantum",
+      "neurobiology",
+      "materialist",
+      "qubit",
+      "entanglement"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "의식은 생물학적 큐비트(인 핵스핀)와 장수명 얽힘을 활용하는 양자 처리의 결과로 규정되며, 이는 신경 소통에 근본적으로 영향을 미친다.",
+    "ontological_status": "물리주의",
+    "mind_body_relationship": "동일성 이론. 의식은 생물학적 기반 내의 특정한 저수준 양자역학적 상호작용에서 파생된(또는 그것과 동일한) 물리적 과정이다.",
+    "primitive_or_emergent_status": "창발적",
+    "emergence_type": "약한 창발. 의식은 알려진 근본 물리학 원리에 의해 지배되는 양자역학적 과정을 가능하게 하는 복잡한 생물학적 구조에서 발생한다.",
+    "subjectivity_and_intentionality": "이 이론은 의식에 요구되는 근저의 물리적 기반에 초점을 두지만, 이 양자 메커니즘이 어떻게 주관적 느낌이나 지향성을 산출하는지는 명시적으로 상술하지 않는다. 필요한 양자 처리 기능이 달성되면 이러한 속성이 발생한다고 암묵적으로 전제된다.",
+    "qualia_account": "자료는 의식에 필요한 물리적 메커니즘(큐비트, 얽힘)을 상술하지만, 질적 느낌(감각질)이 이러한 특정 양자 생물학적 과정에서 어떻게 발생하거나 그것에 대응하는지에 대한 명시적 설명은 제시하지 않는다.",
+    "ontological_commitments": "인 핵스핀(신경 큐비트로서), 인산 이온, 포스너 분자(인산칼슘 클러스터), 양자 얽힘, 신경 발화율.",
+    "epistemic_access": "과학적 탐구, 특히 응집물질물리학, 양자생물학, 그리고 뇌 내 양자역학적 상호작용의 모델링을 통해 접근 가능하다.",
+    "constituents_and_structure": "기본 구성 요소는 포스너 분자 안에 자리한 인 핵스핀(큐비트)이며, 이들은 얽힘과 그에 따르는 비국소적 상관을 허용하도록 조직되어 대규모 신경망 활동에 영향을 미친다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "현상적 의식, 뇌 기능, 신경 양자 처리.",
+    "distinctive_mechanism_or_principle": "신경 큐비트(포스너 분자 내 인 핵스핀)의 양자 얽힘과 뒤이은 양자 측정으로, 이는 칼슘 이온 방출로 이어져 신경전달물질 방출과 뉴런 발화에 영향을 미친다.",
+    "dynamics_of_emergence": "의식은 (포스너 분자에 의해 보호되는) 양자 얽힘과 객관적 환원(측정/붕괴)의 순환에서 발생하는 동역학적 과정이며, 이 순환이 고전적 신경 신호를 조절한다.",
+    "location_and_distribution": "특정 분자 구조(포스너 분자)와 그로 인해 뇌 내 뉴런의 미시적 동역학에 미치는 후속 효과에 국소화되어 있다.",
+    "causation_and_functional_role": "신경 양자 처리의 메커니즘을 제공한다. 양자 측정 사건(포스너 분자의 결합과 용해)이 칼슘 이온 방출을 촉발하고, 이것이 시냅스후 뉴런의 발화를 촉진한다.",
+    "integration_or_binding": "통합은 복수의 포스너 분자의 얽힘에서 비롯되는 뉴런 발화율의 비국소적 양자 상관을 통해 달성된다.",
+    "information_flow_or_representation": "정보는 양자 기억(포스너 분자)과 얽힘에 부호화·저장되며, 이는 고전적 신경 체계로 입력되는 복잡하고 비국소적인 정보 처리를 가능하게 한다.",
+    "evolutionary_account": "자료에서 명시적으로 논의되지 않으나, 향상된 처리와 기능을 위해 양자역학을 활용할 수 있는 체계가 생물학적 진화에 의해 선택되었음을 암묵적으로 전제한다.",
+    "core_claims_and_evidence": [
+      "인 핵스핀은 뇌 내 양자 처리를 위한 신경 큐비트로 기능한다.",
+      "포스너 분자는 이 큐비트를 양자 기억으로서 보호한다.",
+      "얽힌 포스너 분자는 칼슘 방출을 통해 뉴런 발화율의 비국소적 양자 상관을 촉발한다.",
+      "이 이론은 양자 처리가 의식에 근본적이라면 요구되는 구체적 설명 단계들을 특정한다."
+    ],
+    "basis_of_belief_or_evidence_type": "응집물질물리학과 신생 분야인 양자생물학에 기초한 개념적 모델링."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "경험적으로 검증 가능/사변적. 이 이론은 양자 신경과학에서 향후 경험적 검증을 위한 잠재적 생물학적 표적과 설명 단계를 특정할 만큼 구체적이다.",
+    "known_empirical_interventions_or_tests": "자료에는 이 이론을 검증하거나 반증한 구체적인 경험적 개입이나 실험이 열거되어 있지 않다. 지금까지 이 이론의 주된 역할은 향후 양자생물학 연구에 대한 개념적 지침이다.",
+    "criticisms_and_tensions": "자료는 이 이론이 '세부적으로는 틀렸을' 수 있으며, 대부분의 양자 의식 이론과 마찬가지로 물리학자와 신경과학자의 회의에 직면한다고 지적한다.",
+    "open_questions_and_limitations": "큐비트와 포스너 분자에 관한 구체적인 화학적·생물학적 세부 사항이 생물학적으로 부정확할 수 있다. 이 메커니즘이 뇌 기능에 대해 참이라 하더라도 현상적 의식에 충분하거나 필요한지는 분명하지 않다.",
+    "ontological_coherence": "양자역학이 의식과 관련된 생물학적 계산에서 특정하고 근본적인 역할을 한다고 인정하는 확장된 유물론적 또는 물리주의적 존재론 안에서 정합적이다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "가능성 높음",
+      "rationale": "의식이 양자역학과 그 예측 가능한 규칙성에 의존한다면, 양자 상태 제어라는 기술적 난제를 극복할 수 있는 한 첨단 기술은 원리상 인공지능의 의식을 만들어낼 수 있다."
+    },
+    "survival_beyond_death": {
+      "stance": "아니다",
+      "rationale": "이 이론은 의식을 물리적 뇌 안의 특정하고 수명이 짧은 분자적/생물학적 구조와 과정(인, 포스너 분자)에 엄격히 결부시키며, 이는 생물학적 죽음과 함께 의식이 소멸함을 시사한다."
+    },
+    "meaning_and_purpose": {
+      "stance": "인간적 차원에 한정됨",
+      "rationale": "분자적 메커니즘에 기초한 순수하게 물리주의적인 의식 설명으로서, 이 이론은 비물리적이거나 궁극적인 우주적 의미를 도입하지 않으며, 목적을 의식적 생물학적 행위자가 창출하는 것에 한정한다."
+    },
+    "virtual_immortality": {
+      "stance": "아마도 (불확실성을 동반함)",
+      "rationale": "의식 업로드는 복잡한 양자 상태를 정밀하게 조작하고 복제할 수 있는 기술을 요구한다. 양자역학은 규칙성에 의해 지배되지만, 그 내재적 비결정성은 완전한 복제 가능성에 관한 어느 정도의 불확실성을 야기한다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Quantum Theories",
+        "relationship": "확장"
+      },
+      {
+        "name": "Poznanski’s Dynamic Organicity Theory",
+        "relationship": "양립 가능"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Matthew Fisher, Quantum cognition: the possibility of processing with nuclear spins in the brain",
+        "year": 2015
+      }
+    ]
+  }
+}

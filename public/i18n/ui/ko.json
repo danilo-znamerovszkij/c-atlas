@@ -1,0 +1,147 @@
+{
+  "chartLoader.text": "차트를 불러오는 중…",
+
+  "nav.feedback": "피드백",
+  "nav.about.tooltip": "소개",
+  "nav.github.alt": "GitHub 스타 수",
+
+  "sourceCitation.text": "출처: Landscape of Consciousness (Kuhn, 2024)",
+  "sourceCitation.kuhnCitation": "Robert Lawrence Kuhn. \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. Progress in Biophysics and Molecular Biology, Volume 190, 2024, Pages 28-169.\"",
+  "sourceCitation.landscapeLink": "Landscape of Consciousness",
+
+  "about.heading": "Consciousness Atlas",
+  "about.subtitle": "Landscape of Consciousness의 시각화",
+  "about.intro.html": "Consciousness Atlas는 325가지가 넘는 의식 이론을 시각화하는 인터랙티브 웹 애플리케이션입니다. Robert Lawrence Kuhn의 2024년 논문 <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a>에 기초합니다. 본 Atlas는 현상적 의식—붉음의 붉은 느낌과 같은, 경험의 주관적 느낌—을 다루는 이론들을 지도화합니다.",
+
+  "about.whatIs.title": "Atlas란 무엇인가",
+  "about.whatIs.body": "Atlas는 Kuhn의 분류 체계 위에 구축된 시각적 참조 자료입니다. 이론 전체를 한눈에 제시하여 이 분야를 시각적으로 탐색하고, 어느 이론이든 열어 그 항목을 읽을 수 있게 합니다. 구조화된 항목을 갖춘 백과사전에 비할 수 있습니다. 각 이론 항목은 간결한 정체성 진술, 개념적 기반, 제안된 메커니즘, 경험적 주해, 함의, 그리고 출처를 제시합니다.",
+
+  "about.why.title": "이 프로젝트의 취지",
+  "about.why.body": "의식은 신경과학, 철학, 그리고 때로는 영적 연구나 이상 상태 연구에 이르기까지 여러 분야에 걸쳐 연구됩니다. Kuhn의 논문은 가장 물리적인 것에서 가장 덜 물리적인 것에 이르는 스펙트럼을 따라 수백 가지 이론을 수집하고 정리합니다. Atlas는 그 정리를 시각적 형태로 옮겨, 독자와 학생, 연구자가 서로 다른 입장들이 어떻게 관계 맺는지, 그리고 각 이론이 스펙트럼 상 어디에 자리하는지를 신속하게 파악할 수 있도록 합니다.",
+
+  "about.how.title": "작동 방식",
+  "about.how.body": "이론들은 물리적인 것에서 비물리적인 것에 이르는 스펙트럼 상의 입장에 따라 배열된 열 개의 주요 범주로 묶여 있습니다. 범주의 예로는 유물론, 비환원적 물리주의, 기능주의, 양자 기반 이론, 범심론, 일원론, 이원론, 관념론, 이상 상태, 그리고 도전 이론이 있습니다. 본 앱은 지도 전체를 한 번에 보여 줍니다. 어느 이론이든 클릭하면 정전적 출처와 거명된 사상가에 대한 참조를 포함한 구조화된 항목을 읽을 수 있습니다.",
+
+  "about.audience.title": "누구를 위한 것인가",
+  "about.audience.item1": "심리철학과 인지과학을 공부하는 학생",
+  "about.audience.item2": "한눈에 비교할 수 있는 자료를 찾는 연구자와 강의자",
+  "about.audience.item3": "여러 입장의 스펙트럼을 빠르게 참조해야 하는 기자와 저술가",
+  "about.audience.item4": "사람들이 의식을 이야기할 때 무엇을 뜻하는지 명료하게 조망하고자 하는 호기심 있는 독자",
+
+  "about.notDo.title": "Atlas가 하지 않는 것",
+  "about.notDo.body": "Atlas는 이론을 지지하거나 순위를 매기지 않습니다. 이는 Kuhn의 분류 체계에 기초한 시각화이자 참조 자료로서, 판정하는 것이 아니라 수집하고 제시합니다. 의식의 어려운 문제를 해결하려 시도하지도 않습니다. 탐색과 비교를 위한 도구입니다.",
+
+  "about.kuhnNote.title": "Kuhn의 주석",
+  "about.kuhnNote.body1": "Kuhn은 이 작업의 목적을 명시적으로 밝힙니다. \"평가하고 판정하는 것이 아니라, 수집하고 분류한다.\" Consciousness Atlas는 그 방침을 따릅니다. 데이터와 구조는 Kuhn의 논문에서 도출되었습니다. 피드백과 수정 제안은 환영하지만, 본 앱은 Kuhn의 작업 위에 놓인 시각화 층입니다.",
+  "about.kuhnNote.body2": "Kuhn은 유일한 출처인 원 논문 'A Landscape of Consciousness'를 제외하면 Consciousness Atlas의 설계나 내용에 관여하지 않았습니다.",
+
+  "about.landscapeWebsite.title": "Landscape of Consciousness 웹사이트",
+  "about.landscapeWebsite.body.html": "<a href=\"https://loc.closertotruth.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape of Consciousness 웹사이트</a>는 Robert Lawrence Kuhn의 논문 \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications\"를 상당히 확장하고 보강하며 갱신한 것입니다. Landscape of Consciousness 웹사이트에는 350가지가 넘는 의식 이론이 수록되어 있으며 다섯 가지 방식으로 접근할 수 있습니다. <a href=\"https://loc.closertotruth.com/consciousness-theories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Grid</a>, <a href=\"https://loc.closertotruth.com/all-consciousness-categories-and-subcategories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Categories</a>, <a href=\"https://loc.closertotruth.com/all-consciousness-categories-subcategories-and-theories\" target=\"_blank\" rel=\"noopener noreferrer\">All Landscape Theories</a>, <a href=\"https://loc.closertotruth.com/map\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Map</a>, <a href=\"https://loc.closertotruth.com/interactive\" target=\"_blank\" rel=\"noopener noreferrer\">Interactive Visualizations</a>입니다. Landscape of Consciousness는 항구적으로 진행 중인 작업입니다.",
+
+  "about.faq.title": "자주 묻는 질문",
+  "about.faq.q1": "현상적 의식이란 무엇입니까?",
+  "about.faq.a1": "현상적 의식은 주관적 경험을 가리킵니다. 커피의 맛이나 붉음의 붉은 느낌처럼, 자각하고 있음의 질적 느낌입니다.",
+  "about.faq.q2": "Atlas는 몇 가지 이론을 담고 있습니까?",
+  "about.faq.a2": "Atlas는 열 개의 넓은 범주로 묶인 220가지가 넘는 개별 이론을 시각화합니다.",
+  "about.faq.q3": "Atlas는 어떤 이론이 참인지 보여 줍니까?",
+  "about.faq.a3": "아닙니다. Atlas는 이론을 중립적으로 제시합니다. 이는 지도이지 특정 입장을 옹호하는 논증이 아닙니다.",
+  "about.faq.q4": "Atlas는 학술적입니까?",
+  "about.faq.a4": "Atlas는 학술적 출처인 Robert Kuhn의 2024년 논문 \"A Landscape of Consciousness\"에 기초하며, 가능한 경우 정전적 출처로 연결됩니다.",
+
+  "about.related.title": "함께 읽을 자료",
+  "about.related.body.html": "Atlas는 통합정보이론, 전역 작업공간 이론, 범심론적 제안, 양자 기반 착상, 그리고 고전 사상가들의 역사적 입장을 비롯하여 철학과 신경과학 전반의 정전적 연구를 참조합니다. 원래의 학술적 맥락에 대해서는 ScienceDirect에 실린 Kuhn의 논문을 참고하십시오. <a href=\"/paper.html\">A Landscape of Consciousness</a>",
+
+  "about.summary.title": "요약",
+  "about.summary.body": "Consciousness Atlas는 간명한 시각화 도구입니다. Kuhn의 분류 체계를 탐색 가능한 하나의 지도로 제시하고, 이용자가 개별 이론 항목을 열어 구조화되고 출처가 명시된 요약을 읽을 수 있게 합니다. 이 복잡한 분야를 조망하기 쉽게 만들고 실질적인 참조 자료로 기능하도록 설계되었습니다.",
+
+  "about.footer.ariaLabel": "프로젝트 정보 및 출처 표시",
+  "about.footer.creatorTitle": "제작자 소개",
+  "about.footer.creatorBody.html": "ConsciousnessAtlas.com은 인터랙티브 도구와 데이터 시각화를 구축해 온 프런트엔드 엔지니어 Danilo Znamerovszkij(<a href=\"https://www.linkedin.com/in/danilo-znamerovszkij-56a435156/\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a>)의 독립 프로젝트입니다. 이 프로젝트는 의식 연구, 심리철학, 그리고 복잡한 이론적 지형을 소프트웨어를 통해 어떻게 더 잘 항해할 수 있게 만들 것인가에 대한 오랜 관심을 반영합니다.",
+  "about.footer.contactTitle": "연락처",
+  "about.footer.contactBody.prefix": "피드백, 수정 사항, 또는 연구 관련 문의는 다음으로:",
+  "about.footer.citeTitle": "인용 방법",
+  "about.footer.citeBody": "Danilo Znamerovszkij, ConsciousnessAtlas.com. https://consciousnessatlas.com (접속일 [date]).",
+  "about.footer.scopeTitle": "범위",
+  "about.footer.scopeBody": "본 프로젝트는 탐색적이고 교육적인 자료를 의도한 것입니다. 특정한 의식 이론을 옹호하지 않으며, 권위 있는 과학적 분류로 해석되어서는 안 됩니다.",
+  "about.footer.linksLabel": "링크:",
+
+  "form.title": "피드백 보내기",
+  "form.closeAriaLabel": "양식 닫기",
+  "form.nameLabel": "이름 (선택)",
+  "form.namePlaceholder": "이름",
+  "form.nameAriaLabel": "이름",
+  "form.emailLabel": "이메일 (선택)",
+  "form.emailPlaceholder": "your@email.com",
+  "form.emailAriaLabel": "이메일 주소",
+  "form.messageLabel": "메시지 *",
+  "form.messagePlaceholder": "의견, 제안, 질문을 남겨 주십시오…",
+  "form.messageAriaLabel": "메시지",
+  "form.cancel": "취소",
+  "form.send": "메시지 보내기",
+  "form.sending": "보내는 중…",
+  "form.errors.messageRequired": "메시지를 입력해 주십시오",
+  "form.errors.sendFailedRetry": "메시지 전송에 실패했습니다. 다시 시도해 주십시오.",
+  "form.success": "메시지를 보냈습니다.",
+
+  "searchBar.placeholder": "이론 검색…",
+  "searchBar.ariaLabel": "이론 검색",
+  "searchBar.resultsAriaLabel": "검색 결과",
+
+  "itemDetails.closePanel": "패널 닫기",
+  "itemDetails.welcome": "차트에서 항목을 선택하여 그 신비를 탐색하십시오",
+  "itemDetails.error.title": "오류",
+  "itemDetails.error.heading": "이론을 불러오지 못했습니다",
+  "itemDetails.loading.heading": "이론 데이터를 불러오는 중…",
+  "itemDetails.loading.body": "상세 정보를 가져오는 동안 잠시 기다려 주십시오.",
+
+  "itemDetails.sections.conceptualGround": "I. 개념적 기반",
+  "itemDetails.sections.mechanismDynamics": "II. 메커니즘과 동역학",
+  "itemDetails.sections.empiricsCritiques": "III. 경험적 근거와 비판",
+  "itemDetails.sections.implications": "IV. 함의",
+  "itemDetails.sections.relationsSources": "V. 관계와 출처",
+
+  "itemDetails.fields.explanatoryIdentityClaim": "설명적 동일성 주장",
+  "itemDetails.fields.mindBodyRelationship": "심신 관계",
+  "itemDetails.fields.subjectivityIntentionality": "주관성과 지향성",
+  "itemDetails.fields.qualiaAccount": "감각질에 대한 설명",
+  "itemDetails.fields.ontologicalCommitments": "존재론적 개입",
+  "itemDetails.fields.epistemicAccess": "인식적 접근",
+  "itemDetails.fields.constituentsStructure": "구성 요소와 구조",
+  "itemDetails.fields.primitiveOrEmergentStatus": "근본적 지위인가 창발적 지위인가",
+  "itemDetails.fields.emergenceType": "창발의 유형",
+  "itemDetails.fields.ontologicalStatus": "존재론적 지위",
+
+  "itemDetails.fields.scopeOfConsciousness": "의식의 범위",
+  "itemDetails.fields.distinctiveMechanism": "고유한 메커니즘 또는 원리",
+  "itemDetails.fields.dynamicsOfEmergence": "창발의 동역학",
+  "itemDetails.fields.locationDistribution": "위치와 분포",
+  "itemDetails.fields.causationFunctionalRole": "인과와 기능적 역할",
+  "itemDetails.fields.integrationBinding": "통합 또는 결합",
+  "itemDetails.fields.informationFlowRepresentation": "정보 흐름 또는 표상",
+  "itemDetails.fields.evolutionaryAccount": "진화론적 설명",
+  "itemDetails.fields.coreClaimsEvidence": "핵심 주장과 증거",
+  "itemDetails.fields.basisOfBelief": "믿음의 근거 또는 증거의 유형",
+
+  "itemDetails.fields.testabilityStatus": "검증 가능성의 상태",
+  "itemDetails.fields.knownEmpiricalTests": "알려진 경험적 개입 또는 검증",
+  "itemDetails.fields.criticismsTensions": "비판과 긴장",
+  "itemDetails.fields.openQuestionsLimitations": "미해결 문제와 한계",
+  "itemDetails.fields.ontologicalCoherence": "존재론적 정합성",
+
+  "itemDetails.fields.relatedTheories": "관련 이론",
+  "itemDetails.fields.classification": "분류",
+  "itemDetails.fields.sourcesReferences": "출처와 참고문헌",
+
+  "itemDetails.implications.aiConsciousness": "AI 의식",
+  "itemDetails.implications.survivalBeyondDeath": "사후 존속",
+  "itemDetails.implications.meaningPurpose": "의미와 목적",
+  "itemDetails.implications.virtualImmortality": "가상적 불멸",
+
+  "misc.unknown": "알 수 없음",
+  "misc.unknownError": "알 수 없는 오류",
+
+  "nav.language.ariaLabel": "언어 선택",
+  "languagePopup.title": "언어 선택",
+  "languagePopup.subtitle": "원하시는 언어를 선택하십시오",
+  "languagePopup.closeAriaLabel": "언어 선택기 닫기"
+}

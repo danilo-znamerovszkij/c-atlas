@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "비판 이론",
+    "summary": "이 항목은 의식 연구 내에서 필수적이고 광범위하게 작동하는 회의적 기능을 나타내며, 제안된 모든 의식 이론의 설명적 정합성, 경험적 타당성, 형이상학적 전제를 체계적으로 문제 삼는다. 설명적 간극이나 상관–인과의 난제와 같은 지속적인 개념적 긴장을 부각시켜, 각 이론이 자신의 내적 일관성과 경험적 근거를 옹호하도록 압박한다.",
+    "associated_thinkers": [
+      "R.L. Kuhn",
+      "Critics of specific theories (e.g., Hakwan Lau, Scott Aaronson)",
+      "Proponents of Challenge Theories (e.g., Thomas Nagel, Sam Harris)"
+    ],
+    "category": "도전 이론",
+    "subcategory": "비판/회의주의",
+    "core_identity_tagline": "본질적인 회의적 기능",
+    "classification_tags": [
+      "critique",
+      "skepticism",
+      "meta-problem",
+      "tension",
+      "adjudication"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "비판은 의식에 대한 모든 경쟁적 설명에 내재한 설명적 결함(설명적 간극, 정합성 결여, 불충분한 경험적 근거 등)을 체계적으로 평가하고 진단하는 작업으로 규정된다.",
+    "ontological_status": "인식론적/방법론적 입장 (비판은 긍정적 존재론을 제시하기보다 다른 이론들의 지식 주장과 방법론을 주로 평가한다.)",
+    "mind_body_relationship": "해당 없음 (방법론적 개념으로서 비판은 심신 문제를 해결하려는 시도와 같은 기존 존재론적 제안의 정합성을 분석할 뿐, 자체의 긍정적 해법을 제시하지 않는다.)",
+    "primitive_or_emergent_status": "둘 다 아님 (비판은 담론적·분석적 실천이지 실재의 근본적 속성이나 창발적 과정이 아니다.)",
+    "emergence_type": "해당 없음 (이 개념은 순전히 방법론적이다.)",
+    "subjectivity_and_intentionality": "비판은 물리주의 이론이 주관적 일인칭 경험(주관성)과 사고의 지향성을 설명하지 못한다는 점에 자주 초점을 맞추며, 이러한 측면이 순전히 양적인 모형에서는 누락된다고 주장한다.",
+    "qualia_account": "평가 도구 (비판은 경험의 질적 차원인 감각질을 유물론적·환원주의적 설명에 대한 주된 도전으로 활용하며, '어려운 문제'를 해결되지 않은 분석적 결손으로 부각한다.)",
+    "ontological_commitments": "개입은 전개되는 특정 비판에 따라 달라진다. 단일한 '비판 이론'의 존재론은 없으나, 현행 과학적 세계관이 불완전하거나 결함이 있다는 전제에 의존하는 경우가 많다.",
+    "epistemic_access": "개념 분석, 논리적 일관성 점검, 철학적 사고실험(예: 좀비, 신경생리학자 메리), 경쟁하는 과학적 패러다임의 비교.",
+    "constituents_and_structure": "개념적 긴장, 해결되지 않은 논리적 충돌, 그리고 내재적인 인식론적 한계(예: 인식론–존재론의 구별, 상관–인과의 난제)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "모든 측면 (비판은 현상적 의식, 접근 의식, 자기 인식, 행위주체성에 관한 모든 이론적 주장에 보편적으로 적용된다.)",
+    "distinctive_mechanism_or_principle": "순환성, 비일관성, 감각질/주관성에 대한 설명 실패와 같은 이론의 설명적 병리를 식별하고 진단하는 것.",
+    "dynamics_of_emergence": "해당 없음 (비판은 비판적 분석의 틀이지 실재 안의 동역학적 과정이 아니다.)",
+    "location_and_distribution": "담론적/학술적 (철학적·과학적 담론 안에서 작동하며 더 나은 설명의 필요를 추동한다.)",
+    "causation_and_functional_role": "그 일차적 기능은 지적 위생이다. 즉 의식의 인과적 메커니즘을 제안하기보다 개념적·경험적 결함을 진단한다.",
+    "integration_or_binding": "비판은 정보 통합이 공간적으로 구현되는가 시간적으로 구현되는가에 관한 논쟁처럼, 경험의 통합과 통일성에 대한 기존 설명에 도전한다.",
+    "information_flow_or_representation": "비판은 순전히 양적이거나 표상적인 설명이 주관적 경험의 질을 포착하는 데 지니는 설명적 한계에 자주 초점을 맞춘다.",
+    "evolutionary_account": "해당 없음 (비판 자체는 진화 이론이 아니지만, 다른 이론들의 진화적 개연성을 평가한다.)",
+    "core_claims_and_evidence": [
+      "비판은 심신 문제의 심대한 난해함과 신비를 부각한다.",
+      "주된 난제는 객관적 물리적 기술(삼인칭 데이터)을 주관적 경험(일인칭 현상적 사실)과 논리적으로나 경험적으로 잇지 못한다는 점이다.",
+      "특정 이론(통합정보이론 등)은 검증 불가능하거나 필요한 경험적 근거를 결여한 주장을 내세운다는 이유로 비판받는다."
+    ],
+    "basis_of_belief_or_evidence_type": "개념적/철학적 분석 (특정 이론에 대한 찬반 논증에서 논리적·인식론적 비일관성을 식별하는 데 의존함.)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "특정 이론적 주장과 관련하여 검증 가능 (비판은 명시적 도전을 제기하여, 표적이 되는 예측을 검증하거나 반증하기 위한 적대적 협업 실험과 같은 경험적 연구 프로그램을 촉발한다.)",
+    "known_empirical_interventions_or_tests": [
+      "적대적 협업 실험 (통합정보이론과 전역 작업공간 이론처럼 경쟁하는 이론들의 상반된 예측을 검증하도록 설계됨)",
+      "물리주의적 주장에 대한 개념적 검증으로 사용되는 사고실험 (예: 좀비 논증, 지식 논증)"
+    ],
+    "criticisms_and_tensions": "비판자들은 지나친 회의(예: 이론을 유사과학으로 낙인찍는 일)가 과도하며 아직 성숙하지 않은 이 과학 분야에 해롭다고 주장한다. 나아가 비판은 문제를 진단하면서도 건설적 해법을 제시하지 않는 경우가 많다.",
+    "open_questions_and_limitations": "궁극적 한계는 의식이 인간의 인지로는 본질적으로 풀 수 없는 것인지(신비주의), 아니면 개념적 장벽이 현재의 설명적 제약으로 인한 일시적인 것인지의 물음이다.",
+    "ontological_coherence": "메타이론적 도구로서 정합성은 높다. 그 목적이 다른 이론들의 정합성을 분석하는 데 있기 때문이다. 다만 더 넓은 형이상학적 지형과 견주어 평가될 자체 존재론은 제시하지 않는다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "조건부",
+      "rationale": "비판은 인공지능의 진정한 내적 자각을 확인하기 어렵다는 점을 부각하며, 계산된 복잡성이 *겉보기* 의식(시뮬레이션 난제)에 그칠 수 있어 특정 주장을 신뢰하기 어렵게 만든다고 강조한다."
+    },
+    "survival_beyond_death": {
+      "stance": "불확실",
+      "rationale": "비판은 (검증 가능한 임사 체험처럼) 고도로 이례적인 현상이 경험적으로 확증된다면 유물론적 산출 모형이 즉시 반증되어 이론적 지지가 비물리적 존속 가설로 이동하리라는 점을 인정한다."
+    },
+    "meaning_and_purpose": {
+      "stance": "궁극적 의미의 결여를 진단함",
+      "rationale": "비판은 유물론적·환원주의적 설명이 궁극적 의미나 가치를 합리적으로 근거 짓지 못한다는 점을 자주 문제 삼으며, 그 결과 인간이 스스로 목적을 창출하는 인간주의적 의미만이 남게 된다고 본다."
+    },
+    "virtual_immortality": {
+      "stance": "조건부",
+      "rationale": "비판은 의식이 *무엇인가*라는 형이상학적 수수께끼를 해결하지 않는 한(예: 업로드가 일인칭 자아를 온전히 보존함을 입증하지 않는 한), 가상 불멸은 개념적으로 문제적이며 확인되지 않은 채 남는다고 주장한다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Mysterianism (McGinn's Ultimate Mystery)",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Meta-Problem of Consciousness",
+        "relationship": "확장"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "비판"
+      },
+      {
+        "name": "Eliminative Materialism / Illusionism",
+        "relationship": "영향"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A landscape of consciousness: Toward a taxonomy of explanations and implications, R.L. Kuhn",
+        "year": 2024
+      },
+      {
+        "title_with_names": "The Integrated Information Theory of Consciousness as Pseudoscience, S.M. Fleming et al.",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The mystery of consciousness, S. Harris",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature Is Almost Certainly False, T. Nagel",
+        "year": 2012
+      }
+    ]
+  }
+}

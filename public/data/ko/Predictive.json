@@ -1,0 +1,110 @@
+{
+  "id_and_class": {
+    "theory_title": "예측 이론(하향적)",
+    "summary": "이 관점은 뇌를 역동적인 예측 기관으로 보며, 의식적 지각은 하향적 기대(예측)와 상향적 감각 자료(예측 오차)를 결합함으로써 내적으로 생성된다고 본다. 의식은 생존을 위한 정확한 예측·자각·반응적 행동을 촉진하는 기능적 기제로서 발생한다.",
+    "associated_thinkers": [
+      "Andy Clark",
+      "Richard Gregory",
+      "Karl Friston",
+      "Rudolfo Llinas"
+    ],
+    "category": "유물론",
+    "subcategory": "항상성적·정동적 이론",
+    "core_identity_tagline": "능동적 예측 종합으로서의 의식",
+    "classification_tags": [
+      "prediction",
+      "computation",
+      "functionalism",
+      "top-down",
+      "neurobiology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "의식은 예측적 기대와 감각 입력의 복합적 종합으로 규정되며, 감각 입력의 원인에 관한 예측을 전달하는 하향 신호 전달에서 발생한다.",
+    "ontological_status": "물리주의",
+    "mind_body_relationship": "마음(의식적 지각)은 전적으로 물리적 뇌 기제(예측 처리)에 뿌리를 둔 기능 또는 과정이며, 신체와 세계에 대한 경험을 매개한다.",
+    "primitive_or_emergent_status": "창발적",
+    "emergence_type": "약한 창발",
+    "subjectivity_and_intentionality": "주관성은 예측과 감각의 내적 종합에서 발생하며, 자각과 반응성을 가능하게 한다. 지향성(사고의 향함)은 결과를 예상하고 예측 오차를 최소화하는 데 초점을 맞춘 이 체계에 본래적으로 내재한다.",
+    "qualia_account": "이 이론은 주로 예측을 통한 지각의 기능과 과정에 초점을 맞춘다. 감각질은 예측하는 뇌가 생성하는 내적 모델이나 표상과 암묵적으로 관련되지만, 주관적 '느낌'은 순전히 기계론적인 관점에는 여전히 난제로 남는다.",
+    "ontological_commitments": "생물학적 뇌, 예측 모델, 감각 신호, 기대 오차, 그리고 하향적·상향적 신호 전달 경로.",
+    "epistemic_access": "예측을 뇌의 핵심 작동 원리로 보는 체계적 이해를 발전시키고, 감각 자료가 기존 믿음('사전 확률')과 어떻게 통합되는지를 분석함으로써 접근된다.",
+    "constituents_and_structure": "의식 체계는 하향 신호(예측)와 상향 신호(예측 오차)를 사용하는 역동적 예측 기관으로 구조화되어 있다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "현상적 측면(지각), 인지, 행위, 자각, 반응성",
+    "distinctive_mechanism_or_principle": "예측 오차의 지속적 최소화(베이즈 추론의 근사)가 그 원리이며, 의식은 뇌에서 일어나는 능동적·하향적 예측 신호 전달과 연관된다.",
+    "dynamics_of_emergence": "의식은 역동적으로 창발하여, 환경을 지속적으로 예측하고 그에 반응하는 결정적인 생물학적 역량을 촉진한다.",
+    "location_and_distribution": "뇌에 기반하며, 하향 신호 전달과 재귀적 경로에 관여하는 신경망 전반에 분산되어 있다. 다만 순전히 '두개골에 갇힌' 신경 중심적 관점은 경계한다.",
+    "causation_and_functional_role": "의식은 실제 세계의 사건과 반사실적 모의 사이의 신속한 비교를 가능하게 함으로써 적응적 행동과 최적 행위의 선택을 촉진한다. 총괄적 기능은 환경적 '놀람'을 최소화함으로써 생존하는 것이다.",
+    "integration_or_binding": "통합은 예측적 기대와 들어오는 감각 정보의 지속적 종합을 통해 달성되며, 그 결과 정합적인 지각이 산출된다.",
+    "information_flow_or_representation": "정보는 예측을 전달하는 하향 신호와 예측 오차를 전달하는 상향 신호를 통해 흐르며, 이는 베이즈 추론을 근사한다.",
+    "evolutionary_account": "생존이라는 근본적인 생물학적 동인에서 진화했으며, 능동적 이동과 복잡한 환경의 효과적 항행에 결정적인 예측 능력을 가능하게 했다.",
+    "core_claims_and_evidence": [
+      "의식적 정신 상태는 감각적 원인에 관한 예측을 전달하는 하향 신호 전달과 연관된다",
+      "뇌는 강력하고 역동적인 예측 기관으로 작동한다",
+      "지각은 예측적 기대와 감각 입력의 복합적 종합이다",
+      "의식은 생존에 필수적인 예측 능력을 촉진하기 위해 생겨났다"
+    ],
+    "basis_of_belief_or_evidence_type": "계산적, 신경생물학적, 진화적"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "경험적으로 검증 가능하다(자유 에너지 원리와 관련된 것 등 구체적인 기계론적 모델에 따라 조건부).",
+    "known_empirical_interventions_or_tests": "함축된 방법으로는 예측 부호화와 관련된 신경학적 반응을 측정하고 기대 오차의 동역학을 검증하는 것(예: 능동적 추론과 관련된 연구)이 있다.",
+    "criticisms_and_tensions": "기능적 이론에 흔한 주된 비판은 주관적인 '왜'를 설명하지 못한다는 점이다. 즉 예측과 종합의 과정이 왜 단순한 기능적 산출이 아니라 느껴지는 경험(감각질)을 낳아야 하는지를 설명하지 못한다.",
+    "open_questions_and_limitations": "핵심 한계는 예측에 대한 기능적·계산적 기술과 의식의 현상적 실현 사이의 간극에 다리를 놓는 일이다. 이 모델은 의식이 근본적으로 '무엇'인지보다 뇌가 '어떻게' 작동하는지에 크게 치중한다.",
+    "ontological_coherence": "유물론적·기능주의적·창발주의적 존재론과 고도로 일관된다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "가능성 높음",
+      "rationale": "의식이 주로 지각을 종합하기 위해 예측을 생성하고 검증하는 계산적 기능으로 이해된다면, 이러한 기능을 수행하는 충분히 복잡한 인공지능 시스템도 의식을 갖게 될 것이다."
+    },
+    "survival_beyond_death": {
+      "stance": "아니오",
+      "rationale": "이 이론은 의식을 뇌의 진화된 생물학적 과정에 근거 짓는다. 의식은 물리적 기질에 결부되어 있으므로 생물학적 죽음과 함께 소멸한다."
+    },
+    "meaning_and_purpose": {
+      "stance": "인간적/진화적",
+      "rationale": "의식은 생존과 적응이라는 근본적인 생물학적 문제를 해결하기 위해 진화했으며, 적합도를 극대화하는 데서 목적을 얻지만 우주적 의미를 수반하지는 않는다."
+    },
+    "virtual_immortality": {
+      "stance": "예",
+      "rationale": "이 이론의 계산적·기능적 성격은 자아를 구성하는 예측적 조직화가 원리상 디지털화되어 비생물학적 기질에서 재현됨으로써 기능적 지속이 가능함을 시사한다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "토대"
+      },
+      {
+        "name": "Seth’s “Beast Machine” Theory",
+        "relationship": "확장"
+      },
+      {
+        "name": "Lamme’s Recurrent Processing Theory",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Global Workspace Theory",
+        "relationship": "대조"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Experience Machine: How Our Minds Predict and Shape Reality, A. Clark",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Brain from inside Out, G. Buzsáki",
+        "year": 2019
+      },
+      {
+        "title_with_names": "A Predictive Processing perspective on the mind-body problem, R.L. Kuhn",
+        "year": 2024
+      }
+    ]
+  }
+}

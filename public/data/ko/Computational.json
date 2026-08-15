@@ -1,0 +1,109 @@
+{
+  "id_and_class": {
+    "theory_title": "계산 이론",
+    "summary": "마음에 관한 계산 이론들은 마음이 컴퓨터처럼 작동한다고 제안하며, 심적 상태를 기저의 물리적 기질과 무관하게 체계적인 단계별 명령이나 알고리즘에 의해 정의되는 기능적 역할로 파악한다. 이러한 이론들은 추론과 지각 같은 마음의 능력을 모사함으로써 인지과학의 부상을 이끌었다.",
+    "associated_thinkers": [
+      "Nick Bostrom",
+      "James Reggia"
+    ],
+    "category": "유물론",
+    "subcategory": "계산론적·정보적",
+    "core_identity_tagline": "알고리즘과 계산으로서의 의식",
+    "classification_tags": [
+      "computation",
+      "functionalism",
+      "AI",
+      "reductionism",
+      "cognitive science"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "의식(또는 일반적으로 심적 상태)은 특정하고 발견 가능한 종류의 계산을 수행하는 것과 동일시된다. 심적 상태는 그 내적 구성이나 물질적 기질이 아니라 기능적 역할이나 출력에 의해 정의된다.",
+    "ontological_status": "물리주의",
+    "mind_body_relationship": "동일성/기능주의. 심적 상태는 기능적 상태이며, 신경 조직이든 컴퓨터 칩이든 정보를 처리할 수 있는 어떤 형태의 물질에서도 구현(실현)될 수 있다.",
+    "primitive_or_emergent_status": "창발적",
+    "emergence_type": "약한 창발. 유물론적 틀과 일관되게, 심적 속성은 고차적이기는 하지만 실제 설명이 복잡할지라도 원리적으로는 기저의 근본적 계산 과정과 물리 과정으로 온전히 설명되거나 환원될 수 있다고 전제된다.",
+    "subjectivity_and_intentionality": "지향성(사고의 향해 있음)은 개념을 기술하도록 조작될 수 있는 인지적 기호를 통해 설명된다. 주관성(현상적 의식)은 여전히 난제로 남는데, 초점이 내적 경험보다는 외적 기능성과 정보 처리에 주로 놓여 있기 때문이다.",
+    "qualia_account": "불확실/축소적. 이 이론은 현상적 의식에 대한 설득력 있는 입증을 제시하는 데 어려움을 겪으며, 대신 인지적·행동적 상관물을 포착하는 데 집중한다. 이 견해에 부합하는 일부 접근은 감각질을 환영적이거나 정합적이지 않은 것으로 취급하고, 다른 접근은 감각질이 통합되고 보고 가능한 계산적 상태에 대응한다고 주장한다.",
+    "ontological_commitments": "알고리즘, 체계적인 단계별 명령, 튜링 기계(계산의 추상적 모형), 그리고 정보를 구현할 수 있는 모든 물리적 기질.",
+    "epistemic_access": "주로 계산적 모형화와 시뮬레이션, 그리고 정보 처리 능력과 행동적 상관물에 대한 객관적 측정을 통해 접근한다.",
+    "constituents_and_structure": "체계적인 단계별 명령의 루틴(알고리즘)이며, 통상 튜링 기계와 같은 추상적 계산 구조를 사용해 모형화된다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "접근(예: 정보에 대한 전역적 접근), 기억, 지식 구조, 지각, 추론, 문제 해결, 언어 이해. 현상적 의식(감각질)은 흔히 배제되거나 미해결 문제로 취급된다.",
+    "distinctive_mechanism_or_principle": "특정한 종류의 계산(알고리즘적 처리)을 수행하는 것이 의식의 필요조건이자 충분조건이라는 원리.",
+    "dynamics_of_emergence": "알고리즘적/체계적. 의식은 알고리즘을 통한 정보의 체계적 처리를 통해 발생하며, 이는 마음과 같은 능력의 모사를 가능하게 한다.",
+    "location_and_distribution": "그 위치는 물질적이라기보다 기능적이다. 의식은 생물학적 신경 조직이든 비생물학적 컴퓨터 칩이든 필요한 계산 기능이 구현되는 곳이면 어디에나 자리한다.",
+    "causation_and_functional_role": "심적 상태는 물리 세계에서 실현되는 기능적 상태이므로 인과적으로 유효하다. 그 기능적 역할은 정보 처리를 조직하여 계획, 의사결정, 문제 해결과 같은 능력을 가능하게 하는 것이다.",
+    "integration_or_binding": "지식 구조와 추론 같은 인지 능력에 필요한 복잡한 정보 처리와 특화된 계산 기능들의 통합을 통해 암묵적으로 달성된다.",
+    "information_flow_or_representation": "심적 상태는 추상적 정보 또는 인지적 기호이며, 이는 기저의 물리적 기질에 의해 알고리즘적으로 조작되어 사고와 이해를 산출한다.",
+    "evolutionary_account": "출처에서 핵심 이론이 명시적으로 다루지는 않으나, 의식이 특히 적응적 처리와 계산을 위해 신경생물학적 복잡성으로부터 진화한 산물이라는 일반적인 유물론적 견해와 양립 가능하다.",
+    "core_claims_and_evidence": [
+      "특정하고 발견 가능한 종류의 계산을 수행하는 것은 의식의 필요조건이자 충분조건이다.",
+      "심적 상태는 물리적 매체와 무관하게 오로지 그 출력이나 기능적 역할에 의해 결정된다.",
+      "계산적 모형화는 의식을 과학적으로 연구하는 데 인정된 방법론이다."
+    ],
+    "basis_of_belief_or_evidence_type": "계산적, 철학적(기능주의), 논리적."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "경험적으로 검증 가능하다. 그 방법론은 계산적 모형화를 사용하여 어떤 체계가 의식적 처리의 알려진 신경생물학적·인지적·행동적 상관물을 성공적으로 시뮬레이션하는지 평가하는 것이다.",
+    "known_empirical_interventions_or_tests": [
+      "인지적 상관물에 대한 계산 모형과 기계 시뮬레이션의 개발 및 검증."
+    ],
+    "criticisms_and_tensions": "마음을 '당대의 과학'에 빗대는 역사적 유비라는 비판을 받는다. 주된 긴장은 기계의 현상적 의식에 대한 설득력 있는 입증이 없다는 점이며, 이는 이 이론이 '쉬운 문제'(기능)만 다루고 '어려운 문제'(경험)는 무시한다는 비판으로 이어진다.",
+    "open_questions_and_limitations": "핵심 미해결 쟁점은 복잡성과 무관하게 계산을 수행하는 것만으로 현상적 의식('그것이 어떠한 것인가')을 실제로 산출하기에 충분한가이다.",
+    "ontological_coherence": "모든 심적 실재가 정보 처리나 알고리즘적 구조로 환원될 수 있다는 전제에 의존하므로, 환원적 물리주의 및 기능주의 틀 안에서 정합적이다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "예",
+      "rationale": "계산적 기능주의는 의식이 올바른 종류의 계산을 수행한 결과라고 상정하므로, 비생물학적 지능의 계산적 정교함이 기하급수적으로 증가하는 상황에서 AI 의식은 가능할 뿐 아니라 불가피하다."
+    },
+    "survival_beyond_death": {
+      "stance": "아니오",
+      "rationale": "의식은 어떤 기질에서의 물리적 또는 기능적 실현에 결부되어 있다. 전통적 의미의 사후 존속은 부정되며, 오직 디지털 마음 업로드(가상적 불멸)를 통해서만 지속이 가능하다."
+    },
+    "meaning_and_purpose": {
+      "stance": "인간적 차원에 한함",
+      "rationale": "유물론 이론으로서 어떠한 궁극적인 우주적 의미나 목적도 지지하지 않는다. 의미와 가치는 의식적 존재의 복잡한 기능으로부터 발생하는, 창발적이고 스스로 창출한 현상으로 간주된다."
+    },
+    "virtual_immortality": {
+      "stance": "예",
+      "rationale": "의식이 순전히 계산적/기능적이라면(즉 그 본질이 알고리즘적이라면), 뇌의 기능적 패턴을 비생물학적 매체에 완벽히 복제하는 것은 일인칭 심적 자아를 보존할 것이며 가상적 불멸은 원리적으로 달성 가능하다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "핵심 원리"
+      },
+      {
+        "name": "Computational Functionalism",
+        "relationship": "확장"
+      },
+      {
+        "name": "Eliminative Materialism/Illusionism",
+        "relationship": "양립 가능"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "비판"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The computational theory of mind, Michael Rescorla",
+        "year": 2020
+      },
+      {
+        "title_with_names": "The rise of machine consciousness: studying consciousness with computational models, James Reggia",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Emperor’s New Mind - Concerning Computers, Minds, and the Law of Physics, Roger Penrose",
+        "year": 1999
+      }
+    ]
+  }
+}
