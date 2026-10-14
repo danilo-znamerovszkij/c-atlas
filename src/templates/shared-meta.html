@@ -2,12 +2,12 @@
 <meta property="og:url" content="https://www.consciousnessatlas.com" />
 <meta
   property="og:image"
-  content="https://www.consciousnessatlas.com/banner.png"
+  content="https://www.consciousnessatlas.com/banner.jpg"
 />
 <meta name="twitter:card" content="summary_large_image" />
 <meta
   name="twitter:image"
-  content="https://www.consciousnessatlas.com/banner.png"
+  content="https://www.consciousnessatlas.com/banner.jpg"
 />
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
@@ -51,7 +51,7 @@
 />
 <meta
   itemprop="image"
-  content="https://www.consciousnessatlas.com/banner.png"
+  content="https://www.consciousnessatlas.com/banner.jpg"
 />
 
 <link rel="manifest" href="/site.webmanifest" />
@@ -61,9 +61,13 @@
   href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600&display=swap"
   rel="stylesheet"
 />
+<!-- Heading font: loaded without blocking first paint (headings fall back to
+     the Bodoni/serif stack in _mixins.scss until it arrives). -->
 <link
+  rel="preload"
+  as="style"
   href="https://db.onlinewebfonts.com/c/ea7abe232611a43187af00b0f8c02258?family=Bodoni72C"
-  rel="stylesheet"
-  type="text/css"
+  onload="this.onload=null;this.rel='stylesheet'"
 />
+<noscript><link rel="stylesheet" href="https://db.onlinewebfonts.com/c/ea7abe232611a43187af00b0f8c02258?family=Bodoni72C" /></noscript>
 

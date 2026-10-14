@@ -1,3 +1,4 @@
+import { markQuale } from '@/utils/quale'
 import { baseData, getDisplayLabel, getAllTheoryNames } from '../config/chartConfig'
 import { getTheoryFullName, theoryFullNames } from '../data/theoryNames'
 import { generateSlug } from '../utils/slugUtils'
@@ -468,7 +469,7 @@ export class ItemDetailsPanel {
 
     const infoElement = this.container.querySelector('#item-info')
     if (infoElement) {
-      infoElement.innerHTML = `
+      infoElement.innerHTML = markQuale(`
         <div class="theory-content">
           <div class="theory-header">
             <h1 class="theory-title">${theoryData.id_and_class.theory_title}</h1>
@@ -758,7 +759,7 @@ export class ItemDetailsPanel {
             </div>
           </div>
         </div>
-      `
+      `)
       this.removeEmptyBlocks(infoElement)
       this.wireRelatedLinks(infoElement)
     }

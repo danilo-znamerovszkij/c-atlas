@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /api/
+Disallow: /_pages/
 
 Sitemap: https://www.consciousnessatlas.com/sitemap.xml

@@ -8,7 +8,11 @@
 //   - POST /api/submit: feedback form -> Telegram
 import { SITE_ORIGIN, AVAILABLE_LOCALES, DEFAULT_LOCALE, RTL_LOCALES, parseLocaleFromPath } from '../src/shared/site'
 import type { Locale } from '../src/shared/site'
-import { routeTheory, theoryHead, theoryArticle, categorySlugs, type TheoryRoute } from './theoryPage'
+import { markQuale } from '../src/utils/quale'
+import { groupPathFromSegments } from '../src/utils/groupPaths'
+import enTaxonomy from '../public/i18n/taxonomy/en.json'
+import { routeTheory, theoryHead, theoryArticle, type TheoryRoute } from './theoryPage'
+import { hubAsset, HUB_MARKER } from './hubs'
 
 interface Env {
   ASSETS: Fetcher
@@ -64,13 +68,30 @@ async function renderPage(request: Request, env: Env, url: URL): Promise<Respons
     return Response.redirect(`${SITE_ORIGIN}${pathWithoutLocale}`, 308)
   }
 
-  // /{category}/{theory}: server-rendered theory page (see theoryPage.ts).
   const segments = pathWithoutLocale.split('/').filter(Boolean)
+
+  // Static hub pages (categories, questions, comparisons, A–Z) generated at
+  // build by scripts/pages.js. English-only for now: locale prefixes redirect.
+  const hub = hubAsset(segments)
+  if (hub) {
+    if (locale !== DEFAULT_LOCALE) return Response.redirect(`${SITE_ORIGIN}${pathWithoutLocale}`, 308)
+    // A missing file falls back to the SPA's index.html, so check for the
+    // marker only generated hub pages carry.
+    const page = await env.ASSETS.fetch(new URL(hub, url))
+    const body = page.ok ? await page.text() : ''
+    if (body.includes(HUB_MARKER)) {
+      return new Response(body, { status: 200, headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': HTML_CACHE } })
+    }
+  }
+
+  // /{category} and /{category}/{subcategory}: the map, drilled into that group.
+  const group = !isPaper && !hub ? groupPathFromSegments(segments) : null
+
+  // /{category}/{theory}: server-rendered theory page (see theoryPage.ts).
   let theoryRoute: Extract<TheoryRoute, { kind: 'page' }> | null = null
-  // Not a page the app has: real 404 instead of a duplicate homepage. (A bare
-  // category like /materialism still serves the homepage for now.)
-  const notFound = !isPaper && (segments.length > 2 || (segments.length === 1 && !categorySlugs.has(segments[0])))
-  if (!isPaper && segments.length === 2) {
+  // Not a page the site has: real 404 instead of a duplicate homepage.
+  const notFound = !isPaper && !group && segments.length > 0 && (hub !== null || segments.length !== 2)
+  if (!isPaper && segments.length === 2 && !hub && !group) {
     const route = await routeTheory(env.ASSETS, url.origin, locale, segments[0], segments[1])
     if (route.kind === 'redirect') return Response.redirect(route.location, 301)
     theoryRoute = route
@@ -83,6 +104,19 @@ async function renderPage(request: Request, env: Env, url: URL): Promise<Respons
   const canonical = theoryRoute?.canonical ?? (path === '/' ? `${SITE_ORIGIN}/` : `${SITE_ORIGIN}${path}`)
   let html = await shell.text()
   html = html.replace(/(<link[^>]*rel="canonical"[^>]*href=")[^"]*(")/, `$1${canonical}$2`)
+
+  // Homepage: hub links and a crawlable directory of every theory (scripts/pages.js).
+  // A missing fragment comes back as the SPA shell, hence the prefix check.
+  if (!isPaper && segments.length === 0) {
+    for (const [marker, name, prefix] of [
+      [/<!--HOME_EXPLORE[^>]*-->/, 'home-explore', '<section class="atlas-explore"'],
+      [/<!--THEORY_DIRECTORY[^>]*-->/, 'home-directory', '<section class="atlas-directory"']
+    ] as const) {
+      const res = await env.ASSETS.fetch(new URL(`/_pages/${name}/${locale}`, url))
+      const fragment = res.ok ? await res.text() : ''
+      if (fragment.startsWith(prefix)) html = html.replace(marker, fragment)
+    }
+  }
 
   if (!isPaper) {
     // Theory pages list only the languages that theory exists in; a 404 lists none.
@@ -111,13 +145,26 @@ async function renderPage(request: Request, env: Env, url: URL): Promise<Respons
       html = html.replace(/"inLanguage":\s*"en"/g, `"inLanguage": "${locale}"`)
     }
 
+    if (group && locale === DEFAULT_LOCALE) {
+      const names: Record<string, string> = { ...enTaxonomy.categories, ...enTaxonomy.subcategories }
+      const name = group.map(key => names[key] ?? key).join(' › ')
+      const texts = await env.ASSETS.fetch(new URL('/categories/en.json', url))
+      const summary: string = texts.ok ? (await texts.json() as Record<string, { summary?: string }>)[group[group.length - 1]]?.summary ?? '' : ''
+      const title = `${name}: theories of consciousness on the map | Consciousness Atlas`
+      html = html.replace(/<title>[\s\S]*?<\/title>/, `<title>${escapeHtml(title)}</title>`)
+      html = html.replace(/(<meta\s+(?:property="og:title"|name="twitter:title")\s+content=")[^"]*(")/g, `$1${escapeHtml(title)}$2`)
+      if (summary) {
+        const description = summary.length > 160 ? `${summary.slice(0, summary.lastIndexOf(' ', 157))}…` : summary
+        html = html.replace(/(<meta\s+(?:name="description"|property="og:description"|name="twitter:description")\s+content=")[^"]*(")/g, `$1${escapeHtml(description)}$2`)
+      }
+    }
+
     if (theoryRoute?.theory) {
       const head = theoryHead(theoryRoute.theory, canonical, theoryRoute.leaf)
       html = html.replace(/<title>[\s\S]*?<\/title>/, `<title>${escapeHtml(head.title)}</title>`)
       html = html.replace(/(<meta\s+name="description"\s+content=")[^"]*(")/, `$1${escapeHtml(head.description)}$2`)
       html = html.replace(/(<meta\s+(?:property="og:title"|name="twitter:title")\s+content=")[^"]*(")/g, `$1${escapeHtml(head.title)}$2`)
       html = html.replace(/(<meta\s+(?:property="og:description"|name="twitter:description")\s+content=")[^"]*(")/g, `$1${escapeHtml(head.description)}$2`)
-      html = html.replace(/(<meta\s+property="og:url"\s+content=")[^"]*(")/, `$1${canonical}$2`)
       html = html.replace(/(<meta\s+property="og:type"\s+content=")[^"]*(")/, `$1article$2`)
       // Homepage-only markup (site/app JSON-LD, the About section's H1) doesn't
       // describe this page; the theory article carries the page's only H1.
@@ -125,16 +172,33 @@ async function renderPage(request: Request, env: Env, url: URL): Promise<Respons
       html = html.replace(/<script type="application\/ld\+json" data-scope="home">[\s\S]*?<\/script>/g, '')
       html = html.replace(/<h1 data-i18n="about\.heading">([\s\S]*?)<\/h1>/, '<h2 data-i18n="about.heading">$1</h2>')
       html = html.replace('</head>', `  <script type="application/ld+json">${head.jsonLd}</script>\n  </head>`)
-      html = html.replace('<div id="item-details"></div>', `<div id="item-details">${theoryArticle(theoryRoute.theory, locale)}</div>`)
+      html = html.replace('<div id="item-details"></div>', `<div id="item-details">${markQuale(theoryArticle(theoryRoute.theory, locale))}</div>`)
     } else if (theoryRoute || notFound) {
       html = html.replace('</head>', '  <meta name="robots" content="noindex" />\n  </head>')
     }
   }
 
-  return new Response(html, {
+  html = html.replace(/(<meta\s+property="og:url"\s+content=")[^"]*(")/, `$1${canonical}$2`)
+  const response = new Response(html, {
     status: notFound ? 404 : theoryRoute?.status ?? 200,
     headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': HTML_CACHE }
   })
+  if (isPaper || locale === DEFAULT_LOCALE) return response
+
+  // Translate [data-i18n] text server-side (the app does the same on boot), so
+  // crawlers see /fr etc. in French, not just the French <title>.
+  const dictResponse = await env.ASSETS.fetch(new URL(`/i18n/ui/${locale}.json`, url))
+  if (!dictResponse.ok) return response
+  const dict: Record<string, string> = await dictResponse.json()
+  return new HTMLRewriter().on('[data-i18n]', {
+    element(el) {
+      const value = dict[el.getAttribute('data-i18n') ?? '']
+      if (!value) return
+      const attr = el.getAttribute('data-i18n-attr')
+      if (attr) el.setAttribute(attr, value)
+      else el.setInnerContent(value, { html: el.hasAttribute('data-i18n-html') })
+    }
+  }).transform(response)
 }
 
 const json = (body: unknown, status = 200) =>

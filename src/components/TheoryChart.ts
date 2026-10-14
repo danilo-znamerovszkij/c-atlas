@@ -18,6 +18,8 @@ export class TheoryChart {
   private currentTheoryIndex: number = 0
   private allTheoryNames: string[] = []
   private currentPath: string[] = []
+  // openPath() steps through several levels; report only where it ends up.
+  private batching = false
 
   constructor(containerId: string, router: Router) {
     this.chartContainer = new ChartContainer(containerId)
@@ -293,6 +295,7 @@ export class TheoryChart {
   }
 
   private syncLevelBar() {
+    if (this.batching) return
     const label = this.currentPath.length === 0
       ? 'Overview'
       : getDisplayLabel(this.currentPath[this.currentPath.length - 1])
@@ -308,8 +311,15 @@ export class TheoryChart {
 
   // Drill into a category/subcategory by chart key path (e.g. from the sidebar).
   openPath(path: string[]) {
-    while (this.currentPath.length > 0) this.goBack()
-    for (const name of path) this.selectFromLevelBar(name)
+    if (path.join('/') === this.currentPath.join('/')) return
+    this.batching = true
+    try {
+      while (this.currentPath.length > 0) this.goBack()
+      for (const name of path) this.selectFromLevelBar(name)
+    } finally {
+      this.batching = false
+    }
+    this.syncLevelBar()
   }
 
   private selectFromLevelBar(name: string) {

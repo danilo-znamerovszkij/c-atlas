@@ -128,6 +128,7 @@ export class AtlasSidebar {
           <div class="category-overview-chips">
             ${subs.map(s => `<button type="button" class="category-chip" data-path="${escapeHtml(s)}">${escapeHtml(getDisplayLabel(s))}</button>`).join('')}
           </div>` : ''}
+        <p class="category-overview-page"><a href="${this.path.length > 1 ? `/theories/${generateSlug(this.path[0])}#${generateSlug(key)}` : `/theories/${generateSlug(key)}`}">${t('sidebar.category.fullPage').replace('{name}', escapeHtml(getDisplayLabel(this.path.length > 1 ? this.path[0] : key)))}</a></p>
         <h2 class="category-overview-heading">${t('sidebar.category.examples')}</h2>
         <ul class="category-overview-examples">
           ${text.examples.map(name => {

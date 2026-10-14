@@ -1,11 +1,39 @@
 import { defineConfig } from 'vite'
 import tsconfigPaths from 'vite-tsconfig-paths'
 import injectHTML from 'vite-plugin-html-inject'
+import { existsSync, readFileSync } from 'node:fs'
+import type { Plugin } from 'vite'
+import { hubAsset } from './worker/hubs'
+
+// In production the Worker serves the hub pages and fills the homepage's
+// HOME_EXPLORE/THEORY_DIRECTORY slots; do the same (English only) in dev.
+const devHubPages = (): Plugin => {
+  const read = (file: string) => (existsSync(file) ? readFileSync(file, 'utf-8') : null)
+  return {
+    name: 'dev-hub-pages',
+    apply: 'serve',
+    configureServer(server) {
+      server.middlewares.use((req, res, next) => {
+        const asset = hubAsset(new URL(req.url ?? '/', 'http://dev').pathname.split('/').filter(Boolean))
+        const html = asset && read(`public${asset}${asset.endsWith('/') ? 'index.html' : '.html'}`)
+        if (!html) return next()
+        res.setHeader('Content-Type', 'text/html; charset=utf-8')
+        res.end(html)
+      })
+    },
+    transformIndexHtml(html) {
+      return html
+        .replace(/<!--HOME_EXPLORE[^>]*-->/, read('public/_pages/home-explore/en.html') ?? '')
+        .replace(/<!--THEORY_DIRECTORY[^>]*-->/, read('public/_pages/home-directory/en.html') ?? '')
+    }
+  }
+}
 
 export default defineConfig({
   plugins: [
     tsconfigPaths(),
-    injectHTML()
+    injectHTML(),
+    devHubPages()
   ],
   server: {
     port: 8080,

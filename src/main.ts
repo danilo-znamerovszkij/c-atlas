@@ -106,14 +106,23 @@ echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
 
       new SearchBar('search-container', router)
       const chart = theoryChart
-      new AtlasTools('atlas-tools', 'theory-list', router, names => chart.applyFilter(names))
+      const tools = new AtlasTools('atlas-tools', 'theory-list', router, names => chart.applyFilter(names))
       const sidebar = new AtlasSidebar('atlas-sidebar', router, itemDetailsPanel, path => chart.openPath(path))
-      chart.setPathChangeCallback(path => sidebar.setPath(path))
+      // /materialism, /materialism/neurobiological: the URL and the chart's
+      // drill-down follow each other (the group callback fires first, for the
+      // page's own URL).
+      router.setGroupChangeCallback(path => chart.openPath(path))
+      chart.setPathChangeCallback(path => {
+        sidebar.setPath(path)
+        router.showGroup(path)
+      })
+      // ?filter= and ?view= from hub page links go to the tools.
+      tools.applyUrlParams(new URLSearchParams(window.location.search))
 
       // First visit to the home page: offer the tour (theory links skip it, the
       // reader came for that theory). The footer link replays it.
       const tour = new WelcomeTour()
-      if (!WelcomeTour.seen() && parseLocaleFromPath(window.location.pathname).pathWithoutLocale === '/') {
+      if (!WelcomeTour.seen() && !window.location.search && parseLocaleFromPath(window.location.pathname).pathWithoutLocale === '/') {
         setTimeout(() => tour.start(), 600)
       }
       setupCitation()
@@ -142,7 +151,7 @@ echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
 
       // Direct visit to /{category}/{theory} (search result, shared link): open
       // the theory full-screen; closing it reveals the atlas.
-      if (parseLocaleFromPath(window.location.pathname).pathWithoutLocale.split('/').filter(Boolean).length === 2) {
+      if (!router.isGroupUrl() && parseLocaleFromPath(window.location.pathname).pathWithoutLocale.split('/').filter(Boolean).length === 2) {
         itemDetailsPanel.showFullscreenForDirectVisit()
       }
 
@@ -250,7 +259,7 @@ echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
       if (logoContainer) {
         logoContainer.addEventListener('click', () => {
           if ((window as any).router) {
-            (window as any).router.goHome()
+            (window as any).router.goToOverview()
           }
         })
       }

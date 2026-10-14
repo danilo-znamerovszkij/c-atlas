@@ -1045,3 +1045,20 @@ body {
   color: rgba(255, 255, 255, 0.6);
   font-size: 14px;
 }
+
+// Merriam's █ notation (see src/utils/quale.ts): a black square, outlined so it
+// shows on the dark background.
+.quale-swatch {
+  display: inline-block;
+  width: 0.8em;
+  height: 0.8em;
+  vertical-align: -0.08em;
+  margin: 0 0.1em;
+  background: #000;
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  border-radius: 1px;
+  color: transparent;
+  overflow: hidden;
+  line-height: 0.8em;
+  font-style: normal;
+}

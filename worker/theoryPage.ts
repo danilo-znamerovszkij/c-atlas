@@ -16,10 +16,8 @@ import enTaxonomy from '../public/i18n/taxonomy/en.json'
 
 interface Leaf { name: string; categoryKey: string; categorySlug: string; subcategoryKey: string }
 
-export const categorySlugs = new Set<string>()
 const leafBySlug = new Map<string, Leaf>()
 for (const top of taxonomy as { name: string; children: any[] }[]) {
-  categorySlugs.add(generateSlug(top.name))
   for (const child of top.children) {
     for (const leaf of child.children ?? [child]) {
       leafBySlug.set(generateSlug(leaf.name), {
@@ -99,10 +97,35 @@ function relatedHref(name: string, locale: Locale): string | null {
   return leaf ? buildLocalizedPath(`/${leaf.categorySlug}/${slug}`, locale) : null
 }
 
+// Short names people search for, keyed by chart leaf.
+const SEARCH_ALIASES: Record<string, string> = {
+  'Penrose-Hameroff': 'Orch OR', IIT: 'IIT', 'Baars-Dehaene': 'GWT', Graziano: 'AST', Lamme: 'RPT',
+  Friston: 'Free Energy Principle', 'Crick-Koch': 'NCC', Rosenthal: 'HOT'
+}
+
+// Title for search results: the entry's title, plus its acronym and thinker
+// surnames when the title doesn't already contain them ("Analytic Idealism"
+// -> "Analytic Idealism (Kastrup)").
+export function searchTitle(theory: TheoryData, leaf: Leaf | null): string {
+  const title = theory.id_and_class.theory_title
+  const lower = title.toLowerCase()
+  const extras: string[] = []
+  const alias = leaf ? SEARCH_ALIASES[leaf.name] : undefined
+  if (alias && !lower.includes(alias.toLowerCase())) extras.push(alias)
+  const thinkers = theory.id_and_class.associated_thinkers ?? []
+  if (thinkers.length >= 1 && thinkers.length <= 2) {
+    const surnames = thinkers.map(n => n.trim().split(/\s+/).pop()!.replace(/[^\p{L}'-]/gu, '')).filter(Boolean)
+    if (surnames.length && !surnames.some(n => lower.includes(n.toLowerCase()))) extras.push(surnames.join(' & '))
+  }
+  if (!extras.length) return title
+  // "Integrated Information Theory (IIT)" -> "(IIT, Tononi & Koch)", not "(IIT) (…)"
+  return title.endsWith(')') ? `${title.slice(0, -1)}, ${extras.join(', ')})` : `${title} (${extras.join(', ')})`
+}
+
 // Head tags + JSON-LD for a theory page.
 export function theoryHead(theory: TheoryData, canonical: string, leaf: Leaf | null = null): { title: string; description: string; jsonLd: string } {
   const ic = theory.id_and_class
-  const title = `${ic.theory_title} · Consciousness Atlas`
+  const title = `${searchTitle(theory, leaf)} · Consciousness Atlas`
   const description = truncate([ic.core_identity_tagline, ic.summary].filter(Boolean).join('. ').replace(/\.\./g, '.'), 158)
   const article = {
     '@type': 'Article',

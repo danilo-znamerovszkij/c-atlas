@@ -1,4 +1,6 @@
 import { writeFileSync, existsSync, readFileSync, mkdirSync } from "fs";
+import { execSync } from "child_process";
+import { buildPages } from "./pages.js";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 
@@ -98,45 +100,68 @@ function hreflangBlock(baseUrl, pathWithoutLocale, locales) {
   return links.join("\n");
 }
 
-function generateSitemap(baseUrl, locales) {
-  const theories = extractTheories();
-
-  const urlEntries = [];
-
-  // Home page - localized, one <url> per shipped locale plus hreflang siblings.
-  for (const locale of locales) {
-    urlEntries.push(`  <url>
-    <loc>${baseUrl}${localizedPath("/", locale)}</loc>
-${hreflangBlock(baseUrl, "/", locales)}
-  </url>`);
+// Last commit date per file under public/ (one git call). Builds without git
+// history (or a shallow clone) just omit <lastmod>.
+function gitLastModified() {
+  const dates = new Map();
+  try {
+    const log = execSync("git log --format=@%cI --name-only -- public/data public/categories src/content", {
+      cwd: join(__dirname, ".."), encoding: "utf-8", maxBuffer: 64 * 1024 * 1024,
+    });
+    let current = null;
+    for (const line of log.split("\n")) {
+      if (line.startsWith("@")) current = line.slice(1, 11);
+      else if (line && current && !dates.has(line)) dates.set(line, current);
+    }
+  } catch {
+    // no git available
   }
+  return dates;
+}
 
-  // /paper is explicitly out of i18n scope: single URL, no locale variants, no hreflang.
-  urlEntries.push(`  <url>
-    <loc>${baseUrl}/paper</loc>
-  </url>`);
+// One sitemap per locale plus a sitemap index (sitemap.xml), so Search
+// Console reports indexing per language. Hub pages (scripts/pages.js) are
+// English-only and go in the English sitemap.
+function generateSitemaps(baseUrl, locales, hubPaths) {
+  const theories = extractTheories();
+  const modified = gitLastModified();
+  const latest = [...modified.values()].sort().pop();
+  const urlEntry = (loc, alternates, lastmod) => `  <url>
+    <loc>${loc}</loc>${lastmod ? `\n    <lastmod>${lastmod}</lastmod>` : ""}${alternates ? `\n${alternates}` : ""}
+  </url>`;
+  const byLocale = Object.fromEntries(locales.map((l) => [l, []]));
 
-  // Theory pages - localized, one <url> per shipped locale plus hreflang siblings.
+  for (const locale of locales) {
+    byLocale[locale].push(urlEntry(`${baseUrl}${localizedPath("/", locale)}`, hreflangBlock(baseUrl, "/", locales), latest));
+  }
+  byLocale[DEFAULT_LOCALE].push(urlEntry(`${baseUrl}/paper`));
+  for (const path of hubPaths) byLocale[DEFAULT_LOCALE].push(urlEntry(`${baseUrl}${path}`, "", latest));
+
   // A locale is listed only when that theory has a translated file - untranslated
   // theories fall back to English at runtime, which would be duplicate content.
   for (const { category, theory, stem } of theories) {
     const pathWithoutLocale = `/${category}/${theory}`;
     const theoryLocales = locales.filter(
-      (locale) =>
-        locale === DEFAULT_LOCALE ||
-        existsSync(join(publicDir, "data", locale, `${stem}.json`))
+      (locale) => locale === DEFAULT_LOCALE || existsSync(join(publicDir, "data", locale, `${stem}.json`))
     );
     for (const locale of theoryLocales) {
-      urlEntries.push(`  <url>
-    <loc>${baseUrl}${localizedPath(pathWithoutLocale, locale)}</loc>
-${hreflangBlock(baseUrl, pathWithoutLocale, theoryLocales)}
-  </url>`);
+      const file = locale === DEFAULT_LOCALE ? `public/data/${stem}.json` : `public/data/${locale}/${stem}.json`;
+      byLocale[locale].push(urlEntry(`${baseUrl}${localizedPath(pathWithoutLocale, locale)}`, hreflangBlock(baseUrl, pathWithoutLocale, theoryLocales), modified.get(file)));
     }
   }
 
-  return `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-${urlEntries.join("\n")}
+  const files = {};
+  for (const locale of locales) {
+    files[`sitemap-${locale}.xml`] = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+${byLocale[locale].join("\n")}
 </urlset>`;
+  }
+  files["sitemap.xml"] = `<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${locales.map((l) => `  <sitemap><loc>${baseUrl}/sitemap-${l}.xml</loc>${latest ? `<lastmod>${latest}</lastmod>` : ""}</sitemap>`).join("\n")}
+</sitemapindex>`;
+  return { files, count: Object.values(byLocale).reduce((n, l) => n + l.length, 0) };
 }
 
 // Per-locale theory index for the list view and implications filter, which
@@ -202,13 +227,17 @@ function generateIndexes(locales) {
 const baseUrl = process.env.SITE_URL || "https://www.consciousnessatlas.com";
 const publicDir = join(__dirname, "..", "public");
 const shippedLocales = getShippedLocales(publicDir);
-const sitemap = generateSitemap(baseUrl, shippedLocales);
 
-const sitemapPath = join(publicDir, "sitemap.xml");
-
-writeFileSync(sitemapPath, sitemap, "utf-8");
-console.log(`Sitemap generated at ${sitemapPath}`);
-console.log(`Shipped locales: ${shippedLocales.join(", ")}`);
-console.log(`Total URLs: ${(sitemap.match(/<url>/g) || []).length}`);
-
+// Order matters: the hub pages read the theory index's translations manifest,
+// and the sitemap lists the hub pages.
 generateIndexes(shippedLocales);
+const hubPaths = buildPages({
+  root: join(__dirname, ".."), publicDir, baseData, generateSlug, resolveTheoryFileStem,
+  locales: shippedLocales, defaultLocale: DEFAULT_LOCALE,
+  buildLocalizedPath: (path, locale) => localizedPath(path, locale),
+});
+console.log(`Hub pages: ${hubPaths.length} -> ${join(publicDir, "_pages")}`);
+
+const { files, count } = generateSitemaps(baseUrl, shippedLocales, hubPaths);
+for (const [name, xml] of Object.entries(files)) writeFileSync(join(publicDir, name), xml, "utf-8");
+console.log(`Sitemaps: ${Object.keys(files).length} files, ${count} URLs (shipped locales: ${shippedLocales.join(", ")})`);

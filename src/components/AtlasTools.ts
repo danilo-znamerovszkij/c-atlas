@@ -1,3 +1,4 @@
+import { markQuale } from '@/utils/quale'
 import { t, getCurrentLocale } from '@/utils/i18n'
 import { getDisplayLabel, baseData } from '@/config/chartConfig'
 import { generateSlug } from '@/utils/slugUtils'
@@ -32,17 +33,20 @@ const LIKELIHOOD: [string, string[]][] = [
   ['no', ['Unlikely', 'No']]
 ]
 
-const QUESTIONS: { key: Question; label: string; buckets: [string, string[]][] }[] = [
-  { key: 'ai', label: 'itemDetails.implications.aiConsciousness', buckets: LIKELIHOOD },
-  { key: 'survival', label: 'itemDetails.implications.survivalBeyondDeath', buckets: LIKELIHOOD },
+// page: the /questions/{page} hub (scripts/pages.js) explaining that question.
+const QUESTIONS: { key: Question; label: string; page: string; buckets: [string, string[]][] }[] = [
+  { key: 'ai', label: 'itemDetails.implications.aiConsciousness', page: 'ai-consciousness', buckets: LIKELIHOOD },
+  { key: 'survival', label: 'itemDetails.implications.survivalBeyondDeath', page: 'life-after-death', buckets: LIKELIHOOD },
   {
     key: 'meaning',
     label: 'itemDetails.implications.meaningPurpose',
+    page: 'meaning-and-purpose',
     buckets: [['cosmic', ['Cosmic/Ultimate']], ['humanistic', ['Humanistic only']], ['uncertain', ['Uncertain']]]
   },
   {
     key: 'virtual',
     label: 'itemDetails.implications.virtualImmortality',
+    page: 'mind-uploading',
     buckets: [...LIKELIHOOD, ['notNeeded', ['Not needed']]]
   }
 ]
@@ -108,7 +112,7 @@ export class AtlasTools {
       <div class="filter-panel" id="filter-panel" hidden>
         ${QUESTIONS.map(q => `
           <div class="filter-group" role="group" aria-label="${escapeHtml(t(q.label))}">
-            <div class="filter-question">${t(q.label)}</div>
+            <div class="filter-question">${t(q.label)}<a class="filter-learn" href="/questions/${q.page}">${t('tools.filter.learn')}</a></div>
             <div class="filter-chips">
               ${q.buckets.map(([bucket]) => `
                 <button type="button" class="filter-chip" data-question="${q.key}" data-bucket="${bucket}" aria-pressed="false">${t(`tools.stance.${bucket}`)}</button>
@@ -135,13 +139,8 @@ export class AtlasTools {
     const panel = this.root.querySelector<HTMLElement>('.filter-panel')!
     toggle.addEventListener('click', () => {
       const open = panel.hidden
-      panel.hidden = !open
-      toggle.setAttribute('aria-expanded', String(open))
-      if (open) {
-        analytics.trackClick('filter_open')
-        this.loadIndex().then(() => this.updateResult())
-        this.updateResult()
-      }
+      this.setFilterPanel(open)
+      if (open) analytics.trackClick('filter_open')
     })
 
     this.root.querySelectorAll<HTMLButtonElement>('.filter-chip').forEach(chip =>
@@ -162,6 +161,31 @@ export class AtlasTools {
       this.selected = {}
       this.applyFilter()
     })
+  }
+
+  private setFilterPanel(open: boolean) {
+    const toggle = this.root.querySelector<HTMLButtonElement>('.filter-toggle')!
+    this.root.querySelector<HTMLElement>('.filter-panel')!.hidden = !open
+    toggle.setAttribute('aria-expanded', String(open))
+    if (open) {
+      this.loadIndex().then(() => this.updateResult())
+      this.updateResult()
+    }
+  }
+
+  // Deep links from the hub pages: ?filter=ai:yes[,survival:no] and ?view=list
+  applyUrlParams(params: URLSearchParams) {
+    for (const part of (params.get('filter') || '').split(',')) {
+      const [question, bucket] = part.split(':')
+      const known = QUESTIONS.find(q => q.key === question)?.buckets.some(([b]) => b === bucket)
+      if (known) this.selected[question as Question] = bucket
+    }
+    if (this.hasFilter()) {
+      this.applyFilter()
+      // Show which filter is on; on phones the panel would cover the map.
+      if (window.innerWidth > 768) this.setFilterPanel(true)
+    }
+    if (params.get('view') === 'list') this.setView('list')
   }
 
   private matches(entry: IndexEntry): boolean {
@@ -253,12 +277,12 @@ export class AtlasTools {
       `
     }).join('')
 
-    this.list.innerHTML = `
+    this.list.innerHTML = markQuale(`
       <div class="theory-list-inner">
         <p class="theory-list-status" aria-live="polite">${heading}</p>
         ${sections || `<p class="theory-list-empty">${t('tools.filter.none')}</p>`}
       </div>
-    `
+    `)
 
     this.list.querySelectorAll<HTMLAnchorElement>('a[data-theory]').forEach(link =>
       link.addEventListener('click', event => {

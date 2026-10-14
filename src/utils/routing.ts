@@ -6,6 +6,7 @@ import { t } from './i18n'
 import { versioned } from './versioned'
 import analytics from './analytics'
 import { getAllTheoryNames } from '../config/chartConfig'
+import { groupPathFromSegments, groupUrlPath } from './groupPaths'
 
 const theoryCache = new Map<string, TheoryData>()
 
@@ -41,6 +42,9 @@ export class Router {
   private currentLocale: Locale = DEFAULT_LOCALE
   private onTheoryChange: ((theory: TheoryData | null, error?: string) => void) | null = null
   private onLoading: ((category: string, theory: string) => void) | null = null
+  private onGroupChange: ((path: string[]) => void) | null = null
+  // Category/subcategory the URL last put the chart in (/, /materialism, ...).
+  private groupPath: string[] = []
 
   private constructor() {
     this.setupPopstateListener()
@@ -60,6 +64,13 @@ export class Router {
 
   public setLoadingCallback(callback: (category: string, theory: string) => void) {
     this.onLoading = callback
+  }
+
+  // Called with the chart path when the URL names a category/subcategory (or
+  // '/'), including right away for the page's own URL.
+  public setGroupChangeCallback(callback: (path: string[]) => void) {
+    this.onGroupChange = callback
+    if (this.groupPath.length) callback([...this.groupPath])
   }
 
   private setupPopstateListener() {
@@ -86,8 +97,14 @@ export class Router {
     const { locale, pathWithoutLocale } = parseLocaleFromPath(path)
     this.currentLocale = locale
     const segments = pathWithoutLocale.split('/').filter(segment => segment.length > 0)
+    const group = segments.length ? groupPathFromSegments(segments) : []
 
-    if (segments.length >= 2) {
+    if (group) {
+      this.groupPath = group
+      this.currentTheory = null
+      this.onTheoryChange?.(null)
+      this.onGroupChange?.([...group])
+    } else if (segments.length >= 2) {
       const category = segments[0]
       const theory = segments[1]
 
@@ -126,7 +143,28 @@ export class Router {
     return this.currentTheory
   }
 
+  public isGroupUrl(): boolean {
+    const segments = parseLocaleFromPath(window.location.pathname).pathWithoutLocale.split('/').filter(Boolean)
+    return groupPathFromSegments(segments) !== null
+  }
+
+  // The chart moved to another category/subcategory: give it its own URL, so
+  // Back steps up a level and the link can be shared.
+  public showGroup(path: string[]) {
+    if (path.join('/') === this.groupPath.join('/')) return
+    this.groupPath = [...path]
+    this.currentTheory = null
+    window.history.pushState({}, '', buildLocalizedPath(groupUrlPath(path), this.currentLocale))
+    this.updateCanonicalLink()
+  }
+
+  // Closing a theory returns to the part of the map it was opened from.
   public goHome() {
+    window.history.pushState({}, '', buildLocalizedPath(groupUrlPath(this.groupPath), this.currentLocale))
+    this.parseCurrentURL()
+  }
+
+  public goToOverview() {
     window.history.pushState({}, '', buildLocalizedPath('/', this.currentLocale))
     this.parseCurrentURL()
   }
