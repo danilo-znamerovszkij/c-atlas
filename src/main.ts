@@ -7,12 +7,13 @@ import { TheoryChart } from '@/components/TheoryChart'
 import { SearchBar } from '@/components/SearchBar'
 import { AtlasTools } from '@/components/AtlasTools'
 import { AtlasSidebar } from '@/components/AtlasSidebar'
+import { WelcomeTour } from '@/components/WelcomeTour'
 import { FormPopup } from '@/components/FormPopup'
 import { LanguagePopup } from '@/components/LanguagePopup'
 import { Router } from '@/utils/routing'
 import globalState from '@/utils/globalState'
 import analytics from '@/utils/analytics'
-import { initI18n } from '@/utils/i18n'
+import { initI18n, t } from '@/utils/i18n'
 import { parseLocaleFromPath } from '@/shared/site'
 
 import './components/ItemDetailsPanel.scss'
@@ -109,6 +110,20 @@ echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
       const sidebar = new AtlasSidebar('atlas-sidebar', router, itemDetailsPanel, path => chart.openPath(path))
       chart.setPathChangeCallback(path => sidebar.setPath(path))
 
+      // First visit to the home page: offer the tour (theory links skip it, the
+      // reader came for that theory). The footer link replays it.
+      const tour = new WelcomeTour()
+      if (!WelcomeTour.seen() && parseLocaleFromPath(window.location.pathname).pathWithoutLocale === '/') {
+        setTimeout(() => tour.start(), 600)
+      }
+      setupCitation()
+
+      document.getElementById('start-tour')?.addEventListener('click', event => {
+        event.preventDefault()
+        window.scrollTo({ top: 0, behavior: 'smooth' })
+        tour.start()
+      })
+
       router.setLoadingCallback((category, theory) => {
         itemDetailsPanel.showLoading(category, theory)
       })
@@ -124,6 +139,12 @@ echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
       })
 
       itemDetailsPanel.setCloseCallback(() => router.goHome())
+
+      // Direct visit to /{category}/{theory} (search result, shared link): open
+      // the theory full-screen; closing it reveals the atlas.
+      if (parseLocaleFromPath(window.location.pathname).pathWithoutLocale.split('/').filter(Boolean).length === 2) {
+        itemDetailsPanel.showFullscreenForDirectVisit()
+      }
 
       const feedbackButton = document.getElementById('feedback-button')
       if (feedbackButton) {
@@ -298,3 +319,37 @@ echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
     checkChartReady()
   }
 })()
+
+// "How to Cite": fill the accessed date (every locale's text has one [..]
+// placeholder) and copy the citation with one click.
+function setupCitation() {
+  const text = document.getElementById('cite-text')
+  const button = document.getElementById('cite-copy')
+  if (!text || !button) return
+  const accessed = new Intl.DateTimeFormat(document.documentElement.lang || 'en', { day: 'numeric', month: 'long', year: 'numeric' }).format(new Date())
+  text.textContent = (text.textContent || '').trim().replace(/\[[^\]]+\]/, accessed)
+
+  const label = button.querySelector('span')!
+  let reset: number | undefined
+  button.addEventListener('click', async () => {
+    const citation = text.textContent || ''
+    try {
+      await navigator.clipboard.writeText(citation)
+    } catch {
+      // Clipboard API blocked: select the text so Cmd/Ctrl+C works.
+      const range = document.createRange()
+      range.selectNodeContents(text)
+      window.getSelection()?.removeAllRanges()
+      window.getSelection()?.addRange(range)
+      return
+    }
+    analytics.trackClick('cite_copy')
+    button.classList.add('copied')
+    label.textContent = t('about.footer.citeCopied')
+    clearTimeout(reset)
+    reset = window.setTimeout(() => {
+      button.classList.remove('copied')
+      label.textContent = t('about.footer.citeCopy')
+    }, 2000)
+  })
+}

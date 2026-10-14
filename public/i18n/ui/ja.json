@@ -1,59 +1,45 @@
 {
   "chartLoader.text": "チャートを読み込んでいます…",
-
   "nav.feedback": "フィードバック",
   "nav.about.tooltip": "概要",
   "nav.github.alt": "GitHub のスター数",
-
   "sourceCitation.text": "出典：Landscape of Consciousness（Kuhn, 2024）",
   "sourceCitation.kuhnCitation": "Robert Lawrence Kuhn. \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. Progress in Biophysics and Molecular Biology, Volume 190, 2024, Pages 28-169.\"",
   "sourceCitation.landscapeLink": "Landscape of Consciousness",
-
   "about.heading": "Consciousness Atlas",
   "about.subtitle": "Landscape of Consciousness の可視化",
-  "about.intro.html": "Consciousness Atlas は、325 を超える意識の理論を可視化するインタラクティブなウェブアプリケーションです。Robert Lawrence Kuhn による 2024 年の論文 <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a> にもとづいています。本 Atlas は、現象的意識——赤の赤さのような、経験の主観的な感じ——を扱う諸理論を地図化します。",
-
+  "about.intro.html": "Consciousness Atlas は、450 を超える意識の理論を可視化するインタラクティブなウェブアプリケーションです。Robert Lawrence Kuhn による 2024 年の論文 <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a> にもとづいています。本 Atlas は、現象的意識——赤の赤さのような、経験の主観的な感じ——を扱う諸理論を地図化します。",
   "about.whatIs.title": "Atlas とは何か",
   "about.whatIs.body": "Atlas は、Kuhn の分類学の上に築かれた視覚的なレファレンスです。理論の全体を一度に提示することで、この分野を視覚的に探索し、いずれの理論も開いてその項目を読むことができます——構造化された項目をもつ百科事典のようなものです。各理論の項目は、簡潔な同定の一文、概念的基盤、想定されるメカニズム、経験的な覚え書き、含意、そして出典を示します。",
-
   "about.why.title": "本プロジェクトの意義",
   "about.why.body": "意識は、神経科学、哲学、そして時には霊的あるいは異常状態の研究など、複数の分野にまたがって研究されています。Kuhn の論文は、最も物理的なものから最も物理的でないものへと至るスペクトルに沿って、数百の理論を収集し整理しています。Atlas はその整理を視覚的な形にすることで、読者、学生、研究者が、異なる立場がどのように関連し合い、各理論がスペクトル上のどこに位置するのかを、すばやく見て取れるようにします。",
-
   "about.how.title": "しくみ",
   "about.how.body": "諸理論は、物理的から非物理的へのスペクトル上の立場にしたがって配列された、十の主要なカテゴリーに分類されています。カテゴリーの例には、唯物論、非還元的物理主義、機能主義、量子論的理論、汎心論、一元論、二元論、観念論、異常状態、そしてチャレンジ理論があります。本アプリは地図の全体を一度に表示します。いずれかの理論をクリックすると、標準的な出典や名の挙がる思想家への参照を含む、その構造化された項目を読むことができます。",
-
   "about.audience.title": "対象とする読者",
   "about.audience.item1": "心の哲学と認知科学を学ぶ学生",
   "about.audience.item2": "一覧できる比較資料を求める研究者や講師",
   "about.audience.item3": "諸立場の幅広さについて手早く参照したいジャーナリストや書き手",
   "about.audience.item4": "人々が意識について語るとき何を意味しているのかを明確に見渡したい、好奇心のある読者",
-
   "about.notDo.title": "Atlas が行わないこと",
   "about.notDo.body": "Atlas は理論を是認したり順位づけたりしません。それは Kuhn の分類学にもとづく可視化かつレファレンスであり——収集し提示するものであって、判定するものではありません。意識のハードプロブレムに決着をつけようとするものでもありません。探索と比較のための道具です。",
-
   "about.kuhnNote.title": "Kuhn からの注記",
   "about.kuhnNote.body1": "Kuhn はこのプロジェクトの目的を明示的に述べています——「評価し裁定するのではなく、収集し分類する」。Consciousness Atlas はその方針に従います。データと構造は Kuhn の論文から導かれています。フィードバックや修正の提案は歓迎しますが、本アプリは Kuhn の業績の上に重ねられた可視化の層です。",
   "about.kuhnNote.body2": "Kuhn は、その唯一の典拠となる元の論文「A Landscape of Consciousness」を除いて、Consciousness Atlas の設計や内容には関与していません。",
-
   "about.landscapeWebsite.title": "Landscape of Consciousness ウェブサイト",
   "about.landscapeWebsite.body.html": "<a href=\"https://loc.closertotruth.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape of Consciousness ウェブサイト</a>は、Robert Lawrence Kuhn の論文「A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications」の重要な拡張、拡充、そして更新です。Landscape of Consciousness ウェブサイトには 350 を超える意識の理論が収められており、五つの方法でアクセスできます——<a href=\"https://loc.closertotruth.com/consciousness-theories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Grid</a>、<a href=\"https://loc.closertotruth.com/all-consciousness-categories-and-subcategories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Categories</a>、<a href=\"https://loc.closertotruth.com/all-consciousness-categories-subcategories-and-theories\" target=\"_blank\" rel=\"noopener noreferrer\">All Landscape Theories</a>、<a href=\"https://loc.closertotruth.com/map\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Map</a>、<a href=\"https://loc.closertotruth.com/interactive\" target=\"_blank\" rel=\"noopener noreferrer\">Interactive Visualizations</a>。Landscape of Consciousness は——恒久的に——進行中の作業です。",
-
   "about.faq.title": "よくある質問",
   "about.faq.q1": "現象的意識とは何ですか。",
   "about.faq.a1": "現象的意識とは主観的経験を指します——コーヒーの味わいや赤の赤さのような、気づいていることの質的な感じです。",
   "about.faq.q2": "Atlas はいくつの理論を収録していますか。",
-  "about.faq.a2": "Atlas は、十の広範なカテゴリーに分類された 220 を超える個々の理論を可視化します。",
+  "about.faq.a2": "Atlas は、十の広範なカテゴリーに分類された 450 を超える個々の理論を可視化します。",
   "about.faq.q3": "Atlas はどの理論が正しいかを示しますか。",
   "about.faq.a3": "いいえ。Atlas は理論を中立的に提示します。それは地図であって、いずれか一つの立場を擁護する論証ではありません。",
   "about.faq.q4": "Atlas は学術的ですか。",
   "about.faq.a4": "Atlas は学術的な典拠——Robert Kuhn による 2024 年の論文「A Landscape of Consciousness」——にもとづいており、可能な場合には標準的な出典へのリンクを備えています。",
-
   "about.related.title": "関連する読み物",
   "about.related.body.html": "Atlas は、統合情報理論、グローバル・ワークスペース理論、汎心論的な提案、量子論的な着想、そして古典的な思想家による歴史的な立場を含め、哲学と神経科学にわたる標準的な研究を参照しています。元の学術的な文脈については、ScienceDirect にある Kuhn の論文をご覧ください——<a href=\"/paper.html\">A Landscape of Consciousness</a>。",
-
   "about.summary.title": "要約",
   "about.summary.body": "Consciousness Atlas は明快な可視化の道具です。Kuhn の分類学を単一の探索可能な地図として提示し、利用者が個々の理論の項目を開いて、構造化され出典の付された要約を読めるようにします。この複雑な分野をより見渡しやすくし、実用的なレファレンスとして役立つよう設計されています。",
-
   "about.footer.ariaLabel": "プロジェクトの情報と帰属表示",
   "about.footer.creatorTitle": "制作者について",
   "about.footer.creatorBody.html": "ConsciousnessAtlas.com は、インタラクティブなツールやデータ可視化の構築経験をもつフロントエンドエンジニア、Danilo Znamerovszkij（<a href=\"https://www.linkedin.com/in/danilo-znamerovszkij-56a435156/\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a>）による独立したプロジェクトです。本プロジェクトは、意識研究、心の哲学、そして複雑な理論的風景をソフトウェアによっていかに見通しやすくできるかへの、長年にわたる関心を反映しています。",
@@ -64,7 +50,6 @@
   "about.footer.scopeTitle": "範囲",
   "about.footer.scopeBody": "本プロジェクトは、探索的かつ教育的な資料として意図されています。特定の意識の理論を主張するものではなく、権威ある科学的分類として解釈されるべきものではありません。",
   "about.footer.linksLabel": "リンク：",
-
   "form.title": "フィードバックを送る",
   "form.closeAriaLabel": "フォームを閉じる",
   "form.nameLabel": "名前（任意）",
@@ -82,24 +67,20 @@
   "form.errors.messageRequired": "メッセージを入力してください",
   "form.errors.sendFailedRetry": "メッセージの送信に失敗しました。もう一度お試しください。",
   "form.success": "メッセージを送信しました。",
-
   "searchBar.placeholder": "理論を検索…",
   "searchBar.ariaLabel": "理論を検索",
   "searchBar.resultsAriaLabel": "検索結果",
-
   "itemDetails.closePanel": "パネルを閉じる",
   "itemDetails.welcome": "チャートから項目を選び、その謎を探索してください",
   "itemDetails.error.title": "エラー",
   "itemDetails.error.heading": "理論の読み込みに失敗しました",
   "itemDetails.loading.heading": "理論データを読み込んでいます…",
   "itemDetails.loading.body": "詳細情報を取得しています。しばらくお待ちください。",
-
   "itemDetails.sections.conceptualGround": "I. 概念的基盤",
   "itemDetails.sections.mechanismDynamics": "II. メカニズムと動態",
   "itemDetails.sections.empiricsCritiques": "III. 経験的知見と批判",
   "itemDetails.sections.implications": "IV. 含意",
   "itemDetails.sections.relationsSources": "V. 関連と出典",
-
   "itemDetails.fields.explanatoryIdentityClaim": "説明的同一性の主張",
   "itemDetails.fields.mindBodyRelationship": "心身関係",
   "itemDetails.fields.subjectivityIntentionality": "主観性と志向性",
@@ -110,7 +91,6 @@
   "itemDetails.fields.primitiveOrEmergentStatus": "原初的または創発的な地位",
   "itemDetails.fields.emergenceType": "創発の類型",
   "itemDetails.fields.ontologicalStatus": "存在論的地位",
-
   "itemDetails.fields.scopeOfConsciousness": "意識の範囲",
   "itemDetails.fields.distinctiveMechanism": "独自のメカニズムまたは原理",
   "itemDetails.fields.dynamicsOfEmergence": "創発の動態",
@@ -121,27 +101,25 @@
   "itemDetails.fields.evolutionaryAccount": "進化論的説明",
   "itemDetails.fields.coreClaimsEvidence": "中心的主張と証拠",
   "itemDetails.fields.basisOfBelief": "信念の基盤または証拠の類型",
-
   "itemDetails.fields.testabilityStatus": "検証可能性の状態",
   "itemDetails.fields.knownEmpiricalTests": "既知の経験的介入または検証",
   "itemDetails.fields.criticismsTensions": "批判と緊張",
   "itemDetails.fields.openQuestionsLimitations": "未解決の問いと限界",
   "itemDetails.fields.ontologicalCoherence": "存在論的整合性",
-
   "itemDetails.fields.relatedTheories": "関連する理論",
   "itemDetails.fields.classification": "分類",
   "itemDetails.fields.sourcesReferences": "出典と参考文献",
-
   "itemDetails.implications.aiConsciousness": "AI の意識",
   "itemDetails.implications.survivalBeyondDeath": "死後の存続",
   "itemDetails.implications.meaningPurpose": "意味と目的",
   "itemDetails.implications.virtualImmortality": "仮想的不死",
-
   "misc.unknown": "不明",
   "misc.unknownError": "不明なエラー",
-
   "nav.language.ariaLabel": "言語を選択",
   "languagePopup.title": "言語を選択",
   "languagePopup.subtitle": "ご希望の言語を選択してください",
-  "languagePopup.closeAriaLabel": "言語セレクターを閉じる"
+  "languagePopup.closeAriaLabel": "言語セレクターを閉じる",
+  "about.footer.support": "プロジェクトを支援する",
+  "about.footer.citeCopy": "コピー",
+  "about.footer.citeCopied": "コピーしました"
 }

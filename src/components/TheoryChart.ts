@@ -23,6 +23,10 @@ export class TheoryChart {
     this.chartContainer = new ChartContainer(containerId)
     this.router = router
     this.itemDetailsPanel = new ItemDetailsPanel('item-details')
+    this.itemDetailsPanel.setNavigator({
+      openTheory: (category, slug) => this.router.navigateToTheory(category, slug),
+      openPath: path => this.openPath(path)
+    })
     this.levelBar = new ChartLevelBar('chart-level-bar', {
       onSelect: (name) => this.selectFromLevelBar(name),
       onBack: () => this.goBack()

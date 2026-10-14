@@ -8,7 +8,7 @@
   "sourceCitation.landscapeLink": "Landscape of Consciousness",
   "about.heading": "El Consciousness Atlas",
   "about.subtitle": "Visualizando el Landscape of Consciousness",
-  "about.intro.html": "El Consciousness Atlas es una aplicación web interactiva que visualiza más de 325 teorías de la conciencia. Se basa en el artículo de 2024 de Robert Lawrence Kuhn, <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a>. El Atlas representa teorías que abordan la conciencia fenoménica - la sensación subjetiva de la experiencia, como lo rojo del rojo.",
+  "about.intro.html": "El Consciousness Atlas es una aplicación web interactiva que visualiza más de 450 teorías de la conciencia. Se basa en el artículo de 2024 de Robert Lawrence Kuhn, <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a>. El Atlas representa teorías que abordan la conciencia fenoménica - la sensación subjetiva de la experiencia, como lo rojo del rojo.",
   "about.whatIs.title": "Qué es el Atlas",
   "about.whatIs.body": "El Atlas es una referencia visual construida sobre la taxonomía de Kuhn. Presenta el conjunto completo de teorías a la vez para que pueda explorar el campo visualmente y abrir cualquier teoría para leer su entrada, como una enciclopedia con entradas estructuradas. Cada entrada de teoría muestra una línea de identidad concisa, el fundamento conceptual, el mecanismo sugerido, notas empíricas, implicaciones y fuentes.",
   "about.why.title": "Por qué existe este proyecto",
@@ -31,7 +31,7 @@
   "about.faq.q1": "¿Qué es la conciencia fenoménica?",
   "about.faq.a1": "La conciencia fenoménica se refiere a la experiencia subjetiva - la sensación cualitativa de estar consciente, como el sabor del café o lo rojo del rojo.",
   "about.faq.q2": "¿Cuántas teorías incluye el Atlas?",
-  "about.faq.a2": "El Atlas visualiza más de 220 teorías individuales, agrupadas en diez categorías generales.",
+  "about.faq.a2": "El Atlas visualiza más de 450 teorías individuales, agrupadas en diez categorías generales.",
   "about.faq.q3": "¿El Atlas indica cuál teoría es verdadera?",
   "about.faq.a3": "No. El Atlas presenta las teorías de manera neutral. Es un mapa, no un argumento a favor de una única postura.",
   "about.faq.q4": "¿Es el Atlas un recurso académico?",
@@ -115,9 +115,11 @@
   "itemDetails.implications.virtualImmortality": "Inmortalidad Virtual",
   "misc.unknown": "Desconocido",
   "misc.unknownError": "Error desconocido",
-
   "nav.language.ariaLabel": "Elegir idioma",
   "languagePopup.title": "Elegir idioma",
   "languagePopup.subtitle": "Selecciona tu idioma preferido",
-  "languagePopup.closeAriaLabel": "Cerrar selector de idioma"
+  "languagePopup.closeAriaLabel": "Cerrar selector de idioma",
+  "about.footer.support": "Apoya el proyecto",
+  "about.footer.citeCopy": "Copiar",
+  "about.footer.citeCopied": "Copiado"
 }

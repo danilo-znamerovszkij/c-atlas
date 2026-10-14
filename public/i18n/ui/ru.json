@@ -1,59 +1,45 @@
 {
   "chartLoader.text": "Загрузка диаграммы...",
-
   "nav.feedback": "Обратная связь",
   "nav.about.tooltip": "О проекте",
   "nav.github.alt": "Звёзды на GitHub",
-
   "sourceCitation.text": "Источник: Landscape of Consciousness (Kuhn, 2024)",
   "sourceCitation.kuhnCitation": "Robert Lawrence Kuhn. \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. Progress in Biophysics and Molecular Biology, Volume 190, 2024, Pages 28-169.\"",
   "sourceCitation.landscapeLink": "Landscape of Consciousness",
-
   "about.heading": "The Consciousness Atlas",
   "about.subtitle": "Визуализация Landscape of Consciousness",
-  "about.intro.html": "Consciousness Atlas — это интерактивное веб-приложение, визуализирующее более 325 теорий сознания. Оно основано на работе Роберта Лоуренса Куна 2024 года <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">«A Landscape of Consciousness»</a>. Atlas отображает теории, посвящённые феноменальному сознанию — субъективному переживанию опыта, например красноте красного.",
-
+  "about.intro.html": "Consciousness Atlas — это интерактивное веб-приложение, визуализирующее более 450 теорий сознания. Оно основано на работе Роберта Лоуренса Куна 2024 года <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">«A Landscape of Consciousness»</a>. Atlas отображает теории, посвящённые феноменальному сознанию — субъективному переживанию опыта, например красноте красного.",
   "about.whatIs.title": "Что представляет собой Atlas",
   "about.whatIs.body": "Atlas — это визуальный справочник, построенный на таксономии Куна. Он представляет весь набор теорий одновременно, чтобы вы могли исследовать эту область визуально и открыть любую теорию для чтения её статьи, подобно энциклопедии со структурированными статьями. Каждая статья о теории содержит краткую идентификационную строку, концептуальную основу, предполагаемый механизм, эмпирические замечания, следствия и источники.",
-
   "about.why.title": "Зачем это существует",
   "about.why.body": "Сознание изучается в различных дисциплинах — нейронауке, философии, а иногда и в исследованиях духовных или аномальных состояний. Работа Куна собирает и упорядочивает сотни теорий вдоль спектра от наиболее физических до наименее физических. Atlas придаёт этому упорядочению визуальную форму, чтобы читатели, студенты и исследователи могли быстро увидеть, как соотносятся различные позиции и где каждая теория располагается на этом спектре.",
-
   "about.how.title": "Как это работает",
   "about.how.body": "Теории сгруппированы в десять основных категорий, упорядоченных по их позиции на спектре от физического к нефизическому. Примеры категорий включают материализм, нередуктивный физикализм, функционализм, теории на квантовой основе, панпсихизм, монизм, дуализм, идеализм, аномальные состояния и теории-возражения. Приложение показывает всю карту сразу. Нажмите на любую теорию, чтобы прочитать её структурированную статью, включающую ссылки на канонические источники и названных мыслителей.",
-
   "about.audience.title": "Для кого это",
   "about.audience.item1": "Студенты, изучающие философию сознания и когнитивную науку",
   "about.audience.item2": "Исследователи и преподаватели, которым нужен наглядный сравнительный ресурс",
   "about.audience.item3": "Журналисты и авторы, которым нужен быстрый справочник по всему диапазону позиций",
   "about.audience.item4": "Любознательные читатели, желающие получить ясное представление о том, что люди имеют в виду, говоря о сознании",
-
   "about.notDo.title": "Чего Atlas не делает",
   "about.notDo.body": "Atlas не поддерживает и не ранжирует теории. Это визуализация и справочник, основанные на таксономии Куна: собрать и представить, а не судить. Он не пытается решить трудную проблему сознания. Это инструмент для исследования и сравнения.",
-
   "about.kuhnNote.title": "Замечание от Куна",
   "about.kuhnNote.body1": "Кун прямо формулирует цель проекта: «собирать и классифицировать, а не оценивать и выносить приговор». Consciousness Atlas следует этому подходу. Данные и структура выведены из работы Куна; отзывы и предлагаемые исправления приветствуются, но приложение является слоем визуализации поверх труда Куна.",
   "about.kuhnNote.body2": "Кун не участвовал в оформлении или наполнении Consciousness Atlas, помимо своей оригинальной работы «A Landscape of Consciousness», которая является единственным источником.",
-
   "about.landscapeWebsite.title": "Веб-сайт Landscape of Consciousness",
   "about.landscapeWebsite.body.html": "<a href=\"https://loc.closertotruth.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Веб-сайт Landscape of Consciousness</a> представляет собой значительное расширение, дополнение и обновление работы Роберта Лоуренса Куна «A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications». Веб-сайт Landscape of Consciousness содержит более 350 теорий сознания, к которым можно получить доступ пятью способами: <a href=\"https://loc.closertotruth.com/consciousness-theories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Grid</a>; <a href=\"https://loc.closertotruth.com/all-consciousness-categories-and-subcategories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Categories</a>; <a href=\"https://loc.closertotruth.com/all-consciousness-categories-subcategories-and-theories\" target=\"_blank\" rel=\"noopener noreferrer\">All Landscape Theories</a>; <a href=\"https://loc.closertotruth.com/map\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Map</a>; <a href=\"https://loc.closertotruth.com/interactive\" target=\"_blank\" rel=\"noopener noreferrer\">Interactive Visualizations</a>. Landscape of Consciousness — это работа, находящаяся в развитии, — постоянно.",
-
   "about.faq.title": "Часто задаваемые вопросы",
   "about.faq.q1": "Что такое феноменальное сознание?",
   "about.faq.a1": "Феноменальное сознание относится к субъективному опыту — качественному переживанию осознанности, например вкусу кофе или красноте красного.",
   "about.faq.q2": "Сколько теорий включает Atlas?",
-  "about.faq.a2": "Atlas визуализирует более 220 отдельных теорий, сгруппированных в десять широких категорий.",
+  "about.faq.a2": "Atlas визуализирует более 450 отдельных теорий, сгруппированных в десять широких категорий.",
   "about.faq.q3": "Показывает ли Atlas, какая теория истинна?",
   "about.faq.a3": "Нет. Atlas представляет теории нейтрально. Это карта, а не аргумент в пользу какой-либо одной позиции.",
   "about.faq.q4": "Является ли Atlas академическим?",
   "about.faq.a4": "Atlas основан на академическом источнике — работе Роберта Куна 2024 года «A Landscape of Consciousness» — и содержит ссылки на канонические источники там, где они доступны.",
-
   "about.related.title": "Дополнительное чтение",
   "about.related.body.html": "Atlas ссылается на канонические исследования в области философии и нейронауки, включая теорию интегрированной информации, теорию глобального рабочего пространства, панпсихистские концепции, идеи на квантовой основе и исторические позиции классических мыслителей. Для ознакомления с оригинальным академическим контекстом см. статью Куна на ScienceDirect: <a href=\"/paper.html\">A Landscape of Consciousness</a>.",
-
   "about.summary.title": "Резюме",
   "about.summary.body": "Consciousness Atlas — это простой инструмент визуализации: он представляет таксономию Куна в виде единой исследуемой карты и позволяет пользователям открывать отдельные статьи о теориях для чтения структурированных, снабжённых ссылками сводок. Он призван облегчить обзор этой сложной области и служить практическим справочником.",
-
   "about.footer.ariaLabel": "Сведения о проекте и указание авторства",
   "about.footer.creatorTitle": "О создателе",
   "about.footer.creatorBody.html": "ConsciousnessAtlas.com — независимый проект Данило Знамеровского (<a href=\"https://www.linkedin.com/in/danilo-znamerovszkij-56a435156/\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a>), фронтенд-инженера с опытом создания интерактивных инструментов и визуализаций данных. Проект отражает давний интерес к исследованиям сознания, философии сознания и к тому, как сложные теоретические ландшафты можно сделать более удобными для навигации с помощью программного обеспечения.",
@@ -64,7 +50,6 @@
   "about.footer.scopeTitle": "Область применения",
   "about.footer.scopeBody": "Этот проект задуман как исследовательский и образовательный ресурс. Он не выступает в защиту какой-либо конкретной теории сознания и не должен интерпретироваться как авторитетная научная классификация.",
   "about.footer.linksLabel": "Ссылки:",
-
   "form.title": "Отправить отзыв",
   "form.closeAriaLabel": "Закрыть форму",
   "form.nameLabel": "Имя (необязательно)",
@@ -82,24 +67,20 @@
   "form.errors.messageRequired": "Пожалуйста, введите сообщение",
   "form.errors.sendFailedRetry": "Не удалось отправить сообщение. Пожалуйста, попробуйте ещё раз.",
   "form.success": "Сообщение успешно отправлено!",
-
   "searchBar.placeholder": "Поиск теорий...",
   "searchBar.ariaLabel": "Поиск теорий",
   "searchBar.resultsAriaLabel": "Результаты поиска",
-
   "itemDetails.closePanel": "Закрыть панель",
   "itemDetails.welcome": "Выберите элемент на диаграмме, чтобы исследовать его тайны",
   "itemDetails.error.title": "Ошибка",
   "itemDetails.error.heading": "Не удалось загрузить теорию",
   "itemDetails.loading.heading": "Загрузка данных теории...",
   "itemDetails.loading.body": "Пожалуйста, подождите, пока мы загружаем подробную информацию.",
-
   "itemDetails.sections.conceptualGround": "I. Концептуальная основа",
   "itemDetails.sections.mechanismDynamics": "II. Механизм и динамика",
   "itemDetails.sections.empiricsCritiques": "III. Эмпирические данные и критика",
   "itemDetails.sections.implications": "IV. Следствия",
   "itemDetails.sections.relationsSources": "V. Связи и источники",
-
   "itemDetails.fields.explanatoryIdentityClaim": "Объяснительное тождественное утверждение",
   "itemDetails.fields.mindBodyRelationship": "Отношение сознания и тела",
   "itemDetails.fields.subjectivityIntentionality": "Субъективность и интенциональность",
@@ -110,7 +91,6 @@
   "itemDetails.fields.primitiveOrEmergentStatus": "Первичный или эмерджентный статус",
   "itemDetails.fields.emergenceType": "Тип эмерджентности",
   "itemDetails.fields.ontologicalStatus": "Онтологический статус",
-
   "itemDetails.fields.scopeOfConsciousness": "Область распространения сознания",
   "itemDetails.fields.distinctiveMechanism": "Отличительный механизм или принцип",
   "itemDetails.fields.dynamicsOfEmergence": "Динамика эмерджентности",
@@ -121,27 +101,25 @@
   "itemDetails.fields.evolutionaryAccount": "Эволюционное объяснение",
   "itemDetails.fields.coreClaimsEvidence": "Основные утверждения и доказательства",
   "itemDetails.fields.basisOfBelief": "Основание убеждения или тип доказательств",
-
   "itemDetails.fields.testabilityStatus": "Статус проверяемости",
   "itemDetails.fields.knownEmpiricalTests": "Известные эмпирические вмешательства или проверки",
   "itemDetails.fields.criticismsTensions": "Критика и противоречия",
   "itemDetails.fields.openQuestionsLimitations": "Открытые вопросы и ограничения",
   "itemDetails.fields.ontologicalCoherence": "Онтологическая согласованность",
-
   "itemDetails.fields.relatedTheories": "Связанные теории",
   "itemDetails.fields.classification": "Классификация",
   "itemDetails.fields.sourcesReferences": "Источники и ссылки",
-
   "itemDetails.implications.aiConsciousness": "Сознание ИИ",
   "itemDetails.implications.survivalBeyondDeath": "Выживание после смерти",
   "itemDetails.implications.meaningPurpose": "Смысл и цель",
   "itemDetails.implications.virtualImmortality": "Виртуальное бессмертие",
-
   "misc.unknown": "Неизвестно",
   "misc.unknownError": "Неизвестная ошибка",
-
   "nav.language.ariaLabel": "Выбрать язык",
   "languagePopup.title": "Выбрать язык",
   "languagePopup.subtitle": "Выберите предпочитаемый язык",
-  "languagePopup.closeAriaLabel": "Закрыть выбор языка"
+  "languagePopup.closeAriaLabel": "Закрыть выбор языка",
+  "about.footer.support": "Поддержать проект",
+  "about.footer.citeCopy": "Копировать",
+  "about.footer.citeCopied": "Скопировано"
 }

@@ -1,59 +1,45 @@
 {
   "chartLoader.text": "正在加载图表……",
-
   "nav.feedback": "反馈",
   "nav.about.tooltip": "关于",
   "nav.github.alt": "GitHub 星标",
-
   "sourceCitation.text": "来源：Landscape of Consciousness（Kuhn，2024）",
   "sourceCitation.kuhnCitation": "Robert Lawrence Kuhn. \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. Progress in Biophysics and Molecular Biology, Volume 190, 2024, Pages 28-169.\"",
   "sourceCitation.landscapeLink": "Landscape of Consciousness",
-
   "about.heading": "Consciousness Atlas",
   "about.subtitle": "可视化 Landscape of Consciousness",
-  "about.intro.html": "Consciousness Atlas 是一款交互式网络应用，可视化了 325 种以上的意识理论。它基于 Robert Lawrence Kuhn 于 2024 年发表的论文 <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">“A Landscape of Consciousness”</a>。本图谱描绘了处理现象意识的各种理论——即经验的主观感受，例如红之为红的那种感觉。",
-
+  "about.intro.html": "Consciousness Atlas 是一款交互式网络应用，可视化了 450 种以上的意识理论。它基于 Robert Lawrence Kuhn 于 2024 年发表的论文 <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">“A Landscape of Consciousness”</a>。本图谱描绘了处理现象意识的各种理论——即经验的主观感受，例如红之为红的那种感觉。",
   "about.whatIs.title": "本图谱是什么",
   "about.whatIs.body": "本图谱是一部建立在 Kuhn 分类法之上的可视化参考工具。它一次性呈现全部理论，让你能够以可视化方式探索这一领域，并打开任意一种理论阅读其条目，就像一部条目结构化的百科全书。每个理论条目都会显示一条简洁的标识性陈述、概念基础、所提出的机制、经验性注记、蕴涵以及来源。",
-
   "about.why.title": "本项目为何存在",
   "about.why.body": "意识研究横跨多个学科——神经科学、哲学，有时还包括灵性研究或异常状态研究。Kuhn 的论文沿着从最物理到最不物理的谱系，收集并组织了数百种理论。本图谱将这一组织方式呈现为可视化形式，使读者、学生和研究者能够迅速看出不同立场之间的关系，以及每种理论在该谱系上的位置。",
-
   "about.how.title": "它如何运作",
   "about.how.body": "各种理论被归入十个主要类别，并按其在“物理—非物理”谱系上的立场排列。类别的例子包括唯物主义、非还原物理主义、功能主义、量子类理论、泛心论、一元论、二元论、唯心主义、异常状态以及挑战理论。本应用一次性展示整幅图谱。点击任意理论即可阅读其结构化条目，其中包含对经典来源和具名思想家的引用。",
-
   "about.audience.title": "它面向谁",
   "about.audience.item1": "学习心灵哲学与认知科学的学生",
   "about.audience.item2": "寻找一目了然的比较性资源的研究者与讲师",
   "about.audience.item3": "需要快速查阅各类立场范围的记者与写作者",
   "about.audience.item4": "希望清楚了解人们谈论意识时究竟指什么的好奇读者",
-
   "about.notDo.title": "本图谱不做什么",
   "about.notDo.body": "本图谱不为任何理论背书或排名。它是一部基于 Kuhn 分类法的可视化与参考工具——收集与呈现，而非评判。它不试图解决意识的难问题。它是一件用于探索与比较的工具。",
-
   "about.kuhnNote.title": "来自 Kuhn 的说明",
   "about.kuhnNote.body1": "Kuhn 明确指出该项目的目的：“收集与归类，而非评估与裁断。”Consciousness Atlas 遵循这一取向。其数据与结构源自 Kuhn 的论文；欢迎提出反馈和建议性更正，但本应用只是覆盖在 Kuhn 工作之上的一个可视化层。",
   "about.kuhnNote.body2": "除其原创论文“A Landscape of Consciousness”（此为唯一来源）之外，Kuhn 未参与 Consciousness Atlas 的设计或内容。",
-
   "about.landscapeWebsite.title": "Landscape of Consciousness 网站",
   "about.landscapeWebsite.body.html": "<a href=\"https://loc.closertotruth.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape of Consciousness 网站</a>是对 Robert Lawrence Kuhn 论文“A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications.”的重要扩展、增强与更新。Landscape of Consciousness 网站收录了 350 种以上的意识理论，可通过五种方式访问：<a href=\"https://loc.closertotruth.com/consciousness-theories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Grid</a>；<a href=\"https://loc.closertotruth.com/all-consciousness-categories-and-subcategories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Categories</a>；<a href=\"https://loc.closertotruth.com/all-consciousness-categories-subcategories-and-theories\" target=\"_blank\" rel=\"noopener noreferrer\">All Landscape Theories</a>；<a href=\"https://loc.closertotruth.com/map\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Map</a>；<a href=\"https://loc.closertotruth.com/interactive\" target=\"_blank\" rel=\"noopener noreferrer\">Interactive Visualizations</a>。Landscape of Consciousness 是一项永远进行中的工作。",
-
   "about.faq.title": "常见问题",
   "about.faq.q1": "什么是现象意识？",
   "about.faq.a1": "现象意识指主观经验——那种作为有意识者的质性感受，例如咖啡的味道或红之为红的感觉。",
   "about.faq.q2": "本图谱包含多少种理论？",
-  "about.faq.a2": "本图谱可视化了 220 种以上的独立理论，归入十个宽泛的类别。",
+  "about.faq.a2": "本图谱可视化了 450 种以上的独立理论，归入十个宽泛的类别。",
   "about.faq.q3": "本图谱会指出哪种理论是真的吗？",
   "about.faq.a3": "不会。本图谱以中立方式呈现各种理论。它是一幅地图，而非为某一立场辩护的论证。",
   "about.faq.q4": "本图谱是学术性的吗？",
   "about.faq.a4": "本图谱基于一份学术来源——Robert Kuhn 于 2024 年发表的论文“A Landscape of Consciousness”——并在可用时链接到经典来源。",
-
   "about.related.title": "延伸阅读",
   "about.related.body.html": "本图谱引用了哲学与神经科学领域的经典研究，包括整合信息论、全局工作空间理论、泛心论主张、基于量子的构想，以及经典思想家的历史立场。若需了解原始的学术脉络，请参阅 Kuhn 发表于 ScienceDirect 的文章：<a href=\"/paper.html\">A Landscape of Consciousness</a>。",
-
   "about.summary.title": "小结",
   "about.summary.body": "Consciousness Atlas 是一件直截了当的可视化工具：它将 Kuhn 的分类法呈现为一幅可探索的单一地图，并让用户打开各个理论条目，阅读结构化且附有出处的摘要。它旨在让这一复杂领域更易于纵览，并作为一件实用的参考工具。",
-
   "about.footer.ariaLabel": "项目信息与署名",
   "about.footer.creatorTitle": "关于创建者",
   "about.footer.creatorBody.html": "ConsciousnessAtlas.com 是由 Danilo Znamerovszkij（<a href=\"https://www.linkedin.com/in/danilo-znamerovszkij-56a435156/\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a>）独立开发的项目，他是一名前端工程师，具有构建交互式工具与数据可视化的经验。该项目体现了他对意识研究、心灵哲学，以及如何借助软件让复杂的理论图景更易于导览的长期兴趣。",
@@ -64,7 +50,6 @@
   "about.footer.scopeTitle": "范围",
   "about.footer.scopeBody": "本项目旨在作为一种探索性和教育性的资源。它不为任何特定的意识理论辩护，也不应被解读为权威的科学分类。",
   "about.footer.linksLabel": "链接：",
-
   "form.title": "发送反馈",
   "form.closeAriaLabel": "关闭表单",
   "form.nameLabel": "姓名（可选）",
@@ -82,24 +67,20 @@
   "form.errors.messageRequired": "请输入留言内容",
   "form.errors.sendFailedRetry": "留言发送失败。请重试。",
   "form.success": "留言发送成功！",
-
   "searchBar.placeholder": "搜索理论……",
   "searchBar.ariaLabel": "搜索理论",
   "searchBar.resultsAriaLabel": "搜索结果",
-
   "itemDetails.closePanel": "关闭面板",
   "itemDetails.welcome": "从图表中选择一个条目，探索其中的奥秘",
   "itemDetails.error.title": "错误",
   "itemDetails.error.heading": "加载理论失败",
   "itemDetails.loading.heading": "正在加载理论数据……",
   "itemDetails.loading.body": "正在获取详细信息，请稍候。",
-
   "itemDetails.sections.conceptualGround": "I. 概念基础",
   "itemDetails.sections.mechanismDynamics": "II. 机制与动力学",
   "itemDetails.sections.empiricsCritiques": "III. 经验证据与批评",
   "itemDetails.sections.implications": "IV. 蕴涵",
   "itemDetails.sections.relationsSources": "V. 关联与来源",
-
   "itemDetails.fields.explanatoryIdentityClaim": "解释性同一主张",
   "itemDetails.fields.mindBodyRelationship": "心身关系",
   "itemDetails.fields.subjectivityIntentionality": "主体性与意向性",
@@ -110,7 +91,6 @@
   "itemDetails.fields.primitiveOrEmergentStatus": "原初或涌现地位",
   "itemDetails.fields.emergenceType": "涌现类型",
   "itemDetails.fields.ontologicalStatus": "本体论地位",
-
   "itemDetails.fields.scopeOfConsciousness": "意识的范围",
   "itemDetails.fields.distinctiveMechanism": "独特机制或原理",
   "itemDetails.fields.dynamicsOfEmergence": "涌现的动力学",
@@ -121,27 +101,25 @@
   "itemDetails.fields.evolutionaryAccount": "演化解释",
   "itemDetails.fields.coreClaimsEvidence": "核心主张与证据",
   "itemDetails.fields.basisOfBelief": "信念基础或证据类型",
-
   "itemDetails.fields.testabilityStatus": "可检验性状态",
   "itemDetails.fields.knownEmpiricalTests": "已知的经验性干预或检验",
   "itemDetails.fields.criticismsTensions": "批评与张力",
   "itemDetails.fields.openQuestionsLimitations": "开放问题与局限",
   "itemDetails.fields.ontologicalCoherence": "本体论融贯性",
-
   "itemDetails.fields.relatedTheories": "相关理论",
   "itemDetails.fields.classification": "分类",
   "itemDetails.fields.sourcesReferences": "来源与参考文献",
-
   "itemDetails.implications.aiConsciousness": "人工智能意识",
   "itemDetails.implications.survivalBeyondDeath": "死后存续",
   "itemDetails.implications.meaningPurpose": "意义与目的",
   "itemDetails.implications.virtualImmortality": "虚拟永生",
-
   "misc.unknown": "未知",
   "misc.unknownError": "未知错误",
-
   "nav.language.ariaLabel": "选择语言",
   "languagePopup.title": "选择语言",
   "languagePopup.subtitle": "选择您的首选语言",
-  "languagePopup.closeAriaLabel": "关闭语言选择器"
+  "languagePopup.closeAriaLabel": "关闭语言选择器",
+  "about.footer.support": "支持本项目",
+  "about.footer.citeCopy": "复制",
+  "about.footer.citeCopied": "已复制"
 }

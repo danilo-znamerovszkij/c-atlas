@@ -8,6 +8,7 @@
 //   - POST /api/submit: feedback form -> Telegram
 import { SITE_ORIGIN, AVAILABLE_LOCALES, DEFAULT_LOCALE, RTL_LOCALES, parseLocaleFromPath } from '../src/shared/site'
 import type { Locale } from '../src/shared/site'
+import { routeTheory, theoryHead, theoryArticle, categorySlugs, type TheoryRoute } from './theoryPage'
 
 interface Env {
   ASSETS: Fetcher
@@ -36,8 +37,8 @@ const OG_LOCALE_MAP: Record<Locale, string> = {
 const escapeHtml = (value: string) =>
   value.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;')
 
-function hreflangBlock(pathWithoutLocale: string): string {
-  const links = AVAILABLE_LOCALES.map(code => {
+function hreflangBlock(pathWithoutLocale: string, locales: readonly Locale[] = AVAILABLE_LOCALES): string {
+  const links = locales.map(code => {
     const href = code === DEFAULT_LOCALE
       ? `${SITE_ORIGIN}${pathWithoutLocale}`
       : `${SITE_ORIGIN}/${code}${pathWithoutLocale === '/' ? '' : pathWithoutLocale}`
@@ -63,16 +64,32 @@ async function renderPage(request: Request, env: Env, url: URL): Promise<Respons
     return Response.redirect(`${SITE_ORIGIN}${pathWithoutLocale}`, 308)
   }
 
+  // /{category}/{theory}: server-rendered theory page (see theoryPage.ts).
+  const segments = pathWithoutLocale.split('/').filter(Boolean)
+  let theoryRoute: Extract<TheoryRoute, { kind: 'page' }> | null = null
+  // Not a page the app has: real 404 instead of a duplicate homepage. (A bare
+  // category like /materialism still serves the homepage for now.)
+  const notFound = !isPaper && (segments.length > 2 || (segments.length === 1 && !categorySlugs.has(segments[0])))
+  if (!isPaper && segments.length === 2) {
+    const route = await routeTheory(env.ASSETS, url.origin, locale, segments[0], segments[1])
+    if (route.kind === 'redirect') return Response.redirect(route.location, 301)
+    theoryRoute = route
+  }
+
   // '/' and '/paper' resolve to index.html and paper.html in the assets.
   const shell = await env.ASSETS.fetch(new Request(new URL(isPaper ? '/paper' : '/', url), request))
   if (!shell.ok || !(shell.headers.get('content-type') || '').includes('text/html')) return shell
 
-  const canonical = path === '/' ? `${SITE_ORIGIN}/` : `${SITE_ORIGIN}${path}`
+  const canonical = theoryRoute?.canonical ?? (path === '/' ? `${SITE_ORIGIN}/` : `${SITE_ORIGIN}${path}`)
   let html = await shell.text()
   html = html.replace(/(<link[^>]*rel="canonical"[^>]*href=")[^"]*(")/, `$1${canonical}$2`)
 
   if (!isPaper) {
-    html = html.replace(/(<link[^>]*rel="canonical"[^>]*\/?>)/, `$1\n    ${hreflangBlock(pathWithoutLocale)}`)
+    // Theory pages list only the languages that theory exists in; a 404 lists none.
+    const hreflangLocales = notFound ? [] : theoryRoute ? (theoryRoute.theory ? theoryRoute.locales : []) : AVAILABLE_LOCALES
+    if (hreflangLocales.length) {
+      html = html.replace(/(<link[^>]*rel="canonical"[^>]*\/?>)/, `$1\n    ${hreflangBlock(pathWithoutLocale, hreflangLocales)}`)
+    }
     html = html.replace(/<html lang="en">/, `<html lang="${locale}"${RTL_LOCALES.has(locale) ? ' dir="rtl"' : ''}>`)
 
     if (locale !== DEFAULT_LOCALE) {
@@ -91,12 +108,31 @@ async function renderPage(request: Request, env: Env, url: URL): Promise<Respons
         html = html.replace(/(<meta\s+name="twitter:description"\s+content=")[^"]*(")/, `$1${escapeHtml(seo.ogDescription)}$2`)
       }
       html = html.replace(/(<meta\s+property="og:locale"\s+content=")[^"]*(")/, `$1${OG_LOCALE_MAP[locale]}$2`)
-      html = html.replace(/"inLanguage":\s*"en"/, `"inLanguage": "${locale}"`)
+      html = html.replace(/"inLanguage":\s*"en"/g, `"inLanguage": "${locale}"`)
+    }
+
+    if (theoryRoute?.theory) {
+      const head = theoryHead(theoryRoute.theory, canonical, theoryRoute.leaf)
+      html = html.replace(/<title>[\s\S]*?<\/title>/, `<title>${escapeHtml(head.title)}</title>`)
+      html = html.replace(/(<meta\s+name="description"\s+content=")[^"]*(")/, `$1${escapeHtml(head.description)}$2`)
+      html = html.replace(/(<meta\s+(?:property="og:title"|name="twitter:title")\s+content=")[^"]*(")/g, `$1${escapeHtml(head.title)}$2`)
+      html = html.replace(/(<meta\s+(?:property="og:description"|name="twitter:description")\s+content=")[^"]*(")/g, `$1${escapeHtml(head.description)}$2`)
+      html = html.replace(/(<meta\s+property="og:url"\s+content=")[^"]*(")/, `$1${canonical}$2`)
+      html = html.replace(/(<meta\s+property="og:type"\s+content=")[^"]*(")/, `$1article$2`)
+      // Homepage-only markup (site/app JSON-LD, the About section's H1) doesn't
+      // describe this page; the theory article carries the page's only H1.
+      html = html.replace(/\s*<!--[^>]*data-scope="home"[^>]*-->/, '')
+      html = html.replace(/<script type="application\/ld\+json" data-scope="home">[\s\S]*?<\/script>/g, '')
+      html = html.replace(/<h1 data-i18n="about\.heading">([\s\S]*?)<\/h1>/, '<h2 data-i18n="about.heading">$1</h2>')
+      html = html.replace('</head>', `  <script type="application/ld+json">${head.jsonLd}</script>\n  </head>`)
+      html = html.replace('<div id="item-details"></div>', `<div id="item-details">${theoryArticle(theoryRoute.theory, locale)}</div>`)
+    } else if (theoryRoute || notFound) {
+      html = html.replace('</head>', '  <meta name="robots" content="noindex" />\n  </head>')
     }
   }
 
   return new Response(html, {
-    status: 200,
+    status: notFound ? 404 : theoryRoute?.status ?? 200,
     headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': HTML_CACHE }
   })
 }

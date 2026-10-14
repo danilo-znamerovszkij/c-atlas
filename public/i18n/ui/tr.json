@@ -1,59 +1,45 @@
 {
   "chartLoader.text": "Grafik yükleniyor...",
-
   "nav.feedback": "Geri bildirim",
   "nav.about.tooltip": "Hakkında",
   "nav.github.alt": "GitHub yıldızları",
-
   "sourceCitation.text": "Kaynak: Landscape of Consciousness (Kuhn, 2024)",
   "sourceCitation.kuhnCitation": "Robert Lawrence Kuhn. \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. Progress in Biophysics and Molecular Biology, Volume 190, 2024, Pages 28-169.\"",
   "sourceCitation.landscapeLink": "Landscape of Consciousness",
-
   "about.heading": "Consciousness Atlas",
   "about.subtitle": "Landscape of Consciousness'ın görselleştirilmesi",
-  "about.intro.html": "Consciousness Atlas, 325'ten fazla bilinç kuramını görselleştiren etkileşimli bir web uygulamasıdır. Robert Lawrence Kuhn'un 2024 tarihli <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a> makalesine dayanır. Atlas, fenomenal bilinci -deneyimin öznel niteliğini, örneğin kırmızının kırmızılığını- ele alan kuramları haritalandırır.",
-
+  "about.intro.html": "Consciousness Atlas, 450'ten fazla bilinç kuramını görselleştiren etkileşimli bir web uygulamasıdır. Robert Lawrence Kuhn'un 2024 tarihli <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a> makalesine dayanır. Atlas, fenomenal bilinci -deneyimin öznel niteliğini, örneğin kırmızının kırmızılığını- ele alan kuramları haritalandırır.",
   "about.whatIs.title": "Atlas nedir",
   "about.whatIs.body": "Atlas, Kuhn'un taksonomisi üzerine kurulmuş görsel bir başvuru kaynağıdır. Kuramların tümünü aynı anda sunar; böylece alanı görsel olarak keşfedebilir ve herhangi bir kuramı açarak, yapılandırılmış maddeleri olan bir ansiklopedi gibi, ilgili maddesini okuyabilirsiniz. Her kuram maddesi; özlü bir kimlik satırı, kavramsal zemin, önerilen mekanizma, ampirik notlar, çıkarımlar ve kaynaklar gösterir.",
-
   "about.why.title": "Bu neden var",
   "about.why.body": "Bilinç, farklı disiplinlerde -sinirbilim, felsefe ve bazen tinsel ya da anormal-durum araştırmaları- incelenir. Kuhn'un makalesi, yüzlerce kuramı en fizikselden en az fiziksele uzanan bir yelpaze boyunca toplar ve düzenler. Atlas, bu düzenlemeyi görsel bir biçime dökerek okuyucuların, öğrencilerin ve araştırmacıların farklı konumların birbiriyle nasıl ilişkilendiğini ve her kuramın yelpazede nerede durduğunu hızla görmesini sağlar.",
-
   "about.how.title": "Nasıl çalışır",
   "about.how.body": "Kuramlar, fizikselden fiziksel-olmayana uzanan yelpazedeki tutumlarına göre düzenlenmiş on ana kategoride gruplanır. Kategori örnekleri arasında Materyalizm, İndirgemeci-Olmayan Fizikalizm, İşlevselcilik, Kuantum temelli kuramlar, Panpsişizm, Monizm, Düalizm, İdealizm, Anormal Durumlar ve Meydan Okuma Kuramları yer alır. Uygulama, haritanın tamamını aynı anda gösterir. Kanonik kaynaklara ve adı geçen düşünürlere göndermeler içeren yapılandırılmış maddesini okumak için herhangi bir kurama tıklayın.",
-
   "about.audience.title": "Kimler için",
   "about.audience.item1": "Zihin felsefesi ve bilişsel bilim öğrenen öğrenciler",
   "about.audience.item2": "Bir bakışta karşılaştırmalı bir kaynak arayan araştırmacılar ve öğretim üyeleri",
   "about.audience.item3": "Konumların yelpazesine ilişkin hızlı bir başvuru kaynağı gereken gazeteciler ve yazarlar",
   "about.audience.item4": "İnsanların bilinçten söz ederken neyi kastettiğine dair açık bir görünüm isteyen meraklı okuyucular",
-
   "about.notDo.title": "Atlas'ın yapmadıkları",
   "about.notDo.body": "Atlas, kuramları onaylamaz ya da sıralamaz. Kuhn'un taksonomisine dayanan bir görselleştirme ve başvuru kaynağıdır -yargılamak değil, toplamak ve sunmak. Bilincin zor problemini çözmeye çalışmaz. Keşif ve karşılaştırma için bir araçtır.",
-
   "about.kuhnNote.title": "Kuhn'dan bir not",
   "about.kuhnNote.body1": "Kuhn, projenin amacını açıkça belirtir: \"değerlendirmek ve hükme varmak değil, toplamak ve sınıflandırmak.\" Consciousness Atlas bu yaklaşımı izler. Veriler ve yapı Kuhn'un makalesinden türetilmiştir; geri bildirim ve önerilen düzeltmeler memnuniyetle karşılanır, ancak uygulama Kuhn'un çalışmasının üzerine oturan bir görselleştirme katmanıdır.",
   "about.kuhnNote.body2": "Kuhn, biricik kaynak olan özgün 'A Landscape of Consciousness' makalesi dışında, Consciousness Atlas'ın tasarımına ya da içeriğine dahil olmamıştır.",
-
   "about.landscapeWebsite.title": "Landscape of Consciousness Web Sitesi",
   "about.landscapeWebsite.body.html": "<a href=\"https://loc.closertotruth.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape of Consciousness web sitesi</a>, Robert Lawrence Kuhn'un \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications\" makalesinin önemli bir genişletmesi, geliştirmesi ve güncellemesidir. Landscape of Consciousness web sitesi, beş yolla erişilebilen 350'den fazla bilinç kuramı içerir: <a href=\"https://loc.closertotruth.com/consciousness-theories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Grid</a>; <a href=\"https://loc.closertotruth.com/all-consciousness-categories-and-subcategories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Categories</a>; <a href=\"https://loc.closertotruth.com/all-consciousness-categories-subcategories-and-theories\" target=\"_blank\" rel=\"noopener noreferrer\">All Landscape Theories</a>; <a href=\"https://loc.closertotruth.com/map\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Map</a>; <a href=\"https://loc.closertotruth.com/interactive\" target=\"_blank\" rel=\"noopener noreferrer\">Interactive Visualizations</a>. Landscape of Consciousness -kalıcı olarak- devam eden bir çalışmadır.",
-
   "about.faq.title": "Sıkça Sorulan Sorular",
   "about.faq.q1": "Fenomenal bilinç nedir?",
   "about.faq.a1": "Fenomenal bilinç, öznel deneyime -farkında olmanın niteliksel duygusuna, örneğin kahvenin tadına ya da kırmızının kırmızılığına- gönderme yapar.",
   "about.faq.q2": "Atlas kaç kuram içerir?",
-  "about.faq.a2": "Atlas, on geniş kategoride gruplanmış 220'den fazla bireysel kuramı görselleştirir.",
+  "about.faq.a2": "Atlas, on geniş kategoride gruplanmış 450'den fazla bireysel kuramı görselleştirir.",
   "about.faq.q3": "Atlas, hangi kuramın doğru olduğunu gösterir mi?",
   "about.faq.a3": "Hayır. Atlas, kuramları yansız biçimde sunar. Bir haritadır, herhangi bir tekil konum için bir sav değil.",
   "about.faq.q4": "Atlas akademik midir?",
   "about.faq.a4": "Atlas, akademik bir kaynağa -Robert Kuhn'un 2024 tarihli \"A Landscape of Consciousness\" makalesine- dayanır ve mevcut olduğunda kanonik kaynaklara bağlantı verir.",
-
   "about.related.title": "İlgili okumalar",
   "about.related.body.html": "Atlas, felsefe ve sinirbilim boyunca uzanan kanonik araştırmalara -Bütünleşik Bilgi Kuramı, Küresel Çalışma Alanı Kuramı, panpsişist öneriler, kuantum temelli fikirler ve klasik düşünürlerin tarihsel konumları dahil- gönderme yapar. Özgün akademik bağlam için Kuhn'un ScienceDirect'teki makalesine bakın: <a href=\"/paper.html\">A Landscape of Consciousness</a>.",
-
   "about.summary.title": "Özet",
   "about.summary.body": "Consciousness Atlas, sade bir görselleştirme aracıdır: Kuhn'un taksonomisini tek ve keşfedilebilir bir harita olarak sunar ve kullanıcıların, yapılandırılmış ve kaynaklandırılmış özetleri okumak için bireysel kuram maddelerini açmasına olanak tanır. Bu karmaşık alanın gözden geçirilmesini kolaylaştırmak ve pratik bir başvuru kaynağı olarak hizmet etmek üzere tasarlanmıştır.",
-
   "about.footer.ariaLabel": "Proje bilgisi ve kaynak gösterimi",
   "about.footer.creatorTitle": "Yaratıcı Hakkında",
   "about.footer.creatorBody.html": "ConsciousnessAtlas.com, etkileşimli araçlar ve veri görselleştirmeleri geliştirme deneyimine sahip bir frontend mühendisi olan Danilo Znamerovszkij'in (<a href=\"https://www.linkedin.com/in/danilo-znamerovszkij-56a435156/\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a>) bağımsız bir projesidir. Proje; bilinç çalışmalarına, zihin felsefesine ve karmaşık kuramsal manzaraların yazılım aracılığıyla nasıl daha gezilebilir kılınabileceğine yönelik uzun soluklu bir ilgiyi yansıtır.",
@@ -64,7 +50,6 @@
   "about.footer.scopeTitle": "Kapsam",
   "about.footer.scopeBody": "Bu proje, keşfe yönelik ve eğitsel bir kaynak olarak tasarlanmıştır. Herhangi bir belirli bilinç kuramını savunmaz ve yetkin bir bilimsel sınıflandırma olarak yorumlanmamalıdır.",
   "about.footer.linksLabel": "Bağlantılar:",
-
   "form.title": "Geri Bildirim Gönder",
   "form.closeAriaLabel": "Formu kapat",
   "form.nameLabel": "Ad (isteğe bağlı)",
@@ -82,24 +67,20 @@
   "form.errors.messageRequired": "Lütfen bir mesaj girin",
   "form.errors.sendFailedRetry": "Mesaj gönderilemedi. Lütfen tekrar deneyin.",
   "form.success": "Mesaj başarıyla gönderildi!",
-
   "searchBar.placeholder": "Kuramlarda ara...",
   "searchBar.ariaLabel": "Kuramlarda ara",
   "searchBar.resultsAriaLabel": "Arama sonuçları",
-
   "itemDetails.closePanel": "Paneli kapat",
   "itemDetails.welcome": "Gizemlerini keşfetmek için grafikten bir öge seçin",
   "itemDetails.error.title": "Hata",
   "itemDetails.error.heading": "Kuram Yüklenemedi",
   "itemDetails.loading.heading": "Kuram verileri yükleniyor...",
   "itemDetails.loading.body": "Ayrıntılı bilgiyi getirirken lütfen bekleyin.",
-
   "itemDetails.sections.conceptualGround": "I. Kavramsal Zemin",
   "itemDetails.sections.mechanismDynamics": "II. Mekanizma ve Dinamikler",
   "itemDetails.sections.empiricsCritiques": "III. Ampirik Bulgular ve Eleştiriler",
   "itemDetails.sections.implications": "IV. Çıkarımlar",
   "itemDetails.sections.relationsSources": "V. İlişkiler ve Kaynaklar",
-
   "itemDetails.fields.explanatoryIdentityClaim": "Açıklayıcı Özdeşlik İddiası",
   "itemDetails.fields.mindBodyRelationship": "Zihin-Beden İlişkisi",
   "itemDetails.fields.subjectivityIntentionality": "Öznellik ve Yönelimsellik",
@@ -110,7 +91,6 @@
   "itemDetails.fields.primitiveOrEmergentStatus": "İlksel ya da Beliren Konum",
   "itemDetails.fields.emergenceType": "Beliriş Türü",
   "itemDetails.fields.ontologicalStatus": "Ontolojik Konum",
-
   "itemDetails.fields.scopeOfConsciousness": "Bilincin Kapsamı",
   "itemDetails.fields.distinctiveMechanism": "Ayırt Edici Mekanizma ya da İlke",
   "itemDetails.fields.dynamicsOfEmergence": "Belirişin Dinamikleri",
@@ -121,27 +101,25 @@
   "itemDetails.fields.evolutionaryAccount": "Evrimsel Açıklama",
   "itemDetails.fields.coreClaimsEvidence": "Temel İddialar ve Kanıt",
   "itemDetails.fields.basisOfBelief": "İnancın Temeli ya da Kanıt Türü",
-
   "itemDetails.fields.testabilityStatus": "Sınanabilirlik Durumu",
   "itemDetails.fields.knownEmpiricalTests": "Bilinen Ampirik Müdahaleler ya da Sınamalar",
   "itemDetails.fields.criticismsTensions": "Eleştiriler ve Gerilimler",
   "itemDetails.fields.openQuestionsLimitations": "Açık Sorular ve Sınırlılıklar",
   "itemDetails.fields.ontologicalCoherence": "Ontolojik Tutarlılık",
-
   "itemDetails.fields.relatedTheories": "İlgili Kuramlar",
   "itemDetails.fields.classification": "Sınıflandırma",
   "itemDetails.fields.sourcesReferences": "Kaynaklar ve Referanslar",
-
   "itemDetails.implications.aiConsciousness": "Yapay Zeka Bilinci",
   "itemDetails.implications.survivalBeyondDeath": "Ölümden Sonra Varlığın Sürmesi",
   "itemDetails.implications.meaningPurpose": "Anlam ve Amaç",
   "itemDetails.implications.virtualImmortality": "Sanal Ölümsüzlük",
-
   "misc.unknown": "Bilinmiyor",
   "misc.unknownError": "Bilinmeyen hata",
-
   "nav.language.ariaLabel": "Dil seçin",
   "languagePopup.title": "Dil seçin",
   "languagePopup.subtitle": "Tercih ettiğiniz dili seçin",
-  "languagePopup.closeAriaLabel": "Dil seçiciyi kapat"
+  "languagePopup.closeAriaLabel": "Dil seçiciyi kapat",
+  "about.footer.support": "Projeyi destekle",
+  "about.footer.citeCopy": "Kopyala",
+  "about.footer.citeCopied": "Kopyalandı"
 }

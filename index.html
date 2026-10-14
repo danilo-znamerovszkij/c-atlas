@@ -46,171 +46,90 @@
         } catch (e) { /* never block rendering on detection */ }
       })();
     </script>
-    <title>
-      Consciousness Atlas: Interactive Visualization of 325+ Theories from
-      Kuhn's Landscape of Consciousness
-    </title>
+    <title>Map of 450+ Theories of Consciousness | Consciousness Atlas</title>
     <meta
       name="description"
-      content="Explore 300+ theories of consciousness. The Consciousness Atlas is a free web app visualizing Robert Kuhn's Landscape of Consciousness—325+ theories of phenomenal consciousness in one interactive chart. Compare theories on AI consciousness, survival after death, and the hard problem of consciousness."
-    />
-    <meta
-      name="keywords"
-      content="consciousness, theories, philosophy, neuroscience, AI consciousness, survival after death, hard problem of consciousness, Robert Kuhn, interactive visualization, materialism, idealism, panpsychism"
+      content="Free interactive map of 450+ theories of consciousness from Robert Lawrence Kuhn's Landscape of Consciousness. See where each stands on AI and life after death."
     />
     <meta name="author" content="Consciousness Atlas" />
     <meta
       property="og:title"
-      content="Consciousness Atlas: Interactive Visualization of 325+ Theories from Kuhn's Landscape of Consciousness"
+      content="Map of 450+ Theories of Consciousness | Consciousness Atlas"
     />
     <meta
       property="og:description"
-      content="Explore 300+ theories of consciousness. The Consciousness Atlas is a free web app visualizing Robert Kuhn's Landscape of Consciousness—325+ theories of phenomenal consciousness in one interactive chart."
+      content="Free interactive map of 450+ theories of consciousness from Robert Lawrence Kuhn's Landscape of Consciousness. See where each stands on AI and life after death."
     />
     <load src="src/templates/shared-meta.html" />
 
     <meta
       name="twitter:title"
-      content="Consciousness Atlas: Interactive Visualization of 325+ Theories from Kuhn's Landscape of Consciousness"
+      content="Map of 450+ Theories of Consciousness | Consciousness Atlas"
     />
     <meta
       name="twitter:description"
-      content="Explore the ultimate map of the mind. The Consciousness Atlas is a free web app visualizing Robert Kuhn's Landscape of Consciousness—325+ theories of phenomenal consciousness in one interactive chart."
+      content="Free interactive map of 450+ theories of consciousness from Robert Lawrence Kuhn's Landscape of Consciousness. See where each stands on AI and life after death."
     />
 
-    <script type="application/ld+json">
+    <!-- Homepage-only structured data; worker/index.ts strips data-scope="home" blocks from theory pages. -->
+    <script type="application/ld+json" data-scope="home">
       {
         "@context": "https://schema.org",
-        "@type": "WebApplication",
-        "name": "Consciousness Atlas",
-        "description": "Interactive visualization of 325+ theories from Kuhn's Landscape of Consciousness. Explore the ultimate map of the mind with 325+ theories of phenomenal consciousness in one interactive chart.",
-        "url": "https://www.consciousnessatlas.com",
-        "applicationCategory": "EducationalApplication",
-        "operatingSystem": "Web Browser",
-        "offers": {
-          "@type": "Offer",
-          "price": "0",
-          "priceCurrency": "USD"
-        },
-        "creator": {
-          "@type": "Organization",
-          "name": "Consciousness Atlas",
-          "url": "https://www.consciousnessatlas.com"
-        },
-        "about": {
-          "@type": "Thing",
-          "name": "Consciousness Theories",
-          "description": "Theories of phenomenal consciousness including materialism, idealism, panpsychism, and more"
-        },
-        "keywords": "consciousness, theories, philosophy, neuroscience, AI consciousness, survival after death, hard problem of consciousness, Robert Kuhn, interactive visualization",
-        "inLanguage": "en",
-        "isAccessibleForFree": true,
-        "browserRequirements": "Requires JavaScript. Requires HTML5.",
-        "softwareVersion": "1.0",
-        "datePublished": "2025-10-23",
-        "dateModified": "2025-10-23",
-        "mainEntity": {
-          "@type": "FAQPage",
-          "mainEntity": [
-            {
-              "@type": "Question",
-              "name": "What is phenomenal consciousness?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Phenomenal consciousness is 'what it is like' to experience—qualia like the redness of red. Kuhn's Landscape focuses exclusively here, ignoring 'easy problems' like behavior."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Which consciousness theory is most likely true?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "'Likelihood' depends on your criteria (Kuhn). Use our slider: Empirical (favor Materialism); Explanatory Power (favor Idealism). No single winner—you decide."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "How to evaluate consciousness theories?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Kuhn's 5 Criteria: 1) Ontology (What is it?); 2) Mind-Body Relation; 3) Primitive/Emergent; 4) Big Questions (AI, Survival); 5) Rationality. See full table below."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Can AI achieve consciousness?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Physicalist theories: Likely (e.g., IIT). Nonphysicalist: No (needs soul). Filter Atlas by 'AI_consciousness' stance."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Does consciousness survive death?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Dualism/Idealism: Yes (soul persists). Materialism: No (brain-dependent). 40% of theories say Possible—explore 'survival_beyond_death' implications."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "What are limitations of consciousness theories?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "1) Correlation ≠ Causation; 2) Hard Problem unsolved; 3) Taboo in academia; 4) Speculative (e.g., Idealism untestable). Atlas highlights open questions per theory."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "How is Consciousness Atlas different from Kuhn's paper?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Kuhn: Text catalog. Atlas: Interactive viz + MTTS schemas + likelihood tools. 100% faithful to his 'collect, not assess' ethos."
-              }
-            }
-          ]
-        }
-      }
-    </script>
-
-    <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
+        "@graph": [
           {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://www.consciousnessatlas.com"
+            "@type": "WebSite",
+            "@id": "https://www.consciousnessatlas.com/#site",
+            "name": "Consciousness Atlas",
+            "url": "https://www.consciousnessatlas.com/",
+            "inLanguage": "en",
+            "publisher": {
+              "@id": "https://www.consciousnessatlas.com/#creator"
+            },
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://www.consciousnessatlas.com/?q={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
           },
           {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Consciousness Theories",
-            "item": "https://www.consciousnessatlas.com#theories"
+            "@type": "WebApplication",
+            "name": "Consciousness Atlas",
+            "url": "https://www.consciousnessatlas.com/",
+            "description": "Interactive map of more than 450 theories of consciousness from Robert Lawrence Kuhn's Landscape of Consciousness, each with a structured summary and its stance on AI consciousness, survival after death, meaning and virtual immortality.",
+            "applicationCategory": "EducationalApplication",
+            "operatingSystem": "Any",
+            "inLanguage": "en",
+            "isAccessibleForFree": true,
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            },
+            "creator": {
+              "@id": "https://www.consciousnessatlas.com/#creator"
+            },
+            "isBasedOn": {
+              "@type": "ScholarlyArticle",
+              "name": "A landscape of consciousness: Toward a taxonomy of explanations and implications",
+              "url": "https://www.sciencedirect.com/science/article/pii/S0079610723001128",
+              "datePublished": "2024",
+              "author": {
+                "@type": "Person",
+                "name": "Robert Lawrence Kuhn"
+              }
+            }
+          },
+          {
+            "@type": "Person",
+            "@id": "https://www.consciousnessatlas.com/#creator",
+            "name": "Danilo Znamerovszkij",
+            "sameAs": [
+              "https://github.com/danilo-znamerovszkij",
+              "https://x.com/danilo_z_j",
+              "https://www.linkedin.com/in/danilo-znamerovszkij-56a435156/"
+            ]
           }
         ]
-      }
-    </script>
-
-    <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "Consciousness Atlas",
-        "url": "https://www.consciousnessatlas.com",
-        "description": "Interactive visualization of consciousness theories from Kuhn's Landscape of Consciousness",
-        "potentialAction": {
-          "@type": "SearchAction",
-          "target": "https://www.consciousnessatlas.com?q={search_term_string}",
-          "query-input": "required name=search_term_string"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "Consciousness Atlas",
-          "url": "https://www.consciousnessatlas.com"
-        }
       }
     </script>
 
@@ -399,7 +318,7 @@
       <section id="intro">
         <p data-i18n="about.intro.html" data-i18n-html>
           The Consciousness Atlas is an interactive web app that visualizes more
-          than 325 theories of consciousness. It is based on Robert Lawrence
+          than 450 theories of consciousness. It is based on Robert Lawrence
           Kuhn's 2024 paper,
           <a
             target="_blank"
@@ -587,7 +506,7 @@
           Workspace Theory, panpsychist proposals, quantum-based ideas, and
           historical positions from classical thinkers. For the original
           academic context, see Kuhn's article on ScienceDirect:
-          <a href="/paper.html">A Landscape of Consciousness</a>.
+          <a href="/paper">A Landscape of Consciousness</a>.
         </p>
       </section>
 
@@ -622,9 +541,16 @@
         </p>
 
         <h3 data-i18n="about.footer.citeTitle">How to Cite</h3>
-        <p data-i18n="about.footer.citeBody">
-          Danilo Znamerovszkij, ConsciousnessAtlas.com. https://www.consciousnessatlas.com (accessed [date]).
-        </p>
+        <div class="cite-box">
+          <p class="cite-text" id="cite-text" data-i18n="about.footer.citeBody">
+            Danilo Znamerovszkij, ConsciousnessAtlas.com. https://www.consciousnessatlas.com (accessed [date]).
+          </p>
+          <button type="button" class="cite-copy" id="cite-copy">
+            <svg class="cite-icon-copy" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v1"/></svg>
+            <svg class="cite-icon-done" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+            <span data-i18n="about.footer.citeCopy">Copy</span>
+          </button>
+        </div>
 
         <h3 data-i18n="about.footer.scopeTitle">Scope</h3>
         <p data-i18n="about.footer.scopeBody">
@@ -638,6 +564,10 @@
           <a href="https://github.com/danilo-znamerovszkij/c-atlas" target="_blank" rel="noopener noreferrer">GitHub</a>
           ·
           <a href="https://x.com/danilo_z_j" target="_blank" rel="noopener noreferrer">X</a>
+          ·
+          <a class="support-link" href="https://ko-fi.com/daniloznamerovszkij" target="_blank" rel="noopener noreferrer"><svg class="support-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3.5 6.5h13v6.5a5.5 5.5 0 0 1-5.5 5.5H9a5.5 5.5 0 0 1-5.5-5.5z"/><path d="M16.5 8.5h1.25a2.75 2.75 0 0 1 0 5.5H16"/><path d="M10 15.2l-2.7-2.6a1.65 1.65 0 0 1 2.35-2.33l.35.35.35-.35a1.65 1.65 0 0 1 2.35 2.33z" fill="#f7b801" stroke="none"/></svg><span data-i18n="about.footer.support">Support the project</span></a>
+          ·
+          <a href="#" id="start-tour" data-i18n="about.footer.tour">Take the tour</a>
         </p>
       </footer>
     </main>

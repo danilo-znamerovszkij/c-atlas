@@ -1,0 +1,171 @@
+@use "../styles/mixins" as *;
+
+.tour {
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+}
+
+// Dimmed page with a cut-out around the highlighted control.
+.tour-spotlight {
+  position: fixed;
+  border-radius: 8px;
+  box-shadow: 0 0 0 9999px rgba(8, 8, 6, 0.62);
+  outline: 1px solid rgba(247, 184, 1, 0.7);
+  transition: top 0.25s ease, left 0.25s ease, width 0.25s ease, height 0.25s ease;
+  pointer-events: none;
+}
+
+.tour-scrim {
+  position: fixed;
+  inset: 0;
+  background: rgba(8, 8, 6, 0.45);
+}
+
+.tour-card {
+  position: fixed;
+  width: min(340px, calc(100vw - 32px));
+  box-sizing: border-box;
+  padding: 18px 18px 14px;
+  background: #16140d;
+  border: 1px solid rgba(198, 160, 50, 0.45);
+  border-radius: 8px;
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.55);
+  color: rgba(255, 255, 255, 0.86);
+  animation: tour-in 0.2s ease-out;
+
+  h2 {
+    @include bodoni-font;
+    color: #fcd771;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 1.15;
+    margin-bottom: 8px;
+  }
+
+  p {
+    font-size: 14px;
+    line-height: 1.55;
+  }
+}
+
+// No target (intro, map step): centred over the dimmed map.
+.tour-card-floating,
+.tour-card-intro {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.tour-card-intro {
+  width: min(400px, calc(100vw - 32px));
+  padding: 24px 24px 18px;
+
+  h2 {
+    font-size: 30px;
+  }
+}
+
+.tour-eyebrow {
+  color: #c6a032;
+  font-size: 11px !important;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+  font-variant-numeric: tabular-nums;
+}
+
+.tour-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 16px;
+
+  .tour-card-intro & {
+    justify-content: flex-end;
+  }
+}
+
+.tour-spacer {
+  flex: 1;
+}
+
+.tour-primary,
+.tour-secondary,
+.tour-link {
+  font-size: 13px;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 8px 14px;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+
+  &:focus-visible {
+    outline: 2px solid rgba(198, 160, 50, 0.8);
+    outline-offset: 2px;
+  }
+}
+
+.tour-primary {
+  background: rgba(247, 184, 1, 0.16);
+  border: 1px solid #f7b801;
+  color: #f7b801;
+
+  &:hover {
+    background: rgba(247, 184, 1, 0.26);
+  }
+}
+
+.tour-secondary {
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: rgba(255, 255, 255, 0.8);
+
+  &:hover {
+    border-color: rgba(255, 255, 255, 0.4);
+    color: #fff;
+  }
+}
+
+.tour-link {
+  background: none;
+  border: none;
+  padding-left: 0;
+  color: rgba(255, 255, 255, 0.5);
+
+  &:hover {
+    color: #fff;
+  }
+}
+
+@keyframes tour-in {
+  from {
+    opacity: 0;
+    translate: 0 6px;
+  }
+  to {
+    opacity: 1;
+    translate: 0 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tour-card {
+    animation: none;
+  }
+
+  .tour-spotlight {
+    transition: none;
+  }
+}
+
+// Phones: steps with a target dock the card to the bottom of the screen.
+@media (max-width: 768px) {
+  .tour-card:not(.tour-card-floating):not(.tour-card-intro) {
+    top: auto !important;
+    left: 16px !important;
+    right: 16px;
+    bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+    width: auto;
+  }
+}

@@ -1,59 +1,45 @@
 {
   "chartLoader.text": "Diagram wordt geladen...",
-
   "nav.feedback": "Feedback",
   "nav.about.tooltip": "Over",
   "nav.github.alt": "GitHub-sterren",
-
   "sourceCitation.text": "Bron: Landscape of Consciousness (Kuhn, 2024)",
   "sourceCitation.kuhnCitation": "Robert Lawrence Kuhn. \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. Progress in Biophysics and Molecular Biology, Volume 190, 2024, Pages 28-169.\"",
   "sourceCitation.landscapeLink": "Landscape of Consciousness",
-
   "about.heading": "De Consciousness Atlas",
   "about.subtitle": "Visualisatie van de Landscape of Consciousness",
-  "about.intro.html": "De Consciousness Atlas is een interactieve webapplicatie die meer dan 325 bewustzijnstheorieën visualiseert. Zij is gebaseerd op het artikel van Robert Lawrence Kuhn uit 2024, <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a>. De Atlas brengt theorieën in kaart die zich richten op het fenomenale bewustzijn – het subjectieve aanvoelen van ervaring, zoals het rood van rood.",
-
+  "about.intro.html": "De Consciousness Atlas is een interactieve webapplicatie die meer dan 450 bewustzijnstheorieën visualiseert. Zij is gebaseerd op het artikel van Robert Lawrence Kuhn uit 2024, <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a>. De Atlas brengt theorieën in kaart die zich richten op het fenomenale bewustzijn – het subjectieve aanvoelen van ervaring, zoals het rood van rood.",
   "about.whatIs.title": "Wat de Atlas is",
   "about.whatIs.body": "De Atlas is een visuele referentie die voortbouwt op de taxonomie van Kuhn. Hij presenteert het volledige geheel van theorieën tegelijk, zodat u het vakgebied visueel kunt verkennen en elke theorie kunt openen om haar vermelding te lezen, als een encyclopedie met gestructureerde vermeldingen. Elke theorievermelding toont een beknopte identiteitsregel, de conceptuele grondslag, het voorgestelde mechanisme, empirische aantekeningen, implicaties en bronnen.",
-
   "about.why.title": "Waarom dit bestaat",
   "about.why.body": "Bewustzijn wordt bestudeerd binnen uiteenlopende disciplines – neurowetenschap, filosofie en soms spiritueel onderzoek of onderzoek naar anomale toestanden. Kuhns artikel verzamelt en ordent honderden theorieën langs een spectrum van het meest fysieke tot het minst fysieke. De Atlas giet die ordening in een visuele vorm, zodat lezers, studenten en onderzoekers snel kunnen zien hoe verschillende standpunten zich tot elkaar verhouden en waar elke theorie zich op het spectrum bevindt.",
-
   "about.how.title": "Hoe het werkt",
   "about.how.body": "De theorieën zijn gegroepeerd in tien hoofdcategorieën, geordend naar hun standpunt op het spectrum van het fysieke tot het niet-fysieke. Voorbeelden van categorieën zijn materialisme, niet-reductief fysicalisme, functionalisme, kwantumgebaseerde theorieën, panpsychisme, monisme, dualisme, idealisme, anomale toestanden en uitdagingstheorieën. De applicatie toont de volledige kaart tegelijk. Klik op een willekeurige theorie om haar gestructureerde vermelding te lezen, met verwijzingen naar canonieke bronnen en met name genoemde denkers.",
-
   "about.audience.title": "Voor wie het bedoeld is",
   "about.audience.item1": "Studenten die filosofie van de geest en cognitiewetenschap bestuderen",
   "about.audience.item2": "Onderzoekers en docenten die een vergelijkend naslagwerk in één oogopslag zoeken",
   "about.audience.item3": "Journalisten en schrijvers die een snelle referentie nodig hebben voor het scala aan standpunten",
   "about.audience.item4": "Nieuwsgierige lezers die een helder overzicht willen van wat men bedoelt wanneer men over bewustzijn spreekt",
-
   "about.notDo.title": "Wat de Atlas niet doet",
   "about.notDo.body": "De Atlas onderschrijft of rangschikt geen theorieën. Hij is een visualisatie en referentie op basis van Kuhns taxonomie – verzamelen en presenteren, niet oordelen. Hij tracht niet het moeilijke probleem van het bewustzijn op te lossen. Hij is een hulpmiddel voor verkenning en vergelijking.",
-
   "about.kuhnNote.title": "Een aantekening van Kuhn",
   "about.kuhnNote.body1": "Kuhn stelt uitdrukkelijk het doel van het project: \"verzamelen en categoriseren, niet beoordelen en uitspraak doen.\" De Consciousness Atlas volgt die benadering. De gegevens en de structuur zijn afgeleid van Kuhns artikel; feedback en voorgestelde correcties zijn welkom, maar de applicatie is een visualisatielaag boven op het werk van Kuhn.",
   "about.kuhnNote.body2": "Kuhn was niet betrokken bij het ontwerp of de inhoud van de Consciousness Atlas, afgezien van zijn oorspronkelijke artikel 'A Landscape of Consciousness', dat de enige bron is.",
-
   "about.landscapeWebsite.title": "Website Landscape of Consciousness",
   "about.landscapeWebsite.body.html": "De <a href=\"https://loc.closertotruth.com/\" target=\"_blank\" rel=\"noopener noreferrer\">website Landscape of Consciousness</a> vormt een aanzienlijke uitbreiding, verbetering en actualisering van Robert Lawrence Kuhns artikel \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications.\" De website Landscape of Consciousness bevat meer dan 350 bewustzijnstheorieën die op vijf manieren toegankelijk zijn: <a href=\"https://loc.closertotruth.com/consciousness-theories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Grid</a>; <a href=\"https://loc.closertotruth.com/all-consciousness-categories-and-subcategories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Categories</a>; <a href=\"https://loc.closertotruth.com/all-consciousness-categories-subcategories-and-theories\" target=\"_blank\" rel=\"noopener noreferrer\">All Landscape Theories</a>; <a href=\"https://loc.closertotruth.com/map\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Map</a>; <a href=\"https://loc.closertotruth.com/interactive\" target=\"_blank\" rel=\"noopener noreferrer\">Interactive Visualizations</a>. De Landscape of Consciousness is een werk in uitvoering – permanent.",
-
   "about.faq.title": "Veelgestelde vragen",
   "about.faq.q1": "Wat is fenomenaal bewustzijn?",
   "about.faq.a1": "Fenomenaal bewustzijn verwijst naar subjectieve ervaring – het kwalitatieve aanvoelen van gewaar zijn, zoals de smaak van koffie of het rood van rood.",
   "about.faq.q2": "Hoeveel theorieën omvat de Atlas?",
-  "about.faq.a2": "De Atlas visualiseert meer dan 220 afzonderlijke theorieën, gegroepeerd in tien brede categorieën.",
+  "about.faq.a2": "De Atlas visualiseert meer dan 450 afzonderlijke theorieën, gegroepeerd in tien brede categorieën.",
   "about.faq.q3": "Toont de Atlas welke theorie waar is?",
   "about.faq.a3": "Nee. De Atlas presenteert theorieën op neutrale wijze. Hij is een kaart, geen argument voor één bepaald standpunt.",
   "about.faq.q4": "Is de Atlas academisch?",
   "about.faq.a4": "De Atlas is gebaseerd op een academische bron – Robert Kuhns artikel uit 2024, \"A Landscape of Consciousness\" – en verwijst naar canonieke bronnen waar die beschikbaar zijn.",
-
   "about.related.title": "Verwante literatuur",
   "about.related.body.html": "De Atlas verwijst naar canoniek onderzoek in de filosofie en de neurowetenschap, waaronder de theorie van geïntegreerde informatie, de theorie van de globale werkruimte, panpsychistische voorstellen, kwantumgebaseerde ideeën en historische standpunten van klassieke denkers. Voor de oorspronkelijke academische context, zie Kuhns artikel op ScienceDirect: <a href=\"/paper.html\">A Landscape of Consciousness</a>.",
-
   "about.summary.title": "Samenvatting",
   "about.summary.body": "De Consciousness Atlas is een eenvoudig visualisatiehulpmiddel: hij presenteert Kuhns taxonomie als één enkele, verkenbare kaart en laat gebruikers afzonderlijke theorievermeldingen openen om gestructureerde, van referenties voorziene samenvattingen te lezen. Hij is ontworpen om dit complexe vakgebied gemakkelijker overzienbaar te maken en om als praktische referentie te dienen.",
-
   "about.footer.ariaLabel": "Projectinformatie en bronvermelding",
   "about.footer.creatorTitle": "Over de maker",
   "about.footer.creatorBody.html": "ConsciousnessAtlas.com is een onafhankelijk project van Danilo Znamerovszkij (<a href=\"https://www.linkedin.com/in/danilo-znamerovszkij-56a435156/\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a>), een frontend-engineer met ervaring in het bouwen van interactieve hulpmiddelen en datavisualisaties. Het project weerspiegelt een langdurige belangstelling voor bewustzijnsonderzoek, filosofie van de geest en de vraag hoe complexe theoretische landschappen door middel van software beter navigeerbaar kunnen worden gemaakt.",
@@ -64,7 +50,6 @@
   "about.footer.scopeTitle": "Reikwijdte",
   "about.footer.scopeBody": "Dit project is bedoeld als een verkennende en educatieve bron. Het pleit niet voor enige bepaalde bewustzijnstheorie en dient niet te worden opgevat als een gezaghebbende wetenschappelijke classificatie.",
   "about.footer.linksLabel": "Links:",
-
   "form.title": "Feedback verzenden",
   "form.closeAriaLabel": "Formulier sluiten",
   "form.nameLabel": "Naam (optioneel)",
@@ -82,24 +67,20 @@
   "form.errors.messageRequired": "Voer alstublieft een bericht in",
   "form.errors.sendFailedRetry": "Verzenden van het bericht is mislukt. Probeer het opnieuw.",
   "form.success": "Bericht succesvol verzonden!",
-
   "searchBar.placeholder": "Theorieën doorzoeken...",
   "searchBar.ariaLabel": "Theorieën doorzoeken",
   "searchBar.resultsAriaLabel": "Zoekresultaten",
-
   "itemDetails.closePanel": "Paneel sluiten",
   "itemDetails.welcome": "Selecteer een element in het diagram om de mysteries ervan te verkennen",
   "itemDetails.error.title": "Fout",
   "itemDetails.error.heading": "Theorie kon niet worden geladen",
   "itemDetails.loading.heading": "Theoriegegevens worden geladen...",
   "itemDetails.loading.body": "Even geduld terwijl wij de gedetailleerde informatie ophalen.",
-
   "itemDetails.sections.conceptualGround": "I. Conceptuele grondslag",
   "itemDetails.sections.mechanismDynamics": "II. Mechanisme en dynamiek",
   "itemDetails.sections.empiricsCritiques": "III. Empirische bevindingen en kritiek",
   "itemDetails.sections.implications": "IV. Implicaties",
   "itemDetails.sections.relationsSources": "V. Relaties en bronnen",
-
   "itemDetails.fields.explanatoryIdentityClaim": "Verklarende identiteitsclaim",
   "itemDetails.fields.mindBodyRelationship": "Geest-lichaamverhouding",
   "itemDetails.fields.subjectivityIntentionality": "Subjectiviteit en intentionaliteit",
@@ -110,7 +91,6 @@
   "itemDetails.fields.primitiveOrEmergentStatus": "Primitieve of emergente status",
   "itemDetails.fields.emergenceType": "Type emergentie",
   "itemDetails.fields.ontologicalStatus": "Ontologische status",
-
   "itemDetails.fields.scopeOfConsciousness": "Reikwijdte van het bewustzijn",
   "itemDetails.fields.distinctiveMechanism": "Onderscheidend mechanisme of principe",
   "itemDetails.fields.dynamicsOfEmergence": "Dynamiek van de emergentie",
@@ -121,27 +101,25 @@
   "itemDetails.fields.evolutionaryAccount": "Evolutionaire verklaring",
   "itemDetails.fields.coreClaimsEvidence": "Kernclaims en bewijs",
   "itemDetails.fields.basisOfBelief": "Grondslag van de overtuiging of type bewijs",
-
   "itemDetails.fields.testabilityStatus": "Status van toetsbaarheid",
   "itemDetails.fields.knownEmpiricalTests": "Bekende empirische interventies of tests",
   "itemDetails.fields.criticismsTensions": "Kritiek en spanningen",
   "itemDetails.fields.openQuestionsLimitations": "Openstaande vragen en beperkingen",
   "itemDetails.fields.ontologicalCoherence": "Ontologische coherentie",
-
   "itemDetails.fields.relatedTheories": "Verwante theorieën",
   "itemDetails.fields.classification": "Classificatie",
   "itemDetails.fields.sourcesReferences": "Bronnen en referenties",
-
   "itemDetails.implications.aiConsciousness": "AI-bewustzijn",
   "itemDetails.implications.survivalBeyondDeath": "Voortbestaan na de dood",
   "itemDetails.implications.meaningPurpose": "Zin en doel",
   "itemDetails.implications.virtualImmortality": "Virtuele onsterfelijkheid",
-
   "misc.unknown": "Onbekend",
   "misc.unknownError": "Onbekende fout",
-
   "nav.language.ariaLabel": "Taal kiezen",
   "languagePopup.title": "Taal kiezen",
   "languagePopup.subtitle": "Selecteer uw voorkeurstaal",
-  "languagePopup.closeAriaLabel": "Taalkeuze sluiten"
+  "languagePopup.closeAriaLabel": "Taalkeuze sluiten",
+  "about.footer.support": "Steun het project",
+  "about.footer.citeCopy": "Kopiëren",
+  "about.footer.citeCopied": "Gekopieerd"
 }

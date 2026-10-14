@@ -1,59 +1,45 @@
 {
   "chartLoader.text": "Chargement du graphique...",
-
   "nav.feedback": "Commentaires",
   "nav.about.tooltip": "À propos",
   "nav.github.alt": "Étoiles GitHub",
-
   "sourceCitation.text": "Source : Landscape of Consciousness (Kuhn, 2024)",
   "sourceCitation.kuhnCitation": "Robert Lawrence Kuhn. \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. Progress in Biophysics and Molecular Biology, Volume 190, 2024, Pages 28-169.\"",
   "sourceCitation.landscapeLink": "Landscape of Consciousness",
-
   "about.heading": "Le Consciousness Atlas",
   "about.subtitle": "Visualiser le Landscape of Consciousness",
-  "about.intro.html": "Le Consciousness Atlas est une application web interactive qui visualise plus de 325 théories de la conscience. Elle s'appuie sur l'article de Robert Lawrence Kuhn paru en 2024, <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a>. L'Atlas cartographie les théories qui portent sur la conscience phénoménale - le ressenti subjectif de l'expérience, comme le rouge du rouge.",
-
+  "about.intro.html": "Le Consciousness Atlas est une application web interactive qui visualise plus de 450 théories de la conscience. Elle s'appuie sur l'article de Robert Lawrence Kuhn paru en 2024, <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a>. L'Atlas cartographie les théories qui portent sur la conscience phénoménale - le ressenti subjectif de l'expérience, comme le rouge du rouge.",
   "about.whatIs.title": "Ce qu'est l'Atlas",
   "about.whatIs.body": "L'Atlas est une référence visuelle construite sur la taxonomie de Kuhn. Il présente l'ensemble des théories en une seule fois afin que vous puissiez explorer le champ visuellement et ouvrir n'importe quelle théorie pour en lire l'entrée, comme une encyclopédie aux entrées structurées. Chaque entrée de théorie présente une ligne d'identité concise, le fondement conceptuel, le mécanisme suggéré, des notes empiriques, des implications et des sources.",
-
   "about.why.title": "Pourquoi ce projet existe",
   "about.why.body": "La conscience est étudiée à travers plusieurs disciplines - la neuroscience, la philosophie et, parfois, la recherche spirituelle ou sur les états anomaux. L'article de Kuhn recense et organise des centaines de théories le long d'un spectre allant du plus physique au moins physique. L'Atlas met cette organisation en forme visuelle afin que lecteurs, étudiants et chercheurs puissent voir rapidement comment les différentes positions se rapportent entre elles et où chaque théorie se situe sur le spectre.",
-
   "about.how.title": "Comment ça fonctionne",
   "about.how.body": "Les théories sont regroupées en dix catégories principales, classées selon leur position sur le spectre du physique au non physique. Parmi les exemples de catégories figurent le Matérialisme, le Physicalisme Non Réductif, le Fonctionnalisme, les théories de base quantique, le Panpsychisme, le Monisme, le Dualisme, l'Idéalisme, les États Anomaux et les Théories de Défi. L'application affiche la carte entière en une seule vue. Cliquez sur n'importe quelle théorie pour lire son entrée structurée, qui comprend des références à des sources canoniques et à des penseurs reconnus.",
-
   "about.audience.title": "À qui il s'adresse",
   "about.audience.item1": "Étudiants qui apprennent la philosophie de l'esprit et les sciences cognitives",
   "about.audience.item2": "Chercheurs et enseignants à la recherche d'une ressource comparative synthétique",
   "about.audience.item3": "Journalistes et rédacteurs qui ont besoin d'une référence rapide sur l'éventail des positions",
   "about.audience.item4": "Lecteurs curieux qui souhaitent avoir une vision claire de ce que l'on entend quand on parle de conscience",
-
   "about.notDo.title": "Ce que l'Atlas ne fait pas",
   "about.notDo.body": "L'Atlas n'approuve ni ne classe les théories. C'est une visualisation et une référence fondées sur la taxonomie de Kuhn - recenser et présenter, pas juger. Il ne cherche pas à résoudre le problème difficile de la conscience. C'est un outil d'exploration et de comparaison.",
-
   "about.kuhnNote.title": "Une note de Kuhn",
   "about.kuhnNote.body1": "Kuhn énonce explicitement l'objectif du projet : \"recenser et catégoriser, pas évaluer ni trancher.\" Le Consciousness Atlas suit cette approche. Les données et la structure proviennent de l'article de Kuhn ; les commentaires et corrections suggérées sont les bienvenus, mais l'application est une couche de visualisation posée sur le travail de Kuhn.",
   "about.kuhnNote.body2": "Kuhn n'a pas participé à la conception ni au contenu du Consciousness Atlas, en dehors de son article original, 'A Landscape of Consciousness', qui en est l'unique source.",
-
   "about.landscapeWebsite.title": "Site web Landscape of Consciousness",
   "about.landscapeWebsite.body.html": "Le <a href=\"https://loc.closertotruth.com/\" target=\"_blank\" rel=\"noopener noreferrer\">site web Landscape of Consciousness</a> constitue une extension, un enrichissement et une mise à jour significatifs de l'article de Robert Lawrence Kuhn, \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications.\" Le site web Landscape of Consciousness contient plus de 350 théories de la conscience, accessibles de cinq manières : <a href=\"https://loc.closertotruth.com/consciousness-theories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Grid</a>; <a href=\"https://loc.closertotruth.com/all-consciousness-categories-and-subcategories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Categories</a>; <a href=\"https://loc.closertotruth.com/all-consciousness-categories-subcategories-and-theories\" target=\"_blank\" rel=\"noopener noreferrer\">All Landscape Theories</a>; <a href=\"https://loc.closertotruth.com/map\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Map</a>; <a href=\"https://loc.closertotruth.com/interactive\" target=\"_blank\" rel=\"noopener noreferrer\">Interactive Visualizations</a>. Landscape of Consciousness est un travail en cours - en permanence.",
-
   "about.faq.title": "FAQ",
   "about.faq.q1": "Qu'est-ce que la conscience phénoménale ?",
   "about.faq.a1": "La conscience phénoménale désigne l'expérience subjective - le ressenti qualitatif d'être conscient, comme le goût du café ou le rouge du rouge.",
   "about.faq.q2": "Combien de théories l'Atlas comprend-il ?",
-  "about.faq.a2": "L'Atlas visualise plus de 220 théories individuelles, regroupées en dix grandes catégories.",
+  "about.faq.a2": "L'Atlas visualise plus de 450 théories individuelles, regroupées en dix grandes catégories.",
   "about.faq.q3": "L'Atlas indique-t-il quelle théorie est vraie ?",
   "about.faq.a3": "Non. L'Atlas présente les théories de manière neutre. C'est une carte, pas un plaidoyer en faveur d'une position unique.",
   "about.faq.q4": "L'Atlas est-il académique ?",
   "about.faq.a4": "L'Atlas s'appuie sur une source académique - l'article de Robert Kuhn paru en 2024, \"A Landscape of Consciousness\" - et renvoie vers des sources canoniques lorsqu'elles sont disponibles.",
-
   "about.related.title": "Lectures complémentaires",
   "about.related.body.html": "L'Atlas fait référence à des travaux de recherche canoniques en philosophie et en neuroscience, notamment la Théorie de l'Information Intégrée, la Théorie de l'Espace de Travail Global, des propositions panpsychistes, des idées de base quantique et des positions historiques de penseurs classiques. Pour le contexte académique original, voir l'article de Kuhn sur ScienceDirect : <a href=\"/paper.html\">A Landscape of Consciousness</a>.",
-
   "about.summary.title": "Résumé",
   "about.summary.body": "Le Consciousness Atlas est un outil de visualisation simple : il présente la taxonomie de Kuhn sous la forme d'une carte unique et explorable, et permet aux utilisateurs d'ouvrir des entrées de théories individuelles pour lire des résumés structurés et référencés. Il est conçu pour faciliter la vue d'ensemble de ce champ complexe et pour servir de référence pratique.",
-
   "about.footer.ariaLabel": "Informations sur le projet et attribution",
   "about.footer.creatorTitle": "À propos du créateur",
   "about.footer.creatorBody.html": "ConsciousnessAtlas.com est un projet indépendant de Danilo Znamerovszkij (<a href=\"https://www.linkedin.com/in/danilo-znamerovszkij-56a435156/\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a>), ingénieur frontend possédant une expérience dans la conception d'outils interactifs et de visualisations de données. Le projet reflète un intérêt de longue date pour les études de la conscience, la philosophie de l'esprit et la manière dont le logiciel peut rendre plus navigables des paysages théoriques complexes.",
@@ -64,7 +50,6 @@
   "about.footer.scopeTitle": "Portée",
   "about.footer.scopeBody": "Ce projet se veut une ressource exploratoire et éducative. Il ne défend aucune théorie particulière de la conscience et ne doit pas être interprété comme une classification scientifique faisant autorité.",
   "about.footer.linksLabel": "Liens :",
-
   "form.title": "Envoyer un commentaire",
   "form.closeAriaLabel": "Fermer le formulaire",
   "form.nameLabel": "Nom (facultatif)",
@@ -82,24 +67,20 @@
   "form.errors.messageRequired": "Veuillez saisir un message",
   "form.errors.sendFailedRetry": "Échec de l'envoi du message. Veuillez réessayer.",
   "form.success": "Message envoyé avec succès !",
-
   "searchBar.placeholder": "Rechercher des théories...",
   "searchBar.ariaLabel": "Rechercher des théories",
   "searchBar.resultsAriaLabel": "Résultats de la recherche",
-
   "itemDetails.closePanel": "Fermer le panneau",
   "itemDetails.welcome": "Sélectionnez un élément du graphique pour explorer ses mystères",
   "itemDetails.error.title": "Erreur",
   "itemDetails.error.heading": "Échec du chargement de la théorie",
   "itemDetails.loading.heading": "Chargement des données de la théorie...",
   "itemDetails.loading.body": "Veuillez patienter pendant que nous récupérons les informations détaillées.",
-
   "itemDetails.sections.conceptualGround": "I. Fondement Conceptuel",
   "itemDetails.sections.mechanismDynamics": "II. Mécanisme et Dynamique",
   "itemDetails.sections.empiricsCritiques": "III. Données Empiriques et Critiques",
   "itemDetails.sections.implications": "IV. Implications",
   "itemDetails.sections.relationsSources": "V. Relations et Sources",
-
   "itemDetails.fields.explanatoryIdentityClaim": "Affirmation Explicative d'Identité",
   "itemDetails.fields.mindBodyRelationship": "Relation Corps-Esprit",
   "itemDetails.fields.subjectivityIntentionality": "Subjectivité et Intentionnalité",
@@ -110,7 +91,6 @@
   "itemDetails.fields.primitiveOrEmergentStatus": "Statut Primitif ou Émergent",
   "itemDetails.fields.emergenceType": "Type d'Émergence",
   "itemDetails.fields.ontologicalStatus": "Statut Ontologique",
-
   "itemDetails.fields.scopeOfConsciousness": "Portée de la Conscience",
   "itemDetails.fields.distinctiveMechanism": "Mécanisme ou Principe Distinctif",
   "itemDetails.fields.dynamicsOfEmergence": "Dynamique de l'Émergence",
@@ -121,27 +101,25 @@
   "itemDetails.fields.evolutionaryAccount": "Explication Évolutive",
   "itemDetails.fields.coreClaimsEvidence": "Affirmations Centrales et Éléments de Preuve",
   "itemDetails.fields.basisOfBelief": "Fondement de la Croyance ou Type de Preuve",
-
   "itemDetails.fields.testabilityStatus": "Statut de Testabilité",
   "itemDetails.fields.knownEmpiricalTests": "Interventions ou Tests Empiriques Connus",
   "itemDetails.fields.criticismsTensions": "Critiques et Tensions",
   "itemDetails.fields.openQuestionsLimitations": "Questions Ouvertes et Limites",
   "itemDetails.fields.ontologicalCoherence": "Cohérence Ontologique",
-
   "itemDetails.fields.relatedTheories": "Théories Connexes",
   "itemDetails.fields.classification": "Classification",
   "itemDetails.fields.sourcesReferences": "Sources et Références",
-
   "itemDetails.implications.aiConsciousness": "Conscience de l'IA",
   "itemDetails.implications.survivalBeyondDeath": "Survie Après la Mort",
   "itemDetails.implications.meaningPurpose": "Sens et Finalité",
   "itemDetails.implications.virtualImmortality": "Immortalité Virtuelle",
-
   "misc.unknown": "Inconnu",
   "misc.unknownError": "Erreur inconnue",
-
   "nav.language.ariaLabel": "Choisir la langue",
   "languagePopup.title": "Choisir la langue",
   "languagePopup.subtitle": "Sélectionnez votre langue préférée",
-  "languagePopup.closeAriaLabel": "Fermer le sélecteur de langue"
+  "languagePopup.closeAriaLabel": "Fermer le sélecteur de langue",
+  "about.footer.support": "Soutenir le projet",
+  "about.footer.citeCopy": "Copier",
+  "about.footer.citeCopied": "Copié"
 }

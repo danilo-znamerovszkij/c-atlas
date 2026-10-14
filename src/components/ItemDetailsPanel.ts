@@ -1,4 +1,9 @@
-import { baseData, getDisplayLabel } from '../config/chartConfig'
+import { baseData, getDisplayLabel, getAllTheoryNames } from '../config/chartConfig'
+import { getTheoryFullName, theoryFullNames } from '../data/theoryNames'
+import { generateSlug } from '../utils/slugUtils'
+import { buildLocalizedPath } from '../shared/site'
+import { getCurrentLocale } from '../utils/i18n'
+import globalState from '../utils/globalState'
 import type { TheoryData } from '../types/theory'
 import analytics from '../utils/analytics'
 import { t } from '../utils/i18n'
@@ -15,11 +20,53 @@ interface ItemData {
 
 const FULLSCREEN_STORAGE_KEY = 'atlas.panelFullscreen'
 
+// Lets the panel open things outside itself (set by TheoryChart).
+export interface PanelNavigator {
+  openTheory: (category: string, slug: string) => void
+  openPath: (path: string[]) => void
+}
+
+type RelatedTarget = { kind: 'theory'; href: string; category: string; slug: string } | { kind: 'path'; path: string[] }
+
+const normalizeName = (name: string) =>
+  name.toLowerCase().replace(/[’‘`]/g, "'").replace(/\s+/g, ' ').trim()
+
+let relatedIndex: Map<string, RelatedTarget> | null = null
+
+// related_theories[].name -> a chart theory (by full or short name, English or
+// current locale) or a category/subcategory (by key or label). Unknown names
+// stay plain text.
+function resolveRelated(name: string): RelatedTarget | null {
+  if (!relatedIndex) {
+    relatedIndex = new Map()
+    const walk = (nodes: any[], prefix: string[]) => {
+      for (const node of nodes) {
+        if (!node.children) continue
+        const path = [...prefix, node.name]
+        for (const n of [node.name, getDisplayLabel(node.name)]) relatedIndex!.set(normalizeName(n), { kind: 'path', path })
+        walk(node.children, path)
+      }
+    }
+    walk(baseData, [])
+    for (const leaf of getAllTheoryNames()) {
+      const category = globalState.getTheoryCategory(leaf)
+      if (!category) continue
+      const slug = generateSlug(leaf)
+      const target: RelatedTarget = { kind: 'theory', href: buildLocalizedPath(`/${category}/${slug}`, getCurrentLocale()), category, slug }
+      for (const n of [getTheoryFullName(leaf), theoryFullNames[leaf], leaf]) {
+        if (n) relatedIndex.set(normalizeName(n), target)
+      }
+    }
+  }
+  return relatedIndex.get(normalizeName(name)) ?? null
+}
+
 export class ItemDetailsPanel {
   private container: HTMLElement
   private isVisible: boolean = false
   private itemData: Map<string, ItemData> = new Map()
   private onCloseCallback: (() => void) | null = null
+  private navigator: PanelNavigator | null = null
 
   constructor(containerId: string) {
     const element = document.getElementById(containerId)
@@ -33,6 +80,10 @@ export class ItemDetailsPanel {
 
   public setCloseCallback(callback: () => void) {
     this.onCloseCallback = callback
+  }
+
+  public setNavigator(navigator: PanelNavigator) {
+    this.navigator = navigator
   }
 
   private initializeItemData() {
@@ -110,7 +161,13 @@ export class ItemDetailsPanel {
     this.attachEventListeners()
   }
 
-  private setFullscreen(on: boolean) {
+  // Landing directly on a theory URL reads best full-screen; don't store it as
+  // the user's preference.
+  public showFullscreenForDirectVisit() {
+    this.setFullscreen(true, false)
+  }
+
+  private setFullscreen(on: boolean, persist = true) {
     const panel = this.container.querySelector('.item-details-panel')
     const btn = this.container.querySelector('#fullscreen-panel')
     panel?.classList.toggle('fullscreen', on)
@@ -120,13 +177,14 @@ export class ItemDetailsPanel {
       btn.setAttribute('aria-label', label)
       btn.setAttribute('title', label)
     }
+    if (!persist) return
     try { localStorage.setItem(FULLSCREEN_STORAGE_KEY, on ? '1' : '0') } catch { /* storage blocked */ }
   }
 
   private attachEventListeners() {
     let savedFullscreen = false
     try { savedFullscreen = localStorage.getItem(FULLSCREEN_STORAGE_KEY) === '1' } catch { /* storage blocked */ }
-    this.setFullscreen(savedFullscreen)
+    this.setFullscreen(savedFullscreen, false)
     this.container.querySelector('#fullscreen-panel')?.addEventListener('click', () => {
       const on = !this.container.querySelector('.item-details-panel')?.classList.contains('fullscreen')
       analytics.trackClick(on ? 'panel_fullscreen_on' : 'panel_fullscreen_off')
@@ -643,8 +701,13 @@ export class ItemDetailsPanel {
                 <div class="field-label">${t('itemDetails.fields.relatedTheories')}</div>
                 <div class="field-value">
                   <div class="related-theories-list">
-                    ${theoryData.relations_and_sources.related_theories.map(relation =>
-        `<div class="related-theory-item">
+                    ${theoryData.relations_and_sources.related_theories.map(relation => {
+        const target = resolveRelated(relation.name)
+        const open = target?.kind === 'theory'
+          ? `<a class="related-theory-item is-link" href="${target.href}" data-category="${target.category}" data-theory="${target.slug}">`
+          : target ? `<button type="button" class="related-theory-item is-link" data-path="${target.path.join('|')}">` : `<div class="related-theory-item">`
+        const close = target?.kind === 'theory' ? '</a>' : target ? '</button>' : '</div>'
+        return `${open}
                         <div class="theory-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M18.5 9.5V8.7C18.5 7.57989 18.5 7.01984 18.282 6.59202C18.0903 6.21569 17.7843 5.90973 17.408 5.71799C16.9802 5.5 16.4201 5.5 15.3 5.5H7.7C6.57989 5.5 6.01984 5.5 5.59202 5.71799C5.21569 5.90973 4.90973 6.21569 4.71799 6.59202C4.5 7.01984 4.5 7.57989 4.5 8.7V12.3C4.5 13.4201 4.5 13.9802 4.71799 14.408C4.90973 14.7843 5.21569 15.0903 5.59202 15.282C6.01984 15.5 6.57989 15.5 7.7 15.5H13.5" stroke="#FFFFFF" stroke-linecap="round"/>
 <path d="M7.5 12.5H11.5" stroke="#FFFFFF" stroke-linecap="round"/>
@@ -657,8 +720,8 @@ export class ItemDetailsPanel {
                           <div class="theory-name">${relation.name}</div>
                           <div class="theory-relationship">${relation.relationship}</div>
                         </div>
-                      </div>`
-      ).join('')}
+                      ${close}`
+      }).join('')}
                   </div>
                 </div>
               </div>
@@ -697,9 +760,31 @@ export class ItemDetailsPanel {
         </div>
       `
       this.removeEmptyBlocks(infoElement)
+      this.wireRelatedLinks(infoElement)
     }
 
     this.attachLinkTracking()
+  }
+
+  private wireRelatedLinks(root: Element) {
+    root.querySelectorAll<HTMLAnchorElement>('a.related-theory-item[data-theory]').forEach(link =>
+      link.addEventListener('click', event => {
+        if (!this.navigator || event.metaKey || event.ctrlKey || event.shiftKey || event.button !== 0) return
+        event.preventDefault()
+        analytics.trackClick('related_theory', undefined, link.getAttribute('href') || '')
+        this.navigator.openTheory(link.dataset.category!, link.dataset.theory!)
+        this.container.querySelector('.item-details-panel')?.scrollTo({ top: 0 })
+      })
+    )
+    root.querySelectorAll<HTMLButtonElement>('button.related-theory-item[data-path]').forEach(button =>
+      button.addEventListener('click', () => {
+        if (!this.navigator) return
+        analytics.trackClick('related_category', undefined, button.dataset.path)
+        this.hide()
+        this.onCloseCallback?.()
+        this.navigator.openPath(button.dataset.path!.split('|'))
+      })
+    )
   }
 
   // MTTS uses "" for fields a theory doesn't address; drop them instead of

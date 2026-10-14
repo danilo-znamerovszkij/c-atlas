@@ -1,59 +1,45 @@
 {
   "chartLoader.text": "正在載入圖表……",
-
   "nav.feedback": "回饋",
   "nav.about.tooltip": "關於",
   "nav.github.alt": "GitHub 星標",
-
   "sourceCitation.text": "來源：Landscape of Consciousness（Kuhn，2024）",
   "sourceCitation.kuhnCitation": "Robert Lawrence Kuhn. \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. Progress in Biophysics and Molecular Biology, Volume 190, 2024, Pages 28-169.\"",
   "sourceCitation.landscapeLink": "Landscape of Consciousness",
-
   "about.heading": "Consciousness Atlas",
   "about.subtitle": "視覺化 Landscape of Consciousness",
-  "about.intro.html": "Consciousness Atlas 是一款互動式網路應用程式，將 325 種以上的意識理論加以視覺化。它以 Robert Lawrence Kuhn 於 2024 年發表的論文 <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">「A Landscape of Consciousness」</a>為基礎。本圖譜描繪處理現象意識的各種理論——亦即經驗的主觀感受，例如紅之為紅的那種感覺。",
-
+  "about.intro.html": "Consciousness Atlas 是一款互動式網路應用程式，將 450 種以上的意識理論加以視覺化。它以 Robert Lawrence Kuhn 於 2024 年發表的論文 <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">「A Landscape of Consciousness」</a>為基礎。本圖譜描繪處理現象意識的各種理論——亦即經驗的主觀感受，例如紅之為紅的那種感覺。",
   "about.whatIs.title": "本圖譜是什麼",
   "about.whatIs.body": "本圖譜是一部建立在 Kuhn 分類法之上的視覺化參考工具。它一次呈現全部理論，讓您能以視覺化的方式探索這一領域，並開啟任一理論以閱讀其條目，就像一部條目結構化的百科全書。每個理論條目都會顯示一行簡潔的識別性陳述、概念基礎、所提出的機制、經驗性注記、蘊涵以及來源。",
-
   "about.why.title": "本專案為何存在",
   "about.why.body": "意識研究橫跨多個學科——神經科學、哲學，有時還包括靈性研究或異常狀態研究。Kuhn 的論文沿著從最物理到最不物理的光譜，收集並整理了數百種理論。本圖譜將這種整理方式呈現為視覺化形式，使讀者、學生與研究者能迅速看出不同立場之間的關係，以及每種理論在該光譜上的位置。",
-
   "about.how.title": "它如何運作",
   "about.how.body": "各種理論被歸入十個主要類別，並依其在「物理—非物理」光譜上的立場加以排列。類別的例子包括唯物論、非化約物理論、功能論、量子類理論、泛心論、一元論、二元論、觀念論、異常狀態以及挑戰理論。本應用程式一次展示整幅圖譜。點選任一理論即可閱讀其結構化條目，其中包含對經典來源與具名思想家的引用。",
-
   "about.audience.title": "它面向誰",
   "about.audience.item1": "學習心靈哲學與認知科學的學生",
   "about.audience.item2": "尋找一目了然之比較性資源的研究者與講師",
   "about.audience.item3": "需要快速查閱各種立場範圍的記者與寫作者",
   "about.audience.item4": "希望清楚了解人們談論意識時究竟所指為何的好奇讀者",
-
   "about.notDo.title": "本圖譜不做什麼",
   "about.notDo.body": "本圖譜不為任何理論背書或排名。它是一部以 Kuhn 分類法為基礎的視覺化與參考工具——收集與呈現，而非評判。它不試圖解決意識的難問題。它是一件供探索與比較之用的工具。",
-
   "about.kuhnNote.title": "來自 Kuhn 的說明",
   "about.kuhnNote.body1": "Kuhn 明確指出本專案的目的：「收集與歸類，而非評估與裁斷。」Consciousness Atlas 遵循這一取向。其資料與結構源自 Kuhn 的論文；歡迎提出回饋與建議性的更正，但本應用程式只是覆蓋在 Kuhn 研究之上的一個視覺化層。",
   "about.kuhnNote.body2": "除了作為唯一來源的原創論文「A Landscape of Consciousness」之外，Kuhn 並未參與 Consciousness Atlas 的設計或內容。",
-
   "about.landscapeWebsite.title": "Landscape of Consciousness 網站",
   "about.landscapeWebsite.body.html": "<a href=\"https://loc.closertotruth.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape of Consciousness 網站</a>是對 Robert Lawrence Kuhn 論文「A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications.」的重要擴充、強化與更新。Landscape of Consciousness 網站收錄了 350 種以上的意識理論，可透過五種方式存取：<a href=\"https://loc.closertotruth.com/consciousness-theories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Grid</a>；<a href=\"https://loc.closertotruth.com/all-consciousness-categories-and-subcategories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Categories</a>；<a href=\"https://loc.closertotruth.com/all-consciousness-categories-subcategories-and-theories\" target=\"_blank\" rel=\"noopener noreferrer\">All Landscape Theories</a>；<a href=\"https://loc.closertotruth.com/map\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Map</a>；<a href=\"https://loc.closertotruth.com/interactive\" target=\"_blank\" rel=\"noopener noreferrer\">Interactive Visualizations</a>。Landscape of Consciousness 是一項永遠進行中的工作。",
-
   "about.faq.title": "常見問題",
   "about.faq.q1": "什麼是現象意識？",
   "about.faq.a1": "現象意識指的是主觀經驗——那種身為有意識者的質性感受，例如咖啡的味道或紅之為紅的感覺。",
   "about.faq.q2": "本圖譜包含多少種理論？",
-  "about.faq.a2": "本圖譜將 220 種以上的獨立理論加以視覺化，歸入十個寬泛的類別。",
+  "about.faq.a2": "本圖譜將 450 種以上的獨立理論加以視覺化，歸入十個寬泛的類別。",
   "about.faq.q3": "本圖譜會指出哪一種理論是真的嗎？",
   "about.faq.a3": "不會。本圖譜以中立的方式呈現各種理論。它是一幅地圖，而非為任一立場辯護的論證。",
   "about.faq.q4": "本圖譜是學術性的嗎？",
   "about.faq.a4": "本圖譜以一份學術來源為基礎——Robert Kuhn 於 2024 年發表的論文「A Landscape of Consciousness」——並在可取得時連結至經典來源。",
-
   "about.related.title": "延伸閱讀",
   "about.related.body.html": "本圖譜引用了哲學與神經科學領域的經典研究，包括整合資訊理論、全域工作空間理論、泛心論的主張、基於量子的構想，以及古典思想家的歷史立場。若欲了解原始的學術脈絡，請參閱 Kuhn 發表於 ScienceDirect 的文章：<a href=\"/paper.html\">A Landscape of Consciousness</a>。",
-
   "about.summary.title": "摘要",
   "about.summary.body": "Consciousness Atlas 是一件直截了當的視覺化工具：它將 Kuhn 的分類法呈現為一幅可探索的單一地圖，並讓使用者開啟各個理論條目，閱讀結構化且附有出處的摘要。它旨在讓這一複雜領域更易於綜覽，並作為一件實用的參考工具。",
-
   "about.footer.ariaLabel": "專案資訊與署名",
   "about.footer.creatorTitle": "關於創建者",
   "about.footer.creatorBody.html": "ConsciousnessAtlas.com 是由 Danilo Znamerovszkij（<a href=\"https://www.linkedin.com/in/danilo-znamerovszkij-56a435156/\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a>）獨立開發的專案，他是一名前端工程師，具有打造互動式工具與資料視覺化的經驗。本專案體現了他對意識研究、心靈哲學，以及如何透過軟體讓複雜的理論圖景更易於導覽的長期興趣。",
@@ -64,7 +50,6 @@
   "about.footer.scopeTitle": "範圍",
   "about.footer.scopeBody": "本專案旨在作為一種探索性與教育性的資源。它不為任何特定的意識理論辯護，也不應被解讀為權威性的科學分類。",
   "about.footer.linksLabel": "連結：",
-
   "form.title": "傳送回饋",
   "form.closeAriaLabel": "關閉表單",
   "form.nameLabel": "姓名（選填）",
@@ -82,24 +67,20 @@
   "form.errors.messageRequired": "請輸入訊息內容",
   "form.errors.sendFailedRetry": "訊息傳送失敗。請再試一次。",
   "form.success": "訊息傳送成功！",
-
   "searchBar.placeholder": "搜尋理論……",
   "searchBar.ariaLabel": "搜尋理論",
   "searchBar.resultsAriaLabel": "搜尋結果",
-
   "itemDetails.closePanel": "關閉面板",
   "itemDetails.welcome": "從圖表中選取一個項目，探索其中的奧祕",
   "itemDetails.error.title": "錯誤",
   "itemDetails.error.heading": "載入理論失敗",
   "itemDetails.loading.heading": "正在載入理論資料……",
   "itemDetails.loading.body": "正在擷取詳細資訊，請稍候。",
-
   "itemDetails.sections.conceptualGround": "I. 概念基礎",
   "itemDetails.sections.mechanismDynamics": "II. 機制與動力學",
   "itemDetails.sections.empiricsCritiques": "III. 經驗證據與批評",
   "itemDetails.sections.implications": "IV. 蘊涵",
   "itemDetails.sections.relationsSources": "V. 關聯與來源",
-
   "itemDetails.fields.explanatoryIdentityClaim": "解釋性同一主張",
   "itemDetails.fields.mindBodyRelationship": "心身關係",
   "itemDetails.fields.subjectivityIntentionality": "主體性與意向性",
@@ -110,7 +91,6 @@
   "itemDetails.fields.primitiveOrEmergentStatus": "原初或湧現地位",
   "itemDetails.fields.emergenceType": "湧現類型",
   "itemDetails.fields.ontologicalStatus": "存有論地位",
-
   "itemDetails.fields.scopeOfConsciousness": "意識的範圍",
   "itemDetails.fields.distinctiveMechanism": "獨特機制或原理",
   "itemDetails.fields.dynamicsOfEmergence": "湧現的動力學",
@@ -121,27 +101,25 @@
   "itemDetails.fields.evolutionaryAccount": "演化解釋",
   "itemDetails.fields.coreClaimsEvidence": "核心主張與證據",
   "itemDetails.fields.basisOfBelief": "信念基礎或證據類型",
-
   "itemDetails.fields.testabilityStatus": "可檢驗性狀態",
   "itemDetails.fields.knownEmpiricalTests": "已知的經驗性干預或檢驗",
   "itemDetails.fields.criticismsTensions": "批評與張力",
   "itemDetails.fields.openQuestionsLimitations": "開放問題與侷限",
   "itemDetails.fields.ontologicalCoherence": "存有論融貫性",
-
   "itemDetails.fields.relatedTheories": "相關理論",
   "itemDetails.fields.classification": "分類",
   "itemDetails.fields.sourcesReferences": "來源與參考文獻",
-
   "itemDetails.implications.aiConsciousness": "人工智慧意識",
   "itemDetails.implications.survivalBeyondDeath": "死後存續",
   "itemDetails.implications.meaningPurpose": "意義與目的",
   "itemDetails.implications.virtualImmortality": "虛擬永生",
-
   "misc.unknown": "未知",
   "misc.unknownError": "未知錯誤",
-
   "nav.language.ariaLabel": "選擇語言",
   "languagePopup.title": "選擇語言",
   "languagePopup.subtitle": "選擇您偏好的語言",
-  "languagePopup.closeAriaLabel": "關閉語言選擇器"
+  "languagePopup.closeAriaLabel": "關閉語言選擇器",
+  "about.footer.support": "支持本專案",
+  "about.footer.citeCopy": "複製",
+  "about.footer.citeCopied": "已複製"
 }

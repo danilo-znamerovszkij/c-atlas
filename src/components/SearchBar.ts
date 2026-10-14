@@ -18,9 +18,18 @@ export class SearchBar {
     }
     this.container = element
     this.router = router
-    this.loadTheories()
     this.render()
     this.attachEventListeners()
+    this.loadTheories().then(() => this.applyQueryParam())
+  }
+
+  // ?q=... (the site's SearchAction in index.html JSON-LD) prefills the search.
+  private applyQueryParam() {
+    const query = new URLSearchParams(window.location.search).get('q')?.trim()
+    if (!query) return
+    this.input.value = query
+    this.handleSearch(query.toLowerCase())
+    this.input.focus()
   }
 
   private async loadTheories() {

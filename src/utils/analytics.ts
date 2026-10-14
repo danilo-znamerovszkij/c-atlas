@@ -1,4 +1,4 @@
-import mixpanel from 'mixpanel-browser'
+import type { Mixpanel } from 'mixpanel-browser'
 import { parseLocaleFromPath } from '@/shared/site'
 
 interface AnalyticsConfig {
@@ -7,7 +7,9 @@ interface AnalyticsConfig {
 }
 
 class Analytics {
-  private mixpanel: typeof mixpanel | null = null
+  private mixpanel: Mixpanel | null = null
+  // Events fired before the library has loaded; sent once it's ready.
+  private queue: Array<[string, Record<string, any>]> = []
   private config: AnalyticsConfig
 
   constructor() {
@@ -21,33 +23,45 @@ class Analytics {
     }
   }
 
+  // mixpanel-browser is ~100 KB; load it after the page is up instead of on
+  // the critical path.
   private initialize() {
-    try {
-      mixpanel.init(this.config.token, {
-        debug: !import.meta.env.PROD,
-        track_pageview: false,
-        persistence: 'localStorage',
-        ignore_dnt: true
+    const load = () => import('mixpanel-browser')
+      .then(({ default: mixpanel }) => {
+        mixpanel.init(this.config.token, {
+          debug: !import.meta.env.PROD,
+          track_pageview: false,
+          persistence: 'localStorage',
+          ignore_dnt: true
+        })
+        this.mixpanel = mixpanel
+        for (const [event, properties] of this.queue.splice(0)) mixpanel.track(event, properties)
       })
-      this.mixpanel = mixpanel
-    } catch (error) {
-      console.error('Failed to initialize Mixpanel:', error)
-    }
+      .catch(error => console.error('Failed to initialize Mixpanel:', error))
+    if ('requestIdleCallback' in window) requestIdleCallback(load, { timeout: 4000 })
+    else setTimeout(load, 1500)
   }
 
   private track(event: string, properties?: Record<string, any>) {
-    if (!this.mixpanel || !this.config.enabled) {
+    if (!this.config.enabled) {
+      return
+    }
+
+    // Captured now, so queued events keep the page and time they happened on.
+    const payload = {
+      ...properties,
+      locale: parseLocaleFromPath(window.location.pathname).locale,
+      timestamp: new Date().toISOString(),
+      url: window.location.href,
+      user_agent: navigator.userAgent
+    }
+    if (!this.mixpanel) {
+      this.queue.push([event, payload])
       return
     }
 
     try {
-      this.mixpanel.track(event, {
-        ...properties,
-        locale: parseLocaleFromPath(window.location.pathname).locale,
-        timestamp: new Date().toISOString(),
-        url: window.location.href,
-        user_agent: navigator.userAgent
-      })
+      this.mixpanel.track(event, payload)
     } catch (error) {
       console.error('Failed to track event:', error)
     }

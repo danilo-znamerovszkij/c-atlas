@@ -188,6 +188,14 @@ function generateIndexes(locales) {
     });
     writeFileSync(join(outDir, `${locale}.json`), JSON.stringify(entries), "utf-8");
   }
+  // Which non-English locales have a translated file per theory stem; the
+  // Worker uses it for canonical/hreflang on theory pages (worker/index.ts).
+  const translations = {};
+  for (const { name } of leaves) {
+    const stem = resolveTheoryFileStem(name);
+    translations[stem] = locales.filter((l) => l !== DEFAULT_LOCALE && existsSync(join(publicDir, "data", l, `${stem}.json`)));
+  }
+  writeFileSync(join(outDir, "translations.json"), JSON.stringify(translations), "utf-8");
   console.log(`Theory indexes: ${leaves.length} theories x ${locales.length} locales -> ${outDir}`);
 }
 

@@ -958,3 +958,90 @@ body {
     }
   }
 }
+
+// Server-rendered theory article (worker/theoryPage.ts). Shown full-screen
+// until the app boots and replaces it with the interactive panel; also what
+// crawlers and no-JS visitors read.
+.ssr-theory {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  overflow-y: auto;
+  background: #100f0a;
+  color: rgba(255, 255, 255, 0.86);
+  padding: 48px max(24px, calc((100vw - 860px) / 2)) 64px;
+  box-sizing: border-box;
+  font-size: 16px;
+  line-height: 1.6;
+
+  h1 {
+    @include bodoni-font;
+    color: #fff;
+    font-size: clamp(28px, 4vw, 40px);
+    font-weight: 400;
+    line-height: 1.15;
+    margin: 6px 0 10px;
+  }
+
+  h2 {
+    color: #eabd61;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin: 28px 0 8px;
+  }
+
+  p,
+  li,
+  dd {
+    max-width: 68ch;
+  }
+
+  ul {
+    padding-left: 20px;
+  }
+
+  dt {
+    color: #fff;
+    font-weight: 500;
+    margin-top: 10px;
+  }
+
+  dd {
+    margin-left: 0;
+  }
+
+  a {
+    color: #7ea6f2;
+  }
+
+  li span {
+    color: rgba(255, 255, 255, 0.45);
+  }
+}
+
+.ssr-theory-category {
+  color: #eabd61;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.ssr-theory-tagline {
+  color: #7ea6f2;
+  font-style: italic;
+}
+
+.ssr-theory-summary {
+  font-style: italic;
+  border-left: 3px solid rgba(255, 255, 255, 0.25);
+  padding-left: 16px;
+  margin: 20px 0;
+}
+
+.ssr-theory-thinkers {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 14px;
+}

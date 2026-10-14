@@ -1,59 +1,45 @@
 {
   "chartLoader.text": "טוען תרשים...",
-
   "nav.feedback": "משוב",
   "nav.about.tooltip": "אודות",
   "nav.github.alt": "כוכבי GitHub",
-
   "sourceCitation.text": "מקור: Landscape of Consciousness (Kuhn, 2024)",
   "sourceCitation.kuhnCitation": "Robert Lawrence Kuhn. \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. Progress in Biophysics and Molecular Biology, Volume 190, 2024, Pages 28-169.\"",
   "sourceCitation.landscapeLink": "Landscape of Consciousness",
-
   "about.heading": "Consciousness Atlas",
   "about.subtitle": "המחשה חזותית של Landscape of Consciousness",
-  "about.intro.html": "Consciousness Atlas הוא יישום ווב אינטראקטיבי הממחיש יותר מ-325 תיאוריות של תודעה. הוא מבוסס על מאמרו של Robert Lawrence Kuhn משנת 2024, <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a>. האטלס ממפה תיאוריות העוסקות בתודעה הפנומנלית - התחושה הסובייקטיבית של החוויה, כמו האדמומיות של האדום.",
-
+  "about.intro.html": "Consciousness Atlas הוא יישום ווב אינטראקטיבי הממחיש יותר מ-450 תיאוריות של תודעה. הוא מבוסס על מאמרו של Robert Lawrence Kuhn משנת 2024, <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a>. האטלס ממפה תיאוריות העוסקות בתודעה הפנומנלית - התחושה הסובייקטיבית של החוויה, כמו האדמומיות של האדום.",
   "about.whatIs.title": "מהו האטלס",
   "about.whatIs.body": "האטלס הוא מקור עיון חזותי הבנוי על הטקסונומיה של Kuhn. הוא מציג את מכלול התיאוריות בבת אחת, כך שתוכלו לחקור את התחום באופן חזותי ולפתוח כל תיאוריה כדי לקרוא את הערך שלה, כמו אנציקלופדיה בעלת ערכים מובְנים. כל ערך תיאוריה מציג שורת זהות תמציתית, בסיס מושגי, מנגנון מוצע, הערות אמפיריות, השלכות ומקורות.",
-
   "about.why.title": "מדוע זה קיים",
   "about.why.body": "התודעה נחקרת בתחומים שונים - מדעי המוח, פילוסופיה, ולעיתים מחקר רוחני או של מצבים חריגים. מאמרו של Kuhn אוסף ומארגן מאות תיאוריות לאורך רצף מן הפיזי ביותר אל הפחות פיזי. האטלס מעניק לארגון זה צורה חזותית, כך שקוראים, סטודנטים וחוקרים יוכלו לראות במהירות כיצד עמדות שונות קשורות זו לזו והיכן ממוקמת כל תיאוריה על הרצף.",
-
   "about.how.title": "כיצד זה עובד",
   "about.how.body": "התיאוריות מקובצות לעשר קטגוריות מרכזיות, המסודרות לפי עמדתן על הרצף מן הפיזי אל הלא-פיזי. בין הדוגמאות לקטגוריות: מטריאליזם, פיזיקליזם לא-רדוקטיבי, פונקציונליזם, תיאוריות מבוססות-קוונטים, פאנפסיכיזם, מוניזם, דואליזם, אידאליזם, מצבים חריגים ותיאוריות תיגר. היישום מציג את כל המפה בבת אחת. לחצו על כל תיאוריה כדי לקרוא את הערך המובנה שלה, הכולל הפניות למקורות קנוניים ולהוגים בשמם.",
-
   "about.audience.title": "למי זה מיועד",
   "about.audience.item1": "סטודנטים הלומדים פילוסופיה של הנפש ומדעי הקוגניציה",
   "about.audience.item2": "חוקרים ומרצים המחפשים מקור השוואתי למבט מהיר",
   "about.audience.item3": "עיתונאים וכותבים הזקוקים למקור עיון מהיר למגוון העמדות",
   "about.audience.item4": "קוראים סקרנים הרוצים תמונה ברורה של מה שאנשים מתכוונים אליו כשהם מדברים על תודעה",
-
   "about.notDo.title": "מה האטלס אינו עושה",
   "about.notDo.body": "האטלס אינו תומך בתיאוריות ואינו מדרג אותן. זוהי המחשה חזותית ומקור עיון המבוססים על הטקסונומיה של Kuhn - איסוף והצגה, לא שיפוט. הוא אינו מנסה להכריע את הבעיה הקשה של התודעה. זהו כלי לחקירה ולהשוואה.",
-
   "about.kuhnNote.title": "הערה מאת Kuhn",
   "about.kuhnNote.body1": "Kuhn מציין במפורש את מטרת המיזם: «לאסוף ולסווג, לא להעריך ולהכריע». Consciousness Atlas נוקט בגישה זו. הנתונים והמבנה נגזרים ממאמרו של Kuhn; משוב והצעות לתיקונים יתקבלו בברכה, אך היישום הוא שכבת המחשה חזותית על גבי עבודתו של Kuhn.",
   "about.kuhnNote.body2": "Kuhn לא היה מעורב בעיצוב או בתוכן של Consciousness Atlas, מלבד מאמרו המקורי, 'A Landscape of Consciousness', המהווה את המקור היחיד.",
-
   "about.landscapeWebsite.title": "אתר Landscape of Consciousness",
   "about.landscapeWebsite.body.html": "אתר <a href=\"https://loc.closertotruth.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape of Consciousness</a> הוא הרחבה, שדרוג ועדכון משמעותיים של מאמרו של Robert Lawrence Kuhn, \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications.\" אתר Landscape of Consciousness מכיל יותר מ-350 תיאוריות של תודעה, שאליהן ניתן לגשת בחמש דרכים: <a href=\"https://loc.closertotruth.com/consciousness-theories\" target=\"_blank\" rel=\"noopener noreferrer\">רשת Landscape</a>; <a href=\"https://loc.closertotruth.com/all-consciousness-categories-and-subcategories\" target=\"_blank\" rel=\"noopener noreferrer\">קטגוריות Landscape</a>; <a href=\"https://loc.closertotruth.com/all-consciousness-categories-subcategories-and-theories\" target=\"_blank\" rel=\"noopener noreferrer\">כל תיאוריות Landscape</a>; <a href=\"https://loc.closertotruth.com/map\" target=\"_blank\" rel=\"noopener noreferrer\">מפת Landscape</a>; <a href=\"https://loc.closertotruth.com/interactive\" target=\"_blank\" rel=\"noopener noreferrer\">המחשות חזותיות אינטראקטיביות</a>. Landscape of Consciousness הוא מיזם המצוי בעבודה מתמשכת – לצמיתות.",
-
   "about.faq.title": "שאלות נפוצות",
   "about.faq.q1": "מהי תודעה פנומנלית?",
   "about.faq.a1": "תודעה פנומנלית מתייחסת לחוויה סובייקטיבית - התחושה האיכותית של היות מודע, כמו טעם הקפה או האדמומיות של האדום.",
   "about.faq.q2": "כמה תיאוריות כולל האטלס?",
-  "about.faq.a2": "האטלס ממחיש יותר מ-220 תיאוריות בודדות, המקובצות לעשר קטגוריות רחבות.",
+  "about.faq.a2": "האטלס ממחיש יותר מ-450 תיאוריות בודדות, המקובצות לעשר קטגוריות רחבות.",
   "about.faq.q3": "האם האטלס מראה איזו תיאוריה נכונה?",
   "about.faq.a3": "לא. האטלס מציג את התיאוריות באופן ניטרלי. זוהי מפה, לא טיעון בעד עמדה כלשהי.",
   "about.faq.q4": "האם האטלס אקדמי?",
   "about.faq.a4": "האטלס מבוסס על מקור אקדמי - מאמרו של Robert Kuhn משנת 2024, \"A Landscape of Consciousness\" - ומקשר למקורות קנוניים במקומות שבהם הם זמינים.",
-
   "about.related.title": "קריאה נוספת",
   "about.related.body.html": "האטלס מפנה למחקר קנוני ברחבי הפילוסופיה ומדעי המוח, ובכלל זה תיאוריית המידע המשולב, תיאוריית מרחב העבודה הגלובלי, הצעות פאנפסיכיסטיות, רעיונות מבוססי-קוונטים, ועמדות היסטוריות של הוגים קלאסיים. להקשר האקדמי המקורי, ראו את מאמרו של Kuhn ב-ScienceDirect: <a href=\"/paper.html\">A Landscape of Consciousness</a>.",
-
   "about.summary.title": "סיכום",
   "about.summary.body": "Consciousness Atlas הוא כלי המחשה חזותית פשוט: הוא מציג את הטקסונומיה של Kuhn כמפה אחת הניתנת לחקירה, ומאפשר למשתמשים לפתוח ערכי תיאוריה בודדים כדי לקרוא סיכומים מובְנים ומתועדים. הוא נועד להקל על סקירת התחום המורכב הזה ולשמש כמקור עיון מעשי.",
-
   "about.footer.ariaLabel": "מידע על המיזם וייחוס",
   "about.footer.creatorTitle": "אודות היוצר",
   "about.footer.creatorBody.html": "ConsciousnessAtlas.com הוא מיזם עצמאי מאת Danilo Znamerovszkij (<a href=\"https://www.linkedin.com/in/danilo-znamerovszkij-56a435156/\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a>), מהנדס פרונט-אנד בעל ניסיון בבניית כלים אינטראקטיביים והמחשות נתונים. המיזם משקף עניין ארוך-שנים בחקר התודעה, בפילוסופיה של הנפש, ובאופן שבו ניתן להפוך נופים תיאורטיים מורכבים לנגישים יותר באמצעות תוכנה.",
@@ -64,7 +50,6 @@
   "about.footer.scopeTitle": "היקף",
   "about.footer.scopeBody": "מיזם זה נועד לשמש כמקור חקירה וחינוך. הוא אינו מקדם תיאוריית תודעה מסוימת ואין לפרשו כסיווג מדעי סמכותי.",
   "about.footer.linksLabel": "קישורים:",
-
   "form.title": "שליחת משוב",
   "form.closeAriaLabel": "סגירת הטופס",
   "form.nameLabel": "שם (רשות)",
@@ -82,24 +67,20 @@
   "form.errors.messageRequired": "נא להזין הודעה",
   "form.errors.sendFailedRetry": "שליחת ההודעה נכשלה. נסו שוב.",
   "form.success": "ההודעה נשלחה בהצלחה!",
-
   "searchBar.placeholder": "חיפוש תיאוריות...",
   "searchBar.ariaLabel": "חיפוש תיאוריות",
   "searchBar.resultsAriaLabel": "תוצאות החיפוש",
-
   "itemDetails.closePanel": "סגירת הפאנל",
   "itemDetails.welcome": "בחרו פריט מהתרשים כדי לחקור את תעלומותיו",
   "itemDetails.error.title": "שגיאה",
   "itemDetails.error.heading": "טעינת התיאוריה נכשלה",
   "itemDetails.loading.heading": "טוען נתוני תיאוריה...",
   "itemDetails.loading.body": "אנא המתינו בעת שאנו מביאים את המידע המפורט.",
-
   "itemDetails.sections.conceptualGround": "I. הבסיס המושגי",
   "itemDetails.sections.mechanismDynamics": "II. מנגנון ודינמיקה",
   "itemDetails.sections.empiricsCritiques": "III. ממצאים אמפיריים וביקורות",
   "itemDetails.sections.implications": "IV. השלכות",
   "itemDetails.sections.relationsSources": "V. קשרים ומקורות",
-
   "itemDetails.fields.explanatoryIdentityClaim": "טענת זהות מסבירה",
   "itemDetails.fields.mindBodyRelationship": "יחס נפש-גוף",
   "itemDetails.fields.subjectivityIntentionality": "סובייקטיביות ואינטנציונליות",
@@ -110,7 +91,6 @@
   "itemDetails.fields.primitiveOrEmergentStatus": "מעמד ראשוני או מתהווה",
   "itemDetails.fields.emergenceType": "סוג ההתהוות",
   "itemDetails.fields.ontologicalStatus": "מעמד אונטולוגי",
-
   "itemDetails.fields.scopeOfConsciousness": "היקף התודעה",
   "itemDetails.fields.distinctiveMechanism": "מנגנון או עיקרון ייחודי",
   "itemDetails.fields.dynamicsOfEmergence": "הדינמיקה של ההתהוות",
@@ -121,27 +101,25 @@
   "itemDetails.fields.evolutionaryAccount": "הסבר אבולוציוני",
   "itemDetails.fields.coreClaimsEvidence": "טענות מרכזיות וראיות",
   "itemDetails.fields.basisOfBelief": "בסיס האמונה או סוג הראיה",
-
   "itemDetails.fields.testabilityStatus": "מעמד הניתנות לבדיקה",
   "itemDetails.fields.knownEmpiricalTests": "התערבויות או בדיקות אמפיריות ידועות",
   "itemDetails.fields.criticismsTensions": "ביקורות ומתחים",
   "itemDetails.fields.openQuestionsLimitations": "שאלות פתוחות ומגבלות",
   "itemDetails.fields.ontologicalCoherence": "קוהרנטיות אונטולוגית",
-
   "itemDetails.fields.relatedTheories": "תיאוריות קשורות",
   "itemDetails.fields.classification": "סיווג",
   "itemDetails.fields.sourcesReferences": "מקורות והפניות",
-
   "itemDetails.implications.aiConsciousness": "תודעת בינה מלאכותית",
   "itemDetails.implications.survivalBeyondDeath": "הישרדות מעבר למוות",
   "itemDetails.implications.meaningPurpose": "משמעות ותכלית",
   "itemDetails.implications.virtualImmortality": "אלמוות וירטואלי",
-
   "misc.unknown": "לא ידוע",
   "misc.unknownError": "שגיאה לא ידועה",
-
   "nav.language.ariaLabel": "בחירת שפה",
   "languagePopup.title": "בחירת שפה",
   "languagePopup.subtitle": "בחרו את השפה המועדפת עליכם",
-  "languagePopup.closeAriaLabel": "סגירת בורר השפה"
+  "languagePopup.closeAriaLabel": "סגירת בורר השפה",
+  "about.footer.support": "תמכו בפרויקט",
+  "about.footer.citeCopy": "העתקה",
+  "about.footer.citeCopied": "הועתק"
 }

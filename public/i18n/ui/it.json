@@ -1,59 +1,45 @@
 {
   "chartLoader.text": "Caricamento del grafico...",
-
   "nav.feedback": "Feedback",
   "nav.about.tooltip": "Informazioni",
   "nav.github.alt": "Stelle su GitHub",
-
   "sourceCitation.text": "Fonte: Landscape of Consciousness (Kuhn, 2024)",
   "sourceCitation.kuhnCitation": "Robert Lawrence Kuhn. \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. Progress in Biophysics and Molecular Biology, Volume 190, 2024, Pages 28-169.\"",
   "sourceCitation.landscapeLink": "Landscape of Consciousness",
-
   "about.heading": "Il Consciousness Atlas",
   "about.subtitle": "Visualizzare il Landscape of Consciousness",
-  "about.intro.html": "Il Consciousness Atlas è un'applicazione web interattiva che visualizza oltre 325 teorie della coscienza. Si basa sull'articolo del 2024 di Robert Lawrence Kuhn, <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a>. L'Atlas mappa le teorie che affrontano la coscienza fenomenica - il sentire soggettivo dell'esperienza, come la rossità del rosso.",
-
+  "about.intro.html": "Il Consciousness Atlas è un'applicazione web interattiva che visualizza oltre 450 teorie della coscienza. Si basa sull'articolo del 2024 di Robert Lawrence Kuhn, <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a>. L'Atlas mappa le teorie che affrontano la coscienza fenomenica - il sentire soggettivo dell'esperienza, come la rossità del rosso.",
   "about.whatIs.title": "Che cos'è l'Atlas",
   "about.whatIs.body": "L'Atlas è un riferimento visivo costruito sulla tassonomia di Kuhn. Presenta l'intero insieme delle teorie in un colpo d'occhio, permettendo di esplorare il campo visivamente e di aprire qualsiasi teoria per leggerne la voce, come un'enciclopedia con voci strutturate. Ogni voce teorica mostra una concisa riga d'identità, il fondamento concettuale, il meccanismo suggerito, note empiriche, implicazioni e fonti.",
-
   "about.why.title": "Perché esiste",
   "about.why.body": "La coscienza è studiata in molte discipline - neuroscienze, filosofia e talvolta la ricerca su stati spirituali o anomali. L'articolo di Kuhn raccoglie e organizza centinaia di teorie lungo uno spettro che va dal più fisico al meno fisico. L'Atlas traduce questa organizzazione in una forma visiva, così che lettori, studenti e ricercatori possano vedere rapidamente come le diverse posizioni si relazionino e dove ciascuna teoria si collochi lungo lo spettro.",
-
   "about.how.title": "Come funziona",
   "about.how.body": "Le teorie sono raggruppate in dieci categorie principali, ordinate in base alla loro posizione lungo lo spettro dal fisico al non fisico. Esempi di categorie includono materialismo, fisicalismo non riduttivo, funzionalismo, teorie a base quantistica, panpsichismo, monismo, dualismo, idealismo, stati anomali e teorie della sfida. L'applicazione mostra l'intera mappa in una sola volta. Fare clic su qualsiasi teoria per leggerne la voce strutturata, che include riferimenti a fonti canoniche e pensatori citati.",
-
   "about.audience.title": "A chi è rivolto",
   "about.audience.item1": "Studenti di filosofia della mente e scienze cognitive",
   "about.audience.item2": "Ricercatori e docenti in cerca di una risorsa comparativa a colpo d'occhio",
   "about.audience.item3": "Giornalisti e scrittori che hanno bisogno di un riferimento rapido alla gamma delle posizioni",
   "about.audience.item4": "Lettori curiosi che desiderano una visione chiara di ciò che si intende quando si parla di coscienza",
-
   "about.notDo.title": "Cosa l'Atlas non fa",
   "about.notDo.body": "L'Atlas non avalla né classifica le teorie. È una visualizzazione e un riferimento basati sulla tassonomia di Kuhn - raccogliere e presentare, non giudicare. Non tenta di risolvere il problema difficile della coscienza. È uno strumento di esplorazione e confronto.",
-
   "about.kuhnNote.title": "Una nota di Kuhn",
   "about.kuhnNote.body1": "Kuhn dichiara esplicitamente lo scopo del progetto: \"raccogliere e categorizzare, non valutare e giudicare\". Il Consciousness Atlas segue questo approccio. I dati e la struttura derivano dall'articolo di Kuhn; feedback e correzioni suggerite sono i benvenuti, ma l'applicazione è uno strato di visualizzazione sovrapposto al lavoro di Kuhn.",
   "about.kuhnNote.body2": "Kuhn non è stato coinvolto nella progettazione o nei contenuti del Consciousness Atlas, se non attraverso il suo articolo originale, 'A Landscape of Consciousness', che ne è l'unica fonte.",
-
   "about.landscapeWebsite.title": "Sito web Landscape of Consciousness",
   "about.landscapeWebsite.body.html": "Il <a href=\"https://loc.closertotruth.com/\" target=\"_blank\" rel=\"noopener noreferrer\">sito web Landscape of Consciousness</a> è un'estensione, un ampliamento e un aggiornamento significativi dell'articolo di Robert Lawrence Kuhn, \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications\". Il sito web Landscape of Consciousness contiene oltre 350 teorie della coscienza, accessibili in cinque modi: <a href=\"https://loc.closertotruth.com/consciousness-theories\" target=\"_blank\" rel=\"noopener noreferrer\">Griglia del Landscape</a>; <a href=\"https://loc.closertotruth.com/all-consciousness-categories-and-subcategories\" target=\"_blank\" rel=\"noopener noreferrer\">Categorie del Landscape</a>; <a href=\"https://loc.closertotruth.com/all-consciousness-categories-subcategories-and-theories\" target=\"_blank\" rel=\"noopener noreferrer\">Tutte le teorie del Landscape</a>; <a href=\"https://loc.closertotruth.com/map\" target=\"_blank\" rel=\"noopener noreferrer\">Mappa del Landscape</a>; <a href=\"https://loc.closertotruth.com/interactive\" target=\"_blank\" rel=\"noopener noreferrer\">Visualizzazioni interattive</a>. Il Landscape of Consciousness è un lavoro in corso – in modo permanente.",
-
   "about.faq.title": "FAQ",
   "about.faq.q1": "Che cos'è la coscienza fenomenica?",
   "about.faq.a1": "La coscienza fenomenica si riferisce all'esperienza soggettiva - il sentire qualitativo dell'essere consapevoli, come il gusto del caffè o la rossità del rosso.",
   "about.faq.q2": "Quante teorie include l'Atlas?",
-  "about.faq.a2": "L'Atlas visualizza oltre 220 singole teorie, raggruppate in dieci ampie categorie.",
+  "about.faq.a2": "L'Atlas visualizza oltre 450 singole teorie, raggruppate in dieci ampie categorie.",
   "about.faq.q3": "L'Atlas indica quale teoria è vera?",
   "about.faq.a3": "No. L'Atlas presenta le teorie in modo neutrale. È una mappa, non un argomento a favore di una singola posizione.",
   "about.faq.q4": "L'Atlas è accademico?",
   "about.faq.a4": "L'Atlas si basa su una fonte accademica - l'articolo del 2024 di Robert Kuhn, \"A Landscape of Consciousness\" - e rimanda a fonti canoniche ove disponibili.",
-
   "about.related.title": "Letture correlate",
   "about.related.body.html": "L'Atlas fa riferimento a ricerche canoniche in filosofia e neuroscienze, tra cui la teoria dell'informazione integrata, la teoria dello spazio di lavoro globale, le proposte panpsichiste, le idee a base quantistica e le posizioni storiche dei pensatori classici. Per il contesto accademico originale, si veda l'articolo di Kuhn su ScienceDirect: <a href=\"/paper.html\">A Landscape of Consciousness</a>.",
-
   "about.summary.title": "Sintesi",
   "about.summary.body": "Il Consciousness Atlas è un semplice strumento di visualizzazione: presenta la tassonomia di Kuhn come un'unica mappa esplorabile e consente agli utenti di aprire le singole voci teoriche per leggere sintesi strutturate e corredate di riferimenti. È progettato per rendere più facile abbracciare con lo sguardo questo campo complesso e per fungere da riferimento pratico.",
-
   "about.footer.ariaLabel": "Informazioni sul progetto e attribuzione",
   "about.footer.creatorTitle": "Informazioni sul creatore",
   "about.footer.creatorBody.html": "ConsciousnessAtlas.com è un progetto indipendente di Danilo Znamerovszkij (<a href=\"https://www.linkedin.com/in/danilo-znamerovszkij-56a435156/\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a>), ingegnere frontend con esperienza nella creazione di strumenti interattivi e visualizzazioni di dati. Il progetto riflette un interesse di lunga data per gli studi sulla coscienza, la filosofia della mente e per come paesaggi teorici complessi possano essere resi più navigabili attraverso il software.",
@@ -64,7 +50,6 @@
   "about.footer.scopeTitle": "Ambito",
   "about.footer.scopeBody": "Questo progetto è concepito come una risorsa esplorativa ed educativa. Non sostiene alcuna particolare teoria della coscienza e non deve essere interpretato come una classificazione scientifica autorevole.",
   "about.footer.linksLabel": "Link:",
-
   "form.title": "Invia feedback",
   "form.closeAriaLabel": "Chiudi il modulo",
   "form.nameLabel": "Nome (facoltativo)",
@@ -82,24 +67,20 @@
   "form.errors.messageRequired": "Inserisci un messaggio",
   "form.errors.sendFailedRetry": "Invio del messaggio non riuscito. Riprova.",
   "form.success": "Messaggio inviato con successo!",
-
   "searchBar.placeholder": "Cerca teorie...",
   "searchBar.ariaLabel": "Cerca teorie",
   "searchBar.resultsAriaLabel": "Risultati della ricerca",
-
   "itemDetails.closePanel": "Chiudi il pannello",
   "itemDetails.welcome": "Seleziona un elemento dal grafico per esplorarne i misteri",
   "itemDetails.error.title": "Errore",
   "itemDetails.error.heading": "Caricamento della teoria non riuscito",
   "itemDetails.loading.heading": "Caricamento dei dati della teoria...",
   "itemDetails.loading.body": "Attendere il recupero delle informazioni dettagliate.",
-
   "itemDetails.sections.conceptualGround": "I. Fondamento Concettuale",
   "itemDetails.sections.mechanismDynamics": "II. Meccanismo e Dinamica",
   "itemDetails.sections.empiricsCritiques": "III. Dati Empirici e Critiche",
   "itemDetails.sections.implications": "IV. Implicazioni",
   "itemDetails.sections.relationsSources": "V. Relazioni e Fonti",
-
   "itemDetails.fields.explanatoryIdentityClaim": "Affermazione Esplicativa di Identità",
   "itemDetails.fields.mindBodyRelationship": "Relazione Mente-Corpo",
   "itemDetails.fields.subjectivityIntentionality": "Soggettività e Intenzionalità",
@@ -110,7 +91,6 @@
   "itemDetails.fields.primitiveOrEmergentStatus": "Statuto Primitivo o Emergente",
   "itemDetails.fields.emergenceType": "Tipo di Emergenza",
   "itemDetails.fields.ontologicalStatus": "Statuto Ontologico",
-
   "itemDetails.fields.scopeOfConsciousness": "Ambito della Coscienza",
   "itemDetails.fields.distinctiveMechanism": "Meccanismo o Principio Distintivo",
   "itemDetails.fields.dynamicsOfEmergence": "Dinamica dell'Emergenza",
@@ -121,27 +101,25 @@
   "itemDetails.fields.evolutionaryAccount": "Spiegazione Evolutiva",
   "itemDetails.fields.coreClaimsEvidence": "Affermazioni Centrali e Prove",
   "itemDetails.fields.basisOfBelief": "Base della Credenza o Tipo di Prova",
-
   "itemDetails.fields.testabilityStatus": "Statuto di Testabilità",
   "itemDetails.fields.knownEmpiricalTests": "Interventi o Test Empirici Noti",
   "itemDetails.fields.criticismsTensions": "Critiche e Tensioni",
   "itemDetails.fields.openQuestionsLimitations": "Questioni Aperte e Limiti",
   "itemDetails.fields.ontologicalCoherence": "Coerenza Ontologica",
-
   "itemDetails.fields.relatedTheories": "Teorie Correlate",
   "itemDetails.fields.classification": "Classificazione",
   "itemDetails.fields.sourcesReferences": "Fonti e Riferimenti",
-
   "itemDetails.implications.aiConsciousness": "Coscienza dell'IA",
   "itemDetails.implications.survivalBeyondDeath": "Sopravvivenza Oltre la Morte",
   "itemDetails.implications.meaningPurpose": "Significato e Scopo",
   "itemDetails.implications.virtualImmortality": "Immortalità Virtuale",
-
   "misc.unknown": "Sconosciuto",
   "misc.unknownError": "Errore sconosciuto",
-
   "nav.language.ariaLabel": "Scegli la lingua",
   "languagePopup.title": "Scegli la lingua",
   "languagePopup.subtitle": "Seleziona la tua lingua preferita",
-  "languagePopup.closeAriaLabel": "Chiudi il selettore della lingua"
+  "languagePopup.closeAriaLabel": "Chiudi il selettore della lingua",
+  "about.footer.support": "Sostieni il progetto",
+  "about.footer.citeCopy": "Copia",
+  "about.footer.citeCopied": "Copiato"
 }

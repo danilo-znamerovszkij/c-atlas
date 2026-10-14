@@ -4,19 +4,16 @@ import { getCurrentLocale, t } from '@/utils/i18n'
 import analytics from '@/utils/analytics'
 import './LanguagePopup.scss'
 
-// Native display name + short code shown on each card. Order here is the
-// display order in the grid.
-const LANGUAGES: Array<{ code: Locale; native: string; label: string }> = [
-  { code: 'en', native: 'English', label: 'EN' },
-  { code: 'es', native: 'Español', label: 'ES' },
-  { code: 'de', native: 'Deutsch', label: 'DE' },
-  { code: 'fr', native: 'Français', label: 'FR' },
-  { code: 'uk', native: 'Українська', label: 'UK' },
-  { code: 'hi', native: 'हिन्दी', label: 'HI' },
-  { code: 'zh-CN', native: '简体中文', label: 'ZH-CN' },
-  { code: 'zh-TW', native: '繁體中文', label: 'ZH-TW' },
-  { code: 'ar', native: 'العربية', label: 'AR' }
-]
+// Native name for every supported locale. Typed as Record<Locale, ...> so a
+// new locale can't ship without one; the menu lists AVAILABLE_LOCALES in
+// that order (it used to be a separate hand-kept list that fell behind).
+const NATIVE_NAMES: Record<Locale, string> = {
+  en: 'English', es: 'Español', fr: 'Français', de: 'Deutsch', it: 'Italiano',
+  nl: 'Nederlands', pl: 'Polski', 'pt-BR': 'Português (Brasil)', 'pt-PT': 'Português (Portugal)',
+  ru: 'Русский', uk: 'Українська', tr: 'Türkçe', ar: 'العربية', he: 'עברית', hi: 'हिन्दी',
+  bn: 'বাংলা', 'zh-CN': '简体中文', 'zh-TW': '繁體中文', ja: '日本語', ko: '한국어',
+  id: 'Bahasa Indonesia', ms: 'Bahasa Melayu', vi: 'Tiếng Việt', th: 'ไทย'
+}
 
 const PREFERRED_LOCALE_KEY = 'preferredLocale'
 
@@ -37,8 +34,8 @@ export class LanguagePopup {
 
   private render() {
     const current = getCurrentLocale()
-    const available = new Set<string>(AVAILABLE_LOCALES)
-    const cards = LANGUAGES.filter(l => available.has(l.code))
+    const cards = AVAILABLE_LOCALES
+      .map(code => ({ code, native: NATIVE_NAMES[code], label: code.toUpperCase() }))
       .map(l => {
         const isActive = l.code === current
         return `

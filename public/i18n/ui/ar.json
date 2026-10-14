@@ -1,59 +1,45 @@
 {
   "chartLoader.text": "جارٍ تحميل الرسم البياني...",
-
   "nav.feedback": "ملاحظات",
   "nav.about.tooltip": "حول",
   "nav.github.alt": "نجوم GitHub",
-
   "sourceCitation.text": "المصدر: Landscape of Consciousness (Kuhn, 2024)",
   "sourceCitation.kuhnCitation": "Robert Lawrence Kuhn. \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. Progress in Biophysics and Molecular Biology, Volume 190, 2024, Pages 28-169.\"",
   "sourceCitation.landscapeLink": "Landscape of Consciousness",
-
   "about.heading": "Consciousness Atlas",
   "about.subtitle": "تصوّر بصري لـ Landscape of Consciousness",
-  "about.intro.html": "Consciousness Atlas تطبيق ويب تفاعلي يعرض بصرياً أكثر من 325 نظرية عن الوعي. ويستند إلى ورقة روبرت لورانس كون البحثية لعام 2024، <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a>. يرسم الأطلس خريطةً للنظريات التي تتناول الوعي الظاهراتي - أي الإحساس الذاتي بالخبرة، مثل احمرار اللون الأحمر.",
-
+  "about.intro.html": "Consciousness Atlas تطبيق ويب تفاعلي يعرض بصرياً أكثر من 450 نظرية عن الوعي. ويستند إلى ورقة روبرت لورانس كون البحثية لعام 2024، <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a>. يرسم الأطلس خريطةً للنظريات التي تتناول الوعي الظاهراتي - أي الإحساس الذاتي بالخبرة، مثل احمرار اللون الأحمر.",
   "about.whatIs.title": "ما هو الأطلس",
   "about.whatIs.body": "الأطلس مرجع بصري مبني على تصنيف كون. يعرض مجموعة النظريات كاملةً دفعةً واحدة كي تتمكن من استكشاف هذا المجال بصرياً وفتح أي نظرية لقراءة مدخلها، أشبه بموسوعة ذات مداخل مُنظَّمة. يعرض كل مدخل نظري سطرَ هوية موجزاً، وأساساً مفاهيمياً، وآليةً مقترحة، وملاحظات تجريبية، وتضمينات، ومصادر.",
-
   "about.why.title": "لماذا وُجد هذا المشروع",
   "about.why.body": "يُدرَس الوعي عبر تخصصات متعددة - علم الأعصاب والفلسفة، وأحياناً البحث في الحالات الروحية أو الشاذة. تجمع ورقة كون مئات النظريات وتنظّمها على امتداد طيف يمتد من الأكثر فيزيائيةً إلى الأقل فيزيائية. ويضع الأطلس هذا التنظيم في صورة بصرية كي يتمكن القرّاء والطلاب والباحثون من رؤية كيفية ترابط المواقف المختلفة بسرعة، وأين تقع كل نظرية على الطيف.",
-
   "about.how.title": "كيف يعمل",
   "about.how.body": "تُجمَّع النظريات في عشر فئات رئيسية، مرتَّبةً وفق موقفها على طيف الفيزيائي إلى اللافيزيائي. من أمثلة الفئات: المادية، والفيزيائية اللااختزالية، والوظيفية، والنظريات ذات الأساس الكمّي، والبانسيكية، والأحادية، والثنائية، والمثالية، والحالات الشاذة، ونظريات التحدّي. يعرض التطبيق الخريطة بأكملها دفعةً واحدة. انقر على أي نظرية لقراءة مدخلها المُنظَّم، الذي يتضمن إحالات إلى مصادر معيارية ومفكرين مذكورين بالاسم.",
-
   "about.audience.title": "لمن هذا الأطلس",
   "about.audience.item1": "الطلاب الذين يدرسون فلسفة العقل والعلوم المعرفية",
   "about.audience.item2": "الباحثون والمحاضرون الباحثون عن مرجع مقارن سريع الاطلاع",
   "about.audience.item3": "الصحفيون والكتّاب الذين يحتاجون إلى مرجع سريع لطيف المواقف المطروحة",
   "about.audience.item4": "القرّاء الفضوليون الراغبون في رؤية واضحة لما يقصده الناس حين يتحدثون عن الوعي",
-
   "about.notDo.title": "ما لا يفعله الأطلس",
   "about.notDo.body": "لا يتبنّى الأطلس النظريات ولا يرتّبها. إنه أداة تصوّر بصري ومرجع مبني على تصنيف كون - يجمع ويعرض، لا يحكم. ولا يحاول حسم المشكلة الصعبة للوعي. إنه أداة للاستكشاف والمقارنة.",
-
   "about.kuhnNote.title": "ملاحظة من كون",
   "about.kuhnNote.body1": "يذكر كون صراحةً غرض المشروع: «الجمع والتصنيف، لا التقييم والحسم». ويتبع Consciousness Atlas هذا النهج. البيانات والبنية مستمدة من ورقة كون؛ والملاحظات والتصويبات المقترحة مُرحَّب بها، لكن التطبيق طبقة تصوّر بصري فوق عمل كون.",
   "about.kuhnNote.body2": "لم يشارك كون في تصميم Consciousness Atlas أو محتواه، عدا ورقته الأصلية 'A Landscape of Consciousness'، التي تُعدّ المصدر الوحيد.",
-
   "about.landscapeWebsite.title": "موقع Landscape of Consciousness",
   "about.landscapeWebsite.body.html": "يمثّل <a href=\"https://loc.closertotruth.com/\" target=\"_blank\" rel=\"noopener noreferrer\">موقع Landscape of Consciousness</a> توسيعاً وإثراءً وتحديثاً كبيراً لورقة روبرت لورانس كون، \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications.\" يحتوي موقع Landscape of Consciousness على أكثر من 350 نظرية عن الوعي يمكن الوصول إليها بخمس طرق: <a href=\"https://loc.closertotruth.com/consciousness-theories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Grid</a>؛ <a href=\"https://loc.closertotruth.com/all-consciousness-categories-and-subcategories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Categories</a>؛ <a href=\"https://loc.closertotruth.com/all-consciousness-categories-subcategories-and-theories\" target=\"_blank\" rel=\"noopener noreferrer\">All Landscape Theories</a>؛ <a href=\"https://loc.closertotruth.com/map\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Map</a>؛ <a href=\"https://loc.closertotruth.com/interactive\" target=\"_blank\" rel=\"noopener noreferrer\">Interactive Visualizations</a>. إن Landscape of Consciousness عمل قيد التطوير - على نحو دائم.",
-
   "about.faq.title": "الأسئلة الشائعة",
   "about.faq.q1": "ما هو الوعي الظاهراتي؟",
   "about.faq.a1": "يشير الوعي الظاهراتي إلى الخبرة الذاتية - الإحساس الكيفي بأن يكون المرء واعياً، مثل طعم القهوة أو احمرار اللون الأحمر.",
   "about.faq.q2": "كم عدد النظريات التي يتضمنها الأطلس؟",
-  "about.faq.a2": "يعرض الأطلس بصرياً أكثر من 220 نظرية فردية، مجمّعة في عشر فئات عريضة.",
+  "about.faq.a2": "يعرض الأطلس بصرياً أكثر من 450 نظرية فردية، مجمّعة في عشر فئات عريضة.",
   "about.faq.q3": "هل يبيّن الأطلس أي النظريات صحيحة؟",
   "about.faq.a3": "لا. يعرض الأطلس النظريات بحياد. إنه خريطة، لا حجة لصالح أي موقف بعينه.",
   "about.faq.q4": "هل الأطلس أكاديمي؟",
   "about.faq.a4": "يستند الأطلس إلى مصدر أكاديمي - ورقة روبرت كون لعام 2024، \"A Landscape of Consciousness\" - ويربط بمصادر معيارية حيثما توفّرت.",
-
   "about.related.title": "قراءات ذات صلة",
   "about.related.body.html": "يُحيل الأطلس إلى أبحاث معيارية في الفلسفة وعلم الأعصاب، منها نظرية المعلومات المتكاملة، ونظرية مساحة العمل الشاملة، والطروحات البانسيكية، والأفكار ذات الأساس الكمّي، والمواقف التاريخية لمفكرين كلاسيكيين. للاطلاع على السياق الأكاديمي الأصلي، انظر مقال كون على ScienceDirect: <a href=\"/paper.html\">A Landscape of Consciousness</a>.",
-
   "about.summary.title": "الخلاصة",
   "about.summary.body": "Consciousness Atlas أداة تصوّر بصري مباشرة: تعرض تصنيف كون بوصفه خريطةً واحدة قابلة للاستكشاف، وتتيح للمستخدمين فتح مداخل النظريات الفردية لقراءة ملخصات مُنظَّمة ومُوثَّقة بالمراجع. وهي مصممة لتيسير مسح هذا المجال المعقّد وللعمل بوصفها مرجعاً عملياً.",
-
   "about.footer.ariaLabel": "معلومات المشروع ونسب المصدر",
   "about.footer.creatorTitle": "عن المُنشئ",
   "about.footer.creatorBody.html": "ConsciousnessAtlas.com مشروع مستقل من إنشاء دانيلو زناميروفسكي (<a href=\"https://www.linkedin.com/in/danilo-znamerovszkij-56a435156/\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a>)، وهو مهندس واجهات أمامية يمتلك خبرة في بناء الأدوات التفاعلية وتصوّرات البيانات. يعكس المشروع اهتماماً طويل الأمد بدراسات الوعي وفلسفة العقل وكيفية جعل المشاهد النظرية المعقدة أيسرَ تصفّحاً عبر البرمجيات.",
@@ -64,7 +50,6 @@
   "about.footer.scopeTitle": "النطاق",
   "about.footer.scopeBody": "هذا المشروع مُعَدّ ليكون مورداً استكشافياً وتعليمياً. وهو لا يناصر أي نظرية بعينها عن الوعي، ولا ينبغي تفسيره على أنه تصنيف علمي مرجعي مُلزِم.",
   "about.footer.linksLabel": "روابط:",
-
   "form.title": "إرسال ملاحظات",
   "form.closeAriaLabel": "إغلاق النموذج",
   "form.nameLabel": "الاسم (اختياري)",
@@ -82,24 +67,20 @@
   "form.errors.messageRequired": "يرجى إدخال رسالة",
   "form.errors.sendFailedRetry": "تعذّر إرسال الرسالة. يرجى المحاولة مرة أخرى.",
   "form.success": "تم إرسال الرسالة بنجاح!",
-
   "searchBar.placeholder": "ابحث في النظريات...",
   "searchBar.ariaLabel": "البحث في النظريات",
   "searchBar.resultsAriaLabel": "نتائج البحث",
-
   "itemDetails.closePanel": "إغلاق اللوحة",
   "itemDetails.welcome": "اختر عنصراً من الرسم البياني لاستكشاف أسراره",
   "itemDetails.error.title": "خطأ",
   "itemDetails.error.heading": "تعذّر تحميل النظرية",
   "itemDetails.loading.heading": "جارٍ تحميل بيانات النظرية...",
   "itemDetails.loading.body": "يرجى الانتظار ريثما نجلب المعلومات التفصيلية.",
-
   "itemDetails.sections.conceptualGround": "I. الأساس المفاهيمي",
   "itemDetails.sections.mechanismDynamics": "II. الآلية والديناميكا",
   "itemDetails.sections.empiricsCritiques": "III. الأدلة التجريبية والانتقادات",
   "itemDetails.sections.implications": "IV. التضمينات",
   "itemDetails.sections.relationsSources": "V. العلاقات والمصادر",
-
   "itemDetails.fields.explanatoryIdentityClaim": "دعوى الهوية التفسيرية",
   "itemDetails.fields.mindBodyRelationship": "العلاقة بين العقل والجسد",
   "itemDetails.fields.subjectivityIntentionality": "الذاتية والقصدية",
@@ -110,7 +91,6 @@
   "itemDetails.fields.primitiveOrEmergentStatus": "الوضع الأولي أو الانبثاقي",
   "itemDetails.fields.emergenceType": "نوع الانبثاق",
   "itemDetails.fields.ontologicalStatus": "الوضع الأنطولوجي",
-
   "itemDetails.fields.scopeOfConsciousness": "نطاق الوعي",
   "itemDetails.fields.distinctiveMechanism": "الآلية أو المبدأ المميِّز",
   "itemDetails.fields.dynamicsOfEmergence": "ديناميكا الانبثاق",
@@ -121,27 +101,25 @@
   "itemDetails.fields.evolutionaryAccount": "التفسير التطوري",
   "itemDetails.fields.coreClaimsEvidence": "الدعاوى الأساسية والأدلة",
   "itemDetails.fields.basisOfBelief": "أساس الاعتقاد أو نوع الدليل",
-
   "itemDetails.fields.testabilityStatus": "وضع القابلية للاختبار",
   "itemDetails.fields.knownEmpiricalTests": "التدخلات أو الاختبارات التجريبية المعروفة",
   "itemDetails.fields.criticismsTensions": "الانتقادات والتوترات",
   "itemDetails.fields.openQuestionsLimitations": "الأسئلة المفتوحة والحدود",
   "itemDetails.fields.ontologicalCoherence": "الاتساق الأنطولوجي",
-
   "itemDetails.fields.relatedTheories": "النظريات ذات الصلة",
   "itemDetails.fields.classification": "التصنيف",
   "itemDetails.fields.sourcesReferences": "المصادر والمراجع",
-
   "itemDetails.implications.aiConsciousness": "وعي الذكاء الاصطناعي",
   "itemDetails.implications.survivalBeyondDeath": "البقاء بعد الموت",
   "itemDetails.implications.meaningPurpose": "المعنى والغاية",
   "itemDetails.implications.virtualImmortality": "الخلود الافتراضي",
-
   "misc.unknown": "غير معروف",
   "misc.unknownError": "خطأ غير معروف",
-
   "nav.language.ariaLabel": "اختر اللغة",
   "languagePopup.title": "اختر اللغة",
   "languagePopup.subtitle": "اختر لغتك المفضلة",
-  "languagePopup.closeAriaLabel": "إغلاق محدد اللغة"
+  "languagePopup.closeAriaLabel": "إغلاق محدد اللغة",
+  "about.footer.support": "ادعم المشروع",
+  "about.footer.citeCopy": "نسخ",
+  "about.footer.citeCopied": "تم النسخ"
 }
