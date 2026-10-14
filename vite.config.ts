@@ -34,6 +34,8 @@ export default defineConfig({
     include: ['echarts']
   },
   define: {
-    'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV || 'production')
+    'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV || 'production'),
+    // Cache-busting stamp for content JSON requests (src/utils/versioned.ts).
+    __BUILD_ID__: JSON.stringify(Date.now().toString(36))
   }
 })

@@ -1,5 +1,6 @@
 import { DEFAULT_LOCALE, RTL_LOCALES, parseLocaleFromPath } from '../shared/site'
 import type { Locale } from '../shared/site'
+import { versioned } from './versioned'
 
 export interface TaxonomyDictionary {
   categories: Record<string, string>
@@ -23,7 +24,7 @@ let taxonomyDict: TaxonomyDictionary = EMPTY_TAXONOMY
 
 async function fetchJsonSafe<T>(path: string, fallback: T): Promise<T> {
   try {
-    const response = await fetch(path)
+    const response = await fetch(versioned(path))
     if (!response.ok) return fallback
     return await response.json() as T
   } catch {

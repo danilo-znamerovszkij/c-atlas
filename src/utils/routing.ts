@@ -3,6 +3,7 @@ import { generateSlug, resolveTheoryFileStem } from './slugUtils'
 import { SITE_ORIGIN, DEFAULT_LOCALE, parseLocaleFromPath, buildLocalizedPath } from '../shared/site'
 import type { Locale } from '../shared/site'
 import { t } from './i18n'
+import { versioned } from './versioned'
 import analytics from './analytics'
 import { getAllTheoryNames } from '../config/chartConfig'
 
@@ -20,7 +21,7 @@ export async function loadTheoryByName(theoryName: string, locale: Locale = DEFA
   const filePath = locale === DEFAULT_LOCALE ? `/data/${fileName}` : `/data/${locale}/${fileName}`
 
   try {
-    const response = await fetch(filePath)
+    const response = await fetch(versioned(filePath))
     if (!response.ok) {
       if (locale !== DEFAULT_LOCALE) return loadTheoryByName(theoryName, DEFAULT_LOCALE)
       throw new Error(`Failed to load theory data: ${response.statusText}`)

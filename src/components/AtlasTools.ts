@@ -4,6 +4,7 @@ import { generateSlug } from '@/utils/slugUtils'
 import { buildLocalizedPath } from '@/shared/site'
 import type { Router } from '@/utils/routing'
 import analytics from '@/utils/analytics'
+import { versioned } from '@/utils/versioned'
 import { loadCategoryTexts, type CategoryText } from '@/utils/categories'
 import './AtlasTools.scss'
 
@@ -80,7 +81,7 @@ export class AtlasTools {
   private loadIndex(): Promise<IndexEntry[]> {
     if (!this.indexPromise) {
       const fetchIndex = (locale: string) =>
-        fetch(`/theory-index/${locale}.json`).then(r => {
+        fetch(versioned(`/theory-index/${locale}.json`)).then(r => {
           if (!r.ok) throw new Error(`theory index ${locale}: ${r.status}`)
           return r.json() as Promise<IndexEntry[]>
         })
