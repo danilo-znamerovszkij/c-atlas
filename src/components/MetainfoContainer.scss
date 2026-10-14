@@ -112,6 +112,41 @@ main.ca-main {
   .atlas-explore {
     margin-bottom: 4rem;
 
+    .atlas-explore-quiz {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 0.5rem 1.5rem;
+      margin-bottom: 1.25rem;
+      padding: 1.25rem 1.5rem;
+      border: 1px solid rgba(247, 184, 1, 0.45);
+      border-radius: 12px;
+      background: linear-gradient(160deg, rgba(247, 184, 1, 0.1), rgba(255, 255, 255, 0.02) 60%);
+      text-decoration: none;
+      transition: border-color 0.15s ease, transform 0.16s ease-out;
+
+      b {
+        font-family: "Bodoni72C", serif;
+        font-size: 1.6rem;
+        font-weight: 600;
+        color: #fff;
+      }
+
+      span {
+        font-family: "Outfit", sans-serif;
+        color: #f7b801;
+      }
+
+      &:hover {
+        border-color: #f7b801;
+      }
+
+      &:active {
+        transform: scale(0.99);
+      }
+    }
+
     .atlas-explore-grid {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
@@ -233,7 +268,7 @@ main.ca-main {
       border-radius: 12px;
       margin-bottom: 1.5rem;
       border-left: 4px solid #f7b801;
-      transition: all 0.3s ease;
+      transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease, transform 0.16s ease-out;
 
       @media (max-width: 768px) {
         padding: 1.5rem;
@@ -241,7 +276,6 @@ main.ca-main {
 
       &:hover {
         background: rgba(247, 184, 1, 0.08);
-        transform: translateY(-2px);
         box-shadow: 0 4px 12px rgba(247, 184, 1, 0.1);
       }
 
@@ -271,11 +305,10 @@ main.ca-main {
         padding: 1.5rem;
         border-radius: 8px;
         border-left: 4px solid #f7b801;
-        transition: all 0.3s ease;
+        transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease, transform 0.16s ease-out;
 
         &:hover {
           background: rgba(247, 184, 1, 0.08);
-          transform: translateY(-2px);
         }
 
         @media (max-width: 768px) {

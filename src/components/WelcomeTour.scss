@@ -12,7 +12,7 @@
   border-radius: 8px;
   box-shadow: 0 0 0 9999px rgba(8, 8, 6, 0.62);
   outline: 1px solid rgba(247, 184, 1, 0.7);
-  transition: top 0.25s ease, left 0.25s ease, width 0.25s ease, height 0.25s ease;
+  transition: top 0.3s cubic-bezier(0.77, 0, 0.175, 1), left 0.3s cubic-bezier(0.77, 0, 0.175, 1), width 0.3s cubic-bezier(0.77, 0, 0.175, 1), height 0.3s cubic-bezier(0.77, 0, 0.175, 1);
   pointer-events: none;
 }
 
@@ -74,6 +74,40 @@
   text-transform: uppercase;
   margin-bottom: 6px;
   font-variant-numeric: tabular-nums;
+}
+
+.tour-cta {
+  display: inline-block;
+  margin-top: 12px;
+  color: #f7b801;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+}
+
+// Deliberately quiet: small, muted, links only underlined on hover.
+.tour-card .tour-note {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.45);
+  font-size: 12px;
+
+  a {
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+
+    &:hover {
+      color: #fcd771;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+  }
 }
 
 .tour-actions {

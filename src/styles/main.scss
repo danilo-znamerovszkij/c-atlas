@@ -116,20 +116,16 @@ body {
   left: 24px;
   z-index: 1000;
   cursor: pointer;
-  transition: all 0.3s ease;
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease, transform 0.16s ease-out;
   overflow: visible;
 
   .logo {
-    transition: all 0.3s ease;
+    transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease, transform 0.16s ease-out;
     height: 40px;
     backdrop-filter: blur(6px);
     padding: 20px 18px 40px;
     margin: -20px -20px -40px;
     border-radius: 8px;
-
-    &:hover {
-      transform: scale(1.02);
-    }
 
     &:active {
       transform: scale(0.98);
@@ -156,18 +152,10 @@ body {
   width: 47px;
   height: 40px;
 
-  &:hover {
-    transform: scale(1.05);
-  }
-
   svg {
     width: 30px;
     height: 30px;
-    transition: all 0.2s ease;
-  }
-
-  &:hover svg {
-    transform: scale(1.05);
+    transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.16s ease-out;
   }
 }
 
@@ -191,7 +179,45 @@ body {
 
   &:hover {
     color: #f7b801;
-    transform: scale(1.08);
+  }
+
+  svg {
+    width: 22px;
+    height: 22px;
+  }
+}
+
+// Share trigger, left of the language button (popover: ShareButton.ts).
+.share-btn {
+  position: fixed;
+  top: 20px;
+  right: 118px;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  background: transparent;
+  border: none;
+  color: rgba(255, 255, 255, 0.75);
+  cursor: pointer;
+  transition: color 0.2s ease, transform 0.16s ease-out;
+
+  &:hover,
+  &[aria-expanded="true"] {
+    color: #f7b801;
+  }
+
+  &:active {
+    transform: scale(0.94);
+  }
+
+  &:focus-visible {
+    outline: 2px solid rgba(247, 184, 1, 0.6);
+    outline-offset: 2px;
+    border-radius: 6px;
   }
 
   svg {
@@ -210,14 +236,13 @@ body {
     cursor: pointer;
     font-size: 13px;
     font-weight: 500;
-    transition: all 0.2s ease;
+    transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.16s ease-out;
     backdrop-filter: blur(10px);
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 
     &:hover {
       background: rgba(59, 130, 246, 0.15);
       border-color: rgba(59, 130, 246, 0.3);
-      transform: translateY(-1px);
       box-shadow: 0 4px 12px rgba(59, 130, 246, 0.2);
     }
 
@@ -265,14 +290,13 @@ body {
   cursor: pointer;
   font-size: 13px;
   font-weight: 500;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.16s ease-out;
   backdrop-filter: blur(10px);
   white-space: nowrap;
 
   &:hover {
     background: rgba(198, 160, 50, 0.15);
     border-color: rgba(198, 160, 50, 0.7);
-    transform: translateY(-1px);
   }
 
   &:focus {
@@ -302,7 +326,7 @@ body {
   color: #f7b801;
   border-radius: 50%;
   cursor: pointer;
-  transition: all 0.3s ease;
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease, transform 0.16s ease-out;
   backdrop-filter: blur(10px);
   opacity: 1;
   transform: translateY(0);
@@ -310,7 +334,6 @@ body {
   &:hover {
     background: rgba(247, 184, 1, 0.15);
     border-color: rgba(247, 184, 1, 0.7);
-    transform: translateY(-1px) scale(1.05);
   }
 
   &:focus {
@@ -321,7 +344,7 @@ body {
   svg {
     width: 20px;
     height: 20px;
-    transition: all 0.2s ease;
+    transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.16s ease-out;
   }
 
   .tooltip {
@@ -338,7 +361,7 @@ body {
     white-space: nowrap;
     opacity: 0;
     visibility: hidden;
-    transition: all 0.2s ease;
+    transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.16s ease-out;
     pointer-events: none;
     backdrop-filter: blur(10px);
     border: 1px solid rgba(247, 184, 1, 0.3);
@@ -406,7 +429,7 @@ body {
     opacity: 0;
     visibility: hidden;
     transform: translateY(8px);
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    transition: opacity 0.18s ease-out, transform 0.18s cubic-bezier(0.23, 1, 0.32, 1), visibility 0.18s;
     pointer-events: none;
     backdrop-filter: blur(20px);
     border: 1px solid rgba(247, 184, 1, 0.3);
@@ -496,7 +519,7 @@ body {
   font-size: 14px;
   font-weight: 400;
   backdrop-filter: blur(10px);
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.16s ease-out;
 
   &::placeholder {
     color: rgba(255, 255, 255, 0.7);
@@ -527,7 +550,7 @@ body {
   opacity: 0;
   visibility: hidden;
   transform: translateY(-10px);
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.16s ease-out;
   backdrop-filter: blur(20px);
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
 
@@ -542,7 +565,7 @@ body {
   padding: 12px 16px;
   cursor: pointer;
   border-bottom: 1px solid rgba(247, 184, 1, 0.2);
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.16s ease-out;
 
   &:last-child {
     border-bottom: none;
@@ -610,6 +633,7 @@ body {
   .search-section,
   .github-link,
   .language-btn,
+  .share-btn,
   .chart-zoom-controls,
   .chart-level-pill,
   .feedback-btn {
@@ -621,6 +645,7 @@ body {
     .search-section,
     .github-link,
     .language-btn,
+    .share-btn,
     .chart-zoom-controls,
     .chart-level-pill,
     .feedback-btn {
@@ -665,6 +690,18 @@ body {
     svg {
       width: 26px;
       height: 26px;
+    }
+  }
+
+  .share-btn {
+    top: 22px;
+    right: 99px;
+    width: 32px;
+    height: 32px;
+
+    svg {
+      width: 20px;
+      height: 20px;
     }
   }
 
@@ -1061,4 +1098,43 @@ body {
   overflow: hidden;
   line-height: 0.8em;
   font-style: normal;
+}
+
+// Press feedback for the fixed controls (hover zooms were removed: they fired
+// on every pass of the pointer, and on tap on touch screens).
+.feedback-btn,
+.about-btn,
+.language-btn,
+.github-link,
+.item-details-panel .close-btn,
+.item-details-panel .fullscreen-btn,
+.form-submit,
+.form-close {
+  &:active {
+    transform: scale(0.96);
+  }
+}
+
+// Reduced motion: keyframe loops (pulse, entrances) run once and instantly,
+// modals appear without scaling; opacity and colour fades remain.
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+  }
+
+  .form-popup,
+  .language-popup {
+    transform: none !important;
+  }
+
+  // Spinners still show that something is loading.
+  .loader-spinner,
+  .submit-loading {
+    animation-duration: 1s !important;
+    animation-iteration-count: infinite !important;
+  }
 }

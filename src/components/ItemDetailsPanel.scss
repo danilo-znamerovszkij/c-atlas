@@ -1,58 +1,78 @@
 @use "../styles/mixins" as *;
 
+// Motion: the panel is a drawer. It slides in on a drawer curve (slow enough
+// to read as a sheet arriving, ~420ms), leaves faster (~280ms), and widens to
+// full screen on an ease-in-out while its text fades, so you don't watch the
+// paragraphs reflow. Only transform/opacity animate, except the one-off width
+// (a rare action, with the text faded while it runs).
+$ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
+$ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+
 .item-details-panel {
   position: fixed;
   top: 0;
-  right: -750px;
+  right: 0;
   width: 750px;
   height: 100vh;
-  background: #100f0a;
+  // The glow belongs to the panel's own background (not a ::before), so it
+  // stays put behind the text however far the panel scrolls.
+  background:
+    radial-gradient(circle at 20% 50%, rgba(59, 130, 246, 0.08) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(16, 185, 129, 0.08) 0%, transparent 50%),
+    #100f0a;
   backdrop-filter: blur(20px);
   border-left: 1px solid rgba(255, 255, 255, 0.1);
   box-shadow: -10px 0 30px rgba(0, 0, 0, 0.5),
     inset 0 0 50px rgba(255, 255, 255, 0.02);
-  transition: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
   z-index: 1000;
   overflow-y: auto;
-  transform: translateX(0);
+  overscroll-behavior: contain;
+  transform: translateX(100%);
+  visibility: hidden;
+  transition:
+    transform 0.26s $ease-drawer,
+    visibility 0s linear 0.26s,
+    width 0.4s $ease-in-out;
   @include outfit-font;
 
-  &::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: radial-gradient(
-        circle at 20% 50%,
-        rgba(59, 130, 246, 0.08) 0%,
-        transparent 50%
-      ),
-      radial-gradient(
-        circle at 80% 20%,
-        rgba(16, 185, 129, 0.08) 0%,
-        transparent 50%
-      );
-    pointer-events: none;
-  }
-
   &.visible {
-    right: 0;
     transform: translateX(0);
+    visibility: visible;
     box-shadow: -15px 0 40px rgba(0, 0, 0, 0.4),
       inset 0 0 60px rgba(59, 130, 246, 0.08);
+    transition:
+      transform 0.42s $ease-drawer,
+      visibility 0s,
+      width 0.4s $ease-in-out;
+  }
+
+  .panel-content {
+    transition: opacity 0.2s ease, filter 0.2s ease;
+  }
+
+  // Set for the length of the full-screen switch (ItemDetailsPanel.ts).
+  &.is-resizing .panel-content {
+    opacity: 0;
+    filter: blur(2px);
+    transition: opacity 0.1s ease, filter 0.1s ease;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    &,
+    &.visible {
+      transition: visibility 0s;
+    }
+
+    &.is-resizing .panel-content {
+      opacity: 1;
+      filter: none;
+    }
   }
 
   // Full-screen reading mode (desktop): panel spans the viewport, text keeps
   // a readable measure.
   &.fullscreen {
     width: 100vw;
-    right: -100vw;
-
-    &.visible {
-      right: 0;
-    }
 
     .panel-content {
       max-width: 860px;
@@ -76,14 +96,13 @@
     border-radius: 50%;
     color: #fff;
     cursor: pointer;
-    transition: all 0.2s ease;
+    transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.16s ease-out;
     backdrop-filter: blur(10px);
     z-index: 10;
 
     &:hover {
       background: rgba(0, 0, 0, 0.5);
       border-color: rgba(255, 255, 255, 0.4);
-      transform: scale(1.1);
     }
 
     &:focus-visible {
@@ -127,7 +146,7 @@
       align-items: center;
       justify-content: center;
       border-radius: 50%;
-      transition: all 0.2s ease;
+      transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.16s ease-out;
       backdrop-filter: blur(10px);
       font-weight: 400;
       line-height: 1;
@@ -137,7 +156,6 @@
         background: rgba(0, 0, 0, 0.5);
         color: #ffffff;
         border-color: rgba(255, 255, 255, 0.4);
-        transform: scale(1.1);
       }
 
       &:focus {
@@ -168,7 +186,7 @@
       }
 
       .item-content {
-        animation: slideInUp 0.2s ease-out;
+        animation: slideInUp 0.24s cubic-bezier(0.23, 1, 0.32, 1);
 
         .item-header {
           margin-bottom: 24px;
@@ -247,13 +265,12 @@
               border-radius: 6px;
               font-size: 12px;
               font-weight: 500;
-              transition: all 0.2s ease;
+              transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.16s ease-out;
               backdrop-filter: blur(10px);
 
               &:hover {
                 background: rgba(59, 130, 246, 0.15);
                 border-color: rgba(59, 130, 246, 0.3);
-                transform: translateY(-1px);
                 box-shadow: 0 2px 8px rgba(59, 130, 246, 0.2);
               }
             }
@@ -262,7 +279,7 @@
       }
 
       .theory-content {
-        animation: slideInUp 0.2s ease-out;
+        animation: slideInUp 0.24s cubic-bezier(0.23, 1, 0.32, 1);
 
         .theory-header {
           margin-bottom: 28px;
@@ -384,6 +401,34 @@
           }
         }
 
+        .theory-compare {
+          display: inline-flex;
+          align-items: center;
+          gap: 8px;
+          margin: -8px 0 24px;
+          padding: 7px 12px;
+          border: 1px solid rgba(198, 160, 50, 0.5);
+          border-radius: 6px;
+          color: #fcd771;
+          font-size: 14px;
+          text-decoration: none;
+          transition: border-color 0.15s ease, background 0.15s ease, transform 0.16s ease-out;
+
+          &:hover {
+            border-color: #f7b801;
+            background: rgba(247, 184, 1, 0.08);
+          }
+
+          &:active {
+            transform: scale(0.97);
+          }
+
+          &:focus-visible {
+            outline: 2px solid rgba(198, 160, 50, 0.8);
+            outline-offset: 2px;
+          }
+        }
+
         .classification-tags {
           margin-bottom: 24px;
 
@@ -411,13 +456,12 @@
               border-radius: 6px;
               font-size: 12px;
               font-weight: 500;
-              transition: all 0.2s ease;
+              transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.16s ease-out;
               backdrop-filter: blur(10px);
 
               &:hover {
                 background: rgba(16, 185, 129, 0.15);
                 border-color: rgba(16, 185, 129, 0.3);
-                transform: translateY(-1px);
                 box-shadow: 0 2px 8px rgba(16, 185, 129, 0.2);
               }
             }
@@ -516,7 +560,7 @@
           border-left: 2px solid rgba(59, 130, 246, 0.4);
           border-radius: 0 12px 12px 0;
           padding: 20px;
-          transition: all 0.3s ease;
+          transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease, transform 0.16s ease-out;
 
           &:hover {
             background: rgba(59, 130, 246, 0.08);
@@ -587,7 +631,7 @@
           background: rgba(59, 130, 246, 0.05);
           border-radius: 8px;
           border-left: 3px solid rgba(59, 130, 246, 0.3);
-          transition: all 0.2s ease;
+          transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.16s ease-out;
 
           &:hover {
             background: rgba(59, 130, 246, 0.08);
@@ -782,7 +826,7 @@
 @keyframes slideInUp {
   from {
     opacity: 0;
-    transform: translateY(20px);
+    transform: translateY(8px);
   }
   to {
     opacity: 1;
@@ -811,7 +855,6 @@
 @media (max-width: 768px) {
   .item-details-panel {
     width: 100%;
-    right: -100%;
     z-index: 9999;
 
     // Already full width on phones.
@@ -1007,13 +1050,12 @@ blockquote {
   border: 1px solid $border-color;
   border-radius: 8px;
   cursor: pointer;
-  transition: all 0.3s ease;
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease, transform 0.16s ease-out;
   position: relative;
 
   &:hover {
     background: rgba(234, 189, 97, 0.1);
     border-color: rgba(234, 189, 97, 0.4);
-    transform: translateY(-2px);
   }
 
   &[data-tooltip]:hover::after {
@@ -1274,7 +1316,7 @@ blockquote {
   font-size: 14px;
   font-weight: 400;
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.16s ease-out;
   text-align: center;
   position: relative;
 
@@ -1318,3 +1360,11 @@ blockquote {
     gap: 4px;
   }
 }
+
+// While the panel covers the page (full screen, or any width on phones) the
+// page behind it must not scroll. ItemDetailsPanel toggles the class.
+html.panel-covers,
+html.panel-covers body {
+  overflow: hidden;
+}
+

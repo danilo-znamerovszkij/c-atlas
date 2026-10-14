@@ -89,6 +89,37 @@ $gold-bright: #f7b801;
   }
 }
 
+.compare-link {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid $gold-line;
+  border-radius: 4px;
+  color: $gold-text;
+  font-size: 13px;
+  padding: 8px 12px;
+  text-decoration: none;
+  backdrop-filter: blur(10px);
+  transition: border-color 0.15s ease, background 0.15s ease, color 0.15s ease, transform 0.16s ease-out;
+
+  &:hover {
+    border-color: rgba(198, 160, 50, 0.8);
+    background: rgba(198, 160, 50, 0.08);
+    color: $gold-bright;
+  }
+
+  &:active {
+    transform: scale(0.97);
+  }
+
+  &:focus-visible {
+    outline: 2px solid rgba(198, 160, 50, 0.7);
+    outline-offset: 2px;
+  }
+}
+
 .filter-count {
   margin-left: auto;
   min-width: 18px;
@@ -109,6 +140,19 @@ $gold-bright: #f7b801;
 }
 
 .filter-panel {
+  // Drops open from the Filter button.
+  transform-origin: top center;
+  transition: opacity 0.18s ease-out, transform 0.18s cubic-bezier(0.23, 1, 0.32, 1);
+
+  @starting-style {
+    opacity: 0;
+    transform: translateY(-4px) scale(0.98);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
+
   margin-top: 8px;
   padding: 14px;
   background: rgba(16, 15, 10, 0.92);
@@ -165,7 +209,7 @@ $gold-bright: #f7b801;
   font-size: 12px;
   padding: 5px 11px;
   cursor: pointer;
-  transition: all 0.15s ease;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease, box-shadow 0.15s ease, transform 0.16s ease-out;
 
   &:hover {
     border-color: rgba(198, 160, 50, 0.6);

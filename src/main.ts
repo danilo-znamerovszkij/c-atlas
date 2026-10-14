@@ -7,6 +7,7 @@ import { TheoryChart } from '@/components/TheoryChart'
 import { SearchBar } from '@/components/SearchBar'
 import { AtlasTools } from '@/components/AtlasTools'
 import { AtlasSidebar } from '@/components/AtlasSidebar'
+import { ShareButton } from '@/components/ShareButton'
 import { WelcomeTour } from '@/components/WelcomeTour'
 import { FormPopup } from '@/components/FormPopup'
 import { LanguagePopup } from '@/components/LanguagePopup'
@@ -105,6 +106,7 @@ echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
       ;(window as any).router = router
 
       new SearchBar('search-container', router)
+      new ShareButton('share-button')
       const chart = theoryChart
       const tools = new AtlasTools('atlas-tools', 'theory-list', router, names => chart.applyFilter(names))
       const sidebar = new AtlasSidebar('atlas-sidebar', router, itemDetailsPanel, path => chart.openPath(path))

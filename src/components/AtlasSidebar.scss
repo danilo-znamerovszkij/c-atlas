@@ -197,7 +197,7 @@
     font-size: 13px;
     padding: 6px 12px;
     cursor: pointer;
-    transition: all 0.15s ease;
+    transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease, box-shadow 0.15s ease, transform 0.16s ease-out;
 
     &:hover {
       border-color: #f7b801;
@@ -251,5 +251,20 @@
 
   body.list-mode .atlas-sidebar {
     display: none;
+  }
+}
+
+// The card for the current map level eases in when you move around the map.
+.sidebar-card {
+  transition: opacity 0.22s ease-out, transform 0.22s cubic-bezier(0.23, 1, 0.32, 1);
+
+  @starting-style {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    transition: opacity 0.2s ease;
+    transform: none;
   }
 }

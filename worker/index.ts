@@ -82,6 +82,12 @@ async function renderPage(request: Request, env: Env, url: URL): Promise<Respons
     if (body.includes(HUB_MARKER)) {
       return new Response(body, { status: 200, headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': HTML_CACHE } })
     }
+    // Head-to-head pages exist once, slugs in alphabetical order: send b-vs-a there.
+    const [a, b, ...rest] = segments[0] === 'compare' && segments[1] ? segments[1].split('-vs-') : []
+    if (a && b && !rest.length) {
+      const reverse = await env.ASSETS.fetch(new URL(`/_pages/compare/${b}-vs-${a}`, url))
+      if (reverse.ok && (await reverse.text()).includes(HUB_MARKER)) return Response.redirect(`${SITE_ORIGIN}/compare/${b}-vs-${a}`, 301)
+    }
   }
 
   // /{category} and /{category}/{subcategory}: the map, drilled into that group.
@@ -172,7 +178,7 @@ async function renderPage(request: Request, env: Env, url: URL): Promise<Respons
       html = html.replace(/<script type="application\/ld\+json" data-scope="home">[\s\S]*?<\/script>/g, '')
       html = html.replace(/<h1 data-i18n="about\.heading">([\s\S]*?)<\/h1>/, '<h2 data-i18n="about.heading">$1</h2>')
       html = html.replace('</head>', `  <script type="application/ld+json">${head.jsonLd}</script>\n  </head>`)
-      html = html.replace('<div id="item-details"></div>', `<div id="item-details">${markQuale(theoryArticle(theoryRoute.theory, locale))}</div>`)
+      html = html.replace('<div id="item-details"></div>', `<div id="item-details">${markQuale(theoryArticle(theoryRoute.theory, locale, theoryRoute.leaf))}</div>`)
     } else if (theoryRoute || notFound) {
       html = html.replace('</head>', '  <meta name="robots" content="noindex" />\n  </head>')
     }

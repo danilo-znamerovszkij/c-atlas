@@ -1,4 +1,6 @@
 import { markQuale } from '@/utils/quale'
+import { groupPathFromSegments } from '@/utils/groupPaths'
+import { parseLocaleFromPath } from '@/shared/site'
 import { baseData, getDisplayLabel, getAllTheoryNames } from '../config/chartConfig'
 import { getTheoryFullName, theoryFullNames } from '../data/theoryNames'
 import { generateSlug } from '../utils/slugUtils'
@@ -168,9 +170,18 @@ export class ItemDetailsPanel {
     this.setFullscreen(true, false)
   }
 
+  private resizeTimer = 0
+
   private setFullscreen(on: boolean, persist = true) {
     const panel = this.container.querySelector('.item-details-panel')
     const btn = this.container.querySelector('#fullscreen-panel')
+    // Fade the text while the width animates (see .is-resizing), only when
+    // the switch is visible and the class actually changes.
+    if (panel?.classList.contains('visible') && panel.classList.contains('fullscreen') !== on) {
+      panel.classList.add('is-resizing')
+      clearTimeout(this.resizeTimer)
+      this.resizeTimer = window.setTimeout(() => panel.classList.remove('is-resizing'), 380)
+    }
     panel?.classList.toggle('fullscreen', on)
     if (btn) {
       const label = t(on ? 'itemDetails.fullscreen.exit' : 'itemDetails.fullscreen.enter')
@@ -182,7 +193,22 @@ export class ItemDetailsPanel {
     try { localStorage.setItem(FULLSCREEN_STORAGE_KEY, on ? '1' : '0') } catch { /* storage blocked */ }
   }
 
+  // Lock page scroll whenever the open panel covers the whole viewport.
+  private watchScrollLock() {
+    const panel = this.container.querySelector('.item-details-panel')
+    if (!panel) return
+    const sync = () => {
+      const covers = panel.classList.contains('visible') &&
+        (panel.classList.contains('fullscreen') || window.innerWidth <= 768)
+      document.documentElement.classList.toggle('panel-covers', covers)
+    }
+    new MutationObserver(sync).observe(panel, { attributes: true, attributeFilter: ['class'] })
+    window.addEventListener('resize', sync)
+    sync()
+  }
+
   private attachEventListeners() {
+    this.watchScrollLock()
     let savedFullscreen = false
     try { savedFullscreen = localStorage.getItem(FULLSCREEN_STORAGE_KEY) === '1' } catch { /* storage blocked */ }
     this.setFullscreen(savedFullscreen, false)
@@ -501,6 +527,11 @@ export class ItemDetailsPanel {
             </div>
           </div>
           ` : ''}
+          ${this.compareHref() ? `
+          <a class="theory-compare" href="${this.compareHref()}">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="7" height="16" rx="1.5"/><rect x="14" y="4" width="7" height="16" rx="1.5"/></svg>
+            ${t('itemDetails.compare')}
+          </a>` : ''}
           
           <!-- I. Conceptual Ground -->
           <div class="theory-section">
@@ -871,6 +902,12 @@ export class ItemDetailsPanel {
         </div>
       `
     }
+  }
+
+  // /compare?t={slug} for the theory in the URL (theory URLs are /{category}/{slug}).
+  private compareHref(): string | null {
+    const segments = parseLocaleFromPath(window.location.pathname).pathWithoutLocale.split('/').filter(Boolean)
+    return segments.length === 2 && !groupPathFromSegments(segments) ? `/compare?t=${encodeURIComponent(segments[1])}` : null
   }
 
   public hide() {

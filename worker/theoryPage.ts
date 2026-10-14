@@ -153,7 +153,7 @@ export function theoryHead(theory: TheoryData, canonical: string, leaf: Leaf | n
 
 // Readable article for crawlers and the first paint; the app swaps it for the
 // interactive panel on boot.
-export function theoryArticle(theory: TheoryData, locale: Locale): string {
+export function theoryArticle(theory: TheoryData, locale: Locale, leaf: Leaf | null = null): string {
   const { id_and_class: ic, conceptual_ground: cg, mechanism_and_dynamics: md, empirics_and_critiques: ec, implications: im, relations_and_sources: rs } = theory
   const field = (label: string, value: string) => value?.trim() ? `<h2>${esc(label)}</h2><p>${esc(value)}</p>` : ''
   const implications = ([
@@ -179,6 +179,6 @@ export function theoryArticle(theory: TheoryData, locale: Locale): string {
   ${implications.length ? `<h2>Implications</h2><dl>${implications.map(([q, v]) => `<dt>${esc(q)}: ${esc(v.stance)}</dt><dd>${esc(v.rationale)}</dd>`).join('')}</dl>` : ''}
   ${related ? `<h2>Related theories</h2><ul>${related}</ul>` : ''}
   ${rs.sources_and_references.length ? `<h2>Sources</h2><ul>${rs.sources_and_references.map(s => `<li>${esc(s.title_with_names)}${s.year ? ` (${esc(s.year)})` : ''}</li>`).join('')}</ul>` : ''}
-  <p><a href="${esc(buildLocalizedPath('/', locale))}">Explore all theories on the Consciousness Atlas</a></p>
+  <p><a href="${esc(buildLocalizedPath('/', locale))}">Explore all theories on the Consciousness Atlas</a>${leaf ? ` · <a href="/compare?t=${esc(generateSlug(leaf.name))}">Compare ${esc(ic.theory_title)} with other theories</a>` : ''} · <a href="/quiz">Which theory of consciousness fits you?</a></p>
 </article>`
 }

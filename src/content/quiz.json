@@ -1,0 +1,100 @@
+{
+  "_note": "Quiz questions (scripts/quiz/quiz.js). axis questions match src/content/quizScores.json (0-4, see scripts/quiz/RUBRIC.md); key questions match a theory's implication stance. value: the answer's position; short: used in 'you said X, it says Y'; agree: shown when a theory gives the same answer.",
+  "questions": [
+    {
+      "axis": "mm", "weight": 1.5, "topic": "What is real", "ends": ["Matter", "Mind"],
+      "text": "What is the world ultimately made of?",
+      "help": "The oldest split in the field: materialism, dualism, idealism and the views in between.",
+      "options": [
+        { "label": "Matter and energy. A mind is something matter does.", "value": 0, "short": "matter", "agree": "You both think only matter is ultimately real" },
+        { "label": "Matter, but minds are real in their own right, not just a way of describing brains.", "value": 1, "short": "matter, with minds real in their own right", "agree": "You both put matter first but take minds as real" },
+        { "label": "Something deeper that shows up as both matter and mind.", "value": 2, "short": "something beneath both", "agree": "You both think mind and matter share a deeper source" },
+        { "label": "Two different kinds of thing: the physical and the mental.", "value": 3, "short": "two kinds of thing", "agree": "You both think mind and matter are different kinds of thing" },
+        { "label": "Mind. The physical world is how mind appears.", "value": 4, "short": "mind", "agree": "You both think mind comes first" }
+      ]
+    },
+    {
+      "axis": "fu", "weight": 1.2, "topic": "How basic it is", "ends": ["Illusion", "Ground of reality"],
+      "text": "How basic is consciousness?",
+      "help": "Think of the felt quality of seeing red or feeling pain.",
+      "options": [
+        { "label": "Less real than it seems. The inner glow is a story the brain tells itself.", "value": 0, "short": "less real than it seems", "agree": "You both doubt experience is what it seems" },
+        { "label": "Real but rare. It takes a complex brain.", "value": 1, "short": "real but rare", "agree": "You both think it takes a complex brain" },
+        { "label": "Real across living things, in degrees.", "value": 2, "short": "graded across life", "agree": "You both see it across living things, in degrees" },
+        { "label": "Real well beyond brains, perhaps even in simple matter.", "value": 3, "short": "present beyond brains", "agree": "You both think it reaches beyond brains" },
+        { "label": "The most basic thing there is.", "value": 4, "short": "the ground of everything", "agree": "You both take consciousness as the ground of reality" }
+      ]
+    },
+    {
+      "axis": "lo", "weight": 0.8, "topic": "Where it is", "ends": ["In the brain", "Nowhere in space"],
+      "text": "Where is your experience happening right now?",
+      "options": [
+        { "label": "In particular circuits of my brain.", "value": 0, "short": "in particular brain circuits", "agree": "You both place it in particular brain circuits" },
+        { "label": "In my brain, working as a whole.", "value": 1, "short": "in the brain as a whole", "agree": "You both place it in the brain as a whole" },
+        { "label": "In my brain, body and surroundings together.", "value": 2, "short": "in brain, body and world together", "agree": "You both spread it across brain, body and world" },
+        { "label": "Spread through nature, not only in me.", "value": 3, "short": "spread through nature", "agree": "You both see it spread through nature" },
+        { "label": "Nowhere in particular. It isn't located in space.", "value": 4, "short": "not in space at all", "agree": "You both think it isn't located in space" }
+      ]
+    },
+    {
+      "axis": "ev", "weight": 1.0, "topic": "Best evidence", "ends": ["Experiment", "Tradition and experience"],
+      "text": "What would convince you about consciousness?",
+      "options": [
+        { "label": "Experiments and brain data.", "value": 0, "short": "experiments", "agree": "You both trust experiments first" },
+        { "label": "Science and careful argument, side by side.", "value": 1, "short": "science plus argument", "agree": "You both combine science and argument" },
+        { "label": "A sound philosophical argument.", "value": 2, "short": "philosophical argument", "agree": "You both rest the case on argument" },
+        { "label": "Close attention to my own experience, through meditation or practice.", "value": 3, "short": "contemplative practice", "agree": "You both value first-person practice" },
+        { "label": "Spiritual tradition, or experiences like near-death reports.", "value": 4, "short": "tradition and extraordinary experience", "agree": "You both give weight to tradition and extraordinary experience" }
+      ]
+    },
+    {
+      "axis": "qu", "weight": 0.6, "topic": "Physics", "ends": ["Ordinary physics", "Quantum or new physics"],
+      "text": "Does today's physics have room for minds?",
+      "options": [
+        { "label": "Yes. Ordinary physics and biology are enough.", "value": 0, "short": "ordinary physics is enough", "agree": "You both think ordinary physics is enough" },
+        { "label": "Quantum physics may play a part.", "value": 2, "short": "quantum effects may help", "agree": "You both leave room for quantum effects" },
+        { "label": "Minds need quantum physics, or physics we don't have yet.", "value": 4, "short": "quantum or new physics is needed", "agree": "You both think minds need quantum or new physics" }
+      ]
+    },
+    {
+      "key": "ai", "weight": 0.9, "topic": "AI consciousness",
+      "text": "Could an AI ever be conscious?",
+      "options": [
+        { "label": "Yes, if it's built the right way.", "value": 4, "short": "yes", "agree": "You both think AI could be conscious" },
+        { "label": "Possibly, but only under certain conditions.", "value": 3, "short": "possibly", "agree": "You both say AI might be conscious under some conditions" },
+        { "label": "No one can say.", "value": 2, "short": "no one can say", "agree": "You both leave AI consciousness open" },
+        { "label": "No. Machines can't have experiences.", "value": 0, "short": "no", "agree": "You both think AI can't be conscious" }
+      ]
+    },
+    {
+      "key": "survival", "weight": 0.9, "topic": "Life after death",
+      "text": "Does consciousness survive death?",
+      "options": [
+        { "label": "Yes.", "value": 4, "short": "yes", "agree": "You both expect consciousness to survive death" },
+        { "label": "Possibly, in some form.", "value": 3, "short": "possibly", "agree": "You both think some form of survival is possible" },
+        { "label": "No one can say.", "value": 2, "short": "no one can say", "agree": "You both leave life after death open" },
+        { "label": "No. It ends with the brain.", "value": 0, "short": "no", "agree": "You both think it ends with the brain" }
+      ]
+    },
+    {
+      "key": "virtual", "weight": 0.7, "topic": "Mind uploading",
+      "text": "Could your mind be uploaded to a computer?",
+      "options": [
+        { "label": "Yes, in principle.", "value": 4, "short": "yes", "agree": "You both think a mind could be uploaded" },
+        { "label": "Possibly, with the right technology.", "value": 3, "short": "possibly", "agree": "You both think uploading might work" },
+        { "label": "No one can say.", "value": 2, "short": "no one can say", "agree": "You both leave uploading open" },
+        { "label": "No. A copy wouldn't be me, or wouldn't be conscious.", "value": 0, "short": "no", "agree": "You both doubt a mind could be uploaded" },
+        { "label": "No need. Consciousness carries on without a body anyway.", "value": "n", "short": "no need, it carries on anyway", "agree": "You both think consciousness carries on without uploading" }
+      ]
+    },
+    {
+      "key": "meaning", "weight": 0.8, "topic": "Meaning",
+      "text": "Does consciousness give life a meaning beyond what we make of it?",
+      "options": [
+        { "label": "Yes. Meaning is built into reality.", "value": 4, "short": "yes, it's built in", "agree": "You both see meaning built into reality" },
+        { "label": "No one can say.", "value": 2, "short": "no one can say", "agree": "You both leave the question of meaning open" },
+        { "label": "No. Meaning is ours to make.", "value": 0, "short": "meaning is ours to make", "agree": "You both think meaning is ours to make" }
+      ]
+    }
+  ]
+}

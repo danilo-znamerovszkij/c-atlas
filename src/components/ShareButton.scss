@@ -1,0 +1,98 @@
+// Popover for ShareButton.ts; the trigger is .share-btn in main.scss.
+.share-pop {
+  position: fixed;
+  top: 68px;
+  right: 16px;
+  z-index: 1500;
+  width: min(340px, calc(100vw - 24px));
+  box-sizing: border-box;
+  padding: 14px 12px 12px;
+  background: #16140d;
+  border: 1px solid rgba(198, 160, 50, 0.45);
+  border-radius: 12px;
+  box-shadow: 0 18px 50px rgba(0, 0, 0, 0.55);
+  transform-origin: top right;
+  opacity: 0;
+  transform: scale(0.96);
+  visibility: hidden;
+  transition: opacity 0.12s ease, transform 0.12s ease, visibility 0s linear 0.12s;
+
+  &.is-open {
+    opacity: 1;
+    transform: none;
+    visibility: visible;
+    transition: opacity 0.16s cubic-bezier(0.23, 1, 0.32, 1), transform 0.16s cubic-bezier(0.23, 1, 0.32, 1), visibility 0s;
+  }
+
+  @media (max-width: 768px) {
+    top: 62px;
+    right: 12px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    transform: none;
+  }
+}
+
+.share-pop-title {
+  margin: 0 4px 8px;
+  color: #c6a032;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.share-copy {
+  display: flex;
+  gap: 6px;
+  margin-top: 10px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+
+  input {
+    flex: 1;
+    min-width: 0;
+    padding: 8px 10px;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 6px;
+    background: rgba(0, 0, 0, 0.25);
+    color: rgba(255, 255, 255, 0.7);
+    font: 13px "Outfit", sans-serif;
+  }
+
+  button {
+    padding: 8px 12px;
+    border: 1px solid rgba(198, 160, 50, 0.6);
+    border-radius: 6px;
+    background: rgba(247, 184, 1, 0.12);
+    color: #f7b801;
+    font: 500 13px "Outfit", sans-serif;
+    cursor: pointer;
+    transition: background-color 0.15s ease, transform 0.16s ease-out;
+
+    &:active {
+      transform: scale(0.97);
+    }
+
+    &.is-done {
+      background: rgba(247, 184, 1, 0.22);
+    }
+  }
+}
+
+.share-native {
+  width: 100%;
+  margin-top: 8px;
+  padding: 9px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 6px;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.8);
+  font: 13px "Outfit", sans-serif;
+  cursor: pointer;
+
+  &:active {
+    transform: scale(0.98);
+  }
+}

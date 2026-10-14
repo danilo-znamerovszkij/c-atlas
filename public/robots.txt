@@ -3,4 +3,27 @@ Allow: /
 Disallow: /api/
 Disallow: /_pages/
 
+# AI search and assistant crawlers are welcome. A plain-text guide to the
+# site is at https://www.consciousnessatlas.com/llms.txt and every theory
+# with its summary is at https://www.consciousnessatlas.com/llms-full.txt
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: Bingbot
+User-agent: DuckAssistBot
+User-agent: CCBot
+User-agent: meta-externalagent
+User-agent: MistralAI-User
+Allow: /
+Disallow: /api/
+Disallow: /_pages/
+
 Sitemap: https://www.consciousnessatlas.com/sitemap.xml

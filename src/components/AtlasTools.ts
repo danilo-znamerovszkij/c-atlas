@@ -108,6 +108,10 @@ export class AtlasTools {
           <span>${t('tools.filter.button')}</span>
           <span class="filter-count" hidden></span>
         </button>
+        <a class="compare-link" href="/compare" title="${t('tools.compare.title')}">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="7" height="16" rx="1.5"/><rect x="14" y="4" width="7" height="16" rx="1.5"/></svg>
+          <span>${t('tools.compare')}</span>
+        </a>
       </div>
       <div class="filter-panel" id="filter-panel" hidden>
         ${QUESTIONS.map(q => `

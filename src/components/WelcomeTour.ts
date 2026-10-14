@@ -9,16 +9,24 @@ interface Step {
   target?: string
   title: string
   body: string
+  final?: boolean
 }
+
+// Same (entity-encoded) address as the About section's contact link.
+const CONTACT_MAILTO = 'mailto:&#100;&#97;&#110;&#105;&#108;&#111;&#46;&#122;&#110;&#97;&#109;&#101;&#114;&#111;&#118;&#115;&#122;&#107;&#105;&#106;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'
+const KOFI_URL = 'https://ko-fi.com/daniloznamerovszkij'
 
 const STEPS: Step[] = [
   { title: 'tour.map.title', body: 'tour.map.body' },
   { target: '.filter-toggle', title: 'tour.filter.title', body: 'tour.filter.body' },
   { target: '.view-switch', title: 'tour.list.title', body: 'tour.list.body' },
-  { target: '#atlas-sidebar', title: 'tour.start.title', body: 'tour.start.body' }
+  { target: '.compare-link', title: 'tour.compare.title', body: 'tour.compare.body' },
+  { target: '#atlas-sidebar', title: 'tour.start.title', body: 'tour.start.body' },
+  { title: 'tour.quiz.title', body: 'tour.quiz.body', final: true }
 ]
 
-// First-visit welcome with an opt-in, skippable 4-step tour of the controls.
+// First-visit welcome with an opt-in, skippable tour of the controls, ending
+// on the quiz and a quiet note on how to reach the maker or support the project.
 export class WelcomeTour {
   private root: HTMLElement | null = null
   private index = -1
@@ -82,6 +90,11 @@ export class WelcomeTour {
         <p class="tour-eyebrow">${t('tour.progress').replace('{n}', String(index + 1)).replace('{total}', String(STEPS.length))}</p>
         <h2 id="tour-title">${t(step.title)}</h2>
         <p>${t(step.body)}</p>
+        ${step.final ? `
+          <a class="tour-cta" href="/quiz" data-leave>${t('tour.quiz.cta')} →</a>
+          <p class="tour-note">${t('tour.thanks.note')}
+            <a href="${CONTACT_MAILTO}" data-leave>${t('tour.thanks.hello')}</a> ·
+            <a href="${KOFI_URL}" target="_blank" rel="noopener noreferrer" data-leave>${t('tour.thanks.support')}</a></p>` : ''}
         <div class="tour-actions">
           <button type="button" class="tour-link" data-action="skip">${t('tour.skip')}</button>
           <span class="tour-spacer"></span>
@@ -127,6 +140,7 @@ export class WelcomeTour {
       this.go(Math.max(0, i))
     })
     this.root!.querySelector('[data-action="skip"]')?.addEventListener('click', () => this.finish(this.index < 0 ? 'skipped_intro' : 'skipped'))
+    this.root!.querySelectorAll('[data-leave]').forEach(a => a.addEventListener('click', () => this.finish('link')))
   }
 
   private finish(reason: string) {

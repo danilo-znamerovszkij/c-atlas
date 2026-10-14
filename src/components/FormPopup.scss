@@ -12,11 +12,12 @@
   justify-content: center;
   opacity: 0;
   visibility: hidden;
-  transition: all 0.3s ease;
+  transition: opacity 0.16s ease, visibility 0s linear 0.16s;
 
   &.visible {
     opacity: 1;
     visibility: visible;
+    transition: opacity 0.2s ease, visibility 0s;
   }
 }
 
@@ -34,12 +35,16 @@
   overflow-y: auto;
   backdrop-filter: blur(20px);
   box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
-  transform: scale(0.9) translateY(20px);
-  transition: all 0.3s ease;
+  // Modal: stays centred; enters at 0.24s, leaves faster at 0.16s.
+  opacity: 0;
+  transform: scale(0.96) translateY(8px);
+  transition: opacity 0.16s ease, transform 0.16s ease;
   overflow: hidden;
 
   .form-overlay.visible & {
-    transform: scale(1) translateY(0);
+    opacity: 1;
+    transform: none;
+    transition: opacity 0.24s cubic-bezier(0.23, 1, 0.32, 1), transform 0.24s cubic-bezier(0.23, 1, 0.32, 1);
   }
 }
 
@@ -66,7 +71,7 @@
   cursor: pointer;
   padding: 8px;
   border-radius: 6px;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.16s ease-out;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -107,7 +112,7 @@
     color: #ffffff;
     font-size: 14px;
     font-family: inherit;
-    transition: all 0.2s ease;
+    transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.16s ease-out;
     backdrop-filter: blur(10px);
     box-sizing: border-box;
 
@@ -150,7 +155,7 @@
   font-size: 14px;
   font-weight: 500;
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.16s ease-out;
   border: 1px solid;
   display: flex;
   align-items: center;
@@ -189,7 +194,6 @@
   &:hover:not(:disabled) {
     background: rgba(247, 184, 1, 0.15);
     border-color: rgba(247, 184, 1, 0.3);
-    transform: translateY(-1px);
     box-shadow: 0 4px 12px rgba(247, 184, 1, 0.2);
   }
 

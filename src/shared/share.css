@@ -1,0 +1,16 @@
+/* Share link grid (src/shared/share.js). Used by the app and inlined into the
+   static hub pages by scripts/pages.js. */
+.share-targets{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(4,1fr);gap:2px}
+.share-target{display:flex;flex-direction:column;align-items:center;gap:6px;padding:10px 2px 8px;border-radius:8px;color:rgba(255,255,255,.78);text-decoration:none;font:12px/1.2 Outfit,"Helvetica Neue",Arial,sans-serif;text-align:center;transition:background-color .15s ease,color .15s ease,transform .16s ease-out}
+.share-icon{display:grid;place-items:center;width:40px;height:40px;border-radius:50%;border:1px solid rgba(255,255,255,.14);background:rgba(255,255,255,.03);transition:border-color .15s ease,color .15s ease,background-color .15s ease}
+.share-target:active{transform:scale(.96)}
+.share-target:focus-visible{outline:2px solid rgba(247,184,1,.8);outline-offset:1px}
+.share-target:focus-visible .share-icon{color:var(--brand)}
+.share-targets.is-compact{display:flex;flex-wrap:wrap;gap:8px}
+.is-compact .share-target{padding:0}
+@media (hover:hover) and (pointer:fine){
+  .share-target:hover{color:#fff;background-color:rgba(255,255,255,.04)}
+  .share-target:hover .share-icon{color:var(--brand);border-color:color-mix(in srgb,var(--brand) 60%,transparent);background-color:color-mix(in srgb,var(--brand) 12%,transparent)}
+  .is-compact .share-target:hover{background-color:transparent}
+}
+@media (prefers-reduced-motion:reduce){.share-target{transition:none}}

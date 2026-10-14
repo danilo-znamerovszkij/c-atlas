@@ -11,6 +11,8 @@ export const HUB_MARKER = '<meta name="atlas-page" content="hub" />'
 export function hubAsset(segments: string[]): string | null {
   const [first, second] = segments
   if (first === 'theories' && segments.length === 1) return '/_pages/theories'
+  if (first === 'mentions' && segments.length === 1) return '/_pages/mentions'
+  if (first === 'quiz' && segments.length === 1) return '/_pages/quiz'
   if (first === 'theories' && segments.length === 2 && categorySlugs.has(second)) return `/_pages/category/${second}`
   if ((first === 'questions' || first === 'compare') && segments.length <= 2) {
     return second ? `/_pages/${first}/${second}` : `/_pages/${first}/`

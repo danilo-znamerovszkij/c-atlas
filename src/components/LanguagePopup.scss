@@ -34,11 +34,12 @@
   overflow: hidden;
   backdrop-filter: blur(20px);
   box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
-  transform: scale(0.94) translateY(16px);
-  transition: transform 0.25s ease;
+  transform: scale(0.96) translateY(8px);
+  transition: transform 0.16s ease;
 
   .language-overlay.visible & {
-    transform: scale(1) translateY(0);
+    transform: none;
+    transition: transform 0.22s cubic-bezier(0.23, 1, 0.32, 1);
   }
 }
 
@@ -112,7 +113,6 @@
   &:hover {
     background: rgba(247, 184, 1, 0.08);
     border-color: rgba(247, 184, 1, 0.5);
-    transform: translateY(-1px);
   }
 
   &.active {
