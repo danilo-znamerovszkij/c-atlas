@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Nida-Rümelin’s Subject-Body Dualism",
+    "summary": "Martine Nida-Rümelin argues that a conscious subject, the being that experiences, thinks, and acts, is neither identical to nor constituted by any material thing, although it has a body. Her view is stronger than property dualism but drops the Cartesian picture of a person made of body plus soul. She rests it on phenomenal essentialism, the cognitive independence of phenomenal and physical concepts, and the pre-reflective self-awareness built into every experience.",
+    "associated_thinkers": ["Martine Nida-Rümelin"],
+    "category": "Dualism",
+    "subcategory": "",
+    "core_identity_tagline": "Consciousness as a Non-Material Subject That Has a Body",
+    "classification_tags": ["subject-body dualism", "phenomenal concepts", "knowledge argument", "self-awareness", "personal identity"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness belongs to an experiencing subject, identical with the person, whose phenomenal properties are ontologically basic and non-physical.",
+    "ontological_status": "Subject-body dualism (non-Cartesian, close to substance dualism)",
+    "mind_body_relationship": "The person has a body, but the body is in no sense a part of her, and the person is not a composite of body and soul. Nida-Rümelin also denies that subjects can exist without a body, so the subject is not a ‘substance’ in the sense of something that depends on nothing else.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong emergence (phenomenal properties emerge from physical substrates but cannot be reduced to them)",
+    "subjectivity_and_intentionality": "Every experience includes pre-reflective self-awareness: in being presented with something, the subject is implicitly aware of itself as the one experiencing. Nida-Rümelin also stresses the subject’s active role.",
+    "qualia_account": "Phenomenal concepts grasp the essence of experiences directly, while physical concepts cannot reveal that essence, so phenomenal properties are non-physical and basic.",
+    "ontological_commitments": "Experiencing subjects (persons), bodies, physical substrates, and irreducible phenomenal properties.",
+    "epistemic_access": "First-person grasp through phenomenal concepts and pre-reflective self-awareness, analyzed through conceptual argument.",
+    "constituents_and_structure": "A single, non-composite subject that has experiences, thinks, and acts, and that has a body without being made of it."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal; Self-awareness (pre-reflective); Agency; Personal identity over time and across possible worlds",
+    "distinctive_mechanism_or_principle": "The argument from understanding: phenomenal concepts reveal the essence of experience and physical concepts do not, so the experiencing subject and its phenomenal properties are not physical.",
+    "dynamics_of_emergence": "Phenomenal properties emerge from physical substrates. The subject exists wholly at each moment and persists through time while its properties change.",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "The subject thinks and is active, and Nida-Rümelin gives it an active role, though she does not spell out a mechanism of mental causation.",
+    "integration_or_binding": "Unity comes from the single subject to whom all experiences belong; first-person, second-person, and name references all pick out that same subject.",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "A conscious individual is neither identical to nor constituted by any material thing, though it has a body.",
+      "Knowing all physical facts does not amount to grasping phenomenal facts, because phenomenal and physical beliefs are cognitively independent.",
+      "Phenomenal concepts give direct grasp of the essence of experiences, which physical concepts cannot reveal.",
+      "Experience always involves pre-reflective awareness of oneself as an experiencing subject."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical: conceptual analysis, a refined Knowledge Argument, and phenomenology of self-awareness."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "The view sits between property dualism and substance dualism, and its claims pull in two directions: phenomenal properties are ontologically basic yet emerge from physical substrates. Its main arguments depend on the contested inference from conceptual independence to ontological distinctness.",
+    "open_questions_and_limitations": "How a non-material subject that cannot exist without a body comes to have that body, and how its activity relates to physical causes, are left open.",
+    "ontological_coherence": "Coherent as a non-Cartesian dualism that drops the body-soul composite, though the pairing of ontological basicness with emergence needs more explanation. Nida-Rümelin aims for a position compatible with science."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Since subjects are not constituted by material things, building the right physical system does not by itself guarantee a subject, and Nida-Rümelin does not say what would."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Nida-Rümelin holds that subject-body dualism does not imply that conscious subjects can exist without a body."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Because the subject is not constituted by its physical substrate, copying that substrate would not obviously carry the same subject over."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Jackson's Representationalism and the Knowledge Argument", "relationship": "Influence" },
+      { "name": "Property Dualism", "relationship": "Contrast" },
+      { "name": "Descartes’s Substance Dualism", "relationship": "Contrast" },
+      { "name": "Zahavi’s Pre-Reflective For-Me-Ness", "relationship": "Overlap" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Nida-Rümelin’s Subject-Body Dualism, Martine Nida-Rümelin", "year": 2010 }
+    ]
+  }
+}

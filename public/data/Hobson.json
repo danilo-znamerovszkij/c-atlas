@@ -1,0 +1,84 @@
+{
+  "id_and_class": {
+    "theory_title": "Hobson’s Dreaming Protoconsciousness",
+    "summary": "J. Allan Hobson proposes that REM sleep is a protoconscious state, a genetically programmed virtual reality in which the brain models a world and a body without external input. Dreaming shows primary consciousness (perception, emotion, a situated self) in nearly pure form, and REM sleep trains and maintains the generative machinery that waking consciousness, with its language, reflection, and volition, is built on.",
+    "associated_thinkers": ["J. Allan Hobson", "Robert McCarley", "Karl Friston"],
+    "category": "Anomalous",
+    "subcategory": "",
+    "core_identity_tagline": "Dreaming as the Brain’s Virtual Reality Training Ground",
+    "classification_tags": ["dreaming", "rem sleep", "aim model", "neurophysiology", "predictive processing"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is the brain’s generated model of a world and a body. Primary consciousness is this model running (as in dreams), and secondary consciousness adds language, metacognition, and voluntary control on top.",
+    "ontological_status": "Physicalism (neurobiological)",
+    "mind_body_relationship": "Conscious states correspond to positions in a brain-state space defined by activation, input-output gating, and neuromodulation, so each kind of experience maps onto a physiological profile.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (from brain activation, gating, and neuromodulatory balance)",
+    "subjectivity_and_intentionality": "Dreamers have a first-person perspective and a situated self but usually lack the reflective insight that they are dreaming. Self-reflection belongs to secondary consciousness, which depends on language and waking frontoparietal organization.",
+    "qualia_account": "Dreams show that vivid phenomenal worlds can be generated with almost no sensory input, so perception is an actively built model. Hobson does not claim to explain why any brain state is felt at all.",
+    "ontological_commitments": "Brainstem and forebrain circuits; aminergic and cholinergic neuromodulatory systems; sensory and motor gating; a generative model of world and body.",
+    "epistemic_access": "Sleep-lab neurophysiology, dream reports, studies of lucid dreaming, and developmental data on REM sleep in fetuses and newborns.",
+    "constituents_and_structure": "Two tiers following Edelman: primary consciousness (perception, emotion, movement imagery) and secondary consciousness (language, abstract thought, self-reflection, volition). States sit in the three-dimensional AIM space."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (primary consciousness), Self-awareness and metacognition (secondary), States of consciousness (waking, REM, non-REM, anesthesia)",
+    "distinctive_mechanism_or_principle": "The AIM (Activation-Input-Modulation) model: conscious states are fixed by the brain’s activation level, whether processing is driven by external input or internal generation, and the balance between aminergic and cholinergic neuromodulation.",
+    "dynamics_of_emergence": "REM sleep is most abundant in the fetus and newborn, before there is waking experience to process. Hobson infers that it builds world-modeling circuitry first, with waking consciousness developing on that base and REM sleep maintaining it for life.",
+    "location_and_distribution": "Generated across brainstem and forebrain; secondary consciousness depends on frontoparietal networks.",
+    "causation_and_functional_role": "Dreaming rehearses world-modeling. With Karl Friston, Hobson argues that offline dreaming also optimizes the brain’s generative model by pruning redundant parameters so that waking inference stays efficient.",
+    "integration_or_binding": "The forebrain synthesizes internally generated brainstem activation into a coherent dream narrative (the activation-synthesis hypothesis).",
+    "information_flow_or_representation": "Dreams are what the brain’s generative model produces when sensory evidence is gated out and motor output blocked.",
+    "evolutionary_account": "Primary consciousness is evolutionarily and developmentally prior to reflective consciousness and is shared in important respects with other animals.",
+    "core_claims_and_evidence": [
+      "Dream features (vivid imagery, intense emotion, lost self-reflection, disorientation, amnesia) follow from REM’s position in AIM space: cholinergic dominance, aminergic withdrawal, and gated input and output.",
+      "The abundance of REM sleep in fetuses and newborns suggests it develops the circuitry for consciousness before waking experience exists.",
+      "Lucid dreaming, in which secondary consciousness partly returns within a REM-generated world, is a measurable hybrid of waking and dreaming.",
+      "Dreaming reduces the complexity of the brain’s generative model, giving sleep an information-theoretic function."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical (sleep neurophysiology, neuromodulation, developmental and lucid-dreaming studies), with computational modeling"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Polysomnographic sleep-lab studies; EEG studies of lucid dreaming (Voss, Hobson and colleagues); measurement of REM sleep across development; clinical work on aminergic-cholinergic imbalance in psychosis and mood disorder.",
+    "criticisms_and_tensions": "Reports of dreaming in non-REM sleep weaken the tight mapping of protoconsciousness onto REM. The developmental argument rests on timing (REM is abundant early), not on a demonstrated function, and REM’s early abundance may have other explanations.",
+    "open_questions_and_limitations": "The theory explains why dreaming exists and how it relates to waking but not why any brain state is felt. Whether fetuses have protoconscious experience during REM is hard to test.",
+    "ontological_coherence": "Consistent with neurobiological physicalism and with predictive-processing accounts of perception as generated models."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness here is a product of brain activation and neuromodulation, nothing in the view survives the brain’s death."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Edelman's Neural Darwinism and Reentrant Neural Circuitry", "relationship": "Foundation" },
+      { "name": "Friston's Free-Energy Principle and Active Inference", "relationship": "Overlap" },
+      { "name": "Freud's Surface Consciousness and Irreducible Affect", "relationship": "Critique" },
+      { "name": "Thompson's Phenomenology: Waking, Dreaming, Sleeping, Pure Awareness", "relationship": "Overlap" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "REM Sleep and Dreaming: Towards a Theory of Protoconsciousness, J. Allan Hobson", "year": 2009 },
+      { "title_with_names": "The Brain as a Dream State Generator: An Activation-Synthesis Hypothesis of the Dream Process, J. Allan Hobson and Robert W. McCarley", "year": 1977 },
+      { "title_with_names": "Dreaming and the Brain: Toward a Cognitive Neuroscience of Conscious States, J. Allan Hobson, E. F. Pace-Schott, R. Stickgold", "year": 2000 },
+      { "title_with_names": "Waking and Dreaming Consciousness: Neurobiological and Functional Considerations, J. Allan Hobson and K. J. Friston", "year": 2012 },
+      { "title_with_names": "Virtual Reality and Consciousness Inference in Dreaming, J. Allan Hobson, C. C.-H. Hong, K. J. Friston", "year": 2014 },
+      { "title_with_names": "Psychodynamic Neurology: Dreams, Consciousness, and Virtual Reality, J. Allan Hobson", "year": 2015 },
+      { "title_with_names": "Lucid Dreaming: A State of Consciousness with Features of Both Waking and Non-Lucid Dreaming, U. Voss, R. Holzmann, I. Tuin, J. Allan Hobson", "year": 2009 },
+      { "title_with_names": "Bright Air, Brilliant Fire: On the Matter of the Mind, G. M. Edelman", "year": 1992 },
+      { "title_with_names": "The Reinterpretation of Dreams: An Evolutionary Hypothesis of the Function of Dreaming, A. Revonsuo", "year": 2000 }
+    ]
+  }
+}

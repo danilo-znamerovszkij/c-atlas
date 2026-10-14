@@ -1,0 +1,85 @@
+{
+  "id_and_class": {
+    "theory_title": "Sellars’s Sensa Beyond the Given",
+    "summary": "Sellars treats thought and sensation separately. Thoughts are inner episodes modeled on public speech and defined by their role in reasoning, and a completed science will identify them with neurophysiological processes. Sensations are nonconceptual, intrinsically qualitative states he calls sensa, and because a uniform pink expanse cannot be matched to the particulate structure of neurons, he argues that future physics must expand to include qualitative processes.",
+    "associated_thinkers": ["Wilfrid Sellars"],
+    "category": "Materialism",
+    "subcategory": "Mind-Brain",
+    "core_identity_tagline": "Sensations as Qualitative Physical Processes Awaiting Future Physics",
+    "classification_tags": ["myth of the given", "grain problem", "sensa", "scientific image", "identity theory"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Conceptual thought is identified with functionally classified neurophysiological episodes. Sensory consciousness is identified with sensa, intrinsically qualitative physical processes that present-day physics does not yet describe.",
+    "ontological_status": "Physicalism (revisionary, expanded scientific image)",
+    "mind_body_relationship": "Two identity theories. Thoughts are identical with neural states as neuroscience describes them, in line with Place and Smart. Sensations are identical with brain states only once physics recognizes continuous qualitative ‘absolute processes.’",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "Not applicable (sensa are fundamental qualitative physical processes, instantiated in suitably organized nervous systems, neither emergent additions to matter nor arrangements of particles)",
+    "subjectivity_and_intentionality": "Intentionality belongs to thoughts, which inherit their semantic and inferential roles from public language. Sensations are not intentional or propositional, and introspective authority is learned and fallible.",
+    "qualia_account": "Qualia are sensa: nonconceptual, intrinsically qualitative states posited to explain why veridical perception, illusion, and hallucination can feel the same. On Sellars’s adverbial analysis, sensing ‘redly’ is a way the perceiver is, not the inspection of a private red object.",
+    "ontological_commitments": "Neurophysiological processes, sensa as qualitative physical processes, and, in his late process ontology, basic ‘absolute processes’ of which both particles and sensory states may be manifestations.",
+    "epistemic_access": "Thoughts are theoretical posits first introduced to explain behavior, later reported directly by trained subjects. Sensations give no self-authenticating knowledge; perceptual knowledge needs concepts and a place in the ‘space of reasons.’",
+    "constituents_and_structure": "A conceptual layer of language-modeled, norm-governed thoughts and a nonconceptual layer of qualitative sensa that causally feed perception."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conceptual thought (sapience); phenomenal sensory consciousness; introspection; perceptual knowledge",
+    "distinctive_mechanism_or_principle": "The grain argument. Phenomenal qualities appear homogeneous all the way through while neural structures are particulate, so correlations do not yield an intelligible identity until physics includes qualitative processes.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Sensa are instantiated in appropriately organized nervous systems.",
+    "causation_and_functional_role": "Sensations causally contribute to perception, but knowledge arises only when a conceptually competent subject responds to them with norm-governed classification. Thoughts explain intelligent behavior that occurs without speech.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Thoughts are modeled on overt speech and carry its inferential roles. Sensations are modeled on perceptible qualities themselves and carry no propositional content.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "The Myth of the Given is false: bare sensations cannot justify empirical beliefs independently of concepts, language, and inference.",
+      "In the Myth of Jones, thoughts are theoretical posits modeled on speech, an early functionalism about intentional states.",
+      "A uniform pink expanse and a heterogeneous neural process differ in grain, so present neuroscience cannot supply the identity.",
+      "Sensa are ‘physical-1’ (part of the natural spatiotemporal world) but not ‘physical-2’ (admitted by present physics)."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (epistemology, philosophy of science, phenomenological description)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Calling sensa primitive physical processes revises physics and relocates the explanatory burden without deriving phenomenality from independently understood principles. Sellars’s place among identity theorists is unorthodox, since the physical side of his phenomenal identity has not yet been discovered.",
+    "open_questions_and_limitations": "Sellars does not say which neural organizations instantiate sensa, why those processes produce a unified subject, or how qualitative similarities map onto physical structure.",
+    "ontological_coherence": "Coherent as a scientific realism that refuses both eliminativism and dualism. The proposal resembles Russellian monism and Galen Strawson’s real materialism."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Thought is functional and could in principle be realized elsewhere, but sensory consciousness requires qualitative sensa, and Sellars does not say which physical organizations instantiate them."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since sensa and thoughts are physical processes in nervous systems, it follows from the view that they end with the organism."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Sellars keeps persons, reasons, and norms in a stereoscopic integration with the scientific image, with no appeal to cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "A digital copy could reproduce functional roles but not, on Sellars’s view, the intrinsically qualitative sensa that sensory experience requires."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Place’s Empirical Identity and the Phenomenological Fallacy", "relationship": "Overlap" },
+      { "name": "Smart’s Topic-Neutral Identity", "relationship": "Overlap" },
+      { "name": "Russellian Monism", "relationship": "Compatible" },
+      { "name": "Strawson's Realistic Monism and Real Materialism", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Empiricism and the Philosophy of Mind, Wilfrid Sellars", "year": 1956 },
+      { "title_with_names": "Philosophy and the Scientific Image of Man, Wilfrid Sellars", "year": 1962 },
+      { "title_with_names": "The Identity Approach to the Mind-Body Problem, Wilfrid Sellars", "year": 1965 },
+      { "title_with_names": "Foundations for a Metaphysics of Pure Process: The Carus Lectures, Wilfrid Sellars", "year": 1981 },
+      { "title_with_names": "Mental Events, Wilfrid Sellars", "year": 1981 },
+      { "title_with_names": "Knowledge, Mind, and the Given, W. A. deVries and T. Triplett", "year": 2000 },
+      { "title_with_names": "Real Materialism, G. Strawson", "year": 2003 },
+      { "title_with_names": "Sellars’s Argument for an Ontology of Absolute Processes, D. Landy", "year": 2019 },
+      { "title_with_names": "Demystifying the Myth of Sensation: Wilfrid Sellars’ Adverbialism Reconsidered, L. Corti", "year": 2022 },
+      { "title_with_names": "Wilfrid Sellars (Stanford Encyclopedia of Philosophy), W. A. deVries", "year": 2024 }
+    ]
+  }
+}

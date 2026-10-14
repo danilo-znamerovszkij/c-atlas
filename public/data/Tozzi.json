@@ -1,0 +1,77 @@
+{
+  "id_and_class": {
+    "theory_title": "Tozzi’s Multidimensional Brain",
+    "summary": "Arturo Tozzi argues that brain activity, including the activity behind consciousness, unfolds in high-dimensional spaces beyond three spatial dimensions plus time. He uses topological data analysis and manifold models to find hidden geometries linking distant brain regions, and he suggests these extra dimensions may be real anatomical and functional properties of the brain rather than mere modeling tools.",
+    "associated_thinkers": ["Arturo Tozzi"],
+    "category": "Quantum",
+    "subcategory": "",
+    "core_identity_tagline": "Consciousness as High-Dimensional Brain Activity",
+    "classification_tags": ["topology", "dimensions", "neurodynamics", "phase space", "connectomics"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness, like perception, cognition and emotion, is a brain function best described as a trajectory through a high-dimensional phase space.",
+    "ontological_status": "Physicalism (topological, agnostic on extra dimensions)",
+    "mind_body_relationship": "Mental functions are patterns of brain activity; Tozzi locates them in the brain's multidimensional dynamics rather than in its three-dimensional anatomy alone.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (from neural dynamics described in higher-dimensional spaces)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Tozzi treats perceptual qualities such as color, auditory texture and emotional category as inherently multidimensional, needing more than three dimensions to capture how stimuli relate and combine.",
+    "ontological_commitments": "Neural activity, connectome topologies, and possibly real but hidden spatial dimensions in brain anatomy and function.",
+    "epistemic_access": "Third-person modeling: topological data analysis, fractal analysis, energy landscape modeling, manifold learning and connectomics applied to neural data.",
+    "constituents_and_structure": "Neural states form trajectories on high-dimensional manifolds; algebraic-topology structures such as simplicial complexes describe how regions relate."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Perception, cognition, emotion and consciousness as brain functions; altered states and brain disorders.",
+    "distinctive_mechanism_or_principle": "Higher-dimensional isomorphisms: functionally similar activity in distant brain regions reflects a single structure in a higher-dimensional space, as predicted by the Borsuk-Ulam Theorem.",
+    "dynamics_of_emergence": "Mental activity is a moving trajectory through a high-dimensional state space, described by energy landscapes and manifolds.",
+    "location_and_distribution": "Distributed across the brain, with distant regions (including antipodal cortical areas) linked through higher-dimensional geometry.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "Integration across information streams shows up in high-dimensional response vectors even where conventional BOLD signals look undifferentiated; Tozzi links psychedelic states to increased global neural integration.",
+    "information_flow_or_representation": "Stimuli and cognitive contents are represented as points or paths in multidimensional perceptual and response spaces.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Extra dimensions are powerful methodological tools for modeling complex neurodynamics.",
+      "Those dimensions may also correspond to real, hidden anatomical and functional properties of the brain.",
+      "Simultaneous activation of antipodal cortical regions during rest or stimulus processing fits Borsuk-Ulam Theorem predictions.",
+      "Parkinson's, Huntington's and schizophrenia disrupt connectome topologies in ways that higher-dimensional analysis may help diagnose and treat."
+    ],
+    "basis_of_belief_or_evidence_type": "Mathematical and computational (topology, data analysis), drawing on published neuroimaging and modeling studies."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Topological data analysis of neural recordings, energy landscape modeling, manifold learning, connectome topology in neurological and psychiatric disorders, and studies of LSD-induced states.",
+    "criticisms_and_tensions": "It remains unsettled whether the extra dimensions are features of the brain or conveniences of the mathematics, and the strong claim rests on the weaker one being useful.",
+    "open_questions_and_limitations": "Tozzi acknowledges the tension between representational convenience and ontological realism, and he does not explain why high-dimensional dynamics should be experienced at all.",
+    "ontological_coherence": "The methodological reading fits ordinary neuroscience; the realist reading, hidden physical dimensions in brain tissue, is far more speculative and lacks a physical account."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Tozzi ties consciousness to the multidimensional dynamics of brains and does not say whether artificial systems could share them."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Since consciousness here is a function of brain activity, it follows from the view that it ends when the brain does."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Carhart-Harris's Entropic Brain Hypothesis", "relationship": "Overlap" },
+      { "name": "Van Dusen’s Hyperspatial Dimension Theory", "relationship": "Overlap" },
+      { "name": "Mathematical Theories", "relationship": "Compatible" },
+      { "name": "Qualia Space", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Tozzi’s Multidimensional Brain (Landscape of Consciousness), Arturo Tozzi", "year": 2016 },
+      { "title_with_names": "Functional Complexity Emerges from Anatomical Constraints in the Brain: The Significance of Network Modularity and Rich-Club Phenomena, G. Zamora-López, Y. Chen, G. Deco, M. L. Kringelbach, C. Zhou", "year": 2016 }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Reason's No-Go Theorem against Materialism/Supervenience",
+    "summary": "Catherine M. Reason offers a formal proof that no physical system, and no model supervening on one, can have the self-certainty by which a conscious human knows it is conscious. The theorem says what consciousness cannot be, and from it she concludes that any physicalist theory describing a self-aware, rational system must be internally inconsistent.",
+    "associated_thinkers": ["Catherine M. Reason", "Gilbert Caplain"],
+    "category": "Challenge",
+    "subcategory": "",
+    "core_identity_tagline": "Self-Certainty Cannot Supervene on Physical Processes",
+    "classification_tags": ["no-go theorem", "supervenience", "self-certainty", "anti-physicalism", "formal proof"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "The theorem gives no positive identity for consciousness. It defines a conscious system as one capable of human-like reasoning and of absolute self-certainty, and argues that such a system cannot be wholly physical.",
+    "ontological_status": "Anti-physicalism (non-supervenience)",
+    "mind_body_relationship": "Reason accepts that brains correlate with consciousness and that much cognition can be studied in third-person terms. She rejects the stronger thesis that fully self-aware states are entirely determined by objectively observable physical states.",
+    "primitive_or_emergent_status": "Unclear",
+    "emergence_type": "Not emergent from physical systems; Reason and Shah argue conscious macrostates neither emerge from nor supervene on physical microstates, because consciousness is not measurable like proven emergent properties.",
+    "subjectivity_and_intentionality": "Subjectivity is pinned to the Cartesian cogito: a conscious subject can assert with certainty that it is conscious, operationalized as knowing it is not in dreamless sleep.",
+    "qualia_account": "",
+    "ontological_commitments": "At least some states in any human-like conscious system that do not supervene on physical states.",
+    "epistemic_access": "First-person self-certainty, analyzed through formal tools: a self-certainty function ω, predicate modal logic, and Wolpert's ‘inference device’ for physical systems capable of observation, prediction, and memory.",
+    "constituents_and_structure": "Three postulates that Reason shows cannot all hold together: objectivity (mental states supervene on observable dynamics), self-awareness, and human-like rationality."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Self-awareness (self-certainty); limits on physicalist accounts of phenomenal consciousness",
+    "distinctive_mechanism_or_principle": "A diagonal regress. Certifying that a neural correlate works correctly requires another distinct correlate (NCC*), then another (NCC**), without end, and no brain could hold infinitely many distinguishable states.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "Conscious brains affect recording devices yet cannot be fully described by any physical theory, so Reason and Shah conclude they must violate energy conservation in some way, possibly via the energy-time uncertainty relation.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "To perform ω, a system must perform a function ξ certifying that its processes are physically real, but verifying ξ requires ξ applied to itself, so the result is needed before it can be computed.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Theorem 1a states that no physical system capable of sound human-like reasoning can perform the self-certainty function ω or be recorded asserting ‘I am self-certain’.",
+      "Theorem 1b extends this to any model supervening on a physical system, which would force a recording device into two contradictory states.",
+      "The regress has the diagonal structure of Turing's halting-problem proof, which Reason claims separates it from ordinary infinite-regress arguments.",
+      "Property dualism, reflexive monism, realistic monism, and illusionism are ruled out in their current form, and Chalmers's view survives only if humans behave irrationally."
+    ],
+    "basis_of_belief_or_evidence_type": "Formal logical and mathematical proof built on the Cartesian cogito."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "The whole result depends on accepting the Cartesian cogito as a valid basis for absolute self-certainty. The jump from a limit on theoretical models to energy-conservation violations in real brains goes well beyond the strict conclusion.",
+    "open_questions_and_limitations": "Reason states that the theorem constrains models of systems, not systems themselves. Strictly it yields only that some conscious states do not supervene on physical states, and whether the cogito grounds self-certainty is, she says, an empirical question no theoretical argument can settle.",
+    "ontological_coherence": "Coherent as a negative result. It leaves open what consciousness positively is, and Reason notes the physicalism postulate need only be possible, not necessary, for the argument to run."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "Since no physicalist model of a system can be capable of self-certainty, a purely computational or physical machine could not be conscious in Reason's defined sense."
+    },
+    "survival_beyond_death": {
+      "stance": "Uncertain",
+      "rationale": "The theorem implies that some conscious states are not physical, but it says nothing about whether they persist after the brain dies."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "If self-certain consciousness cannot supervene on any physical process, a digital copy running on physical hardware could not reproduce it."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Kim’s Supervenience", "relationship": "Critique" },
+      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Critique" },
+      { "name": "Velmans's Reflexive Monism", "relationship": "Critique" },
+      { "name": "Frankish’s Illusionism", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Reason's No-Go Theorem against Materialism/Supervenience (Landscape of Consciousness entry), Catherine M. Reason", "year": 2019 }
+    ]
+  }
+}

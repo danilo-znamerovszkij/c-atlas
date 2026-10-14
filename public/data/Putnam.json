@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Putnam’s Machine Functionalism",
+    "summary": "Putnam’s early machine functionalism defines mental states by their functional roles, the causal relations among sensory inputs, internal states, and motor outputs, not by what they are made of. Since the same role can be filled by very different physical systems, pain could exist in octopuses, aliens, or computers, which led Putnam to reject mind-brain identity theory. He later rejected strict functionalism as blind to meaning, embodiment, and qualitative experience, and moved to a ‘liberal functionalism’ and pragmatic pluralism.",
+    "associated_thinkers": ["Hilary Putnam"],
+    "category": "Materialism",
+    "subcategory": "Computational",
+    "core_identity_tagline": "Mental States as Functional Roles, Like Software",
+    "classification_tags": ["functionalism", "multiple realizability", "computational theory of mind", "semantic externalism", "liberal functionalism"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A mental state is a functional state of a system, fixed by its causal relations to inputs, outputs, and other internal states. In Putnam’s analogy, the mind is software and the brain is the hardware it runs on.",
+    "ontological_status": "Functionalism (machine-state; later liberal functionalism)",
+    "mind_body_relationship": "Mental states are realized by physical states but not identical with any particular kind of them. Putnam always rejected substance dualism, and late in his career he denied that mental phenomena could be fully described by a single fundamental physical theory.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (mental states are defined by functional organization, which any suitable physical system can realize)",
+    "subjectivity_and_intentionality": "Putnam’s semantic externalism holds that the content of thoughts depends on interaction with the external world, not only on internal states. He rejected an ‘inner intentionality’ given in the experience of thinking itself.",
+    "qualia_account": "Putnam came to accept that functionalism cannot capture qualitative experience, and he remained unsure what theoretical work the notion of qualia does.",
+    "ontological_commitments": "Physical systems of any composition, their functional organization, and (in the later view) the environment and embodied interaction that fix mental content.",
+    "epistemic_access": "Through functional analysis of input-output relations and internal states. Later, Putnam favored pragmatic pluralism, in which mental talk is one conceptual scheme among others suited to different purposes.",
+    "constituents_and_structure": "Functional states defined by a system’s organization, analogous to the states of a computing machine."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Mental states in general (sensations, beliefs, emotions); intentionality and meaning; qualia acknowledged as unexplained",
+    "distinctive_mechanism_or_principle": "Multiple realizability. The same mental state can be realized in different physical systems as long as their internal states play the same functional role.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Wherever the right functional organization is realized, whether in human brains, animal brains, alien brains, or computers.",
+    "causation_and_functional_role": "A mental state is its causal role: what typically causes it, what it causes, and how it interacts with other internal states.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "The early view treats the mind as a computational system realized by neural activity. The later view holds that meaning is not ‘in the head’ but depends on the world.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "The functional organization of a system is the set of causal relations among its sensory inputs, motor outputs, and internal states, and mental states are defined by it.",
+      "Pain linked to C-fiber firing in mammals could be realized in creatures with different biology, so mental states are not identical with specific brain states.",
+      "Putnam later argued that semantic externalism undercuts functionalism, because functional states are internal while mental content depends on the environment.",
+      "In his late work, Putnam held that functionalism is not a complete philosophy of mind and defended a liberal functionalism grounded in embodied, environment-involving capacities."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (conceptual analysis, analogy with computing machines)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Putnam became his own main critic. He argued that strict functionalism oversimplifies mental phenomena, ignores the semantic and intentional aspects of thought, and cannot capture qualitative experience.",
+    "open_questions_and_limitations": "Putnam left qualia unresolved and doubted that there is a single, unified problem of consciousness to be solved once and for all.",
+    "ontological_coherence": "The early view is coherent within computationalist physicalism. The later pluralism declines to reduce mental talk to any single underlying description, which loosens its fit with reductive physicalism."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Multiple realizability lets mental states ‘run’ on computers as well as brains. Putnam’s later doubts that functionalism captures qualia and meaning leave machine consciousness open."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Putnam rejected substance dualism, so mental states need some physical system to realize them, and nothing in the view supports survival without one."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Putnam’s pragmatic pluralism treats mental talk as a human conceptual scheme suited to human purposes, with no appeal to cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "On machine functionalism, reproducing a mind’s functional organization in another substrate would reproduce its mental states, though Putnam’s later externalism ties content to the world as well."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Functionalism", "relationship": "Foundation" },
+      { "name": "Smart’s Topic-Neutral Identity", "relationship": "Critique" },
+      { "name": "Lewis’s Analytic Functionalism and Causal-Role Identity Theory", "relationship": "Contrast" },
+      { "name": "Turing’s Imitation, Machine Thought, and the Hidden Mind", "relationship": "Influence" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Putnam’s Machine Functionalism (Landscape of Consciousness entry), Hilary Putnam", "year": 1988 }
+    ]
+  }
+}

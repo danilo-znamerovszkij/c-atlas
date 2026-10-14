@@ -1,0 +1,77 @@
+{
+  "id_and_class": {
+    "theory_title": "Pitts’s Interactionist Dualism: Energy Conservation and Mental Causation",
+    "summary": "J. Brian Pitts argues that the old objection to interactionist dualism, that a mind acting on the brain would violate conservation of energy and momentum, is circular. Conservation laws hold place by place and follow from symmetries, so a soul acting in a particular brain at a particular time would break those symmetries locally, and local non-conservation is what dualism predicts rather than a refutation of it. He adds that General Relativity raises a newer difficulty, whose force depends on one’s wider worldview.",
+    "associated_thinkers": ["J. Brian Pitts"],
+    "category": "Dualism",
+    "subcategory": "",
+    "core_identity_tagline": "Mental Causation Without Fear of Conservation Laws",
+    "classification_tags": ["interactionism", "mental causation", "conservation laws", "noether's theorem", "physics"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Pitts does not offer a positive account of what consciousness is. He defends the coherence of a non-physical mind or soul that acts causally on the brain.",
+    "ontological_status": "Dualism (interactionist)",
+    "mind_body_relationship": "Two-way interaction: the mind or soul acts in the brain during a person’s lifetime, for example when one wills to raise an arm. Pitts frames the argument for substance dualism but notes it also applies to property dualism with distinctively mental causal powers.",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "Not applicable (the mind is a distinct entity acting on physical systems, not a product of them)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "A non-physical mind or soul with causal powers, physical fields governed by local conservation laws, and the symmetries from which those laws derive.",
+    "epistemic_access": "Pitts approaches mind through the physics of conservation laws and argues that whether conservation holds in brains is a question for empirical neuroscience, not for a priori assumption.",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Mental causation and agency.",
+    "distinctive_mechanism_or_principle": "Noether’s theorem and its converse: conservation laws follow from the uniformity of laws over time and space, and symmetry violation implies conservation violation. A soul acting here and now breaks time and space uniformity, so local non-conservation in brains is an expected consequence of interactionism.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Mental causation is localized in the individual brain during one’s lifetime, not spread equally across all places and times.",
+    "causation_and_functional_role": "The mind is a genuine cause of bodily action. Pitts notes that physicalism, property dualism, and some kinds of panpsychism also face mental causation problems, so the conservation objection is not unique to substance dualism.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Conservation laws are primarily local partial differential equations, an infinite conjunction of conservations at every place, so a failure in brains need not threaten physics elsewhere.",
+      "Global conservation requires discarding a term at spatial infinity, which standard cosmology arguably does not permit, so the universe’s total mass-energy may be undefined.",
+      "Demanding that conservation hold in the brain without neuroscientific evidence begs the question against interactionism.",
+      "Proposals for non-local compensation make matters worse by adding a second violation, and quantum mechanics is unnecessary because the objection already fails in classical field theory.",
+      "General Relativity makes interactionist causation harder, since it tends to leave the soul doing nothing or the same thing everywhere and always."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical analysis grounded in mathematical physics (classical field theory, Noether’s theorem, General Relativity)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "Pitts points to neuroscience as the only legitimate way to test whether energy and momentum are conserved in brains; no specific experiment is proposed.",
+    "criticisms_and_tensions": "Pitts himself raises the strongest tension: under General Relativity, generalized Bianchi identities tend to trivialize added mental causation. He judges this objection weak for theists and mind-first metaphysicians but a real problem for non-theist dualists such as Popper or Beloff.",
+    "open_questions_and_limitations": "The status of gravitational energy has been disputed since 1918, so whether General Relativity’s formal conservation laws are physically meaningful remains open. Whether neuroscience will show conservation holding in brains is also unsettled.",
+    "ontological_coherence": "Pitts argues interactionism is consistent with the actual structure of physical law, and that the conservation objection only looked decisive because conservation was treated as a black box."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "Possible",
+      "rationale": "A mind distinct from the brain could in principle outlast it, though Pitts’s argument concerns physics and makes no claim about an afterlife."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Since mental causation here comes from a non-physical mind acting in the brain, copying the brain’s physical pattern would not carry that mind along."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Popper and Eccles's Interactionist Dualism: Three Worlds and the Liaison Brain", "relationship": "Compatible" },
+      { "name": "Interactive Dualism", "relationship": "Overlap" },
+      { "name": "Epiphenomenalism", "relationship": "Contrast" },
+      { "name": "Leibniz's Monads", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Pitts’s Interactionist Dualism: Energy Conservation and Mental Causation (Landscape of Consciousness entry), J. Brian Pitts" }
+    ]
+  }
+}

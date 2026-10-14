@@ -1,0 +1,77 @@
+{
+  "id_and_class": {
+    "theory_title": "Godfrey-Smith’s Naturalist, Gradualist, Diversified Evolution of Consciousness",
+    "summary": "Godfrey-Smith argues that subjective experience evolved gradually over deep time from the basic animal task of sensing the world and coordinating action. Tracking the effects of one's own movements on one's senses (reafference) gave rise to a self-versus-other point of view, and because separate lineages such as octopuses built minds independently, experience comes in many forms with no single scale.",
+    "associated_thinkers": ["Peter Godfrey-Smith"],
+    "category": "Materialism",
+    "subcategory": "Phylogenetic",
+    "core_identity_tagline": "Consciousness as Gradually Evolved Animal Subjectivity",
+    "classification_tags": ["evolution", "gradualism", "octopus", "reafference", "embodiment"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is an evolved form of subjectivity, the point of view of a body actively managing its relationship with its surroundings. In humans it is a cluster of traits with different evolutionary histories.",
+    "ontological_status": "Physicalism (biological naturalism)",
+    "mind_body_relationship": "Embodied and enactive: mind arises from the dynamic interaction of the whole organism with its environment, not only from the brain. Godfrey-Smith rejects the hardware-software picture of brain and mind and is decidedly against panpsychism.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Gradual evolutionary emergence; no inner light switches on, and several features arise separately and come together",
+    "subjectivity_and_intentionality": "Subjectivity comes from reafference: once a nervous system registers the effects of its own actions on its senses, it processes what it senses around a distinction between self and other. Godfrey-Smith uses this notion of a point of view to defuse arguments against materialism.",
+    "qualia_account": "Experience has a sensory, discriminative strand (rich perception and cue integration) and an evaluative, affective strand (valenced moods and appraisals). Godfrey-Smith holds that these can diverge sharply in different animals.",
+    "ontological_commitments": "Living organisms, nervous systems, sensorimotor loops, and the body-environment relationship.",
+    "epistemic_access": "Through a historical and comparative study of nervous systems and behaviour, especially invertebrates such as cephalopods, crustaceans, insects, and gastropods.",
+    "constituents_and_structure": "A cluster of experience-relevant features, some basic and some later (report, reflective thought, temporal organization), combined differently in each organism."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (sensory and evaluative), Self versus other, Distribution across animals",
+    "distinctive_mechanism_or_principle": "Reafference, the handling of the effects of action on the actor's own senses, which organizes neural processing around a self-other distinction. Godfrey-Smith stresses that early nervous systems evolved largely to form and coordinate action.",
+    "dynamics_of_emergence": "Experience arose gradually through new relationships between sensing and acting, along many lines rather than a single path. Organisms can be more or less experiential without being placed on one scale.",
+    "location_and_distribution": "Likely widespread and varied across animal life. The octopus, with most of its neurons in its arms, shows that experience need not be centred on a brain.",
+    "causation_and_functional_role": "Consciousness is the ongoing management of the body-world relationship, distinguishing body from non-body and maintaining the organism's integrity.",
+    "integration_or_binding": "Godfrey-Smith accepts that integration matters but ties it to the work of being an animal, sensing and acting. He criticizes Integrated Information Theory for detaching integration from these activities.",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "Mind evolved in the sea. The octopus lineage split from the vertebrate line over 600 million years ago, so cephalopods are an independent experiment that shows which features of mind are general and which are quirks of our own history.",
+    "core_claims_and_evidence": [
+      "If materialism is true, felt experience must also have arisen gradually, so threshold models with a sharp on/off criterion are wrong.",
+      "Invertebrate evidence shows that sensory and evaluative complexity can come apart, which counts against single-criterion tests for consciousness.",
+      "Octopuses evolved complex nervous systems and intelligence independently of vertebrates, so evolution built minds at least twice.",
+      "Plants, fungi, and bacteria sense, respond, and in some cases remember, which leaves a grey zone where mind is neither wholly present nor wholly absent."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical, grounded in comparative biology and evolutionary history"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "Comparative study of nervous systems and behaviour in cephalopods, crustaceans, insects, and gastropods.",
+    "criticisms_and_tensions": "A graded, multidimensional picture without a threshold makes it hard to say whether a given organism has any experience at all. Godfrey-Smith hopes the evolutionary story narrows the explanatory gap, but tracing how subjectivity arose does not by itself show why it feels like anything.",
+    "open_questions_and_limitations": "How far experience extends below animals with nervous systems is unsettled; Godfrey-Smith warns against easy inferences from minimal cognition to sentience. The step from no experience to some experience is, in his own words, one of the hard parts of the story.",
+    "ontological_coherence": "Consistent with a naturalist, materialist view and with embodied and enactive approaches, while explicitly rejecting panpsychism and computational functionalism."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "Since Godfrey-Smith ties experience to living bodies sensing and acting in the world and rejects the software model of mind, a disembodied computer program would lack what consciousness requires."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "On this view consciousness is the lived perspective of an active body, so it follows that it ends with the body's life."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Mind is a product of animal evolution, with no cosmic purpose behind it."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Because the view rejects treating mind as software that could run on other hardware, uploading a mind would not preserve experience."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Integrated Information Theory", "relationship": "Critique" },
+      { "name": "Enactivism", "relationship": "Overlap" },
+      { "name": "Feinberg and Mallatt's Ancient Origins of Consciousness", "relationship": "Overlap" },
+      { "name": "Birch’s Comparative Sentience: Consciousness Profiles Across Diverse Minds", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Other Minds: The Octopus, The Sea, and the Deep Origins of Consciousness, Peter Godfrey-Smith" },
+      { "title_with_names": "Godfrey-Smith’s Naturalist, Gradualist, Diversified Evolution of Consciousness, Peter Godfrey-Smith (Landscape of Consciousness entry)", "year": 2014 }
+    ]
+  }
+}

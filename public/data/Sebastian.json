@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "Sebastian’s Predictive Machine",
+    "summary": "Jinesh K. Sebastian models the brain as a multi-layered feedback control system that predicts future states of a world model and corrects them against sensory data, driven by minimizing a scalar he calls ‘qualia potential’. Consciousness is an emergent process that observes this world model, feels changes in qualia potential, and can identify with a self-model inside it, much like the Seer (Puruṣa) of Sāṅkhya philosophy, except that it is not eternal.",
+    "associated_thinkers": ["Jinesh Kallunkathariyil Sebastian"],
+    "category": "Materialism",
+    "subcategory": "Homeostatic",
+    "core_identity_tagline": "Consciousness as Observer of a Predictive World Model",
+    "classification_tags": ["predictive processing", "brain oscillations", "qualia potential", "samkhya", "control systems"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is an emergent process that observes the brain’s predictive world model, experiences variations in qualia potential, and becomes the locus of experience when it couples with the self-model.",
+    "ontological_status": "Physicalism (non-reductive, emergentist)",
+    "mind_body_relationship": "Consciousness arises from neurological processes in the predictive loop. Sebastian borrows the Sāṅkhya picture of a witnessing Seer but makes it a product of the brain rather than an eternal principle.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (from the dynamics of a hierarchical predictive control loop)",
+    "subjectivity_and_intentionality": "Every entity in the world model, including the self-model, is an object. Subjective perception arises when consciousness embodies the self-model; if that coupling weakens, consciousness can experience the world model without embodiment, which Sebastian uses to explain out-of-body experiences.",
+    "qualia_account": "Felt quality tracks qualia potential, a latent scalar that drives motivation and perception and that Sebastian compares to the three gunas (sattva, rajas, tamas) of Sāṅkhya.",
+    "ontological_commitments": "Neural oscillatory centers (delta, beta, gamma, alpha, theta), a learned world model with priors, a self-model as one object within it, and the qualia potential quantity.",
+    "epistemic_access": "Through computational modeling grounded in predictive neuroscience and brain-rhythm data, checked against reported phenomena such as illusions, psychedelic visuals and meditative states.",
+    "constituents_and_structure": "A closed loop: a delta center generates predictions, a beta center splits them by sense, parallel gamma centers compute modality-specific errors, alpha centers integrate errors over short windows, and a theta center fuses them across senses before returning the correction to delta."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal, Self-awareness (self-model embodiment), Perception, Motivation, Altered states",
+    "distinctive_mechanism_or_principle": "Qualia-potential minimization within a delayed error-integration loop. Surprise is reduced in two stages: sensory grounding resolves world-model mismatches, then qualia potential is optimized to guide future predictions and action.",
+    "dynamics_of_emergence": "Consciousness is an ongoing process. The world model updates only after alpha-band integration, and the length of that integration window sets how long percepts persist; lengthening it causes successive updates to overlap.",
+    "location_and_distribution": "Distributed across a hierarchy of brain centers aligned with oscillatory bands, from delta at the apex to parallel gamma centers for each sense.",
+    "causation_and_functional_role": "The loop serves control: it keeps the world model calibrated to the senses and selects actions. Qualia potential supplies motivation, sustained goal pursuit and homeostatic drive.",
+    "integration_or_binding": "The theta center combines parallel alpha outputs over several alpha cycles with modality-dependent weights and thresholds, yielding coherent multisensory perception and letting one sense stand in for a missing one.",
+    "information_flow_or_representation": "Top-down priors flow as delta and beta signals; bottom-up prediction errors appear as gamma activity, are integrated as alpha and theta activity, and return to update the world model.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "The alpha integration window explains persistence of vision, and its lengthening explains motion trails and frame-like perception after psychedelics.",
+      "Weighted multisensory fusion at the theta center accounts for the rubber hand illusion.",
+      "Resonant modes in the predictive loop produce geometric patterns, akin to Chladni figures, reported in deep meditation and psychedelic states.",
+      "Separating sensory grounding from qualia-potential optimization resolves the dark-room problem facing pure surprise minimization."
+    ],
+    "basis_of_belief_or_evidence_type": "Computational and theoretical modeling, drawing on predictive neuroscience, brain-rhythm research and Sāṅkhya philosophy"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "Sebastian points to persistence of vision, the rubber hand illusion, psychedelic visual effects, and reports of discrete-frame perception in acquired savant syndrome (such as Jason Padgett) as phenomena the model explains.",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "The mapping of specific computational roles onto oscillatory bands, and the physical nature of qualia potential, are proposed rather than demonstrated. Why observing a world model should be experienced at all is left to the analogy with the Sāṅkhya Seer.",
+    "ontological_coherence": "Fits within a physicalist, predictive-processing framework. Borrowing the dualist Sāṅkhya vocabulary of Seer and gunas while making consciousness emergent and non-eternal creates an interpretive tension the theory must keep straight."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Sebastian frames the model as a control architecture shared by minds and robots, so a machine built on the same predictive loop could in principle support consciousness."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness here emerges from neurological processes and is explicitly not eternal, it ends with the brain."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Consciousness serves prediction, control and motivation within the organism; the view assigns it no cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "If the predictive loop and its qualia-potential dynamics were reproduced in another substrate, the same process could follow."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Friston's Free-Energy Principle and Active Inference", "relationship": "Extension" },
+      { "name": "Solm's Affect as the Hidden Spring of Consciousness", "relationship": "Influence" },
+      { "name": "Sāṃkhya's Pure Witness and the Material Mind", "relationship": "Influence" },
+      { "name": "Buzsáki's Neural Syntax and Self-Caused Rhythms", "relationship": "Foundation" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "The Predictive Machine: How Minds and Robots Build Reality from Within, Jinesh K. Sebastian", "year": 2025 },
+      { "title_with_names": "A Cognitive Theory of Consciousness, Bernard Baars", "year": 1988 },
+      { "title_with_names": "Rhythms of the Brain, György Buzsáki", "year": 2006 },
+      { "title_with_names": "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science, Andy Clark", "year": 2013 },
+      { "title_with_names": "The Free-Energy Principle: A Unified Brain Theory?, Karl Friston", "year": 2010 },
+      { "title_with_names": "Free-Energy Minimization and the Dark-Room Problem, Karl Friston, Christopher Thornton and Andy Clark", "year": 2012 },
+      { "title_with_names": "The Hidden Spring: A Journey to the Source of Consciousness, Mark Solms", "year": 2021 }
+    ]
+  }
+}

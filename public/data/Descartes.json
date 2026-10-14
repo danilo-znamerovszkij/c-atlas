@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "Descartes’s Substance Dualism",
+    "summary": "René Descartes holds that consciousness, which he calls thought (cogitatio), is the essence of an immaterial thinking substance (res cogitans) wholly distinct from extended, mechanical body (res extensa). Every conscious state, from reasoning and willing to pain, color, and emotion, is a mode of the thinking thing and is immediately present to it. Sensations and passions, though, arise only in the union of mind and body, where brain processes stand in regular relations to experiences they do not resemble.",
+    "associated_thinkers": ["René Descartes"],
+    "category": "Dualism",
+    "subcategory": "",
+    "core_identity_tagline": "Consciousness as the Essence of a Thinking Substance",
+    "classification_tags": ["substance dualism", "cogito", "res cogitans", "mind-body problem", "early modern philosophy"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is thought, defined as everything that happens within us insofar as we are immediately conscious of it, and it is the principal attribute of the mind.",
+    "ontological_status": "Substance dualism (Cartesian)",
+    "mind_body_relationship": "Mind and body are really distinct finite substances with exclusive essences, thought and extension, and could by divine power exist apart. They are joined in the human being, where bodily motions give rise to sensations and the mind moves the body, though Descartes never explained that interaction satisfactorily.",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "Not applicable (thought is the essence of an immaterial substance and does not arise from extension)",
+    "subjectivity_and_intentionality": "Subjectivity is the undeniable presence of one’s own thinking, secured by the cogito. Intentionality runs through ideas, which are modes of thought that present objects, bodies, God, and sensory qualities to the mind. Consciousness does not require reflective self-consciousness; some conscious operations go unnoticed or unremembered.",
+    "qualia_account": "Sensory qualities are not properties of matter, which has only size, shape, motion, and arrangement. Experienced redness or pain is a mental mode arising in the embodied union and cannot be captured by extension.",
+    "ontological_commitments": "God; finite thinking substances; extended substance governed by mechanism; ideas as modes of thought; animal spirits as a physical medium in the nervous system.",
+    "epistemic_access": "The cogito establishes the indubitable occurrence of conscious thinking. Knowledge of anything beyond it, including bodies, depends on the proof that God is no deceiver.",
+    "constituents_and_structure": "Three levels: pure thinking mind, extended body, and the human being constituted by their union. Thought’s modes include doubting, understanding, affirming, willing, imagining, sensing, feeling, and passion."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (sensation, pain, emotion); Cognition and volition; Self-certainty",
+    "distinctive_mechanism_or_principle": "Mechanism on the bodily side and non-reduction on the mental side. Light mechanically affects eyes, nerves, and brain, and the mind then experiences color, distance, and shape in regular correspondence with those motions.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "The mind is unextended. Sensations and passions are felt as belonging to one’s own body, and Descartes located mind-brain communication in the pineal gland.",
+    "causation_and_functional_role": "Passions are caused and strengthened by movements of the animal spirits and dispose the soul toward volition and action. The will can in turn move the body.",
+    "integration_or_binding": "Pain is felt as one’s own bodily disturbance, not observed by the intellect the way a sailor perceives damage to a ship, which shows the close union of mind and body.",
+    "information_flow_or_representation": "Bodies affect sense organs and brain mechanically; the mind then has sensory ideas that represent objects without resembling their mechanical properties.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Even if all sensory content is deceptive, the occurrence of doubting, willing, imagining, and sensing cannot be doubted while it happens.",
+      "Mind and body have mutually exclusive essences, thought and extension, so they are distinct substances.",
+      "Sensations and passions are bodily in cause but mental in occurrence.",
+      "Sensory qualities belong to the mind, not to matter, which Descartes reduces to size, shape, and motion."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical: methodological doubt, conceptual argument, and theological premises, combined with mechanistic physiology."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Princess Elisabeth of Bohemia asked how an immaterial soul could move a material body, and the interaction problem remains unresolved. Arnauld and later critics charged circularity, since the proofs of God that guarantee clear and distinct perception themselves rely on clear and distinct perception. The standard reading denies consciousness to animals, which most now find implausible.",
+    "open_questions_and_limitations": "The pineal locus and animal-spirit physiology are obsolete, and the substance-dualist framework is challenged by contemporary neuroscience and philosophy of mind.",
+    "ontological_coherence": "Clear and internally rigorous about the two substances, but it leaves their union unexplained. Descartes’s view that God freely created even mathematical truths makes the divine guarantee load-bearing beneath his epistemology."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No",
+      "rationale": "Since thought belongs only to immaterial substance and matter is pure extension, a machine, however complex, would be mechanism without a mind."
+    },
+    "survival_beyond_death": {
+      "stance": "Yes",
+      "rationale": "Descartes presented the real distinction of soul and body as what makes the soul’s survival intelligible, and the Meditations announce that aim in their subtitle."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cosmic/Ultimate",
+      "rationale": "Descartes’s system rests on a non-deceiving God who guarantees knowledge and created even the eternal truths."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "Copying the body’s mechanism would not copy the immaterial thinking substance."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Trialism", "relationship": "Extension" },
+      { "name": "Malebranche’s Divine Occasionalism: Inner Sensation and Phenomenal Experience", "relationship": "Extension" },
+      { "name": "Avicenna’s Flying Man and Self-Present Soul", "relationship": "Overlap" },
+      { "name": "Swinburne's Substance Dualism", "relationship": "Extension" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Meditations on First Philosophy, René Descartes (trans. J. Cottingham, R. Stoothoff, and D. Murdoch)", "year": 1984 },
+      { "title_with_names": "Principles of Philosophy, René Descartes (trans. J. Cottingham, R. Stoothoff, and D. Murdoch)", "year": 1985 },
+      { "title_with_names": "The Passions of the Soul, René Descartes (trans. J. Cottingham, R. Stoothoff, and D. Murdoch)", "year": 1985 },
+      { "title_with_names": "Discourse on the Method and Dioptrics, René Descartes (trans. J. Cottingham, R. Stoothoff, and D. Murdoch)", "year": 1985 },
+      { "title_with_names": "Descartes’s Dualism, M. Rozemond", "year": 1998 },
+      { "title_with_names": "Descartes and the Meditations, G. Hatfield", "year": 2003 },
+      { "title_with_names": "Cartesian Trialism, J. Cottingham", "year": 1985 }
+    ]
+  }
+}

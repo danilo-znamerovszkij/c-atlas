@@ -1,7 +1,7 @@
 import { ChartContainer } from './ChartContainer'
 import { ItemDetailsPanel } from './ItemDetailsPanel'
 import { ChartLevelBar, type LevelBarItem } from './ChartLevelBar'
-import { getChartOptions, getAllTheoryNames, setMobileLabelVisibility, refreshChartData, baseData, getDisplayLabel } from '@/config/chartConfig'
+import { getChartOptions, getChartLevels, getAllTheoryNames, setMobileLabelVisibility, setHighlightedTheories, refreshChartData, baseData, getDisplayLabel } from '@/config/chartConfig'
 import { getTheoryFullName } from '@/data/theoryNames'
 import { Router, loadTheoryByName } from '@/utils/routing'
 import { generateSlug } from '@/utils/slugUtils'
@@ -88,7 +88,7 @@ export class TheoryChart {
       clearTimeout(resizeTimeout)
       resizeTimeout = window.setTimeout(() => {
         setMobileLabelVisibility(false)
-        this.chartContainer.setOption(getChartOptions())
+        this.chartContainer.setOption(getChartOptions(this.currentPath.length === 0))
       }, 100)
     })
   }
@@ -186,6 +186,8 @@ export class TheoryChart {
       if (theoryData.name !== 'Materialism') {
         setMobileLabelVisibility(true)
         this.refreshChartWithNewData()
+      } else {
+        this.chartContainer.setOption({ series: [{ levels: getChartLevels(false) }] })
       }
 
       const chart = this.chartContainer.getChart()
@@ -227,8 +229,22 @@ export class TheoryChart {
     return window.innerWidth <= 768
   }
 
+  // Highlights the given leaves (dims the rest); null clears the filter.
+  // Re-setting the data resets ECharts' drill-down, so re-enter the current node.
+  applyFilter(names: Set<string> | null) {
+    setHighlightedTheories(names)
+    const overview = this.currentPath.length === 0
+    this.chartContainer.setOption(getChartOptions(overview))
+    if (!overview) {
+      this.chartContainer.getChart()?.dispatchAction({
+        type: 'sunburstRootToNode',
+        targetNodeId: this.currentPath[this.currentPath.length - 1]
+      })
+    }
+  }
+
   private refreshChartWithNewData() {
-    const newOptions = getChartOptions()
+    const newOptions = getChartOptions(false)
     if (newOptions.series && Array.isArray(newOptions.series) && newOptions.series[0]) {
       (newOptions.series[0] as any).data = refreshChartData()
     }

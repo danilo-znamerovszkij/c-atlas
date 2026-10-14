@@ -1,0 +1,88 @@
+{
+  "id_and_class": {
+    "theory_title": "Levine’s Explanatory Gap",
+    "summary": "Levine argues that even if a conscious state is identical with a neural state, we cannot see why that state should feel as it does, and more physical detail does not help. ‘Heat is molecular motion’ explains everything about heat, while ‘pain is C-fiber firing’ leaves pain’s qualitative character unexplained. He first treated this gap as a limit on explanation, not proof of dualism, but his later work inclines toward strong emergentism governed by basic psychophysical laws.",
+    "associated_thinkers": ["Joseph Levine"],
+    "category": "Materialism",
+    "subcategory": "Mind-Brain",
+    "core_identity_tagline": "Consciousness as What Physical Explanation Leaves Out",
+    "classification_tags": ["explanatory gap", "qualia", "conceivability", "strong emergence", "acquaintance"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Levine offers no positive identification of consciousness. In his later work, consciousness is acquaintance: a primitive relation in which a subject stands to a qualitative character that is presented, not merely represented.",
+    "ontological_status": "Physicalism (epistemically troubled), later strong emergentism",
+    "mind_body_relationship": "Levine frames the problem as a Kantian antinomy. Mental causation and causal closure give strong reasons to think consciousness is physical, yet its qualitative character resists physical explanation. Later he holds that phenomenal states do not supervene on physical states but arise from them by basic psychophysical laws.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong emergence (in his later view, phenomenal states arise from physical states by brute psychophysical laws, so a zombie world is metaphysically possible but not nomologically possible)",
+    "subjectivity_and_intentionality": "Subjectivity is acquaintance, a presentational relation to qualitative character. Levine argues that representational content, naturalized in causal or teleofunctional terms, can be fully specified without fixing what a state is like.",
+    "qualia_account": "Qualia are what the explanatory gap concerns. Physical and computational mechanisms can explain the structure of experience, such as similarity relations in color space, but not why a structure comes with redness rather than greenness, or with any feel at all. Those correspondences may be brute facts.",
+    "ontological_commitments": "Physical brain states, phenomenal qualities, a primitive acquaintance relation, and (in the later view) fundamental psychophysical laws linking them.",
+    "epistemic_access": "First-person acquaintance gives the explanandum. Third-person science supplies correlations and structure but not the intelligible link between them.",
+    "constituents_and_structure": "Subjects acquainted with a phenomenally presented world, whose structural features track physical and computational mechanisms."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (qualitative character); explanatory adequacy of psychophysical identities",
+    "distinctive_mechanism_or_principle": "The explanatory gap. A psychophysical identity, even if true, fails to provide the intelligibility that scientific reductions such as heat to molecular motion routinely provide.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "Conscious states cause withdrawal, reports, and actions, which is Levine’s main reason for taking materialism seriously. His later emergentism inherits problems of mental causation and possible epiphenomenalism, which he acknowledges.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Levine rejects representationalism as a reduction of phenomenal character, since one can say what a state represents without saying what it is like to be in it.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "The identity ‘heat is molecular motion’ makes heat’s behavior intelligible, while ‘pain is C-fiber firing’ leaves open why the firing feels this way or feels like anything.",
+      "The gap is epistemic and does not by itself show that phenomenal and physical properties are metaphysically distinct.",
+      "Inferring metaphysical possibility from conceivability conflates semantic with metaphysical questions, so conceivable zombies do not refute materialism.",
+      "The phenomenal concept strategy undermines itself because the intimate link between a phenomenal concept and its experience is exactly what needs physical explanation.",
+      "Levine now inclines toward strong emergentism, with phenomenal states governed by basic psychophysical laws."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (conceptual analysis, modal and explanatory argument)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Critics say Levine demands a stronger intelligibility from consciousness than science can provide, since some fundamental identities and laws simply end explanation. Type-B materialists and phenomenal-concept theorists say an epistemic gap with no ontological consequence is just what one should expect, and illusionists say the gap comes from describing the explanandum in question-begging terms. Others find the position unstable: a merely epistemic gap should not be permanent, and a permanent one invites an ontological explanation.",
+    "open_questions_and_limitations": "Levine sets a criterion that any theory of consciousness must meet and offers no theory of his own. His later emergentism must explain how acquaintance can influence physical cognition without epiphenomenalism or overdetermination.",
+    "ontological_coherence": "Levine accepts the antinomy as the honest response to the evidence. His shift from epistemic gap to strong emergence sits uneasily with his earlier commitment to materialism through mental causation."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "If phenomenal states arise by brute psychophysical laws, nothing in a system’s functional or computational description settles whether it has experience."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "On both his materialist and emergentist readings, experience depends on underlying physical states, so survival without a brain finds no support in the view."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "The explanatory gap means a functional or computational copy cannot be shown to carry the original’s phenomenal character."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Kripke’s Modal Argument Against Mind–Brain Identity", "relationship": "Foundation" },
+      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Influence" },
+      { "name": "Jackson's Representationalism and the Knowledge Argument", "relationship": "Overlap" },
+      { "name": "Frankish’s Illusionism", "relationship": "Contrast" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Materialism and Qualia: The Explanatory Gap, Joseph Levine", "year": 1983 },
+      { "title_with_names": "On Leaving Out What It’s Like, Joseph Levine", "year": 1993 },
+      { "title_with_names": "Conceivability and the Metaphysics of Mind, Joseph Levine", "year": 1998 },
+      { "title_with_names": "Purple Haze: The Puzzle of Consciousness, Joseph Levine", "year": 2001 },
+      { "title_with_names": "Experience and Representation, Joseph Levine", "year": 2003 },
+      { "title_with_names": "Phenomenal Concepts and the Materialist Constraint, Joseph Levine", "year": 2007 },
+      { "title_with_names": "Quality and Content: Essays on Consciousness, Representation, and Modality, Joseph Levine", "year": 2018 },
+      { "title_with_names": "On the Meta-Problem, Joseph Levine", "year": 2019 },
+      { "title_with_names": "Consciousness Is Acquaintance and Acquaintance Is Consciousness, Joseph Levine", "year": 2019 },
+      { "title_with_names": "The Metaphysics and Epistemology of Acquaintance, Joseph Levine", "year": 2021 },
+      { "title_with_names": "Naming and Necessity, S. A. Kripke", "year": 1980 },
+      { "title_with_names": "The Conscious Mind: In Search of a Fundamental Theory, D. J. Chalmers", "year": 1996 }
+    ]
+  }
+}

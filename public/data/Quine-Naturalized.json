@@ -1,0 +1,84 @@
+{
+  "id_and_class": {
+    "theory_title": "Quine’s Naturalized Mind and the Demoted Phenomenal",
+    "summary": "Quine holds that consciousness is real but wholly bodily, a condition of the nervous system, and that each mental event is identical with a physical event even when mental kinds cannot be translated into neurological kinds. His naturalism starts from a physical organism stimulated by a public world, so talk of private sense qualities becomes a late, derivative idiom. He explains how stimulation, behavioral dispositions, and public language support knowledge and mental attribution, but leaves open why neural activity feels like anything.",
+    "associated_thinkers": ["Willard Van Orman Quine"],
+    "category": "Materialism",
+    "subcategory": "Mind-Brain",
+    "core_identity_tagline": "Consciousness as a Bodily State Described in a Second-Grade Idiom",
+    "classification_tags": ["naturalism", "token identity", "physicalism", "extensionalism", "behaviorism"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a state of the body, specifically of the nervous system. Quine calls this the identity theory of mind: ‘mental states are states of the body.’",
+    "ontological_status": "Physicalism (token identity, deflationary)",
+    "mind_body_relationship": "Token identity without essences. Each particular thought, perception, or feeling is a physical event in an organism, but mental vocabulary groups those events in ways that need not match any single neural type, a position close to Davidson’s anomalous monism.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (mental states are identical with bodily states, so nothing new emerges over and above the physical)",
+    "subjectivity_and_intentionality": "Quine starts from the third-person organism, not from a private stream of experience. Intentional idioms such as belief and desire are referentially opaque, so he tolerates them for practical use but bars them from the extensional language he reserves for describing reality.",
+    "qualia_account": "Qualia are neither denied nor explained. Sense qualities are real as bodily states, but their vocabulary is derivative, built from public comparisons such as describing a color as orange or a smell as of rotten eggs.",
+    "ontological_commitments": "Physical organisms, their sensory surfaces, neural and physiological states, behavioral dispositions understood as physical states, and the public objects that stimulate them. No mental substance and no intensions.",
+    "epistemic_access": "Third-person, through science. Knowledge begins with observation sentences tied to publicly checkable circumstances, and introspection has no privileged foundational role.",
+    "constituents_and_structure": "Sensory stimulation of surfaces, behavioral dispositions realized as physiological states, and a public language whose mentalistic terms sort physical events by explanatory interest."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (deflated, real but left unexplained); intentional attribution; perception and knowledge acquisition",
+    "distinctive_mechanism_or_principle": "Naturalized epistemology combined with an extensional standard for ontology. Mental states are physical, and phenomenal talk is relegated to a second-grade idiom because it fails extensionality.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "In the organism’s body, chiefly the nervous system.",
+    "causation_and_functional_role": "Mental states are physical states, so they share the causal powers of the neural events they are. Behavioral dispositions are the evidential handle on them.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "A physical subject, bombarded by sensory stimulation at its surfaces, projects a theory of the world. Observation sentences link that stimulation to shared, public circumstances of assent.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Philosophy has no standpoint outside science, so epistemology and psychology are chapters of natural science continuous with biology and physics.",
+      "Each mental event is identical with a physical event, though mental kinds need not map onto single neural kinds.",
+      "Intensional and mentalistic idioms are referentially opaque and belong to a second grade of language unfit for serious ontology.",
+      "Quine calls consciousness a genuine mystery and does not eliminate it, while insisting that whatever it is, it is a bodily and neural state."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (naturalism, philosophy of language, ontological parsimony)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Quine offers no account of why neural states are felt, and critics ask whether moving phenomenal talk to the wrong side of a methodological boundary dissolves the hard problem or evades it. His demotion of qualia can be mistaken for eliminativism, which he explicitly rejects.",
+    "open_questions_and_limitations": "Why neural activity has subjective, qualitative character remains unexplained, and Quine likely regarded the demand for such an explanation as driven by the intentional intuitions his naturalism sets aside.",
+    "ontological_coherence": "Coherent within a strict physicalist and extensionalist framework. Tension remains between accepting qualia as real and refusing their vocabulary any ontological standing."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Quine ties mental states to the states of organisms and did not address machines, and his token identity gives no rule for which physical systems count as conscious."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness is a condition of the nervous system, it follows from the view that nothing survives the body’s death."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Quine’s naturalism admits only what our best science describes, which leaves no room for cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "Mental states are bodily states, and Quine says nothing about whether a non-biological copy would share them."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Davidson's Anomalous Monism", "relationship": "Overlap" },
+      { "name": "Quine's Linguistic Demotion of Phenomenal Consciousness", "relationship": "Extension" },
+      { "name": "Churchland’s Eliminative Materialism", "relationship": "Contrast" },
+      { "name": "Smart’s Topic-Neutral Identity", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Word and Object, W. V. O. Quine", "year": 1960 },
+      { "title_with_names": "Epistemology Naturalized, W. V. O. Quine", "year": 1969 },
+      { "title_with_names": "Mind and Verbal Dispositions, W. V. O. Quine", "year": 1975 },
+      { "title_with_names": "Quiddities: An Intermittently Philosophical Dictionary, W. V. O. Quine", "year": 1987 },
+      { "title_with_names": "Pursuit of Truth, W. V. O. Quine", "year": 1990 },
+      { "title_with_names": "From Stimulus to Science, W. V. O. Quine", "year": 1995 },
+      { "title_with_names": "Science and Sensibilia: The 1980 Immanuel Kant Lectures, W. V. O. Quine (ed. R. Sinclair)", "year": 2019 },
+      { "title_with_names": "Quine, Ontology, and Physicalism, F. Janssen-Lauret", "year": 2019 },
+      { "title_with_names": "Willard Van Orman Quine (Stanford Encyclopedia of Philosophy), P. Hylton and G. Kemp", "year": 2023 }
+    ]
+  }
+}

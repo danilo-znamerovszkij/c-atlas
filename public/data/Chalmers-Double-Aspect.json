@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Chalmers’s Double-Aspect Theory of Information",
+    "summary": "David Chalmers tentatively proposes that information is ontologically fundamental and has two aspects: a physical aspect, realized in systems such as brains and computers, and a phenomenal aspect, realized as subjective experience. Whenever an information space is realized in experience, the same space is realized physically, so information serves as the common currency between the physical and the phenomenal.",
+    "associated_thinkers": ["David Chalmers"],
+    "category": "Integrated Info",
+    "subcategory": "",
+    "core_identity_tagline": "Information With a Physical and a Phenomenal Face",
+    "classification_tags": ["information", "double-aspect", "hard problem", "naturalistic dualism", "neutral monism"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is the phenomenal aspect of information; the same information state that is realized in a physical substrate is also realized in experience.",
+    "ontological_status": "Double-aspect monism (information-based)",
+    "mind_body_relationship": "Physical processes and experience are two realizations of a single information space. The proposal is offered as one way to make Chalmers’s naturalistic dualism work, in which physical processes give rise to experience without being identical to it.",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "Not applicable (information and its phenomenal aspect are treated as fundamental rather than derived)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Qualia are the intrinsic, experiential side of information states. The structure of an experience matches the structure of the information realized in its physical substrate.",
+    "ontological_commitments": "Information spaces as fundamental, with physical and phenomenal aspects; physical systems both living and artificial.",
+    "epistemic_access": "Through philosophical analysis of the structural correspondence between experience and its physical substrate.",
+    "constituents_and_structure": "Information spaces and states, each realized twice over: once physically and, potentially, once phenomenally."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal",
+    "distinctive_mechanism_or_principle": "Double realization: the same information space is realized physically and phenomenally, and Chalmers suggests this ‘double life’ may be the fundamental link between physical processes and experience.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Wherever information is realized physically there is a potential for experience, so experience is not limited in principle to brains.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Information is the bridge concept: wherever there is conscious experience there is information, and wherever there is information there is a potential for conscious experience.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Whenever an information space is realized phenomenally, the same space is realized physically.",
+      "Information can be treated as the common currency between the physical and the phenomenal.",
+      "This double-aspect ontology echoes ideas running from Spinoza to Russell’s neutral monism.",
+      "If the theory fails, naturalistic dualism could still be true on some other principle."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (a priori argument from the hard problem and structural coherence between mind and brain)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Chalmers himself calls the theory speculative and asks how seriously the double-aspect talk should be taken and whether it reifies information. If every information state carries potential experience, the view spreads experience very widely.",
+    "open_questions_and_limitations": "Chalmers leaves open whether the physical, the phenomenal, or both depend ontologically on the informational, and which information states are actually experienced.",
+    "ontological_coherence": "Fits within neutral monist and Russellian traditions and serves Chalmers’s naturalistic dualism, though naturalistic dualism does not depend on it."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Information is realized in computers as well as neurons, and where there is information there is a potential for experience."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "If experience tracks information structure, a system realizing the same information space as a brain would realize the same experience."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Foundation" },
+      { "name": "Russellian Monism", "relationship": "Influence" },
+      { "name": "Spinoza’s One Reality: Embodied Mind and Graded Consciousness", "relationship": "Influence" },
+      { "name": "Integrated Information Theory", "relationship": "Overlap" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Chalmers’ Double-Aspect Theory of Information, David Chalmers", "year": 1996 }
+    ]
+  }
+}

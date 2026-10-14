@@ -1,0 +1,83 @@
+{
+  "id_and_class": {
+    "theory_title": "Feigl's Double Knowledge of Raw Feels",
+    "summary": "Herbert Feigl holds that ‘raw feels’, the directly lived qualities of color, pain, emotion and thought, are empirically identical with configurations of neural processes. Phenomenal and neurophysiological terms differ in meaning and evidence but refer to the same event, as ‘morning star’ and ‘evening star’ both name Venus; the subject knows it by acquaintance, science by description.",
+    "associated_thinkers": ["Herbert Feigl"],
+    "category": "Materialism",
+    "subcategory": "Mind-Brain",
+    "core_identity_tagline": "Raw Feels and Neural Processes as One Event Known Twice",
+    "classification_tags": ["identity theory", "raw feels", "acquaintance", "double knowledge", "logical empiricism"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Raw feels are identical with configurational features of neural processes. The identity is empirical and contingent, not logical.",
+    "ontological_status": "Physicalism (non-eliminative identity)",
+    "mind_body_relationship": "One referent, two epistemic routes. The only dualism Feigl allows is a dualism of evidence, never of substance or property.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (identity: raw feels are neural processes known by acquaintance, not products of them).",
+    "subjectivity_and_intentionality": "Privacy is epistemological: only the subject has first-person acquaintance, but the event belongs to the public spatiotemporal-causal world. Feigl separates intentional content, logical relations, dispositions and unconscious processing from sentience, which is the core of the mind-body problem.",
+    "qualia_account": "Qualia are real and epistemically basic, our most direct contact with what there is, while science reaches reality only indirectly and structurally. Feigl keeps qualia without making them nonphysical and without explaining them away.",
+    "ontological_commitments": "One physical world of neural events, some of which are also known by acquaintance as raw feels; no psychophysical laws linking two distinct domains.",
+    "epistemic_access": "Two routes: first-person acquaintance, and third-person knowledge through behavioral evidence, causal theory and neurophysiology. Feigl rejected Wittgenstein's private language argument.",
+    "constituents_and_structure": "Raw feels, including elementary sensations, directly lived thoughts, emotions and perceptual fields."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness (sentience, raw feels).",
+    "distinctive_mechanism_or_principle": "The distinction between evidence and reference: the evidence for ascribing a mental state is not the state ascribed, and acquaintance and description can converge on a single referent.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Neural processes in the brain.",
+    "causation_and_functional_role": "Because raw feels are neural events, they take part in the causal order directly. Feigl rejected epiphenomenalism and parallelism as needless duplications of reality.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Phenomenal and neurophysiological vocabularies are neither synonymous nor intertranslatable, yet can share a referent.",
+      "Eliminative materialism and radical behaviorism are ‘reductive fallacies’ that dispose of the explanandum.",
+      "Dualist correlation laws would be ‘nomological danglers’, and parsimony opposes positing two sets of entities where evidence is fully correlated.",
+      "Feigl holds that the choice between monism and dualism is settled pragmatically, while specific identifications belong to science."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical: epistemology of acquaintance and description, semantic analysis, and an argument from parsimony."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Paul Meehl's autocerebroscope thought experiment pressed Feigl to clarify how phenomenal predicates relate to raw feels, and the semantics of acquaintance remains contested. Privileging qualia as epistemically basic invites the charge of sliding toward panpsychism, which Feigl answers by calling the privilege epistemological, not ontological.",
+    "open_questions_and_limitations": "Feigl concedes that philosophy can outline the identity but not confirm it; which neural configurations are identical with which raw feels is for science to decide.",
+    "ontological_coherence": "Coherent and the least reductive of the founding identity theories; Jaegwon Kim credits Feigl and Smart with setting the physicalist terms of the later debate, and the view anticipates Russellian monism and acquaintance-based replies to Jackson."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Feigl identifies raw feels with configurations of neural processes and leaves the specific identifications to science, so whether a machine could have them is open."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since raw feels are neural events, they cannot persist once the brain stops."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The view integrates experience into a scientific, physicalist world picture without cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "It depends on whether a simulation reproduces the neural configurations that raw feels are identical with, which the theory does not settle."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Smart’s Topic-Neutral Identity", "relationship": "Influence" },
+      { "name": "Place’s Empirical Identity and the Phenomenological Fallacy", "relationship": "Overlap" },
+      { "name": "Russellian Monism", "relationship": "Influence" },
+      { "name": "Jackson's Representationalism and the Knowledge Argument", "relationship": "Contrast" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "The ‘mental’ and the ‘physical’, Herbert Feigl", "year": 1958 },
+      { "title_with_names": "The Mental and the Physical: The Essay and a Postscript, Herbert Feigl", "year": 1967 },
+      { "title_with_names": "The logical analysis of the psycho-physical problem, Herbert Feigl", "year": 1934 },
+      { "title_with_names": "Mind-body, not a pseudoproblem, Herbert Feigl", "year": 1960 },
+      { "title_with_names": "The compleat autocerebroscopist: A thought-experiment on Professor Feigl's mind-body identity thesis, P. E. Meehl", "year": 1966 },
+      { "title_with_names": "Austria vs. Australia: Two versions of the identity theory, L. Stubenberg", "year": 1997 },
+      { "title_with_names": "Mind in a Physical World, J. Kim", "year": 1998 },
+      { "title_with_names": "General Theory of Knowledge, M. Schlick", "year": 1918 }
+    ]
+  }
+}

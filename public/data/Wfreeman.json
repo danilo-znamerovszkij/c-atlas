@@ -1,0 +1,85 @@
+{
+  "id_and_class": {
+    "theory_title": "W. Freeman's Intentional Neurodynamics",
+    "summary": "Walter J. Freeman III holds that phenomenal consciousness is a sequence of brief, globally coherent states of cortical activity, frames formed by phase transitions in large neural populations. Perception starts with goals set by the limbic system, and the brain constructs the meaning of a stimulus from the animal’s history rather than copying the stimulus. Awareness arrives late in this action-perception cycle as a global ordering state that holds back action while options are weighed.",
+    "associated_thinkers": ["Walter J. Freeman III", "Giuseppe Vitiello"],
+    "category": "Materialism",
+    "subcategory": "Neurobiological",
+    "core_identity_tagline": "Consciousness as Frames of Coherent Cortical Dynamics",
+    "classification_tags": ["neurodynamics", "phase transitions", "intentionality", "circular causality", "eeg"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a sequence of macroscopic ordering states in cortex, each a globally coherent pattern of neural population activity that acts as an order parameter on the activity that generates it.",
+    "ontological_status": "Physicalism (dynamical, non-reductive)",
+    "mind_body_relationship": "Circular causality: microscopic neural activity generates a global state, and the global state constrains that microscopic activity, with no agent outside the loop. Freeman describes consciousness as a field of force centered in a brain, acting through the body on its surroundings and known only through its effects.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Emergence through self-organizing phase transitions in neural populations, with downward constraint from the global state on its parts",
+    "subjectivity_and_intentionality": "Intentionality comes first: following Aquinas, Freeman treats intention as the whole organism stretching toward the world. The forward limb of the loop is the intentional self, and the feedback limb is awareness of the self and its actions.",
+    "qualia_account": "Freeman sets the hard problem aside. Content is constructed within each brain, so each brain’s meanings are its own, but he does not explain why coherent cortical states are felt.",
+    "ontological_commitments": "Interacting excitatory and inhibitory neural populations, mesoscopic fields of dendritic current, chaotic background activity, attractor landscapes shaped by learning, and the limbic system as source of goals.",
+    "epistemic_access": "Freeman holds that no direct physiological measure of consciousness exists. He relies on EEG and electrocorticogram recordings plus behavioral assays of arousal, intention, and attention, which give only indirect access.",
+    "constituents_and_structure": "A hierarchy of ‘K-sets’ running from non-interacting populations through oscillating and chaotic sensory systems to global interactions among cortical areas. Experience is built from discrete frames, or wave packets, separated by rapid transitions."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (organization and content of experience); perceptual meaning; intentionality; self-awareness; the stream of consciousness; causal efficacy of awareness.",
+    "distinctive_mechanism_or_principle": "Endogenous phase transitions in cortical populations: chaotic background activity jumps into a learned attractor basin, producing a spatial pattern of amplitude modulation that expresses what a stimulus means to the animal. Late, large-scale beta synchronies across sensory cortices and entorhinal cortex are his candidate correlates of awareness.",
+    "dynamics_of_emergence": "The stream of consciousness is ‘cinematographic’, a succession of frames each formed by a phase transition. Its apparent continuity need not reflect continuously maintained neural content.",
+    "location_and_distribution": "Global cortical dynamics, with the limbic system (entorhinal cortex and hippocampus) organizing intention. Freeman restricts consciousness to animals with laminated cortical neuropil and rejects panpsychism.",
+    "causation_and_functional_role": "Awareness is neither epiphenomenal nor the initiator of action. It ‘supervenes as a macroscopic ordering state, that defers action until the self-organizing microscopic process has reached closure in reflective prediction’, quenching local fluctuations and delaying commitment.",
+    "integration_or_binding": "Global coherence: late beta-range patterns synchronize across all primary sensory areas and the entorhinal cortex, binding modality-specific early gamma patterns into one state.",
+    "information_flow_or_representation": "Freeman rejects stored representations. Once raw sensory input has selected an attractor it is discarded, and the resulting pattern carries meaning built from the animal’s history and goals. The limbic system sends corollary discharges that prepare sensory cortex for the expected results of action (preafference).",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "In trained rabbits, each sniff of a learned odor produced a gamma burst across the olfactory bulb whose spatial amplitude pattern distinguished odors.",
+      "Those patterns changed when reinforcement contingencies changed or new odors were learned, which Freeman read as evidence that they encode meaning rather than the stimulus.",
+      "The same dynamics appear in visual, auditory, and somatic cortex, so the mechanism generalizes beyond smell.",
+      "Late, widespread beta events fit the roughly half-second delay in reported awareness described by Libet."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical (animal electrophysiology and nonlinear dynamical modeling), with philosophical framing drawn from Aquinas, Merleau-Ponty, and the pragmatists."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Electrocorticogram and EEG recordings from olfactory bulb and neocortex in trained animals; spatial amplitude-modulation analysis of gamma and beta activity; reinforcement-reversal and new-odor learning paradigms.",
+    "criticisms_and_tensions": "Temporally segmented neural patterns can support a model of perceptual organization without showing that experience itself has gaps, and classifying stimuli from animal recordings does not reveal what the animal experiences. The quantum field extension with Vitiello is not established by the oscillation data, and even if valid would still need an account of its tie to experience.",
+    "open_questions_and_limitations": "The evidence is mostly animal electrophysiology, so extending it to human experience is inferential. Which dynamical properties are necessary or sufficient for experience, how they differ from unconscious cognition, and why they are felt all remain open.",
+    "ontological_coherence": "Consistent with a physicalism that allows global states to constrain their parts. Freeman and Vitiello’s dissipative quantum field model keeps the observables classical and does not treat neurons or glia as quantum objects."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "Freeman restricts consciousness to animals with laminated cortical neuropil, and meaning on his view comes from an organism’s goal-directed bodily engagement with its world."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness here is a pattern of living cortical dynamics, it ends when those dynamics stop."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Aquinas’s Hylomorphism", "relationship": "Influence" },
+      { "name": "Enactivism", "relationship": "Influence" },
+      { "name": "Globus's Quantum Thermofield Brain Dynamics", "relationship": "Overlap" },
+      { "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Mass Action in the Nervous System, Walter J. Freeman", "year": 1975 },
+      { "title_with_names": "How Brains Make Chaos in Order to Make Sense of the World, C. A. Skarda and Walter J. Freeman", "year": 1987 },
+      { "title_with_names": "Consciousness, Intentionality and Causality, Walter J. Freeman", "year": 1999 },
+      { "title_with_names": "How Brains Make Up Their Minds, Walter J. Freeman", "year": 2000 },
+      { "title_with_names": "A Cinematographic Hypothesis of Cortical Dynamics in Perception, Walter J. Freeman", "year": 2006 },
+      { "title_with_names": "Indirect Biological Measures of Consciousness from Field Studies of Brains as Dynamical Systems, Walter J. Freeman", "year": 2007 },
+      { "title_with_names": "Nonlinear Brain Dynamics and Intention According to Aquinas, Walter J. Freeman", "year": 2008 },
+      { "title_with_names": "Nonlinear Brain Dynamics as Macroscopic Manifestation of Underlying Many-Body Field Dynamics, Walter J. Freeman and Giuseppe Vitiello", "year": 2006 },
+      { "title_with_names": "Cognitive Phase Transitions in the Cerebral Cortex, R. Kozma and Walter J. Freeman", "year": 2016 },
+      { "title_with_names": "Societies of Brains, Walter J. Freeman", "year": 1995 }
+    ]
+  }
+}

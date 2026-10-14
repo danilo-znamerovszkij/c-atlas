@@ -1,0 +1,79 @@
+{
+  "id_and_class": {
+    "theory_title": "Fish’s Naïve Realism",
+    "summary": "William Fish holds that a conscious perceptual experience is a direct relation between the perceiver and mind-independent objects, so the redness you see is the apple’s own redness rather than an inner representation of it. Hallucinations lack that relation and so differ in kind from genuine perception, and Fish argues that treating phenomenal properties as relational lets a functionalist story close the explanatory gap.",
+    "associated_thinkers": ["William Fish"],
+    "category": "Materialism",
+    "subcategory": "Relational",
+    "core_identity_tagline": "Experience as Direct Relation to the World",
+    "classification_tags": ["naive realism", "relationalism", "disjunctivism", "perception", "philosophy of mind"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "In veridical perception, consciousness is a relation of acquaintance with external objects and their properties, and the phenomenal character of the experience is constituted by those objects.",
+    "ontological_status": "Physicalism (naturalistic relationalism)",
+    "mind_body_relationship": "Fish pairs a functionalist account of the perceiver with a relational account of phenomenal properties, so the felt side of experience is located partly in the world rather than in an inner mental medium.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (experience arises when a functioning perceiver stands in the right relation to worldly objects)",
+    "subjectivity_and_intentionality": "Experience is directed at the world because it consists in a relation to worldly things; the subject is the perceiver who stands in that relation, with no intermediate image.",
+    "qualia_account": "Qualia are relational properties of the perceived objects themselves. The red you experience is the apple’s red, so there is no separate inner quality to explain.",
+    "ontological_commitments": "Mind-independent physical objects and their properties, perceivers with functional organization, and relations of perceptual acquaintance between them.",
+    "epistemic_access": "Through ordinary perception and the phenomenology of how experience seems (direct and world-involving), combined with philosophical analysis of perception, illusion, and hallucination.",
+    "constituents_and_structure": "A perceiver, an external object, and the acquaintance relation joining them; hallucinations and memories have a different, derivative structure."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (perceptual experience), with extensions to hallucination, illusion, and episodic memory.",
+    "distinctive_mechanism_or_principle": "Disjunctivism: veridical perception involves a direct relation to real objects, while hallucination lacks that relational component and is a different kind of state.",
+    "dynamics_of_emergence": "Experience exists while the relation to the object holds. Episodic memory, Fish tentatively proposes, inherits its phenomenal character from earlier perceptual acquaintance even when the remembered objects are gone.",
+    "location_and_distribution": "Extended across perceiver and world, since the object perceived is a constituent of the experience.",
+    "causation_and_functional_role": "Fish relies on functionalist accounts for the causal and cognitive role of perception and adds relationalism to account for its phenomenal character.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Fish rejects representation as the basis of phenomenal character; perception presents the world itself rather than an internal construction of it.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "In veridical perception, the phenomenal character of experience is constituted by the external objects perceived.",
+      "Veridical perception and hallucination are fundamentally different kinds of state, since only the former involves a relation to a real object.",
+      "The phenomenology of episodic memory is probably inherited from prior perceptual acquaintance rather than involving direct acquaintance with past events.",
+      "Supplementing functionalism with relational phenomenal properties yields a naturalistic theory that answers the hard problem and the explanatory gap in an intuitively satisfying way."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical and phenomenological: analysis of perception, illusion, and hallucination, guided by how experience seems to the perceiver."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Disjunctivism must explain why a hallucination can feel indistinguishable from a perception if the two states differ in kind. Representationalists hold that a common inner content explains both cases more simply.",
+    "open_questions_and_limitations": "Fish treats the account of memory as tentative, and the view still has to say what gives hallucinations and imagination their phenomenal character without a perceived object.",
+    "ontological_coherence": "Coherent with a naturalistic, physicalist ontology, though it locates phenomenal character in the world rather than the head, which sets it against internalist physicalism."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Fish does not address machines; an artificial system would need both the right functional organization and genuine perceptual relations to objects."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Since experience consists in a living perceiver’s relation to physical objects within a naturalistic account, nothing in the view supports experience after the perceiver is gone."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The view is a naturalistic theory of perception and implies no cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "A simulation would present no real external objects, so its states would resemble hallucinations rather than genuine perceptual experience on this view."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Manzotti’s Mind-Object Identity (\"Spread Mind\")", "relationship": "Overlap" },
+      { "name": "Functionalism", "relationship": "Compatible" },
+      { "name": "Dretske’s Information and Representationalism", "relationship": "Contrast" },
+      { "name": "Levine’s Explanatory Gap", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Perception, Hallucination, and Illusion, William Fish" },
+      { "title_with_names": "Philosophy of Perception: A Contemporary Introduction, William Fish" },
+      { "title_with_names": "Perception: Critical Concepts in Philosophy, William Fish (ed.)" },
+      { "title_with_names": "Fish’s Naïve Realism, Landscape of Consciousness, William Fish", "year": 2008 }
+    ]
+  }
+}

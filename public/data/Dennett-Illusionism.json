@@ -1,0 +1,78 @@
+{
+  "id_and_class": {
+    "theory_title": "Dennett’s Illusionism",
+    "summary": "Daniel Dennett argues that qualia, conceived as intrinsic, ineffable, private, and immediately known properties of experience, do not exist; they are philosophers’ inventions. Experience is real, but it is not what it seems from the inside: the brain’s unconscious processes produce a benign ‘user illusion’, and there is nothing to consciousness beyond the functions and dispositions involved.",
+    "associated_thinkers": ["Daniel Dennett"],
+    "category": "Materialism",
+    "subcategory": "Eliminative",
+    "core_identity_tagline": "Consciousness as a Benign User Illusion",
+    "classification_tags": ["illusionism", "qualia", "user illusion", "functionalism", "eliminativism"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is the functional activity of the brain, which presents itself to us as a user illusion. ‘There are no qualia.’",
+    "ontological_status": "Physicalism (illusionist)",
+    "mind_body_relationship": "Consciousness is wholly a product of the brain’s unconscious processes. Dennett rejects any inner, non-physical domain of felt properties.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (the user illusion arises from unconscious brain processes; qualia themselves are illusory, not emergent)",
+    "subjectivity_and_intentionality": "Dennett grants that there seems to be phenomenology, which is a fact needing explanation, but holds that it does not follow that there really is phenomenology. The first-person view misdescribes what is going on.",
+    "qualia_account": "There are no qualia in the traditional sense. Dennett calls the supposed intrinsic, ineffable, private properties ‘nothing but philosophers’ inventions’.",
+    "ontological_commitments": "The brain and its unconscious processes, functions, and dispositions.",
+    "epistemic_access": "Through third-person science of how the brain produces the seemings we report. First-person conviction is a datum to explain, not a window on the nature of experience.",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (deflated, as user illusion); Qualia (denied)",
+    "distinctive_mechanism_or_principle": "The user illusion. As a computer’s desktop icons stand in for complex underlying processes, the brain presents itself to us in a simplified form we mistake for an inner world of qualities.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "In the brain’s unconscious processes, with no inner theater.",
+    "causation_and_functional_role": "The user illusion is benign: it lets us manage ourselves without access to the brain’s underlying complexity.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Qualia, defined as intrinsic, ineffable, private, and immediately apprehensible, do not exist.",
+      "That there seems to be phenomenology does not show that there is phenomenology.",
+      "Consciousness is a benign user illusion created by the brain’s unconscious processes.",
+      "Dennett does not deny that we have experiences; he denies there is anything to them beyond functions and dispositions."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical, informed by cognitive science and the analogy with computer interfaces."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Dennett is often read as denying that experience exists, and critics reply that an illusion of experience would itself be an experience. Dennett resisted the eliminativist label, though many philosophers apply it to his rejection of qualia.",
+    "open_questions_and_limitations": "Whether the view counts as illusionism or eliminativism depends on how ‘consciousness’ and ‘qualia’ are defined.",
+    "ontological_coherence": "Consistent with materialism. Keith Frankish calls Dennett the ‘original illusionist’ and builds his own illusionism on Dennett’s attacks on qualia."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Since consciousness is nothing beyond functions and dispositions, a machine with the right functional organization could have it; Dennett does not take this up here."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness is a product of the brain’s processes, it ends when they end."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Dennett’s materialism, and his place among the New Atheists, leave no room for cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Frankish’s Illusionism", "relationship": "Influence" },
+      { "name": "Dennett's Multiple Drafts Model", "relationship": "Foundation" },
+      { "name": "Dennett’s Heterophenomenology", "relationship": "Overlap" },
+      { "name": "Churchland’s Eliminative Materialism", "relationship": "Overlap" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Consciousness Explained, Daniel Dennett" },
+      { "title_with_names": "I've Been Thinking, Daniel Dennett", "year": 2023 },
+      { "title_with_names": "Dennett’s Illusionism (Landscape of Consciousness), Daniel Dennett", "year": 1992 }
+    ]
+  }
+}

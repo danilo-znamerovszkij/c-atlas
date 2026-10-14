@@ -1,0 +1,85 @@
+{
+  "id_and_class": {
+    "theory_title": "QBism’s Primitive, Participatory Experience: Quantum Agency and the First-Person World",
+    "summary": "QBism (Quantum Bayesianism) is an interpretation of quantum mechanics, not a theory of consciousness, but it puts an agent's personal experience at the foundation of physics. A quantum state is an agent's personal degrees of belief about the consequences of her actions, and a measurement outcome is the new experience that action produces. Experience therefore enters physics as a primitive, which leaves the hard problem unsolved but changes where physics starts.",
+    "associated_thinkers": ["Christopher A. Fuchs", "Rüdiger Schack", "Carlton Caves"],
+    "category": "Quantum",
+    "subcategory": "",
+    "core_identity_tagline": "Experience as the Primitive of Quantum Theory",
+    "classification_tags": ["qbism", "quantum bayesianism", "participatory realism", "first-person", "measurement"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "QBism does not say what consciousness is; it treats an agent's experience as a primitive term, with a measurement outcome being the experience an action elicits for that agent.",
+    "ontological_status": "Participatory realism (ontology still in development)",
+    "mind_body_relationship": "Agents act on a real external world that resists them and responds with something new; experience arises at that interface, and the quantum formalism organizes an agent's expectations about it.",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "Not applicable (experience is taken as given rather than derived from physics)",
+    "subjectivity_and_intentionality": "Quantum theory is ‘single-user’: each agent uses it for her own possible experiences, and different agents can legitimately hold different state assignments. This perspectival structure parallels the first-person character of pain or redness, which no third-person description reproduces.",
+    "qualia_account": "QBism offers no account of why an experience has one qualitative character rather than another.",
+    "ontological_commitments": "Agents, their actions, an external world capable of genuine novelty, and experiences; Fuchs and Schack have floated ‘experience’ itself as a candidate for the fundamental stuff of reality.",
+    "epistemic_access": "First-person: each agent knows outcomes as her own experiences, and intersubjective agreement comes from agents interacting.",
+    "constituents_and_structure": "The sequence agent, action on the world, unpredictable consequence, personal experience, revised expectations."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal experience and agency as they figure in the foundations of quantum theory; no account of which systems are conscious or of phenomenal unity.",
+    "distinctive_mechanism_or_principle": "The Born rule is a normative rule of rationality for agents in a quantum world, an empirically discovered extension of Bayesian coherence, rather than a law of nature.",
+    "dynamics_of_emergence": "Each measurement yields a genuinely new experience instead of revealing a value that already existed; wavefunction ‘collapse’ is the agent updating her state assignment.",
+    "location_and_distribution": "Experience occurs for individual agents at their interface with the world; a future ontology might extend elementary ‘pure experience’ throughout nature.",
+    "causation_and_functional_role": "Consciousness does not cause collapse, which separates QBism from von Neumann-Wigner interpretations; agents' actions do bring about outcomes that the world codetermines.",
+    "integration_or_binding": "QBism gives no account of phenomenal unity.",
+    "information_flow_or_representation": "Quantum states, including probability-one assignments, express an agent's personal beliefs about future experiences, not an objective physical condition.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "A quantum state is an agent's personal probability assignment about the consequences of her actions, not a property of the system.",
+      "A measurement is any action an agent takes on the world, and its outcome is the experience it elicits.",
+      "In Wigner's-friend scenarios, the friend's outcome is her own experience, and an outside agent need not treat it as an observer-independent fact before interacting with her.",
+      "Representing states through symmetric informationally complete measurements lets the Born rule be read as a modified form of classical probability coherence."
+    ],
+    "basis_of_belief_or_evidence_type": "Interpretive and mathematical work in quantum foundations, with philosophical links to William James, John Wheeler and phenomenology."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "If ‘agent’ means a conscious subject, QBism takes the thing to be explained as a primitive, so quantum theory cannot then explain consciousness. If experience is generalized into elementary events across nature, QBism inherits the combination problem of panpsychism.",
+    "open_questions_and_limitations": "Fuchs calls QBism a research program still seeking its deeper ontology. He wants to ‘deanthropocentrize’ experience, separating elementary pure experience from sophisticated reasoning agents, and he has not yet made that precise.",
+    "ontological_coherence": "QBism rejects both naive realism and idealism and gestures toward panexperientialism or Jamesian neutral monism without committing to either."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "QBism supplies no criterion for which physical systems are conscious agents, so it cannot settle whether an artificial system would be one."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Wigner–von Neumann’s Consciousness-Collapse: Experience at the Quantum Cut", "relationship": "Contrast" },
+      { "name": "James’s Radical Empiricism of Monistic Pure Experience", "relationship": "Influence" },
+      { "name": "Merleau-Ponty's Embodied Perception and the Lived Body", "relationship": "Overlap" },
+      { "name": "Gefter’s Enactive-QBist Engagement", "relationship": "Extension" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "An introduction to QBism with an application to the locality of quantum mechanics, Christopher A. Fuchs, N. David Mermin, Rüdiger Schack", "year": 2014 },
+      { "title_with_names": "Quantum-Bayesian coherence, Christopher A. Fuchs, Rüdiger Schack", "year": 2013 },
+      { "title_with_names": "QBism and the Greeks: Why a quantum state does not represent an element of physical reality, Christopher A. Fuchs, Rüdiger Schack", "year": 2015 },
+      { "title_with_names": "Quantum measurement and the Paulian idea, Christopher A. Fuchs, Rüdiger Schack", "year": 2014 },
+      { "title_with_names": "On participatory realism, Christopher A. Fuchs", "year": 2016 },
+      { "title_with_names": "QBism, where next?, Christopher A. Fuchs", "year": 2023 },
+      { "title_with_names": "QBism, polishing some points, Christopher A. Fuchs, B. C. Stacey", "year": 2025 },
+      { "title_with_names": "Born’s rule as a quantum extension of Bayesian coherence, J. B. DeBrota, Christopher A. Fuchs, J. L. Pienaar, B. C. Stacey", "year": 2021 },
+      { "title_with_names": "Quantum dynamics happens only on paper: QBism’s account of decoherence, J. B. DeBrota, Christopher A. Fuchs, Rüdiger Schack", "year": 2024 },
+      { "title_with_names": "When will two agents agree on a quantum measurement outcome? Intersubjective agreement in QBism, Rüdiger Schack", "year": 2023 }
+    ]
+  }
+}

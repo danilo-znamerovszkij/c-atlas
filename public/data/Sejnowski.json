@@ -1,0 +1,83 @@
+{
+  "id_and_class": {
+    "theory_title": "Sejnowski’s Computational Two Tiers and Traveling Waves",
+    "summary": "Sejnowski proposes that consciousness arises from a second, cognitive tier of cortical processing that rides on top of the ordinary sensorimotor tier. The sensorimotor tier codes information in firing rates, while the cognitive tier uses millisecond-precise spike timing, organized by traveling waves and temporary synaptic plasticity, to hold context over time and to keep thinking going without outside input. He expects that once these mechanisms are understood, the problem of consciousness may disappear ‘like the Cheshire cat.’",
+    "associated_thinkers": ["Terrence J. Sejnowski"],
+    "category": "Materialism",
+    "subcategory": "Computational",
+    "core_identity_tagline": "Consciousness as Self-Generated Thinking in a Spike-Timed Cortical Tier",
+    "classification_tags": ["computational neuroscience", "spike timing", "traveling waves", "postdiction", "thalamus"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is the global dynamic state of a brain thinking about thinking: self-generated activity in a cognitive cortical tier that builds internal representations from past experience.",
+    "ontological_status": "Physicalism (computational, neural dynamics)",
+    "mind_body_relationship": "Mental phenomena are neural mechanisms, and Sejnowski expects philosophical questions about mind to receive scientific answers as those mechanisms are understood.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (from the global dynamics of spiking neurons and traveling waves)",
+    "subjectivity_and_intentionality": "The unified ‘now’ of experience is constructed postdictively: the brain revises recent history so that the conscious present fits what happens next.",
+    "qualia_account": "",
+    "ontological_commitments": "Spiking cortical neurons, spike-timing-dependent plasticity, traveling waves, inhibitory parvalbumin-positive basket cells, and core and matrix thalamic systems.",
+    "epistemic_access": "Through wet-lab electrophysiology, psychophysics such as the flash-lag effect, computational modeling, and lesion evidence.",
+    "constituents_and_structure": "Two tiers. Tier 1 is a long-term sensorimotor network using rate codes and the core thalamus. Tier 2 is a temporary cognitive network using precise spike timing, traveling waves, and the matrix thalamus."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Access and cognition (self-generated thought, working memory, decision-making, planning); temporal unity of experience",
+    "distinctive_mechanism_or_principle": "Traveling waves organize precisely timed spikes into a spacetime population code, which triggers spike-timing-dependent plasticity lasting hours and forms a temporary cognitive network on top of the sensorimotor network.",
+    "dynamics_of_emergence": "Awareness is postdictive. Perception of a moment depends on events in the following 80 milliseconds or so, and integration windows grow from about 100 milliseconds in primary visual cortex to as much as 10 seconds in prefrontal cortex.",
+    "location_and_distribution": "Cerebral cortex, with the matrix thalamic system projecting widely to superficial cortical layers. Small lesions in the intralaminar thalamic nuclei can abolish consciousness.",
+    "causation_and_functional_role": "The cognitive tier supports long-term working memory, decision-making, and thought that continues after external prompts stop, pulling context across time to guide action.",
+    "integration_or_binding": "Global coordination of matrix thalamic pathways unifies experience, and traveling waves bind information across space and time within one neural population.",
+    "information_flow_or_representation": "Traveling waves form a holographic-like code in which time is one dimension, so one population can represent a window of time, much as self-attention in AI Transformers relates words across a sentence.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Mainen and Sejnowski found that cortical neurons initiate spikes with millisecond precision when driven by fluctuating ‘frozen noise’ input, with timing set by post-inhibitory rebound from basket cells.",
+      "The flash-lag effect shows that perception of a flash depends on what happens after it, which Eagleman and Sejnowski interpret as postdiction.",
+      "Traveling waves observed across many frequency bands could trigger spike-timing-dependent plasticity lasting hours, supporting long-term working memory.",
+      "Sejnowski proposes that the BOLD fMRI signal reflects the metabolic cost of synaptic plasticity and attention more than spiking.",
+      "Unlike large language models, whose feedforward activity stops when a prompt ends, the brain sustains self-generated activity through recurrent loops."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical (electrophysiology, psychophysics, lesion data) and computational modeling"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Frozen-noise current injection into cortical neurons; flash-lag psychophysics; recordings of cortical traveling waves; intralaminar thalamic lesions; BOLD fMRI.",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "Sejnowski describes the problem of consciousness as one that may dissolve with better understanding of perception, decision-making, and planning, so the framework addresses cognitive mechanisms more than why they feel like anything. The link between plasticity triggered by traveling waves and long-term working memory is presented as plausible, not demonstrated.",
+    "ontological_coherence": "Consistent with physicalism and with the Crick program on neural mechanisms of awareness. Sejnowski likens the cognitive tier to a global workspace."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Current large language models lack self-generative activity, but Sejnowski suggests that machines built with self-generative ‘System 2’ dynamics organized by traveling waves and plasticity could gain cognition closer to human experience."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness is the global dynamic state of cortical and thalamic circuits, it follows from the view that it ends when those dynamics stop."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Sejnowski frames self-knowledge as understanding the mechanisms of thinking, with no cosmic purpose involved."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "The view is computational and allows machine cognition in principle, but Sejnowski does not address copying an individual mind."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Crick and Koch's Neural Correlates of Consciousness", "relationship": "Foundation" },
+      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Overlap" },
+      { "name": "Eagleman's Possibilianism", "relationship": "Overlap" },
+      { "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Reliability of Spike Timing in Neocortical Neurons, Z. F. Mainen and T. J. Sejnowski", "year": 1995 },
+      { "title_with_names": "Motion Integration and Postdiction in Visual Awareness, D. M. Eagleman and T. J. Sejnowski", "year": 2000 },
+      { "title_with_names": "Regulation of Spike Timing in Visual Cortical Circuits, P. Tiesinga, J. M. Fellous, and T. J. Sejnowski", "year": 2008 },
+      { "title_with_names": "Consciousness, Terrence J. Sejnowski", "year": 2015 },
+      { "title_with_names": "The Deep Learning Revolution, Terrence J. Sejnowski", "year": 2018 },
+      { "title_with_names": "Transformers and Cortical Waves: Encoders for Pulling in Context Across Time, L. Muller, P. S. Churchland, and T. J. Sejnowski", "year": 2024 },
+      { "title_with_names": "Dynamical Mechanisms for Coordinating Long-term Working Memory Based on the Precision of Spike-timing in Cortical Neurons, Terrence J. Sejnowski", "year": 2026 }
+    ]
+  }
+}

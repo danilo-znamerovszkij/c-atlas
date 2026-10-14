@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "Toomela’s Language-Mediated Structural-Systemic Theory",
+    "summary": "Aaro Toomela defines consciousness narrowly as the experiencing of one’s own psychic experience, and argues that it arises only when a child acquires linguistic signs. A word points outward to the sensory world and inward to another sign in the mind, so every use of a word is both a reference to the world and an experience of one’s own mental content. Consciousness is therefore socially formed, developmentally acquired, and, as far as is known, distinctively human.",
+    "associated_thinkers": ["Aaro Toomela"],
+    "category": "Materialism",
+    "subcategory": "Language",
+    "core_identity_tagline": "Consciousness as Language-Mediated Experience of Experience",
+    "classification_tags": ["language", "semiotics", "vygotsky", "development", "cultural-historical psychology"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a language-mediated psychic process whose result is the experience of one’s own psyche, ‘the experience of experiences’ in Vygotsky’s phrase.",
+    "ontological_status": "Physicalism (non-reductive, systemic)",
+    "mind_body_relationship": "The brain is necessary for consciousness, but the principles governing it are semiotic and social rather than biological. Consciousness is a property of the whole formed by person, language, and environment, neither located in the brain nor a separate substance.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Systemic emergence: consciousness is an attribute of the unity of linguistic (social) and sense-based information processing, irreducible to either alone.",
+    "subjectivity_and_intentionality": "Because organisms have no receptor for their own psyche, the psyche can only be experienced through signs. The same mechanism by which one becomes conscious of oneself also gives access to other minds.",
+    "qualia_account": "Raw sensory what-it’s-likeness belongs to the pre-conscious ‘sense-based psyche’ shared with animals, so the felt redness of red is not yet consciousness for Toomela. He arguably relocates the hard problem rather than solving it.",
+    "ontological_commitments": "A brain-based sense-based psyche, linguistic signs with sensory outward forms, social communication with its own rules, and the organism’s Umwelt.",
+    "epistemic_access": "Through introspection, which reaches only the results of psychic processes bound to linguistic signs, and through developmental and cultural-historical study of how speech reorganizes the mind.",
+    "constituents_and_structure": "Two interrelated mechanisms: sense-based thinking governed by the rules of the physical world and speech governed by the rules of communication. Consciousness develops in structural stages keyed to stages of word meaning."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Reflective self-experience and consciousness of consciousness; Toomela excludes wakefulness, raw sensory experience, and awareness in the broad sense.",
+    "distinctive_mechanism_or_principle": "The dual linguistic sign: genuinely new information arises only when the same input is processed by two interrelated mechanisms, and a word binds a sensory form to an inner sign so that using it is itself an act of consciousness.",
+    "dynamics_of_emergence": "Consciousness appears with the acquisition of linguistic signs and develops through stages of the word; a further threshold comes when speech describes speech, yielding consciousness of consciousness.",
+    "location_and_distribution": "In the person-language-environment system rather than in the brain alone; on present evidence restricted to humans.",
+    "causation_and_functional_role": "Consciousness enriches experience, opening an inner Umwelt and a window onto other minds, and makes psychology itself possible.",
+    "integration_or_binding": "Consciousness is the unity of linguistic and sense-based processing of the same input.",
+    "information_flow_or_representation": "Sense-based signs, synthesized by the rules of the physical world, become signs governed by the rules of communication. Only what is bound to a linguistic sign can become conscious, so consciousness is selective.",
+    "evolutionary_account": "Other animals use signs as tools or commands rather than to share information and lack a linguistic environment, so the linguistic sign is the decisive human difference.",
+    "core_claims_and_evidence": [
+      "Organisms have no sense organ for their own psyche, so experiencing one’s own experience requires a mediating sign.",
+      "Introspection reaches the results of psychic processes but not the processes themselves, in line with the Würzburg findings on imageless thought.",
+      "A psychological theory of consciousness can be ‘brainless’, which Toomela offers as the reason decades of searching for universal neural correlates have failed.",
+      "Consciousness is restricted to humans on present evidence because only humans acquire linguistic signs within a linguistic environment."
+    ],
+    "basis_of_belief_or_evidence_type": "Theoretical and developmental, within the Vygotsky-Luria cultural-historical tradition and Toomela’s structural-systemic methodology."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "By assigning raw sensory feel to a pre-conscious psyche, the theory addresses reflective self-consciousness rather than phenomenal consciousness in Nagel’s and Chalmers’s sense, and so relocates the hard problem. Restricting consciousness to language users denies it to animals and prelinguistic infants in his sense of the term.",
+    "open_questions_and_limitations": "How the sense-based psyche itself comes to have experience, and whether the stage-wise development of consciousness can be mapped empirically.",
+    "ontological_coherence": "Non-reductive yet non-dualist; it fits a systemic naturalism but sits loosely under materialism, since it denies that the governing principles are biological."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Consciousness requires linguistic signs acquired in a social, linguistic environment and grounded in a sense-based psyche, and Toomela does not say whether a machine could meet these conditions."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since the brain is necessary for consciousness, the view leaves nothing to persist after it stops."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Consciousness is a social and cultural achievement of human development, with no cosmic purpose implied."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "Toomela does not address it; consciousness depends on a developmental history within a linguistic community, which a copy would not straightforwardly carry."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Peirce’s Phaneroscopic Semiotics", "relationship": "Influence" },
+      { "name": "James’s Radical Empiricism of Monistic Pure Experience", "relationship": "Influence" },
+      { "name": "Koch's Consciousness does not Depend on Language", "relationship": "Contrast" },
+      { "name": "Crick and Koch's Neural Correlates of Consciousness", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Culture, Speech and My Self, Aaro Toomela", "year": 2016 },
+      { "title_with_names": "What Are Higher Psychological Functions?, Aaro Toomela", "year": 2016 },
+      { "title_with_names": "Thinking and Speech, L. S. Vygotsky", "year": 1934 },
+      { "title_with_names": "The Working Brain: An Introduction to Neuropsychology, A. R. Luria", "year": 1973 },
+      { "title_with_names": "A Stroll Through the Worlds of Animals and Men, J. von Uexküll", "year": 1934 },
+      { "title_with_names": "Some Consequences of Four Incapacities, C. S. Peirce", "year": 1868 },
+      { "title_with_names": "Does ‘Consciousness’ Exist?, W. James", "year": 1904 }
+    ]
+  }
+}

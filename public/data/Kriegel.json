@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "Kriegel’s Cross-Order Self-Representation",
+    "summary": "Uriah Kriegel holds that a mental state is phenomenally conscious because it represents itself. The self-representation comes from functionally integrating a first-order representation of the world with a higher-order representation of that very state, forming one complex state. This places awareness of experience inside the experience and yields a testable neural hypothesis: consciousness requires integration between prefrontal and sensory populations.",
+    "associated_thinkers": ["Uriah Kriegel"],
+    "category": "Materialism",
+    "subcategory": "Higher-Order",
+    "core_identity_tagline": "Consciousness as an Experience That Represents Itself",
+    "classification_tags": ["self-representationalism", "for-me-ness", "higher-order theory", "neural correlates", "subjective character"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A phenomenally conscious state is a single complex representation that represents both an object in the world and itself, through cross-order integration of a first-order and a higher-order component.",
+    "ontological_status": "Physicalism (self-representational functionalism)",
+    "mind_body_relationship": "Each component of the self-representing state has a neural realizer, and consciousness corresponds to a neural realizer of higher-order representation together with its integration with sensory representation.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (consciousness arises from the functional integration of representations across orders, whose combined role exceeds the sum of its parts)",
+    "subjectivity_and_intentionality": "Kriegel treats subjective character, the ‘for-me-ness’ of experience, as the more basic component: experiences occur for me, unlike my heartbeat, because I am peripherally aware of them. The state is directed primarily at the world and secondarily at itself, following Brentano.",
+    "qualia_account": "Qualitative character, such as bluishness, is fixed by what the floor-level representation represents about the world; subjective character comes from the integrated higher-order component.",
+    "ontological_commitments": "First-order (floor-level) representations, higher-order representations of them, and an integration relation that binds the two into one state.",
+    "epistemic_access": "Through peripheral inner awareness, a dim, constant accompaniment of experience distinct from attentive introspection, plus neuroscientific study of the derived correlate.",
+    "constituents_and_structure": "Three elements: a floor-level representation that fixes what experience is of, a higher-order representation of it, and the functional integration of the two. The last two constitute consciousness as such."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness, split into qualitative character and subjective character (for-me-ness).",
+    "distinctive_mechanism_or_principle": "Cross-order integration: the same binding that unifies color, shape, and location in a percept, applied across representational orders so that one state represents the world and itself.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Distributed across prefrontal regions (the main candidates for higher-order representation) and sensory regions, with neither region alone serving as the correlate.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "Integration is the heart of the theory: the higher-order and floor-level components are unified into one state, which is why no further state is needed to make it conscious and no regress arises.",
+    "information_flow_or_representation": "Every conscious state carries two representational functions in one episode, world-directed content and self-directed content.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "A state can be ‘for me’ only if I am in some way aware of it, and that awareness is peripheral rather than attentive.",
+      "Standard higher-order theories put the source of consciousness outside the conscious state and so cannot explain why that state acquires a subjective character of its own.",
+      "Neural correlates should be derived from a theory of what consciousness is, which answers the ‘why question’ that purely correlational proposals leave open.",
+      "The theory predicts that synchronization or comparable integration between prefrontal and sensory populations is required for consciousness."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical and phenomenological, with a derived empirical hypothesis about neural correlates."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "The prediction of prefrontal-sensory integration can be checked against neural data; evidence that prefrontal damage leaves much conscious experience intact counts against it, as it does against higher-order accounts.",
+    "criticisms_and_tensions": "Critics ask whether self-representation avoids circularity or only renames the regress problem. Gertler’s transparency objection holds that introspection reveals only the world, casting doubt on peripheral inner awareness, and Brogaard asks whether self-representation suffices for phenomenality at all.",
+    "open_questions_and_limitations": "Whether integration across representational orders explains for-me-ness or presupposes it, and which structures realize higher-order representation.",
+    "ontological_coherence": "Consistent with physicalist representationalism; it occupies the third standard position alongside first-order and higher-order representationalism."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Since consciousness depends on a functional structure of integrated self-representation, a system that realized that structure would qualify in principle."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Conscious states are realized by integrated neural representations, so they cannot outlast the brain that realizes them."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The theory is a naturalistic account of mental representation and implies no cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "If the integrated self-representing structure were reproduced in another substrate, the theory gives no principled reason the copy would lack consciousness."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Brentano’s Intentionality and Self-Awareness", "relationship": "Influence" },
+      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Critique" },
+      { "name": "Zahavi’s Pre-Reflective For-Me-Ness", "relationship": "Overlap" },
+      { "name": "Ismael's Reflexive Representation and Situated Self", "relationship": "Contrast" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "The Same-Order Monitoring Theory of Consciousness, Uriah Kriegel", "year": 2006 },
+      { "title_with_names": "Self-Representational Approaches to Consciousness, Uriah Kriegel and K. Williford (eds.)", "year": 2006 },
+      { "title_with_names": "A Cross-Order Integration Hypothesis for the Neural Correlate of Consciousness, Uriah Kriegel", "year": 2007 },
+      { "title_with_names": "Subjective Consciousness: A Self-Representational Theory, Uriah Kriegel", "year": 2009 },
+      { "title_with_names": "For-Me-Ness: What It Is and What It Is Not, D. Zahavi and Uriah Kriegel", "year": 2016 },
+      { "title_with_names": "Conscious States as Objects of Awareness, B. Gertler", "year": 2012 },
+      { "title_with_names": "Are Conscious States Conscious in Virtue of Representing Themselves?, B. Brogaard", "year": 2012 }
+    ]
+  }
+}

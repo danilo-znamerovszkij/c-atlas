@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Awret’s Holographic Correspondence Theory of Consciousness",
+    "summary": "Awret borrows the holographic principle from quantum gravity to explain how mental states could be identical with brain states that look nothing like them. In the AdS/CFT correspondence, a space is fully determined by entangled degrees of freedom on its boundary, and Awret proposes that massively entangled neural correlates of consciousness could play the boundary role, with consciousness constituted the way that space is. He calls this a naturalist theory that replaces ‘strange metaphysics with strange physics.’",
+    "associated_thinkers": ["Uziel Awret"],
+    "category": "Materialism",
+    "subcategory": "Computational",
+    "core_identity_tagline": "Consciousness as the Holographic Dual of Entangled Neural States",
+    "classification_tags": ["holographic principle", "quantum gravity", "entanglement", "ads/cft", "physicalism"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is an exotic phase of matter, constituted by entangled neural correlates of consciousness the way an AdS space is constituted by the entangled degrees of freedom of its boundary field theory.",
+    "ontological_status": "Physicalism (quantum-gravitational, holographic)",
+    "mind_body_relationship": "Mind and brain are related as the two sides of a holographic duality, which gives radically different descriptions of one system. Awret argues this loosens the link between identity and necessity, so things that seem completely different can be in some sense identical.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Holographic emergence (consciousness arises from boundary-level entanglement, as smooth spacetime is built from quantum information in AdS/CFT)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Awret suggests the holographic correspondence could solve the structural mismatch problem, the mismatch between the structure of a phenomenal state and the structure of its physical correlate.",
+    "ontological_commitments": "Quantum entanglement in the brain, holographic dualities of the AdS/CFT kind, quantum error-correcting codes, and spacetime built from more basic quantum constituents.",
+    "epistemic_access": "Through analogy with quantum gravity and, eventually, through lab-built AdS spaces and tests of whether brain entanglement lasts long enough.",
+    "constituents_and_structure": "A boundary of massively entangled neural states acting like a quantum computer, and a dual ‘bulk’ whose local stability corresponds to the boundary’s nonlocal error-correction code."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal structure; mental causation; the spatial location and boundaries of consciousness; fusion, fission, and uploading puzzles",
+    "distinctive_mechanism_or_principle": "Holographic correspondence. Neural correlates of consciousness, massively entangled for biologically relevant durations, serve as the boundary field theory whose dual is consciousness.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Consciousness resists placement in space and time, much as entanglement and the construction of spacetime transcend ordinary spatiotemporal existence. Awret thinks the theory may clarify where one consciousness ends and another begins.",
+    "causation_and_functional_role": "Awret claims the holographic view sidesteps the problem of mental causation, since mental and physical descriptions are dual descriptions of one system.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Quantum information in the boundary is encoded nonlocally, as in an error-correcting code, and that encoding gives rise to a locally stable dual space.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "In AdS/CFT, a space’s properties are fixed by entangled degrees of freedom on its boundary, which gives a recipe for building smooth spacetime from quantum information.",
+      "Susskind’s ER=EPR proposal suggests that space and suitably entangled qubits are in some sense identical.",
+      "Puzzles about fusing minds, splitting minds, and uploading minds resemble the problems of fusing, cutting, or uploading space.",
+      "Awret claims the approach addresses structural mismatch, mental causation, and the conceivability argument without changing core physics."
+    ],
+    "basis_of_belief_or_evidence_type": "Theoretical physics (analogy from quantum gravity) and philosophical argument"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Awret calls the mechanism ‘admittedly very strange,’ and he notes that extraordinary theories must justify their approach and clarify what they explain. He separates his view from classical holographic brain theories such as Pribram’s.",
+    "open_questions_and_limitations": "The central open question is whether quantum entanglement in the brain can persist long enough and at large enough scale to support the correspondence. Awret expects that AdS spaces might be generated in the lab within about 20 years by entangling fewer than 10,000 qubits.",
+    "ontological_coherence": "Awret aims to stay within physicalism, keeping core physics unchanged, while borrowing structures from speculative quantum gravity."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "It follows from the view that only systems with massive, sustained entanglement comparable to the brain’s, perhaps a large quantum computer, could host consciousness. Classical computers would not qualify."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Since consciousness is dual to entangled states of the living brain, nothing in the view supports its continuing once those states are gone."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "Awret argues that mind uploading raises identity paradoxes like those of uploading space itself, so the theory leaves it unresolved."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Pribram's Holonomic Brain Theory", "relationship": "Contrast" },
+      { "name": "Penrose-Hameroff's Orchestrated Objective Reduction", "relationship": "Overlap" },
+      { "name": "Levine’s Explanatory Gap", "relationship": "Critique" },
+      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Awret’s Holographic Correspondence Theory of Consciousness (Landscape of Consciousness entry), Uziel Awret" }
+    ]
+  }
+}

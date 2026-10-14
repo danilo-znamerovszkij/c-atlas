@@ -1,0 +1,74 @@
+{
+  "id_and_class": {
+    "theory_title": "Sergent’s Global Playground",
+    "summary": "Claire Sergent argues that conscious access is delayed and can desynchronize from sensory input, so the brain can bring a stimulus into awareness ‘offline’, after it has gone, if it becomes relevant. She revises the global neuronal workspace model: sensory representations are first shared across a broad ‘global playground’ of brain areas, which turns into a full global workspace when a task recruits decision-making.",
+    "associated_thinkers": ["Claire Sergent"],
+    "category": "Materialism",
+    "subcategory": "Neurobiological",
+    "core_identity_tagline": "Consciousness as Temporally Flexible Global Access",
+    "classification_tags": ["global workspace", "conscious access", "retro-perception", "timing", "attention"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is conscious access: global sharing of information across brain networks, which need not follow the real-time order of external events.",
+    "ontological_status": "Physicalism (functionalist)",
+    "mind_body_relationship": "Conscious access is a pattern of large-scale brain activity, as in the global neuronal workspace model it extends.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence, from information sharing among brain networks.",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "Distributed cortical networks, sensory representations held for several hundred milliseconds, and decision-making processes that recruit them.",
+    "epistemic_access": "Behavioral experiments on the timing of awareness, EEG, MEG, intracranial recordings and fMRI in healthy adults and patients with disorders of consciousness.",
+    "constituents_and_structure": "Two tiers: a global playground where sensory representations are shared and maintained with no specific agenda, and a global workspace formed when task-driven decision processes join it."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Access consciousness, especially its timing.",
+    "distinctive_mechanism_or_principle": "Offline conscious access: information held in the global playground can enter awareness later, when attention or relevance calls for it.",
+    "dynamics_of_emergence": "Conscious access lags behind stimulation and can be triggered after a stimulus disappears, so experience need not mirror the sequence of events in the world.",
+    "location_and_distribution": "A broad network of brain areas among which sensory representations are shared, a subset of the global workspace.",
+    "causation_and_functional_role": "Sergent suggests that the capacity to process information offline made conscious processing worth having despite its slowness and limited capacity.",
+    "integration_or_binding": "Information is integrated dynamically over time according to context and relevance.",
+    "information_flow_or_representation": "Sensory representations are maintained for several hundred milliseconds in the playground, offering more cognitive options than automatic unconscious processing, and are broadcast more fully when a task demands it.",
+    "evolutionary_account": "Offline processing would have made sluggish, capacity-limited conscious access adaptive.",
+    "core_claims_and_evidence": [
+      "In retro-perception, attention cued after a stimulus vanishes can trigger conscious perception of it.",
+      "Temporal flexibility of access helps explain the psychological refractory period, attentional blink, postdictive effects and iconic memory.",
+      "Covert conscious access depends on a global playground, which becomes a global workspace when decision-making is added."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical: experimental psychology and human electrophysiology."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Retro-cueing paradigms, attentional blink and refractory-period tasks, and studies of preconscious processing and working memory without consciousness.",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "",
+    "ontological_coherence": "Consistent with the physicalist global neuronal workspace framework it revises."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since conscious access is a pattern of brain network activity, it ends with the brain."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The theory explains conscious access as an adaptive brain process."
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Extension" },
+      { "name": "Dennett's Multiple Drafts Model", "relationship": "Overlap" },
+      { "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Sergent’s Global Playground, Claire Sergent", "year": 2018 }
+    ]
+  }
+}

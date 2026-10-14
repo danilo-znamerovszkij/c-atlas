@@ -594,8 +594,9 @@ body {
     width: 100%;
     box-sizing: border-box;
     // Clear the fixed logo (top: 20px) + search bar (top: 70px, ~50px tall)
-    // so ECharts renders its centered chart below them, not underneath.
-    padding-top: 128px;
+    // + view/filter bar (~44px) so ECharts renders its centered chart below
+    // them, not underneath.
+    padding-top: 176px;
   }
 
   #main {

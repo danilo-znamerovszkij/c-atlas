@@ -1,0 +1,83 @@
+{
+  "id_and_class": {
+    "theory_title": "Cleeremans’s Learned Consciousness via Radical Plasticity",
+    "summary": "Axel Cleeremans argues that consciousness is something the brain learns to do: starting from the assumption that neural activity is inherently unconscious, the brain gradually learns to redescribe its own representations to itself. Experience arises when a system has learned both that it occupies certain internal states and to care about some of them more than others. Later work, the Self-Organizing Metarepresentational Account (SOMA), describes consciousness as the brain’s unconscious, embodied, non-conceptual theory of itself.",
+    "associated_thinkers": ["Axel Cleeremans"],
+    "category": "Materialism",
+    "subcategory": "Higher-Order",
+    "core_identity_tagline": "Consciousness as the Brain’s Learned Theory of Itself",
+    "classification_tags": ["metarepresentation", "learning", "plasticity", "metacognition", "higher-order theory"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Phenomenal consciousness consists in learned metarepresentations that characterize first-order states (their strength, stability, distinctiveness, reliability, and emotional significance) and are weighted by the value the system has learned to attach to them.",
+    "ontological_status": "Physicalism (computational, learning-based)",
+    "mind_body_relationship": "Consciousness is a capacity a neural system acquires through plasticity; no neural state is conscious by its nature, and experience is the product of the brain’s learned redescriptions of its own activity.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence, developmental: consciousness is built over time by the same learning mechanisms that produce skill and expertise.",
+    "subjectivity_and_intentionality": "A subject is a system that has learned it has certain first-order states and cares differentially about them. Self-awareness and theory of mind share learning mechanisms through a self-other loop.",
+    "qualia_account": "Experience exists only in experiencers that have learned to represent and value their own states, and Cleeremans treats emotional value as part of what experience is. Critics ask whether this explains qualitative character or presupposes it.",
+    "ontological_commitments": "Neural networks with plasticity, first-order representations graded by quality, learned metarepresentations of them, and learned emotional value.",
+    "epistemic_access": "Studied through experiments on implicit learning and metacognition and through computational network models in which one network learns to predict and qualify another.",
+    "constituents_and_structure": "Three kinds of representation by quality: implicit (too weak for awareness yet able to influence behavior), explicit (available to awareness and control, the locus of experience), and automatic (beyond control but still available to awareness)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal experience, perceptual awareness, self-awareness, intention, and theory of mind.",
+    "distinctive_mechanism_or_principle": "Representational redescription turned inward: the brain unconsciously learns metarepresentations of its own activity, so plasticity is the generative condition of consciousness rather than a modulator of it.",
+    "dynamics_of_emergence": "Consciousness has a developmental trajectory. As learning improves the strength, stability, and distinctiveness of representations, they become available to experience, and Cleeremans argues that consciousness unconsciously designs itself.",
+    "location_and_distribution": "Across interacting neural regions that learn to predict one another, organized by SOMA into an inner loop, a perception-action loop, and a self-other loop.",
+    "causation_and_functional_role": "Metarepresentations let the system anticipate the consequences of its own activity; learning that supplementary motor activity reliably precedes action, for example, is experienced as intention.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "A second-order process takes first-order inputs and representations as its own input and learns to predict and qualify them, as in Cleeremans’s two-network computational models.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Neural activity is unconscious by default, so the question is how any state becomes conscious rather than which states are intrinsically conscious.",
+      "Network models in which a second network learns to predict a first network’s internal states implement the proposed metarepresentational mechanism.",
+      "Representational quality improves with learning, so availability to consciousness changes over development.",
+      "Theory of mind, self-awareness, and perceptual awareness rely on shared prediction-driven learning mechanisms."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical and computational, drawing on implicit learning and metacognition research, developmental psychology, and network simulations."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Metacognitive network simulations, measures of consciousness based on metacognition, and implicit learning paradigms; the account also makes developmental and comparative predictions.",
+    "criticisms_and_tensions": "Like other higher-order accounts, it faces the question of why a representation of a representation should feel like anything. Critics ask whether learned emotional value smuggles in the qualitative character the theory was meant to derive.",
+    "open_questions_and_limitations": "Whether learned redescription yields phenomenality or only a functional surrogate. Overgaard and Kirkeby-Hinrup note that if learning is the basis of consciousness, attributing experience to infants, animals, and machines carries large moral consequences.",
+    "ontological_coherence": "Consistent with physicalist cognitive science; it departs from standard higher-order theories by making metarepresentations learned, non-conceptual, and domain-general."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Since consciousness is learned metarepresentation weighted by value, an artificial system could be conscious if it learned to represent and care about its own states in this way."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is a capacity a living brain acquires through plasticity, so it ends with that brain."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The account is a naturalistic, learning-based theory with no cosmic dimension."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "Consciousness here depends on a learning history and learned values, and Cleeremans does not address whether copying a trained system would carry over experience."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Cleeremans and Tallon-Baudry's Functional Value", "relationship": "Extension" },
+      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Overlap" },
+      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Influence" },
+      { "name": "Predictive Theories (Top-Down)", "relationship": "Influence" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Consciousness and Metarepresentation: A Computational Sketch, Axel Cleeremans, B. Timmermans, and A. Pasquali", "year": 2007 },
+      { "title_with_names": "Consciousness: The Radical Plasticity Thesis, Axel Cleeremans", "year": 2008 },
+      { "title_with_names": "Know Thyself: Metacognitive Networks and Measures of Consciousness, A. Pasquali, B. Timmermans, and Axel Cleeremans", "year": 2010 },
+      { "title_with_names": "The Radical Plasticity Thesis: How the Brain Learns to Be Conscious, Axel Cleeremans", "year": 2011 },
+      { "title_with_names": "Higher-Order Thoughts in Action: Consciousness as an Unconscious Redescription Process, B. Timmermans, L. Schilbach, A. Pasquali, and Axel Cleeremans", "year": 2012 },
+      { "title_with_names": "Consciousness (Unconsciously) Designs Itself, Axel Cleeremans", "year": 2019 },
+      { "title_with_names": "Learning to Be Conscious, Axel Cleeremans et al.", "year": 2020 },
+      { "title_with_names": "Is Learning the Cognitive Basis of Consciousness? The Moral Implications of SOMA, M. Overgaard and A. Kirkeby-Hinrup", "year": 2021 }
+    ]
+  }
+}

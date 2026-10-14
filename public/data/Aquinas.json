@@ -1,0 +1,85 @@
+{
+  "id_and_class": {
+    "theory_title": "Aquinas’s Hylomorphism",
+    "summary": "Thomas Aquinas holds that the soul is the substantial form of the body, so a human being is one living thing rather than a mind lodged in a machine. Sensation receives the form of an object without its matter, and an interior faculty, the sensus communis, unifies the senses and makes us aware that we are sensing. Intellect is immaterial but must work through sensory images, and the mind knows itself only indirectly, through its own acts.",
+    "associated_thinkers": ["Thomas Aquinas"],
+    "category": "Dualism",
+    "subcategory": "",
+    "core_identity_tagline": "The Soul as the Form of the Living Body",
+    "classification_tags": ["hylomorphism", "scholasticism", "intentionality", "soul", "self-knowledge"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "What we now call phenomenal consciousness belongs to the sensitive life of the embodied animal: sense organs receive the forms of things ‘intentionally’, and the sensus communis integrates them into one perceptual episode. Reflective human awareness adds an immaterial intellect that abstracts universals from sensory images.",
+    "ontological_status": "Hylomorphism (qualified dualism)",
+    "mind_body_relationship": "Soul and body relate as form and matter, so there are not two substances and no interaction problem. The intellect, however, has no bodily organ, which makes the rational soul subsistent and able to exist apart from the body in an incomplete state.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (the rational soul is created directly by God and is the form of the body; sensory powers arise through natural generation as capacities of the organized animal)",
+    "subjectivity_and_intentionality": "Aquinas grounds subjectivity in the unity of the human being: the same person is aware of sensing and of understanding. His notion of esse intentionale, the mode of being a form has in a perceiver, is the ancestor of the modern term ‘intentionality’, transmitted through Brentano.",
+    "qualia_account": "Colors, sounds, and heat are real features of external things, and sensing them means taking on their form in an intentional mode without becoming colored or hot. This avoids the modern puzzle of qualities arising in a colorless world, but it does not explain why such reception feels like anything.",
+    "ontological_commitments": "Substantial forms, prime matter organized into living bodies, a subsistent rational soul, five external and four internal senses with bodily organs, an agent and a possible intellect, and God as creator of each rational soul.",
+    "epistemic_access": "The mind does not inspect its own essence. We know that we have a mind by perceiving ourselves understanding, and we learn what a mind is only by inquiring into its acts and their objects.",
+    "constituents_and_structure": "A layered hierarchy: external senses present particular qualities; the interior senses (sensus communis, imagination, cogitative power, sense memory) integrate, retain, and evaluate them; the intellect abstracts universal concepts from the resulting phantasms."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Sensory awareness, perceptual unity, awareness of sensing, intellectual cognition, self-knowledge; no unified concept of phenomenal consciousness in the modern sense.",
+    "distinctive_mechanism_or_principle": "Reception of form without matter: a sensible form exists naturally in the object and intentionally in the sense. The sensus communis then binds the deliverances of separate senses and registers that sensing is occurring.",
+    "dynamics_of_emergence": "Cognition runs from external sensing through the interior senses to intellectual abstraction. In this life the intellect must always turn back to phantasms (the conversio ad phantasmata), so even abstract thought stays tied to sensory imagery.",
+    "location_and_distribution": "Sensory and interior powers operate through bodily organs, which Aquinas’s medieval physiology places partly in the brain. The intellect has no organ, yet belongs to the whole human being rather than to a separate occupant.",
+    "causation_and_functional_role": "Sensation and the interior senses let an animal perceive unified objects, retain them, and grasp their significance, such as danger or usefulness. Intellect lets humans grasp universals and know themselves through their acts.",
+    "integration_or_binding": "The sensus communis is the ‘common root’ of the external senses: it unifies color, sound, and other proper sensibles into the perception of one object and distinguishes the modalities as distinct. This is the binding problem, posed and assigned to a faculty.",
+    "information_flow_or_representation": "Forms pass from object to medium to sense organ as likenesses. Interior senses produce phantasms, the agent intellect abstracts intelligible species from them, and the possible intellect receives those species.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "The soul is the substantial form of the body, so a human being is one substance and the person is not identical to the soul.",
+      "The intellect can receive the forms of all material things, so it cannot be a material organ, which is restricted to a narrow range of forms.",
+      "Awareness of seeing cannot belong to sight, whose object is color, so it belongs to the sensus communis.",
+      "Against Averroes’s single shared intellect, Aquinas argues that this individual person perceives that he himself understands, which a shared intellect could not accommodate."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical and theological: Aristotelian metaphysics, arguments from the first-person datum of individual understanding, and Christian doctrine on creation and resurrection."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Burnyeat argued that Aristotelian philosophy of mind is no longer credible because it presupposes matter already pregnant with mind, while Sorabji defended a physiological reading of sensory change. Saying a sense receives a form intentionally does not explain why the reception has a subjective feel, and applying ‘phenomenal consciousness’ to Aquinas at all is an act of translation.",
+    "open_questions_and_limitations": "Interpreters dispute whether sensory consciousness belongs to the external senses or to the sensus communis, and whether phantasia or the sensus communis supplies awareness of one’s own states (Stump versus Pasnau). Aquinas does not clearly separate phenomenal from access consciousness.",
+    "ontological_coherence": "Readers who stress the subsistent intellect see a dualism about part of the soul; readers who stress form-matter unity see a third position outside the dualism-materialism split. Contemporary hylomorphists usually drop the subsistent intellect, which is the theologically motivated part, and it is unclear whether what remains is still Aquinas’s view."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "Sensory awareness belongs to organized living bodies and the rational soul is directly created by God, so an artifact would lack both. Aquinas’s bodiless angels show cognition without senses, but that turns on how a being is created rather than how it is organized."
+    },
+    "survival_beyond_death": {
+      "stance": "Yes",
+      "rationale": "The rational soul is subsistent and survives death, knowing through species infused by God. Aquinas calls this separated state unnatural and incomplete, so full human life requires bodily resurrection."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cosmic/Ultimate",
+      "rationale": "Humans are made in the image of God, and their ultimate end is the direct vision of the divine essence, reached by the supernatural ‘light of glory’."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "Since the person is the integrated body-soul organism and the rational soul comes from God, copying a pattern into a machine would not continue the person."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Aristotle’s Hylomorphism", "relationship": "Foundation" },
+      { "name": "Descartes’s Substance Dualism", "relationship": "Contrast" },
+      { "name": "Brentano’s Intentionality and Self-Awareness", "relationship": "Influence" },
+      { "name": "Jaworski's Hylomorphism", "relationship": "Extension" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Summa Theologiae, Thomas Aquinas" },
+      { "title_with_names": "Quaestiones disputatae de veritate, Thomas Aquinas" },
+      { "title_with_names": "Sentencia libri De anima, Thomas Aquinas" },
+      { "title_with_names": "De unitate intellectus contra Averroistas, Thomas Aquinas", "year": 1270 },
+      { "title_with_names": "Consciousness and Self-Knowledge in Aquinas's Critique of Averroes's Psychology, D. L. Black", "year": 1993 },
+      { "title_with_names": "Aquinas on 'Spiritual Change' in Perception, M. F. Burnyeat", "year": 2001 },
+      { "title_with_names": "Aquinas on Human Self-Knowledge, T. S. Cory", "year": 2014 },
+      { "title_with_names": "Aquinas's Theory of Perception: An Analytic Reconstruction, A. J. Lisska", "year": 2016 },
+      { "title_with_names": "Thomas Aquinas on Human Nature, R. Pasnau", "year": 2002 },
+      { "title_with_names": "Aquinas, E. Stump", "year": 2003 }
+    ]
+  }
+}

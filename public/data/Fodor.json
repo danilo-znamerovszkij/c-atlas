@@ -1,0 +1,83 @@
+{
+  "id_and_class": {
+    "theory_title": "Fodor's Principled Abstention: Intentionality Bracketing Phenomenality",
+    "summary": "Fodor deliberately declined to theorize phenomenal consciousness and argued that this was the right research strategy. His Representational Theory of Mind explains thought as computation over sentence-like mental representations in a Language of Thought, which accounts for how mental states are about things but not for why they feel like anything. On that question he was a mysterian: nobody, he said, has the slightest idea how anything material could be conscious.",
+    "associated_thinkers": ["Jerry Alan Fodor"],
+    "category": "Challenge",
+    "subcategory": "",
+    "core_identity_tagline": "Intentionality Explained, Phenomenal Consciousness Set Aside",
+    "classification_tags": ["language of thought", "intentionality", "modularity", "mysterianism", "computationalism"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Fodor offers no identity claim for phenomenal consciousness. He identifies thinking with computation over physically realized mental representations that have syntax and compositional semantics, and leaves phenomenal character out of the account on purpose.",
+    "ontological_status": "Physicalism (computational-representational) with mysterianism about qualia",
+    "mind_body_relationship": "Mental representations are physically realized in the brain, and mental processes are computations on them. How any material process could be conscious remains, for Fodor, wholly unknown.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (Fodor brackets phenomenal consciousness and holds that we cannot even say what an explanation of it would look like)",
+    "subjectivity_and_intentionality": "Intentionality is the core of the theory: to believe it is raining is to stand in the belief relation to a Mentalese token meaning that it is raining. Because computation is sensitive only to syntax, and syntax tracks meaning, content can be causally effective without anything spooky. Subjectivity is left unexplained.",
+    "qualia_account": "None by design. Fodor's framework addresses Brentano's problem of aboutness, not Nagel's problem of what it is like, and he doubted that consciousness, emotion, or imagination are natural kinds suited to lawlike generalization.",
+    "ontological_commitments": "Mental representations with syntactic and semantic structure (Mentalese), computational processes over them, encapsulated input modules, and a holistic central system.",
+    "epistemic_access": "Through cognitive science and philosophical analysis of thought. Because perceptual modules are encapsulated, introspection cannot reach the mechanisms that generate perceptual experience.",
+    "constituents_and_structure": "Fast, mandatory, domain-specific input modules for perception and language parsing, which cannot consult information stored elsewhere, feeding a central system in which any belief may bear on any other."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Intentionality, Thought, Perception (architecture only); Phenomenal consciousness explicitly excluded",
+    "distinctive_mechanism_or_principle": "Methodological quarantine: treat intentionality and phenomenality as separable and build a complete theory of content without invoking qualitative character.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Mental representations are realized in the brain. Fodor does not locate consciousness.",
+    "causation_and_functional_role": "Fodor assigns no functional role to consciousness. He notes that cognitive scientists mostly treat it as a nuisance or ignore it, and that setting it aside had proved a successful research programme.",
+    "integration_or_binding": "Central cognition is global: any belief can bear on any other. Fodor argued that this makes central cognition computationally intractable, since a mechanism sensitive only to local syntax cannot perform globally sensitive inference.",
+    "information_flow_or_representation": "Information passes through encapsulated perceptual modules into a central system where beliefs are fixed. The Müller-Lyer illusion persists even when one knows the lines are equal, showing that perception is not penetrated by belief.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "The Language of Thought explains why thought is productive, systematic, and inferentially coherent.",
+      "Encapsulated input modules explain why perceptual illusions survive contrary knowledge.",
+      "Nobody knows how anything material could be conscious, and nobody knows what it would be like to have such an idea.",
+      "Concentrating on intentionality while setting consciousness aside is a sound strategy, though Fodor admitted that McGinn's claim of a non-contingent link between intentional and qualitative properties in perception worried him."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical and theoretical, drawing on cognitive science and perceptual psychology"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "Studies of perceptual illusions such as Müller-Lyer as tests of cognitive impenetrability; the modularity thesis remains empirically debated.",
+    "criticisms_and_tensions": "Phenomenal-intentionality theorists such as Uriah Kriegel and Dan Zahavi argue that genuine aboutness depends on consciousness, which reverses Fodor's priority and undercuts the separability his strategy assumes. Others ask whether refusing to treat consciousness as a natural kind is principled or question-begging, since causally embedded phenomena should admit scientific study.",
+    "open_questions_and_limitations": "Fodor's pessimism about consciousness appears mainly in reviews and asides and was never developed systematically. His own later work argued that central, global cognition lies beyond computational explanation, limiting the reach of his framework.",
+    "ontological_coherence": "There is real tension between a confident computational account of thought and the claim that consciousness is wholly beyond current understanding. The position sits closer to McGinn's cognitive closure and Nagel's pessimism than to the eliminativism of Dennett or Churchland."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Machines could in principle share the computational architecture of thought, but Fodor held that nobody knows how any material system could be conscious, so the question stays open."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "McGinn's Ultimate Mystery (Mysterianism)", "relationship": "Overlap" },
+      { "name": "Computational Theories", "relationship": "Foundation" },
+      { "name": "Churchland’s Eliminative Materialism", "relationship": "Contrast" },
+      { "name": "Zahavi’s Pre-Reflective For-Me-Ness", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "The Language of Thought, Jerry A. Fodor", "year": 1975 },
+      { "title_with_names": "Methodological Solipsism Considered as a Research Strategy in Cognitive Psychology, Jerry A. Fodor", "year": 1980 },
+      { "title_with_names": "The Modularity of Mind: An Essay on Faculty Psychology, Jerry A. Fodor", "year": 1983 },
+      { "title_with_names": "Too Hard for Our Kind of Mind? (review of McGinn's The Problem of Consciousness), Jerry A. Fodor", "year": 1991 },
+      { "title_with_names": "The Big Idea: Can There Be a Science of Mind?, Jerry A. Fodor", "year": 1992 },
+      { "title_with_names": "The Mind Doesn't Work That Way: The Scope and Limits of Computational Psychology, Jerry A. Fodor", "year": 2000 },
+      { "title_with_names": "Hume Variations, Jerry A. Fodor", "year": 2003 },
+      { "title_with_names": "Phenomenal Intentionality, Uriah Kriegel (ed.)", "year": 2013 }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id_and_class": {
+    "theory_title": "McLaughlin's Neurobiologicalism",
+    "summary": "McLaughlin holds that every type of phenomenal experience is numerically identical with some type of neurobiological state, a fact discovered empirically and necessary if true. He grants Levine’s explanatory gap as a real feature of our concepts but denies that it marks any gap in reality, and he infers the identities as the best explanation of strict phenomenal-neural correlation. Because the identities are with neurobiological types, consciousness depends on its biological substrate as well as its functional organization.",
+    "associated_thinkers": ["Brian P. McLaughlin"],
+    "category": "Materialism",
+    "subcategory": "Mind-Brain",
+    "core_identity_tagline": "Phenomenal Types as Neurobiological Types",
+    "classification_tags": ["type identity", "type-b materialism", "phenomenal concepts", "explanatory gap", "substrate dependence"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "For any phenomenal state type C there is a neurobiological state type N such that C = N, where N is a state recognized by neurobiology or a recognizable successor to it. Pain is one state conceptualized in two very different ways.",
+    "ontological_status": "Physicalism (type identity, a posteriori)",
+    "mind_body_relationship": "Type-type identity, stronger than supervenience, realization, constitution, or causal dependence. The identities are metaphysically necessary but knowable only a posteriori, which places the view in what Chalmers calls type-B materialism.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (phenomenal states are identical with neurobiological states; McLaughlin argues that British emergentism was displaced empirically when quantum mechanics explained chemical bonding)",
+    "subjectivity_and_intentionality": "McLaughlin treats subjective experience as real and secure against strong illusionism. Phenomenal concepts are deployed through first-person attention to experience, which gives them a cognitive role very different from theoretical neuroscientific concepts.",
+    "qualia_account": "Pain, color experience, imagery, emotions, and moods have genuine phenomenal character, and each character is a neurobiological type. McLaughlin argues type materialism can also accommodate a representational account of awareness of perceptual qualia.",
+    "ontological_commitments": "Neurobiological state types, phenomenal state types identical with them, and recognitional phenomenal concepts. No fundamental psychophysical laws.",
+    "epistemic_access": "Phenomenal concepts give first-person, recognitional access, and neuroscience gives third-person access to the same states. The identities are known abductively from lawlike correlation.",
+    "constituents_and_structure": "A determinate mapping from each phenomenal type to one neurobiological type, even where science has not yet found it."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness only (pain, perceptual experience, bodily sensations, imagery, emotions, moods); not the mental in general",
+    "distinctive_mechanism_or_principle": "Inference to the best explanation from correlation to identity. Identity explains why phenomenal and neural types always co-occur, since nothing comes apart from itself, while rival views must accept the correlation as brute or posit psychophysical laws.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "In neurobiological states of the brain.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "The Correlation Thesis says each sensation type covaries by nomological necessity with some physical or functional type, which by itself is compatible with dualism, dual-aspect theory, and panpsychism.",
+      "Type identity best explains that correlation without adding Feigl’s nomological danglers to the world.",
+      "Phenomenal concepts are recognitional and imaginative and have no a priori links to neuroscientific concepts, which explains the felt gap even if the identities hold.",
+      "With Hill, McLaughlin answers Kripke and Chalmers by arguing that imaginability is no guide to possibility here, so zombie and inverted-spectrum intuitions become predictions of the theory.",
+      "A silicon system duplicating human functional organization would lack phenomenal consciousness, since consciousness depends on neurobiological constitution."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (abductive argument), drawing on neuroscientific correlation"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Russellian monists and dual-aspect theorists claim to explain the correlation equally well while also explaining the gap. Horgan and Tienson argue that phenomenal concepts either reveal phenomenal states as they are, which yields dualism, or are derivative, which makes the account fail. Block disputes the denial of consciousness to functionally equivalent machines such as the android Commander Data.",
+    "open_questions_and_limitations": "No current method isolates which neurobiological type pain is, so the determinacy claim risks being unfalsifiable in practice, and no observation yet separates the view from a nonreductive correlation view. Biological variability and multiple realization may block clean type mappings, and critics ask why the identical neural state has this particular feel.",
+    "ontological_coherence": "Consistent within physicalism and continuous with theoretical identification in science. The step from physical-or-functional correlation to specifically neurobiological identity needs argument beyond the abduction."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No",
+      "rationale": "McLaughlin holds that a silicon duplicate of human functional organization would lack phenomenal consciousness, because phenomenal types are neurobiological types."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since phenomenal states are neurobiological states, it follows from the view that they cease when the brain does."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The view places consciousness entirely within neurobiology and gives it no cosmic role."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "A digital simulation would reproduce organization without neurobiological constitution, so on this view it would not be conscious."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Levine’s Explanatory Gap", "relationship": "Influence" },
+      { "name": "Kripke’s Modal Argument Against Mind–Brain Identity", "relationship": "Critique" },
+      { "name": "Block's Biological Reductionism", "relationship": "Overlap" },
+      { "name": "Russellian Monism", "relationship": "Contrast" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "The Rise and Fall of British Emergentism, Brian P. McLaughlin", "year": 1992 },
+      { "title_with_names": "Emergence and Supervenience, Brian P. McLaughlin", "year": 1997 },
+      { "title_with_names": "In Defense of New Wave Materialism: A Response to Horgan and Tienson, Brian P. McLaughlin", "year": 2001 },
+      { "title_with_names": "On Justifying Neurobiologicalism for Consciousness, Brian P. McLaughlin", "year": 2012 },
+      { "title_with_names": "Hill on Phenomenal Consciousness, Brian P. McLaughlin", "year": 2016 },
+      { "title_with_names": "Type Materialism for Phenomenal Consciousness, Brian P. McLaughlin", "year": 2017 },
+      { "title_with_names": "There Are Fewer Things in Reality Than Are Dreamt of in Chalmers’s Philosophy, C. S. Hill and B. P. McLaughlin", "year": 1999 },
+      { "title_with_names": "Deconstructing New Wave Materialism, T. Horgan and J. Tienson", "year": 2001 },
+      { "title_with_names": "Materialism and Qualia: The Explanatory Gap, J. Levine", "year": 1983 },
+      { "title_with_names": "The Conscious Mind: In Search of a Fundamental Theory, D. J. Chalmers", "year": 1996 },
+      { "title_with_names": "Functional Role, Superficialism and Commander Data: Reply to Brian McLaughlin, N. Block", "year": 2018 }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id_and_class": {
+    "theory_title": "Hawkins’s Thousand-Brain Remembered Modeling",
+    "summary": "Jeff Hawkins argues that the neocortex builds thousands of parallel models of the world, one per cortical column, and that these models reach a single perception by voting. Awareness, on his account, is the brain continuously remembering and recalling its own recent model states, while qualia reflect what each patch of uniform cortex happens to be wired to.",
+    "associated_thinkers": ["Jeff Hawkins"],
+    "category": "Materialism",
+    "subcategory": "Neurobiological",
+    "core_identity_tagline": "Consciousness as Remembered States of Cortical Models",
+    "classification_tags": ["neocortex", "cortical columns", "reference frames", "memory", "machine consciousness"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a brain-generated simulation produced by neocortical modeling. Awareness is identified with the continuous storage and recall of the brain's recent model states; qualia with the connectivity of cortical columns.",
+    "ontological_status": "Physicalism (functionalist)",
+    "mind_body_relationship": "Mind is what the neocortex does. Experience is the output of cortical models, voting, prediction and action, with no extra ingredient beyond the functional architecture.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence, from distributed cortical modeling and memory of model states.",
+    "subjectivity_and_intentionality": "The brain's world model includes a model of the self, and the felt sense of being conscious comes from the cortex continuously recording and recalling its own states. Intentionality rests on sensorimotor reference frames that columns attach to objects, places and concepts.",
+    "qualia_account": "Because the same circuitry runs vision, touch and hearing, Hawkins traces qualitative differences between senses to what a column is connected to: which inputs it receives and which behaviors it drives. He expects the hard problem to dissolve as such accounts mature.",
+    "ontological_commitments": "Cortical columns, map-like reference frames adapted from grid-cell and place-cell machinery, predictive neural activity, and memory traces of model states.",
+    "epistemic_access": "Studied through neuroanatomy, computational modeling of cortical circuits, and thought experiments about erased memory and self-report.",
+    "constituents_and_structure": "Roughly 150,000 cortical columns, each learning complete sensorimotor models of objects and concepts, richly interconnected so that their partial models converge by voting into one percept."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Awareness, perceptual unity, self-modeling, qualia (deflationary); primarily a theory of intelligence.",
+    "distinctive_mechanism_or_principle": "Thousands of column-level models vote to reach a consensus percept, and awareness is the continuous memory and recall of the brain's recent model states.",
+    "dynamics_of_emergence": "A continuous process. The cortex keeps predicting, updating its simulation when predictions fail, and recording its own states moment to moment.",
+    "location_and_distribution": "Distributed across the neocortex, with no central processor; the older subcortical brain supplies drives and emotion.",
+    "causation_and_functional_role": "Recalled memories of recent states drive ongoing action. Prediction mismatches draw attention and prompt model revision; met predictions go unnoticed.",
+    "integration_or_binding": "Voting among interconnected columns turns a distorted, patchy input into a single, stable, object-centered percept, which Hawkins offers as a mechanistic answer to the binding problem.",
+    "information_flow_or_representation": "Nothing reaches the cortex but electrical spikes. Columns use reference frames that combine sensory input with motor output, so knowledge is inherently sensorimotor and perception is the model's simulation of the world.",
+    "evolutionary_account": "Hawkins splits the brain into an old subcortical brain carrying evolved drives and a new neocortex that builds world models.",
+    "core_claims_and_evidence": [
+      "Following Mountcastle, Hawkins holds that the neocortex runs one common algorithm, with regions differing in connections rather than structure.",
+      "Each cortical column learns complete models of objects using reference frames derived from grid-cell and place-cell mechanisms.",
+      "Columns vote to produce unified perception from fragmentary sensory input.",
+      "An action erased from memory would be judged unconscious, which Hawkins takes to show that awareness consists in remembered states.",
+      "Any system that learns a world model and continuously stores and recalls its states will be conscious."
+    ],
+    "basis_of_belief_or_evidence_type": "Theoretical neuroscience and computational modeling, plus thought experiments about memory."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "The cortical claims (column-level models, grid-cell-like reference frames, voting) are framed as hypotheses for neuroscience and computational modeling; the link between remembered states and awareness rests mainly on thought experiment.",
+    "criticisms_and_tensions": "Reviewers sympathetic to the neuroscience object that identifying qualia with connectivity restates the correlation without explaining why any pattern is felt. Neuroscientists also attack the sharp old-brain/new-brain split as a revival of the discredited triune-brain schema, since the mammalian neocortex closely resembles the bird and reptile pallium.",
+    "open_questions_and_limitations": "Hawkins concedes he does not solve the hard problem; the account covers access, unity and self-modeling and leaves phenomenal character unexplained.",
+    "ontological_coherence": "Coherent as a functionalist physicalism, though its confidence that the hard problem will dissolve is a prediction, not an argument."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "Hawkins holds that machines built on Thousand Brains principles would be conscious, though affectless, since they lack the evolved drives of the old brain."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness here is generated by neocortical modeling, nothing survives the brain's death."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The theory explains experience as brain function and posits no cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "If the right functional architecture suffices for consciousness, a system reproducing a person's cortical models could in principle carry it, though Hawkins does not address uploading."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Predictive Theories (Top-Down)", "relationship": "Overlap" },
+      { "name": "Budson’s Consciousness as a Memory System", "relationship": "Overlap" },
+      { "name": "Chalmers's Panpsychism", "relationship": "Contrast" },
+      { "name": "Functionalism", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "A Thousand Brains: A New Theory of Intelligence, Jeff Hawkins", "year": 2021 },
+      { "title_with_names": "On Intelligence, Jeff Hawkins and Sandra Blakeslee", "year": 2004 },
+      { "title_with_names": "A framework for intelligence and cortical function based on grid cells in the neocortex, Jeff Hawkins, M. Lewis, M. Klukas, S. Purdy and S. Ahmad", "year": 2019 },
+      { "title_with_names": "A theory of how columns in the neocortex enable learning the structure of the world, Jeff Hawkins, S. Ahmad and Y. Cui", "year": 2017 },
+      { "title_with_names": "Why neurons have thousands of synapses, a theory of sequence memory in neocortex, Jeff Hawkins and S. Ahmad", "year": 2016 },
+      { "title_with_names": "An organizing principle for cerebral function: The unit module and the distributed system, Vernon B. Mountcastle", "year": 1978 },
+      { "title_with_names": "Facing up to the problem of consciousness, D. J. Chalmers", "year": 1995 }
+    ]
+  }
+}

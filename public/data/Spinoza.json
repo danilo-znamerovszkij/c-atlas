@@ -1,0 +1,89 @@
+{
+  "id_and_class": {
+    "theory_title": "Spinoza’s One Reality: Embodied Mind and Graded Consciousness",
+    "summary": "Baruch Spinoza holds that there is only one substance, God or Nature, known to us under two attributes, thought and extension. A human mind is the idea of an actually existing human body: one and the same thing as the body, conceived under thought. Because every body has a corresponding idea, mind runs through all of nature, and consciousness varies by degree with the complexity and power of the body.",
+    "associated_thinkers": ["Baruch Spinoza"],
+    "category": "Monism",
+    "subcategory": "",
+    "core_identity_tagline": "Mind as the Idea of the Body",
+    "classification_tags": ["substance monism", "dual-aspect", "embodiment", "graded consciousness", "affect"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "The mind is the idea of the body, the same individual conceived under the attribute of thought rather than extension. Spinoza does not single out phenomenal consciousness as a category; his interpreters read consciousness as higher-order awareness, cognitive access, power or complexity of thinking, or affective awareness.",
+    "ontological_status": "Substance monism (dual-attribute)",
+    "mind_body_relationship": "Mind and body neither interact nor merely correlate; they are one thing under two descriptions. ‘The order and connection of ideas is the same as the order and connection of things’ (Ethics 2p7), so thought is explained only through thought and extension only through extension.",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "Not applicable (thought is a basic attribute of the one substance, so there is no point at which mind appears from something wholly nonmental)",
+    "subjectivity_and_intentionality": "Perception is embodied and perspectival: the mind perceives external things through ideas of how its own body is affected by them. Spinoza's ideas of ideas give the mind some reflexive self-awareness.",
+    "qualia_account": "Spinoza has no explicit theory of phenomenal character. Interpreters reconstruct it from his accounts of sensation, imagination and affect, where an affect is both a change in the body's power of acting and the idea of that change.",
+    "ontological_commitments": "One infinite substance (God or Nature) with infinitely many attributes, of which humans know thought and extension; finite modes such as individual minds and bodies; ideas of ideas; conatus, each thing's striving to persist.",
+    "epistemic_access": "Conscious awareness does not guarantee self-knowledge. People are conscious of their actions and desires but ignorant of their causes, which is why they wrongly believe their will is free.",
+    "constituents_and_structure": "Ideas mirroring bodily affections, ideas of those ideas, and affects (joy, sadness, desire) that track increases and decreases in power. The richness of a mind matches the complexity of its body."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Mind-body relation, sensation and emotion, self-awareness, degrees of consciousness, and freedom.",
+    "distinctive_mechanism_or_principle": "Psychophysical identity under parallel attributes: whatever happens in the body as extension happens in the mind as an idea, so no causal bridge between them is needed.",
+    "dynamics_of_emergence": "Consciousness is graded and changes with the body's capacities. An infant with a simple body is ‘conscious of almost nothing’, while a person whose body can do many things is very much conscious of self, God and things (Ethics 5p39s).",
+    "location_and_distribution": "Mentality is everywhere in nature, since all individuals are ‘animate’ in some degree (2p13s). Whether this means every physical thing has phenomenal experience is contested, and Spinoza does not treat God or Nature as one human-like conscious subject.",
+    "causation_and_functional_role": "Mind never causes bodily motion and body never causes thought. Affects make ideas matter to behavior by increasing, decreasing or fixing the mind's striving, and freedom comes from forming more adequate ideas of the causes acting on us.",
+    "integration_or_binding": "The human mind is the idea of one highly composite body, so its unity follows the organization of that body.",
+    "information_flow_or_representation": "The mind represents the world only by representing the body's affections. Toth argues that Spinoza's term conscientia is closer to access consciousness, contents available for reasoning and action, than to phenomenal consciousness.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Spinoza argues that a mode of extension and the idea of that mode are one thing expressed two ways, which dissolves Descartes's interaction problem.",
+      "Every individual is animate to some degree, and human minds differ from others in the complexity and power of their bodies.",
+      "Curley reads consciousness as having an idea of an idea; Bennett and Wilson object that since God has ideas of all ideas, every idea would then count as conscious.",
+      "Nadler ties degrees of consciousness to bodily complexity, Garrett to power of thinking, and Marshall to affectivity."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical: geometric-method metaphysics in the Ethics, with interpretation by later scholars."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "The identity formula says mind and body are one thing but not what makes the thought side felt. The ideas-of-ideas reading makes every idea conscious, which Bennett called absurdly excessive, and LeBuffe notes that a mind's overall power and the power of its ideas can diverge, giving odd verdicts on degrees.",
+    "open_questions_and_limitations": "Whether Spinoza has a theory of consciousness at all is among the most contested questions in his scholarship; Garber concludes he had none and needed none. Whether universal mindedness entails universal phenomenality is also unresolved.",
+    "ontological_coherence": "Highly systematic and internally consistent. It anticipates dual-aspect, identity and panpsychist views without fitting any of them cleanly."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Since every body has a corresponding mind whose richness tracks the body's complexity and power, a sufficiently complex artificial body would have a correspondingly rich mind; whether that mind would be conscious in the human sense is contested."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "Cosmic/Ultimate",
+      "rationale": "Minds are modes of God or Nature, and freedom lies in understanding the causal order of Nature through more adequate ideas."
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Descartes’s Substance Dualism", "relationship": "Critique" },
+      { "name": "Russellian Monism", "relationship": "Influence" },
+      { "name": "Velmans's Reflexive Monism", "relationship": "Overlap" },
+      { "name": "Goff's Panpsychism", "relationship": "Influence" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Ethics, Baruch Spinoza (E. Curley, Ed. and Trans., The Collected Works of Spinoza)", "year": 1677 },
+      { "title_with_names": "Spinoza’s Metaphysics: An Essay in Interpretation, E. Curley", "year": 1969 },
+      { "title_with_names": "A Study of Spinoza's Ethics, J. Bennett", "year": 1984 },
+      { "title_with_names": "Reflexive Ideas in Spinoza, L. C. Rice", "year": 1990 },
+      { "title_with_names": "On a Confusion About a Function of Consciousness, N. Block", "year": 1995 },
+      { "title_with_names": "Representation and the Mind-Body Problem in Spinoza, M. Della Rocca", "year": 1996 },
+      { "title_with_names": "Objects, Ideas, and ‘Minds’: Comments on Spinoza's Theory of Mind, M. D. Wilson", "year": 1999 },
+      { "title_with_names": "Consciousness in Spinoza's Philosophy of Mind, C. Martin", "year": 2007 },
+      { "title_with_names": "Spinoza and Consciousness, S. Nadler", "year": 2008 },
+      { "title_with_names": "Theories About Consciousness in Spinoza’s Ethics, M. LeBuffe", "year": 2010 },
+      { "title_with_names": "The Spiritual Automaton: Spinoza’s Science of the Mind, E. Marshall", "year": 2014 },
+      { "title_with_names": "Consciousness, Ideas of Ideas and Animation in Spinoza’s Ethics, O. Marrama", "year": 2017 },
+      { "title_with_names": "Representation and Consciousness in Spinoza’s Naturalistic Theory of the Mind and Imagination, D. Garrett", "year": 2018 },
+      { "title_with_names": "The Idea of the Idea, Consciousness, and Human Experience in Spinoza’s Ethics, O. I. Toth", "year": 2026 }
+    ]
+  }
+}

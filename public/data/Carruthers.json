@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Carruthers’s First-Order Representationalism",
+    "summary": "Peter Carruthers holds that phenomenal consciousness consists in first-order perceptual representations of the world that are globally broadcast to the brain’s many consumer systems for report, decision, and motor control. No inner monitoring or higher-order representation is needed. He reached this view by reversing his own earlier arguments for a higher-order (dual-content) theory.",
+    "associated_thinkers": ["Peter Carruthers"],
+    "category": "Materialism",
+    "subcategory": "First-Order",
+    "core_identity_tagline": "Consciousness as Globally Broadcast Perceptual Content",
+    "classification_tags": ["first-order", "representationalism", "global broadcast", "access", "higher-order debate"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Phenomenal consciousness is globally broadcast first-order, nonconceptual perceptual content, available to the systems that guide thought, speech, and action.",
+    "ontological_status": "Physicalism (reductive representationalism)",
+    "mind_body_relationship": "Conscious states are brain states with representational content and a particular functional role. Carruthers rejects mysterian and property-dualist accounts and aims at a reductive explanation.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (consciousness is reductively explained by representational content plus global availability)",
+    "subjectivity_and_intentionality": "Intentionality comes from first-order representation of the world. Carruthers treats self-awareness and introspection as a separate, higher-order capacity that phenomenal consciousness does not require.",
+    "qualia_account": "Qualitative character comes from fine-grained, nonconceptual perceptual content. Carruthers appeals to purely recognitional phenomenal concepts to explain away the pull of zombie and explanatory-gap thought experiments.",
+    "ontological_commitments": "Perceptual representations with nonconceptual content, a global broadcasting architecture, and many consumer systems such as planning, verbal report, and motor control.",
+    "epistemic_access": "Neuroscientific evidence that conscious experience co-occurs with global broadcasting, interpreted through philosophical argument. Carruthers holds that we interpret our own minds much as we interpret others’.",
+    "constituents_and_structure": "Domain-specific modules that produce and consume representations, with perceptual contents broadcast across them."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal; access; distinction between conscious and unconscious perception (self-awareness treated separately)",
+    "distinctive_mechanism_or_principle": "Global broadcasting: a perceptual state is conscious when it is broadcast to, and disposed to be taken up by, a wide range of consumer systems.",
+    "dynamics_of_emergence": "A state becomes conscious when it enters global broadcast; what counts is being poised for uptake, whether or not any consumer system actually uses it.",
+    "location_and_distribution": "In brain-wide broadcasting of perceptual content across many cognitive systems.",
+    "causation_and_functional_role": "Conscious content is available to guide thought, planning, speech, and action, which is its defining role.",
+    "integration_or_binding": "Global broadcast makes a single perceptual content available to many systems at once.",
+    "information_flow_or_representation": "First-order perceptual content flows from sensory systems to conceptual and planning systems. No meta-representation of that content is needed for it to be conscious.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Phenomenal consciousness requires no inner monitoring or self-representation of one’s own states.",
+      "Extensive evidence shows conscious experience co-occurs with global broadcasting of first-order nonconceptual content.",
+      "That evidence is most easily accommodated by first-order representationalism, making it preferable to any higher-order account.",
+      "Carruthers now judges his earlier arguments against first-order theories (about recognitional concepts and the conscious/unconscious distinction) unsuccessful."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical argument supported by cognitive neuroscience"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Comparisons of conscious and unconscious perception that look for the neural signature of global broadcasting.",
+    "criticisms_and_tensions": "Carruthers’s own earlier work argued that first-order theories cannot ground purely recognitional phenomenal concepts and can accommodate, but not explain, the difference between conscious and unconscious experience. He has since rejected both arguments, but they remain the main objections from the higher-order side.",
+    "open_questions_and_limitations": "It remains open how to separate phenomenal consciousness from mere cognitive access, since the theory defines consciousness by availability.",
+    "ontological_coherence": "Consistent with reductive physicalism and with global workspace theory. Keeping phenomenal consciousness first-order while giving self-knowledge a higher-order account is a deliberate split rather than a contradiction."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Since consciousness is a matter of representational content and global broadcasting architecture, a system built with that architecture could in principle qualify."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness is broadcasting of perceptual content in the brain, it ends when the brain does."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The account is reductive and naturalistic, with no cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Since the theory is functional and representational, reproducing the relevant contents and broadcasting architecture would in principle reproduce the consciousness."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Overlap" },
+      { "name": "Dretske’s Information and Representationalism", "relationship": "Overlap" },
+      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Contrast" },
+      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Carruthers’s First-Order Representationalism, Landscape of Consciousness, Robert Lawrence Kuhn" }
+    ]
+  }
+}

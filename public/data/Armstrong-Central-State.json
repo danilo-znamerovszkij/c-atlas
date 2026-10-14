@@ -1,0 +1,83 @@
+{
+  "id_and_class": {
+    "theory_title": "Armstrong’s Causal-Role Central-State Materialism",
+    "summary": "Armstrong analyzes every mental concept as the concept of a state apt to be caused by certain stimuli and apt to cause certain behavior and further mental states. Science then finds that the states filling these roles are states of the central nervous system, so sensations, beliefs, and conscious experiences are brain states, not effects of brain states. Felt qualities get no separate ontological standing, which is where critics locate the explanatory gap.",
+    "associated_thinkers": ["David Malet Armstrong"],
+    "category": "Materialism",
+    "subcategory": "Mind-Brain",
+    "core_identity_tagline": "Mental States as Brain States Defined by Causal Role",
+    "classification_tags": ["identity theory", "causal role", "central-state materialism", "australian materialism", "topic-neutral analysis"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A mental state is the inner state that occupies a given causal role among stimuli, behavior, and other mental states. In humans those occupants are states and processes of the central nervous system.",
+    "ontological_status": "Physicalism (reductive, central-state identity)",
+    "mind_body_relationship": "Contingent, a posteriori identity. The mental occurrence and the neural occurrence are one event described through different concepts, discovered the way genes were identified with DNA or water with H2O.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (mental states are identical with brain states; Armstrong adds that minds and mental capacities arise gradually through evolution and development, with no ontological threshold)",
+    "subjectivity_and_intentionality": "Perception is the non-inferential acquisition of information or belief about the environment through the senses. Introspection is analyzed by the same causal method, as an inner sense that scans the mind’s own states.",
+    "qualia_account": "Felt qualities are properties of first-order sensory states, individuated by their role in discrimination and guiding behavior and realized in the brain. In later work Armstrong locates them in what experience presents in the world, and he rejects private, nonphysical sense-data.",
+    "ontological_commitments": "Physical states and processes of the central nervous system, their causal relations to stimuli and behavior, and the environmental objects perceived.",
+    "epistemic_access": "Conceptual analysis fixes each state’s causal role, and neuroscience identifies the occupant. Introspection is itself a physical scanning process with no privileged revelation of the nature of qualia.",
+    "constituents_and_structure": "A network of inner central states (perceptions, sensations, beliefs, desires, introspective states), each defined by what it does and realized by a physico-chemical brain state."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "The whole mind: perception, sensation, belief, will, and introspection; phenomenal character treated deflationarily",
+    "distinctive_mechanism_or_principle": "A two-stage argument. A topic-neutral causal analysis defines each mental concept by its role, then empirical science identifies the role’s occupant with a brain state.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "The central nervous system.",
+    "causation_and_functional_role": "Because a desire is the neural state in the relevant causal chain, mental causation needs no interaction between immaterial and material substances and faces no competition from a separate physical cause.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Perception acquires information or beliefs about the environment through the senses. Bodily sensations work like perceptions: warmth presents part of the body as warm, and pain presents something as amiss along with an immediate negative attitude.",
+    "evolutionary_account": "Armstrong argues that brains, minds, and mental capacities can arise gradually through evolution and development rather than appearing at a sharp threshold.",
+    "core_claims_and_evidence": [
+      "Mental states are inner causes of behavior, not behavior or behavioral dispositions, since pain can exist without withdrawal and a belief’s effects depend on other states.",
+      "Mental concepts are topic-neutral: they specify what a state does and stay silent on whether its occupant is physical.",
+      "Science shows that the occupants of these roles are neurophysiological states, so mental states are contingently identical with brain states.",
+      "Armstrong presents the theory as a synthesis that keeps behaviorism’s link to behavior and dualism’s inner causes while rejecting immaterial substance."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (conceptual analysis) combined with an appeal to neuroscience"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Critics argue that a role-plus-realizer account states when experiences occur and are detected but leaves untouched why occupying a role should feel like anything, so Jackson’s knowledge argument and the explanatory gap survive the reduction. Armstrong’s treatment of qualia establishes an ontology more clearly than it explains subjectivity.",
+    "open_questions_and_limitations": "Whether Armstrong’s materialism narrows the explanatory gap or only reformulates it remains the central question in recent reassessments.",
+    "ontological_coherence": "Internally consistent and comprehensive within reductive physicalism. Armstrong’s realizer view differs from pure role functionalism, since another species with a different physical organization filling the pain role would have physically different pain."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "The causal analysis is topic-neutral and allows other physical organizations to fill the same roles, so a machine whose states occupied them could count as having mental states."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since mental states are states of the central nervous system, it follows from the view that they end with the brain."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Armstrong’s austere scientific naturalism leaves no place for cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "A copy might realize the same causal roles, but each mental state is identical with its particular physical realizer, so continuity of the person is not settled."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Smart’s Topic-Neutral Identity", "relationship": "Influence" },
+      { "name": "Lewis’s Analytic Functionalism and Causal-Role Identity Theory", "relationship": "Overlap" },
+      { "name": "Armstrong’s Higher-Order Perception Theory", "relationship": "Extension" },
+      { "name": "Ryle’s Category-Dissolution of Inner-Theater Consciousness", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Bodily Sensations, D. M. Armstrong", "year": 1962 },
+      { "title_with_names": "A Materialist Theory of the Mind, D. M. Armstrong", "year": 1968 },
+      { "title_with_names": "The Causal Theory of the Mind, D. M. Armstrong", "year": 1981 },
+      { "title_with_names": "Qualia Ain’t in the Head: Review of Michael Tye’s Ten Problems of Consciousness, D. M. Armstrong", "year": 1995 },
+      { "title_with_names": "Sensations and Brain Processes, J. J. C. Smart", "year": 1959 },
+      { "title_with_names": "Psychophysical and Theoretical Identifications, D. Lewis", "year": 1972 },
+      { "title_with_names": "Epiphenomenal Qualia, F. Jackson", "year": 1982 },
+      { "title_with_names": "Armstrong’s Materialist Theory of Mind, P. R. Anstey and D. Braddon-Mitchell (eds.)", "year": 2024 }
+    ]
+  }
+}

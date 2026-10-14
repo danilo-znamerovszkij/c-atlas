@@ -1,0 +1,79 @@
+{
+  "id_and_class": {
+    "theory_title": "Agüera y Arcas’s Computational Functionalism",
+    "summary": "Blaise Agüera y Arcas argues that consciousness is an emergent function of the right kinds of computation, and that life itself is computation. Brains build predictive models of the world, of other minds, and of themselves; consciousness grew out of a social arms race in modeling other minds, so that theory of mind is its origin and mechanism.",
+    "associated_thinkers": ["Blaise Agüera y Arcas"],
+    "category": "Materialism",
+    "subcategory": "Computational",
+    "core_identity_tagline": "Consciousness as Predictive, Social Computation",
+    "classification_tags": ["functionalism", "prediction", "theory of mind", "artificial intelligence", "life as computation"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a relational, computational process: an organism’s ongoing model of the world, other agents, and itself, built to predict and influence its future.",
+    "ontological_status": "Physicalism (non-reductive computational functionalism)",
+    "mind_body_relationship": "Mental states are defined by their causes and effects, not by their substrate. Agüera y Arcas calls this functionalism ‘not reductive’ because it accepts emergence and felt experience while explaining both through functional relationships in brain and body, with no soul or spirit.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (consciousness arises in coarse-grained models the way temperature arises in thermodynamics)",
+    "subjectivity_and_intentionality": "Subjectivity arises when an agent turns its models of other minds on itself, producing self-reflection and a sense of a unified ‘I’. That unity is a constructed narrative, kept up by the brain’s language-based ‘interpreter’; Agüera y Arcas borrows Douglas Hofstadter’s strange loop for this recursive modeling.",
+    "qualia_account": "What we see is a reconstruction, an ‘actively maintained and constrained hallucination’, with sensory input acting as an error-correction signal. Valence, pain, and hunger are coarse-grained models and as real as temperature.",
+    "ontological_commitments": "Physical matter, computation, and self-constructing living systems shaped by evolution. No new fundamental physics and no nonphysical entities.",
+    "epistemic_access": "Through computational neuroscience, AI, and evolutionary reasoning, which share the functional approach Turing and von Neumann pioneered.",
+    "constituents_and_structure": "Nested predictive models: of the world, of other agents, and of the self. Brains are collective intelligences of parts that model each other, with no central homunculus."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal; Self-awareness; Theory of mind; Free will (compatibilist); Language and narrative self",
+    "distinctive_mechanism_or_principle": "Theory of mind. Agüera y Arcas says ‘In a sense, theory of mind is mind’: modeling others who model you back, then applying that modeling to yourself, produces consciousness.",
+    "dynamics_of_emergence": "A continuous process. The brain’s model is updated moment to moment by prediction error, and can also be replayed in memory, remixed in dreams, or built in imagination.",
+    "location_and_distribution": "Distributed and relational. It operates across brain regions and across social networks, with no single seat; split-brain cases suggest a brain holds collective intelligences.",
+    "causation_and_functional_role": "Consciousness lets an organism predict and influence its future, which is what persisting as a living thing requires. It supports counterfactual thinking, planning, communication, and a compatibilist free will.",
+    "integration_or_binding": "Unity is constructed. The language-generating ‘interpreter’ weaves a continuous narrative of experiences and actions, which supports the sense of a single stable self.",
+    "information_flow_or_representation": "Top-down prediction meets bottom-up sensory error signals. Language shares otherwise hidden mental states and enables higher-order theory of mind.",
+    "evolutionary_account": "Life is a self-modifying computational state of matter selected for persisting by constructing itself. As social life grew complex, a mutual-modeling arms race drove ‘intelligence explosions’ in Homo sapiens and other big-brained species.",
+    "core_claims_and_evidence": [
+      "Agüera y Arcas defines life as computation and argues that ‘everything alive is a computer’, following Turing and von Neumann.",
+      "Intelligence is the ability to model, predict, and influence one’s future, and all living things have some of it.",
+      "Theory of mind, honed by social competition, is the origin and mechanism of consciousness.",
+      "Consciousness and free will are coarse-grained models and as real as temperature.",
+      "The hard problem is an illusion born of an individualistic, dualist outlook."
+    ],
+    "basis_of_belief_or_evidence_type": "Theoretical and computational, drawing on AI, computational neuroscience, evolutionary biology, and split-brain findings."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "Split-brain patients, who appear to have two independent minds, are cited as evidence against a single seat of the self.",
+    "criticisms_and_tensions": "Defenders of the hard problem would say that dismissing it leaves felt experience unexplained. Agüera y Arcas draws on Graziano’s Attention Schema Theory, which calls consciousness an illusion, yet he declines to call it one.",
+    "open_questions_and_limitations": "How far down the phylogenetic scale fuzzy forms of consciousness reach is left open. The account does not specify which computations count as the right kinds.",
+    "ontological_coherence": "Coherent within physicalist functionalism. Treating consciousness both as emergent and as a fundamental property of life means ‘fundamental’ must be read as essential to life, not as basic to physics."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "Since mental states are defined by function rather than substrate, an artificial system running the right predictive, self-modeling computations would be conscious on this view."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Agüera y Arcas rejects soul, spirit, and dualism, so consciousness ends when the living computation that produces it stops."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Purpose is a computational feature of living systems that persist by predicting their future, with no cosmic design."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Substrate independence implies that a faithful functional copy of a mind could in principle continue it, though Agüera y Arcas does not argue this directly."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Hofstadter’s Strange Loops", "relationship": "Influence" },
+      { "name": "Graziano's Attention Schema Theory", "relationship": "Overlap" },
+      { "name": "Minsky's Society of Mind", "relationship": "Compatible" },
+      { "name": "Turing’s Imitation, Machine Thought, and the Hidden Mind", "relationship": "Foundation" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "What Is Intelligence? Lessons from AI About Evolution, Computing, and Minds, Blaise Agüera y Arcas" },
+      { "title_with_names": "What Is Life?, Blaise Agüera y Arcas" },
+      { "title_with_names": "Agüera y Arcas’s Computational Functionalism (Landscape of Consciousness), Blaise Agüera y Arcas", "year": 2025 }
+    ]
+  }
+}

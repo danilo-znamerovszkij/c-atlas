@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "D. Freeman's Primitive Felt Theory",
+    "summary": "Daniel Freeman proposes that phenomenal consciousness is built from a finite set of irreducible felt states, from thirst and fear to familiarity, confidence and urgency, generated in conserved subcortical structures near the midline of the diencephalon and upper brainstem. Cortex computes the content of thought without experiencing it; its outputs descend to these structures and are felt as shifting combinations of primitives, so even abstract thinking is a compressed felt readout of cortical computation.",
+    "associated_thinkers": ["Daniel K. Freeman"],
+    "category": "Materialism",
+    "subcategory": "Neurobiological",
+    "core_identity_tagline": "Consciousness as Combinations of Primitive Subcortical Feelings",
+    "classification_tags": ["subcortical", "cognitive phenomenology", "affect", "thalamus", "compression"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a configuration of phenomenologically irreducible felt states instantiated in midline subcortical circuitry; cortical computation fixes what a state is about but is not itself felt.",
+    "ontological_status": "Physicalism (neurobiological)",
+    "mind_body_relationship": "Freeman separates computation from instantiation: cortex does representational and inferential work, while a still-unidentified physical process in subcortical structures gives states their phenomenal character.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence, from subcortical neural processes; ‘primitive’ refers to felt states that cannot be introspectively decomposed, not to fundamental physics.",
+    "subjectivity_and_intentionality": "Intentional content comes from cortex, while its felt character is a subcortical readout. Freeman argues that the time-varying trajectory of a thought through experiential space individuates its meaning.",
+    "qualia_account": "Qualia are the primitives themselves: homeostatic and affective states (thirst, pain, fatigue, fear, rage) plus evaluative states (familiarity, confidence, uncertainty, coherence, obligation, urgency). The experience of thinking is inner imagery combined with rapidly shifting evaluative primitives.",
+    "ontological_commitments": "Cortical networks, layer V corticofugal projections, higher-order and intralaminar thalamus, superior colliculus, hypothalamus, upper brainstem, and possibly extracellular ionic volume currents.",
+    "epistemic_access": "Introspective report of feelings, mapping studies of subjective feelings, and proposed perturbation experiments with transcranial focused ultrasound.",
+    "constituents_and_structure": "A low-dimensional experiential space of independently varying primitive dimensions; Freeman estimates thirty dimensions at eight levels each would yield more than 10²⁷ distinguishable configurations."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal, cognitive phenomenology, affect, phenomenal unity.",
+    "distinctive_mechanism_or_principle": "Cortical outputs converge through Merker's efference cascade onto compact midline subcortical structures, where they are expressed as combinations of a finite set of felt primitives.",
+    "dynamics_of_emergence": "A continuous, time-varying trajectory through a low-dimensional experiential space; primitive feeling and abstract thought are two dynamical regimes of one process.",
+    "location_and_distribution": "Near the midline of the diencephalon and upper brainstem: mediodorsal nucleus and pulvinar of the thalamus, superior colliculus, hypothalamus.",
+    "causation_and_functional_role": "Primitives form a common evaluative system that translates competing needs into one organism-level state guiding action selection; later cortical representations feed into the same valuation system.",
+    "integration_or_binding": "Freeman argues that phenomenal unity needs a spatially continuous physical process. Bilateral midline populations sit close enough for extended processes such as volume currents to overlap, which he offers as one candidate.",
+    "information_flow_or_representation": "Massively parallel cortical processing is compressed into a slow conscious stream of roughly ten bits per second, which Freeman compares to a large language model's narrow output channel, as an illustration only.",
+    "evolutionary_account": "Early vertebrates already had a limited set of felt states; cortical expansion enriched content without adding a new source of experience.",
+    "core_claims_and_evidence": [
+      "The same repertoire that yields thirst and fear also yields the felt character of abstract thought.",
+      "People with aphantasia reason normally, which Freeman takes to show that imagery is auxiliary and evaluative primitives are basic.",
+      "Mapping studies place homeostatic, emotional and cognitive feelings in one continuous space.",
+      "The gap between parallel cortical processing and a roughly 10 bit-per-second stream of thought suggests experience is a compressed summary."
+    ],
+    "basis_of_belief_or_evidence_type": "Neuroanatomical and quantitative argument, supported by introspective and behavioral studies; the key prediction awaits experiment."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Freeman predicts that transcranial focused ultrasound applied to candidate subcortical nuclei will change felt confidence, coherence or familiarity while sparing semantic processing and task accuracy.",
+    "criticisms_and_tensions": "Chudnoff's objection that distinct propositions might evoke the same blend of feelings challenges semantic specificity; Freeman answers that combinatorial capacity can individuate thoughts, but that shows they could be, not that they are. The primitives are not enumerated and their irreducibility rests on introspection.",
+    "open_questions_and_limitations": "The mechanism that turns subcortical activity into experience is unidentified and the volume-current proposal is conjectural. Ultrasound results would need to rule out changes in arousal, response criteria or downstream cortical activity, and the account does not explain why any physical process feels like anything.",
+    "ontological_coherence": "Consistent with physicalism; Freeman frames it as an answer to one challenge facing subcortical theories, not a new theory of consciousness."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "Freeman locates experience in a physical, spatially cohesive subcortical process distinct from computation, so computation alone would not suffice; he uses language models only as an analogy."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since felt states are instantiated in subcortical brain tissue, they cease when it dies."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Felt primitives are an evolved valuation system for guiding action."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "If phenomenal character needs a physically continuous substrate, simulating cortical computation would not reproduce experience."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Merker’s Midbrain-Centered Reality Space", "relationship": "Foundation" },
+      { "name": "Panksepp’s Primal Affective Consciousness", "relationship": "Overlap" },
+      { "name": "Solm's Affect as the Hidden Spring of Consciousness", "relationship": "Overlap" },
+      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Contrast" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Accounting for cognitive phenomenology in subcortical theories of consciousness, Daniel K. Freeman", "year": 2026 },
+      { "title_with_names": "Transcranial focused ultrasound for identifying the neural substrate of conscious perception, D. K. Freeman, B. Odegaard, S.-S. Yoo and M. Michel", "year": 2026 },
+      { "title_with_names": "The efference cascade, consciousness, and its self, B. Merker", "year": 2013 },
+      { "title_with_names": "Maps of subjective feelings, L. Nummenmaa, R. Hari, J. K. Hietanen and E. Glerean", "year": 2018 },
+      { "title_with_names": "The unbearable slowness of being: Why do we live at 10 bits/s?, J. Zheng and M. Meister", "year": 2025 },
+      { "title_with_names": "Cognitive Phenomenology, T. Bayne and M. Montague (eds.)", "year": 2011 },
+      { "title_with_names": "Cognitive Phenomenology, E. Chudnoff", "year": 2015 }
+    ]
+  }
+}

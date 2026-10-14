@@ -1,0 +1,77 @@
+{
+  "id_and_class": {
+    "theory_title": "Ostendorf’s Predictive, Pattern-Driven Interface",
+    "summary": "Jason Ostendorf argues that consciousness is a recursive illusion, a simulated interface produced by a pattern-completion brain built for survival rather than truth. Three functions generate it: filtered sensory input, memory used for prediction, and language that narrates experience in the first person, so the self and its agency are post-hoc stories.",
+    "associated_thinkers": ["Jason Ostendorf"],
+    "category": "Materialism",
+    "subcategory": "Eliminative",
+    "core_identity_tagline": "Consciousness as a Survival Interface Narrated by Language",
+    "classification_tags": ["illusionism", "predictive processing", "self-narrative", "free will", "language"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a byproduct of neural computation: a compressed, biased interface that the brain generates and then narrates as a self. Ostendorf calls it ‘information in motion’.",
+    "ontological_status": "Physicalism (eliminative/illusionist)",
+    "mind_body_relationship": "Mind is nothing over and above neural computation. Ostendorf denies that consciousness is a fundamental property of matter or an emergent system with its own causal power.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (consciousness is treated as an illusory byproduct with no independent causal power, so neither fundamental nor genuinely emergent)",
+    "subjectivity_and_intentionality": "The felt self comes from two sources: continuous predictive comparison of memory with the present, which gives a sense of continuity, and first-person grammar (‘I want’, ‘I believe’), which convinces us we author outputs we did not initiate.",
+    "qualia_account": "",
+    "ontological_commitments": "Sensory receptors, neural pattern-matching and memory systems, and learned language; no inner self or separate causal mind.",
+    "epistemic_access": "Known through neuroscience of perception, prediction, and decision timing; introspective reports of agency are treated as unreliable narration.",
+    "constituents_and_structure": "Three interlocking functions: filtered sensory streaming, predictive memory recall, and linguistic self-narration."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Self-awareness and sense of agency (both as illusion); continuity of self",
+    "distinctive_mechanism_or_principle": "A survival-tuned pattern-completion machine filters input, predicts what comes next from memory, and wraps its outputs in a first-person narrative.",
+    "dynamics_of_emergence": "An ongoing, involuntary process: memories are constantly recalled and compared with the present, and language keeps re-telling the result as the experience of a persistent self.",
+    "location_and_distribution": "The brain, with decisions generated in prefrontal and parietal cortex before they reach awareness.",
+    "causation_and_functional_role": "Consciousness has no independent causal force. Agency is narration added after the brain has already produced its outputs.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Sensory signals are aggressively filtered and compressed so only a fraction reaches awareness. Top-down predictions are updated by sensory feedback to minimize surprise.",
+    "evolutionary_account": "The brain evolved for survival, so the interface it builds is compressed and biased toward useful action rather than accurate truth.",
+    "core_claims_and_evidence": [
+      "Sensory input is heavily filtered and compressed before it reaches awareness.",
+      "Perception runs on top-down predictions updated by sensory error, as in Rao and Ballard’s predictive coding and Friston’s free energy principle.",
+      "First-person grammar trains people to believe they author outputs they did not initiate.",
+      "Soon and colleagues found that decisions can be decoded from prefrontal and parietal activity up to ten seconds before they enter awareness, which Ostendorf reads as evidence that agency is post-hoc."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical synthesis of neuroscience findings (predictive coding, decision-timing studies, linguistic relativity)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "Predictive coding models of perception; decision-decoding studies of Soon et al. (2008); research on language shaping perception (Boroditsky).",
+    "criticisms_and_tensions": "The view rests on contested interpretations of decision-timing experiments, which many researchers do not take to show that conscious choice is illusory. Calling consciousness an illusion leaves open who or what is subject to the illusion.",
+    "open_questions_and_limitations": "The account explains the sense of self and agency but says little about why filtered, predicted information should feel like anything at all.",
+    "ontological_coherence": "Coherent within physicalism and close to predictive-processing and illusionist views; its denial of mental causation fits its eliminativist framing."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "If consciousness is information processing plus self-narration, a machine that predicts and narrates itself in the first person could produce the same kind of interface."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since the self is a narrative generated by neural computation, it stops when the brain does."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "With no true agent or self, any meaning is a product of the survival interface rather than of a deeper purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "The view implies no real self to preserve, so copying the processes would copy the narrative but not continue a person in any deeper sense."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Friston's Free-Energy Principle and Active Inference", "relationship": "Foundation" },
+      { "name": "Predictive Theories (Top-Down)", "relationship": "Foundation" },
+      { "name": "Frankish’s Illusionism", "relationship": "Overlap" },
+      { "name": "Sapolsky's Hard Incompatibilism", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "You Are Not Alive: The Illusion of Consciousness and Free Will, Jason Ostendorf" },
+      { "title_with_names": "Ostendorf’s Predictive, Pattern-Driven Interface, Jason Ostendorf", "year": 2025 }
+    ]
+  }
+}

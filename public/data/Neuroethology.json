@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Cabral-Calderin, Hechavarria, and Melloni’s Neuroethological Approach",
+    "summary": "Cabral-Calderin, Hechavarria, and Melloni propose studying consciousness across species and across the lifespan using Tinbergen's four questions: mechanism, function, development, and evolution. They treat consciousness as a graded, multidimensional product of evolution and argue that nonhuman animals should not have to show adult human traits such as verbal report to count as conscious.",
+    "associated_thinkers": ["Yuranny Cabral-Calderin", "Julio Hechavarria", "Lucia Melloni"],
+    "category": "Materialism",
+    "subcategory": "Phylogenetic",
+    "core_identity_tagline": "Consciousness Studied Across Species and Lifespans",
+    "classification_tags": ["neuroethology", "comparative", "development", "evolution", "animal consciousness"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a graded biological property shaped by evolutionary pressures and expressed differently across taxa and developmental stages. It includes both phenomenal consciousness (felt experience) and access consciousness (information available for cognition and behaviour).",
+    "ontological_status": "Physicalism (biological naturalism)",
+    "mind_body_relationship": "Consciousness depends on neural mechanisms that must be understood in the ecological, developmental, and evolutionary context of the organism that has them.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Gradual emergence over evolution and individual development (a Darwinian continuity hypothesis)",
+    "subjectivity_and_intentionality": "Phenomenal consciousness carries subjective evaluative power, attributing intrinsic value to what an organism encounters. The authors do not offer a separate account of intentionality.",
+    "qualia_account": "",
+    "ontological_commitments": "Neural mechanisms such as recurrent processing, ignition, and feedback loops; organisms embedded in ecological niches; developmental and evolutionary histories.",
+    "epistemic_access": "Through comparative neuroscience, neuroimaging, and perturbation methods in ecologically valid settings, with naturalistic behaviours such as play, social bonding, pain avoidance, and self-recognition preferred over artificial lab tasks.",
+    "constituents_and_structure": "Multidimensional profiles of consciousness that differ by species and developmental stage."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal, Access, Development across the lifespan, Distribution across species",
+    "distinctive_mechanism_or_principle": "Tinbergen's four levels of analysis applied to consciousness: causation (neural mechanism), function (adaptive purpose), ontogeny (development), and phylogeny (evolution).",
+    "dynamics_of_emergence": "Consciousness unfolds over the lifespan. Early thalamocortical connectivity, spontaneous sensory activity, and cross-modal behaviour in fetuses and newborns suggest that its foundations appear before birth.",
+    "location_and_distribution": "Distributed across the animal kingdom in different forms; no single brain area is privileged across species.",
+    "causation_and_functional_role": "The authors hypothesize that consciousness is efficacious, supporting fast assessment of the environment, intrinsic value attribution, attention, learning, and aesthetic preference, and so contributing to survival.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Mechanistic theories developed for humans, such as Recurrent Processing Theory, Global Neuronal Workspace, Predictive Processing, and Attention Schema Theory, can be repurposed to look for similar neural dynamics in other species and in infants.",
+    "evolutionary_account": "Following Darwin, the authors adopt a continuity hypothesis in which consciousness evolved gradually and takes different forms across taxa according to each lineage's ecological pressures.",
+    "core_claims_and_evidence": [
+      "Brain mechanisms alone, or adult humans taken as the gold standard, cannot explain consciousness; all four Tinbergen levels are needed.",
+      "The burden of proof should not fall on animals to display adult human traits such as verbal report.",
+      "Evidence from human fetuses and newborns suggests that the foundations of consciousness arise before birth.",
+      "Large language models may mimic verbal output but lack the biological embodiment and evolutionary history the authors consider necessary for genuine experience."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical (comparative and developmental neuroscience) and methodological"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Neuroimaging and perturbation methods testing for recurrent processing, ignition, and feedback loops in animals, fetuses, and infants; observation of play, social bonding, pain avoidance, and self-recognition.",
+    "criticisms_and_tensions": "Using neural markers from human-based theories to detect consciousness in other species risks bringing back the human-centric standard the approach aims to drop. The authors themselves caution that neural markers must be read in ecological context.",
+    "open_questions_and_limitations": "Whether common neural principles can explain consciousness across such diverse species and developmental stages remains open.",
+    "ontological_coherence": "Fits a naturalistic, Darwinian framework. It works as a research programme and stays neutral among the mechanistic theories it proposes to test."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "The authors argue that systems such as large language models lack the biological embodiment and evolutionary history needed for genuine conscious experience."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness here is a property of living, evolved nervous systems, it follows that it ends with the organism."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Consciousness serves adaptive functions within an organism's ecology, with no cosmic purpose proposed."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "If biological embodiment is needed for experience, a digital copy would lack what makes consciousness possible."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Lamme's Recurrent Processing Theory", "relationship": "Influence" },
+      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Influence" },
+      { "name": "Graziano's Attention Schema Theory", "relationship": "Influence" },
+      { "name": "Birch’s Comparative Sentience: Consciousness Profiles Across Diverse Minds", "relationship": "Overlap" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Cabral-Calderin, Hechavarria & Melloni’s Neuroethological Approach, Yuranny Cabral-Calderin, Julio Hechavarria and Lucia Melloni (Landscape of Consciousness entry)", "year": 2025 }
+    ]
+  }
+}

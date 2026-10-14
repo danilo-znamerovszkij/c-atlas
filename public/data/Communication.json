@@ -1,0 +1,79 @@
+{
+  "id_and_class": {
+    "theory_title": "Fedotov's Communication Hypothesis of Consciousness",
+    "summary": "Fedotov holds that consciousness is a specialized brain function that encodes personal information into messages that can be shared with another person. Being aware of a mental image means that information is ready to be passed to an interlocutor, so consciousness arises with language and develops in each person as they acquire it.",
+    "associated_thinkers": ["Sergei A. Fedotov", "E. V. Baidyuk"],
+    "category": "Materialism",
+    "subcategory": "Language",
+    "core_identity_tagline": "Consciousness as Encoding Experience Into Shareable Messages",
+    "classification_tags": ["language", "communication", "social cognition", "ontogeny", "neuroscience"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is the brain's ability to encode personal information into communicative messages built from shared conventional signals such as words and gestures. Awareness of an event is awareness of it in the context of its significance for others.",
+    "ontological_status": "Physicalism (functionalist)",
+    "mind_body_relationship": "Consciousness is one specialized brain function among others, sitting alongside sensory detection, decision-making, and emotion and receiving their outputs only when they are encoded into messages.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (arises developmentally through language acquisition within a culture)",
+    "subjectivity_and_intentionality": "The subjective feel of awareness marks information that is ready to be transmitted to someone else. Self-consciousness is awareness of one's own self-identification in collective action, including the boundaries and intentions of oneself and of other participants.",
+    "qualia_account": "Qualia are treated as mental images formed while generating messages, and Fedotov points to inner speech during mental image manipulation as evidence. Cross-cultural colour studies suggest that the categories a language supplies shape how finely people discriminate sensations.",
+    "ontological_commitments": "Brains, language as a system of shared conventional signals, social communities of speakers, and neural processes of message encoding.",
+    "epistemic_access": "Studied objectively by tracking how messages form at the neural level and in interpersonal exchange, together with reinterpretation of classic experiments on awareness.",
+    "constituents_and_structure": "Thoughts are images tied to messages; conscious message-creation can be stored as declarative memory; emotions may be unconscious but are usually encoded into messages; self-consciousness tracks one's role in joint action."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Access, Self-awareness, Memory (declarative), Thought; Phenomenal (as mental images formed for messages)",
+    "distinctive_mechanism_or_principle": "Encoding of personal information into messages made of universal conditioned signals. Other cognitive processes are projected into consciousness only while their information is being encoded this way.",
+    "dynamics_of_emergence": "Consciousness is acquired during individual development as a child learns language, and Fedotov denies that it is an inherited trait. Encoding happens in portions, which he links to the roughly 400 ms window over which conscious perception integrates stimuli.",
+    "location_and_distribution": "Fedotov suggests the left hemisphere provides awareness by encoding messages, citing split-brain patients whose right hemisphere identifies objects it cannot name.",
+    "causation_and_functional_role": "Consciousness makes personal motives and intentions publicly available and lets a person change others' motives by passing on new information. It influences only those parts of behaviour involved in transmitting messages between people.",
+    "integration_or_binding": "Encoding gathers information into relevant, holistic, and reliable messages, which accounts for the integration of stimuli within short time windows.",
+    "information_flow_or_representation": "Sensory, motor, and decision processes run largely unconsciously and can be decoupled from awareness, as in blindsight. Their results enter consciousness only when translated into message form.",
+    "evolutionary_account": "Fedotov treats consciousness as an evolutionary improvement in information gathering and decision-making, tied to the cultural development of language. Apes that learn sign language count as conscious; dolphins remain an open case until their signals are shown to be shared, learned words.",
+    "core_claims_and_evidence": [
+      "Conscious intention arrives after the readiness potential in Libet's experiments, which Fedotov reads as message encoding following goal-directed behaviour.",
+      "Children's first lasting memories appear around age two with the onset of speech, supporting the claim that declarative memory stores language-encoded messages.",
+      "Blindsight and split-brain cases show that sensory and motor processing can run without the message encoding that constitutes awareness.",
+      "Passing the mirror self-recognition test reflects learned visual-proprioceptive association and does not, on this view, indicate message-based consciousness."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical (reinterpretation of neuroscience and developmental findings) and theoretical"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Libet readiness-potential timing, masked priming, blindsight attention tasks, split-brain naming tasks, childhood amnesia studies, cross-cultural colour discrimination, mirror self-recognition tests, and the Maier two-cord puzzle.",
+    "criticisms_and_tensions": "Tying consciousness to language implies that prelinguistic infants and most animals lack it, a conclusion many researchers reject. Most of the cited evidence comes from reinterpreting existing experiments rather than from tests designed to separate this hypothesis from rivals.",
+    "open_questions_and_limitations": "Whether dolphin signals count as shared, learned words is unresolved. The view says little about why message encoding should feel like anything from the inside.",
+    "ontological_coherence": "Consistent with a naturalistic, functionalist picture of the brain, and it places consciousness firmly in social and developmental context."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "If consciousness is the capacity to encode information into shared conventional signals, a system that genuinely acquired and used language in a social community might qualify. Fedotov does not address machines directly."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness here is a brain function acquired through language, it ends when the brain stops working."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Consciousness serves communication and social coordination among people, with no cosmic role implied."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "The hypothesis is silent on whether a copied brain function would preserve a person's conscious message encoding."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Deacon's Symbolic Communication (Human Consciousness)", "relationship": "Overlap" },
+      { "name": "Parrington's Language and Tool-Driven Consciousness", "relationship": "Overlap" },
+      { "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness", "relationship": "Influence" },
+      { "name": "Koch's Consciousness does not Depend on Language", "relationship": "Contrast" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Communication as the Origin of Consciousness, Sergei A. Fedotov and E. V. Baidyuk", "year": 2023 },
+      { "title_with_names": "Fedotov's Communication Hypothesis of Consciousness, Sergei A. Fedotov (Landscape of Consciousness entry)", "year": 2022 },
+      { "title_with_names": "Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity (Readiness-Potential), Benjamin Libet, C. A. Gleason and E. W. Wright", "year": 1983 },
+      { "title_with_names": "Consciousness, Personal Identity and the Divided Brain, Roger Sperry", "year": 1984 }
+    ]
+  }
+}

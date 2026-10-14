@@ -1,0 +1,79 @@
+{
+  "id_and_class": {
+    "theory_title": "Mikkilineni and Michaels’s Emergent Optimization Process",
+    "summary": "Rao Mikkilineni and Max Michaels argue that consciousness evolved as a regulator that helps living systems manage uncertainty. Organisms live in metastable states that can tip into disorder; consciousness detects approaching instability, draws on stored knowledge from the genome and memory, and triggers action that keeps the system coherent.",
+    "associated_thinkers": ["Rao Mikkilineni", "Max Michaels"],
+    "category": "Materialism",
+    "subcategory": "Computational",
+    "core_identity_tagline": "Consciousness as Life’s Uncertainty-Managing Optimizer",
+    "classification_tags": ["general theory of information", "metastability", "genome", "complex adaptive systems", "mindful machines"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is an emergent optimization process: a meta-regulator that integrates encoded knowledge with real-time feedback so that a living system stays stable under fluctuating conditions.",
+    "ontological_status": "Physicalism (informational functionalism)",
+    "mind_body_relationship": "Following Mark Burgin’s General Theory of Information, material structures transform matter and energy, mental structures turn information into knowledge, and information bridges the two. Consciousness sits where they meet.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (arises from hierarchical knowledge networks in complex adaptive systems)",
+    "subjectivity_and_intentionality": "Mikkilineni and Michaels separate sentience, the ability to sense and react with subjective experience, from consciousness, which adds self-awareness, autonomy, and identity. They say little about how subjective experience itself arises.",
+    "qualia_account": "",
+    "ontological_commitments": "Matter and energy, information, knowledge structures (named sets of entities, relationships, and behaviors), the genome as encoded knowledge, and metastable biological and neural dynamics.",
+    "epistemic_access": "Through information theory, evolutionary biology, genomics, and complex systems modeling.",
+    "constituents_and_structure": "Hierarchical knowledge networks combining observation, modeling, prediction, decision, and action, built on genomic protocols and associative, event-driven memory."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Functional regulation; Self-awareness; Agency; Memory",
+    "distinctive_mechanism_or_principle": "A meta-regulator that detects when the system nears instability, retrieves stored knowledge, and initiates adaptive action that preserves coherence.",
+    "dynamics_of_emergence": "Dynamic. Brains work in metastable regimes, neither rigidly ordered nor chaotic, that allow rapid reconfiguration; consciousness arises when distributed knowledge must be integrated across time, space, and scale.",
+    "location_and_distribution": "Distributed across neural processes, and more broadly across cells that coordinate through genomic communication rules.",
+    "causation_and_functional_role": "Causally active. Consciousness maintains coherence, weighs risks and opportunities, and prioritizes actions for survival and reproduction, acting as the negotiator of life’s tradeoffs.",
+    "integration_or_binding": "Consciousness is the integrative layer that holds distributed neural processes together and joins genomic knowledge to real-time feedback.",
+    "information_flow_or_representation": "Organisms turn epistemic information from sensing and interaction into knowledge, represented as triads of entities, relationships, and interaction-driven behaviors, which they use to model the world and optimize future states.",
+    "evolutionary_account": "Consciousness is the evolutionary answer to managing uncertainty. Drawing on Venki Ramakrishnan, the authors treat death as a genomic design feature for error turnover; consciousness evolved alongside such protocols to make the most of bounded life. With Sri Aurobindo, they see higher forms of consciousness, including digital ones, as possible next steps.",
+    "core_claims_and_evidence": [
+      "Living systems differ from physical ones in that they exploit metastability for flexibility, adaptation, and learning.",
+      "The genome is a knowledge manager that encodes protocols for growth, maintenance, and controlled death.",
+      "Consciousness is functional, a meta-regulator that preserves coherence under fluctuation.",
+      "Current AI pattern matchers mimic but do not regulate; a ‘Mindful Machine’ with a Digital Genome, associative memory, and autopoietic managers could reproduce the optimizing role of consciousness."
+    ],
+    "basis_of_belief_or_evidence_type": "Theoretical synthesis of information theory, evolutionary biology, complex systems theory, and evolutionary philosophy, with an engineering proposal."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "The view explains what consciousness does more than why it feels like anything. It also wavers on machines: Mindful Machines ‘would not possess human-like subjectivity’, yet the authors frame AGI as part of the evolution of digital consciousness.",
+    "open_questions_and_limitations": "How the regulatory function gives rise to subjective experience, and where sentience ends and consciousness begins in artificial systems, remain open.",
+    "ontological_coherence": "Fits a functionalist, information-based naturalism. Appeals to Sri Aurobindo’s evolutionary philosophy sit uneasily with the otherwise physicalist framing."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Mikkilineni and Michaels see Mindful Machines as potential extensions of human consciousness with potential for sentience, while saying they would lack human-like subjectivity."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Death is a genomic design feature, and consciousness enables life to flourish within bounded time rather than conquering death."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Consciousness is a pragmatic regulator for maximizing meaningful existence within limits, though the authors also point to Aurobindo’s vision of higher consciousness to come."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "The authors propose building graceful failure modes into machines, modeled on biological death, to prevent harmful persistence."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Sri Aurobindo’s Evolving Consciousness", "relationship": "Influence" },
+      { "name": "Complex Adaptive Systems Models", "relationship": "Foundation" },
+      { "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness", "relationship": "Overlap" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "General Theory of Information, Mark Burgin", "year": 2010 },
+      { "title_with_names": "Why We Die, Venki Ramakrishnan", "year": 2023 },
+      { "title_with_names": "The Society of Genes, Itai Yanai and Martin Lercher", "year": 2016 },
+      { "title_with_names": "A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications, Robert Lawrence Kuhn", "year": 2024 },
+      { "title_with_names": "Mikkilineni and Michaels’s Emergent Optimization Process (Landscape of Consciousness), Rao Mikkilineni and Max Michaels", "year": 2025 }
+    ]
+  }
+}

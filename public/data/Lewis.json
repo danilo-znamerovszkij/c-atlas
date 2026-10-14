@@ -1,0 +1,87 @@
+{
+  "id_and_class": {
+    "theory_title": "Lewis’s Analytic Functionalism and Causal-Role Identity Theory",
+    "summary": "Lewis defines each experience by the causal role folk psychology assigns it (its typical causes, effects, and links to other mental states) and then lets science discover which physical state fills that role, usually a neural state. Pain is whatever occupies the pain role, so pain is that neural state. Qualia are real but are the occupants of functional roles, and knowing what an experience is like is a set of abilities, not knowledge of a nonphysical fact.",
+    "associated_thinkers": ["David Lewis"],
+    "category": "Materialism",
+    "subcategory": "Mind-Brain",
+    "core_identity_tagline": "Experiences as the Physical Occupants of Causal Roles",
+    "classification_tags": ["functionalism", "identity theory", "folk psychology", "ability hypothesis", "reductive physicalism"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "An experience is the physical state, typically neural, that occupies the causal role folk psychology defines for it. Pain is the state typically caused by damage and typically causing aversion.",
+    "ontological_status": "Physicalism (reductive, realizer functionalism)",
+    "mind_body_relationship": "Psychophysical identity reached by argument. If pain is by definition the occupant of role R and neural state N occupies R, then pain is N by transitivity of identity. The identities are contingent and relative to a population, so human pain and Martian pain can be different physical states.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (experiences are identical with their physical realizers, so nothing emerges beyond them)",
+    "subjectivity_and_intentionality": "Mental terms, intentional and phenomenal alike, are defined together by their place in the causal network of folk psychology. Subjective acquaintance with an experience consists in abilities to remember, imagine, and recognize it.",
+    "qualia_account": "Qualia exist as imperfect deservers of the name: physical states good enough to fill the folk role. Lewis rejects the doctrine of revelation, the idea that having an experience fully discloses its intrinsic nature, because the nature of a physical property is a matter for neuroscience.",
+    "ontological_commitments": "Physical states and events, especially neural states, together with the causal relations among stimuli, inner states, and behavior. No intrinsic nonphysical qualities.",
+    "epistemic_access": "Conceptual analysis of folk psychology fixes the roles, and empirical science finds their occupants. Introspection gives access to experiences but does not reveal their nature.",
+    "constituents_and_structure": "A network of interdefined mental states specified through the Ramsey sentence of folk psychology, each realized by a concrete physical state within a given population."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (deflated, non-eliminative); sensations, beliefs, desires, and their causal roles",
+    "distinctive_mechanism_or_principle": "A two-step reduction. First define a mental state as the unique occupant of a causal role by Ramseyfying folk psychology, then identify that occupant empirically with a physical state.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "In whatever physical states fill the roles, typically neural states in humans and possibly other hardware in other populations.",
+    "causation_and_functional_role": "Experiences are causally efficacious because they are the physical states that cause behavior and other mental states. Causal role is what makes a state the experience it is.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Lewis denies that experience carries information unavailable to physical science. What Mary gains on first seeing red is abilities, not new propositional information.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Folk psychology works as an implicit theory whose mental terms are defined together by the causal network it postulates.",
+      "The identity of pain with a neural state follows by transitivity once science finds the occupant of the pain role.",
+      "In ‘Mad Pain and Martian Pain,’ relativizing roles to populations lets a madman with atypical pain and a Martian with hydraulic pain both count as being in pain.",
+      "The ability hypothesis answers Jackson’s knowledge argument by treating knowing what an experience is like as know-how, not knowledge of a fact.",
+      "Lewis answers ‘yes and no’ to whether a materialist should believe in qualia, accepting physical states that imperfectly deserve the name."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (conceptual analysis, thought experiments)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Conee and Alter argue that abilities and phenomenal knowledge can come apart, so one can be kept without the other, which undercuts the ability hypothesis. Dualists and physicalists who accept a genuine epistemic gap both contest Lewis’s two reclassifications: phenomenal knowledge as know-how and introspective access as something other than revelation.",
+    "open_questions_and_limitations": "Lewis proposes no mechanism and no neural correlate of consciousness. Unique beings and ‘mad Martians’ leave semantic indeterminacy at the margins of population-relative typing.",
+    "ontological_coherence": "Highly systematic within reductive materialism, unifying functionalism with mind-brain identity. It depends on rejecting the revelation intuition that drives dualist arguments."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Lewis allows the same role to be filled by different hardware in different populations, as with Martian pain, so an artificial system whose states occupy the right causal roles could have experiences."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since every experience is a physical state of the organism, it follows from the view that experience ends when those states cease."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The view is a thoroughgoing materialism with no place for cosmic purpose in the account of mind."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "A copy realizing the same roles might count as having the same kinds of states, but Lewis did not address uploading, and role occupancy is relative to populations."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Smart’s Topic-Neutral Identity", "relationship": "Influence" },
+      { "name": "Armstrong’s Causal-Role Central-State Materialism", "relationship": "Overlap" },
+      { "name": "Putnam’s Machine Functionalism", "relationship": "Contrast" },
+      { "name": "Jackson's Representationalism and the Knowledge Argument", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "An Argument for the Identity Theory, David Lewis", "year": 1966 },
+      { "title_with_names": "How to Define Theoretical Terms, David Lewis", "year": 1970 },
+      { "title_with_names": "Psychophysical and Theoretical Identifications, David Lewis", "year": 1972 },
+      { "title_with_names": "Mad Pain and Martian Pain, David Lewis", "year": 1980 },
+      { "title_with_names": "What Experience Teaches, David Lewis", "year": 1988 },
+      { "title_with_names": "Reduction of Mind, David Lewis", "year": 1994 },
+      { "title_with_names": "Should a Materialist Believe in Qualia?, David Lewis", "year": 1995 },
+      { "title_with_names": "Epiphenomenal Qualia, F. Jackson", "year": 1982 },
+      { "title_with_names": "Physicalism and the Cognitive Role of Acquaintance, L. Nemirow", "year": 1990 },
+      { "title_with_names": "Phenomenal Knowledge, E. Conee", "year": 1994 },
+      { "title_with_names": "Know-How, Ability, and the Ability Hypothesis, T. Alter", "year": 2001 }
+    ]
+  }
+}

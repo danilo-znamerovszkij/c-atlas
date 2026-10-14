@@ -5,6 +5,7 @@ import { SVGRenderer } from 'echarts/renderers'
 import { CanvasRenderer } from 'echarts/renderers'
 import { TheoryChart } from '@/components/TheoryChart'
 import { SearchBar } from '@/components/SearchBar'
+import { AtlasTools } from '@/components/AtlasTools'
 import { FormPopup } from '@/components/FormPopup'
 import { LanguagePopup } from '@/components/LanguagePopup'
 import { Router } from '@/utils/routing'
@@ -97,6 +98,8 @@ echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
       ;(window as any).router = router
 
       new SearchBar('search-container', router)
+      const chart = theoryChart
+      new AtlasTools('atlas-tools', 'theory-list', router, names => chart.applyFilter(names))
 
       router.setLoadingCallback((category, theory) => {
         itemDetailsPanel.showLoading(category, theory)

@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Singer and Melloni’s Large-Scale Synchrony",
+    "summary": "Wolf Singer and Lucia Melloni argue that consciousness arises from transient synchronization of neural assemblies across distant brain regions, rather than from activity in any particular area. Long-range gamma-band synchrony, paced by slower theta rhythms, binds separately computed features into one percept and separates conscious from unconscious processing.",
+    "associated_thinkers": ["Wolf Singer", "Lucia Melloni"],
+    "category": "Materialism",
+    "subcategory": "Electromagnetic",
+    "core_identity_tagline": "Consciousness as Large-Scale Neural Synchrony",
+    "classification_tags": ["synchrony", "binding problem", "gamma oscillations", "neural assemblies", "dynamical systems"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a mode of coordination: the temporal alignment of distributed neural processes across distant brain areas. Singer and Melloni call the theory interaction-based rather than content-based or location-based.",
+    "ontological_status": "Physicalism (non-reductive, dynamical)",
+    "mind_body_relationship": "Consciousness is an emergent property of metastable brain dynamics. It arises from the dynamical configuration of activity rather than from the anatomical substrate as such.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (a temporally structured property of a dynamical system of interacting neural assemblies)",
+    "subjectivity_and_intentionality": "There is no central observer or fixed seat of consciousness. Singer and Melloni suggest the sense of presence may be what it feels like for large-scale neural systems to synchronize.",
+    "qualia_account": "Singer and Melloni reframe the hard problem: felt presence is not added on top of brain activity but may be the experience of large-scale synchrony itself.",
+    "ontological_commitments": "Neurons, transient neural assemblies, oscillations in the gamma and theta bands, and nested meta-assemblies.",
+    "epistemic_access": "Through EEG and intracranial recordings during paradigms that contrast conscious with unconscious perception.",
+    "constituents_and_structure": "Feature-specific neurons grouped into synchronized assemblies, nested into transient meta-assemblies that span distant regions."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (perceptual); unity, temporal continuity, compositionality, selective access, and the conscious/unconscious distinction",
+    "distinctive_mechanism_or_principle": "Binding by synchrony: distributed neurons that oscillate in phase form coherent assemblies, and long-range gamma synchrony across specialized regions marks conscious perception.",
+    "dynamics_of_emergence": "Brief, precisely timed bursts of long-distance synchronization accompany conscious moments. Gamma synchrony updates content while theta rhythms maintain it, giving consciousness its stream-like flow.",
+    "location_and_distribution": "Distributed across distant, functionally specialized brain regions; no single area is the seat.",
+    "causation_and_functional_role": "Synchrony makes perception unified, structured, and reportable, and selects which subset of brain activity enters awareness.",
+    "integration_or_binding": "Features such as color, motion, and orientation computed in different regions bind when their neurons fire in synchrony, which avoids needing a dedicated neuron for every combination.",
+    "information_flow_or_representation": "Contents are coded by which neurons synchronize, so a limited number of neurons can represent a vast, changing repertoire of percepts.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Co-activation of feature-specific neurons is not enough for conscious perception; the neurons must also oscillate in synchrony.",
+      "EEG and intracranial studies of masking, binocular rivalry, and attentional blink link conscious perception with brief long-range synchronization.",
+      "Unconscious processing, even when semantically rich, stays local and lacks long-range synchrony.",
+      "Gamma synchrony tracks the updating of conscious content and theta oscillations its maintenance."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical (electrophysiology) within a dynamical-systems framework"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Visual masking, binocular rivalry, and attentional blink paradigms with EEG and intracranial recordings.",
+    "criticisms_and_tensions": "Singer and Melloni set their view against Global Workspace Theory, which locates consciousness in fronto-parietal broadcasting, and against local recurrent theories, which locate it in feedback within sensory areas. Showing that synchrony correlates with consciousness does not by itself show that it constitutes it.",
+    "open_questions_and_limitations": "Their answer to the hard problem is framed as a proposal, leaving open why synchronization should feel like anything.",
+    "ontological_coherence": "Fits a physicalist, dynamical-systems view of the brain and continues a tradition shaped by Varela, von der Malsburg, and Engel."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "If consciousness lies in the dynamical configuration of interacting units, a system with comparable large-scale synchrony might qualify, but Singer and Melloni frame the account for biological brains."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness is a mode of coordination among living neural assemblies, it ends when that activity stops."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "The view ties consciousness to dynamics rather than anatomy, which leaves open, but does not settle, whether a faithful dynamical copy could be conscious."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Varela's Neurophenomenology", "relationship": "Influence" },
+      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Contrast" },
+      { "name": "Lamme's Recurrent Processing Theory", "relationship": "Contrast" },
+      { "name": "Hunt and Schooler’s General Resonance Theory", "relationship": "Overlap" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Singer and Melloni’s Large-Scale Synchrony, Wolf Singer and Lucia Melloni", "year": 2010 }
+    ]
+  }
+}

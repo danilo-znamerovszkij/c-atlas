@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Malinkovic and Aru’s Biological Computationalism",
+    "summary": "Milinkovic and Aru argue that consciousness depends on a kind of computation only biological substrates perform, in which the physical, energetic, and chemical properties of the tissue are part of the computation itself. Under tight metabolic limits, the brain processes information across scales that cannot be separated, and it mixes discrete spikes with continuous processes such as graded potentials and electric fields. Digital systems separate algorithm from hardware, so on this view they lack what consciousness requires.",
+    "associated_thinkers": ["Borjan Milinkovic", "Jaan Aru"],
+    "category": "Materialism",
+    "subcategory": "Computational",
+    "core_identity_tagline": "Consciousness as Substrate-Bound, Multiscale Biological Computation",
+    "classification_tags": ["substrate dependence", "multiscale", "metabolism", "hybrid computation", "artificial consciousness"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness depends on biological computation in which the substrate is the algorithm. Membrane potentials, ion flows, chemical diffusion, and fields do the computing, with no layer separating software from hardware.",
+    "ontological_status": "Physicalism (biological computationalism)",
+    "mind_body_relationship": "Conscious processing is tied to the concrete physical dynamics of living tissue. The authors place their view against computational functionalism, which makes the medium irrelevant, and give biological naturalism a computational account.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Emergence through cross-scale closure, in which lower scales generate higher ones while higher-scale dynamics constrain the lower (‘dynamico-structural co-determination’)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "Neurons, dendrites, graded potentials, ion flows, extracellular electric fields, subcellular signaling molecules such as Protein Kinase A, and the metabolic budget that shapes them.",
+    "epistemic_access": "Through neuroscience of multiscale neural dynamics and through comparison of biological and digital architectures.",
+    "constituents_and_structure": "A heterarchy: discrete spikes riding on graded membrane potentials, ion flows, and field potentials, which in turn ride on layered cortical anatomy, with no single privileged scale."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conscious processing in general; the conditions for artificial consciousness",
+    "distinctive_mechanism_or_principle": "Scale inseparability plus hybrid computation. Computations at one scale cannot be separated from those at others, and continuous-valued ‘continuous arithmetic’ runs alongside discrete spiking.",
+    "dynamics_of_emergence": "Slow subcellular processes accumulate evidence over longer intervals and trigger discrete network-level transitions. Protein Kinase A, for example, compares internal activity with that of postsynaptic neurons and signals when a network goal is reached.",
+    "location_and_distribution": "Distributed across scales of the brain, from subcellular chemistry and dendrites to fields and cortical networks.",
+    "causation_and_functional_role": "Extracellular fields carry information that guides and synchronizes neuronal firing through ephaptic coupling, and higher-scale dynamics constrain lower-scale activity.",
+    "integration_or_binding": "Information is integrated across scales by coarse-graining microscopic discrete events into macroscopic continuous dynamics while keeping the interdependencies between scales.",
+    "information_flow_or_representation": "Dendrites perform nonlinear operations locally and coarse-grain inputs before they reach the soma. Non-spiking neurons relay graded signals that carry more information per second than costly spikes.",
+    "evolutionary_account": "The brain’s organization evolved under a strict energy budget of roughly 20 watts, which forced it to maximize computation per unit of energy through coarse-graining and cross-scale integration.",
+    "core_claims_and_evidence": [
+      "Metabolic constraints are constitutive forces that shape how neural systems process, transmit, and integrate information across scales.",
+      "Biological systems compute heterarchically, with continuous co-determination between scales, unlike the one-way abstraction layers of digital machines.",
+      "Neural tissue combines discrete spikes with continuous processes such as graded potentials and ephaptic field effects.",
+      "Von Neumann machines, including large language models, separate memory, processing, and control and decouple information from substrate, so they lack the causal structure consciousness needs."
+    ],
+    "basis_of_belief_or_evidence_type": "Theoretical neuroscience, drawing on findings in dendritic computation, ephaptic coupling, and neural energetics"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "The view directly challenges computational functionalism, whose defenders hold that the right pattern of information processing suffices regardless of medium.",
+    "open_questions_and_limitations": "The authors note that no coherent framework yet explains how biological computation differs from digital computation and why the difference matters for consciousness, which their proposal aims to supply. It does not specify how multiscale biological computation yields subjective experience.",
+    "ontological_coherence": "Consistent with physicalism and close to biological naturalism, while keeping a computational vocabulary."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Current digital AI, including large language models, cannot be conscious. Milinkovic and Aru allow that biomimetic substrates with hybrid, multiscale, energy-bound dynamics might be."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness depends on the energy-bound dynamics of living tissue, it follows from the view that it ends when those dynamics stop."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "A digital simulation models the brain’s scales as separate mathematical objects and cannot replicate the substrate-bound computation the authors consider necessary."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Searle's Biological Naturalism", "relationship": "Overlap" },
+      { "name": "Computational Theories", "relationship": "Critique" },
+      { "name": "Ephaptic Coupling", "relationship": "Compatible" },
+      { "name": "Dendritic Integration Theory", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Biological Computationalism (Landscape of Consciousness entry), Borjan Milinkovic and Jaan Aru", "year": 2025 }
+    ]
+  }
+}

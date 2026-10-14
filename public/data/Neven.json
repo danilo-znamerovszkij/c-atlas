@@ -1,0 +1,79 @@
+{
+  "id_and_class": {
+    "theory_title": "Neven's Quantum Superposition Formation",
+    "summary": "Neven proposes that conscious experience arises whenever a quantum superposition forms, not when it collapses as in Penrose's account. Working within Everett's many-worlds picture, he holds that a system follows several branches at once, each yielding a sequence of definite conscious moments, while entanglement binds experience into a unity. He aims to test the idea by entangling qubits in a human brain with a quantum computer and asking whether the subject's experience becomes richer.",
+    "associated_thinkers": ["Hartmut Neven", "Christof Koch"],
+    "category": "Quantum",
+    "subcategory": "",
+    "core_identity_tagline": "Consciousness Arises When a Quantum Superposition Forms",
+    "classification_tags": ["quantum superposition", "entanglement", "many-worlds", "quantum computing", "binding problem"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A conscious moment is the first-person aspect of a quantum system branching into definite classical states, which happens each time a superposition forms.",
+    "ontological_status": "Quantum physicalism (Everettian)",
+    "mind_body_relationship": "Experience is tied to a specific physical event, superposition formation, not to classical neural computation alone. Neven also treats consciousness as the one datum that cannot be eliminated: ‘without mind, nothing matters’.",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "Not applicable: experience accompanies a basic quantum event rather than arising from complexity, though its richness grows with the number of entangled degrees of freedom.",
+    "subjectivity_and_intentionality": "A system only ever experiences definite classical states. When it enters superposition it follows multiple Feynman paths, each a distinct sequence of conscious moments, so one quantum system may hold many simple experiencing minds.",
+    "qualia_account": "The qualitative character of experience is set by the structure of the superposition. Phenomenology is classical from the inside even though its substrate is quantum.",
+    "ontological_commitments": "A universal wave function that never literally collapses (Everett), decoherence producing effectively separate classical branches, entangled qubits in the brain, and a preferred basis that fixes what is experienced.",
+    "epistemic_access": "Through first-person reports correlated with measured quantum states in brain-processor experiments, with quantum integrated information measures as one way to quantify experience.",
+    "constituents_and_structure": "Conscious moments generated at superposition formation, bound by entanglement; a single rich moment may require hundreds or thousands of entangled qubits."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (qualia); unity of experience; agency and free will.",
+    "distinctive_mechanism_or_principle": "Superposition formation, not collapse, generates experience. Neven drops gravity from Penrose's model and relies on decoherence for ‘effective collapse’.",
+    "dynamics_of_emergence": "Experience comes in discrete moments, each tied to a definite state evolving unitarily into a superposition. Consciousness is ‘how we experience the emergence of one unique classical reality’ from the many branches.",
+    "location_and_distribution": "Wherever superpositions form; in humans, hypothesized entangled qubits in the brain. Experience could in principle extend into a quantum processor entangled with a brain.",
+    "causation_and_functional_role": "Superposition formation may go with a moment of agency. Beyond roughly 100 entangled qubits an outside observer cannot predict the system's evolution even probabilistically, and the team conjectures an organism can choose which classical configuration it experiences next.",
+    "integration_or_binding": "Entanglement solves the binding problem; Neven calls it ‘the only true binding agent we have in physics’. The richness of an experience is bounded by the number of entangled degrees of freedom.",
+    "information_flow_or_representation": "Which basis corresponds to experience is open: candidates include Deutsch's interpretation basis, Zurek's pointer-state basis, or a basis that maximizes quantum integrated information.",
+    "evolutionary_account": "Pleasure tracks behaviors that sustain an organism and pain those that threaten it. The team argues this coupling would be pointless for a deterministic automaton, which suggests consciousness evolved with real choice.",
+    "core_claims_and_evidence": [
+      "Tying experience to collapse could allow faster-than-light signaling between entangled qubits; placing it at formation avoids this and the problem of defining when measurement occurs.",
+      "Laboratory searches for gravity-induced collapse have so far found nothing, which motivates dropping gravity from Penrose's proposal.",
+      "Classical Turing machines may become intelligent but never conscious; sentience requires a quantum Turing machine.",
+      "Entangling a brain with a quantum processor should produce reports of richer experience, and the timing of that enrichment would distinguish formation from collapse."
+    ],
+    "basis_of_belief_or_evidence_type": "Theoretical physics and quantum computing, with a proposed experimental program."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "The proposed ‘expansion protocol’ couples N qubits in a subject's brain to M qubits in a processor to form an N+M superposition, then compares the subject's reports with measured quantum states.",
+    "criticisms_and_tensions": "Most mainstream physicists do not share Neven's many-worlds reading, including his view that Google's Willow processor taps into something larger than our universe. Experience is not a standard experimental observable, so the test depends on subjective report. Superposition is basis-dependent, and the theory has not settled which basis is experienced.",
+    "open_questions_and_limitations": "Whether the brain sustains entangled qubits at all is unestablished. The suggestion that psychedelic, mystical, and near-death experiences involve more entangled qubits is highly conjectural.",
+    "ontological_coherence": "Consistent with Everettian quantum mechanics and special relativity by design. Its implication that many simple experiencing minds exist wherever superpositions form widens consciousness far beyond brains."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Neven argues classical computers may become intelligent but never conscious; a quantum processor, as a quantum Turing machine, could host experience."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Conditional",
+      "rationale": "A simulation on classical hardware would not be conscious on this view; only quantum hardware could carry experience, and Neven speaks of expanding consciousness by entangling brains with quantum computers."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Penrose-Hameroff's Orchestrated Objective Reduction", "relationship": "Influence" },
+      { "name": "Integrated Information Theory", "relationship": "Overlap" },
+      { "name": "Chalmers and McQueen’s Quantum Collapse", "relationship": "Contrast" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Testing the Conjecture That Quantum Processes Create Conscious Experience, Hartmut Neven, Christof Koch, et al.", "year": 2024 },
+      { "title_with_names": "Experiments Prepare to Test Whether Consciousness Arises from Quantum Weirdness, Hartmut Neven and Christof Koch", "year": 2024 },
+      { "title_with_names": "Do Robots powered by a Quantum Processor have the Freedom to swerve?, Hartmut Neven, P. Read, and T. Rees", "year": 2021 },
+      { "title_with_names": "Can we use quantum computers to test a radical consciousness theory?, T. Lewton", "year": 2024 },
+      { "title_with_names": "The Emperor's New Mind, Roger Penrose", "year": 1989 }
+    ]
+  }
+}

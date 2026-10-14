@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Bostrom’s Computational Functionalism",
+    "summary": "Nick Bostrom holds that consciousness depends on computation, not on the material that performs it, so minds could run on substrates other than biological neurons. He develops this less as a theory of what consciousness is than as a premise for his simulation argument, anthropic reasoning, and the ethics of artificial minds.",
+    "associated_thinkers": ["Nick Bostrom"],
+    "category": "Materialism",
+    "subcategory": "Computational",
+    "core_identity_tagline": "Consciousness as Substrate-Independent Computation",
+    "classification_tags": ["functionalism", "simulation argument", "substrate independence", "anthropic reasoning", "ai ethics"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a product of the right computational processes. Mental states are defined by their functional roles, what they do, rather than what they are made of.",
+    "ontological_status": "Physicalism (computational functionalism)",
+    "mind_body_relationship": "Multiple realizability. Bostrom writes that if human minds can be simulated and simulated minds can be conscious, our own consciousness might be realized in a substrate other than biological neurons.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (from computational organization)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "Computational processes and whatever physical substrate implements them, biological or artificial.",
+    "epistemic_access": "Through computational neuroscience and philosophical reasoning about observers, probability, and simulation.",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (as morally significant); Degrees of consciousness; Observer status",
+    "distinctive_mechanism_or_principle": "Substrate independence: the same computation produces the same mental states whatever hardware runs it.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Wherever the relevant computation runs, in brains, computers, or a simulated world.",
+    "causation_and_functional_role": "Being conscious shapes reasoning. Observer selection effects constrain what a conscious observer should believe about the universe, including whether it lives in a simulation.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "If minds can be simulated and simulated minds can be conscious, consciousness does not require biological neurons.",
+      "The simulation argument is coherent only if consciousness is computational, which makes computationalism a precondition of it.",
+      "Bostrom writes that an entity’s moral status depends at least in part on whether it is conscious and to what degree, implying consciousness comes in degrees.",
+      "Bostrom does not claim we live in a simulation; his computationalism rests on other grounds, including computational neuroscience."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical and probabilistic argument, informed by computational neuroscience."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Bostrom assumes computational functionalism more than he argues for it, and he does not explain why computation should produce experience.",
+    "open_questions_and_limitations": "Whether artificial minds can be conscious, and whether they should have rights, are questions the view raises but does not settle. Bostrom’s account is more epistemological than metaphysical.",
+    "ontological_coherence": "Consistent with mainstream functionalism and with his work on simulation, existential risk, and whole brain emulation."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "If consciousness is substrate-independent computation, artificial systems running the right processes would be conscious, and Bostrom ties their moral status to it."
+    },
+    "survival_beyond_death": {
+      "stance": "Conditional",
+      "rationale": "Biological death ends consciousness unless its computation is reproduced elsewhere; if we are simulated, what happens to us depends on the simulators."
+    },
+    "meaning_and_purpose": {
+      "stance": "Uncertain",
+      "rationale": "If our world is a simulation built by an advanced civilization, it may have a purpose set by its makers, but Bostrom does not claim to know."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Substrate independence implies that a simulated mind could continue a person’s consciousness, in line with Bostrom’s interest in whole brain emulation."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Putnam’s Machine Functionalism", "relationship": "Foundation" },
+      { "name": "Functionalism", "relationship": "Overlap" },
+      { "name": "Agüera y Arcas’s Computational Functionalism", "relationship": "Overlap" },
+      { "name": "Searle's Biological Naturalism", "relationship": "Contrast" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Bostrom’s Computational Functionalism (Landscape of Consciousness), Nick Bostrom", "year": 2003 }
+    ]
+  }
+}

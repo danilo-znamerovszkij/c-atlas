@@ -1,0 +1,81 @@
+{
+  "id_and_class": {
+    "theory_title": "Wang’s Layered Architecture and Cognitive Informatics",
+    "summary": "Wang treats consciousness as the highest collective state in a layered functional architecture of the brain, built up from metabolic homeostasis, unconscious processing, and subconscious processing. Consciousness registers real-time information about the body’s and emotions’ condition in a proposed cerebellar ‘Conscious Status Memory,’ and the thalamus processes it dynamically. Wang writes this process in his own denotational mathematics so that cognitive computers and robots can implement it.",
+    "associated_thinkers": ["Yingxu Wang"],
+    "category": "Materialism",
+    "subcategory": "Computational",
+    "core_identity_tagline": "Consciousness as the Top Layer of a Formal Brain Architecture",
+    "classification_tags": ["cognitive informatics", "layered model", "denotational mathematics", "thalamus", "cognitive computing"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a collective state of self-awareness, environmental awareness, and intentional responsiveness, generated from the layers beneath it. Wang also calls it the sense of self and the sign of life in natural intelligence.",
+    "ontological_status": "Physicalism (functionalist, information-processing)",
+    "mind_body_relationship": "Mental processes are functions of physiological structures, organized in a reference model that maps cognitive functions onto neural mechanisms.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (consciousness is inductively synthesized from lower layers of homeostasis, unconsciousness, and subconsciousness)",
+    "subjectivity_and_intentionality": "Subjectivity is self-awareness of the body’s and emotions’ status. Higher, acquired processes are intentional, goal-driven, and under conscious control.",
+    "qualia_account": "",
+    "ontological_commitments": "Neural and physiological structures (notably the cerebellum and thalamus), several memory types including the proposed Conscious Status Memory, and formal cognitive processes describable in denotational mathematics.",
+    "epistemic_access": "Through formal specification and computational modeling, with neuroanatomical mapping as a check.",
+    "constituents_and_structure": "Thirty-seven cognitive processes in six layers (sensation, memory, perception, action, metacognition, higher cognition), split into inherited and acquired functions and nested in a four-level hierarchy of homeostasis, unconsciousness, subconsciousness, and consciousness. Some later versions use seven layers, adding inference."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Access, self-monitoring, environmental awareness, and intentional control; phenomenal character not addressed",
+    "distinctive_mechanism_or_principle": "A conscious state is a function that maps current events (external stimuli and internal motivations) together with the contents of Conscious Status Memory onto an updated state of that memory.",
+    "dynamics_of_emergence": "Consciousness is a dynamic, real-time function executed continuously by the thalamus, updating bodily and emotional status as events arrive.",
+    "location_and_distribution": "Conscious Status Memory in the cerebellum, dynamic processing in the thalamus (which Wang calls the brain’s central processing unit), and content supplied by cortical activity.",
+    "causation_and_functional_role": "Consciousness integrates information about the organism’s internal state, its environment, and the relations between them, and coordinates intentional responses.",
+    "integration_or_binding": "Integration runs through the thalamus, which has connections to nearly all cortical and subcortical structures.",
+    "information_flow_or_representation": "Representation and processing are split: the cerebellum holds a fine-grained registration of each body part’s status, and the thalamus processes it.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "The brain’s mental processes form a layered hierarchy from inherited, automatic functions to acquired, plastic, goal-controlled ones.",
+      "Homeostasis is not consciousness but supplies the physiological stability consciousness requires.",
+      "The cerebellum functions as Conscious Status Memory, a memory type alongside short-term, long-term, sensory-buffer, and action-buffer memory.",
+      "Concept algebra, real-time process algebra, and system algebra can specify consciousness precisely enough for machine implementation."
+    ],
+    "basis_of_belief_or_evidence_type": "Computational and formal modeling (software science, systems engineering)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Placing Conscious Status Memory in the cerebellum conflicts with clinical evidence that people with cerebellar agenesis or cerebellectomy remain broadly conscious. The formal apparatus is developed mostly within Wang’s own program and journals, with limited engagement with the wider consciousness literature.",
+    "open_questions_and_limitations": "The framework addresses access, self-monitoring, and functional organization, and nothing in it explains why a state of Conscious Status Memory should feel like anything. Its neuroanatomical claims are more speculative than its formal machinery.",
+    "ontological_coherence": "Consistent with functionalist physicalism. Layer counts and labels vary across Wang’s presentations."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "Wang formalizes consciousness explicitly so that cognitive computers and robots can implement it, which presumes machine consciousness is achievable."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness is generated from physiological structures and depends on homeostasis, it follows from the view that it ends with the body."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "The model allows consciousness in machines, but Wang does not discuss transferring a particular individual’s consciousness."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Computational Theories", "relationship": "Overlap" },
+      { "name": "Minsky's Society of Mind", "relationship": "Compatible" },
+      { "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate", "relationship": "Overlap" },
+      { "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "On Cognitive Informatics, Yingxu Wang", "year": 2003 },
+      { "title_with_names": "A Layered Reference Model of the Brain (LRMB), Y. Wang, Y. Wang, S. Patel, and D. Patel", "year": 2006 },
+      { "title_with_names": "Cognitive Informatics Models of the Brain, Y. Wang and Y. Wang", "year": 2006 },
+      { "title_with_names": "The OAR Model of Neural Informatics for Internal Knowledge Representation in the Brain, Yingxu Wang", "year": 2007 },
+      { "title_with_names": "On Contemporary Denotational Mathematics for Computational Intelligence, Yingxu Wang", "year": 2008 },
+      { "title_with_names": "The Cognitive Mechanisms and Formal Models of Consciousness, Yingxu Wang", "year": 2012 }
+    ]
+  }
+}

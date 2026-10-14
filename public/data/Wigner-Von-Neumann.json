@@ -1,0 +1,80 @@
+{
+  "id_and_class": {
+    "theory_title": "Wigner–von Neumann’s Consciousness-Collapse: Experience at the Quantum Cut",
+    "summary": "The theory holds that linear quantum dynamics never yields a single definite outcome on its own, and that the chain of interactions from measured system through apparatus and brain ends only when a conscious observer has an experience. Von Neumann built the formal setup and showed the cut between system and observer can be moved freely; Wigner drew the explicit conclusion that consciousness causes collapse, because experience is always definite and never superposed. Wigner later abandoned the view, but it has been revived in mathematically precise form.",
+    "associated_thinkers": ["Eugene Wigner", "John von Neumann", "Fritz London", "Edmond Bauer"],
+    "category": "Quantum",
+    "subcategory": "",
+    "core_identity_tagline": "Consciousness as What Ends the Quantum Measurement Chain",
+    "classification_tags": ["measurement problem", "wave function collapse", "wigner's friend", "interactionism", "quantum mechanics"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Wigner defines consciousness phenomenally, as ‘the property of having sensations’, and makes the entry of an impression into consciousness the point where a quantum superposition becomes one definite outcome.",
+    "ontological_status": "Interactionist dualism",
+    "mind_body_relationship": "Physical states act on consciousness in perception, and by Wigner's principle of reciprocal action consciousness must act back on the physical world, which it does at measurement. Von Neumann himself invoked psycho-physical parallelism and ascribed no causal power to the observer's ‘abstract ego’.",
+    "primitive_or_emergent_status": "Unclear",
+    "emergence_type": "Wigner held that suitable physicochemical organization gives rise to consciousness, with richness varying by the complexity of its substrate, yet he gave consciousness a fundamental role in quantum dynamics and offered no account of how it arises.",
+    "subjectivity_and_intentionality": "The argument rests on a first-person datum: an observer always experiences one definite outcome. In Wigner's Friend, the friend inside the lab reports a definite experience even though, described from outside, he should be in superposition.",
+    "qualia_account": "Phenomenality is presupposed, not explained. Wigner asks how physicochemical conditions give rise to sensations but offers no mechanism for redness, pain, or sound.",
+    "ontological_commitments": "Quantum states with two kinds of change (continuous unitary evolution and discontinuous measurement); conscious observers whose experience is always determinate; a physical influence of consciousness on quantum evolution.",
+    "epistemic_access": "Through introspection (the definiteness of one's own experience) combined with the formal analysis of quantum measurement.",
+    "constituents_and_structure": "A measurement chain running from object through instrument, light, retina, optic nerve, and brain to subjective perception, with the cut placeable anywhere along it."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Mental causation; the quantum measurement problem; the definiteness of experience.",
+    "distinctive_mechanism_or_principle": "Consciousness ends unitary evolution: when an impression enters consciousness, a coherent superposition becomes a statistical mixture of definite alternatives. Wigner suggested the linear equations of quantum mechanics may fail for conscious systems.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "At the observer's end of the measurement chain. Von Neumann's most extreme partition leaves only an abstract ego outside the physical description; Stapp later located the effect in the brain.",
+    "causation_and_functional_role": "Consciousness is causally efficacious: it selects, or induces the selection of, a definite quantum alternative and so alters later physical evolution.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Wigner treats quantum mechanics as connecting probabilities between successive impressions registered by observers.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Von Neumann proved that where the cut between system and observer is placed does not change the theory's predictions, but it must be placed somewhere for any definite outcome to appear.",
+      "London and Bauer (1939) first published the explicit claim, locating the resolution in the observer's faculty of introspection.",
+      "Wigner's Friend shows a conflict between a superposed description of a conscious observer and that observer's report of a definite experience.",
+      "Physics recognizes no one-way influences, so if the world acts on consciousness, consciousness must act on the world."
+    ],
+    "basis_of_belief_or_evidence_type": "Theoretical physics combined with a phenomenological premise about the definiteness of experience."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Direct experimental tests have found no consciousness-induced collapse (Yu and Nikolić, 2011). Modern consciousness-collapse models, such as Chalmers and McQueen's pairing of IIT with continuous spontaneous localization, are in principle testable with quantum computers.",
+    "criticisms_and_tensions": "Decoherence (Zeh, Zurek) shows how environmental entanglement suppresses interference long before a nervous system is reached, which makes consciousness look redundant. Bell asked whether the world's wave function waited billions of years for a single-celled creature, or for someone with a PhD. Applied consistently, the reasoning threatens solipsism, and Bohmian, Everettian, and objective-collapse interpretations handle measurement without consciousness.",
+    "open_questions_and_limitations": "The theory gives no criterion for which systems are conscious enough to cause collapse, so it cannot say when collapse happens. It explains neither why consciousness exists nor its qualitative character, and introspection shows only that one's own present experience is definite.",
+    "ontological_coherence": "Coherent as interactionism grounded in physics rather than metaphysics, though it rests on a premise physics does not supply. Wigner abandoned it after Zeh's work and moved toward objective collapse, and later theorists such as Penrose, Hameroff, and Stapp kept the coupling but reversed its direction."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "The theory offers no principled criterion for which physical systems are conscious, so it cannot say whether a machine would be."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Wigner held that physicochemical organization gives rise to consciousness and shapes its contents, so the view offers no basis for experience without a body."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Chalmers and McQueen’s Quantum Collapse", "relationship": "Extension" },
+      { "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"", "relationship": "Extension" },
+      { "name": "Penrose-Hameroff's Orchestrated Objective Reduction", "relationship": "Influence" },
+      { "name": "Interactive Dualism", "relationship": "Overlap" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Mathematical Foundations of Quantum Mechanics, John von Neumann", "year": 1932 },
+      { "title_with_names": "Remarks on the mind-body question, Eugene P. Wigner", "year": 1961 },
+      { "title_with_names": "The problem of measurement, Eugene P. Wigner", "year": 1963 },
+      { "title_with_names": "La théorie de l'observation en mécanique quantique, Fritz London and Edmond Bauer", "year": 1939 },
+      { "title_with_names": "Consciousness and the collapse of the wave function, David J. Chalmers and Kelvin J. McQueen", "year": 2022 }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id_and_class": {
+    "theory_title": "Blums’ Conscious Turing Machine",
+    "summary": "Lenore, Manuel, and Avrim Blum hold that consciousness, both access and phenomenal, is computational and can be captured in a formal machine model, the Conscious Turing Machine (CTM). In CTM, unconscious processors compete to place a chunk of information on a one-item ‘stage’ that is broadcast to all of them; the machine feels something when every processor inspects that broadcast against its self-built Model of the World, which it takes to be the world itself.",
+    "associated_thinkers": ["Lenore Blum", "Manuel Blum", "Avrim Blum"],
+    "category": "Materialism",
+    "subcategory": "Computational",
+    "core_identity_tagline": "Consciousness as Broadcast and Inspection of World-Model Chunks",
+    "classification_tags": ["theoretical computer science", "global workspace", "world model", "machine consciousness", "formal model"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a computational process. Conscious attention is the simultaneous reception of a broadcast chunk by all processors; conscious awareness is all processors simultaneously inspecting that chunk, whose meaning is grounded in the machine’s Model of the World.",
+    "ontological_status": "Physicalism (computational functionalism)",
+    "mind_body_relationship": "Mind is the organization of computation, independent of substrate. CTM deliberately makes no claim about which brain areas implement which functions, so the same model can apply to brains and machines.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (subjective experience follows from a defined architecture plus a stated axiom)",
+    "subjectivity_and_intentionality": "CTM is aware only of its own Model of the World, never the world directly, and treats the model as reality. Its sense of self comes from labeling sketches in the model: a sketch of an actuator it can move by thought gets the label SELF, and later the machine labels its own sketch CONSCIOUS, which evokes the feeling of being conscious.",
+    "qualia_account": "Axiom A states that inspecting a broadcast chunk evokes a unique subjective experience whose intensity and valence come from the chunk’s weight. Chunks with empty gists evoke primal experiences (pain from a failing ‘oxygen gauge’, for example), and richer experiences are fusions of the experiences evoked by the Brainish words in a gist.",
+    "ontological_commitments": "Processors, chunks, a short-term memory stage, competition and broadcast trees, Hebbian-like links between processors, sensors and actuators, a Model of the World, and an internal multimodal language called Brainish.",
+    "epistemic_access": "Through formal definitions, theorems, and proofs, plus comparison of the model’s behavior with known phenomena of human consciousness.",
+    "constituents_and_structure": "A 7-tuple: short-term memory (STM, the stage), long-term memory (LTM, a vast set of unconscious processors), an Up-Tree for competition, a Down-Tree for broadcast, Links between processors, and Input and Output maps to sensors and actuators. Time runs in discrete ticks over a finite lifespan."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Access (conscious attention); Phenomenal (conscious awareness); Self-awareness; the feeling of being conscious",
+    "distinctive_mechanism_or_principle": "A probabilistic winner-take-all tournament up a binary tree, where each chunk’s chance of winning equals its weight divided by the total weight of all entries. The winner is broadcast to every processor, and conscious awareness occurs when all processors inspect it in the same tick.",
+    "dynamics_of_emergence": "Consciousness develops over the machine’s life. A newborn CTM has a foggy Model of the World that does not separate self from world; Brainish words and labeled sketches co-evolve with experience, from primal words like BLOB and PAIN to SELF and CONSCIOUS.",
+    "location_and_distribution": "Distributed across all processors in LTM, which receive the same broadcast; STM holds only one chunk at a time. No specific brain location is claimed.",
+    "causation_and_functional_role": "The broadcast lets every processor know what won, how important it was, and the average weight of the competition, which calibrates later action. Processors try to unpack high-weight chunks and reduce strongly negative weights. The fair, decentralized competition replaces the undefined ‘central executive’ of other theater models.",
+    "integration_or_binding": "A Brainish gist fuses multimodal content (a rose’s red color, sweet smell, soft petals, remembered encounters) into one label. All processors share an identical global dictionary of broadcast chunks.",
+    "information_flow_or_representation": "Each chunk carries a processor address, a time, a short Brainish gist, a signed weight, and auxiliary data that accumulates global context as it rises through the tree. Brainish words are pointers to earlier broadcast chunks, which the Blums compare to keys and values in machine learning.",
+    "evolutionary_account": "Within one CTM, Brainish and the Model of the World co-evolve over its lifetime; processor specializations also evolve. The Blums align this with evolutionary theories such as Nick Humphrey’s.",
+    "core_claims_and_evidence": [
+      "A theorem shows that a chunk’s chance of winning is its weight divided by the total weight of all entries, independent of where processors sit in the tree.",
+      "CTM reproduces inattentional blindness, change blindness, and a Libet-like delay between a chunk entering the competition and its broadcast.",
+      "Mislabeled sketches in the Model of the World produce analogues of phantom limb syndrome, body integrity disorder, and paranoia.",
+      "CTM aligns at a high level with global workspace theory, attention schema theory, predictive processing, embodied cognition, and integrated information theory.",
+      "CTM predicts that a central executive is unnecessary for consciousness, and so that the brain has none."
+    ],
+    "basis_of_belief_or_evidence_type": "Formal and mathematical (theoretical computer science), supported by qualitative match to known features of human consciousness."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "The Blums argue CTM is buildable. Its prediction that the brain has no central executive could be checked against neuroscience.",
+    "criticisms_and_tensions": "Critics question whether formal definitions and symbol processing can capture felt experience. Subjective experience enters through Axiom A, so the account of feeling rests on an assumption. Anil Seth and Nick Humphrey, whose views overlap with CTM, hold that consciousness requires a living organism, which the Blums reject.",
+    "open_questions_and_limitations": "CTM is too simple to model the brain, as the Blums say. Whether inspecting a chunk produces experience, rather than only modeling its role, remains open.",
+    "ontological_coherence": "Consistent within computational functionalism. It sits close to the illusionism of Daniel Dennett and Keith Frankish, though the Blums speak of explaining ‘what it is like’ rather than denying it."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "The Blums argue CTM is buildable and that it makes AI consciousness plausible, even inevitable."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness here is a computational process with a finite lifespan, it ends when the machine or brain stops running."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The theory explains consciousness as computation and posits no cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "If consciousness is substrate-independent computation, reproducing the same processes in another machine would follow from the view, though the Blums do not address this."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Foundation" },
+      { "name": "Graziano's Attention Schema Theory", "relationship": "Overlap" },
+      { "name": "Dennett's Multiple Drafts Model", "relationship": "Compatible" },
+      { "name": "Seth's \"Beast Machine\" Theory", "relationship": "Contrast" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Lenore, Manuel, and Avrim Blum’s Conscious Turing Machine (Landscape of Consciousness), Lenore Blum, Manuel Blum, Avrim Blum", "year": 2022 }
+    ]
+  }
+}

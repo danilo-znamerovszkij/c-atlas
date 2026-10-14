@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "Aristotle’s Hylomorphism",
+    "summary": "Aristotle treats the soul as the form of a living organic body, so awareness is a capacity of the whole animal rather than a property of a separate substance. Perception is the reception of sensible form without matter, and every act of perceiving carries an awareness that one is perceiving, unified by a common sense. Intellect is the exception: Aristotle calls the active intellect separate and everlasting, an ambiguity that fed centuries of dispute.",
+    "associated_thinkers": ["Aristotle"],
+    "category": "Dualism",
+    "subcategory": "",
+    "core_identity_tagline": "Consciousness as the Living Body’s Reflexive Perceiving",
+    "classification_tags": ["hylomorphism", "perception", "reflexivity", "ancient philosophy", "embodiment"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Awareness is an actuality of the ensouled animal: the perceptual capacity receiving sensible form without matter, with a built-in awareness of its own activity.",
+    "ontological_status": "Hylomorphism (form-matter compound, with a possibly separable intellect)",
+    "mind_body_relationship": "Soul is the form and first actuality of a natural organized body, so asking whether soul and body are one is as idle as asking whether wax and its shape are one. Most psychic powers are actualities of bodily organs; only intellect lacks an organ, which leaves room for a nonbodily dimension.",
+    "primitive_or_emergent_status": "Unclear",
+    "emergence_type": "Not applicable in the modern sense (sentience is a graded actuality of a single organism’s form, not something produced from matter). Burnyeat reads awareness as primitive; Sorabji ties it to physiological change.",
+    "subjectivity_and_intentionality": "Subjectivity lives in the reflexive structure of perceiving: when we perceive, we perceive that we perceive, and Kosman and Caston read this as an aspect of the first-order act rather than a separate act. Intentionality is the reception of form without matter, the idea Brentano later recast as ‘intentional inexistence’.",
+    "qualia_account": "Aristotle never isolates qualia or asks why experience feels like anything. On Sorabji’s reading the sense organ literally takes on the quality; on Burnyeat’s, awareness is primitive and unexplained; Caston holds that Aristotle rejects strong qualia without reducing phenomenal character to represented content.",
+    "ontological_commitments": "Form and matter, actuality and potentiality, living organisms with nested capacities, sensible forms and qualities, the common sense, phantasia, and an active intellect of disputed status.",
+    "epistemic_access": "Awareness is known reflexively within experience itself and studied through comparative zoological observation and conceptual analysis of perception, sleep, dreaming, and memory.",
+    "constituents_and_structure": "A nested hierarchy of capacities in one organism: nutritive, perceptual, and rational. The five senses feed a common perceptual capacity; phantasia holds appearances in the absence of objects; intellect sits at the top."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (perceptual awareness); Self-awareness (perceiving that one perceives); Unity of experience; Imagery, dreaming, and memory; Intellect",
+    "distinctive_mechanism_or_principle": "Reception of sensible form without matter, together with reflexivity: a single perceptual act takes both its object and itself as content.",
+    "dynamics_of_emergence": "Perception is the actualization of a capacity the living body already has. Waking perception differs from sleep, and phantasia keeps appearances going after their objects are gone.",
+    "location_and_distribution": "In the living animal as a whole, with perceptual powers realized in sense organs and the common sense. Aristotle grades sentience across the animal kingdom.",
+    "causation_and_functional_role": "Perception, pleasure, pain, desire, imagination, and memory build the animal’s lived world and guide action toward its ends. Form, not matter, carries the explanatory weight.",
+    "integration_or_binding": "The common sense (koinē aisthēsis) discriminates across modalities, perceives common sensibles such as motion and magnitude, and registers that perceiving is happening, yielding one integrated presentation.",
+    "information_flow_or_representation": "Sense organs take on sensible form without the matter of the object. Phantasia preserves these appearances for imagery, dreaming, and memory, and thought works on them.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "The soul is the first actuality of a natural organized body capable of life, not an occupant of the body.",
+      "Perception is the reception of sensible forms without their matter.",
+      "Whoever perceives also perceives that they perceive, and Aristotle locates this awareness in the act of perceiving itself to avoid a regress.",
+      "The active intellect is described as separate, unaffected, and deathless, in tension with the claim that soul is inseparable from body."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical and observational: metaphysics of form and matter, conceptual argument, and comparative biology."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Burnyeat argues that an Aristotelian philosophy of mind is not credible in a post-Newtonian world, while Nussbaum and Putnam defend it as realization without reduction and Cohen questions how far that makes Aristotle a functionalist. Readers split over whether reflexive awareness is intrinsic to the first-order act (Kosman, Caston) or an inner sense (Johansen), and Trubowitz challenges the Kosman–Caston reading at its textual root. The separate, everlasting active intellect sits uneasily with the inseparability of soul and body.",
+    "open_questions_and_limitations": "The physiology is obsolete and ‘reception of form’ remains opaque. Nothing in the theory explains why perceptual actualization has a subjective character, and the status of intellect is unresolved.",
+    "ontological_coherence": "Internally unified for embodied sentience, which avoids both reductive materialism and Platonic separability. Jaworski and Charles argue that hylomorphism dissolves the mind-body problem rather than answering it; the active intellect is the seam where dualist readings enter."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Since perception is a capacity of a living organism’s form, it is unclear whether a non-living artifact could have the right kind of form at all."
+    },
+    "survival_beyond_death": {
+      "stance": "Uncertain",
+      "rationale": "The soul as a whole perishes with the body, but Aristotle calls the active intellect deathless and everlasting, and whether that intellect is individual, shared, or divine remains disputed."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cosmic/Ultimate",
+      "rationale": "Aristotle’s teleology gives every living capacity an end, and human intellectual self-awareness participates, imperfectly, in the divine thought thinking itself."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Perceptual awareness belongs to a particular living body’s form, so a simulation would not continue the individual animal’s awareness."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Aquinas’s Hylomorphism", "relationship": "Extension" },
+      { "name": "Jaworski's Hylomorphism", "relationship": "Extension" },
+      { "name": "Brentano’s Intentionality and Self-Awareness", "relationship": "Influence" },
+      { "name": "Kriegel’s Cross-Order Self-Representation", "relationship": "Influence" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "The Complete Works of Aristotle: The Revised Oxford Translation, J. Barnes (ed.)", "year": 1984 },
+      { "title_with_names": "Aristotle: De Anima, Translated with an Introduction and Commentary, C. Shields", "year": 2016 },
+      { "title_with_names": "Aristotle on Consciousness, V. Caston", "year": 2002 },
+      { "title_with_names": "Perceiving That We Perceive: On the Soul III, 2, L. A. Kosman", "year": 1975 },
+      { "title_with_names": "Is an Aristotelian Philosophy of Mind Still Credible? (A Draft), M. F. Burnyeat", "year": 1992 },
+      { "title_with_names": "The Undivided Self: Aristotle and the ‘Mind–Body’ Problem, D. Charles", "year": 2021 },
+      { "title_with_names": "Structure and the Metaphysics of Mind: How Hylomorphism Solves the Mind–Body Problem, W. Jaworski", "year": 2016 }
+    ]
+  }
+}

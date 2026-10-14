@@ -13,6 +13,8 @@ interface ItemData {
   subcategory?: string
 }
 
+const FULLSCREEN_STORAGE_KEY = 'atlas.panelFullscreen'
+
 export class ItemDetailsPanel {
   private container: HTMLElement
   private isVisible: boolean = false
@@ -82,6 +84,15 @@ export class ItemDetailsPanel {
            aria-labelledby="item-title" 
            aria-hidden="${!this.isVisible}">
         <div class="panel-content">
+          <button class="fullscreen-btn"
+                  id="fullscreen-panel"
+                  type="button"
+                  aria-pressed="false"
+                  aria-label="${t('itemDetails.fullscreen.enter')}"
+                  title="${t('itemDetails.fullscreen.enter')}">
+            <svg class="icon-expand" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+            <svg class="icon-collapse" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 14h6v6M20 10h-6V4M14 10l7-7M3 21l7-7"/></svg>
+          </button>
           <button class="close-btn"
                   id="close-panel"
                   aria-label="${t('itemDetails.closePanel')}"
@@ -99,7 +110,29 @@ export class ItemDetailsPanel {
     this.attachEventListeners()
   }
 
+  private setFullscreen(on: boolean) {
+    const panel = this.container.querySelector('.item-details-panel')
+    const btn = this.container.querySelector('#fullscreen-panel')
+    panel?.classList.toggle('fullscreen', on)
+    if (btn) {
+      const label = t(on ? 'itemDetails.fullscreen.exit' : 'itemDetails.fullscreen.enter')
+      btn.setAttribute('aria-pressed', String(on))
+      btn.setAttribute('aria-label', label)
+      btn.setAttribute('title', label)
+    }
+    try { localStorage.setItem(FULLSCREEN_STORAGE_KEY, on ? '1' : '0') } catch { /* storage blocked */ }
+  }
+
   private attachEventListeners() {
+    let savedFullscreen = false
+    try { savedFullscreen = localStorage.getItem(FULLSCREEN_STORAGE_KEY) === '1' } catch { /* storage blocked */ }
+    this.setFullscreen(savedFullscreen)
+    this.container.querySelector('#fullscreen-panel')?.addEventListener('click', () => {
+      const on = !this.container.querySelector('.item-details-panel')?.classList.contains('fullscreen')
+      analytics.trackClick(on ? 'panel_fullscreen_on' : 'panel_fullscreen_off')
+      this.setFullscreen(on)
+    })
+
     const closeBtn = this.container.querySelector('#close-panel')
     if (closeBtn) {
       closeBtn.addEventListener('click', () => {
@@ -663,9 +696,24 @@ export class ItemDetailsPanel {
           </div>
         </div>
       `
+      this.removeEmptyBlocks(infoElement)
     }
 
     this.attachLinkTracking()
+  }
+
+  // MTTS uses "" for fields a theory doesn't address; drop them instead of
+  // rendering a label over nothing, then drop any section left empty.
+  private removeEmptyBlocks(root: Element) {
+    root.querySelectorAll('.field').forEach(field => {
+      if (!field.querySelector('.field-value')?.textContent?.trim()) field.remove()
+    })
+    root.querySelectorAll('.implication-item').forEach(item => {
+      if (!item.querySelector('.implication-stance')?.textContent?.trim()) item.remove()
+    })
+    root.querySelectorAll('.theory-section').forEach(section => {
+      if (!section.querySelector('.field, .implication-item, .tag')) section.remove()
+    })
   }
 
   public showError(message: string) {

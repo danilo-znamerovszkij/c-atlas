@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "McGinn’s Brain Perception",
+    "summary": "Colin McGinn proposes that all consciousness is perception of one’s own brain: pain is the perception of C-fibers firing, and seeing a dog is also perceiving a bit of your occipital cortex. The awareness is de re, so we perceive brain states without perceiving them as brain states, the way we see a block of atoms without seeing it as atoms.",
+    "associated_thinkers": ["Colin McGinn"],
+    "category": "Materialism",
+    "subcategory": "Relational",
+    "core_identity_tagline": "Consciousness as Perception of One’s Own Brain",
+    "classification_tags": ["brain perception", "identity theory", "de re awareness", "intentionality", "relational"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Mental states are identical to perceptual states of brain awareness: each experience is a perception of some brain state, plus awareness of other things when the state is about the world.",
+    "ontological_status": "Relational identity theory (neutral between physicalism and dualism)",
+    "mind_body_relationship": "Mind stands to brain as seeing a dog stands to the dog: numerically distinct but closely entwined. McGinn notes the view fits materialism (pain as a brain state that perceives another brain state) and would also hold if pain were a state of an immaterial substance.",
+    "primitive_or_emergent_status": "Unclear",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "Mental states have double intentionality, pointing out to the world and in to the brain. McGinn holds that experience feels inner, and the brain is the best candidate for what that inner reference picks out.",
+    "qualia_account": "Qualitative states are a code for brain states: pain is the code word for C-fibers firing, just as sensory experience encodes the external world.",
+    "ontological_commitments": "Brains and their states, mental states that track them, and the external world.",
+    "epistemic_access": "We are aware of our brains de re through ordinary experience, without knowing it. McGinn supports the theory by philosophical argument and by appeal to the felt innerness of experience.",
+    "constituents_and_structure": "Every mental state points three ways: to the world (intentionality), to the brain (brain perception), and to behavior (action)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "All mental states: sensation, perception, thought",
+    "distinctive_mechanism_or_principle": "Perception understood as tracking: the mind registers and responds to the brain’s activity, so the two are reliably correlated and one could read the brain off the mind.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "The perceived object is in the brain (C-fibers for pain, occipital cortex for vision); the perceiving is a relation to it.",
+    "causation_and_functional_role": "The brain causes the mind to respond in ways that carry information about it. Mental states are also functionally active, pointing toward behavior.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Consciousness encodes the brain the way sensory experience encodes the environment; pain carries the information that C-fibers are firing.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Pain is the perception of C-fibers firing rather than the firing itself.",
+      "Brain awareness is de re, so we perceive brain states without perceiving them as brain states.",
+      "Experience feels inner, and since the brain houses the mind, the brain is the best candidate for that inner object.",
+      "Treating all mental phenomena as brain perceptions gives a uniform account of the mind’s nature."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical argument and phenomenological observation"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "McGinn anticipates the objection that people have minds while knowing nothing about brains, and answers that brain perception is de re only. Whether ‘perception’ can stretch to cover mere reliable tracking, with no experience of the brain as such, remains the main pressure point.",
+    "open_questions_and_limitations": "McGinn speculates that if we cracked the code we might learn to feel our frontal cortex or attend to brain regions, but the theory does not say how such decoding would work.",
+    "ontological_coherence": "Deliberately neutral between materialism and substance dualism. It sits uneasily beside McGinn’s mysterianism, which holds the mind-brain link is beyond our grasp, though the two can be read as compatible since brain perception is only de re."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Since every mental state is a perception of the brain, a mind without a brain would lack the object of all its experience."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "McGinn's Ultimate Mystery (Mysterianism)", "relationship": "Compatible" },
+      { "name": "Armstrong’s Higher-Order Perception Theory", "relationship": "Overlap" },
+      { "name": "Dretske’s Information and Representationalism", "relationship": "Overlap" },
+      { "name": "Descartes’s Substance Dualism", "relationship": "Contrast" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "McGinn’s Brain Perception, Landscape of Consciousness, Robert Lawrence Kuhn" }
+    ]
+  }
+}

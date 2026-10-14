@@ -1,0 +1,81 @@
+{
+  "id_and_class": {
+    "theory_title": "Place’s Empirical Identity and the Phenomenological Fallacy",
+    "summary": "U. T. Place argues that conscious experiences (sensations, perceptual appearances, dreams, imagery) are brain processes, in the way lightning is an electrical discharge. He presents this as a contingent scientific hypothesis, and he diagnoses the ‘phenomenological fallacy’, the mistake of treating reports of how things appear as descriptions of private objects that literally have those qualities.",
+    "associated_thinkers": ["Ullin Thomas Place"],
+    "category": "Materialism",
+    "subcategory": "Mind-Brain",
+    "core_identity_tagline": "Consciousness as an Empirically Identified Brain Process",
+    "classification_tags": ["identity theory", "phenomenological fallacy", "behaviorism", "philosophy of mind", "neural process"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is constituted by processes in the brain. The identity is one of composition, discovered empirically, not one of definition or meaning.",
+    "ontological_status": "Physicalism (reductive, type identity)",
+    "mind_body_relationship": "Mind-brain identity, restricted to conscious processes. Introspection and neurophysiology are two modes of observation of one event, as visual sighting and instrument readings both pick out lightning.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (identity: conscious processes are brain processes, not something arising from them).",
+    "subjectivity_and_intentionality": "Place treats consciousness as a genuine inner process and rejects Ryle's view of first-person reports as mere avowals. Dispositional concepts such as belief, desire and intention he leaves to a broadly behaviorist analysis.",
+    "qualia_account": "Describing an afterimage as green does not attribute greenness to an inner object; it reports having the kind of experience one normally has when looking at a green patch of light. No green thing is in the brain, or anywhere else, and the theory still owes an account of color itself.",
+    "ontological_commitments": "Physical brain processes only; no phenomenal field, inner screen or nonphysical mind-stuff.",
+    "epistemic_access": "Introspective report and neurophysiology give independent descriptions of the same event; the identity holds when physiology explains why subjects report what they do.",
+    "constituents_and_structure": "Occurrent conscious processes, identified with repeatable types of neural process, though these may need more flexible individuation than early formulations assumed."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal: sensations, perceptual appearances, dreams and mental imagery. Dispositional mental states are excluded.",
+    "distinctive_mechanism_or_principle": "Two moves: separating the ‘is’ of definition from the ‘is’ of composition, and diagnosing the phenomenological fallacy.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "In the brain; which neural patterns are conscious is for neuroscience to determine.",
+    "causation_and_functional_role": "In late work Place proposed that an automatic subsystem, ‘the zombie within’, handles unproblematic inputs and alerts consciousness only to problematic ones.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Place separates properties represented in experience from properties of the experiencing process: a brain state need not be green to be an experience as of green, anticipating adverbial and representational views.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Sentences like ‘consciousness is a brain process’ need no more assert synonymy than ‘this table is an old packing case’.",
+      "Differences in meaning and in method of verification do not show that two descriptions pick out different things.",
+      "The conviction that experience cannot be neural rests on the phenomenological fallacy, which posits an inner screen bearing apparent qualities.",
+      "Identity is stronger than correlation and holds when the neural process explains the subject's introspective reports."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical: conceptual analysis of identity statements, with the identity itself left as an empirical hypothesis."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "Place leaves confirmation to neuroscience: the hypothesis is borne out if neurophysiology can explain what introspection reports.",
+    "criticisms_and_tensions": "Explaining why a subject reports a green afterimage is not obviously the same as explaining why the neural process has green phenomenal character. Multiple realization in organisms with different nervous systems threatens unrestricted type identity, and species-relative or functional identities answer it only by giving up simple universal mappings.",
+    "open_questions_and_limitations": "Place showed identity is a reasonable hypothesis that logic cannot dismiss, not that it is true; the detailed neural identities and their explanatory intelligibility are left to science.",
+    "ontological_coherence": "Coherent and deliberately modest physicalism; it clears conceptual obstacles to identity rather than building a full system."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Place identifies conscious processes with types of brain process, which makes machine consciousness doubtful unless those types can be individuated more flexibly, a question he left open."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since conscious episodes are brain processes, they cannot continue once the brain stops."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The view rejects any nonphysical inner domain and treats consciousness as a biological process."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "On a type-identity view, a simulation would reproduce a person's experiences only if it ran the same kinds of brain process."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Smart’s Topic-Neutral Identity", "relationship": "Extension" },
+      { "name": "Ryle’s Category-Dissolution of Inner-Theater Consciousness", "relationship": "Influence" },
+      { "name": "Feigl's Double Knowledge of Raw Feels", "relationship": "Overlap" },
+      { "name": "Putnam’s Machine Functionalism", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Is consciousness a brain process?, U. T. Place", "year": 1956 },
+      { "title_with_names": "The concept of heed, U. T. Place", "year": 1954 },
+      { "title_with_names": "Thirty years on: Is consciousness still a brain process?, U. T. Place", "year": 1988 },
+      { "title_with_names": "Connectionism and the problem of consciousness, U. T. Place", "year": 1999 },
+      { "title_with_names": "Identifying the Mind: Selected Papers of U. T. Place, G. Graham and E. R. Valentine (eds.)", "year": 2004 },
+      { "title_with_names": "The Concept of Mind, Gilbert Ryle", "year": 1949 }
+    ]
+  }
+}

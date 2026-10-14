@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "Becker’s Analog Body Electric",
+    "summary": "Robert O. Becker proposed that consciousness depends on a slow, continuous direct-current (DC) electrical system carried by glial and Schwann cells along the nerves, alongside the fast spike code of neurons. This analog system, which he first found regulating healing and regeneration, sets the level of consciousness and may shape its contents by binding sensory inputs into one experience.",
+    "associated_thinkers": ["Robert O. Becker"],
+    "category": "Materialism",
+    "subcategory": "Electromagnetic",
+    "core_identity_tagline": "Consciousness Shaped by the Body’s Analog DC Field",
+    "classification_tags": ["bioelectricity", "direct current", "glia", "regeneration", "electromagnetic fields"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness depends causally, and possibly constitutively, on spatially organized DC electrical activity in the nervous system’s non-neuronal supporting tissue. Becker did not claim that consciousness simply is an electromagnetic field.",
+    "ontological_status": "Physicalism (bioelectric, non-reductive)",
+    "mind_body_relationship": "Mind depends on two interacting electrical modes in the body: digital neuronal impulses and an analog DC background that adjusts the excitability and coordination of large neuronal populations.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (experience arises from the organism’s physical bioelectric organization; Becker gave no account of why it should feel like anything)",
+    "subjectivity_and_intentionality": "Becker proposed that spatial variations in the perineural current take part in decisions, feelings, inner speech, and other mental events.",
+    "qualia_account": "Differentiated electrical patterns might contribute to what is experienced, but Becker never mapped particular electrical configurations to particular qualia.",
+    "ontological_commitments": "Neurons, Schwann and glial cells, endogenous DC potentials, and a proposed semiconducting perineural control network.",
+    "epistemic_access": "Through measurement of DC potentials and EEG, and through experiments that perturb the current with applied DC or magnetic fields while tracking behavior and anesthesia.",
+    "constituents_and_structure": "A hybrid system: a fast digital spike code for discrete signals and a slow analog DC network spanning the organism for global control and integration."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Level of consciousness (waking, sleep, anesthesia, hypnosis); unity of experience; possibly contents such as feelings and inner speech",
+    "distinctive_mechanism_or_principle": "A slow DC current flowing along a perineural pathway of Schwann and glial cells provides analog, organism-wide control that sets neuronal sensitivity and binds activity into a unified state.",
+    "dynamics_of_emergence": "Shifts in global DC organization switch the brain between waking, sleep, anesthesia, and altered pain states; finer variations may change moment-to-moment content.",
+    "location_and_distribution": "Brain-spanning and body-wide, along the supporting cells of the central and peripheral nervous systems; Becker reported occipito-frontal DC changes in humans.",
+    "causation_and_functional_role": "The DC system regulates neuronal excitability, arousal, and pain, and in Becker’s broader theory it also coordinates growth, healing, and regeneration.",
+    "integration_or_binding": "Continuous spatial voltage gradients supply a unified physical medium that can bind separate sensory inputs into a single experience, which discrete spikes alone could not do.",
+    "information_flow_or_representation": "Neuronal impulses carry discrete sensory and motor messages; slow DC potentials form an analog background that carries pattern-level information.",
+    "evolutionary_account": "Bioelectric organization is an ancient integrative control system for growth and repair that evolution later recruited for nervous-system regulation and mind.",
+    "core_claims_and_evidence": [
+      "In salamanders, surface DC potentials shrank toward zero and could reverse as anesthesia deepened.",
+      "Weak DC applied against the endogenous current produced unresponsiveness and delta-dominant EEG, while current in the other direction partly counteracted chemical anesthesia.",
+      "Strong magnetic fields oriented to disturb the current produced anesthesia-like behavior and EEG changes.",
+      "Friedman, Becker and Bachman (1962) found local DC changes during hypnotic reduction of pain.",
+      "Modern developmental bioelectricity (Levin and others) confirms that endogenous voltages and fields regulate regeneration, though not Becker’s specific perineural mechanism."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical (animal and human bioelectric experiments), extended to consciousness by inference"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "DC potential recordings in salamanders under anesthesia; applied DC and magnetic-field perturbation; human occipito-frontal DC recordings; DC measures during hypnoanalgesia.",
+    "criticisms_and_tensions": "Becker’s experiments used anesthesia, EEG state, responsiveness, and pain reports as proxies, which do not separate phenomenal consciousness from arousal, excitability, attention, or reportability. His perineural semiconductor mechanism has not been confirmed.",
+    "open_questions_and_limitations": "Becker never specified the physical conditions necessary and sufficient for experience, never mapped electrical patterns to qualia, and never explained why such processes have subjective character.",
+    "ontological_coherence": "Coherent as an early bioelectric physicalism and a precursor to later electromagnetic field theories, though it stops short of identifying experience with field patterns."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "Consciousness here depends on an organism-wide analog DC system in living tissue, which digital computers lack."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since experience depends on the living body’s bioelectric organization, it ends when that organization fails."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "A simulation would not reproduce the physical DC fields that the view treats as required for consciousness."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Pockett's Conscious and Non-Conscious Patterns", "relationship": "Extension" },
+      { "name": "McFadden's Conscious Electromagnetic Information Theory", "relationship": "Compatible" },
+      { "name": "Levin's Technological Approach to Mind Everywhere", "relationship": "Overlap" },
+      { "name": "Miller’s Brain Waves’ Analog Organization of Cortex", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "The Body Electric: Electromagnetism and the Foundation of Life, Robert O. Becker and G. Selden", "year": 1985 },
+      { "title_with_names": "Cross Currents, Robert O. Becker", "year": 1990 },
+      { "title_with_names": "The bioelectric field pattern in the salamander and its simulation by an electronic analog, Robert O. Becker", "year": 1960 },
+      { "title_with_names": "Search for evidence of axial current flow in peripheral nerves of salamander, Robert O. Becker", "year": 1961 },
+      { "title_with_names": "The direct current control system: A link between environment and organism, Robert O. Becker, C. H. Bachman and H. Friedman", "year": 1962 },
+      { "title_with_names": "Direct current potentials in hypnoanalgesia, H. Friedman, Robert O. Becker and C. H. Bachman", "year": 1962 }
+    ]
+  }
+}

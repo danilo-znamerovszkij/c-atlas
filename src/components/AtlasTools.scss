@@ -1,0 +1,381 @@
+@use "../styles/mixins" as *;
+
+$gold-line: rgba(198, 160, 50, 0.5);
+$gold-text: #c6a032;
+$gold-bright: #f7b801;
+
+#atlas-tools {
+  margin-top: 10px;
+}
+
+.atlas-tools-bar {
+  display: flex;
+  gap: 8px;
+  align-items: stretch;
+}
+
+.view-switch {
+  display: flex;
+  border: 1px solid $gold-line;
+  border-radius: 4px;
+  overflow: hidden;
+  backdrop-filter: blur(10px);
+  flex-shrink: 0;
+
+  button {
+    background: rgba(0, 0, 0, 0.2);
+    border: none;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 13px;
+    padding: 8px 14px;
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease;
+
+    & + button {
+      border-left: 1px solid $gold-line;
+    }
+
+    &[aria-pressed="true"] {
+      background: rgba(198, 160, 50, 0.18);
+      color: $gold-bright;
+    }
+
+    &:hover:not([aria-pressed="true"]) {
+      color: #fff;
+    }
+
+    &:focus-visible {
+      outline: 2px solid rgba(198, 160, 50, 0.7);
+      outline-offset: -2px;
+    }
+  }
+}
+
+.filter-toggle {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid $gold-line;
+  border-radius: 4px;
+  color: $gold-text;
+  font-size: 13px;
+  padding: 8px 12px;
+  cursor: pointer;
+  backdrop-filter: blur(10px);
+  transition: border-color 0.15s ease, background 0.15s ease;
+
+  span:not(.filter-count) {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  svg {
+    flex-shrink: 0;
+  }
+
+  &:hover,
+  &[aria-expanded="true"] {
+    border-color: rgba(198, 160, 50, 0.8);
+    background: rgba(198, 160, 50, 0.08);
+  }
+
+  &:focus-visible {
+    outline: 2px solid rgba(198, 160, 50, 0.7);
+    outline-offset: 2px;
+  }
+}
+
+.filter-count {
+  margin-left: auto;
+  min-width: 18px;
+  height: 18px;
+  border-radius: 9px;
+  background: $gold-bright;
+  color: #1b1b1b;
+  font-size: 11px;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-variant-numeric: tabular-nums;
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+.filter-panel {
+  margin-top: 8px;
+  padding: 14px;
+  background: rgba(16, 15, 10, 0.92);
+  border: 1px solid rgba(198, 160, 50, 0.3);
+  border-radius: 6px;
+  backdrop-filter: blur(20px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  max-height: calc(100vh - 230px);
+  overflow-y: auto;
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+.filter-question {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+.filter-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.filter-chip {
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 14px;
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 12px;
+  padding: 5px 11px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+
+  &:hover {
+    border-color: rgba(198, 160, 50, 0.6);
+    color: #fff;
+  }
+
+  &[aria-pressed="true"] {
+    background: rgba(247, 184, 1, 0.16);
+    border-color: $gold-bright;
+    color: $gold-bright;
+  }
+
+  &:focus-visible {
+    outline: 2px solid rgba(198, 160, 50, 0.7);
+    outline-offset: 2px;
+  }
+}
+
+.filter-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding-top: 10px;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.filter-result {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
+
+.filter-clear {
+  background: none;
+  border: none;
+  color: $gold-text;
+  font-size: 12px;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  white-space: nowrap;
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+// ---- List view -------------------------------------------------------------
+
+.chart-container.list-mode {
+  #main,
+  .chart-zoom-controls,
+  #chart-level-bar {
+    visibility: hidden;
+  }
+}
+
+.theory-list {
+  position: absolute;
+  inset: 0;
+  overflow-y: auto;
+  // Clear the fixed left column (logo, search, tools) and top-right icons.
+  padding: 84px 40px 96px 380px;
+  box-sizing: border-box;
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+.theory-list-inner {
+  max-width: 760px;
+}
+
+.theory-list-status {
+  color: rgba(255, 255, 255, 0.55);
+  font-size: 13px;
+  margin-bottom: 8px;
+}
+
+.theory-list-empty {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 15px;
+  padding: 24px 0;
+}
+
+.theory-list-category {
+  margin-top: 28px;
+
+  h2 {
+    @include bodoni-font;
+    color: $accent-gold-light;
+    font-size: 26px;
+    font-weight: 400;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(234, 189, 97, 0.25);
+  }
+
+  h2 span,
+  .theory-list-sub span {
+    @include outfit-font;
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 13px;
+    margin-left: 6px;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+.theory-list-sub {
+  color: $gold-text;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin: 20px 0 4px;
+}
+
+.theory-list-items {
+  list-style: none;
+}
+
+.theory-row {
+  display: grid;
+  gap: 3px;
+  padding: 12px 10px;
+  margin: 0 -10px;
+  border-radius: 4px;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  transition: background 0.15s ease;
+
+  &:hover {
+    background: rgba(198, 160, 50, 0.07);
+
+    .theory-row-title {
+      color: $gold-bright;
+    }
+  }
+
+  &:focus-visible {
+    outline: 2px solid rgba(198, 160, 50, 0.7);
+    outline-offset: -2px;
+  }
+}
+
+.theory-row-title {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  transition: color 0.15s ease;
+}
+
+.theory-row-tagline {
+  color: #7ea6f2;
+  font-size: 13px;
+  font-style: italic;
+}
+
+.theory-row-summary {
+  color: rgba(255, 255, 255, 0.68);
+  font-size: 14px;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.theory-row-thinkers {
+  color: rgba(255, 255, 255, 0.42);
+  font-size: 12px;
+}
+
+@media (max-width: 1100px) and (min-width: 769px) {
+  .theory-list {
+    padding-right: 24px;
+  }
+}
+
+@media (max-width: 768px) {
+  #atlas-tools {
+    margin-top: 8px;
+  }
+
+  .filter-panel {
+    max-height: 60vh;
+  }
+
+  // On phones the list flows with the page scroll instead of a nested scroller.
+  .chart-container.list-mode {
+    height: auto;
+    min-height: 100vh;
+
+    #main {
+      display: none;
+    }
+  }
+
+  .theory-list {
+    position: static;
+    padding: 0 16px 120px;
+  }
+
+  // Solid band behind the fixed header so list rows don't scroll under the
+  // translucent search/tools; fades out with the header (body.scrolled).
+  body.list-mode::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 176px;
+    background: linear-gradient(#1b1b1b 88%, rgba(27, 27, 27, 0));
+    // Above the list, below every fixed header control (lowest is z-index 10).
+    z-index: 5;
+    pointer-events: none;
+    transition: opacity 0.25s ease;
+  }
+
+  body.list-mode.scrolled::before {
+    opacity: 0;
+  }
+
+  .theory-list-category h2 {
+    font-size: 22px;
+  }
+}

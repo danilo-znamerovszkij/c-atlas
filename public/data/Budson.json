@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Budson’s Consciousness as a Memory System",
+    "summary": "Andrew Budson and colleagues argue that consciousness evolved as part of the episodic memory system, to bind experiences into storable episodes that can be flexibly recombined to simulate the future. Because the brain is too slow for awareness to guide real-time action, what we experience as perceiving the present is a memory of the world a few hundred milliseconds ago.",
+    "associated_thinkers": ["Andrew E. Budson"],
+    "category": "Materialism",
+    "subcategory": "Homeostatic",
+    "core_identity_tagline": "Consciousness as the Episodic Memory System",
+    "classification_tags": ["episodic memory", "hippocampus", "future simulation", "evolution", "neurology"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is the memory system: the ‘write’ function of episodic memory, which creates and retrieves explicit event memories. In Budson’s words, ‘we are not perceiving the world in real time; we are remembering it.’",
+    "ontological_status": "Physicalism (functionalist, neurobiological)",
+    "mind_body_relationship": "Consciousness is identical with explicit memory, so its neural correlates are those of explicit memory: hippocampal episodic circuits working with distributed cortical systems.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (from episodic memory circuits that bind sensory, semantic and emotional information)",
+    "subjectivity_and_intentionality": "The sense of being an observer in a Cartesian theater, and of a continuous ‘stream of consciousness’, results from experiencing replayed and assembled memories of perception rather than the present itself.",
+    "qualia_account": "",
+    "ontological_commitments": "Hippocampal episodic memory circuits, the default mode network, and sensory, working and semantic memory systems spread across the cerebral cortex.",
+    "epistemic_access": "Through cognitive neuroscience: timing studies of awareness, neuroimaging of remembering and imagining, and clinical observation of memory disorders such as Alzheimer’s disease.",
+    "constituents_and_structure": "Episodic memory together with sensory, working and semantic memory make up one ‘conscious memory system’. Each conscious episode unifies sights, sounds and touch with internal states such as desire, hope and fear."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Access, Memory, Imagination and planning, Sense of self as observer",
+    "distinctive_mechanism_or_principle": "The unconscious brain does fast parallel processing; consciousness renders selected results as an explicit, unified episode, stores it, and replays it to simulate future scenarios.",
+    "dynamics_of_emergence": "Awareness lags events by a few hundred milliseconds. Consciousness then shuttles between past and future in a kind of mental time travel, using the same networks to recall yesterday and imagine tomorrow.",
+    "location_and_distribution": "Hippocampal episodic circuits with distributed cortical systems; Budson holds that every cortical region contributes to the conscious memory system.",
+    "causation_and_functional_role": "Consciousness is too slow to drive immediate action, such as swatting a mosquito, which the motor system has already done. Its role is to plan for the future, and it was later co-opted for problem-solving, abstract thought and language.",
+    "integration_or_binding": "Consciousness binds sensory inputs and internal states into a single episode that can be stored and later replayed.",
+    "information_flow_or_representation": "Selected outputs of unconscious processing are written into explicit episodic memory as coherent narratives, then recombined to predict outcomes.",
+    "evolutionary_account": "Consciousness evolved as part of episodic memory, probably its storage component, so animals could flexibly recombine past events to plan complex behavior. This explains why memory forgets and confabulates: it is built for creative simulation, not faithful recording.",
+    "core_claims_and_evidence": [
+      "Awareness of a sensory event arrives after the motor system has already responded to it.",
+      "The hippocampus and default mode network are active both when remembering the past and imagining the future.",
+      "Episodic memory’s proneness to forgetting and false memories fits a system designed for flexible recombination.",
+      "Memory disorders such as Alzheimer’s disease impair planning, problem-solving and abstract thought, which Budson treats as disorders of consciousness."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical (cognitive neuroscience, neuroimaging, clinical neurology) combined with evolutionary reasoning"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Timing studies of conscious awareness relative to motor response; neuroimaging of shared networks for memory and imagination; clinical study of patients with memory disorders such as Alzheimer’s disease.",
+    "criticisms_and_tensions": "Budson describes consciousness both as the ‘write’ function of episodic memory and as identical with the whole memory system, and places its substrate both in hippocampal circuits and in the cortex as a whole. Treating memory disorders as disorders of consciousness stretches the usual meaning of the term, since such patients remain awake and aware.",
+    "open_questions_and_limitations": "Budson and colleagues raise open questions the theory must answer: which animals are conscious, how complex activities such as driving run without awareness, and why conscious control over urges and attention is so weak.",
+    "ontological_coherence": "Consistent within a physicalist, functionalist framework that identifies consciousness with a specific memory function in the brain."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Since consciousness is identified with a functional memory system, an artificial system that creates, binds and replays explicit episodes to simulate the future could in principle qualify, though Budson does not address this."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is the brain’s episodic memory system, so it ends when those circuits do."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Consciousness evolved to support flexible, adaptive and creative human behavior, with no purpose beyond the organism."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "If the functional organization of episodic memory were reproduced, the view gives no principled reason why consciousness would not follow."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "McComas's Hippocampal Memory-Stream Theory", "relationship": "Overlap" },
+      { "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness", "relationship": "Compatible" },
+      { "name": "James’s Stream of Thought/Consciousness", "relationship": "Influence" },
+      { "name": "Dennett's Multiple Drafts Model", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Consciousness as a Memory System, Andrew E. Budson and colleagues", "year": 2022 }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id_and_class": {
+    "theory_title": "O'Reilly-Shah's State Space Theory and Computational Dynamic Monism",
+    "summary": "O'Reilly-Shah proposes that phenomenal consciousness is hierarchical delay coordinate embedding in plastic recurrent neural networks: recurrent feedback lets the brain reconstruct the dynamical history of its environment and, at the top of the hierarchy, of its own embedding activity. His metaphysics, Computational Dynamic Monism, identifies consciousness with this temporally extended process itself. He argues the identity dissolves the hard problem, since the remaining gap is only the difference between describing a process and being it.",
+    "associated_thinkers": ["Vikas N. O'Reilly-Shah"],
+    "category": "Materialism",
+    "subcategory": "Computational",
+    "core_identity_tagline": "Consciousness as Self-Referential Dynamical Embedding in Plastic Networks",
+    "classification_tags": ["delay coordinate embedding", "recurrent networks", "process monism", "plasticity", "quality spaces"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Phenomenal experience is identical to hierarchical, self-referential delay coordinate embedding carried out by plastic recurrent networks, a temporally extended computational process, not a static neural state, functional role, or intrinsic property of matter.",
+    "ontological_status": "Physicalism (process monism, computational)",
+    "mind_body_relationship": "Identity between experience and a physical process, on the model of lightning and atmospheric electrical discharge. One ontological category, physical process, underwrites both the scientific description and the subjective character available to the system.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (O'Reilly-Shah holds that consciousness is identical to the process, not produced by it or emergent from it)",
+    "subjectivity_and_intentionality": "At the top of the hierarchy the system embeds its own embedding activity, modeling itself modeling the world, and this self-modeling is the internal perspective experienced as subjectivity.",
+    "qualia_account": "Qualia are private because instantiating a process and describing it are different epistemic relations to the same thing. Their structure comes from the geometry of the embedding, which forms a quality space mirroring the relational organization of what the network tracks.",
+    "ontological_commitments": "Plastic recurrent neural networks, the time delays created by feedback, reconstructed state spaces, and the physical processes that constitute them.",
+    "epistemic_access": "Through dynamical systems mathematics, analysis of recurrent and reservoir networks, neural recordings, and perceptual phenomena such as metamers and categorical perception.",
+    "constituents_and_structure": "A hierarchy of ‘DCE engines’: lower networks embed sensory dynamics, higher networks embed the dynamics of lower networks, and the highest levels embed the system’s own embedding."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (structure of quality spaces); subjectivity and self-modeling; temporally thick experience",
+    "distinctive_mechanism_or_principle": "Delay coordinate embedding, grounded in Takens’ embedding theorem, in which time-delayed copies of a signal reconstruct the full state space of the system that produced it. Recurrent feedback supplies the delays.",
+    "dynamics_of_emergence": "Consciousness is a trajectory through time. Plasticity keeps reshaping the network, so it moves through function space as well as state space and its computation at one time differs from its computation at another.",
+    "location_and_distribution": "Biological cortex, in hierarchically arranged plastic recurrent networks.",
+    "causation_and_functional_role": "The embedding lets the system track the dynamical history of its environment and of itself, guided by ongoing interaction with environmental input.",
+    "integration_or_binding": "Higher levels integrate lower ones by embedding their dynamics, producing nested, increasingly abstract reconstructions.",
+    "information_flow_or_representation": "Dynamically similar stimuli, those that lead to similar futures, are represented close together in state space. The geometry compresses where prediction is poor, collapses distinct inputs with indistinguishable consequences, and sharpens where prediction is best.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Hart and colleagues proved that contracting recurrent networks driven by structured input embed the input dynamics through generalized synchronization.",
+      "Uribarri and Mindlin, and Ostrow, Eisen, and Fiete, found the geometric signature of time-delay embeddings in trained recurrent networks and neural sequence models.",
+      "Bats and rodents represent three-dimensional space on a topological torus, an example of perception mapping regular environmental dynamics onto low-dimensional attractors.",
+      "O'Reilly-Shah, Selvitella, and Schurger argue that no static feedforward network can stay equivalent to a plastic recurrent network over unbounded time, which weakens the unfolding argument.",
+      "The theory predicts that metamers, categorical perception, and discrimination thresholds reflect a topology-preserving embedding working with finite predictive resources."
+    ],
+    "basis_of_belief_or_evidence_type": "Mathematical and computational (dynamical systems theory, network analysis), with supporting neuroscience and psychophysics"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Analysis of embedding geometry in trained recurrent networks; neural population recordings of toroidal spatial codes in bats and rodents; perceptual tests of metamers, categorical perception, and discrimination thresholds.",
+    "criticisms_and_tensions": "The unfolding argument of Doerig and colleagues, and its Turing-completeness generalization by Herzog and colleagues, holds that any computable function can be reimplemented in a system with different causal structure. O'Reilly-Shah accepts this for input-output functions but argues it loses force once plasticity and environmental coupling must be matched indefinitely.",
+    "open_questions_and_limitations": "Whether cortex actually implements hierarchical self-referential embedding of this kind remains a hypothesis supported by converging but indirect evidence. The claim that identity dissolves the hard problem is a philosophical position that anti-physicalists reject.",
+    "ontological_coherence": "Consistent within physicalist process monism. It treats multiple realizability narrowly, allowing the same process organization across substrates but not a different process with the same input-output behavior."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "A system with the same plastic, processual trajectory would be conscious, but O'Reilly-Shah considers exact equivalence extremely unlikely given unpredictable input and chaotic sensitivity, and static feedforward systems do not qualify."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness is identical to an ongoing physical process in recurrent networks, it follows from the view that it ends when that process ends."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "A copy would need to match the original’s plasticity, environmental coupling, and trajectory indefinitely, which O'Reilly-Shah regards as practically unattainable."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Markwell’s Process Identity Theory", "relationship": "Overlap" },
+      { "name": "Integrated Information Theory", "relationship": "Contrast" },
+      { "name": "Qualia Space", "relationship": "Compatible" },
+      { "name": "Lamme's Recurrent Processing Theory", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Delay Coordinate Embedding as Neuronally Implemented Information Processing: The State Space Theory of Consciousness, Vikas N. O’Reilly-Shah", "year": 2025 },
+      { "title_with_names": "A Caveat Regarding the Unfolding Argument: Implications of Plasticity for Computational Theories of Consciousness, V. N. O’Reilly-Shah, A. Selvitella, and A. Schurger", "year": 2025 },
+      { "title_with_names": "Computational Dynamic Monism: Process Metaphysics for the State Space Theory of Consciousness, Vikas N. O’Reilly-Shah", "year": 2026 },
+      { "title_with_names": "State Space Theory as a Unifying Framework for Consciousness, Vikas N. O’Reilly-Shah", "year": 2026 },
+      { "title_with_names": "Smooth Embeddings in Contracting Recurrent Networks Driven by Regular Dynamics: A Synthesis for Neural Representation, V. N. O’Reilly-Shah and A. M. Selvitella", "year": 2026 },
+      { "title_with_names": "Detecting Strange Attractors in Turbulence, F. Takens", "year": 1981 },
+      { "title_with_names": "Embedding and Approximation Theorems for Echo State Networks, A. Hart, J. Hook, and J. Dawes", "year": 2020 },
+      { "title_with_names": "Dynamical Time Series Embeddings in Recurrent Neural Networks, G. Uribarri and G. B. Mindlin", "year": 2022 },
+      { "title_with_names": "Delay Embedding Theory of Neural Sequence Models, M. Ostrow, A. Eisen, and I. Fiete", "year": 2024 },
+      { "title_with_names": "The Unfolding Argument: Why IIT and Other Causal Structure Theories Cannot Explain Consciousness, A. Doerig, A. Schurger, A. Hess, and M. H. Herzog", "year": 2019 },
+      { "title_with_names": "The Multiple Realization Book, T. W. Polger and L. A. Shapiro", "year": 2016 }
+    ]
+  }
+}

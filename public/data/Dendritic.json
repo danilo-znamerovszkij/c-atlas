@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Dendritic Integration Theory",
+    "summary": "Dendritic Integration Theory holds that conscious perception depends on a cellular event, the nonlinear integration of top-down and bottom-up signals in the apical dendrites of layer 5 pyramidal neurons in the neocortex. When feedback from higher areas coincides with feedforward sensory input, the dendrite fires a calcium spike that amplifies the neuron's output, and Larkum and Aru propose that this amplification gates information into awareness.",
+    "associated_thinkers": ["Matthew Larkum", "Jaan Aru"],
+    "category": "Materialism",
+    "subcategory": "Neurobiological",
+    "core_identity_tagline": "Consciousness as Dendritic Integration of Top-Down and Bottom-Up Signals",
+    "classification_tags": ["neuroscience", "dendrites", "pyramidal neurons", "anesthesia", "microcircuits"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is identified with the integration of two information streams inside layer 5 pyramidal neurons, with feedback arriving at the distal apical dendrites and feedforward input arriving near the cell body. Aru and colleagues suggest consciousness is heavily influenced by, or possibly synonymous with, this integration.",
+    "ontological_status": "Physicalism (neurobiological)",
+    "mind_body_relationship": "Conscious states depend on, and may be identical to, specific biophysical events in cortical neurons. The theory treats mind as a product of brain microcircuitry and posits nothing beyond it.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (conscious states arise from identifiable biophysical events in neurons and the thalamocortical dynamics they enable)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "DIT does not explain why dendritic integration feels like anything. It specifies which neural events let a content reach awareness. Its predecessor, LaBerge and Kasevich's Apical Dendrite Theory, speculated that the electromagnetic field around an active apical dendrite might carry the phenomenal impression itself.",
+    "ontological_commitments": "Pyramidal neurons with functionally separate dendritic compartments, dendritic calcium spikes, cortical feedback and feedforward pathways, and the thalamocortical system.",
+    "epistemic_access": "Studied from the third person through cellular electrophysiology and comparisons of conscious and unconscious states, such as wakefulness and general anesthesia.",
+    "constituents_and_structure": "The basic unit is the layer 5 pyramidal neuron acting as a two-level integrator, with the apical dendrite receiving top-down input and the region near the soma receiving bottom-up input. Many such neurons, coupled through thalamocortical loops, shape the global activity patterns of conscious states."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Access (which perceptual contents reach awareness); conscious versus unconscious states (waking versus anesthesia).",
+    "distinctive_mechanism_or_principle": "Coincidence detection in the apical dendrite. When feedback from higher areas matches feedforward sensory input, the dendrite generates a calcium spike that amplifies the neuron's firing, and this amplification selects what enters awareness.",
+    "dynamics_of_emergence": "Conscious perception occurs moment to moment, whenever top-down and bottom-up signals coincide. In conscious states, dendrite-soma coupling lets complex, sustained activity build across the thalamocortical system; under general anesthesia that coupling breaks and signal propagation stalls.",
+    "location_and_distribution": "The dendritic trees of layer 5 pyramidal neurons in the neocortex, embedded in thalamocortical circuits. The mechanism is local and cellular, but its effects shape global brain activity.",
+    "causation_and_functional_role": "Pyramidal neurons act as gates that control how global activation patterns evolve. Dendritic amplification picks out relevant inputs, deciding which information goes on to shape further cortical processing.",
+    "integration_or_binding": "Binding starts inside single neurons, which combine contextual feedback and sensory feedforward signals in different compartments. Gated output from many such neurons then sustains integrated dynamics across the thalamocortical system.",
+    "information_flow_or_representation": "Bottom-up sensory data reach the proximal dendrites, and top-down predictions from higher areas reach the distal apical tuft. A match between the two amplifies the signal, which Aru and colleagues call the flexible integration of bottom-up and top-down data at the cellular level.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Apical dendrites of layer 5 pyramidal neurons perform nonlinear integration of top-down and bottom-up inputs.",
+      "Coincident distal and proximal input triggers dendritic calcium spikes that amplify the neuron's response, and Larkum hypothesizes that this match underlies perceptual awareness.",
+      "General anesthesia disrupts dendrite-soma coupling, blocking consciousness while much other brain activity continues.",
+      "In conscious states the dendritic mechanism enables sustained thalamocortical dynamics that are blocked in unconscious states."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical (cellular electrophysiology and anesthesia studies), linked theoretically to large-scale accounts of consciousness."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Recordings of dendritic calcium spikes in layer 5 pyramidal neurons; measurements of dendrite-soma coupling under general anesthesia.",
+    "criticisms_and_tensions": "The anesthesia findings show that dendrite-soma coupling is necessary for consciousness, which falls short of showing it is sufficient. The stronger claim that consciousness may be synonymous with dendritic integration goes further than evidence linking the mechanism to conscious states.",
+    "open_questions_and_limitations": "Proponents waver between consciousness being ‘heavily influenced by’ dendritic integration and being ‘synonymous with’ it. The theory leaves open why this cellular event should be experienced at all.",
+    "ontological_coherence": "Consistent with neurobiological physicalism. Its proponents present it as compatible with Global Neuronal Workspace and predictive processing theories, supplying a cellular mechanism beneath their large-scale accounts."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Since consciousness here depends on a specific biophysical mechanism in cortical neurons, an artificial system would qualify only if it reproduced that two-compartment dendritic integration and its gating role."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness here is a product of dendritic activity in living cortex, nothing survives the brain's death."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The theory explains awareness through neural mechanisms and implies no cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Conditional",
+      "rationale": "A digital copy would be conscious only if it reproduced the dendritic integration and thalamocortical dynamics the theory requires."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Compatible" },
+      { "name": "Predictive Theories (Top-Down)", "relationship": "Compatible" },
+      { "name": "Lamme's Recurrent Processing Theory", "relationship": "Overlap" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Dendritic Integration Theory, Matthew Larkum and Jaan Aru", "year": 2013 },
+      { "title_with_names": "The Apical Dendrite Theory of Consciousness, David LaBerge and Ray Kasevich", "year": 2007 }
+    ]
+  }
+}

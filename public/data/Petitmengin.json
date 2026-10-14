@@ -1,0 +1,83 @@
+{
+  "id_and_class": {
+    "theory_title": "Petitmengin’s Micro-Phenomenology",
+    "summary": "Claire Petitmengin holds that lived experience has a fine-grained micro-dynamics (pre-reflective, bodily, affective, temporal, gestural) that normally goes unnoticed but can be described precisely under guided conditions. Her micro-phenomenological interview leads a person back to one specific past moment and uses content-empty questions to draw out how it unfolded, without suggesting what will be found. The aim is first-person data rigorous enough to constrain, and be constrained by, neuroscience.",
+    "associated_thinkers": ["Claire Petitmengin"],
+    "category": "Phenomenology",
+    "subcategory": "",
+    "core_identity_tagline": "Consciousness as Describable Micro-Dynamics of Lived Experience",
+    "classification_tags": ["micro-phenomenology", "first-person methods", "interview", "neurophenomenology", "introspection"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Petitmengin makes an epistemic claim, not a metaphysical one: phenomenal consciousness has a describable micro-dynamics, a pre-reflective layer through which any perception, thought, or feeling emerges.",
+    "ontological_status": "Metaphysically neutral (methodological)",
+    "mind_body_relationship": "First-person and third-person analyses are meant to guide and determine one another, which Petitmengin hopes may shed light on the explanatory gap. She proposes no metaphysics of the relation.",
+    "primitive_or_emergent_status": "Unclear",
+    "emergence_type": "Not addressed metaphysically. The method studies microgenesis, how a given experience takes shape in time, not how consciousness arises from matter.",
+    "subjectivity_and_intentionality": "The method turns attention from what is experienced to how it is experienced, treating the act of experiencing, not its representational content, as the object of study.",
+    "qualia_account": "",
+    "ontological_commitments": "Experience with diachronic phases and synchronic dimensions, recurring generic structures across people, and a deep transmodal, gestural stratum.",
+    "epistemic_access": "Second-person guided interviews built on Pierre Vermersch's explicitation interview. The subject evokes a singular past moment vividly enough to re-live and describe it, while the interviewer avoids leading questions.",
+    "constituents_and_structure": "Each lived moment has a diachronic structure (stages, including a normally unnoticed genesis) and a synchronic structure (simultaneous experiential dimensions). Beneath content lies a transmodal stratum, felt as interior movement, that Petitmengin argues is central to the emergence of meaning."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal micro-structure; the emergence of thoughts, intuitions, emotions, memories, and perceptual meaning; attention.",
+    "distinctive_mechanism_or_principle": "Guided evocation with content-empty questions, which aims to bypass the opinions and reconstructions that make ordinary introspective reports unreliable.",
+    "dynamics_of_emergence": "Experiences that seem instantaneous and simple unfold through phases, from a pre-reflective genesis to a stabilized meaning.",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "The transmodal, gestural layer plays an essential role, Petitmengin argues, in the emergence of meaning and understanding.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Guided interviews reveal fine-grained structure in experiences that people ordinarily report as simple.",
+      "Generic experiential structures recur across subjects and domains beneath the specific content of each episode.",
+      "With neurologists, Petitmengin used interviews to detect pre-reflective changes preceding epileptic seizures that patients had never articulated, and paired them with analysis of preictal brain activity.",
+      "Petitmengin and Michel Bitbol argue that standard objections to introspection target naïve inner observation, not mediated, evocation-based access."
+    ],
+    "basis_of_belief_or_evidence_type": "Phenomenological and empirical: structured first- and second-person interviews paired with neurophysiological data."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Micro-phenomenological interviews on seizure prodromes paired with EEG of preictal activity (Petitmengin, Navarro, and Le Van Quyen, 2007); the interview method applied to itself as a reliability check (Heimann et al., 2022).",
+    "criticisms_and_tensions": "Critics note that the constraint between experiential and neural levels in the seizure studies remains programmatic, without an explicit explanatory model. After exchanges with Dan Zahavi, some practitioners dropped the term ‘pre-reflective’, which classical phenomenology reserves for self-awareness that reflection cannot retrieve.",
+    "open_questions_and_limitations": "It is unresolved whether guided evocation recovers the micro-dynamics of the original experience or partly creates a new one.",
+    "ontological_coherence": "As a method it carries no metaphysical commitments, so it fits a range of ontologies and serves the wider neurophenomenological program."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Varela's Neurophenomenology", "relationship": "Foundation" },
+      { "name": "Bitbol's Radical Neurophenomenology", "relationship": "Overlap" },
+      { "name": "Zahavi’s Pre-Reflective For-Me-Ness", "relationship": "Critique" },
+      { "name": "Schwitzgebel's Unreliable Introspection, Indeterminate Boundaries, Metaphysical Humility", "relationship": "Contrast" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Describing one's subjective experience in the second person: an interview method for the science of consciousness, Claire Petitmengin", "year": 2006 },
+      { "title_with_names": "Towards the source of thoughts: the gestural and transmodal dimension of lived experience, Claire Petitmengin", "year": 2007 },
+      { "title_with_names": "Anticipating seizure: pre-reflective experience at the center of neuro-phenomenology, Claire Petitmengin, V. Navarro, and M. Le Van Quyen", "year": 2007 },
+      { "title_with_names": "The validity of first-person descriptions as authenticity and coherence, Claire Petitmengin and Michel Bitbol", "year": 2009 },
+      { "title_with_names": "Description of the experience of experiencing: a reply to commentators, Claire Petitmengin", "year": 2011 },
+      { "title_with_names": "Varieties of reflection, Dan Zahavi", "year": 2011 },
+      { "title_with_names": "The lived experience of remembering a ‘good’ interview: micro-phenomenology applied to itself, K. Heimann et al.", "year": 2022 },
+      { "title_with_names": "Petitmengin’s Micro-Phenomenology, Landscape of Consciousness (Closer To Truth)" }
+    ]
+  }
+}

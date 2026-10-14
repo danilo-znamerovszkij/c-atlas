@@ -1,0 +1,85 @@
+{
+  "id_and_class": {
+    "theory_title": "Heidegger’s Dasein (Being-In-The-World) Without Qualia",
+    "summary": "Martin Heidegger refuses to treat consciousness as an inner subject inspecting mental contents. He starts instead from Dasein, the being we ourselves are, already absorbed in a world of tools, others, moods, and tasks, and treats what we now call phenomenal consciousness as a later abstraction from this practical, affective, temporal disclosure of things as meaningful.",
+    "associated_thinkers": ["Martin Heidegger"],
+    "category": "Phenomenology",
+    "subcategory": "",
+    "core_identity_tagline": "Consciousness Derived From Being-in-the-World",
+    "classification_tags": ["phenomenology", "dasein", "anti-cartesian", "embodiment", "hermeneutics"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Heidegger replaces consciousness with Dasein’s disclosedness: the openness in which beings show up as usable, threatening, boring, or urgent. Perception, pain, and mood are ways a world is disclosed rather than inner qualitative states.",
+    "ontological_status": "Phenomenological ontology (anti-Cartesian)",
+    "mind_body_relationship": "Heidegger calls the split between the psychical and the somatic ontologically untenable. In the Zollikon Seminars he grants the brain’s reality but separates the lived body (‘bodying-forth’) from the body as a corporeal thing and motive from cause, denying that causal description of the brain reaches Dasein’s being.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (Heidegger rejects the subject-object framework in which consciousness could be fundamental or emergent; consciousness is a derivative mode of Dasein’s being)",
+    "subjectivity_and_intentionality": "Intentionality is demoted from a basic structure of mental acts to a derivative expression of Dasein’s transcendence toward a world. Mineness (Jemeinigkeit) is an ontological feature of Dasein, not a qualitative feel.",
+    "qualia_account": "There are no qualia in Heidegger’s picture. We first hear motorcycles, not raw noises later given meaning, so qualitative experience is an abstraction made by stripping away everyday significance.",
+    "ontological_commitments": "Dasein, the world as a network of significance, ready-to-hand equipment, present-at-hand objects (as a derivative mode), others, moods, care, and temporality.",
+    "epistemic_access": "Hermeneutic phenomenology of everyday existence. Heidegger rejects Husserl’s bracketing of the world because it distorts the being it tries to describe, and treats breakdowns such as anxiety as revealing what normally stays in the background.",
+    "constituents_and_structure": "Dasein’s being is care, unified by temporality. Its main structures are being-in-the-world, disposedness or mood (Befindlichkeit), understanding, being-with-others, and the clearing (Lichtung) in which things become intelligible."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (dissolved or reinterpreted as disclosure); intentionality; selfhood; mood and affect; temporality; social meaning",
+    "distinctive_mechanism_or_principle": "Disclosedness: Dasein is the clearing where beings show up as meaningful, so the question becomes how there is intelligibility, not why there is experience.",
+    "dynamics_of_emergence": "Dasein is temporal through and through, thrown into a situation and projecting toward possibilities, including its own death. Detached observation of objects arises only when skilled coping breaks down or is set aside.",
+    "location_and_distribution": "Nowhere inside a head. Dasein is spread across its involvements with equipment, other people, and tasks, which is what ‘being-there’ means.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "Unity comes from care and temporality: Dasein’s past, present, and future hang together as one structured way of existing, with no separate sensations left to bind.",
+    "information_flow_or_representation": "Heidegger rejects the idea that our basic relation to the world is representational. Skilled coping with ready-to-hand tools comes first; mental representation of present-at-hand objects is derivative.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Skilled practical coping is primary, and detached contemplation of objects is a derivative mode reached by stripping away everyday significance.",
+      "Moods disclose how one finds oneself in a world and sit prior to any split between subjective and objective.",
+      "Anxiety, as a breakdown of everyday engagement, reveals that ordinary functioning rests on a felt sense of how things matter.",
+      "The hard problem is an artifact of the Cartesian inner/outer split, which being-in-the-world denies a starting point."
+    ],
+    "basis_of_belief_or_evidence_type": "Phenomenological and hermeneutic analysis of everyday existence"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative",
+    "known_empirical_interventions_or_tests": "No direct tests. Hubert Dreyfus’s critique of symbolic AI drew on Heidegger, and the work fed behavior-based robotics and 4E (embodied, embedded, extended, enactive) cognitive science, though these concern cognition rather than phenomenal consciousness.",
+    "criticisms_and_tensions": "Critics say Heidegger evades the hard problem rather than dissolving it, since changing the subject leaves untouched the fact that there is something it is like to be Dasein. Zahavi argues phenomenology can address the hard problem through pre-reflective self-awareness, the Husserlian ground Heidegger subordinated. Michael Wheeler and Dreyfus disagree over whether embodied cognitive science, which keeps action-oriented representation, is truly Heideggerian.",
+    "open_questions_and_limitations": "Heidegger offers no account of why experience feels like anything, and Carman and others dispute how far his anti-representationalism extends. Reading his work as a theory of consciousness risks conflating intelligence and coping with phenomenal experience.",
+    "ontological_coherence": "Coherent on its own terms, and neither reductive, dualist, nor idealist. It sits awkwardly in any landscape of consciousness because it challenges the question rather than competing as an answer."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "Dreyfus used Heidegger to argue that symbolic AI fails because it treats our relation to the world as representational. An artificial Dasein would need embodied, caring involvement in a world, which Heidegger’s view gives no reason to expect from computation."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Meaning arises from finite Dasein’s involvement in a world of significance and its relation to its own mortality, with no cosmic teleology implied."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Since Dasein is defined by finite, embodied, temporal existence in a world, a copied pattern of brain activity would not carry its being."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Husserl’s Transcendental Phenomenology", "relationship": "Critique" },
+      { "name": "Enactivism", "relationship": "Influence" },
+      { "name": "A. Clark's Extended Mind", "relationship": "Contrast" },
+      { "name": "Zahavi’s Pre-Reflective For-Me-Ness", "relationship": "Contrast" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Being and Time, Martin Heidegger", "year": 1927 },
+      { "title_with_names": "Zollikon Seminars: Protocols, Conversations, Letters, Martin Heidegger (ed. M. Boss)", "year": 2001 },
+      { "title_with_names": "Being-in-the-World: A Commentary on Heidegger's Being and Time, Division I, H. L. Dreyfus", "year": 1991 },
+      { "title_with_names": "What Computers Still Can't Do: A Critique of Artificial Reason, H. L. Dreyfus", "year": 1992 },
+      { "title_with_names": "Why Heideggerian AI Failed and How Fixing It Would Require Making It More Heideggerian, H. L. Dreyfus", "year": 2007 },
+      { "title_with_names": "Making Sense of Heidegger: A Paradigm Shift, T. Sheehan", "year": 2015 },
+      { "title_with_names": "Heidegger's Analytic: Interpretation, Discourse, and Authenticity in Being and Time, T. Carman", "year": 2003 },
+      { "title_with_names": "Reconstructing the Cognitive World: The Next Step, M. Wheeler", "year": 2005 },
+      { "title_with_names": "Intentionality and Phenomenality: A Phenomenological Take on the Hard Problem, D. Zahavi", "year": 2003 },
+      { "title_with_names": "Heidegger’s Dasein (Being-In-The-World) Without Qualia, Landscape of Consciousness, Robert Lawrence Kuhn" }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Resch’s Platonic Functionalism",
+    "summary": "Jason Resch combines functionalism (a mind’s consciousness depends only on its functional organization) with mathematical Platonism (all mathematical objects, including every computation, exist). Since some Platonic computation simulates our universe and its observers, we could be those computations, so Resch drops the separate physical world and arrives at a ‘mathematical monism’ in which minds and physics emerge from computation.",
+    "associated_thinkers": ["Jason Resch"],
+    "category": "Integrated Info",
+    "subcategory": "",
+    "core_identity_tagline": "Minds and Worlds as Platonic Computations",
+    "classification_tags": ["functionalism", "platonism", "computation", "mathematical monism", "substrate independence"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is fully defined by functional organization, and every functional organization exists as a computation among Platonic mathematical objects.",
+    "ontological_status": "Neutral monism (mathematical/computational)",
+    "mind_body_relationship": "Neither mind nor matter is basic. Computation is the single neutral foundation from which both conscious minds and physical realities emerge.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Emerges from computation, which Resch takes as fundamental; physical reality is itself an emergent phenomenon of observer computations",
+    "subjectivity_and_intentionality": "Observers are computations; a functional duplicate of a person, wherever it is computed, has the same self-awareness.",
+    "qualia_account": "Functional organization fully fixes qualia: a functionally identical emulation of a brain must be conscious in exactly the same way.",
+    "ontological_commitments": "Mathematical objects, including all computations, existing independently; no separately existing physical world.",
+    "epistemic_access": "Through philosophical argument and through derivations of physical law from the assumption that observer states are computationally generated.",
+    "constituents_and_structure": "The set of all computations, among which are observer states whose experiences show lawful order because of computational consistency."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal; qualia; observers and the nature of physical reality",
+    "distinctive_mechanism_or_principle": "Substrate independence plus Platonism: if substrate does not matter, a mind made of mathematics is as conscious as one made of matter, and all such minds exist.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Not located in physical space; minds exist wherever the right computation exists among Platonic mathematical objects.",
+    "causation_and_functional_role": "Resch rejects epiphenomenalism: a consciousness without functional role would have had no reason to evolve.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Information and its transformations are fundamental, in line with Wheeler’s participatory universe and Frank Wilczek’s prediction that physical laws will be reinterpreted as statements about information.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "A brain emulation is possible because all known physical laws are computable and accurate neuron models need no non-computable physics.",
+      "Chalmers’s fading and dancing qualia and Zuboff’s partial visual cortex replacement arguments rule out an emulation that is conscious in a different way.",
+      "Because the set of computations includes a full simulation of our universe, we cannot tell whether we are physical or Platonic, so Occam’s razor removes the physical world.",
+      "Marchal, Standish, Müller, and Wolfram derive features of physics (quantum logic, the Schrödinger equation, simple probabilistic laws, the second law, relativity) from the assumption that observer states are computed."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical argument (functionalism, Platonism, parsimony) with claimed support from theoretical derivations in physics and computation"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "Derivations of physical regularities from observer-computation assumptions by Marchal (2001), Standish (2006), Müller (2020), and Wolfram (2021).",
+    "criticisms_and_tensions": "The argument inherits every objection to functionalism and to mathematical Platonism, and its conclusion depends on both being true. Deriving known physics after the fact is weaker than predicting new observations, so the claimed falsifiability is contested.",
+    "open_questions_and_limitations": "Why typical observers should experience a simple, lawful world rather than chaotic ones depends on measure assumptions over infinitely many computations.",
+    "ontological_coherence": "Resch notes parallels with idealism, but computational consistency constrains experience to lawful order, which separates mathematical monism from most idealist views."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "Resch argues that an emulation of a human brain must be conscious in exactly the same way as the biological brain."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Yes",
+      "rationale": "Since functional organization fully fixes consciousness, a faithful emulation would carry the same mind and qualia."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Functionalism", "relationship": "Foundation" },
+      { "name": "Wolfram's Consciousness in the Ruliad", "relationship": "Overlap" },
+      { "name": "Zuboff’s Universalism", "relationship": "Influence" },
+      { "name": "Bostrom’s Computational Functionalism", "relationship": "Overlap" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Resch’s Platonic Functionalism, Jason Resch" }
+    ]
+  }
+}

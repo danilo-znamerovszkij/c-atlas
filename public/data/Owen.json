@@ -1,0 +1,79 @@
+{
+  "id_and_class": {
+    "theory_title": "Owen’s Mind-Body Powers: NCC are Philosophically and Religiously Neutral",
+    "summary": "Matthew Owen argues that the search for neural correlates of consciousness (NCC) commits no one to physicalism, so atheist materialists and theistic dualists can pursue it together. His own Mind-Body Powers model reads NCC through Aristotelian-Thomistic hylomorphism: neural mechanisms and conscious states are the joint manifestation of a person's bodily and mental powers, and consciousness is prior to its neural mechanisms.",
+    "associated_thinkers": ["Matthew Owen"],
+    "category": "Challenge",
+    "subcategory": "",
+    "core_identity_tagline": "Consciousness as a Mental Power Co-Manifesting with the Brain",
+    "classification_tags": ["neural correlates", "hylomorphism", "mental causation", "neutrality", "dualism"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a power of the soul, the form that unifies a living human body. Conscious states are manifestations of that mental power, paired with bodily powers expressed in neural mechanisms.",
+    "ontological_status": "Hylomorphic dualism (Thomistic)",
+    "mind_body_relationship": "Mind and body are form and matter of one subject. Following Aquinas, the body and its parts exist so that the soul can manifest its powers, which requires a ‘well-ordered brain’; neural mechanisms exist because the body is unified by a form with the power to be conscious.",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "Not emergent; Owen rejects the view that consciousness emerges from the brain and holds it to be ontologically prior to its neural mechanisms.",
+    "subjectivity_and_intentionality": "Every conscious state has a bearer, the conscious subject or creature. Owen treats accounting for this subject as possibly the hardest problem, harder than phenomenal feel or unity.",
+    "qualia_account": "",
+    "ontological_commitments": "Substantial forms (souls) that are metaphysically simple; mental and bodily powers; neurons and neurotransmitters as the matter through which powers manifest.",
+    "epistemic_access": "Through NCC research, which seeks the minimal neuronal mechanisms sufficient for consciousness, interpreted within an Aristotelian metaphysics of causation.",
+    "constituents_and_structure": "A unified subject whose form carries mental powers and whose body carries biological powers, the two manifesting together at cellular and sub-cellular levels."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal; unity of experience; the conscious subject; mental causation",
+    "distinctive_mechanism_or_principle": "Co-manifestation of mind-body powers. NCC exist because neural correlates and conscious states jointly express interdependent bodily and mental powers.",
+    "dynamics_of_emergence": "Either side can lead. Bodily powers often instigate a conscious state, as when one sees a face; a mental power can instigate neural activity, as when one consciously signs a check.",
+    "location_and_distribution": "Neural mechanisms in human brains and many animal brains, as parts of a body unified by a single form.",
+    "causation_and_functional_role": "Conscious states cause physical events in the body. Owen notes that it can be legally vital that a conscious intention to sign a check caused the neural events of signing.",
+    "integration_or_binding": "Unity is given by the single form, so there is no need to explain how a unified experience arises from countless neural parts.",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Crick and Koch meant ‘correlates’ to be ontologically neutral, and Koch cites Owen's model as a nonphysicalist reading of NCC.",
+      "Reductive physicalism has not managed to reduce consciousness to its neural substrate.",
+      "Non-reductive physicalism faces Kim's exclusion problem: supervening conscious states risk losing any causal role to their neural base.",
+      "The hylomorphic framework has been applied to measuring consciousness, detecting it in brain-injured patients, and assessing brain organoids."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (Aristotelian and Thomistic metaphysics) applied to empirical NCC research."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "Applications to measuring consciousness, detecting it in unresponsive brain-injured patients, and evaluating brain organoid consciousness; current work extends the model to artificial neural networks.",
+    "criticisms_and_tensions": "Physicalists can argue, following Smart, that reductive physicalism gives the most parsimonious explanation of NCC. The neutrality claim sits alongside a model that is itself explicitly dualist and theologically motivated.",
+    "open_questions_and_limitations": "",
+    "ontological_coherence": "Coherent within Aristotelian-Thomistic hylomorphism, and Owen presents it as one admissible foundation among others for an NCC science that requires none of the ‘-isms’."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Owen is applying the model to artificial neural networks, but on hylomorphism consciousness is a power of the form of a living body, and he gives no verdict on machines."
+    },
+    "survival_beyond_death": {
+      "stance": "Possible",
+      "rationale": "Owen holds that the hylomorphic framework is compatible with life after death and gives warrant for anticipating bodily resurrection."
+    },
+    "meaning_and_purpose": {
+      "stance": "Uncertain",
+      "rationale": "The model is designed to welcome atheists and theists alike, though its Thomistic roots fit a theistic picture."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Since consciousness belongs to the unifying form of a living body and is prior to neural mechanisms, copying those mechanisms would not carry the subject over."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Aquinas’s Hylomorphism", "relationship": "Foundation" },
+      { "name": "Aristotle’s Hylomorphism", "relationship": "Foundation" },
+      { "name": "Crick and Koch's Neural Correlates of Consciousness", "relationship": "Extension" },
+      { "name": "Kim’s Supervenience", "relationship": "Contrast" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Owen's Mind-Body Powers: NCC are Philosophically & Religiously Neutral (Landscape of Consciousness entry), Matthew Owen", "year": 2020 },
+      { "title_with_names": "The Feeling of Life Itself, Christof Koch", "year": 2019 },
+      { "title_with_names": "De Anima, Aristotle" },
+      { "title_with_names": "Metaphysics, Aristotle" }
+    ]
+  }
+}

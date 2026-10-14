@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Marchetti’s Attention-Based Theory",
+    "summary": "Giorgio Marchetti argues that attention produces phenomenal consciousness by modulating the energy level of the neural system that carries it out, which he calls the organ of attention. Where, how strongly and in which direction that energy shifts fixes the quality, intensity and pleasantness of an experience, and the resulting experience gives the agent a sense of self and tells it how its own operations affect that self.",
+    "associated_thinkers": ["Giorgio Marchetti"],
+    "category": "Materialism",
+    "subcategory": "Homeostatic",
+    "core_identity_tagline": "Consciousness as Attention Modulating Neural Energy",
+    "classification_tags": ["attention", "self", "hedonic", "set-point", "neural energy"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "The phenomenal aspect of consciousness (PAC) is the modulation of the energy level of the organ of attention by attentional activity. Following Damasio, Marchetti holds that the PAC supplies the agent with a sense of self and with information about how its own operations affect it.",
+    "ontological_status": "Physicalism (neurobiological)",
+    "mind_body_relationship": "Each dimension of experience corresponds to a feature of the energy modulation in a physical neural substrate, so conscious experience is produced by brain activity.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (from attentional modulation of a neural system’s energy level)",
+    "subjectivity_and_intentionality": "Attention starts from a single point inside the body and is directed at something, which gives experience its egocentric perspective. Every conscious experience implies at least a minimal self, and the self is learned through continual differentiation between the agent and other entities.",
+    "qualia_account": "The qualitative feel of an experience (seeing red versus smelling garlic) is set by which area of the organ of attention attentional activity modulates. Intensity tracks the amplitude of the modulation, and pleasantness tracks whether the energy level moves toward or away from its set-point.",
+    "ontological_commitments": "An organ of attention with central (cognitive), middle (priority maps) and peripheral (sensory) levels, its energy level and set-point, and working memory.",
+    "epistemic_access": "Through analysis of the dimensions of experience mapped onto a neuroscientific model of attention, and observation of extreme cases such as pain, which Marchetti treats as an interruption of the normal flow of attention.",
+    "constituents_and_structure": "Five dimensions of experience: qualitative, quantitative, hedonic, temporal and spatial. These shape four features of the self: differentiation from others (ownership), perspective, continuity and unity."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal, Self-awareness, Hedonic valence, Agency (sense of control)",
+    "distinctive_mechanism_or_principle": "Attentional activity modulates the energy level of the organ of attention; the area, amplitude, direction, duration and spatial path of that modulation determine the corresponding dimensions of experience.",
+    "dynamics_of_emergence": "Attention is periodic, which limits how long any modulation, and so any experience, lasts; working memory extends this limit. Features of the self can weaken or vanish depending on arousal state (wakefulness, REM sleep, vegetative state, near-death experience).",
+    "location_and_distribution": "Distributed across the levels and parts of the organ of attention, modeled on Tamber-Rosenau and Marois’s multi-level account of attention.",
+    "causation_and_functional_role": "Experience tells the agent how its operations affect its self. The hedonic dimension matters most because deviation from the set-point signals what is and is not under the agent’s control.",
+    "integration_or_binding": "The feeling of unity, the sense of being one organism of interconnected parts speaking with a ‘single voice’, rests on the joint contribution of the qualitative, quantitative, temporal and spatial dimensions.",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "There is no consciousness without attention.",
+      "Pleasant experiences occur when the organ of attention’s energy moves toward its set-point and unpleasant ones when it moves away.",
+      "Pain consists primarily of an interruption in the normal flow of attention.",
+      "Conscious experience always implies at least a minimal self, and the self must be learned through experience."
+    ],
+    "basis_of_belief_or_evidence_type": "Theoretical, building on cognitive neuroscience models of attention and phenomenological analysis"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "Whether attention can exist without some level of selfhood, or whether each always implies the other, remains open. The physical meaning of the organ of attention’s ‘energy level’ and set-point needs specifying for direct testing.",
+    "ontological_coherence": "Consistent within a physicalist, homeostatic framework that ties experience to a regulated neural set-point, in line with Damasio’s approach."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Consciousness requires attentional modulation of a neural organ’s energy around a set-point; whether an artificial system could have an equivalent is not addressed."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since experience is the modulation of a neural substrate’s energy, it cannot continue once that substrate stops working."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Marchetti links consciousness to the development of a self and to symbolic activities such as language and art, all within human life."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "Marchetti does not say whether a reproduced organ of attention outside the brain would support the same experience."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness", "relationship": "Influence" },
+      { "name": "Graziano's Attention Schema Theory", "relationship": "Overlap" },
+      { "name": "Prinz's Neurofunctionalism: Attention Engenders Experience", "relationship": "Overlap" },
+      { "name": "Solm's Affect as the Hidden Spring of Consciousness", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Marchetti’s Attention-Based Theory, Giorgio Marchetti" }
+    ]
+  }
+}

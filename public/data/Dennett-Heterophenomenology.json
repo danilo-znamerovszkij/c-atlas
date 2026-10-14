@@ -1,0 +1,83 @@
+{
+  "id_and_class": {
+    "theory_title": "Dennett’s Heterophenomenology",
+    "summary": "Daniel Dennett proposes a third-person method for the science of consciousness: treat subjects' sincere reports as data about what they believe their experience is like, while withholding any assumption that those beliefs are true of an inner reality. The subject is the authority on how things seem, and no authority on whether the seeming answers to anything real. The task then becomes explaining why the brain produces exactly those reports, which sets the method against the whole phenomenological tradition.",
+    "associated_thinkers": ["Daniel Dennett"],
+    "category": "Phenomenology",
+    "subcategory": "",
+    "core_identity_tagline": "Consciousness Studied as Reports and Beliefs About Experience",
+    "classification_tags": ["third-person method", "illusionism", "first-person reports", "naturalism", "anti-phenomenology"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "As a method, heterophenomenology identifies the data of consciousness science with a subject's beliefs and reports about experience, the subject's ‘heterophenomenological world’. In Dennett's wider program, the apparent rich phenomenal interior is a belief-state to be explained, not a store of intrinsic qualia.",
+    "ontological_status": "Physicalism (functionalist, illusionist)",
+    "mind_body_relationship": "Within Dennett's materialism, conscious seemings are products of brain processes, explained by asking what in the brain and its history generates a subject's beliefs about experience.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable. The method is officially neutral on qualia, and Dennett's wider illusionism denies that private, intrinsic qualia exist to be primitive or emergent.",
+    "subjectivity_and_intentionality": "Subjects are interpreted as bearers of beliefs about their own experience, in line with Dennett's intentional stance. Every first-person question (‘why do I experience red this way?’) becomes a third-person one (‘why does this subject judge and report experiencing red this way?’).",
+    "qualia_account": "The method neither affirms nor denies qualia. Dennett's broader illusionism, of which this is the methodological arm, explains why there seem to be ineffable inner qualities without granting that they exist.",
+    "ontological_commitments": "Brains, behavior, verbal reports, and the beliefs attributed to subjects; no commitment to private inner items answering to those beliefs.",
+    "epistemic_access": "Third-person only: verbal reports, behavior, experimental context, neural data, and evidence of error, expectation, and confabulation. First-person reports are indispensable data but not privileged revelations.",
+    "constituents_and_structure": "The heterophenomenological world, the interpreted totality of a subject's reports, which Dennett compares to the world of a novel: real as something believed and described, without commitment to a matching reality."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (as reported seemings); introspection; self-report.",
+    "distinctive_mechanism_or_principle": "Third-person bracketing, which Dennett modeled on Husserl's epoché: take the subject as seriously as possible as a reporter while suspending commitment to the truth of what is reported.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "The explanatory target is the causal story in the brain that produces a subject's beliefs and reports, whether or not they are accurate.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Reports express beliefs about experience. Dennett ties the method to his Multiple Drafts Model, which denies a central Cartesian Theater where experience comes together.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Subjects are authoritative about how things seem to them but not about whether things are as they seem.",
+      "The method is neutral between theories of consciousness, which Dennett calls ‘the beginning of a science of consciousness and not the end’.",
+      "Once all third-person data, verbal reports included, are explained, nothing remains to explain.",
+      "Dennett challenged critics to name a single experiment that goes beyond the heterophenomenological method, arguing that a first-person science would have no methods, data, or results."
+    ],
+    "basis_of_belief_or_evidence_type": "Methodological and philosophical argument, grounded in the practice of experimental psychology and neuroscience."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Dan Zahavi argues the method attacks a straw man, since classical phenomenology never claimed infallibility, and that its neutrality slides into metaphysical minimalism that denies experience its reality. Max Velmans and David Carr argue it either collapses into something phenomenologists accept or begs the question by treating experience as fiction. David Chalmers holds that a complete science must explain first-person data as well.",
+    "open_questions_and_limitations": "The method assumes that explaining reports exhausts what needs explaining. Whether this dissolves the hard problem or declines to address it divides Dennett from his critics.",
+    "ontological_coherence": "Consistent with Dennett's materialism and illusionism. Critics read method and conclusion as one program, which undercuts the claim that the method is pre-theoretical common ground."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "Since the evidence for consciousness is a system's reports and the processes that produce them, nothing in principle rules out an artificial system that produces them the same way. This follows from Dennett's functionalist program, not from the method alone."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "On Dennett's materialism, conscious seemings are products of brain processes and end with them."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Dennett's naturalism and atheism leave no room for cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "If what matters is the functional organization producing a person's beliefs and reports, reproducing that organization would in principle reproduce the person's heterophenomenological world."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Dennett’s Illusionism", "relationship": "Compatible" },
+      { "name": "Dennett's Multiple Drafts Model", "relationship": "Compatible" },
+      { "name": "Zahavi’s Pre-Reflective For-Me-Ness", "relationship": "Contrast" },
+      { "name": "Varela's Neurophenomenology", "relationship": "Contrast" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Consciousness Explained, Daniel C. Dennett", "year": 1991 },
+      { "title_with_names": "The fantasy of first-person science, Daniel C. Dennett", "year": 2001 },
+      { "title_with_names": "Who's on first? Heterophenomenology explained, Daniel C. Dennett", "year": 2003 },
+      { "title_with_names": "Heterophenomenology reconsidered, Daniel C. Dennett", "year": 2007 },
+      { "title_with_names": "Killing the straw man: Dennett and phenomenology, Dan Zahavi", "year": 2007 },
+      { "title_with_names": "Heterophenomenology versus critical phenomenology, Max Velmans", "year": 2007 },
+      { "title_with_names": "Facing up to the problem of consciousness, David J. Chalmers", "year": 1995 },
+      { "title_with_names": "Dennett’s Heterophenomenology, Landscape of Consciousness (Closer To Truth)" }
+    ]
+  }
+}

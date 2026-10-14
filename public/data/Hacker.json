@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Hacker’s Skepticism",
+    "summary": "Hacker, following Wittgenstein, argues that consciousness is no thing, substance, or brain state but a family of capacities and states of whole persons, such as perceiving, thinking, feeling, intending, and being self-aware. The hard problem, on his view, is a conceptual confusion produced by misusing language, so it calls for philosophical clarification, not neuroscientific explanation.",
+    "associated_thinkers": ["Peter Hacker"],
+    "category": "Challenge",
+    "subcategory": "",
+    "core_identity_tagline": "Consciousness as Capacities of Persons, Not a Thing",
+    "classification_tags": ["wittgenstein", "conceptual analysis", "hard problem", "ordinary language", "persons"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is not an entity to be identified with anything. The word picks out a range of logically interconnected capacities and states of living beings, rooted in behaviour and language use; to be conscious is to be a certain kind of being, a human or sentient animal.",
+    "ontological_status": "Wittgensteinian conceptual analysis (anti-reificationist)",
+    "mind_body_relationship": "Psychological predicates apply to whole persons, not to brains or sub-personal mechanisms. Saying the brain thinks or is conscious commits a category mistake; neuroscience shows how the brain enables perception and behaviour, not what consciousness is.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (consciousness is not a thing or event that could be generated, so asking whether it emerges is confused)",
+    "subjectivity_and_intentionality": "Subjectivity is built into the grammar and practices of words like ‘feel’, ‘see’, and ‘believe’. Saying ‘I feel pain’ already expresses subjective experience, with nothing further to explain.",
+    "qualia_account": "Hacker rejects qualia as extra inner items. There is no gap between brain states and mental states that needs bridging, so the demand to explain qualia mechanistically makes no sense.",
+    "ontological_commitments": "Living human beings and sentient animals with perceptual, cognitive, emotional, and volitional capacities, together with the language practices in which those capacities are described.",
+    "epistemic_access": "Through conceptual analysis of how psychological words are used, which Hacker sees as philosophy's job: contributing to human understanding, not to human knowledge.",
+    "constituents_and_structure": "Perception, thought, emotion, intention, and self-awareness, logically interconnected and expressed in behaviour; there is no consciousness over and above these forms of it."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (dissolved as a separate problem), Perception, Thought, Emotion, Intention, Self-awareness",
+    "distinctive_mechanism_or_principle": "Grammatical analysis: philosophical problems about consciousness are dissolved by tracing how psychological words are used and showing where reification leads to nonsense.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Consciousness belongs to the whole person or animal, not to the nervous system or any brain region.",
+    "causation_and_functional_role": "Hacker holds that looking for the cause of consciousness misunderstands it, because it is not a thing or event that could have a cause.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Treating consciousness as an object or entity in the brain is a category mistake.",
+      "Psychological predicates apply to persons, not to their brains or parts.",
+      "The hard problem arises from conceptual confusions that make it seem as if there is something to solve.",
+      "Neuroscience cannot answer philosophical questions about consciousness, because those questions are conceptual, not empirical."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (Wittgensteinian conceptual analysis)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Defenders of the hard problem reply that analysing how ‘I feel pain’ is used does not show why pain feels as it does, so dissolving the problem may simply sidestep it. Hacker's denial that neuroscience can explain consciousness also sits uneasily with much current consciousness research.",
+    "open_questions_and_limitations": "Hacker concedes that neuroscience explains how the brain enables perception and behaviour but gives no account of where that enabling ends and conceptual questions begin.",
+    "ontological_coherence": "Consistent within a Wittgensteinian approach that treats metaphysical questions as confusions. Because it makes no substrate claim, it can sit alongside a broadly naturalistic view of human beings."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Since consciousness consists in the capacities of a living human being or animal, it follows that nothing conscious remains once that being has died."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Hacker places consciousness within human life, behaviour, and language and sees philosophy's task as clarifying our understanding, with no cosmic dimension."
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Wittgenstein's Grammatical Fiction", "relationship": "Foundation" },
+      { "name": "Ryle’s Category-Dissolution of Inner-Theater Consciousness", "relationship": "Overlap" },
+      { "name": "Tallis's Anti-Neuromania Skepticism", "relationship": "Overlap" },
+      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Hacker’s Skepticism, Peter Hacker (Landscape of Consciousness entry)", "year": 2013 }
+    ]
+  }
+}

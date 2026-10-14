@@ -44,6 +44,68 @@
       inset 0 0 60px rgba(59, 130, 246, 0.08);
   }
 
+  // Full-screen reading mode (desktop): panel spans the viewport, text keeps
+  // a readable measure.
+  &.fullscreen {
+    width: 100vw;
+    right: -100vw;
+
+    &.visible {
+      right: 0;
+    }
+
+    .panel-content {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 48px 32px 64px;
+    }
+  }
+
+  .fullscreen-btn {
+    position: absolute;
+    top: 20px;
+    right: 62px;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    background: rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+    color: #fff;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    backdrop-filter: blur(10px);
+    z-index: 10;
+
+    &:hover {
+      background: rgba(0, 0, 0, 0.5);
+      border-color: rgba(255, 255, 255, 0.4);
+      transform: scale(1.1);
+    }
+
+    &:focus-visible {
+      outline: 2px solid rgba(198, 160, 50, 0.7);
+      outline-offset: 2px;
+    }
+
+    .icon-collapse {
+      display: none;
+    }
+
+    &[aria-pressed="true"] {
+      .icon-expand {
+        display: none;
+      }
+
+      .icon-collapse {
+        display: block;
+      }
+    }
+  }
+
   .panel-content {
     padding: 24px;
     position: relative;
@@ -710,6 +772,15 @@
     width: 100%;
     right: -100%;
     z-index: 9999;
+
+    // Already full width on phones.
+    .fullscreen-btn {
+      display: none;
+    }
+
+    &.fullscreen .panel-content {
+      padding: 20px;
+    }
 
     .panel-content {
       padding: 20px;

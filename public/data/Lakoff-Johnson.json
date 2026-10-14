@@ -1,0 +1,81 @@
+{
+  "id_and_class": {
+    "theory_title": "Lakoff and Johnson’s Embodied Realism and Embodied Mind",
+    "summary": "George Lakoff and Mark Johnson argue that the mind is inherently embodied: we think with a brain that evolved to run a body, so every concept, even color, is shaped by our sensorimotor makeup rather than read off a mind-independent world. Conscious experience is real and brain-caused, structured by an unconscious system of metaphors, frames and image schemas wired into neural circuits, though Lakoff concedes that qualia and sheer awareness may stay beyond scientific reach.",
+    "associated_thinkers": ["George Lakoff", "Mark Johnson"],
+    "category": "Materialism",
+    "subcategory": "Embodied",
+    "core_identity_tagline": "The Mind Is the Body",
+    "classification_tags": ["embodied cognition", "conceptual metaphor", "cognitive unconscious", "cognitive linguistics", "image schemas"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is the embodied organism’s way of presenting the world, a brain-caused phenomenon whose contents and categories come from bodily and neural structure, not from disembodied reason.",
+    "ontological_status": "Physicalism (embodied realism)",
+    "mind_body_relationship": "Lakoff states that ‘the mind is the body’: the properties of inference, metaphor, frames and categories follow from the properties of the brain. Some aspects, namely qualia and awareness, are not yet understood, but they are still caused by the body.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (from embodied neural mechanisms), with an acknowledged explanatory gap for qualia and awareness",
+    "subjectivity_and_intentionality": "We understand the world ‘in terms of what we can do with our bodies’. Reality is real, but all understanding of it is mediated by evolved perceptual, motor, affective and cognitive systems, which Lakoff distinguishes from skepticism, naive realism and relativism.",
+    "qualia_account": "Lakoff concedes that science has no method for modeling why red looks red or why a cello sounds like a cello. The relations among qualities are explainable: the structure of color relations follows from the neurophysiology of color vision.",
+    "ontological_commitments": "Brains and bodies as part of a real world, neural circuits instantiating metaphors and frames, image schemas, and a large cognitive unconscious.",
+    "epistemic_access": "Through cognitive linguistics and cognitive science: analysis of metaphor, categorization and frames, linked to neuroscience on binding, imagery and color vision.",
+    "constituents_and_structure": "Image schemas (container, source-path-goal, force, rotation), primary metaphors (‘more is up’, ‘affection is warmth’), and frames in which a small part evokes the whole, all operating below awareness."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conceptual content, Unity, Imagery, Attention and memory; Phenomenal qualia acknowledged but left unexplained",
+    "distinctive_mechanism_or_principle": "Conceptual metaphor as neural wiring: when two experiences are repeatedly co-activated, such as being held and feeling warm, spreading activation strengthens synapses into a circuit that is the metaphor.",
+    "dynamics_of_emergence": "Conceptual structure builds up from repeated bodily experience, mostly in childhood, and then silently shapes conscious thought.",
+    "location_and_distribution": "In the brain’s neural circuitry, shaped by the body it evolved to run; imagining, dreaming and remembering reuse the same areas as perceiving.",
+    "causation_and_functional_role": "The cognitive unconscious, which Lakoff says may account for some 98% of what the brain does, is the ground of conscious thought; consciousness draws on its frames and metaphors without knowing them.",
+    "integration_or_binding": "Lakoff attributes the unity of consciousness to neural binding, circuitry that links different parts of the brain.",
+    "information_flow_or_representation": "Concepts are embodied: color, for example, is created from wavelength, lighting, cone cells and neural circuitry, so ‘the redness isn’t in the car’.",
+    "evolutionary_account": "The brain evolved to run a body, not to serve as a general-purpose concept generator, so the concepts available to a mind come out of that body.",
+    "core_claims_and_evidence": [
+      "Color categories arise from the interaction of the world with cone cells and neural circuitry, not from properties of objects alone.",
+      "Primary metaphors form through repeated co-activation of experiences and become physical neural connections.",
+      "Most concepts and inferences are unconscious, supplied by frames and image schemas never explicitly stated.",
+      "Imagining something uses the same brain areas as seeing it, as do dreaming and remembering."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical (cognitive linguistics, cognitive neuroscience) and philosophical"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Linguistic and cognitive studies of metaphor, categories and frames; neuroscience of color vision; imaging showing shared brain areas for perceiving and imagining.",
+    "criticisms_and_tensions": "The view claims to solve the mind–body problem while admitting that qualia and awareness cannot currently be modeled, which leaves the core of phenomenal consciousness unexplained.",
+    "open_questions_and_limitations": "Lakoff says science ‘cannot answer what it means to be aware’ and that our mental capacities may never let us understand qualia, while declining to call them mystical.",
+    "ontological_coherence": "A consistent materialism that is candid about an explanatory gap it does not close. It aligns with enactive and phenomenological accounts that reject a disembodied, representationalist mind."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "Since concepts and experience come out of a body that a brain evolved to run, a system without such a body would lack the grounding the view requires."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Because the mind is the body and has no separable mental substance, nothing of it continues once the body dies."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Meaning is grounded in bodily experience and its metaphorical extension, not in a disembodied reason or cosmic order."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "If thought depends on a particular sensorimotor body, a disembodied copy would not reproduce the mind."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Enactivism", "relationship": "Overlap" },
+      { "name": "Varela's Neurophenomenology", "relationship": "Compatible" },
+      { "name": "Merleau-Ponty's Embodied Perception and the Lived Body", "relationship": "Influence" },
+      { "name": "Descartes’s Substance Dualism", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Metaphors We Live By, George Lakoff and Mark Johnson", "year": 1980 },
+      { "title_with_names": "Philosophy in the Flesh: The Embodied Mind and Its Challenge to Western Thought, George Lakoff and Mark Johnson", "year": 1999 },
+      { "title_with_names": "George Lakoff (Closer to Truth interview), Robert Lawrence Kuhn", "year": 2009 },
+      { "title_with_names": "The Embodied Mind: Cognitive Science and Human Experience, Francisco J. Varela, Evan Thompson and Eleanor Rosch", "year": 1991 },
+      { "title_with_names": "The Body in the Mind, Mark Johnson" },
+      { "title_with_names": "The Meaning of the Body, Mark Johnson" }
+    ]
+  }
+}

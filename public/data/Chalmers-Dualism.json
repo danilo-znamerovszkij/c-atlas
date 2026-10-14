@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Chalmers’s Naturalistic Dualism",
+    "summary": "David Chalmers argues that phenomenal consciousness cannot be reduced to physical brain states, yet nothing supernatural exists. His answer is to treat experience as a fundamental feature of the world, alongside mass, charge, and space-time, tied to physical processes by psychophysical laws that science has yet to discover.",
+    "associated_thinkers": ["David Chalmers"],
+    "category": "Dualism",
+    "subcategory": "",
+    "core_identity_tagline": "Consciousness as a Fundamental, Law-Governed Natural Property",
+    "classification_tags": ["property dualism", "hard problem", "zombies", "psychophysical laws", "naturalism"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Conscious experience is a basic, non-physical property of the natural world, systematically linked to physical properties by fundamental laws.",
+    "ontological_status": "Property dualism (naturalistic)",
+    "mind_body_relationship": "Mental properties are distinct from physical ones and not reducible to them, but they are lawfully correlated with physical processes. Chalmers rejects Cartesian mental substance and any ‘ghost in the machine’ doing extra causal work, because the physical world is more or less causally closed.",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "Not applicable (experience is a fundamental property; bridging laws say how it arises from physical processes but do not derive it from them)",
+    "subjectivity_and_intentionality": "Subjective experience is taken as a datum that no physical or functional account can logically entail. Intentionality is not addressed separately.",
+    "qualia_account": "Qualia are real and irreducible. Because a physically identical world without experience (a ‘zombie world’) is conceivable, the physical facts do not logically fix the qualitative facts, so qualia must be added as basic.",
+    "ontological_commitments": "Physical entities and properties as described by physics, plus fundamental phenomenal properties and the psychophysical laws connecting the two. No souls, spirits, or supernatural causes.",
+    "epistemic_access": "Experience is known from the first person and is undeniable. The psychophysical laws are to be found by correlating experience with physical processes, the way physics finds regularities.",
+    "constituents_and_structure": "A universe that comes down to a network of basic entities obeying simple laws, where the basic properties include experience as well as physical quantities."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness (the hard problem).",
+    "distinctive_mechanism_or_principle": "Psychophysical bridging laws: new fundamental principles, added to the basic laws of nature, that connect physical processes with experience. Chalmers points to his double-aspect theory of information as a candidate for how these laws work.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Wherever the psychophysical laws link physical states to experience; the view does not localize consciousness to a specific brain region.",
+    "causation_and_functional_role": "Chalmers holds that physical events have sufficient physical causes, which leaves no room for a non-physical mind to do extra causal work. He judges that quantum indeterminacy probably cannot be exploited to give the mind a causal role.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Conscious experience does not logically supervene on the physical, because a physically identical zombie world is conceivable.",
+      "If so, no reductive explanation of consciousness can succeed.",
+      "Consciousness should be treated as fundamental, with its own fundamental laws, as physics treats mass and charge.",
+      "This dualism contradicts nothing in physical theory; it only adds bridging principles."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical: conceivability and modal arguments, plus the first-person datum of experience."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "If the physical world is causally closed and experience is non-physical, experience seems to do no causal work, which pushes the view toward epiphenomenalism. The zombie argument also depends on the step from conceivability to genuine possibility.",
+    "open_questions_and_limitations": "The psychophysical laws are unknown, and the view names their existence without stating them.",
+    "ontological_coherence": "Chalmers presents it as an ‘innocent’ dualism that keeps a scientific worldview by enlarging the list of basic properties rather than adding a mental substance."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Whether a machine is conscious depends on what the psychophysical laws key experience to; if they track physical or informational organization a machine can share, it would have experience."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Since experience arises from physical processes through natural laws and Chalmers excludes anything supernatural, the view gives no basis for experience continuing without its physical base."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Conditional",
+      "rationale": "A simulation would carry experience only if the psychophysical laws attach experience to the features the simulation reproduces."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Chalmers’s Double-Aspect Theory of Information", "relationship": "Extension" },
+      { "name": "Property Dualism", "relationship": "Overlap" },
+      { "name": "Descartes’s Substance Dualism", "relationship": "Contrast" },
+      { "name": "Epiphenomenalism", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "The Conscious Mind, David Chalmers", "year": 1996 }
+    ]
+  }
+}

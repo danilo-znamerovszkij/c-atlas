@@ -1,4 +1,5 @@
 import { baseData } from '@/config/chartConfig'
+import { generateSlug } from '@/utils/slugUtils'
 
 interface TheoryMapping {
   name: string
@@ -25,14 +26,14 @@ class GlobalState {
             for (const theory of subcategory.children) {
               this.theoryMappings.set(theory.name, {
                 name: theory.name,
-                category: mainCategory.name.toLowerCase(),
+                category: generateSlug(mainCategory.name),
                 subcategory: subcategory.name.toLowerCase()
               })
             }
           } else {
             this.theoryMappings.set(subcategory.name, {
               name: subcategory.name,
-              category: mainCategory.name.toLowerCase()
+              category: generateSlug(mainCategory.name)
             })
           }
         }

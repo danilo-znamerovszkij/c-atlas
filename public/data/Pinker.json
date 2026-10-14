@@ -1,0 +1,80 @@
+{
+  "id_and_class": {
+    "theory_title": "Pinker’s Naturalism",
+    "summary": "Steven Pinker explains access consciousness computationally, as information made globally available to the brain's specialized systems, and holds that all evidence ties consciousness to neural activity. He takes a ‘mysterian-light’ view of phenomenal consciousness: its felt character is real and depends on the brain, but our evolved minds may lack the concepts to understand why.",
+    "associated_thinkers": ["Steven Pinker"],
+    "category": "Challenge",
+    "subcategory": "",
+    "core_identity_tagline": "Brain-Bound Access, Mysterian-Light Phenomenality",
+    "classification_tags": ["naturalism", "access consciousness", "global workspace", "mysterianism", "evolutionary psychology"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Access consciousness is information posted in a common format that perception, memory, language, planning, and action systems can all use. Phenomenal consciousness depends entirely on the brain's information processing, but Pinker calls it sui generis.",
+    "ontological_status": "Physicalism (naturalist, with weak mysterianism)",
+    "mind_body_relationship": "Consciousness is inseparable from brain activity and is no ethereal substance using the brain as an instrument. In 2025 Pinker added that phenomenal consciousness may not fit causation, reduction, emergence, or realization the way water fits H₂O.",
+    "primitive_or_emergent_status": "Unclear",
+    "emergence_type": "Unclear: access consciousness arises from neural computation, but Pinker doubts phenomenal consciousness fits any standard relation, including emergence.",
+    "subjectivity_and_intentionality": "The unified inner ‘I’ that inspects inputs and issues commands is a cognitive construction. Pinker treats the first-person point of view as real residue the sciences have not explained.",
+    "qualia_account": "Qualia exist, perhaps as information or numbers exist for a mathematical Platonist, though Pinker suspects even that comparison fails. Why neural processing is or yields felt experience may exceed what evolved human cognition can grasp.",
+    "ontological_commitments": "Neurons, computation, and evolved cognitive modules; no soul and no quantum or exotic physics.",
+    "epistemic_access": "Through cognitive neuroscience: fMRI decoding, drugs, electrical stimulation, split-brain cases, anesthesia, binocular rivalry, and EEG. Introspection is unreliable because the brain often rationalizes after the fact.",
+    "constituents_and_structure": "Specialized neural systems that compete and post information to a shared blackboard. Consciousness is distributed, competitive, and partly confabulatory."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Access (explained); Phenomenal (acknowledged, possibly beyond human understanding); Self (as a construction)",
+    "distinctive_mechanism_or_principle": "Global workspace or ‘blackboard’ access in the style of Baars and Dehaene, which acts as an executive summary that prevents information overload and enables flexible behavior.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Distributed across specialized brain systems, with cortical and thalamic activity among the documented correlates.",
+    "causation_and_functional_role": "Conscious access supports report, reasoning, planning, memory, language, and voluntary action, while other information stays unconscious yet causally active.",
+    "integration_or_binding": "Information becomes unified by being posted in a common format accessible to many systems.",
+    "information_flow_or_representation": "The mind is an evolved system of computational organs to be ‘reverse-engineered’. Some information stays unconscious because self-deception pays off socially, following Trivers.",
+    "evolutionary_account": "Natural selection shaped both which information becomes conscious and the limits of our concepts, which may explain why the hard problem feels intractable.",
+    "core_claims_and_evidence": [
+      "Convergent neuroscientific evidence shows no credible case of consciousness operating independently of neural processes.",
+      "Consciousness requires neither language nor self-awareness, since infants, animals, and aphasic patients may be conscious.",
+      "The hard problem involves no paranormal phenomena, exotic quantum physics, or immaterial soul, and invoking a soul only renames the mystery.",
+      "Black holes and the origin of life are as strange as consciousness; it seems uniquely odd mainly because we are the ones who have it."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical (cognitive neuroscience, evolutionary psychology) combined with philosophical analysis."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "fMRI decoding, psychoactive drugs, electrical brain stimulation, split-brain studies, anesthesia and coma, stimulation-induced out-of-body experiences, binocular rivalry, and EEG rhythms.",
+    "criticisms_and_tensions": "Pinker offers a synthesis of existing views, not a new mechanistic theory of phenomenal consciousness. Calling sentience sui generis while insisting it depends entirely on the brain leaves its ontological status unsettled.",
+    "open_questions_and_limitations": "Pinker allows that a future ‘Darwin or Einstein of consciousness’ might dissolve the hard problem. His current bet is that the explanatory gap reflects human cognitive architecture, and he grants Dennett that the pure hard problem may not be a scientific problem.",
+    "ontological_coherence": "Consistent with mainstream naturalism and the computational theory of mind. His refusal to call phenomenal consciousness an illusion places him between Dennett's deflationism and McGinn's mysterianism."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Since access consciousness is information processing in a computational mind, a machine could in principle have it. Whether such a machine would feel anything falls under the hard problem Pinker thinks we may never solve."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Pinker holds that consciousness depends entirely on neural activity and rejects the immaterial soul, so nothing survives the brain's death."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The capacity to suffer, shared by beings with similar neural architecture, replaces an immortal soul as the basis of moral concern."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "A computational mind could in principle be reproduced, but whether the copy would have phenomenal experience is the question Pinker leaves open."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Compatible" },
+      { "name": "McGinn's Ultimate Mystery (Mysterianism)", "relationship": "Influence" },
+      { "name": "Dennett’s Illusionism", "relationship": "Contrast" },
+      { "name": "Computational Theories", "relationship": "Overlap" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "How the Mind Works, Steven Pinker", "year": 1997 },
+      { "title_with_names": "The Mystery of Consciousness (Time), Steven Pinker", "year": 2007 },
+      { "title_with_names": "Science Is Not Your Enemy (The New Republic), Steven Pinker", "year": 2013 },
+      { "title_with_names": "Steven Pinker: On the Problem of Consciousness (interview by Tony Sobrado, The Montréal Review), Steven Pinker", "year": 2025 },
+      { "title_with_names": "Can We Solve the Mind–Body Problem?, Colin McGinn", "year": 1989 }
+    ]
+  }
+}

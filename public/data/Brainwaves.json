@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Miller’s Brain Waves’ Analog Organization of Cortex",
+    "summary": "Earl K. Miller argues that traveling brain waves organize the cortex on the fly by performing analog computations, with slower alpha and beta waves imposing goals on faster gamma activity that carries sensory content. Consciousness, ‘the tip of the iceberg of cognition’, arises when these wave patterns grow large enough to unify the cortex.",
+    "associated_thinkers": ["Earl K. Miller"],
+    "category": "Materialism",
+    "subcategory": "Electromagnetic",
+    "core_identity_tagline": "Consciousness as Cortex Unified by Analog Brain Waves",
+    "classification_tags": ["brain waves", "analog computation", "prefrontal cortex", "spatial computing", "anesthesia"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is a natural outcome of analog computation by brain waves: it appears when wave patterns become large and coordinated enough to unify the cortex into one representation.",
+    "ontological_status": "Physicalism (non-reductive, dynamical)",
+    "mind_body_relationship": "Cognition and consciousness are emergent properties of large-scale neural self-organization, and Miller holds that many aspects of this organization are not reducible to their constituent parts.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (population-level wave dynamics organize neural activity in ways not reducible to single neurons)",
+    "subjectivity_and_intentionality": "Goal-directedness is built into the mechanism: slow waves encode the brain’s ‘internal sense of the rules’ and constrain what faster activity can express, which gives volitional control of thought.",
+    "qualia_account": "",
+    "ontological_commitments": "Neurons and recurrent networks, oscillations at different frequencies, traveling waves, and the electric fields they produce.",
+    "epistemic_access": "Through simultaneous multi-area recordings in animals performing cognitive tasks and through studies of how anesthetics change wave dynamics.",
+    "constituents_and_structure": "Alpha/beta waves (roughly 10 to 35 Hz) carrying task rules and goals, gamma waves (35 to 60 Hz) carrying sensory content, and traveling waves that move linearly or rotate across the cortical surface."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Access and executive control; working memory; attention; level of consciousness (via anesthesia)",
+    "distinctive_mechanism_or_principle": "Spatial computing: alpha and beta waves act as ‘inhibitory stencils’ on patches of prefrontal cortex, deciding where and when gamma-linked sensory content can be expressed in spiking, so neurons form ad hoc task forces without rewiring.",
+    "dynamics_of_emergence": "Recurrent networks naturally oscillate, and the waves organize neural activity in real time. After distraction, rotational state-space dynamics and traveling waves restore earlier activity patterns.",
+    "location_and_distribution": "Across the cortex, with a central role for the prefrontal cortex in executive control and for frontal–parietal coordination in attention.",
+    "causation_and_functional_role": "Consciousness supports flexibility, planning, and big-picture tasks that need a unified representation; most cognitive work by waves runs without it.",
+    "integration_or_binding": "Large-scale wave patterns unify the cortex. Electric fields can bind neurons into information-carrying ensembles through ephaptic coupling.",
+    "information_flow_or_representation": "Analog waves can represent any value smoothly through phase. Beta power constrains gamma power to impose goals; relaxing beta lets gamma retrieve items from working memory.",
+    "evolutionary_account": "Miller holds that the brain evolved to exploit the fast, information-rich, and reliable propagation that its waves provide.",
+    "core_claims_and_evidence": [
+      "Miller and Cohen (2001) proposed that the prefrontal cortex exerts cognitive control by maintaining goal patterns that bias other brain regions.",
+      "Buschman and Miller (2007) found stronger low-frequency frontal–parietal synchrony in top-down attention and stronger high-frequency synchrony in bottom-up attention.",
+      "Spatial patterns of alpha/beta activity encode task rules, inversely track sensory spiking, and correlate with trial-by-trial decisions (Chen et al., 2025).",
+      "Ketamine and dexmedetomidine, despite different molecular actions, both increase phase alignment between the two hemispheres during loss of consciousness (Bardon et al., 2025)."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical (electrophysiology in task and anesthesia studies)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Simultaneous frontal and parietal recordings during attention tasks; working-memory studies of beta–gamma interaction; distraction-recovery studies; anesthesia studies of wave power, propagation, and phase alignment.",
+    "criticisms_and_tensions": "Most of the evidence concerns cognition, attention, and working memory; the link to consciousness itself rests on anesthesia studies and on Miller’s own framing of consciousness as ‘the tip of the iceberg’. Anesthesia changes many things at once, so phase disruption may track arousal rather than experience.",
+    "open_questions_and_limitations": "The theory does not say what makes unified wave patterns felt, or how large unification must be before consciousness appears.",
+    "ontological_coherence": "Consistent with physicalism; Miller presents it as augmenting Global Neuronal Workspace Theory and Integrated Information Theory by adding analog organization to cortical integration."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Consciousness here follows from analog wave computation that unifies cortex, which digital systems do not perform; whether analog hardware could do so is not addressed."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness depends on wave dynamics in a living cortex, it cannot outlast the brain."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "A copy would need to reproduce analog field dynamics rather than just digital information flow, and the theory does not address this."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Extension" },
+      { "name": "Integrated Information Theory", "relationship": "Compatible" },
+      { "name": "Singer and Melloni’s Large-Scale Synchrony", "relationship": "Overlap" },
+      { "name": "Sejnowski’s Computational Two Tiers and Traveling Waves", "relationship": "Overlap" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "An Integrative Theory of Prefrontal Cortex Function, Earl K. Miller and Jonathan Cohen", "year": 2001 }
+    ]
+  }
+}

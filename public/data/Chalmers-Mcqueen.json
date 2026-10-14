@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Chalmers and McQueen’s Quantum Collapse",
+    "summary": "Chalmers and McQueen revive the idea that consciousness collapses the quantum wave function, and they build it into a precise model by combining Integrated Information Theory with continuous spontaneous localization. Wave function collapse, they argue, is exactly the kind of causal gap in physics where consciousness could act, so it answers the causal-closure objection to property dualism. They present the result as a testable research program, not a settled view.",
+    "associated_thinkers": ["David Chalmers", "Kelvin McQueen"],
+    "category": "Quantum",
+    "subcategory": "",
+    "core_identity_tagline": "Consciousness as the Trigger of Quantum Collapse",
+    "classification_tags": ["quantum collapse", "integrated information", "mental causation", "property dualism", "causal closure"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness, specified by a mathematical theory such as IIT's integrated information above a threshold, is what brings about collapse of the quantum wave function.",
+    "ontological_status": "Property dualism or physicalism (left open)",
+    "mind_body_relationship": "Consciousness causally affects the physical world through collapse. The authors say this fits both materialist views, where consciousness is a complex physical property, and dualist views, where it is a primitive property correlated with physical ones.",
+    "primitive_or_emergent_status": "Unclear",
+    "emergence_type": "Left open: the model gives consciousness a causal role and is designed to combine with many different answers to the hard problem.",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Not addressed; Chalmers and McQueen state they are not trying to solve the hard problem.",
+    "ontological_commitments": "Quantum wave functions that undergo real collapse; a fundamental law tying collapse to a property of consciousness such as Φ; consciousness as either a complex physical property or a fundamental property akin to mass and charge.",
+    "epistemic_access": "Through mathematical theories of consciousness and quantum dynamics, and in principle through experiments with quantum computers.",
+    "constituents_and_structure": "Systems with integrated information above a threshold, whose states trigger collapse according to the Born rule."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Mental causation; the relation between consciousness and quantum measurement.",
+    "distinctive_mechanism_or_principle": "A collapse law: under the conditions specified by Φ, superpositions collapse according to the Born rule, modeled with continuous spontaneous localization dynamics.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Wherever a physical system has integrated information above the relevant threshold.",
+    "causation_and_functional_role": "Consciousness causes collapse and so produces physical effects, filling the causal gap that standard physics leaves at measurement.",
+    "integration_or_binding": "Integration is built in through IIT, which identifies consciousness with integrated information.",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "The main philosophical case against property dualism rests on causal closure, the claim that physics has no gaps for a nonphysical consciousness to fill.",
+      "Wave function collapse appears to be such a gap, and consciousness-collapse models are not obviously ruled out by known physics.",
+      "Physicists reject consciousness collapse because it seems dualist, while philosophers reject property dualism because it seems to violate closure; taken together, neither objection rules out the combined view.",
+      "A materialist version, with consciousness identical to Φ above a threshold, would involve an unusual fundamental physical law but nothing nonphysical."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical argument combined with formal modeling in quantum mechanics and IIT."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Versions of the theory can in principle be tested with experiments on quantum computers.",
+    "criticisms_and_tensions": "The consciousness-collapse idea, taken seriously by von Neumann and Wigner, is now widely dismissed by physicists, and dualism is rejected by most philosophers. The model depends on a contested theory of consciousness (IIT) and on collapse being real.",
+    "open_questions_and_limitations": "The authors do not claim consciousness-collapse interpretations are correct, only that the research program is worth exploring. The model says nothing about why physical processes give rise to experience.",
+    "ontological_coherence": "Designed to stay neutral: it fits a materialist reading where Φ is a physical property and an interactionist property-dualist reading where consciousness is fundamental."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "On the IIT version, any system whose integrated information exceeds the threshold would be conscious and would cause collapse, whatever it is made of."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Wigner–von Neumann’s Consciousness-Collapse: Experience at the Quantum Cut", "relationship": "Extension" },
+      { "name": "Integrated Information Theory", "relationship": "Foundation" },
+      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Compatible" },
+      { "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"", "relationship": "Overlap" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Chalmers and McQueen’s Quantum Collapse (Landscape of Consciousness), David Chalmers and Kelvin McQueen", "year": 2022 }
+    ]
+  }
+}

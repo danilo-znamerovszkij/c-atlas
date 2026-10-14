@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Dretske’s Information and Representationalism",
+    "summary": "Fred Dretske identifies conscious experiences with first-order representations of the world: brain states that carry information and have acquired, through natural selection, the function of carrying it. What separates conscious from unconscious states is the way information is represented and made available to reasoning, action, and report, and qualia are simply the properties things are represented as having.",
+    "associated_thinkers": ["Fred Dretske"],
+    "category": "Materialism",
+    "subcategory": "First-Order",
+    "core_identity_tagline": "Consciousness as Information-Carrying Representation",
+    "classification_tags": ["representationalism", "information", "first-order", "transparency", "naturalism"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Conscious experiences are identical to first-order mental representations of external objects and features, states whose biological function is to carry information about the world.",
+    "ontological_status": "Physicalism (representationalist)",
+    "mind_body_relationship": "Mental states are brain states that represent. Dretske rejects dualism and treats intentionality and consciousness as naturalizable within a scientific, materialist framework.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (representation arises when a brain state acquires the function of carrying information)",
+    "subjectivity_and_intentionality": "Intentionality comes from natural information: a causal relation between a signal and a condition, put to use by a system. We are aware of what our representations represent rather than of the representations themselves.",
+    "qualia_account": "Qualia are properties of representational states, the ways things are represented as being, rather than intrinsic non-physical properties. You see the red of the apple, not a red inner item.",
+    "ontological_commitments": "Brain states, natural information (causal covariation between signals and conditions), biological functions acquired by selection, and external objects and properties.",
+    "epistemic_access": "Through the world: introspection reveals the represented properties of objects, since experience is transparent. The theory itself is supported by naturalistic analysis of information and function.",
+    "constituents_and_structure": "Representational states with external content, distinguished as conscious by their manner of representation and their availability to further reasoning and control."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (naturalized as representation); access; perception; intentionality",
+    "distinctive_mechanism_or_principle": "A brain state becomes conscious when it carries information about the world in a usable way and is positioned to influence reasoning, planning, action, and report, with no higher-order thought about it required.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "In the brain states that carry and use information about the environment.",
+    "causation_and_functional_role": "Conscious representations are causally active in behavior, guiding action and communication. Dretske ties consciousness to attention and to the use of information.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Dretske separates natural information (a signal reliably indicating a condition) from representation, which requires a system that uses that information. Information reduces uncertainty and guides action.",
+    "evolutionary_account": "Brain states acquire the function of carrying information through natural selection, which makes them mental representations fit to be conscious.",
+    "core_claims_and_evidence": [
+      "Conscious experiences are first-order representations of the external world, not representations of other mental states.",
+      "Experience is transparent: we are conscious of the things we experience, not of our experiences.",
+      "Conscious and unconscious states differ in the way content is represented and used, not in what is represented.",
+      "Once we understand how content is represented and used, Dretske holds, no further explanatory gap remains."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical naturalism drawing on information theory and biological function"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Critics question whether representation and functional availability explain subjective feel, the ‘what it is like’ of experience. Higher-order theorists dispute Dretske’s claim that no awareness of one’s own states is needed for consciousness.",
+    "open_questions_and_limitations": "It remains unclear what exactly makes the ‘way’ a state represents its content conscious rather than unconscious.",
+    "ontological_coherence": "Fits a materialist, naturalist ontology and laid groundwork for later representationalists such as Michael Tye and William Lycan."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Since consciousness is a matter of representation with the right function, a machine could in principle qualify. Dretske grounds that function in natural selection, so it is unclear whether a designed system’s states would count."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since conscious states are representational brain states, nothing remains to be conscious once the brain stops working."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The theory is fully naturalistic and gives consciousness a biological function, not a cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "A copy would need states whose function is to carry information about the world, and Dretske’s reliance on evolved function leaves open whether a simulation would have them."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Carruthers’s First-Order Representationalism", "relationship": "Overlap" },
+      { "name": "Lycan's Homuncular Functionalism", "relationship": "Influence" },
+      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Contrast" },
+      { "name": "Transparency Thesis", "relationship": "Overlap" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Dretske’s Information and Representationalism, Landscape of Consciousness, Robert Lawrence Kuhn" }
+    ]
+  }
+}

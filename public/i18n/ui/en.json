@@ -1,43 +1,32 @@
 {
   "chartLoader.text": "Loading chart...",
-
   "nav.feedback": "Feedback",
   "nav.about.tooltip": "About",
   "nav.github.alt": "GitHub stars",
-
   "sourceCitation.text": "Source: Landscape of Consciousness (Kuhn, 2024)",
   "sourceCitation.kuhnCitation": "Robert Lawrence Kuhn. \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications. Progress in Biophysics and Molecular Biology, Volume 190, 2024, Pages 28-169.\"",
   "sourceCitation.landscapeLink": "Landscape of Consciousness",
-
   "about.heading": "The Consciousness Atlas",
   "about.subtitle": "Visualizing the Landscape of Consciousness",
   "about.intro.html": "The Consciousness Atlas is an interactive web app that visualizes more than 325 theories of consciousness. It is based on Robert Lawrence Kuhn's 2024 paper, <a target=\"_blank\" href=\"https://doi.org/10.1016/j.pbiomolbio.2023.12.003\">\"A Landscape of Consciousness\"</a>. The Atlas maps theories that address phenomenal consciousness - the subjective feel of experience, such as the redness of red.",
-
   "about.whatIs.title": "What the Atlas is",
   "about.whatIs.body": "The Atlas is a visual reference built on Kuhn's taxonomy. It presents the full set of theories at once so you can explore the field visually and open any theory to read its entry, like an encyclopedia with structured entries. Each theory entry shows a concise identity line, conceptual ground, suggested mechanism, empirical notes, implications, and sources.",
-
   "about.why.title": "Why this exists",
   "about.why.body": "Consciousness is studied across disciplines - neuroscience, philosophy, and sometimes spiritual or anomalous-state research. Kuhn's paper collects and organizes hundreds of theories along a spectrum from most physical to least physical. The Atlas puts that organization into a visual form so readers, students, and researchers can quickly see how different positions relate and where each theory sits on the spectrum.",
-
   "about.how.title": "How it works",
   "about.how.body": "Theories are grouped into ten main categories, arranged by their stance on the physical-to-nonphysical spectrum. Examples of categories include Materialism, Non-Reductive Physicalism, Functionalism, Quantum-based theories, Panpsychism, Monism, Dualism, Idealism, Anomalous States, and Challenge Theories. The app shows the whole map at once. Click any theory to read its structured entry, which includes references to canonical sources and named thinkers.",
-
   "about.audience.title": "Who it is for",
   "about.audience.item1": "Students learning philosophy of mind and cognitive science",
   "about.audience.item2": "Researchers and lecturers looking for an at-a-glance comparative resource",
   "about.audience.item3": "Journalists and writers who need a quick reference to the range of positions",
   "about.audience.item4": "Curious readers who want a clear view of what people mean when they talk about consciousness",
-
   "about.notDo.title": "What the Atlas does not do",
   "about.notDo.body": "The Atlas does not endorse or rank theories. It is a visualization and reference based on Kuhn's taxonomy - collect and present, not judge. It does not attempt to settle the hard problem of consciousness. It is a tool for exploration and comparison.",
-
   "about.kuhnNote.title": "A note from Kuhn",
   "about.kuhnNote.body1": "Kuhn explicitly states the project's purpose: \"collect and categorize, not assess and adjudicate.\" The Consciousness Atlas follows that approach. The data and structure are derived from Kuhn's paper; feedback and suggested corrections are welcome, but the app is a visualization layer on top of Kuhn's work.",
   "about.kuhnNote.body2": "Kuhn was not involved in the design or content of the Consciousness Atlas, other than his original paper, 'A Landscape of Consciousness,' which is the sole source.",
-
   "about.landscapeWebsite.title": "Landscape of Consciousness Website",
   "about.landscapeWebsite.body.html": "The <a href=\"https://loc.closertotruth.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape of Consciousness website</a> is a significant extension, enhancement, and update of Robert Lawrence Kuhn's paper, \"A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications.\" The Landscape of Consciousness website contains over 350 theories of consciousness that can be accessed in five ways: <a href=\"https://loc.closertotruth.com/consciousness-theories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Grid</a>; <a href=\"https://loc.closertotruth.com/all-consciousness-categories-and-subcategories\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Categories</a>; <a href=\"https://loc.closertotruth.com/all-consciousness-categories-subcategories-and-theories\" target=\"_blank\" rel=\"noopener noreferrer\">All Landscape Theories</a>; <a href=\"https://loc.closertotruth.com/map\" target=\"_blank\" rel=\"noopener noreferrer\">Landscape Map</a>; <a href=\"https://loc.closertotruth.com/interactive\" target=\"_blank\" rel=\"noopener noreferrer\">Interactive Visualizations</a>. The Landscape of Consciousness is a work-in-progress – permanently.",
-
   "about.faq.title": "FAQ",
   "about.faq.q1": "What is phenomenal consciousness?",
   "about.faq.a1": "Phenomenal consciousness refers to subjective experience - the qualitative feel of being aware, like the taste of coffee or the redness of red.",
@@ -47,13 +36,10 @@
   "about.faq.a3": "No. The Atlas presents theories neutrally. It is a map, not an argument for any single position.",
   "about.faq.q4": "Is the Atlas academic?",
   "about.faq.a4": "The Atlas is based on an academic source - Robert Kuhn's 2024 paper, \"A Landscape of Consciousness\" - and links to canonical sources where available.",
-
   "about.related.title": "Related reading",
   "about.related.body.html": "The Atlas references canonical research across philosophy and neuroscience, including Integrated Information Theory, Global Workspace Theory, panpsychist proposals, quantum-based ideas, and historical positions from classical thinkers. For the original academic context, see Kuhn's article on ScienceDirect: <a href=\"/paper.html\">A Landscape of Consciousness</a>.",
-
   "about.summary.title": "Summary",
   "about.summary.body": "The Consciousness Atlas is a straightforward visualization tool: it presents Kuhn's taxonomy as a single, explorable map and lets users open individual theory entries to read structured, referenced summaries. It is designed to make this complex field easier to survey and to serve as a practical reference.",
-
   "about.footer.ariaLabel": "Project information and attribution",
   "about.footer.creatorTitle": "About the Creator",
   "about.footer.creatorBody.html": "ConsciousnessAtlas.com is an independent project by Danilo Znamerovszkij (<a href=\"https://www.linkedin.com/in/danilo-znamerovszkij-56a435156/\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a>), a frontend engineer with experience building interactive tools and data visualizations. The project reflects a long-standing interest in consciousness studies, philosophy of mind, and how complex theoretical landscapes can be made more navigable through software.",
@@ -64,7 +50,6 @@
   "about.footer.scopeTitle": "Scope",
   "about.footer.scopeBody": "This project is intended as an exploratory and educational resource. It does not advocate for any particular theory of consciousness and should not be interpreted as an authoritative scientific classification.",
   "about.footer.linksLabel": "Links:",
-
   "form.title": "Send Feedback",
   "form.closeAriaLabel": "Close form",
   "form.nameLabel": "Name (optional)",
@@ -82,24 +67,20 @@
   "form.errors.messageRequired": "Please enter a message",
   "form.errors.sendFailedRetry": "Failed to send message. Please try again.",
   "form.success": "Message sent successfully!",
-
   "searchBar.placeholder": "Search theories...",
   "searchBar.ariaLabel": "Search theories",
   "searchBar.resultsAriaLabel": "Search results",
-
   "itemDetails.closePanel": "Close panel",
   "itemDetails.welcome": "Select an item from the chart to explore its mysteries",
   "itemDetails.error.title": "Error",
   "itemDetails.error.heading": "Failed to Load Theory",
   "itemDetails.loading.heading": "Loading theory data...",
   "itemDetails.loading.body": "Please wait while we fetch the detailed information.",
-
   "itemDetails.sections.conceptualGround": "I. Conceptual Ground",
   "itemDetails.sections.mechanismDynamics": "II. Mechanism & Dynamics",
   "itemDetails.sections.empiricsCritiques": "III. Empirics & Critiques",
   "itemDetails.sections.implications": "IV. Implications",
   "itemDetails.sections.relationsSources": "V. Relations & Sources",
-
   "itemDetails.fields.explanatoryIdentityClaim": "Explanatory Identity Claim",
   "itemDetails.fields.mindBodyRelationship": "Mind-Body Relationship",
   "itemDetails.fields.subjectivityIntentionality": "Subjectivity and Intentionality",
@@ -110,7 +91,6 @@
   "itemDetails.fields.primitiveOrEmergentStatus": "Primitive or Emergent Status",
   "itemDetails.fields.emergenceType": "Emergence Type",
   "itemDetails.fields.ontologicalStatus": "Ontological Status",
-
   "itemDetails.fields.scopeOfConsciousness": "Scope of Consciousness",
   "itemDetails.fields.distinctiveMechanism": "Distinctive Mechanism or Principle",
   "itemDetails.fields.dynamicsOfEmergence": "Dynamics of Emergence",
@@ -121,27 +101,40 @@
   "itemDetails.fields.evolutionaryAccount": "Evolutionary Account",
   "itemDetails.fields.coreClaimsEvidence": "Core Claims and Evidence",
   "itemDetails.fields.basisOfBelief": "Basis of Belief or Evidence Type",
-
   "itemDetails.fields.testabilityStatus": "Testability Status",
   "itemDetails.fields.knownEmpiricalTests": "Known Empirical Interventions or Tests",
   "itemDetails.fields.criticismsTensions": "Criticisms and Tensions",
   "itemDetails.fields.openQuestionsLimitations": "Open Questions and Limitations",
   "itemDetails.fields.ontologicalCoherence": "Ontological Coherence",
-
   "itemDetails.fields.relatedTheories": "Related Theories",
   "itemDetails.fields.classification": "Classification",
   "itemDetails.fields.sourcesReferences": "Sources and References",
-
   "itemDetails.implications.aiConsciousness": "AI Consciousness",
   "itemDetails.implications.survivalBeyondDeath": "Survival Beyond Death",
   "itemDetails.implications.meaningPurpose": "Meaning and Purpose",
   "itemDetails.implications.virtualImmortality": "Virtual Immortality",
-
   "misc.unknown": "Unknown",
   "misc.unknownError": "Unknown error",
-
   "nav.language.ariaLabel": "Choose language",
   "languagePopup.title": "Choose language",
   "languagePopup.subtitle": "Select your preferred language",
-  "languagePopup.closeAriaLabel": "Close language selector"
+  "languagePopup.closeAriaLabel": "Close language selector",
+  "tools.view.label": "View",
+  "tools.view.chart": "Chart",
+  "tools.view.list": "List",
+  "tools.filter.button": "Filter by implications",
+  "tools.filter.clear": "Clear filters",
+  "tools.filter.result": "{n} of {total} theories match",
+  "tools.filter.none": "No theory matches all of these answers. Try removing one.",
+  "tools.filter.loading": "Loading theories…",
+  "tools.stance.yes": "Yes or likely",
+  "tools.stance.maybe": "Possible or depends",
+  "tools.stance.uncertain": "Uncertain",
+  "tools.stance.no": "Unlikely or no",
+  "tools.stance.notNeeded": "Not needed",
+  "tools.stance.cosmic": "Cosmic or ultimate",
+  "tools.stance.humanistic": "Humanistic only",
+  "tools.list.count": "{n} theories",
+  "itemDetails.fullscreen.enter": "Expand to full screen",
+  "itemDetails.fullscreen.exit": "Exit full screen"
 }

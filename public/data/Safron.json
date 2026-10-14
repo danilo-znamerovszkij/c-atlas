@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Safron’s Integrated World Modeling Theory",
+    "summary": "Adam Safron proposes that phenomenal consciousness is what it feels like to run a probabilistic generative model of one’s body and world that is coherent in space, time, and cause, and fast enough to inform and be informed by action. Integrated World Modeling Theory (IWMT) combines Integrated Information Theory, Global Neuronal Workspace Theory, and the Free Energy Principle, arguing that none of them alone gives sufficient conditions for experience.",
+    "associated_thinkers": ["Adam Safron"],
+    "category": "Integrated Info",
+    "subcategory": "",
+    "core_identity_tagline": "Consciousness as Coherent Generative World Modeling",
+    "classification_tags": ["generative models", "predictive processing", "active inference", "global workspace", "integrated information"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Phenomenal consciousness is a computational object: the spatiotemporally and causally coherent output of a generative model of an embodied agent’s sensorium, yielding perception when coupled to sense data and imagination when decoupled. Safron likens it to a ‘deep fake’ made of sensory states rather than pixels.",
+    "ontological_status": "Physicalism (computational functionalist)",
+    "mind_body_relationship": "Consciousness supervenes on brain processes and is analyzed at three levels: computational/functional, algorithmic, and implementational/mechanistic.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (from neural processes that generate integrated, coherent models of self and world)",
+    "subjectivity_and_intentionality": "Experience is organized in egocentric, perspectival reference frames and may be integrated into unified self-models. Goal-directed behavior is modeled as enacted imagining.",
+    "qualia_account": "Qualia are the generated patterns of likely sense data across modalities (sight, touch, sound, interoception), combined into one estimated field of experience. Safron offers this as an answer to why processing is not done ‘in the dark’.",
+    "ontological_commitments": "Neural networks, synchronous complexes called self-organizing harmonic modes, generative models, and embodied agents in environments.",
+    "epistemic_access": "Through functional neuroanatomy and computational modeling, mapping algorithmic interpretations onto mechanisms such as neural synchrony and the brain’s ‘rich club’ hubs.",
+    "constituents_and_structure": "Subnetworks acting as shared latent workspaces across sensory modalities and as arenas for Bayesian model selection, organized by coherence in space, time, and cause (conditions inspired by Kant)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal and access consciousness; self-modeling; agency and goal-directed action; altered states such as psychedelic experience",
+    "distinctive_mechanism_or_principle": "Self-organizing harmonic modes (SOHMs): synchronous complexes of neural activity that arise as metastable attractors and serve both as dynamic cores of integrated information and as global workspaces.",
+    "dynamics_of_emergence": "Experience is continuously re-estimated as a stream, generated rapidly enough to keep pace with the agent’s action-perception cycles.",
+    "location_and_distribution": "Safron reconciles rival claims: phenomenal consciousness may arise in a posterior ‘hot zone’ as SOHMs at alpha frequencies, while conscious access may need a wider frontal network synchronized at theta frequencies.",
+    "causation_and_functional_role": "A coherent self-world model supports more intelligent action selection and learning, and lets attention favor what matters to the organism.",
+    "integration_or_binding": "Different sensory modalities are combined in shared latent workspaces into a single field of experience that is coherent in space, time, and cause.",
+    "information_flow_or_representation": "The brain predictively models its environment as a hybrid machine-learning architecture, with multiple computational motifs acting together as a cybernetic controller for the body.",
+    "evolutionary_account": "Phenomenal consciousness is an adaptation: a data structure that unifies the senses into a model of self and world, improving action selection and learning.",
+    "core_claims_and_evidence": [
+      "Experience requires modeling that is coherent in space, time, and cause, conditions Safron draws from Kant’s preconditions for judgment.",
+      "IIT and GNWT describe different systemic properties, for phenomenal consciousness and conscious access respectively, and both can be right.",
+      "Neural synchrony and the brain’s rich-club organization can implement modules arranged into a workspace architecture.",
+      "The framework has been extended to intentional behavior as enacted imagining, robotic control as generalized navigation, and psychedelic states as waking dreams."
+    ],
+    "basis_of_belief_or_evidence_type": "Theoretical synthesis informed by functional neuroanatomy and computational modeling"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Interpretation of the IIT–GNWT adversarial collaboration results; studies of neural synchrony and rich-club network organization; analysis of psychedelic phenomenology.",
+    "criticisms_and_tensions": "Integrating many theories at once risks inheriting their disagreements and making the framework hard to falsify. The claim that generative modeling explains why there is something it feels like may restate rather than solve the hard problem.",
+    "open_questions_and_limitations": "Safron acknowledges that IWMT does not yet specify the physical or computational substrates of consciousness precisely, nor which physical implementations can support the required generative modeling.",
+    "ontological_coherence": "Coherent within computational functionalism and compatible with recurrent processing, predictive processing, dynamic core, temporo-spatial, higher-order thought, and attention schema theories."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Safron suggests that once the substrates are specified precisely, conscious states could be realized in artificial body-minds."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since experience is generated by an embodied organism’s modeling processes, it ends when those processes stop."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "If consciousness is a kind of generative modeling, a system reproducing that modeling could in principle sustain it, though IWMT has not settled which implementations qualify."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Integrated Information Theory", "relationship": "Foundation" },
+      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Foundation" },
+      { "name": "Friston's Free-Energy Principle and Active Inference", "relationship": "Foundation" },
+      { "name": "Northoff's Temporo-Spatial Sentience", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Safron’s Integrated World Modeling Theory, Adam Safron" }
+    ]
+  }
+}

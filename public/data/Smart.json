@@ -1,0 +1,83 @@
+{
+  "id_and_class": {
+    "theory_title": "Smart’s Topic-Neutral Identity",
+    "summary": "J. J. C. Smart argues that sensations are brain processes, an identity discovered by science rather than true by meaning. Reports of experience are ‘topic-neutral’: they say something is going on like what happens when one sees an orange patch without settling whether it is physical, so science can identify it as a neural process. Ockham's razor then removes irreducibly mental ‘nomological danglers’ from the physical account of nature.",
+    "associated_thinkers": ["John Jamieson Carswell Smart"],
+    "category": "Materialism",
+    "subcategory": "Mind-Brain",
+    "core_identity_tagline": "Sensations as Brain Processes Under Topic-Neutral Description",
+    "classification_tags": ["identity theory", "topic-neutral", "parsimony", "physicalism", "philosophy of mind"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Sensations and phenomenal experiences are nothing over and above processes in the central nervous system.",
+    "ontological_status": "Physicalism (reductive, type identity)",
+    "mind_body_relationship": "Contingent mind-brain identity, comparable to lightning being an electrical discharge or the Morning Star being the Evening Star. ‘Sensation’ does not mean ‘brain process’, but the two pick out the same event.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (identity: there is one event, not a mental event arising from a physical one).",
+    "subjectivity_and_intentionality": "Smart separates mere awareness, the information-gathering of a driver on automatic pilot, from full consciousness, which he models on Armstrong's higher-order perception: the brain perceiving itself. The last state in such a series is not itself perceived, which he uses to explain why consciousness seems ineffable.",
+    "qualia_account": "Smart treats qualia as points in a multidimensional similarity space. He identifies the experience of seeming to see a colored patch with a brain process, which need not itself be colored, and suggests that the impression of something more may be the phenomenological fallacy.",
+    "ontological_commitments": "Physical processes only. Sense data and mental images are not entities in the world.",
+    "epistemic_access": "Introspection reports experiences in topic-neutral terms; neuroscience identifies what satisfies those reports. Privacy and apparent incorrigibility concern modes of access, not the nature of what is accessed.",
+    "constituents_and_structure": "Neural processes reported in introspection through resemblance terms such as ‘something is going on like…’, ‘waxing’ and ‘waning’."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal sensation, awareness versus full consciousness; extended to beliefs, desires and intentional states generally.",
+    "distinctive_mechanism_or_principle": "Topic-neutral analysis of experience reports, which leaves the nature of the reported event open for science to settle, combined with an argument from parsimony.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "The central nervous system.",
+    "causation_and_functional_role": "Identity preserves mental causation: pain causes avoidance because pain is the neural process that causes the behavior. Parallelism and epiphenomenalism duplicate the world without adding predictive power.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "An experience represents properties it need not have, just as a representation of a circle need not be circular.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Science increasingly shows organisms to be physico-chemical mechanisms, making sensations an implausible lone exception.",
+      "Dualism needs fundamental psychophysical laws that dangle from the nomological net and explain nothing, a term Smart took from Feigl; Ockham's razor cuts them.",
+      "Experience reports are topic-neutral, so they do not commit the speaker to non-physical properties.",
+      "Against Kripke, Smart holds the link only half contingent: a full brain description would imply the topic-neutral report, though not conversely."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical: conceptual analysis and an argument from parsimony, resting on the progress of physical science."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Putnam's multiple-realization argument, aimed at Smart's formulation, holds that pain may occur in creatures with very different physical makeup; retreating to species-relative or token identities sacrifices universality. Levine argues that identity without an account of why a process feels painful leaves an explanatory gap. Critics also say topic-neutral resemblance must be resemblance in phenomenal character, which presupposes what the analysis tries to remove, an objection Smart counted among the strongest.",
+    "open_questions_and_limitations": "Whether future explanation can make the identity intelligible rather than merely asserted; Smart offers no detailed neural theory of consciousness.",
+    "ontological_coherence": "Internally clear and economical. Unrestricted type identity has lost standing to functionalism, but its appeal to parsimony and its treatment of identity as a contingent discovery remain central to physicalism."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "On strict type identity, a machine would have sensations only if it ran the same kinds of process as a brain, though Smart allowed narrower identities that could loosen this."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since sensations are brain processes, they end with the brain; Smart was also an atheist."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The view places consciousness wholly within a physical account of nature."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "If experiences are identical to neural process types, a simulation would not carry them unless it reproduced those processes."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Place’s Empirical Identity and the Phenomenological Fallacy", "relationship": "Foundation" },
+      { "name": "Feigl's Double Knowledge of Raw Feels", "relationship": "Influence" },
+      { "name": "Armstrong’s Higher-Order Perception Theory", "relationship": "Compatible" },
+      { "name": "Kripke’s Modal Argument Against Mind–Brain Identity", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Sensations and brain processes, J. J. C. Smart", "year": 1959 },
+      { "title_with_names": "Philosophy and Scientific Realism, J. J. C. Smart", "year": 1963 },
+      { "title_with_names": "Consciousness and awareness, J. J. C. Smart", "year": 2004 },
+      { "title_with_names": "The mind/brain identity theory, J. J. C. Smart", "year": 2007 },
+      { "title_with_names": "Colours, J. J. C. Smart", "year": 1961 },
+      { "title_with_names": "Materialism as a scientific hypothesis, U. T. Place", "year": 1960 },
+      { "title_with_names": "Psychological predicates, H. Putnam", "year": 1967 },
+      { "title_with_names": "Materialism and qualia: The explanatory gap, J. Levine", "year": 1983 }
+    ]
+  }
+}

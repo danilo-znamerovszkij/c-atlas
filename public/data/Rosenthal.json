@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Rosenthal’s Higher-Order Thought",
+    "summary": "David Rosenthal holds that a mental state is conscious when its subject has a higher-order thought that he or she is in that state, a thought that need not itself be conscious and does not seem to rest on inference. Mental qualities such as the redness of a sensation exist whether or not they are conscious; Rosenthal explains them separately, by how they map the perceptible properties we can discriminate.",
+    "associated_thinkers": ["David Rosenthal"],
+    "category": "Materialism",
+    "subcategory": "Higher-Order",
+    "core_identity_tagline": "Consciousness as Thought About One’s Own States",
+    "classification_tags": ["higher-order thought", "higher-order theory", "quality space", "mental qualities", "philosophy of mind"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A state’s being conscious consists in the subject being aware of it by way of a suitable higher-order thought that one is in that state.",
+    "ontological_status": "Physicalism (naturalistic functionalism)",
+    "mind_body_relationship": "Mental states, their qualities, and the higher-order thoughts that make them conscious are all natural states of the organism; Rosenthal expects neural correlates of consciousness to be whatever mechanism produces the higher-order awareness.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (consciousness is a relational property a state gains when targeted by a higher-order thought)",
+    "subjectivity_and_intentionality": "Subjectivity is the way we are aware of our own states, and the higher-order thought must not seem to rely on inference or observation, which captures the immediacy of that awareness. Intentionality belongs to first-order states and to the thoughts about them.",
+    "qualia_account": "Mental qualities are fixed by their role in perceptual discrimination and occupy a ‘quality space’ that mirrors the similarities among perceptible properties. Because these qualities do not depend on consciousness, a sensation can have qualitative character without being conscious, as in subliminal perception.",
+    "ontological_commitments": "First-order mental states with qualitative and intentional properties, higher-order thoughts about them, and structure-preserving mappings between mental qualities and perceptible properties.",
+    "epistemic_access": "Consciousness is known through our ordinary awareness of our own states, which needs no deliberate introspection; qualities are studied through what a subject can discriminate.",
+    "constituents_and_structure": "Two levels: first-order states (sensations, thoughts) and higher-order thoughts that represent the subject as being in them. Qualities sit in a quality space defined by discrimination."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "State consciousness (what makes a mental state conscious), qualitative character, and the difference between conscious and unconscious states.",
+    "distinctive_mechanism_or_principle": "A non-inferential higher-order thought that one is in a given state, which makes that first-order state conscious even when the thought itself is unconscious.",
+    "dynamics_of_emergence": "A state becomes conscious when a suitable higher-order thought about it occurs and stays unconscious otherwise; deliberate introspection happens only when the higher-order thought is itself conscious.",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "First-order states represent perceptible properties through a homomorphism between quality space and the structure of the world. Higher-order thoughts represent the subject as being in those first-order states.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "A theory of consciousness must say what distinguishes conscious from unconscious states, and first-order theories such as Dretske’s and Block’s fail to explain why their preferred feature makes that difference.",
+      "No state counts as conscious unless one is in some way aware of it, so higher-order awareness is part of what being conscious means rather than an extra ingredient.",
+      "Mental qualities can be identified by their role in perceptual discrimination without any appeal to consciousness, which disarms puzzles such as undetectable quality inversion.",
+      "Higher-order theory constrains the search for neural correlates, since any correlate should point to a mechanism that produces higher-order awareness."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical, based on conceptual analysis of what it is for a state to be conscious, with links to perceptual discrimination and neuroscience."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "First-order theorists argue that higher-order awareness is an unneeded extra ingredient, and deflationists say being aware of a conscious state is like ‘smiling a smile’. Rosenthal replies that a deflated awareness cannot explain the contrast between conscious and unconscious states.",
+    "open_questions_and_limitations": "Separating qualities from consciousness means the theory must explain what it is like to have a quality only through the higher-order thought, and the neural mechanism of higher-order awareness remains to be identified.",
+    "ontological_coherence": "Consistent with physicalism and functionalism; the split between quality theory and HOT theory keeps each part naturalistic."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Since consciousness depends on having suitable higher-order thoughts about one’s own states, a system able to form such thoughts would meet the condition in principle."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Conscious states are natural states of an organism, so nothing remains conscious once those states stop occurring."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The theory is a naturalistic account of mental states and carries no cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "If the relevant first-order states and higher-order thoughts were reproduced, the view gives no principled reason the copy would lack consciousness."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Armstrong’s Higher-Order Perception Theory", "relationship": "Overlap" },
+      { "name": "Brown’s “HOROR” Higher-Order Representationalism", "relationship": "Extension" },
+      { "name": "Dretske’s Information and Representationalism", "relationship": "Critique" },
+      { "name": "Block's Biological Reductionism", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Rosenthal’s Higher-Order Thought, Landscape of Consciousness, David Rosenthal", "year": 2005 }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id_and_class": {
+    "theory_title": "Cavelier's Entangled Spins at the NMDA Receptor",
+    "summary": "German Cavelier proposes that the brain registers conscious experience in entangled radical-pair spin states at NMDA receptors, and that this quantum information corresponds one-to-one with the spike-frequency and timing codes of the surrounding circuits. He states the idea as two testable hypotheses with explicit falsification conditions and parameter ranges, and he stresses that the biological processes involved are still conjectural.",
+    "associated_thinkers": ["German Cavelier"],
+    "category": "Quantum",
+    "subcategory": "",
+    "core_identity_tagline": "Experience Registered in Entangled Receptor Spins",
+    "classification_tags": ["radical pairs", "nmda receptor", "entanglement", "quantum biology", "falsifiability"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Conscious experience is registered as information in entangled electron-spin states at NMDA receptors and carried up through molecular, channel and circuit scales into the spiking patterns from which qualia emerge.",
+    "ontological_status": "Physicalism (quantum-biological)",
+    "mind_body_relationship": "Experience and its physical encoding stand in a biconditional relation: the quantum spin parameters obtain if and only if the matching spike-frequency and timing codes do.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (qualia arise from spiking patterns that inherit information from nanoscale quantum states)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Qualia are held to emerge from circuit spiking patterns, and Cavelier follows electromagnetic-field accounts in which brain-wide synchronized fields, not isolated circuits, give experience its unity.",
+    "ontological_commitments": "NMDA receptors, radical pairs of unpaired electrons, photons, electron and nuclear spins, electromagnetic fields, ion channels and neural circuits.",
+    "epistemic_access": "Third-person measurement: intracranial EEG combined with electron paramagnetic resonance, along with pharmacological manipulation of conscious state.",
+    "constituents_and_structure": "A chain of scales: photons and spins, molecular conformation, ion channel gating, circuit oscillation and spiking patterns."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal experience and its registration, encoding and transfer in the brain; memory and quantum coding across connected pathways.",
+    "distinctive_mechanism_or_principle": "Radical pairs at NMDA receptors act as biological qubits; local quantum, electric and magnetic fields alter receptor conformation, which changes channel gating and so couples quantum events to classical neural dynamics.",
+    "dynamics_of_emergence": "Spin pairs interconvert coherently between singlet and triplet states over nanoseconds to microseconds; Cavelier leaves open whether entanglement onset, coherent evolution or decoherence and collapse is the biologically relevant stage.",
+    "location_and_distribution": "Micropopulations of NMDA receptors in specific circuits, with brain-wide synchronized fields providing unity.",
+    "causation_and_functional_role": "The receptor's calcium conductance links quantum-scale events to neural excitability and oscillation, so spin states can shape circuit activity.",
+    "integration_or_binding": "Unity comes from synchronized electromagnetic fields across the whole brain, which Cavelier extends down to nanoscale spin processes.",
+    "information_flow_or_representation": "A qubit's multi-parameter wavefunction stores more than a classical bit, so radical-pair spin states could carry sensory and cognitive information that complements, and may exceed, what spike patterns encode.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Ketamine and NMDA shift gamma, slow-delta and alpha oscillations linked to anesthesia-induced unconsciousness, making the NMDA receptor a junction between molecular pharmacology and conscious state.",
+      "Room-temperature entanglement of electron and nuclear spin ensembles has been demonstrated in engineered solid-state systems, which Cavelier takes as evidence that similar states could exist in biological molecules.",
+      "Hypothesis one: a conscious experience is registered through embedding in NMDA-receptor radical pairs, detectable by combined intracranial EEG and electron paramagnetic resonance.",
+      "Hypothesis two: entangled receptor spin states encode stable nanoscale wavefunction parameters that correspond biconditionally to circuit spike-frequency and timing codes."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirical and biophysical: extrapolation from quantum spin chemistry, anesthesia pharmacology and intracranial electrophysiology."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Combined intracranial EEG and electron paramagnetic resonance measurements; ketamine and propofol effects on oscillations and dissociative states; checking measured spin parameters against Cavelier's tabulated ranges. The decisive measurements have not yet been made.",
+    "criticisms_and_tensions": "Every link is conjectural: radical pairs at functionally relevant receptor sites, spin states lasting long enough to matter, coupling to channel gating, and detection against physiological noise. The room-temperature entanglement results come from engineered solid-state systems, not biological tissue.",
+    "open_questions_and_limitations": "Like other quantum accounts, the framework addresses how experience might be registered and transferred without explaining why any such process should be felt.",
+    "ontological_coherence": "Cavelier frames the account as a molecular extension of neural-correlate and electromagnetic-field research rather than a rival, and it stays within standard physics."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Cavelier ties the registration of experience to specific receptor biophysics and does not address whether artificial systems could have an equivalent."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Since experience here is registered in the brain's receptors and circuits, it follows from the view that it does not outlast them."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Neven's Quantum Superposition Formation", "relationship": "Overlap" },
+      { "name": "Crick and Koch's Neural Correlates of Consciousness", "relationship": "Extension" },
+      { "name": "McFadden's Conscious Electromagnetic Information Theory", "relationship": "Compatible" },
+      { "name": "Penrose-Hameroff's Orchestrated Objective Reduction", "relationship": "Overlap" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Brain entangled quantum states in radical pairs: A possible link to consciousness, German Cavelier", "year": 2026 },
+      { "title_with_names": "Evidence of quantum-entangled higher states of consciousness, Á. Escolà-Gascón", "year": 2025 },
+      { "title_with_names": "Quantum entanglement at ambient conditions in a macroscopic solid-state spin ensemble, P. V. Klimov, A. L. Falk, D. J. Christle, V. V. Dobrovitski, D. D. Awschalom", "year": 2015 },
+      { "title_with_names": "Testing the conjecture that quantum processes create conscious experience, H. Neven, A. Zalcman, P. Read, et al.", "year": 2024 }
+    ]
+  }
+}

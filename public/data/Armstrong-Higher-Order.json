@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "Armstrong’s Higher-Order Perception Theory",
+    "summary": "David Armstrong proposes that a mental state becomes introspectively conscious when an ‘inner sense’ scans it, producing a perception-like awareness of that state. On his central-state materialism both the scanned state and the scanning are brain processes, so consciousness is a relational property a state gains by being monitored. Whether the scanner creates phenomenal feel or only makes an already felt state available to its subject remains disputed.",
+    "associated_thinkers": ["David Malet Armstrong", "William Lycan"],
+    "category": "Materialism",
+    "subcategory": "Higher-Order",
+    "core_identity_tagline": "Consciousness as the Mind Perceiving Itself",
+    "classification_tags": ["higher-order perception", "inner sense", "introspection", "central-state materialism", "self-monitoring"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Introspective consciousness is inner perception: one brain process scans another and produces non-inferential information about the subject’s current mental states.",
+    "ontological_status": "Physicalism (central-state identity theory)",
+    "mind_body_relationship": "All mental states are identical to brain states defined by their causal roles, and the inner scanner is one more such state, so consciousness adds nothing beyond the physical.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (consciousness is a relational property states acquire when monitored by other neural processes)",
+    "subjectivity_and_intentionality": "Subjectivity is self-directed monitoring within one embodied system, with no inner spectator or substantial ego. First-order states are directed at the body and world, and inner-sense states are directed at those first-order states.",
+    "qualia_account": "Armstrong’s account of phenomenal feel is deflationary: felt character belongs to the first-order state, and the scan adds awareness of it. Critics say this presupposes rather than explains qualia.",
+    "ontological_commitments": "Neural states defined by causal role, including first-order perceptual and cognitive states and higher-order monitoring states.",
+    "epistemic_access": "Through inner sense, which is privileged only empirically: the brain monitors some of its own states more directly than other organisms’ states, but the scan is partial and fallible.",
+    "constituents_and_structure": "Three grades of consciousness: minimal (any mental activity), perceptual (awareness of environment and body), and introspective (awareness of one’s own current states), the last produced by inner scanning."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Introspective consciousness and self-awareness primarily; phenomenal consciousness is contested.",
+    "distinctive_mechanism_or_principle": "An inner sense modeled on outer perception: a first-order state causes a second-order, perception-like representation of it, without words, inference, or deliberate reflection.",
+    "dynamics_of_emergence": "Monitoring runs as an automatic ‘watching brief’ and can be intensified into deliberate introspection. A monitoring state can itself be monitored, but need not be, so no regress follows.",
+    "location_and_distribution": "In the brain, at a functional level: some neural process registers information about another, with no single anatomical scanner or Cartesian theater required.",
+    "causation_and_functional_role": "Inner sense supports purposive mental activity such as calculating, deliberating, and revising plans, and makes selected states available for correction, report, and memory.",
+    "integration_or_binding": "The apparent unity of the self comes from organized monitoring within one embodied system rather than from an inner ego.",
+    "information_flow_or_representation": "Higher-order states represent first-order states in an analog, quasi-sensory way, in contrast to the conceptual thoughts posited by higher-order thought theory.",
+    "evolutionary_account": "Inner sense is adaptive: as action needs continuing information about the environment, extended reasoning needs continuing information about the current stage of one’s own mental activity.",
+    "core_claims_and_evidence": [
+      "The long-distance truck driver who ‘comes to’ after miles of competent driving shows perceptual consciousness without introspective consciousness.",
+      "Inner perception is not exhaustive, not infallible, and only contingently private, which rejects the Cartesian transparent mind.",
+      "Higher-order monitoring states need not be conscious themselves, which blocks an infinite regress.",
+      "Because scanning is a physical process on physically realized states, consciousness fits within central-state materialism."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical, using conceptual analysis and everyday cases such as the truck driver, framed within a scientifically oriented materialism."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "If the first-order state is already felt, the theory explains awareness of experience rather than experience itself; if not, Armstrong must explain how a second representation produces subjective character. Critics also raise misrepresentation by the scanner, animal and infant consciousness, and whether sub-personal monitoring can yield a unified first-person field.",
+    "open_questions_and_limitations": "Armstrong’s uses of ‘consciousness’ shift between passages, leaving it unclear whether he identifies experience with being scanned. Neuroscience has not located a dedicated scanning mechanism.",
+    "ontological_coherence": "Fully consistent with his central-state materialism, which it extends reflexively; the open issue is explanatory scope rather than consistency."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Since mental states are defined by causal role and inner sense is a monitoring function, a machine that scanned its own states in the right way would have introspective consciousness in principle."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "All mental states, including inner scanning, are brain states, so they end with the brain."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "An austere scientific materialism leaves no room for cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "If states are individuated by causal role, reproducing those roles and their self-monitoring in another system would in principle reproduce introspective consciousness."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Armstrong’s Causal-Role Central-State Materialism", "relationship": "Foundation" },
+      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Contrast" },
+      { "name": "Lycan's Homuncular Functionalism", "relationship": "Compatible" },
+      { "name": "Carruthers’s First-Order Representationalism", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "A Materialist Theory of the Mind, David M. Armstrong", "year": 1968 },
+      { "title_with_names": "Three Types of Consciousness, David M. Armstrong", "year": 1979 },
+      { "title_with_names": "What Is Consciousness?, David M. Armstrong", "year": 1981 },
+      { "title_with_names": "Consciousness and Causality: A Debate on the Nature of Mind, David M. Armstrong and N. Malcolm", "year": 1984 },
+      { "title_with_names": "Consciousness and Experience, William G. Lycan", "year": 1996 },
+      { "title_with_names": "Armstrong’s Just-So Story About Consciousness, D. Stoljar", "year": 2021 },
+      { "title_with_names": "Armstrong's Materialist Theory of Mind, Peter R. Anstey and David Braddon-Mitchell (eds.)", "year": 2024 }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id_and_class": {
+    "theory_title": "Turing’s Imitation, Machine Thought, and the Hidden Mind",
+    "summary": "Alan Turing offered no theory of phenomenal consciousness and declined to give one. He argued instead that whether a machine thinks can be judged from its public performance, as we judge other people, without first solving the mystery of experience; his imitation game and his substrate-independent account of computation laid the groundwork for functionalism and artificial intelligence.",
+    "associated_thinkers": ["Alan Turing"],
+    "category": "Materialism",
+    "subcategory": "Computational",
+    "core_identity_tagline": "Machine Minds Judged Without Solving Consciousness",
+    "classification_tags": ["turing test", "imitation game", "other minds", "multiple realizability", "machine intelligence"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Turing identifies consciousness with nothing. He treats it as a genuine mystery and sets it aside, holding that the attribution of thought can rest on observable capacities.",
+    "ontological_status": "Agnosticism (methodological)",
+    "mind_body_relationship": "Left open. His 1936 universal machine shows that a computation is fixed by formal organization rather than physical medium, the premise later used for multiple realizability, but Turing never claimed that implementing a computation produces experience. He even allowed, as speculation, that God might give a machine a soul.",
+    "primitive_or_emergent_status": "Unclear",
+    "emergence_type": "Not applicable (Turing brackets the metaphysics of consciousness)",
+    "subjectivity_and_intentionality": "Subjectivity is private, so certainty about another mind would require being that mind. Turing calls that demand the solipsistic extreme and says we instead adopt ‘the polite convention that everyone thinks’, which should extend to machines that give rich enough conversational evidence.",
+    "qualia_account": "None. Turing says describing machine learning in terms of reward and punishment does not imply the machine feels pleasure or pain, so functional learning and felt affect stay distinct.",
+    "ontological_commitments": "Abstract computing machines, physical systems that implement them, and minds whose inner lives are not directly observable.",
+    "epistemic_access": "Third-person and behavioral. Machine mentality, like other human minds, must be inferred from publicly assessable evidence such as sustained text conversation.",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Intelligence and thought (behavioral); Phenomenal consciousness explicitly bracketed",
+    "distinctive_mechanism_or_principle": "The imitation game. A remote, text-only interrogator tries to tell a machine from a human; Turing replaces the question ‘Can machines think?’ with this test.",
+    "dynamics_of_emergence": "Turing proposed that intelligence could be learned. A ‘child machine’ or trainable network of ‘unorganised machines’ would acquire adult capacities through education, reward, punishment, and experience, and might surprise its designers.",
+    "location_and_distribution": "Turing notes a paradox in any attempt to localize consciousness and offers no location.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Thought is assessed as rule-governed symbol manipulation in the sense of the Turing machine; a universal machine can emulate any computable process.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Computation depends on formal organization, not physical medium, so non-brain systems could in principle have mind-like capacities.",
+      "Geoffrey Jefferson’s demand that a machine must feel its thoughts would, applied consistently, leave us unable to know that other humans think.",
+      "Consciousness remains mysterious, but that mystery need not be solved before deciding whether a machine thinks.",
+      "Turing did not claim that passing the imitation game guarantees consciousness."
+    ],
+    "basis_of_belief_or_evidence_type": "Mathematical (theory of computation) and philosophical (argument from parity with other minds)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "The imitation game itself. Today large language models routinely pass conversational tests of this kind, and researchers such as Patrick Butlin and colleagues now look for architectural indicators drawn from theories of consciousness instead of behavior alone.",
+    "criticisms_and_tensions": "Ned Block’s lookup-table ‘Blockhead’ passes any finite conversation without thinking, so behavior cannot suffice. John Searle’s Chinese Room argues that running a program does not yield understanding or consciousness. Lucas and Penrose draw anti-mechanist arguments from Gödel’s results. Hard-problem theorists say Turing specified a test for intelligence only by defining consciousness out of the question.",
+    "open_questions_and_limitations": "Turing gives no account of qualia and no reason any process should feel like anything. How to read the test is disputed: behaviorist, inductive evidence, or Diane Proudfoot’s view that Turing treated intelligence as response-dependent.",
+    "ontological_coherence": "Coherent because it is minimal. Turing is placed among computational theories for his enabling premise, not because he held that consciousness is computation."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Turing argued machines cannot be ruled out as thinkers merely for being machines, but he left open whether thinking machines would feel anything."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Putnam’s Machine Functionalism", "relationship": "Influence" },
+      { "name": "Searle's Biological Naturalism", "relationship": "Critique" },
+      { "name": "Dennett’s Heterophenomenology", "relationship": "Extension" },
+      { "name": "Blums’ Conscious Turing Machine", "relationship": "Influence" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "On Computable Numbers, with an Application to the Entscheidungsproblem, Alan Turing", "year": 1936 },
+      { "title_with_names": "Intelligent Machinery, Alan Turing", "year": 1948 },
+      { "title_with_names": "Computing Machinery and Intelligence, Alan Turing", "year": 1950 },
+      { "title_with_names": "Intelligent Machinery, a Heretical Theory, Alan Turing", "year": 1951 },
+      { "title_with_names": "The Mind of Mechanical Man, Geoffrey Jefferson", "year": 1949 },
+      { "title_with_names": "Psychologism and Behaviorism, Ned Block", "year": 1981 },
+      { "title_with_names": "Minds, Brains, and Programs, John Searle", "year": 1980 },
+      { "title_with_names": "Rethinking Turing’s Test and the Philosophical Implications, Diane Proudfoot", "year": 2020 },
+      { "title_with_names": "Identifying Indicators of Consciousness in AI Systems, Patrick Butlin, Robert Long, et al.", "year": 2026 }
+    ]
+  }
+}

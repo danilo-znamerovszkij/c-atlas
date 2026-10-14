@@ -4,7 +4,7 @@
     "summary": "Biological Naturalism posits that consciousness is a real, irreducible, subjective biological feature of the brain, entirely caused by lower-level neurobiological processes and realized as higher-level system features. This approach seeks to solve the mind-body problem by accepting the scientific worldview while acknowledging the first-person ontology of conscious experience.",
     "associated_thinkers": ["John Searle"],
     "category": "Materialism",
-    "subcategory": "Philosophical",
+    "subcategory": "Neurobiological",
     "core_identity_tagline": "Consciousness as an irreducible biological feature of the brain",
     "classification_tags": [
       "biological",
@@ -51,7 +51,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Conditional/Possible",
+      "stance": "Conditional",
       "rationale": "Searle rejects consciousness via simulation (Chinese Room Argument) but argues that if the causally sufficient biological mechanism is known, an artificial machine that implements that same mechanism could be conscious, as consciousness does not strictly require biological neurons, only sufficient causal power."
     },
     "survival_beyond_death": {

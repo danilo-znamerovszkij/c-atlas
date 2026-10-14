@@ -1,0 +1,81 @@
+{
+  "id_and_class": {
+    "theory_title": "Birch’s Comparative Sentience: Consciousness Profiles Across Diverse Minds",
+    "summary": "Birch offers a method for studying consciousness across animals and AI without first settling what consciousness is. He rests inquiry on one minimal ‘theory-light’ hypothesis (conscious perception enables a cluster of flexible abilities that unconscious perception does not), replaces ‘more or less conscious’ with profiles across five dimensions, and prescribes proportionate precaution for any ‘sentience candidate’.",
+    "associated_thinkers": ["Jonathan Birch"],
+    "category": "Materialism",
+    "subcategory": "Phylogenetic",
+    "core_identity_tagline": "Sentience Mapped Across Species Under Uncertainty",
+    "classification_tags": ["animal sentience", "methodology", "precaution", "comparative cognition", "ai"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Birch defines sentience broadly as the capacity for phenomenal consciousness and narrowly as the capacity for valenced experience, states that feel good or bad to their subject. He does not identify consciousness with any particular physical or functional property.",
+    "ontological_status": "Metaphysically neutral (methodological framework)",
+    "mind_body_relationship": "Left open on purpose. Birch treats materialism, dualism, panpsychism, and their variants as lying within a zone of reasonable disagreement and builds his framework to work across all of them.",
+    "primitive_or_emergent_status": "Unclear",
+    "emergence_type": "Not specified (Birch declines to say how or why any process generates experience)",
+    "subjectivity_and_intentionality": "Subjectivity is taken as given in the definition of sentience, there being something it is like to be a subject. Birch focuses on valence because valence, not cognitive sophistication, grounds moral status.",
+    "qualia_account": "Birch offers no mechanism for qualia and regards supplying one as beyond current reach. He characterizes the forms experience takes rather than explaining why it feels like anything.",
+    "ontological_commitments": "Minimal: subjects with phenomenal experience, valenced states, and the cognitive capacities that conscious perception makes possible.",
+    "epistemic_access": "Inferred from behaviour and cognition using his theory-light hypothesis, through tests such as trace conditioning, reversal learning, cross-modal integration, and flexible avoidance. For AI, where behaviour can be gamed, Birch proposes looking for deep computational markers.",
+    "constituents_and_structure": "Phenomenal consciousness varies along at least five independent dimensions: perceptual richness, evaluative richness, unity at a time, temporal integration across time, and self-consciousness."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (especially valenced experience), Unity, Temporality, Self-consciousness; distribution across species and AI",
+    "distinctive_mechanism_or_principle": "A minimal ‘facilitation hypothesis’ holding that phenomenally conscious perception of a stimulus boosts, relative to unconscious perception, a cluster of abilities directed at that stimulus. The link is evidential, which lets researchers infer consciousness from behaviour without choosing a theory.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Distributed across diverse animals in different profiles. A cephalopod may exceed a corvid on perceptual richness while falling below it on temporality, so neither ranks as simply more conscious.",
+    "causation_and_functional_role": "Birch treats phenomenal consciousness as functionally consequential: conscious perception enables flexible learning and integration that unconscious processing does not.",
+    "integration_or_binding": "Unity at a time and integration across time are two of the five dimensions, each to be measured separately for each species.",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "Birch compares diverse lineages to see which combinations of dimensions each has evolved, without offering a single story of how consciousness arose.",
+    "core_claims_and_evidence": [
+      "Asking whether one animal is more conscious than another is generally malformed, because consciousness varies along independent dimensions.",
+      "Theory-heavy approaches inherit their chosen theory's flaws, and theory-neutral approaches cannot say what the data are evidence for, so a theory-light middle path is needed.",
+      "Birch's 2021 team review of more than 300 studies led cephalopod molluscs and decapod crustaceans to be covered by the UK Animal Welfare (Sentience) Act 2022.",
+      "Large language models trained on human descriptions of experience can reproduce behavioural markers of sentience, so those markers lose evidential force for AI (the gaming problem)."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical and methodological, applied to empirical comparative cognition"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Trace conditioning, reversal learning, cross-modal integration, and flexible avoidance tasks in animals; systematic evidence review of cephalopod and decapod sentience; proposed deep computational markers for AI.",
+    "criticisms_and_tensions": "The facilitation hypothesis ties phenomenality to cognitive access, which theorists who follow Block's access-phenomenal distinction reject; Birch replies that the tie is evidential, not constitutive. The five dimensions are stipulated rather than derived, and their independence is asserted rather than shown.",
+    "open_questions_and_limitations": "Birch calls published consciousness profiles conjectures, not measurements, and better measures remain to be built. Deep computational markers for AI may presuppose particular theories of consciousness, which the framework avoids for animals.",
+    "ontological_coherence": "Coherent because it avoids metaphysical commitment, though that neutrality means it adds nothing to the debate over what consciousness is. Its placement under Materialism is a classification Birch himself does not endorse."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Birch counts non-biological systems as possible sentience candidates warranting precaution, while warning that behavioural evidence from language models is unreliable."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Birch's concern is ethical and practical, protecting any being that may be able to suffer, with no claim about cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Ginsburg and Jablonka's Associative Learning During Evolution", "relationship": "Overlap" },
+      { "name": "Bayne’s Unified, Multidimensional Consciousness: Structure Before Mechanism", "relationship": "Overlap" },
+      { "name": "Block's Biological Reductionism", "relationship": "Contrast" },
+      { "name": "Andrews's Consciousness Without Complex Brains", "relationship": "Compatible" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI, Jonathan Birch", "year": 2024 },
+      { "title_with_names": "The Search for Invertebrate Consciousness, Jonathan Birch", "year": 2022 },
+      { "title_with_names": "Dimensions of Animal Consciousness, Jonathan Birch, A. K. Schnell and N. S. Clayton", "year": 2020 },
+      { "title_with_names": "Review of the Evidence of Sentience in Cephalopod Molluscs and Decapod Crustaceans, Jonathan Birch, C. Burn, A. Schnell, H. Browning and A. Crump", "year": 2021 },
+      { "title_with_names": "The Learning-Consciousness Connection, Jonathan Birch, S. Ginsburg and E. Jablonka", "year": 2021 },
+      { "title_with_names": "On a Confusion About a Function of Consciousness, Ned Block", "year": 1995 }
+    ]
+  }
+}

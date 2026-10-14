@@ -3,6 +3,7 @@ export function generateSlug(name: string): string {
     .toLowerCase()
     .normalize('NFD') // Decompose accented characters
     .replace(/[\u0300-\u036f]/g, '') // Remove diacritical marks
+    .replace(/[øæœßłđ]/g, c => ({ ø: 'o', æ: 'ae', œ: 'oe', ß: 'ss', ł: 'l', đ: 'd' })[c] ?? c) // Letters NFD can't decompose (e.g. 'Strømme')
     .replace(/[^\w\s-]/g, '') // Remove remaining special characters except word chars, spaces, and hyphens
     .replace(/\s+/g, '-') // Replace spaces with hyphens
     .replace(/-+/g, '-') // Replace multiple hyphens with single hyphen

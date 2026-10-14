@@ -17,6 +17,8 @@ const EMPTY_TAXONOMY: TaxonomyDictionary = {
 
 let activeLocale: Locale = DEFAULT_LOCALE
 let uiDict: Record<string, string> = {}
+// English UI strings, used for keys a locale hasn't translated yet.
+let fallbackDict: Record<string, string> = {}
 let taxonomyDict: TaxonomyDictionary = EMPTY_TAXONOMY
 
 async function fetchJsonSafe<T>(path: string, fallback: T): Promise<T> {
@@ -47,19 +49,21 @@ export async function initI18n(): Promise<void> {
   // no hardcoded English fallback left in the TS source), so skipping the
   // fetch for the default locale would make every t() call return its raw
   // key instead of English text.
-  const [ui, taxonomy] = await Promise.all([
+  const [ui, taxonomy, fallback] = await Promise.all([
     fetchJsonSafe<Record<string, string>>(`/i18n/ui/${locale}.json`, {}),
-    fetchJsonSafe<TaxonomyDictionary>(`/i18n/taxonomy/${locale}.json`, EMPTY_TAXONOMY)
+    fetchJsonSafe<TaxonomyDictionary>(`/i18n/taxonomy/${locale}.json`, EMPTY_TAXONOMY),
+    locale === DEFAULT_LOCALE ? Promise.resolve({}) : fetchJsonSafe<Record<string, string>>(`/i18n/ui/${DEFAULT_LOCALE}.json`, {})
   ])
 
   uiDict = ui
+  fallbackDict = fallback
   taxonomyDict = taxonomy
 
   translatePage()
 }
 
 export function t(key: string): string {
-  return uiDict[key] ?? key
+  return uiDict[key] ?? fallbackDict[key] ?? key
 }
 
 export function getTaxonomyDict(): TaxonomyDictionary {

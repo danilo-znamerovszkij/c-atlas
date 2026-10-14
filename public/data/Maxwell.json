@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Maxwell’s Unique-Matching Theory",
+    "summary": "Maxwell argues that consciousness is the experiential aspect of certain brain processes, knowable only by having a similar process in one's own brain. He explains why particular sensations go with particular brain processes by positing a unique, structure-preserving one-to-one mapping between a continuous space of all possible sensations and a space of functionally described brain processes.",
+    "associated_thinkers": ["Nicholas Maxwell"],
+    "category": "Non-Reductive",
+    "subcategory": "",
+    "core_identity_tagline": "Consciousness as the Felt Aspect of Matched Brain Structure",
+    "classification_tags": ["two-aspect theory", "sensation space", "isomorphism", "personalistic explanation", "non-reductive"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is what it is like to have a given brain process occur in one's own brain, and nothing more.",
+    "ontological_status": "Dual-aspect theory (non-reductive)",
+    "mind_body_relationship": "Brain processes have a physical aspect that science describes and an experiential aspect it cannot capture. Maxwell calls this two-aspect view ‘experiential functionalism’.",
+    "primitive_or_emergent_status": "Unclear",
+    "emergence_type": "Not specified; consciousness is one aspect of certain brain processes, and Maxwell holds that its existence cannot be explained in principle.",
+    "subjectivity_and_intentionality": "Experience is private because its character can be known only by undergoing a sufficiently similar brain process. Others' experience becomes intelligible through ‘personalistic’ or empathic explanation, which relates the other to oneself.",
+    "qualia_account": "Qualities such as the redness of a poppy lie beyond physical description: one can master all the physics of color while blind from birth and still not know what red looks like. Maxwell says he published this argument in 1966 and 1968, before Nagel and Jackson.",
+    "ontological_commitments": "Brain processes described in functional or control terms; a continuous, multidimensional space of possible sensations; and a unique isomorphism between the two.",
+    "epistemic_access": "First-person experience plus personalistic explanation, which is compatible with but irreducible to scientific explanation.",
+    "constituents_and_structure": "Two spaces: one of all possible sensations, ordered so that nearer sensations feel more alike, and one of functionally described brain processes. Our senses (sight, hearing, touch, smell) occupy separate regions of the sensation space."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal; the specific correlation between sensations and brain processes; the intelligibility of other minds.",
+    "distinctive_mechanism_or_principle": "Unique matching: only one assignment of sensations to functionally described brain processes preserves continuity and unity across both spaces, so the correlations hold out of structural necessity.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "In the brain, as the experiential aspect of particular brain processes.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "The sensation space has an overall coherence and unity based on smooth variation in quality, mirrored by a matching unity in the space of brain processes.",
+    "information_flow_or_representation": "Maxwell describes brain processes in functional or control terms. Smooth movement between neighboring sensations corresponds to smooth change between neighboring brain processes.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Physics can be fully understood without any particular sensation, so it cannot predict or explain the experiential aspect of brain processes.",
+      "The existence of consciousness, like the existence of the physical, cannot be explained in principle, because explanation requires appeal to something else.",
+      "A God-like being able to experience every possible sensation would find smooth transitions between seeing and hearing, placing all sensations in one continuous space.",
+      "Building on Chalmers's principle of structural coherence, Maxwell argues that a unique isomorphism between sensation space and brain-process space would explain brain-consciousness correlations without reduction."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical argument and thought experiment, with a quasi-mathematical structural hypothesis."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Maxwell himself anticipates the reaction that the theory is ‘much too wild and crazy’ to be a serious candidate. The argument depends on a God-like brain experiencing all possible sensations and on the assumption that the mapping is unique, neither of which can be checked.",
+    "open_questions_and_limitations": "Why consciousness exists at all is, by Maxwell's own account, unanswerable. Whether there is in fact only one structure-preserving way to match sensations to brain processes is assumed rather than shown.",
+    "ontological_coherence": "The theory combines scientific, personalistic, and metaphysical modes of understanding without collapsing them into one. It rejects functionalism while borrowing a functional description of brain processes, which Maxwell reconciles through the two-aspect view."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Sensations are matched to functionally described brain processes, but Maxwell rejects functionalism and ties experience to brain processes, so the status of machines is left open."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Since consciousness is an aspect of brain processes on this view, it should end when those processes end."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Influence" },
+      { "name": "Jackson's Representationalism and the Knowledge Argument", "relationship": "Overlap" },
+      { "name": "Functionalism", "relationship": "Critique" },
+      { "name": "Qualia Space", "relationship": "Overlap" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Maxwell’s Unique-Matching Theory (Landscape of Consciousness), Nicholas Maxwell" }
+    ]
+  }
+}

@@ -7,12 +7,14 @@
     "node": "22.x"
   },
   "scripts": {
+    "predev": "npm run generate-static",
     "dev": "vite",
+    "prebuild": "npm run generate-static",
     "build": "tsc && vite build",
     "preview": "vite preview",
     "type-check": "tsc --noEmit",
-    "vercel-build": "npm run generate-sitemap && npm run build",
-    "generate-sitemap": "node scripts/generate-sitemap.js",
+    "vercel-build": "npm run build",
+    "generate-static": "node scripts/generate-static.js",
     "i18n-check": "node scripts/i18n-check.js"
   },
   "devDependencies": {

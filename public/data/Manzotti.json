@@ -1,0 +1,85 @@
+{
+  "id_and_class": {
+    "theory_title": "Manzotti’s Mind-Object Identity (\"Spread Mind\")",
+    "summary": "Riccardo Manzotti argues that your experience of an object is identical to the object itself, taken as a bundle of physical properties that exist relative to your body. The body and brain are causal conditions that bring that object into existence, the way a dam brings a lake into existence, but the experience is out in the world rather than in the head.",
+    "associated_thinkers": ["Riccardo Manzotti"],
+    "category": "Materialism",
+    "subcategory": "Relational",
+    "core_identity_tagline": "Experience Is the Object Itself",
+    "classification_tags": ["externalism", "identity theory", "spread mind", "physicalism", "relative object"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "When a subject experiences an object O, the experience of O is O itself, the object as causally and physically available relative to a given body.",
+    "ontological_status": "Physicalism (externalist identity theory)",
+    "mind_body_relationship": "Manzotti splits classical mind-brain identity into two claims: consciousness is physical (which he keeps) and it lies inside the brain (which he drops). The brain is causally necessary for experience but does not constitute it.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (experience is identical to a physical object, so nothing needs to emerge)",
+    "subjectivity_and_intentionality": "Intentionality is a postulate never found in experience: seeing an apple presents the apple, not an aboutness relation to it. Manzotti’s slogan is ‘identity is the new intentionality’.",
+    "qualia_account": "There is only one red, the apple’s red relative to a visual system, not a physical red plus a phenomenal one. The felt redness seemed missing from the physical world only because theorists searched the wrong object, the brain.",
+    "ontological_commitments": "Physical objects whose properties are relative (like Galilean velocity) and actual (they exist only when some other object supplies a causal occasion), plus bodies that serve as causal reference frames.",
+    "epistemic_access": "Ordinary perception is direct presence of the object. Manzotti supports the theory by philosophical argument against brain-bound identity and by reinterpreting cases such as dreams and illusions.",
+    "constituents_and_structure": "Experience is made of external objects and their body-relative properties. The body is ‘just another object’ that fixes which objects exist relative to it."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (perception, dreams, hallucination, memory, imagery); later extended to selfhood, language, and thought",
+    "distinctive_mechanism_or_principle": "Object-relativity: properties exist only relative to another physical system, so the body brings into being the objects that are its experiences.",
+    "dynamics_of_emergence": "An object’s properties are ‘pulled into existence’ when the body supplies the causal occasion. Because perception always takes time, the experienced present spreads across past and distant causes.",
+    "location_and_distribution": "Outside the head, in the objects of experience, spread in space and time across their causal paths to the body.",
+    "causation_and_functional_role": "The body and brain enable experience causally (sensorimotor capacities, neural structures, history, position) but are not the experience. Manzotti relocates what is usually credited to proximal neural events onto distal objects.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Manzotti rejects representation and weakens the vehicle/content distinction: no separate vehicle stands for the experienced object.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Neural activity lacks the properties experience has: nothing in the brain is red, round, or shiny, while the apple is.",
+      "Physicalism requires only that consciousness be physical, not that it be inside the brain.",
+      "Dreams and hallucinations recombine previously met external properties rather than create new ones, as shown by the congenitally blind not dreaming in color.",
+      "Illusions are veridical experiences of a proxy property; the error lies in a belief about which property is perceived."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical argument (physicalist metaphysics of relative objects)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Critics press on hallucinations that seem objectless or radically novel, on the idea that present experience can lie light-years from one’s body, and on moving agency from neural events to distal objects. Manzotti answers each by denying the assumption that generates it.",
+    "open_questions_and_limitations": "Treating hallucination as displaced perception requires stretching ‘now’ in time as far as ‘there’ in space, a heavy revision of ordinary notions of time. It also remains to be shown how the theory handles selfhood, language, and thought in detail.",
+    "ontological_coherence": "Consistent with physicalism and distinct from panpsychism, idealism, and neutral monism, since it adds no phenomenal properties to matter. It goes further than the extended mind and enactivism, which tie experience to body-world coupling rather than identifying it with the object."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Since the body is just another object acting as a causal reference frame, a robot body could in principle bring objects into existence relative to itself. Manzotti does not settle which systems qualify."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since the body is the condition for objects to exist relative to a subject, nothing remains for that subject once the body is gone."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "The view is physicalist and treats experience as the world relative to a body, with no cosmic purpose implied."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Since experience is the external objects themselves, copying brain patterns would not carry over a person’s experience without the same world of objects relative to a body."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Smart’s Topic-Neutral Identity", "relationship": "Influence" },
+      { "name": "A. Clark's Extended Mind", "relationship": "Contrast" },
+      { "name": "Noë's \"Out of Our Heads\" Theory", "relationship": "Overlap" },
+      { "name": "Integrated Information Theory", "relationship": "Contrast" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "The Spread Mind: Why Consciousness and the World Are One, Riccardo Manzotti", "year": 2017 },
+      { "title_with_names": "Consciousness and Object: A Mind-Object Identity Physicalist Theory, Riccardo Manzotti", "year": 2017 },
+      { "title_with_names": "Mind-Object Identity: A Solution to the Hard Problem, Riccardo Manzotti", "year": 2019 },
+      { "title_with_names": "Experiences Are Objects: Towards a Mind-Object Identity Theory, Riccardo Manzotti", "year": 2016 },
+      { "title_with_names": "The Spread Mind: Is Consciousness Situated?, Riccardo Manzotti", "year": 2011 },
+      { "title_with_names": "The Challenge of Consciousness, Riccardo Manzotti and T. Parks", "year": 2018 },
+      { "title_with_names": "Sensations and Brain Processes, J. J. C. Smart", "year": 1959 },
+      { "title_with_names": "A Materialist Theory of the Mind, D. M. Armstrong", "year": 1968 },
+      { "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, A. Noë", "year": 2009 },
+      { "title_with_names": "Manzotti’s Mind-Object Identity (‘Spread Mind’), Landscape of Consciousness, Robert Lawrence Kuhn" }
+    ]
+  }
+}

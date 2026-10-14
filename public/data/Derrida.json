@@ -1,0 +1,81 @@
+{
+  "id_and_class": {
+    "theory_title": "Derrida’s Deconstruction of Self-Presence",
+    "summary": "Jacques Derrida argues that consciousness is never purely present to itself. Working through Husserl’s account of the inner voice and the ‘living present’, he claims that every conscious moment is already divided by difference, deferral, repetition, and trace, so the felt immediacy of experience is an effect to be explained rather than a foundation for philosophy or science.",
+    "associated_thinkers": ["Jacques Derrida"],
+    "category": "Phenomenology",
+    "subcategory": "",
+    "core_identity_tagline": "Self-Presence as an Effect of Différance",
+    "classification_tags": ["deconstruction", "self-presence", "différance", "time-consciousness", "husserl"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Derrida offers no positive identification of consciousness. He treats conscious self-presence as an effect produced by more basic structures of differentiation (différance, trace, spacing) rather than an original ground.",
+    "ontological_status": "Deconstructive critique (anti-foundationalist)",
+    "mind_body_relationship": "Derrida does not address the mind-body problem directly. He argues that exteriority, space, and the body already inhabit the supposedly pure interior of consciousness.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (Derrida denies that self-presence is a primitive ground and offers no naturalistic emergence story; presence is a derived effect of the trace)",
+    "subjectivity_and_intentionality": "The subject never fully coincides with its own experience. Even self-consciousness is split between the one who is conscious and what is given as conscious, so the ‘for-me-ness’ of experience is mediated and deferred.",
+    "qualia_account": "Derrida largely ignores qualia. His argument targets the self-presence and immediacy that phenomenologists take as built into experience, which is the route by which it bears on phenomenal consciousness.",
+    "ontological_commitments": "Signs, repeatability, traces, différance (differing and deferring), and spacing, taken as conditions that make presence possible while keeping it incomplete.",
+    "epistemic_access": "Close critical reading of philosophical texts, especially Husserl, to expose assumptions of immediacy. First-person givenness cannot serve as an ultimate ground of knowledge.",
+    "constituents_and_structure": "The conscious present is held together by retention of the just-past and anticipation of what comes next, so non-presence is lodged inside every now."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Self-awareness; time-consciousness; inner speech and meaning",
+    "distinctive_mechanism_or_principle": "Différance, Derrida’s term for the play of differing and deferring that constitutes presence while preventing it from ever being complete.",
+    "dynamics_of_emergence": "Temporalization is a movement of differentiation. Because the living present must retain what has just elapsed, the present is always divided from itself.",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "Derrida denies that consciousness achieves a seamless unity with itself. Apparent unity is an effect of traces and repetition.",
+    "information_flow_or_representation": "Inner speech, which Husserl treats as meaning present to consciousness without a gap, must use signs that are repeatable and general. Signs can work in the speaker’s absence, so otherness enters the very medium of self-presence.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Western philosophy has privileged presence, immediacy, and self-coincidence over mediation, repetition, and absence.",
+      "Hearing-oneself-speak cannot deliver pure self-presence because the signs of inner speech are repeatable and general.",
+      "Husserl’s retention places the just-past inside the present, so the now is never simple or self-identical.",
+      "The felt immediacy of experience is real as an effect but cannot be the self-identical foundation that Descartes and Husserl took it to be."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical and textual critique of phenomenology"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Zahavi argues that pre-reflective self-awareness is not a representational or sign-mediated relation, so Derrida’s claim that every self-relation passes through the trace may miss its target. It remains contested whether Derrida refutes immediacy or over-extends a linguistic and semiotic model to experience itself.",
+    "open_questions_and_limitations": "Derrida offers no naturalistic or empirical model of consciousness and says little about qualia. ‘Phenomenal consciousness’ is not his vocabulary; his work bears on that debate only through the link between self-presence and for-me-ness.",
+    "ontological_coherence": "Coherent as critique, since it makes no positive metaphysical claim. Without a positive account it cannot compete directly with explanatory theories, but it shifts the burden onto them to explain immediacy rather than assume it."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Husserl’s Transcendental Phenomenology", "relationship": "Critique" },
+      { "name": "Zahavi’s Pre-Reflective For-Me-Ness", "relationship": "Critique" },
+      { "name": "Sartre’s Pre-reflective Consciousness as For-Itself", "relationship": "Critique" },
+      { "name": "Descartes’s Substance Dualism", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Speech and Phenomena, and Other Essays on Husserl's Theory of Signs, Jacques Derrida", "year": 1967 },
+      { "title_with_names": "Of Grammatology, Jacques Derrida", "year": 1967 },
+      { "title_with_names": "Is the Present Ever Present? Phenomenology and the Metaphysics of Presence, R. Bernet", "year": 1982 },
+      { "title_with_names": "Jacques Derrida (Stanford Encyclopedia of Philosophy), L. Lawlor", "year": 2019 },
+      { "title_with_names": "Subjectivity and Selfhood: Investigating the First-Person Perspective, D. Zahavi", "year": 2005 },
+      { "title_with_names": "Derrida’s Deconstruction of Self-Presence, Landscape of Consciousness, Robert Lawrence Kuhn" }
+    ]
+  }
+}

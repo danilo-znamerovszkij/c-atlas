@@ -1,0 +1,83 @@
+{
+  "id_and_class": {
+    "theory_title": "Popper and Eccles's Interactionist Dualism: Three Worlds and the Liaison Brain",
+    "summary": "Popper and Eccles argue that conscious experience is a real, non-physical domain that both receives input from the brain and acts on it, so the physical world is not causally closed. Popper places experience in a three-world ontology and argues that consciousness could only have evolved if it affects behavior. Eccles adds a neural interface: a self-conscious mind that scans, selects, and unifies activity in cortical ‘liaison areas’, later recast as psychons acting on dendrons through quantum effects at the synapse.",
+    "associated_thinkers": ["Karl Popper", "John Eccles", "Friedrich Beck"],
+    "category": "Dualism",
+    "subcategory": "",
+    "core_identity_tagline": "Consciousness as a Non-Physical Mind Acting on the Brain",
+    "classification_tags": ["interactionism", "three worlds", "mental causation", "downward causation", "quantum synapse"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Consciousness is World 2: an irreducible domain of subjective experience and mental dispositions, distinct from physical World 1 and from World 3, the objective contents of thought.",
+    "ontological_status": "Interactionist dualism (pluralist, three-world)",
+    "mind_body_relationship": "Mind and brain interact causally in both directions. Eccles locates the interface in open modules of the dominant, language-bearing hemisphere, where the self-conscious mind reads out and modifies neural activity.",
+    "primitive_or_emergent_status": "Unclear",
+    "emergence_type": "Popper treats World 2 as ontologically basic yet also describes mind as emerging through natural selection, pairing this with strong emergence and downward causation; Eccles leans toward a substantive self.",
+    "subjectivity_and_intentionality": "Subjectivity is World 2 itself. Popper holds that the self is developed rather than given, anchored in language and in the World 3 objects a person comes to grasp.",
+    "qualia_account": "Neither author explains why experience has qualitative character. They argue that it exists and does causal work, and Popper takes the felt character of pleasure and pain to be what natural selection acted on.",
+    "ontological_commitments": "Three worlds (physical states, conscious states, objective contents of thought); a self-conscious mind; cortical liaison modules; in Eccles’s later work, psychons and dendrons.",
+    "epistemic_access": "Introspection of a unified, active experience combined with neurophysiological data from the cortex and split-brain patients.",
+    "constituents_and_structure": "World 3 acts on World 1 only through World 2. In Eccles’s later model, mental life consists of unitary experiences (psychons), each linked to a dendron, a bundle of apical dendrites of cortical pyramidal cells, with roughly forty million such pairs."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal; Unity of experience; Agency and mental causation; Self-awareness",
+    "distinctive_mechanism_or_principle": "A self-conscious mind that selects, interprets, and binds the output of cortical modules. Eccles and Beck propose that mental intention raises the quantum probability of vesicle release at synapses without transferring energy.",
+    "dynamics_of_emergence": "Consciousness arose through natural selection because it affected behavior. Moment to moment, the mind actively searches and attends to cortical output rather than passively receiving it.",
+    "location_and_distribution": "Eccles places the interface in the liaison areas of the dominant hemisphere; the mind itself is non-physical.",
+    "causation_and_functional_role": "Consciousness causes behavior and lets theories and other World 3 contents change the physical world, since they act only by being grasped by a mind. Popper links this to downward causation, Campbell’s term for higher-level structures constraining their parts.",
+    "integration_or_binding": "Eccles inverts the binding problem: cortical activity is fragmented across modules, so the unity of the phenomenal field is imposed by the mind rather than achieved by the brain.",
+    "information_flow_or_representation": "The self-conscious mind reads out from cortical modules and feeds back to them; World 3 content reaches the physical world only by passing through World 2.",
+    "evolutionary_account": "Popper argues that if the physical world were causally closed, conscious experience could have no effect on behavior and so could not have been selected for, which makes epiphenomenalism and the identity theory incompatible with evolution.",
+    "core_claims_and_evidence": [
+      "A property with no behavioral effect cannot be selected for, so consciousness must be causally effective.",
+      "Subjective experience mediates between the physical world and the objective products of thought.",
+      "The unity of experience outruns any demonstrated neural integration, so the mind supplies it.",
+      "Split-brain findings led Eccles to tie the self-conscious mind to the dominant hemisphere alone.",
+      "Mental intention could alter exocytosis probabilities at synapses without violating energy conservation."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical (evolutionary argument, metaphysics of three worlds) combined with neurophysiological interpretation and speculative quantum modeling."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative",
+    "known_empirical_interventions_or_tests": "Split-brain (commissurotomy) studies; Sperry, Zaidel, and Zaidel found that the disconnected minor hemisphere recognized faces, relatives, and pets with emotional responses, against Eccles’s localization.",
+    "criticisms_and_tensions": "Dennett objects that the theory hands the hardest integrative work to the self-conscious mind without saying how it does it. Rosenkranz argues that the quantum mechanism either introduces causation without a governing law or leaves the probability-altering agent unexplained. Reviewers such as Marriott noted that the two halves of The Self and Its Brain are never fully reconciled, and the book barely engages computational theories of mind.",
+    "open_questions_and_limitations": "World 2 is posited rather than explained, and psychons label experiences rather than analyze them. The interaction mechanism was never made independently testable, and the split-brain reading behind Eccles’s localization has not held.",
+    "ontological_coherence": "Coherent as interactionism, but it requires abandoning causal closure of the physical. Popper’s pluralism and caution about mechanism sit uneasily with Eccles’s substantive self and his personal survival thesis, which Popper did not share."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "Since consciousness is a non-physical World 2 domain that interacts with brains, building a physical machine would not on its own produce it."
+    },
+    "survival_beyond_death": {
+      "stance": "Possible",
+      "rationale": "Eccles held a personal survival thesis grounded in a non-physical self, while Popper did not share it."
+    },
+    "meaning_and_purpose": {
+      "stance": "Uncertain",
+      "rationale": "Popper grounds the self in language and culture, while Eccles sought to integrate science with questions of spirit, so the two diverge."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Copying the brain would copy World 1 only, not the non-physical mind that unifies and directs it."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Beck-Eccles's Quantum Processes in the Synapse", "relationship": "Extension" },
+      { "name": "Sperry’s Mentalist Paradigm", "relationship": "Overlap" },
+      { "name": "Ellis's Strong Emergence and Top-Down Causation", "relationship": "Compatible" },
+      { "name": "Pitts’s Interactionist Dualism: Energy Conservation and Mental Causation", "relationship": "Extension" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "The Self and Its Brain: An Argument for Interactionism, Karl Popper and John Eccles", "year": 1977 },
+      { "title_with_names": "Objective Knowledge: An Evolutionary Approach, Karl Popper", "year": 1972 },
+      { "title_with_names": "Natural Selection and the Emergence of Mind, Karl Popper", "year": 1978 },
+      { "title_with_names": "A Unitary Hypothesis of Mind–Brain Interaction in the Cerebral Cortex, John Eccles", "year": 1990 },
+      { "title_with_names": "Quantum Aspects of Brain Activity and the Role of Consciousness, Friedrich Beck and John Eccles", "year": 1992 },
+      { "title_with_names": "How the Self Controls Its Brain, John Eccles", "year": 1994 },
+      { "title_with_names": "The Human Mystery, John Eccles", "year": 1979 }
+    ]
+  }
+}

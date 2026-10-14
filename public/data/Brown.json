@@ -1,0 +1,77 @@
+{
+  "id_and_class": {
+    "theory_title": "Brown’s “HOROR” Higher-Order Representationalism",
+    "summary": "Richard Brown, working with Hakwan Lau, argues that phenomenal consciousness consists in having a higher-order representation that one is oneself having a certain first-order representation. Because one represents oneself as being in such states, it appears to one that one has conscious experience. The theory refines Rosenthal’s higher-order thought theory by targeting representations as such and making the higher-order state itself the bearer of phenomenal character.",
+    "associated_thinkers": ["Richard Brown", "Hakwan Lau"],
+    "category": "Materialism",
+    "subcategory": "Higher-Order",
+    "core_identity_tagline": "Consciousness as Representing One’s Own Representations",
+    "classification_tags": ["higher-order theory", "representationalism", "cognitive access", "functionalism", "self-representation"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Phenomenal consciousness consists in instantiating a thought-like higher-order representation whose content is roughly ‘I, myself, am having this visual representation of red’.",
+    "ontological_status": "Physicalism (functionalist representationalism)",
+    "mind_body_relationship": "Conscious states are representational states within cognitive architecture, so the mind-body relation is that of functional representations realized in the brain.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (consciousness arises when a cognitive system represents its own first-order representations)",
+    "subjectivity_and_intentionality": "Subjective character, the sense that an experience is ‘for me’, comes from representing oneself as being in a state. The higher-order representation is composed of intentional contents and has assertoric force.",
+    "qualia_account": "Phenomenal character, what separates seeing red from seeing blue or hearing a trumpet, is the intentional content of the higher-order representation rather than a property of the first-order state.",
+    "ontological_commitments": "First-order mental representations and higher-order, thought-like representations of them within a cognitive architecture.",
+    "epistemic_access": "Through cognitive access and introspection; Brown and Lau hold that introspection reveals that we are in some kind of state more often than it reveals specific content.",
+    "constituents_and_structure": "Two levels: first-order representations and a higher-order representation that represents some mental state as a representation, along with the self as its subject."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal consciousness, divided into subjective character and phenomenal character, and access.",
+    "distinctive_mechanism_or_principle": "A higher-order representation of a representation as such, which makes a state conscious regardless of whether its first-order content is matched.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Within cognitive architecture, since the relevant higher-order representations belong to the system’s cognitive machinery.",
+    "causation_and_functional_role": "Consciousness plays a cognitive role in reasoning, planning, and confidence judgments.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Representation is the whole story: the higher-order state represents that one has or instantiates a first-order representation, or perhaps a set of them.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Phenomenal consciousness consists in instantiating a certain kind of higher-order representation.",
+      "The phenomenal character of an experience is the intentional content of the higher-order representation.",
+      "Targeting representations rather than their content answers the misrepresentation problem facing standard higher-order thought theory.",
+      "Consciousness is always tied to cognitive access, which counts against claims of phenomenal overflow."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical, informed by cognitive neuroscience and by introspective evidence about how we represent our own states."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Overflow theorists argue that phenomenology outruns what we can cognitively access, which HOROR denies. Brown describes the higher-order representation as seemingly non-inferential yet also calls these representations cognitive and inferential, a tension in how the state is characterized.",
+    "open_questions_and_limitations": "If phenomenal character is the content of the higher-order state, a higher-order representation with no matching first-order state would still yield experience, and the theory must say why that result is acceptable.",
+    "ontological_coherence": "Consistent with functionalist physicalism; it keeps consciousness within cognitive architecture and adds no new kind of property."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Since consciousness consists in a certain kind of higher-order representation within a cognitive architecture, a system with that architecture would in principle qualify."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Consciousness is a matter of representations realized in a working cognitive system, so it ends when that system stops."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "A functionalist theory of representation implies no cosmic purpose."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "If the relevant representations were reproduced in another system, the theory gives no reason they would lack consciousness."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Extension" },
+      { "name": "Lau's Perceptual Reality Monitoring Theory", "relationship": "Overlap" },
+      { "name": "Armstrong’s Higher-Order Perception Theory", "relationship": "Contrast" },
+      { "name": "Block's Biological Reductionism", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Brown’s ‘HOROR’ Higher-Order Representationalism, Landscape of Consciousness, Richard Brown and Hakwan Lau", "year": 2015 },
+      { "title_with_names": "In Consciousness We Trust, Hakwan Lau" }
+    ]
+  }
+}

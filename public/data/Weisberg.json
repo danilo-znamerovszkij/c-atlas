@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Weisberg’s Explanatory Optimism via Automated Compression Theory",
+    "summary": "Josh Weisberg argues that the hard problem looks hard because first-person access to experience is systematically misleading. His Automated Compression Theory holds that we access experience through automatic retrieval of compressed sensory information, which makes experience seem direct, indescribable, simple, and only contingently tied to the brain. Once that appearance is explained in ordinary physical terms, it no longer counts as evidence against physicalism.",
+    "associated_thinkers": ["Josh Weisberg"],
+    "category": "Materialism",
+    "subcategory": "Philosophical",
+    "core_identity_tagline": "Hard-Problem Intuitions as Artifacts of Compressed Access",
+    "classification_tags": ["physicalism", "weak illusionism", "debunking argument", "hard problem", "introspection"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Phenomenal consciousness is a physical phenomenon that can be explained in ‘easy’ terms. What resists explanation is only the way it appears to us, an appearance produced by automated, compressed access.",
+    "ontological_status": "Physicalism (weak illusionism)",
+    "mind_body_relationship": "Conscious experience is physical. The apparent gap between mind and brain comes from how we access experience, not from any non-physical property.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (experience is fully explicable by physical processes once misleading appearances are discounted)",
+    "subjectivity_and_intentionality": "Weisberg accepts that there is something it is like to be us. He rejects the ‘revelatory’ claim that first-person access reveals the underlying metaphysical nature of consciousness.",
+    "qualia_account": "Drawing on quality space theory, a quality such as red is relational, fixed by its position among similar and different colors. Compressed access hides that relational profile, so the quality seems intrinsic, simple, and indescribable.",
+    "ontological_commitments": "Physical brain processes, automatic cognitive mechanisms, and compressed informational chunks. No exceptional or non-physical properties.",
+    "epistemic_access": "First-person access is real but distorting. Weisberg uses empirical psychology of expertise and automaticity to explain why introspection delivers misleading appearances.",
+    "constituents_and_structure": "Experiences have complex relational structure that compressed access presents as dense, seemingly non-decomposable chunks."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phenomenal (the appearance of phenomenal properties); first-person access; hard-problem intuitions.",
+    "distinctive_mechanism_or_principle": "Automated Compression Theory: automaticity makes experience seem Direct, and compression makes it seem Indescribable and Simple. Because the constitutive connections are hidden, experience seems only Contingently related to the mind’s machinery. Together these are the ‘DISC’ properties.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "Compression answers a ‘neuro-engineering pressure’ to pack information into efficient units that are easy to think with. The distorted appearance of experience is a side effect of that efficiency.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Sensory information is condensed into dense chunks that are thinkable but seem non-decomposable, then accessed automatically, without the relational detail that would make them describable.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "If the way consciousness appears can be explained without exceptional properties, that appearance stops justifying belief in such properties.",
+      "DISC appearances explain why zombies seem conceivable, why Mary seems to learn a new fact, and why there seems to be an other-minds problem.",
+      "Chess experts and fluent readers grasp complex patterns as single units they struggle to decompose, showing that automated compression can make complex content look simple.",
+      "Mary on release gains the ability to access automatically, in compressed form, information she already knew in decompressed form."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophical debunking argument supported by empirical findings on automaticity, chunking, and expert perception."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Evidence from expert perception (chess masters, fluent reading of whole words) and from automatic and compressing processes at many levels of cognition.",
+    "criticisms_and_tensions": "The debunking argument depends entirely on its first premise, that a plausible physical explanation of the appearances exists. Weisberg notes that physicalist explanations he finds well motivated are often treated by others as non-starters.",
+    "open_questions_and_limitations": "Weisberg presents ACT as an add-on to physicalist theories, not a complete theory of consciousness, and he concedes that specifying the appearance of experience is hard and the devil is in the details.",
+    "ontological_coherence": "Consistent with physicalism. It takes a middle path between realism about all apparent properties of experience and strong illusionism, which denies phenomenal consciousness altogether."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Since consciousness here is a physical process with no exceptional properties, nothing of it continues once that process stops."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Frankish’s Illusionism", "relationship": "Contrast" },
+      { "name": "Kammerer’s Introspective Illusionism", "relationship": "Overlap" },
+      { "name": "Jackson's Representationalism and the Knowledge Argument", "relationship": "Critique" },
+      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Critique" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Explanatory Optimism about the Hard Problem of Consciousness, Josh Weisberg" }
+    ]
+  }
+}
