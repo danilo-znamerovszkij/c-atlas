@@ -11,5 +11,11 @@
     // file request (hashed JS/CSS, JSON data, images) is served directly.
     "run_worker_first": ["/*", "!/*.*"]
   },
+  // Custom domains on the consciousnessatlas.com zone (Cloudflare-registered);
+  // the Worker redirects the apex to www.
+  "routes": [
+    { "pattern": "www.consciousnessatlas.com", "custom_domain": true },
+    { "pattern": "consciousnessatlas.com", "custom_domain": true }
+  ],
   "observability": { "enabled": true }
 }
