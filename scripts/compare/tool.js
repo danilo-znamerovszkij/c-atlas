@@ -16,6 +16,7 @@
   const copyBtn = document.getElementById("cmp-copy");
   const clearBtn = document.getElementById("cmp-clear");
 
+  const track = (element, props) => window.atlasTrack?.("Click", { element, ...props });
   const esc = (v) => String(v ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
   const fold = (s) => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
   const haystack = new Map(INDEX.map((e) => [e.s, fold([e.t, e.n, e.a, e.c, ...(e.h || [])].join(" | ")).replace(/[’']/g, "")]));
@@ -102,9 +103,10 @@
   };
 
   // ---- state -----------------------------------------------------------------
-  const add = (slug) => {
+  const add = (slug, via = "search") => {
     if (!bySlug.has(slug) || selected.includes(slug) || selected.length >= MAX_THEORIES) return;
     selected = [...selected, slug];
+    track("compare_add", { theory: slug, via, count: selected.length });
     input.value = "";
     update();
     if (selected.length < MAX_THEORIES) openList();
@@ -113,6 +115,7 @@
 
   const remove = (slug) => {
     selected = selected.filter((s) => s !== slug);
+    track("compare_remove", { theory: slug, count: selected.length });
     update();
   };
 
@@ -166,6 +169,7 @@
       const data = await Promise.all(selected.map(load));
       if (token !== renderToken) return;
       results.innerHTML = renderComparison(selected.map((s, i) => entryFor(s, data[i])), { removable: true });
+      window.atlasTrack?.("Compare View", { theories: selected.join(","), count: selected.length });
       wireClamps(results);
       const names = selected.map((s) => bySlug.get(s).n);
       status.textContent = `Comparing ${names.join(", ")}`;
@@ -220,14 +224,16 @@
     const target = ev.target.closest("[data-remove],[data-add],[data-pair]");
     if (!target) return;
     if (target.dataset.remove) remove(target.dataset.remove);
-    else if (target.dataset.add) add(target.dataset.add);
+    else if (target.dataset.add) add(target.dataset.add, "suggestion");
     else {
       selected = target.dataset.pair.split(",").filter((s) => bySlug.has(s));
+      track("compare_preset", { theories: selected.join(",") });
       update();
       results.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" });
     }
   });
   clearBtn.addEventListener("click", () => {
+    track("compare_clear", { count: selected.length });
     selected = [];
     update();
     input.focus();
@@ -235,6 +241,7 @@
   copyBtn.addEventListener("click", async () => {
     try {
       await navigator.clipboard.writeText(location.href);
+      track("compare_copy_link", { count: selected.length });
       copyBtn.dataset.state = "done";
       copyBtn.querySelector("span").textContent = "Link copied";
     } catch {

@@ -53,6 +53,16 @@ export class AtlasSidebar {
 
   private render() {
     const key = this.path[this.path.length - 1]
+    // The homepage ships the Most viewed card in its HTML (the first text to
+    // paint there). Keep those nodes instead of rebuilding identical ones.
+    const shipped = this.root.querySelector<HTMLElement>('.most-viewed:not([data-wired])')
+    if (!key && shipped) {
+      shipped.dataset.wired = ''
+      this.root.hidden = false
+      this.wireTheoryLinks(shipped)
+      return
+    }
+    if (!key && this.root.querySelector('.most-viewed[data-wired]')) return
     this.root.innerHTML = key ? this.renderCategory(key) : this.renderMostViewed()
     this.root.hidden = this.root.innerHTML.trim() === ''
     this.wireTheoryLinks(this.root)

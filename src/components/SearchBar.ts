@@ -1,6 +1,7 @@
 import { generateSlug } from '../utils/slugUtils'
 import globalState from '../utils/globalState'
 import { loadTheoryByName } from '../utils/routing'
+import analytics from '../utils/analytics'
 import { t } from '../utils/i18n'
 import { getAllTheoryNames } from '../config/chartConfig'
 
@@ -50,13 +51,26 @@ export class SearchBar {
       await loadTheoryByName(theoryName, this.router.getCurrentLocale())
       const slug = generateSlug(theoryName)
       const category = globalState.getTheoryCategory(theoryName) || 'neurobiological'
+      analytics.trackClick('search_select', undefined, `/${category}/${slug}`)
       this.router.navigateToTheory(category, slug)
     } catch (error) {
       console.warn(`Theory ${theoryName} not found`)
     }
   }
 
+  // The page ships the search box in its HTML so it paints with the first
+  // frame (it's the homepage's largest element); adopt it rather than
+  // re-creating it, which would also count as a later "largest paint".
   private render() {
+    const existing = this.container.querySelector<HTMLInputElement>('#theory-search')
+    if (existing) {
+      existing.placeholder = t('searchBar.placeholder')
+      existing.setAttribute('aria-label', t('searchBar.ariaLabel'))
+      this.container.querySelector('#search-dropdown')?.setAttribute('aria-label', t('searchBar.resultsAriaLabel'))
+      this.input = existing
+      this.dropdown = this.container.querySelector('#search-dropdown') as HTMLElement
+      return
+    }
     this.container.innerHTML = `
       <div class="search-container">
         <div class="search-input-wrapper">

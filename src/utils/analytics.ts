@@ -38,8 +38,12 @@ class Analytics {
         for (const [event, properties] of this.queue.splice(0)) mixpanel.track(event, properties)
       })
       .catch(error => console.error('Failed to initialize Mixpanel:', error))
-    if ('requestIdleCallback' in window) requestIdleCallback(load, { timeout: 4000 })
-    else setTimeout(load, 1500)
+    // Wait for the page to finish loading, then a little longer, so the
+    // library never competes with the first paint or the chart.
+    const idle = () => ('requestIdleCallback' in window ? requestIdleCallback(load, { timeout: 5000 }) : setTimeout(load, 1500))
+    const later = () => setTimeout(idle, 2000)
+    if (document.readyState === 'complete') later()
+    else window.addEventListener('load', later, { once: true })
   }
 
   private track(event: string, properties?: Record<string, any>) {
@@ -85,6 +89,11 @@ class Analytics {
       link_url: linkUrl,
       click_type: 'interaction'
     })
+  }
+
+  // Non-theory page views: family/subcategory map URLs ('category').
+  trackView(pageType: string, properties?: Record<string, any>) {
+    this.track('Page View', { ...properties, page_type: pageType })
   }
 
   // Form submission tracking

@@ -6,11 +6,13 @@
   const { questions: QUESTIONS, theories: THEORIES, families: FAMILIES } = DATA;
   const root = document.getElementById("quiz");
   const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const track = (element, props) => window.atlasTrack?.("Click", { element, ...props });
   const esc = (v) => String(v ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 
   // answers[i] = option index, or -1 for skipped
   let answers = [];
   let step = -1;
+  let sharedView = false; // result opened from someone's shared link
 
   // ---- matching -----------------------------------------------------------------
   // Every answer carries a value on its question's axis (0-4). Distance is a
@@ -133,6 +135,10 @@
     }).sort((a, b) => b.score - a.score);
     const axes = QUESTIONS.filter((q) => q.axis);
     const lean = fam[0];
+    window.atlasTrack?.("Quiz Complete", {
+      answers: encode(), answered, top_family: lean.name, top_theory: top[0].t.s, top_score: Math.round(top[0].score * 100), shared_view: sharedView,
+    });
+    sharedView = false;
     const share = {
       url: `${DATA.site}/quiz?r=${encode()}`,
       title: "Which theory of consciousness fits you?",
@@ -216,14 +222,17 @@
     if (t.dataset.pick) return pick(+t.dataset.pick);
     const act = t.dataset.act;
     if (act === "start" || act === "restart") {
+      track(act === "start" ? "quiz_start" : "quiz_retake");
       answers = [];
       history.replaceState(null, "", "/quiz");
       question(0);
     } else if (act === "back") step > 0 ? question(step - 1) : intro();
     else if (act === "skip") {
+      track("quiz_skip", { question: step + 1 });
       answers[step] = -1;
       next();
     } else if (act === "share-out") {
+      track("quiz_share_cta");
       // Phones: the system share sheet. Elsewhere: the share links at the top.
       const box = document.getElementById("quiz-share");
       const text = box.querySelector(".quiz-share-copy span").textContent;
@@ -240,6 +249,7 @@
       const label = t.querySelector("span");
       try {
         await navigator.clipboard.writeText(location.href);
+        track("quiz_copy_link");
         label.textContent = "Link copied";
       } catch {
         label.textContent = "Copy failed";
@@ -262,6 +272,7 @@
   const shared = decode(new URLSearchParams(location.search).get("r"));
   if (shared) {
     answers = shared;
+    sharedView = true;
     results();
   } else intro();
 })();

@@ -166,8 +166,8 @@ export function theoryArticle(theory: TheoryData, locale: Locale, leaf: Leaf | n
   }).join('')
   return `
 <article class="ssr-theory" lang="${esc(locale)}">
-  <p class="ssr-theory-category">${esc([ic.category, ic.subcategory].filter(Boolean).join(' › '))}</p>
   <h1>${esc(ic.theory_title)}</h1>
+  <p class="ssr-theory-category">${esc([ic.category, ic.subcategory].filter(Boolean).join(' › '))}</p>
   ${ic.core_identity_tagline ? `<p class="ssr-theory-tagline">${esc(ic.core_identity_tagline)}</p>` : ''}
   <p class="ssr-theory-summary">${esc(ic.summary)}</p>
   ${ic.associated_thinkers.length ? `<p class="ssr-theory-thinkers">${esc(ic.associated_thinkers.join(', '))}</p>` : ''}

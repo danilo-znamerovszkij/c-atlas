@@ -255,7 +255,9 @@
 }
 
 // The card for the current map level eases in when you move around the map.
-.sidebar-card {
+// Not the server-rendered card: an entrance would hide the homepage's first
+// text until the app's startup work lets the animation run.
+.sidebar-card:not(.is-shipped) {
   transition: opacity 0.22s ease-out, transform 0.22s cubic-bezier(0.23, 1, 0.32, 1);
 
   @starting-style {
@@ -267,4 +269,9 @@
     transition: opacity 0.2s ease;
     transform: none;
   }
+}
+
+// Pages without a server-rendered card start with an empty sidebar.
+.atlas-sidebar:empty {
+  display: none;
 }

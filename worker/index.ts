@@ -115,6 +115,7 @@ async function renderPage(request: Request, env: Env, url: URL): Promise<Respons
   // A missing fragment comes back as the SPA shell, hence the prefix check.
   if (!isPaper && segments.length === 0) {
     for (const [marker, name, prefix] of [
+      [/<!--HOME_SIDEBAR[^>]*-->/, 'home-sidebar', '<section class="sidebar-card most-viewed is-shipped"'],
       [/<!--HOME_EXPLORE[^>]*-->/, 'home-explore', '<section class="atlas-explore"'],
       [/<!--THEORY_DIRECTORY[^>]*-->/, 'home-directory', '<section class="atlas-directory"']
     ] as const) {

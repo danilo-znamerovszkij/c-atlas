@@ -7,6 +7,8 @@ import { hubAsset } from './worker/hubs'
 
 // In production the Worker serves the hub pages and fills the homepage's
 // HOME_EXPLORE/THEORY_DIRECTORY slots; do the same (English only) in dev.
+// Not HOME_SIDEBAR: dev styles arrive via JS, so a pre-rendered card would
+// flash unstyled (production links the CSS in <head>, so it's fine there).
 const devHubPages = (): Plugin => {
   const read = (file: string) => (existsSync(file) ? readFileSync(file, 'utf-8') : null)
   return {

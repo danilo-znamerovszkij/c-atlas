@@ -154,6 +154,7 @@ export class Router {
     if (path.join('/') === this.groupPath.join('/')) return
     this.groupPath = [...path]
     this.currentTheory = null
+    analytics.trackClick('map_open', undefined, groupUrlPath(path))
     window.history.pushState({}, '', buildLocalizedPath(groupUrlPath(path), this.currentLocale))
     this.updateCanonicalLink()
   }

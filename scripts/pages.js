@@ -197,9 +197,8 @@ export function buildPages({ root, publicDir, baseData, generateSlug, resolveThe
 <meta name="theme-color" content="#F7B801" />
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,500&family=Outfit:wght@400;500;600&display=swap" rel="stylesheet" />
+<link rel="preload" href="/fonts/outfit-latin.woff2" as="font" type="font/woff2" crossorigin />
+<link rel="preload" href="/fonts/bodoni-moda-latin.woff2" as="font" type="font/woff2" crossorigin />
 <script type="application/ld+json">${ld}</script>
 <style>${CSS}${css}</style>
 ${ANALYTICS(path)}
@@ -636,6 +635,7 @@ ${readFileSync(join(here, "quiz", "quiz.js"), "utf-8")}</script>`,
   const buttons = document.querySelectorAll("[data-filter]");
   buttons.forEach((b) => b.addEventListener("click", () => {
     buttons.forEach((o) => o.setAttribute("aria-pressed", String(o === b)));
+    window.atlasTrack?.("Click", { element: "mentions_filter_" + b.dataset.filter });
     document.querySelectorAll(".wall-grid .wall-card, .wall-featured .wall-card").forEach((c) => {
       c.hidden = b.dataset.filter !== "all" && c.dataset.platform !== b.dataset.filter;
     });
@@ -662,6 +662,18 @@ ${readFileSync(join(here, "quiz", "quiz.js"), "utf-8")}</script>`,
     }).join("\n  ")}
 </section>`;
     write(`home-directory/${locale}.html`, html);
+
+    // The sidebar's Most viewed card, server-rendered so it paints with the
+    // page (AtlasSidebar adopts it). Same markup as renderMostViewed().
+    const mostViewedNames = readJson(join(root, "src", "data", "mostViewed.json"), { theories: [] }).theories.map((t) => t.name).filter((n) => byLeaf.has(n));
+    write(`home-sidebar/${locale}.html`, `<section class="sidebar-card most-viewed is-shipped">
+  <h2 class="sidebar-eyebrow sidebar-eyebrow-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 17l6-6 4 4 8-8"/><path d="M15 7h6v6"/></svg>${esc(ui["sidebar.mostViewed.title"] || "Most viewed")}</h2>
+  <ol class="most-viewed-list">${mostViewedNames.map((leaf) => {
+      const t = byLeaf.get(leaf);
+      const catSlug = generateSlug(t.category), slug = generateSlug(leaf);
+      return `<li><a href="${buildLocalizedPath(`/${catSlug}/${slug}`, locale)}" data-category="${catSlug}" data-theory="${slug}"><span class="most-viewed-title">${esc(names.fullNames?.[leaf] || en.fullNames?.[leaf] || t.title)}</span><span class="most-viewed-category">${esc(names.categories?.[t.category] || label(t.category))}</span></a></li>`;
+    }).join("")}</ol>
+</section>`);
 
     // Links to the hubs, shown above the About text.
     const list = (items) => `<ul>${items.map(([href, text, n]) => `<li><a href="${href}">${esc(text)}</a>${n ? ` <small>${n}</small>` : ""}</li>`).join("")}</ul>`;
@@ -735,17 +747,26 @@ ${stanceLine(t)}
 const ANALYTICS = (path) => {
   const token = process.env.VITE_MIXPANEL_TOKEN;
   if (!token) return "";
+  // window.atlasTrack(event, props): Mixpanel via sendBeacon, no library.
+  // Reuses the app's Mixpanel distinct_id when the visitor has one, so map and
+  // hub activity land on the same person. Also tracks every link click.
   return `<script>
-(function(){try{
-var k='atlas.mpid',id=localStorage.getItem(k);if(!id){id='$device:'+(crypto.randomUUID?crypto.randomUUID():String(Math.random()).slice(2));localStorage.setItem(k,id)}
-var e={event:'Page View',properties:{token:${JSON.stringify(token)},distinct_id:id,theory_name:'Hub',page_type:'hub',hub:${JSON.stringify(path)},url:location.href,time:Date.now()/1000,$referrer:document.referrer}};
-var b=new TextEncoder().encode(JSON.stringify([e])),s='';b.forEach(function(c){s+=String.fromCharCode(c)});
-navigator.sendBeacon('https://api-js.mixpanel.com/track/?ip=1','data='+encodeURIComponent(btoa(s)));
-}catch(_){}})();
+(function(){
+var T=${JSON.stringify(token)},P=${JSON.stringify(path)};
+function id(){try{var m=JSON.parse(localStorage.getItem('mp_'+T+'_mixpanel')||'{}');if(m.distinct_id)return m.distinct_id;var k='atlas.mpid',v=localStorage.getItem(k);if(!v){v='$device:'+(crypto.randomUUID?crypto.randomUUID():String(Math.random()).slice(2));localStorage.setItem(k,v)}return v}catch(_){return 'anonymous'}}
+window.atlasTrack=function(ev,p){try{var props={token:T,distinct_id:id(),hub:P,url:location.href,time:Date.now()/1000,$referrer:document.referrer,locale:'en'};for(var x in p)if(p[x]!==undefined)props[x]=p[x];var b=new TextEncoder().encode(JSON.stringify([{event:ev,properties:props}])),s='';b.forEach(function(c){s+=String.fromCharCode(c)});navigator.sendBeacon('https://api-js.mixpanel.com/track/?ip=1','data='+encodeURIComponent(btoa(s)))}catch(_){}};
+var q=new URLSearchParams(location.search);
+atlasTrack('Page View',{theory_name:'Hub',page_type:'hub',shared_result:q.has('r')||undefined,compare_preset:q.get('t')||undefined});
+document.addEventListener('click',function(ev){var a=ev.target.closest&&ev.target.closest('a[href]');if(!a)return;var h=a.getAttribute('href')||'';atlasTrack('Click',{element:a.dataset.share?'share_'+a.dataset.share:/^https?:/.test(h)?'hub_outbound':h.indexOf('mailto:')===0?'contact_email':'hub_link',link_url:h.indexOf('mailto:')===0?'mailto':h,click_type:'interaction'})},true);
+})();
 </script>`;
 };
 
 const CSS = `
+@font-face{font-family:"Outfit";font-style:normal;font-weight:100 900;font-display:optional;src:url(/fonts/outfit-latin.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Outfit";font-style:normal;font-weight:100 900;font-display:optional;src:url(/fonts/outfit-latin-ext.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C4,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:"Bodoni Moda";font-style:normal;font-weight:400 900;font-display:swap;src:url(/fonts/bodoni-moda-latin.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Bodoni Moda";font-style:normal;font-weight:400 900;font-display:swap;src:url(/fonts/bodoni-moda-latin-ext.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C4,U+2113,U+2C60-2C7F,U+A720-A7FF}
 :root{--bg:#1b1b1b;--panel:#16140d;--fg:rgba(255,255,255,.86);--muted:rgba(255,255,255,.55);--gold:#f7b801;--gold-soft:#c6a032;--gold-light:#fcd771;--blue:#7ea6f2;--line:rgba(255,255,255,.1)}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.65 Outfit,"Helvetica Neue",Arial,sans-serif}

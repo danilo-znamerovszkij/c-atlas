@@ -2,6 +2,11 @@
      extensions (Dark Reader) not to repaint it. -->
 <meta name="color-scheme" content="dark" />
 <meta name="darkreader-lock" />
+<script>
+  // Lay out the server-rendered theory text the way the panel will open
+  // (side or full screen, the reader's saved choice), so the swap is seamless.
+  try { if (localStorage.getItem('atlas.panelFullscreen') === '1') document.documentElement.classList.add('panel-full') } catch (e) {}
+</script>
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://www.consciousnessatlas.com" />
 <meta
@@ -59,12 +64,9 @@
 />
 
 <link rel="manifest" href="/site.webmanifest" />
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link
-  href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600&display=swap"
-  rel="stylesheet"
-/>
+<!-- Body font, self-hosted (@font-face in main.scss); preloaded so text
+     doesn't wait for the stylesheet to discover it. -->
+<link rel="preload" href="/fonts/outfit-latin.woff2" as="font" type="font/woff2" crossorigin />
 <!-- Heading font: loaded without blocking first paint (headings fall back to
      the Bodoni/serif stack in _mixins.scss until it arrives). -->
 <link

@@ -164,24 +164,27 @@ export class ItemDetailsPanel {
     this.attachEventListeners()
   }
 
-  // Landing directly on a theory URL reads best full-screen; don't store it as
-  // the user's preference.
-  public showFullscreenForDirectVisit() {
-    this.setFullscreen(true, false)
+  // Landing directly on a theory URL: the page is still loading, so the panel
+  // appears in place (in the reader's saved side/full-screen mode) instead of
+  // sliding in.
+  public showInstantForDirectVisit() {
+    const panel = this.container.querySelector('.item-details-panel')
+    if (panel) {
+      panel.classList.add('is-instant')
+      const done = () => requestAnimationFrame(() => requestAnimationFrame(() => panel.classList.remove('is-instant')))
+      const watch = new MutationObserver(() => {
+        if (!panel.classList.contains('visible')) return
+        watch.disconnect()
+        done()
+      })
+      watch.observe(panel, { attributes: true, attributeFilter: ['class'] })
+      window.setTimeout(() => { watch.disconnect(); done() }, 5000)
+    }
   }
-
-  private resizeTimer = 0
 
   private setFullscreen(on: boolean, persist = true) {
     const panel = this.container.querySelector('.item-details-panel')
     const btn = this.container.querySelector('#fullscreen-panel')
-    // Fade the text while the width animates (see .is-resizing), only when
-    // the switch is visible and the class actually changes.
-    if (panel?.classList.contains('visible') && panel.classList.contains('fullscreen') !== on) {
-      panel.classList.add('is-resizing')
-      clearTimeout(this.resizeTimer)
-      this.resizeTimer = window.setTimeout(() => panel.classList.remove('is-resizing'), 380)
-    }
     panel?.classList.toggle('fullscreen', on)
     if (btn) {
       const label = t(on ? 'itemDetails.fullscreen.exit' : 'itemDetails.fullscreen.enter')

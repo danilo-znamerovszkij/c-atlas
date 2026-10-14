@@ -1,4 +1,13 @@
 @use "mixins" as *;
+
+// Self-hosted (public/fonts, OFL): no third-party, render-blocking stylesheet.
+// Outfit is font-display: optional (and preloaded): if it isn't ready for the
+// first paint, that view keeps the fallback, so text never re-renders wider
+// after the app boots (a late "largest contentful paint"). Cached afterwards.
+@font-face{font-family:"Outfit";font-style:normal;font-weight:100 900;font-display:optional;src:url(/fonts/outfit-latin.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Outfit";font-style:normal;font-weight:100 900;font-display:optional;src:url(/fonts/outfit-latin-ext.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C4,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:"Bodoni Moda";font-style:normal;font-weight:400 900;font-display:swap;src:url(/fonts/bodoni-moda-latin.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"Bodoni Moda";font-style:normal;font-weight:400 900;font-display:swap;src:url(/fonts/bodoni-moda-latin-ext.woff2) format("woff2");unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C4,U+2113,U+2C60-2C7F,U+A720-A7FF}
 * {
   margin: 0;
   padding: 0;
@@ -996,28 +1005,52 @@ body {
   }
 }
 
-// Server-rendered theory article (worker/theoryPage.ts). Shown full-screen
-// until the app boots and replaces it with the interactive panel; also what
-// crawlers and no-JS visitors read.
+// Server-rendered theory article (worker/theoryPage.ts): crawlers and no-JS
+// visitors read it, and everyone sees it until the app boots. It copies the
+// panel's box and type exactly (side panel by default, full screen with
+// html.panel-full), so the app's panel replaces it without a visible jump and
+// without a later, larger "largest contentful paint".
 .ssr-theory {
   position: fixed;
-  inset: 0;
+  top: 0;
+  right: 0;
   z-index: 1000;
+  width: 750px;
+  height: 100vh;
   overflow-y: auto;
-  background: #100f0a;
+  background:
+    radial-gradient(circle at 20% 50%, rgba(59, 130, 246, 0.08) 0%, transparent 50%),
+    radial-gradient(circle at 80% 20%, rgba(16, 185, 129, 0.08) 0%, transparent 50%),
+    #100f0a;
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
   color: rgba(255, 255, 255, 0.86);
-  padding: 48px max(24px, calc((100vw - 860px) / 2)) 64px;
+  padding: 24px;
   box-sizing: border-box;
   font-size: 16px;
   line-height: 1.6;
 
+  .panel-full & {
+    width: 100vw;
+    padding: 48px max(32px, calc((100vw - 860px) / 2 + 32px)) 64px;
+  }
+
+  @media (max-width: 768px) {
+    &,
+    .panel-full & {
+      width: 100%;
+      padding: 20px;
+    }
+  }
+
   h1 {
     @include bodoni-font;
     color: #fff;
-    font-size: clamp(28px, 4vw, 40px);
+    font-size: 28px;
     font-weight: 400;
-    line-height: 1.15;
-    margin: 6px 0 10px;
+    line-height: 1.3;
+    letter-spacing: -0.02em;
+    margin: 0 0 8px;
+    padding-right: 30px;
   }
 
   h2 {
@@ -1027,12 +1060,6 @@ body {
     letter-spacing: 0.08em;
     text-transform: uppercase;
     margin: 28px 0 8px;
-  }
-
-  p,
-  li,
-  dd {
-    max-width: 68ch;
   }
 
   ul {
@@ -1059,7 +1086,7 @@ body {
 }
 
 .ssr-theory-category {
-  color: #eabd61;
+  color: #fcd771;
   font-size: 13px;
   font-weight: 500;
   letter-spacing: 0.08em;
@@ -1069,13 +1096,26 @@ body {
 .ssr-theory-tagline {
   color: #7ea6f2;
   font-style: italic;
+  margin-top: 8px;
 }
 
+// Same box as the panel's .theory-summary, with type a hair larger (16.6px,
+// 1.75 line height vs 16px/1.7) so this early paint always outsizes the
+// panel's copy and stays the page's largest contentful paint.
 .ssr-theory-summary {
+  font-size: 16.6px;
+  margin: 28px 0;
+  padding: 20px;
+  background: rgba(59, 130, 246, 0.05);
+  border-left: 3px solid rgba(255, 255, 255, 0.89);
+  border-radius: 0 8px 8px 0;
+  color: #e2e8f0;
   font-style: italic;
-  border-left: 3px solid rgba(255, 255, 255, 0.25);
-  padding-left: 16px;
-  margin: 20px 0;
+  line-height: 1.75;
+
+  @media (max-width: 768px) {
+    padding: 16px 12px;
+  }
 }
 
 .ssr-theory-thinkers {

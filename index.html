@@ -162,7 +162,7 @@
         <div id="theory-list" class="theory-list" hidden></div>
       </div>
 
-      <aside id="atlas-sidebar" class="atlas-sidebar" hidden></aside>
+      <aside id="atlas-sidebar" class="atlas-sidebar"><!--HOME_SIDEBAR: worker/index.ts injects public/_pages/home-sidebar/{locale}.html (the Most viewed card) here --></aside>
 
       <div class="logo-container">
         <svg viewBox="0 0 247 40" class="logo">
@@ -171,7 +171,15 @@
       </div>
 
       <div class="search-section">
-        <div id="search-container"></div>
+        <div id="search-container">
+          <div class="search-container">
+            <div class="search-input-wrapper">
+              <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.35-4.35"></path></svg>
+              <input type="text" id="theory-search" placeholder="Search theories..." data-i18n="searchBar.placeholder" data-i18n-attr="placeholder" autocomplete="off" aria-label="Search theories" aria-describedby="search-dropdown" role="combobox" aria-expanded="false" aria-haspopup="listbox" />
+            </div>
+            <div class="search-dropdown" id="search-dropdown" role="listbox" aria-label="Search results"></div>
+          </div>
+        </div>
         <div id="atlas-tools"></div>
       </div>
 

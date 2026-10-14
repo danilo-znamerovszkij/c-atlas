@@ -12,6 +12,7 @@ import { WelcomeTour } from '@/components/WelcomeTour'
 import { FormPopup } from '@/components/FormPopup'
 import { LanguagePopup } from '@/components/LanguagePopup'
 import { Router } from '@/utils/routing'
+import { groupPathFromSegments } from '@/utils/groupPaths'
 import globalState from '@/utils/globalState'
 import analytics from '@/utils/analytics'
 import { initI18n, t } from '@/utils/i18n'
@@ -29,9 +30,31 @@ echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
   globalState.initialize()
   // Theory URLs are tracked by the router (as their theory); only count the
   // landing itself as 'Home', so a direct theory visit isn't logged twice.
-  if (parseLocaleFromPath(window.location.pathname).pathWithoutLocale === '/') {
+  const landing = parseLocaleFromPath(window.location.pathname).pathWithoutLocale
+  if (landing === '/') {
     analytics.trackPageView('Home', 'landing', 'overview')
+  } else if (groupPathFromSegments(landing.split('/').filter(Boolean))) {
+    analytics.trackView('category', { category_path: landing })
   }
+
+  // One listener for links to the hub pages, the quiz/compare tools, Ko-fi and
+  // email, wherever they sit (tool bar, panel, homepage blocks, footer, tour).
+  document.addEventListener('click', event => {
+    const link = (event.target as Element | null)?.closest?.('a[href]')
+    if (!link) return
+    const href = link.getAttribute('href') || ''
+    const target = /^\/(quiz|compare|mentions|theories|questions)\b/.test(href) ? 'nav'
+      : href.includes('ko-fi.com') ? 'support_kofi'
+      : href.startsWith('mailto:') ? 'contact_email' : null
+    if (!target) return
+    const area = link.closest('.tour') ? 'tour'
+      : link.closest('.item-details-panel') ? 'panel'
+      : link.closest('#atlas-tools') ? 'toolbar'
+      : link.closest('#explore') ? 'explore'
+      : link.closest('#all-theories') ? 'directory'
+      : link.closest('footer, .project-meta') ? 'footer' : 'page'
+    analytics.trackClick(`${target}_${area}`, undefined, target === 'contact_email' ? 'mailto' : href)
+  }, true)
 
   const router = Router.getInstance()
 
@@ -151,10 +174,10 @@ echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
 
       itemDetailsPanel.setCloseCallback(() => router.goHome())
 
-      // Direct visit to /{category}/{theory} (search result, shared link): open
-      // the theory full-screen; closing it reveals the atlas.
+      // Direct visit to /{category}/{theory} (search result, shared link): the
+      // panel opens without a slide; closing it reveals the atlas.
       if (!router.isGroupUrl() && parseLocaleFromPath(window.location.pathname).pathWithoutLocale.split('/').filter(Boolean).length === 2) {
-        itemDetailsPanel.showFullscreenForDirectVisit()
+        itemDetailsPanel.showInstantForDirectVisit()
       }
 
       const feedbackButton = document.getElementById('feedback-button')

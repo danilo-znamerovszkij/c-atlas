@@ -260,3 +260,11 @@ section {
   }
 }
 
+
+// The paper is ~10,000 elements. Let the browser skip layout and paint for
+// sections that are off screen until they scroll near (find-in-page and
+// screen readers still see them); the size hint keeps the scrollbar stable.
+section {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 900px;
+}
