@@ -30,3 +30,7 @@ CLAUDE.md
 *.sln
 *.sw?
 .vercel
+
+# Cloudflare Wrangler local state
+.wrangler/
+.dev.vars
