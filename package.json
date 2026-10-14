@@ -18,10 +18,12 @@
     "i18n-check": "node scripts/i18n-check.js"
   },
   "devDependencies": {
+    "@cloudflare/workers-types": "^5.20261014.1",
     "@types/node": "^24.10.0",
     "sass": "^1.91.0",
     "typescript": "~5.8.3",
-    "vite-plugin-html-inject": "^1.1.2"
+    "vite-plugin-html-inject": "^1.1.2",
+    "wrangler": "^4.151.0"
   },
   "dependencies": {
     "echarts": "^6.0.0",

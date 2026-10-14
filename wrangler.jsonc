@@ -1,0 +1,15 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "c-atlas",
+  "main": "worker/index.ts",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    // The Worker runs for page loads and /api/* (no file extension); every
+    // file request (hashed JS/CSS, JSON data, images) is served directly.
+    "run_worker_first": ["/*", "!/*.*"]
+  },
+  "observability": { "enabled": true }
+}

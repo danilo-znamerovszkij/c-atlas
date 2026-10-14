@@ -1,0 +1,17 @@
+# Cloudflare static-asset headers (files served without the Worker; see wrangler.jsonc).
+# Page HTML gets its Cache-Control from worker/index.ts.
+
+# Vite output: content-hashed filenames, safe to cache forever.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Content JSON (theories, categories, i18n, theory index): not hashed, so keep
+# browser caches short; Cloudflare's edge copy is replaced on every deploy.
+/data/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+/i18n/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+/categories/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+/theory-index/*
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
