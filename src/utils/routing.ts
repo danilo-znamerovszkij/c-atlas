@@ -3,6 +3,8 @@ import { generateSlug, resolveTheoryFileStem } from './slugUtils'
 import { SITE_ORIGIN, DEFAULT_LOCALE, parseLocaleFromPath, buildLocalizedPath } from '../shared/site'
 import type { Locale } from '../shared/site'
 import { t } from './i18n'
+import analytics from './analytics'
+import { getAllTheoryNames } from '../config/chartConfig'
 
 const theoryCache = new Map<string, TheoryData>()
 
@@ -94,6 +96,10 @@ export class Router {
         const theoryData = await this.loadTheory(category, theory)
         this.currentTheory = theoryData
         this.onTheoryChange?.(theoryData)
+        // One place for theory page views: chart, search, list, direct links,
+        // back/forward. theory_name is the chart leaf key (what Most viewed ranks).
+        const leaf = getAllTheoryNames().find(name => generateSlug(name) === theory) ?? theory
+        analytics.trackPageView(leaf, category, theoryData.id_and_class.subcategory || undefined)
       } catch (error) {
         console.error('Failed to load theory:', error)
         this.currentTheory = null

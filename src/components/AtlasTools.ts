@@ -4,6 +4,7 @@ import { generateSlug } from '@/utils/slugUtils'
 import { buildLocalizedPath } from '@/shared/site'
 import type { Router } from '@/utils/routing'
 import analytics from '@/utils/analytics'
+import { loadCategoryTexts, type CategoryText } from '@/utils/categories'
 import './AtlasTools.scss'
 
 // Shape written by scripts/generate-static.js into public/theory-index/{locale}.json
@@ -59,6 +60,7 @@ export class AtlasTools {
   private indexPromise: Promise<IndexEntry[]> | null = null
   private selected: Partial<Record<Question, string>> = {}
   private view: View = 'chart'
+  private categoryTexts: Record<string, CategoryText> = {}
   private router: Router
   private onFilterChange: (names: Set<string> | null) => void
 
@@ -215,7 +217,10 @@ export class AtlasTools {
     this.list.hidden = view !== 'list'
     if (view === 'list') {
       this.list.innerHTML = `<p class="theory-list-status">${t('tools.filter.loading')}</p>`
-      this.loadIndex().then(() => this.renderList())
+      Promise.all([this.loadIndex(), loadCategoryTexts()]).then(([, texts]) => {
+        this.categoryTexts = texts
+        this.renderList()
+      })
     }
   }
 
@@ -241,6 +246,7 @@ export class AtlasTools {
       return `
         <section class="theory-list-category">
           <h2>${escapeHtml(getDisplayLabel(top.name))} <span>${inCategory.length}</span></h2>
+          ${this.categoryTexts[top.name] ? `<p class="theory-list-category-summary">${escapeHtml(this.categoryTexts[top.name].summary)}</p>` : ''}
           ${groups}
         </section>
       `

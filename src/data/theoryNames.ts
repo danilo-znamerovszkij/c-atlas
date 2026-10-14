@@ -55,7 +55,7 @@ const staticTheoryNames: Record<string, string> = {
   'Seth': 'Seth\'s "Beast Machine" Theory',
   'Damasio': 'Damasio\'s Homeostatic Feelings and Emergence of Consciousness',
   'Friston': 'Friston\'s Free-Energy Principle and Active Inference',
-  'Solms': 'Solm\'s Affect as the Hidden Spring of Consciousness',
+  'Solms': 'Solms\'s Affect as the Hidden Spring of Consciousness',
   'Carhart-Harris': 'Carhart-Harris\'s Entropic Brain Hypothesis',
   'Buzsáki': 'Buzsáki\'s Neural Syntax and Self-Caused Rhythms',
   'Deacon': 'Deacon\'s Self-Organized Constraint and Emergence of Self',

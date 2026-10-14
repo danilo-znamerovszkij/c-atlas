@@ -87,6 +87,12 @@ export const setHighlightedTheories = (names: Set<string> | null) => {
   highlightedTheories = names
 }
 
+// With few enough matches, a filtered overview names each matching theory
+// (labels hidden by minAngle otherwise). Desktop only, like other leaf labels.
+const FILTER_LABEL_LIMIT = 100
+const showFilterLabels = () =>
+  highlightedTheories !== null && highlightedTheories.size < FILTER_LABEL_LIMIT && !isMobile()
+
 export const applyPaletteToData = (data: any[]) => {
   let mainColorIndex = 0
 
@@ -141,6 +147,7 @@ export const applyPaletteToData = (data: any[]) => {
       }
 
       const dimmed = !item.children && highlightedTheories !== null && !highlightedTheories.has(item.name)
+      const named = !item.children && !dimmed && showFilterLabels()
       const newItem = {
         ...item,
         parent: parentName,
@@ -151,6 +158,11 @@ export const applyPaletteToData = (data: any[]) => {
         } : showLabel ? {
           fontSize: fontSize
         } : { show: false, labelPosition: 'outside' }
+      }
+      if (named) {
+        newItem.label = { position: 'outside', fontSize: 11, minAngle: 0, color: '#fcd771' }
+      } else if (dimmed) {
+        newItem.label = { show: false }
       }
       
       if (item.children) {
@@ -193,7 +205,8 @@ const LEVEL_RADII: [number, number][] = [[0, 10], [10, 40], [40, 60], [60, 67]]
 const OVERVIEW_SCALE = 1.3
 
 export const getChartLevels = (overview: boolean) => {
-  const k = overview && !isMobile() ? OVERVIEW_SCALE : 1
+  // Named filter matches need the outer margin back for their labels.
+  const k = overview && !isMobile() && !showFilterLabels() ? OVERVIEW_SCALE : 1
   return LEVEL_RADII.map(([r0, r]) => ({
     r0: `${r0 * k}%`,
     r: `${r * k}%`,
@@ -235,6 +248,7 @@ export const getChartOptions = (overview = true): EChartsOption => {
         data: getCurrentData(),
         sort: undefined,
         startAngle: 83.5,
+        labelLayout: showFilterLabels() ? { hideOverlap: true } : undefined,
         label: {
           rotate: 'radial',
           show: true,

@@ -739,6 +739,23 @@ export class ItemDetailsPanel {
     }
   }
 
+  // Arbitrary content in the panel shell (e.g. a category overview); returns
+  // the content element so the caller can wire up links.
+  public showContent(title: string, html: string): HTMLElement | null {
+    this.isVisible = true
+    const panel = this.container.querySelector('.item-details-panel')
+    panel?.classList.add('visible')
+    panel?.setAttribute('aria-hidden', 'false')
+    const titleElement = this.container.querySelector('#item-title')
+    if (titleElement) titleElement.textContent = title
+    const infoElement = this.container.querySelector<HTMLElement>('#item-info')
+    if (infoElement) {
+      infoElement.innerHTML = html
+      infoElement.scrollTop = 0
+    }
+    return infoElement
+  }
+
   public showLoading(category: string, theory: string) {
     this.isVisible = true
     const panel = this.container.querySelector('.item-details-panel')

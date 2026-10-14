@@ -1,0 +1,250 @@
+@use "../styles/mixins" as *;
+
+.atlas-sidebar {
+  position: fixed;
+  top: 214px;
+  left: 20px;
+  width: 320px;
+  max-height: calc(100vh - 300px);
+  overflow-y: auto;
+  z-index: 1000;
+
+  &[hidden] {
+    display: none;
+  }
+
+  // The 15-row list scrolls on shorter screens; fade the cut-off edge.
+  &:has(.most-viewed) {
+    mask-image: linear-gradient(to bottom, #000 calc(100% - 32px), transparent);
+  }
+}
+
+.sidebar-card {
+  padding: 16px;
+  background: rgba(16, 15, 10, 0.55);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 6px;
+  backdrop-filter: blur(10px);
+}
+
+.sidebar-eyebrow {
+  color: #c6a032;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+// ---- Most viewed -------------------------------------------------------------
+
+.sidebar-eyebrow-icon {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+
+  svg {
+    flex-shrink: 0;
+    opacity: 0.75;
+  }
+}
+
+.most-viewed-list {
+  list-style: none;
+  counter-reset: rank;
+  display: grid;
+  gap: 2px;
+
+  li {
+    counter-increment: rank;
+  }
+
+  a {
+    display: grid;
+    grid-template-columns: 22px 1fr;
+    column-gap: 8px;
+    padding: 5px 6px;
+    margin: 0 -6px;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background 0.15s ease;
+
+    &::before {
+      content: counter(rank);
+      grid-row: span 2;
+      color: rgba(234, 189, 97, 0.55);
+      font-size: 13px;
+      font-variant-numeric: tabular-nums;
+      padding-top: 1px;
+    }
+
+    &:hover {
+      background: rgba(198, 160, 50, 0.08);
+
+      .most-viewed-title {
+        color: #f7b801;
+      }
+    }
+
+    &:focus-visible {
+      outline: 2px solid rgba(198, 160, 50, 0.7);
+      outline-offset: -2px;
+    }
+  }
+}
+
+.most-viewed-title {
+  color: rgba(255, 255, 255, 0.88);
+  font-size: 13px;
+  line-height: 1.35;
+  transition: color 0.15s ease;
+}
+
+.most-viewed-category {
+  color: rgba(255, 255, 255, 0.42);
+  font-size: 11px;
+  margin-top: 2px;
+}
+
+// ---- Category card -----------------------------------------------------------
+
+.category-card-title {
+  @include bodoni-font;
+  color: $accent-gold-light;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 1.1;
+  margin-bottom: 10px;
+}
+
+.category-card-summary {
+  color: rgba(255, 255, 255, 0.82);
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.category-card-meta {
+  color: rgba(255, 255, 255, 0.45);
+  font-size: 12px;
+  margin-top: 10px;
+  font-variant-numeric: tabular-nums;
+}
+
+.category-card-more {
+  margin-top: 14px;
+  width: 100%;
+  padding: 9px 12px;
+  background: rgba(198, 160, 50, 0.1);
+  border: 1px solid rgba(198, 160, 50, 0.5);
+  border-radius: 4px;
+  color: #c6a032;
+  font-size: 13px;
+  cursor: pointer;
+  transition: background 0.15s ease, border-color 0.15s ease;
+
+  &:hover {
+    background: rgba(198, 160, 50, 0.16);
+    border-color: rgba(198, 160, 50, 0.8);
+  }
+
+  &:focus-visible {
+    outline: 2px solid rgba(198, 160, 50, 0.7);
+    outline-offset: 2px;
+  }
+}
+
+// ---- Category overview inside the details panel ------------------------------
+
+.category-overview {
+  .category-overview-body {
+    margin-top: 20px;
+    display: grid;
+    gap: 14px;
+
+    p {
+      color: rgba(255, 255, 255, 0.86);
+      font-size: 16px;
+      line-height: 1.65;
+      max-width: 68ch;
+    }
+  }
+
+  .category-overview-heading {
+    color: #eabd61;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin: 28px 0 10px;
+  }
+
+  .category-overview-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .category-chip {
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 14px;
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 13px;
+    padding: 6px 12px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+
+    &:hover {
+      border-color: #f7b801;
+      color: #f7b801;
+    }
+  }
+
+  .category-overview-examples {
+    list-style: none;
+    display: grid;
+    gap: 6px;
+
+    a {
+      color: #7ea6f2;
+      font-size: 15px;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+        text-underline-offset: 3px;
+      }
+    }
+  }
+}
+
+// List view: category summary under each heading.
+.theory-list-category-summary {
+  color: rgba(255, 255, 255, 0.62);
+  font-size: 14px;
+  line-height: 1.55;
+  margin-top: 10px;
+  max-width: 68ch;
+}
+
+@media (max-width: 1100px) and (min-width: 769px) {
+  .atlas-sidebar {
+    width: 280px;
+  }
+}
+
+// Phones: in page flow below the chart instead of a fixed column.
+@media (max-width: 768px) {
+  .atlas-sidebar {
+    position: static;
+    width: auto;
+    max-height: none;
+    overflow: visible;
+    padding: 8px 16px 24px;
+    mask-image: none;
+  }
+
+  body.list-mode .atlas-sidebar {
+    display: none;
+  }
+}

@@ -1,112 +1,97 @@
 {
   "id_and_class": {
-    "theory_title": "Chalmers's Naturalistic Dualism (Property Dualism)",
-    "summary": "This theory posits that consciousness constitutes irreducible, nonphysical phenomenal properties (qualia) that accompany physical processes, resisting materialist explanation. It addresses the core conundrum, the 'hard problem,' by arguing that these properties are fundamental to nature and require special psychophysical laws to connect them to the physical world.",
+    "theory_title": "Chalmers’s Panpsychism",
+    "summary": "David Chalmers argues that consciousness may be a fundamental feature of physical reality, carried by the intrinsic properties of its most basic entities. He treats panpsychism, and its cousin panprotopsychism, as a synthesis of materialism and dualism, and holds that it would become the most promising answer to the mind-body problem if someone solves the combination problem.",
     "associated_thinkers": [
       "David Chalmers"
     ],
     "category": "Panpsychism",
     "subcategory": "",
-    "core_identity_tagline": "Consciousness as Irreducible Phenomenal Properties",
+    "core_identity_tagline": "Consciousness as the Intrinsic Nature of Physics",
     "classification_tags": [
+      "panpsychism",
+      "russellian monism",
+      "combination problem",
       "hard problem",
-      "qualia",
-      "non-reductive",
-      "strong emergence"
+      "intrinsic properties"
     ]
   },
   "conceptual_ground": {
-    "explanatory_identity_claim": "Consciousness is identified as irreducible phenomenal properties (qualia) that are present in the physical world, often suggested to be a form of information that is realized in phenomenology.",
-    "ontological_status": "Naturalistic Dualism (Property Dualism)",
-    "mind_body_relationship": "Mind (phenomenal properties) and body (physical processes) are distinct but related by newly discovered fundamental psychophysical laws, challenging the reductive physicalist view of identity.",
-    "primitive_or_emergent_status": "Emergent (strongly emergent)",
-    "emergence_type": "Strong Emergence",
-    "subjectivity_and_intentionality": "Subjectivity (qualia) is the defining feature of consciousness and the core conundrum; it is irreducible to structure and function. Intentionality, while present in mental states, is not the primary focus of the hard problem.",
-    "qualia_account": "Qualia (the felt qualities of inner experience) are irreducible raw sensations that constitute the core of the 'hard problem.' They cannot be explained purely in terms of neuroscience or material reduction.",
-    "ontological_commitments": "Physical processes/material substrates, and irreducible phenomenal properties (qualia), often associated with 'information' as a connective, requiring fundamental psychophysical laws.",
-    "epistemic_access": "Primarily first-person introspection, which reveals the explanatory gap through arguments such as the conceivability argument and the knowledge argument.",
-    "constituents_and_structure": "Physical systems (like the brain) plus irreducible phenomenal properties/information. The 'principle of organizational invariance' suggests experience is invariant across systems with the same fine-grained functional organization, regardless of physical substrate (supporting the silicon chip replacement thought experiment result)."
+    "explanatory_identity_claim": "Chalmers identifies consciousness with the intrinsic properties of fundamental physical entities, the categorical bases of the dispositions that physics describes. Physics tells us what basic entities do; on this view, phenomenal or protophenomenal properties are what they are.",
+    "ontological_status": "Panpsychism (Russellian monism)",
+    "mind_body_relationship": "Mind and matter are two sides of one fundamental stuff that has both physical and phenomenal properties. Chalmers places this ‘monism’ in the sixth of his six classes of views, the nonreductive ones that expand or reconceive physical ontology.",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "Not applicable at the base level (phenomenal or protophenomenal properties are fundamental); human experience would be constituted from them, by a process the combination problem leaves unexplained.",
+    "subjectivity_and_intentionality": "Chalmers takes subjective experience as a datum that cannot be deflated into an illusion. He does not give a separate account of intentionality.",
+    "qualia_account": "Qualia are real and irreducible. In the panpsychist version they exist in simple form at the fundamental level; in the panprotopsychist version, basic entities have protophenomenal properties that are not themselves experiences but can ground them.",
+    "ontological_commitments": "Fundamental physical entities whose intrinsic nature is phenomenal or protophenomenal, plus the physical dispositions those natures ground.",
+    "epistemic_access": "We know consciousness directly from the first person and know physical entities only by their causal and structural roles, which leaves room for experience to fill in their intrinsic nature.",
+    "constituents_and_structure": "Micro-level phenomenal or protophenomenal properties are the building blocks. How they combine into a single human subject is the open combination problem."
   },
   "mechanism_and_dynamics": {
-    "scope_of_consciousness": "Phenomenal consciousness (qualia).",
-    "distinctive_mechanism_or_principle": "The manifestation of consciousness follows fundamental psychophysical laws that are basic laws of nature, connecting physical processes to phenomenal consciousness, which is a strongly emergent phenomenon.",
-    "dynamics_of_emergence": "Consciousness is strongly emergent. Its existence is not deducible from the fundamental facts of physics alone, requiring new basic laws to explain its arising from physical systems.",
-    "location_and_distribution": "The irreducible phenomenal properties are linked to complex physical systems (e.g., neural circuits) possessing a specific functional organization. Distribution is limited to systems where these phenomenal properties are instantiated according to the necessary psychophysical laws (Justified explanation: Based on the rejection of general physicalist accounts, its distribution is implicitly constrained by specific complexity and laws, not ubiquity).",
-    "causation_and_functional_role": "Requires fundamental psychophysical laws to express the connection between physical processes and consciousness. If strong emergence exists, phenomenal properties are thought to have a causal impact (downward causation) that is not deducible from low-level laws.",
-    "integration_or_binding": "The coherence and unity of experience are acknowledged as key features of qualia (e.g., qualia are unitary and apprehended as a whole), but the mechanism is generally understood via the underlying functional organization (Principle of Organizational Invariance), rather than a specific dedicated mechanism unique to the dualism.",
-    "information_flow_or_representation": "Information is postulated as the connective tissue in naturalistic dualism, realized both in phenomenology and embedded in the physical world, linking the two distinct aspects.",
-    "evolutionary_account": "Not explicitly detailed for the irreducible property itself. Consciousness is a strongly emergent property, suggesting that its appearance in evolution required the existence of fundamental psychophysical laws that came into play with sufficient physical complexity (Justified explanation: The irreducible nature of consciousness makes it fundamentally non-evolutionary in a reductive sense, relying instead on fundamental laws of nature).",
+    "scope_of_consciousness": "Phenomenal consciousness and its place in nature",
+    "distinctive_mechanism_or_principle": "Chalmers reasons dialectically. Materialism (thesis) meets dualism (antithesis) and yields panpsychism; panprotopsychism challenges it and yields Russellian monism; the combination problem then challenges Russellian monism, with no settled resolution yet.",
+    "dynamics_of_emergence": "Consciousness is a standing feature of fundamental reality, not something that switches on. Rich experience in brains would come from combining micro-level properties, a step Chalmers has not specified.",
+    "location_and_distribution": "Throughout physical reality, at the level of its most basic entities.",
+    "causation_and_functional_role": "Because phenomenal or protophenomenal properties are the categorical bases of physical dispositions, consciousness sits at the base of physical causation itself.",
+    "integration_or_binding": "Unresolved. Explaining how many micro-subjects or micro-properties form one unified experience is the combination problem, which Chalmers names as the main obstacle.",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
     "core_claims_and_evidence": [
-      "Consciousness resists materialist explanation via the Explanatory, Conceivability, and Knowledge Arguments.",
-      "Consciousness is the single clear case of a strongly emergent phenomenon.",
-      "The lawful connection between physical processes and consciousness is expressed by fundamental psychophysical laws.",
-      "The Principle of Organizational Invariance: phenomenal consciousness does not change during the replacement of biological components by functionally equivalent silicon chips."
+      "To place consciousness in nature we must either revise our conception of consciousness or revise our conception of nature, and Chalmers declines to deflate consciousness.",
+      "Physics describes only the dispositions of basic entities, so their intrinsic, categorical nature is open to being phenomenal or protophenomenal.",
+      "Chalmers frames panpsychism as a synthesis of materialism and dualism and finds good reason to take both panpsychism and panprotopsychism very seriously.",
+      "A reasonable solution to the combination problem would make either view the most promising solution to the mind-body problem."
     ],
-    "basis_of_belief_or_evidence_type": "Philosophical; Phenomenological"
+    "basis_of_belief_or_evidence_type": "Philosophical (conceptual argument about the hard problem and the limits of physical description)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptually testable, but empirically challenging.",
-    "known_empirical_interventions_or_tests": [
-      "Thought experiments (e.g., conceivability of philosophical zombies, knowledge argument, fading qualia argument).",
-      "Assessment of Neural Correlates of Consciousness (NCCs) (Chalmers winning the 2023 bet against Koch implies NCCs alone have not provided a 'clear' explanation)."
-    ],
-    "criticisms_and_tensions": "Physicalists criticize the theory by denying the modal and epistemic claims underlying the core arguments (e.g., zombies are not truly possible). A major tension is the problem of mental causation: explaining how nonphysical properties can causally affect the physical world without violating the causal closure of physics. Furthermore, it risks suffering problems similar to substance dualism, particularly regarding the postulation of new fundamental laws.",
-    "open_questions_and_limitations": "The specific content of the fundamental psychophysical laws required to link physical processes and consciousness remains unknown. The mechanism of mental causation remains difficult to accommodate fully.",
-    "ontological_coherence": "High internal coherence, relying on the logical necessity of rejecting materialism, leading to the necessary expansion of nature (strong emergence and new laws). Coherence relies on the rejection of physicalism’s causal closure assumption."
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "The combination problem is the central difficulty, and Chalmers concedes it is unsolved. He also calls panpsychism initially counterintuitive, holding that the sense of oddity fades on reflection.",
+    "open_questions_and_limitations": "Whether panpsychism or panprotopsychism is the better form, and whether any solution to the combination problem exists. Chalmers has also explored quantum and idealist theories without fully committing to any one view.",
+    "ontological_coherence": "Coherent as a form of monism that keeps physics intact and adds intrinsic natures to it. Its standing depends on bridging micro-level properties and macro-level experience."
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unlikely",
-      "rationale": "As a form of Dualism, it implies that consciousness requires irreducible phenomenal properties that artificial systems typically lack. While not impossible if the nonphysical properties could be instantiated in non-biological hardware, it is conceptually challenging under this framework."
+      "stance": "Conditional",
+      "rationale": "Since every physical system has phenomenal or protophenomenal properties at its base, an AI is built from the same ingredients as a brain. Whether it forms a unified conscious subject depends on how the unsolved combination problem is answered."
     },
     "survival_beyond_death": {
-      "stance": "Possible",
-      "rationale": "Dualism generally allows for the possibility of consciousness persistence, as the phenomenal properties are non-physical/irreducible. Although Chalmers’s ‘Naturalistic Dualism’ does not postulate traditional immortal souls, the existence of irreducible properties opens a possibility for survival beyond the biological substrate."
+      "stance": "Uncertain",
+      "rationale": "The fundamental properties outlast any body, but nothing in the view says whether the particular combined subject survives once the brain's structure breaks down."
     },
     "meaning_and_purpose": {
       "stance": "Uncertain",
-      "rationale": "By rejecting reductive materialism, this framework opens the door to ultimate meaning or purpose linked to the fundamental, irreducible nature of consciousness, contrasting with the purposeless universe implied by strict materialist accounts."
+      "rationale": "Placing experience in the basic fabric of nature gives it a cosmic footing, but Chalmers draws no conclusions about meaning or purpose."
     },
     "virtual_immortality": {
-      "stance": "Unlikely",
-      "rationale": "Virtual immortality requires duplicating the first-person self via uploading its physical basis. If phenomenal consciousness requires an independent, irreducible feature (as postulated), it is uncertain whether advanced technology could manipulate or perfectly duplicate this structure in a non-biological medium, rendering perfect uploading highly improbable, unless the Principle of Organizational Invariance holds true, leading to no phenomenal change upon duplication."
+      "stance": "Uncertain",
+      "rationale": "An upload would be made of the same fundamental properties, but whether it reconstitutes the same subject turns on the unsolved combination problem."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Reductive Materialism Theories",
-        "relationship": "Critique"
-      },
-      {
-        "name": "Integrated Information Theory",
-        "relationship": "Compatible"
-      },
-      {
-        "name": "Panpsychism",
-        "relationship": "Extension"
-      },
-      {
         "name": "Russellian Monism",
-        "relationship": "Influence"
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Panprotopsychism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Foundation"
+      },
+      {
+        "name": "Dennett’s Illusionism",
+        "relationship": "Contrast"
       }
     ],
     "sources_and_references": [
       {
-        "title_with_names": "Facing up to the problem of consciousness",
-        "year": 1995
-      },
-      {
-        "title_with_names": "The Conscious Mind: In Search of a Fundamental Theory",
-        "year": 1996
-      },
-      {
-        "title_with_names": "Consciousness and its place in nature",
-        "year": 2003
-      },
-      {
-        "title_with_names": "Strong and weak emergence",
-        "year": 2008
+        "title_with_names": "Chalmers’s Panpsychism, David Chalmers (Landscape of Consciousness entry)"
       }
     ]
   }

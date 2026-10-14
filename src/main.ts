@@ -6,12 +6,14 @@ import { CanvasRenderer } from 'echarts/renderers'
 import { TheoryChart } from '@/components/TheoryChart'
 import { SearchBar } from '@/components/SearchBar'
 import { AtlasTools } from '@/components/AtlasTools'
+import { AtlasSidebar } from '@/components/AtlasSidebar'
 import { FormPopup } from '@/components/FormPopup'
 import { LanguagePopup } from '@/components/LanguagePopup'
 import { Router } from '@/utils/routing'
 import globalState from '@/utils/globalState'
 import analytics from '@/utils/analytics'
 import { initI18n } from '@/utils/i18n'
+import { parseLocaleFromPath } from '@/shared/site'
 
 import './components/ItemDetailsPanel.scss'
 import './components/FormPopup.scss'
@@ -23,7 +25,11 @@ echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
   await initI18n()
 
   globalState.initialize()
-  analytics.trackPageView('Home', 'landing', 'overview')
+  // Theory URLs are tracked by the router (as their theory); only count the
+  // landing itself as 'Home', so a direct theory visit isn't logged twice.
+  if (parseLocaleFromPath(window.location.pathname).pathWithoutLocale === '/') {
+    analytics.trackPageView('Home', 'landing', 'overview')
+  }
 
   const router = Router.getInstance()
 
@@ -100,6 +106,8 @@ echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
       new SearchBar('search-container', router)
       const chart = theoryChart
       new AtlasTools('atlas-tools', 'theory-list', router, names => chart.applyFilter(names))
+      const sidebar = new AtlasSidebar('atlas-sidebar', router, itemDetailsPanel, path => chart.openPath(path))
+      chart.setPathChangeCallback(path => sidebar.setPath(path))
 
       router.setLoadingCallback((category, theory) => {
         itemDetailsPanel.showLoading(category, theory)

@@ -13,6 +13,7 @@ export class TheoryChart {
   private chartContainer: ChartContainer
   private itemDetailsPanel: ItemDetailsPanel
   private levelBar: ChartLevelBar
+  private onPathChange: ((path: string[]) => void) | null = null
   private router: Router
   private currentTheoryIndex: number = 0
   private allTheoryNames: string[] = []
@@ -199,7 +200,9 @@ export class TheoryChart {
       }
 
       this.itemDetailsPanel.hide()
-      this.currentPath.push(theoryData.name)
+      // Full ancestry, not just the clicked node: a subcategory ring can be
+      // clicked straight from the overview (e.g. Materialism > Computational).
+      this.currentPath = this.pathToGroup(theoryData.name) ?? [...this.currentPath, theoryData.name]
       this.syncLevelBar()
       return
     }
@@ -211,10 +214,7 @@ export class TheoryChart {
       .then(() => {
         const slug = generateSlug(theoryName)
         const category = globalState.getTheoryCategory(theoryName) || theoryData.parent?.toLowerCase() || 'neurobiological'
-
-        // Track page view for theory navigation
-        analytics.trackPageView(theoryName, category, theoryData.parent)
-
+        // Page view is tracked by the router, for every way a theory opens.
         this.router.navigateToTheory(category, slug)
       })
       .catch(() => {
@@ -251,6 +251,19 @@ export class TheoryChart {
     this.chartContainer.setOption(newOptions)
   }
 
+  // Path of chart keys to the category/subcategory with this name. Only nodes
+  // with children match ('Computational' is both a subcategory and a leaf).
+  private pathToGroup(name: string, nodes: any[] = baseData, prefix: string[] = []): string[] | null {
+    for (const node of nodes) {
+      if (!node.children) continue
+      const path = [...prefix, node.name]
+      if (node.name === name) return path
+      const found = this.pathToGroup(name, node.children, path)
+      if (found) return found
+    }
+    return null
+  }
+
   private getNodeAtPath(path: string[]): any | null {
     let nodes: any[] = baseData
     let node: any = null
@@ -280,6 +293,19 @@ export class TheoryChart {
       ? 'Overview'
       : getDisplayLabel(this.currentPath[this.currentPath.length - 1])
     this.levelBar.setState(label, this.currentPath.length > 0, this.buildLevelBarItems(this.currentPath))
+    this.onPathChange?.([...this.currentPath])
+  }
+
+  // Notified on every drill-down/back with the current category path.
+  setPathChangeCallback(callback: (path: string[]) => void) {
+    this.onPathChange = callback
+    callback([...this.currentPath])
+  }
+
+  // Drill into a category/subcategory by chart key path (e.g. from the sidebar).
+  openPath(path: string[]) {
+    while (this.currentPath.length > 0) this.goBack()
+    for (const name of path) this.selectFromLevelBar(name)
   }
 
   private selectFromLevelBar(name: string) {
