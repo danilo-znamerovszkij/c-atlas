@@ -159,12 +159,6 @@ export class Router {
     this.updateCanonicalLink()
   }
 
-  // Closing a theory returns to the part of the map it was opened from.
-  public goHome() {
-    window.history.pushState({}, '', buildLocalizedPath(groupUrlPath(this.groupPath), this.currentLocale))
-    this.parseCurrentURL()
-  }
-
   public goToOverview() {
     window.history.pushState({}, '', buildLocalizedPath('/', this.currentLocale))
     this.parseCurrentURL()

@@ -21,7 +21,7 @@ export const PEOPLE = [
   ["Giulio Tononi", "Giulio Tononi"], ["Christof Koch", "Christof Koch"], ["Frank Jackson", "Frank Jackson (philosopher)"],
   ["Jay Garfield", "Jay L. Garfield"], ["Sam Harris", "Sam Harris"], ["Paul Davies", "Paul Davies"], ["Thomas Nagel", "Thomas Nagel"],
   ["Ned Block", "Ned Block"], ["J.J.C. Smart", "J. J. C. Smart"], ["Deepak Chopra", "Deepak Chopra"], ["Menas Kafatos", "Menas Kafatos"],
-  ["Noam Chomsky", "Noam Chomsky"], ["Rupert Carhart-Harris", "Robin Carhart-Harris"], ["Karl Friston", "Karl J. Friston"],
+  ["Noam Chomsky", "Noam Chomsky"], ["Robin Carhart-Harris", "Robin Carhart-Harris"], ["Karl Friston", "Karl J. Friston"],
   ["George Ellis", "George F. R. Ellis"], ["Max Tegmark", "Max Tegmark"], ["George Musser", "George Musser"],
   ["Swami Vivekananda", "Swami Vivekananda"], ["Bhagavan Sri Ramana Maharshi", "Ramana Maharshi"], ["Sri Aurobindo", "Sri Aurobindo"],
   ["Lee Smolin", "Lee Smolin"], ["Dirk K. F. Meijer", "Dirk Meijer"],

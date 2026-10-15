@@ -172,7 +172,8 @@ echarts.use([TitleComponent, SunburstChart, SVGRenderer, CanvasRenderer])
         }
       })
 
-      itemDetailsPanel.setCloseCallback(() => router.goHome())
+      // Closing a theory returns to the full map overview.
+      itemDetailsPanel.setCloseCallback(() => router.goToOverview())
 
       // Direct visit to /{category}/{theory} (search result, shared link): the
       // panel opens without a slide; closing it reveals the atlas.
