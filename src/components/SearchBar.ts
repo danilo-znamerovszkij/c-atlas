@@ -151,9 +151,13 @@ export class SearchBar {
 
   private showDropdown(theories?: Array<{name: string, title: string}>) {
     const theoriesToShow = theories || this.allTheories
-    
+
     if (theoriesToShow.length === 0) {
-      this.hideDropdown()
+      const empty = document.createElement('div')
+      empty.className = 'search-empty'
+      empty.textContent = t('searchBar.noResults').replace('{query}', this.input.value.trim())
+      this.dropdown.replaceChildren(empty)
+      this.dropdown.classList.add('visible')
       return
     }
 
