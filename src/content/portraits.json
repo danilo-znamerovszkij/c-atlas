@@ -1,5 +1,5 @@
 {
-  "_note": "Thinker portraits (public/portraits) from Wikimedia Commons, free licences only. Keyed by the name used in theory entries. Regenerate: node scripts/portraits/fetch.mjs && node scripts/portraits/crop.mjs",
+  "_note": "Thinker portraits (public/portraits), from Wikimedia Commons plus hand-added photos credited to their source page (scripts/portraits/manual-sources.json). Keyed by the name used in theory entries. Regenerate: node scripts/portraits/fetch.mjs && node scripts/portraits/crop.mjs",
   "portraits": {
     "Roger Penrose": {
       "src": "/portraits/roger-penrose.webp",
@@ -1281,6 +1281,576 @@
       "license": "© WIRED, all rights reserved",
       "licenseUrl": null,
       "source": null
+    },
+    "Evan Thompson": {
+      "src": "/portraits/evan-thompson.webp",
+      "author": "ice.dartmouth.edu",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.ice.dartmouth.edu/evan-thompson"
+    },
+    "Yujin Nagasawa": {
+      "src": "/portraits/yujin-nagasawa.webp",
+      "author": "philosophy.prof",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.philosophy.prof/"
+    },
+    "Colin McGinn": {
+      "src": "/portraits/colin-mcginn.webp",
+      "author": "loc.closertotruth.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://loc.closertotruth.com/theory/mcginn-s-ultimate-mystery-mysterianism"
+    },
+    "Herbert Feigl": {
+      "src": "/portraits/herbert-feigl.webp",
+      "author": "timetoast.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.timetoast.com/timelines/teorias-de-la-psicologia"
+    },
+    "J.J.C. Smart": {
+      "src": "/portraits/j-j-c-smart.webp",
+      "author": "loc.closertotruth.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://loc.closertotruth.com/theory/smart-s-topic-neutral-identity",
+      "aliases": [
+        "John Jamieson Carswell Smart"
+      ]
+    },
+    "Joseph LeDoux": {
+      "src": "/portraits/joseph-ledoux.webp",
+      "author": "gresham.ac.uk",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.gresham.ac.uk/watch-now/wired-get-wound-why-emotions-are-so-hard-control"
+    },
+    "Keith Frankish": {
+      "src": "/portraits/keith-frankish.webp",
+      "author": "psyche.co",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://psyche.co/authors/keith-frankish"
+    },
+    "Paul Churchland": {
+      "src": "/portraits/paul-churchland.webp",
+      "author": "philosophy.ucsd.edu",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://philosophy.ucsd.edu/people/old-pages/faculty-old.html"
+    },
+    "Basil Hiley": {
+      "src": "/portraits/basil-hiley.webp",
+      "author": "katherineneville.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.katherineneville.com/karl-gallery/basil-hiley/"
+    },
+    "Benjamin Libet": {
+      "src": "/portraits/benjamin-libet.webp",
+      "author": "thecollector.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.thecollector.com/is-free-will-an-illusion-if-so-thats-okay/"
+    },
+    "Bruce Greyson": {
+      "src": "/portraits/bruce-greyson.webp",
+      "author": "news.virginia.edu",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://news.virginia.edu/content/there-and-back-uva-psychiatrist-researches-near-death-experiences"
+    },
+    "Daniel Stoljar": {
+      "src": "/portraits/daniel-stoljar.webp",
+      "author": "loc.closertotruth.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://loc.closertotruth.com/theory/stoljar-s-epistemic-view-and-non-standard-physicalism"
+    },
+    "Dean Radin": {
+      "src": "/portraits/dean-radin.webp",
+      "author": "noetic.org",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://noetic.org/profile/dean-radin/"
+    },
+    "Friedrich Beck": {
+      "src": "/portraits/friedrich-beck.webp",
+      "author": "loc.closertotruth.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://loc.closertotruth.com/theory/beck-eccles-s-quantum-processes-in-the-synapse"
+    },
+    "Galen Strawson": {
+      "src": "/portraits/galen-strawson.webp",
+      "author": "berggruen.org",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://berggruen.org/people/galen-strawson"
+    },
+    "Michel Bitbol": {
+      "src": "/portraits/michel-bitbol.webp",
+      "author": "sciwizlive.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://sciwizlive.com/speakers/michel-bitbol/"
+    },
+    "William Lycan": {
+      "src": "/portraits/william-lycan.webp",
+      "author": "wlycan.net",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.wlycan.net/",
+      "aliases": [
+        "William G. Lycan"
+      ]
+    },
+    "Adam Frank": {
+      "src": "/portraits/adam-frank.webp",
+      "author": "rochester.edu",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.rochester.edu/news/adam-frank/"
+    },
+    "Alyssa Ney": {
+      "src": "/portraits/alyssa-ney.webp",
+      "author": "projectqsydney.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://projectqsydney.com/multimedia/q4-interview-with-alyssa-ney/"
+    },
+    "Annaka Harris": {
+      "src": "/portraits/annaka-harris.webp",
+      "author": "bigthink.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://bigthink.com/series/the-big-think-interview/annaka-harris-defining-consciousness/"
+    },
+    "Arnold Zuboff": {
+      "src": "/portraits/arnold-zuboff.webp",
+      "author": "philpeople.org",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://philpeople.org/profiles/arnold-zuboff"
+    },
+    "Arthur Reber": {
+      "src": "/portraits/arthur-reber.webp",
+      "author": "psych.ubc.ca",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://psych.ubc.ca/profile/arthur-reber/"
+    },
+    "Benny Shanon": {
+      "src": "/portraits/benny-shanon.webp",
+      "author": "takiwasi.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://takiwasi.com/fr/hommage-benny-shanon.php"
+    },
+    "Bernard Baars": {
+      "src": "/portraits/bernard-baars.webp",
+      "author": "podtail.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://podtail.com/podcast/brain-science-with-ginger-campbell-md-neurosc/bs-177-bernard-baars-with-david-edelman/"
+    },
+    "Björn Merker": {
+      "src": "/portraits/bjorn-merker.webp",
+      "author": "wellbeingintlstudiesrepository.org",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.wellbeingintlstudiesrepository.org/animsent/vol1/iss3/46/"
+    },
+    "Brian Swimme": {
+      "src": "/portraits/brian-swimme.webp",
+      "author": "journeyoftheuniverse.org",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.journeyoftheuniverse.org/press-kit"
+    },
+    "Charles Hartshorne": {
+      "src": "/portraits/charles-hartshorne.webp",
+      "author": "staticweb.hum.uu.nl",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://staticweb.hum.uu.nl/susanne.k.langer/hartshornephilosophyafter50years.html"
+    },
+    "Christopher S. Hill": {
+      "src": "/portraits/christopher-s-hill.webp",
+      "author": "vivo.brown.edu",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://vivo.brown.edu/display/cshill"
+    },
+    "Claude Rivière": {
+      "src": "/portraits/claude-riviere.webp",
+      "author": "booknode.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://booknode.com/auteur/claude-riviere"
+    },
+    "Daniel Bennequin": {
+      "src": "/portraits/daniel-bennequin.webp",
+      "author": "academie-sciences.fr",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.academie-sciences.fr/pdf/conf/debat_091018.pdf#page=7"
+    },
+    "David Papineau": {
+      "src": "/portraits/david-papineau.webp",
+      "author": "panpsychism.ifzg.hr",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://panpsychism.ifzg.hr/"
+    },
+    "Eric Schwitzgebel": {
+      "src": "/portraits/eric-schwitzgebel.webp",
+      "author": "aeon.co",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://aeon.co/users/eric-schwitzgebel-2"
+    },
+    "Eva Jablonka": {
+      "src": "/portraits/eva-jablonka.webp",
+      "author": "academy.ac.il",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://academy.ac.il/Index2/Entry.aspx?entryId=22840&nodeId=809"
+    },
+    "George Musser": {
+      "src": "/portraits/george-musser.webp",
+      "author": "scilogs.spektrum.de",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://scilogs.spektrum.de/hlf/author/musser/"
+    },
+    "Gilbert Ryle": {
+      "src": "/portraits/gilbert-ryle.webp",
+      "author": "lex.dk",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://lex.dk/Gilbert_Ryle"
+    },
+    "György Buzsáki": {
+      "src": "/portraits/gyorgy-buzsaki.webp",
+      "author": "mta.hu",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://mta.hu/english/hungarians-elected-to-the-american-national-academy-of-sciences-107690"
+    },
+    "Henry Stapp": {
+      "src": "/portraits/henry-stapp.webp",
+      "author": "loc.closertotruth.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://loc.closertotruth.com/theory/stapp-s-collapsing-the-wave-function-via-asking-questions"
+    },
+    "Jaegwon Kim": {
+      "src": "/portraits/jaegwon-kim.webp",
+      "author": "informationphilosopher.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.informationphilosopher.com/solutions/philosophers/kim/"
+    },
+    "James J. Gibson": {
+      "src": "/portraits/james-j-gibson.webp",
+      "author": "menteasombrosa.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.menteasombrosa.com/james-gibson-y-sus-aportes-al-campo-de-la-psicologia/"
+    },
+    "Jan Holmgren": {
+      "src": "/portraits/jan-holmgren.webp",
+      "author": "loc.closertotruth.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://loc.closertotruth.com/theory/holmgren-s-grainy-atomic-feels"
+    },
+    "Jay Garfield": {
+      "src": "/portraits/jay-garfield.webp",
+      "author": "asia.nd.edu",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://asia.nd.edu/news/philosopher-buddhism-scholar-jay-garfield-to-deliver-justice-and-asia-lecture/"
+    },
+    "Jeffrey Alan Gray": {
+      "src": "/portraits/jeffrey-alan-gray.webp",
+      "author": "loc.closertotruth.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://loc.closertotruth.com/theory/gray-s-brain-built-world-model-qualia-comparators-late-error-detection"
+    },
+    "Jenann Ismael": {
+      "src": "/portraits/jenann-ismael.webp",
+      "author": "santafe.edu",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.santafe.edu/people/profile/jenann-ismael"
+    },
+    "Jesse Prinz": {
+      "src": "/portraits/jesse-prinz.webp",
+      "author": "researchgate.net",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.researchgate.net/profile/Jesse-Prinz"
+    },
+    "John Cottingham": {
+      "src": "/portraits/john-cottingham.webp",
+      "author": "press.princeton.edu",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://press.princeton.edu/our-authors/cottingham-john"
+    },
+    "Johnjoe McFadden": {
+      "src": "/portraits/johnjoe-mcfadden.webp",
+      "author": "en.wikipedia.org",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://en.wikipedia.org/wiki/Johnjoe_McFadden"
+    },
+    "Jorge Pullin": {
+      "src": "/portraits/jorge-pullin.webp",
+      "author": "eldiarioar.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.eldiarioar.com/sociedad/cientificos-argentina-nadie-da-cuenta_1_8742118.html"
+    },
+    "Julian Jaynes": {
+      "src": "/portraits/julian-jaynes.webp",
+      "author": "keithpurtell.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://keithpurtell.com/julian-jaynes.php"
+    },
+    "Ken Wilber": {
+      "src": "/portraits/ken-wilber.webp",
+      "author": "shambhala.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.shambhala.com/religion-philosophy/ken-wilber/?srsltid=AfmBOoqyo7dEvXcKAyo7zDty7qrth3m9FVieFtmfPwW7w60T0zTHwZrz"
+    },
+    "Kenneth Williford": {
+      "src": "/portraits/kenneth-williford.webp",
+      "author": "uta.edu",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.uta.edu/academics/schools-colleges/liberal-arts/departments/philosophy/people/faculty-staff"
+    },
+    "Lawrence M. Ward": {
+      "src": "/portraits/lawrence-m-ward.webp",
+      "author": "psych.ubc.ca",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://psych.ubc.ca/profile/lawrence-ward/"
+    },
+    "Manuel Blum": {
+      "src": "/portraits/manuel-blum.webp",
+      "author": "uni-bamberg.de",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.uni-bamberg.de/en/bamxi/people/"
+    },
+    "Martine Nida-Rümelin": {
+      "src": "/portraits/martine-nida-rumelin.webp",
+      "author": "unifr.ch",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.unifr.ch/directory/fr/people/11803/794d4"
+    },
+    "Max Velmans": {
+      "src": "/portraits/max-velmans.webp",
+      "author": "psychologie-heute.de",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.psychologie-heute.de/gesellschaft/artikel-detailansicht/43646-geschichte-der-psychologie-die-2000er-jahre.html"
+    },
+    "Michael Graziano": {
+      "src": "/portraits/michael-graziano.webp",
+      "author": "paw.princeton.edu",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://paw.princeton.edu/article/you-uploaded-michael-graziano-89-96-rethinking-consciousness"
+    },
+    "Murray Shanahan": {
+      "src": "/portraits/murray-shanahan.webp",
+      "author": "oxford-aiethics.ox.ac.uk",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.oxford-aiethics.ox.ac.uk/event/institute-ethics-ai-colloquium-how-think-about-large-language-models-h-b-allen-centre-keble"
+    },
+    "Nancey Murphy": {
+      "src": "/portraits/nancey-murphy.webp",
+      "author": "news.unl.edu",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://news.unl.edu/newsrooms/unltoday/article/lecture-examine-expansion-definition-sanctity"
+    },
+    "Neil Theise": {
+      "src": "/portraits/neil-theise.webp",
+      "author": "nyulangone.org",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://nyulangone.org/news/nyu-school-medicine-pathologist-uncovers-potential-new-organ-setting-fiery-debate"
+    },
+    "Nicholas Maxwell": {
+      "src": "/portraits/nicholas-maxwell.webp",
+      "author": "nicholasmaxwell.net",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.nicholasmaxwell.net/about"
+    },
+    "Paavo Pylkkänen": {
+      "src": "/portraits/paavo-pylkkanen.webp",
+      "author": "yle.fi",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://yle.fi/a/3-10136225"
+    },
+    "Paul Thagard": {
+      "src": "/portraits/paul-thagard.webp",
+      "author": "paulthagard.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://paulthagard.com/"
+    },
+    "Per Bak": {
+      "src": "/portraits/per-bak.webp",
+      "author": "nature.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.nature.com/articles/420284a"
+    },
+    "Raymond Hickey": {
+      "src": "/portraits/raymond-hickey.webp",
+      "author": "languagesciences.cam.ac.uk",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.languagesciences.cam.ac.uk/news/annual-symposium-speaker-profile-raymond-hickey"
+    },
+    "Richard Gregory": {
+      "src": "/portraits/richard-gregory.webp",
+      "author": "timeshighereducation.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.timeshighereducation.com/news/people/obituaries/richard-gregory-1923-2010/411837.article"
+    },
+    "Robert McCarley": {
+      "src": "/portraits/robert-mccarley.webp",
+      "author": "pmc.ncbi.nlm.nih.gov",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5645738/"
+    },
+    "Susan Hurley": {
+      "src": "/portraits/susan-hurley.webp",
+      "author": "philosophy.princeton.edu",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://philosophy.princeton.edu/people/susan-hurley-%E2%80%9976"
+    },
+    "Terrence J. Sejnowski": {
+      "src": "/portraits/terrence-j-sejnowski.webp",
+      "author": "tdlc.ucsd.edu",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://tdlc.ucsd.edu/tdlc2/leadership_Sejnowski.php"
+    },
+    "Terry Bollinger": {
+      "src": "/portraits/terry-bollinger.webp",
+      "author": "handwiki.org",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://handwiki.org/wiki/Biography:Terry_Bollinger"
+    },
+    "Timothy L. S. Sprigge": {
+      "src": "/portraits/timothy-l-s-sprigge.webp",
+      "author": "loc.closertotruth.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://loc.closertotruth.com/theory/sprigge-s-absolute-idealism"
+    },
+    "Ullin Place": {
+      "src": "/portraits/ullin-place.webp",
+      "author": "utplace.uk",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://utplace.uk/photographs-of-ullin-place/",
+      "aliases": [
+        "U.T. Place",
+        "Ullin Thomas Place"
+      ]
+    },
+    "William Dembski": {
+      "src": "/portraits/william-dembski.webp",
+      "author": "discovery.org",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.discovery.org/p/dembski/"
+    },
+    "William Hasker": {
+      "src": "/portraits/william-hasker.webp",
+      "author": "huntington.edu",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.huntington.edu/meet-the-faculty/william-hasker"
+    },
+    "William Hirstein": {
+      "src": "/portraits/william-hirstein.webp",
+      "author": "loc.closertotruth.com",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://loc.closertotruth.com/theory/hirstein-s-mindmelding"
+    },
+    "Asaṅga": {
+      "src": "/portraits/asanga.webp",
+      "author": "himalayanart.org",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.himalayanart.org/items/201125"
+    },
+    "Dharmakīrti": {
+      "src": "/portraits/dharmakirti.webp",
+      "author": "himalayanart.org",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.himalayanart.org/items/23404"
+    },
+    "Dignāga": {
+      "src": "/portraits/dignaga.webp",
+      "author": "himalayanart.org",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://www.himalayanart.org/items/8273"
+    },
+    "Laozi": {
+      "src": "/portraits/laozi.webp",
+      "author": "ecoleduliondor.fr",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://ecoleduliondor.fr/lao-tseu-%E8%80%81%E5%AD%90/"
+    },
+    "Madhva": {
+      "src": "/portraits/madhva.webp",
+      "author": "commons.wikimedia.org",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File%3AMadhava1920s.jpg"
+    },
+    "Rāmānuja": {
+      "src": "/portraits/ramanuja.webp",
+      "author": "en.wikipedia.org",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://en.wikipedia.org/wiki/Ramanuja"
+    },
+    "Vācaspati Miśra": {
+      "src": "/portraits/vacaspati-misra.webp",
+      "author": "indica.events",
+      "license": "© the rights holder",
+      "licenseUrl": null,
+      "source": "https://indica.events/event/symposium-on-contributions-of-sri-vachaspati-mishra-to-astika-darshanas/"
     }
   }
 }

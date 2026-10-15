@@ -549,19 +549,19 @@ ${toolSrc}</script>`,
   }));
 
   // ---- photo credits ---------------------------------------------------------------
-  const people = [...portraits.values()].sort((a, b) => a.name.split(" ").pop().localeCompare(b.name.split(" ").pop()));
+  const people = [...new Map([...portraits.values()].map((p) => [p.name, p])).values()].sort((a, b) => a.name.split(" ").pop().localeCompare(b.name.split(" ").pop()));
   write("credits.html", page({
     path: "/credits", title: "Photo Credits | Consciousness Atlas",
-    description: "Credits and licences for the thinker portraits used in the Consciousness Atlas, all from Wikimedia Commons.",
+    description: "Credits and sources for the thinker portraits used in the Consciousness Atlas.",
     h1: "Photo credits", eyebrow: "About",
-    lead: `The ${people.length} thinker portraits come from Wikimedia Commons, under public-domain or Creative Commons licences. They are cropped to a circle and shown in black and white. Each links to its original file.`,
+    lead: `Credits for the ${people.length} thinker portraits. Most come from Wikimedia Commons under public-domain or Creative Commons licences. The rest come from university, publisher and personal pages, credited to the page they were taken from and used with thanks to their rights holders. Every portrait is cropped to a circle, shown in black and white and linked to its source. If you hold the rights to a photo here and want it changed or removed, get in touch.`,
     css: `.credits{list-style:none;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px 24px;margin-top:24px}
 .credits li{display:grid;grid-template-columns:56px 1fr;gap:4px 14px;align-items:center}
 .credits img{grid-row:span 2;width:56px;height:56px;border-radius:50%;object-fit:cover;filter:grayscale(1);border:1px solid var(--line)}
 .credits b{color:#fff;font-weight:500}
 .credits span{color:var(--muted);font-size:13px}
 .credits span a{color:var(--gold-soft)}`,
-    body: `<ul class="credits">${people.map((p) => `<li><img src="${esc(p.src)}" alt="" width="56" height="56" loading="lazy" /><b>${esc(p.name)}</b><span>${p.author ? `${esc(p.author)} · ` : ""}${p.licenseUrl ? `<a href="${esc(p.licenseUrl)}" rel="noopener nofollow" target="_blank">${esc(p.license)}</a>` : esc(p.license)} ${p.source ? `· <a href="${esc(p.source)}" rel="noopener nofollow" target="_blank">Source</a>` : ""}</span></li>`).join("")}</ul>`,
+    body: `<ul class="credits">${people.map((p) => `<li><img src="${esc(p.src)}" alt="" width="56" height="56" loading="lazy" decoding="async" /><b>${esc(p.name)}</b><span>${p.author ? `${esc(p.author)} · ` : ""}${p.licenseUrl ? `<a href="${esc(p.licenseUrl)}" rel="noopener nofollow" target="_blank">${esc(p.license)}</a>` : esc(p.license)} ${p.source ? `· <a href="${esc(p.source)}" rel="noopener nofollow" target="_blank">Source</a>` : ""}</span></li>`).join("")}</ul>`,
   }));
 
   // ---- quiz ----------------------------------------------------------------------

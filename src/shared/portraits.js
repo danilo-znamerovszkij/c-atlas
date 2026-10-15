@@ -7,7 +7,9 @@ export const portraitKey = (name) =>
 
 export function portraitIndex(portraits) {
   const index = new Map();
-  for (const [name, p] of Object.entries(portraits)) index.set(portraitKey(name), { name, ...p });
+  for (const [name, p] of Object.entries(portraits)) {
+    for (const n of [name, ...(p.aliases || [])]) index.set(portraitKey(n), { name, ...p });
+  }
   return index;
 }
 
