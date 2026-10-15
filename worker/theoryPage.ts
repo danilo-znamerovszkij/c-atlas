@@ -178,7 +178,7 @@ export function theoryArticle(theory: TheoryData, locale: Locale, leaf: Leaf | n
   ${field('What consciousness is', cg.explanatory_identity_claim)}
   ${field('Mind and body', cg.mind_body_relationship)}
   ${field('Mechanism', md.distinctive_mechanism_or_principle)}
-  ${md.core_claims_and_evidence.length ? `<h2>Core claims</h2><ul>${md.core_claims_and_evidence.map(c => `<li>${esc(c)}</li>`).join('')}</ul>` : ''}
+  ${md.core_claims_and_evidence?.length ? `<h2>Core claims</h2><ul>${md.core_claims_and_evidence.map(c => `<li>${esc(c)}</li>`).join('')}</ul>` : ''}
   ${field('Criticisms', ec.criticisms_and_tensions)}
   ${implications.length ? `<h2>Implications</h2><dl>${implications.map(([q, v]) => `<dt>${esc(q)}: ${esc(v.stance)}</dt><dd>${esc(v.rationale)}</dd>`).join('')}</dl>` : ''}
   ${related ? `<h2>Related theories</h2><ul>${related}</ul>` : ''}
