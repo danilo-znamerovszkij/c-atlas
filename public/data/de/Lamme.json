@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Lammes Theorie der rekurrenten Verarbeitung",
     "summary": "Lammes Theorie der rekurrenten Verarbeitung (Recurrent Processing Theory, RPT) postuliert, dass Bewusstsein sowohl notwendig als auch hinreichend ist, wenn reziproke (rekurrente) Rückkopplungsverbindungen zwischen neuronalen Arealen auftreten, insbesondere in den sensorischen Systemen. Diese Verarbeitung, die lokal in sensorischen und post-sensorischen Arealen (Stufe 3) stattfindet, erzeugt phänomenale Erfahrung, ohne einen globalen Ausstrahlungszugriff zu erfordern.",
-    "associated_thinkers": ["Victor Lamme"],
+    "associated_thinkers": [
+      "Victor Lamme"
+    ],
     "category": "Materialismus",
-    "subcategory": "Repräsentational",
+    "subcategory": "Erster Ordnung",
     "core_identity_tagline": "„Bewusstsein als rekurrente Verarbeitung in sensorischen Systemen“",
     "classification_tags": [
       "neuroscience",
@@ -69,15 +71,15 @@
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "Kritik"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "Erweiterung"
       },
       {
-        "name": "Block’s Biological Reductionism",
+        "name": "Block's Biological Reductionism",
         "relationship": "Überschneidung"
       }
     ],

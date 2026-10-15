@@ -1,0 +1,82 @@
+{
+  "id_and_class": {
+    "theory_title": "Schiffs mesozirkulärer Schaltkreis des vorderen Vorderhirns zur Wiederherstellung des Bewusstseins",
+    "summary": "Nicholas D. Schiff schlägt vor, dass Verlust und Wiederkehr des Bewusstseins nach schweren Hirnverletzungen von einer Schleife abhängen, die den zentralen Thalamus, den Frontalkortex, das Striatum und den inneren Globus pallidus verbindet. Ausgedehnte Schädigung entzieht dem Striatum den Eingang, wodurch die Hemmung durch den Pallidum auf den zentralen Thalamus nachlässt und das gesamte vordere Vorderhirn in einen sich selbst verstärkenden gedämpften Zustand gerät. Da sich der Schaltkreis wieder über die Schwelle bringen lässt, erklärt das Modell die Erholung und sagt voraus, welche Behandlungen wirken werden.",
+    "associated_thinkers": ["Nicholas D. Schiff"],
+    "category": "Materialismus",
+    "subcategory": "Neurobiologisch",
+    "core_identity_tagline": "Bewusstseinsniveau als Funktion thalamokortikaler Schaltkreise",
+    "classification_tags": ["disorders of consciousness", "thalamus", "deep brain stimulation", "brain injury", "neurology"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Schiff sagt nicht, was Bewusstsein ist. Er nennt die ermöglichenden Bedingungen für das Bewusstseinsniveau: einen aktiven mesozirkulären Schaltkreis des vorderen Vorderhirns, der die rekurrente Aktivität aufrechterhalten kann, auf der bewusste Zustände beruhen.",
+    "ontological_status": "Physikalismus (neurobiologisch)",
+    "mind_body_relationship": "Das Bewusstseinsniveau hängt von einem bestimmten subkortikal-kortikalen Schaltkreis ab; sein Ausfall hebt das Bewusstsein auf, selbst wenn viel kortikales Gewebe erhalten bleibt. Das Modell schweigt darüber, wie sich Hirnaktivität zum erlebten Inhalt verhält.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz (das Bewusstseinsniveau hängt vom dynamischen Zustand eines Hirnschaltkreises ab)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Nicht behandelt. Schiff stellt die Hypothese als Modell des Bewusstseinsniveaus vor, nicht des phänomenalen Charakters.",
+    "ontological_commitments": "Neuronale Schaltkreise (zentraler Thalamus, mittelgroße stachelige Neurone des Striatums, innerer Globus pallidus, Frontalkortex), synaptischer Antrieb, Neuromodulation und Stoffwechsel.",
+    "epistemic_access": "Verhaltensdiagnostik, regionaler Hirnstoffwechsel (PET), spektrale Muster des Oberflächen-EEG sowie Reaktionen auf Medikamente und tiefe Hirnstimulation.",
+    "constituents_and_structure": "Eine Schleife: Kortex und Thalamus treiben das Striatum an, das Striatum hemmt den inneren Globus pallidus, der Pallidum hemmt den zentralen Thalamus, und der zentrale Thalamus erregt den Frontalkortex und das Striatum."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Bewusstseinsniveau und Wachheit; Fähigkeit zu Aufmerksamkeit, Arbeitsgedächtnis, intentionalem Verhalten und Kommunikation; verdecktes Bewusstsein. Nicht phänomenaler Inhalt.",
+    "distinctive_mechanism_or_principle": "Herunterregulierung des mesozirkulären Schaltkreises: Verlieren die Striatum-Neurone den konvergenten kortikalen und thalamischen Eingang, steigt die pallidale Hemmung des zentralen Thalamus, der thalamokortikale Antrieb bricht zusammen, und die verringerte Aktivität hält das Striatum stumm.",
+    "dynamics_of_emergence": "Bewusstseinsstörungen sind abgestufte Schaltkreiszustände. Patienten können aus dem Koma über wache Unresponsivität in minimal bewusste Zustände wechseln; schon kleine Veränderungen der synaptischen Wirksamkeit, der Neuromodulation, des Stoffwechsels oder der Stimulation können die Schleife über eine Schwelle bringen, daher kann die Erholung nichtlinear verlaufen.",
+    "location_and_distribution": "Vorderes Vorderhirn: zentraler Thalamus (einschließlich des zentralen lateralen Kerns), Striatum, innerer Globus pallidus und Frontalkortex; spätere Arbeiten nehmen den äußeren Globus pallidus hinzu.",
+    "causation_and_functional_role": "Ein aktiver mesozirkulärer Schaltkreis ermöglicht es großskaligen Netzwerken, Wachheit, Aufmerksamkeit, Arbeitsgedächtnis, intentionales Verhalten und Kommunikation zu tragen.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Vegetative und minimal bewusste Patienten zeigen einen Hypometabolismus, der sich auf Frontalkortex, Thalamus und Striatum konzentriert und über ihre fokalen Schäden hinausgeht (Fridman und Mitarbeiter).",
+      "Zolpidem, ein Sedativum, stellt bei einer kleinen Patientengruppe die Reaktionsfähigkeit wieder her, indem es den inneren Globus pallidus hemmt und den zentralen Thalamus freigibt; Responder zeigen einen erhöhten präfrontalen Stoffwechsel und weniger niederfrequente EEG-Aktivität.",
+      "Bilaterale tiefe Hirnstimulation des zentralen Thalamus führte bei einem Patienten, der sechs Jahre lang minimal bewusst war, zu anhaltender Besserung; eine Phase-1-Studie berichtete nach einer Schädel-Hirn-Verletzung über verbesserte exekutive Kontrolle.",
+      "Im ABCD-Modell verläuft die EEG-Erholung von Aktivität unter 1 Hz über Theta- und dann Alpha- und Beta-Rhythmen, sobald die thalamokortikalen Schleifen wiederhergestellt sind."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirisch: klinische Neurologie, PET-Stoffwechsel, EEG, Pharmakologie und Interventionsstudien."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch prüfbar",
+    "known_empirical_interventions_or_tests": "Zolpidem-Test; tiefe Hirnstimulation des zentralen Thalamus (einschließlich einer randomisierten Machbarkeitsstudie der Phase 1); regionale PET-Stoffwechselkartierung; spektrale EEG-Klassifikation mit dem ABCD-Modell zur Prognose und zur Auswahl von Kandidaten für die Neuromodulation.",
+    "criticisms_and_tensions": "Das Modell erklärt, wann Bewusstsein auftreten kann, nicht, was es ist oder warum es sich irgendwie anfühlt. Mehrere Glieder seiner Schlusskette wurden bereits revidiert, darunter die Aufnahme des äußeren Globus pallidus.",
+    "open_questions_and_limitations": "Der mesozirkuläre Schaltkreis legt nichts über die Inhalte der Erfahrung oder ihren qualitativen Charakter fest, was Schiff einräumt. Ähnliche Verhaltensdiagnosen können unterschiedliche Restfähigkeiten verbergen, daher bleibt verdecktes Bewusstsein schwer nachzuweisen.",
+    "ontological_coherence": "Mit dem Physikalismus verträglich und gegenüber ontologischen Theorien neutral; das Modell schränkt diese eher ein, als mit ihnen zu konkurrieren. Es stellt ein Problem für Ansätze dar, die Bewusstsein ausschließlich in der kortikalen Dynamik verorten."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Da das Bewusstseinsniveau hier von einem aktiven Schaltkreis des Vorderhirns abhängt, kann das Bewusstsein den dauerhaften Ausfall dieses Schaltkreises nicht überdauern."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate", "relationship": "Überschneidung" },
+      { "name": "Merker’s Midbrain-Centered Reality Space", "relationship": "Vereinbar" },
+      { "name": "Llinas's Mindness State of Oscillations", "relationship": "Überschneidung" },
+      { "name": "Crick and Koch's Neural Correlates of Consciousness", "relationship": "Vereinbar" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Recovery of Consciousness after Brain Injury: A Mesocircuit Hypothesis, Nicholas D. Schiff", "year": 2010 },
+      { "title_with_names": "Behavioural Improvements with Thalamic Stimulation after Severe Traumatic Brain Injury, Nicholas D. Schiff et al.", "year": 2007 },
+      { "title_with_names": "Regional Cerebral Metabolic Patterns Demonstrate the Role of Anterior Forebrain Mesocircuit Dysfunction in the Severely Injured Brain, E. A. Fridman et al.", "year": 2014 },
+      { "title_with_names": "Common Resting Brain Dynamics Indicate a Possible Mechanism Underlying Zolpidem Response in Severe Brain Injury, S. T. Williams et al.", "year": 2013 },
+      { "title_with_names": "Large-Scale Brain Dynamics in Disorders of Consciousness, Nicholas D. Schiff, T. Nauvel and J. D. Victor", "year": 2014 },
+      { "title_with_names": "Central Thalamic Deep Brain Stimulation to Support Anterior Forebrain Mesocircuit Function in the Severely Injured Brain, Nicholas D. Schiff", "year": 2016 },
+      { "title_with_names": "Thalamic Deep Brain Stimulation in Traumatic Brain Injury: A Phase 1, Randomized Feasibility Study, Nicholas D. Schiff et al.", "year": 2023 }
+    ]
+  }
+}

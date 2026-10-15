@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "Meijers universelles Wissensfeld",
     "summary": "Diese Theorie setzt voraus, dass Bewusstsein innerhalb eines universellen Wissensfeldes (Universal Knowledge Field, UKF) existiert, das als ein kollektiver Speicher aller im Universum vorhandenen und sich entwickelnden Information verstanden wird. Das UKF ist mit der fundamentalen Physik und kosmologischen Modellen vereinbar, und das menschliche Bewusstsein wird als integraler Bestandteil dieses universellen Bewusstseins verstanden, das mit dem Gehirn primär durch harmonische Resonanzmuster in Wechselwirkung tritt, die bestimmte elektromagnetische Feldfrequenzen einbeziehen.",
-    "associated_thinkers": ["Dirk K. F. Meijer"],
-    "category": "Idealismen",
+    "associated_thinkers": [
+      "Dirk K. F. Meijer"
+    ],
+    "category": "Idealismus",
     "subcategory": "Universelles Wissensfeld",
     "core_identity_tagline": "„Bewusstsein als universelles Wissensfeld“",
     "classification_tags": [
@@ -71,10 +73,16 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Idealism", "relationship": "Erweiterung" },
-      { "name": "Cosmic Consciousness", "relationship": "Überschneidung" },
       {
-        "name": "Pribram’s Holonomic Brain Theory",
+        "name": "Idealism",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Cosmic Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Pribram's Holonomic Brain Theory",
         "relationship": "Kompatibel"
       }
     ],

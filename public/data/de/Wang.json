@@ -1,0 +1,81 @@
+{
+  "id_and_class": {
+    "theory_title": "Wangs geschichtete Architektur und kognitive Informatik",
+    "summary": "Wang behandelt Bewusstsein als den höchsten kollektiven Zustand in einer geschichteten funktionalen Architektur des Gehirns, die auf metabolischer Homöostase, unbewusster und unterbewusster Verarbeitung aufbaut. Bewusstsein erfasst in Echtzeit Informationen über den Zustand des Körpers und der Emotionen in einem vorgeschlagenen zerebellären „Bewusstseinsstatus-Gedächtnis“, und der Thalamus verarbeitet sie dynamisch. Wang formuliert diesen Prozess in seiner eigenen denotationalen Mathematik, damit kognitive Computer und Roboter ihn umsetzen können.",
+    "associated_thinkers": ["Yingxu Wang"],
+    "category": "Materialismus",
+    "subcategory": "Komputational",
+    "core_identity_tagline": "Bewusstsein als oberste Schicht einer formalen Gehirnarchitektur",
+    "classification_tags": ["cognitive informatics", "layered model", "denotational mathematics", "thalamus", "cognitive computing"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein ist ein kollektiver Zustand aus Selbstgewahrsein, Umweltgewahrsein und intentionaler Reaktionsfähigkeit, der aus den darunterliegenden Schichten erzeugt wird. Wang nennt es auch das Selbstgefühl und das Lebenszeichen der natürlichen Intelligenz.",
+    "ontological_status": "Physikalismus (funktionalistisch, informationsverarbeitend)",
+    "mind_body_relationship": "Mentale Prozesse sind Funktionen physiologischer Strukturen, organisiert in einem Referenzmodell, das kognitive Funktionen auf neuronale Mechanismen abbildet.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz (Bewusstsein wird induktiv aus den unteren Schichten Homöostase, Unbewusstes und Unterbewusstes synthetisiert)",
+    "subjectivity_and_intentionality": "Subjektivität ist das Selbstgewahrsein des Zustands von Körper und Emotionen. Höhere, erworbene Prozesse sind intentional, zielgerichtet und unter bewusster Kontrolle.",
+    "qualia_account": "",
+    "ontological_commitments": "Neuronale und physiologische Strukturen (insbesondere Kleinhirn und Thalamus), mehrere Gedächtnistypen einschließlich des vorgeschlagenen Bewusstseinsstatus-Gedächtnisses sowie formale kognitive Prozesse, die sich in denotationaler Mathematik beschreiben lassen.",
+    "epistemic_access": "Durch formale Spezifikation und computergestützte Modellierung, mit neuroanatomischer Abbildung als Kontrolle.",
+    "constituents_and_structure": "Siebenunddreißig kognitive Prozesse in sechs Schichten (Empfindung, Gedächtnis, Wahrnehmung, Handlung, Metakognition, höhere Kognition), unterteilt in angeborene und erworbene Funktionen und in eine vierstufige Hierarchie aus Homöostase, Unbewusstem, Unterbewusstem und Bewusstsein eingebettet. Einige spätere Fassungen verwenden sieben Schichten und fügen die Inferenz hinzu."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Zugang, Selbstbeobachtung, Umweltgewahrsein und intentionale Steuerung; phänomenaler Charakter nicht behandelt",
+    "distinctive_mechanism_or_principle": "Ein bewusster Zustand ist eine Funktion, die aktuelle Ereignisse (äußere Reize und innere Motivationen) zusammen mit den Inhalten des Bewusstseinsstatus-Gedächtnisses auf einen aktualisierten Zustand dieses Gedächtnisses abbildet.",
+    "dynamics_of_emergence": "Bewusstsein ist eine dynamische Echtzeitfunktion, die kontinuierlich vom Thalamus ausgeführt wird und den körperlichen und emotionalen Zustand aktualisiert, sobald Ereignisse eintreffen.",
+    "location_and_distribution": "Bewusstseinsstatus-Gedächtnis im Kleinhirn, dynamische Verarbeitung im Thalamus (den Wang die zentrale Verarbeitungseinheit des Gehirns nennt) und Inhalte aus kortikaler Aktivität.",
+    "causation_and_functional_role": "Bewusstsein integriert Informationen über den inneren Zustand des Organismus, seine Umwelt und die Beziehungen zwischen beiden und koordiniert intentionale Reaktionen.",
+    "integration_or_binding": "Integration verläuft über den Thalamus, der mit nahezu allen kortikalen und subkortikalen Strukturen verbunden ist.",
+    "information_flow_or_representation": "Repräsentation und Verarbeitung sind getrennt: Das Kleinhirn hält eine feinkörnige Registrierung des Zustands jedes Körperteils, und der Thalamus verarbeitet sie.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Die mentalen Prozesse des Gehirns bilden eine geschichtete Hierarchie, von angeborenen, automatischen Funktionen bis zu erworbenen, plastischen, zielgesteuerten Funktionen.",
+      "Homöostase ist nicht Bewusstsein, liefert aber die physiologische Stabilität, die Bewusstsein voraussetzt.",
+      "Das Kleinhirn fungiert als Bewusstseinsstatus-Gedächtnis, ein Gedächtnistyp neben Kurzzeit-, Langzeit-, sensorischem Puffer- und Handlungspuffer-Gedächtnis.",
+      "Begriffsalgebra, Echtzeit-Prozessalgebra und Systemalgebra können Bewusstsein präzise genug spezifizieren, um es maschinell umzusetzen."
+    ],
+    "basis_of_belief_or_evidence_type": "Computergestützte und formale Modellierung (Softwarewissenschaft, Systemtechnik)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch prüfbar",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Die Verortung des Bewusstseinsstatus-Gedächtnisses im Kleinhirn steht im Widerspruch zu klinischen Befunden, wonach Menschen mit zerebellärer Agenesie oder nach Kleinhirnentfernung weitgehend bewusst bleiben. Der formale Apparat wurde überwiegend im eigenen Forschungsprogramm Wangs und in dessen Zeitschriften entwickelt und setzt sich nur begrenzt mit der weiteren Bewusstseinsliteratur auseinander.",
+    "open_questions_and_limitations": "Der Rahmen behandelt Zugang, Selbstbeobachtung und funktionale Organisation. Nichts darin erklärt, warum ein Zustand des Bewusstseinsstatus-Gedächtnisses sich irgendwie anfühlen sollte. Seine neuroanatomischen Behauptungen sind spekulativer als sein formaler Apparat.",
+    "ontological_coherence": "Vereinbar mit dem funktionalistischen Physikalismus. Zahl und Bezeichnung der Schichten variieren in Wangs Darstellungen."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Wang formalisiert Bewusstsein ausdrücklich, damit kognitive Computer und Roboter es umsetzen können. Das setzt voraus, dass maschinelles Bewusstsein erreichbar ist."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Da Bewusstsein aus physiologischen Strukturen erzeugt wird und von der Homöostase abhängt, endet es nach dieser Auffassung mit dem Körper."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Unsicher",
+      "rationale": "Das Modell lässt Bewusstsein in Maschinen zu, doch Wang erörtert nicht die Übertragung des Bewusstseins einer bestimmten Person."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Computational Theories", "relationship": "Überschneidung" },
+      { "name": "Minsky's Society of Mind", "relationship": "Kompatibel" },
+      { "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate", "relationship": "Überschneidung" },
+      { "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness", "relationship": "Kompatibel" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "On Cognitive Informatics, Yingxu Wang", "year": 2003 },
+      { "title_with_names": "A Layered Reference Model of the Brain (LRMB), Y. Wang, Y. Wang, S. Patel, and D. Patel", "year": 2006 },
+      { "title_with_names": "Cognitive Informatics Models of the Brain, Y. Wang and Y. Wang", "year": 2006 },
+      { "title_with_names": "The OAR Model of Neural Informatics for Internal Knowledge Representation in the Brain, Yingxu Wang", "year": 2007 },
+      { "title_with_names": "On Contemporary Denotational Mathematics for Computational Intelligence, Yingxu Wang", "year": 2008 },
+      { "title_with_names": "The Cognitive Mechanisms and Formal Models of Consciousness, Yingxu Wang", "year": 2012 }
+    ]
+  }
+}

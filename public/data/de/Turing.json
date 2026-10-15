@@ -1,0 +1,84 @@
+{
+  "id_and_class": {
+    "theory_title": "Turings Nachahmung, maschinelles Denken und der verborgene Geist",
+    "summary": "Alan Turing bot keine Theorie des phänomenalen Bewusstseins an und lehnte es ab, eine zu formulieren. Er argumentierte stattdessen, dass sich über die Frage, ob eine Maschine denkt, anhand ihrer öffentlichen Leistung urteilen lasse, so wie wir es bei anderen Menschen tun, ohne das Rätsel der Erfahrung zuvor zu lösen; sein Nachahmungsspiel und seine substratunabhängige Auffassung der Berechnung legten den Grund für Funktionalismus und künstliche Intelligenz.",
+    "associated_thinkers": ["Alan Turing"],
+    "category": "Materialismus",
+    "subcategory": "Komputational",
+    "core_identity_tagline": "Maschinengeister, beurteilt ohne Lösung des Bewusstseinsproblems",
+    "classification_tags": ["turing test", "imitation game", "other minds", "multiple realizability", "machine intelligence"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Turing identifiziert Bewusstsein mit nichts. Er behandelt es als echtes Rätsel und klammert es aus, indem er annimmt, dass die Zuschreibung von Denken auf beobachtbaren Fähigkeiten beruhen kann.",
+    "ontological_status": "Agnostizismus (methodisch)",
+    "mind_body_relationship": "Offengelassen. Seine universelle Maschine von 1936 zeigt, dass eine Berechnung durch formale Organisation und nicht durch das physische Medium bestimmt ist; diese Prämisse wurde später für die multiple Realisierbarkeit benutzt. Turing behauptete aber nie, dass die Implementierung einer Berechnung Erfahrung erzeugt. Er ließ sogar als Spekulation zu, dass Gott einer Maschine eine Seele geben könnte.",
+    "primitive_or_emergent_status": "Unklar",
+    "emergence_type": "Nicht anwendbar (Turing klammert die Metaphysik des Bewusstseins aus)",
+    "subjectivity_and_intentionality": "Subjektivität ist privat; Gewissheit über einen anderen Geist würde voraussetzen, dieser Geist zu sein. Turing nennt diese Forderung den solipsistischen Extremfall und sagt, wir übernähmen stattdessen ‚die höfliche Konvention, dass jeder denkt‘, und diese Konvention sollte sich auf Maschinen erstrecken, die hinreichend reichhaltige Gesprächsbelege liefern.",
+    "qualia_account": "Keine. Turing sagt, dass die Beschreibung maschinellen Lernens in Begriffen von Belohnung und Bestrafung nicht impliziert, dass die Maschine Lust oder Schmerz empfindet; funktionales Lernen und gefühlter Affekt bleiben also getrennt.",
+    "ontological_commitments": "Abstrakte Rechenmaschinen, physische Systeme, die sie implementieren, und Geister, deren inneres Leben nicht unmittelbar beobachtbar ist.",
+    "epistemic_access": "Dritte-Person-Perspektive und Verhalten. Maschinelles Denken muss, wie das anderer Menschen, aus öffentlich überprüfbaren Belegen erschlossen werden, etwa einer anhaltenden Textunterhaltung.",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Intelligenz und Denken (behavioral); phänomenales Bewusstsein ausdrücklich ausgeklammert",
+    "distinctive_mechanism_or_principle": "Das Nachahmungsspiel. Ein entfernt sitzender Befrager, der nur über Text kommuniziert, versucht, eine Maschine von einem Menschen zu unterscheiden; Turing ersetzt die Frage ‚Können Maschinen denken?‘ durch diesen Test.",
+    "dynamics_of_emergence": "Turing schlug vor, dass Intelligenz erlernt werden kann. Eine ‚Kindmaschine‘ oder ein trainierbares Netz aus ‚unorganisierten Maschinen‘ würde durch Erziehung, Belohnung, Bestrafung und Erfahrung erwachsene Fähigkeiten erwerben und seine Konstrukteure möglicherweise überraschen.",
+    "location_and_distribution": "Turing weist auf ein Paradox bei jedem Versuch hin, Bewusstsein zu lokalisieren, und bietet keinen Ort an.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Denken wird als regelgeleitete Symbolmanipulation im Sinne der Turing-Maschine beurteilt; eine universelle Maschine kann jeden berechenbaren Prozess nachahmen.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Berechnung hängt von formaler Organisation ab, nicht vom physischen Medium; daher könnten Systeme, die nicht aus Gehirnen bestehen, im Prinzip geistähnliche Fähigkeiten haben.",
+      "Geoffrey Jeffersons Forderung, eine Maschine müsse ihre Gedanken fühlen, würde konsequent angewandt dazu führen, dass wir nicht wissen könnten, dass andere Menschen denken.",
+      "Bewusstsein bleibt rätselhaft, doch dieses Rätsel muss nicht gelöst sein, bevor man entscheidet, ob eine Maschine denkt.",
+      "Turing behauptete nicht, dass das Bestehen des Nachahmungsspiels Bewusstsein garantiert."
+    ],
+    "basis_of_belief_or_evidence_type": "Mathematisch (Theorie der Berechenbarkeit) und philosophisch (Argument aus der Gleichbehandlung mit anderen Geistern)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch prüfbar",
+    "known_empirical_interventions_or_tests": "Das Nachahmungsspiel selbst. Heute bestehen große Sprachmodelle routinemäßig Gesprächstests dieser Art, und Forschende wie Patrick Butlin und Kollegen suchen inzwischen nach architektonischen Anzeichen, die aus Theorien des Bewusstseins abgeleitet sind, statt sich allein auf Verhalten zu stützen.",
+    "criticisms_and_tensions": "Ned Blocks Nachschlagetabelle ‚Blockhead‘ besteht jede endliche Unterhaltung, ohne zu denken; Verhalten allein kann also nicht genügen. John Searles Chinesisches Zimmer argumentiert, dass das Ausführen eines Programms weder Verstehen noch Bewusstsein hervorbringt. Lucas und Penrose ziehen aus Gödels Ergebnissen anti-mechanistische Argumente. Vertreter des harten Problems sagen, Turing habe einen Test für Intelligenz nur angegeben, indem er Bewusstsein aus der Frage ausgeschlossen habe.",
+    "open_questions_and_limitations": "Turing liefert weder eine Theorie der Qualia noch einen Grund, warum ein Prozess sich überhaupt wie etwas anfühlen sollte. Wie der Test zu lesen ist, ist umstritten: behavioristisch, als induktive Evidenz oder als Diane Proudfoots Auffassung, Turing habe Intelligenz als reaktionsabhängig behandelt.",
+    "ontological_coherence": "Kohärent, weil minimal. Turing wird wegen seiner ermöglichenden Prämisse unter den rechnergestützten Theorien eingeordnet, nicht weil er vertrat, dass Bewusstsein Berechnung sei."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ungewiss",
+      "rationale": "Turing argumentierte, dass Maschinen nicht allein deshalb als denkend ausgeschlossen werden können, weil sie Maschinen sind; er ließ aber offen, ob denkende Maschinen irgendetwas empfinden würden."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Putnam’s Machine Functionalism", "relationship": "Einfluss" },
+      { "name": "Searle's Biological Naturalism", "relationship": "Kritik" },
+      { "name": "Dennett’s Heterophenomenology", "relationship": "Erweiterung" },
+      { "name": "Blums’ Conscious Turing Machine", "relationship": "Einfluss" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "On Computable Numbers, with an Application to the Entscheidungsproblem, Alan Turing", "year": 1936 },
+      { "title_with_names": "Intelligent Machinery, Alan Turing", "year": 1948 },
+      { "title_with_names": "Computing Machinery and Intelligence, Alan Turing", "year": 1950 },
+      { "title_with_names": "Intelligent Machinery, a Heretical Theory, Alan Turing", "year": 1951 },
+      { "title_with_names": "The Mind of Mechanical Man, Geoffrey Jefferson", "year": 1949 },
+      { "title_with_names": "Psychologism and Behaviorism, Ned Block", "year": 1981 },
+      { "title_with_names": "Minds, Brains, and Programs, John Searle", "year": 1980 },
+      { "title_with_names": "Rethinking Turing’s Test and the Philosophical Implications, Diane Proudfoot", "year": 2020 },
+      { "title_with_names": "Identifying Indicators of Consciousness in AI Systems, Patrick Butlin, Robert Long, et al.", "year": 2026 }
+    ]
+  }
+}

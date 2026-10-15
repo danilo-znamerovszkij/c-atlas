@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Putnams Maschinenfunktionalismus",
+    "summary": "Putnams früher Maschinenfunktionalismus bestimmt mentale Zustände durch ihre funktionale Rolle, also die kausalen Beziehungen zwischen sensorischen Inputs, inneren Zuständen und motorischen Outputs, und nicht durch ihre Stoffe. Da dieselbe Rolle von sehr verschiedenen physischen Systemen eingenommen werden kann, könnte Schmerz bei Oktopoden, Außerirdischen oder Computern existieren; dies führte Putnam dazu, die Identitätstheorie von Geist und Gehirn abzulehnen. Später verwarf er den strikten Funktionalismus als blind für Bedeutung, Verkörperung und qualitative Erfahrung und wandte sich einem „liberalen Funktionalismus“ und einem pragmatischen Pluralismus zu.",
+    "associated_thinkers": ["Hilary Putnam"],
+    "category": "Materialismus",
+    "subcategory": "Komputational",
+    "core_identity_tagline": "Mentale Zustände als funktionale Rollen, wie Software",
+    "classification_tags": ["functionalism", "multiple realizability", "computational theory of mind", "semantic externalism", "liberal functionalism"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Ein mentaler Zustand ist ein funktionaler Zustand eines Systems, bestimmt durch seine kausalen Beziehungen zu Inputs, Outputs und anderen inneren Zuständen. In Putnams Analogie ist der Geist die Software und das Gehirn die Hardware, auf der sie läuft.",
+    "ontological_status": "Funktionalismus (Maschinenzustand; später liberaler Funktionalismus)",
+    "mind_body_relationship": "Mentale Zustände werden durch physische Zustände realisiert, sind aber mit keiner bestimmten Art davon identisch. Putnam lehnte den Substanzdualismus stets ab, und spät in seiner Laufbahn bestritt er, dass mentale Phänomene vollständig durch eine einzige fundamentale physikalische Theorie beschrieben werden können.",
+    "primitive_or_emergent_status": "Keines von beiden",
+    "emergence_type": "Nicht anwendbar (mentale Zustände werden durch funktionale Organisation definiert, die jedes geeignete physische System realisieren kann)",
+    "subjectivity_and_intentionality": "Putnams semantischer Externalismus besagt, dass der Gehalt von Gedanken von der Interaktion mit der äußeren Welt abhängt und nicht allein von inneren Zuständen. Er lehnte eine „innere Intentionalität“ ab, die im Erleben des Denkens selbst gegeben sei.",
+    "qualia_account": "Putnam kam zu der Einsicht, dass der Funktionalismus qualitative Erfahrung nicht erfassen kann, und blieb im Ungewissen, welche theoretische Arbeit der Begriff der Qualia leistet.",
+    "ontological_commitments": "Physische Systeme beliebiger Zusammensetzung, ihre funktionale Organisation und (in der späteren Auffassung) die Umwelt und die verkörperte Interaktion, die den mentalen Gehalt festlegen.",
+    "epistemic_access": "Durch funktionale Analyse der Input-Output-Beziehungen und inneren Zustände. Später bevorzugte Putnam einen pragmatischen Pluralismus, in dem die Rede vom Mentalen ein begriffliches Schema unter anderen ist, das für verschiedene Zwecke geeignet ist.",
+    "constituents_and_structure": "Funktionale Zustände, bestimmt durch die Organisation eines Systems und vergleichbar mit den Zuständen einer Rechenmaschine."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Mentale Zustände im Allgemeinen (Empfindungen, Überzeugungen, Emotionen); Intentionalität und Bedeutung; Qualia, anerkannt als ungeklärt",
+    "distinctive_mechanism_or_principle": "Multiple Realisierbarkeit. Derselbe mentale Zustand kann in verschiedenen physischen Systemen realisiert werden, sofern ihre inneren Zustände dieselbe funktionale Rolle spielen.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Überall dort, wo die passende funktionale Organisation realisiert ist, ob in menschlichen Gehirnen, tierischen Gehirnen, außerirdischen Gehirnen oder Computern.",
+    "causation_and_functional_role": "Ein mentaler Zustand ist seine kausale Rolle: was ihn typischerweise verursacht, was er verursacht und wie er mit anderen inneren Zuständen interagiert.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Die frühe Auffassung behandelt den Geist als ein rechnergestütztes System, das durch neuronale Aktivität realisiert wird. Die spätere Auffassung hält Bedeutung nicht für „im Kopf“, sondern für abhängig von der Welt.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Die funktionale Organisation eines Systems ist die Menge kausaler Beziehungen zwischen seinen sensorischen Inputs, motorischen Outputs und inneren Zuständen, und mentale Zustände sind durch sie definiert.",
+      "Schmerz, der bei Säugetieren mit dem Feuern von C-Fasern verbunden ist, könnte bei Lebewesen mit anderer Biologie realisiert sein; daher sind mentale Zustände nicht mit bestimmten Gehirnzuständen identisch.",
+      "Später argumentierte Putnam, der semantische Externalismus untergrabe den Funktionalismus, weil funktionale Zustände innerlich sind, während der mentale Gehalt von der Umwelt abhängt.",
+      "In seinem Spätwerk vertrat Putnam die Auffassung, dass der Funktionalismus keine vollständige Philosophie des Geistes ist, und verteidigte einen liberalen Funktionalismus, der in verkörperten, umweltbezogenen Fähigkeiten gründet."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch (begriffliche Analyse, Analogie zu Rechenmaschinen)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell prüfbar",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Putnam wurde zu seinem eigenen wichtigsten Kritiker. Er argumentierte, der strikte Funktionalismus vereinfache mentale Phänomene zu stark, ignoriere die semantischen und intentionalen Aspekte des Denkens und könne qualitative Erfahrung nicht erfassen.",
+    "open_questions_and_limitations": "Putnam ließ die Qualia ungelöst und bezweifelte, dass es ein einziges, vereinheitlichtes Problem des Bewusstseins gibt, das ein für alle Mal gelöst werden könnte.",
+    "ontological_coherence": "Die frühe Auffassung ist innerhalb eines computationalistischen Physikalismus kohärent. Der spätere Pluralismus weigert sich, die Rede vom Mentalen auf eine einzige zugrunde liegende Beschreibung zu reduzieren, und lockert damit seine Passung zum reduktiven Physikalismus."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Möglich",
+      "rationale": "Multiple Realisierbarkeit erlaubt es mentalen Zuständen, sowohl auf Computern als auch auf Gehirnen zu „laufen“. Putnams spätere Zweifel, ob der Funktionalismus Qualia und Bedeutung erfasst, lassen maschinelles Bewusstsein offen."
+    },
+    "survival_beyond_death": {
+      "stance": "Unwahrscheinlich",
+      "rationale": "Putnam lehnte den Substanzdualismus ab; mentale Zustände brauchen daher ein physisches System, das sie realisiert, und nichts in der Auffassung stützt ein Überleben ohne ein solches System."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Putnams pragmatischer Pluralismus behandelt die Rede vom Mentalen als menschliches begriffliches Schema, das menschlichen Zwecken dient, ohne Berufung auf einen kosmischen Zweck."
+    },
+    "virtual_immortality": {
+      "stance": "Möglich",
+      "rationale": "Nach dem Maschinenfunktionalismus würde die Reproduktion der funktionalen Organisation eines Geistes in einem anderen Substrat auch seine mentalen Zustände reproduzieren, obwohl Putnams späterer Externalismus den Gehalt ebenfalls an die Welt bindet."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Functionalism", "relationship": "Grundlage" },
+      { "name": "Smart’s Topic-Neutral Identity", "relationship": "Kritik" },
+      { "name": "Lewis’s Analytic Functionalism and Causal-Role Identity Theory", "relationship": "Gegensatz" },
+      { "name": "Turing’s Imitation, Machine Thought, and the Hidden Mind", "relationship": "Einfluss" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Putnam’s Machine Functionalism (Landscape of Consciousness entry), Hilary Putnam", "year": 1988 }
+    ]
+  }
+}

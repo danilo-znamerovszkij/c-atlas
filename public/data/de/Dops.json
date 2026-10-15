@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "Theoretischer Rahmen des DOPS",
     "summary": "Dieser Rahmen, gestützt durch empirische Forschung zu Phänomenen wie Nahtoderfahrungen (NTE) und Reinkarnation, plädiert für ein Transmissions- oder Filtermodell des Bewusstseins, in dem das Gehirn eher als Schnittstelle denn als Erzeuger des Bewusstseins fungiert. Er stellt den konventionellen Physikalismus systematisch infrage, indem er argumentiert, das Bewusstsein sei unabhängig vom Organismus und möglicherweise grundlegend für die Wirklichkeit.",
-    "associated_thinkers": ["Ed Kelly", "Ian Stevenson", "Bruce Greyson"],
-    "category": "Anomale und veränderte Zustände",
-    "subcategory": "Forschungsgestützte Herausforderung des Physikalismus/Materialismus",
+    "associated_thinkers": [
+      "Ed Kelly",
+      "Ian Stevenson",
+      "Bruce Greyson"
+    ],
+    "category": "Anomal",
+    "subcategory": "Forschungsbasierte Herausforderung des Physikalismus/Materialismus",
     "core_identity_tagline": "Bewusstsein als gefilterte universelle Existenz",
     "classification_tags": [
       "survival",
@@ -76,18 +80,36 @@
         "name": "Myers/James Transmission Model",
         "relationship": "Grundlage"
       },
-      { "name": "Idealism/Panentheism", "relationship": "Kompatibel/Tendenz" },
+      {
+        "name": "Idealism/Panentheism",
+        "relationship": "Kompatibel/Tendenz"
+      },
       {
         "name": "Interactive Dualism",
         "relationship": "Alternativer konzeptueller Rahmen"
       },
-      { "name": "Materialism Theories (General)", "relationship": "Kritik" }
+      {
+        "name": "Materialism",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Irreducible Mind", "year": 2007 },
-      { "title_with_names": "Beyond Physicalism", "year": 2015 },
-      { "title_with_names": "Consciousness Unbound", "year": 2021 },
-      { "title_with_names": "The Continuity of Consciousness", "year": 2022 }
+      {
+        "title_with_names": "Irreducible Mind",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Beyond Physicalism",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Consciousness Unbound",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Continuity of Consciousness",
+        "year": 2022
+      }
     ]
   }
 }

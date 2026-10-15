@@ -1,0 +1,83 @@
+{
+  "id_and_class": {
+    "theory_title": "Bieberichs rekurrente Integrations-Fraktaltheorie",
+    "summary": "Erhard Bieberich schlägt vor, dass Bewusstsein in einzelnen Neuronen rekurrenter Netzwerke durch drei klassische Schritte entsteht. Die Netzwerkaktivität wird zu einem fraktalen Muster aus Ionenkanälen und Lipiddomänen in der Zellmembran verdichtet (dem Sentyon); dieses Muster wird holographisch zu einem einheitlichen Erfahrungsraum (dem Endospace) entfaltet, und der Endospace wirkt auf die Membran zurück, die ihn hervorgebracht hat.",
+    "associated_thinkers": ["Erhard Bieberich"],
+    "category": "Materialismus",
+    "subcategory": "Neurobiologisch",
+    "core_identity_tagline": "Bewusstsein als holographisch entfaltete fraktale Membranmuster",
+    "classification_tags": ["fractals", "holography", "single neuron", "binding problem", "membrane lipids"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein ist ein einheitlicher, geometrisch strukturierter Erfahrungsraum, rekonstruiert aus einer Ganzes-im-Teil-Fraktalkodierung der Netzwerkaktivität in der somatischen Membran eines Neurons.",
+    "ontological_status": "Physikalismus (klassisch molekular)",
+    "mind_body_relationship": "Erfahrung wird durch eine bestimmte molekulare und geometrische Verwandlung in Neuronen erzeugt und wirkt auf dieses Substrat zurück. Bieberich nannte die bewusste Form der Materie früher ‚helle Materie‘.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Emergenz aus klassischer molekularer Dynamik durch fraktale Verdichtung und holographische Rekonstruktion; Bieberich beruft sich weder auf Quantenkohärenz noch auf Kollaps.",
+    "subjectivity_and_intentionality": "Das wahrnehmende Selbst ist Teil der Organisation, die das Feld erzeugt; Bieberich bietet dies an, statt eines Homunkulus, der es betrachtet. Die räumlichen Beziehungen der äußeren Welt (Exospace) werden im Endospace rekonstruiert.",
+    "qualia_account": "RIFT erklärt, wie die Geometrie der Erfahrung erzeugt und bewahrt wird, aber nach Bieberichs eigener Aussage nicht, warum diese Geometrie erfahren wird.",
+    "ontological_commitments": "Rekurrente neuronale Schleifen, fraktale dendritische Bäume, ein multifraktales Gitter aus Lipiddomänen und Ionenkanälen (das Sentyon), ein holographisch erzeugtes Feld (Endospace) und der Selbst-Attraktor.",
+    "epistemic_access": "Theoretische Argumentation und Computersimulation, mit vorgeschlagenen Experimenten zu Membranlipiden, dendritischem Timing und Aufmerksamkeit.",
+    "constituents_and_structure": "Ein Kernneuron, etwa eine Pyramidenzelle der Schicht 5, das rekurrente Eingaben empfängt; seine somatische Membran, modelliert als Ising-Gitter nahe am kritischen Punkt; und ein verdichteter ‚Keim‘, der jeden bewussten Moment in den nächsten trägt."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenale Einheit, Bindung, Kontinuität der Erfahrung, Aufmerksamkeit, mentale Verursachung.",
+    "distinctive_mechanism_or_principle": "Fraktale Einfaltung, holographische Entfaltung und autopoietische Rückkopplung: Nur eine Ganzes-im-Teil-Abbildung kann Teile integrieren, ohne sie zu verlieren, was die Summation neuronaler Signale nicht leisten kann.",
+    "dynamics_of_emergence": "In der Generationalen Fraktalen Abbildung wächst das Membranmuster bis zur Schwelle und kollabiert mit jedem Aktionspotential, während ein lipidbasierter Keim überdauert; so aktualisiert jeder bewusste Moment den letzten.",
+    "location_and_distribution": "In einzelnen Kernneuronen, aber beweglich: Durch ‚Sentyon-Transfer‘ wird der Keim in andere Neuronen kopiert, sodass Bewusstsein ein wandernder dynamischer Kern ist, der dorthin geht, wo Verarbeitung nötig ist.",
+    "causation_and_functional_role": "Die mittlere Feldintensität des Endospace verstärkt die Kopplung zwischen Lipiddomänen und Ionenkanälen und begünstigt das Öffnen der Kanäle, ohne Energie hinzuzufügen; damit will Bieberich Bewusstsein kausal wirksam machen. Aufmerksamkeit drückt die Beweglichkeit des Kerns aus.",
+    "integration_or_binding": "Jeder Teilbereich des Membranmusters kodiert das Ganze, sodass Fragmente nahezu dasselbe Feld rekonstruieren. Bieberich bietet dies als geometrische Antwort auf das Bindungsproblem an.",
+    "information_flow_or_representation": "Rekurrente Schleifen mit gleicher Gesamtschleifenzeit lassen EPSPs am Soma zusammenfallen, und ihre Amplituden und Latenzen tragen die Geometrie der Netzwerkaktivierung in die Membran.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Integrate-and-fire-Kodierung verdichtet Tausende Eingaben zu einem einzigen Spike, sodass sich verschiedene mögliche Erfahrungen im neuronalen Code nicht mehr unterscheiden.",
+      "In der Simulation entstand die umgekehrte Beziehung zwischen dendritischer und äußerer Pfadlänge aus einer koinzidenzbasierten Auswahl von Synapsen.",
+      "Acht unähnliche Fragmente eines simulierten somatischen Musters rekonstruierten nahezu identische Felder (Ähnlichkeit 0,96), während zufällige oder regelmäßige Eingaben dies nicht taten.",
+      "Eine Erhöhung der Lipid-Kanal-Kopplung in der Simulation steigerte den Anteil geöffneter Kanäle von 89,0 auf 95,5 Prozent."
+    ],
+    "basis_of_belief_or_evidence_type": "Theoretisch und computational; Bieberich ließ sechs Simulationsmodule mit öffentlich archiviertem Code laufen."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spekulativ",
+    "known_empirical_interventions_or_tests": "Vorhersagen: Cholesterinentzug sollte das Bewusstsein stärker beeinträchtigen als die Blockade von Ionenkanälen; die Stufe des dendritischen Zweigs und die äußere Pfadlänge sollten umgekehrt getaktet sein; der Keimtransfer sollte Mitschwingungs-Signaturen über beachtete Regionen hinterlassen; bei Alzheimer sollte die Störung der Lipiddomänen den Gedächtnisverlust besser vorhersagen als die Amyloidlast.",
+    "criticisms_and_tensions": "Die Simulationen zeigen, dass eine Architektur die Kriterien erfüllt, die die Theorie selbst aufstellt, nicht, dass Neuronen sie umsetzen; die inverse Konnektivität und das somatische Multifraktal sind nicht nachgewiesen. Dem holographischen Schritt fehlen identifizierte kohärente Quellen in der Membran, und der Anspruch, einen Erfahrungsraum zu erzeugen, steht in unbehaglichem Verhältnis zu der Zurückweisung der Frage, warum dieser Raum erfahren wird.",
+    "open_questions_and_limitations": "Bieberich räumt ein, dass die sechs Module nicht als eine einzige Schleife gelaufen sind, dass zentrale Schritte rechnerische Stellvertreter ohne bestätigten physischen Träger sind, dass die Stärke der Rückkopplung von Hand festgelegt wurde und dass die Integrationsmaße keine formalen Berechnungen integrierter Information sind.",
+    "ontological_coherence": "Mit dem klassischen Physikalismus vereinbar, doch die Gleichsetzung der rekonstruierten Geometrie mit Erfahrung bleibt ein Postulat."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bedingt",
+      "rationale": "Heutiger KI fehlen rekursive fraktale Zeitstruktur, ein multifraktales Substrat und holographische Rekonstruktion; nach den Kriterien von RIFT ist sie daher nicht bewusst, obwohl Bieberich die mathematische Struktur für substratunabhängig hält."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Da Bewusstsein durch molekulare Muster in lebenden Neuronen erzeugt wird, endet es, wenn diese enden."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Die Theorie ist ein klassischer biophysikalischer Mechanismus ohne kosmischen Zweck."
+    },
+    "virtual_immortality": {
+      "stance": "Ungewiss",
+      "rationale": "Eine substratunabhängige Struktur lässt die Tür prinzipiell offen, aber RIFT befasst sich nicht damit, eine bestimmte Person zu reproduzieren."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Pribram's Holonomic Brain Theory", "relationship": "Einfluss" },
+      { "name": "Dendritic Integration Theory", "relationship": "Überschneidung" },
+      { "name": "Edelman's Neural Darwinism and Reentrant Neural Circuitry", "relationship": "Einfluss" },
+      { "name": "Integrated Information Theory", "relationship": "Kritik" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "RIFT: A fractal-holographic theory of consciousness and autopoietic control, Erhard Bieberich", "year": 2026 },
+      { "title_with_names": "Introduction to the fractality principle of consciousness and the sentyon postulate, Erhard Bieberich", "year": 2012 },
+      { "title_with_names": "Recurrent fractal neural networks: A strategy for the exchange of local and global information processing in the brain, Erhard Bieberich", "year": 2002 },
+      { "title_with_names": "Brain and Perception: Holonomy and Structure in Figural Processing, K. H. Pribram", "year": 1991 },
+      { "title_with_names": "Autopoiesis and Cognition: The Realization of the Living, H. R. Maturana and F. J. Varela", "year": 1980 },
+      { "title_with_names": "A Universe of Consciousness, G. M. Edelman and G. Tononi", "year": 2000 },
+      { "title_with_names": "Single-neuron theory of consciousness, S. Sevush", "year": 2006 },
+      { "title_with_names": "Cellular mechanisms of conscious processing, J. Aru, M. Suzuki and M. E. Larkum", "year": 2020 }
+    ]
+  }
+}

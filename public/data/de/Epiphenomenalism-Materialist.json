@@ -1,0 +1,75 @@
+{
+  "id_and_class": {
+    "theory_title": "Epiphänomenalismus (Materialismus)",
+    "summary": "Der Epiphänomenalismus vertritt die Auffassung, dass Hirnprozesse bewusste Erfahrung hervorbringen, die Erfahrung selbst aber nichts bewirkt, weder physisch noch mental. Die Kausalität verläuft in eine Richtung, vom Physischen zum Phänomenalen; so bleibt die physische Welt kausal geschlossen, während das Gefühl, Gedanken bewegten uns, als Irrtum gilt.",
+    "associated_thinkers": ["David Chalmers"],
+    "category": "Materialismus",
+    "subcategory": "Philosophisch",
+    "core_identity_tagline": "Bewusstsein als kausal wirkungsloser Schaum auf der Welle",
+    "classification_tags": ["epiphenomenalism", "mental causation", "causal closure", "free will"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein ist ein echtes Nebenprodukt biologischer Hirnaktivität, das keine eigene kausale Kraft besitzt.",
+    "ontological_status": "Physikalismus (nicht-reduktiv, epiphänomenalistisch)",
+    "mind_body_relationship": "Einseitige Kausalität: Physische Zustände verursachen phänomenale Zustände, nie umgekehrt. Nach Chalmers' formaler Darstellung sind phänomenale Eigenschaften ontologisch von physischen verschieden und haben keine Wirkung auf sie; die Auffassung ist damit ein schwacher Dualismus, der sich unter dem Materialismus einordnet, weil er die volle kausale Geschlossenheit des Physischen bejaht.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Durch Hirnaktivität hervorgebracht, aber nicht auf sie reduzierbar, und ohne Abwärtskausalität",
+    "subjectivity_and_intentionality": "Gewahrsein ist real, aber das Gefühl, dass unsere Gedanken und Absichten unsere Handlungen verursachen, ist eine Illusion.",
+    "qualia_account": "Qualia existieren und werden vom Gehirn verursacht, lassen sich aber nicht auf physische Zustände reduzieren; sie sind kausal untätig.",
+    "ontological_commitments": "Eine kausal geschlossene physische Welt, biologische Gehirne und phänomenale Eigenschaften, die Wirkungen, aber nie Ursachen sind.",
+    "epistemic_access": "Introspektion offenbart Erfahrung, täuscht aber über ihre kausale Rolle. Der Epiphänomenalismus steht vor dem Problem, wie wir Zustände wissen oder berichten können, die nichts bewirken, einschließlich unserer eigenen Überzeugungen über sie.",
+    "constituents_and_structure": "Jedes bewusste Ereignis, einschließlich der bewussten Wahrnehmung, beruht auf unbewusster Verarbeitung, die die gesamte kausale Arbeit leistet."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal; mentale Verursachung; freier Wille.",
+    "distinctive_mechanism_or_principle": "Die kausale Geschlossenheit des Physischen: Jedes physische Ereignis hat eine hinreichende physische Ursache; bewusste Zustände können daher Wirkungen der Hirnaktivität sein, aber keine Ursachen.",
+    "dynamics_of_emergence": "Bewusste Zustände begleiten Hirnprozesse fortlaufend, wie der Schaum eine Meereswelle; sie sind stets vorhanden und scheinbar aktiv, treiben die Welle aber nie an.",
+    "location_and_distribution": "Biologische Gehirne.",
+    "causation_and_functional_role": "Keine. Bewusstsein hat keine kausale oder funktionale Rolle, und es gibt keine Abwärtskausalität vom Geist zum Gehirn.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Physische Zustände verursachen phänomenale Zustände, phänomenale Zustände verursachen jedoch nichts.",
+      "In Libets Experiment geht das Bereitschaftspotenzial einer willentlichen Bewegung dem Gewahrsein der Bewegungsabsicht um mehrere hundert Millisekunden voraus, was darauf hindeutet, dass das Gehirn die Handlung einleitet.",
+      "Die Daten zum Libet-Bereitschaftspotenzial sind über viele Versuchsanordnungen hinweg reproduzierbar."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch (Argument der kausalen Geschlossenheit), gestützt durch neurowissenschaftliche Befunde zum Zeitverlauf willentlicher Handlungen."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptionell prüfbar",
+    "known_empirical_interventions_or_tests": "Libets Paradigma des Bereitschaftspotenzials und spätere Replikationen; Analysen spontaner neuronaler Fluktuationen durch Schurger und Mitarbeiter.",
+    "criticisms_and_tensions": "Die Deutung von Libets Daten ist angefochten, besonders durch Schurger und Mitarbeiter, die argumentieren, das Bereitschaftspotenzial könne stochastisches Rauschen in der neuronalen Aktivität widerspiegeln statt einer unbewussten Entscheidung. Daniel Stoljar räumt ein, dass die Auffassung kontraintuitiv ist, da unsere bewussten Zustände kausal sicherlich eine Rolle zu spielen scheinen.",
+    "open_questions_and_limitations": "Eine Theorie des Bewusstseins muss eine Theorie der mentalen Verursachung enthalten, und diese muss wiederum das Selbstwissen erklären. Wenn Erfahrung nichts bewirkt, ist unklar, wie sie beeinflusst, was wir darüber sagen und glauben.",
+    "ontological_coherence": "Die Auffassung steht zwischen Dualismus und Materialismus: Sie lässt phänomenale Eigenschaften zu, die von physischen verschieden sind, hält das Physische aber kausal geschlossen. Bewusstsein „vollständig physisch“ zu nennen und zugleich als irreduzibel zu behandeln, ist eine bleibende Spannung dieser Position."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Da Bewusstsein hier allein ein Produkt biologischer Gehirne ist, endet es, sobald das Gehirn es nicht mehr hervorbringt."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Bewusster Wille bewirkt keine Handlung, daher bleibt kein Raum für Bewusstsein als kosmischen oder kausalen Akteur."
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Epiphenomenalism", "relationship": "Überschneidung" },
+      { "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness", "relationship": "Grundlage" },
+      { "name": "Kind's Dualism 2.0", "relationship": "Vereinbar" },
+      { "name": "Halligan and Oakley’s Species-Enhancing Epiphenomenalism", "relationship": "Erweiterung" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Epiphenomenalism (Landscape of Consciousness entry), David Chalmers" }
+    ]
+  }
+}

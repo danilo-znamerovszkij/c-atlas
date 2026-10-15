@@ -1,0 +1,78 @@
+{
+  "id_and_class": {
+    "theory_title": "Hofstadters seltsame Schleifen",
+    "summary": "Douglas Hofstadter argumentiert, dass Bewusstsein und Selbst aus ‚seltsamen Schleifen‘ entstehen: abstrakten, selbstbezüglichen Rückkopplungsschleifen im Symbolsystem des Gehirns, die durch Abstraktionsebenen aufsteigen und an ihrem Ausgangspunkt wieder ankommen. Das ‚Ich‘ ist das zentralste und komplexeste Symbol des Gehirns, ein selbst aufgebautes Muster, das Hofstadter eine Art Illusion nennt, dem er aber reale kausale Wirkung auf die Neuronen zuschreibt, die es tragen.",
+    "associated_thinkers": ["Douglas Hofstadter"],
+    "category": "Materialismus",
+    "subcategory": "Relational",
+    "core_identity_tagline": "Bewusstsein als selbstbezügliche seltsame Schleife",
+    "classification_tags": ["self-reference", "strange loop", "emergence", "self", "downward causation"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein und Selbstheit sind ein übergeordnetes, selbstbezügliches Muster von Symbolen: eine seltsame Schleife, in der das Gehirn sich selbst und seine Repräsentationen repräsentiert.",
+    "ontological_status": "Physikalismus (nicht-reduktiv, emergentistisch)",
+    "mind_body_relationship": "Der Geist ist eine emergente Eigenschaft der Organisation des Gehirns und keine eigenständige geistige Entität; Hofstadter lehnt den Dualismus ab. Geist und Gehirn sind verschiedene Beschreibungsebenen eines einzigen Systems.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Emergenz mit Abwärtskausalität (das übergeordnete ‚Ich‘ ist ebenso kausal wirksam wie die physikalischen Regeln der niedrigen Ebene)",
+    "subjectivity_and_intentionality": "Das ‚Ich‘ ist ein Symbol, das das Gehirn über sich selbst aufbaut, eine erzählerische Fiktion, die durch jede neue Erfahrung aktualisiert wird. Selbstbezug erlaubt dem System, sich selbst als Ursache seiner Gefühle und Handlungen wahrzunehmen, woraus das Gefühl der Handlungsfähigkeit entsteht.",
+    "qualia_account": "Hofstadter gibt keine gesonderte Darstellung des qualitativen Gefühls. Erfahrung wird durch selbstbezügliche symbolische Muster erklärt; ob dies den Reichtum subjektiver Erfahrung erfasst, ist die offene Frage.",
+    "ontological_commitments": "Neuronen, Symbole und die abstrakten Muster, die sie auf höheren Ebenen bilden, einschließlich selbstbezüglicher Schleifen und verschlungener Hierarchien.",
+    "epistemic_access": "Formale Analogie (Gödels Unvollständigkeitssätze), Kognitionswissenschaft und Nachdenken über Selbstbezug, nicht spezifische Neurobiologie.",
+    "constituents_and_structure": "Eine verschlungene Hierarchie von Symbolen ohne klare oberste oder unterste Ebene, durch die Repräsentationen von Repräsentationen in sich selbst zurücklaufen."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Selbstgewahrsein; das Selbst; Willensfreiheit (als wahrgenommene Illusion); durch Ausdehnung phänomenales Bewusstsein",
+    "distinctive_mechanism_or_principle": "Die seltsame Schleife: Wer konsequent auf- oder absteigt durch die Abstraktionsebenen, gelangt verwandelt wieder zum Ausgangspunkt des Systems, wodurch Selbstbezug entsteht.",
+    "dynamics_of_emergence": "Bewusstsein ist abgestuft statt alles-oder-nichts und vertieft sich, je ausgefeilter das symbolische Selbstmodell wird. Menschen haben komplexe Schleifen, andere Tiere womöglich einfachere oder flachere.",
+    "location_and_distribution": "Im Gehirn, aber als abstrakte Schleife und nicht als physischer Schaltkreis. Hofstadter bindet sie nicht an bestimmte neuronale Strukturen.",
+    "causation_and_functional_role": "Abwärtskausalität: Das emergente ‚Ich‘ beeinflusst die Neuronen, aus denen es entsteht, was das Erleben von Handlungsfähigkeit und Willensfreiheit hervorbringt, obwohl Hofstadter die Willensfreiheit für eine Illusion hält.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Das Gehirn baut Repräsentationen seiner selbst und seiner Erfahrungen auf, einschließlich Repräsentationen dieser Repräsentationen; diese rekursive Modellierung bildet die Schleife.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Bewusstsein entsteht aus der brodelnden Aktivität niedrigerer Ebenen des Gehirns, so wie das Leben aus der Chemie der Zelle entsteht.",
+      "Gödels Unvollständigkeitssätze zeigen, wie ein formales System Aussagen enthalten kann, die sich auf sich selbst beziehen, ein Modell für das Selbst.",
+      "Das Selbst ist ein dynamisches Muster und keine feste Substanz, das durch jede neue Erfahrung aufgebaut wird.",
+      "Selbstbezügliche Bedeutungen der höheren Ebene können ebenso kausal real sein wie die physikalischen Regeln der niedrigen Ebene des Systems."
+    ],
+    "basis_of_belief_or_evidence_type": "Theoretische und computergestützte Argumentation, gestützt auf mathematische Logik und Kognitionswissenschaft"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spekulativ",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Kritiker fragen, ob allein abstrakte Rückkopplung den Reichtum subjektiver Erfahrung und Handlungsfähigkeit erklären kann. Abwärtskausalität ist umstritten, und die Beschreibung des Selbst als zugleich Illusion und kausal wirksam lässt eine scheinbare Spannung bestehen.",
+    "open_questions_and_limitations": "Hofstadter nennt die neurobiologischen Strukturen nicht, die seltsame Schleifen umsetzen, und die Theorie legt keine messbaren Kriterien dafür fest, wann eine Schleife bewusst ist.",
+    "ontological_coherence": "Kohärent innerhalb des nicht-reduktiven Physikalismus. Sie verwirft sowohl den Dualismus als auch den strikten Reduktionismus, indem sie das ‚Ich‘ als real und kausal wirksam, zugleich aber als emergent behandelt."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Wahrscheinlich",
+      "rationale": "Da Bewusstsein ein abstraktes Muster von Selbstbezug ist und keine Eigenschaft eines bestimmten Substrats, sollte ein hinreichend reichhaltiges selbstmodellierendes Symbolsystem in einer Maschine es hervorbringen."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Da das Selbst ein Muster ist, das durch Hirnaktivität getragen wird, endet es, wenn diese Aktivität endet."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Das Selbst ist ein sich selbst erfindendes Muster innerhalb eines physikalischen Systems; Bedeutung entsteht aus diesem Muster und nicht aus einem kosmischen Zweck."
+    },
+    "virtual_immortality": {
+      "stance": "Möglich",
+      "rationale": "Wenn Identität ein Muster und keine Substanz ist, könnte die Reproduktion des Musters in einem anderen Medium das Selbst grundsätzlich bewahren."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Azarian’s Self-Modeling Strange Loop Theory", "relationship": "Erweiterung" },
+      { "name": "Ellis's Strong Emergence and Top-Down Causation", "relationship": "Überschneidung" },
+      { "name": "Dennett's Multiple Drafts Model", "relationship": "Vereinbar" },
+      { "name": "Metzinger's No-Self Representational Theory of Subjectivity", "relationship": "Überschneidung" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Gödel, Escher, Bach: An Eternal Golden Braid, Douglas Hofstadter", "year": 1979 },
+      { "title_with_names": "I Am a Strange Loop, Douglas Hofstadter", "year": 2007 },
+      { "title_with_names": "Hofstadter’s Strange Loops, Landscape of Consciousness, Robert Lawrence Kuhn" }
+    ]
+  }
+}

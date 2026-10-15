@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Llinás’ Theorie des Mindness-Zustands der Oszillationen",
     "summary": "Diese Theorie postuliert, dass der bewusste \"Mindness-Zustand\" grundlegend durch elektrische Oszillationen innerhalb von Neuronen und die daraus resultierende simultane Aktivität über weit entfernte neuronale Gruppen hinweg erzeugt wird, was die neurobiologische Wurzel der Kognition bildet. Sie legt nahe, dass die erfahrene Realität eine Art virtuelle Realität ist, die durch diese internen Oszillationen erzeugt wird, deren primäre Funktion darin besteht, Vorhersage zu ermöglichen.",
-    "associated_thinkers": ["Rodolfo Llinas"],
-    "category": "Materialismus-Theorien",
-    "subcategory": "Elektromagnetisches Feld",
+    "associated_thinkers": [
+      "Rodolfo Llinas"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Elektromagnetisch",
     "core_identity_tagline": "‚Bewusstsein als neuronale Oszillationen und Vorhersage‘",
     "classification_tags": [
       "neurobiology",
@@ -72,19 +74,19 @@
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Electromagnetic Field Theories",
+        "name": "Electromagnetic",
         "relationship": "Kategoriezugehörigkeit/Überschneidung"
       },
       {
-        "name": "Predictive Processing Theories",
+        "name": "Predictive Theories (Top-Down)",
         "relationship": "Überschneidung/Erweiterung"
       },
       {
-        "name": "Recurrent Processing Theory (Lamme)",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "Überschneidung"
       },
       {
-        "name": "Dendritic Integration Theory (Aru et al.)",
+        "name": "Dendritic Integration Theory",
         "relationship": "Überschneidung"
       }
     ],

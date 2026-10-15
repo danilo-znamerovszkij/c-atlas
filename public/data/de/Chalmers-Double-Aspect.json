@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Chalmers’ Doppelaspekt-Theorie der Information",
+    "summary": "David Chalmers schlägt vorsichtig vor, dass Information ontologisch fundamental ist und zwei Aspekte hat: einen physischen Aspekt, verwirklicht in Systemen wie Gehirnen und Computern, und einen phänomenalen Aspekt, verwirklicht als subjektive Erfahrung. Wo immer ein Informationsraum in Erfahrung verwirklicht ist, ist derselbe Raum physisch verwirklicht; Information dient daher als gemeinsame Währung zwischen dem Physischen und dem Phänomenalen.",
+    "associated_thinkers": ["David Chalmers"],
+    "category": "Integrierte Info",
+    "subcategory": "",
+    "core_identity_tagline": "Information mit einem physischen und einem phänomenalen Gesicht",
+    "classification_tags": ["information", "double-aspect", "hard problem", "naturalistic dualism", "neutral monism"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein ist der phänomenale Aspekt der Information; derselbe Informationszustand, der in einem physischen Substrat verwirklicht ist, ist auch in Erfahrung verwirklicht.",
+    "ontological_status": "Doppelaspekt-Monismus (informationsbasiert)",
+    "mind_body_relationship": "Physische Prozesse und Erfahrung sind zwei Verwirklichungen eines einzigen Informationsraums. Der Vorschlag wird als eine Möglichkeit angeboten, Chalmers’ naturalistischen Dualismus zu tragen, in dem physische Prozesse Erfahrung hervorbringen, ohne mit ihr identisch zu sein.",
+    "primitive_or_emergent_status": "Primitiv",
+    "emergence_type": "Nicht zutreffend (Information und ihr phänomenaler Aspekt werden als fundamental und nicht als abgeleitet behandelt)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Qualia sind die intrinsische, erlebte Seite von Informationszuständen. Die Struktur einer Erfahrung entspricht der Struktur der Information, die in ihrem physischen Substrat verwirklicht ist.",
+    "ontological_commitments": "Informationsräume als fundamental, mit physischen und phänomenalen Aspekten; physische Systeme, sowohl lebendige als auch künstliche.",
+    "epistemic_access": "Durch philosophische Analyse der strukturellen Entsprechung zwischen Erfahrung und ihrem physischen Substrat.",
+    "constituents_and_structure": "Informationsräume und -zustände, von denen jeder zweifach verwirklicht ist: einmal physisch und möglicherweise einmal phänomenal."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal",
+    "distinctive_mechanism_or_principle": "Doppelte Verwirklichung: Derselbe Informationsraum ist physisch und phänomenal verwirklicht, und Chalmers schlägt vor, dass dieses ‚doppelte Leben‘ die grundlegende Verbindung zwischen physischen Prozessen und Erfahrung sein könnte.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Wo immer Information physisch verwirklicht ist, besteht die Möglichkeit von Erfahrung, daher ist Erfahrung prinzipiell nicht auf Gehirne beschränkt.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Information ist der Brückenbegriff: Wo bewusste Erfahrung ist, ist Information, und wo Information ist, besteht die Möglichkeit bewusster Erfahrung.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Wann immer ein Informationsraum phänomenal verwirklicht ist, ist derselbe Raum physisch verwirklicht.",
+      "Information kann als gemeinsame Währung zwischen dem Physischen und dem Phänomenalen behandelt werden.",
+      "Diese Doppelaspekt-Ontologie greift Gedanken auf, die von Spinoza bis zu Russells neutralem Monismus reichen.",
+      "Scheitert die Theorie, könnte der naturalistische Dualismus dennoch aus einem anderen Prinzip wahr sein."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch (apriorische Argumentation aus dem schweren Problem und der strukturellen Kohärenz zwischen Geist und Gehirn)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spekulativ",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Chalmers selbst nennt die Theorie spekulativ und fragt, wie ernst die Rede vom Doppelaspekt zu nehmen ist und ob sie Information verdinglicht. Wenn jeder Informationszustand potenzielle Erfahrung trägt, verbreitet die Auffassung Erfahrung sehr weit.",
+    "open_questions_and_limitations": "Chalmers lässt offen, ob das Physische, das Phänomenale oder beides ontologisch vom Informationellen abhängt und welche Informationszustände tatsächlich erlebt werden.",
+    "ontological_coherence": "Sie fügt sich in die Traditionen des neutralen Monismus und des Russellschen Monismus ein und dient Chalmers’ naturalistischem Dualismus, auch wenn dieser nicht von ihr abhängt."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Möglich",
+      "rationale": "Information ist in Computern ebenso verwirklicht wie in Neuronen, und wo Information ist, besteht die Möglichkeit von Erfahrung."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Möglich",
+      "rationale": "Wenn Erfahrung der Informationsstruktur folgt, würde ein System, das denselben Informationsraum wie ein Gehirn verwirklicht, dieselbe Erfahrung verwirklichen."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Grundlage" },
+      { "name": "Russellian Monism", "relationship": "Einfluss" },
+      { "name": "Spinoza’s One Reality: Embodied Mind and Graded Consciousness", "relationship": "Einfluss" },
+      { "name": "Integrated Information Theory", "relationship": "Überschneidung" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Chalmers’ Double-Aspect Theory of Information, David Chalmers", "year": 1996 }
+    ]
+  }
+}

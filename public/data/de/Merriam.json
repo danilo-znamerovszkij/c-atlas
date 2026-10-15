@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Merriams Qualia-Kalkül als logische Primitiva",
+    "summary": "Paul Merriams Kalkül der Qualia ist ein formales System mit nichtreferenziellen Termen wie █, die eine Erfahrung unmittelbar im Gewahrsein präsentieren, statt sich auf sie zu beziehen. Nach dieser Auffassung sind Qualia logische Primitiva, unauflösbar und nicht weiter erklärbar, und Merriam argumentiert, dass angemessene Theorien des Geistes solche präsentationalen Terme neben den gewöhnlichen referenziellen benötigen.",
+    "associated_thinkers": ["Paul Merriam", "Mohammed A. Z. Habeeb"],
+    "category": "Herausforderung",
+    "subcategory": "",
+    "core_identity_tagline": "Qualia als nichtreferenzielle logische Primitiva",
+    "classification_tags": ["qualia", "formal logic", "non-referential terms", "zombie argument", "hard problem"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Qualia sind logische Primitiva, deren Bedeutung ihre eigene Präsentation ist. Ein nichtreferenzieller Term wie █ instanziiert das Quale, wenn er auftritt; er bezeichnet es nicht.",
+    "ontological_status": "Qualia-Realismus (logischer Primitivismus)",
+    "mind_body_relationship": "Das harte Problem wird zu der Frage ‚Warum ist der physische Prozess p mit █ korreliert?‘, und Merriam deutet an, dass Antworten erfahrungsbezogene Pfade einschließen würden, etwa indem ein referenzieller Gedanke des Gehirns in █ überführt wird.",
+    "primitive_or_emergent_status": "Primitiv",
+    "emergence_type": "Nicht emergent; Qualia sind unauflösbare Primitiva, deren intrinsische Natur nicht weiter erklärt werden kann.",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Referenzielle Wörter wie ‚Schwärze‘ abstrahieren vom Quale, während █ es präsentiert. Jedes Quale wirft daher ein eigenes, unterschiedliches hartes Problem auf.",
+    "ontological_commitments": "Qualia als reale, unauflösbare Primitiva; zwei semantische Typen von Termen, referenziell und nichtreferenziell.",
+    "epistemic_access": "Unmittelbare Präsentation im Gewahrsein, formal erfasst durch nichtreferenzielle Terme.",
+    "constituents_and_structure": "‚Qualationen‘ (Ausdrücke, die nichtreferenzielle Terme enthalten) gehorchen eigenen Regeln: Instanzen kollabieren bei Addition nicht (█ + █ bleibt zwei Instanzen), und ein zitierter Term ist gleich dem, was er präsentiert (‚█‘ = █), anders als ‚Schwärze‘."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal (Qualia)",
+    "distinctive_mechanism_or_principle": "Nichtreferenzielle, präsentationale Terme. Ein Benennungskalkül mit Namens- und Referenzoperatoren kollabiert für solche Terme, und das Referenzschranken-Theorem zeigt, dass keine wohlgeformte Qualation einen referenziellen Term mit einem nichtreferenziellen gleichsetzen kann.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "Der Kalkül ist nichtkausal: Reize ermöglichen nichtreferenzielle Terme, definieren sie aber nicht, was ihn gegen kausale Bedeutungstheorien stellt.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Merriam weist die Reduktion der Qualia auf Inhalte durch den Repräsentationalismus zurück. Nur referenzielle Terme zu verwenden, sei ‚wie Musiknotation auf Notenpapier zu benutzen, ohne je die tatsächliche Musik zu hören‘.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Sprachen von Frege bis Husserl und Heidegger sind an Referenz gebunden und können daher die Unmittelbarkeit der Qualia nicht erfassen.",
+      "Eine duale Wahrheitstheorie trennt referenzielle Wahrheit (Korrespondenz) von präsentationaler Wahrheit (zutreffende Instanziierung), und das Wahrheitsschranken-Theorem besagt, dass kein Term beide besitzt.",
+      "Das Zombie-Argument löst sich auf: Zu sagen, ein Zombie fehle █, erfordert, █ zu präsentieren, sodass seine Abwesenheit nicht kohärent behauptet werden kann.",
+      "Strategien über phänomenale Begriffe und Anführungszeichen bleiben referenziell und können daher nach der Referenzschranke die Präsentation nicht erfassen."
+    ],
+    "basis_of_belief_or_evidence_type": "Formale Logik und Sprachphilosophie."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Begrifflich prüfbar",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Merriam stellt das Zombie-Ergebnis als logische Auflösung dar, nicht als empirische Widerlegung. Der Kalkül besagt, dass Qualia unauflösbar sind, erklärt aber nicht, warum physische Prozesse mit ihnen korrelieren.",
+    "open_questions_and_limitations": "Da jedes Quale sein eigenes hartes Problem erzeugt, vervielfacht der Kalkül die Erklärungsziele, statt sie zu schließen.",
+    "ontological_coherence": "Merriam vergleicht den Kalkül mit komplexen Zahlen: Er fügt Ausdruckskraft hinzu, ohne frühere Systeme zu verneinen. Gegen den Illusionismus bekräftigt er die Realität der Qualia."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Kritik" },
+      { "name": "Frankish’s Illusionism", "relationship": "Kontrast" },
+      { "name": "Husserl’s Transcendental Phenomenology", "relationship": "Kontrast" },
+      { "name": "Lewis’s Analytic Functionalism and Causal-Role Identity Theory", "relationship": "Kontrast" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Merriam’s Calculus of Qualia as Logical Primitives (Landscape of Consciousness entry), Paul Merriam and Mohammed A. Z. Habeeb", "year": 2022 }
+    ]
+  }
+}

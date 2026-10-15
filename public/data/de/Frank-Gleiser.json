@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "Frank/Gleiser/Thompsons „The Blind Spot“",
     "summary": "Dieser Rahmen kritisiert traditionelle materialistische und dualistische Ansätze, indem er den wechselseitigen Primat von Bewusstsein und Verkörperung behauptet und argumentiert, dass jede wissenschaftliche Untersuchung notwendigerweise innerhalb des „Horizonts des Bewusstseins“ stattfindet. Er definiert das „schwere Problem“ als Artefakt des „blinden Flecks“ — des Versäumnisses, die irreduzible Vorbedingung der Erfahrung bei der Suche nach objektiver Wahrheit anzuerkennen — und schlägt eine radikale Hinwendung zur Neurophänomenologie vor.",
-    "associated_thinkers": ["Adam Frank", "Marcello Gleiser", "Evan Thompson"],
-    "category": "Materialismus-Theorien",
-    "subcategory": "Verkörpert und enaktiv",
+    "associated_thinkers": [
+      "Adam Frank",
+      "Marcello Gleiser",
+      "Evan Thompson"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Verkörpert",
     "core_identity_tagline": "Bewusstsein als irreduzible Vorbedingung und verkörperte seltsame Schleife",
     "classification_tags": [
       "embodiment",
@@ -63,13 +67,22 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Neurophenomenology", "relationship": "Unterstützung/Erweiterung" },
-      { "name": "Embodied and Enactive Theories", "relationship": "Übereinstimmung" },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Unterstützung/Erweiterung"
+      },
+      {
+        "name": "Embodied",
+        "relationship": "Übereinstimmung"
+      },
       {
         "name": "Reductionism/Physicalism",
         "relationship": "Kritik/Ablehnung"
       },
-      { "name": "Francisco Varela’s work", "relationship": "Einfluss" }
+      {
+        "name": "Francisco Varela’s work",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
       {

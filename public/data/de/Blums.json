@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "Blums’ Bewusste Turingmaschine",
+    "summary": "Lenore, Manuel und Avrim Blum vertreten die Auffassung, dass Bewusstsein, sowohl Zugang als auch phänomenales Bewusstsein, computational ist und sich in einem formalen Maschinenmodell erfassen lässt, der Bewussten Turingmaschine (CTM). In der CTM konkurrieren unbewusste Prozessoren darum, einen Informationsbrocken auf eine ‚Bühne‘ für einen einzigen Eintrag zu bringen, der an alle von ihnen gesendet wird. Die Maschine fühlt etwas, wenn jeder Prozessor diese Sendung mit seinem selbstgebauten Weltmodell abgleicht, das sie für die Welt selbst hält.",
+    "associated_thinkers": [
+      "Lenore Blum",
+      "Manuel Blum",
+      "Avrim Blum"
+    ],
+    "category": "Materialismus",
+    "subcategory": "Komputational",
+    "core_identity_tagline": "Bewusstsein als Sendung und Prüfung von Brocken aus dem Weltmodell",
+    "classification_tags": [
+      "theoretical computer science",
+      "global workspace",
+      "world model",
+      "machine consciousness",
+      "formal model"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein ist ein computationaler Prozess. Bewusste Aufmerksamkeit ist der gleichzeitige Empfang eines gesendeten Brockens durch alle Prozessoren; bewusstes Gewahrsein ist, dass alle Prozessoren diesen Brocken gleichzeitig prüfen, wobei seine Bedeutung im Weltmodell der Maschine gründet.",
+    "ontological_status": "Physikalismus (computationaler Funktionalismus)",
+    "mind_body_relationship": "Der Geist ist die Organisation von Berechnung, unabhängig vom Substrat. Die CTM macht absichtlich keine Aussage darüber, welche Hirnareale welche Funktionen realisieren, sodass dasselbe Modell auf Gehirne und Maschinen anwendbar ist.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz (subjektives Erleben folgt aus einer definierten Architektur plus einem formulierten Axiom)",
+    "subjectivity_and_intentionality": "Die CTM ist nur ihres eigenen Weltmodells gewahr, nie der Welt unmittelbar, und sie behandelt das Modell als Wirklichkeit. Ihr Selbstgefühl entsteht aus der Benennung von Skizzen im Modell: Eine Skizze eines Aktors, den sie durch Denken bewegen kann, erhält die Bezeichnung SELBST, und später benennt die Maschine ihre eigene Skizze BEWUSST, was das Gefühl hervorruft, bewusst zu sein.",
+    "qualia_account": "Axiom A besagt, dass die Prüfung eines gesendeten Brockens eine einzigartige subjektive Erfahrung hervorruft, deren Intensität und Valenz aus dem Gewicht des Brockens stammen. Brocken mit leeren Kerngedanken rufen ursprüngliche Erfahrungen hervor (etwa Schmerz aus einer ausfallenden ‚Sauerstoffanzeige‘), und reichere Erfahrungen sind Verschmelzungen der Erfahrungen, die die Brainish-Wörter in einem Kerngedanken hervorrufen.",
+    "ontological_commitments": "Prozessoren, Brocken, eine Kurzzeitspeicher-Bühne, Wettbewerbs- und Sendebäume, hebbähnliche Verbindungen zwischen Prozessoren, Sensoren und Aktoren, ein Weltmodell und eine interne multimodale Sprache namens Brainish.",
+    "epistemic_access": "Durch formale Definitionen, Sätze und Beweise sowie durch den Vergleich des Verhaltens des Modells mit bekannten Phänomenen menschlichen Bewusstseins.",
+    "constituents_and_structure": "Ein 7-Tupel: Kurzzeitgedächtnis (KZG, die Bühne), Langzeitgedächtnis (LZG, eine riesige Menge unbewusster Prozessoren), ein Aufwärtsbaum für den Wettbewerb, ein Abwärtsbaum für die Sendung, Verbindungen zwischen Prozessoren und Ein- und Ausgabeabbildungen zu Sensoren und Aktoren. Die Zeit verläuft in diskreten Takten über eine endliche Lebensspanne."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Zugang (bewusste Aufmerksamkeit); phänomenal (bewusstes Gewahrsein); Selbstgewahrsein; das Gefühl, bewusst zu sein",
+    "distinctive_mechanism_or_principle": "Ein probabilistisches Turnier nach dem Prinzip ‚der Sieger nimmt alles‘ den binären Baum hinauf, bei dem die Gewinnchance jedes Brockens gleich seinem Gewicht geteilt durch das Gesamtgewicht aller Einträge ist. Der Sieger wird an jeden Prozessor gesendet, und bewusstes Gewahrsein tritt ein, wenn alle Prozessoren ihn im selben Takt prüfen.",
+    "dynamics_of_emergence": "Bewusstsein entwickelt sich im Laufe des Lebens der Maschine. Eine neugeborene CTM hat ein nebliges Weltmodell, das Selbst und Welt nicht trennt; Brainish-Wörter und benannte Skizzen entwickeln sich zusammen mit der Erfahrung, von ursprünglichen Wörtern wie BLOB und SCHMERZ bis zu SELBST und BEWUSST.",
+    "location_and_distribution": "Verteilt über alle Prozessoren im LZG, die dieselbe Sendung empfangen; das KZG hält jeweils nur einen Brocken. Eine bestimmte Stelle im Gehirn wird nicht behauptet.",
+    "causation_and_functional_role": "Die Sendung lässt jeden Prozessor wissen, was gewonnen hat, wie wichtig es war und wie hoch das durchschnittliche Gewicht des Wettbewerbs ist; dies kalibriert das spätere Handeln. Prozessoren versuchen, Brocken mit hohem Gewicht zu entfalten und stark negative Gewichte zu verringern. Der faire, dezentrale Wettbewerb ersetzt die undefinierte ‚zentrale Exekutive‘ anderer Theatermodelle.",
+    "integration_or_binding": "Ein Brainish-Kerngedanke verschmilzt multimodalen Inhalt (die rote Farbe einer Rose, ihren süßen Duft, weiche Blütenblätter, erinnerte Begegnungen) zu einer einzigen Bezeichnung. Alle Prozessoren teilen ein identisches globales Wörterbuch der gesendeten Brocken.",
+    "information_flow_or_representation": "Jeder Brocken trägt eine Prozessoradresse, eine Zeit, einen kurzen Brainish-Kerngedanken, ein vorzeichenbehaftetes Gewicht und Zusatzdaten, die beim Aufsteigen durch den Baum globalen Kontext ansammeln. Brainish-Wörter sind Zeiger auf frühere gesendete Brocken, die die Blums mit Schlüsseln und Werten im maschinellen Lernen vergleichen.",
+    "evolutionary_account": "Innerhalb einer CTM entwickeln sich Brainish und das Weltmodell während ihrer Lebenszeit gemeinsam; auch die Spezialisierungen der Prozessoren entwickeln sich. Die Blums setzen dies in Einklang mit evolutionären Theorien wie der von Nick Humphrey.",
+    "core_claims_and_evidence": [
+      "Ein Satz zeigt, dass die Gewinnchance eines Brockens sein Gewicht geteilt durch das Gesamtgewicht aller Einträge ist, unabhängig davon, wo die Prozessoren im Baum sitzen.",
+      "Die CTM reproduziert Unaufmerksamkeitsblindheit, Veränderungsblindheit und eine Libet-artige Verzögerung zwischen dem Eintritt eines Brockens in den Wettbewerb und seiner Sendung.",
+      "Falsch benannte Skizzen im Weltmodell erzeugen Analoga des Phantomgliedsyndroms, der Körperintegritätsstörung und der Paranoia.",
+      "Die CTM stimmt auf hoher Ebene mit der Theorie des globalen Arbeitsraums, der Aufmerksamkeitsschema-Theorie, dem prädiktiven Verarbeiten, der verkörperten Kognition und der integrierten Informationstheorie überein.",
+      "Die CTM sagt voraus, dass eine zentrale Exekutive für Bewusstsein nicht notwendig ist, und daher hat das Gehirn keine."
+    ],
+    "basis_of_belief_or_evidence_type": "Formal und mathematisch (theoretische Informatik), gestützt auf die qualitative Übereinstimmung mit bekannten Merkmalen menschlichen Bewusstseins."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell prüfbar",
+    "known_empirical_interventions_or_tests": "Die Blums argumentieren, dass die CTM baubar ist. Ihre Vorhersage, dass das Gehirn keine zentrale Exekutive hat, ließe sich an der Neurowissenschaft überprüfen.",
+    "criticisms_and_tensions": "Kritiker fragen, ob formale Definitionen und Symbolverarbeitung das gefühlte Erleben erfassen können. Subjektive Erfahrung tritt durch Axiom A ein, daher ruht die Darstellung des Fühlens auf einer Annahme. Anil Seth und Nick Humphrey, deren Auffassungen sich mit der CTM überschneiden, vertreten, dass Bewusstsein einen lebenden Organismus erfordert, was die Blums zurückweisen.",
+    "open_questions_and_limitations": "Die CTM ist, wie die Blums selbst sagen, zu einfach, um das Gehirn zu modellieren. Ob das Prüfen eines Brockens Erfahrung hervorbringt oder nur seine Rolle modelliert, bleibt offen.",
+    "ontological_coherence": "Innerhalb des computationalen Funktionalismus konsistent. Sie steht dem Illusionismus von Daniel Dennett und Keith Frankish nahe, auch wenn die Blums davon sprechen, ‚was es ist, so zu sein‘ zu erklären, statt es zu leugnen."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ja",
+      "rationale": "Die Blums argumentieren, dass die CTM baubar ist und dass sie KI-Bewusstsein plausibel, ja unvermeidlich macht."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Da Bewusstsein hier ein computationaler Prozess mit endlicher Lebensspanne ist, endet es, wenn die Maschine oder das Gehirn aufhört zu laufen."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Die Theorie erklärt Bewusstsein als Berechnung und setzt keinen kosmischen Zweck voraus."
+    },
+    "virtual_immortality": {
+      "stance": "Möglich",
+      "rationale": "Ist Bewusstsein eine substratunabhängige Berechnung, folgt aus der Auffassung, dass die gleichen Prozesse in einer anderen Maschine reproduziert werden könnten, obwohl die Blums dies nicht behandeln."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Seth's \"Beast Machine\" Theory",
+        "relationship": "Kontrast"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Lenore, Manuel, and Avrim Blum’s Conscious Turing Machine (Landscape of Consciousness), Lenore Blum, Manuel Blum, Avrim Blum",
+        "year": 2022
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id_and_class": {
+    "theory_title": "Quines sprachliche Herabstufung des phänomenalen Bewusstseins",
+    "summary": "W. V. O. Quine bot keine Theorie des Bewusstseins an, doch seine Sprachphilosophie stuft das Phänomenale in eine „Idiom zweiten Grades“ herab: im Alltagsgespräch verwendbar, aber aus der extensionalen, öffentlichen Sprache ausgeschlossen, in der er die wahre Struktur der Wirklichkeit beschrieben sah. Da Bedeutung ganz in Dispositionen zu sprachlichem Verhalten unter beobachtbaren Umständen besteht, gibt es keinen privaten inneren Gehalt, über den Wörter für Erfahrung berichten könnten. Quine bestreitet nicht, dass Qualia existieren; er bestreitet ihrem Vokabular nur jede grundlegende Rolle.",
+    "associated_thinkers": ["Willard Van Orman Quine"],
+    "category": "Materialismus",
+    "subcategory": "Sprache",
+    "core_identity_tagline": "Qualitätssprache als abgeleitetes Idiom zweiten Grades",
+    "classification_tags": ["behaviorism", "extensionality", "radical translation", "naturalism", "philosophy of language"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Quine macht keine Identitätsbehauptung über Bewusstsein. Er behandelt das Vokabular subjektiver Qualität als abgeleitetes Idiom, aufgebaut aus öffentlichen Vergleichen, ohne Platz in der kanonischen wissenschaftlichen Beschreibung.",
+    "ontological_status": "Physikalismus (naturalistisch, behavioristisch)",
+    "mind_body_relationship": "Mentalistische Idiome werden, wo möglich, als Relationen zu Sätzen umgedeutet, und sonst aus der ernsthaften Ontologie herausgelassen; die Leib-Seele-Frage wird also durch die Regimentierung der Sprache behandelt und nicht durch die Annahme mentaler Entitäten.",
+    "primitive_or_emergent_status": "Keines von beiden",
+    "emergence_type": "Nicht anwendbar (Quine bietet keine Darstellung, wie Bewusstsein entsteht; er begrenzt, was das Reden darüber zur Ontologie beitragen darf)",
+    "subjectivity_and_intentionality": "Intentionale Idiome wie Glaube und Wunsch sind referenziell opak, widersetzen sich der Ersetzung koreferierender Ausdrücke, und Intensionen besitzen keine Identitätskriterien („keine Entität ohne Identität“). Was spezifisch aus der ersten Person stammt, fällt in das Idiom zweiten Grades.",
+    "qualia_account": "Qualitäten sind echt, ihr Vokabular ist aber sekundär: Wir beschreiben eine Farbe als orange oder einen Geruch als nach faulen Eiern, indem wir auf öffentliche Dinge verweisen. Sinnesdaten sind eine späte, stark physikgeprägte Konstruktion, die durch Reflexion erreicht wird, und kein Ausgangspunkt des Wissens.",
+    "ontological_commitments": "Physische Gegenstände, beschreibbar in extensionaler Sprache, und die Dispositionen der Sprecher, unter beobachtbaren Umständen zuzustimmen oder abzulehnen; keine Bedeutungen, Propositionen oder Intensionen.",
+    "epistemic_access": "Nur durch öffentliches Verhalten: Bedeutung und damit jedes Reden über Erfahrung wird durch das bestimmt, was sich aus offenem Verhalten unter beobachtbaren Umständen entnehmen lässt.",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Der semantische und ontologische Status phänomenalen und intentionalen Redens; kein Mechanismus der Erfahrung.",
+    "distinctive_mechanism_or_principle": "Die „Flucht aus der Intension“, verbunden mit einer behavioristischen Semantik: Nur extensionale, öffentlich verankerte Sprache beschreibt die Wirklichkeit, und das Reden über Qualitäten erfüllt diesen Maßstab nicht.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Quine lehnt innere Bedeutungen und Gehalte ab; propositionale Einstellungen werden zu Relationen zu Sätzen, und Bedeutung erschöpft sich in öffentlich bedingten Dispositionen zu sprachlichem Verhalten.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Bei der radikalen Übersetzung entscheidet kein Verhaltensbeleg, ob „gavagai“ Kaninchen, nicht abgetrennter Kaninchenteil oder Kaninchenstadium bedeutet; es gibt also keine Tatsache der Bedeutung über das Verhalten hinaus.",
+      "Wenn gewöhnliche Wörter hinter ihrem öffentlichen Profil keine private Bedeutung tragen, können auch Wörter für Erfahrung keinen privaten inneren Gehalt berichten.",
+      "Intentionale und mentalistische Idiome sind referenziell opak und können daher nicht in die extensionale Sprache eingehen, die „die wahre und letzte Struktur der Wirklichkeit“ abbildet.",
+      "Phänomenales Bewusstsein erfordert keine Sprache, das Vokabular der Erfahrung hängt aber von der öffentlichen Sprache ab."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch: Logik und Sprachphilosophie, gegründet auf behavioristische Semantik und Naturalismus."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell prüfbar",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Der Nativismus der Jahrhundertmitte, angeführt von Chomskys Sprachfähigkeit, definierte sich teilweise in Abgrenzung zu Quines sprachlichem Behaviorismus. Searle dagegen behandelt Sprache und Bewusstsein als wechselseitig konstituierend.",
+    "open_questions_and_limitations": "Quine erklärt weder, warum neuronale Zustände gefühlt werden, noch, wie Sprache gefühlten Charakter erfassen könnte. Ob seine Herabstufung philosophische Hygiene oder eine verfrühte Verengung des Themas ist, bleibt umstritten.",
+    "ontological_coherence": "Vereinbar mit seinem Physikalismus und seiner naturalisierten Erkenntnistheorie. Sie ist milder als Eliminativismus oder Illusionismus, da er Qualia weder leugnet noch Bewusstsein einen Irrtum nennt."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ungewiss",
+      "rationale": "Quine befasst sich nicht mit Maschinen; seine behavioristische Semantik würde die Sprache einer Maschine nach ihren Dispositionen beurteilen, was aber nichts darüber sagt, ob sie erlebt."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Innerhalb von Quines physikalistischem Naturalismus gibt es nichts Nichtphysisches, das den Körper überdauern könnte."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Ein Naturalismus, der mit der empirischen Wissenschaft zusammenhängt, lässt keinen Raum für einen kosmischen Zweck."
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Quine’s Naturalized Mind and the Demoted Phenomenal", "relationship": "Erweiterung" },
+      { "name": "Wittgenstein's Grammatical Fiction", "relationship": "Überschneidung" },
+      { "name": "Chomsky's Language and Consciousness", "relationship": "Gegensatz" },
+      { "name": "Searle's Language and Consciousness", "relationship": "Gegensatz" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Word and Object, W. V. O. Quine", "year": 1960 },
+      { "title_with_names": "Indeterminacy of Translation Again, W. V. O. Quine", "year": 1987 },
+      { "title_with_names": "Two Dogmas of Empiricism, W. V. O. Quine", "year": 1951 },
+      { "title_with_names": "Why Only Us: Language and Evolution, R. C. Berwick and N. Chomsky", "year": 2016 }
+    ]
+  }
+}

@@ -2,9 +2,10 @@
   "id_and_class": {
     "theory_title": "Varelas Neurophänomenologie",
     "summary": "Die Neurophänomenologie ist ein methodologischer Ansatz, der wechselseitige Beschränkungen zwischen den in der gelebten Erfahrung vorhandenen Phänomenen der ersten Person (Phänomenologie) und den von den Kognitionswissenschaften ermittelten neuronalen Phänomenen der dritten Person herzustellen sucht. Ziel ist es, rigorose Wissenschaft mit einer disziplinierten Untersuchung menschlicher Erfahrung zu vermählen und die Struktur der Erfahrung in den Mittelpunkt der wissenschaftlichen Untersuchung zu stellen.",
-    "associated_thinkers": ["Francisco Varela"],
-    "category": "Materialismus",
-    "subcategory": "Verkörpert und enaktiv",
+    "associated_thinkers": [
+      "Francisco Varela"
+    ],
+    "category": "Phänomenologie",
     "core_identity_tagline": "Bewusstsein als wechselseitige Beschränkung von Erfahrung und Gehirn",
     "classification_tags": [
       "phenomenology",
@@ -12,7 +13,8 @@
       "embodied",
       "first-person",
       "dissolution"
-    ]
+    ],
+    "subcategory": ""
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein wird durch seine irreduzible Natur als Feld von Phänomenen aus erster Hand identifiziert, das als Leitfaden oder Beschränkung für die korrelative neurobiologische Untersuchung fungiert.",
@@ -72,11 +74,11 @@
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Thompson’s Mind in Life",
+        "name": "Thompson's Mind in Life",
         "relationship": "Erweiterung"
       },
       {
-        "name": "Bitbol’s Radical Neurophenomenology",
+        "name": "Bitbol's Radical Neurophenomenology",
         "relationship": "Erweiterung/Verfeinerung"
       },
       {

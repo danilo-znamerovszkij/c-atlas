@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "Davidsons anomaler Monismus",
     "summary": "Der anomale Monismus geht davon aus, dass jedes mentale Ereignis mit einem physischen Ereignis identisch ist (Token-Identität), und wahrt damit eine monistische Ontologie. Zugleich besteht die Theorie darauf, dass es keine strikten, ausnahmslosen Naturgesetze gibt, die mentale Begriffe (Typen) mit physischen Begriffen verbinden, woraus die Irreduzibilität der Psychologie auf die Physik folgt. Diese doppelte Behauptung löst den scheinbaren Konflikt zwischen mentaler Verursachung und der kausalen Vollständigkeit der physischen Welt auf.",
-    "associated_thinkers": ["Donald Davidson"],
-    "category": "Monismen",
+    "associated_thinkers": [
+      "Donald Davidson"
+    ],
+    "category": "Monismus",
     "subcategory": "Anomaler Monismus",
     "core_identity_tagline": "Mentale Token sind physisch, mentale Typen sind anomal",
     "classification_tags": [
@@ -70,15 +72,24 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Non-Reductive Physicalism", "relationship": "Überschneidung" },
-      { "name": "Property Dualism", "relationship": "Überschneidung" },
       {
-        "name": "Mind-Brain Identity Theory (Type Identity)",
+        "name": "Non-Reductive",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Mind-Brain Identity",
         "relationship": "Kritik"
       }
     ],
     "sources_and_references": [
-      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+      {
+        "title_with_names": "Thinking Causes, Donald Davidson",
+        "year": 1993
+      }
     ]
   }
 }

@@ -1,0 +1,80 @@
+{
+  "id_and_class": {
+    "theory_title": "Wigner–von Neumanns Bewusstseinskollaps: Erfahrung am Quantenschnitt",
+    "summary": "Die Theorie besagt, dass die lineare Quantendynamik allein niemals ein einziges bestimmtes Ergebnis hervorbringt und dass die Kette der Wechselwirkungen vom gemessenen System über das Messgerät bis zum Gehirn erst endet, wenn ein bewusster Beobachter eine Erfahrung hat. Von Neumann entwickelte den formalen Aufbau und zeigte, dass sich der Schnitt zwischen System und Beobachter frei verschieben lässt. Wigner zog daraus die ausdrückliche Schlussfolgerung, dass Bewusstsein den Kollaps verursacht, weil Erfahrung stets bestimmt ist und nie in Überlagerung vorliegt. Wigner gab die Auffassung später auf, doch wurde sie in mathematisch präziser Form wiederbelebt.",
+    "associated_thinkers": ["Eugene Wigner", "John von Neumann", "Fritz London", "Edmond Bauer"],
+    "category": "Quanten",
+    "subcategory": "",
+    "core_identity_tagline": "Bewusstsein als das, was die Quantenmessungskette beendet",
+    "classification_tags": ["measurement problem", "wave function collapse", "wigner's friend", "interactionism", "quantum mechanics"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Wigner definiert Bewusstsein phänomenal als „die Eigenschaft, Empfindungen zu haben“ und macht den Eintritt eines Eindrucks ins Bewusstsein zu dem Punkt, an dem eine quantenmechanische Überlagerung ein einziges bestimmtes Ergebnis wird.",
+    "ontological_status": "Wechselwirkungsdualismus",
+    "mind_body_relationship": "Physische Zustände wirken in der Wahrnehmung auf das Bewusstsein. Nach Wigners Prinzip der Wechselwirkung muss das Bewusstsein aber auf die physische Welt zurückwirken, was es bei der Messung tut. Von Neumann selbst nahm einen psychophysischen Parallelismus an und schrieb dem „abstrakten Ich“ des Beobachters keine kausale Kraft zu.",
+    "primitive_or_emergent_status": "Unklar",
+    "emergence_type": "Wigner nahm an, dass eine geeignete physikochemische Organisation Bewusstsein hervorbringt, wobei seine Reichhaltigkeit von der Komplexität seines Substrats abhängt. Dennoch gab er dem Bewusstsein eine grundlegende Rolle in der Quantendynamik und lieferte keine Erklärung, wie es entsteht.",
+    "subjectivity_and_intentionality": "Das Argument beruht auf einem Datum der ersten Person: Ein Beobachter erlebt stets ein bestimmtes Ergebnis. In Wigners Freund erstattet der Freund im Labor Bericht über eine bestimmte Erfahrung, obwohl er von außen beschrieben in Überlagerung sein müsste.",
+    "qualia_account": "Phänomenalität wird vorausgesetzt, nicht erklärt. Wigner fragt, wie physikochemische Bedingungen Empfindungen hervorbringen, bietet aber keinen Mechanismus für Röte, Schmerz oder Klang.",
+    "ontological_commitments": "Quantenzustände mit zwei Arten von Veränderung (kontinuierliche unitäre Entwicklung und diskontinuierliche Messung), bewusste Beobachter, deren Erfahrung stets bestimmt ist, und ein physischer Einfluss des Bewusstseins auf die Quantenentwicklung.",
+    "epistemic_access": "Durch Introspektion (die Bestimmtheit der eigenen Erfahrung) in Verbindung mit der formalen Analyse der Quantenmessung.",
+    "constituents_and_structure": "Eine Messkette, die vom Objekt über Instrument, Licht, Netzhaut, Sehnerv und Gehirn bis zur subjektiven Wahrnehmung reicht. Der Schnitt lässt sich an beliebiger Stelle entlang dieser Kette setzen."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Mentale Verursachung, das Messproblem der Quantenmechanik, die Bestimmtheit der Erfahrung.",
+    "distinctive_mechanism_or_principle": "Bewusstsein beendet die unitäre Entwicklung: Wenn ein Eindruck ins Bewusstsein tritt, wird eine kohärente Überlagerung zu einer statistischen Mischung bestimmter Alternativen. Wigner vermutete, dass die linearen Gleichungen der Quantenmechanik für bewusste Systeme versagen könnten.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Am Ende der Messkette, auf Seiten des Beobachters. Von Neumanns extremste Aufteilung lässt nur ein abstraktes Ich außerhalb der physischen Beschreibung. Stapp verortete die Wirkung später im Gehirn.",
+    "causation_and_functional_role": "Bewusstsein ist kausal wirksam: Es wählt eine bestimmte quantenmechanische Alternative aus oder bewirkt deren Auswahl und verändert so die spätere physische Entwicklung.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Wigner behandelt die Quantenmechanik als Verknüpfung von Wahrscheinlichkeiten zwischen aufeinanderfolgenden Eindrücken, die von Beobachtern registriert werden.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Von Neumann bewies, dass die Lage des Schnitts zwischen System und Beobachter die Vorhersagen der Theorie nicht ändert. Er muss jedoch irgendwo gesetzt werden, damit ein bestimmtes Ergebnis erscheint.",
+      "London und Bauer (1939) veröffentlichten erstmals die ausdrückliche Behauptung und verorteten die Auflösung im Vermögen der Introspektion des Beobachters.",
+      "Wigners Freund zeigt einen Konflikt zwischen einer überlagerten Beschreibung eines bewussten Beobachters und dessen Bericht über eine bestimmte Erfahrung.",
+      "Die Physik kennt keine Einwirkungen in nur eine Richtung. Wirkt also die Welt auf das Bewusstsein, muss das Bewusstsein auf die Welt zurückwirken."
+    ],
+    "basis_of_belief_or_evidence_type": "Theoretische Physik, verbunden mit einer phänomenologischen Prämisse über die Bestimmtheit der Erfahrung."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch prüfbar",
+    "known_empirical_interventions_or_tests": "Direkte experimentelle Tests haben keinen durch Bewusstsein verursachten Kollaps gefunden (Yu und Nikolić, 2011). Moderne Modelle des Bewusstseinskollapses, etwa Chalmers’ und McQueens Verbindung der IIT mit der kontinuierlichen spontanen Lokalisierung, sind grundsätzlich mit Quantencomputern prüfbar.",
+    "criticisms_and_tensions": "Dekohärenz (Zeh, Zurek) zeigt, wie die Verschränkung mit der Umgebung Interferenz lange vor Erreichen des Nervensystems unterdrückt, wodurch Bewusstsein überflüssig erscheint. Bell fragte, ob die Wellenfunktion der Welt Milliarden Jahre auf ein einzelliges Lebewesen gewartet habe oder auf jemanden mit Doktortitel. Konsequent angewandt droht die Argumentation im Solipsismus zu enden. Bohmsche, everettsche und objektive Kollapsdeutungen behandeln die Messung ohne Bewusstsein.",
+    "open_questions_and_limitations": "Die Theorie nennt kein Kriterium dafür, welche Systeme bewusst genug sind, um einen Kollaps zu verursachen. Daher kann sie nicht sagen, wann der Kollaps eintritt. Sie erklärt weder, warum Bewusstsein existiert, noch seinen qualitativen Charakter. Introspektion zeigt nur, dass die eigene gegenwärtige Erfahrung bestimmt ist.",
+    "ontological_coherence": "Als Wechselwirkungslehre, die auf Physik statt auf Metaphysik gründet, ist sie kohärent, obwohl sie auf einer Prämisse beruht, die die Physik nicht liefert. Wigner gab sie nach Zehs Arbeiten auf und wandte sich dem objektiven Kollaps zu. Spätere Theoretiker wie Penrose, Hameroff und Stapp behielten die Kopplung bei, kehrten aber ihre Richtung um."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unsicher",
+      "rationale": "Die Theorie bietet kein prinzipielles Kriterium dafür, welche physischen Systeme bewusst sind. Daher kann sie nicht sagen, ob eine Maschine bewusst wäre."
+    },
+    "survival_beyond_death": {
+      "stance": "Unwahrscheinlich",
+      "rationale": "Wigner nahm an, dass physikochemische Organisation Bewusstsein hervorbringt und seine Inhalte formt. Die Auffassung bietet daher keine Grundlage für Erfahrung ohne Körper."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Chalmers and McQueen’s Quantum Collapse", "relationship": "Erweiterung" },
+      { "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"", "relationship": "Erweiterung" },
+      { "name": "Penrose-Hameroff's Orchestrated Objective Reduction", "relationship": "Einfluss" },
+      { "name": "Interactive Dualism", "relationship": "Überschneidung" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Mathematical Foundations of Quantum Mechanics, John von Neumann", "year": 1932 },
+      { "title_with_names": "Remarks on the mind-body question, Eugene P. Wigner", "year": 1961 },
+      { "title_with_names": "The problem of measurement, Eugene P. Wigner", "year": 1963 },
+      { "title_with_names": "La théorie de l'observation en mécanique quantique, Fritz London and Edmond Bauer", "year": 1939 },
+      { "title_with_names": "Consciousness and the collapse of the wave function, David J. Chalmers and Kelvin J. McQueen", "year": 2022 }
+    ]
+  }
+}

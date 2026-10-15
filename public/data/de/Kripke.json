@@ -1,0 +1,83 @@
+{
+  "id_and_class": {
+    "theory_title": "Kripkes modales Argument gegen die Geist-Gehirn-Identität",
+    "summary": "Kripke argumentiert: Wäre Schmerz mit einem Gehirnzustand wie dem Feuern der C-Fasern identisch, müsste die Identität notwendig sein, doch sie erscheint kontingent. Bei Wasser und H2O lässt sich dieser Anschein wegerklären, Schmerz aber wird durch sein Gefühl bestimmt, und für eine Empfindung, die sich wie Schmerz anfühlt, ist es schon, Schmerz zu sein. Der Anschein der Kontingenz lässt sich daher nicht wegerklären, und die Identitätstheorie ist falsch.",
+    "associated_thinkers": ["Saul Kripke"],
+    "category": "Materialismus",
+    "subcategory": "Geist-Gehirn-Identität",
+    "core_identity_tagline": "Schmerz wird wesentlich gefühlt und ist daher kein Gehirnzustand",
+    "classification_tags": ["modal argument", "rigid designation", "necessary a posteriori", "identity theory", "conceivability"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Kripke bietet keine positive Darstellung dessen, was Bewusstsein ist. Seine Behauptung ist negativ: Ein bewusster Zustand wie Schmerz ist wesentlich durch seinen erlebten Charakter bestimmt und kann daher nicht mit einem Gehirnzustand identisch sein.",
+    "ontological_status": "Kritik der Identität (keine positive Ontologie)",
+    "mind_body_relationship": "Schmerz und das Feuern der C-Fasern sind nicht identisch. Das Argument lässt Korrelation, Supervenienz oder Realisierung offen, und Kripke baute darauf kein positives dualistisches System.",
+    "primitive_or_emergent_status": "Unklar",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "Bei Empfindungen gibt es keine Kluft zwischen Erscheinung und Wirklichkeit. Was sich wie Schmerz anfühlt, ist Schmerz; das erlebte Erleben des Subjekts bestimmt daher, was der Zustand ist.",
+    "qualia_account": "Der phänomenale Charakter ist für einen bewussten Zustand wesentlich. ‚Schmerz‘ bezieht sich auf seinen Referenten durch eine wesentliche Eigenschaft, seine unmittelbar erlebte Qualität, und nicht durch eine kontingente Art der Gegebenheit.",
+    "ontological_commitments": "Metaphysisch notwendige Identitäten, starre Designatoren, mögliche Welten und bewusste Zustände, die durch ihren erlebten Charakter individuiert sind.",
+    "epistemic_access": "Durch Denkbarkeit und modales Schließen, kombiniert mit der Vertrautheit der ersten Person damit, wie sich Empfindungen anfühlen.",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenal (Empfindungen wie Schmerz); die Metaphysik der psychophysischen Identität",
+    "distinctive_mechanism_or_principle": "Starre Designation und die Notwendigkeit der Identität. Bezeichnen ‚Schmerz‘ und ‚Feuern der C-Fasern‘ beide starr, dann muss ‚Schmerz = Feuern der C-Fasern‘, sofern wahr, notwendig sein, und der erlebte Charakter des Schmerzes blockiert den üblichen Weg, seine scheinbare Kontingenz wegzuerklären.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Ein starrer Designator bezieht sich in jeder möglichen Welt, in der er existiert, auf dasselbe Ding; Identitäten zwischen starren Designatoren wie ‚Wasser = H2O‘ sind daher, sofern wahr, notwendig, auch wenn sie nur a posteriori bekannt sind.",
+      "Der scheinbare Zufallscharakter gewöhnlicher wissenschaftlicher Identitäten wird wegerklärt, indem man sich etwas anderes vorstellt, das dieselbe oberflächliche Rolle spielt, etwa eine wässrige Substanz, die nicht H2O ist.",
+      "Diese Umdeutung scheitert bei Schmerz, denn alles, was sich wie Schmerz anfühlt, ist Schmerz; es gibt daher kein Doppelgänger-Szenario, auf das sich die Intuition umlenken ließe.",
+      "Wenn Schmerz und das Feuern der C-Fasern überhaupt getrennt erscheinen können, folgt aus der Notwendigkeit der Identität, dass sie getrennt sein können, also sind sie nicht identisch."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch (modale Metaphysik, Sprachphilosophie)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell prüfbar",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Scott Soames argumentiert, Kripke verwechsle epistemische mit metaphysischer Möglichkeit, sodass die scheinbare Trennbarkeit von Schmerz und dem Feuern der C-Fasern nur eine epistemische Lücke zeige. Materialisten vom Typ B, darunter Hill und McLaughlin, halten die Identität für metaphysisch notwendig, ohne a priori erkennbar zu sein. Andere bezweifeln, dass beide Begriffe tatsächlich starr sind.",
+    "open_questions_and_limitations": "Selbst wenn das Argument stichhaltig ist, widerlegt es nur die Identität. Es begründet keinen Dualismus und widerlegt auch keine physikalistischen Auffassungen, die auf Supervenienz oder Realisierung beruhen, wie Searle und andere betonen.",
+    "ontological_coherence": "Kohärent innerhalb der modalen Semantik Kripkes; sie hängt davon ab, dass die Denkbarkeit einer Trennung im phänomenalen Fall verlässlich die metaphysische Möglichkeit anzeigt."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Descartes’s Substance Dualism", "relationship": "Einfluss" },
+      { "name": "Smart’s Topic-Neutral Identity", "relationship": "Kritik" },
+      { "name": "Levine’s Explanatory Gap", "relationship": "Einfluss" },
+      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Einfluss" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Naming and Necessity, Saul A. Kripke", "year": 1980 },
+      { "title_with_names": "Meditations on First Philosophy, René Descartes", "year": 1641 },
+      { "title_with_names": "Materialism and Qualia: The Explanatory Gap, J. Levine", "year": 1983 },
+      { "title_with_names": "The Conscious Mind: In Search of a Fundamental Theory, D. J. Chalmers", "year": 1996 },
+      { "title_with_names": "There Are Fewer Things in Reality Than Are Dreamt of in Chalmers’s Philosophy, C. S. Hill and B. P. McLaughlin", "year": 1999 },
+      { "title_with_names": "Kripke on Mind–Body Identity, S. Soames", "year": 2015 },
+      { "title_with_names": "Kripke’s Argument Against Materialism (course handout), J. Speaks", "year": 2018 },
+      { "title_with_names": "Physicalism (Stanford Encyclopedia of Philosophy), D. Stoljar", "year": 2021 }
+    ]
+  }
+}

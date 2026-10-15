@@ -2,9 +2,10 @@
   "id_and_class": {
     "theory_title": "Theorie der Kritiken",
     "summary": "Dieser Eintrag steht für die wesentliche und durchgängige skeptische Funktion innerhalb der Bewusstseinsforschung, die systematisch die erklärende Kohärenz, die empirische Gültigkeit und die metaphysischen Annahmen aller vorgeschlagenen Bewusstseinstheorien in Frage stellt. Er hebt anhaltende konzeptuelle Spannungen hervor, etwa die Erklärungslücke und das Korrelations-Kausalitäts-Dilemma, und zwingt Theorien dazu, ihre interne Konsistenz und empirische Fundierung zu verteidigen.",
-    "associated_thinkers": ["Robert Lawrence Kuhn"],
-    "category": "Herausforderungstheorien",
-    "subcategory": "Kritik/Skeptizismus",
+    "associated_thinkers": [
+      "Robert Lawrence Kuhn"
+    ],
+    "category": "Integrierte Info",
     "core_identity_tagline": "Die wesentliche skeptische Funktion",
     "classification_tags": [
       "critique",
@@ -12,7 +13,8 @@
       "meta-problem",
       "tension",
       "adjudication"
-    ]
+    ],
+    "subcategory": ""
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Kritik wird als die systematische Beurteilung und Diagnose erklärender Mängel (z. B. Erklärungslücken, mangelnde Kohärenz, unzureichende empirische Rechtfertigung) bestimmt, die allen konkurrierenden Erklärungen des Bewusstseins innewohnen.",
@@ -73,7 +75,7 @@
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mysterianism (McGinn's Ultimate Mystery)",
+        "name": "Challenge",
         "relationship": "Überschneidung"
       },
       {
@@ -85,7 +87,7 @@
         "relationship": "Kritik"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "Einfluss"
       }
     ],

@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "Grinbergs syntergische/neuronale Feldtheorie",
     "summary": "Diese psychophysiologische Theorie postuliert, dass das Gehirn ein hyperkomplexes internes „neuronales Feld“ erzeugt, das aus der Aktivierung und Vereinigung all seiner neuronalen Elemente resultiert. Bewusstsein ist eng mit diesem Feld verbunden, das eine Verzerrung der grundlegenden Raumzeit-Struktur erzeugt; unsere Perzepte sind die Wahrnehmung dieser Verzerrung.",
-    "associated_thinkers": ["Jacobo Grinberg-Zylberbaum"],
-    "category": "Anomale und veränderte Zustände",
+    "associated_thinkers": [
+      "Jacobo Grinberg-Zylberbaum"
+    ],
+    "category": "Anomal",
     "subcategory": "Feldtheorie",
     "core_identity_tagline": "Bewusstsein als Verzerrung der grundlegenden Raumzeit-Struktur",
     "classification_tags": [
@@ -80,7 +82,10 @@
         "name": "Quantum Theories of Consciousness",
         "relationship": "Kompatibel"
       },
-      { "name": "Idealisms", "relationship": "Kompatibel" }
+      {
+        "name": "Idealism",
+        "relationship": "Kompatibel"
+      }
     ],
     "sources_and_references": [
       {

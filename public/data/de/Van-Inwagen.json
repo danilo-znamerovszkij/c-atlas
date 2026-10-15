@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "van Inwagens christlicher Materialismus und die Auferstehung der Toten",
     "summary": "Diese Theorie schlägt eine Form des christlichen Materialismus vor, bei der die menschliche Person vollständig eine materielle Entität ist und die damit den Substanzdualismus sowohl aus philosophischen als auch aus biblischen Gründen ablehnt. Sie argumentiert, dass die personale Identität über den Tod hinaus dadurch erhalten bleibt, dass Gott einen physisch und kausal kontinuierlichen „nackten Kern“ des ursprünglichen materiellen Körpers bis zur endgültigen Auferstehung bewahrt.",
-    "associated_thinkers": ["Peter van Inwagen"],
-    "category": "Nicht-reduktiver Physikalismus",
+    "associated_thinkers": [
+      "Peter van Inwagen"
+    ],
+    "category": "Nicht-reduktiv",
     "subcategory": "Christlicher Materialismus",
     "core_identity_tagline": "Mit der biblischen Auferstehung versöhnter Materialismus",
     "classification_tags": [
@@ -69,13 +71,22 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Kritik" },
-      { "name": "Papineau’s Mind-Brain Identity", "relationship": "Überschneidung" },
       {
-        "name": "Murphy’s Non-Reductive Physicalism",
+        "name": "Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Murphy's Non-Reductive Physicalism",
         "relationship": "Kompatibel"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Überschneidung" }
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
       {

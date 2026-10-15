@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Fesers neuthomistischer, neuaristotelischer Common-Sense-Dualismus",
     "summary": "Diese dualistische Theorie postuliert, dass der menschliche Intellekt (abstrakte Begriffe und Schlussfolgern) ein immaterielles Vermögen ist und nicht auf materielle Prozesse reduziert werden kann. Sie löst das ‚schwere Problem‘, indem sie eine Rückkehr zum aristotelischen Common-Sense-Realismus befürwortet, in dem sinnliche Qualitäten (Qualia) objektive Eigenschaften der äußeren materiellen Welt sind, und löst so das Dilemma auf, das durch die moderne nüchterne, quantitative Auffassung der Materie verursacht wird.",
-    "associated_thinkers": ["Edward Feser"],
-    "category": "Dualismen",
-    "subcategory": "Neuthomistischer, neuaristotelischer Common-Sense-Dualismus",
+    "associated_thinkers": [
+      "Edward Feser"
+    ],
+    "category": "Dualismus",
+    "subcategory": "Neothomistischer, neoaristotelischer und Alltags-Dualismus",
     "core_identity_tagline": "Bewusstsein durch immateriellen Intellekt und objektive Qualitäten",
     "classification_tags": [
       "dualism",
@@ -69,16 +71,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Stump’s Thomistic Dualism", "relationship": "Kompatibel" },
-      { "name": "Cartesian Dualism", "relationship": "Kritik" },
       {
-        "name": "Eliminative Materialism/Illusionism",
+        "name": "Stump's Thomistic Dualism",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Cartesian Dualism",
         "relationship": "Kritik"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Kritik" }
+      {
+        "name": "Eliminative/Illusionism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Think, McFly, think, Edward Feser", "year": 2012 },
+      {
+        "title_with_names": "Think, McFly, think, Edward Feser",
+        "year": 2012
+      },
       {
         "title_with_names": "Aristotle, call your office, Edward Feser",
         "year": 2012

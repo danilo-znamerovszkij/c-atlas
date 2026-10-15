@@ -1,0 +1,83 @@
+{
+  "id_and_class": {
+    "theory_title": "Cleeremans’ erlerntes Bewusstsein durch radikale Plastizität",
+    "summary": "Axel Cleeremans argumentiert, dass Bewusstsein etwas ist, das das Gehirn zu tun lernt: Ausgehend von der Annahme, dass neuronale Aktivität von Natur aus unbewusst ist, lernt das Gehirn allmählich, seine eigenen Repräsentationen sich selbst neu zu beschreiben. Erfahrung entsteht, wenn ein System gelernt hat, sowohl dass es bestimmte innere Zustände einnimmt als auch, einigen davon mehr Bedeutung beizumessen als anderen. Spätere Arbeiten, der selbstorganisierende metarepräsentationale Ansatz (SOMA), beschreiben Bewusstsein als die unbewusste, verkörperte, nicht begriffliche Theorie des Gehirns über sich selbst.",
+    "associated_thinkers": ["Axel Cleeremans"],
+    "category": "Materialismus",
+    "subcategory": "Höherer Ordnung",
+    "core_identity_tagline": "Bewusstsein als die gelernte Theorie des Gehirns über sich selbst",
+    "classification_tags": ["metarepresentation", "learning", "plasticity", "metacognition", "higher-order theory"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Phänomenales Bewusstsein besteht in gelernten Metarepräsentationen, die Zustände erster Ordnung charakterisieren (ihre Stärke, Stabilität, Unterscheidbarkeit, Verlässlichkeit und emotionale Bedeutung) und nach dem Wert gewichtet werden, den das System ihnen beizumessen gelernt hat.",
+    "ontological_status": "Physikalismus (computational, lernbasiert)",
+    "mind_body_relationship": "Bewusstsein ist eine Fähigkeit, die ein neuronales System durch Plastizität erwirbt; kein neuronaler Zustand ist seiner Natur nach bewusst, und Erfahrung ist das Produkt der gelernten Neubeschreibungen der eigenen Aktivität durch das Gehirn.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz, entwicklungsbedingt: Bewusstsein wird im Lauf der Zeit durch dieselben Lernmechanismen aufgebaut, die Fertigkeit und Expertise hervorbringen.",
+    "subjectivity_and_intentionality": "Ein Subjekt ist ein System, das gelernt hat, bestimmte Zustände erster Ordnung zu haben, und sie unterschiedlich bewertet. Selbstbewusstsein und Theory of Mind teilen Lernmechanismen über eine Selbst-Andere-Schleife.",
+    "qualia_account": "Erfahrung existiert nur bei Erfahrenden, die gelernt haben, ihre eigenen Zustände zu repräsentieren und zu bewerten; Cleeremans behandelt den emotionalen Wert als Teil dessen, was Erfahrung ist. Kritiker fragen, ob dies den qualitativen Charakter erklärt oder voraussetzt.",
+    "ontological_commitments": "Neuronale Netzwerke mit Plastizität, Repräsentationen erster Ordnung, nach Qualität abgestuft, gelernte Metarepräsentationen von ihnen und gelernter emotionaler Wert.",
+    "epistemic_access": "Untersucht durch Experimente zu implizitem Lernen und Metakognition sowie durch rechnergestützte Netzwerkmodelle, in denen ein Netzwerk lernt, ein anderes vorherzusagen und zu qualifizieren.",
+    "constituents_and_structure": "Drei Arten von Repräsentation nach Qualität: implizit (zu schwach für Gewahrsein, aber fähig, das Verhalten zu beeinflussen), explizit (dem Gewahrsein und der Steuerung zugänglich, der Ort der Erfahrung) und automatisch (jenseits der Steuerung, aber dem Gewahrsein zugänglich)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenale Erfahrung, Wahrnehmungsbewusstsein, Selbstbewusstsein, Intention und Theory of Mind.",
+    "distinctive_mechanism_or_principle": "Repräsentationale Neubeschreibung nach innen gewendet: Das Gehirn lernt unbewusst Metarepräsentationen seiner eigenen Aktivität, sodass Plastizität die erzeugende Bedingung des Bewusstseins ist und nicht bloß ein Modulator davon.",
+    "dynamics_of_emergence": "Bewusstsein hat eine Entwicklungsbahn. Wenn das Lernen Stärke, Stabilität und Unterscheidbarkeit der Repräsentationen verbessert, werden sie der Erfahrung zugänglich; Cleeremans vertritt die Auffassung, dass sich Bewusstsein unbewusst selbst entwirft.",
+    "location_and_distribution": "Über interagierende neuronale Regionen verteilt, die lernen, einander vorherzusagen; SOMA ordnet sie in eine innere Schleife, eine Wahrnehmungs-Handlungs-Schleife und eine Selbst-Andere-Schleife.",
+    "causation_and_functional_role": "Metarepräsentationen erlauben dem System, die Folgen der eigenen Aktivität vorwegzunehmen; etwa dass die Aktivität im supplementär-motorischen Areal verlässlich dem Handeln vorausgeht, wird als Intention erlebt.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Ein Prozess zweiter Ordnung nimmt Eingaben und Repräsentationen erster Ordnung als eigenen Input und lernt, sie vorherzusagen und zu qualifizieren, wie in Cleeremans’ zweinetzwerkigen Rechenmodellen.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Neuronale Aktivität ist standardmäßig unbewusst; die Frage lautet daher, wie irgendein Zustand bewusst wird, und nicht, welche Zustände intrinsisch bewusst sind.",
+      "Netzwerkmodelle, in denen ein zweites Netzwerk lernt, die inneren Zustände eines ersten vorherzusagen, realisieren den vorgeschlagenen metarepräsentationalen Mechanismus.",
+      "Die Qualität der Repräsentation verbessert sich durch Lernen, sodass die Zugänglichkeit zum Bewusstsein sich im Verlauf der Entwicklung verändert.",
+      "Theory of Mind, Selbstbewusstsein und Wahrnehmungsbewusstsein stützen sich auf gemeinsame, vorhersagegetriebene Lernmechanismen."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirisch und rechnergestützt, gestützt auf Forschung zu implizitem Lernen und Metakognition, Entwicklungspsychologie und Netzwerksimulationen."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch prüfbar",
+    "known_empirical_interventions_or_tests": "Metakognitive Netzwerksimulationen, auf Metakognition beruhende Messungen des Bewusstseins und Paradigmen des impliziten Lernens; die Auffassung macht zudem entwicklungsbezogene und vergleichende Vorhersagen.",
+    "criticisms_and_tensions": "Wie andere Theorien höherer Ordnung steht sie vor der Frage, warum sich eine Repräsentation einer Repräsentation irgendwie anfühlen sollte. Kritiker fragen, ob der gelernte emotionale Wert genau jenen qualitativen Charakter unbemerkt einschleust, den die Theorie eigentlich ableiten sollte.",
+    "open_questions_and_limitations": "Ob gelernte Neubeschreibung Phänomenalität hervorbringt oder nur einen funktionalen Ersatz. Overgaard und Kirkeby-Hinrup weisen darauf hin, dass, wenn Lernen die Grundlage des Bewusstseins ist, die Zuschreibung von Erfahrung an Säuglinge, Tiere und Maschinen weitreichende moralische Folgen hat.",
+    "ontological_coherence": "Vereinbar mit der physikalistischen Kognitionswissenschaft; sie weicht von den gängigen Theorien höherer Ordnung ab, indem sie Metarepräsentationen als gelernt, nicht begrifflich und domänenübergreifend fasst."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bedingt",
+      "rationale": "Da Bewusstsein gelernte, nach Wert gewichtete Metarepräsentation ist, könnte ein künstliches System bewusst sein, wenn es gelernt hätte, seine eigenen Zustände auf diese Weise zu repräsentieren und ihnen Bedeutung beizumessen."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Bewusstsein ist eine Fähigkeit, die ein lebendes Gehirn durch Plastizität erwirbt, und endet daher mit diesem Gehirn."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Die Auffassung ist eine naturalistische, lernbasierte Theorie ohne kosmische Dimension."
+    },
+    "virtual_immortality": {
+      "stance": "Ungewiss",
+      "rationale": "Bewusstsein hängt hier von einer Lerngeschichte und gelernten Werten ab, und Cleeremans beantwortet nicht, ob das Kopieren eines trainierten Systems Erfahrung übertragen würde."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Cleeremans and Tallon-Baudry's Functional Value", "relationship": "Erweiterung" },
+      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Überschneidung" },
+      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Einfluss" },
+      { "name": "Predictive Theories (Top-Down)", "relationship": "Einfluss" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Consciousness and Metarepresentation: A Computational Sketch, Axel Cleeremans, B. Timmermans, and A. Pasquali", "year": 2007 },
+      { "title_with_names": "Consciousness: The Radical Plasticity Thesis, Axel Cleeremans", "year": 2008 },
+      { "title_with_names": "Know Thyself: Metacognitive Networks and Measures of Consciousness, A. Pasquali, B. Timmermans, and Axel Cleeremans", "year": 2010 },
+      { "title_with_names": "The Radical Plasticity Thesis: How the Brain Learns to Be Conscious, Axel Cleeremans", "year": 2011 },
+      { "title_with_names": "Higher-Order Thoughts in Action: Consciousness as an Unconscious Redescription Process, B. Timmermans, L. Schilbach, A. Pasquali, and Axel Cleeremans", "year": 2012 },
+      { "title_with_names": "Consciousness (Unconsciously) Designs Itself, Axel Cleeremans", "year": 2019 },
+      { "title_with_names": "Learning to Be Conscious, Axel Cleeremans et al.", "year": 2020 },
+      { "title_with_names": "Is Learning the Cognitive Basis of Consciousness? The Moral Implications of SOMA, M. Overgaard and A. Kirkeby-Hinrup", "year": 2021 }
+    ]
+  }
+}

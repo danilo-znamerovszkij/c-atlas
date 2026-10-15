@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Theorie der dendritischen Integration",
+    "summary": "Die Theorie der dendritischen Integration vertritt die Auffassung, dass bewusste Wahrnehmung von einem zellulären Ereignis abhängt, der nichtlinearen Integration von Top-down- und Bottom-up-Signalen in den apikalen Dendriten pyramidaler Neurone der Schicht 5 im Neokortex. Trifft Rückkopplung aus höheren Arealen mit sensorischem Feedforward-Input zusammen, feuert der Dendrit einen Kalziumspike, der die Ausgabe des Neurons verstärkt; Larkum und Aru schlagen vor, dass diese Verstärkung den Zugang von Information zum Gewahrsein steuert.",
+    "associated_thinkers": ["Matthew Larkum", "Jaan Aru"],
+    "category": "Materialismus",
+    "subcategory": "Neurobiologisch",
+    "core_identity_tagline": "Bewusstsein als dendritische Integration von Top-down- und Bottom-up-Signalen",
+    "classification_tags": ["neuroscience", "dendrites", "pyramidal neurons", "anesthesia", "microcircuits"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein wird mit der Integration zweier Informationsströme innerhalb pyramidaler Neurone der Schicht 5 gleichgesetzt; die Rückkopplung erreicht die distalen apikalen Dendriten, der Feedforward-Input trifft nahe am Zellkörper ein. Aru und Mitarbeiter legen nahe, dass Bewusstsein stark von dieser Integration beeinflusst ist oder möglicherweise mit ihr zusammenfällt.",
+    "ontological_status": "Physikalismus (neurobiologisch)",
+    "mind_body_relationship": "Bewusste Zustände hängen von bestimmten biophysikalischen Ereignissen in kortikalen Neuronen ab und sind möglicherweise mit ihnen identisch. Die Theorie behandelt den Geist als Produkt der Mikroschaltkreise des Gehirns und setzt nichts darüber hinaus voraus.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz (bewusste Zustände entstehen aus identifizierbaren biophysikalischen Ereignissen in Neuronen und der thalamokortikalen Dynamik, die sie ermöglichen)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Die DIT erklärt nicht, warum sich dendritische Integration wie etwas anfühlt. Sie legt fest, welche neuronalen Ereignisse einen Inhalt ins Gewahrsein gelangen lassen. Ihr Vorläufer, LaBergs und Kasevichs Theorie des apikalen Dendriten, vermutete, dass das elektromagnetische Feld um einen aktiven apikalen Dendriten den phänomenalen Eindruck selbst tragen könnte.",
+    "ontological_commitments": "Pyramidale Neurone mit funktional getrennten dendritischen Kompartimenten, dendritische Kalziumspikes, kortikale Rückkopplungs- und Feedforward-Bahnen sowie das thalamokortikale System.",
+    "epistemic_access": "Untersucht aus der Perspektive der dritten Person durch zelluläre Elektrophysiologie und durch Vergleiche bewusster und unbewusster Zustände, etwa Wachheit und Vollnarkose.",
+    "constituents_and_structure": "Die Grundeinheit ist das pyramidale Neuron der Schicht 5 als zweistufiger Integrator: Der apikale Dendrit empfängt Top-down-Input, der Bereich nahe dem Soma empfängt Bottom-up-Input. Viele solcher Neurone, gekoppelt über thalamokortikale Schleifen, formen die globalen Aktivitätsmuster bewusster Zustände."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Zugang (welche Wahrnehmungsinhalte das Gewahrsein erreichen); bewusste gegenüber unbewussten Zuständen (Wachsein gegenüber Narkose).",
+    "distinctive_mechanism_or_principle": "Koinzidenzdetektion im apikalen Dendriten. Wenn Rückkopplung aus höheren Arealen mit sensorischem Feedforward-Input übereinstimmt, erzeugt der Dendrit einen Kalziumspike, der die Feuerungsrate des Neurons verstärkt; diese Verstärkung wählt aus, was ins Gewahrsein gelangt.",
+    "dynamics_of_emergence": "Bewusste Wahrnehmung findet Moment für Moment statt, sobald Top-down- und Bottom-up-Signale zusammentreffen. In bewussten Zuständen ermöglicht die Kopplung von Dendrit und Soma, dass sich komplexe, anhaltende Aktivität über das thalamokortikale System aufbaut; unter Vollnarkose bricht diese Kopplung ab, und die Signalausbreitung stockt.",
+    "location_and_distribution": "Die dendritischen Bäume pyramidaler Neurone der Schicht 5 im Neokortex, eingebettet in thalamokortikale Schaltkreise. Der Mechanismus ist lokal und zellulär, seine Wirkungen formen jedoch die globale Hirnaktivität.",
+    "causation_and_functional_role": "Pyramidale Neurone wirken als Tore, die steuern, wie sich globale Aktivierungsmuster entwickeln. Die dendritische Verstärkung wählt relevante Inputs aus und entscheidet, welche Information weiter die kortikale Verarbeitung prägt.",
+    "integration_or_binding": "Die Bindung beginnt innerhalb einzelner Neurone, die kontextuelle Rückkopplung und sensorische Feedforward-Signale in verschiedenen Kompartimenten zusammenführen. Der gesteuerte Output vieler solcher Neurone trägt anschließend die integrierte Dynamik über das thalamokortikale System.",
+    "information_flow_or_representation": "Sensorische Bottom-up-Daten erreichen die proximalen Dendriten, Top-down-Vorhersagen aus höheren Arealen erreichen die distale apikale Verzweigung. Eine Übereinstimmung der beiden verstärkt das Signal, was Aru und Mitarbeiter als flexible Integration von Bottom-up- und Top-down-Daten auf zellulärer Ebene bezeichnen.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Die apikalen Dendriten pyramidaler Neurone der Schicht 5 führen eine nichtlineare Integration von Top-down- und Bottom-up-Inputs durch.",
+      "Zeitlich zusammenfallender distaler und proximaler Input löst dendritische Kalziumspikes aus, die die Antwort des Neurons verstärken; Larkum vermutet, dass diese Übereinstimmung der wahrnehmungsbezogenen Bewusstheit zugrunde liegt.",
+      "Vollnarkose stört die Kopplung von Dendrit und Soma und unterbindet das Bewusstsein, während viel andere Hirnaktivität weiterläuft.",
+      "In bewussten Zuständen ermöglicht der dendritische Mechanismus eine anhaltende thalamokortikale Dynamik, die in unbewussten Zuständen blockiert ist."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirisch (zelluläre Elektrophysiologie und Narkosestudien), theoretisch verknüpft mit großskaligen Erklärungen des Bewusstseins."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch prüfbar",
+    "known_empirical_interventions_or_tests": "Ableitungen dendritischer Kalziumspikes in pyramidalen Neuronen der Schicht 5; Messungen der Kopplung von Dendrit und Soma unter Vollnarkose.",
+    "criticisms_and_tensions": "Die Befunde zur Narkose zeigen, dass die Kopplung von Dendrit und Soma für Bewusstsein notwendig ist, was nicht zeigt, dass sie hinreichend ist. Die stärkere Behauptung, Bewusstsein könne mit der dendritischen Integration identisch sein, geht über die Evidenz hinaus, die den Mechanismus mit bewussten Zuständen verbindet.",
+    "open_questions_and_limitations": "Die Befürworter schwanken zwischen der Auffassung, Bewusstsein sei „stark beeinflusst von“ der dendritischen Integration, und der, es sei „identisch mit“ ihr. Die Theorie lässt offen, warum dieses zelluläre Ereignis überhaupt erlebt werden sollte.",
+    "ontological_coherence": "Vereinbar mit neurobiologischem Physikalismus. Ihre Befürworter stellen sie als kompatibel mit den Theorien des globalen neuronalen Arbeitsraums und der prädiktiven Verarbeitung dar, da sie unter deren großskaligen Erklärungen einen zellulären Mechanismus bereitstellt."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bedingt",
+      "rationale": "Da Bewusstsein hier von einem bestimmten biophysikalischen Mechanismus in kortikalen Neuronen abhängt, käme ein künstliches System nur dann infrage, wenn es diese Integration in zwei Kompartimenten und ihre steuernde Rolle nachbildete."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Da Bewusstsein hier ein Produkt dendritischer Aktivität im lebenden Kortex ist, überdauert mit dem Tod des Gehirns nichts."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Die Theorie erklärt Gewahrsein durch neuronale Mechanismen und impliziert keinen kosmischen Zweck."
+    },
+    "virtual_immortality": {
+      "stance": "Bedingt",
+      "rationale": "Eine digitale Kopie wäre nur dann bewusst, wenn sie die dendritische Integration und die thalamokortikale Dynamik nachbildete, die die Theorie voraussetzt."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Vereinbar" },
+      { "name": "Predictive Theories (Top-Down)", "relationship": "Vereinbar" },
+      { "name": "Lamme's Recurrent Processing Theory", "relationship": "Überschneidung" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Dendritic Integration Theory, Matthew Larkum and Jaan Aru", "year": 2013 },
+      { "title_with_names": "The Apical Dendrite Theory of Consciousness, David LaBerge and Ray Kasevich", "year": 2007 }
+    ]
+  }
+}

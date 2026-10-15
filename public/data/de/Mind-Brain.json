@@ -2,7 +2,11 @@
   "id_and_class": {
     "theory_title": "Geist-Gehirn-Identitätstheorie",
     "summary": "Diese klassische philosophische Bewusstseinstheorie postuliert, dass mentale Zustände, Ereignisse oder Prozesse streng identisch mit bestimmten Zuständen, Ereignissen oder Prozessen sind, die im Gehirn ablaufen. Sie fungiert als Musterbeispiel des Materialismus, indem sie behauptet, dass Bewusstsein vollständig physisch ist.",
-    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "associated_thinkers": [
+      "J.J.C. Smart",
+      "U.T. Place",
+      "Herbert Feigl"
+    ],
     "category": "Materialismus",
     "subcategory": "Philosophisch",
     "core_identity_tagline": "Mentale Zustände sind Gehirnzustände",
@@ -68,7 +72,7 @@
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Papineau’s Mind-Brain Identity",
+        "name": "Papineau's Mind-Brain Identity",
         "relationship": "Erweiterung"
       },
       {
@@ -80,7 +84,7 @@
         "relationship": "Kritik"
       },
       {
-        "name": "Tye’s Contingentism",
+        "name": "Tye's Contingentism",
         "relationship": "Einfluss"
       }
     ],

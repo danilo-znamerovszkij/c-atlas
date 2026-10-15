@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Reasons No-Go-Theorem gegen Materialismus und Supervenienz",
+    "summary": "Catherine M. Reason legt einen formalen Beweis vor, dass kein physisches System und kein Modell, das auf einem solchen supervenieren, die Selbstgewissheit haben kann, mit der ein bewusster Mensch weiß, dass er bewusst ist. Das Theorem sagt, was Bewusstsein nicht sein kann, und daraus folgert sie, dass jede physikalistische Theorie eines selbstbewussten, rationalen Systems in sich widersprüchlich sein muss.",
+    "associated_thinkers": ["Catherine M. Reason", "Gilbert Caplain"],
+    "category": "Herausforderung",
+    "subcategory": "",
+    "core_identity_tagline": "Selbstgewissheit kann nicht auf physischen Prozessen supervenieren",
+    "classification_tags": ["no-go theorem", "supervenience", "self-certainty", "anti-physicalism", "formal proof"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Das Theorem gibt keine positive Identität für Bewusstsein. Es definiert ein bewusstes System als eines, das zu menschenähnlichem Schließen und zu absoluter Selbstgewissheit fähig ist, und argumentiert, dass ein solches System nicht vollständig physisch sein kann.",
+    "ontological_status": "Antiphysikalismus (Nicht-Supervenienz)",
+    "mind_body_relationship": "Reason akzeptiert, dass Gehirne mit Bewusstsein korrelieren und dass vieles Denken aus der Perspektive der dritten Person untersucht werden kann. Sie lehnt die stärkere These ab, dass vollständig selbstbewusste Zustände vollständig durch objektiv beobachtbare physische Zustände bestimmt sind.",
+    "primitive_or_emergent_status": "Unklar",
+    "emergence_type": "Nicht aus physischen Systemen emergent; Reason und Shah argumentieren, dass bewusste Makrozustände weder aus physischen Mikrozuständen emergieren noch auf ihnen supervenieren, weil Bewusstsein nicht so messbar ist wie bewährte emergente Eigenschaften.",
+    "subjectivity_and_intentionality": "Subjektivität wird an das cartesische cogito gebunden: Ein bewusstes Subjekt kann mit Gewissheit behaupten, dass es bewusst ist, operationalisiert als das Wissen, im traumlosen Schlaf nicht bewusst zu sein.",
+    "qualia_account": "",
+    "ontological_commitments": "Mindestens einige Zustände in jedem menschenähnlichen bewussten System, die nicht auf physischen Zuständen supervenieren.",
+    "epistemic_access": "Selbstgewissheit der ersten Person, analysiert mit formalen Mitteln: einer Selbstgewissheitsfunktion ω, der prädikativen Modallogik und Wolperts „Inferenzgerät“ für physische Systeme, die beobachten, vorhersagen und sich erinnern können.",
+    "constituents_and_structure": "Drei Postulate, von denen Reason zeigt, dass sie nicht zusammen gelten können: Objektivität (mentale Zustände supervenieren auf beobachtbarer Dynamik), Selbstgewahrsein und menschenähnliche Rationalität."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Selbstgewahrsein (Selbstgewissheit); Grenzen physikalistischer Darstellungen des phänomenalen Bewusstseins",
+    "distinctive_mechanism_or_principle": "Ein diagonaler Regress. Die Bestätigung, dass ein neuronales Korrelat richtig arbeitet, erfordert ein weiteres, davon verschiedenes Korrelat (NCC*), dann ein weiteres (NCC**), endlos, und kein Gehirn könnte unendlich viele unterscheidbare Zustände halten.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "Bewusste Gehirne wirken auf Aufzeichnungsgeräte ein, können aber von keiner physischen Theorie vollständig beschrieben werden; daher schließen Reason und Shah, dass sie in irgendeiner Weise den Energieerhaltungssatz verletzen müssen, möglicherweise über die Energie-Zeit-Unschärferelation.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Um ω auszuführen, muss ein System eine Funktion ξ ausführen, die bestätigt, dass seine Prozesse physisch real sind; doch die Überprüfung von ξ erfordert die Anwendung von ξ auf sich selbst, sodass das Ergebnis schon vorliegen muss, bevor es berechnet werden kann.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Theorem 1a besagt, dass kein physisches System, das zu gesundem menschenähnlichem Schließen fähig ist, die Selbstgewissheitsfunktion ω ausführen oder dabei aufgezeichnet werden kann, wie es „Ich bin mir selbst gewiss“ behauptet.",
+      "Theorem 1b erweitert dies auf jedes Modell, das auf einem physischen System supervenieren würde, was ein Aufzeichnungsgerät in zwei widersprüchliche Zustände zwingen würde.",
+      "Der Regress hat die diagonale Struktur von Turings Beweis zum Halteproblem, die Reason nach eigener Aussage von gewöhnlichen Argumenten des unendlichen Regresses unterscheidet.",
+      "Eigenschaftsdualismus, reflexiver Monismus, realistischer Monismus und Illusionismus sind in ihrer gegenwärtigen Form ausgeschlossen, und Chalmers’ Auffassung überlebt nur, wenn Menschen sich irrational verhalten."
+    ],
+    "basis_of_belief_or_evidence_type": "Formaler logischer und mathematischer Beweis, aufgebaut auf dem cartesischen cogito."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Konzeptuell prüfbar",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Das gesamte Ergebnis hängt davon ab, das cartesische cogito als gültige Grundlage absoluter Selbstgewissheit anzuerkennen. Der Sprung von einer Grenze theoretischer Modelle zu Verletzungen des Energieerhaltungssatzes in realen Gehirnen geht weit über die strenge Schlussfolgerung hinaus.",
+    "open_questions_and_limitations": "Reason stellt klar, dass das Theorem Modelle von Systemen einschränkt, nicht die Systeme selbst. Streng genommen ergibt sich nur, dass einige bewusste Zustände nicht auf physischen Zuständen supervenieren; ob das cogito die Selbstgewissheit begründet, sei, so Reason, eine empirische Frage, die kein theoretisches Argument entscheiden kann.",
+    "ontological_coherence": "Als negatives Ergebnis kohärent. Es lässt offen, was Bewusstsein positiv ist, und Reason merkt an, dass das physikalistische Postulat für den Gang des Arguments nur möglich, nicht notwendig sein muss."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unwahrscheinlich",
+      "rationale": "Da kein physikalistisches Modell eines Systems zur Selbstgewissheit fähig sein kann, könnte eine rein rechnergestützte oder physische Maschine im Sinne Reasons nicht bewusst sein."
+    },
+    "survival_beyond_death": {
+      "stance": "Ungewiss",
+      "rationale": "Das Theorem impliziert, dass einige bewusste Zustände nicht physisch sind, sagt aber nichts darüber, ob sie nach dem Tod des Gehirns fortbestehen."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Unwahrscheinlich",
+      "rationale": "Wenn selbstgewisses Bewusstsein auf keinem physischen Prozess supervenieren kann, könnte eine digitale Kopie, die auf physischer Hardware läuft, es nicht reproduzieren."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Kim’s Supervenience", "relationship": "Kritik" },
+      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Kritik" },
+      { "name": "Velmans's Reflexive Monism", "relationship": "Kritik" },
+      { "name": "Frankish’s Illusionism", "relationship": "Kritik" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Reason's No-Go Theorem against Materialism/Supervenience (Landscape of Consciousness entry), Catherine M. Reason", "year": 2019 }
+    ]
+  }
+}

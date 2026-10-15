@@ -1,0 +1,83 @@
+{
+  "id_and_class": {
+    "theory_title": "Sejnowskis rechnerische zwei Ebenen und wandernde Wellen",
+    "summary": "Sejnowski schlägt vor, dass Bewusstsein aus einer zweiten, kognitiven Ebene der kortikalen Verarbeitung entsteht, die auf der gewöhnlichen sensomotorischen Ebene aufsitzt. Die sensomotorische Ebene kodiert Information in Feuerraten, während die kognitive Ebene millisekundengenaue Spike-Zeitpunkte nutzt, die durch wandernde Wellen und vorübergehende synaptische Plastizität organisiert werden, um Kontext über die Zeit zu halten und das Denken ohne äußeren Input fortzuführen. Er erwartet, dass das Problem des Bewusstseins verschwindet, sobald diese Mechanismen verstanden sind, „wie die Grinsekatze“.",
+    "associated_thinkers": ["Terrence J. Sejnowski"],
+    "category": "Materialismus",
+    "subcategory": "Komputational",
+    "core_identity_tagline": "Bewusstsein als selbsterzeugtes Denken in einer spike-getakteten kortikalen Ebene",
+    "classification_tags": ["computational neuroscience", "spike timing", "traveling waves", "postdiction", "thalamus"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusstsein ist der globale dynamische Zustand eines Gehirns, das über das Denken nachdenkt: selbsterzeugte Aktivität in einer kognitiven kortikalen Ebene, die aus früherer Erfahrung innere Repräsentationen aufbaut.",
+    "ontological_status": "Physikalismus (rechnerisch, neuronale Dynamik)",
+    "mind_body_relationship": "Mentale Phänomene sind neuronale Mechanismen; Sejnowski erwartet, dass philosophische Fragen zum Geist wissenschaftliche Antworten erhalten, sobald diese Mechanismen verstanden sind.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Schwache Emergenz (aus der globalen Dynamik feuernder Neurone und wandernder Wellen)",
+    "subjectivity_and_intentionality": "Das einheitliche „Jetzt“ der Erfahrung wird postdiktiv konstruiert: Das Gehirn revidiert die jüngste Vergangenheit, sodass die bewusste Gegenwart zu dem passt, was als Nächstes geschieht.",
+    "qualia_account": "",
+    "ontological_commitments": "Feuernde kortikale Neurone, spike-timing-abhängige Plastizität, wandernde Wellen, hemmende parvalbuminpositive Korbzellen sowie der Kern- und das Matrixsystem des Thalamus.",
+    "epistemic_access": "Durch elektrophysiologische Laborexperimente, Psychophysik wie den Flash-Lag-Effekt, rechnerische Modellierung und Läsionsbefunde.",
+    "constituents_and_structure": "Zwei Ebenen. Ebene 1 ist ein langfristiges sensomotorisches Netzwerk, das Ratencodes und den Kernthalamus nutzt. Ebene 2 ist ein vorübergehendes kognitives Netzwerk, das präzise Spike-Zeitpunkte, wandernde Wellen und den Matrixthalamus nutzt."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Zugang und Kognition (selbsterzeugtes Denken, Arbeitsgedächtnis, Entscheidungsfindung, Planung); zeitliche Einheit der Erfahrung",
+    "distinctive_mechanism_or_principle": "Wandernde Wellen ordnen präzise getaktete Spikes zu einem raumzeitlichen Populationscode, der spike-timing-abhängige Plastizität auslöst, die Stunden anhält, und so ein vorübergehendes kognitives Netzwerk auf dem sensomotorischen Netzwerk bildet.",
+    "dynamics_of_emergence": "Gewahrsein ist postdiktiv. Die Wahrnehmung eines Augenblicks hängt von Ereignissen in den folgenden etwa 80 Millisekunden ab, und die Integrationsfenster wachsen von rund 100 Millisekunden im primären visuellen Kortex bis zu 10 Sekunden im präfrontalen Kortex.",
+    "location_and_distribution": "Großhirnrinde; das Matrixsystem des Thalamus projiziert breit auf oberflächliche kortikale Schichten. Kleine Läsionen in den intralaminaren Thalamuskernen können das Bewusstsein aufheben.",
+    "causation_and_functional_role": "Die kognitive Ebene trägt das langfristige Arbeitsgedächtnis, die Entscheidungsfindung und das Denken, das fortdauert, nachdem äußere Reize aufgehört haben; sie zieht Kontext über die Zeit heran, um das Handeln zu leiten.",
+    "integration_or_binding": "Die globale Koordination der Matrixthalamus-Bahnen vereint die Erfahrung, und wandernde Wellen binden Information über Raum und Zeit innerhalb einer neuronalen Population.",
+    "information_flow_or_representation": "Wandernde Wellen bilden einen holografieartigen Code, in dem die Zeit eine Dimension ist, sodass eine Population ein Zeitfenster repräsentieren kann, ähnlich wie die Selbstaufmerksamkeit in KI-Transformern Wörter über einen Satz hinweg in Beziehung setzt.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Mainen und Sejnowski fanden, dass kortikale Neurone Spikes mit Millisekundengenauigkeit auslösen, wenn sie durch schwankendes „eingefrorenes Rauschen“ angetrieben werden, wobei der Zeitpunkt durch den Nachhemmungs-Rebound der Korbzellen bestimmt wird.",
+      "Der Flash-Lag-Effekt zeigt, dass die Wahrnehmung eines Blitzes davon abhängt, was danach geschieht; Eagleman und Sejnowski deuten dies als Postdiktion.",
+      "Wandernde Wellen, über viele Frequenzbänder beobachtet, könnten spike-timing-abhängige Plastizität auslösen, die Stunden anhält, und so das langfristige Arbeitsgedächtnis stützen.",
+      "Sejnowski schlägt vor, dass das BOLD-fMRI-Signal eher die metabolischen Kosten synaptischer Plastizität und Aufmerksamkeit widerspiegelt als die Spike-Aktivität.",
+      "Anders als große Sprachmodelle, deren vorwärtsgerichtete Aktivität endet, sobald ein Prompt endet, hält das Gehirn durch rekurrente Schleifen selbsterzeugte Aktivität aufrecht."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirisch (Elektrophysiologie, Psychophysik, Läsionsdaten) und rechnerische Modellierung"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch prüfbar",
+    "known_empirical_interventions_or_tests": "Injektion von eingefrorenem Rauschstrom in kortikale Neurone; Flash-Lag-Psychophysik; Ableitungen kortikaler wandernder Wellen; intralaminare thalamische Läsionen; BOLD-fMRI.",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "Sejnowski beschreibt das Problem des Bewusstseins als eines, das sich mit besserem Verständnis von Wahrnehmung, Entscheidungsfindung und Planung auflösen könnte; der Rahmen befasst sich daher eher mit kognitiven Mechanismen als damit, warum sich diese anfühlen, wie sie sich anfühlen. Die Verbindung zwischen der durch wandernde Wellen ausgelösten Plastizität und dem langfristigen Arbeitsgedächtnis wird als plausibel dargestellt, nicht als belegt.",
+    "ontological_coherence": "Vereinbar mit dem Physikalismus und mit Cricks Programm zu den neuronalen Mechanismen des Gewahrseins. Sejnowski vergleicht die kognitive Ebene mit einem globalen Arbeitsraum."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Möglich",
+      "rationale": "Aktuelle große Sprachmodelle besitzen keine selbsterzeugende Aktivität; Sejnowski legt jedoch nahe, dass Maschinen, die mit selbsterzeugender „System-2“-Dynamik aufgebaut sind, die durch wandernde Wellen und Plastizität organisiert wird, eine Kognition erreichen könnten, die der menschlichen Erfahrung näherkommt."
+    },
+    "survival_beyond_death": {
+      "stance": "Nein",
+      "rationale": "Da Bewusstsein der globale dynamische Zustand kortikaler und thalamischer Schaltkreise ist, folgt aus dieser Auffassung, dass es endet, wenn diese Dynamik aufhört."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Sejnowski fasst Selbsterkenntnis als Verständnis der Mechanismen des Denkens auf, ohne dass ein kosmischer Zweck im Spiel wäre."
+    },
+    "virtual_immortality": {
+      "stance": "Ungewiss",
+      "rationale": "Die Auffassung ist rechnerisch und lässt grundsätzlich maschinelle Kognition zu, aber Sejnowski befasst sich nicht damit, einen individuellen Geist zu kopieren."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Crick and Koch's Neural Correlates of Consciousness", "relationship": "Grundlage" },
+      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Überschneidung" },
+      { "name": "Eagleman's Possibilianism", "relationship": "Überschneidung" },
+      { "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate", "relationship": "Vereinbar" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Reliability of Spike Timing in Neocortical Neurons, Z. F. Mainen and T. J. Sejnowski", "year": 1995 },
+      { "title_with_names": "Motion Integration and Postdiction in Visual Awareness, D. M. Eagleman and T. J. Sejnowski", "year": 2000 },
+      { "title_with_names": "Regulation of Spike Timing in Visual Cortical Circuits, P. Tiesinga, J. M. Fellous, and T. J. Sejnowski", "year": 2008 },
+      { "title_with_names": "Consciousness, Terrence J. Sejnowski", "year": 2015 },
+      { "title_with_names": "The Deep Learning Revolution, Terrence J. Sejnowski", "year": 2018 },
+      { "title_with_names": "Transformers and Cortical Waves: Encoders for Pulling in Context Across Time, L. Muller, P. S. Churchland, and T. J. Sejnowski", "year": 2024 },
+      { "title_with_names": "Dynamical Mechanisms for Coordinating Long-term Working Memory Based on the Precision of Spike-timing in Cortical Neurons, Terrence J. Sejnowski", "year": 2026 }
+    ]
+  }
+}

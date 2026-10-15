@@ -1,0 +1,76 @@
+{
+  "id_and_class": {
+    "theory_title": "Chalmers’ naturalistischer Dualismus",
+    "summary": "David Chalmers argumentiert, dass phänomenales Bewusstsein sich nicht auf physische Gehirnzustände reduzieren lässt, dass es aber nichts Übernatürliches gibt. Seine Antwort besteht darin, Erfahrung als grundlegendes Merkmal der Welt zu behandeln, neben Masse, Ladung und Raumzeit, und sie durch psychophysische Gesetze mit physischen Prozessen zu verknüpfen, die die Wissenschaft erst noch entdecken muss.",
+    "associated_thinkers": ["David Chalmers"],
+    "category": "Dualismus",
+    "subcategory": "",
+    "core_identity_tagline": "Bewusstsein als fundamentale, gesetzmäßig bestimmte natürliche Eigenschaft",
+    "classification_tags": ["property dualism", "hard problem", "zombies", "psychophysical laws", "naturalism"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewusste Erfahrung ist eine grundlegende, nicht-physische Eigenschaft der natürlichen Welt, die durch fundamentale Gesetze systematisch mit physischen Eigenschaften verbunden ist.",
+    "ontological_status": "Eigenschaftsdualismus (naturalistisch)",
+    "mind_body_relationship": "Mentale Eigenschaften sind von physischen verschieden und lassen sich nicht auf sie reduzieren, sind aber gesetzmäßig mit physischen Prozessen korreliert. Chalmers lehnt die cartesische mentale Substanz und jedes ‚Gespenst in der Maschine‘ ab, das zusätzliche kausale Arbeit leistet, da die physische Welt mehr oder weniger kausal geschlossen ist.",
+    "primitive_or_emergent_status": "Primitiv",
+    "emergence_type": "Nicht zutreffend (Erfahrung ist eine fundamentale Eigenschaft; Brückengesetze sagen, wie sie aus physischen Prozessen entsteht, leiten sie aber nicht aus ihnen ab)",
+    "subjectivity_and_intentionality": "Subjektive Erfahrung gilt als Datum, das sich logisch aus keiner physischen oder funktionalen Erklärung ableiten lässt. Intentionalität wird nicht eigens behandelt.",
+    "qualia_account": "Qualia sind real und nicht reduzierbar. Da eine physisch identische Welt ohne Erfahrung (eine ‚Zombie-Welt‘) denkbar ist, legen die physischen Tatsachen die qualitativen Tatsachen nicht logisch fest; Qualia müssen daher als Grundbestand hinzugefügt werden.",
+    "ontological_commitments": "Physische Entitäten und Eigenschaften, wie die Physik sie beschreibt, dazu fundamentale phänomenale Eigenschaften und die psychophysischen Gesetze, die beide verbinden. Keine Seelen, Geister oder übernatürlichen Ursachen.",
+    "epistemic_access": "Erfahrung ist aus der ersten Person bekannt und nicht bestreitbar. Die psychophysischen Gesetze sind durch Korrelation von Erfahrung mit physischen Prozessen zu finden, so wie die Physik Regelmäßigkeiten findet.",
+    "constituents_and_structure": "Ein Universum, das auf ein Netz grundlegender Entitäten hinausläuft, die einfachen Gesetzen gehorchen, wobei die Grundeigenschaften Erfahrung ebenso umfassen wie physikalische Größen."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenales Bewusstsein (das schwere Problem).",
+    "distinctive_mechanism_or_principle": "Psychophysische Brückengesetze: neue fundamentale Prinzipien, die den Grundgesetzen der Natur hinzugefügt werden und physische Prozesse mit Erfahrung verbinden. Chalmers verweist auf seine Doppelaspekt-Theorie der Information als Kandidat dafür, wie diese Gesetze wirken.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Überall dort, wo die psychophysischen Gesetze physische Zustände mit Erfahrung verknüpfen; die Auffassung lokalisiert Bewusstsein nicht in einer bestimmten Hirnregion.",
+    "causation_and_functional_role": "Chalmers vertritt die Auffassung, dass physische Ereignisse hinreichende physische Ursachen haben, wodurch kein Raum für einen nicht-physischen Geist bleibt, der zusätzliche kausale Arbeit leistet. Er hält es für wahrscheinlich, dass sich quantenmechanische Unbestimmtheit nicht dazu nutzen lässt, dem Geist eine kausale Rolle zu geben.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Bewusste Erfahrung superveniert nicht logisch auf dem Physischen, da eine physisch identische Zombie-Welt denkbar ist.",
+      "Wenn dem so ist, kann keine reduktive Erklärung des Bewusstseins gelingen.",
+      "Bewusstsein sollte als fundamental behandelt werden, mit eigenen fundamentalen Gesetzen, so wie die Physik Masse und Ladung behandelt.",
+      "Dieser Dualismus widerspricht keiner physikalischen Theorie; er fügt nur Brückenprinzipien hinzu."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophisch: Denkbarkeits- und Modalargumente sowie das Datum der Erfahrung aus der ersten Person."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Begrifflich prüfbar",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Ist die physische Welt kausal geschlossen und Erfahrung nicht-physisch, scheint Erfahrung keine kausale Arbeit zu leisten, was die Auffassung in Richtung Epiphänomenalismus drängt. Das Zombie-Argument hängt außerdem vom Schritt von der Denkbarkeit zur tatsächlichen Möglichkeit ab.",
+    "open_questions_and_limitations": "Die psychophysischen Gesetze sind unbekannt, und die Auffassung benennt ihre Existenz, ohne sie anzugeben.",
+    "ontological_coherence": "Chalmers stellt sie als ‚unschuldigen‘ Dualismus dar, der ein wissenschaftliches Weltbild bewahrt, indem er die Liste der Grundeigenschaften erweitert, statt eine mentale Substanz hinzuzufügen."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Bedingt",
+      "rationale": "Ob eine Maschine bewusst ist, hängt davon ab, woran die psychophysischen Gesetze Erfahrung knüpfen; folgen sie einer physischen oder informationellen Organisation, die eine Maschine teilen kann, hätte sie Erfahrung."
+    },
+    "survival_beyond_death": {
+      "stance": "Unwahrscheinlich",
+      "rationale": "Da Erfahrung durch Naturgesetze aus physischen Prozessen entsteht und Chalmers alles Übernatürliche ausschließt, bietet die Auffassung keine Grundlage dafür, dass Erfahrung ohne ihre physische Basis fortbesteht."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Bedingt",
+      "rationale": "Eine Simulation trüge Erfahrung nur dann, wenn die psychophysischen Gesetze Erfahrung an die Merkmale knüpfen, die die Simulation reproduziert."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Chalmers’s Double-Aspect Theory of Information", "relationship": "Erweiterung" },
+      { "name": "Property Dualism", "relationship": "Überschneidung" },
+      { "name": "Descartes’s Substance Dualism", "relationship": "Kontrast" },
+      { "name": "Epiphenomenalism", "relationship": "Vereinbar" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "The Conscious Mind, David Chalmers", "year": 1996 }
+    ]
+  }
+}

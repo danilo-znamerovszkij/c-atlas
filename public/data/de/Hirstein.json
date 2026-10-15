@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Hirsteins Mindmelding",
     "summary": "William Hirstein argumentiert, dass das Haupthindernis für eine unkomplizierte physische Erklärung des bewussten Geistes die unbegründete 'Annahme der Privatheit' ist. Durch die Beseitigung dieser metaphysischen Annahme – der Vorstellung, eine Person könne niemals die bewussten Zustände einer anderen erfahren – wird die Motivation untergraben, quälende Dualismen, Panpsychismen und Theorien der Unlösbarkeit zu ersinnen.",
-    "associated_thinkers": ["William Hirstein"],
+    "associated_thinkers": [
+      "William Hirstein"
+    ],
     "category": "Materialismus",
     "subcategory": "Neurobiologisch",
     "core_identity_tagline": "Bewusstsein erklärt durch die Ablehnung metaphysischer Privatheit",
@@ -67,12 +69,24 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Kritik" },
-      { "name": "Panpsychisms", "relationship": "Kritik" },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Kompatibel" }
+      {
+        "name": "Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Kompatibel"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Hirstein’s mindmelding", "year": "" },
+      {
+        "title_with_names": "Hirstein’s mindmelding",
+        "year": ""
+      },
       {
         "title_with_names": "Mindmelding: Consciousness, Neuroscience, and the Mind’s Privacy, William Hirstein",
         "year": 2012

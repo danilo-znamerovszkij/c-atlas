@@ -8,7 +8,7 @@
       "Eleonore Stump",
       "William Lane Craig"
     ],
-    "category": "Dualismen",
+    "category": "Dualismus",
     "subcategory": "Substanzdualismus",
     "core_identity_tagline": "Bewusstsein als immaterielle, substanzielle Seele",
     "classification_tags": [
@@ -79,10 +79,22 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Überschneidung" },
-      { "name": "Thomistic Dualism", "relationship": "Erweiterung" },
-      { "name": "Non-Reductive Physicalism", "relationship": "Kritik" },
-      { "name": "Emergent Dualism", "relationship": "Variation" }
+      {
+        "name": "Dualism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Thomistic Dualism",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Non-Reductive",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Variation"
+      }
     ],
     "sources_and_references": [
       {

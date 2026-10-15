@@ -2,9 +2,10 @@
   "id_and_class": {
     "theory_title": "Bergsons Vielheit, Dauer, Wahrnehmung, Gedächtnis",
     "summary": "Diese nichtreduktive Theorie versteht Bewusstsein als eine dynamische, unaufhörlich zeitliche Wirklichkeit, die durch „Dauer“ und „Vielheit“ gekennzeichnet ist und im Grunde Gedächtnis ist. Das Gehirn erzeugt das Bewusstsein nicht, sondern wirkt als Filter, der ein überwältigendes Gewahrsein begrenzt, um fokussiertes Handeln in der Welt zu ermöglichen.",
-    "associated_thinkers": ["Henri Bergson"],
-    "category": "Anomale und veränderte Zustände",
-    "subcategory": "Vielheit, Dauer, Wahrnehmung, Gedächtnis",
+    "associated_thinkers": [
+      "Henri Bergson"
+    ],
+    "category": "Dualismus",
     "core_identity_tagline": "Bewusstsein als gefiltertes Gedächtnis und reine Dauer",
     "classification_tags": [
       "duration",
@@ -12,7 +13,8 @@
       "dualism",
       "filter_theory",
       "non-reductive"
-    ]
+    ],
+    "subcategory": ""
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein wird als „das Gedächtnis als Ganzes“ und als „unaufhörlich dynamische, inhärent zeitliche Substanz der Wirklichkeit“ identifiziert, die sich als kontinuierliche Bewegung zwischen reiner Wahrnehmung (Bildern) und reinem Gedächtnis manifestiert.",
@@ -73,17 +75,32 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "William James's filter model", "relationship": "Kompatibel" },
-      { "name": "Substance Dualism", "relationship": "Identität/Überschneidung" },
-      { "name": "Process Theory", "relationship": "Einfluss" },
-      { "name": "Neurophenomenology (Varela)", "relationship": "Einfluss" }
+      {
+        "name": "James's Plural Consciousness, Brain as Filter of a Wider Consciousness",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "Identität/Überschneidung"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Time and Free Will: an Essay on the Immediate Data of Consciousness",
         "year": 1889
       },
-      { "title_with_names": "Matter and Memory", "year": 1896 },
+      {
+        "title_with_names": "Matter and Memory",
+        "year": 1896
+      },
       {
         "title_with_names": "Life and Consciousness (Mind-Energy)",
         "year": 1920

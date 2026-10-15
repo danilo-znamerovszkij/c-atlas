@@ -1,0 +1,83 @@
+{
+  "id_and_class": {
+    "theory_title": "Libets Zeit des Geistes: Bereitschaftspotenzial, unbewusste Einleitung, verzögertes Gewahrsein, Rückdatierung des Bewusstseins",
+    "summary": "Benjamin Libet verglich den zeitlichen Verlauf der Hirnaktivität mit dem zeitlichen Verlauf der Erfahrung und kam zu dem Schluss, dass sich neuronale Aktivität bis zu etwa einer halben Sekunde aufbauen muss, bevor eine Empfindung bewusst wird. Das Gehirn bezieht den erlebten Zeitpunkt dann auf den Reiz zurück. Auf Handlungen angewandt, legten seine Experimente mit dem Bereitschaftspotenzial nahe, dass willentliche Handlungen unbewusst beginnen und dem bewussten Willen nur die Macht zum Veto bleibt. Seine Ergebnisse wurden zu einem Standardbeleg für den Physikalismus. Libet selbst hielt phänomenale Erfahrung jedoch für nichtphysisch.",
+    "associated_thinkers": ["Benjamin Libet"],
+    "category": "Materialismus",
+    "subcategory": "Neurobiologisch",
+    "core_identity_tagline": "Bewusstsein als verzögerte, zurückbezogene Erfahrung",
+    "classification_tags": ["readiness potential", "free will", "neuronal adequacy", "timing", "veto"]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Phänomenale Erfahrung ist ein realer, aber langsam entstehender Zustand. Sie setzt eine Mindestdauer geeigneter neuronaler Aktivierung voraus, die „neuronale Adäquanz“, und ihre scheinbare Unmittelbarkeit wird nachträglich konstruiert.",
+    "ontological_status": "Dualismus (emergenter Interaktionismus)",
+    "mind_body_relationship": "Libet vertrat die Auffassung, dass subjektive Erfahrung nichtphysisch ist und dass Geist und Gehirn als unabhängige Variablen kausal wechselwirken. Diese Auffassung entwickelte er als Theorie des bewussten mentalen Feldes. Seine Zeitmessungen werden weithin als Stütze des Physikalismus gelesen, eine Lesart, die er zurückwies.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Starke Emergenz: Libet hielt Erfahrung für durch Hirnaktivität erzeugt, dennoch nichtphysisch und fähig, auf das Gehirn zurückzuwirken.",
+    "subjectivity_and_intentionality": "Gegenstand ist das bloße Erleben im Sinne Feigls, das sich von Wahrnehmung oder Verhalten unterscheidet. Die bewusste Absicht zu handeln erscheint, nachdem das Gehirn die Handlung bereits vorbereitet hat, aber vor der Bewegung.",
+    "qualia_account": "Libet macht die Dauer zur Variablen, die unbewusste Wahrnehmung in erlebte Empfindung verwandelt. Unterhalb der neuronalen Adäquanz können Reize wahrgenommen werden, ohne gespürt zu werden.",
+    "ontological_commitments": "Kortikale und thalamische neuronale Aktivität, das Bereitschaftspotenzial, ein nichtphysisches, aber vom Gehirn erzeugtes bewusstes Feld und ein echtes bewusstes Veto.",
+    "epistemic_access": "Direkte kortikale und thalamische Stimulation und Ableitung bei wachen neurochirurgischen Patienten, EEG an der Kopfhaut sowie Zeitberichte der Versuchspersonen mithilfe eines rotierenden Uhrpunkts.",
+    "constituents_and_structure": "Drei getrennte Variablen: der zeitliche Verlauf der neuronalen Verarbeitung, der zeitliche Verlauf des berichtbaren Gewahrseins und der erlebte zeitliche Ablauf eines Ereignisses."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phänomenale Empfindung, subjektive Zeitwahrnehmung, bewusster Wille und Handlungsfähigkeit.",
+    "distinctive_mechanism_or_principle": "Der Faktor „Einschaltzeit“: Die Dauer der geeigneten neuronalen Aktivierung, die gegen die Intensität abgewogen wird, entscheidet darüber, ob die Verarbeitung bewusst wird. Die Erfahrung wird dann auf die frühe kortikale Antwort zurückdatiert.",
+    "dynamics_of_emergence": "Erfahrung entsteht erst nach einer unbewussten neuronalen Phase von bis zu etwa 500 ms. Libet vermutete, dass mentale Ereignisse im Allgemeinen unbewusst beginnen.",
+    "location_and_distribution": "Somatosensorischer Kortex und Thalamus für die sensorische Verarbeitung, motorisch bezogene kortikale Aktivität für das Bereitschaftspotenzial.",
+    "causation_and_functional_role": "Der bewusste Wille leitet spontane Handlungen nicht ein, kann sie aber in den etwa 200 ms vor der Bewegung unterbinden („freies Nicht-Wollen“). Libet behandelte dieses Veto als echte, nicht determinierte bewusste Macht.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Sobald neuronale Adäquanz erreicht ist, wird der erlebte Zeitpunkt einer Erfahrung auf das primäre evozierte Potenzial zurückbezogen. Die subjektive zeitliche Ordnung ist daher ein konstruierter Inhalt.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Für eine berichtete Empfindung bei Schwellenreizung des Kortex waren Impulsfolgen von bis zu etwa 500 ms nötig.",
+      "Hautreize wurden gegenüber kortikalen Reizen zurückdatiert, denen eine primäre evozierte Antwort fehlt, wie es die subjektive Rückbezugstheorie vorhersagt.",
+      "Bei thalamischer Stimulation erkannten Versuchspersonen Reize über dem Zufallsniveau bei Dauern, die sie als nicht gespürt berichteten.",
+      "Das Bereitschaftspotenzial begann etwa 550 ms vor ungeplanten Bewegungen, das Bewusstsein des Dranges etwa 200 ms davor."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirische Neurophysiologie bei wachen Patienten, verbunden mit einem philosophischen Argument für nichtphysische, kausal wirksame Erfahrung."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirisch prüfbar",
+    "known_empirical_interventions_or_tests": "Direkte Stimulation des somatosensorischen Kortex, der Lemniscus medialis und des ventrobasalen Thalamus; Entscheidungserkennung unter thalamischer Stimulation; das Paradigma des Bereitschaftspotenzials mit dem Uhrpunkt.",
+    "criticisms_and_tensions": "Schurger, Sitt und Dehaene modellieren das Bereitschaftspotenzial als Mittelungsartefakt eines stochastischen Akkumulators. Sein „Beginn“ markiert dann kein reales Ereignis, und der Zeitvergleich mit dem Gewahrsein bricht zusammen. Dennett lehnt die Rückdatierung ab, weil sie ein inneres Theater voraussetze. Gomes und Pockett lesen die sensorischen Daten als vereinbar mit deutlich kürzeren Latenzen. Kritiker weisen außerdem darauf hin, dass das Veto selbst unbewusste Ursachen haben könnte und dass die Uhrberichte über das Gewahrsein unzuverlässig sind.",
+    "open_questions_and_limitations": "Die Stimulationsstudien stützen sich auf kleine klinische Stichproben, die sich schwer replizieren lassen. Die Halbsekunden-Angabe ist nicht gesichert, und die untersuchten einfachen, zwecklosen Bewegungen unterscheiden sich von echten Entscheidungen. Ob ein eigenständiges Bereitschaftspotenzial in einzelnen Durchgängen existiert, bleibt offen.",
+    "ontological_coherence": "Durch die Theorie zieht sich eine Spannung. Die Daten, die für den Physikalismus herangezogen werden, stammen von einem Theoretiker, der ein interaktionistischer Nichtphysikalist war. Zeitmessungen betreffen, wann Erfahrung auftritt, nicht, was sie ist."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Ungewiss",
+      "rationale": "Libet bindet Erfahrung an ein Feld, das durch Hirnaktivität erzeugt wird. Er sagt nicht, ob nichtbiologische Systeme ein solches Feld erzeugen könnten."
+    },
+    "survival_beyond_death": {
+      "stance": "Unwahrscheinlich",
+      "rationale": "Obwohl Libet Erfahrung für nichtphysisch hielt, nahm er an, dass sie durch Hirnaktivität erzeugt wird. Nichts in seiner Auffassung deutet darauf hin, dass sie das Gehirn überdauert."
+    },
+    "meaning_and_purpose": {
+      "stance": "Nur humanistisch",
+      "rationale": "Libet verteidigte Willensfreiheit und moralische Verantwortung über das bewusste Veto, ohne einen kosmischen Zweck zu behaupten."
+    },
+    "virtual_immortality": {
+      "stance": "Ungewiss",
+      "rationale": "Die Auffassung behandelt nicht, ob ein simuliertes Gehirn ein bewusstes Feld erzeugen würde."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      { "name": "Libet's Conscious Mental Field", "relationship": "Erweiterung" },
+      { "name": "Dennett's Multiple Drafts Model", "relationship": "Kritik" },
+      { "name": "Halligan and Oakley’s Species-Enhancing Epiphenomenalism", "relationship": "Kontrast" },
+      { "name": "Sapolsky's Hard Incompatibilism", "relationship": "Kontrast" }
+    ],
+    "sources_and_references": [
+      { "title_with_names": "Mind Time: The Temporal Factor in Consciousness, Benjamin Libet", "year": 2004 },
+      { "title_with_names": "Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential), B. Libet, C. A. Gleason, E. W. Wright and D. K. Pearl", "year": 1983 },
+      { "title_with_names": "Subjective referral of the timing for a conscious sensory experience, B. Libet, E. W. Wright, B. Feinstein and D. K. Pearl", "year": 1979 },
+      { "title_with_names": "Control of the transition from sensory detection to sensory awareness in man by the duration of a thalamic stimulus, B. Libet et al.", "year": 1991 },
+      { "title_with_names": "Unconscious cerebral initiative and the role of conscious will in voluntary action, Benjamin Libet", "year": 1985 },
+      { "title_with_names": "A testable field theory of mind-brain interaction, Benjamin Libet", "year": 1994 },
+      { "title_with_names": "An accumulator model for spontaneous neural activity prior to self-initiated movement, A. Schurger, J. D. Sitt and S. Dehaene", "year": 2012 },
+      { "title_with_names": "What is the readiness potential?, A. Schurger, P. B. Hu, J. Pak and A. L. Roskies", "year": 2021 }
+    ]
+  }
+}
