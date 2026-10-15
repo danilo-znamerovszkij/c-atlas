@@ -96,7 +96,7 @@ const head = (entries, removable) =>
     ${entries.map((e, i) => `<div class="cmp-col" ${slotStyle(i)}>
       <a class="cmp-family" href="${escHtml(e.familyUrl)}">${escHtml(e.family)}</a>
       <a class="cmp-title" href="${escHtml(e.url)}">${escHtml(e.title)}</a>
-      ${e.thinkers?.length ? `<span class="cmp-thinkers">${escHtml(e.thinkers.slice(0, 3).join(", "))}${e.thinkers.length > 3 ? " …" : ""}</span>` : ""}
+      ${e.thinkers?.length ? `<span class="cmp-people">${e.photos?.length ? `<span class="cmp-photos">${e.photos.map((p) => `<img class="cmp-photo" src="${escHtml(p.src)}" alt="" width="26" height="26" loading="lazy" decoding="async" title="${escHtml(p.title)}" />`).join("")}</span>` : ""}<span class="cmp-thinkers">${escHtml(e.thinkers.slice(0, 3).join(", "))}${e.thinkers.length > 3 ? " …" : ""}</span></span>` : ""}
       ${removable ? `<button type="button" class="cmp-remove" data-remove="${escHtml(e.slug)}" aria-label="Remove ${escHtml(e.short)}">×</button>` : ""}
     </div>`).join("")}
   </div>`;

@@ -1119,8 +1119,30 @@ body {
 }
 
 .ssr-theory-thinkers {
-  color: rgba(255, 255, 255, 0.6);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 18px;
+  color: #f1f5f9;
   font-size: 14px;
+}
+
+// A thinker's name with their portrait (src/shared/portraits.js): a small
+// black-and-white circle. Used by the panel and the server-rendered article.
+.thinker {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.thinker-photo {
+  flex: none;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  object-fit: cover;
+  filter: grayscale(1) contrast(1.05);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  background: #222;
 }
 
 // Merriam's █ notation (see src/utils/quale.ts): a black square, outlined so it

@@ -1,0 +1,1279 @@
+{
+  "_note": "Thinker portraits (public/portraits) from Wikimedia Commons, free licences only. Keyed by the name used in theory entries. Regenerate: node scripts/portraits/fetch.mjs && node scripts/portraits/crop.mjs",
+  "portraits": {
+    "Roger Penrose": {
+      "src": "/portraits/roger-penrose.webp",
+      "author": "Cirone-Musi, Festival della Scienza",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Roger_Penrose_at_Festival_della_Scienza_Oct_29_2011.jpg"
+    },
+    "Stuart Hameroff": {
+      "src": "/portraits/stuart-hameroff.webp",
+      "author": "Zereshk",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Stuart_Hameroff_TASC2008.JPG"
+    },
+    "Rupert Spira": {
+      "src": "/portraits/rupert-spira.webp",
+      "author": "Awareness",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rupert_Spira.jpg"
+    },
+    "Philip Goff": {
+      "src": "/portraits/philip-goff.webp",
+      "author": "Art Uncut",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Philip_Goff.jpg"
+    },
+    "David Bentley Hart": {
+      "src": "/portraits/david-bentley-hart.webp",
+      "author": "Jjhake",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:David_Bentley_Hart_3_Nov_2022_Interview_cropped.png"
+    },
+    "Bernardo Kastrup": {
+      "src": "/portraits/bernardo-kastrup.webp",
+      "author": "Rebel Wisdom",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bernardo_Kastrup_-_2021_(cropped).jpg"
+    },
+    "J.P. Moreland": {
+      "src": "/portraits/j-p-moreland.webp",
+      "author": "J.P. Moreland",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:JP_Moreland.jpg"
+    },
+    "Richard Swinburne": {
+      "src": "/portraits/richard-swinburne.webp",
+      "author": "Ziel",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Richard_Swinburne_2009_(3x4_cropped).jpg"
+    },
+    "David Chalmers": {
+      "src": "/portraits/david-chalmers.webp",
+      "author": "DannyGolcman",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:David_chalmers.jpg"
+    },
+    "Giulio Tononi": {
+      "src": "/portraits/giulio-tononi.webp",
+      "author": "NIH",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Giulio_Tononi_at_NIH_PioneerAwardg_2005.jpg"
+    },
+    "Christof Koch": {
+      "src": "/portraits/christof-koch.webp",
+      "author": "Zereshk",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Koch_TASC2008.JPG"
+    },
+    "Frank Jackson": {
+      "src": "/portraits/frank-jackson.webp",
+      "author": "Pashute",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:FrankJackson.jpg"
+    },
+    "Sam Harris": {
+      "src": "/portraits/sam-harris.webp",
+      "author": "Cmichel67 (Christopher Michel)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sam_Harris_2016_(cropped).jpg"
+    },
+    "Paul Davies": {
+      "src": "/portraits/paul-davies.webp",
+      "author": "Christopher Michel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Paul_Davies_2016.jpg"
+    },
+    "Thomas Nagel": {
+      "src": "/portraits/thomas-nagel.webp",
+      "author": "Nagelt",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Thomas_Nagel_(cropped).jpg"
+    },
+    "Ned Block": {
+      "src": "/portraits/ned-block.webp",
+      "author": "Ned Block",
+      "license": "GFDL",
+      "licenseUrl": "http://www.gnu.org/copyleft/fdl.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Large_ned.block.jpg"
+    },
+    "Deepak Chopra": {
+      "src": "/portraits/deepak-chopra.webp",
+      "author": "Gage Skidmore",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Deepak_Chopra_by_Gage_Skidmore.jpg"
+    },
+    "Menas Kafatos": {
+      "src": "/portraits/menas-kafatos.webp",
+      "author": "Dreas1892",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Menaskafatos.jpg"
+    },
+    "Noam Chomsky": {
+      "src": "/portraits/noam-chomsky.webp",
+      "author": "Σ, retouched by Wugapodes and Jonnmann",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Noam_Chomsky_portrait_2017_retouched.jpg"
+    },
+    "Rupert Carhart-Harris": {
+      "src": "/portraits/rupert-carhart-harris.webp",
+      "author": "Thomas Angus, Imperial College London",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:190723_Robin_Carhart-Harris,_Centre_for_Psychedelic_Research_meeting_(cropped).jpg"
+    },
+    "George Ellis": {
+      "src": "/portraits/george-ellis.webp",
+      "author": "David Monniaux",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:George_Ellis_0040.jpg"
+    },
+    "Max Tegmark": {
+      "src": "/portraits/max-tegmark.webp",
+      "author": "Web Summit",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Partnership_-_CGTN_%26_Razor_Broadcast_Studio_(54919125534)_(cropped).jpg"
+    },
+    "Swami Vivekananda": {
+      "src": "/portraits/swami-vivekananda.webp",
+      "author": "The original uploader was Dziewa at English Wikipedia.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Swami_Vivekananda-1893-09-signed.jpg"
+    },
+    "Bhagavan Sri Ramana Maharshi": {
+      "src": "/portraits/bhagavan-sri-ramana-maharshi.webp",
+      "author": "G. G. Welling",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Sri_Ramana_Maharshi_-_Portrait_-_G._G_Welling_-_1948.jpg"
+    },
+    "Sri Aurobindo": {
+      "src": "/portraits/sri-aurobindo.webp",
+      "author": "Rudolf 1922",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Sri_aurobindo.jpg"
+    },
+    "Lee Smolin": {
+      "src": "/portraits/lee-smolin.webp",
+      "author": "Lumidek at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lee_Smolin_At_Harvard_(cropped_version_1).jpg"
+    },
+    "René Descartes": {
+      "src": "/portraits/rene-descartes.webp",
+      "author": "After Frans Hals",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg"
+    },
+    "Baruch Spinoza": {
+      "src": "/portraits/baruch-spinoza.webp",
+      "author": "anonymous",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Spinoza.jpg"
+    },
+    "Thomas Hobbes": {
+      "src": "/portraits/thomas-hobbes.webp",
+      "author": "John Michael Wright",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Thomas_Hobbes_by_John_Michael_Wright_(colour)_(3x4_cropped).jpg"
+    },
+    "John Locke": {
+      "src": "/portraits/john-locke.webp",
+      "author": "Godfrey Kneller",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Godfrey_Kneller_-_Portrait_of_John_Locke_(Hermitage).jpg"
+    },
+    "David Hume": {
+      "src": "/portraits/david-hume.webp",
+      "author": "Allan Ramsay",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:David_Hume_Ramsay.jpg"
+    },
+    "Immanuel Kant": {
+      "src": "/portraits/immanuel-kant.webp",
+      "author": "Johann Gottlieb Becker (1720-1782)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg"
+    },
+    "Gottfried Wilhelm Leibniz": {
+      "src": "/portraits/gottfried-wilhelm-leibniz.webp",
+      "author": "Christoph Bernhard Francke",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Christoph_Bernhard_Francke_-_Bildnis_des_Philosophen_Leibniz_(ca._1695).jpg"
+    },
+    "George Berkeley": {
+      "src": "/portraits/george-berkeley.webp",
+      "author": "John Smibert",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:John_Smibert_-_Bishop_George_Berkeley_-_Google_Art_Project_(cropped).jpg"
+    },
+    "Arthur Schopenhauer": {
+      "src": "/portraits/arthur-schopenhauer.webp",
+      "author": "Johann Schäfer",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Arthur_Schopenhauer_by_J_Sch%C3%A4fer,_1859b.jpg"
+    },
+    "William James": {
+      "src": "/portraits/william-james.webp",
+      "author": "Notman Studios (photographer)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:William_James_b1842c.jpg"
+    },
+    "Edmund Husserl": {
+      "src": "/portraits/edmund-husserl.webp",
+      "author": "Unknown (Mondadori Publishers)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Edmund_Husserl_1910s.jpg"
+    },
+    "Maurice Merleau-Ponty": {
+      "src": "/portraits/maurice-merleau-ponty.webp",
+      "author": "http://www.philosophical-investigations.org/Users/PerigGouanvic",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Maurice_Merleau-Ponty.jpg"
+    },
+    "Martin Heidegger": {
+      "src": "/portraits/martin-heidegger.webp",
+      "author": "Willy Pragher",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Freiburg,_Z%C3%A4hringen-_Jahnhalle,_Prof._Martin_Heidegger_w%C3%A4hrend_eines_Vortrags_-_LABW_-_Staatsarchiv_Freiburg_W_134_Nr._023740f_(cropped).jpeg"
+    },
+    "Jean-Paul Sartre": {
+      "src": "/portraits/jean-paul-sartre.webp",
+      "author": "Unknown authorUnknown author",
+      "license": "CC BY-SA 3.0 nl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Jean_Paul_Sartre_1965.jpg"
+    },
+    "Henri Bergson": {
+      "src": "/portraits/henri-bergson.webp",
+      "author": "Henri Manuel",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Henri_Bergson_02.jpg"
+    },
+    "Alfred North Whitehead": {
+      "src": "/portraits/alfred-north-whitehead.webp",
+      "author": "unknown",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:ANWhitehead.jpg"
+    },
+    "Bertrand Russell": {
+      "src": "/portraits/bertrand-russell.webp",
+      "author": "Bassano Ltd",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Bertrand_Russell_in_1936.jpg"
+    },
+    "Sigmund Freud": {
+      "src": "/portraits/sigmund-freud.webp",
+      "author": "Max Halberstadt",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Sigmund_Freud,_by_Max_Halberstadt_(cropped).jpg"
+    },
+    "Thomas Aquinas": {
+      "src": "/portraits/thomas-aquinas.webp",
+      "author": "Carlo Crivelli",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:St-thomas-aquinasFXD.jpg"
+    },
+    "Ludwig Wittgenstein": {
+      "src": "/portraits/ludwig-wittgenstein.webp",
+      "author": "Moritz Nähr",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Ludwig_Wittgenstein_1929.jpg"
+    },
+    "Aristotle": {
+      "src": "/portraits/aristotle.webp",
+      "author": "After Lysippos",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg"
+    },
+    "Georg Wilhelm Friedrich Hegel": {
+      "src": "/portraits/georg-wilhelm-friedrich-hegel.webp",
+      "author": "Jakob Schlesinger",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Jakob_Schlesinger_-_Hegel_1831.jpg"
+    },
+    "Carl Jung": {
+      "src": "/portraits/carl-jung.webp",
+      "author": "Unbekannt",
+      "license": "PDM-owner",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:ETH-BIB-Jung,_Carl_Gustav_(1875-1961)-Portrait-Portr_14163_(cropped).tif"
+    },
+    "Wolfgang Pauli": {
+      "src": "/portraits/wolfgang-pauli.webp",
+      "author": "Nobel foundation",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Pauli.jpg"
+    },
+    "David Bohm": {
+      "src": "/portraits/david-bohm.webp",
+      "author": "Unknown photographer",
+      "license": "Attribution",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:David_Bohm.jpg"
+    },
+    "Alan Turing": {
+      "src": "/portraits/alan-turing.webp",
+      "author": "Elliott &amp; Fry",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Alan_turing_header.jpg"
+    },
+    "Daniel Dennett": {
+      "src": "/portraits/daniel-dennett.webp",
+      "author": "Dmitry Rozhkov",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Daniel_Dennett_2.jpg"
+    },
+    "John Searle": {
+      "src": "/portraits/john-searle.webp",
+      "author": "FranksValli",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:John_Searle_speaking_at_Google_4_(cropped).jpg"
+    },
+    "Owen Flanagan": {
+      "src": "/portraits/owen-flanagan.webp",
+      "author": "Gabriella Clare Marino",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Owen_Flanagan.jpg"
+    },
+    "Rebecca Newberger Goldstein": {
+      "src": "/portraits/rebecca-newberger-goldstein.webp",
+      "author": "same",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rebecca_Goldstein.jpg"
+    },
+    "Paul Feyerabend": {
+      "src": "/portraits/paul-feyerabend.webp",
+      "author": "Grazia Borrini-Feyerabend",
+      "license": "Attribution",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Paul_Feyerabend_Berkeley.jpg"
+    },
+    "Patricia Churchland": {
+      "src": "/portraits/patricia-churchland.webp",
+      "author": "Vera de Kok",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Patricia_Churchland,_2015_(cropped).jpg"
+    },
+    "Nicholas Humphrey": {
+      "src": "/portraits/nicholas-humphrey.webp",
+      "author": "LittleHow",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nick_Humphrey.jpg"
+    },
+    "Susan Blackmore": {
+      "src": "/portraits/susan-blackmore.webp",
+      "author": "StagiaireMGIMO",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Susan_Blackmore_(2014).jpg"
+    },
+    "David Malet Armstrong": {
+      "src": "/portraits/david-malet-armstrong.webp",
+      "author": "Damato",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:DavidMArmstrong.jpg"
+    },
+    "Willard Van Orman Quine": {
+      "src": "/portraits/willard-van-orman-quine.webp",
+      "author": "Maryclaire Quine",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Willard_Van_Orman_Quine_on_Bluenose_II_in_Halifax_NS_harbor_1980.jpg"
+    },
+    "Wilfrid Sellars": {
+      "src": "/portraits/wilfrid-sellars.webp",
+      "author": "S. Edgerton",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Wilfrid_Sellars_Faculty_Photo.jpg"
+    },
+    "Saul Kripke": {
+      "src": "/portraits/saul-kripke.webp",
+      "author": "Oursipan",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Kripke.JPG"
+    },
+    "Mario Bunge": {
+      "src": "/portraits/mario-bunge.webp",
+      "author": "Prof. Mario Bunge",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:MarioBungesmall.jpg"
+    },
+    "Francis Crick": {
+      "src": "/portraits/francis-crick.webp",
+      "author": "Francis_Crick.png: Photo: Marc Lieberman, per ticket:2015100910022707 derivative work: Materialscientist (talk)",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Francis_Crick_crop.jpg"
+    },
+    "Stanislas Dehaene": {
+      "src": "/portraits/stanislas-dehaene.webp",
+      "author": "Per Henning/NTNU",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Stanislas_Dehaene_2014.jpg"
+    },
+    "Gerald Edelman": {
+      "src": "/portraits/gerald-edelman.webp",
+      "author": "Bernard Gotfryd",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Gerald_Edelman.jpg"
+    },
+    "William H. Calvin": {
+      "src": "/portraits/william-h-calvin.webp",
+      "author": "Bob Lee",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:William_Calvin-9Aug2008_(cropped).jpg"
+    },
+    "Joscha Bach": {
+      "src": "/portraits/joscha-bach.webp",
+      "author": "Joi Ito from Cambridge, MA, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Joscha_Bach_(11524872763).jpg"
+    },
+    "Jonathan Schooler": {
+      "src": "/portraits/jonathan-schooler.webp",
+      "author": "Dan Dascalescu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Jonathan_Schooler.jpg"
+    },
+    "Earl K. Miller": {
+      "src": "/portraits/earl-k-miller.webp",
+      "author": "Neocx",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Earl-miller-photo-3.jpg"
+    },
+    "Rodolfo Llinas": {
+      "src": "/portraits/rodolfo-llinas.webp",
+      "author": "Rodolfo Llinas",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Rodolfo_Llin%C3%A1s_in_2010.png"
+    },
+    "Nick Bostrom": {
+      "src": "/portraits/nick-bostrom.webp",
+      "author": "Future of Humanity Institute",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Prof_Nick_Bostrom_324-1.jpg"
+    },
+    "Hilary Putnam": {
+      "src": "/portraits/hilary-putnam.webp",
+      "author": "Unknown authorUnknown author",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Hilary_Putnam.jpg"
+    },
+    "Lenore Blum": {
+      "src": "/portraits/lenore-blum.webp",
+      "author": "George Bergman",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lenore_Blum_1998.jpg"
+    },
+    "Avrim Blum": {
+      "src": "/portraits/avrim-blum.webp",
+      "author": "Rweba",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wikipedia_avrimblum1.jpg"
+    },
+    "Marvin Minsky": {
+      "src": "/portraits/marvin-minsky.webp",
+      "author": "The original uploader was Sethwoodworth at English Wikipedia.",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Marvin_Minsky_at_OLPCb_(3x4_cropped).jpg"
+    },
+    "Blaise Agüera y Arcas": {
+      "src": "/portraits/blaise-aguera-y-arcas.webp",
+      "author": "Cmichel67",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Blaise_Ag%C3%BCera_y_Arcas_in_2025_02.jpg"
+    },
+    "Stephen Grossberg": {
+      "src": "/portraits/stephen-grossberg.webp",
+      "author": "Stephen Grossberg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Stephen_Grossberg_in_July,_2016.jpg"
+    },
+    "Ray Jackendoff": {
+      "src": "/portraits/ray-jackendoff.webp",
+      "author": "The original uploader was Mitchoyoshitaka at English Wikipedia.",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ray_Jackendoff.jpg"
+    },
+    "Anil Seth": {
+      "src": "/portraits/anil-seth.webp",
+      "author": "Carlos Figueroa Rojas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Congreso_Futuro_-_2019-01-14_-_09.jpg"
+    },
+    "Antonio Damasio": {
+      "src": "/portraits/antonio-damasio.webp",
+      "author": "Fronteiras do Pensamento",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ant%C3%B3nio_Dam%C3%A1sio_no_Fronteiras_do_Pensamento_Porto_Alegre_2013_cropped.png"
+    },
+    "Hanna Damasio": {
+      "src": "/portraits/hanna-damasio.webp",
+      "author": "António Pedro Ferreira",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hanna_Dam%C3%A1sio.jpg"
+    },
+    "Jaak Panksepp": {
+      "src": "/portraits/jaak-panksepp.webp",
+      "author": "Andres Tennus / Tartu Ülikool",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Jaak_Panksepp_paremal_(2004_detsember).JPG"
+    },
+    "Mark Solms": {
+      "src": "/portraits/mark-solms.webp",
+      "author": "News UCT",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mark_Solms_2008.jpg"
+    },
+    "Andrew E. Budson": {
+      "src": "/portraits/andrew-e-budson.webp",
+      "author": "Andrew Budson",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Andrew_Budson.jpg"
+    },
+    "Terrence Deacon": {
+      "src": "/portraits/terrence-deacon.webp",
+      "author": "Kk",
+      "license": "GFDL",
+      "licenseUrl": "http://www.gnu.org/copyleft/fdl.html",
+      "source": "https://commons.wikimedia.org/wiki/File:TerryDeacon.jpg"
+    },
+    "George Lakoff": {
+      "src": "/portraits/george-lakoff.webp",
+      "author": "Mikethelinguist",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:George_Lakoff.jpg"
+    },
+    "Francisco Varela": {
+      "src": "/portraits/francisco-varela.webp",
+      "author": null,
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Francisco_Varela.jpg"
+    },
+    "Eleanor Rosch": {
+      "src": "/portraits/eleanor-rosch.webp",
+      "author": "Unknown Author",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Eleanor_Rosch.jpg"
+    },
+    "Humberto Maturana": {
+      "src": "/portraits/humberto-maturana.webp",
+      "author": "Rodrigo Fernández",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Humberto_Maturana-FILSA2015.jpg"
+    },
+    "Amanda Gefter": {
+      "src": "/portraits/amanda-gefter.webp",
+      "author": "Harvard STS program",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Amanda_Gefter.jpg"
+    },
+    "Alva Noë": {
+      "src": "/portraits/alva-noe.webp",
+      "author": "jwalsh from Seattle",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Alva_No%C3%AB_(3419836383).jpg"
+    },
+    "Douglas Hofstadter": {
+      "src": "/portraits/douglas-hofstadter.webp",
+      "author": "\"null0\"",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Douglas_Hofstadter,_Stanford_2006_(crop).jpg"
+    },
+    "Graham Harman": {
+      "src": "/portraits/graham-harman.webp",
+      "author": "DoctorWolffel",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Graham_Harman_at_MACBA.jpg"
+    },
+    "Fred Dretske": {
+      "src": "/portraits/fred-dretske.webp",
+      "author": "Fred I. Dretske",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fred_Dretske.jpg"
+    },
+    "Gilbert Harman": {
+      "src": "/portraits/gilbert-harman.webp",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Gilbert_Harman_1960_yearbook_photo_(cropped).jpg"
+    },
+    "Thomas Metzinger": {
+      "src": "/portraits/thomas-metzinger.webp",
+      "author": "Jumpilo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Thomas_Metzinger_2023_free.jpg"
+    },
+    "Peter Godfrey-Smith": {
+      "src": "/portraits/peter-godfrey-smith.webp",
+      "author": "Danimations",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:P1160335_peter_godfrey-smith_reading.jpg"
+    },
+    "Kristin Andrews": {
+      "src": "/portraits/kristin-andrews.webp",
+      "author": "Institut des sciences cognitives - UQAM",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kristinandrews2018.png"
+    },
+    "George F.R. Ellis": {
+      "src": "/portraits/george-f-r-ellis.webp",
+      "author": "David Monniaux",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:George_Ellis_0040.jpg"
+    },
+    "Roger Sperry": {
+      "src": "/portraits/roger-sperry.webp",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Roger_Wolcott_Sperry.jpg"
+    },
+    "Eugene Wigner": {
+      "src": "/portraits/eugene-wigner.webp",
+      "author": "Nobel foundation",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Wigner.jpg"
+    },
+    "John von Neumann": {
+      "src": "/portraits/john-von-neumann.webp",
+      "author": "LANL",
+      "license": "Attribution",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:JohnvonNeumann-LosAlamos.gif"
+    },
+    "Fritz London": {
+      "src": "/portraits/fritz-london.webp",
+      "author": "GFHund",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:London,Fritz_1928_M%C3%BCnchen.jpg"
+    },
+    "Edmond Bauer": {
+      "src": "/portraits/edmond-bauer.webp",
+      "author": "Benjamin Couprie",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Solvay1933Large_(cropped).jpg"
+    },
+    "Hartmut Neven": {
+      "src": "/portraits/hartmut-neven.webp",
+      "author": "Quantum Computing Guy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hartmut_Neven.png"
+    },
+    "Stephen Wolfram": {
+      "src": "/portraits/stephen-wolfram.webp",
+      "author": "Stephen Wolfram's PR team/Stephen Faust",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Stephen_Wolfram_PR_(cropped).jpg"
+    },
+    "Federico Faggin": {
+      "src": "/portraits/federico-faggin.webp",
+      "author": "Intel Free Press",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Federico_Faggin_(cropped).jpg"
+    },
+    "Stuart Kauffman": {
+      "src": "/portraits/stuart-kauffman.webp",
+      "author": "Teemu Rajala",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Stuart_Kauffman.jpg"
+    },
+    "Bernard Carr": {
+      "src": "/portraits/bernard-carr.webp",
+      "author": "Mystic Meg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bernard-carr.jpg"
+    },
+    "Maria Strømme": {
+      "src": "/portraits/maria-str-mme.webp",
+      "author": "NTNU – Norwegian University of Science and Technology",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Maria_Str%C3%B8mme_(50266843491).jpg"
+    },
+    "Jacques Derrida": {
+      "src": "/portraits/jacques-derrida.webp",
+      "author": "Auto-épreuve",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Derrida_EHESS_(cropped).png"
+    },
+    "Rodolfo Gambini": {
+      "src": "/portraits/rodolfo-gambini.webp",
+      "author": "Pullin",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Rodolfo_Gambini.gif"
+    },
+    "Christopher A. Fuchs": {
+      "src": "/portraits/christopher-a-fuchs.webp",
+      "author": "DutchAgent",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:ChristopherAlanFuchs.jpg"
+    },
+    "Carlton Caves": {
+      "src": "/portraits/carlton-caves.webp",
+      "author": "CMCaves",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Carlton_M_Caves_10-3-2020.jpg"
+    },
+    "Carlo Rovelli": {
+      "src": "/portraits/carlo-rovelli.webp",
+      "author": "Fronteiras do Pensamento",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Carlo_Rovelli_no_Fronteiras_do_Pensamento_S%C3%A3o_Paulo_2017_(34781380545).jpg"
+    },
+    "Erik Hoel": {
+      "src": "/portraits/erik-hoel.webp",
+      "author": "Dotori1001",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Erik-hoel.jpg"
+    },
+    "Susan Schneider": {
+      "src": "/portraits/susan-schneider.webp",
+      "author": "WikiUser5628",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:34266723-1886770384676793-8361192811432771584-o.jpg"
+    },
+    "Rupert Sheldrake": {
+      "src": "/portraits/rupert-sheldrake.webp",
+      "author": "Zereshk",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sheldrake_TASC2008.JPG"
+    },
+    "David Ray Griffin": {
+      "src": "/portraits/david-ray-griffin.webp",
+      "author": "Vanished user lolalsdkj4ijesis22",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Dr.griffin.jpg"
+    },
+    "John Polkinghorne": {
+      "src": "/portraits/john-polkinghorne.webp",
+      "author": "Jack1956",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:John_Polkinghorne_2007_(3x4_cropped).jpg"
+    },
+    "Pierre Teilhard de Chardin": {
+      "src": "/portraits/pierre-teilhard-de-chardin.webp",
+      "author": "Phillippe Halsman",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:TeilhardP_1955a.jpg"
+    },
+    "Ilia Delio": {
+      "src": "/portraits/ilia-delio.webp",
+      "author": "Lisa Drover OSF",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ilia_Delio_06_(3x4_cropped).jpg"
+    },
+    "V.S. Ramachandran": {
+      "src": "/portraits/v-s-ramachandran.webp",
+      "author": "David Shankbone",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Vilayanur_S_Ramachandran_2011_Shankbone.JPG"
+    },
+    "Plato": {
+      "src": "/portraits/plato.webp",
+      "author": "Marie-Lan Nguyen",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.png"
+    },
+    "Kapila": {
+      "src": "/portraits/kapila.webp",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Kapila_(cropped).png"
+    },
+    "Gauḍapāda": {
+      "src": "/portraits/gaudapada.webp",
+      "author": "Ashok Prabhu",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Shri_Gaudapadacharya_Statue.jpg"
+    },
+    "Nicolas Malebranche": {
+      "src": "/portraits/nicolas-malebranche.webp",
+      "author": "Rijksmuseum",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Portret_van_Nicolas_Malebranche,_RP-P-OB-72.656_(cropped).jpg"
+    },
+    "Eleonore Stump": {
+      "src": "/portraits/eleonore-stump.webp",
+      "author": "Stumpep",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Estump.jpg"
+    },
+    "St. Thomas Aquinas": {
+      "src": "/portraits/st-thomas-aquinas.webp",
+      "author": "Carlo Crivelli",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:St-thomas-aquinasFXD.jpg"
+    },
+    "Edward Feser": {
+      "src": "/portraits/edward-feser.webp",
+      "author": "Edward Feser",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Ed_Feser_Portrait_(4x5_cropped).jpg"
+    },
+    "William Lane Craig": {
+      "src": "/portraits/william-lane-craig.webp",
+      "author": "ReasonableFaith.org",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:William_Lane_Craig_(3x4_cropped).jpg"
+    },
+    "al-Farabi": {
+      "src": "/portraits/al-farabi.webp",
+      "author": "Mr.Nostalgic",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Alpharabius_in_Liber_Chronicarum_1493_AD.png"
+    },
+    "Hamza Yusuf": {
+      "src": "/portraits/hamza-yusuf.webp",
+      "author": "Unknown authorUnknown author",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Hamza_Yusuf_(2025).png"
+    },
+    "Seyyed Hossein Nasr": {
+      "src": "/portraits/seyyed-hossein-nasr.webp",
+      "author": "Tariqabjotu at English Wikipedia",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hossein_nasr.jpg"
+    },
+    "Swami Medhananda": {
+      "src": "/portraits/swami-medhananda.webp",
+      "author": "Ellis408",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Medhananda2022.jpg"
+    },
+    "Swami Sarvapriyananda": {
+      "src": "/portraits/swami-sarvapriyananda.webp",
+      "author": "Subhobrata Chakravorti",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Swami_Sarvapriyananda.png"
+    },
+    "Umāsvāti": {
+      "src": "/portraits/umasvati.webp",
+      "author": "जैन",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E0%A4%89%E0%A4%AE%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%AE%E0%A5%80_%E0%A4%86%E0%A4%9A%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%9C%E0%A5%80.jpg"
+    },
+    "Ravi Gomatam": {
+      "src": "/portraits/ravi-gomatam.webp",
+      "author": "Yudem",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:R_Gomatam_2011.jpg"
+    },
+    "Madame Blavatsky": {
+      "src": "/portraits/madame-blavatsky.webp",
+      "author": "Unsure",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Helena_Petrovna_Blavatsky.jpg"
+    },
+    "Śaṅkara": {
+      "src": "/portraits/sankara.webp",
+      "author": "Raja Ravi Varma",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma_-_Sankaracharya.jpg"
+    },
+    "Ramana Maharshi": {
+      "src": "/portraits/ramana-maharshi.webp",
+      "author": "G. G. Welling",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Sri_Ramana_Maharshi_-_Portrait_-_G._G_Welling_-_1948.jpg"
+    },
+    "Prabhat Ranjan Sarkar": {
+      "src": "/portraits/prabhat-ranjan-sarkar.webp",
+      "author": "Ananda Marga Pracaraka Samgha",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:PRSarkar_GentlemanPhoto_3.jpg"
+    },
+    "Bhartṛhari": {
+      "src": "/portraits/bhartrhari.webp",
+      "author": "Unknown artist",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Painting_of_the_Indian_philosopher_and_grammarian_Bhart%E1%B9%9Bhari_(cropped).jpg"
+    },
+    "Nāgārjuna": {
+      "src": "/portraits/nagarjuna.webp",
+      "author": "Unknown | Recovered from Himalayan Art Resources",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Nagarjuna_with_84_mahasiddha_cropped.jpg"
+    },
+    "Vasubandhu": {
+      "src": "/portraits/vasubandhu.webp",
+      "author": "Shouyi 首一",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Vasubandhu.png"
+    },
+    "Johann Gottlieb Fichte": {
+      "src": "/portraits/johann-gottlieb-fichte.webp",
+      "author": null,
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Johann_Gottlieb_Fichte.jpg"
+    },
+    "Friedrich Wilhelm Joseph Schelling": {
+      "src": "/portraits/friedrich-wilhelm-joseph-schelling.webp",
+      "author": "Joseph Karl Stieler",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Nb_pinacoteca_stieler_friedrich_wilhelm_joseph_von_schelling.jpg"
+    },
+    "Francis Herbert Bradley": {
+      "src": "/portraits/francis-herbert-bradley.webp",
+      "author": "Pessimistic Idealism",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:F.H._Bradley.png"
+    },
+    "Iain McGilchrist": {
+      "src": "/portraits/iain-mcgilchrist.webp",
+      "author": "Rebel Wisdom",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Iain_McGilchrist.png"
+    },
+    "Subhash Kak": {
+      "src": "/portraits/subhash-kak.webp",
+      "author": "KirstenRichards",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Subhash_Kak_at_Inner_Science_Seminar,_Stillwater_26_Sept_2015.JPG"
+    },
+    "Tony Nader": {
+      "src": "/portraits/tony-nader.webp",
+      "author": "Thechaseuk",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Drtonynader.jpg"
+    },
+    "Keith Ward": {
+      "src": "/portraits/keith-ward.webp",
+      "author": "Portland Seminary from Portland, OR, USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Keith_Ward_(theologian),_2016_(cropped).jpg"
+    },
+    "Charles Sanders Peirce": {
+      "src": "/portraits/charles-sanders-peirce.webp",
+      "author": "Charles_Sanders_Peirce_theb3558.jpg: NOAA Office of NOAA Corps Operations derivative work: Ori.livneh (talk)",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Charles_Sanders_Peirce.png"
+    },
+    "Franz Brentano": {
+      "src": "/portraits/franz-brentano.webp",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Franz_Brentano_in_Vienna,_1890_(cropped).png"
+    },
+    "Alexius Meinong": {
+      "src": "/portraits/alexius-meinong.webp",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Alexius_Meinong_1900.jpg"
+    },
+    "Michel Henry": {
+      "src": "/portraits/michel-henry.webp",
+      "author": "Photographie prise au début des années 1990 par sa femme Anne Henry",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Photo_du_philosophe_Michel_Henry_(1990).jpg"
+    },
+    "Dan Zahavi": {
+      "src": "/portraits/dan-zahavi.webp",
+      "author": "Thomas Szanto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dan_Zahavi,_2014.JPG"
+    },
+    "Jiddu Krishnamurti": {
+      "src": "/portraits/jiddu-krishnamurti.webp",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Jiddu_Krishnamurti_01.jpg"
+    },
+    "Shaun Gallagher": {
+      "src": "/portraits/shaun-gallagher.webp",
+      "author": "Micahg",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:ShaunGallagher.jpg"
+    },
+    "C. D. Broad": {
+      "src": "/portraits/c-d-broad.webp",
+      "author": "Paul Arthur Schilpp.",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:C._D._Broad_philosopher.png"
+    },
+    "Charles Tart": {
+      "src": "/portraits/charles-tart.webp",
+      "author": "Judy Tart",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Charles_Tart.jpg"
+    },
+    "Brian Josephson": {
+      "src": "/portraits/brian-josephson.webp",
+      "author": "Brian Josephson",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Brian_Josephson,_March_2004.jpg"
+    },
+    "Jean Gebser": {
+      "src": "/portraits/jean-gebser.webp",
+      "author": "Unknown authorUnknown author",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Jean_Gebser_Portrait.jpg"
+    },
+    "Ian Stevenson": {
+      "src": "/portraits/ian-stevenson.webp",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Ian_Stevenson_(Postgraduate_Medicine,_1952).jpg"
+    },
+    "Thomas Berry": {
+      "src": "/portraits/thomas-berry.webp",
+      "author": "Caroline Webb, http://caroline-webb.com/",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Thomas_Berry.jpg"
+    },
+    "J. Allan Hobson": {
+      "src": "/portraits/j-allan-hobson.webp",
+      "author": "Metonyme",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Allan_Hobson_in_Vermont_(July_2016).jpg"
+    },
+    "Jerry Alan Fodor": {
+      "src": "/portraits/jerry-alan-fodor.webp",
+      "author": "en:User:Pealco",
+      "license": "Public domain",
+      "licenseUrl": null,
+      "source": "https://commons.wikimedia.org/wiki/File:Jerry_Fodor.jpg"
+    },
+    "Peter Hacker": {
+      "src": "/portraits/peter-hacker.webp",
+      "author": "Prof4321",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Peter_hacker_bw(1884).jpg"
+    },
+    "Steven Pinker": {
+      "src": "/portraits/steven-pinker.webp",
+      "author": "Christopher Michel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Steven_Pinker_in_2023.jpg"
+    },
+    "David Eagleman": {
+      "src": "/portraits/david-eagleman.webp",
+      "author": "Christopher Michel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:David_Eagleman_by_Michel_5-31-24.jpg"
+    },
+    "Michael Shermer": {
+      "src": "/portraits/michael-shermer.webp",
+      "author": "David Patton",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Michael_Shermer_wiki_portrait4.jpg"
+    },
+    "Markus Gabriel": {
+      "src": "/portraits/markus-gabriel.webp",
+      "author": "Büro Markus Gabriel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Er%C3%B6ffnung_phil.Cologne0283_(cropped).jpg"
+    },
+    "Avicenna": {
+      "src": "/portraits/avicenna.webp",
+      "author": "National Library of Medicine",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "source": "https://commons.wikimedia.org/wiki/File:Avicenna_Bust,_left_profile_(cropped).jpg"
+    },
+    "Karl Popper": {
+      "src": "/portraits/karl-popper.webp",
+      "author": "Franz Barta",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "source": "https://commons.wikimedia.org/wiki/File:Karl_Popper.jpg"
+    },
+    "Aldous Huxley": {
+      "src": "/portraits/aldous-huxley.webp",
+      "author": "sinaloaarchivohistorico",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "source": "https://commons.wikimedia.org/wiki/File:ALDOUS_LEONARD_HUXLEY_1894_-_1963_NOVELISTA_ENSAYISTA_Y_POETA_INGLES_(13451350533).jpg"
+    },
+    "Andy Clark": {
+      "src": "/portraits/andy-clark.webp",
+      "author": "Unknown authorUnknown author",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Andy_Clark.jpg"
+    },
+    "Peter van Inwagen": {
+      "src": "/portraits/peter-van-inwagen.webp",
+      "author": "Heller jonas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Peter_van_inwagen.jpg"
+    },
+    "Sam Parnia": {
+      "src": "/portraits/sam-parnia.webp",
+      "author": "newsonline",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://www.flickr.com/photos/55361146@N08/8645389504"
+    },
+    "Raymond Tallis": {
+      "src": "/portraits/raymond-tallis.webp",
+      "author": "Hamze.hashemi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/w/index.php?curid=98914824"
+    }
+  }
+}

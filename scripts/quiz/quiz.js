@@ -165,7 +165,7 @@
             <div>
               <a class="quiz-family" href="${esc(FAMILIES[r.t.c].url)}">${esc(FAMILIES[r.t.c].name)}</a>
               <a class="quiz-title" href="${esc(r.t.u)}">${esc(r.t.t)}</a>
-              ${r.t.h.length ? `<span class="quiz-thinkers">${esc(r.t.h.join(", "))}</span>` : ""}
+              ${r.t.h.length ? `<span class="quiz-people">${r.t.ph?.length ? `<span class="quiz-photos">${r.t.ph.map((p) => `<img class="quiz-photo" src="${esc(p.src)}" alt="" width="26" height="26" loading="lazy" decoding="async" title="${esc(p.title)}" />`).join("")}</span>` : ""}<span class="quiz-thinkers">${esc(r.t.h.join(", "))}</span></span>` : ""}
             </div>
             <span class="quiz-score" title="How close this theory is to your answers">${pct(r.score)}</span>
           </div>

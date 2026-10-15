@@ -14,6 +14,7 @@ import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 import { execSync } from "child_process";
 import { renderComparison, agreement, wireClamps, QUESTION_ROWS, MAX_THEORIES } from "./compare/render.js";
+import { portraitIndex, portraitKey, portraitTitle } from "../src/shared/portraits.js";
 
 const here = dirname(fileURLToPath(import.meta.url));
 
@@ -100,6 +101,10 @@ export function buildPages({ root, publicDir, baseData, generateSlug, resolveThe
   const out = join(publicDir, "_pages");
   const modified = contentDate(root) || new Date().toISOString().slice(0, 10);
   const readJson = (p, fallback) => (existsSync(p) ? JSON.parse(readFileSync(p, "utf-8")) : fallback);
+  const portraitData = readJson(join(root, "src", "content", "portraits.json"), { portraits: {} }).portraits;
+  const portraits = portraitIndex(portraitData);
+  // Portrait circles for a theory's first three thinkers (compare columns, quiz).
+  const photosOf = (thinkers) => thinkers.slice(0, 3).map((n) => portraits.get(portraitKey(n))).filter(Boolean).map((p) => ({ src: p.src, title: portraitTitle(p) }));
   const en = readJson(join(publicDir, "i18n", "taxonomy", "en.json"), { categories: {}, subcategories: {}, fullNames: {} });
   const categoryTexts = readJson(join(publicDir, "categories", "en.json"), {});
   const questionCopy = readJson(join(root, "src", "content", "questions.json"), {});
@@ -218,7 +223,7 @@ ${ANALYTICS(path)}
 </main>
 <footer class="hub-footer">
   <p>Consciousness Atlas maps theories from Robert Lawrence Kuhn's <a href="https://loc.closertotruth.com/">Landscape of Consciousness</a>. It describes theories; it does not rank them.</p>
-  <p><a href="/">Open the interactive map</a> · <a href="/theories">All theories A–Z</a> · <a href="/questions">Big questions</a> · <a href="/compare">Compare theories</a> · <a href="/quiz">Which theory fits you?</a> · <a href="/mentions">What people say</a> · <a href="/paper">Kuhn's paper</a></p>
+  <p><a href="/">Open the interactive map</a> · <a href="/theories">All theories A–Z</a> · <a href="/questions">Big questions</a> · <a href="/compare">Compare theories</a> · <a href="/quiz">Which theory fits you?</a> · <a href="/mentions">What people say</a> · <a href="/credits">Photo credits</a> · <a href="/paper">Kuhn's paper</a></p>
 </footer>
 ${scripts}
 </body>
@@ -393,7 +398,7 @@ ${scripts}
   const shortName = (t) => PAIR_NAMES[t.leaf] || shortLabels[t.leaf] || t.leaf;
   const entryOf = (t) => ({
     slug: generateSlug(t.leaf), short: shortName(t), title: t.title, family: label(t.category),
-    familyUrl: categoryUrl(t.category), url: t.url, thinkers: t.thinkers, data: t.data,
+    familyUrl: categoryUrl(t.category), url: t.url, thinkers: t.thinkers, data: t.data, photos: photosOf(t.thinkers),
   });
 
   const featured = pairKeys.map((k) => byLeaf.get(k)).filter(Boolean);
@@ -484,7 +489,7 @@ wireClamps(document);</script>`;
   // The tool: theories embedded for instant search; full entries load on pick.
   const toolIndex = [...theories].sort((p, q) => p.title.localeCompare(q.title)).map((t) => ({
     s: generateSlug(t.leaf), f: resolveTheoryFileStem(t.leaf), t: t.title, n: shortName(t), a: TOOL_ALIASES[t.leaf] || "",
-    c: label(t.category), cu: categoryUrl(t.category), u: t.url, h: t.thinkers.slice(0, 4), r: rank(t.leaf),
+    c: label(t.category), cu: categoryUrl(t.category), u: t.url, h: t.thinkers.slice(0, 4), r: rank(t.leaf), ph: photosOf(t.thinkers),
   }));
   const renderSrc = readFileSync(join(here, "compare", "render.js"), "utf-8").replace(/^export /gm, "");
   const toolSrc = readFileSync(join(here, "compare", "tool.js"), "utf-8");
@@ -543,6 +548,22 @@ ${toolSrc}</script>`,
     jsonLd: [{ "@type": "CollectionPage", name: "All theories of consciousness", url: SITE + "/theories", mainEntity: { "@type": "ItemList", numberOfItems: theories.length } }],
   }));
 
+  // ---- photo credits ---------------------------------------------------------------
+  const people = [...portraits.values()].sort((a, b) => a.name.split(" ").pop().localeCompare(b.name.split(" ").pop()));
+  write("credits.html", page({
+    path: "/credits", title: "Photo Credits | Consciousness Atlas",
+    description: "Credits and licences for the thinker portraits used in the Consciousness Atlas, all from Wikimedia Commons.",
+    h1: "Photo credits", eyebrow: "About",
+    lead: `The ${people.length} thinker portraits come from Wikimedia Commons, under public-domain or Creative Commons licences. They are cropped to a circle and shown in black and white. Each links to its original file.`,
+    css: `.credits{list-style:none;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px 24px;margin-top:24px}
+.credits li{display:grid;grid-template-columns:56px 1fr;gap:4px 14px;align-items:center}
+.credits img{grid-row:span 2;width:56px;height:56px;border-radius:50%;object-fit:cover;filter:grayscale(1);border:1px solid var(--line)}
+.credits b{color:#fff;font-weight:500}
+.credits span{color:var(--muted);font-size:13px}
+.credits span a{color:var(--gold-soft)}`,
+    body: `<ul class="credits">${people.map((p) => `<li><img src="${esc(p.src)}" alt="" width="56" height="56" loading="lazy" /><b>${esc(p.name)}</b><span>${esc(p.author || "Unknown author")} · ${p.licenseUrl ? `<a href="${esc(p.licenseUrl)}" rel="noopener nofollow" target="_blank">${esc(p.license)}</a>` : esc(p.license)} · <a href="${esc(p.source)}" rel="noopener nofollow" target="_blank">Source</a></span></li>`).join("")}</ul>`,
+  }));
+
   // ---- quiz ----------------------------------------------------------------------
   const quiz = readJson(join(root, "src", "content", "quiz.json"), { questions: [] });
   const quizScores = readJson(join(root, "src", "content", "quizScores.json"), { scores: {} }).scores;
@@ -555,7 +576,7 @@ ${toolSrc}</script>`,
     theories: theories.map((t) => {
       const v = quizScores[t.leaf] || [null, null, null, null, null];
       return {
-        s: generateSlug(t.leaf), t: t.title, tg: t.tagline, u: t.url, c: t.category, h: t.thinkers.slice(0, 2),
+        s: generateSlug(t.leaf), t: t.title, tg: t.tagline, u: t.url, c: t.category, h: t.thinkers.slice(0, 2), ph: photosOf(t.thinkers),
         v: { mm: v[0], fu: v[1], lo: v[2], ev: v[3], qu: v[4] },
         st: { ai: stance(t, "AI_consciousness"), survival: stance(t, "survival_beyond_death"), virtual: stance(t, "virtual_immortality"), meaning: stance(t, "meaning_and_purpose") },
       };
@@ -899,6 +920,10 @@ const CMP_CSS = `
 .cmp-title{font-family:"Bodoni Moda","Bodoni 72",Georgia,serif;font-size:19px;line-height:1.2;color:#fff;text-decoration:none;text-wrap:balance}
 .cmp-title:hover{color:var(--gold-light)}
 .cmp-thinkers{color:var(--muted);font-size:13px}
+.cmp-people,.quiz-people{display:flex;align-items:center;gap:8px;margin-top:2px}
+.cmp-photos,.quiz-photos{display:flex;flex:none}
+.cmp-photo,.quiz-photo{width:26px;height:26px;border-radius:50%;object-fit:cover;filter:grayscale(1) contrast(1.05);border:2px solid var(--bg);background:#222}
+.cmp-photo+.cmp-photo,.quiz-photo+.quiz-photo{margin-left:-6px}
 .cmp-remove{position:absolute;top:6px;right:0;display:grid;place-items:center;width:24px;height:24px;border:0;border-radius:50%;background:transparent;color:var(--muted);font-size:18px;line-height:1;cursor:pointer;transition:background .15s ease,color .15s ease,transform .12s ease-out}
 .cmp-remove:hover{background:rgba(255,255,255,.1);color:#fff}
 .cmp-remove:active{transform:scale(.9)}
@@ -1024,6 +1049,10 @@ const QUIZ_CSS = `
 .quiz-title{font-family:"Bodoni Moda","Bodoni 72",Georgia,serif;font-size:20px;line-height:1.25;color:#fff;text-decoration:none}
 .quiz-title:hover{color:var(--gold-light)}
 .quiz-thinkers{color:var(--muted);font-size:13px}
+.quiz-people{display:flex;align-items:center;gap:8px;margin-top:2px}
+.quiz-photos{display:flex;flex:none}
+.quiz-photo{width:26px;height:26px;border-radius:50%;object-fit:cover;filter:grayscale(1) contrast(1.05);border:2px solid var(--panel);background:#222}
+.quiz-photo+.quiz-photo{margin-left:-6px}
 .quiz-score{font-family:"Bodoni Moda","Bodoni 72",Georgia,serif;font-size:26px;color:var(--gold);font-variant-numeric:tabular-nums}
 .quiz-tagline{margin:8px 0 0 42px;color:var(--muted);font-style:italic;font-size:14px}
 .quiz-why{list-style:none;margin:10px 0 0 42px;padding:0;display:grid;gap:4px;font-size:14px}

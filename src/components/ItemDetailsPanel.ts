@@ -1,4 +1,6 @@
 import { markQuale } from '@/utils/quale'
+import { portraitIndex, thinkersHtml } from '@/shared/portraits'
+import portraitData from '@/content/portraits.json'
 import { groupPathFromSegments } from '@/utils/groupPaths'
 import { parseLocaleFromPath } from '@/shared/site'
 import { baseData, getDisplayLabel, getAllTheoryNames } from '../config/chartConfig'
@@ -22,6 +24,7 @@ interface ItemData {
 }
 
 const FULLSCREEN_STORAGE_KEY = 'atlas.panelFullscreen'
+const PORTRAITS = portraitIndex(portraitData.portraits)
 
 // Lets the panel open things outside itself (set by TheoryChart).
 export interface PanelNavigator {
@@ -520,14 +523,16 @@ export class ItemDetailsPanel {
           
           ${theoryData.id_and_class.associated_thinkers && theoryData.id_and_class.associated_thinkers.length > 0 ? `
           <div class="thinkers-section">
-            <div class="thinkers-list">
+            ${thinkersHtml(theoryData.id_and_class.associated_thinkers, PORTRAITS)
+              ? `<div class="thinkers-list has-photos">${thinkersHtml(theoryData.id_and_class.associated_thinkers, PORTRAITS)}</div>`
+              : `<div class="thinkers-list">
               <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M7.8125 8.33252C9.19321 8.33252 10.3125 7.21323 10.3125 5.83252C10.3125 4.45181 9.19321 3.33252 7.8125 3.33252C6.43179 3.33252 5.3125 4.45181 5.3125 5.83252C5.3125 7.21323 6.43179 8.33252 7.8125 8.33252Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
                 <path d="M3.54297 12.2326C3.98921 11.5001 4.61638 10.8948 5.36418 10.4747C6.11197 10.0546 6.95526 9.83398 7.81297 9.83398C8.67068 9.83398 9.51396 10.0546 10.2618 10.4747C11.0096 10.8948 11.6367 11.5001 12.083 12.2326" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
                 <path d="M7.8125 13.8325C11.4024 13.8325 14.3125 10.9224 14.3125 7.33252C14.3125 3.74267 11.4024 0.83252 7.8125 0.83252C4.22265 0.83252 1.3125 3.74267 1.3125 7.33252C1.3125 10.9224 4.22265 13.8325 7.8125 13.8325Z" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
               </svg>
               ${theoryData.id_and_class.associated_thinkers.join(', ')}
-            </div>
+            </div>`}
           </div>
           ` : ''}
           ${this.compareHref() ? `

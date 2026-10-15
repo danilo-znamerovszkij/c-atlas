@@ -389,6 +389,11 @@ $ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
           }
         }
 
+        .thinkers-list.has-photos {
+          flex-wrap: wrap;
+          gap: 10px 18px;
+        }
+
         .theory-compare {
           display: inline-flex;
           align-items: center;

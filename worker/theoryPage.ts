@@ -13,6 +13,10 @@ import { SITE_ORIGIN, DEFAULT_LOCALE, buildLocalizedPath } from '../src/shared/s
 import type { Locale } from '../src/shared/site'
 import type { TheoryData } from '../src/types/theory'
 import enTaxonomy from '../public/i18n/taxonomy/en.json'
+import portraitData from '../src/content/portraits.json'
+import { portraitIndex, thinkersHtml } from '../src/shared/portraits'
+
+const PORTRAITS = portraitIndex(portraitData.portraits)
 
 interface Leaf { name: string; categoryKey: string; categorySlug: string; subcategoryKey: string }
 
@@ -170,7 +174,7 @@ export function theoryArticle(theory: TheoryData, locale: Locale, leaf: Leaf | n
   <p class="ssr-theory-category">${esc([ic.category, ic.subcategory].filter(Boolean).join(' › '))}</p>
   ${ic.core_identity_tagline ? `<p class="ssr-theory-tagline">${esc(ic.core_identity_tagline)}</p>` : ''}
   <p class="ssr-theory-summary">${esc(ic.summary)}</p>
-  ${ic.associated_thinkers.length ? `<p class="ssr-theory-thinkers">${esc(ic.associated_thinkers.join(', '))}</p>` : ''}
+  ${ic.associated_thinkers.length ? `<div class="ssr-theory-thinkers">${thinkersHtml(ic.associated_thinkers, PORTRAITS) ?? esc(ic.associated_thinkers.join(', '))}</div>` : ''}
   ${field('What consciousness is', cg.explanatory_identity_claim)}
   ${field('Mind and body', cg.mind_body_relationship)}
   ${field('Mechanism', md.distinctive_mechanism_or_principle)}

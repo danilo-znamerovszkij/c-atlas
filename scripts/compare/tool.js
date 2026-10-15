@@ -41,7 +41,7 @@
 
   const entryFor = (slug, data) => {
     const e = bySlug.get(slug);
-    return { slug, short: e.n, title: e.t, family: e.c, familyUrl: e.cu, url: e.u, thinkers: e.h, data };
+    return { slug, short: e.n, title: e.t, family: e.c, familyUrl: e.cu, url: e.u, thinkers: e.h, photos: e.ph, data };
   };
 
   // ---- search ----------------------------------------------------------------
