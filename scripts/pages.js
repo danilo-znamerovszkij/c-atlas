@@ -561,7 +561,7 @@ ${toolSrc}</script>`,
 .credits b{color:#fff;font-weight:500}
 .credits span{color:var(--muted);font-size:13px}
 .credits span a{color:var(--gold-soft)}`,
-    body: `<ul class="credits">${people.map((p) => `<li><img src="${esc(p.src)}" alt="" width="56" height="56" loading="lazy" /><b>${esc(p.name)}</b><span>${esc(p.author || "Unknown author")} · ${p.licenseUrl ? `<a href="${esc(p.licenseUrl)}" rel="noopener nofollow" target="_blank">${esc(p.license)}</a>` : esc(p.license)} · <a href="${esc(p.source)}" rel="noopener nofollow" target="_blank">Source</a></span></li>`).join("")}</ul>`,
+    body: `<ul class="credits">${people.map((p) => `<li><img src="${esc(p.src)}" alt="" width="56" height="56" loading="lazy" /><b>${esc(p.name)}</b><span>${p.author ? `${esc(p.author)} · ` : ""}${p.licenseUrl ? `<a href="${esc(p.licenseUrl)}" rel="noopener nofollow" target="_blank">${esc(p.license)}</a>` : esc(p.license)} ${p.source ? `· <a href="${esc(p.source)}" rel="noopener nofollow" target="_blank">Source</a>` : ""}</span></li>`).join("")}</ul>`,
   }));
 
   // ---- quiz ----------------------------------------------------------------------

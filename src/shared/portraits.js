@@ -14,7 +14,7 @@ export function portraitIndex(portraits) {
 const attr = (v) => String(v ?? "").replace(/&/g, "&amp;").replace(/"/g, "&quot;").replace(/</g, "&lt;");
 
 // Hover text: who it is, and the photo credit the licence asks for.
-export const portraitTitle = (p) => `${p.name}. Photo: ${p.author || "Wikimedia Commons"}, ${p.license}`;
+export const portraitTitle = (p) => `${p.name}. Photo: ${[p.author, p.license].filter(Boolean).join(", ")}`;
 
 export const portraitImg = (p, size, cls = "thinker-photo") =>
   `<img class="${cls}" src="${attr(p.src)}" alt="" width="${size}" height="${size}" loading="lazy" decoding="async" title="${attr(portraitTitle(p))}" />`;

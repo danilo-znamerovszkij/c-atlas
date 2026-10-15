@@ -1,4 +1,4 @@
-export interface Portrait { name: string; src: string; author: string | null; license: string; licenseUrl: string | null; source: string }
+export interface Portrait { name: string; src: string; author: string | null; license: string; licenseUrl: string | null; source: string | null }
 export function portraitKey(name: string): string
 export function portraitIndex(portraits: Record<string, Omit<Portrait, 'name'>>): Map<string, Portrait>
 export function portraitTitle(p: Portrait): string
