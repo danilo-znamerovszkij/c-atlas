@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "बर्गसां की बहुलता, अवधि, प्रत्यक्षण, स्मृति",
     "summary": "यह गैर-न्यूनकारी सिद्धांत चेतना को एक गतिशील, अविरत कालिक वास्तविकता के रूप में देखता है, जो 'अवधि' और 'बहुलता' से चिह्नित है और मूलतः स्मृति है। मस्तिष्क चेतना उत्पन्न नहीं करता, बल्कि एक निस्यंदक के रूप में कार्य करता है, जो जगत में केंद्रित क्रिया को संभव बनाने हेतु अभिभूत कर देने वाले अवबोध को सीमित करता है।",
-    "associated_thinkers": ["Henri Bergson"],
-    "category": "विसंगत और परिवर्तित अवस्थाएँ",
-    "subcategory": "बहुलता, अवधि, प्रत्यक्षण, स्मृति",
+    "associated_thinkers": [
+      "Henri Bergson"
+    ],
+    "category": "द्वैतवाद",
+    "subcategory": "",
     "core_identity_tagline": "निस्यंदित स्मृति और शुद्ध अवधि के रूप में चेतना",
     "classification_tags": [
       "duration",
@@ -51,39 +53,54 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "चेतना को अवधि से संबद्ध असंगणनात्मक आत्मा/स्मृति के रूप में परिभाषित किया गया है, जो अंतर्निहित रूप से गैर-यांत्रिक है। संगणना पर निर्मित कृत्रिम तंत्रों द्वारा इस मौलिक कालिक द्रव्य को ग्रहण करने की संभावना नहीं है।",
       "justification": "मूल संकल्पनाओं की कठोरता से गैर-भौतिकवादी, गैर-यांत्रिक प्रकृति से अनुमानित।"
     },
     "survival_beyond_death": {
-      "stance": "संभव",
+      "stance": "Possible",
       "rationale": "चूँकि मस्तिष्क चेतना (आत्मा/स्मृति) का उत्पादक न होकर एक निस्यंदक है, यह सुझाव देता है कि चेतना भौतिक शरीर से स्वतंत्र है और शारीरिक मृत्यु के पश्चात बनी रह सकती है।",
       "justification": "बर्गसां का सिद्धांत 'मृत्यु के पश्चात किसी प्रकार के अस्तित्व की अनुमति भी दे सकता है'।"
     },
     "meaning_and_purpose": {
-      "stance": "ब्रह्मांडीय/अस्तित्वपरक",
+      "stance": "Cosmic/Ultimate",
       "rationale": "चेतना को एक गतिशील, मौलिक द्रव्य ('आत्मा') के रूप में परिभाषित किया गया है जो 'चयन नामक स्वतंत्र कर्म' में सक्षम है, जो विशुद्ध रूप से मानवतावादी अथवा जैविक बाध्यताओं से परे अंतर्निहित उद्देश्य को निहित करता है।",
       "justification": "इसकी 'स्पष्ट रूप से द्वैतवादी' प्रकृति और आत्मा तथा चयन से जुड़ाव से अनुमानित।"
     },
     "virtual_immortality": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "आभासी अमरता संगणनात्मक अथवा भौतिक अवस्थाओं की अपलोडिंग पर निर्भर करती है। चूँकि चेतना गैर-न्यूनकारी आत्मा/स्मृति (शुद्ध अवधि) है जिसे केवल भौतिक मस्तिष्क निस्यंदित करता है, इसलिए तंत्रिकीय अवस्थाओं की प्रतिकृति चेतन सत्ता की प्रतिकृति नहीं करेगी।",
       "justification": "चेतना की गैर-भौतिकवादी और गैर-प्रकार्यवादी परिभाषा के आधार पर अनुमानित।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "William James's filter model", "relationship": "संगत" },
-      { "name": "Substance Dualism", "relationship": "तादात्म्य/अतिव्यापन" },
-      { "name": "Process Theory", "relationship": "प्रभाव" },
-      { "name": "Neurophenomenology (Varela)", "relationship": "प्रभाव" }
+      {
+        "name": "James's Plural Consciousness, Brain as Filter of a Wider Consciousness",
+        "relationship": "संगत"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "तादात्म्य/अतिव्यापन"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "प्रभाव"
+      },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "प्रभाव"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Time and Free Will: an Essay on the Immediate Data of Consciousness",
         "year": 1889
       },
-      { "title_with_names": "Matter and Memory", "year": 1896 },
+      {
+        "title_with_names": "Matter and Memory",
+        "year": 1896
+      },
       {
         "title_with_names": "Life and Consciousness (Mind-Energy)",
         "year": 1920

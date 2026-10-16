@@ -61,28 +61,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "नहीं (अधिकांशतः)",
+      "stance": "Unlikely",
       "rationale": "यदि चेतना के लिए एक आमूलतः पृथक्, अभौतिक द्रव्य (आत्मा) की आवश्यकता है जो दैवीय रूप से सृजित या आवंटित होती है, तो अजैविक बुद्धिमत्ताएँ इस आवश्यक घटक को उत्पन्न नहीं कर सकतीं, जिससे AI चेतना असंभव हो जाती है।"
     },
     "survival_beyond_death": {
-      "stance": "हाँ",
+      "stance": "Yes",
       "rationale": "आत्मा 'वास्तविक आप' है, जो शरीर से स्वतंत्र रूप से विद्यमान है और मृत्यु-पश्चात् वैयक्तिक चेतना के बने रहने का सबसे स्पष्ट तंत्र प्रदान करती है, तथा अब्राहमी धर्मों के मूल सिद्धांत को पूर्ण करती है।"
     },
     "meaning_and_purpose": {
-      "stance": "परम/ब्रह्मांडीय",
+      "stance": "Cosmic/Ultimate",
       "rationale": "एक धर्मशास्त्रीय सिद्धांत के रूप में, यह दैवीय सृजन, नियति, और मानव अस्तित्व की आध्यात्मिक प्रकृति से जुड़े परम अर्थ, उद्देश्य और मूल्य प्रदान करता है।"
     },
     "virtual_immortality": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "तंत्रिका प्रतिरूपों और मार्गों को अपलोड करना केवल चेतना के भौतिक आधार का अनुलिपिकरण करेगा। चूँकि आवश्यक अभौतिक द्रव्य (आत्मा) अनुलिपि में अनुपस्थित होगा, प्रथम-पुरुष मानसिक स्व का संरक्षण असंभव होगा।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "अतिव्यापन" },
-      { "name": "Thomistic Dualism", "relationship": "विस्तार" },
-      { "name": "Non-Reductive Physicalism", "relationship": "आलोचना" },
-      { "name": "Emergent Dualism", "relationship": "भिन्नरूप" }
+      {
+        "name": "Dualism",
+        "relationship": "अतिव्यापन"
+      },
+      {
+        "name": "Thomistic Dualism",
+        "relationship": "विस्तार"
+      },
+      {
+        "name": "Non-Reductive",
+        "relationship": "आलोचना"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "भिन्नरूप"
+      }
     ],
     "sources_and_references": [
       {

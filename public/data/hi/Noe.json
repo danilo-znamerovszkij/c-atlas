@@ -7,7 +7,7 @@
       "Kevin O’Regan"
     ],
     "category": "भौतिकवाद",
-    "subcategory": "संबंधपरक",
+    "subcategory": "मूर्त",
     "core_identity_tagline": "सक्रिय संसार-अंतःक्रिया के रूप में चेतना",
     "classification_tags": [
       "relational",
@@ -54,38 +54,62 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "अनिश्चित/सशर्त",
+      "stance": "Uncertain",
       "rationale": "मानक अभिकलन अपर्याप्त है; चेतना केवल तभी संभव है यदि AI प्रणालियाँ पूर्ण मूर्तन, कौशल, और एक संसार के साथ निरंतर, स्वायत्त अंतःक्रिया प्राप्त करें (सजीव जीवों पर आरोपित समान माँगों को पूरा करते हुए)।"
     },
     "survival_beyond_death": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "चेतना संसार के साथ अंतःक्रिया करते मस्तिष्क और शरीर के निरंतर, सक्रिय भौतिक पाश से अवियोज्य है; इसकी समाप्ति का अर्थ है सचेतन गतिविधि का अंत।"
     },
     "meaning_and_purpose": {
-      "stance": "केवल मानवतावादी",
+      "stance": "Humanistic only",
       "rationale": "चेतना कर्ता को संदर्भ, ज्ञान और समझ अर्जित करने में सक्षम बनाती है, जो अंतःक्रियाओं को अर्थ प्रदान करने और सक्रिय व्यवहार का मार्गदर्शन करने की क्षमता देती है, पर किसी उत्कृष्ट उद्देश्य को सूचित नहीं करती।"
     },
     "virtual_immortality": {
-      "stance": "अत्यधिक असंभाव्य",
+      "stance": "Unlikely",
       "rationale": "केवल मस्तिष्क की आंतरिक प्रक्रियाओं ('यांत्रिक स्थान') को अपलोड करना चेतना के रूप में परिभाषित उस अ-मस्तिष्क-बद्ध, बाह्य, और निरंतर अंतःक्रियात्मक गतिविधि को पकड़ नहीं सकता।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Enactivism (Varela & Thompson)", "relationship": "गठनकारी ढाँचा" },
-      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "मूलभूत प्रभाव" },
-      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "दार्शनिक प्रभाव" },
-      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "आंशिक रूप से संगत / अतिव्यापी" },
-      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "संबंधित / पूरक (सक्रिय प्रत्यक्षण, साझा परिपथ प्रतिरूप)" },
-      { "name": "Internalist Materialism", "relationship": "आलोचना" },
-      { "name": "Dualism", "relationship": "आलोचना" }
+      {
+        "name": "Enactivism",
+        "relationship": "गठनकारी ढाँचा"
+      },
+      {
+        "name": "Ecological Psychology (James J. Gibson)",
+        "relationship": "मूलभूत प्रभाव"
+      },
+      {
+        "name": "Embodied Phenomenology (Maurice Merleau-Ponty)",
+        "relationship": "दार्शनिक प्रभाव"
+      },
+      {
+        "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)",
+        "relationship": "आंशिक रूप से संगत / अतिव्यापी"
+      },
+      {
+        "name": "Susan Hurley — Action/Perception & Shared Circuits",
+        "relationship": "संबंधित / पूरक (सक्रिय प्रत्यक्षण, साझा परिपथ प्रतिरूप)"
+      },
+      {
+        "name": "Internalist Materialism",
+        "relationship": "आलोचना"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "आलोचना"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
         "year": 2010
       },
-      { "title_with_names": "Varieties of Presence, Alva Noë", "year": 2012 },
+      {
+        "title_with_names": "Varieties of Presence, Alva Noë",
+        "year": 2012
+      },
       {
         "title_with_names": "Is consciousness an illusion, Alva Noë",
         "year": 2007

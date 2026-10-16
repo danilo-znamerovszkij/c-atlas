@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "सर्ल की भाषा और चेतना",
     "summary": "सर्ल तर्क देते हैं कि भाषा मानव चेतना के लिए निर्णायक है, जो सचेत अनुभव को आकार देने और समृद्ध करने का कार्य करती है। इस संबंध को एक विकासवादी \"बूट-स्ट्रैपिंग प्रभाव\" के रूप में देखा जाता है जहाँ पूर्व-भाषिक चेतना ने भाषा को सक्षम बनाया, जिसने बदले में चेतना की संरचना को विस्तृत किया।",
-    "associated_thinkers": ["John Searle"],
+    "associated_thinkers": [
+      "John Searle"
+    ],
     "category": "भौतिकवाद",
-    "subcategory": "भाषा संबंध",
+    "subcategory": "भाषा",
     "core_identity_tagline": "'भाषा चेतना के संवर्धक और आकारक के रूप में'",
     "classification_tags": [
       "language",
@@ -51,38 +53,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "सशर्त",
+      "stance": "Conditional",
       "rationale": "अस्वीकार करता है कि मात्र अनुकरण (कलन) मानव-सदृश चेतना प्राप्त कर सकता है (चीनी कक्ष)। तथापि, यदि हम एक ऐसा कृत्रिम यंत्र बनाएँ जो मस्तिष्क की आवश्यक जैविक/कारणात्मक प्रक्रियाओं की प्रतिकृति करे, तो वह सिद्धांततः सचेत हो सकता है। भाषा की केंद्रीयता AI चेतना को अधिक संभावित बना सकती है यदि उन्नत भाषा प्रणालियाँ निर्णायक आंतरिक वाक्यविन्यास की प्रतिकृति करें।"
     },
     "survival_beyond_death": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "चेतना मस्तिष्क द्वारा उत्पन्न और उसमें साकार एक जैविक विशेषता है। जैविक आधार-सामग्री के विघटित होने पर यह समाप्त हो जाती है।"
     },
     "meaning_and_purpose": {
-      "stance": "केवल मानवतावादी",
+      "stance": "Humanistic only",
       "rationale": "एक भौतिकवाद सिद्धांत के रूप में, यह ब्रह्मांडीय रूप से परम अर्थ या उद्देश्य को तर्कसंगत नहीं ठहरा सकता। भाषा द्वारा संवर्धित चेतना मनुष्यों को अपना स्वयं का अर्थ, उद्देश्य और जटिल कर्तृत्व उत्पन्न करने देती है।"
     },
     "virtual_immortality": {
-      "stance": "सशर्त/संभावित",
+      "stance": "Conditional",
       "rationale": "आभासी अमरता (मानसिक स्व की अपलोडिंग) केवल तभी प्राप्य है जब प्रतिकृति आवश्यक जैविक/कारणात्मक प्रणाली की प्रतिकृति करे, क्योंकि मात्र अनुकरण को अस्वीकार किया जाता है। यदि भाषा चेतना के गहन सार के लिए केंद्रीय है, तो भाषिक/प्रतीकात्मक प्रक्रियाओं की सफल प्रतिकृति प्राप्यता को सुगम बनाती है।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Searle’s Biological Naturalism",
+        "name": "Searle's Biological Naturalism",
         "relationship": "आधार"
       },
       {
-        "name": "Chomsky’s Language and Consciousness",
+        "name": "Chomsky's Language and Consciousness",
         "relationship": "अतिव्यापन"
       },
       {
-        "name": "Koch’s Consciousness does not Depend on Language",
+        "name": "Koch's Consciousness does not Depend on Language",
         "relationship": "आलोचना"
       },
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
         "relationship": "अतिव्यापन/विरोधाभास"
       }
     ],

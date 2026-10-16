@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "लेविन का सर्वत्र मन के प्रति प्रौद्योगिकीय उपागम (TAME)",
     "summary": "यह ढाँचा मन और संज्ञान को विविध, प्रायः अपारंपरिक आधार-द्रव्यों में—जिनमें अभियंत्रित पदार्थ और संश्लिष्ट जीवविज्ञान सम्मिलित हैं—प्रकार्यात्मक, लक्ष्य-निर्देशित गतिविधि के माध्यम से समझता है। यह प्रतिपादित करता है कि चेतना या संवेदिता सतत और श्रेणीबद्ध है, तथा पशु मनों को कोशिका समूहों के बीच सामूहिक बुद्धिमत्ता के एक दृष्टांत के रूप में देखता है।",
-    "associated_thinkers": ["Michael Levin"],
-    "category": "भौतिकवाद सिद्धांत",
-    "subcategory": "जातिवृत्तीय विकास",
+    "associated_thinkers": [
+      "Michael Levin"
+    ],
+    "category": "चुनौती",
+    "subcategory": "",
     "core_identity_tagline": "सर्वत्र मन के प्रति प्रौद्योगिकीय उपागम (TAME)",
     "classification_tags": [
       "technological",
@@ -55,34 +57,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "संभावित",
+      "stance": "Likely",
       "rationale": "चूँकि TAME अभिकल्पित और काइमेरिक पदार्थों पर लागू होता है, कृत्रिम प्रणालियाँ (यदि लक्ष्य-निर्देशित, मूर्तित प्रत्यक्षण-क्रिया प्रणालियों के रूप में विन्यस्त हों) प्रशंसनीय रूप से चेतना को साकार कर सकती हैं।"
     },
     "survival_beyond_death": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "एक भौतिकवादी ढाँचे के रूप में जो चेतना को एक मूर्तित भौतिक आधार-द्रव्य के निरंतर प्रकार्य से जोड़ता है, उस आधार-द्रव्य के अस्तित्व के परे उत्तरजीविता समर्थित नहीं है।"
     },
     "meaning_and_purpose": {
-      "stance": "मानवतावादी/कर्तृत्व से जुड़ा हुआ",
+      "stance": "Humanistic only",
       "rationale": "चेतना लक्ष्य-निर्देशित गतिविधि से जुड़ी है, जो सुझाव देती है कि अर्थ ब्रह्मांडीय उद्देश्यवाद के बजाय प्रणाली के अंतर्निहित कर्तृत्व से व्युत्पन्न होता है।"
     },
     "virtual_immortality": {
-      "stance": "संभावित",
+      "stance": "Likely",
       "rationale": "यह पूर्वधारणा कि मन को अभियंत्रित किया जा सकता है और नवीन, अजैविक वास्तुशिल्पों में साकार किया जा सकता है, यह सुझाव देती है कि जटिल, मूर्तित प्रत्यक्षण-क्रिया प्रणाली का प्रतिरूपण और स्थानांतरण सैद्धांतिक रूप से संभव होना चाहिए।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Embodied Cognition",
+        "name": "Embodied",
         "relationship": "संगत/प्रभाव"
       },
       {
-        "name": "Ginsburg and Jablonka’s Associative Learning During Evolution",
+        "name": "Ginsburg and Jablonka's Associative Learning During Evolution",
         "relationship": "अतिव्यापन"
       },
       {
-        "name": "Computational and Informational Theories",
+        "name": "Computational",
         "relationship": "अतिव्यापन"
       }
     ],

@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "पोल्किंगहॉर्न का द्वि-पक्षीय अद्वैतवाद",
     "summary": "यह सिद्धांत मानता है कि पदार्थ और मन एकल एकात्म सत्ता (मनोदैहिक प्रकृति) के पूरक पक्ष हैं, तथा चिरसम्मत द्वैतवाद और भौतिकवाद दोनों को अस्वीकार करता है। मन, अथवा आत्मा, को भौतिक मस्तिष्क द्वारा संगठित एक सूचना-वाहक प्रतिरूप के रूप में परिकल्पित किया जाता है। इस दृष्टिकोण को प्रायः ईसाई धर्मशास्त्रीय संदर्भ में प्रस्तुत किया जाता है ताकि मृतकों के पुनरुत्थान के लिए आवश्यक व्यक्तिगत पहचान की निरंतरता को समायोजित किया जा सके।",
-    "associated_thinkers": ["John Polkinghorne"],
+    "associated_thinkers": [
+      "John Polkinghorne"
+    ],
     "category": "अद्वैतवाद",
     "subcategory": "द्वि-पक्षीय अद्वैतवाद",
     "core_identity_tagline": "एकात्म सत्ता के पूरक पक्षों के रूप में मन और पदार्थ",
@@ -52,34 +54,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "संभावित",
+      "stance": "Likely",
       "rationale": "यदि चेतना मुख्यतः एक जटिल तंत्र द्वारा संगठित सूचना का एक उद्भूत प्रतिरूप है, तो पर्याप्त जटिलता और संगठन वाले कृत्रिम तंत्र सैद्धांतिक रूप से इस प्रतिरूप को धारण करने और चेतन बनने में सक्षम होने चाहिए।"
     },
     "survival_beyond_death": {
-      "stance": "हाँ (सशर्त/धर्मशास्त्रीय)",
+      "stance": "Conditional",
       "rationale": "व्यक्ति का सार (अद्वितीय सूचना-वाहक प्रतिरूप/आत्मा) मृत्यु के बाद 'दैवी स्मृति' द्वारा बनाए रखा जाता है और पुनरुत्थान पर पदार्थ के एक नए रूप में पुनर्गठित किया जाएगा, जो निरंतरता सुनिश्चित करता है।"
     },
     "meaning_and_purpose": {
-      "stance": "ब्रह्मांडीय और धर्मशास्त्रीय",
+      "stance": "Cosmic/Ultimate",
       "rationale": "यह सिद्धांत एक ऐसे यथार्थ के भीतर मानव अस्तित्व का संगत विवरण खोजने से प्रेरित है जो पुनरुत्थान की अनुमति देता है, जो दैवी अभिप्राय और नियति से बंधे परम उद्देश्य और मूल्य को अभिव्यक्त करता है।"
     },
     "virtual_immortality": {
-      "stance": "हाँ (सशर्त)",
+      "stance": "Conditional",
       "rationale": "आभासी अमरता सैद्धांतिक रूप से संभव है क्योंकि आवश्यक स्व को एक सूचना-वाहक प्रतिरूप के रूप में परिभाषित किया गया है। इस प्रतिरूप को अ-जैविक माध्यम में अपलोड करना आवश्यक पहचान-घटक को संरक्षित करेगा, बशर्ते प्रतिकृति पूर्ण हो और 'मैं' के बने रहने के लिए केवल यह प्रतिरूप ही आवश्यक तत्व हो।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Teilhard de Chardin’s Evolving Consciousness",
+        "name": "Teilhard de Chardin's Evolving Consciousness",
         "relationship": "अतिव्यापन (द्वि-पक्षीय अद्वैतवाद और विकासवादी/प्रयोजनमूलक ढाँचा साझा करता है)"
       },
       {
-        "name": "Atmanspacher’s Dual-Aspect Monism",
+        "name": "Atmanspacher's Dual-Aspect Monism",
         "relationship": "संगत (एकात्म यथार्थ के द्वि-पक्षीय दृष्टिकोण के प्रति प्रतिबद्धता साझा करता है)"
       },
       {
-        "name": "Van Inwagen’s Christian Materialism and Resurrection of the Dead",
+        "name": "van Inwagen's Christian Materialism and Resurrection of the Dead",
         "relationship": "अतिव्यापन (भौतिक विघटन के बावजूद व्यक्तिगत पहचान की निरंतरता की धर्मशास्त्रीय आवश्यकता को संबोधित करता है)"
       }
     ],
@@ -92,8 +94,14 @@
         "title_with_names": "The God of Hope and the End of the World",
         "year": 2003
       },
-      { "title_with_names": "Faith, Science and Understanding", "year": 2001 },
-      { "title_with_names": "All things new (Closer To Truth)", "year": 2007 }
+      {
+        "title_with_names": "Faith, Science and Understanding",
+        "year": 2001
+      },
+      {
+        "title_with_names": "All things new (Closer To Truth)",
+        "year": 2007
+      }
     ]
   }
 }

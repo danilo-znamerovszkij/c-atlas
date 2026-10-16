@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "सैपोल्स्की का कठोर असंगतिवाद",
     "summary": "यह दृष्टिकोण मानता है कि चेतना एक जटिल उद्भूत गुण है जो पूर्णतः जैविक तंत्रों से उत्पन्न होती है, और ब्रह्मांड के भौतिक नियमों से अविच्छेद्य रूप से जुड़ी है। इसकी मुख्य दार्शनिक प्रतिबद्धता कठोर असंगतिवाद है, जो जैविक नियतिवाद की पुष्टि करता है और परिणामस्वरूप स्वतंत्र इच्छा के अस्तित्व को अस्वीकार करता है।",
-    "associated_thinkers": ["Robert Sapolsky"],
+    "associated_thinkers": [
+      "Robert Sapolsky"
+    ],
     "category": "भौतिकवाद",
-    "subcategory": "तंत्रिका-जैविक",
+    "subcategory": "तंत्रिकाजैविक",
     "core_identity_tagline": "'चेतना एक जटिल उद्भूत गुण के रूप में'",
     "classification_tags": [
       "determinism",
@@ -52,26 +54,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "संभावित",
+      "stance": "Likely",
       "rationale": "यदि चेतना जटिल जैविक संगठन के भौतिक नियमों द्वारा शासित एक कारणात्मक रूप से सक्रिय, उद्भूत गुण है, तो वह सिद्धांततः किसी ऐसी कृत्रिम प्रणाली में प्राप्त की जा सकनी चाहिए जो आवश्यक जटिलता की प्रतिकृति करे।"
     },
     "survival_beyond_death": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "चेतना पूर्णतः जैविक मस्तिष्क का उत्पाद है; अतः, मस्तिष्क की मृत्यु व्यक्तिगत अस्तित्व का अपरिवर्तनीय अंत है।"
     },
     "meaning_and_purpose": {
-      "stance": "केवल मानवतावादी",
+      "stance": "Humanistic only",
       "rationale": "चेतना की नियतिवादी प्रकृति का अर्थ है कि कोई परम ब्रह्मांडीय अर्थ या उद्देश्य नहीं है; कोई भी अर्थ या मूल्य अनिवार्य रूप से मनुष्यों द्वारा स्वयं रचित होता है।"
     },
     "virtual_immortality": {
-      "stance": "संभावित",
+      "stance": "Likely",
       "rationale": "चूँकि चेतना जटिल भौतिक अवस्थाओं में न्यूनीय और उन पर निर्भर है, इन अवस्थाओं की किसी अजैविक आधार-सामग्री में पूर्ण प्रतिकृति से प्रथम-पुरुष मानसिक स्व की निरंतरता परिणत होगी, जो भौतिकवाद सिद्धांतों के अनुरूप है।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mitchell’s Free Agents",
+        "name": "Mitchell's Free Agents",
         "relationship": "आलोचना"
       },
       {
@@ -79,7 +81,7 @@
         "relationship": "आलोचना"
       },
       {
-        "name": "Flanagan’s Constructive Naturalism",
+        "name": "Flanagan's Constructive Naturalism",
         "relationship": "अतिव्यापन"
       }
     ],

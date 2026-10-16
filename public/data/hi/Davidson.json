@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "डेविडसन का अनियमित अद्वैतवाद",
     "summary": "अनियमित अद्वैतवाद प्रतिपादित करता है कि प्रत्येक मानसिक घटना किसी भौतिक घटना के समरूप है (टोकन तादात्म्य), जिससे एक अद्वैतवादी सत्तामीमांसा बनी रहती है। तथापि, यह सिद्धांत आग्रह करता है कि मानसिक संकल्पनाओं (प्रकारों) को भौतिक संकल्पनाओं से जोड़ने वाले कोई कठोर, अपवादरहित प्राकृतिक नियम नहीं हैं, जिससे मनोविज्ञान का भौतिकी में न्यूनन असंभव हो जाता है। यह द्वैत प्रतिज्ञप्ति मानसिक कारणता और भौतिक जगत की कारणात्मक पूर्णता के बीच के आभासी विरोध को हल करती है।",
-    "associated_thinkers": ["Donald Davidson"],
+    "associated_thinkers": [
+      "Donald Davidson"
+    ],
     "category": "अद्वैतवाद",
-    "subcategory": "अनियमित अद्वैतवाद",
+    "subcategory": "असामान्य अद्वैतवाद",
     "core_identity_tagline": "मानसिक टोकन भौतिक हैं, मानसिक प्रकार अनियमित हैं",
     "classification_tags": [
       "monism",
@@ -52,33 +54,42 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "संभव",
+      "stance": "Possible",
       "rationale": "चूँकि सत्तामीमांसा मूलतः अद्वैतवादी है (सभी मानसिक घटनाएँ भौतिक घटनाएँ हैं), यदि संबंधित जटिल भौतिक प्रणालियों को कृत्रिम माध्यमों में पुनरुत्पादित किया जा सके तो AI चेतना सैद्धांतिक रूप से संभव है, यद्यपि पूर्वानुमेय मानसिक नियमों का अभाव (अनियमितता) आकलन को जटिल बनाता है।"
     },
     "survival_beyond_death": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "मानसिक घटनाएँ भौतिक घटनाओं पर निर्भर हैं (टोकन तादात्म्य)। इस भौतिकवादी पूर्वधारणा के अंतर्गत जैविक आधार के विनाश के परे उत्तरजीविता निषिद्ध है।"
     },
     "meaning_and_purpose": {
-      "stance": "केवल मानवतावादी",
+      "stance": "Humanistic only",
       "rationale": "एक सत्तामीमांसीय अद्वैतवाद सिद्धांत के रूप में, यह उन भौतिकवादी श्रेणियों के अनुरूप है जो सामान्यतः मनुष्यों द्वारा स्वयं के लिए रचे गए अर्थ से परे किसी परम अर्थ या उद्देश्य को युक्तिसंगत नहीं ठहरातीं।"
     },
     "virtual_immortality": {
-      "stance": "संभावित",
+      "stance": "Likely",
       "rationale": "यदि भौतिक आधार (मस्तिष्क प्रतिरूप) की प्रतिलिपि बनाई जाए, तो मानसिक घटनाओं (जो उन टोकनों के समरूप हैं) की भी प्रतिलिपि बन जानी चाहिए, जिससे आभासी अमरता प्राप्य हो जाती है, अन्य अन्यूनवादी भौतिकीवादी दृष्टिकोणों के समान।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Non-Reductive Physicalism", "relationship": "अतिव्यापन" },
-      { "name": "Property Dualism", "relationship": "अतिव्यापन" },
       {
-        "name": "Mind-Brain Identity Theory (Type Identity)",
+        "name": "Non-Reductive",
+        "relationship": "अतिव्यापन"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "अतिव्यापन"
+      },
+      {
+        "name": "Mind-Brain Identity",
         "relationship": "आलोचना"
       }
     ],
     "sources_and_references": [
-      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+      {
+        "title_with_names": "Thinking Causes, Donald Davidson",
+        "year": 1993
+      }
     ]
   }
 }

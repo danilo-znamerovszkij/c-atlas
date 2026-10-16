@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "लामे का पुनरावर्ती प्रसंस्करण सिद्धांत",
     "summary": "लामे का पुनरावर्ती प्रसंस्करण सिद्धांत (RPT) यह प्रस्तावित करता है कि जब तंत्रिका क्षेत्रों के बीच, विशेष रूप से संवेदी तंत्रों में, पारस्परिक (पुनरावर्ती) प्रतिपुष्टि संबंध होते हैं, तब चेतना आवश्यक और पर्याप्त दोनों होती है। यह प्रसंस्करण, जो संवेदी और पश्च-संवेदी क्षेत्रों में स्थानीय रूप से होता है (चरण 3), वैश्विक प्रसारण पहुँच की आवश्यकता के बिना आनुभविक अनुभव उत्पन्न करता है।",
-    "associated_thinkers": ["Victor Lamme"],
+    "associated_thinkers": [
+      "Victor Lamme"
+    ],
     "category": "भौतिकवाद",
-    "subcategory": "निरूपणात्मक",
+    "subcategory": "प्रथम-क्रम",
     "core_identity_tagline": "'संवेदी तंत्रों में पुनरावर्ती प्रसंस्करण के रूप में चेतना'",
     "classification_tags": [
       "neuroscience",
@@ -50,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "संभावित",
+      "stance": "Likely",
       "rationale": "एक भौतिकवाद सिद्धांत के रूप में, यदि पुनरावर्ती प्रसंस्करण के अपेक्षित प्रतिरूप को एक गैर-जैविक आधार में कृत्रिम रूप से प्रतिकृत किया जा सके, तो सैद्धांतिक रूप से AI चेतना संभव होनी चाहिए।"
     },
     "survival_beyond_death": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "चेतना भौतिक मस्तिष्क गतिविधि और विशिष्ट तंत्रिका परिपथ (पुनरावर्ती प्रसंस्करण अवस्थाओं) से जुड़ी है, जो शारीरिक मृत्यु पर समाप्ति का सुझाव देती है।"
     },
     "meaning_and_purpose": {
-      "stance": "केवल मानवतावादी",
+      "stance": "Humanistic only",
       "rationale": "यह सिद्धांत आनुभविक अनुभव की एक विशुद्ध रूप से भौतिकीवादी, तंत्रिकाजैविक व्याख्या पर केंद्रित है और किसी परम लौकिक अर्थ या उद्देश्य का समर्थन नहीं करता।"
     },
     "virtual_immortality": {
-      "stance": "हाँ",
+      "stance": "Yes",
       "rationale": "चूँकि चेतना स्वयं पुनरावर्ती प्रसंस्करण अवस्था है, उस प्रक्रिया की एक नए माध्यम पर एक पूर्ण प्रतिलिपि (अपलोड) प्रथम-पुरुष स्व को उत्पन्न करेगी, जो आभासी अमरता को संभव बनाती है।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "आलोचना"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "विस्तार"
       },
       {
-        "name": "Block’s Biological Reductionism",
+        "name": "Block's Biological Reductionism",
         "relationship": "अतिव्यापन"
       }
     ],

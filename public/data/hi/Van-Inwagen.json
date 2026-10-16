@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "वैन इनवेगन का ईसाई भौतिकवाद और मृतकों का पुनरुत्थान",
     "summary": "यह सिद्धांत ईसाई भौतिकवाद का एक रूप प्रस्तावित करता है जहाँ मानव व्यक्ति पूर्णतः एक भौतिक सत्ता है, इस प्रकार दार्शनिक और बाइबिलीय दोनों आधारों पर द्रव्य द्वैतवाद को अस्वीकार करता है। यह तर्क देता है कि मृत्यु के आर-पार वैयक्तिक पहचान ईश्वर द्वारा अंतिम पुनरुत्थान तक मूल भौतिक शरीर के एक भौतिक और कारणात्मक रूप से सतत 'नग्न बीज' को संरक्षित करने के द्वारा बनी रहती है।",
-    "associated_thinkers": ["Peter van Inwagen"],
-    "category": "गैर-न्यूनकारी भौतिकीवाद",
+    "associated_thinkers": [
+      "Peter van Inwagen"
+    ],
+    "category": "अ-न्यूनकारी",
     "subcategory": "ईसाई भौतिकवाद",
     "core_identity_tagline": "बाइबिलीय पुनरुत्थान के साथ समाधानित भौतिकवाद",
     "classification_tags": [
@@ -51,31 +53,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "संभावित",
+      "stance": "Likely",
       "rationale": "एक भौतिकवादी सिद्धांत के रूप में, चेतना अंततः जटिल भौतिक व्यवस्था का उत्पाद है, जिसका अर्थ है कि यदि आवश्यक भौतिक आधारद्रव्य प्राप्त हो जाए तो AI सैद्धांतिक रूप से चेतना को साकार करने में सक्षम होना चाहिए।"
     },
     "survival_beyond_death": {
-      "stance": "हाँ (दिव्य हस्तक्षेप पर सशर्त)",
+      "stance": "Conditional",
       "rationale": "सिद्धांत का प्राथमिक लक्ष्य भौतिक व्यक्ति के लिए बाइबिलीय पुनरुत्थान और मृत्युपरांत अस्तित्व प्राप्त करने हेतु एक तंत्र (ईश्वर द्वारा एक नग्न बीज को संरक्षित करना) प्रदान करना है।"
     },
     "meaning_and_purpose": {
-      "stance": "ब्रह्मांडीय/धार्मिक",
+      "stance": "Cosmic/Ultimate",
       "rationale": "संपूर्ण ढाँचा मृतकों के पुनरुत्थान के प्रति एक धार्मिक प्रतिबद्धता द्वारा अवलंबित है, जो एक दिव्य योजना के भीतर परम अर्थ और उद्देश्य को निहित करता है।"
     },
     "virtual_immortality": {
-      "stance": "संभावित",
+      "stance": "Likely",
       "rationale": "चूँकि व्यक्ति एक भौतिक वस्तु है, मस्तिष्क की संपूर्ण भौतिक अवस्था को अपलोड करना सैद्धांतिक रूप से सचेत स्व की एक प्रकार्यात्मक प्रतिलिपि में परिणत होना चाहिए, जो आभासी अमरता की अनुमति देता है।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "आलोचना" },
-      { "name": "Papineau’s Mind-Brain Identity", "relationship": "अतिव्यापन" },
       {
-        "name": "Murphy’s Non-Reductive Physicalism",
+        "name": "Dualism",
+        "relationship": "आलोचना"
+      },
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "अतिव्यापन"
+      },
+      {
+        "name": "Murphy's Non-Reductive Physicalism",
         "relationship": "संगत"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "अतिव्यापन" }
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "अतिव्यापन"
+      }
     ],
     "sources_and_references": [
       {

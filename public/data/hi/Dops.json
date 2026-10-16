@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "DOPS सैद्धांतिक ढाँचा",
     "summary": "यह ढाँचा, जो मृत्यु-निकट अनुभवों (NDE) और पुनर्जन्म जैसी परिघटनाओं में अनुभवजन्य शोध द्वारा समर्थित है, चेतना के एक संचरण या निस्यंदक निदर्श की वकालत करता है, जहाँ मस्तिष्क चेतना का उत्पादक नहीं, बल्कि एक अंतराफलक के रूप में कार्य करता है। यह व्यवस्थित रूप से परंपरागत भौतिकीवाद को यह तर्क देकर चुनौती देता है कि चेतना जीव से स्वतंत्र है और संभवतः वास्तविकता के लिए आधारभूत है।",
-    "associated_thinkers": ["Ed Kelly", "Ian Stevenson", "Bruce Greyson"],
-    "category": "विषम और परिवर्तित अवस्थाएँ",
-    "subcategory": "भौतिकीवाद/भौतिकवाद के प्रति शोध-चालित चुनौती",
+    "associated_thinkers": [
+      "Ed Kelly",
+      "Ian Stevenson",
+      "Bruce Greyson"
+    ],
+    "category": "असामान्य",
+    "subcategory": "भौतिकीवाद/भौतिकवाद को अनुसंधान-आधारित चुनौती",
     "core_identity_tagline": "चेतना निस्यंदित सार्वभौमिक अस्तित्व के रूप में",
     "classification_tags": [
       "survival",
@@ -54,19 +58,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "क्षीण संभावनाएँ",
+      "stance": "Unlikely",
       "rationale": "यह ढाँचा सुझाव देता है कि चेतना अन्यूननीय है और मौलिक, सार्वभौमिक वास्तविकता (प्रत्ययवाद/सर्वेश्वरवाद-अंतर्यामिवाद) से जुड़ी है, जिससे यह निहित होता है कि मात्र कृत्रिम/अभिकलनात्मक प्रणालियों के इसे धारण करने की संभावना कम है, जिससे AGI चेतना की संभावनाएँ क्षीण हो जाती हैं।"
     },
     "survival_beyond_death": {
-      "stance": "संभावित",
+      "stance": "Likely",
       "rationale": "यह सिद्धांत अनुभवजन्य साक्ष्य (NDE, पुनर्जन्म प्रकरण) से प्रेरित है जो तर्क देता है कि चेतना शारीरिक मृत्यु के बाद भी बनी रहती है, जिससे एक गैर-भौतिक उत्पादन निदर्श आवश्यक हो जाता है।"
     },
     "meaning_and_purpose": {
-      "stance": "ब्रह्मांडीय/परम",
+      "stance": "Cosmic/Ultimate",
       "rationale": "प्रत्ययवाद/सर्वेश्वरवाद-अंतर्यामिवाद की ओर मूल तत्वमीमांसीय प्रवृत्ति यह सुझाव देती है कि चेतना एक सर्वोच्च चेतना में आधारित है जो परम अर्थ, उद्देश्य, और मूल्य प्रदान करती है।"
     },
     "virtual_immortality": {
-      "stance": "नहीं (आवश्यक नहीं)",
+      "stance": "Not needed",
       "rationale": "चूँकि चेतना अभौतिक है और संभवतः निरंतर/मृत्यु के बाद भी बनी रहती है, प्रतिलिपिकरण (आभासी अमरता) संभवतः मूल प्रथम-पुरुष स्व को पकड़ने में विफल होगा, या यदि यथार्थ उत्तरजीविता होती है तो अप्रासंगिक होगा।"
     }
   },
@@ -76,18 +80,36 @@
         "name": "Myers/James Transmission Model",
         "relationship": "आधार"
       },
-      { "name": "Idealism/Panentheism", "relationship": "संगत/प्रवृत्ति" },
+      {
+        "name": "Idealism/Panentheism",
+        "relationship": "संगत/प्रवृत्ति"
+      },
       {
         "name": "Interactive Dualism",
         "relationship": "वैकल्पिक संकल्पनात्मक ढाँचा"
       },
-      { "name": "Materialism Theories (General)", "relationship": "आलोचना" }
+      {
+        "name": "Materialism",
+        "relationship": "आलोचना"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Irreducible Mind", "year": 2007 },
-      { "title_with_names": "Beyond Physicalism", "year": 2015 },
-      { "title_with_names": "Consciousness Unbound", "year": 2021 },
-      { "title_with_names": "The Continuity of Consciousness", "year": 2022 }
+      {
+        "title_with_names": "Irreducible Mind",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Beyond Physicalism",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Consciousness Unbound",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Continuity of Consciousness",
+        "year": 2022
+      }
     ]
   }
 }

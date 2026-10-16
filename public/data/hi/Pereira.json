@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "परेरा का संवेदनशीलता-सिद्धांत",
     "summary": "यह सिद्धांत मानता है कि चेतना की दो भिन्न विधाएँ हैं: आधारभूत संवेदनशीलता, जो पीड़ा और भूख जैसी बुनियादी अनुभूतियों से अभिलक्षित होती है, और उच्च-स्तरीय संज्ञानात्मक चेतना, जिसमें अमूर्त चिंतन और निरूपण सम्मिलित हैं। मूल दावा यह है कि संज्ञानात्मक सामर्थ्य इस अंतर्निहित संवेदनशील अवस्था पर निर्भर है, जो समस्थैतिक तंत्रों में जैविक रूप से आधारित है।",
-    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "associated_thinkers": [
+      "Antonio Pereira, Jr."
+    ],
     "category": "भौतिकवाद",
-    "subcategory": "समस्थैतिक और भावात्मक",
+    "subcategory": "समस्थैतिक",
     "core_identity_tagline": "संवेदनशीलता में आधारित द्वि-स्तरीय तंत्र के रूप में चेतना",
     "classification_tags": [
       "sentience",
@@ -53,34 +55,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "सशर्त",
+      "stance": "Conditional",
       "rationale": "यदि कृत्रिम तंत्र गतिशील जैवरासायनिक समस्थिति को नियंत्रित करने वाले शारीरिक तंत्रों (संवेदनशीलता हेतु आवश्यक) और आवश्यक जैववैद्युत जाल-गतिविधि (संज्ञान हेतु) को पूर्णतः पुनरुत्पादित कर सकें, तो कृत्रिम चेतना संभव है।"
     },
     "survival_beyond_death": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "चूँकि चेतना कड़ाई से प्रकार्यात्मक जैविक तंत्रों (समस्थिति नियंत्रण और तंत्रिका जालों) पर निर्भर है, अतः शरीर और मस्तिष्क के अपरिवर्तनीय विघटन पर इसके समाप्त होने की धारणा की जाती है।"
     },
     "meaning_and_purpose": {
-      "stance": "केवल मानवतावादी",
+      "stance": "Humanistic only",
       "rationale": "यह सिद्धांत जैविक स्थिरता (समस्थिति) बनाए रखने और लचीले संज्ञान को सक्षम करने में चेतना की प्रकार्यात्मक, अनुकूली भूमिका पर केंद्रित है, तथा ब्रह्मांडीय या परम उद्देश्य का कोई आधार प्रदान नहीं करता।"
     },
     "virtual_immortality": {
-      "stance": "सशर्त",
+      "stance": "Conditional",
       "rationale": "सैद्धांतिक रूप से केवल तभी संभव है जब संवेदनशीलता और संज्ञान के सहसंबंधों के रूप में पहचाने गए विशिष्ट गतिशील समस्थैतिक और जैववैद्युत प्रतिरूपों को एक अ-जैविक माध्यम में पूर्णतः अंकीकृत और पुनरुत्पादित किया जा सके।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "अतिव्यापन"
       },
       {
-        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "name": "Solms's Affect as the Hidden Spring of Consciousness",
         "relationship": "संगत"
       },
       {
-        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+        "name": "Prinz's Neurofunctionalism: Attention Engenders Experience",
         "relationship": "संगत"
       }
     ],

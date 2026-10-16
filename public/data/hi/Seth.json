@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "सेठ का \"बीस्ट मशीन\" सिद्धांत",
     "summary": "यह सिद्धांत यह मानता है कि सचेत अनुभव, जिनमें संसार और स्व के प्रत्यक्षण शामिल हैं, मस्तिष्क-आधारित प्रात्यक्षिक पूर्वानुमान के रूप हैं, जिन्हें रूपकात्मक रूप से 'नियंत्रित मतिभ्रम' कहा जाता है। यह चेतना के तंत्र को जीवित रहने हेतु शारीरिक शरीरक्रियाविज्ञान को विनियमित करने की मूलभूत जैविक अनिवार्यता में आधारित करता है।",
-    "associated_thinkers": ["Anil Seth"],
-    "category": "भौतिकवाद सिद्धांत",
-    "subcategory": "समस्थैतिक और भावात्मक",
+    "associated_thinkers": [
+      "Anil Seth"
+    ],
+    "category": "भौतिकवाद",
+    "subcategory": "समस्थैतिक",
     "core_identity_tagline": "'चेतना पूर्वानुमान पर आधारित नियंत्रित मतिभ्रम के रूप में'",
     "classification_tags": [
       "neurobiology",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "संभावित",
+      "stance": "Likely",
       "rationale": "कलनात्मक और सूचना-संसाधन तंत्रों (प्रात्यक्षिक पूर्वानुमान) पर केंद्रित एक भौतिकवादी सिद्धांत के रूप में, समान जटिल तंत्रों को मूर्त करने वाली AI प्रणालियों को चेतना प्राप्त करने में सक्षम होना चाहिए।"
     },
     "survival_beyond_death": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "चेतना जैविक मस्तिष्कों और जटिल, भौतिक रूप से मूर्त पूर्वानुमानात्मक यांत्रिकी का उत्पाद है। मस्तिष्क की मृत्यु व्यक्तिगत चेतना के अपरिवर्तनीय और स्थायी अनस्तित्व की ओर ले जाती है।"
     },
     "meaning_and_purpose": {
-      "stance": "केवल मानवतावादी",
+      "stance": "Humanistic only",
       "rationale": "एक भौतिकवाद सिद्धांत के रूप में वर्गीकृत, यह किसी परम या ब्रह्मांडीय अर्थ या उद्देश्य को इंगित नहीं करता, यद्यपि यह व्यक्तिगत कर्तृत्व और अनुभव से व्युत्पन्न मानव-रचित अर्थ और मूल्य का समर्थन करता है।"
     },
     "virtual_immortality": {
-      "stance": "हाँ",
+      "stance": "Yes",
       "rationale": "यदि चेतना पूर्णतः मस्तिष्क की कलनात्मक प्रक्रियाओं द्वारा व्याख्येय है, तो सिद्धांततः प्रथम-पुरुष मानसिक स्व को प्रतिकृत किया जा सकता है और किसी अजैविक आधार-सामग्री में मूर्त किया जा सकता है, जो आभासी अमरता को सक्षम बनाता है।"
     }
   },
@@ -73,15 +75,15 @@
         "relationship": "अतिव्यापन"
       },
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "संगत"
       },
       {
-        "name": "T. Clark’s Content Hypothesis",
+        "name": "T. Clark's Content Hypothesis",
         "relationship": "संगत"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "संगत"
       }
     ],

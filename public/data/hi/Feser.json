@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "फ़ेज़र का नव-थॉमिस्ट, नव-अरस्तूवादी, सामान्य-बोध द्वैतवाद",
     "summary": "यह द्वैतवादी सिद्धांत मानता है कि मानव बुद्धि (अमूर्त संकल्पनाएँ और तर्कण) एक अभौतिक सामर्थ्य है और इसे भौतिक प्रक्रियाओं में न्यूनित नहीं किया जा सकता। यह 'कठिन समस्या' का समाधान अरस्तूवादी सामान्य-बोध यथार्थवाद की ओर लौटने की वकालत करके करता है, जहाँ संवेदी गुण (क्वालिया) बाह्य भौतिक जगत के वस्तुनिष्ठ गुण हैं, जिससे आधुनिक कठोर, परिमाणात्मक पदार्थ-संकल्पना से उत्पन्न दुविधा विलीन हो जाती है।",
-    "associated_thinkers": ["Edward Feser"],
+    "associated_thinkers": [
+      "Edward Feser"
+    ],
     "category": "द्वैतवाद",
     "subcategory": "नव-थॉमिस्ट, नव-अरस्तूवादी, सामान्य-बोध द्वैतवाद",
     "core_identity_tagline": "अभौतिक बुद्धि और वस्तुनिष्ठ गुणों के माध्यम से चेतना",
@@ -51,34 +53,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "संभवतः नहीं",
+      "stance": "Unlikely",
       "rationale": "यदि बुद्धि (निश्चयात्मक विचार और अमूर्त संकल्पनाओं के लिए आवश्यक) मूलतः अभौतिक है और भौतिक प्रक्रियाओं में अन्यूननीय है, तो विशुद्ध रूप से संगणनात्मक/भौतिक AI इस सिद्धांत द्वारा वर्णित संपूर्ण मानव चेतना को साकार नहीं कर सकता।"
     },
     "survival_beyond_death": {
-      "stance": "हाँ",
+      "stance": "Yes",
       "rationale": "आत्मा को एक अभौतिक और स्वतःसिद्ध सत्ता के रूप में परिभाषित किया गया है, जो शरीर से पृथक स्वयं ही विद्यमान रहने और संज्ञानात्मक प्रकार्य करने में सक्षम है, यद्यपि इसे इसके लिए अस्वाभाविक माना जाता है।"
     },
     "meaning_and_purpose": {
-      "stance": "हाँ",
+      "stance": "Cosmic/Ultimate",
       "rationale": "विचार, तर्कशास्त्र और बौद्धिक सार्वभौमिकों में निश्चयात्मक अंतर्वस्तु का संरक्षण, आत्मा के प्रति सत्तामीमांसीय प्रतिबद्धता के साथ मिलकर, अर्थ का एक अ-अपस्फीतिकारी दृष्टिकोण अंतर्भूत करता है जो भौतिकवादी शून्यवाद से बचता है।"
     },
     "virtual_immortality": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "आभासी अमरता संगणनात्मक प्रकार्यवाद पर निर्भर करती है। चूँकि फ़ेज़र तर्क देते हैं कि बौद्धिक चेतना भौतिक प्रक्रियाओं में न्यूनित या उनके द्वारा व्याख्येय नहीं है, अतः संपूर्ण मानव स्व को डिजिटल रूप से अपलोड नहीं किया जा सकता।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Stump’s Thomistic Dualism", "relationship": "संगत" },
-      { "name": "Cartesian Dualism", "relationship": "आलोचना" },
       {
-        "name": "Eliminative Materialism/Illusionism",
+        "name": "Stump's Thomistic Dualism",
+        "relationship": "संगत"
+      },
+      {
+        "name": "Cartesian Dualism",
         "relationship": "आलोचना"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "आलोचना" }
+      {
+        "name": "Eliminative/Illusionism",
+        "relationship": "आलोचना"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "आलोचना"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Think, McFly, think, Edward Feser", "year": 2012 },
+      {
+        "title_with_names": "Think, McFly, think, Edward Feser",
+        "year": 2012
+      },
       {
         "title_with_names": "Aristotle, call your office, Edward Feser",
         "year": 2012

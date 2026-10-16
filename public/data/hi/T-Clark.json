@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "टी. क्लार्क का विषय-वस्तु परिकल्पना सिद्धांत",
     "summary": "यह सिद्धांत मानता है कि साक्षात्कारात्मक चेतना किसी संज्ञानात्मक प्रणाली के पर्याप्त रूप से संरचित संसाधन से व्युत्पन्न निरूपणात्मक विषय-वस्तु है । सचेत अनुभव श्रेणीबद्ध रूप से व्यक्तिपरक है और मूलतः भौतिक मस्तिष्क से जुड़ा है, जो मस्तिष्क द्वारा साकारीकृत एक भौतिक परिघटना के रूप में संचालित होता है ।",
-    "associated_thinkers": ["Thomas Clark"],
+    "associated_thinkers": [
+      "Thomas Clark"
+    ],
     "category": "भौतिकवाद",
-    "subcategory": "निरूपणात्मक",
+    "subcategory": "प्रथम-क्रम",
     "core_identity_tagline": "साक्षात्कारात्मक चेतना संरचित निरूपणात्मक विषय-वस्तु के रूप में",
     "classification_tags": [
       "representational",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "संभावित",
+      "stance": "Likely",
       "rationale": "चूँकि चेतना को पर्याप्त रूप से संरचित संसाधन से उत्पन्न एक कड़ाई से भौतिक परिघटना के रूप में माना जाता है, उन्नत कृत्रिम प्रणालियों में इस संरचना की प्रतिलिपि चेतना को सक्षम बनानी चाहिए ।"
     },
     "survival_beyond_death": {
-      "stance": "नहीं (व्यक्तिगत स्व के लिए) / हाँ (सामान्य आत्मनिष्ठता के लिए)",
+      "stance": "No",
       "rationale": "व्यक्तिगत चेतना एक भौतिक साकारीकरण है और मस्तिष्क की मृत्यु पर विलीन हो जाती है। तथापि, 'सामान्य व्यक्तिपरक निरंतरता' सुझाव देती है कि चेतना अन्य संदर्भों में जारी रहती है, यद्यपि मृत व्यक्ति के रूप में नहीं ।"
     },
     "meaning_and_purpose": {
-      "stance": "अस्तित्वगत/आंतरिक",
+      "stance": "Humanistic only",
       "rationale": "चेतना, स्व-चिंतनशील प्रणाली की परिमितता से प्रेरित होकर, स्वभावतः एक आंतरिक जगत रचती है, जो व्यक्तिपरक निरंतरता को बनाए रखने से जुड़ा एक प्रयोजन प्रदान करती है ।"
     },
     "virtual_immortality": {
-      "stance": "सशर्त",
+      "stance": "Conditional",
       "rationale": "एक भौतिकवादी सिद्धांत के रूप में, यदि परिभाषिक 'पर्याप्त रूप से संरचित निरूपणात्मक संसाधन' को एक गैर-जैविक माध्यम में ठीक-ठीक प्रतिलिपित किया जा सके, तो व्यक्तिगत चेतना का स्थानांतरण संभव है ।"
     }
   },
@@ -74,15 +76,15 @@
         "relationship": "संगत"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "संगत"
       },
       {
-        "name": "Predictive Processing",
+        "name": "Predictive Theories (Top-Down)",
         "relationship": "संगत"
       },
       {
-        "name": "Metzinger’s No-Self Representational Theory of Subjectivity",
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
         "relationship": "प्रभाव"
       }
     ],

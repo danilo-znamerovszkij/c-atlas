@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "हर्स्टीन का माइंडमेल्डिंग",
     "summary": "विलियम हर्स्टीन तर्क देते हैं कि चेतन मन की एक सीधी-सादी भौतिक व्याख्या को रोकने वाली प्रमुख बाधा निराधार 'निजता की अवधारणा' है। इस तत्वमीमांसीय अवधारणा को—अर्थात् यह विचार कि एक व्यक्ति दूसरे की चेतन अवस्थाओं का कभी अनुभव नहीं कर सकता—हटा देने से, कष्टकर द्वैतवादों, सर्वचेतनावादों, और अघुलनशीलता का दावा करने वाले सिद्धांतों को गढ़ने की प्रेरणा कमजोर पड़ जाती है।",
-    "associated_thinkers": ["William Hirstein"],
+    "associated_thinkers": [
+      "William Hirstein"
+    ],
     "category": "भौतिकवाद",
     "subcategory": "तंत्रिकाजैविक",
     "core_identity_tagline": "तत्वमीमांसीय निजता को अस्वीकार करके व्याख्यायित चेतना",
@@ -49,30 +51,42 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "संभावित",
+      "stance": "Likely",
       "rationale": "चूँकि यह सिद्धांत चेतना के लिए एक 'सीधी-सादी भौतिक' व्याख्या खोजता है और इसे भौतिकवाद के रूप में वर्गीकृत किया गया है, अतः चेतन AI के सृजन पर कोई सैद्धांतिक निषेध नहीं है।"
     },
     "survival_beyond_death": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "यह सिद्धांत एक भौतिकवादी मॉडल है जिसका लक्ष्य द्वैतवादों को पराजित करना है। भौतिकवाद मानता है कि चेतना केवल जैविक मस्तिष्क का उत्पाद है, अर्थात् यह जैविक मृत्यु पर समाप्त हो जाती है।"
     },
     "meaning_and_purpose": {
-      "stance": "केवल मानवतावादी",
+      "stance": "Humanistic only",
       "rationale": "भौतिकवादी सिद्धांत सामान्यतः यह कथन करते हैं कि यद्यपि मनुष्य अपने लिए अर्थ और मूल्य का सृजन कर सकते हैं, फिर भी कोई परम ब्रह्मांडीय अर्थ या उद्देश्य नहीं है।"
     },
     "virtual_immortality": {
-      "stance": "हाँ",
+      "stance": "Yes",
       "rationale": "यदि चेतना पूर्णतः भौतिक शब्दों में व्याख्येय है (जैसा हर्स्टीन तर्क देते हैं), तो किसी व्यक्ति के संपूर्ण तंत्रिकीय प्रतिरूपों और पथों को अपलोड करना, सैद्धांतिक रूप से, प्रथम-पुरुष मानसिक स्व को संरक्षित करेगा।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "आलोचना" },
-      { "name": "Panpsychisms", "relationship": "आलोचना" },
-      { "name": "Mind-Brain Identity Theory", "relationship": "संगत" }
+      {
+        "name": "Dualism",
+        "relationship": "आलोचना"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "आलोचना"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "संगत"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Hirstein’s mindmelding", "year": "" },
+      {
+        "title_with_names": "Hirstein’s mindmelding",
+        "year": ""
+      },
       {
         "title_with_names": "Mindmelding: Consciousness, Neuroscience, and the Mind’s Privacy, William Hirstein",
         "year": 2012

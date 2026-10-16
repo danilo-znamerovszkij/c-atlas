@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "चेतना का कोशिकीय आधार (CBC)",
     "summary": "यह सिद्धांत यह मानता है कि संवेदनशीलता जीवन के साथ ही उद्भूत हुई, यह तर्क देते हुए कि चेतना कार्बनिक रूप की एक आद्य, अंतर्निहित विशेषता है जो जीवाणुओं जैसी एककोशिकीय प्रजातियों में भी उपस्थित है। यह मन की उत्पत्ति की जाँच को जटिल तंत्रिका संरचनाओं से हटाकर आधारभूत जैव-यांत्रिक संरचनाओं की ओर पुनर्निर्देशित करता है।",
-    "associated_thinkers": ["Arthur Reber"],
+    "associated_thinkers": [
+      "Arthur Reber"
+    ],
     "category": "भौतिकवाद",
-    "subcategory": "जातिवृत्तीय विकास",
+    "subcategory": "जातिवृत्तीय",
     "core_identity_tagline": "चेतना कार्बनिक रूप की अंतर्निहित विशेषता के रूप में",
     "classification_tags": [
       "biological reductionism",
@@ -50,26 +52,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "यह सिद्धांत मन के कलनात्मक दृष्टिकोण को स्पष्ट रूप से अस्वीकार करता है और प्रतिपादित करता है कि चेतना के लिए जैविक कार्बनिक रूप पर स्वाभाविक हार्डवेयर-निर्भरता आवश्यक है, जो कृत्रिम मूर्तन को निषिद्ध करती है।"
     },
     "survival_beyond_death": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "एक भौतिकवाद सिद्धांत के रूप में, चेतना पूर्णतः जैविक मस्तिष्कों/शरीरों का उत्पाद है। मृत्यु का अर्थ है व्यक्ति/मन का अपरिवर्तनीय और स्थायी अनस्तित्व।"
     },
     "meaning_and_purpose": {
-      "stance": "मानवतावादी/जैविक",
+      "stance": "Humanistic only",
       "rationale": "चेतना मुख्यतः उत्तरजीविता और अनुकूलन के लिए कार्य करती है। चूँकि यह सिद्धांत भौतिकवाद के अंतर्गत वर्गीकृत है, इससे कोई परम ब्रह्मांडीय अर्थ या उद्देश्य निःसृत नहीं होता।"
     },
     "virtual_immortality": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "मन के कलनात्मक विवरणों की स्पष्ट अस्वीकृति और स्वाभाविक रूप से हार्डवेयर-निर्भर जैविक प्रक्रियाओं पर निर्भरता डिजिटल अपलोडिंग को असंभव बना देती है।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Feinberg and Mallatt’s Ancient Origins of Consciousness",
+        "name": "Feinberg and Mallatt's Ancient Origins of Consciousness",
         "relationship": "अतिव्यापन (जातिवृत्तीय संदर्भ साझा करता है)"
       },
       {
@@ -77,7 +79,7 @@
         "relationship": "आलोचना (इस दावे से कमज़ोर कि मानसिक अवस्थाएँ स्वाभाविक रूप से हार्डवेयर-निर्भर हैं)"
       },
       {
-        "name": "LeDoux’s Deep Roots of Consciousness",
+        "name": "LeDoux's Deep Roots of Consciousness",
         "relationship": "संगत (विकासवादी उत्पत्ति पर ध्यान साझा करता है)"
       }
     ],

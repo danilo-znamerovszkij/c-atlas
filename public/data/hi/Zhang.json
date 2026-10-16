@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "झांग का दीर्घ-दूरी प्रकाश-गति दूरसंचार",
     "summary": "यह सिद्धांत सुझाव देता है कि मस्तिष्क और मन की पहेली को गतिमान विद्युत क्षेत्रों के माध्यम से दूरस्थ, समांतर-व्यवस्थित न्यूरॉनों के बीच प्रकाश-गति दूरसंचार प्रस्तावित करके हल किया जा सकता है। समकालिकीकरण के नियम पर आधारित यह तंत्र, न्यूरॉनों को बुद्धिमान जीवन के लिए आवश्यक एक दृढ़ नेटवर्क बनाने में सक्षम बनाता है।",
-    "associated_thinkers": ["Ping Zhang"],
+    "associated_thinkers": [
+      "Ping Zhang"
+    ],
     "category": "भौतिकवाद",
-    "subcategory": "विद्युतचुंबकीय क्षेत्र",
+    "subcategory": "विद्युतचुंबकीय",
     "core_identity_tagline": "‘प्रकाश-गति दूरसंचार के रूप में चेतना’",
     "classification_tags": [
       "neurobiology",
@@ -54,38 +56,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "संभावित",
+      "stance": "Likely",
       "rationale": "प्रतिलिपित्य भौतिक नियमों (विद्युत क्षेत्र, समकालिकीकरण) पर निर्भर एक भौतिकवादी सिद्धांत के रूप में, चेतना के लिए आवश्यक तंत्र को उन्नत गैर-जैविक हार्डवेयर में निर्माण किया जा सकना चाहिए, बशर्ते जटिल संरचना को अभियंत्रित किया जा सके।"
     },
     "survival_beyond_death": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "चेतना पूर्णतः जैविक तंत्रिका प्रणालियों के विशिष्ट जटिल संगठन और भौतिक गतिकी (विद्युत क्षेत्र और समकालिकीकृत स्पंदन) में निहित है।"
     },
     "meaning_and_purpose": {
-      "stance": "केवल मानवतावादी",
+      "stance": "Humanistic only",
       "rationale": "यह सिद्धांत बुद्धि के लिए आवश्यक भौतिक तंत्रों पर केंद्रित है, जो किसी ब्रह्मांडीय या परम उद्देश्य को संबोधित किए बिना मानव संज्ञान और कर्तृत्व को जैविक उत्पादों के रूप में समर्थन देता है।"
     },
     "virtual_immortality": {
-      "stance": "संभावित",
+      "stance": "Likely",
       "rationale": "यदि चेतना-उत्पादक तंत्र—प्रकाश-गति समकालिकीकृत तंत्रिका नेटवर्क का सटीक स्थानिक और कालिक संगठन—की डिजिटल रूप से पूर्णतः प्रतिलिपि बनाई जा सके, तो आभासी अमरता सैद्धांतिक रूप से प्राप्य है।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McFadden’s Conscious Electromagnetic Information Theory (CEMI)",
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
         "relationship": "अतिव्यापन"
       },
       {
-        "name": "Jones’s electromagnetic fields",
+        "name": "Jones's Electromagnetic Fields",
         "relationship": "अतिव्यापन"
       },
       {
-        "name": "Computational and Informational Theories",
+        "name": "Computational",
         "relationship": "आलोचना"
       },
       {
-        "name": "Neurobiological Theories",
+        "name": "Neurobiological",
         "relationship": "विस्तार"
       }
     ],

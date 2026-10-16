@@ -8,8 +8,8 @@
       "Paul Churchland",
       "Keith Frankish"
     ],
-    "category": "भौतिकवाद सिद्धांत",
-    "subcategory": "तंत्रिका-जैविक",
+    "category": "भौतिकवाद",
+    "subcategory": "संगणनात्मक",
     "core_identity_tagline": "चेतना अनेक प्रारूपों और आख्यानात्मक गुरुत्व के रूप में",
     "classification_tags": [
       "eliminative materialism",
@@ -57,38 +57,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "हाँ",
+      "stance": "Yes",
       "rationale": "प्रकार्यवाद/अभिकलन में आधारित एक प्रबल भौतिकवादी सिद्धांत के रूप में, यह मानता है कि चेतना पूर्णतया भौतिक है और अभिकलनात्मक प्रकार्यवाद सत्य है। अतः, अति-प्रबल AI प्राप्त करने वाली अजैविक बुद्धियों को अंततः चेतना प्राप्त करनी ही होगी।"
     },
     "survival_beyond_death": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "भौतिकवाद सिद्धांतों में, जैविक मस्तिष्क और शरीर की मृत्यु के परिणामस्वरूप व्यक्ति का अपरिवर्तनीय और स्थायी अनस्तित्व होता है।"
     },
     "meaning_and_purpose": {
-      "stance": "केवल मानवतावादी",
+      "stance": "Humanistic only",
       "rationale": "भौतिकवाद सिद्धांत किसी परम ब्रह्मांडीय अर्थ या उद्देश्य को युक्तिसंगत नहीं ठहराते, इसके बजाय उस मानवतावादी अर्थ और मूल्य पर बल देते हैं जो व्यक्ति स्वयं के लिए रचते हैं।"
     },
     "virtual_immortality": {
-      "stance": "हाँ",
+      "stance": "Yes",
       "rationale": "यदि चेतना पूर्णतया भौतिक है और सूचना प्रसंस्करण में न्यूननीय है (जैसा यह सिद्धांत मानता है), तो प्रथम-पुरुष मानसिक स्व को किसी अजैविक माध्यम में अपलोड/प्रतिलिपित किया जा सकता है, जिससे पर्याप्त प्रौद्योगिकी होने पर आभासी अमरता प्राप्य हो जाती है।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "अतिव्यापन (मूल दार्शनिक आधार)"
       },
       {
-        "name": "Attention Schema Theory (Graziano)",
+        "name": "Graziano's Attention Schema Theory",
         "relationship": "सादृश्य (प्रकार्यवादी उपागम)"
       },
       {
-        "name": "Global Workspace Theory (GWT)",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "तुलना (दोनों कार्तीय रंगमंच को अस्वीकार करते हैं और सूचनात्मक अभिगम्यता पर केंद्रित हैं, यद्यपि विशिष्टताओं में भिन्न हैं)"
       },
       {
-        "name": "Higher-Order Thought Theories",
+        "name": "Higher-Order",
         "relationship": "अतिव्यापन (डेनेट के निदर्श को संज्ञानात्मक विषयवस्तु को प्राथमिकता देने के कारण प्रायः उच्च-कोटि सिद्धांत का एक रूप माना जाता है)"
       }
     ],

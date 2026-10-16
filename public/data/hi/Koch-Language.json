@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "कोच का चेतना भाषा पर निर्भर नहीं करती सिद्धांत",
     "summary": "यह सिद्धांत यह प्रतिपादित करता है कि आनुभविक चेतना, या मूल आंतरिक अनुभव, भाषा क्षमता से प्रकार्यात्मक रूप से स्वतंत्र है। इसे ऐसे नैदानिक मामलों द्वारा समर्थन मिलता है जहाँ भाषा क्षमता गंभीर रूप से क्षीण या लुप्त हो जाती है, फिर भी मौलिक अवबोध बना रहता है, जो इस निष्कर्ष की ओर ले जाता है कि मूल सचेतनता एक व्यापक गुण है जो अनेक अभाषिक प्राणियों के साथ साझा होता है।",
-    "associated_thinkers": ["Christof Koch"],
-    "category": "भौतिकवाद सिद्धांत",
-    "subcategory": "भाषा संबंध",
+    "associated_thinkers": [
+      "Christof Koch"
+    ],
+    "category": "भौतिकवाद",
+    "subcategory": "भाषा",
     "core_identity_tagline": "चेतना भाषा से स्वतंत्र है",
     "classification_tags": [
       "phenomenal consciousness",
@@ -50,38 +52,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "सशर्त",
+      "stance": "Conditional",
       "rationale": "चूँकि चेतना के लिए भाषा आवश्यक नहीं है, AI की भाषिक क्षमता (LLM) अप्रासंगिक है। AI चेतना पूर्णतया इस पर निर्भर करती है कि क्या आवश्यक अभाषिक भौतिक आधार को कृत्रिम तंत्रों में प्रतिकृत किया जा सकता है।"
     },
     "survival_beyond_death": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "अपने भौतिकवादी वर्गीकरण के अनुरूप, चेतना एक भौतिक आधार (मस्तिष्क) से जुड़ी है और जैविक मृत्यु के बाद बनी नहीं रह सकती।"
     },
     "meaning_and_purpose": {
-      "stance": "केवल मानवतावादी",
+      "stance": "Humanistic only",
       "rationale": "चेतना स्व को भाषा के माध्यम से एक आख्यानात्मक केंद्र के रूप में कार्य करने में सक्षम बनाती है, जो मानव-सृजित अर्थ की अनुमति देती है, परंतु अंतर्निहित भौतिक वास्तविकता किसी परम लौकिक उद्देश्य का सुझाव नहीं देती।"
     },
     "virtual_immortality": {
-      "stance": "सशर्त",
+      "stance": "Conditional",
       "rationale": "यदि चेतना भाषा से अलग है, तो ध्यान पूर्णतया मूल अवबोध के अभाषिक, भौतिक आधार की प्रतिलिपि बनाने पर केंद्रित हो जाता है। यदि इस विशिष्ट अभाषिक तंत्रिका संरचना की प्रतिलिपि बनाई जा सके, तो आभासी अमरता संभव है।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
         "relationship": "आलोचना"
       },
       {
-        "name": "Searle’s Language and Consciousness",
+        "name": "Searle's Language and Consciousness",
         "relationship": "आलोचना"
       },
       {
-        "name": "Andrews’s Consciousness Without Complex Brains",
+        "name": "Andrews's Consciousness Without Complex Brains",
         "relationship": "संगत"
       },
       {
-        "name": "Smith’s Language as Classifier of Consciousness",
+        "name": "Smith's Language as Classifier of Consciousness",
         "relationship": "अतिव्यापन"
       }
     ],

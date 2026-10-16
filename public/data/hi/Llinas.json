@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "यनास का दोलनों की मनःस्थिति सिद्धांत",
     "summary": "यह सिद्धांत प्रतिपादित करता है कि सचेत \"मनःस्थिति\" मौलिक रूप से न्यूरॉनों के भीतर विद्युत दोलनों और दूरस्थ तंत्रिका समूहों में परिणामी समकालिक सक्रियता द्वारा उत्पन्न होती है, जो संज्ञान की तंत्रिकाजीववैज्ञानिक जड़ बनाती है। यह सुझाव देता है कि वास्तविकता, जैसा कि अनुभव की जाती है, इन आंतरिक दोलनों द्वारा उत्पन्न एक प्रकार की आभासी वास्तविकता है, जो मुख्यतः पूर्वानुमान को सक्षम बनाने का कार्य करती है।",
-    "associated_thinkers": ["Rodolfo Llinas"],
-    "category": "भौतिकवाद सिद्धांत",
-    "subcategory": "विद्युतचुंबकीय क्षेत्र",
+    "associated_thinkers": [
+      "Rodolfo Llinas"
+    ],
+    "category": "भौतिकवाद",
+    "subcategory": "विद्युतचुंबकीय",
     "core_identity_tagline": "‘न्यूरॉनीय दोलनों और पूर्वानुमान के रूप में चेतना’",
     "classification_tags": [
       "neurobiology",
@@ -53,38 +55,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "संभावित",
+      "stance": "Likely",
       "rationale": "यदि चेतना दोलन समकालिकता और पूर्वानुमान के अभिकलनात्मक प्रकार्य में आधारित है, तो इन गतिकियों को सैद्धांतिक रूप से परिष्कृत कृत्रिम प्रणालियों में साकार या अनुरूपित किया जा सकता है, जो भौतिकीवादी रुख का पालन करता है।"
     },
     "survival_beyond_death": {
-      "stance": "नहीं",
+      "stance": "No",
       "rationale": "चेतना को मस्तिष्क के भीतर जैविक तंत्रिका तंत्रों (दोलनों) द्वारा उत्पन्न एक अवस्था के रूप में परिभाषित किया गया है, जो जैविक आधार-द्रव्य की मृत्यु के पश्चात् उत्तरजीविता को अवरुद्ध करता है।"
     },
     "meaning_and_purpose": {
-      "stance": "केवल मानवतावादी",
+      "stance": "Humanistic only",
       "rationale": "एक विकसित, तंत्रिकाजीववैज्ञानिक तंत्र के रूप में, चेतना का उद्देश्य मुख्यतः प्रकार्यात्मक (पूर्वानुमान और उत्तरजीविता) है, जो परम ब्रह्मांडीय अर्थ को अस्वीकार करने वाले अपस्फीतिकारी भौतिकवाद दृष्टिकोण के अनुरूप है।"
     },
     "virtual_immortality": {
-      "stance": "हाँ",
+      "stance": "Yes",
       "rationale": "यदि चेतना को पूर्णतया दोलनकारी तंत्रिका सक्रियता के पैटर्नों द्वारा समझाया जाता है, तो इन गतिशील पैटर्नों का किसी अजैविक माध्यम में पूर्ण प्रतिरूपण या अपलोडिंग प्रथम-पुरुष स्वत्व को संरक्षित करेगा, जो आभासी अमरता को संभव बनाएगा।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Electromagnetic Field Theories",
+        "name": "Electromagnetic",
         "relationship": "श्रेणी सदस्यता/अतिव्यापन"
       },
       {
-        "name": "Predictive Processing Theories",
+        "name": "Predictive Theories (Top-Down)",
         "relationship": "अतिव्यापन/विस्तार"
       },
       {
-        "name": "Recurrent Processing Theory (Lamme)",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "अतिव्यापन"
       },
       {
-        "name": "Dendritic Integration Theory (Aru et al.)",
+        "name": "Dendritic Integration Theory",
         "relationship": "अतिव्यापन"
       }
     ],
