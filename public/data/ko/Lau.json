@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "라우의 지각적 실재 감시 이론",
     "summary": "경험적으로 정초된 이 고차 이론은 특정한 고차 표상(HOR)이 일차 감각 표상을 외부 세계의 신뢰할 만한 반영으로 승인할 때 의식적 지각이 일어난다고 제안한다. 고차 표상은 지각과 인지 사이의 접면으로 작동하며, 의식적 경험에 대한 주관적 정당화 감각을 제공한다.",
-    "associated_thinkers": ["Hakwan Lau"],
+    "associated_thinkers": [
+      "Hakwan Lau"
+    ],
     "category": "유물론",
-    "subcategory": "표상적",
+    "subcategory": "고차",
     "core_identity_tagline": "'지각적 실재 감시로서의 의식'",
     "classification_tags": [
       "higher-order theory",
@@ -53,38 +55,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "기능주의 이론으로서 의식은 올바른 정보적·기능적 구조(고차 표상 기제)의 구현에 의존한다. 이 구조가 로봇이나 컴퓨터 프로그램에서 예화될 수 있다면 인공 의식은 가능하다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식은 생물학적 뇌 안의 (전전두피질 등) 특정하고 전문화된 신경 기제와 명시적으로 결부되어 있으므로, 생물학적 죽음 이후의 존속 여지는 없다."
     },
     "meaning_and_purpose": {
-      "stance": "인간주의적 의미에 한함",
+      "stance": "Humanistic only",
       "rationale": "이 기제의 일차적 역할은 기능적이다(실재와 환상의 구별 및 정보의 전달). 이 생물학적 기제가 부여하는 적응적 이점을 넘어서는 우주적·궁극적 목적은 제공하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "표상의 아날로그적 본성을 포함한 특정한 기능적·정보적 구조가 완벽하게 업로드되어 비생물학적 기질에서 작동할 수 있다면, 의식은 그 기능적 구조에 의해 규정되므로 일인칭 정신적 자아가 보존될 것이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Theories",
+        "name": "Higher-Order",
         "relationship": "구체적 사례/확장"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "비판(우월한 중간적 대안으로 자리매김함)"
       },
       {
-        "name": "Recurrent Processing Theory",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "비판(우월한 중간적 대안으로 자리매김함)"
       },
       {
-        "name": "Graziano’s Attention Schema Theory",
+        "name": "Graziano's Attention Schema Theory",
         "relationship": "양립 가능(의식 주장에 대한 기능주의적/인지적 접근을 공유함)"
       }
     ],

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "L'approccio tecnologico alla mente ovunque (TAME) di Levin",
     "summary": "Questo quadro comprende la mente e la cognizione attraverso l'attività funzionale e orientata a uno scopo in diversi substrati, spesso non convenzionali, inclusi materiali ingegnerizzati e biologia sintetica. Postula che la coscienza o la senzienza sia continua e graduata, considerando le menti animali come un'istanza di intelligenza collettiva tra gruppi di cellule.",
-    "associated_thinkers": ["Michael Levin"],
-    "category": "Teorie del Materialismo",
-    "subcategory": "Evoluzione Filogenetica",
+    "associated_thinkers": [
+      "Michael Levin"
+    ],
+    "category": "Sfida",
+    "subcategory": "",
     "core_identity_tagline": "Approccio tecnologico alla mente ovunque (TAME)",
     "classification_tags": [
       "technological",
@@ -55,7 +57,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "Poiché TAME si applica a materiali progettati e chimerici, i sistemi artificiali (se configurati come sistemi di percezione-azione incarnati e orientati a uno scopo) potrebbero plausibilmente realizzare la coscienza."
     },
     "survival_beyond_death": {
@@ -63,26 +65,26 @@
       "rationale": "In quanto quadro materialista che lega la coscienza al funzionamento continuo di un substrato fisico incarnato, la sopravvivenza oltre l'esistenza di quel substrato non è sostenuta."
     },
     "meaning_and_purpose": {
-      "stance": "Umanistico/Legato all'agentività",
+      "stance": "Humanistic only",
       "rationale": "La coscienza è legata all'attività orientata a uno scopo, il che suggerisce che il significato derivi dall'agentività intrinseca del sistema, piuttosto che da una teleologia cosmica."
     },
     "virtual_immortality": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "La premessa che la mente possa essere ingegnerizzata e istanziata in nuove architetture non biologiche suggerisce che duplicare e trasferire il complesso sistema di percezione-azione incarnato dovrebbe essere possibile in linea di principio."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Embodied Cognition",
+        "name": "Embodied",
         "relationship": "Compatibile/Influenza"
       },
       {
-        "name": "Ginsburg and Jablonka’s Associative Learning During Evolution",
+        "name": "Ginsburg and Jablonka's Associative Learning During Evolution",
         "relationship": "Sovrapposizione"
       },
       {
-        "name": "Computational and Informational Theories",
+        "name": "Computational",
         "relationship": "Sovrapposizione"
       }
     ],

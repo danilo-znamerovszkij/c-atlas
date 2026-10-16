@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "허스타인의 마인드멜딩",
     "summary": "윌리엄 허스타인은 의식적 마음에 대한 직접적인 물리적 설명을 가로막는 주된 장애물이 근거 없는 '사적성 가정'이라고 논한다. 한 사람이 결코 타인의 의식 상태를 경험할 수 없다는 이 형이상학적 가정을 제거하면, 성가신 이원론과 범심론, 그리고 의식이 해결 불가능하다고 주장하는 이론들을 만들어낼 동기가 약화된다.",
-    "associated_thinkers": ["William Hirstein"],
+    "associated_thinkers": [
+      "William Hirstein"
+    ],
     "category": "유물론",
     "subcategory": "신경생물학적",
     "core_identity_tagline": "형이상학적 사적성을 거부함으로써 설명되는 의식",
@@ -49,30 +51,42 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "이 이론은 의식에 대한 '직접적으로 물리적인' 설명을 추구하며 유물론으로 분류되므로, 의식적 AI의 제작을 원리적으로 금지하는 요소는 없다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "이 이론은 이원론을 무너뜨리고자 하는 유물론적 모형이다. 유물론은 의식이 오로지 생물학적 뇌의 산물이라고 보므로, 의식은 생물학적 죽음과 함께 소멸한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "유물론 이론들은 일반적으로 인간이 스스로 의미와 가치를 창출할 수는 있으나 궁극적인 우주적 의미나 목적은 없다고 주장한다."
     },
     "virtual_immortality": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "(허스타인이 논하듯) 의식이 전적으로 물리적 용어로 설명될 수 있다면 , 한 사람의 신경 패턴과 경로 전체를 업로드하는 것은 원리적으로 일인칭 심적 자아를 보존할 것이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "비판" },
-      { "name": "Panpsychisms", "relationship": "비판" },
-      { "name": "Mind-Brain Identity Theory", "relationship": "양립 가능" }
+      {
+        "name": "Dualism",
+        "relationship": "비판"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "비판"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "양립 가능"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Hirstein’s mindmelding", "year": "" },
+      {
+        "title_with_names": "Hirstein’s mindmelding",
+        "year": ""
+      },
       {
         "title_with_names": "Mindmelding: Consciousness, Neuroscience, and the Mind’s Privacy, William Hirstein",
         "year": 2012

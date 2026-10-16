@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "라이컨의 호문쿨루스 기능주의",
     "summary": "이 이론은 의식이 전적으로 물리적이며 기능적인 것으로서, 위계적으로 조직된 정보 처리 체계로 이루어진다고 주장한다. 의식은 구체적으로 이차 표상에서 발생하며, 체계 자신의 저차 심적 상태를 향하는 내적 감각 메커니즘으로 기능한다.",
-    "associated_thinkers": ["William Lycan"],
+    "associated_thinkers": [
+      "William Lycan"
+    ],
     "category": "유물론",
-    "subcategory": "표상주의",
+    "subcategory": "고차",
     "core_identity_tagline": "‘이차 표상 및 내적 주의로서의 의식’",
     "classification_tags": [
       "functionalism",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "기능주의 이론이므로, 인공 체계가 필요한 기능적 조직과 이차 표상 능력을 실현할 수 있다면 원리적으로 반드시 의식적일 것이다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "이 이론은 엄격히 유물론적이며 의식이 전적으로 기능적으로 조직된 물리적 뇌 안에서 실현된다고 보므로, 신체의 죽음 이후에는 존속할 수 없다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한정",
+      "stance": "Humanistic only",
       "rationale": "유물론적 토대와 일관되게, 의식은 지향성과 행위주체성을 가능하게 하여 생물학적 체계 스스로가 만들어내는 의미를 제공하지만, 어떠한 궁극적 우주적 목적도 함축하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 기능적 조직과 표상적 내용에 의해 정의되므로, 신경 패턴과 경로를 비생물학적 매체로 완벽히 기능적으로 복제(업로딩)하는 것은 원리적으로 일인칭적 심적 자아를 보존할 것이다."
     }
   },
@@ -73,7 +75,7 @@
         "relationship": "중첩/확장"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "확장/대조"
       },
       {
@@ -81,7 +83,7 @@
         "relationship": "분류/토대"
       },
       {
-        "name": "Jackson’s Representationalism and the Knowledge Argument",
+        "name": "Jackson's Representationalism and the Knowledge Argument",
         "relationship": "비판"
       }
     ],

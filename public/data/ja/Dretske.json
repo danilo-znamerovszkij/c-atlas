@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "ドレツキの情報と表象主義",
+    "summary": "フレッド・ドレツキは、意識的経験を世界の一次の表象と同一視する。すなわち、情報を担い、自然選択を通じて情報を担う機能を獲得した脳の状態である。意識的な状態と無意識的な状態を分けるのは、情報がどのように表象され、推論、行為、報告に利用可能になっているかの仕方である。クオリアは、事物が表象されているところの性質にすぎない。",
+    "associated_thinkers": [
+      "Fred Dretske"
+    ],
+    "category": "唯物論",
+    "subcategory": "一階",
+    "core_identity_tagline": "情報を担う表象としての意識",
+    "classification_tags": [
+      "representationalism",
+      "information",
+      "first-order",
+      "transparency",
+      "naturalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識的経験は、外部の対象と特徴についての一次の心的表象と同一である。これらの状態の生物学的機能は、世界についての情報を担うことである。",
+    "ontological_status": "物理主義（表象主義的）",
+    "mind_body_relationship": "心的状態は、表象する脳の状態である。ドレツキは二元論を退け、志向性と意識を、科学的で唯物論的な枠組みの内部で自然化可能なものとして扱う。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（脳の状態が情報を担う機能を獲得するとき、表象が生じる）",
+    "subjectivity_and_intentionality": "志向性は自然的情報に由来する。すなわち、信号と条件のあいだの因果関係であり、システムによって用いられるものである。私たちは、自分の表象そのものではなく、その表象が表象しているものに気づいている。",
+    "qualia_account": "クオリアは、非物理的な内在的性質ではなく、表象状態の性質、すなわち事物が表象されているあり方である。私たちが見るのはりんごの赤であり、内的な赤い対象ではない。",
+    "ontological_commitments": "脳の状態、自然的情報（信号と条件のあいだの因果的共変動）、選択によって獲得された生物学的機能、そして外的対象と性質。",
+    "epistemic_access": "世界を通じて。経験は透明であるため、内省は対象の表象された性質を明らかにする。この理論自体は、情報と機能についての自然主義的分析によって支えられている。",
+    "constituents_and_structure": "外的内容をもつ表象状態。これらは、その表象の仕方と、さらなる推論や制御への利用可能性によって、意識的なものとして区別される。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的なもの（表象として自然化された）、アクセス、知覚、志向性",
+    "distinctive_mechanism_or_principle": "脳の状態は、世界についての情報を利用可能な仕方で担い、推論、計画、行為、報告に影響を及ぼす位置にあるとき、意識的になる。それについての高次の思考は必要とされない。",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "環境についての情報を担い、用いる脳の状態において。",
+    "causation_and_functional_role": "意識的な表象は、行動において因果的に作用し、行為とコミュニケーションを導く。ドレツキは、意識を注意と情報の利用に結びつける。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "ドレツキは、自然的情報（ある条件を信頼性をもって指示する信号）を、その情報を用いるシステムを必要とする表象から区別する。情報は不確実性を減らし、行為を導く。",
+    "evolutionary_account": "脳の状態は、自然選択を通じて情報を担う機能を獲得する。これによって、それらは意識されるのにふさわしい心的表象となる。",
+    "core_claims_and_evidence": [
+      "意識的経験は、外的世界の一次の表象であり、他の心的状態の表象ではない。",
+      "経験は透明である。私たちが意識しているのは、経験している事物であって、自分の経験ではない。",
+      "意識的状態と無意識的状態は、表象されるものにおいてではなく、内容が表象され利用される仕方において異なる。",
+      "内容がどのように表象され利用されるかが理解されれば、ドレツキによれば、それ以上の説明のギャップは残らない。"
+    ],
+    "basis_of_belief_or_evidence_type": "情報理論と生物学的機能に依拠する哲学的自然主義。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的には検証可能",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "批判者たちは、表象と機能的な利用可能性が、経験の主観的な感じ、すなわち「それがどのようなものであるか」を説明するのかを問う。高次理論の支持者たちは、意識のためには自分自身の状態についての気づきは必要ないというドレツキの主張に異議を唱える。",
+    "open_questions_and_limitations": "ある状態がその内容を表象する「仕方」を、無意識的ではなく意識的にするものが正確には何であるのかは、依然として不明確である。",
+    "ontological_coherence": "唯物論的で自然主義的な存在論に適合し、マイケル・タイやウィリアム・ライカンといった後の表象主義者たちの基礎を築いた。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "意識は、適切な機能をもつ表象の問題であるため、機械は原理的にはその資格を満たしうる。ドレツキはその機能を自然選択に基礎づけるため、設計されたシステムの状態がそれに数えられるかどうかは不明確である。"
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "意識的状態は表象する脳の状態であるため、脳が機能を停止すると、意識されるものは何も残らない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "この理論は完全に自然主義的であり、意識に宇宙的な目的ではなく、生物学的な機能を与える。"
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "複製には、世界についての情報を担うことを機能とする状態が必要であるが、ドレツキが進化した機能に依拠するため、シミュレーションがそれらの状態をもつかどうかは未決のままである。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Carruthers’s First-Order Representationalism",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Lycan's Homuncular Functionalism",
+        "relationship": "影響"
+      },
+      {
+        "name": "Rosenthal’s Higher-Order Thought",
+        "relationship": "対比"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "重なり"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dretske’s Information and Representationalism, Landscape of Consciousness, Robert Lawrence Kuhn"
+      }
+    ]
+  }
+}

@@ -2,8 +2,11 @@
   "id_and_class": {
     "theory_title": "スタップの「問い」を発することによる波動関数の収縮",
     "summary": "この理論は、意識が宇宙にとって根源的であると措定し、意識が量子波動関数の収縮（測定という行為）を引き起こすとする量子力学の伝統的解釈に依拠する。この機構は意識に物理世界における決定的な因果的役割を与え、行為者の自由な選択を神経相関の物理的な現実化へと結びつける。",
-    "associated_thinkers": ["Henry Stapp", "John von Neumann"],
-    "category": "量子理論",
+    "associated_thinkers": [
+      "Henry Stapp",
+      "John von Neumann"
+    ],
+    "category": "量子",
     "subcategory": "量子理論",
     "core_identity_tagline": "「量子波動関数の収縮としての意識」",
     "classification_tags": [
@@ -52,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "不確定／条件付き",
+      "stance": "Uncertain",
       "rationale": "意識は量子跳躍を強いるために必要な独立した根源的存在として措定されるため、脳の純粋に物理的ないし計算的な過程をAIにおいて複製しても、この根源的な行為者性を具現化するには不十分でありうる。"
     },
     "survival_beyond_death": {
-      "stance": "おそらく",
+      "stance": "Uncertain",
       "rationale": "この理論は意識を根源的なものとし、量子的実在と不可分に結びつくものとして確立するため、古典的な脳の破壊が必ずしも根源的な意識的実体の終焉を意味するとは限らないことを示唆する。ただし一人称的な存続を想像することは依然として困難である。"
     },
     "meaning_and_purpose": {
-      "stance": "はい",
+      "stance": "Uncertain",
       "rationale": "この理論は意識に不可欠な因果的役割を与え、受動的な観察を宇宙における能動的な参加（「行為者」）へと変え、それによって内在的な機能と意味を与える。"
     },
     "virtual_immortality": {
-      "stance": "いいえ",
+      "stance": "No",
       "rationale": "もし意識が物理的状態を収縮させるために必要な独立した根源的存在であるならば、脳の純粋に物理的・計算的な側面を複製しても、真の自己同一性に必要なこの非物理的な構成要素は必然的に除外されてしまう。"
     }
   },
@@ -75,15 +78,15 @@
         "relationship": "基盤／影響"
       },
       {
-        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
         "relationship": "代替的な量子理論"
       },
       {
-        "name": "Kauffman’s Mind Mediating Possibles to Actuals",
+        "name": "Kauffman's Mind Mediating Possibles to Actuals",
         "relationship": "重なり"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "批判／打破の対象"
       }
     ],

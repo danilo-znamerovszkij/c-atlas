@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "スミスの意識の分類器としての言語",
     "summary": "唯物論の枠組みの言語との関係の下に分類されるこの理論は、言語が根本的に、主観的経験の内容を範疇化し、構造化し、明確に分節する働きをすると提唱する。それゆえ意識は、これらの言語的構造によって組織化されアクセス可能になった内容として存在する。",
-    "associated_thinkers": ["Barry Smith"],
-    "category": "唯物論の諸理論",
-    "subcategory": "言語との関係",
+    "associated_thinkers": [
+      "Barry Smith"
+    ],
+    "category": "唯物論",
+    "subcategory": "言語",
     "core_identity_tagline": "言語的に分類された内容としての意識",
     "classification_tags": [
       "language",
@@ -49,26 +51,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識が複雑な言語的分類の機構の産物であるならば、十分に先進的な言語処理と象徴的処理の能力をもつ人工システムはそれを具現化できるはずである。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は、言語と分類を支える物理的で生物学的な基盤に根本的に結びついている。その消滅は、脳の消散とともに永久的である。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "唯物論の理論として、認知的複雑さと自己省察から導かれる人間が創出する意味と価値を支持するが、究極的な宇宙的目的論を否定する。"
     },
     "virtual_immortality": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "意識は情報の分類と表象のシステムへと機能的に還元可能であるため、このシステムの完全なデジタル的複製ないしアップロードは原理的に可能である。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "T. Clark’s Content Hypothesis",
+        "name": "T. Clark's Content Hypothesis",
         "relationship": "両立可能"
       },
       {
@@ -76,7 +78,7 @@
         "relationship": "拡張"
       },
       {
-        "name": "Chomsky’s Language and Consciousness",
+        "name": "Chomsky's Language and Consciousness",
         "relationship": "関連／対比"
       }
     ],

@@ -5,8 +5,8 @@
     "associated_thinkers": [
       "Daniel Dennett"
     ],
-    "category": "유물론 이론",
-    "subcategory": "계통발생적 진화",
+    "category": "유물론",
+    "subcategory": "계통발생적",
     "core_identity_tagline": "마법 없이 자연선택을 통해 진화한 마음",
     "classification_tags": [
       "evolution",
@@ -53,38 +53,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "의식이 전적으로 물질적이며 복잡한 조직에서 비롯되므로(기능주의/유물론), 올바른 복잡성이 재현된다면 비생물학적 지능이 의식을 획득하는 것을 원리적으로 금지할 근거는 없다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "의식은 전적으로 물리적 뇌에 결부되어 있다. 자아가 디지털로 보존되지 않는 한(가상적 불멸), 죽음은 되돌릴 수 없는 영구적 비존재를 초래한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한정",
+      "stance": "Humanistic only",
       "rationale": "진화 과정은 '설계자 없는 설계'로 작동하며, 이는 본래적인 우주적 의미나 목적이 없음을 뜻한다. 의미는 의식적인 인간이 스스로 만들어낸다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "의식이 뇌의 진화한 물리적/기능적 조직으로 온전히 설명된다면, 이러한 신경 패턴과 경로를 비생물학적 매체에서 완벽히 복제하는 것은 일인칭적 심적 자아를 보존할 것이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Multiple Drafts Model",
+        "name": "Dennett's Multiple Drafts Model",
         "relationship": "토대"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "중첩"
       },
       {
-        "name": "Lycan’s Homuncular Functionalism",
+        "name": "Lycan's Homuncular Functionalism",
         "relationship": "양립 가능"
       },
       {
-        "name": "LeDoux’s Deep Roots of Consciousness",
+        "name": "LeDoux's Deep Roots of Consciousness",
         "relationship": "양립 가능"
       }
     ],

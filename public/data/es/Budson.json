@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "La Conciencia como Sistema de Memoria, de Budson",
+    "summary": "Andrew Budson y sus colaboradores sostienen que la conciencia evolucionó como parte del sistema de memoria episódica, para unir las experiencias en episodios almacenables que pueden recombinarse de forma flexible para simular el futuro. Como el cerebro es demasiado lento para que la conciencia guíe la acción en tiempo real, lo que experimentamos como percepción del presente es una memoria del mundo de hace unos cientos de milisegundos.",
+    "associated_thinkers": [
+      "Andrew E. Budson"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Homeostático",
+    "core_identity_tagline": "La conciencia como sistema de memoria episódica",
+    "classification_tags": [
+      "episodic memory",
+      "hippocampus",
+      "future simulation",
+      "evolution",
+      "neurology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia es el sistema de memoria: la función de «escritura» de la memoria episódica, que crea y recupera recuerdos explícitos de eventos. En palabras de Budson, «no percibimos el mundo en tiempo real; lo recordamos».",
+    "ontological_status": "Fisicalismo (funcionalista, neurobiológico)",
+    "mind_body_relationship": "La conciencia es idéntica a la memoria explícita, de modo que sus correlatos neuronales son los de la memoria explícita: circuitos episódicos hipocampales que trabajan junto con sistemas corticales distribuidos.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia débil (a partir de los circuitos de memoria episódica que ligan información sensorial, semántica y emocional)",
+    "subjectivity_and_intentionality": "La sensación de ser un observador en un teatro cartesiano, y de un «flujo de conciencia» continuo, resulta de experimentar recuerdos reproducidos y ensamblados de la percepción, y no del presente mismo.",
+    "qualia_account": "",
+    "ontological_commitments": "Circuitos hipocampales de memoria episódica, la red de modo por defecto y sistemas de memoria sensorial, de trabajo y semántica repartidos por la corteza cerebral.",
+    "epistemic_access": "Mediante la neurociencia cognitiva: estudios de temporización de la conciencia, neuroimagen del recordar y del imaginar, y observación clínica de trastornos de la memoria como la enfermedad de Alzheimer.",
+    "constituents_and_structure": "La memoria episódica junto con la memoria sensorial, de trabajo y semántica forman un único «sistema de memoria consciente». Cada episodio consciente une vistas, sonidos y tactos con estados internos como el deseo, la esperanza y el miedo."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Acceso, memoria, imaginación y planificación, sensación de sí mismo como observador",
+    "distinctive_mechanism_or_principle": "El cerebro inconsciente realiza un procesamiento paralelo rápido; la conciencia hace que ciertos resultados seleccionados se presenten como un episodio explícito y unificado, lo almacena y lo reproduce para simular escenarios futuros.",
+    "dynamics_of_emergence": "La conciencia se retrasa unos cientos de milisegundos respecto de los sucesos. Después, la conciencia oscila entre el pasado y el futuro en una especie de viaje mental en el tiempo, usando las mismas redes para recordar el ayer e imaginar el mañana.",
+    "location_and_distribution": "Circuitos episódicos hipocampales con sistemas corticales distribuidos; Budson sostiene que cada región cortical contribuye al sistema de memoria consciente.",
+    "causation_and_functional_role": "La conciencia es demasiado lenta para impulsar acciones inmediatas, como espantar a un mosquito, que el sistema motor ya ha ejecutado. Su función es planificar el futuro, y más tarde fue reutilizada para la resolución de problemas, el pensamiento abstracto y el lenguaje.",
+    "integration_or_binding": "La conciencia une los estímulos sensoriales y los estados internos en un único episodio que puede almacenarse y reproducirse después.",
+    "information_flow_or_representation": "Las salidas seleccionadas del procesamiento inconsciente se escriben en la memoria episódica explícita como narrativas coherentes, que luego se recombinan para predecir resultados.",
+    "evolutionary_account": "La conciencia evolucionó como parte de la memoria episódica, probablemente como su componente de almacenamiento, de modo que los animales pudieran recombinar de forma flexible los sucesos pasados para planificar conductas complejas. Esto explica por qué la memoria olvida y confabula: está diseñada para la simulación creativa, no para el registro fiel.",
+    "core_claims_and_evidence": [
+      "La conciencia de un suceso sensorial llega después de que el sistema motor ya ha respondido a él.",
+      "El hipocampo y la red de modo por defecto están activos tanto al recordar el pasado como al imaginar el futuro.",
+      "La propensión de la memoria episódica al olvido y a los falsos recuerdos encaja con un sistema diseñado para la recombinación flexible.",
+      "Los trastornos de la memoria, como la enfermedad de Alzheimer, afectan a la planificación, la resolución de problemas y el pensamiento abstracto, lo que Budson trata como trastornos de la conciencia."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírica (neurociencia cognitiva, neuroimagen, neurología clínica) combinada con razonamiento evolutivo"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable",
+    "known_empirical_interventions_or_tests": "Estudios de temporización de la conciencia respecto de la respuesta motora; neuroimagen de las redes compartidas por la memoria y la imaginación; estudio clínico de pacientes con trastornos de la memoria, como la enfermedad de Alzheimer.",
+    "criticisms_and_tensions": "Budson describe la conciencia tanto como la función de «escritura» de la memoria episódica como idéntica a todo el sistema de memoria, y sitúa su sustrato tanto en los circuitos hipocampales como en el córtex en su conjunto. Tratar los trastornos de la memoria como trastornos de la conciencia estira el sentido habitual del término, ya que estos pacientes siguen despiertos y conscientes.",
+    "open_questions_and_limitations": "Budson y sus colaboradores plantean preguntas abiertas que la teoría debe responder: qué animales son conscientes, cómo transcurren sin conciencia actividades complejas como conducir y por qué el control consciente de los impulsos y de la atención es tan débil.",
+    "ontological_coherence": "Coherente dentro de un marco fisicalista y funcionalista que identifica la conciencia con una función de memoria específica del cerebro."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Dado que la conciencia se identifica con un sistema funcional de memoria, un sistema artificial que crea, ligue y reproduzca episodios explícitos para simular el futuro podría cumplir en principio los requisitos, aunque Budson no aborda esta cuestión."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conciencia es el sistema de memoria episódica del cerebro, por lo que termina cuando esos circuitos terminan."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "La conciencia evolucionó para respaldar la conducta humana flexible, adaptativa y creativa, sin propósito más allá del organismo."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Si se reprodujera la organización funcional de la memoria episódica, la concepción no ofrece ninguna razón fundada para que la conciencia no la siguiera."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McComas's Hippocampal Memory-Stream Theory",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "James’s Stream of Thought/Consciousness",
+        "relationship": "Influencia"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness as a Memory System, Andrew E. Budson and colleagues",
+        "year": 2022
+      }
+    ]
+  }
+}

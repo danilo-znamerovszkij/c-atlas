@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "El Representacionalismo Diáfano y el Argumento del Conocimiento de Jackson",
     "summary": "El Representacionalismo Diáfano de Frank Jackson postula que el carácter fenoménico de la experiencia perceptiva se agota en su contenido representacional, es decir, 'vemos a través' de la experiencia hasta las propiedades del objeto. Esta posición fue desarrollada principalmente para socavar la conclusión de su propio y célebre experimento mental, el Argumento del Conocimiento, que anteriormente argumentaba en contra del Fisicalismo.",
-    "associated_thinkers": ["Frank Jackson"],
-    "category": "Materialism Theories",
-    "subcategory": "Representational",
+    "associated_thinkers": [
+      "Frank Jackson"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Primer orden",
     "core_identity_tagline": "‘El Carácter Fenoménico se Agota en el Contenido Representacional’",
     "classification_tags": [
       "representationalism",
@@ -51,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "Si la conciencia se agota en el contenido representacional y el rol funcional, y estas propiedades pueden realizarse computacionalmente, entonces los sistemas de IA pueden alcanzar la conciencia."
     },
     "survival_beyond_death": {
@@ -59,11 +61,11 @@
       "rationale": "La teoría es una defensa del Materialismo/Fisicalismo, lo que implica que la conciencia está ligada únicamente al sistema físico (el cerebro o su equivalente funcional/representacional), impidiendo la supervivencia más allá del cese biológico."
     },
     "meaning_and_purpose": {
-      "stance": "Solo humanista",
+      "stance": "Humanistic only",
       "rationale": "Como teoría materialista, no ofrece ningún sentido o propósito último fuera de lo que los seres humanos crean para sí mismos."
     },
     "virtual_immortality": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "Dado que el carácter fenoménico queda plenamente capturado por el contenido funcional/representacional, una duplicación perfecta (mediante subida de la mente) de esos contenidos preservaría el yo mental original en primera persona."
     }
   },
@@ -78,7 +80,7 @@
         "relationship": "Fundamento"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "Superposición"
       },
       {

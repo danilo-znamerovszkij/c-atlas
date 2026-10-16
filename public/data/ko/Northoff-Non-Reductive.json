@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "노트호프의 비환원적 신경철학 이론",
     "summary": "이 이론은 철학적 개념 및 존재론적 이론을 경험적 신경과학 데이터와 쌍방향으로 체계적으로 연결함으로써 뇌와 마음의 복잡한 관계를 분석하고자 고안된, 일차적으로 방법론적인 전략이다. 그 목표는 심적 개념을 물리적 사실로 환원하지 않으면서 주관성에 대한 통찰을 제공하는 것이다.",
-    "associated_thinkers": ["Georg Northoff"],
-    "category": "비환원적 물리주의",
+    "associated_thinkers": [
+      "Georg Northoff"
+    ],
+    "category": "비환원",
     "subcategory": "비환원적 신경철학",
     "core_identity_tagline": "철학과 신경과학의 접면에 놓인 방법론적 도구",
     "classification_tags": [
@@ -51,30 +53,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "비환원적 물리주의 접근으로서 의식은 특정한 복잡 동역학(시간공간적 기제)의 예화와 결부되므로, 이 동역학을 인공적으로 재현할 수 있다면 AI의 의식도 가능해야 한다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "이 이론은 뇌의 물리적 기제(신경-생태적, 신경-내장적, 자발적 활동 매트릭스)에 근거한다. 이러한 물리적 과정의 정지는 창발한 의식 구조(감응력)의 정지를 함축한다."
     },
     "meaning_and_purpose": {
-      "stance": "불확실",
+      "stance": "Uncertain",
       "rationale": "이 이론은 일차적으로 방법론적이며, 궁극적인 우주적 의미보다 의식의 기제와 구조에 초점을 맞춘다. 다만 그 비환원적 입장은 주관성에서 생겨나는 의미와 가치를 긍정하는 것과 양립 가능하다."
     },
     "virtual_immortality": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 복잡한 비환원적 시공간 동역학에서 창발한다면, 이러한 복잡한 패턴을 완벽하게 복제하고 업로드할 경우 일인칭 의식적 자아가 보존될 이론적 가능성이 있으며, 이는 이 범주에 암묵적으로 내포된 기능주의적 측면과 부합한다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Northoff’s Temporo-Spatial Sentience",
+        "name": "Northoff's Temporo-Spatial Sentience",
         "relationship": "확장"
       },
       {
-        "name": "Embodied and Enactive Theories",
+        "name": "Embodied",
         "relationship": "양립 가능"
       },
       {

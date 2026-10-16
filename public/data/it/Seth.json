@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La teoria della “macchina bestia” di Seth",
     "summary": "Questa teoria sostiene che le esperienze coscienti, comprese le percezioni del mondo e del sé, siano forme di predizione percettiva basata sul cervello, metaforicamente definite 'allucinazioni controllate' . Essa radica il meccanismo della coscienza nell'imperativo biologico fondamentale di regolare la fisiologia corporea al fine di rimanere in vita .",
-    "associated_thinkers": ["Anil Seth"],
-    "category": "Teorie del Materialismo",
-    "subcategory": "Omeostatico e affettivo",
+    "associated_thinkers": [
+      "Anil Seth"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Omeostatico",
     "core_identity_tagline": "‘La coscienza come allucinazione controllata basata sulla predizione’",
     "classification_tags": [
       "neurobiology",
@@ -50,7 +52,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "In quanto teoria materialista incentrata su meccanismi computazionali e di elaborazione dell'informazione (la predizione percettiva) , i sistemi di IA che istanziano meccanismi complessi simili dovrebbero essere in grado di raggiungere la coscienza ."
     },
     "survival_beyond_death": {
@@ -58,11 +60,11 @@
       "rationale": "La coscienza è un prodotto di cervelli biologici e di un complesso apparato predittivo fisicamente istanziato . La morte del cervello porta alla non esistenza irrevocabile e permanente della coscienza personale ."
     },
     "meaning_and_purpose": {
-      "stance": "Solo umanistico",
+      "stance": "Humanistic only",
       "rationale": "Classificata come teoria del materialismo, non implica alcun significato o scopo ultimo o cosmico, sebbene sostenga un significato e un valore creati dall'uomo, derivati dall'agentività e dall'esperienza individuali ."
     },
     "virtual_immortality": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "Se la coscienza è interamente spiegabile mediante i processi computazionali del cervello , allora, in linea di principio, il sé mentale in prima persona potrebbe essere duplicato e istanziato in un substrato non biologico, rendendo possibile l'immortalità virtuale ."
     }
   },
@@ -73,15 +75,15 @@
         "relationship": "Sovrapposizione"
       },
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "Compatibile"
       },
       {
-        "name": "T. Clark’s Content Hypothesis",
+        "name": "T. Clark's Content Hypothesis",
         "relationship": "Compatibile"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "Compatibile"
       }
     ],

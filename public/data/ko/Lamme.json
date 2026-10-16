@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "라메의 재귀 처리 이론",
     "summary": "라메의 재귀 처리 이론(RPT)은 특히 감각 체계 내 신경 영역들 사이에 상호적(재귀적) 되먹임 연결이 일어날 때 의식이 발생하며, 이것이 의식의 필요조건이자 충분조건이라고 주장한다. 감각 영역 및 감각 후 영역에서 국소적으로 일어나는 이 처리(3단계)는 전역적 방송 접근 없이도 현상 경험을 산출한다.",
-    "associated_thinkers": ["Victor Lamme"],
+    "associated_thinkers": [
+      "Victor Lamme"
+    ],
     "category": "유물론",
-    "subcategory": "표상적",
+    "subcategory": "일차",
     "core_identity_tagline": "'감각 체계 내 재귀 처리로서의 의식'",
     "classification_tags": [
       "neuroscience",
@@ -50,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "유물론 이론으로서, 요구되는 재귀 처리 패턴이 비생물학적 기질에서 인공적으로 복제될 수 있다면 원리적으로 AI 의식은 가능해야 한다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식은 물리적 뇌 활동과 특정 신경 회로(재귀 처리 상태)에 결부되어 있으므로 신체의 죽음과 함께 소멸함을 시사한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간주의적 의미에 한함",
+      "stance": "Humanistic only",
       "rationale": "이 이론은 현상 경험에 대한 순수하게 물리주의적이고 신경생물학적인 설명에 초점을 맞추며, 어떠한 궁극적 우주적 의미나 목적도 뒷받침하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "의식이 재귀 처리 상태 그 자체이므로, 그 과정을 새로운 매체에 완벽하게 복제(업로드)하면 일인칭 자아가 산출되어 가상적 불멸이 가능해진다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "비판"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "확장"
       },
       {
-        "name": "Block’s Biological Reductionism",
+        "name": "Block's Biological Reductionism",
         "relationship": "중첩"
       }
     ],

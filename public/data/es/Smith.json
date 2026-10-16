@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "El Lenguaje como Clasificador de la Conciencia de Smith",
     "summary": "Esta teoría, clasificada dentro del marco materialista bajo Relaciones con el Lenguaje, propone que el lenguaje funciona fundamentalmente para categorizar, estructurar y articular los contenidos de la experiencia subjetiva. La conciencia, por tanto, existe como el contenido que ha sido organizado y hecho accesible por estas estructuras lingüísticas.",
-    "associated_thinkers": ["Barry Smith"],
-    "category": "Teorías del Materialismo",
-    "subcategory": "Relaciones con el Lenguaje",
+    "associated_thinkers": [
+      "Barry Smith"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Lenguaje",
     "core_identity_tagline": "La Conciencia como Contenido Clasificado Lingüísticamente",
     "classification_tags": [
       "language",
@@ -49,7 +51,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si la conciencia es producto de mecanismos complejos de clasificación lingüística, los sistemas artificiales con capacidades de lenguaje y procesamiento simbólico suficientemente avanzadas deberían poder instanciarla."
     },
     "survival_beyond_death": {
@@ -57,18 +59,18 @@
       "rationale": "La conciencia está fundamentalmente ligada al sustrato físico y biológico que sostiene el lenguaje y la clasificación; su extinción es permanente tras la disolución del cerebro."
     },
     "meaning_and_purpose": {
-      "stance": "Solo humanístico",
+      "stance": "Humanistic only",
       "rationale": "Como teoría materialista, apoya el sentido y el valor creados por el ser humano derivados de la complejidad cognitiva y la autorreflexión, pero niega la teleología cósmica última."
     },
     "virtual_immortality": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "Dado que la conciencia es funcionalmente reducible a un sistema de clasificación y representación de información, la duplicación digital perfecta o la subida de este sistema es posible en principio."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "T. Clark’s Content Hypothesis",
+        "name": "T. Clark's Content Hypothesis",
         "relationship": "Compatible"
       },
       {
@@ -76,7 +78,7 @@
         "relationship": "Extensión"
       },
       {
-        "name": "Chomsky’s Language and Consciousness",
+        "name": "Chomsky's Language and Consciousness",
         "relationship": "Relacionada/Contraste"
       }
     ],

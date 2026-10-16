@@ -2,7 +2,11 @@
   "id_and_class": {
     "theory_title": "ヘブライの魂の理論",
     "summary": "伝統的なヘブライの概念は、「魂」（*nephesh*）を分離した不死の非物理的実体としてではなく、神が物理的形態に生命を吹き込んだときに成立する、全体として統合された生きた人格ないし感覚をもつ被造物とみなす。したがって意識は、生きた身体化された状態と分かちがたく結びついている。",
-    "associated_thinkers": ["Hebrew Bible", "Jewish tradition", "Eduard Shyfrin"],
+    "associated_thinkers": [
+      "Hebrew Bible",
+      "Jewish tradition",
+      "Eduard Shyfrin"
+    ],
     "category": "二元論",
     "subcategory": "ヘブライ語聖書とユダヤ哲学における魂",
     "core_identity_tagline": "全体としての生きた人格としての「魂」（*Nephesh*）",
@@ -51,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "意識を生物学的生命と息に結びつける本来の聖書的概念は、否定を示唆する。しかし、魂を「情報的存在」として定義する後代のカバラーの解釈は、十分な情報的複雑性と要求される「自己の次元」をもつ人工システムが意識を達成することを許すかもしれない。"
     },
     "survival_beyond_death": {
-      "stance": "否定する（神的介入がなければ）",
+      "stance": "Conditional",
       "rationale": "*nephesh* の中核概念は生物学的生命に結びついており、本質的に不死ではない。死後の存続は、身体を離れた魂の存続ではなく、死者の復活（神による再構成）という神学的教義に依拠する。"
     },
     "meaning_and_purpose": {
-      "stance": "究極的／有神論的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "意識／生命は神が与える「生命の息」に由来し、本来的で神によって定められた究極的な意味と目的を確立する。"
     },
     "virtual_immortality": {
-      "stance": "否定する",
+      "stance": "No",
       "rationale": "仮想的不死は脳機能の複製を要し、物理主義的／機能主義的前提に依拠する。*nephesh* という本来のヘブライの概念は本質的に生物学的で統合されているため、情報的パターンの単なる模擬ないしアップロードでは生きた存在の本質を捉えられない。"
     }
   },
@@ -74,11 +78,11 @@
         "relationship": "影響／批判"
       },
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "両立的"
       },
       {
-        "name": "Swinburne’s Substance Dualism",
+        "name": "Swinburne's Substance Dualism",
         "relationship": "批判"
       },
       {

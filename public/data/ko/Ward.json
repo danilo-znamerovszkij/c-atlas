@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Ward의 인격적 관념론: 신이 창조한 체화된 행위자로서의 영혼",
     "summary": "이 이론은 의식을 궁극 실재로 상정하며(관념론), 환원 불가능한 의식 주체, 곧 영혼에 초점을 둔다. 영혼을 신이 창조한 체화된 행위자로 규정하며, 이는 주체가 객관적 물리 세계와 구별되면서도 그로부터 분리될 수 없음을 뜻한다. 세계 자체는 지각과 사고의 구성물로 간주되며, 이로써 일인칭 관점의 일차성이 확립된다.",
-    "associated_thinkers": ["Keith Ward"],
+    "associated_thinkers": [
+      "Keith Ward"
+    ],
     "category": "관념론",
     "subcategory": "인격적 관념론",
     "core_identity_tagline": "신이 창조한 체화된 행위 주체로서의 의식",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "의식이 신이 창조한 환원 불가능한 영혼이라면, 신이 영혼/행위 주체성을 부여하지 않는 한 인공 시스템은 의식에 도달할 수 없으며, 따라서 인공지능 의식은 기본적으로 물리적으로 개연성이 낮다."
     },
     "survival_beyond_death": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "영혼은 비물리적이고 환원 불가능한 주체로 정의되므로, 이원론적/관념론적 전통과 일관되게 신체의 생물학적 죽음 이후에도 존속할 것이다."
     },
     "meaning_and_purpose": {
-      "stance": "우주적/신학적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "의식적 행위자(영혼)는 신에 의해 창조되므로, 이 신적 기원에서 도출되는 궁극적 의미와 목적과 도덕적 가치를 본래적으로 함축한다."
     },
     "virtual_immortality": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "가상 불멸은 물리적 상태의 복제에 의존한다. 그러나 의식 주체(영혼)는 환원 불가능하며 공적으로 관찰 가능한 물리적 사실로 특정되지 않으므로, 물리적 복제는 필요한 비물리적 구성 요소를 포착할 수 없다."
     }
   },
@@ -74,11 +76,11 @@
         "relationship": "영향"
       },
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "비판"
       },
       {
-        "name": "McGilchrist’s Relational, Creative-Process Idealism",
+        "name": "McGilchrist's Relational, Creative-Process Idealism",
         "relationship": "양립 가능"
       }
     ],

@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "El Panpsiquismo de Goff",
     "summary": "Goff argumenta que la conciencia es un rasgo fundamental y ubicuo del mundo físico, posicionándola como la mejor esperanza para resolver el problema difícil que el materialismo no logra abordar. Afirma que las ciencias físicas, con su lenguaje puramente cuantitativo, no pueden dar cuenta de la naturaleza cualitativa (cualitatividad) o del aspecto subjetivo de la experiencia, lo que exige un cambio en nuestra comprensión fundamental de la ciencia (el Error de Galileo).",
-    "associated_thinkers": ["Philip Goff"],
-    "category": "Panpsiquismos",
+    "associated_thinkers": [
+      "Philip Goff"
+    ],
+    "category": "Panpsiquismo",
     "subcategory": "Panpsiquismo",
     "core_identity_tagline": "La Conciencia como Rasgo Fundamental y Ubicuo de la Realidad",
     "classification_tags": [
@@ -42,28 +44,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probablemente",
+      "stance": "Likely",
       "rationale": "Si la conciencia es una propiedad intrínseca de la materia/energía, entonces los componentes físicos de los sistemas de IA poseerían propiedades protoconscientes. La realización de la conciencia plena de la IA dependería de si la tecnología avanzada puede resolver el problema de la combinación en el sustrato artificial."
     },
     "survival_beyond_death": {
-      "stance": "Poco probable (posibilidad remota)",
+      "stance": "Unlikely",
       "rationale": "Aunque la conciencia es fundamental, la supervivencia de la conciencia individual, unificada y personal (el macrosujeto) es difícil dado que la teoría depende de una estructura organizativa específica (el cerebro) para la macroexperiencia. El éxito depende de si el sujeto emergente persiste fuera del mecanismo biológico."
     },
     "meaning_and_purpose": {
-      "stance": "Cósmico/Último",
+      "stance": "Cosmic/Ultimate",
       "rationale": "El Cosmopsiquismo Agentivo/Teleológico de Goff implica que el propio universo es una mente consciente con intención dirigida a un fin, sugiriendo un sentido y propósito último y cósmico."
     },
     "virtual_immortality": {
-      "stance": "Probablemente",
+      "stance": "Likely",
       "rationale": "Dado que el sustrato físico (el hardware digital) está compuesto de componentes fundamentalmente conscientes (protoconciencia), la inmortalidad virtual es alcanzable si la organización consciente (resolviendo el problema de la combinación) puede replicarse perfectamente en el nuevo medio."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Monismo Russelliano", "relationship": "Extensión" },
-      { "name": "Cosmopsiquismo", "relationship": "Extensión" },
-      { "name": "Teoría de la Información Integrada", "relationship": "Crítica" },
-      { "name": "Teorías Materialistas", "relationship": "Crítica" }
+      {
+        "name": "Russellian Monism",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Cosmopsychism",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Materialism",
+        "relationship": "Crítica"
+      }
     ],
     "sources_and_references": [
       {

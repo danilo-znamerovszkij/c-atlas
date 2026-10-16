@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "الوعي في الروليّاد (Ruliad) لدى ولفرام",
     "summary": "تسعى هذه النظرية إلى صورنة الوعي عبر إدماجه في 'الروليّاد' (Ruliad)، المعرَّف بوصفه الحدّ المتشابك لكل ما هو ممكن حوسبيًا، والذي يحتوي كوننا الفيزيائي. ويُفهَم الوعي لا بوصفه حوسبةً عامّة، بل بوصفه سمة محدّدة من سمات الدماغ تخلق خيطًا متماسكًا من الخبرة باستخدام أوصاف مبسَّطة ومحدودة لهذه البنية الحوسبية القصوى.",
-    "associated_thinkers": ["Stephen Wolfram"],
-    "category": "النظريات الكمّية",
-    "subcategory": "كمّي",
+    "associated_thinkers": [
+      "Stephen Wolfram"
+    ],
+    "category": "الكمّية",
+    "subcategory": "الكمّية",
     "core_identity_tagline": "'الوعي بوصفه إدراكًا محدودًا في الروليّاد الحوسبي'",
     "classification_tags": [
       "quantum",
@@ -52,26 +54,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "بوصفها نظرية متجذّرة في الحوسبة والفيزياء (الكمّية)، فإن وعي الذكاء الاصطناعي ممكن إذا استطاعت الأنظمة غير البيولوجية بلوغ التماسك والتكامل الحوسبيين اللازمين ضمن إطار الروليّاد."
     },
     "survival_beyond_death": {
-      "stance": "غير مؤكّد",
+      "stance": "Uncertain",
       "rationale": "مع أن النظرية حوسبية/فيزيائية جوهريًا، فإن إدراجها في فئة النظريات الكمّية واعتمادها على الروليّاد المجرّد (بنية الواقع القصوى) يعنيان أنه لا يمكن استبعاد البقاء استبعادًا حاسمًا، وإن كان الوعي مرتبطًا بالدرجة الأولى بالتنظيم الفيزيائي للدماغ."
     },
     "meaning_and_purpose": {
-      "stance": "لا (عملي/علمي)",
+      "stance": "Humanistic only",
       "rationale": "يؤدّي الوعي دورًا وظيفيًا في إتاحة القابلية للاختزال الحوسبي وبنينة إدراكنا للكون، بما يوائم نتيجةً تقليصية وظيفية بشأن المعنى الكوني النهائي."
     },
     "virtual_immortality": {
-      "stance": "على الأرجح",
+      "stance": "Likely",
       "rationale": "بما أن الوعي مُوصَّف بوصفه نوعًا محدّدًا من التماسك الحوسبي (ناتج 'برمجي' لحوسبة محدودة)، فمن المرجّح أن تُضاعَف هذه البنية من حيث المبدأ في ركيزة غير بيولوجية، بما يتيح خلودًا افتراضيًا."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Quantum Theories",
+        "name": "Quantum & Dimensions",
         "relationship": "تداخل"
       },
       {
@@ -79,11 +81,11 @@
         "relationship": "تداخل"
       },
       {
-        "name": "Max Tegmark’s State of Matter",
+        "name": "Tegmark's State of Matter",
         "relationship": "متوافقة"
       },
       {
-        "name": "David Bohm’s Implicate-Explicate Order",
+        "name": "Bohm's Implicate-Explicate Order",
         "relationship": "متوافقة"
       }
     ],

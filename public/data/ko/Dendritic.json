@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "수상돌기 통합 이론",
+    "summary": "수상돌기 통합 이론은 의식적 지각이 세포 수준의 사건, 즉 신피질 5층 추체 신경세포의 정점 수상돌기에서 하향 신호와 상향 신호가 비선형적으로 통합되는 사건에 의존한다고 본다. 상위 영역에서 오는 되먹임이 감각의 상향 입력과 겹치면, 수상돌기는 신경세포의 출력을 증폭하는 칼슘 스파이크를 발생시키며, Larkum과 Aru는 이 증폭이 정보를 자각으로 들여보내는 관문 역할을 한다고 제안한다.",
+    "associated_thinkers": [
+      "Matthew Larkum",
+      "Jaan Aru"
+    ],
+    "category": "유물론",
+    "subcategory": "신경생물학적",
+    "core_identity_tagline": "하향 신호와 상향 신호의 수상돌기 통합으로서의 의식",
+    "classification_tags": [
+      "neuroscience",
+      "dendrites",
+      "pyramidal neurons",
+      "anesthesia",
+      "microcircuits"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "의식은 5층 추체 신경세포 내부에서 두 정보 흐름이 통합되는 것과 동일시된다. 되먹임은 원위 정점 수상돌기에 도달하고, 상향 입력은 세포체 근처에 도달한다. Aru와 동료들은 의식이 이 통합에 크게 영향받거나, 어쩌면 이 통합과 동의어일 수 있다고 시사한다.",
+    "ontological_status": "물리주의(신경생물학적)",
+    "mind_body_relationship": "의식 상태는 피질 신경세포의 특정한 생물물리적 사건에 의존하며, 그 사건과 동일할 수도 있다. 이 이론은 마음을 뇌 미세회로의 산물로 취급하며, 그 이상의 것을 상정하지 않는다.",
+    "primitive_or_emergent_status": "창발적",
+    "emergence_type": "약한 창발(의식 상태는 신경세포에서 식별 가능한 생물물리적 사건과 그것이 가능하게 하는 시상피질 역학으로부터 생겨난다)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "DIT는 수상돌기 통합이 왜 무언가처럼 느껴지는지를 설명하지 않는다. 이 이론은 어떤 신경 사건이 내용을 자각에 도달하게 하는지를 명시한다. 그 전신인 LaBerge와 Kasevich의 정점 수상돌기 이론은, 활성화된 정점 수상돌기 주변의 전자기장이 현상적 인상 그 자체를 실어 나를 수 있다고 추측했다.",
+    "ontological_commitments": "기능적으로 분리된 수상돌기 구획을 가진 추체 신경세포, 수상돌기 칼슘 스파이크, 피질의 되먹임 경로와 상향 경로, 그리고 시상피질 체계.",
+    "epistemic_access": "세포 전기생리학과, 깨어 있음이나 전신마취처럼 의식이 있는 상태와 없는 상태를 비교하는 방식을 통해 제삼자의 관점에서 연구된다.",
+    "constituents_and_structure": "기본 단위는 두 수준의 통합자로 작동하는 5층 추체 신경세포이다. 정점 수상돌기는 하향 입력을 받고, 세포체 근처 영역은 상향 입력을 받는다. 시상피질 고리를 통해 결합된 이러한 신경세포가 많이 모여 의식 상태의 전역적 활동 패턴을 형성한다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "접근(어떤 지각 내용이 자각에 도달하는지); 의식이 있는 상태와 없는 상태(깨어 있음과 마취).",
+    "distinctive_mechanism_or_principle": "정점 수상돌기의 동시성 검출. 상위 영역의 되먹임이 감각의 상향 입력과 일치하면, 수상돌기는 칼슘 스파이크를 일으켜 신경세포의 발화를 증폭하며, 이 증폭이 무엇이 자각에 들어올지를 선택한다.",
+    "dynamics_of_emergence": "의식적 지각은 하향 신호와 상향 신호가 일치할 때마다 순간순간 일어난다. 의식 상태에서는 수상돌기-세포체 결합이 시상피질 체계 전반에 복잡하고 지속적인 활동이 쌓이도록 하며, 전신마취 아래에서는 그 결합이 끊어지고 신호 전파가 멈춘다.",
+    "location_and_distribution": "시상피질 회로에 포함된 신피질 5층 추체 신경세포의 수상돌기 나무. 기전은 국소적이고 세포 수준이지만, 그 효과는 뇌 전체의 활동을 형성한다.",
+    "causation_and_functional_role": "추체 신경세포는 전역적 활성화 패턴이 어떻게 전개되는지를 통제하는 관문으로 작용한다. 수상돌기 증폭은 관련 입력을 골라내며, 어떤 정보가 이후의 피질 처리를 형성하도록 나아갈지를 결정한다.",
+    "integration_or_binding": "결합은 단일 신경세포 내부에서 시작되며, 신경세포는 서로 다른 구획에서 맥락적 되먹임과 감각의 상향 신호를 결합한다. 그러한 많은 신경세포에서 나온 관문 통제된 출력은 그 뒤 시상피질 체계 전반에 걸쳐 통합된 역학을 유지한다.",
+    "information_flow_or_representation": "하향에서 상향으로 가는 감각 자료는 근위 수상돌기에 도달하고, 상위 영역에서 오는 하향 예측은 원위 정점 수상돌기 다발에 도달한다. 둘이 일치하면 신호가 증폭되는데, Aru와 동료들은 이를 세포 수준에서 상향 자료와 하향 자료의 유연한 통합이라고 부른다.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "5층 추체 신경세포의 정점 수상돌기는 하향 입력과 상향 입력의 비선형적 통합을 수행한다.",
+      "원위 입력과 근위 입력이 동시에 들어오면 수상돌기 칼슘 스파이크가 촉발되어 신경세포의 반응을 증폭하며, Larkum은 이 일치가 지각적 자각의 토대라고 가설을 세운다.",
+      "전신마취는 수상돌기-세포체 결합을 방해하여, 다른 많은 뇌 활동이 계속되는 동안 의식을 차단한다.",
+      "의식 상태에서 수상돌기 기전은 의식이 없는 상태에서는 차단되는 지속적인 시상피질 역학을 가능하게 한다."
+    ],
+    "basis_of_belief_or_evidence_type": "경험적(세포 전기생리학과 마취 연구), 의식에 관한 대규모 설명과 이론적으로 연결됨."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "경험적으로 검증 가능",
+    "known_empirical_interventions_or_tests": "5층 추체 신경세포에서 수상돌기 칼슘 스파이크를 기록하기; 전신마취 아래에서 수상돌기-세포체 결합을 측정하기.",
+    "criticisms_and_tensions": "마취 연구 결과는 수상돌기-세포체 결합이 의식에 필요하다는 것을 보여 주지만, 충분하다는 것을 보여 주지는 못한다. 의식이 수상돌기 통합과 동의어일 수 있다는 더 강한 주장은, 이 기전을 의식 상태와 연결하는 증거를 넘어선다.",
+    "open_questions_and_limitations": "옹호자들은 의식이 수상돌기 통합에 ‘크게 영향받는다’는 입장과 그것과 ‘동의어’라는 입장 사이에서 흔들린다. 이 이론은 이 세포 사건이 왜 애초에 경험되어야 하는지를 열린 채로 남긴다.",
+    "ontological_coherence": "신경생물학적 물리주의와 일관된다. 옹호자들은 이를 전역 신경 작업공간 이론 및 예측 처리 이론과 양립 가능한 것으로 제시하며, 그들의 대규모 설명 아래에 세포 기전을 제공한다고 본다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "여기서 의식은 피질 신경세포의 특정한 생물물리적 기전에 의존하므로, 인공 체계는 그 두 구획으로 된 수상돌기 통합과 관문 역할을 재현할 때에만 자격을 얻는다."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "여기서 의식은 살아 있는 피질에서 일어나는 수상돌기 활동의 산물이므로, 뇌의 죽음 뒤에는 아무것도 남지 않는다."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "이 이론은 자각을 신경 기전을 통해 설명하며, 어떤 우주적 목적도 함축하지 않는다."
+    },
+    "virtual_immortality": {
+      "stance": "Conditional",
+      "rationale": "디지털 복제본은 이 이론이 요구하는 수상돌기 통합과 시상피질 역학을 재현할 때에만 의식을 갖는다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "양립 가능"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "양립 가능"
+      },
+      {
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "중첩"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dendritic Integration Theory, Matthew Larkum and Jaan Aru",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Apical Dendrite Theory of Consciousness, David LaBerge and Ray Kasevich",
+        "year": 2007
+      }
+    ]
+  }
+}

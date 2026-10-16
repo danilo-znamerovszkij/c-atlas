@@ -8,8 +8,8 @@
       "Eleonore Stump",
       "William Lane Craig"
     ],
-    "category": "Dualismos",
-    "subcategory": "Dualismo de Sustancias",
+    "category": "Dualismo",
+    "subcategory": "Dualismo de sustancias",
     "core_identity_tagline": "La Conciencia como Alma Inmaterial y Sustancial",
     "classification_tags": [
       "substance",
@@ -61,15 +61,15 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "No (mayormente)",
+      "stance": "Unlikely",
       "rationale": "Si la conciencia requiere una sustancia radicalmente separada y no física (el alma) que es creada o asignada divinamente, las inteligencias no biológicas no podrían generar este componente necesario, haciendo imposible la conciencia de la IA."
     },
     "survival_beyond_death": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "El alma es el 'verdadero yo', existiendo independientemente del cuerpo y proveyendo el mecanismo más claro para la persistencia de la conciencia individual post mortem, cumpliendo el principio central de las religiones abrahámicas."
     },
     "meaning_and_purpose": {
-      "stance": "Último/Cósmico",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Como teoría teológica, provee un sentido, propósito y valor últimos ligados a la creación divina, el destino y la naturaleza espiritual de la existencia humana."
     },
     "virtual_immortality": {
@@ -79,10 +79,22 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Solapamiento" },
-      { "name": "Thomistic Dualism", "relationship": "Extensión" },
-      { "name": "Non-Reductive Physicalism", "relationship": "Crítica" },
-      { "name": "Emergent Dualism", "relationship": "Variación" }
+      {
+        "name": "Dualism",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Thomistic Dualism",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Non-Reductive",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Variación"
+      }
     ],
     "sources_and_references": [
       {

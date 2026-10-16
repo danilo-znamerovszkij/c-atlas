@@ -8,7 +8,7 @@
       "Peter Sjöstedt-Hughes",
       "Aldous Huxley"
     ],
-    "category": "異常状態と変性状態",
+    "category": "異常",
     "subcategory": "サイケデリック意識",
     "core_identity_tagline": "変性状態の認識論としての意識",
     "classification_tags": [
@@ -61,30 +61,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "意識が複雑で動的かつカオス的な組織状態（高エントロピーのような）に由来するならば、AIはこれらの構造を再現しうるかもしれない。ただし神秘的経験から導かれる非唯物論的解釈はしばしば計算論的十分性を斥ける。"
     },
     "survival_beyond_death": {
-      "stance": "肯定（非唯物論的解釈を条件とする）",
+      "stance": "Conditional",
       "rationale": "しばしば臨死体験に類似し、自我の溶解と「一体感」を伴う強烈な経験は、一部の支持者によって、身体と脳から独立して存続する非局所的な意識の証拠として解釈される。"
     },
     "meaning_and_purpose": {
-      "stance": "強く経験的／霊的",
+      "stance": "Uncertain",
       "rationale": "サイケデリック経験はしばしば深遠な神秘的・霊的状態を誘発し、変容的な個人的意味、高まった慈悲、信念体系の変化へと至らせ、決定的な心理的・実存的機能を果たす。"
     },
     "virtual_immortality": {
-      "stance": "曖昧／不要",
+      "stance": "Uncertain",
       "rationale": "意識が神経力学的パターンであるならば（物理主義的見解）、複製可能かもしれない。それが根本的／霊的であるならば（観念論的見解）、それはすでに死を超えて存続しており、デジタル・シミュレーションを不要にする。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Carhart-Harris’s Entropic Brain Hypothesis",
+        "name": "Carhart-Harris's Entropic Brain Hypothesis",
         "relationship": "拡張"
       },
       {
-        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "name": "Friston's Free-Energy Principle and Active Inference",
         "relationship": "拡張"
       },
       {
@@ -92,7 +92,7 @@
         "relationship": "重複"
       },
       {
-        "name": "Idealisms",
+        "name": "Idealism",
         "relationship": "両立可能"
       }
     ],

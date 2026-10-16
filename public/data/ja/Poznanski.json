@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "動的有機性理論（DOT）",
     "summary": "これはB型唯物論に根ざした量子生物学的理論であり、多スケールの時間的・位相的枠組みを用いて意識をモデル化する。意識は、脳の生きたネゲントロピー状態における多スケール複雑性の機能性が、最大複雑性から導かれる機能性を超えるときに自発的に生じると主張される。",
-    "associated_thinkers": ["Roman Poznanski"],
-    "category": "量子理論",
+    "associated_thinkers": [
+      "Roman Poznanski"
+    ],
+    "category": "量子",
     "subcategory": "動的有機性（量子生物学的）",
     "core_identity_tagline": "多スケール複雑性の機能性としての意識",
     "classification_tags": [
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "条件付き／可能性が高い",
+      "stance": "Conditional",
       "rationale": "B型唯物論者として、意識は物理的過程である。人工システムが複雑な機能的アーキテクチャと多スケール動態をうまく再現し、$F_{MultiComplexity} > F_{MaxComplexity}$ に必要な量子生物学的自由度を利用できるならば、意識は生じるだろう。"
     },
     "survival_beyond_death": {
-      "stance": "不確実／否",
+      "stance": "Unlikely",
       "rationale": "意識は「生きたネゲントロピー状態」と物質的な脳の特定の動態に依存している。この有機的システムから独立した存続は、この理論の唯物論の中心的教義によって支持されない。"
     },
     "meaning_and_purpose": {
-      "stance": "人間的な意味のみ",
+      "stance": "Humanistic only",
       "rationale": "この理論は生物学的・機能的効率に焦点を当て、内在的な志向性を行為の指針として同定する。それは自己感と目的を与えるが、外的あるいは宇宙的な目的論を伴わない。"
     },
     "virtual_immortality": {
-      "stance": "可能／条件付き",
+      "stance": "Possible",
       "rationale": "$F_{MultiComplexity} > F_{MaxComplexity}$ を生み出すために必要な基底の生物学的・量子機能的制約が、非生物学的媒体においてうまく複製され実装されうるならば、意識的自己の複製を可能にし、仮想的不死は可能である。"
     }
   },
@@ -83,7 +85,7 @@
         "relationship": "批判"
       },
       {
-        "name": "Quantum Theories",
+        "name": "Quantum & Dimensions",
         "relationship": "重複"
       }
     ],

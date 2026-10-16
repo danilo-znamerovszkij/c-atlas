@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "L'esprit et le cosmos de Nagel",
     "summary": "Cette perspective remet en question la conception matérialiste néo-darwinienne dominante de la nature, en soutenant qu'elle ne parvient pas à rendre compte de la nature irréductible de l'expérience subjective, ou de « ce que cela fait » d'être un organisme conscient. Elle propose que l'esprit doive être incorporé comme un principe fondamental de la nature elle-même.",
-    "associated_thinkers": ["Thomas Nagel"],
-    "category": "Théories du défi",
-    "subcategory": "L'esprit et le cosmos de Nagel",
+    "associated_thinkers": [
+      "Thomas Nagel"
+    ],
+    "category": "Défi",
+    "subcategory": "« Esprit et cosmos » de Nagel",
     "core_identity_tagline": "L'esprit comme principe fondamental de la nature",
     "classification_tags": [
       "subjectivity",
@@ -52,38 +54,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Incertain/conditionnel",
+      "stance": "Uncertain",
       "rationale": "En tant que critique du fonctionnalisme et du réductionnisme, la position de Nagel suggère que les entités purement computationnelles dépourvues de propriétés mentales fondamentales sont vraisemblablement des zombies philosophiques ; le résultat dépend de la capacité future de l'IA à instancier les principes mentaux universels postulés."
     },
     "survival_beyond_death": {
-      "stance": "Conditionnel",
+      "stance": "Conditional",
       "rationale": "Si la conscience est une propriété universelle et fondamentale plutôt qu'un émergent biologique, son essence pourrait persister après la dissolution corporelle (déduit des tendances panpsychistes), bien que probablement sans conservation de l'identité personnelle."
     },
     "meaning_and_purpose": {
-      "stance": "Cosmique",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Cherche explicitement à incorporer l'esprit comme principe naturel fondamental pour surmonter le « caractère dénué de sens » impliqué par le matérialisme, suggérant une finalité ou une valeur cosmique inhérente et non théiste."
     },
     "virtual_immortality": {
-      "stance": "Improbable/conditionnel",
+      "stance": "Unlikely",
       "rationale": "L'irréductibilité de l'expérience subjective implique que la duplication des seuls motifs physiques/fonctionnels échouerait à transférer la conscience originale à la première personne."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Le problème difficile de la conscience de Chalmers",
+        "name": "Chalmers’s Hard Problem of Consciousness",
         "relationship": "Influence"
       },
       {
-        "name": "Le mystère ultime de McGinn (mystérianisme)",
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
         "relationship": "Compatible"
       },
       {
-        "name": "Panpsychismes",
+        "name": "Panpsychism",
         "relationship": "Extension"
       },
       {
-        "name": "L'identité esprit-cerveau de Papineau",
+        "name": "Papineau's Mind-Brain Identity",
         "relationship": "Critique"
       }
     ],

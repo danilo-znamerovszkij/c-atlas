@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "El Neurofuncionalismo de Prinz: La Atención Engendra la Experiencia",
     "summary": "Esta teoría sostiene que la conciencia surge de la atención, que facilita el flujo de información perceptual hacia los sistemas de memoria en una etapa intermedia del procesamiento. Este proceso depende fundamentalmente del disparo neuronal sincronizado y da como resultado una representación integrada del estímulo que conserva el punto de vista.",
-    "associated_thinkers": ["Jesse Prinz"],
+    "associated_thinkers": [
+      "Jesse Prinz"
+    ],
     "category": "Materialismo",
     "subcategory": "Neurobiológico",
     "core_identity_tagline": "La Conciencia como Representación Intermedia Atendida",
@@ -51,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Dado que la teoría identifica la conciencia como un proceso neurofuncional específico de poner información a disposición de la memoria mediante la atención, esta función computacional debería ser alcanzable en sistemas no biológicos suficientemente avanzados."
     },
     "survival_beyond_death": {
@@ -59,11 +61,11 @@
       "rationale": "Como teoría contenida enteramente dentro del materialismo, la conciencia depende por completo y es generada por la organización y los procesos biológicos del cerebro (por ejemplo, el disparo neuronal sincronizado), y cesa con la destrucción del cerebro."
     },
     "meaning_and_purpose": {
-      "stance": "Solo humanista",
+      "stance": "Humanistic only",
       "rationale": "La función de la conciencia es pragmática: poner la información perceptual a disposición para un comportamiento flexible. Opera dentro de un paradigma materialista que, por lo general, implica que el sentido y el propósito son autocreados, no cósmicos."
     },
     "virtual_immortality": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "Dado su fundamento en el neurofuncionalismo y su aspiración a una explicación materialista completa, la duplicación funcional perfecta del sistema representacional basado en la atención en un sustrato no biológico debería preservar el yo consciente original en primera persona."
     }
   },
@@ -74,7 +76,7 @@
         "relationship": "Extensión"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "Compatible"
       },
       {
@@ -82,7 +84,7 @@
         "relationship": "Crítica"
       },
       {
-        "name": "Recurrent Processing Theory",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "Coincidencia"
       }
     ],

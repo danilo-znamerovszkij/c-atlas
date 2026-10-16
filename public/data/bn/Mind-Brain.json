@@ -2,7 +2,11 @@
   "id_and_class": {
     "theory_title": "মন-মস্তিষ্ক অভিন্নতা তত্ত্ব",
     "summary": "চেতনার এই সাবেকি দার্শনিক তত্ত্ব অনুমান করে যে মানসিক অবস্থা, ঘটনা, বা প্রক্রিয়া মস্তিষ্কে ঘটমান নির্দিষ্ট অবস্থা, ঘটনা, বা প্রক্রিয়ার সঙ্গে কঠোরভাবে অভিন্ন। এটি বস্তুবাদের দৃষ্টান্ত হিসেবে কাজ করে, দাবি করে যে চেতনা সম্পূর্ণভাবে ভৌত।",
-    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "associated_thinkers": [
+      "J.J.C. Smart",
+      "U.T. Place",
+      "Herbert Feigl"
+    ],
     "category": "বস্তুবাদ",
     "subcategory": "দার্শনিক",
     "core_identity_tagline": "মানসিক অবস্থা মস্তিষ্ক-অবস্থা",
@@ -49,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "হ্যাঁ",
+      "stance": "Yes",
       "rationale": "যেহেতু MBIT দাবি করে চেতনা ভৌত প্রক্রিয়ায় নিরসনযোগ্য, যদি সেই নির্দিষ্ট ভৌত প্রক্রিয়া একটি কৃত্রিম, অ-জৈবিক মাধ্যমে পুনরুৎপাদন করা যায়, তবে চেতনা প্রয়োজনীয়ভাবে রূপায়িত হয়।"
     },
     "survival_beyond_death": {
-      "stance": "না",
+      "stance": "No",
       "rationale": "চেতনা মস্তিষ্কের কার্যকরী ও ভৌত অখণ্ডতার সঙ্গে কঠোরভাবে অভিন্ন; মৃত্যুতে তার বিলুপ্তি সচেতন স্বের স্থায়ী অবসান ঘটায়।"
     },
     "meaning_and_purpose": {
-      "stance": "কেবল মানবতাবাদী",
+      "stance": "Humanistic only",
       "rationale": "একটি বস্তুবাদী তত্ত্ব হিসেবে, MBIT কোনো চূড়ান্ত মহাজাগতিক অর্থ বা উদ্দেশ্য নির্দেশ করে না। অর্থ ও মূল্য সচেতন মানব কর্তা দ্বারা সৃষ্ট উদ্ভূত গুণ।"
     },
     "virtual_immortality": {
-      "stance": "হ্যাঁ",
+      "stance": "Yes",
       "rationale": "যদি চেতনা (সুনির্দিষ্ট ভৌত প্যাটার্ন) স্ক্যান করে একটি নতুন ভৌত মাধ্যমে (ডিজিটাল বা অন্যথায়) সম্পূর্ণভাবে প্রতিলিপি/আপলোড করা যায়, তবে এই তত্ত্ব অভিন্ন সচেতন স্বের টিকে থাকার নিশ্চয়তা দেয়।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Papineau’s Mind-Brain Identity",
+        "name": "Papineau's Mind-Brain Identity",
         "relationship": "সম্প্রসারণ"
       },
       {
@@ -80,7 +84,7 @@
         "relationship": "সমালোচনা"
       },
       {
-        "name": "Tye’s Contingentism",
+        "name": "Tye's Contingentism",
         "relationship": "প্রভাব"
       }
     ],

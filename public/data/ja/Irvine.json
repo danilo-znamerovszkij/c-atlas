@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "アーヴァインの科学的消去主義",
+    "summary": "エリザベス・アーヴァインは、意識が単一の自然種である見込みは小さく、科学はこの語を手放した方がうまくいくかもしれないと論じる。彼女は意識を、ゆるやかに関連する能力の集まりとして扱い、研究者に対して、形而上学的定義や内省報告を、操作的な尺度と、それらの尺度が脳において追跡しているものによって置き換えるよう促す。",
+    "associated_thinkers": [
+      "Elizabeth Irvine"
+    ],
+    "category": "唯物論",
+    "subcategory": "消去主義/錯覚主義",
+    "core_identity_tagline": "科学的に不要とされうる集合概念としての意識",
+    "classification_tags": [
+      "eliminativism",
+      "natural kinds",
+      "methodology",
+      "introspection",
+      "cognitive science"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "「意識」は、共通の本質をもつ一つの現象ではなく、「ゲーム」や「感情」のように、重なり合う能力の集まりを指す。したがってアーヴァインは、意識は科学的な種として存在しないかもしれず、それについての語り口は科学から消去されうると考える。",
+    "ontological_status": "消去主義（科学的）",
+    "mind_body_relationship": "アーヴァインは、形而上学的な心身問題を、方法論的自然主義のために脇に置く。彼女が認める意識に関連する能力は、認知的・神経的現象として研究される。",
+    "primitive_or_emergent_status": "どちらでもない",
+    "emergence_type": "該当しない（アーヴァインは、根源的であれ創発的であれ、意識と呼ばれる単一のものが存在するかどうかを疑っている）",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "アーヴァインは、クオリアや現象的性格によって意識を定義することに懐疑的である。彼女はそれを、科学的にほとんど役に立たない形而上学的思弁とみなしている。",
+    "ontological_commitments": "測定され操作されうる認知能力、行動、脳過程。",
+    "epistemic_access": "行動的・神経科学的な尺度を通じて。アーヴァインは、内省報告は一貫しておらず非意識的な要因によって形づくられるため、それを金標準として扱うべきではないと考える。",
+    "constituents_and_structure": "重なり合うが互いに異なるいくつかの意識関連能力からなり、それらを統一する本質は存在しない。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "意識関連の認知能力。現象的意識は科学的対象として退けられる。",
+    "distinctive_mechanism_or_principle": "意識の概念を、測定可能なものに基づく操作的定義によって置き換え、それらの尺度が何を追跡しているのかを研究する。",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "アーヴァインは、証拠が意識についての単純で統一的な説明を成り立たせにくいと論じる。",
+      "意識は、その事例が一つの定義的特徴を共有しない集合概念のように振る舞う。",
+      "内省報告は信頼できず、意識の科学の拠り所とすべきではない。",
+      "研究は、単一の本質を前提とせず、多元的に進められるべきである。"
+    ],
+    "basis_of_belief_or_evidence_type": "認知科学と心理学の方法と知見に依拠した科学哲学。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的には検証可能",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "アーヴァイン自身、消去主義は真剣な擁護を必要とする強い立場であると述べている。経験の実在論者は、感じられた経験の事実は、科学が自然種を見いだすかどうかに依存しないと反論するだろう。",
+    "open_questions_and_limitations": "どの能力が集合に属するのか、そして改訂された語彙が実践において「意識」という語に取って代わりうるのかは、未解決のままである。",
+    "ontological_coherence": "方法論的自然主義と整合的である。完全な形而上学というよりも、科学的概念についてのテーゼである。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Churchland’s Eliminative Materialism",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Schwitzgebel's Unreliable Introspection, Indeterminate Boundaries, Metaphysical Humility",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Dennett’s Heterophenomenology",
+        "relationship": "両立可能"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Irvine’s Scientific Eliminativism (Landscape of Consciousness), Elizabeth Irvine",
+        "year": 2012
+      }
+    ]
+  }
+}

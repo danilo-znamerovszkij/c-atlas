@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "প্যারিংটনের ভাষা- ও যন্ত্র-চালিত চেতনা",
     "summary": "এই তত্ত্ব দাবি করে যে মানব আত্ম-সচেতন সচেতনতা একটি গুণগত বিবর্তনমূলক উত্তরণ প্রতিনিধিত্ব করে, যা মূলত জটিল ভাষা, প্রত্যয়মূলক চিন্তা ও সূক্ষ্ম যন্ত্র-ব্যবহারের সহবিবর্তন দ্বারা চালিত। চেতনাকে একটি বাস্তব, একীভূত প্রপঞ্চ হিসেবে প্রস্তাব করা হয় যা মস্তিষ্কের দোলনশীল কার্যকলাপের মিথস্ক্রিয়া ও বন্ধন-ভূমিকা থেকে উদ্ভূত, যা মানুষের জন্য বিশেষ উচ্চতর প্রজ্ঞামূলক সামর্থ্য দ্বারা বর্ধিত।",
-    "associated_thinkers": ["John Parrington"],
-    "category": "বস্তুবাদ তত্ত্ব",
-    "subcategory": "ভাষা সম্পর্ক",
+    "associated_thinkers": [
+      "John Parrington"
+    ],
+    "category": "বস্তুবাদ",
+    "subcategory": "ভাষা",
     "core_identity_tagline": "ভাষা ও যন্ত্র-চালিত একতা হিসেবে মানব চেতনা",
     "classification_tags": [
       "evolution",
@@ -52,34 +54,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "হ্যাঁ",
+      "stance": "Yes",
       "rationale": "গণনামূলক ও গঠনমূলক প্রক্রিয়ার (যেমন বিমূর্ত প্রতীক ও বন্ধন জাল) ওপর গুরুত্বদানকারী একটি বস্তুবাদ/ভৌতবাদ তত্ত্ব হিসেবে, চেতনা কৃত্রিম তন্ত্রে অর্জনযোগ্য যা প্রয়োজনীয় কার্যিক সংগঠন ও প্রতীকী প্রক্রিয়াকরণ পুনরুৎপাদন করতে সক্ষম।"
     },
     "survival_beyond_death": {
-      "stance": "না",
+      "stance": "No",
       "rationale": "চেতনা সম্পূর্ণরূপে রূপান্তরিত জৈবিক মস্তিষ্ক ও তার স্নায়বিক সার্কিটের উৎপাদন; তাই, দেহের মৃত্যু ও মস্তিষ্কের বিলুপ্তিতে ব্যক্তিগত চেতনা নিভে যায়।"
     },
     "meaning_and_purpose": {
-      "stance": "কেবল মানবতাবাদী",
+      "stance": "Humanistic only",
       "rationale": "লক্ষ্য হল মানব চেতনার একটি 'বস্তুগত ব্যাখ্যা', যা বোঝায় চেতনা একটি বিবর্তিত প্রপঞ্চ ব্রহ্মাণ্ডিক উদ্দেশ্য ছাড়া, অর্থ ও মূল্য সৃষ্টি সম্পূর্ণভাবে মানব সৃষ্টির ওপর রেখে দেওয়া।"
     },
     "virtual_immortality": {
-      "stance": "হ্যাঁ",
+      "stance": "Yes",
       "rationale": "যদি চেতনা-উৎপাদনকারী ভৌত প্রক্রিয়া (স্নায়বিক প্রতিরূপ, প্রতীকী প্রক্রিয়াকরণ, তরঙ্গ-গতিবিদ্যা) একটি অ-জৈবিক মাধ্যমে নির্ভুলভাবে প্রতিলিপি করা যায়, তবে আত্মনিষ্ঠ স্ব-এর ভার্চুয়াল অমরত্ব নীতিগতভাবে সম্ভব হওয়া উচিত।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Deacon’s Symbolic Communication (Human Consciousness)",
+        "name": "Deacon's Symbolic Communication (Human Consciousness)",
         "relationship": "অতিব্যাপন/সম্প্রসারণ"
       },
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
         "relationship": "প্রসঙ্গ/বৈপরীত্য"
       },
       {
-        "name": "Language Relationships",
+        "name": "Language",
         "relationship": "শ্রেণি-সদস্য"
       }
     ],

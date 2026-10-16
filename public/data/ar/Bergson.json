@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "التعدّدية والديمومة والإدراك والذاكرة عند برغسون",
     "summary": "تنظر هذه النظرية اللاتقليصية إلى الوعي بوصفه واقعاً دينامياً زمانياً بلا انقطاع، يتّسم بـ«الديمومة» و«التعدّدية»، وهو في جوهره ذاكرة. ولا يولّد الدماغ الوعي، بل يعمل بوصفه مرشّحاً يحدّ من الوعي الطاغي لإتاحة الفعل المركَّز في العالم.",
-    "associated_thinkers": ["Henri Bergson"],
-    "category": "الحالات الشاذة والمتغيّرة",
-    "subcategory": "التعدّدية والديمومة والإدراك والذاكرة",
+    "associated_thinkers": [
+      "Henri Bergson"
+    ],
+    "category": "الثنائية",
+    "subcategory": "",
     "core_identity_tagline": "الوعي بوصفه ذاكرة مرشَّحة وديمومة خالصة",
     "classification_tags": [
       "duration",
@@ -51,39 +53,54 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "يُعرَّف الوعي بوصفه روحاً/ذاكرة غير حاسوبية مرتبطة بالديمومة، وهي غير آلية بطبيعتها. والأرجح أن الأنظمة الصناعية المبنية على الحوسبة لن تلتقط هذا الجوهر الزماني الأساسي.",
       "justification": "مستدلٌّ عليه من الطبيعة اللامادية واللاآلية الصارمة للمفاهيم الجوهرية."
     },
     "survival_beyond_death": {
-      "stance": "ممكن",
+      "stance": "Possible",
       "rationale": "بما أن الدماغ مرشّح لا مولّد للوعي (الروح/الذاكرة)، فهذا يوحي بأن الوعي مستقل عن الجسد الفيزيائي وقد يدوم بعد الموت الجسدي.",
       "justification": "«قد تتيح نظرية برغسون حتى ضرباً من البقاء بعد الموت»."
     },
     "meaning_and_purpose": {
-      "stance": "كوني/وجودي",
+      "stance": "Cosmic/Ultimate",
       "rationale": "يُعرَّف الوعي بوصفه جوهراً دينامياً أساسياً («روحاً») قادراً على «فعل حر يُسمّى اختياراً»، بما يقتضي غاية متأصّلة تتجاوز القيود الإنسانية أو البيولوجية المحضة.",
       "justification": "مستدلٌّ عليه من طبيعته «الثنائية صراحةً» وارتباطه بالروح والاختيار."
     },
     "virtual_immortality": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "يعتمد الخلود الافتراضي على رفع حالات حاسوبية أو فيزيائية. وبما أن الوعي روح/ذاكرة لا تقليصية (ديمومة خالصة) لا يرشّحها الدماغ الفيزيائي إلا ترشيحاً، فإن استنساخ الحالات العصبية لن يستنسخ الكيان الواعي.",
       "justification": "مستدلٌّ عليه استناداً إلى التعريف اللامادي واللاوظيفي للوعي."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "William James's filter model", "relationship": "متوافق" },
-      { "name": "Substance Dualism", "relationship": "هوية/تداخل" },
-      { "name": "Process Theory", "relationship": "تأثير" },
-      { "name": "Neurophenomenology (Varela)", "relationship": "تأثير" }
+      {
+        "name": "James's Plural Consciousness, Brain as Filter of a Wider Consciousness",
+        "relationship": "متوافق"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "هوية/تداخل"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "تأثير"
+      },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "تأثير"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Time and Free Will: an Essay on the Immediate Data of Consciousness",
         "year": 1889
       },
-      { "title_with_names": "Matter and Memory", "year": 1896 },
+      {
+        "title_with_names": "Matter and Memory",
+        "year": 1896
+      },
       {
         "title_with_names": "Life and Consciousness (Mind-Energy)",
         "year": 1920

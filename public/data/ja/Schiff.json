@@ -1,0 +1,123 @@
+{
+  "id_and_class": {
+    "theory_title": "Schiffの意識回復のための前脳中間回路",
+    "summary": "Nicholas D. Schiffは、重篤な脳損傷の後の意識の喪失と回復が、中心視床、前頭皮質、線条体、淡蒼球内節を結ぶループに依存すると提案する。広範な損傷によって線条体への入力が途絶えると、淡蒼球からの抑制が中心視床へ解放され、前脳全体が自己強化的な抑制状態へと追いやられる。この回路は閾値を越えて押し戻すことができるため、このモデルは回復を説明し、どの治療が効くかを予測する。",
+    "associated_thinkers": [
+      "Nicholas D. Schiff"
+    ],
+    "category": "唯物論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "意識水準としての視床皮質回路の機能",
+    "classification_tags": [
+      "disorders of consciousness",
+      "thalamus",
+      "deep brain stimulation",
+      "brain injury",
+      "neurology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Schiffは、意識とは何かは述べない。彼は意識水準の成立条件を特定する。すなわち、意識状態が依存する再帰的活動を維持できる、活動的な前脳中間回路である。",
+    "ontological_status": "物理主義（神経生物学的）",
+    "mind_body_relationship": "意識水準は、特定の皮質下-皮質の回路に依存する。その機能が失われると、皮質組織の多くが残っていても意識は消失する。このモデルは、脳活動が経験された内容とどのように関係するかについては沈黙している。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（意識水準は脳回路の動的状態に依存する）",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "扱われていない。Schiffは、この仮説を意識の水準のモデルとして提示しており、現象的性格のモデルとしては提示していない。",
+    "ontological_commitments": "神経回路（中心視床、線条体の中型有棘ニューロン、淡蒼球内節、前頭皮質）、シナプス駆動、神経修飾、代謝。",
+    "epistemic_access": "行動診断、局所的な脳代謝（PET）、頭皮脳波のスペクトルパターン、薬物と脳深部刺激に対する反応。",
+    "constituents_and_structure": "一つのループである。皮質と視床が線条体を駆動し、線条体が淡蒼球内節を抑制し、淡蒼球が中心視床を抑制し、中心視床が前頭皮質と線条体を興奮させる。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "意識水準と覚醒；注意、作業記憶、意図的行動、コミュニケーションの能力；潜在的意識。現象的内容は含まない。",
+    "distinctive_mechanism_or_principle": "中間回路のダウンレギュレーション：線条体のニューロンが皮質と視床からの収束する入力を失うと、中心視床に対する淡蒼球の抑制が増大し、視床皮質の駆動が崩壊する。そして低下した活動が線条体を沈黙させ続ける。",
+    "dynamics_of_emergence": "意識障害は段階的な回路状態である。患者は昏睡から無反応覚醒を経て、最小意識状態へと移行しうる。シナプス効率、神経修飾、代謝、刺激のわずかな変化によってもループは閾値を越えうるため、回復は非線形でありうる。",
+    "location_and_distribution": "前脳：中心視床（中心外側核を含む）、線条体、淡蒼球内節、前頭皮質。後の研究では外側淡蒼球が加わる。",
+    "causation_and_functional_role": "活動的な中間回路は、大規模ネットワークが覚醒、注意、作業記憶、意図的行動、コミュニケーションを支えることを可能にする。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "植物状態と最小意識状態の患者は、局所的な損傷に釣り合わないほど、前頭皮質、視床、線条体に集中した低代謝を示す（Fridmanらによる）。",
+      "鎮静薬であるゾルピデムは、淡蒼球内節を抑制して中心視床を解放することにより、少数の患者の反応性を回復させる。反応者では前頭前野の代謝が上昇し、低周波の脳波活動が減少する。",
+      "両側の中心視床への脳深部刺激は、六年間最小意識状態にあった患者に持続的な改善をもたらした。また、第一相試験は、外傷性脳損傷の後に実行機能が改善したことを報告した。",
+      "ABCDモデルにおいては、視床皮質ループが回復するにつれて、脳波の回復は1Hz未満の活動からシータ、次いでアルファ、ベータのリズムへと進む。"
+    ],
+    "basis_of_belief_or_evidence_type": "実証的：臨床神経学、PET代謝、脳波、薬理学、介入試験。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "実証的に検証可能",
+    "known_empirical_interventions_or_tests": "ゾルピデム負荷試験；中心視床への脳深部刺激（第一相の無作為化実現可能性試験を含む）；局所PET代謝マッピング；予後判定と神経調節の対象者選定のための、ABCDモデルによる脳波スペクトル分類。",
+    "criticisms_and_tensions": "このモデルが説明するのは、意識がいつ生じうるかであって、意識とは何か、なぜそれが何かのように感じられるのかではない。推論の連鎖のいくつかの環は、外側淡蒼球の追加を含めてすでに改訂されている。",
+    "open_questions_and_limitations": "中間回路は、経験の内容やその質的性格を特定しない。Schiff自身もこれを認めている。よく似た行動診断が、異なる残存能力を隠しうるため、潜在的意識はなお検出しにくい。",
+    "ontological_coherence": "物理主義と整合的であり、存在論的理論のあいだで中立である。それは競合するのではなく、制約を与える。意識を皮質の動態のみに置く説明には、問題を投げかける。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "ここでは意識の水準が活動的な前脳回路に依存するので、回路の恒久的な機能停止を超えて意識が存続することはできない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Merker’s Midbrain-Centered Reality Space",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Llinas's Mindness State of Oscillations",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "両立可能"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Recovery of Consciousness after Brain Injury: A Mesocircuit Hypothesis, Nicholas D. Schiff",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Behavioural Improvements with Thalamic Stimulation after Severe Traumatic Brain Injury, Nicholas D. Schiff et al.",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Regional Cerebral Metabolic Patterns Demonstrate the Role of Anterior Forebrain Mesocircuit Dysfunction in the Severely Injured Brain, E. A. Fridman et al.",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Common Resting Brain Dynamics Indicate a Possible Mechanism Underlying Zolpidem Response in Severe Brain Injury, S. T. Williams et al.",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Large-Scale Brain Dynamics in Disorders of Consciousness, Nicholas D. Schiff, T. Nauvel and J. D. Victor",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Central Thalamic Deep Brain Stimulation to Support Anterior Forebrain Mesocircuit Function in the Severely Injured Brain, Nicholas D. Schiff",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Thalamic Deep Brain Stimulation in Traumatic Brain Injury: A Phase 1, Randomized Feasibility Study, Nicholas D. Schiff et al.",
+        "year": 2023
+      }
+    ]
+  }
+}

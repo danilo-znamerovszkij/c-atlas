@@ -57,19 +57,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "可能性が高い（条件付き）",
+      "stance": "Conditional",
       "rationale": "意識が根源的で実在の全体にゆきわたるならば、人工システムが顕現のための構造的／複雑性の要件を満たすかぎり、宇宙的意識を実現ないしそれに参与しうる。もっとも一部の観念論者は、現行のコンピュータモデルに基づいて意識あるAIを退ける。"
     },
     "survival_beyond_death": {
-      "stance": "肯定する（再定義された）",
+      "stance": "Yes",
       "rationale": "存続はインドの伝統における根源的教義である（例えば輪廻）。しかし存続はしばしば、意識が究極的な宇宙的意識へと再び吸収されるにつれて、現在の一人称の気づきが最終的に失われることを意味する。"
     },
     "meaning_and_purpose": {
-      "stance": "宇宙的／究極的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "意識をすべての存在の基盤かつ究極的実在として措定することで、この理論は本来的に宇宙的な意味と目的を提供する。進化論的観念論の見解もまた、意識の進化を世界の意味の主要な特徴とみなす。"
     },
     "virtual_immortality": {
-      "stance": "不要",
+      "stance": "Not needed",
       "rationale": "意識がすでに根源的で永遠である（観念論）ならば、存続ないし永遠の生という伝統的概念がすでに理論的に利用可能であり、技術的な仮想的不死を無意味にする。"
     }
   },
@@ -79,12 +79,18 @@
         "name": "Kastrup's Analytic Idealism",
         "relationship": "重複／両立的"
       },
-      { "name": "Panpsychisms", "relationship": "重複" },
       {
-        "name": "Buddhism's Empty, Illusory Phenomenal Consciousness (Yogācāra)",
+        "name": "Panpsychism",
+        "relationship": "重複"
+      },
+      {
+        "name": "Buddhism's Empty, Illusory Phenomenal Consciousness",
         "relationship": "重複／対比的"
       },
-      { "name": "Gomatam's GV Vedanta", "relationship": "対比的" }
+      {
+        "name": "Gomatam's GV Vedanta",
+        "relationship": "対比的"
+      }
     ],
     "sources_and_references": [
       {

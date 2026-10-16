@@ -7,8 +7,8 @@
       "Francisco Varela",
       "Maurice Merleau-Ponty"
     ],
-    "category": "唯物論の諸理論",
-    "subcategory": "身体化・エナクティヴ",
+    "category": "異常",
+    "subcategory": "",
     "core_identity_tagline": "生きられた経験の優位とハードプロブレムの解消",
     "classification_tags": [
       "phenomenology",
@@ -59,30 +59,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "不確定",
+      "stance": "Uncertain",
       "rationale": "意識は還元不可能な生きられた経験と身体‐意識の弁証法に根ざしており、AI の意識の主張の基礎であるシミュレーションや計算論的実現に抵抗する可能性が高い。"
     },
     "survival_beyond_death": {
-      "stance": "おそらく可能",
+      "stance": "Possible",
       "rationale": "根源的現象学的アプローチは、（臨死体験のような）意識の変性状態を、外在的でない自己開示的な「内在的存在論」——標準的な唯物論的制約を越える深い連続性を示唆する存在様態——を明らかにしうるものと解釈する。"
     },
     "meaning_and_purpose": {
-      "stance": "実存的／哲学的",
+      "stance": "Humanistic only",
       "rationale": "この理論は意識の本性を知的な謎から「実存的選択肢」へと変え、生きられた経験と主観的存在（内的存在論＝イントラ・オントロジー）への関与的な存在論的アプローチに意味を中心づける。"
     },
     "virtual_immortality": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "仮想的不死は一人称的な心的自己をデジタル情報へ還元することを要するが、これは身体化された生きられた経験の優位と非還元性に関するこの理論の基礎的前提と整合しない。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Varela’s Neurophenomenology",
+        "name": "Varela's Neurophenomenology",
         "relationship": "拡張"
       },
       {
-        "name": "Merleau-Ponty’s Intra-ontology",
+        "name": "Merleau-Ponty's Embodied Perception and the Lived Body",
         "relationship": "影響"
       },
       {
@@ -90,7 +90,7 @@
         "relationship": "批判"
       },
       {
-        "name": "Standard Physicalism",
+        "name": "Materialism",
         "relationship": "批判"
       }
     ],

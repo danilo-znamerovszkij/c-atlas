@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "サポルスキーの強い両立不可能論",
     "summary": "この立場は、意識はもっぱら生物学的機構から生じる複雑な創発的性質であり、宇宙の物理的規則と分かちがたく結びついていると考える。その主要な哲学的傾倒は強い両立不可能論であり、生物学的決定論を肯定し、その帰結として自由意志の存在を否定する。",
-    "associated_thinkers": ["Robert Sapolsky"],
+    "associated_thinkers": [
+      "Robert Sapolsky"
+    ],
     "category": "唯物論",
     "subcategory": "神経生物学的",
     "core_identity_tagline": "「複雑な創発的性質としての意識」",
@@ -52,26 +54,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識が、複雑な生物学的組織化の物理的規則に支配された因果的に能動的な創発的性質であるならば、必要な複雑さを再現する人工システムにおいて原理的に実現可能であるはずである。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識はもっぱら生物学的な脳の産物である。それゆえ、脳の死は個人的存在の取り返しのつかない終焉である。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "意識の決定論的な本性は、究極的な宇宙的意味や目的が存在しないことを意味する。いかなる意味や価値も、必然的に人間自身によって創出される。"
     },
     "virtual_immortality": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識は複雑な物理的状態に還元可能でありそれに依存するため、これらの状態を非生物学的な基盤において完全に複製すれば、唯物論の諸理論に整合的に、一人称的な心的自己の存続がもたらされるであろう。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mitchell’s Free Agents",
+        "name": "Mitchell's Free Agents",
         "relationship": "批判"
       },
       {
@@ -79,7 +81,7 @@
         "relationship": "批判"
       },
       {
-        "name": "Flanagan’s Constructive Naturalism",
+        "name": "Flanagan's Constructive Naturalism",
         "relationship": "重複"
       }
     ],

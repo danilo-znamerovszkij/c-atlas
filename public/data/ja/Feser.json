@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "フェザーの新トマス主義的・新アリストテレス主義的・常識的二元論",
     "summary": "この二元論的理論は、人間の知性（抽象的概念と推論）が非物質的な能力であり、物質的過程に還元できないと主張する。それは、感覚的性質（クオリア）が外的な物質的世界の客観的性質であるとするアリストテレス的な常識的実在論への回帰を唱えることによって「ハードプロブレム」を解決し、それによって近代の禁欲的で量的な物質観がもたらしたジレンマを解消する。",
-    "associated_thinkers": ["Edward Feser"],
+    "associated_thinkers": [
+      "Edward Feser"
+    ],
     "category": "二元論",
-    "subcategory": "新トマス主義的・新アリストテレス主義的・常識的二元論",
+    "subcategory": "新トマス主義・新アリストテレス主義・常識的二元論",
     "core_identity_tagline": "非物質的知性と客観的性質を介した意識",
     "classification_tags": [
       "dualism",
@@ -51,34 +53,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "おそらく否",
+      "stance": "Unlikely",
       "rationale": "知性（確定的思考と抽象的概念に必要とされる）が根本的に非物質的であり、物質的過程に還元不可能であるならば、純粋に計算的／物質的なAIは、この理論が記述する完全な人間の意識を具現することはできない。"
     },
     "survival_beyond_death": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "魂は非物質的で自存的な存在者として定義され、身体とは別に、それ自身で存在し認知機能を行使することができる。ただし、これは魂にとって不自然なものと見なされる。"
     },
     "meaning_and_purpose": {
-      "stance": "肯定",
+      "stance": "Cosmic/Ultimate",
       "rationale": "思考、論理、知的普遍における確定的内容の保存は、魂への存在論的コミットメントと相まって、唯物論的ニヒリズムを避ける非収縮的な意味観を含意する。"
     },
     "virtual_immortality": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "仮想的不死は計算論的機能主義に依拠する。フェザーは知的意識が物質的過程に還元できず、それによって説明もできないと論じるため、完全な人間の自己をデジタルにアップロードすることはできない。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Stump’s Thomistic Dualism", "relationship": "両立的" },
-      { "name": "Cartesian Dualism", "relationship": "批判" },
       {
-        "name": "Eliminative Materialism/Illusionism",
+        "name": "Stump's Thomistic Dualism",
+        "relationship": "両立的"
+      },
+      {
+        "name": "Cartesian Dualism",
         "relationship": "批判"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "批判" }
+      {
+        "name": "Eliminative/Illusionism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "批判"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Think, McFly, think, Edward Feser", "year": 2012 },
+      {
+        "title_with_names": "Think, McFly, think, Edward Feser",
+        "year": 2012
+      },
       {
         "title_with_names": "Aristotle, call your office, Edward Feser",
         "year": 2012

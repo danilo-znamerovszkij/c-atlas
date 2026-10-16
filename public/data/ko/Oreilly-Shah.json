@@ -1,0 +1,140 @@
+{
+  "id_and_class": {
+    "theory_title": "O'Reilly-Shah의 상태 공간 이론과 계산적 동적 일원론",
+    "summary": "O'Reilly-Shah는 현상적 의식이 가소성 있는 순환 신경망에서 이루어지는 계층적 지연 좌표 임베딩이라고 주장한다. 순환적 피드백 덕분에 뇌는 환경의 동역학적 이력을, 그리고 최상위 층위에서는 자신의 임베딩 활동 자체를 재구성할 수 있다. 그의 형이상학인 계산적 동적 일원론은 의식을 바로 이 시간적으로 확장된 과정과 동일시한다. 그는 이 동일성이 의식의 어려운 문제를 해소한다고 주장하는데, 그 이유는 남는 간극이 과정을 기술하는 것과 그 과정이 되는 것 사이의 차이에 불과하기 때문이다.",
+    "associated_thinkers": [
+      "Vikas N. O'Reilly-Shah"
+    ],
+    "category": "유물론",
+    "subcategory": "계산론적",
+    "core_identity_tagline": "가소성 네트워크에서 자기 참조적 동역학적 임베딩으로서의 의식",
+    "classification_tags": [
+      "delay coordinate embedding",
+      "recurrent networks",
+      "process monism",
+      "plasticity",
+      "quality spaces"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "현상적 경험은 가소성 있는 순환 신경망이 수행하는 계층적이고 자기 참조적인 지연 좌표 임베딩과 동일하다. 이것은 시간적으로 확장된 계산 과정이며, 정적인 신경 상태나 기능적 역할, 또는 물질의 내재적 속성이 아니다.",
+    "ontological_status": "물리주의 (과정 일원론, 계산적)",
+    "mind_body_relationship": "경험과 물리적 과정의 동일성으로, 번개와 대기 중 전기 방전의 관계를 모델로 한다. 하나의 존재론적 범주인 물리적 과정이 과학적 기술과 체계에 주어지는 주관적 성격을 함께 뒷받침한다.",
+    "primitive_or_emergent_status": "해당 없음",
+    "emergence_type": "해당 없음 (O'Reilly-Shah는 의식이 과정에 의해 산출되거나 과정으로부터 창발하는 것이 아니라 과정과 동일하다고 주장한다)",
+    "subjectivity_and_intentionality": "계층의 최상위에서 체계는 자신의 임베딩 활동을 임베딩한다. 즉 세계를 모델링하는 자신을 모델링한다. 이러한 자기 모델링이 주관성으로 경험되는 내적 관점이다.",
+    "qualia_account": "감각질은 사적인데, 과정을 실현하는 것과 그것을 기술하는 것이 같은 대상에 대한 서로 다른 인식적 관계이기 때문이다. 감각질의 구조는 임베딩의 기하학에서 나오며, 이 기하학은 네트워크가 추적하는 대상의 관계적 조직을 반영하는 질 공간을 형성한다.",
+    "ontological_commitments": "가소성 있는 순환 신경망, 피드백이 만들어 내는 시간 지연, 재구성된 상태 공간, 그리고 이들을 구성하는 물리적 과정.",
+    "epistemic_access": "동역학계 수학, 순환 신경망과 저장고 신경망(reservoir network)의 분석, 신경 기록, 그리고 메타머(metamer)나 범주적 지각 같은 지각 현상을 통해 접근한다.",
+    "constituents_and_structure": "‘DCE 엔진’의 계층 구조. 하위 네트워크는 감각 동역학을 임베딩하고, 상위 네트워크는 하위 네트워크의 동역학을 임베딩하며, 최상위 층위는 체계 자신의 임베딩을 임베딩한다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "현상적(질 공간의 구조); 주관성과 자기 모델링; 시간적으로 두터운 경험",
+    "distinctive_mechanism_or_principle": "지연 좌표 임베딩으로, Takens의 임베딩 정리에 근거한다. 이 정리에서는 신호의 시간 지연된 복사본들이 그 신호를 생성한 체계의 전체 상태 공간을 재구성한다. 지연은 순환적 피드백이 제공한다.",
+    "dynamics_of_emergence": "의식은 시간을 따라가는 궤적이다. 가소성이 네트워크를 계속 재구성하므로, 의식은 상태 공간뿐 아니라 함수 공간에서도 움직이며, 한 시점의 계산은 다른 시점의 계산과 다르다.",
+    "location_and_distribution": "생물학적 대뇌피질, 계층적으로 배열된 가소성 순환 신경망.",
+    "causation_and_functional_role": "임베딩은 체계가 환경과 자기 자신의 동역학적 이력을 추적할 수 있게 하며, 이는 환경 입력과의 지속적 상호작용에 의해 안내된다.",
+    "integration_or_binding": "상위 층위는 하위 층위의 동역학을 임베딩함으로써 그것을 통합하며, 중첩된 점점 더 추상적인 재구성을 만들어 낸다.",
+    "information_flow_or_representation": "역동적으로 유사한 자극, 즉 비슷한 미래를 낳는 자극은 상태 공간에서 가깝게 표상된다. 이 기하학은 예측이 잘 되지 않는 곳에서는 압축되고, 구별되지 않는 결과를 낳는 서로 다른 입력들은 하나로 합쳐지며, 예측이 가장 잘 되는 곳에서는 선명해진다.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Hart와 동료들은 구조화된 입력으로 구동되는 수축성 순환 신경망이 일반화된 동기화를 통해 입력 동역학을 임베딩함을 증명했다.",
+      "Uribarri와 Mindlin, 그리고 Ostrow, Eisen, Fiete는 훈련된 순환 신경망과 신경 시퀀스 모델에서 시간 지연 임베딩의 기하학적 특징을 발견했다.",
+      "박쥐와 설치류는 3차원 공간을 위상적 토러스 위에 표상한다. 이는 규칙적인 환경 동역학을 저차원 어트랙터로 사상하는 지각의 사례다.",
+      "O'Reilly-Shah, Selvitella, Schurger는 정적인 순방향 네트워크가 무제한의 시간에 걸쳐 가소성 있는 순환 신경망과 동등하게 머물 수 없다고 주장하며, 이는 펼침 논증(unfolding argument)을 약화시킨다.",
+      "이 이론은 메타머, 범주적 지각, 변별 역치가 유한한 예측 자원으로 작동하는 위상 보존적 임베딩을 반영한다고 예측한다."
+    ],
+    "basis_of_belief_or_evidence_type": "수학적·계산적 근거(동역학계 이론, 네트워크 분석), 신경과학과 정신물리학의 뒷받침"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "경험적으로 검증 가능함",
+    "known_empirical_interventions_or_tests": "훈련된 순환 신경망에서 임베딩 기하학을 분석하기; 박쥐와 설치류의 토러스형 공간 부호에 대한 신경 집단 기록; 메타머, 범주적 지각, 변별 역치에 대한 지각 검사.",
+    "criticisms_and_tensions": "Doerig와 동료들의 펼침 논증, 그리고 Herzog와 동료들이 이를 튜링 완전성으로 일반화한 주장은, 임의의 계산 가능한 함수가 서로 다른 인과 구조를 가진 체계에서 재구현될 수 있다고 본다. O'Reilly-Shah는 이것이 입출력 함수에 대해서는 맞다고 인정하지만, 가소성과 환경 결합을 무기한으로 맞춰야 할 경우 그 힘이 약해진다고 주장한다.",
+    "open_questions_and_limitations": "대뇌피질이 이러한 종류의 계층적 자기 참조 임베딩을 실제로 구현하는지는, 수렴하지만 간접적인 증거에 의해 뒷받침되는 가설로 남아 있다. 동일성이 의식의 어려운 문제를 해소한다는 주장은 반물리주의자들이 거부하는 철학적 입장이다.",
+    "ontological_coherence": "물리주의적 과정 일원론 안에서 일관된다. 다중 실현 가능성을 좁게 다루어, 같은 과정 조직이 서로 다른 기질에 걸쳐 실현되는 것은 허용하지만, 같은 입출력 행동을 보이는 다른 과정은 허용하지 않는다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "같은 가소성과 과정적 궤적을 가진 체계는 의식을 가질 것이다. 다만 O'Reilly-Shah는 예측 불가능한 입력과 혼돈적 민감성을 고려할 때 정확한 등가성이 극히 드물다고 보며, 정적인 순방향 체계는 이에 해당하지 않는다고 본다."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "의식이 순환 신경망에서 진행 중인 물리적 과정과 동일하므로, 그 과정이 끝나면 의식도 끝난다는 입장에서 따라 나온다."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "복사본이 원본의 가소성, 환경 결합, 궤적을 무기한으로 일치시켜야 하는데, O'Reilly-Shah는 이를 실질적으로 달성 불가능하다고 본다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Markwell’s Process Identity Theory",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "대조"
+      },
+      {
+        "name": "Qualia Space",
+        "relationship": "양립 가능"
+      },
+      {
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "양립 가능"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Delay Coordinate Embedding as Neuronally Implemented Information Processing: The State Space Theory of Consciousness, Vikas N. O’Reilly-Shah",
+        "year": 2025
+      },
+      {
+        "title_with_names": "A Caveat Regarding the Unfolding Argument: Implications of Plasticity for Computational Theories of Consciousness, V. N. O’Reilly-Shah, A. Selvitella, and A. Schurger",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Computational Dynamic Monism: Process Metaphysics for the State Space Theory of Consciousness, Vikas N. O’Reilly-Shah",
+        "year": 2026
+      },
+      {
+        "title_with_names": "State Space Theory as a Unifying Framework for Consciousness, Vikas N. O’Reilly-Shah",
+        "year": 2026
+      },
+      {
+        "title_with_names": "Smooth Embeddings in Contracting Recurrent Networks Driven by Regular Dynamics: A Synthesis for Neural Representation, V. N. O’Reilly-Shah and A. M. Selvitella",
+        "year": 2026
+      },
+      {
+        "title_with_names": "Detecting Strange Attractors in Turbulence, F. Takens",
+        "year": 1981
+      },
+      {
+        "title_with_names": "Embedding and Approximation Theorems for Echo State Networks, A. Hart, J. Hook, and J. Dawes",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Dynamical Time Series Embeddings in Recurrent Neural Networks, G. Uribarri and G. B. Mindlin",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Delay Embedding Theory of Neural Sequence Models, M. Ostrow, A. Eisen, and I. Fiete",
+        "year": 2024
+      },
+      {
+        "title_with_names": "The Unfolding Argument: Why IIT and Other Causal Structure Theories Cannot Explain Consciousness, A. Doerig, A. Schurger, A. Hess, and M. H. Herzog",
+        "year": 2019
+      },
+      {
+        "title_with_names": "The Multiple Realization Book, T. W. Polger and L. A. Shapiro",
+        "year": 2016
+      }
+    ]
+  }
+}

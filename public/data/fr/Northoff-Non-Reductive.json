@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La neurophilosophie non réductive de Northoff",
     "summary": "Cette théorie est avant tout une stratégie méthodologique conçue pour analyser la relation complexe entre le cerveau et l'esprit en reliant systématiquement, de manière bilatérale, les concepts philosophiques et les théories ontologiques aux données empiriques des neurosciences. Son objectif est d'apporter un éclairage sur la subjectivité sans réduire les concepts mentaux à des faits physiques.",
-    "associated_thinkers": ["Georg Northoff"],
-    "category": "Physicalisme Non Réductif",
-    "subcategory": "Neurophilosophie Non Réductive",
+    "associated_thinkers": [
+      "Georg Northoff"
+    ],
+    "category": "Non réductif",
+    "subcategory": "Neurophilosophie non réductionniste",
     "core_identity_tagline": "Un outil méthodologique à l'interface de la philosophie et des neurosciences",
     "classification_tags": [
       "neurophilosophy",
@@ -51,30 +53,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "En tant qu'approche physicaliste non réductive, la conscience est liée à l'instanciation de dynamiques complexes spécifiques (mécanismes temporo-spatiaux) ; si ces dynamiques peuvent être reproduites artificiellement, la conscience dans l'IA devrait être possible."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La théorie est ancrée dans des mécanismes physiques du cerveau (matrice d'activité spontanée neuro-écologique, neuro-viscérale). La cessation de ces processus physiques implique la cessation de la structure consciente émergente (la sentience)."
     },
     "meaning_and_purpose": {
-      "stance": "Incertain",
+      "stance": "Uncertain",
       "rationale": "La théorie est avant tout méthodologique, se concentrant sur la mécanique et la structure de la conscience plutôt que sur un sens cosmique ultime. Cependant, sa position non réductive est compatible avec l'affirmation d'un sens et d'une valeur naissant de la subjectivité."
     },
     "virtual_immortality": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si la conscience émerge de dynamiques spatiotemporelles complexes et non réductives, alors la possibilité théorique existe qu'une réplication et un téléversement parfaits de ces motifs complexes préservent avec succès le soi conscient à la première personne, en cohérence avec les aspects fonctionnalistes implicites de cette catégorie."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Northoff’s Temporo-Spatial Sentience",
+        "name": "Northoff's Temporo-Spatial Sentience",
         "relationship": "Extension"
       },
       {
-        "name": "Embodied and Enactive Theories",
+        "name": "Embodied",
         "relationship": "Compatible"
       },
       {

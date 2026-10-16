@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "L'idéalisme personnel de Ward : les âmes comme agents incarnés créés par Dieu",
     "summary": "Cette théorie pose la conscience comme réalité ultime (idéalisme), en se concentrant sur le sujet conscient irréductible, ou l'âme. Elle présente l'âme comme un agent incarné créé par Dieu, ce qui signifie que le sujet est distinct du monde physique objectif, tout en lui étant inséparable. Le monde lui-même est envisagé comme une construction de perceptions et de pensées, affirmant la primauté de la perspective à la première personne.",
-    "associated_thinkers": ["Keith Ward"],
-    "category": "Idéalismes",
-    "subcategory": "Idéalisme personnel",
+    "associated_thinkers": [
+      "Keith Ward"
+    ],
+    "category": "Idéalisme",
+    "subcategory": "Idéalisme personnaliste",
     "core_identity_tagline": "La conscience comme sujet incarné de l'agentivité créé par Dieu",
     "classification_tags": [
       "idealism",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Conditionnel",
+      "stance": "Conditional",
       "rationale": "Si la conscience est l'âme non réductible créée par Dieu, alors les systèmes artificiels ne peuvent atteindre la conscience à moins que Dieu ne leur accorde des âmes/une agentivité, rendant la conscience de l'IA physiquement improbable par défaut."
     },
     "survival_beyond_death": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "L'âme étant définie comme un sujet non physique et irréductible, elle devrait persister au-delà de la mort biologique du corps, en cohérence avec les traditions dualistes/idéalistes."
     },
     "meaning_and_purpose": {
-      "stance": "Cosmique/théologique",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Les agents conscients (les âmes) sont créés par Dieu, impliquant intrinsèquement un sens, un but et une valeur morale ultimes dérivés de cette origine divine."
     },
     "virtual_immortality": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "L'immortalité virtuelle repose sur la duplication d'états physiques. Le sujet conscient (l'âme) étant non réductible et non identifiable par des faits physiques publiquement observables, la duplication physique ne peut capturer la composante non physique nécessaire."
     }
   },
@@ -74,11 +76,11 @@
         "relationship": "Influence"
       },
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "Critique"
       },
       {
-        "name": "McGilchrist’s Relational, Creative-Process Idealism",
+        "name": "McGilchrist's Relational, Creative-Process Idealism",
         "relationship": "Compatible"
       }
     ],

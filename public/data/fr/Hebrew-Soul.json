@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "Théorie de l'âme hébraïque",
     "summary": "La conception hébraïque traditionnelle ne voit pas « l'âme » (*nephesh*) comme une substance séparée, immortelle et non physique, mais comme la personne ou la créature sensible vivante et intégrée dans son ensemble, établie lorsque Dieu a insufflé la vie dans la forme physique. La conscience est ainsi indissociablement liée à l'état vivant et incarné.",
-    "associated_thinkers": ["Hebrew Bible", "Jewish tradition", "Eduard Shyfrin"],
-    "category": "Dualismes",
-    "subcategory": "L'âme dans la Bible hébraïque et la philosophie juive",
+    "associated_thinkers": [
+      "Hebrew Bible",
+      "Jewish tradition",
+      "Eduard Shyfrin"
+    ],
+    "category": "Dualisme",
+    "subcategory": "L’âme dans la Bible hébraïque et la philosophie juive",
     "core_identity_tagline": "« L'âme » (*Nephesh*) comme la personne vivante dans son ensemble",
     "classification_tags": [
       "nephesh",
@@ -51,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Conditionnelle",
+      "stance": "Conditional",
       "rationale": "Le concept biblique original, liant la conscience à la vie biologique et au souffle, suggère un non. Cependant, l'interprétation kabbalistique ultérieure définissant l'âme comme une « entité informationnelle » pourrait permettre à des systèmes artificiels dotés d'une complexité informationnelle suffisante et de la « dimension du soi » requise d'atteindre la conscience."
     },
     "survival_beyond_death": {
-      "stance": "Non (sans intervention divine)",
+      "stance": "Conditional",
       "rationale": "Le concept central de *nephesh* est lié à la vie biologique et n'est pas intrinsèquement immortel. La survie après la mort dépend de la doctrine théologique de la résurrection des morts (reconstitution par Dieu), et non de la persistance d'une âme désincarnée."
     },
     "meaning_and_purpose": {
-      "stance": "Ultime/Théiste",
+      "stance": "Cosmic/Ultimate",
       "rationale": "La conscience/vie dérive du « souffle de vie » fourni par Dieu, établissant un sens et une finalité ultimes inhérents et divinement ordonnés."
     },
     "virtual_immortality": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "L'immortalité virtuelle nécessite la duplication des fonctions cérébrales, ce qui repose sur des hypothèses physicalistes/fonctionnalistes. Puisque le concept hébraïque original de *nephesh* est intrinsèquement biologique et intégré, une simple simulation ou un téléchargement de motifs informationnels ne parviendrait pas à saisir l'essence de l'être vivant."
     }
   },
@@ -74,11 +78,11 @@
         "relationship": "Influence/Critique"
       },
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "Compatible"
       },
       {
-        "name": "Swinburne’s Substance Dualism",
+        "name": "Swinburne's Substance Dualism",
         "relationship": "Critique"
       },
       {

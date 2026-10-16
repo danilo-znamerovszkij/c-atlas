@@ -1,0 +1,120 @@
+{
+  "id_and_class": {
+    "theory_title": "베커의 아날로그 체내 전기 이론",
+    "summary": "로버트 O. 베커는 의식이 신경을 따라 있는 교세포와 슈반세포가 운반하는 느리고 연속적인 직류(DC) 전기 체계에 의존하며, 이것이 뉴런의 빠른 스파이크 부호와 함께 작동한다고 제안했다. 그가 처음에 치유와 재생을 조절하는 것으로 발견한 이 아날로그 체계는 의식의 수준을 정하며, 감각 입력을 하나의 경험으로 묶음으로써 그 내용을 형성할 수도 있다.",
+    "associated_thinkers": [
+      "Robert O. Becker"
+    ],
+    "category": "유물론",
+    "subcategory": "전자기적",
+    "core_identity_tagline": "몸의 아날로그 직류장에 의해 형성되는 의식",
+    "classification_tags": [
+      "bioelectricity",
+      "direct current",
+      "glia",
+      "regeneration",
+      "electromagnetic fields"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "의식은 신경계의 비신경 지지 조직에 있는 공간적으로 조직된 직류 전기 활동에 인과적으로, 그리고 아마도 구성적으로 의존한다. 베커는 의식이 단순히 전자기장이라고 주장하지 않았다.",
+    "ontological_status": "물리주의(생체 전기적, 환원적이지 않음)",
+    "mind_body_relationship": "마음은 몸 안의 두 상호작용하는 전기 양식에 의존한다. 하나는 디지털 신경 충격이고, 다른 하나는 대규모 신경 집단의 흥분성과 조정을 조절하는 아날로그 직류 배경이다.",
+    "primitive_or_emergent_status": "창발적",
+    "emergence_type": "약한 창발(경험은 유기체의 물리적 생체 전기 조직으로부터 생겨난다. 베커는 그것이 왜 무언가처럼 느껴져야 하는지에 대해서는 설명하지 않았다)",
+    "subjectivity_and_intentionality": "베커는 신경 주위 전류의 공간적 변화가 결정, 느낌, 내적 언어, 그 밖의 정신 사건에 관여한다고 제안했다.",
+    "qualia_account": "분화된 전기 패턴이 경험되는 것에 기여할 수 있지만, 베커는 특정한 전기적 배열을 특정한 질적 요소에 대응시킨 적이 없다.",
+    "ontological_commitments": "뉴런, 슈반세포와 교세포, 내생적 직류 전위, 그리고 제안된 반도체성 신경 주위 제어망.",
+    "epistemic_access": "직류 전위와 뇌파(EEG)의 측정을 통해서, 그리고 행동과 마취를 추적하면서 외부의 직류 또는 자기장으로 전류를 교란하는 실험을 통해서.",
+    "constituents_and_structure": "혼합 체계이다. 이산 신호를 위한 빠른 디지털 스파이크 부호와, 전역적 제어와 통합을 위해 유기체 전체에 걸쳐 있는 느린 아날로그 직류망이 있다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "의식의 수준(깸, 수면, 마취, 최면); 경험의 통일성; 아마도 느낌과 내적 언어와 같은 내용",
+    "distinctive_mechanism_or_principle": "슈반세포와 교세포의 신경 주위 경로를 따라 흐르는 느린 직류가, 뉴런의 민감성을 설정하고 활동을 하나의 통일된 상태로 묶는 아날로그적이고 유기체 전반의 제어를 제공한다.",
+    "dynamics_of_emergence": "전역적 직류 조직의 변화가 뇌를 깸, 수면, 마취, 변형된 통증 상태 사이에서 전환시킨다. 더 미세한 변화는 순간순간의 내용을 바꿀 수 있다.",
+    "location_and_distribution": "중추 및 말초 신경계의 지지 세포를 따라, 뇌 전체와 몸 전체에 걸쳐 있다. 베커는 인간에게서 후두-전두 직류 변화를 보고했다.",
+    "causation_and_functional_role": "직류 체계는 뉴런의 흥분성, 각성, 통증을 조절하며, 베커의 더 넓은 이론에서는 성장, 치유, 재생도 조정한다.",
+    "integration_or_binding": "연속적인 공간 전압 기울기는, 개별 스파이크만으로는 할 수 없는 일로서, 분리된 감각 입력들을 하나의 경험으로 묶을 수 있는 통일된 물리적 매체를 제공한다.",
+    "information_flow_or_representation": "뉴런의 충격은 이산적인 감각 및 운동 메시지를 나르며, 느린 직류 전위는 패턴 수준의 정보를 나르는 아날로그 배경을 이룬다.",
+    "evolutionary_account": "생체 전기 조직은 성장과 수선을 위한 오래된 통합 제어 체계이며, 진화는 이후 그것을 신경계 조절과 마음을 위해 징집했다.",
+    "core_claims_and_evidence": [
+      "도롱뇽에서, 마취가 깊어질수록 표면 직류 전위는 0을 향해 줄어들었고 반전될 수도 있었다.",
+      "내생적 전류에 맞서 가해진 약한 직류는 무반응과 델타파 우세의 뇌파를 낳았으며, 반대 방향의 전류는 화학적 마취를 부분적으로 상쇄했다.",
+      "전류를 교란하도록 배향된 강한 자기장은 마취와 유사한 행동과 뇌파 변화를 낳았다.",
+      "프리드먼, 베커, 바크먼(1962)은 최면적 통증 감소 중에 국소적인 직류 변화를 발견했다.",
+      "현대의 발생 생체 전기학(레빈 등)은 내생적 전압과 장이 재생을 조절한다는 것을 확인하지만, 베커의 특정한 신경 주위 기제를 확인하지는 않는다."
+    ],
+    "basis_of_belief_or_evidence_type": "경험적(동물과 인간의 생체 전기 실험)이며, 추론을 통해 의식으로 확장됨."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "경험적으로 검증 가능함",
+    "known_empirical_interventions_or_tests": "마취 중 도롱뇽의 직류 전위 기록; 가해진 직류 및 자기장에 의한 교란; 인간의 후두-전두 직류 기록; 최면 진통 중의 직류 측정.",
+    "criticisms_and_tensions": "베커의 실험은 마취, 뇌파 상태, 반응성, 통증 보고를 대리 지표로 사용했는데, 이들은 현상적 의식을 각성, 흥분성, 주의, 보고 가능성과 구별하지 못한다. 그의 신경 주위 반도체 기제는 확인되지 않았다.",
+    "open_questions_and_limitations": "베커는 경험에 필요하고 충분한 물리적 조건을 명시한 적이 없고, 전기 패턴을 질적 요소에 대응시킨 적이 없으며, 이러한 과정이 왜 주관적 성격을 갖는지도 설명하지 않았다.",
+    "ontological_coherence": "초기의 생체 전기적 물리주의로서 일관적이며, 이후의 전자기장 이론의 전신이다. 다만 경험을 장의 패턴과 동일시하는 데까지는 나아가지 않는다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "여기서 의식은 살아 있는 조직 속의 유기체 전체에 걸친 아날로그 직류 체계에 의존하며, 디지털 컴퓨터에는 그것이 없다."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "경험은 살아 있는 몸의 생체 전기 조직에 의존하므로, 그 조직이 실패하면 경험도 끝난다."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "시뮬레이션은 이 견해가 의식에 필요하다고 보는 물리적 직류장을 재현하지 못할 것이다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Pockett's Conscious and Non-Conscious Patterns",
+        "relationship": "확장"
+      },
+      {
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
+        "relationship": "양립 가능"
+      },
+      {
+        "name": "Levin's Technological Approach to Mind Everywhere",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Miller’s Brain Waves’ Analog Organization of Cortex",
+        "relationship": "양립 가능"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Body Electric: Electromagnetism and the Foundation of Life, Robert O. Becker and G. Selden",
+        "year": 1985
+      },
+      {
+        "title_with_names": "Cross Currents, Robert O. Becker",
+        "year": 1990
+      },
+      {
+        "title_with_names": "The bioelectric field pattern in the salamander and its simulation by an electronic analog, Robert O. Becker",
+        "year": 1960
+      },
+      {
+        "title_with_names": "Search for evidence of axial current flow in peripheral nerves of salamander, Robert O. Becker",
+        "year": 1961
+      },
+      {
+        "title_with_names": "The direct current control system: A link between environment and organism, Robert O. Becker, C. H. Bachman and H. Friedman",
+        "year": 1962
+      },
+      {
+        "title_with_names": "Direct current potentials in hypnoanalgesia, H. Friedman, Robert O. Becker and C. H. Bachman",
+        "year": 1962
+      }
+    ]
+  }
+}

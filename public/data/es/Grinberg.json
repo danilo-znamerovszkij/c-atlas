@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La Teoría del Campo Sinérgico/Neuronal de Grinberg",
     "summary": "Esta teoría psicofisiológica postula que el cerebro crea un «campo neuronal» interno hipercomplejo resultante de la activación y unificación de todos sus elementos neuronales. La conciencia está estrechamente conectada con este campo, el cual produce una distorsión en la estructura básica del espacio-tiempo; nuestras percepciones son la percepción de esta distorsión.",
-    "associated_thinkers": ["Jacobo Grinberg-Zylberbaum"],
-    "category": "Estados Anómalos y Alterados",
-    "subcategory": "Teoría de Campo",
+    "associated_thinkers": [
+      "Jacobo Grinberg-Zylberbaum"
+    ],
+    "category": "Anómalo",
+    "subcategory": "Teoría de campos",
     "core_identity_tagline": "La Conciencia como una distorsión en la estructura básica del espacio-tiempo",
     "classification_tags": [
       "psychophysiological",
@@ -54,33 +56,36 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Incierto",
+      "stance": "Uncertain",
       "rationale": "La teoría requiere una estructura «tan compleja como el cerebro» para activar el campo y depende de interacciones energéticas no locales que no están garantizadas de ser replicables en sistemas artificiales."
     },
     "survival_beyond_death": {
-      "stance": "Posible",
+      "stance": "Possible",
       "rationale": "Se afirma que la conciencia y la experiencia existen en una dimensión distinta de la actividad cerebral fisiológica localizada. La inclusión de efectos cuánticos e interacciones no locales sugiere un potencial de persistencia fuera del cuerpo físico."
     },
     "meaning_and_purpose": {
-      "stance": "Cósmico/Filosófico",
+      "stance": "Cosmic/Ultimate",
       "rationale": "La teoría conecta la conciencia con la estructura fundamental de la realidad, considerando que el cerebro convierte una matriz energética primaria en experiencia, lo cual sugiere un profundo significado cósmico e integración con la existencia misma."
     },
     "virtual_immortality": {
-      "stance": "Improbable",
+      "stance": "Unlikely",
       "rationale": "La inmortalidad virtual requeriría la duplicación tecnológica de la transformación energética precisa y de la interacción del campo neuronal con la organización sinérgica del espacio, lo cual es altamente improbable debido a los supuestos físicos no locales y no convencionales de la teoría."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Teoría de la Información Electromagnética Consciente (CEMI)",
+        "name": "Conscious Electromagnetic Information (CEMI) Theory",
         "relationship": "Solapamiento"
       },
       {
-        "name": "Teorías Cuánticas de la Conciencia",
+        "name": "Quantum Theories of Consciousness",
         "relationship": "Compatible"
       },
-      { "name": "Idealismos", "relationship": "Compatible" }
+      {
+        "name": "Idealism",
+        "relationship": "Compatible"
+      }
     ],
     "sources_and_references": [
       {

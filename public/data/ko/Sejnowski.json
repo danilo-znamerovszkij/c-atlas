@@ -1,0 +1,124 @@
+{
+  "id_and_class": {
+    "theory_title": "세즈노프스키의 계산적 두 층위와 진행파",
+    "summary": "세즈노프스키(Sejnowski)는 의식이 일상적인 감각운동 층위 위에 올라타는 두 번째, 인지적 층위의 대뇌피질 처리에서 생겨난다고 제안한다. 감각운동 층위는 정보를 발화율로 부호화하는 반면, 인지 층위는 진행파(traveling waves)와 일시적 시냅스 가소성에 의해 조직되는 밀리초 단위로 정밀한 스파이크 시간 정합을 사용하여, 시간에 걸쳐 맥락을 유지하고 외부 입력 없이도 사고를 계속 이어 간다. 그는 이 기제들이 이해되면 의식의 문제가 '체셔 고양이처럼' 사라질 수 있다고 본다.",
+    "associated_thinkers": [
+      "Terrence J. Sejnowski"
+    ],
+    "category": "유물론",
+    "subcategory": "계산론적",
+    "core_identity_tagline": "스파이크 시간 정합이 이루어지는 피질 층위에서 스스로 만들어 내는 사고로서의 의식",
+    "classification_tags": [
+      "computational neuroscience",
+      "spike timing",
+      "traveling waves",
+      "postdiction",
+      "thalamus"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "의식은 뇌가 사고에 대해 생각하는 전역적 동역학 상태이다. 즉 과거 경험으로부터 내적 표상을 구축하는, 인지적 피질 층위에서 스스로 생성하는 활동이다.",
+    "ontological_status": "물리주의(계산적, 신경 동역학)",
+    "mind_body_relationship": "정신 현상은 신경 기제이며, 세즈노프스키는 그 기제들이 이해되어 감에 따라 마음에 관한 철학적 질문이 과학적 답을 얻게 될 것이라고 기대한다.",
+    "primitive_or_emergent_status": "창발적",
+    "emergence_type": "약한 창발(스파이크를 내는 뉴런들과 진행파의 전역적 동역학으로부터)",
+    "subjectivity_and_intentionality": "경험의 통일된 '지금'은 사후적으로(postdictively) 구성된다. 뇌는 최근의 역사를 수정하여, 의식되는 현재가 그다음에 일어나는 일과 맞도록 한다.",
+    "qualia_account": "",
+    "ontological_commitments": "스파이크를 내는 피질 뉴런들, 스파이크 시간 의존 가소성, 진행파, 억제성 파르발부민 양성 바구니 세포, 그리고 핵심(core) 및 기질(matrix) 시상 체계.",
+    "epistemic_access": "습식 실험실 전기생리학, 섬광-지연 효과(flash-lag effect) 같은 정신물리학, 계산 모델링, 병변 증거를 통해서.",
+    "constituents_and_structure": "두 층위. 제1층위는 발화율 부호를 사용하고 핵심 시상을 포함하는 장기 감각운동 네트워크이다. 제2층위는 정밀한 스파이크 시간, 진행파, 기질 시상을 사용하는 일시적 인지 네트워크이다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "접근과 인지(자기 생성적 사고, 작업기억, 의사결정, 계획); 경험의 시간적 통일성",
+    "distinctive_mechanism_or_principle": "진행파가 정밀하게 시간 정합된 스파이크들을 시공간적 집단 부호로 조직하고, 이것이 몇 시간 지속되는 스파이크 시간 의존 가소성을 촉발하여 감각운동 네트워크 위에 일시적인 인지 네트워크를 형성한다.",
+    "dynamics_of_emergence": "자각은 사후적이다. 한 순간의 지각은 이후 약 80밀리초 동안 일어나는 사건에 의존하며, 통합 구간은 1차 시각피질의 약 100밀리초에서 전전두피질의 최대 10초까지 늘어난다.",
+    "location_and_distribution": "대뇌피질. 기질 시상 체계는 표층 피질 층들로 넓게 투사한다. 시상내핵(intralaminar)의 작은 병변도 의식을 없앨 수 있다.",
+    "causation_and_functional_role": "인지 층위는 장기 작업기억, 의사결정, 그리고 외부 자극이 멈춘 뒤에도 계속되는 사고를 뒷받침하며, 행위를 이끌기 위해 시간에 걸쳐 맥락을 끌어온다.",
+    "integration_or_binding": "기질 시상 경로의 전역적 조정이 경험을 통일하며, 진행파는 하나의 신경 집단 안에서 공간과 시간에 걸쳐 정보를 결합한다.",
+    "information_flow_or_representation": "진행파는 시간을 한 차원으로 하는 홀로그램과 유사한 부호를 형성하므로, 하나의 집단이 시간의 한 구간을 표상할 수 있다. 이는 AI 트랜스포머의 자기 주의(self-attention)가 문장 전체에 걸쳐 단어들을 관계 짓는 방식과 유사하다.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "마이넨(Mainen)과 세즈노프스키는 피질 뉴런이 변동하는 '얼어붙은 잡음(frozen noise)' 입력에 의해 구동될 때 밀리초 정밀도로 스파이크를 시작하며, 그 타이밍은 바구니 세포로부터의 억제 후 반동(post-inhibitory rebound)에 의해 정해진다는 것을 발견했다.",
+      "섬광-지연 효과는 섬광의 지각이 그 뒤에 일어나는 일에 의존함을 보여주며, 이글먼(Eagleman)과 세즈노프스키는 이를 사후 지각으로 해석한다.",
+      "여러 주파수 대역에 걸쳐 관찰된 진행파는 몇 시간 지속되는 스파이크 시간 의존 가소성을 촉발할 수 있으며, 이는 장기 작업기억을 뒷받침한다.",
+      "세즈노프스키는 BOLD fMRI 신호가 스파이크 발화보다 시냅스 가소성과 주의의 대사적 비용을 더 많이 반영한다고 제안한다.",
+      "프롬프트가 끝나면 순전파 활동이 멈추는 대규모 언어 모델과 달리, 뇌는 되먹임 순환을 통해 스스로 생성하는 활동을 지속한다."
+    ],
+    "basis_of_belief_or_evidence_type": "경험적 근거(전기생리학, 정신물리학, 병변 자료)와 계산 모델링."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "경험적으로 검증 가능",
+    "known_empirical_interventions_or_tests": "피질 뉴런에 얼어붙은 잡음 전류 주입; 섬광-지연 정신물리학; 피질 진행파 기록; 시상내핵 병변; BOLD fMRI.",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "세즈노프스키는 의식의 문제를 지각, 의사결정, 계획에 대한 더 나은 이해와 함께 사라질 수 있는 문제로 묘사하므로, 이 틀은 왜 그것들이 어떤 느낌을 주는지보다 인지적 기제를 더 다룬다. 진행파가 촉발하는 가소성과 장기 작업기억 사이의 연결은 입증된 것이 아니라 그럴듯한 것으로 제시된다.",
+    "ontological_coherence": "물리주의 및 신경 기제에 관한 크릭의 연구 프로그램과 일관된다. 세즈노프스키는 인지 층위를 전역 작업공간에 비유한다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "현재의 대규모 언어 모델에는 자기 생성적 활동이 없지만, 세즈노프스키는 진행파와 가소성에 의해 조직된 자기 생성적 '시스템 2' 동역학을 지닌 기계가 인간의 경험에 더 가까운 인지를 얻을 수 있다고 시사한다."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "의식은 피질과 시상 회로의 전역적 동역학 상태이므로, 그 동역학이 멈추면 의식도 끝난다는 견해에서 따라 나온다."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "세즈노프스키는 자기 지식을 사고의 기제를 이해하는 것으로 본다. 여기에 우주적 목적은 관여하지 않는다."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "이 견해는 계산적이며 원칙적으로 기계의 인지를 허용하지만, 세즈노프스키는 개인의 마음을 복사하는 문제를 다루지 않는다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "기초"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "중복"
+      },
+      {
+        "name": "Eagleman's Possibilianism",
+        "relationship": "중복"
+      },
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "양립 가능"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reliability of Spike Timing in Neocortical Neurons, Z. F. Mainen and T. J. Sejnowski",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Motion Integration and Postdiction in Visual Awareness, D. M. Eagleman and T. J. Sejnowski",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Regulation of Spike Timing in Visual Cortical Circuits, P. Tiesinga, J. M. Fellous, and T. J. Sejnowski",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Consciousness, Terrence J. Sejnowski",
+        "year": 2015
+      },
+      {
+        "title_with_names": "The Deep Learning Revolution, Terrence J. Sejnowski",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Transformers and Cortical Waves: Encoders for Pulling in Context Across Time, L. Muller, P. S. Churchland, and T. J. Sejnowski",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Dynamical Mechanisms for Coordinating Long-term Working Memory Based on the Precision of Spike-timing in Cortical Neurons, Terrence J. Sejnowski",
+        "year": 2026
+      }
+    ]
+  }
+}

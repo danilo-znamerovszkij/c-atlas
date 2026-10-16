@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "Epifenomenalismo (materialismo)",
+    "summary": "El epifenomenalismo sostiene que los procesos cerebrales producen la experiencia consciente, pero que la propia experiencia no causa nada, ni físico ni mental. La causación va en una sola dirección, de lo físico a lo fenoménico, lo que mantiene el mundo físico causalmente cerrado y trata como errónea nuestra sensación de que los pensamientos nos mueven.",
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Filosófico",
+    "core_identity_tagline": "Conciencia como espuma causalmente inerte sobre la ola",
+    "classification_tags": [
+      "epiphenomenalism",
+      "mental causation",
+      "causal closure",
+      "free will"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia es un subproducto real de la actividad cerebral biológica que carece de poder causal propio.",
+    "ontological_status": "Fisicalismo (no reductivo, epifenomenalista)",
+    "mind_body_relationship": "Causación unidireccional: los estados físicos causan los estados fenoménicos, nunca al revés. En la formulación explícita de Chalmers, las propiedades fenoménicas son ontológicamente distintas de las físicas y no tienen efecto sobre ellas, lo que convierte la visión en un dualismo débil que se sitúa bajo el materialismo porque afirma el cierre causal completo de lo físico.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Producido por la actividad cerebral, pero irreducible a ella, y sin causación descendente",
+    "subjectivity_and_intentionality": "La percatación es real, pero la sensación de que nuestros pensamientos e intenciones causan nuestras acciones es una ilusión.",
+    "qualia_account": "Los qualia existen y son causados por el cerebro, pero no pueden reducirse a estados físicos; son causalmente inactivos.",
+    "ontological_commitments": "Un mundo físico causalmente cerrado, cerebros biológicos y propiedades fenoménicas que son efectos pero nunca causas.",
+    "epistemic_access": "La introspección revela la experiencia, pero engaña acerca de su papel causal. El epifenomenalismo se enfrenta al problema de cómo podemos conocer o informar de estados que no causan nada, incluidas nuestras propias creencias sobre ellos.",
+    "constituents_and_structure": "Todo suceso consciente, incluida la percepción consciente, descansa en un procesamiento inconsciente que realiza todo el trabajo causal."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica; causación mental; libre albedrío.",
+    "distinctive_mechanism_or_principle": "El cierre causal de lo físico: todo suceso físico tiene una causa física suficiente, de modo que los estados conscientes pueden ser efectos de la actividad cerebral, pero no causas.",
+    "dynamics_of_emergence": "Los estados conscientes acompañan de forma continua a los procesos cerebrales, como la espuma sobre una ola del océano: siempre presente y aparentemente activa, pero nunca impulsando la ola.",
+    "location_and_distribution": "Cerebros biológicos.",
+    "causation_and_functional_role": "Ninguno. La conciencia no tiene ningún papel causal ni funcional, y no hay causación descendente desde la mente hacia el cerebro.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Los estados físicos causan los estados fenoménicos, pero los estados fenoménicos no causan nada.",
+      "En el experimento de Libet, el potencial de disponibilidad de un movimiento voluntario precede en varios cientos de milisegundos a la percatación de la intención de moverse, lo que sugiere que el cerebro inicia el acto.",
+      "Los datos del potencial de disponibilidad de Libet son reproducibles en numerosos diseños experimentales."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica (argumento del cierre causal), con neurociencia de apoyo sobre el momento de la acción voluntaria."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable",
+    "known_empirical_interventions_or_tests": "El paradigma del potencial de disponibilidad de Libet y sus replicaciones posteriores; el análisis de Schurger y colaboradores sobre las fluctuaciones neuronales espontáneas.",
+    "criticisms_and_tensions": "La interpretación de los datos de Libet ha sido cuestionada, sobre todo por Schurger y colaboradores, quienes sostienen que el potencial de disponibilidad podría reflejar ruido estocástico en la actividad neuronal y no una decisión inconsciente. Daniel Stoljar concede que la visión es contraintuitiva, ya que nuestros estados conscientes parecen ciertamente importar causalmente.",
+    "open_questions_and_limitations": "Una teoría de la conciencia debe incluir una teoría de la causación mental, y esta, a su vez, debe explicar el autoconocimiento. Si la experiencia no causa nada, no está claro cómo da forma a lo que decimos y creemos sobre ella.",
+    "ontological_coherence": "La visión se sitúa entre el dualismo y el materialismo: admite propiedades fenoménicas distintas de las físicas, pero mantiene lo físico causalmente cerrado. Llamar a la conciencia «enteramente física» mientras se la considera además irreducible es una tensión permanente de esta posición."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Como la conciencia es aquí exclusivamente un producto de cerebros biológicos, termina cuando el cerebro deja de producirla."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "La voluntad consciente no causa la acción, lo que no deja espacio para que la conciencia sea un agente cósmico o causal."
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "Fundamento"
+      },
+      {
+        "name": "Kind's Dualism 2.0",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Halligan and Oakley’s Species-Enhancing Epiphenomenalism",
+        "relationship": "Extensión"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Epiphenomenalism (Landscape of Consciousness entry), David Chalmers"
+      }
+    ]
+  }
+}

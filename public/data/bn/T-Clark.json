@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "টি. ক্লার্কের বিষয়বস্তু প্রকল্প তত্ত্ব",
     "summary": "এই তত্ত্ব প্রস্তাব করে যে সাক্ষাৎকারমূলক চেতনা একটি জ্ঞানীয় ব্যবস্থার যথেষ্ট সুগঠিত প্রক্রিয়াকরণ থেকে উদ্ভূত প্রতিরূপণমূলক বিষয়বস্তু। সচেতন অভিজ্ঞতা মৌলিকভাবে আত্মনিষ্ঠ এবং ভৌত মস্তিষ্কের সাথে মৌলিকভাবে যুক্ত, যা মস্তিষ্ক দ্বারা সাকারিত একটি বস্তুগত পরিঘটনা হিসেবে কাজ করে।",
-    "associated_thinkers": ["Thomas Clark"],
+    "associated_thinkers": [
+      "Thomas Clark"
+    ],
     "category": "বস্তুবাদ",
-    "subcategory": "প্রতিরূপণমূলক",
+    "subcategory": "প্রথম-ক্রম",
     "core_identity_tagline": "সাক্ষাৎকারমূলক চেতনা গঠিত প্রতিরূপণমূলক বিষয়বস্তু হিসেবে",
     "classification_tags": [
       "representational",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "সম্ভবত",
+      "stance": "Likely",
       "rationale": "যেহেতু চেতনাকে যথেষ্ট সুগঠিত প্রক্রিয়াকরণের ফলে উদ্ভূত একটি কঠোরভাবে ভৌত পরিঘটনা বলে প্রস্তাব করা হয়েছে, উন্নত কৃত্রিম ব্যবস্থায় এই গঠনের প্রতিলিপি চেতনাকে সক্ষম করা উচিত।"
     },
     "survival_beyond_death": {
-      "stance": "না (ব্যক্তিগত স্বের জন্য) / হ্যাঁ (সাধারণ আত্মনিষ্ঠতার জন্য)",
+      "stance": "No",
       "rationale": "ব্যক্তিগত চেতনা একটি ভৌত সাকারীকরণ এবং মস্তিষ্কের মৃত্যুতে বিলুপ্ত হয়ে যায়। তবে, 'সাধারণ আত্মনিষ্ঠ ধারাবাহিকতা' প্রস্তাব করে যে চেতনা অন্য প্রেক্ষাপটে অবিরত থাকে, তবে মৃত ব্যক্তি হিসেবে নয়।"
     },
     "meaning_and_purpose": {
-      "stance": "অস্তিত্বমূলক/অন্তর্নিহিত",
+      "stance": "Humanistic only",
       "rationale": "স্ব-প্রতিফলনশীল ব্যবস্থার সসীমতা দ্বারা চালিত, চেতনা অন্তর্নিহিতভাবে একটি অভ্যন্তরীণ জগৎ সৃষ্টি করে, আত্মনিষ্ঠ ধারাবাহিকতা বজায় রাখার সাথে যুক্ত একটি উদ্দেশ্য প্রদান করে।"
     },
     "virtual_immortality": {
-      "stance": "শর্তসাপেক্ষ",
+      "stance": "Conditional",
       "rationale": "একটি বস্তুবাদী তত্ত্ব হিসেবে, যদি সংজ্ঞায়ক 'যথেষ্ট সুগঠিত প্রতিরূপণমূলক প্রক্রিয়াকরণ' একটি অ-জৈবিক মাধ্যমে সুনির্দিষ্টভাবে প্রতিলিপি করা যায়, তাহলে ব্যক্তিগত চেতনা স্থানান্তর সম্ভব।"
     }
   },
@@ -74,15 +76,15 @@
         "relationship": "সঙ্গতিপূর্ণ"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "সঙ্গতিপূর্ণ"
       },
       {
-        "name": "Predictive Processing",
+        "name": "Predictive Theories (Top-Down)",
         "relationship": "সঙ্গতিপূর্ণ"
       },
       {
-        "name": "Metzinger’s No-Self Representational Theory of Subjectivity",
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
         "relationship": "প্রভাব"
       }
     ],

@@ -1,0 +1,119 @@
+{
+  "id_and_class": {
+    "theory_title": "La sensibilité comparée selon Birch : profils de conscience à travers des esprits divers",
+    "summary": "Birch propose une méthode pour étudier la conscience chez les animaux et les IA sans avoir d'abord tranché ce qu'est la conscience. Il fonde l'enquête sur une seule hypothèse minimale « légère en théorie » (la perception consciente rend possible un ensemble de capacités flexibles que la perception inconsciente ne permet pas), remplace l'opposition « plus ou moins conscient » par des profils selon cinq dimensions, et prescrit une précaution proportionnée pour tout « candidat à la sensibilité ».",
+    "associated_thinkers": [
+      "Jonathan Birch"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Phylogénétique",
+    "core_identity_tagline": "La sensibilité cartographiée à travers les espèces, dans l'incertitude",
+    "classification_tags": [
+      "animal sentience",
+      "methodology",
+      "precaution",
+      "comparative cognition",
+      "ai"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Birch définit la sensibilité au sens large comme la capacité à la conscience phénoménale, et au sens strict comme la capacité à l'expérience valencée, c'est-à-dire aux états qui sont agréables ou désagréables pour leur sujet. Il n'identifie la conscience à aucune propriété physique ou fonctionnelle particulière.",
+    "ontological_status": "Neutre sur le plan métaphysique (cadre méthodologique)",
+    "mind_body_relationship": "Laissé ouvert à dessein. Birch tient le matérialisme, le dualisme, le panpsychisme et leurs variantes pour relevant d'une zone de désaccord raisonnable, et conçoit son cadre pour fonctionner à travers toutes ces positions.",
+    "primitive_or_emergent_status": "Incertain",
+    "emergence_type": "Non précisée (Birch refuse de dire comment ou pourquoi un processus quelconque engendre l'expérience)",
+    "subjectivity_and_intentionality": "La subjectivité est prise pour acquise dans la définition de la sensibilité, puisqu'il y a quelque chose que c'est que d'être un sujet. Birch se concentre sur la valence parce que c'est elle, et non la sophistication cognitive, qui fonde le statut moral.",
+    "qualia_account": "Birch n'offre aucun mécanisme pour les qualia et considère qu'en fournir un dépasse les moyens actuels. Il caractérise les formes que prend l'expérience plutôt que d'expliquer pourquoi elle a un caractère ressenti.",
+    "ontological_commitments": "Minimales : des sujets dotés d'expérience phénoménale, des états valencés, et les capacités cognitives que rend possibles la perception consciente.",
+    "epistemic_access": "Inférée du comportement et de la cognition à l'aide de son hypothèse légère en théorie, par des tests tels que le conditionnement de trace, l'apprentissage inversé, l'intégration intermodale et l'évitement flexible. Pour l'IA, où le comportement peut être manipulé, Birch propose de chercher des marqueurs computationnels profonds.",
+    "constituents_and_structure": "La conscience phénoménale varie selon au moins cinq dimensions indépendantes : richesse perceptive, richesse évaluative, unité à un moment donné, intégration temporelle dans la durée et conscience de soi."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménal (surtout l'expérience valencée), unité, temporalité, conscience de soi ; répartition entre espèces et IA",
+    "distinctive_mechanism_or_principle": "Une « hypothèse de facilitation » minimale selon laquelle la perception phénoménalement consciente d'un stimulus renforce, par rapport à la perception inconsciente, un ensemble de capacités dirigées vers ce stimulus. Le lien est probatoire, ce qui permet aux chercheurs d'inférer la conscience à partir du comportement sans choisir de théorie.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Répartie à travers des animaux divers, selon des profils différents. Un céphalopode peut dépasser un corvidé en richesse perceptive tout en lui étant inférieur en temporalité ; aucun des deux ne se classe donc simplement comme « plus conscient ».",
+    "causation_and_functional_role": "Birch tient la conscience phénoménale pour fonctionnellement conséquente : la perception consciente permet un apprentissage et une intégration flexibles que le traitement inconscient ne permet pas.",
+    "integration_or_binding": "L'unité à un moment donné et l'intégration dans la durée sont deux des cinq dimensions, chacune devant être mesurée séparément pour chaque espèce.",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "Birch compare des lignées diverses pour voir quelles combinaisons de dimensions chacune a évoluées, sans proposer de récit unique de l'apparition de la conscience.",
+    "core_claims_and_evidence": [
+      "Demander si un animal est plus conscient qu'un autre est en général mal posé, puisque la conscience varie selon des dimensions indépendantes.",
+      "Les approches lourdement théoriques héritent des défauts de la théorie choisie, et les approches neutres en théorie ne peuvent dire de quoi les données sont la preuve ; une voie médiane légère en théorie est donc nécessaire.",
+      "La revue de plus de 300 études menée par l'équipe de Birch en 2021 a conduit à inclure les mollusques céphalopodes et les crustacés décapodes dans le champ du UK Animal Welfare (Sentience) Act 2022.",
+      "Les grands modèles de langage entraînés sur des descriptions humaines de l'expérience peuvent reproduire des marqueurs comportementaux de la sensibilité ; ces marqueurs perdent donc leur force probatoire pour l'IA (le problème de la manipulation)."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique et méthodologique, appliquée à la cognition comparée empirique"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Testable empiriquement",
+    "known_empirical_interventions_or_tests": "Conditionnement de trace, apprentissage inversé, intégration intermodale et tâches d'évitement flexible chez l'animal ; revue systématique des données sur la sensibilité des céphalopodes et des décapodes ; marqueurs computationnels profonds proposés pour l'IA.",
+    "criticisms_and_tensions": "L'hypothèse de facilitation lie la phénoménalité à l'accès cognitif, ce que rejettent les théoriciens qui suivent la distinction d'accès et de phénoménalité de Block ; Birch répond que ce lien est probatoire, et non constitutif. Les cinq dimensions sont stipulées plutôt que dérivées, et leur indépendance est affirmée plutôt que démontrée.",
+    "open_questions_and_limitations": "Birch qualifie les profils de conscience publiés de conjectures, et non de mesures ; de meilleures mesures restent à construire. Les marqueurs computationnels profonds pour l'IA peuvent présupposer des théories particulières de la conscience, que le cadre évite pour les animaux.",
+    "ontological_coherence": "Cohérente parce qu'elle évite tout engagement métaphysique, bien que cette neutralité n'apporte rien au débat sur ce qu'est la conscience. Son classement sous le matérialisme est une catégorisation que Birch lui-même ne reconnaît pas."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Birch considère que des systèmes non biologiques sont des candidats possibles à la sensibilité, justifiant une précaution, tout en avertissant que les preuves comportementales issues des modèles de langage ne sont pas fiables."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "La préoccupation de Birch est éthique et pratique : protéger tout être susceptible de souffrir, sans prétention sur une finalité cosmique."
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Ginsburg and Jablonka's Associative Learning During Evolution",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Bayne’s Unified, Multidimensional Consciousness: Structure Before Mechanism",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Block's Biological Reductionism",
+        "relationship": "Contraste"
+      },
+      {
+        "name": "Andrews's Consciousness Without Complex Brains",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI, Jonathan Birch",
+        "year": 2024
+      },
+      {
+        "title_with_names": "The Search for Invertebrate Consciousness, Jonathan Birch",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Dimensions of Animal Consciousness, Jonathan Birch, A. K. Schnell and N. S. Clayton",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Review of the Evidence of Sentience in Cephalopod Molluscs and Decapod Crustaceans, Jonathan Birch, C. Burn, A. Schnell, H. Browning and A. Crump",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Learning-Consciousness Connection, Jonathan Birch, S. Ginsburg and E. Jablonka",
+        "year": 2021
+      },
+      {
+        "title_with_names": "On a Confusion About a Function of Consciousness, Ned Block",
+        "year": 1995
+      }
+    ]
+  }
+}

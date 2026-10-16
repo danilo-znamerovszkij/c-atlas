@@ -1,0 +1,127 @@
+{
+  "id_and_class": {
+    "theory_title": "El tiempo de la mente de Libet: potencial de disposición, iniciación inconsciente, conciencia retrasada, anticipación de la conciencia",
+    "summary": "Benjamin Libet comparó la temporización de la actividad cerebral con la temporización de la experiencia y concluyó que la actividad neuronal debe acumularse durante hasta medio segundo aproximadamente antes de que una sensación se haga consciente, y que el cerebro remite la temporización sentida al estímulo. Aplicado a la acción, sus experimentos sobre el potencial de disposición sugirieron que los actos voluntarios comienzan de forma inconsciente, dejando a la voluntad consciente el poder de vetar. Sus resultados se convirtieron en un ejemplo estándar a favor del fisicalismo, si bien el propio Libet sostenía que la experiencia fenoménica es no física.",
+    "associated_thinkers": [
+      "Benjamin Libet"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "La conciencia como experiencia retrasada y remitida hacia atrás",
+    "classification_tags": [
+      "readiness potential",
+      "free will",
+      "neuronal adequacy",
+      "timing",
+      "veto"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La experiencia fenoménica es un estado real pero de formación lenta: requiere una duración mínima de activación neuronal adecuada, la «adecuación neuronal», y su aparente inmediatez se construye a posteriori.",
+    "ontological_status": "Dualismo (interaccionista emergentista)",
+    "mind_body_relationship": "Libet sostenía que la experiencia subjetiva es no física y que mente y cerebro son variables independientes en interacción causal, una visión que desarrolló como Campo Mental Consciente. Sus datos de temporización se leen ampliamente como apoyo al fisicalismo, una lectura que él rechazó.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia fuerte: Libet consideraba que la experiencia es generada por la actividad cerebral, pero no física y capaz de actuar de nuevo sobre el cerebro.",
+    "subjectivity_and_intentionality": "El objeto es el «raw feel» en el sentido de Feigl, distinto de la detección o de la conducta. La intención consciente de moverse aparece después de que el cerebro haya empezado a preparar el acto, pero antes del movimiento.",
+    "qualia_account": "Libet hace de la duración la variable que convierte la detección inconsciente en sensación sentida: por debajo de la adecuación neuronal, los estímulos pueden detectarse sin sentirse.",
+    "ontological_commitments": "Actividad neuronal cortical y talámica, el potencial de disposición, un campo consciente no físico pero generado por el cerebro, y un veto consciente genuino.",
+    "epistemic_access": "Estimulación y registro corticales y talámicos directos en pacientes neuroquirúrgicos despiertos, EEG de cuero cabelludo e informes de los sujetos sobre la temporización mediante un punto de un reloj giratorio.",
+    "constituents_and_structure": "Tres variables distintas: la temporización del procesamiento neuronal, la temporización de la conciencia informable y la temporización experimentada subjetivamente de un suceso."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Sensación fenoménica, temporización subjetiva, voluntad consciente y agencia.",
+    "distinctive_mechanism_or_principle": "El factor de «tiempo de activación»: la duración de la activación neuronal adecuada, que se compensa con la intensidad, decide si el procesamiento se vuelve consciente, y la experiencia se retrotrae entonces a la respuesta cortical temprana.",
+    "dynamics_of_emergence": "La experiencia surge solo tras una fase neuronal inconsciente de hasta unos 500 ms; Libet sugirió que los sucesos mentales en general comienzan de forma inconsciente.",
+    "location_and_distribution": "Corteza somatosensorial y tálamo para el trabajo sensorial; actividad cortical relacionada con el movimiento para el potencial de disposición.",
+    "causation_and_functional_role": "La voluntad consciente no inicia los actos espontáneos, pero puede vetarlos en los unos 200 ms previos al movimiento («libre no querer»). Libet trató este veto como un poder consciente real y no determinado.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Una vez alcanzada la adecuación neuronal, el tiempo sentido de una experiencia se remite al potencial evocado primario, de modo que el orden temporal subjetivo es un contenido construido.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "La estimulación cortical liminal necesitaba trenes de pulsos de hasta unos 500 ms para producir una sensación informada.",
+      "Los estímulos cutáneos se anticipaban respecto de los estímulos corticales, que carecen de respuesta evocada primaria, tal como predice la remisión subjetiva.",
+      "Con la estimulación talámica, los sujetos detectaron estímulos por encima del azar en duraciones que declaraban no sentir.",
+      "El potencial de disposición comenzaba unos 550 ms antes de los movimientos no planificados, mientras que la conciencia del impulso aparecía unos 200 ms antes."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurofisiología empírica en pacientes despiertos, unida a un argumento filosófico a favor de una experiencia no física y causalmente eficaz."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente contrastable",
+    "known_empirical_interventions_or_tests": "Estimulación directa de la corteza somatosensorial, del lemnisco medial y del tálamo ventrobasal; detección de elección forzada bajo estimulación talámica; el paradigma del punto del reloj para el potencial de disposición.",
+    "criticisms_and_tensions": "Schurger, Sitt y Dehaene modelan el potencial de disposición como un artefacto de promediado de un acumulador estocástico, de modo que su «inicio» no marca ningún suceso real y la comparación temporal con la conciencia se viene abajo. Dennett rechaza la anticipación por presuponer un teatro interior, y Gomes y Pockett leen los datos sensoriales como compatibles con latencias mucho más cortas. Los críticos señalan además que el veto puede tener sus propias causas inconscientes y que los informes de la conciencia basados en el reloj no son fiables.",
+    "open_questions_and_limitations": "Los estudios de estimulación se apoyan en muestras clínicas pequeñas y difíciles de replicar, la cifra de medio segundo no está establecida, y los movimientos simples y sin propósito que se estudiaron difieren de las decisiones reales. Sigue abierta la cuestión de si existe un potencial de disposición discreto en ensayos individuales.",
+    "ontological_coherence": "Una tensión atraviesa la teoría: los datos que se alistan en favor del fisicalismo proceden de un teórico que era un no fisicalista interaccionista. Los resultados sobre la temporización se refieren a cuándo ocurre la experiencia, no a lo que es."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Libet vincula la experiencia a un campo generado por la actividad cerebral y no dice si los sistemas no biológicos podrían generar uno."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Aunque Libet sostenía que la experiencia es no física, la consideraba generada por la actividad cerebral, de modo que nada en la teoría sugiere que sobreviva al cerebro."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Libet defendió el libre albedrío y la responsabilidad moral mediante el veto consciente, sin afirmar ningún propósito cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "La teoría no aborda si un cerebro simulado generaría un campo consciente."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Libet's Conscious Mental Field",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Halligan and Oakley’s Species-Enhancing Epiphenomenalism",
+        "relationship": "Contraste"
+      },
+      {
+        "name": "Sapolsky's Hard Incompatibilism",
+        "relationship": "Contraste"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mind Time: The Temporal Factor in Consciousness, Benjamin Libet",
+        "year": 2004
+      },
+      {
+        "title_with_names": "Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential), B. Libet, C. A. Gleason, E. W. Wright and D. K. Pearl",
+        "year": 1983
+      },
+      {
+        "title_with_names": "Subjective referral of the timing for a conscious sensory experience, B. Libet, E. W. Wright, B. Feinstein and D. K. Pearl",
+        "year": 1979
+      },
+      {
+        "title_with_names": "Control of the transition from sensory detection to sensory awareness in man by the duration of a thalamic stimulus, B. Libet et al.",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Unconscious cerebral initiative and the role of conscious will in voluntary action, Benjamin Libet",
+        "year": 1985
+      },
+      {
+        "title_with_names": "A testable field theory of mind-brain interaction, Benjamin Libet",
+        "year": 1994
+      },
+      {
+        "title_with_names": "An accumulator model for spontaneous neural activity prior to self-initiated movement, A. Schurger, J. D. Sitt and S. Dehaene",
+        "year": 2012
+      },
+      {
+        "title_with_names": "What is the readiness potential?, A. Schurger, P. B. Hu, J. Pak and A. L. Roskies",
+        "year": 2021
+      }
+    ]
+  }
+}

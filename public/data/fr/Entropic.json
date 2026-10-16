@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "Théories entropiques",
+    "summary": "Les théories entropiques expliquent la conscience par son rapport au second principe de la thermodynamique. Peter Lugten soutient que la baisse locale d'entropie que réalise la conscience doit être payée par l'effacement définitif des calculs qui l'ont produite, ce qui explique pourquoi l'expérience semble non physique ; Carlos van Hamme relie la conscience attentionnelle à une cohérence franchissant un seuil dans les microtubules neuronaux ; et Yifeng Chen et J. W. Sanders modélisent la conscience comme une réduction d'entropie, par la sélection d'un scénario conscient parmi de nombreux scénarios possibles.",
+    "associated_thinkers": [
+      "Peter Lugten",
+      "Carlos van Hamme",
+      "Yifeng Chen",
+      "J. W. Sanders"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Homéostatique",
+    "core_identity_tagline": "La conscience comme ordre contraint par la thermodynamique",
+    "classification_tags": [
+      "entropy",
+      "thermodynamics",
+      "information theory",
+      "microtubules",
+      "emergence"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est un processus physique défini par son rapport à l'entropie. Pour Lugten, c'est une émergence computationnelle évoluée qui produit un travail et dissipe de la chaleur ; pour van Hamme, c'est un régime de seuil d'un champ entropique-cohérence universel ; pour Chen et Sanders, c'est la réduction de l'incertitude par le choix d'un scénario interne.",
+    "ontological_status": "Physicalisme (thermodynamique)",
+    "mind_body_relationship": "Le cerveau engendre toujours la conscience, mais les contraintes thermodynamiques en façonnent la manière. Lugten soutient que le fossé explicatif est réel et permanent, car le second principe impose l'effacement des étapes qui ont produit l'expérience, ce qui donne à la conscience son apparence trompeuse de non-physicalité.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Varie selon les auteurs : Lugten défend une émergence imprévisible dont les étapes sont effacées ; van Hamme décrit une transition de seuil dans un champ de cohérence",
+    "subjectivity_and_intentionality": "Lugten soutient que, puisque l'émergence consciente est imprévisible, le fait d'être conscient montre que nous ne sommes pas prédéterminés et que le libre arbitre est authentique. Van Hamme repense l'agentivité comme une sélection de branches au sein du champ entropique-cohérence, déterministe mais adaptative et façonnée par l'expérience antérieure.",
+    "qualia_account": "Lugten traite les qualia comme les produits d'histoires computationnelles cachées qui doivent rester cachées. Van Hamme identifie les qualia aux configurations de cohérence du champ Φ qui se stabilisent au-dessus du seuil microtubulaire ; la qualité ressentie est donc la structure de cohérence elle-même.",
+    "ontological_commitments": "Entropie et information thermodynamiques, un principe d'effacement de type Landauer (Lugten, en s'appuyant sur l'interprétation transactionnelle relativiste de Kastner), un champ de cohérence Φ au sein d'un champ entropique S, et les microtubules comme résonateurs (van Hamme), ainsi que des cartes de caractéristiques avec des canaux de motifs (Chen et Sanders).",
+    "epistemic_access": "Par l'argumentation thermodynamique et informationnelle (Lugten), par la modélisation physique liée aux données d'EEG, de vibration des microtubules et d'anesthésie (van Hamme), et par la simulation informatique (Chen et Sanders).",
+    "constituents_and_structure": "Lugten : un calcul imprévisible et irréversible dans le temps, couplé à l'effacement simultané de l'information. Van Hamme : des épisodes de cohérence dans les microtubules qui forment des « cadres de projection ». Chen et Sanders : des scénarios, c'est-à-dire des vecteurs de caractéristiques à travers des canaux, à partir desquels un scénario conscient est choisi."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménal (qualia), agentivité et libre arbitre, sommeil et anesthésie, fossé explicatif",
+    "distinctive_mechanism_or_principle": "Équilibre entropique. Le principe de type Landauer de Lugten exige que toute baisse locale d'entropie due à l'émergence consciente soit compensée par l'effacement définitif des étapes du calcul ; le mécanisme de van Hamme est une cohérence franchissant un seuil microtubulaire.",
+    "dynamics_of_emergence": "La conscience est un travail en cours. Van Hamme considère le sommeil et l'anesthésie comme des oscillations en deçà du seuil microtubulaire, la conscience attentionnelle revenant lorsque la cohérence le franchit à nouveau.",
+    "location_and_distribution": "Dans le cerveau ; van Hamme place les résonateurs clés dans les microtubules neuronaux, tandis que Chen et Sanders travaillent avec des cartes topographiques corticales de caractéristiques.",
+    "causation_and_functional_role": "La conscience élève le niveau d'organisation d'un organisme au prix d'un coût thermodynamique. Chen et Sanders ajoutent que résoudre des problèmes par simulation interne coûte moins cher que de les mettre en acte, et procure un avantage adaptatif.",
+    "integration_or_binding": "Chen et Sanders traitent une carte de caractéristiques comme l'entrée d'un espace de scénarios subconscients possibles, à partir duquel un unique scénario conscient est sélectionné.",
+    "information_flow_or_representation": "Lugten soutient que l'information, comme l'énergie, ne peut ni être créée ni être détruite, pourtant l'information du système croît comme l'entropie ; il résout cette difficulté en faisant effacer l'enregistrement du calcul au fur et à mesure de son émergence.",
+    "evolutionary_account": "Lugten soutient que seuls les organismes en évolution peuvent échanger une baisse locale d'entropie contre un travail ; la conscience est donc un processus évolutif limité au vivant.",
+    "core_claims_and_evidence": [
+      "Le fossé explicatif ne peut pas être comblé, car les calculs qui produisent la conscience sont effacés pour rembourser une dette entropique (Lugten).",
+      "La conscience attentionnelle n'apparaît que lorsque la cohérence dans les microtubules dépasse un seuil, le sommeil et l'anesthésie correspondant à des descentes en deçà de ce seuil (van Hamme).",
+      "Van Hamme invoque à l'appui les discontinuités de l'EEG, les modes vibratoires térahertz des microtubules et la liaison sélective des anesthésiques.",
+      "La conscience comprise comme réduction d'entropie peut être simulée par un modèle mathématique simple de sélection de scénarios (Chen et Sanders)."
+    ],
+    "basis_of_belief_or_evidence_type": "Théorique (thermodynamique et théorie de l'information), accompagnée de modélisation informatique et de quelques données neurophysiologiques citées"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Testable sur le plan conceptuel",
+    "known_empirical_interventions_or_tests": "Discontinuités de l'EEG, modes vibratoires térahertz des microtubules et liaison sélective des anesthésiques (van Hamme) ; simulation informatique du modèle CER (Chen et Sanders).",
+    "criticisms_and_tensions": "Les auteurs divergent sur des points essentiels : Lugten affirme que l'émergence consciente prouve que nous ne sommes pas prédéterminés, tandis que van Hamme qualifie l'agentivité de déterministe mais adaptative. L'affirmation de Lugten selon laquelle l'information ne peut ni être créée ni être détruite s'accorde mal avec l'« effacement définitif » des étapes de calcul qu'il exige.",
+    "open_questions_and_limitations": "Le principe d'effacement de Lugten est proposé, non dérivé, et il rend les étapes génératrices inconnaissables par construction. La Dynamique d'émergence universelle de van Hamme et son champ de cohérence Φ attendent encore une confirmation indépendante.",
+    "ontological_coherence": "Les trois versions demeurent dans le cadre du physicalisme et font appel à la thermodynamique standard. Elles s'appuient toutefois sur des mécanismes supplémentaires différents (mécanique quantique transactionnelle, champ de cohérence universel, simulation par cartes de caractéristiques) qui ne se combinent pas en une seule théorie."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "Lugten soutient que seuls les organismes vivants peuvent rembourser la dette entropique, ce qui exclut les machines conscientes ; van Hamme relie la conscience attentionnelle aux microtubules biologiques."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conscience étant ici un travail thermodynamique accompli par un cerveau vivant, elle prend fin lorsque ce travail cesse."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Lugten défend un libre arbitre authentique dans un cadre naturaliste ; van Hamme traite la conscience, le choix et la valeur comme des expressions naturelles d'un substrat physique, et non comme des signes d'une finalité cosmique."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Si la conscience est réservée aux organismes en évolution qui acquittent une dette entropique, une copie numérique ne serait pas consciente."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Carhart-Harris's Entropic Brain Hypothesis",
+        "relationship": "Recouvrement"
+      },
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "Recouvrement"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Influence"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Entropic Theories, Peter Lugten, Carlos van Hamme, Yifeng Chen and J. W. Sanders",
+        "year": 2025
+      }
+    ]
+  }
+}

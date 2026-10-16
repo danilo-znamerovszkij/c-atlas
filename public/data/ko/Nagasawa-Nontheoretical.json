@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "나가사와의 비이론적 물리주의 이론",
     "summary": "이 이론은 세계가 전적으로 물리적이면서도, 물리과학의 완전한 이론으로도 포착되거나 설명될 수 없는 의식에 관한 특정한 물리적 사실을 포함한다고 주장한다. 이는 물리적 존재론과, 현상적 의식을 파악하는 데 실패한 환원 이론들 사이의 간극을 조정하려는 물리주의의 대안적 정식화로 기능한다.",
-    "associated_thinkers": ["Yujin Nagasawa"],
-    "category": "비환원적 물리주의",
+    "associated_thinkers": [
+      "Yujin Nagasawa"
+    ],
+    "category": "비환원",
     "subcategory": "대안적 물리주의 정식화",
     "core_identity_tagline": "물리 이론을 넘어선 물리주의",
     "classification_tags": [
@@ -50,30 +52,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "세계가 전적으로 물리적이고 의식이 존재자 기반의 물리적 사실에 뿌리를 두고 있으므로, 복잡한 인공 체계도 원리상 필요한 비이론적 물리적 사실을 예화할 수 있다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "물리주의의 한 형태로서 의식은 물리적 세계와 결부되어 있으며, 물리적 기질이 해체된 이후의 존속을 허용한다는 어떤 시사도 없다."
     },
     "meaning_and_purpose": {
-      "stance": "인간주의적 의미에 한함",
+      "stance": "Humanistic only",
       "rationale": "존재론은 엄격히 물리적이며, 이는 과학 이론으로 접근할 수 없는 물리적 사실을 인정하더라도 궁극적인 우주적 의미나 목적을 본유적으로 함축하지는 않는다."
     },
     "virtual_immortality": {
-      "stance": "조건부(기술적으로 제한됨)",
+      "stance": "Conditional",
       "rationale": "비이론적 의식 사실을 구현하는 특정한 물리적 존재자(또는 그 구성)를 완벽하게 복제하거나 비생물학적 매체로 업로드할 수 있다면, 매우 어렵기는 하나 가상적 불멸은 기술적으로 가능하다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Physicalism",
+        "name": "Materialism",
         "relationship": "확장"
       },
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "비판/대안"
       },
       {

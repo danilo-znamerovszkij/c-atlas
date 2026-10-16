@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ハンフリーの心的表象と脳のアトラクター",
     "summary": "この唯物論的理論は、現象的意識を進化上の後発的な発達とみなし、特定の複雑な種にのみ存在するとする。感覚は二段階の過程で生成される。すなわち感覚情報の収集に続いて、現象的性質（クオリア）をもつ心的表象を生成する解釈的な「意識的読み取り」が行われ、それはしばしば脳における複雑なアトラクター状態によって安定化される。",
-    "associated_thinkers": ["Nicholas Humphrey"],
+    "associated_thinkers": [
+      "Nicholas Humphrey"
+    ],
     "category": "唯物論",
-    "subcategory": "表象的",
+    "subcategory": "高階",
     "core_identity_tagline": "アトラクターにおける進化した心的表象としての現象的意識",
     "classification_tags": [
       "evolutionary",
@@ -52,34 +54,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "意識が脳における複雑な情報処理、表象、アトラクター状態によって実現される唯物論的理論として、これらのメカニズムを再現できる人工システムは、原理的に意識をもつはずである。"
     },
     "survival_beyond_death": {
-      "stance": "否定する",
+      "stance": "No",
       "rationale": "意識は完全に、進化した生物学的な脳とその特定の神経メカニズム（表象とアトラクター状態）に依存する。脳の死は、唯物論と一貫して、意識の停止を伴う。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的な意味のみ",
+      "stance": "Humanistic only",
       "rationale": "この理論は厳格に進化論的文脈の内部で枠づけられ、そこでは意識が「適応度ゲーム」における適応上の利益のために生じるため、意味と目的は宇宙的ないし究極的なものではなく、人間が創り出したものないし主観的なものであることを示唆する。"
     },
     "virtual_immortality": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "意識が脳の生成する特定の神経パターン、表象、アトラクター状態によって全面的に説明可能である（唯物論的諸理論）ならば、これらの機能的動態を非生物学的媒体へ完全に複製すれば、一人称の心的自己を保存できるはずである。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Thought Theory",
+        "name": "Higher-Order",
         "relationship": "拡張"
       },
       {
-        "name": "Dennett’s Evolution of Minds",
+        "name": "Dennett's Evolution of Minds",
         "relationship": "重複"
       },
       {
-        "name": "Recurrent Processing Theory",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "重複"
       }
     ],

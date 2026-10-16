@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "マクギルクリストの関係的・創造的プロセス観念論",
     "summary": "意識は還元不可能で原初的であり、創造的プロセスとみなされる宇宙の根本的な「もの」である。物質は別個の実体ではなく、意識の派生的な「相（phase）」であり、個別化された経験を達成するために必要とされる。脳の主要な役割は、この遍在する意識を媒介し形づくることにあり、それは大脳半球の対照的な様態に反映されている。",
-    "associated_thinkers": ["Iain McGilchrist"],
+    "associated_thinkers": [
+      "Iain McGilchrist"
+    ],
     "category": "観念論",
-    "subcategory": "関係的・創造的プロセス観念論",
+    "subcategory": "関係的・創造過程的観念論",
     "core_identity_tagline": "意識は宇宙の「もの」である",
     "classification_tags": [
       "idealism",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "不確実／条件付き",
+      "stance": "Uncertain",
       "rationale": "意識は原初的かつ関係的であり、個別性を表現するには複雑な媒介を要する。単なる機能的計算では必要な性質を捉えられないと考えられるが、工学的システムがそのための必要な構造をもつなら意識を媒介しうる可能性はある。"
     },
     "survival_beyond_death": {
-      "stance": "可、ありうる",
+      "stance": "Likely",
       "rationale": "意識は宇宙の根本的な「もの」であり原初的であるため、個の自己は、その物理的媒介者（脳）を解消しても、宇宙的な存在の基盤の内に存続するであろう。"
     },
     "meaning_and_purpose": {
-      "stance": "宇宙的／目的論的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "宇宙は目的と方向をもち、自らを知り価値（美、真理、善）をさらに発見しようとする根本的意識に駆動されている。"
     },
     "virtual_immortality": {
-      "stance": "考えにくい／適用外",
+      "stance": "Unlikely",
       "rationale": "意識は神経パターンへと還元できない（物質は意識の「相」であり、媒介されている）。パターンのみをアップロードしても、起源となる意識的プロセスを再現できず、真の主観的経験を欠いた単なる抽象ないしシミュレーションに終わると考えられる。"
     }
   },
@@ -79,11 +81,11 @@
         "relationship": "両立可能"
       },
       {
-        "name": "Nagel’s Mind and Cosmos",
+        "name": "Nagel's Mind and Cosmos",
         "relationship": "影響"
       },
       {
-        "name": "Idealisms",
+        "name": "Idealism",
         "relationship": "拡張"
       }
     ],

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Mente y Cosmos de Nagel",
     "summary": "Esta perspectiva desafía la concepción materialista neodarwiniana predominante de la naturaleza, argumentando que no logra dar cuenta de la naturaleza irreducible de la experiencia subjetiva, o de 'lo que se siente' ser un organismo consciente. Propone que la mente debe incorporarse como un principio fundamental de la naturaleza misma.",
-    "associated_thinkers": ["Thomas Nagel"],
-    "category": "Teorías Desafiantes",
-    "subcategory": "Mente y Cosmos de Nagel",
+    "associated_thinkers": [
+      "Thomas Nagel"
+    ],
+    "category": "Desafío",
+    "subcategory": "Mente y cosmos de Nagel",
     "core_identity_tagline": "La mente como principio fundamental de la naturaleza",
     "classification_tags": [
       "subjectivity",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Incierto/Condicional",
+      "stance": "Uncertain",
       "rationale": "Como crítica al funcionalismo y al reduccionismo, la visión de Nagel sugiere que las entidades puramente computacionales que carecen de propiedades mentales fundamentales son probablemente zombis filosóficos; el resultado depende de si la IA futura puede instanciar los principios mentales universales hipotetizados."
     },
     "survival_beyond_death": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "Si la conciencia es una propiedad universal y fundamental en lugar de un emergente biológico, su esencia podría persistir tras la disolución corporal (inferido de las inclinaciones panpsiquistas), aunque probablemente sin retener la identidad personal."
     },
     "meaning_and_purpose": {
-      "stance": "Cósmico",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Busca explícitamente incorporar a la mente como un principio natural fundamental para superar la 'carencia de sentido' que implica el materialismo, sugiriendo un propósito o valor cósmico inherente y no teísta."
     },
     "virtual_immortality": {
-      "stance": "Improbable/Condicional",
+      "stance": "Unlikely",
       "rationale": "La irreducibilidad de la experiencia subjetiva implica que la duplicación de patrones físicos/funcionales por sí sola no lograría transferir la conciencia original en primera persona."
     }
   },
@@ -75,15 +77,15 @@
         "relationship": "Influencia"
       },
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
         "relationship": "Compatible"
       },
       {
-        "name": "Panpsychisms",
+        "name": "Panpsychism",
         "relationship": "Extensión"
       },
       {
-        "name": "Papineau’s Mind-Brain Identity",
+        "name": "Papineau's Mind-Brain Identity",
         "relationship": "Crítica"
       }
     ],

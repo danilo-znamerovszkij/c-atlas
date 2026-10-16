@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Teoría de las Críticas",
     "summary": "Esta entrada representa la función escéptica esencial y omnipresente dentro de los estudios de la conciencia, que cuestiona sistemáticamente la coherencia explicativa, la validez empírica y los supuestos metafísicos de todas las teorías propuestas de la conciencia. Destaca las tensiones conceptuales persistentes, como la brecha explicativa y el enigma correlación-causación, obligando a las teorías a defender su consistencia interna y su fundamento empírico.",
-    "associated_thinkers": ["Robert Lawrence Kuhn"],
-    "category": "Teorías Desafiantes",
-    "subcategory": "Crítica/Escepticismo",
+    "associated_thinkers": [
+      "Robert Lawrence Kuhn"
+    ],
+    "category": "Info Integrada",
+    "subcategory": "",
     "core_identity_tagline": "La Función Escéptica Esencial",
     "classification_tags": [
       "critique",
@@ -54,26 +56,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "La crítica destaca la dificultad de verificar la verdadera percatación interna en la IA, enfatizando que la complejidad computada podría conducir solo a una conciencia *aparente* (el desafío de la simulación), lo que hace que ciertas afirmaciones sean poco confiables."
     },
     "survival_beyond_death": {
-      "stance": "Incierto",
+      "stance": "Uncertain",
       "rationale": "La crítica reconoce que si se confirmaran empíricamente fenómenos altamente anómalos (como Experiencias Cercanas a la Muerte verificables), esto falsearía instantáneamente los modelos de producción materialistas, desplazando el respaldo teórico hacia hipótesis de supervivencia no física."
     },
     "meaning_and_purpose": {
-      "stance": "Diagnostica la falta de un significado último",
+      "stance": "Humanistic only",
       "rationale": "Las críticas cuestionan frecuentemente las explicaciones materialistas y reduccionistas por no lograr racionalizar un significado o valor último, dejando solo la autocreación humanística de propósito."
     },
     "virtual_immortality": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "La crítica sostiene que, sin resolver el rompecabezas metafísico de qué *es* la conciencia (por ejemplo, demostrar que la carga preserva perfectamente el yo en primera persona), la inmortalidad virtual sigue siendo conceptualmente problemática y no verificada."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mysterianism (McGinn's Ultimate Mystery)",
+        "name": "Challenge",
         "relationship": "Solapamiento"
       },
       {
@@ -85,7 +87,7 @@
         "relationship": "Crítica"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "Influencia"
       }
     ],

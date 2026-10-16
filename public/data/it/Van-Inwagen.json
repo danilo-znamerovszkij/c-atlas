@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "Il materialismo cristiano e la risurrezione dei morti di van Inwagen",
     "summary": "Questa teoria propone una forma di materialismo cristiano in cui la persona umana è interamente un'entità materiale, respingendo così il dualismo delle sostanze su basi tanto filosofiche quanto bibliche. Sostiene che l'identità personale attraverso la morte è mantenuta da Dio, il quale preserva un «nucleo nudo» fisicamente e causalmente continuo del corpo materiale originario fino alla risurrezione finale.",
-    "associated_thinkers": ["Peter van Inwagen"],
-    "category": "Fisicalismo non riduttivo",
+    "associated_thinkers": [
+      "Peter van Inwagen"
+    ],
+    "category": "Non riduttivo",
     "subcategory": "Materialismo cristiano",
     "core_identity_tagline": "Il materialismo riconciliato con la risurrezione biblica",
     "classification_tags": [
@@ -51,31 +53,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "In quanto teoria materialista, la coscienza è in ultima analisi un prodotto di una disposizione fisica complessa, il che significa che l'IA dovrebbe, in linea di principio, poter istanziare la coscienza qualora si realizzi il substrato fisico richiesto."
     },
     "survival_beyond_death": {
-      "stance": "Sì (condizionata all'intervento divino)",
+      "stance": "Conditional",
       "rationale": "L'obiettivo principale della teoria è fornire un meccanismo (Dio che preserva un nucleo nudo) affinché la persona materiale possa conseguire la risurrezione biblica e la sopravvivenza post mortem."
     },
     "meaning_and_purpose": {
-      "stance": "Cosmico/teologico",
+      "stance": "Cosmic/Ultimate",
       "rationale": "L'intero quadro è sostenuto da un impegno teologico nei confronti della risurrezione dei morti, il che implica un significato e uno scopo ultimi all'interno di un piano divino."
     },
     "virtual_immortality": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "Poiché la persona è una cosa materiale, caricare l'intero stato fisico del cervello dovrebbe, in linea di principio, produrre una duplicazione funzionale del sé cosciente, consentendo l'immortalità virtuale."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Critica" },
-      { "name": "Papineau’s Mind-Brain Identity", "relationship": "Sovrapposizione" },
       {
-        "name": "Murphy’s Non-Reductive Physicalism",
+        "name": "Dualism",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Murphy's Non-Reductive Physicalism",
         "relationship": "Compatibile"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Sovrapposizione" }
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Sovrapposizione"
+      }
     ],
     "sources_and_references": [
       {

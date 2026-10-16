@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La physique relationnelle de Rovelli",
     "summary": "Cette théorie adopte une vision déflationniste du problème difficile en postulant que la conscience est suffisamment expliquée par l'aspect profondément relationnel de la physique, en particulier la mécanique quantique et la relativité générale. La physique, lorsqu'elle est correctement comprise comme perspectivale — décrivant comment les entités se manifestent les unes aux autres — dissout le décalage perçu entre le monde physique et l'expérience subjective.",
-    "associated_thinkers": ["Carlo Rovelli"],
-    "category": "Théories quantiques",
-    "subcategory": "Physique relationnelle",
+    "associated_thinkers": [
+      "Carlo Rovelli"
+    ],
+    "category": "Quantique",
+    "subcategory": "Physique de la relation",
     "core_identity_tagline": "« La conscience comme réalité perspectivale »",
     "classification_tags": [
       "relationalism",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si la conscience (les pensées) est entièrement expliquée par l'interaction de systèmes physiques complexes décrits relationnellement, alors tout système artificiel suffisamment complexe dont le fonctionnement est régi par ces lois physiques atteindrait la conscience."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La théorie rejette explicitement l'idée que la conscience joue un rôle spécial et intime dans la mécanique quantique et explique les pensées via des systèmes physiques complexes. Par conséquent, la conscience est liée à l'existence du système physique (par ex., le cerveau), qui se dissout à la mort."
     },
     "meaning_and_purpose": {
-      "stance": "Peu probable/humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "L'accent est mis sur la manière dont la réalité est structurée par les relations. Bien que des systèmes émergents complexes (les humains) puissent créer du sens, la réalité physique fondamentale décrite par la physique relationnelle ne fournit aucune téléologie cosmique ni but ultime."
     },
     "virtual_immortality": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Puisque la conscience est expliquée par la structure et l'interaction de systèmes physiques, la duplication ou la simulation précise de ces états physiques relationnels complexes dans un substrat artificiel devrait atteindre l'immortalité virtuelle, à condition que la technologie soit suffisamment avancée."
     }
   },
@@ -73,11 +75,11 @@
         "relationship": "Compatible (soutient une « forme très légère »)"
       },
       {
-        "name": "Stapp’s Collapsing the Wave Function via Asking “Questions”",
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
         "relationship": "Critique (Rovelli s'oppose à l'idée que la conscience ait un rôle spécial dans l'effondrement de la mécanique quantique.)"
       },
       {
-        "name": "Musser’s 'Is It Really So Hard?'",
+        "name": "Musser's \"Is It Really So Hard?\"",
         "relationship": "Influence (Musser cite avec approbation l'approche relationnelle de Rovelli.)"
       }
     ],

@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "르두의 정서적 의식에 관한 고차 이론",
     "summary": "이 이론은 공포와 같은 의식적 정서적 느낌이 지각적 의식 경험과 근본적으로 다르지 않다고 주장하며, 양자 모두 저차 정보에 대한 고차 표상(HOR)을 생성하는 피질 기반의 일반 인지 신경망(GNC)에서 발생한다고 본다. 현상적 의식의 본질은 선행하는 고차 상태에 대한 재표상, 곧 HOROR(표상에 대한 고차 표상)에 있다.",
-    "associated_thinkers": ["Joseph LeDoux", "Richard Brown"],
+    "associated_thinkers": [
+      "Joseph LeDoux",
+      "Richard Brown"
+    ],
     "category": "유물론",
-    "subcategory": "표상주의",
+    "subcategory": "고차",
     "core_identity_tagline": "정서적 상태와 지각적 상태에 대한 고차 표상으로서의 의식",
     "classification_tags": [
       "neurobiology",
@@ -52,34 +55,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "위계적 정보 처리(GNC/HOROR)에 기반한 유물론적·기능적 이론이므로, 필요한 계산적·표상적 구조를 구현할 수 있는 비생물학적 체계에서도 의식은 원리적으로 재현 가능하다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "의식은 전적으로 고도로 복잡하고 물리적으로 구현된 생물학적 체계(피질 회로와 GNC)의 산물이므로, 신체의 물리적 존재를 넘어선 존속의 여지를 제공하지 않는다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한정",
+      "stance": "Humanistic only",
       "rationale": "의식은 생존을 향상시키고 자기 중심적 정서 상태를 가능하게 하는 진화된 생물학적 메커니즘이지만, 이 이론은 어떠한 궁극적·우주적·초월적 의미나 목적도 상정하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "일인칭적 자아가 뇌의 복잡한 기능적·표상적 상태에 기반하는 만큼, 업로딩 기술을 통해 이러한 물리적 상태를 완벽히 복제한다면 원리적으로 자아가 보존되어 가상적 불멸이 실현될 것이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Theories",
+        "name": "Higher-Order",
         "relationship": "확장"
       },
       {
-        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "name": "Lau's Perceptual Reality Monitoring Theory",
         "relationship": "양립 가능"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "비판"
       },
       {

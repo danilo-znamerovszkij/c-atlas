@@ -1,0 +1,123 @@
+{
+  "id_and_class": {
+    "theory_title": "El fisicalismo de realización de Melnyk",
+    "summary": "Andrew Melnyk sostiene que las propiedades fenoménicas son reales pero no fundamentales: son propiedades representacionales de las sensaciones, realizables múltiplemente y siempre realizadas por propiedades físicas. Argumenta que el problema difícil ya está resuelto, porque los principales argumentos antifisicalistas fracasan, y que la sensación persistente de que la experiencia no puede ser física es una ‘intuición de distinción’ producida por el modo en que funciona la introspección.",
+    "associated_thinkers": [
+      "Andrew Melnyk"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Orden superior",
+    "core_identity_tagline": "Los qualia como propiedades representacionales realizadas físicamente",
+    "classification_tags": [
+      "physicalism",
+      "realization",
+      "representationalism",
+      "intuition of distinctness",
+      "hard problem"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Las propiedades fenoménicas son idénticas a ciertas propiedades representacionales de las sensaciones: la naranjidad de una imagen posterior naranja es el hecho de que la imagen posterior represente, de manera sensorial, que algo ante uno es naranja.",
+    "ontological_status": "Fisicalismo (fisicalismo reductivo de realización, no eliminativo)",
+    "mind_body_relationship": "Todo es físico o está realizado físicamente. Las propiedades mentales son propiedades de orden superior cuyos realizadores son siempre físicos, pero varían de un caso a otro, del mismo modo que ser venenoso lo realiza el cianuro en una sustancia y otra cosa distinta en el anticongelante.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia débil (realización: dados el realizador físico, las leyes y las circunstancias, la propiedad mental se sigue deductivamente, de modo que no se añade nada fuertemente emergente)",
+    "subjectivity_and_intentionality": "Melnyk fundamenta la intencionalidad sensorial en la función biológica, siguiendo la teleosemántica de Millikan. La autoconciencia es el caso especial en que las representaciones de un organismo se dirigen a sus propios estados mentales.",
+    "qualia_account": "Los qualia son las propiedades de las sensaciones que advertimos cuando les prestamos atención introspectivamente, y Melnyk los identifica con propiedades representacionales realizadas físicamente. El ardor de un dolor es el hecho de que el dolor represente que una parte del cuerpo está ardiendo.",
+    "ontological_commitments": "Entidades y leyes físicas fundamentales; propiedades de orden superior realizadas por ellas; sensaciones con propiedades representacionales fundadas en la función biológica.",
+    "epistemic_access": "La introspección presenta las propiedades fenoménicas, pero a través de conceptos fenoménicos conceptualmente encapsulados; el argumento a favor del fisicalismo procede de la evidencia empírica, como la dependencia sistemática de la experiencia respecto de la actividad neuronal.",
+    "constituents_and_structure": "Tres sentidos de ‘consciente’: conciencia o conocimiento de algo, autoconciencia (introspección) y conciencia fenoménica vinculada a sensaciones, emociones y estados de ánimo."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conciencia fenoménica, autoconciencia introspectiva y causación mental.",
+    "distinctive_mechanism_or_principle": "La realización física, una relación más fuerte que el superveniencia y más débil que la identidad de tipo con una propiedad neuronal, mediante la cual el realizador físico explica reductivamente la propiedad mental.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "En las sensaciones de organismos cuyos estados físicos realizan las propiedades representacionales adecuadas; como estas propiedades son realizables múltiplemente, no tienen por qué estar ligadas a un único tipo neuronal.",
+    "causation_and_functional_role": "Melnyk acepta una causación débil descendente: un dolor de muelas puede hacer que llame al dentista sin sobredeterminación, porque la regularidad mental está realizada por la física. Niega cualquier causación fuerte descendente que violara las leyes físicas.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "La representación es central en la explicación positiva: el carácter fenoménico es precisamente un modo sensorial de representar el cuerpo o el mundo, con un contenido fijado por la función biológica.",
+    "evolutionary_account": "Indirecta, a través de la teleosemántica: los estados sensoriales representan aquello que fueron seleccionados para rastrear.",
+    "core_claims_and_evidence": [
+      "El fisicalismo es una hipótesis a posteriori de amplio alcance, sostenida por la evidencia y no establecida a priori.",
+      "Toda experiencia introspectable tiene un correlato neuronal simultáneo, y el fisicalismo explica esta dependencia de forma más económica que el dualismo.",
+      "El argumento de la concebibilidad de Kripke, el argumento del conocimiento de Jackson, la brecha explicativa de Levine y el argumento del zombi de Chalmers son cada uno objeto de objeciones serias, de modo que el problema difícil, tal como se formula con precisión, queda resuelto.",
+      "La intuición de distinción surge porque la introspección está conceptualmente encapsulada, de modo que no sigue la verdad y no ofrece razón alguna para aceptar el dualismo de propiedades."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica, apoyada en la correlación empírica entre estados fenoménicos y neuronales y en una explicación desenmascaradora de las intuiciones antifisicalistas."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Melnyk concede que no hay consenso en que los argumentos antifisicalistas fracasen. Descartar la intuición de distinción como una ilusión cognitiva puede parecer autoprotector, ya que cualquier intuición contraria queda explicada de antemano.",
+    "open_questions_and_limitations": "La intuición de distinción persiste incluso después de ser desenmascarada, así que la teoría puede persuadir en el plano argumental sin cambiar la manera en que la experiencia se presenta. Queda abierto si los estados mentales particulares son idénticos a los físicos.",
+    "ontological_coherence": "Coherente dentro del fisicalismo, que trata lo mental como lo biológico o lo geológico: real pero no fundamental. Melnyk subraya que su representacionalismo es una propuesta distinta de su disolución del problema difícil, y confundir ambas cosas es la lectura errónea más frecuente."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Dado que las propiedades fenoménicas son propiedades representacionales realizables múltiplemente, un sistema no biológico podría en principio realizarlas, aunque el recurso de Melnyk a la función biológica deja abierto qué necesitaría un sistema artificial."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Todo es físico o está realizado físicamente, de modo que la experiencia termina cuando cesan sus realizadores físicos."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Un fisicalismo cabal no deja espacio a un propósito cósmico en la conciencia."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "La realizabilidad múltiple permite que un sistema físico distinto realice las mismas propiedades mentales, aunque Melnyk no aborda la carga de una mente en un sistema informático."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Influencia"
+      },
+      {
+        "name": "Dretske’s Information and Representationalism",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Kripke’s Modal Argument Against Mind–Brain Identity",
+        "relationship": "Crítica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A Physicalist Manifesto: Thoroughly Modern Materialism, Andrew Melnyk",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Realization and the Formulation of Physicalism, Andrew Melnyk",
+        "year": 2006
+      },
+      {
+        "title_with_names": "In Defense of a Realization Formulation of Physicalism, Andrew Melnyk",
+        "year": 2018
+      },
+      {
+        "title_with_names": "From Materialism to Physicalism: An Opinionated Sketch, Andrew Melnyk",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Phenomenal Properties and the Intuition of Distinctness: The View from the Inside, Andrew Melnyk",
+        "year": 2025
+      },
+      {
+        "title_with_names": "On the Problem of Consciousness, Andrew Melnyk and T. Sobrado",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Thinking About Consciousness, David Papineau",
+        "year": 2002
+      }
+    ]
+  }
+}

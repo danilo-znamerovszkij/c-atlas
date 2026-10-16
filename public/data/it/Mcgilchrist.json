@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "L'idealismo relazionale del processo creativo di McGilchrist",
     "summary": "La coscienza è irriducibile, primordiale e la «sostanza» fondamentale del cosmo, considerata come un processo creativo. La materia non è una sostanza separata ma una «fase» derivata della coscienza, necessaria per raggiungere un'esperienza individualizzata. Il ruolo primario del cervello è mediare e plasmare questa coscienza onnipresente, riflessa nelle modalità contrastanti dei due emisferi cerebrali.",
-    "associated_thinkers": ["Iain McGilchrist"],
-    "category": "Idealismi",
-    "subcategory": "Idealismo Relazionale del Processo Creativo",
+    "associated_thinkers": [
+      "Iain McGilchrist"
+    ],
+    "category": "Idealismo",
+    "subcategory": "Idealismo relazionale del processo creativo",
     "core_identity_tagline": "La coscienza è la sostanza del cosmo",
     "classification_tags": [
       "idealism",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Incerto/Condizionale",
+      "stance": "Uncertain",
       "rationale": "La coscienza è primordiale e relazionale, richiedendo una mediazione complessa per esprimere l'individualità. La mera computazione funzionale probabilmente non riuscirebbe a cogliere le proprietà richieste, ma un sistema ingegnerizzato potrebbe potenzialmente mediare la coscienza se possiede la struttura necessaria a farlo."
     },
     "survival_beyond_death": {
-      "stance": "Sì, probabile",
+      "stance": "Likely",
       "rationale": "Poiché la coscienza è la sostanza fondamentale del cosmo ed è primitiva, il sé individuale, pur dissolvendo il proprio mediatore fisico (il cervello), persisterebbe all'interno del fondamento cosmico dell'Essere."
     },
     "meaning_and_purpose": {
-      "stance": "Cosmico/Teleologico",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Il cosmo ha scopo e direzione, guidato dalla coscienza fondamentale che mira a conoscere sé stessa e a scoprire ulteriormente il valore (bellezza, verità e bontà)."
     },
     "virtual_immortality": {
-      "stance": "Improbabile/Non applicabile",
+      "stance": "Unlikely",
       "rationale": "La coscienza non è riducibile al pattern neurale (la materia, essendo una «fase» della coscienza, è mediata). Il caricamento del solo pattern probabilmente non riuscirebbe a replicare il processo cosciente originante, risultando in una mera astrazione o simulazione priva di autentica esperienza soggettiva."
     }
   },
@@ -79,11 +81,11 @@
         "relationship": "Compatibile"
       },
       {
-        "name": "Nagel’s Mind and Cosmos",
+        "name": "Nagel's Mind and Cosmos",
         "relationship": "Influenza"
       },
       {
-        "name": "Idealisms",
+        "name": "Idealism",
         "relationship": "Estensione"
       }
     ],

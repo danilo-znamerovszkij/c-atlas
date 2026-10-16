@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La Neurophénoménologie selon Varela",
     "summary": "La neurophénoménologie est une approche méthodologique qui cherche à établir des contraintes mutuelles entre les phénomènes à la première personne présents dans l'expérience vécue (phénoménologie) et les phénomènes neuronaux à la troisième personne établis par les sciences cognitives. Le but est d'unir une science rigoureuse à un examen discipliné de l'expérience humaine, en plaçant la structure de l'expérience au cœur de l'investigation scientifique.",
-    "associated_thinkers": ["Francisco Varela"],
-    "category": "Materialism",
-    "subcategory": "Embodied and Enactive",
+    "associated_thinkers": [
+      "Francisco Varela"
+    ],
+    "category": "Phénoménologie",
+    "subcategory": "",
     "core_identity_tagline": "La conscience comme contrainte mutuelle entre l'expérience et le cerveau",
     "classification_tags": [
       "phenomenology",
@@ -53,30 +55,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Improbable",
+      "stance": "Unlikely",
       "rationale": "La conscience repose fortement sur l'expérience vécue et incarnée et sur des dynamiques liées à des processus biologiques, rendant la simple réplication computationnelle insuffisante."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La théorie est classée parmi les théories matérialistes/incarnées, se concentrant sur la conscience en tant qu'enracinée dans l'organisme biologique vivant et se ramifiant à travers lui, ce qui implique la cessation à la mort corporelle."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste/Pragmatique",
+      "stance": "Humanistic only",
       "rationale": "La méthodologie cherche à restaurer la « vie humaine » et l'expérience subjective dans le récit scientifique, offrant un sens en valorisant l'expérience vécue plutôt que l'aliénation par la pure fonction, sans postuler de but cosmique."
     },
     "virtual_immortality": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "Si la conscience est enracinée dans une expérience vécue et incarnée qui s'étend au-delà du cerveau, le simple téléchargement de données neuronales/fonctionnelles échouerait à saisir les dynamiques nécessaires de la relation organisme-environnement."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Thompson’s Mind in Life",
+        "name": "Thompson's Mind in Life",
         "relationship": "Extension"
       },
       {
-        "name": "Bitbol’s Radical Neurophenomenology",
+        "name": "Bitbol's Radical Neurophenomenology",
         "relationship": "Extension/Raffinement"
       },
       {

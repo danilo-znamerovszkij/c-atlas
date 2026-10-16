@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "La théorie de l'organicité dynamique (TOD)",
     "summary": "Il s'agit d'une théorie biologique quantique, ancrée dans le matérialisme de type B, qui modélise la conscience à l'aide d'un cadre temporel-topologique multiscalaire. Il est affirmé que la conscience surgit spontanément lorsque la fonctionnalité de la complexité multiscalaire dans un état négentropique vivant du cerveau dépasse la fonctionnalité dérivée de la complexité maximale.",
-    "associated_thinkers": ["Roman Poznanski"],
-    "category": "Théories quantiques",
+    "associated_thinkers": [
+      "Roman Poznanski"
+    ],
+    "category": "Quantique",
     "subcategory": "Organicité dynamique (biologie quantique)",
     "core_identity_tagline": "La conscience comme fonctionnalité de la complexité multiscalaire",
     "classification_tags": [
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Conditionnel/probable",
+      "stance": "Conditional",
       "rationale": "En tant que matérialiste de type B, la conscience est un processus physique. Si les systèmes artificiels pouvaient reproduire avec succès l'architecture fonctionnelle complexe, la dynamique multiscalaire, et utiliser les degrés de liberté biologiques quantiques requis pour $F_{MultiComplexity} > F_{MaxComplexity}$, alors la conscience émergerait."
     },
     "survival_beyond_death": {
-      "stance": "Incertain/non",
+      "stance": "Unlikely",
       "rationale": "La conscience dépend de l'« état négentropique vivant » et de la dynamique spécifique du cerveau matériel ; une survie indépendante de ce système organique n'est pas soutenue par les principes fondamentaux du matérialisme de la théorie."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "La théorie se concentre sur l'efficacité biologique et fonctionnelle, identifiant l'intentionnalité interne comme guide pour l'action, ce qui fournit un sens du soi et un but, mais n'implique aucune téléologie externe ou cosmique."
     },
     "virtual_immortality": {
-      "stance": "Possible/conditionnel",
+      "stance": "Possible",
       "rationale": "L'immortalité virtuelle est possible si les contraintes biologiques et quantico-fonctionnelles sous-jacentes requises pour générer $F_{MultiComplexity} > F_{MaxComplexity}$ pouvaient être dupliquées et instanciées avec succès dans un support non biologique, permettant la reproduction du soi conscient."
     }
   },
@@ -83,7 +85,7 @@
         "relationship": "Critique"
       },
       {
-        "name": "Quantum Theories",
+        "name": "Quantum & Dimensions",
         "relationship": "Chevauchement"
       }
     ],

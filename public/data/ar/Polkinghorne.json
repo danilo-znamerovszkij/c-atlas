@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "الأحادية ثنائية الجانب عند بولكينغهورن",
     "summary": "تفترض هذه النظرية أن المادة والعقل جانبان متكاملان لكائن واحد موحَّد (الطبيعة النفسية-الجسدية)، رافضةً الثنائية الكلاسيكية والمادية. ويُتصوَّر العقل، أو الروح، بوصفه نمطاً حاملاً للمعلومات ينظّمه الدماغ الفيزيائي. وكثيراً ما يُصاغ هذا الرأي ضمن سياق لاهوتي مسيحي لاستيعاب استمرارية الهوية الشخصية اللازمة لقيامة الأموات.",
-    "associated_thinkers": ["John Polkinghorne"],
-    "category": "الأحاديات",
-    "subcategory": "الأحادية ثنائية الجانب",
+    "associated_thinkers": [
+      "John Polkinghorne"
+    ],
+    "category": "الأحادية",
+    "subcategory": "الأحادية ثنائية الوجه",
     "core_identity_tagline": "العقل والمادة بوصفهما جانبين متكاملين لكائن موحَّد",
     "classification_tags": [
       "psychosomatic",
@@ -52,34 +54,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "إذا كان الوعي في المقام الأول نمطاً معلوماتياً انبثاقياً ينظّمه نظام معقّد، فإن الأنظمة الاصطناعية ذات التعقيد والتنظيم الكافيين ينبغي نظرياً أن تكون قادرة على استضافة هذا النمط والصيرورة واعية."
     },
     "survival_beyond_death": {
-      "stance": "نعم (مشروط/لاهوتي)",
+      "stance": "Conditional",
       "rationale": "يحفظ «الذاكرة الإلهية» جوهر الشخص (النمط الفريد الحامل للمعلومات/الروح) بعد الموت، ويُعاد تكوينه في صورة جديدة من المادة عند القيامة، مما يضمن الاستمرارية."
     },
     "meaning_and_purpose": {
-      "stance": "كوني ولاهوتي",
+      "stance": "Cosmic/Ultimate",
       "rationale": "تنطلق النظرية من إيجاد تفسير متماسك للوجود الإنساني ضمن واقع يتيح القيامة، مما يعني غاية وقيمة نهائيتين مرتبطتين بالقصد والمصير الإلهيين."
     },
     "virtual_immortality": {
-      "stance": "نعم (مشروط)",
+      "stance": "Conditional",
       "rationale": "الخلود الافتراضي ممكن نظرياً لأن الذات الجوهرية معرَّفة بوصفها نمطاً حاملاً للمعلومات. ورفع هذا النمط إلى وسائط غير بيولوجية سيحفظ مكوّن الهوية اللازم، شريطة أن يكون الاستنساخ تاماً وأن يكون النمط هو العنصر الوحيد اللازم لاستمرار «الأنا»."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Teilhard de Chardin’s Evolving Consciousness",
+        "name": "Teilhard de Chardin's Evolving Consciousness",
         "relationship": "تداخل (يتشارك الأحادية ثنائية الجانب والإطار التطوري/الغائي)"
       },
       {
-        "name": "Atmanspacher’s Dual-Aspect Monism",
+        "name": "Atmanspacher's Dual-Aspect Monism",
         "relationship": "متوافق (يتشارك الالتزام بالرؤية ثنائية الجانب للواقع الموحَّد)"
       },
       {
-        "name": "Van Inwagen’s Christian Materialism and Resurrection of the Dead",
+        "name": "van Inwagen's Christian Materialism and Resurrection of the Dead",
         "relationship": "تداخل (يعالج الضرورة اللاهوتية لاستمرارية الهوية الشخصية رغم الانحلال الفيزيائي)"
       }
     ],
@@ -92,8 +94,14 @@
         "title_with_names": "The God of Hope and the End of the World",
         "year": 2003
       },
-      { "title_with_names": "Faith, Science and Understanding", "year": 2001 },
-      { "title_with_names": "All things new (Closer To Truth)", "year": 2007 }
+      {
+        "title_with_names": "Faith, Science and Understanding",
+        "year": 2001
+      },
+      {
+        "title_with_names": "All things new (Closer To Truth)",
+        "year": 2007
+      }
     ]
   }
 }

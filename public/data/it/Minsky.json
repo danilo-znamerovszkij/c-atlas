@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La società della mente di Minsky",
     "summary": "La teoria postula che la cognizione e l'intelligenza umane emergano dalle interazioni parallele e non coscienti di numerosi elementi funzionali specializzati e semi-indipendenti, noti come «agenti», localizzati nel cervello. La coscienza stessa è considerata un «termine valigia», usato in modo ambiguo per etichettare un insieme di questi diversi processi cognitivi e di consapevolezza, piuttosto che una singola entità unificata.",
-    "associated_thinkers": ["Marvin Minsky"],
+    "associated_thinkers": [
+      "Marvin Minsky"
+    ],
     "category": "Materialismo",
-    "subcategory": "Neurobiologico",
+    "subcategory": "Computazionale",
     "core_identity_tagline": "«La coscienza come termine valigia per gli agenti»",
     "classification_tags": [
       "computational",
@@ -51,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "Se la coscienza risulta dalle necessarie interazioni computazionali e dalle descrizioni di alto livello di agenti specializzati, i sistemi artificiali capaci di istanziare questa specifica forma di organizzazione di alto livello dovrebbero essere coscienti."
     },
     "survival_beyond_death": {
@@ -59,22 +61,22 @@
       "rationale": "La coscienza dipende interamente dall'esistenza fisica e dall'organizzazione funzionale del cervello/macchina biologico; la sua dissoluzione implica la fine permanente della mente."
     },
     "meaning_and_purpose": {
-      "stance": "Umanistico/Pragmatico",
+      "stance": "Humanistic only",
       "rationale": "Lo scopo funzionale della complessa organizzazione cognitiva (la coscienza) è aiutare l'organismo a orientarsi nel mondo, a fare piani e a modellare sé stesso, fornendo un significato soggettivo ma non implicando alcuno scopo cosmico onnicomprensivo."
     },
     "virtual_immortality": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "Poiché la mente è definita dai suoi pattern informazionali e dalla sua organizzazione funzionale (descrizione di alto livello), la duplicazione totale o il caricamento in un supporto non biologico capace di replicare queste complesse interazioni trasferirebbe l'identità cosciente originale."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Dennett’s Multiple Drafts Model",
+        "name": "Dennett's Multiple Drafts Model",
         "relationship": "Compatibile"
       },
       {
-        "name": "Graziano’s Attention Schema Theory",
+        "name": "Graziano's Attention Schema Theory",
         "relationship": "Compatibile"
       },
       {

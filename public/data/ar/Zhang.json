@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "الاتصالات عن بُعد بسرعة الضوء لمسافات طويلة لدى تشانغ",
     "summary": "تقترح هذه النظرية أن لغز الدماغ والعقل يمكن حلّه بافتراض اتصال عن بُعد بسرعة الضوء بين عصبونات متباعدة مرتّبة على نحو متوازٍ عبر حقول كهربائية متنقّلة. وتتيح هذه الآلية، القائمة على قانون التزامن، للعصبونات أن تشكّل شبكة صلبة لازمة للحياة الذكية.",
-    "associated_thinkers": ["Ping Zhang"],
+    "associated_thinkers": [
+      "Ping Zhang"
+    ],
     "category": "المادية",
-    "subcategory": "الحقل الكهرومغناطيسي",
+    "subcategory": "كهرومغناطيسية",
     "core_identity_tagline": "'الوعي بوصفه اتصالًا عن بُعد بسرعة الضوء'",
     "classification_tags": [
       "neurobiology",
@@ -54,38 +56,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "بوصفها نظرية مادية تعتمد على قوانين فيزيائية قابلة للمحاكاة (الحقول الكهربائية، والتزامن)، فإن الآلية اللازمة للوعي ينبغي أن تكون قابلة للبناء في عتاد غير بيولوجي متقدّم، شريطة إمكان هندسة البنية المعقّدة."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "الوعي متجذّر كليًا في التنظيم المعقّد المحدّد والديناميكا الفيزيائية (الحقول الكهربائية والإطلاق المتزامن) للأنظمة العصبية البيولوجية."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "تركّز النظرية على الآليات الفيزيائية اللازمة للذكاء، داعمةً المعرفة الإنسانية والفاعلية بوصفهما منتجين بيولوجيين، دون التطرّق إلى غاية كونية أو نهائية."
     },
     "virtual_immortality": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "إذا أمكن مضاعفة الآلية المولِّدة للوعي — أي التنظيم المكاني والزماني الدقيق للشبكة العصبية المتزامنة بسرعة الضوء — مضاعفةً رقمية تامّة، فإن الخلود الافتراضي بالغ من الناحية النظرية."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McFadden’s Conscious Electromagnetic Information Theory (CEMI)",
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
         "relationship": "تداخل"
       },
       {
-        "name": "Jones’s electromagnetic fields",
+        "name": "Jones's Electromagnetic Fields",
         "relationship": "تداخل"
       },
       {
-        "name": "Computational and Informational Theories",
+        "name": "Computational",
         "relationship": "نقد"
       },
       {
-        "name": "Neurobiological Theories",
+        "name": "Neurobiological",
         "relationship": "امتداد"
       }
     ],

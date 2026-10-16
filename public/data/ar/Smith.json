@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "اللغة بوصفها مُصنِّفًا للوعي لدى سميث",
     "summary": "تقترح هذه النظرية، المصنَّفة ضمن الإطار المادي تحت علاقات اللغة، أن اللغة تؤدّي وظيفة جوهرية تتمثّل في تصنيف محتويات الخبرة الذاتية وبنينتها وصياغتها. ومن ثمّ فإن الوعي يوجد بوصفه المحتوى الذي نظّمته هذه البنى اللغوية وأتاحته.",
-    "associated_thinkers": ["Barry Smith"],
-    "category": "نظريات المادية",
-    "subcategory": "علاقات اللغة",
+    "associated_thinkers": [
+      "Barry Smith"
+    ],
+    "category": "المادية",
+    "subcategory": "اللغة",
     "core_identity_tagline": "الوعي بوصفه محتوى مصنَّفًا لغويًا",
     "classification_tags": [
       "language",
@@ -49,26 +51,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "إذا كان الوعي نتاج آليات تصنيف لغوي معقّدة، فإن الأنظمة الاصطناعية ذات قدرات لغوية ورمزية متقدّمة بما يكفي ينبغي أن تكون قادرة على تجسيده."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "الوعي مرتبط جوهريًا بالركيزة الفيزيائية البيولوجية التي تدعم اللغة والتصنيف؛ ويزول زوالًا دائمًا عند تفكّك الدماغ."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "بوصفها نظرية مادية، تدعم المعنى والقيمة اللذين يصنعهما الإنسان انطلاقًا من التعقيد المعرفي والتأمّل الذاتي، لكنها تنكر أي غائية كونية نهائية."
     },
     "virtual_immortality": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "بما أن الوعي قابل للاختزال وظيفيًا إلى نظام لتصنيف المعلومات وتمثيلها، فإن مضاعفته الرقمية التامّة أو تحميله ممكنان من حيث المبدأ."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "T. Clark’s Content Hypothesis",
+        "name": "T. Clark's Content Hypothesis",
         "relationship": "متوافقة"
       },
       {
@@ -76,7 +78,7 @@
         "relationship": "امتداد"
       },
       {
-        "name": "Chomsky’s Language and Consciousness",
+        "name": "Chomsky's Language and Consciousness",
         "relationship": "ذات صلة/تباين"
       }
     ],

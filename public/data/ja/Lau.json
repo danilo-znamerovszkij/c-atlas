@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ラウの知覚的実在モニタリング理論",
     "summary": "この経験的に基礎づけられた高階理論は、特定の高階表象（HOR）が一階の感覚表象を外的世界の信頼できる反映として妥当と認めるときに意識的知覚が生じると提唱する。HORは知覚と認知のあいだのインターフェースとして働き、意識的経験に対する主観的な正当化感を提供する。",
-    "associated_thinkers": ["Hakwan Lau"],
+    "associated_thinkers": [
+      "Hakwan Lau"
+    ],
     "category": "唯物論",
-    "subcategory": "表象的",
+    "subcategory": "高階",
     "core_identity_tagline": "「知覚的実在モニタリングとしての意識」",
     "classification_tags": [
       "higher-order theory",
@@ -53,38 +55,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "機能主義的理論として、意識は正しい情報的／機能的アーキテクチャ（HORメカニズム）の実装に依拠する。このアーキテクチャがロボットやコンピュータプログラムにおいて例化されうるならば、人工的な意識は可能である。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は生物学的な脳に位置する特定の専門化された神経メカニズム（例えば前頭前皮質）に明示的に結びついており、生物学的死後の存続の余地を残さない。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的な意味のみ",
+      "stance": "Humanistic only",
       "rationale": "このメカニズムの第一の役割は機能的である（実在を空想から区別し情報を振り分ける）。それはこの生物学的メカニズムが付与する適応的利点を超えて、いかなる宇宙的ないし究極的な目的も提供しない。"
     },
     "virtual_immortality": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "表象のアナログな本性を含めて、特定の機能的で情報的なアーキテクチャが非生物学的基盤へと完璧にアップロードされ実行されうるならば、意識はその機能的構造によって定義されるため、一人称的な心的自己は保存されるだろう。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Theories",
+        "name": "Higher-Order",
         "relationship": "特定の事例／拡張"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "批判（優れた中間的代替として位置づけられる）"
       },
       {
-        "name": "Recurrent Processing Theory",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "批判（優れた中間的代替として位置づけられる）"
       },
       {
-        "name": "Graziano’s Attention Schema Theory",
+        "name": "Graziano's Attention Schema Theory",
         "relationship": "両立可能（意識的主張を説明する機能主義的／認知的アプローチを共有する）"
       }
     ],

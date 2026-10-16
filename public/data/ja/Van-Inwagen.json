@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "ヴァン・インワーゲンのキリスト教的唯物論と死者の復活",
     "summary": "この理論は、人間という人格が全面的に物質的存在であるとするキリスト教的唯物論の一形態を提唱し、それによって哲学的根拠と聖書的根拠の双方から実体二元論を退ける。死をまたぐ人格的同一性は、神が元の物質的身体の物理的かつ因果的に連続した「むき出しの核」を、最終的な復活まで保持することによって維持される、と論じる。",
-    "associated_thinkers": ["Peter van Inwagen"],
-    "category": "非還元的物理主義",
+    "associated_thinkers": [
+      "Peter van Inwagen"
+    ],
+    "category": "非還元的",
     "subcategory": "キリスト教的唯物論",
     "core_identity_tagline": "聖書的復活と和解した唯物論",
     "classification_tags": [
@@ -51,31 +53,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "唯物論的理論として、意識は究極的には複雑な物理的配置の産物であり、必要な物理的基盤が達成されれば、AIは原理的に意識を具現化しうるはずである。"
     },
     "survival_beyond_death": {
-      "stance": "肯定（神的介入を条件とする）",
+      "stance": "Conditional",
       "rationale": "本理論の主たる目的は、物質的な人格が聖書的な復活と死後の存続を達成するための機構（神がむき出しの核を保持すること）を提供することにある。"
     },
     "meaning_and_purpose": {
-      "stance": "宇宙的／神学的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "枠組み全体が死者の復活への神学的コミットメントによって支えられており、神的計画の内部における究極的な意味と目的を含意する。"
     },
     "virtual_immortality": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "人格は物質的なものであるため、脳の完全な物理的状態をアップロードすれば、原理的には意識的自己の機能的複製が生じ、仮想的不死が可能となるはずである。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "批判" },
-      { "name": "Papineau’s Mind-Brain Identity", "relationship": "重なり" },
       {
-        "name": "Murphy’s Non-Reductive Physicalism",
+        "name": "Dualism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Murphy's Non-Reductive Physicalism",
         "relationship": "両立可能"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "重なり" }
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "重なり"
+      }
     ],
     "sources_and_references": [
       {

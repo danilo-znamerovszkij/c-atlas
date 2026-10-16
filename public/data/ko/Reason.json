@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Reason의 유물론/수반에 반대하는 불가능성 정리",
+    "summary": "Catherine M. Reason은 어떤 물리적 체계도, 그리고 어떤 물리적 체계에 수반하는 모형도, 의식적 인간이 자신이 의식적이라는 것을 아는 그 자기확신을 가질 수 없다는 형식적 증명을 제시한다. 이 정리는 의식이 무엇일 수 없는지를 말하며, 그로부터 그녀는 자기 인식적이고 합리적인 체계를 기술하는 모든 물리주의 이론은 내적으로 모순적이어야 한다고 결론짓는다.",
+    "associated_thinkers": [
+      "Catherine M. Reason",
+      "Gilbert Caplain"
+    ],
+    "category": "도전",
+    "subcategory": "",
+    "core_identity_tagline": "자기확신은 물리적 과정에 수반할 수 없다",
+    "classification_tags": [
+      "no-go theorem",
+      "supervenience",
+      "self-certainty",
+      "anti-physicalism",
+      "formal proof"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "이 정리는 의식에 대한 긍정적 동일성을 제시하지 않는다. 이 정리는 의식적 체계를 인간과 같은 추론과 절대적 자기확신이 가능한 체계로 정의하고, 그러한 체계는 전적으로 물리적일 수 없다고 주장한다.",
+    "ontological_status": "반물리주의 (비수반)",
+    "mind_body_relationship": "Reason은 뇌가 의식과 상관하며, 인지의 많은 부분이 삼인칭 방식으로 연구될 수 있다는 것을 받아들인다. 그러나 완전히 자기 인식적인 상태가 객관적으로 관찰 가능한 물리적 상태에 전적으로 결정된다는 더 강한 테제는 거부한다.",
+    "primitive_or_emergent_status": "불분명함",
+    "emergence_type": "물리적 체계로부터 창발하지 않는다. Reason과 Shah는 의식적 거시 상태가 물리적 미시 상태로부터 창발하지도, 그것에 수반하지도 않는다고 주장한다. 의식은 입증된 창발적 속성들처럼 측정될 수 없기 때문이다.",
+    "subjectivity_and_intentionality": "주관성은 데카르트의 코기토에 고정된다. 의식적 주체는 자신이 의식적이라고 확실하게 주장할 수 있으며, 이는 꿈 없는 잠에 있지 않다는 것을 아는 것으로 조작적으로 정의된다.",
+    "qualia_account": "",
+    "ontological_commitments": "인간과 같은 의식적 체계에는, 물리적 상태에 수반하지 않는 적어도 몇몇 상태가 있다.",
+    "epistemic_access": "일인칭적 자기확신이며, 형식적 도구를 통해 분석된다. 자기확신 함수 ω, 술어 양상 논리, 그리고 관찰, 예측, 기억이 가능한 물리적 체계를 위한 Wolpert의 ‘추론 장치’가 그것이다.",
+    "constituents_and_structure": "Reason이 모두 함께 성립할 수 없음을 보이는 세 가정: 객관성(심적 상태는 관찰 가능한 동역학에 수반한다), 자기 인식, 그리고 인간과 같은 합리성."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "자기 인식(자기확신); 현상적 의식에 대한 물리주의적 설명의 한계",
+    "distinctive_mechanism_or_principle": "대각선 회귀. 신경 상관물이 올바르게 작동함을 인증하려면 또 다른 구별되는 상관물(NCC*)이 필요하고, 그다음에는 또 다른 것(NCC**)이 필요하며, 이는 끝없이 이어진다. 어떤 뇌도 무한히 많은 구별 가능한 상태를 가질 수 없다.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "의식적 뇌는 기록 장치에 영향을 미치면서도 어떤 물리 이론으로도 완전히 기술될 수 없다. 따라서 Reason과 Shah는 의식적 뇌가 어떤 방식으로든 에너지 보존을 위반해야 한다고 결론짓고, 그것이 에너지-시간 불확정성 관계를 통해서일 수 있다고 본다.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "ω를 수행하려면 체계는 자신의 과정이 물리적으로 실재함을 인증하는 함수 ξ를 수행해야 하지만, ξ가 올바른지 검증하려면 ξ를 자기 자신에게 적용해야 하므로, 결과는 계산되기 전에 필요하게 된다.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "정리 1a는 건전한 인간과 같은 추론이 가능한 어떤 물리적 체계도 자기확신 함수 ω를 수행하거나 ‘나는 자기확신한다’고 주장하는 것이 기록될 수 없다고 말한다.",
+      "정리 1b는 이를 물리적 체계에 수반하는 모든 모형으로 확장하며, 이는 기록 장치를 두 개의 모순된 상태에 강제로 놓이게 한다.",
+      "이 회귀는 Turing의 정지 문제 증명과 같은 대각선 구조를 가지며, Reason은 이 점이 이것을 일반적인 무한 회귀 논증과 구별한다고 주장한다.",
+      "속성 이원론, 반성적 일원론, 실재론적 일원론, 착각론은 현재 형태로는 배제되며, Chalmers의 견해는 인간이 비합리적으로 행동하는 경우에만 살아남는다."
+    ],
+    "basis_of_belief_or_evidence_type": "데카르트의 코기토에 세워진 형식 논리적·수학적 증명."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "개념적으로 검증 가능함",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "결과 전체는 데카르트의 코기토를 절대적 자기확신의 타당한 근거로 받아들이는 데 달려 있다. 이론 모형에 대한 한계에서 실제 뇌에서의 에너지 보존 위반으로 건너뛰는 것은 엄밀한 결론을 훨씬 넘어선다.",
+    "open_questions_and_limitations": "Reason은 이 정리가 체계 자체가 아니라 체계에 대한 모형을 제약한다고 명시한다. 엄밀히 말하면 이는 일부 의식 상태가 물리적 상태에 수반하지 않는다는 것만을 보여 주며, 코기토가 자기확신의 근거가 되는지는 이론적 논증으로는 결정할 수 없는 경험적 물음이라고 그녀는 말한다.",
+    "ontological_coherence": "부정적 결과로서는 일관된다. 의식이 긍정적으로 무엇인지는 열린 채로 남으며, Reason은 논증이 성립하려면 물리주의 가정은 필연적일 필요 없이 가능하기만 하면 된다고 지적한다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "어떤 체계의 물리주의적 모형도 자기확신이 가능할 수 없으므로, 순수하게 계산적이거나 물리적인 기계는 Reason이 정의한 의미에서 의식적일 수 없다."
+    },
+    "survival_beyond_death": {
+      "stance": "Uncertain",
+      "rationale": "이 정리는 일부 의식 상태가 물리적이지 않음을 함축하지만, 그것이 뇌의 죽음 뒤에도 지속하는지에 대해서는 아무 말도 하지 않는다."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "자기확신하는 의식이 어떤 물리적 과정에도 수반할 수 없다면, 물리적 하드웨어에서 돌아가는 디지털 복사본은 그것을 재현할 수 없을 것이다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Kim’s Supervenience",
+        "relationship": "비판"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "비판"
+      },
+      {
+        "name": "Velmans's Reflexive Monism",
+        "relationship": "비판"
+      },
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "비판"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reason's No-Go Theorem against Materialism/Supervenience (Landscape of Consciousness entry), Catherine M. Reason",
+        "year": 2019
+      }
+    ]
+  }
+}

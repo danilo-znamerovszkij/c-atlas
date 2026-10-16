@@ -2,8 +2,11 @@
   "id_and_class": {
     "theory_title": "ユングの共時性と集合的無意識",
     "summary": "この枠組みは、因果的連関を欠いた有意味な偶然の一致である共時性が、因果性と並ぶ実在の根本原理であると主張する。それはこの非因果的連関を、意識的な心的状態がそこから創発する、より深い全体論的で心物的に中立な実在に結びつける。",
-    "associated_thinkers": ["Carl Jung", "Wolfgang Pauli"],
-    "category": "異常・変性状態",
+    "associated_thinkers": [
+      "Carl Jung",
+      "Wolfgang Pauli"
+    ],
+    "category": "異常",
     "subcategory": "概念的枠組み",
     "core_identity_tagline": "「非因果的な意味によって結びつけられた意識」",
     "classification_tags": [
@@ -50,38 +53,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "不確か（条件付き）",
+      "stance": "Uncertain",
       "rationale": "意識が根本的で非局所的な心物的実在（集合的無意識）に根ざしているならば、人工システムはこの実在にアクセスないし参与するメカニズムを必要とし、その実現は高度に条件付きとなる。"
     },
     "survival_beyond_death": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "本理論は、元型的要素が存続する拡張された非局所的な実在（集合的無意識／中立な領域）を含意し、生物学的死後の意識状態を認める見解と整合的である。"
     },
     "meaning_and_purpose": {
-      "stance": "究極的／宇宙的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "この枠組みは、内在的な質的意味と目的論的な秩序化因子（元型）を中心に据え、人間主義的ないし生物学的な必然を超えて広がる宇宙的目的を示唆する。"
     },
     "virtual_immortality": {
-      "stance": "可能性が低い（条件付き）",
+      "stance": "Unlikely",
       "rationale": "仮想的不死は個体的自己のデジタル複製に依拠する。意識は集合的で非局所的な源泉に由来するため、非物理的な源泉を捉えることなくシミュレーション内で特定の創発的な人格的意識状態を複製しても、もとの一人称的自己を保存しそこなう可能性が高い。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Pauli–Jung Conjecture",
+        "name": "Pauli’s One World, Two Aspects: Psychophysical Complementarity",
         "relationship": "拡張"
       },
       {
-        "name": "Dual-Aspect Monism",
+        "name": "Neutral Monism",
         "relationship": "両立可能"
       },
       {
-        "name": "Idealisms",
+        "name": "Idealism",
         "relationship": "両立可能"
       },
       {
-        "name": "Quantum Theories",
+        "name": "Quantum & Dimensions",
         "relationship": "重複"
       }
     ],

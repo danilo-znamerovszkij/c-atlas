@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "추상적 실재론(AR)",
     "summary": "추상적 실재론은 심신 설명적 간극을 메우기 위해, 각각 동등한 관찰자 기능을 담고 있는 일인칭(경험하는 자) 관점과 삼인칭(관찰되는 것) 관점 사이의 상보성을 제안한다 . 의식은 전자기장으로 실현된 두 정보 체계의 양방향 인과적 상호작용에 의해 뇌에서 생성되며, 그중 하나가 다른 하나의 관찰 기준으로 작동한다 .",
-    "associated_thinkers": ["John Sanfey"],
-    "category": "비환원적 물리주의",
+    "associated_thinkers": [
+      "John Sanfey"
+    ],
+    "category": "비환원",
     "subcategory": "추상적 실재론",
     "core_identity_tagline": "'관점들의 상보성으로서의 의식'",
     "classification_tags": [
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "이 이론은 필요한 양방향의 인과적 복잡성(즉 두 정보 체계/전자기장의 상호작용)을 달성하기만 한다면 '합성적인 것이라 하더라도' 물리적 체계가 의식을 산출할 수 있다고 진술한다 ."
     },
     "survival_beyond_death": {
-      "stance": "가능성 낮음",
+      "stance": "Unlikely",
       "rationale": "비환원적 물리주의 이론으로서 의식은 복잡한 물리적 기제(뇌 속 전자기장)와 결부되어 있다 . 현상적 현전이 탈신체적 마음의 논리적 가능성을 열어 주기는 하나, 중심 기제는 뇌의 물리적 작동에 의존한다 ."
     },
     "meaning_and_purpose": {
-      "stance": "불확실",
+      "stance": "Uncertain",
       "rationale": "이 이론의 초점은 심신 설명적 간극을 해결하는 데 있다. 비환원적 물리주의는 궁극적 의미/목적에 관해 대체로 중간 지대에 자리하므로, 그것이 가능하기는 하나 이론 자체가 명시적으로 함축하지는 않는다 ."
     },
     "virtual_immortality": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 입증된 인과력을 지닌 물리적 체계에 의해 생성된다면, 이러한 복잡한 정보적·장(場) 동역학을 가상 기질에서 복제하는 데 필요한 첨단 기술은 심적 자아의 업로딩을 허용할 것이며, 이는 비환원적 물리주의라는 분류와 일관된다 ."
     }
   },
@@ -74,11 +76,11 @@
         "relationship": "중첩(두 전자기장이라는 기제를 통합함)"
       },
       {
-        "name": "Strong Emergence",
+        "name": "Emergence",
         "relationship": "양립 가능(의식이 강한 창발과 구별되지 않는다고 간주됨)"
       },
       {
-        "name": "Reductive Physicalism",
+        "name": "Materialism",
         "relationship": "비판(AR은 환원적 물리주의에 호소하기를 명시적으로 피함)"
       },
       {

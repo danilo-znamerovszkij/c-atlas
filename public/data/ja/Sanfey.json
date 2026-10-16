@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "抽象実在論（AR）",
     "summary": "抽象実在論は、心と物質の説明のギャップを橋渡しするために、一人称的（経験する者）視点と三人称的（観察される者）視点のあいだの相補性を提唱し、それぞれが等価な観察者機能を含むとする。意識は、電磁場として実現される二つの情報システムの双方向的な因果的相互作用によって脳内で生成され、一方が他方にとっての観察の参照枠として働く。",
-    "associated_thinkers": ["John Sanfey"],
-    "category": "非還元的物理主義",
+    "associated_thinkers": [
+      "John Sanfey"
+    ],
+    "category": "非還元的",
     "subcategory": "抽象実在論",
     "core_identity_tagline": "「視点の相補性としての意識」",
     "classification_tags": [
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "この理論は、物理系が、必要な双方向的で因果的な複雑さ（すなわち二つの情報システム／電磁場の相互作用）を達成するかぎり、「合成的なものであっても」意識を産出しうると述べる。"
     },
     "survival_beyond_death": {
-      "stance": "ありそうにない",
+      "stance": "Unlikely",
       "rationale": "非還元的物理主義の理論として、意識は複雑な物理的機構（脳内の電磁場）に結びついている。現象的な現前性は身体を離れた心の論理的可能性を生むが、中心的な機構は脳の物理的作動に依存する。"
     },
     "meaning_and_purpose": {
-      "stance": "不確定",
+      "stance": "Uncertain",
       "rationale": "この理論の焦点は、心と物質の説明のギャップを解決することにある。非還元的物理主義は概して究極的な意味／目的に関して中間的な立場をとり、それを可能とはするが、理論そのものによって明示的に含意されはしない。"
     },
     "virtual_immortality": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識が証明された因果的な力をもつ物理系によって生成されるのであれば、これらの複雑な情報的・場的な動態を仮想的な基盤上で複製するのに必要な先進技術は、非還元的物理主義の分類に整合的に、心的自己のアップロードを可能にするはずである。"
     }
   },
@@ -74,11 +76,11 @@
         "relationship": "重複（二つの電磁場の機構を取り入れている）"
       },
       {
-        "name": "Strong Emergence",
+        "name": "Emergence",
         "relationship": "両立可能（意識は強い創発と区別できないとみなされる）"
       },
       {
-        "name": "Reductive Physicalism",
+        "name": "Materialism",
         "relationship": "批判（ARは還元的物理主義に訴えることを明示的に避ける）"
       },
       {

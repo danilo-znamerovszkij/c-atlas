@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "نظرية ستاب في انهيار الدالة الموجية عبر طرح «الأسئلة»",
     "summary": "تطرح هذه النظرية أن الوعي أساسي للكون، وتستند إلى تأويلٍ تقليدي لميكانيكا الكم يتسبب فيه الوعي بانهيار الدالة الموجية الكمومية (فعل القياس). وتمنح هذه الآلية الوعي دورًا سببيًا حاسمًا في العالم الفيزيائي، رابطةً الاختيار الحر للفاعل بالتفعّل الفيزيائي للمرتبطات العصبية.",
-    "associated_thinkers": ["Henry Stapp", "John von Neumann"],
-    "category": "النظريات الكمومية",
-    "subcategory": "النظريات الكمومية",
+    "associated_thinkers": [
+      "Henry Stapp",
+      "John von Neumann"
+    ],
+    "category": "الكمّية",
+    "subcategory": "النظريات الكمّية",
     "core_identity_tagline": "«الوعي بوصفه انهيارًا للدالة الموجية الكمومية»",
     "classification_tags": [
       "quantum",
@@ -52,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "غير مؤكد/مشروط",
+      "stance": "Uncertain",
       "rationale": "بما أن الوعي يُطرَح بوصفه وجودًا أساسيًا مستقلًا لازمًا لإرغام القفزة الكمومية، فقد لا يكفي استنساخ العمليات الفيزيائية أو الحاسوبية المحضة للدماغ في ذكاء اصطناعي لتجسيد هذه الفاعلية الأساسية."
     },
     "survival_beyond_death": {
-      "stance": "ربما",
+      "stance": "Uncertain",
       "rationale": "تُثبِت النظرية أن الوعي أساسي ومتشابك لا ينفصل عن الواقع الكمومي، بما يشير إلى أن تدمير الدماغ الكلاسيكي لا يستلزم بالضرورة نهاية الكِيان الواعي الأساسي، وإن ظلّ البقاء بمنظور الشخص الأول عصيًا على التصور."
     },
     "meaning_and_purpose": {
-      "stance": "نعم",
+      "stance": "Uncertain",
       "rationale": "تمنح النظرية الوعي دورًا سببيًا حيويًا، محوِّلةً الملاحظة السلبية إلى مشاركة فاعلة («ممثلون») في الكون، بما يوفّر وظيفةً ومعنى ملازمَين."
     },
     "virtual_immortality": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "إذا كان الوعي وجودًا أساسيًا مستقلًا لازمًا لانهيار الحالة الفيزيائية، فإن استنساخ الجوانب الفيزيائية/الحاسوبية المحضة للدماغ سيستبعد بالضرورة هذا المُكوِّن غير الفيزيائي اللازم للهوية الذاتية الحقيقية."
     }
   },
@@ -75,15 +78,15 @@
         "relationship": "أساس/تأثير"
       },
       {
-        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
         "relationship": "نظرية كمومية بديلة"
       },
       {
-        "name": "Kauffman’s Mind Mediating Possibles to Actuals",
+        "name": "Kauffman's Mind Mediating Possibles to Actuals",
         "relationship": "تداخل"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "نقد/مدحوضة"
       }
     ],

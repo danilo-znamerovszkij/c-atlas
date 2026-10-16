@@ -1,0 +1,124 @@
+{
+  "id_and_class": {
+    "theory_title": "Sejnowskiの計算的二層と進行波",
+    "summary": "Sejnowskiは、意識が、通常の感覚運動の層の上に乗る第二の認知的な皮質処理の層から生じると提案する。感覚運動の層は発火率によって情報を符号化する。一方、認知の層はミリ秒単位で精密なスパイクのタイミングを用いる。それは進行波と一時的なシナプス可塑性によって組織化され、時間を通じて文脈を保持し、外部からの入力がなくても思考を続けさせる。彼は、これらの機構が理解されれば、意識の問題は「チェシャ猫のように」消えるかもしれないと考える。",
+    "associated_thinkers": [
+      "Terrence J. Sejnowski"
+    ],
+    "category": "唯物論",
+    "subcategory": "計算論的",
+    "core_identity_tagline": "スパイク・タイミングをもつ皮質の層における自己生成的思考としての意識",
+    "classification_tags": [
+      "computational neuroscience",
+      "spike timing",
+      "traveling waves",
+      "postdiction",
+      "thalamus"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、脳が思考について思考している大域的な動的状態である。それは、過去の経験から内的表象を構築する認知的な皮質の層における、自己生成的な活動である。",
+    "ontological_status": "物理主義（計算的、神経動態）",
+    "mind_body_relationship": "心的現象は神経機構である。Sejnowskiは、それらの機構が理解されるにつれて、心についての哲学的問いが科学的な答えを得ると期待する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（スパイクを発するニューロンと進行波の大域的動態から）",
+    "subjectivity_and_intentionality": "経験の統一された「いま」は、事後的に構築される。脳は直前の歴史を修正し、意識的な現在が、次に起こることに適合するようにする。",
+    "qualia_account": "",
+    "ontological_commitments": "スパイクを発する皮質ニューロン、スパイク・タイミング依存性可塑性、進行波、抑制性のパルブアルブミン陽性バスケット細胞、そしてコア視床系とマトリックス視床系。",
+    "epistemic_access": "湿式実験室での電気生理学、フラッシュラグ効果などの精神物理学、計算モデリング、損傷による証拠を通じて。",
+    "constituents_and_structure": "二つの層。第一の層は、発火率符号と、コア視床を用いる長期的な感覚運動ネットワークである。第二の層は、精密なスパイク・タイミング、進行波、マトリックス視床を用いる一時的な認知ネットワークである。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "アクセスと認知（自己生成的思考、作業記憶、意思決定、計画）；経験の時間的統一",
+    "distinctive_mechanism_or_principle": "進行波は、精密にタイミングづけられたスパイクを、時空的な集団符号へと組織化する。これが数時間持続するスパイク・タイミング依存性可塑性を引き起こし、感覚運動ネットワークの上に一時的な認知ネットワークを形成する。",
+    "dynamics_of_emergence": "気づきは事後的である。ある瞬間の知覚は、その後およそ80ミリ秒以内に起こる出来事に依存する。統合の窓は、一次視覚野の約100ミリ秒から、前頭前皮質の最大10秒へと伸びていく。",
+    "location_and_distribution": "大脳皮質。マトリックス視床系は、表層の皮質層へ広く投射する。層内視床核の小さな損傷でも、意識は消失しうる。",
+    "causation_and_functional_role": "認知の層は、長期的な作業記憶、意思決定、そして外部からの刺激がやんだ後も続く思考を支える。時間を越えて文脈を引き寄せ、行為を導く。",
+    "integration_or_binding": "マトリックス視床経路の大域的な協調が経験を統一する。進行波は、一つの神経集団の内部で、空間と時間をまたいで情報を結合する。",
+    "information_flow_or_representation": "進行波は、時間を一つの次元とするホログラフィーに似た符号を形成する。そのため一つの集団が時間の窓を表象でき、AIのTransformerにおける自己注意が文全体にわたって語を関係づけるのに似ている。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "MainenとSejnowskiは、皮質ニューロンが、揺らぐ「凍結ノイズ」入力によって駆動されるとき、ミリ秒単位の精度でスパイクを開始することを見いだした。そのタイミングは、バスケット細胞による抑制後のリバウンドによって定められる。",
+      "フラッシュラグ効果は、閃光の知覚がその後に起こることに依存することを示す。EaglemanとSejnowskiはこれを事後的再構成として解釈する。",
+      "多くの周波数帯域で観察される進行波は、数時間持続するスパイク・タイミング依存性可塑性を引き起こしうる。これは長期的な作業記憶を支持する。",
+      "Sejnowskiは、BOLD fMRI信号は、スパイク発火よりもシナプス可塑性と注意の代謝コストを反映すると提案する。",
+      "大規模言語モデルは、プロンプトが終わるとフィードフォワード活動が止まるが、脳は再帰的ループを通じて自己生成的活動を維持する。"
+    ],
+    "basis_of_belief_or_evidence_type": "実証的（電気生理学、精神物理学、損傷データ）と計算モデリング。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "実証的に検証可能",
+    "known_empirical_interventions_or_tests": "皮質ニューロンへの凍結ノイズ電流の注入；フラッシュラグの精神物理学；皮質の進行波の記録；層内視床の損傷；BOLD fMRI。",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "Sejnowskiは、意識の問題を、知覚、意思決定、計画についての理解が深まるにつれて消えるかもしれないものとして描く。そのため、この枠組みは、なぜそれらが何かのように感じられるのかよりも、認知的機構を扱う。進行波によって引き起こされる可塑性と長期的な作業記憶との結びつきは、もっともらしいものとして提示されているが、実証されてはいない。",
+    "ontological_coherence": "物理主義、およびニューラルな意識の機構についてのCrickの研究計画と整合的である。Sejnowskiは、認知の層を大域的作業空間になぞらえる。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "現在の大規模言語モデルには自己生成的な活動が欠けている。しかしSejnowskiは、進行波と可塑性によって組織化された、自己生成的な「システム2」の動態をもつ機械は、人間の経験により近い認知を得うると示唆する。"
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "意識は皮質と視床の回路の大域的な動的状態であるので、その動態が止まると意識も終わるという見解から導かれる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Sejnowskiは、自己知を思考の機構を理解することとして枠づけており、そこには宇宙的な目的は含まれない。"
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "この見解は計算的であり、原理的には機械による認知を許すが、Sejnowskiは個人の心を写し取ることについては論じていない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "基盤"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Eagleman's Possibilianism",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "両立可能"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reliability of Spike Timing in Neocortical Neurons, Z. F. Mainen and T. J. Sejnowski",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Motion Integration and Postdiction in Visual Awareness, D. M. Eagleman and T. J. Sejnowski",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Regulation of Spike Timing in Visual Cortical Circuits, P. Tiesinga, J. M. Fellous, and T. J. Sejnowski",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Consciousness, Terrence J. Sejnowski",
+        "year": 2015
+      },
+      {
+        "title_with_names": "The Deep Learning Revolution, Terrence J. Sejnowski",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Transformers and Cortical Waves: Encoders for Pulling in Context Across Time, L. Muller, P. S. Churchland, and T. J. Sejnowski",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Dynamical Mechanisms for Coordinating Long-term Working Memory Based on the Precision of Spike-timing in Cortical Neurons, Terrence J. Sejnowski",
+        "year": 2026
+      }
+    ]
+  }
+}

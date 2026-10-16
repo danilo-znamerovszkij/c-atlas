@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "Ostendorfの予測的・パターン駆動型インターフェース",
+    "summary": "Jason Ostendorfは、意識を再帰的な錯覚、すなわち真理ではなく生存のために構築されたパターン補完の脳が生み出すシミュレートされたインターフェースであると論じる。三つの機能がそれを生み出す。すなわち、濾過された感覚入力、予測に用いられる記憶、そして経験を一人称で語る言語である。これにより、自己とその行為主体性は事後的な物語となる。",
+    "associated_thinkers": [
+      "Jason Ostendorf"
+    ],
+    "category": "唯物論",
+    "subcategory": "消去主義/錯覚主義",
+    "core_identity_tagline": "言語によって語られる、生存のためのインターフェースとしての意識",
+    "classification_tags": [
+      "illusionism",
+      "predictive processing",
+      "self-narrative",
+      "free will",
+      "language"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は神経計算の副産物である。脳が生成し、そののち自己として語る、圧縮され偏りをもったインターフェースである。Ostendorfはこれを『運動する情報』と呼ぶ。",
+    "ontological_status": "物理主義（消去主義的／錯覚論的）",
+    "mind_body_relationship": "心は神経計算以外の何ものでもない。Ostendorfは、意識が物質の根源的性質であることも、それ自身の因果的力をもつ創発的システムであることも否定する。",
+    "primitive_or_emergent_status": "どちらでもない",
+    "emergence_type": "該当しない（意識は独立した因果的力をもたない錯覚的な副産物として扱われるため、根源的でも真に創発的でもない）",
+    "subjectivity_and_intentionality": "感じられる自己は二つの源から生じる。記憶と現在との継続的な予測的比較が連続性の感覚を与えること、そして一人称の文法（『私は欲する』『私は信じる』）が、開始したのではない出力を自分が生み出したと私たちに確信させることである。",
+    "qualia_account": "",
+    "ontological_commitments": "感覚受容器、神経のパターン照合と記憶のシステム、学習された言語。内的な自己や、独立した因果的な心は存在しない。",
+    "epistemic_access": "知覚、予測、意思決定のタイミングについての神経科学を通じて知られる。行為主体性についての内省的報告は、信頼できない語りとして扱われる。",
+    "constituents_and_structure": "相互に連動する三つの機能。すなわち、濾過された感覚の流れ、予測的な記憶の想起、そして言語による自己語りである。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "自己意識と行為の感覚（いずれも錯覚として）、自己の連続性",
+    "distinctive_mechanism_or_principle": "生存に適するよう調整されたパターン補完機械が入力を濾過し、記憶から次に来るものを予測し、その出力を一人称の物語で包む。",
+    "dynamics_of_emergence": "進行中の、非随意的なプロセスである。記憶は絶えず想起され現在と比較され、言語はその結果を持続する自己の経験として語り直し続ける。",
+    "location_and_distribution": "脳。決定は前頭前皮質と頭頂皮質で生成され、意識に届く前にそこで生じている。",
+    "causation_and_functional_role": "意識は独立した因果的力をもたない。行為主体性は、脳がすでに出力を生み出したのちに付け加えられた語りである。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "感覚信号は強く濾過され圧縮されるため、意識に届くのはその一部にすぎない。トップダウンの予測は、驚きを最小化するよう感覚フィードバックによって更新される。",
+    "evolutionary_account": "脳は生存のために進化したため、それが構築するインターフェースは、正確な真理よりも有用な行為へ向けて圧縮され偏っている。",
+    "core_claims_and_evidence": [
+      "感覚入力は、意識に届く前に大幅に濾過され圧縮される。",
+      "知覚は、感覚の誤差によって更新されるトップダウンの予測の上で作動する。これはRaoとBallardの予測符号化や、Fristonの自由エネルギー原理に見られる通りである。",
+      "一人称の文法は、人々が開始したのではない出力を自分が生み出したと信じるよう訓練する。",
+      "Soonらは、決定が意識に入る最大十秒前に、前頭前皮質と頭頂皮質の活動から決定を解読できることを見出した。Ostendorfはこれを、行為主体性が事後的であることの証拠と読む。"
+    ],
+    "basis_of_belief_or_evidence_type": "神経科学の知見（予測符号化、決定のタイミング研究、言語相対性）の哲学的統合"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的には検証可能",
+    "known_empirical_interventions_or_tests": "知覚の予測符号化モデル。Soonら（2008）の決定解読研究。言語が知覚を形作ることについての研究（Boroditsky）。",
+    "criticisms_and_tensions": "この見解は、決定のタイミング実験の争われた解釈に依拠している。多くの研究者は、この実験が意識的な選択が錯覚であることを示すとは受け取っていない。意識を錯覚と呼ぶことは、その錯覚を経験する主体が誰なのか、あるいは何なのかという問いを未解決のまま残す。",
+    "open_questions_and_limitations": "この説明は自己と行為の感覚を説明するが、濾過され予測された情報がなぜ何らかの感じを伴うべきなのかについては、ほとんど語らない。",
+    "ontological_coherence": "物理主義の内部では整合的であり、予測処理説や錯覚論に近い。心的因果の否定は、その消去主義的な枠組みと適合している。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "意識が情報処理と自己語りからなるなら、予測し一人称で自己を語る機械は、同じ種類のインターフェースを生み出しうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "自己は神経計算によって生成される物語であるため、脳が停止すると自己も停止する。"
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "真の行為者も自己も存在しないため、いかなる意味も、より深い目的の産物ではなく、生存インターフェースの産物である。"
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "この見解によれば、保存すべき真の自己は存在しない。したがって過程を複製すれば、物語は複製されるが、より深い意味で人格が続くことにはならない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "基盤"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "基盤"
+      },
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Sapolsky's Hard Incompatibilism",
+        "relationship": "両立可能"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "You Are Not Alive: The Illusion of Consciousness and Free Will, Jason Ostendorf"
+      },
+      {
+        "title_with_names": "Ostendorf’s Predictive, Pattern-Driven Interface, Jason Ostendorf",
+        "year": 2025
+      }
+    ]
+  }
+}

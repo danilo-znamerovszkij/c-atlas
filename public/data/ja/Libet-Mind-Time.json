@@ -1,0 +1,127 @@
+{
+  "id_and_class": {
+    "theory_title": "リベットのマインド・タイム：準備電位、無意識の開始、遅延した気づき、遡及する意識",
+    "summary": "ベンジャミン・リベットは、脳活動の時間的経過と経験の時間的経過を比較し、感覚が意識的になるまでに神経活動が最大で約半秒間形成される必要があり、脳は感じられた時間を刺激へと逆に参照すると結論した。行為に適用すると、彼の準備電位の実験は、随意的な行為は無意識に始まり、意識的な意志には拒否する力だけが残ることを示唆した。彼の結果は物理主義の標準的な証拠となったが、リベット自身は現象的経験は非物理的であると考えていた。",
+    "associated_thinkers": [
+      "Benjamin Libet"
+    ],
+    "category": "唯物論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "遅れて、逆向きに参照される経験としての意識",
+    "classification_tags": [
+      "readiness potential",
+      "free will",
+      "neuronal adequacy",
+      "timing",
+      "veto"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象的経験は実在するが、形成に時間のかかる状態である。それは適切な神経活動の最小の持続時間、すなわち「神経的適切性」を必要とし、その見かけ上の直接性は事後的に構成される。",
+    "ontological_status": "二元論（創発的相互作用論）",
+    "mind_body_relationship": "リベットは、主観的経験は非物理的であり、心と脳は因果的に相互作用する独立変数であると考えた。この見解を彼は意識的心的場として展開した。彼のタイミングのデータは物理主義を支持するものとして広く読まれているが、彼はその読み方を退けた。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "強い創発：リベットは、経験は脳活動によって生成されるが、非物理的であり、脳に逆作用しうるものと考えた。",
+    "subjectivity_and_intentionality": "対象となるのは、ファイグルの意味での生の感じ（raw feel）であり、検出や行動とは区別される。動こうとする意識的な意図は、脳が行為の準備を始めた後、しかし運動の前に現れる。",
+    "qualia_account": "リベットは持続時間を、無意識の検出を感じられた感覚へと変換する変数とする。神経的適切性の水準に達しなければ、刺激は感じられることなく検出されうる。",
+    "ontological_commitments": "皮質および視床の神経活動、準備電位、非物理的であるが脳によって生成される意識的場、そして真の意識的拒否権。",
+    "epistemic_access": "覚醒状態の脳神経外科患者における皮質および視床の直接刺激と記録、頭皮脳波、そして回転する時計の点を用いた被験者による時間の報告。",
+    "constituents_and_structure": "三つの区別される変数：神経処理の時間、報告可能な気づきの時間、そして出来事の主観的に経験された時間。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的感覚、主観的な時間、意識的な意志と主体性。",
+    "distinctive_mechanism_or_principle": "「オン時間」因子：適切な神経活動の持続時間は、強度と引き換えの関係で、処理が意識的になるかどうかを決める。そして経験は、その後、初期の皮質反応へと遡って時刻を割り当てられる。",
+    "dynamics_of_emergence": "経験は、およそ500ミリ秒までの無意識の神経段階の後にのみ生じる。リベットは、心的出来事は一般に無意識に始まると示唆した。",
+    "location_and_distribution": "感覚処理には体性感覚皮質と視床、準備電位には運動関連の皮質活動が関与する。",
+    "causation_and_functional_role": "意識的な意志は自発的な行為を開始するのではないが、運動の前のおよそ200ミリ秒のあいだにそれを拒否しうる（「自由な不作為（free won't）」）。リベットはこの拒否を、真の、決定されていない意識的な力として扱った。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "神経的適切性に達すると、経験の感じられた時間は一次誘発電位へと逆に参照されるため、主観的な時間順序は構成された内容である。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "閾値上の皮質刺激が報告された感覚を生むには、最大およそ500ミリ秒のパルス列が必要であった。",
+      "皮膚への刺激は、一次誘発反応をもたない皮質刺激に比べて時刻を前にずらされて経験された。これは主観的な参照の予測どおりである。",
+      "視床刺激の下で、被験者は、感じなかったと報告する持続時間においても、偶然を上回って刺激を検出した。",
+      "準備電位は計画されていない運動のおよそ550ミリ秒前に始まり、衝動の意識はおよそ200ミリ秒前に生じた。"
+    ],
+    "basis_of_belief_or_evidence_type": "覚醒患者における経験的神経生理学と、非物理的で因果的に効力をもつ経験についての哲学的論証の結合。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": "体性感覚皮質、内側毛帯、腹側基底視床の直接刺激。視床刺激下での強制選択検出。時計の点を用いた準備電位の実験パラダイム。",
+    "criticisms_and_tensions": "シュルガー、シット、デアンは、準備電位を確率的な蓄積器の平均化による人工物として説明し、その「開始」は実在する出来事を示さないため、気づきとの時間比較は崩壊すると論じる。デネットは、遡及的な時刻割り当てが内的な劇場を前提としていると退け、ゴメスとポケットは、感覚データはずっと短い潜時とも両立すると読む。批判者はまた、拒否権自体が無意識の原因をもつかもしれず、気づきについての時計による報告は信頼できないと指摘する。",
+    "open_questions_and_limitations": "刺激研究は、再現が難しい小規模な臨床サンプルに基づいており、半秒という数値は確立していない。また、研究された単純で目的のない動きは、実際の決定とは異なる。単一試行において離散的な準備電位が存在するかどうかは未解決のままである。",
+    "ontological_coherence": "理論全体を通じて緊張が走る。物理主義のために引き合いに出されたデータは、非物理主義的な相互作用論者である理論家によるものだからである。タイミングの結果が関係するのは、経験がいつ生じるかであって、経験が何であるかではない。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "リベットは経験を脳活動によって生成される場と結びつけており、非生物学的システムがそれを生成できるかどうかは述べていない。"
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "リベットは経験を非物理的であると考えたが、それを脳活動によって生成されるものとみなした。そのため、この見解のどこにも、経験が脳を超えて存続することを示すものはない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "リベットは、宇宙的な目的を主張することなく、意識的な拒否権を通じて自由意志と道徳的責任を擁護した。"
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "この見解は、シミュレートされた脳が意識的場を生成するかどうかを扱っていない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Libet's Conscious Mental Field",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "批判"
+      },
+      {
+        "name": "Halligan and Oakley’s Species-Enhancing Epiphenomenalism",
+        "relationship": "対照"
+      },
+      {
+        "name": "Sapolsky's Hard Incompatibilism",
+        "relationship": "対照"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mind Time: The Temporal Factor in Consciousness, Benjamin Libet",
+        "year": 2004
+      },
+      {
+        "title_with_names": "Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential), B. Libet, C. A. Gleason, E. W. Wright and D. K. Pearl",
+        "year": 1983
+      },
+      {
+        "title_with_names": "Subjective referral of the timing for a conscious sensory experience, B. Libet, E. W. Wright, B. Feinstein and D. K. Pearl",
+        "year": 1979
+      },
+      {
+        "title_with_names": "Control of the transition from sensory detection to sensory awareness in man by the duration of a thalamic stimulus, B. Libet et al.",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Unconscious cerebral initiative and the role of conscious will in voluntary action, Benjamin Libet",
+        "year": 1985
+      },
+      {
+        "title_with_names": "A testable field theory of mind-brain interaction, Benjamin Libet",
+        "year": 1994
+      },
+      {
+        "title_with_names": "An accumulator model for spontaneous neural activity prior to self-initiated movement, A. Schurger, J. D. Sitt and S. Dehaene",
+        "year": 2012
+      },
+      {
+        "title_with_names": "What is the readiness potential?, A. Schurger, P. B. Hu, J. Pak and A. L. Roskies",
+        "year": 2021
+      }
+    ]
+  }
+}

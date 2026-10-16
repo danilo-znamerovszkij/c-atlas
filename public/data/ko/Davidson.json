@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Davidson의 무법칙적 일원론",
     "summary": "무법칙적 일원론은 모든 심적 사건이 물리적 사건과 동일하다고 보아(개별자 동일성) 일원론적 존재론을 유지한다. 그러나 이 이론은 심적 개념(유형)과 물리적 개념을 연결하는 엄격하고 예외 없는 자연법칙이 존재하지 않으며, 따라서 심리학은 물리학으로 환원될 수 없다고 주장한다. 이 이중의 주장은 심적 인과와 물리 세계의 인과적 완결성 사이의 외견상의 충돌을 해소한다.",
-    "associated_thinkers": ["Donald Davidson"],
+    "associated_thinkers": [
+      "Donald Davidson"
+    ],
     "category": "일원론",
-    "subcategory": "무법칙적 일원론",
+    "subcategory": "이상 일원론",
     "core_identity_tagline": "심적 개별자는 물리적이고, 심적 유형은 무법칙적이다",
     "classification_tags": [
       "monism",
@@ -52,33 +54,42 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능함",
+      "stance": "Possible",
       "rationale": "존재론이 근본적으로 일원론적이므로(모든 심적 사건은 물리적 사건이다) 관련된 복잡한 물리 체계를 인공 매체에서 재현할 수 있다면 AI 의식은 원리상 가능하다. 다만 예측 가능한 심적 법칙이 없다는 점(무법칙성)이 평가를 복잡하게 만든다."
     },
     "survival_beyond_death": {
-      "stance": "아니다",
+      "stance": "No",
       "rationale": "심적 사건은 물리적 사건에 의존한다(개별자 동일성). 이 유물론적 가정 아래에서는 생물학적 기반이 파괴된 이후의 존속이 배제된다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한정됨",
+      "stance": "Humanistic only",
       "rationale": "존재론적 일원론 이론으로서, 인간이 스스로 만들어내는 것 이상의 궁극적 의미나 목적을 일반적으로 정당화하지 않는 유물론적 범주와 부합한다."
     },
     "virtual_immortality": {
-      "stance": "그럴 법하다",
+      "stance": "Likely",
       "rationale": "물리적 기반(뇌의 패턴)이 복제된다면 그 개별자들과 동일한 심적 사건 역시 복제되어야 하며, 이는 다른 비환원적 물리주의 견해와 마찬가지로 가상적 불멸을 달성 가능하게 만든다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Non-Reductive Physicalism", "relationship": "중첩" },
-      { "name": "Property Dualism", "relationship": "중첩" },
       {
-        "name": "Mind-Brain Identity Theory (Type Identity)",
+        "name": "Non-Reductive",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Mind-Brain Identity",
         "relationship": "비판"
       }
     ],
     "sources_and_references": [
-      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+      {
+        "title_with_names": "Thinking Causes, Donald Davidson",
+        "year": 1993
+      }
     ]
   }
 }

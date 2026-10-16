@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "نظرية سمولين السببية في المناظير (Views)",
     "summary": "تقترح هذه النظرية إتمامًا علائقيًا وواقعيًا لنظرية الكم، مؤكدةً أن الكون مبنيّ في أساسه من مجموعة من «مناظير الأحداث»، المُعرَّفة بالمعلومات المتاحة من ماضيها السببي. ويُماهى الوعي مع تلك المناظير النادرة والمحددة التي تكون غير مسبوقة أو فريدة في التاريخ الكوني.",
-    "associated_thinkers": ["Lee Smolin"],
-    "category": "النظريات الكمومية",
-    "subcategory": "نظرية الكم العلائقية/السببية",
+    "associated_thinkers": [
+      "Lee Smolin"
+    ],
+    "category": "الكمّية",
+    "subcategory": "النظرية الكمّية العلائقية/السببية",
     "core_identity_tagline": "الوعي بوصفه مناظير سببية جديدة أو فريدة",
     "classification_tags": [
       "relational physics",
@@ -50,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مشروط",
+      "stance": "Conditional",
       "rationale": "قد تبلغ أنظمة الذكاء الاصطناعي الوعي إذا ولّدت عملياتها الحاسوبية مناظير سببية جديدة وفريدة بحق تستوفي معايير الانتقاء، لكن ذلك غير مضمون بالنسبة إلى العمليات الحاسوبية الروتينية."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "الوعي مرتبط بالأحداث الفيزيائية ومناظيرها السببية في الكون. ولا توصَف أي آلية تتيح لهذه المناظير أن تستمر مستقلةً بمجرد انحلال الركيزة الفيزيائية الكامنة (الدماغ/سلسلة الأحداث)."
     },
     "meaning_and_purpose": {
-      "stance": "غير محدد",
+      "stance": "Uncertain",
       "rationale": "تركّز النظرية على الأنطولوجيا الفيزيائية الأساسية للوعي (كيف تندرج الكواليا في الفيزياء)، ولا تتناول في جوهرها المعنى الكوني أو الغائية."
     },
     "virtual_immortality": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "من المرجّح أن يعيد الاستنساخ الرقمي إنتاج مناظير «شائعة وروتينية»، وهي مناظير يُفترَض صراحةً أنها لا ترتبط بالإدراكات الواعية. أما الوعي الافتراضي الحق فيتطلب توليد الجدة، وهو ما يبدو مستبعدًا عبر مجرّد المحاكاة."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Rovelli's Relational Physics",
+        "name": "Rovelli's Relationship Physics",
         "relationship": "تأثير/تداخل"
       },
       {
-        "name": "Panpsychism (Micropsychism)",
+        "name": "Panpsychism",
         "relationship": "تقييد/تباين"
       },
       {
-        "name": "Bohm’s Implicate-Explicate Order",
+        "name": "Bohm's Implicate-Explicate Order",
         "relationship": "تأثير سياقي"
       }
     ],

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "نظرية فرضية المحتوى لدى ت. كلارك",
     "summary": "تفترض هذه النظرية أن الوعي الظاهراتي هو المحتوى التمثيلي المشتقّ من معالجة نظام معرفي مبنيَنة بنينةً كافية. والخبرة الواعية ذاتية على نحو قاطع ومرتبطة جوهريًا بالدماغ الفيزيائي، عاملةً بوصفها ظاهرة مادية يجسّدها الدماغ.",
-    "associated_thinkers": ["Thomas Clark"],
+    "associated_thinkers": [
+      "Thomas Clark"
+    ],
     "category": "المادية",
-    "subcategory": "التمثيلية",
+    "subcategory": "الرتبة الأولى",
     "core_identity_tagline": "الوعي الظاهراتي بوصفه محتوى تمثيليًا مبنيَنًا",
     "classification_tags": [
       "representational",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "بما أن الوعي مطروح بوصفه ظاهرة فيزيائية محضة ناتجة عن معالجة مبنيَنة بما يكفي، فإن محاكاة هذه البنية في أنظمة اصطناعية متقدّمة ينبغي أن تتيح الوعي."
     },
     "survival_beyond_death": {
-      "stance": "لا (للذات الشخصية) / نعم (للذاتية العامة)",
+      "stance": "No",
       "rationale": "الوعي الفردي تجسّد فيزيائي يزول عند موت الدماغ. غير أن 'الاستمرارية الذاتية العامة' توحي بأن الوعي يستمرّ في سياقات أخرى، وإن لم يكن بوصفه الفردَ المتوفَّى."
     },
     "meaning_and_purpose": {
-      "stance": "وجودي/جوهري",
+      "stance": "Humanistic only",
       "rationale": "الوعي، مدفوعًا بتناهي النظام المتأمِّل لذاته، يخلق بطبيعته عالمًا داخليًا، مقدّمًا غايةً مرتبطة بالحفاظ على الاستمرارية الذاتية."
     },
     "virtual_immortality": {
-      "stance": "مشروط",
+      "stance": "Conditional",
       "rationale": "بوصفها نظرية مادية، فإنه إذا أمكن مضاعفة 'المعالجة التمثيلية المبنيَنة بما يكفي' المحدِّدة مضاعفةً دقيقة في وسط غير بيولوجي، فإن نقل الوعي الشخصي ممكن."
     }
   },
@@ -74,15 +76,15 @@
         "relationship": "متسقة"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "متسقة"
       },
       {
-        "name": "Predictive Processing",
+        "name": "Predictive Theories (Top-Down)",
         "relationship": "متسقة"
       },
       {
-        "name": "Metzinger’s No-Self Representational Theory of Subjectivity",
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
         "relationship": "تأثير"
       }
     ],

@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "윌리엄 제임스의 심리학 이론에는 어려운 문제가 없다",
     "summary": "윌리엄 제임스의 저작에 대한 한 해석에 기반한 이 견해는, 의식이 주관적 경험의 신비가 아니라 '선택 문제'를 해결하도록 진화한 기제라고 주장함으로써 어려운 문제의 패러다임을 뒤집는다. 이 기제는 복잡한 뇌가 만들어 내는 수많은 선택지 가운데 적응적 반응을 선별하여, 뇌의 장기적 이익에 부합하는 결과를 선호함으로써 유기체의 적합도를 높인다.",
-    "associated_thinkers": ["William James", "Tracy Witham"],
+    "associated_thinkers": [
+      "William James",
+      "Tracy Witham"
+    ],
     "category": "유물론",
-    "subcategory": "계통발생적 진화",
+    "subcategory": "계통발생적",
     "core_identity_tagline": "적응적 선택 기제로서의 의식",
     "classification_tags": [
       "evolution",
@@ -41,19 +44,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 일차적으로 기능적 선택 기제라면, 충분한 복잡성에 도달하여 적응적 산출을 우선시하는 유사한 기제를 필요로 하는 인공 체계라면 무엇이든 의식적이라고 볼 수 있을 것이다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "이 의식 해석은 진화한 생물학적 필요와 뇌의 기능에 확고히 뿌리를 두고 있어, 생물학적 죽음 이후의 존속에 대한 여지를 남기지 않는다."
     },
     "meaning_and_purpose": {
-      "stance": "실용주의적",
+      "stance": "Humanistic only",
       "rationale": "의미와 목적은 생물학적 기능에 결부된다. 즉 진화적 적합도를 높이고 '뇌 소유자의 가장 항구적인 이익'을 달성하는 것이다."
     },
     "virtual_immortality": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "기능주의 이론이므로, 기저의 선택 기제와 기능적 조직화를 복제하거나 업로드하면 의식이 성공적으로 이어질 것이다."
     }
   },
@@ -64,7 +67,7 @@
         "relationship": "양립 가능"
       },
       {
-        "name": "Dennett’s Multiple Drafts Model",
+        "name": "Dennett's Multiple Drafts Model",
         "relationship": "양립 가능"
       },
       {

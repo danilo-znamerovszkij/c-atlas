@@ -7,7 +7,7 @@
       "Kevin O’Regan"
     ],
     "category": "唯物論",
-    "subcategory": "関係論的",
+    "subcategory": "身体化",
     "core_identity_tagline": "能動的な世界との相互作用としての意識",
     "classification_tags": [
       "relational",
@@ -54,38 +54,62 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "不確実／条件付き",
+      "stance": "Uncertain",
       "rationale": "標準的な計算では不十分である。意識が可能となるのは、AIシステムが完全な身体化・技能・世界との連続的で自律的な相互作用を達成する場合（生きた有機体に課されるのと同じ要求を満たす場合）に限られる。"
     },
     "survival_beyond_death": {
-      "stance": "否定",
+      "stance": "No",
       "rationale": "意識は、脳と身体が世界と相互作用する連続的で能動的な物理的ループから分離不可能であり、その停止は意識的活動の終焉を意味する。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的のみ",
+      "stance": "Humanistic only",
       "rationale": "意識は行為主体が文脈・知識・理解を獲得することを可能にし、相互作用に意味を割り当て能動的な行動を導く能力を与えるが、超越的な目的を含意しはしない。"
     },
     "virtual_immortality": {
-      "stance": "きわめて信じがたい",
+      "stance": "Unlikely",
       "rationale": "脳の内的過程（「機械的な座」）だけをアップロードしても、意識と定義される、脳に束縛されない外的で連続的な相互作用的活動を捉えることはできない。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Enactivism (Varela & Thompson)", "relationship": "構成的枠組み" },
-      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "基礎的影響" },
-      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "哲学的影響" },
-      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "部分的に両立可能／重なり" },
-      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "関連／補完的（能動的知覚、共有回路モデル）" },
-      { "name": "Internalist Materialism", "relationship": "批判" },
-      { "name": "Dualism", "relationship": "批判" }
+      {
+        "name": "Enactivism",
+        "relationship": "構成的枠組み"
+      },
+      {
+        "name": "Ecological Psychology (James J. Gibson)",
+        "relationship": "基礎的影響"
+      },
+      {
+        "name": "Embodied Phenomenology (Maurice Merleau-Ponty)",
+        "relationship": "哲学的影響"
+      },
+      {
+        "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)",
+        "relationship": "部分的に両立可能／重なり"
+      },
+      {
+        "name": "Susan Hurley — Action/Perception & Shared Circuits",
+        "relationship": "関連／補完的（能動的知覚、共有回路モデル）"
+      },
+      {
+        "name": "Internalist Materialism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "批判"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
         "year": 2010
       },
-      { "title_with_names": "Varieties of Presence, Alva Noë", "year": 2012 },
+      {
+        "title_with_names": "Varieties of Presence, Alva Noë",
+        "year": 2012
+      },
       {
         "title_with_names": "Is consciousness an illusion, Alva Noë",
         "year": 2007

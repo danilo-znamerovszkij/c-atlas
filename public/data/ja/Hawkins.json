@@ -1,0 +1,124 @@
+{
+  "id_and_class": {
+    "theory_title": "ホーキンスの千の脳による想起モデル",
+    "summary": "ジェフ・ホーキンスは、新皮質は皮質円柱ごとに一つずつ、世界についての何千もの並列モデルを構築し、それらが投票によって一つの知覚へ到達すると論じる。彼の説明では、気づきとは、脳が自らの直近のモデル状態を絶えず記憶し、想起することである。他方、クオリアは、均質な皮質の各部位がたまたま何に結線されているかを反映する。",
+    "associated_thinkers": [
+      "Jeff Hawkins"
+    ],
+    "category": "唯物論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "皮質モデルの想起された状態としての意識",
+    "classification_tags": [
+      "neocortex",
+      "cortical columns",
+      "reference frames",
+      "memory",
+      "machine consciousness"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、新皮質のモデル化によって生み出される、脳が生成するシミュレーションである。気づきは脳の直近のモデル状態の連続的な保存と想起と同一視され、クオリアは皮質円柱の結線性と同一視される。",
+    "ontological_status": "物理主義（機能主義的）",
+    "mind_body_relationship": "心とは、新皮質が行うことである。経験は、皮質モデル、投票、予測、行為の出力であり、機能的アーキテクチャを超える追加的な要素はない。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "分散した皮質モデル化と、モデル状態の記憶から生じる弱い創発。",
+    "subjectivity_and_intentionality": "脳の世界モデルには自己のモデルが含まれており、意識的であるという感覚は、皮質が自らの状態を絶えず記録し想起することから生じる。志向性は、円柱が対象、場所、概念に付与する感覚運動的な参照枠に基づく。",
+    "qualia_account": "同じ回路が視覚、触覚、聴覚を動かしているので、ホーキンスは感覚間の質的な差異を、ある円柱が何に結線されているか、すなわちどの入力を受け取りどの行動を駆動するかに帰する。彼は、こうした説明が成熟するにつれて、ハードプロブレムは消えると予想する。",
+    "ontological_commitments": "皮質円柱、グリッド細胞と場所細胞の機構から採られた地図状の参照枠、予測的な神経活動、そしてモデル状態の記憶痕跡。",
+    "epistemic_access": "神経解剖学、皮質回路の計算論的モデル化、そして消された記憶や自己報告についての思考実験を通じて研究される。",
+    "constituents_and_structure": "およそ十五万の皮質円柱であり、それぞれが対象と概念についての完全な感覚運動モデルを学習する。それらは豊かに相互結合しており、部分的なモデルが投票によって一つの知覚へ収束する。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "気づき、知覚の統一性、自己モデル化、クオリア（デフレ的に扱われる）。主として知能の理論である。",
+    "distinctive_mechanism_or_principle": "何千もの円柱水準のモデルが投票して合意された知覚に達し、気づきは脳の直近のモデル状態の連続的な記憶と想起である。",
+    "dynamics_of_emergence": "連続的な過程である。皮質は予測を続け、予測が外れると自らのシミュレーションを更新し、自らの状態を瞬間ごとに記録する。",
+    "location_and_distribution": "新皮質全体に分散しており、中央の処理装置はない。古い皮質下の脳が駆動や感情を供給する。",
+    "causation_and_functional_role": "直近の状態の想起された記憶が、継続的な行為を駆動する。予測の不一致は注意を引き、モデルの改訂を促す。満たされた予測は気づかれない。",
+    "integration_or_binding": "相互結合した円柱の間の投票によって、歪んでまばらな入力が、単一で安定した、対象中心の知覚へと変わる。ホーキンスはこれを、結合問題への機構論的な答えとして提示する。",
+    "information_flow_or_representation": "新皮質に届くのは電気的なスパイクだけである。円柱は、感覚入力と運動出力を組み合わせる参照枠を用いるので、知識は本質的に感覚運動的であり、知覚とは世界についてのモデルのシミュレーションである。",
+    "evolutionary_account": "ホーキンスは脳を、進化によって得られた駆動を担う古い皮質下の脳と、世界モデルを構築する新しい新皮質とに分ける。",
+    "core_claims_and_evidence": [
+      "マウントキャッスルに従い、ホーキンスは、新皮質は一つの共通のアルゴリズムを実行し、領域は構造ではなく結線において異なると考える。",
+      "各皮質円柱は、グリッド細胞と場所細胞の機構に由来する参照枠を用いて、対象の完全なモデルを学習する。",
+      "円柱は投票して、断片的な感覚入力から統一された知覚を生む。",
+      "記憶から消された行為は無意識的だと判断されるだろう。ホーキンスはこれが、気づきは想起された状態から成ることを示すと考える。",
+      "世界モデルを学習し、その状態を絶えず保存し想起するシステムは、どれも意識的となるだろう。"
+    ],
+    "basis_of_belief_or_evidence_type": "理論神経科学と計算論的モデル化、ならびに記憶についての思考実験。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": "皮質についての主張（円柱水準のモデル、グリッド細胞に似た参照枠、投票）は、神経科学と計算論的モデル化のための仮説として定式化されている。想起された状態と気づきとの結びつきは、主として思考実験に依拠している。",
+    "criticisms_and_tensions": "神経科学に好意的な論者は、クオリアを結線性と同一視することは、なぜどのパターンも感じられるのかを説明せず、相関を言い直しているにすぎないと反論する。神経科学者はまた、哺乳類の新皮質が鳥類や爬虫類の外套と酷似しているので、古い脳と新しい脳との鋭い区分は、すでに退けられた三位一体脳の図式の復活だと批判する。",
+    "open_questions_and_limitations": "ホーキンスは、彼が難問を解いていないことを認めている。この説明は、アクセス、統一性、自己モデル化を扱うが、現象的な性格については説明しないままである。",
+    "ontological_coherence": "機能主義的な物理主義として首尾一貫している。ただし、ハードプロブレムが消えるという彼の確信は、論証ではなく予測である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "ホーキンスは、千の脳の原理に基づいて作られた機械は、古い脳の進化によって得られた駆動を欠くので、情動を欠くとはいえ意識をもつと考える。"
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "ここでは意識は新皮質のモデル化によって生み出されるので、脳の死を越えて存続するものは何もない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "この理論は、経験を脳の機能として説明し、宇宙的な目的を措定しない。"
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "適切な機能的アーキテクチャが意識に十分であるならば、ある人の皮質モデルを再現するシステムは、原理的にはそれを担いうる。ただしホーキンスは、アップロードについては論じていない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Budson’s Consciousness as a Memory System",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Chalmers's Panpsychism",
+        "relationship": "対照"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "両立可能"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A Thousand Brains: A New Theory of Intelligence, Jeff Hawkins",
+        "year": 2021
+      },
+      {
+        "title_with_names": "On Intelligence, Jeff Hawkins and Sandra Blakeslee",
+        "year": 2004
+      },
+      {
+        "title_with_names": "A framework for intelligence and cortical function based on grid cells in the neocortex, Jeff Hawkins, M. Lewis, M. Klukas, S. Purdy and S. Ahmad",
+        "year": 2019
+      },
+      {
+        "title_with_names": "A theory of how columns in the neocortex enable learning the structure of the world, Jeff Hawkins, S. Ahmad and Y. Cui",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Why neurons have thousands of synapses, a theory of sequence memory in neocortex, Jeff Hawkins and S. Ahmad",
+        "year": 2016
+      },
+      {
+        "title_with_names": "An organizing principle for cerebral function: The unit module and the distributed system, Vernon B. Mountcastle",
+        "year": 1978
+      },
+      {
+        "title_with_names": "Facing up to the problem of consciousness, D. J. Chalmers",
+        "year": 1995
+      }
+    ]
+  }
+}

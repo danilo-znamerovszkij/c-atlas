@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "المادية المسيحية وبعث الموتى عند فان إنفاغن",
     "summary": "تقترح هذه النظرية صورةً من المادية المسيحية يكون فيها الشخص الإنساني كياناً مادياً بالكامل، رافضةً بذلك ثنائية الجوهر على أساسين فلسفي وكتابي معاً. وتحاجّ بأن الهوية الشخصية عبر الموت تُصان بحفظ الله «نواةً عارية» متصلة فيزيائياً وسببياً من الجسد المادي الأصلي حتى البعث النهائي.",
-    "associated_thinkers": ["Peter van Inwagen"],
-    "category": "الفيزيائية غير الاختزالية",
+    "associated_thinkers": [
+      "Peter van Inwagen"
+    ],
+    "category": "اللااختزالية",
     "subcategory": "المادية المسيحية",
     "core_identity_tagline": "المادية موفَّقةً مع البعث الكتابي",
     "classification_tags": [
@@ -51,31 +53,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "محتمل",
+      "stance": "Likely",
       "rationale": "بوصفها نظرية مادية، فإن الوعي في نهاية المطاف نتاج تنظيم فيزيائي معقد، بما يعني أن الذكاء الاصطناعي ينبغي أن يقدر من حيث المبدأ على تجسيد الوعي إذا تحققت الركيزة الفيزيائية المطلوبة."
     },
     "survival_beyond_death": {
-      "stance": "نعم (مشروط بالتدخل الإلهي)",
+      "stance": "Conditional",
       "rationale": "الهدف الأساسي للنظرية هو توفير آلية (حفظ الله لنواة عارية) لبلوغ الشخص المادي البعثَ الكتابي والبقاءَ بعد الموت."
     },
     "meaning_and_purpose": {
-      "stance": "كوني/لاهوتي",
+      "stance": "Cosmic/Ultimate",
       "rationale": "يقوم الإطار بأكمله على التزام لاهوتي ببعث الموتى، بما ينطوي على معنى وغاية نهائيين ضمن خطة إلهية."
     },
     "virtual_immortality": {
-      "stance": "محتمل",
+      "stance": "Likely",
       "rationale": "بما أن الشخص شيء مادي، فإن رفع الحالة الفيزيائية الكاملة للدماغ ينبغي أن يفضي من حيث المبدأ إلى استنساخ وظيفي للذات الواعية، مما يتيح الخلود الافتراضي."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "نقد" },
-      { "name": "Papineau’s Mind-Brain Identity", "relationship": "تداخل" },
       {
-        "name": "Murphy’s Non-Reductive Physicalism",
+        "name": "Dualism",
+        "relationship": "نقد"
+      },
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "تداخل"
+      },
+      {
+        "name": "Murphy's Non-Reductive Physicalism",
         "relationship": "متوافقة"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "تداخل" }
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "تداخل"
+      }
     ],
     "sources_and_references": [
       {

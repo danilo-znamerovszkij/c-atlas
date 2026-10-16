@@ -5,8 +5,8 @@
     "associated_thinkers": [
       "György Buzsáki"
     ],
-    "category": "유물론 이론",
-    "subcategory": "신경생물학적 이론",
+    "category": "유물론",
+    "subcategory": "항상성",
     "core_identity_tagline": "‘행위에 근거 지어진 자기유발 신경 리듬으로서의 의식’",
     "classification_tags": [
       "neurobiological",
@@ -57,26 +57,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "유물론적/신경생물학적 이론으로서 의식이 전적으로 물리적임을 함축한다. 그 기제(신경 통사론, 자기유발 리듬, 행위 기반 근거 짓기)가 비생물학적 체계에서 구현될 수 있다면 인공지능의 의식은 원리상 달성 가능하다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식/인지는 오로지 생물학적 뇌 물질의 특정하고 고도로 복잡한 동역학에서 기원하는 것으로 설명된다. 이러한 물질적 과정이 중단된 이후의 존속은 배제된다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "초점은 적응적 이점을 위해 진화한 생존 및 가설 검증 기제로서의 뇌에 있다. 유물론과 일관되게, 인간의 행위주체성이 만들어낸 것 외에는 궁극적인 우주적 의미나 목적, 가치를 제공하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "의식이 기술된 신경 패턴, 리듬, 인지 지도에 의해 엄밀히 실현된다고 가정하면, 이 고도로 통합된 체계를 비생물학적 매체에서 완벽하게 복제함으로써 원래의 일인칭적 정신적 자아가 보존되어 가상 불멸이 원리상 달성 가능하다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Brain Circuits and Cycles (9.2.11)",
+        "name": "Brain Circuits and Cycles Theories",
         "relationship": "중첩"
       },
       {
@@ -84,11 +84,11 @@
         "relationship": "양립 가능"
       },
       {
-        "name": "Electromagnetic Field Theories (9.3)",
+        "name": "Electromagnetic",
         "relationship": "정합 가능성 있음"
       },
       {
-        "name": "Integrated Information Theory (12)",
+        "name": "Integrated Information Theory",
         "relationship": "대조(기계론적 초점 대 현상적/공리적 초점)"
       }
     ],

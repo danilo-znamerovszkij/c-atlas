@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "라딘의 유물론 비판",
     "summary": "이 관점은 (텔레파시나 염력과 같은) 초심리 현상에 대한 경험적 증거가 비국소적 마음의 존재를 시사한다고 상정함으로써 유물론에 도전한다. 의식은 근본적으로 원초적이며 아마도 '의식의 대양'이고, 에너지와 물질은 그로부터 뒤이어 창발한다고 보아 의식에 대한 뇌 기반 설명을 반박한다.",
-    "associated_thinkers": ["Dean Radin"],
-    "category": "이상 현상과 변성 상태",
-    "subcategory": "초심리 현상에 기반한 형이상학",
+    "associated_thinkers": [
+      "Dean Radin"
+    ],
+    "category": "이상현상",
+    "subcategory": "프시 주도 형이상학",
     "core_identity_tagline": "초심리 현상이 드러내는 근본적 대양으로서의 의식",
     "classification_tags": [
       "psi",
@@ -53,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부/불확실",
+      "stance": "Conditional",
       "rationale": "의식이 (아마도 생물학적이거나 비고전적인) 특정 경로를 통해서만 접근 가능한 근본적 '대양'에서 파생된다면, AI 체계가 의식을 지닐 가능성은 전적으로 그것이 이 근본적이고 비국소적인 실재에 접근하거나 그것을 구현할 수 있는지에 달려 있다."
     },
     "survival_beyond_death": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식을 뇌가 전적으로 생성하는 것이 아니라 비국소적이고 근본적인 것으로 상정함으로써, 이 모델은 물리적 신체와 뇌가 해체된 후에도 의식('대양' 또는 비물리적 구성 요소)이 존속할 수 있음을 시사한다."
     },
     "meaning_and_purpose": {
-      "stance": "가능성 높음(우주적/궁극적)",
+      "stance": "Cosmic/Ultimate",
       "rationale": "의식이 모든 실재의 궁극적 토대라는 주장은 기저의 형이상학적 구조를 함축하며, 순전히 인간이 구성한 것을 넘어서는 궁극적인 우주적 의미/목적의 근거를 제공한다."
     },
     "virtual_immortality": {
-      "stance": "아니다",
+      "stance": "No",
       "rationale": "의식이 근본적이고 비물리적이며 비국소적인 구성 요소에 의존한다면, 물리적 뇌를 가상 기질에 복제하더라도 진정한 자기 연속성에 요구되는 본질적인 의식적 구성 요소를 포착하는 데 반드시 실패할 것이다."
     }
   },
@@ -76,15 +78,15 @@
         "relationship": "중첩/양립 가능"
       },
       {
-        "name": "Quantum Theories",
+        "name": "Quantum & Dimensions",
         "relationship": "중첩/영향"
       },
       {
-        "name": "Idealisms",
+        "name": "Idealism",
         "relationship": "양립 가능/확장"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "비판/대립"
       }
     ],

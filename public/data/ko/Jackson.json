@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "잭슨의 투명성 표상주의와 지식 논변",
     "summary": "프랭크 잭슨의 투명성 표상주의는 지각 경험의 현상적 성격이 그 표상적 내용에 의해 남김없이 규정된다고 보며, 이는 우리가 경험을 '꿰뚫어 보아' 대상의 속성에 이른다는 것을 뜻한다. 이 입장은 일차적으로 이전에 물리주의를 반박하는 논변으로 제시되었던 그 자신의 유명한 사고 실험, 곧 지식 논변의 결론을 무너뜨리기 위해 전개되었다.",
-    "associated_thinkers": ["Frank Jackson"],
-    "category": "유물론 이론",
-    "subcategory": "표상주의",
+    "associated_thinkers": [
+      "Frank Jackson"
+    ],
+    "category": "유물론",
+    "subcategory": "일차",
     "core_identity_tagline": "‘현상적 성격은 표상적 내용에 의해 남김없이 규정된다’",
     "classification_tags": [
       "representationalism",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "의식이 표상적 내용과 기능적 역할에 의해 남김없이 규정되고 이러한 속성이 계산적으로 실현될 수 있다면, 인공지능 체계도 의식을 획득할 수 있다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "이 이론은 유물론/물리주의의 옹호이므로, 의식은 오로지 물리적 체계(뇌 또는 그 기능적/표상적 등가물)에 결부되며 생물학적 정지 이후의 존속은 불가능하다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한정",
+      "stance": "Humanistic only",
       "rationale": "유물론적 이론으로서, 인간이 스스로 만들어내는 것 이외의 궁극적 의미나 목적을 제공하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "현상적 성격이 기능적/표상적 내용에 의해 온전히 포착되므로, 그 내용을 완벽히 복제(업로딩)하면 원래의 일인칭적 심적 자아가 보존될 것이다."
     }
   },
@@ -78,7 +80,7 @@
         "relationship": "토대"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "중첩"
       },
       {

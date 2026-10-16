@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Ilusionismo de Dennett",
+    "summary": "Daniel Dennett sostiene que los qualia, concebidos como propiedades intrínsecas, inefables, privadas y conocidas de forma inmediata de la experiencia, no existen; son invenciones de los filósofos. La experiencia es real, pero no es lo que parece desde dentro: los procesos inconscientes del cerebro producen una benigna «ilusión de usuario», y no hay nada en la conciencia más allá de las funciones y disposiciones que intervienen.",
+    "associated_thinkers": [
+      "Daniel Dennett"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Eliminativismo/Ilusionismo",
+    "core_identity_tagline": "La conciencia como benigna ilusión de usuario",
+    "classification_tags": [
+      "illusionism",
+      "qualia",
+      "user illusion",
+      "functionalism",
+      "eliminativism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia es la actividad funcional del cerebro, que se nos presenta como una ilusión de usuario. «No hay qualia».",
+    "ontological_status": "Fisicalismo (ilusionista)",
+    "mind_body_relationship": "La conciencia es enteramente un producto de los procesos inconscientes del cerebro. Dennett rechaza cualquier dominio interior, no físico, de propiedades sentidas.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia débil (la ilusión de usuario surge de procesos cerebrales inconscientes; los qualia en sí son ilusorios, no emergentes)",
+    "subjectivity_and_intentionality": "Dennett concede que parece haber fenomenología, un hecho que necesita explicación, pero sostiene que de ello no se sigue que realmente haya fenomenología. La visión en primera persona describe mal lo que sucede.",
+    "qualia_account": "No hay qualia en el sentido tradicional. Dennett llama a las supuestas propiedades intrínsecas, inefables y privadas «nada más que invenciones de los filósofos».",
+    "ontological_commitments": "El cerebro y sus procesos inconscientes, funciones y disposiciones.",
+    "epistemic_access": "Mediante la ciencia en tercera persona de cómo el cerebro produce las apariencias que informamos. La convicción en primera persona es un dato que hay que explicar, no una ventana a la naturaleza de la experiencia.",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (desinflada, como ilusión de usuario); qualia (negados)",
+    "distinctive_mechanism_or_principle": "La ilusión de usuario. Igual que los iconos del escritorio de un ordenador representan procesos subyacentes complejos, el cerebro se nos presenta de forma simplificada, que confundimos con un mundo interior de cualidades.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "En los procesos inconscientes del cerebro, sin un teatro interior.",
+    "causation_and_functional_role": "La ilusión de usuario es benigna: nos permite gestionarnos sin acceder a la complejidad subyacente del cerebro.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Los qualia, definidos como intrínsecos, inefables, privados y aprehensibles de forma inmediata, no existen.",
+      "Que parezca haber fenomenología no muestra que haya fenomenología.",
+      "La conciencia es una benigna ilusión de usuario creada por los procesos inconscientes del cerebro.",
+      "Dennett no niega que tengamos experiencias; niega que haya algo en ellas más allá de funciones y disposiciones."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica, informada por la ciencia cognitiva y por la analogía con las interfaces de los ordenadores."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "A menudo se lee a Dennett como quien niega que exista la experiencia, y los críticos responden que una ilusión de experiencia sería en sí misma una experiencia. Dennett se resistió a la etiqueta eliminativista, aunque muchos filósofos la aplican a su rechazo de los qualia.",
+    "open_questions_and_limitations": "Si la visión cuenta como ilusionismo o como eliminativismo depende de cómo se definan la «conciencia» y los «qualia».",
+    "ontological_coherence": "Coherente con el materialismo. Keith Frankish llama a Dennett el «ilusionista original» y construye su propio ilusionismo sobre los ataques de Dennett a los qualia."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Como la conciencia no es más que funciones y disposiciones, una máquina con la organización funcional adecuada podría tenerla; Dennett no aborda este punto aquí."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Como la conciencia es un producto de los procesos del cerebro, termina cuando estos terminan."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "El materialismo de Dennett, y su lugar entre los Nuevos Ateos, no dejan espacio para un propósito cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Influencia"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Fundamento"
+      },
+      {
+        "name": "Dennett’s Heterophenomenology",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Churchland’s Eliminative Materialism",
+        "relationship": "Solapamiento"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness Explained, Daniel Dennett"
+      },
+      {
+        "title_with_names": "I've Been Thinking, Daniel Dennett",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Dennett’s Illusionism (Landscape of Consciousness), Daniel Dennett",
+        "year": 1992
+      }
+    ]
+  }
+}

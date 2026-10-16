@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Le physicalisme non réductif de Murphy",
     "summary": "Cette théorie affirme que la conscience est entièrement physique, provenant uniquement des cerveaux biologiques, mais que les propriétés ou états mentaux sont considérés comme ontologiquement distincts et irréductibles aux états physiques sous-jacents . Elle cherche à fournir une explication non dualiste de la personne humaine qui soit philosophiquement robuste, scientifiquement compatible et théologiquement acceptable .",
-    "associated_thinkers": ["Nancey Murphy"],
-    "category": "Physicalisme Non Réductif",
-    "subcategory": "Physicalisme Non Réductif",
+    "associated_thinkers": [
+      "Nancey Murphy"
+    ],
+    "category": "Non réductif",
+    "subcategory": "Physicalisme non réductif",
     "core_identity_tagline": "L'esprit est une propriété physique irréductiblement distincte",
     "classification_tags": [
       "physicalism",
@@ -22,9 +24,8 @@
     "subjectivity_and_intentionality": "Ces traits mentaux sont supposés être des propriétés/aspects réels et irréductibles de l'organisme humain tout entier, nécessaires à la conscience .",
     "qualia_account": "Les propriétés phénoménales qualitatives sont des états mentaux irréductibles qui émergent des processus physiques du cerveau . Le cœur de la théorie repose sur le maintien de la réalité de ces propriétés tout en rejetant le réductionnisme .",
     "ontological_commitments": "Substance physique ; propriétés ou états mentaux non réductibles ; organisation causale hiérarchique (causalité descendante) .",
-    "epistemic_access": "La conscience est connaissable à la fois par l'investigation philosophique, démontrant l'irréductibilité, et par la compatibilité avec les neurosciences cognitives empiriques .",
-    "constituents_and_structure": "La substance unique est entièrement physique ; les états mentaux sont des caractéristiques du système de niveau supérieur de cet organisme physique, apparaissant à travers une dynamique complexe et non linéaire .",
-    "epistemic_access": "Accessible via des arguments philosophiques démontrant la non-réductibilité, couplés aux résultats empiriques des neurosciences cognitives ."
+    "epistemic_access": "Accessible via des arguments philosophiques démontrant la non-réductibilité, couplés aux résultats empiriques des neurosciences cognitives .",
+    "constituents_and_structure": "La substance unique est entièrement physique ; les états mentaux sont des caractéristiques du système de niveau supérieur de cet organisme physique, apparaissant à travers une dynamique complexe et non linéaire ."
   },
   "mechanism_and_dynamics": {
     "scope_of_consciousness": "Phénoménale ; propriétés mentales (incluant l'intentionnalité) ; efficacité causale ; conscience de soi (inférée via une anthropologie non dualiste) .",
@@ -53,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si la conscience est une propriété émergente non réductible mais entièrement physique de systèmes physiques complexes (le « bon type » de physique), elle devrait pouvoir être instanciée dans des substrats artificiels suffisamment complexes ."
     },
     "survival_beyond_death": {
-      "stance": "Non, à l'exception d'une condition",
+      "stance": "Conditional",
       "rationale": "La conscience étant entièrement dépendante du cerveau biologique, elle disparaît à la mort corporelle . La survie nécessite un mécanisme externe spécifique, tel qu'une intervention divine (résurrection des morts) ."
     },
     "meaning_and_purpose": {
-      "stance": "Ultime",
+      "stance": "Cosmic/Ultimate",
       "rationale": "La théorie est souvent déployée dans un cadre théiste (anthropologie chrétienne) pour soutenir un sens, une finalité et une valeur ultimes dérivés des intentions de Dieu pour la personne psychosomatique ."
     },
     "virtual_immortality": {
-      "stance": "Hautement probable",
+      "stance": "Likely",
       "rationale": "En supposant une duplication parfaite du système physique complexe nécessaire (le cerveau), les propriétés mentales émergentes et irréductibles doivent également être dupliquées, assurant la continuité de la première personne si la technologie peut atteindre cette complexité ."
     }
   },
@@ -76,11 +77,11 @@
         "relationship": "Chevauchement (souvent considéré comme une forme de dualisme des propriétés)"
       },
       {
-        "name": "Emergence (Strong)",
+        "name": "Emergence",
         "relationship": "Influence (nécessite la causalité descendante pour la cohérence philosophique)"
       },
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "Critique (signale explicitement une opposition aux dualismes anthropologiques du corps et de l'âme)"
       },
       {

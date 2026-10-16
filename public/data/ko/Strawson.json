@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Strawson의 범심론",
     "summary": "Strawson은 물리주의에 대해 실재론적 견해를 취하는 철학자라면 누구나 모든 물리적 현상이 본유적으로 경험적 혹은 현상적이라는 점을 받아들여야 하며, 그 결과 '진정한 유물론'의 필연적 귀결로서 범심론(또는 범경험론)에 이르게 된다고 논한다. 의식적 경험의 존재는 가장 확실한 사실이므로 진정한 물리주의라면 이를 부정할 수 없다 .",
-    "associated_thinkers": ["Galen Strawson"],
+    "associated_thinkers": [
+      "Galen Strawson"
+    ],
     "category": "범심론",
-    "subcategory": "범경험론",
+    "subcategory": "범경험주의",
     "core_identity_tagline": "'진정한 유물론은 범심론을 함축한다'",
     "classification_tags": [
       "real materialism",
@@ -51,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "아마도 그렇다",
+      "stance": "Likely",
       "rationale": "의식이 모든 기본적 물리 존재자의 환원 불가능한 속성이라면, 물리적 물질로 이루어진 AI 역시 내적 자각을 가져야 한다. 다만 결합 문제가 해결되고 미시심적 측면이 고도의 기술로 조작될 수 있어야 한다 ."
     },
     "survival_beyond_death": {
-      "stance": "가능성이 낮다(희박하다)",
+      "stance": "Unlikely",
       "rationale": "세계가 의식으로 충만해 있다 하더라도, 존속은 미시적 요소들이 거시적 의식으로 응집되는 복잡한 과정을 되돌릴 것을 요구하며, 뇌가 해체된 뒤의 일인칭적 존속에는 이것이 어려워 보인다 ."
     },
     "meaning_and_purpose": {
-      "stance": "가능함",
+      "stance": "Uncertain",
       "rationale": "범심론은 유물론(궁극적 목적 없음)과 이원론/관념론(궁극적 목적 있음) 사이에 위치하며, 궁극적 의미/목적/가치의 가능성을 시사한다 ."
     },
     "virtual_immortality": {
-      "stance": "아마도 그렇다",
+      "stance": "Likely",
       "rationale": "의식이 실재의 짜임에 내재하는 규칙적 속성이라면, 고도의 기술은 의식을 복제하거나 업로드하기 위해 미시심적 힘을 결집하거나 조작하는 데 필요한 규칙성을 학습할 수 있을 것이다 ."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Chalmers’s Panpsychism",
+        "name": "Chalmers's Panpsychism",
         "relationship": "양립 가능/영향"
       },
       {
@@ -78,7 +80,7 @@
         "relationship": "중첩/종합"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "비판"
       }
     ],

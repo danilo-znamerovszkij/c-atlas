@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "الشكّانية المناهِضة لهوس علم الأعصاب لدى تاليس",
     "summary": "ينتقد هذا المنظور المحاولات الطبيعانية والمادية لتفسير الوعي ويرفضها، محتجًّا بأن تكميم النشاط العصبي يناقض في جوهره الوصولَ إلى الخبرة الذاتية الكيفية. ويفترض أن الدماغ ضروري لكنه غير كافٍ، بما يبقي الجوهر العميق للوعي والذات والقصدية لغزًا غير قابل للاختزال.",
-    "associated_thinkers": ["Raymond Tallis"],
-    "category": "نظريات التحدّي",
-    "subcategory": "الشكّانية المناهِضة لهوس علم الأعصاب",
+    "associated_thinkers": [
+      "Raymond Tallis"
+    ],
+    "category": "التحدّي",
+    "subcategory": "الشك المناهض لنزعة الهوس العصبي",
     "core_identity_tagline": "'الوعي بوصفه لغزًا باقيًا على حاله'",
     "classification_tags": [
       "skepticism",
@@ -51,30 +53,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "بما أن الوعي يتطلّب كيفيات ذاتية غير قابلة للاختزال وقصدية لا تفسّرها الأفعال الفيزيائية المحضة، فإن الأنظمة الحوسبية الاصطناعية (التي تعمل على أوصاف فيزيائية/وظيفية) لا يمكنها بلوغ وعي حقيقي."
     },
     "survival_beyond_death": {
-      "stance": "غير مؤكّد",
+      "stance": "Uncertain",
       "rationale": "مع أن تاليس يرفض الثنائية والأجوبة الغيبية، فإن لا-أدريته الأنطولوجية واعتقاده بأن 'كل شيء ممكن' يفيدان أنه لا يمكن استبعاد الإمكانات غير المادية للبقاء، وإن لم يقدّم أيّ نظرية إيجابية تدعمه."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني/غير محدَّد",
+      "stance": "Humanistic only",
       "rationale": "ترفض النظرية التفسيرات الطبيعانية التي تترك الوعي والذات والسمات الإنسانية بلا تفسير، بما يفتح ضمنيًا الباب أمام معنى يصنعه الإنسان، لكنها لا تقدّم غايةً نهائية كونية."
     },
     "virtual_immortality": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "إذا لم يكن الوعي قابلًا للاختزال إلى نشاط الدماغ بل يتطلّب سمات غير مادية جذرية (كـ'التجلّيات' الظاهراتية)، فإن مضاعفةً وظيفية للركيزة العصبية ستخفِق في مضاعفة الذات الواعية."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
         "relationship": "متوافقة"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "نقد"
       },
       {

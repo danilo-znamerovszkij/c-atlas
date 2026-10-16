@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "야보르스키의 질료형상론",
     "summary": "야보르스키의 이론은 의식이 근본적으로, 구조가 물리적 개체의 힘과 역량을 설명한다는 기본적 존재론 원리인 질료형상론으로부터 발생하는 구조적 현상이라고 주장한다. 의식적 경험을 지각자의 구조화된 활동으로 규정함으로써, 이 이론은 의식의 어려운 문제를 해결하고 정신 현상을 아무런 난점 없이 자연 세계 안에 자리매김한다고 주장한다.",
-    "associated_thinkers": ["William Jaworski"],
+    "associated_thinkers": [
+      "William Jaworski"
+    ],
     "category": "유물론",
     "subcategory": "관계적",
     "core_identity_tagline": "'근본적 구조와 힘으로서의 의식'",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 특정한 복잡 물리 구조와 조직을 달성한 직접적 결과라면(질료형상론), 요구되는 구조와 힘을 갖추도록 설계된 어떤 인공 체계든 진정한 의식을 예화할 것이다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식은 개체의 고도로 조직된 물리적 재료와 불가분하게 결부되어 있다. 이 구조의 정지 또는 해체는 의식의 종료를 함축한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간주의적 의미에 한함",
+      "stance": "Humanistic only",
       "rationale": "유물론으로 분류되므로 의식은 자연적이고 구조적인 현상의 산물이다. 따라서 어떠한 의미나 목적도 우주적으로 내재한 것이 아니라 자연 세계 안에서 인간의 구조적 역량과 활동에 의해 생성된다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Possible",
       "rationale": "의식이 전적으로 정교한 '구조'와 그로부터 귀결되는 '힘'에 의해 규정된다면, 이 포괄적 구조적 배열을 새로운 비생물학적 기질에 복제하거나 업로드하는 것은 이 이론의 기능주의적 측면과 부합하게 의식적 자아를 보존할 것이다."
     }
   },
@@ -78,7 +80,7 @@
         "relationship": "확장"
       },
       {
-        "name": "Feser’s Neo-Thomistic Dualism",
+        "name": "Feser's Neo-Thomistic, Neo-Aristotelian, Common-Sense Dualism",
         "relationship": "관련"
       }
     ],

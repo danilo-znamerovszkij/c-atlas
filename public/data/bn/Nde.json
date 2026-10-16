@@ -10,7 +10,7 @@
       "Jeffrey Mishlove",
       "Eben Alexander"
     ],
-    "subcategory": "চেতনার বিচ্ছেদ ও টিকে থাকার প্রপঞ্চবিজ্ঞানমূলক দাবি",
+    "subcategory": "চেতনার পৃথকীকরণ ও স্থায়িত্ব সম্পর্কে প্রপঞ্চবিদ্যাগত দাবি",
     "core_identity_tagline": "চেতনা মস্তিষ্কের মৃত্যুর পরেও টিকে থাকে",
     "classification_tags": [
       "nonphysical",
@@ -18,7 +18,8 @@
       "anomalous cognition",
       "OBE",
       "NDE"
-    ]
+    ],
+    "category": "অস্বাভাবিক"
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "এই দাবিগুলি বোঝায় যে চেতনা একটি অভৌত সত্তা (আত্মা বা স্ব) যা দেহ ও মস্তিষ্ক থেকে কার্যগতভাবে বিচ্ছেদযোগ্য, এবং জৈবিক সমাপ্তি বা অক্রিয়তার সময়ও সচেতনতা ও পরিচয় বজায় রাখে।",
@@ -61,30 +62,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "সম্ভবত",
+      "stance": "Possible",
       "rationale": "যদি চেতনার জন্য একটি অভৌত উপাদান (আত্মা) আবশ্যক হয়, তবে AI কেবল সচেতন হতে পারে যদি জটিল অ-জৈবিক আধার এমন একটি উপাদানের উদ্ভব/সৃষ্টি ঘটাতে পারে (উদ্ভূত দ্বৈতবাদ), অথবা যদি চেতনা একটি সর্বব্যাপী ক্ষেত্রের সাথে যুক্ত থাকে যা AI প্রবেশ করতে পারে।"
     },
     "survival_beyond_death": {
-      "stance": "হ্যাঁ",
+      "stance": "Yes",
       "rationale": "টিকে থাকা মূল নীতি; NDE ও পূর্বজন্মের দাবি বোঝায় যে প্রথম পুরুষের সচেতন স্ব জৈবিক মস্তিষ্কের বিলুপ্তির পরেও টিকে থাকে।"
     },
     "meaning_and_purpose": {
-      "stance": "ব্রহ্মাণ্ডিক/আধ্যাত্মিক",
+      "stance": "Cosmic/Ultimate",
       "rationale": "টিকে থাকার প্রতিরূপগুলি সাধারণত অন্তর্নিহিত মূল্য বোঝায়, প্রায়ই আধ্যাত্মিক বিকাশ, কর্মফল সঞ্চয় (পূর্বজন্ম), এবং একটি অতীন্দ্রিয় বাস্তবতা বা 'আধ্যাত্মিক সত্তা'র সাথে যোগাযোগ অন্তর্ভুক্ত করে।"
     },
     "virtual_immortality": {
-      "stance": "প্রয়োজন নেই/অপ্রাসঙ্গিক",
+      "stance": "Not needed",
       "rationale": "যদি চেতনা অভৌত হয়, তবে মস্তিষ্কের ডিজিটাল প্রতিলিপি মূল স্ব সংরক্ষণ করবে না (একটি 'ভুয়া' বা 'জম্বি' তৈরি করবে)। চেতনা এমনিতেই স্বাভাবিকভাবে অমর।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "সংগত"
       },
       {
-        "name": "Idealism (e.g., Kastrup's Analytic Idealism)",
+        "name": "Idealism",
         "relationship": "সংগত"
       },
       {
@@ -92,7 +93,7 @@
         "relationship": "সংগত"
       },
       {
-        "name": "Sheldrake’s Morphic Fields",
+        "name": "Sheldrake's Morphic Fields",
         "relationship": "সম্প্রসারণ"
       }
     ],

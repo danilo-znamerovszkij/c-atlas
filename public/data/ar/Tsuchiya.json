@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "منهج تسوتشيا العلائقي في الوعي",
     "summary": "هذا المنهج في المقام الأول منهجيةٌ تسعى إلى توصيف الوعي وتعريفه عبر أوصاف مستوفاة لعلاقاته بجميع أنواع الوعي الأخرى. ويستعين بنظرية الفئات، وهي أداة قائمة على البنى الرياضية وعلاقاتها، لوصف بنية الظاهراتية الواعية وعلاقاتها المتبادلة بدقة رياضية.",
-    "associated_thinkers": ["Nao Tsuchiya", "Hayato Saigo"],
-    "category": "النظريات المادية",
-    "subcategory": "العلائقية",
+    "associated_thinkers": [
+      "Nao Tsuchiya",
+      "Hayato Saigo"
+    ],
+    "category": "المادية",
+    "subcategory": "علائقية",
     "core_identity_tagline": "الوعي بوصفه علاقات موصَّفة رياضياً",
     "classification_tags": [
       "relational",
@@ -49,30 +52,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "محتمل",
+      "stance": "Likely",
       "rationale": "إذا كان الوعي معرَّفاً في جوهره بعلاقات وبنى يمكن وصفها رياضياً بدقة (عبر نظرية الفئات)، فينبغي أن تكون هذه البنى قابلة للتحقق في أنظمة حاسوبية غير بيولوجية متقدمة."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "النظرية مصنَّفة ضمن المادية، بما يعني أن الوعي معتمد على الركيزة الفيزيائية (الدماغ على الأرجح) التي تحقق البنى العلائقية، أي إنه يزول عند الموت البيولوجي."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني/عملي",
+      "stance": "Humanistic only",
       "rationale": "بوصفها منهجية بنيوية مادية، تقدّم أدوات لتعريف الوعي لكنها لا توفّر معنى كونياً أو نهائياً متأصلاً وراء ما تخلقه الخبرة الإنسانية."
     },
     "virtual_immortality": {
-      "stance": "محتمل",
+      "stance": "Likely",
       "rationale": "بما أن الوعي موصَّف بعلاقات وفئات قابلة للتحديد الكمي والتعريف بدقة، فإن استنساخ هذه البنى في ركيزة افتراضية أو رقمية ينبغي أن يتيح من حيث المبدأ استمرار الذات الواعية."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Relational Theories",
+        "name": "Relational",
         "relationship": "مدعومة به"
       },
       {
-        "name": "Jaworski’s Hylomorphism",
+        "name": "Jaworski's Hylomorphism",
         "relationship": "ذات صلة (فئة مشتركة)"
       },
       {

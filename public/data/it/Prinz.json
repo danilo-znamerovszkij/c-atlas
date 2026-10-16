@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Il neurofunzionalismo di Prinz: l'attenzione genera l'esperienza",
     "summary": "Questa teoria sostiene che la coscienza sorga dall'attenzione, la quale favorisce il flusso dell'informazione percettiva verso i sistemi di memoria a uno stadio intermedio dell'elaborazione. Questo processo si basa fondamentalmente sull'attivazione neurale sincronizzata e dà luogo a una rappresentazione integrata dello stimolo che conserva il punto di vista.",
-    "associated_thinkers": ["Jesse Prinz"],
+    "associated_thinkers": [
+      "Jesse Prinz"
+    ],
     "category": "Materialismo",
     "subcategory": "Neurobiologico",
     "core_identity_tagline": "La coscienza come rappresentazione intermedia oggetto di attenzione",
@@ -51,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "Poiché la teoria identifica la coscienza con uno specifico processo neurofunzionale di rendere l'informazione disponibile alla memoria tramite l'attenzione, questa funzione computazionale dovrebbe essere realizzabile in sistemi non biologici sufficientemente avanzati."
     },
     "survival_beyond_death": {
@@ -59,11 +61,11 @@
       "rationale": "In quanto teoria interamente contenuta nel materialismo, la coscienza dipende pienamente dall'organizzazione e dai processi biologici del cervello (ad es. l'attivazione neurale sincronizzata) ed è da essi generata, e cessa con la distruzione del cervello."
     },
     "meaning_and_purpose": {
-      "stance": "Solo umanistico",
+      "stance": "Humanistic only",
       "rationale": "La funzione della coscienza è pragmatica—rendere l'informazione percettiva disponibile per un comportamento flessibile. Opera all'interno di un paradigma materialista, il quale tipicamente comporta che significato e scopo siano autocreati, non cosmici."
     },
     "virtual_immortality": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "Dato il suo fondamento nel neurofunzionalismo e il suo obiettivo di una spiegazione materialista completa, la perfetta duplicazione funzionale del sistema rappresentazionale basato sull'attenzione in un substrato non biologico dovrebbe preservare il sé cosciente originario in prima persona."
     }
   },
@@ -74,7 +76,7 @@
         "relationship": "Estensione"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "Compatibile"
       },
       {
@@ -82,7 +84,7 @@
         "relationship": "Critica"
       },
       {
-        "name": "Recurrent Processing Theory",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "Sovrapposizione"
       }
     ],

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "نظرية كوخ في أن الوعي لا يعتمد على اللغة",
     "summary": "تؤكّد هذه النظرية أن الوعي الظاهراتي، أي الخبرة الباطنية الأساسية، مستقلّ وظيفيًّا عن الملَكة اللغوية. وتدعمها حالات سريرية تتعطّل فيها القدرة اللغوية أو تُفقَد بشدّة مع بقاء الوعي الأساسي، بما يفضي إلى نتيجة مؤدّاها أن الحسّ الأساسي خاصية واسعة الانتشار مشتركة مع كثير من الحيوانات غير اللغوية.",
-    "associated_thinkers": ["Christof Koch"],
-    "category": "نظريات المادية",
-    "subcategory": "العلاقات باللغة",
+    "associated_thinkers": [
+      "Christof Koch"
+    ],
+    "category": "المادية",
+    "subcategory": "اللغة",
     "core_identity_tagline": "الوعي مستقلّ عن اللغة",
     "classification_tags": [
       "phenomenal consciousness",
@@ -50,38 +52,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مشروط",
+      "stance": "Conditional",
       "rationale": "لمّا كانت اللغة ليست لازمة للوعي، فإن القدرة اللغوية للذكاء الاصطناعي (نماذج اللغة الكبيرة) غير ذات صلة. ويتوقف وعي الذكاء الاصطناعي كليًّا على ما إذا كان يمكن محاكاة الركيزة الفيزيائية غير اللغوية اللازمة في الأنظمة الاصطناعية."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "اتساقًا مع تصنيفها المادي، يرتبط الوعي بركيزة فيزيائية (الدماغ) ولا يمكن أن يستمرّ بعد الموت البيولوجي."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "يتيح الوعي للذات أن تعمل مركزًا سرديًّا عبر اللغة، بما يسمح بمعنى من صنع الإنسان، لكن الحقيقة المادية الكامنة توحي بغياب أي غاية كونية قصوى."
     },
     "virtual_immortality": {
-      "stance": "مشروط",
+      "stance": "Conditional",
       "rationale": "إذا انفصل الوعي عن اللغة، ينتقل التركيز كليًّا إلى مضاعفة الركيزة الفيزيائية غير اللغوية للوعي الأساسي. وإذا أمكن مضاعفة هذه البنية العصبية غير اللغوية المحدَّدة، فالخلود الافتراضي ممكن."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
         "relationship": "نقد"
       },
       {
-        "name": "Searle’s Language and Consciousness",
+        "name": "Searle's Language and Consciousness",
         "relationship": "نقد"
       },
       {
-        "name": "Andrews’s Consciousness Without Complex Brains",
+        "name": "Andrews's Consciousness Without Complex Brains",
         "relationship": "توافق"
       },
       {
-        "name": "Smith’s Language as Classifier of Consciousness",
+        "name": "Smith's Language as Classifier of Consciousness",
         "relationship": "تداخل"
       }
     ],

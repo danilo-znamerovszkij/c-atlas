@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "La percepción cerebral de McGinn",
+    "summary": "Colin McGinn propone que toda conciencia es percepción del propio cerebro: el dolor es la percepción de la descarga de fibras C, y ver un perro es también percibir una porción de la corteza occipital propia. La percatación es de re, de modo que percibimos estados cerebrales sin percibirlos como estados cerebrales, del mismo modo que vemos un bloque de átomos sin verlo como átomos.",
+    "associated_thinkers": [
+      "Colin McGinn"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Relacional",
+    "core_identity_tagline": "La conciencia como percepción del propio cerebro",
+    "classification_tags": [
+      "brain perception",
+      "identity theory",
+      "de re awareness",
+      "intentionality",
+      "relational"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Los estados mentales son idénticos a estados perceptivos de percatación cerebral: cada experiencia es una percepción de algún estado cerebral, más la percatación de otras cosas cuando el estado versa sobre el mundo.",
+    "ontological_status": "Teoría de la identidad relacional (neutral entre fisicalismo y dualismo)",
+    "mind_body_relationship": "La mente se relaciona con el cerebro como ver un perro se relaciona con el perro: numéricamente distintos, pero estrechamente entrelazados. McGinn señala que la visión encaja con el materialismo (el dolor como estado cerebral que percibe otro estado cerebral) y que también valdría si el dolor fuera un estado de una sustancia inmaterial.",
+    "primitive_or_emergent_status": "No está claro",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "Los estados mentales tienen una doble intencionalidad, que apunta hacia el mundo y hacia dentro, hacia el cerebro. McGinn sostiene que la experiencia se siente interior y que el cerebro es el mejor candidato para aquello a lo que apunta esa referencia interior.",
+    "qualia_account": "Los estados cualitativos son una clave para los estados cerebrales: el dolor es la palabra clave para la descarga de fibras C, del mismo modo que la experiencia sensorial codifica el mundo externo.",
+    "ontological_commitments": "Cerebros y sus estados, estados mentales que los siguen y el mundo externo.",
+    "epistemic_access": "Percibimos nuestros cerebros de re mediante la experiencia ordinaria, sin saberlo. McGinn apoya la teoría mediante argumentación filosófica y apelando a la interioridad sentida de la experiencia.",
+    "constituents_and_structure": "Todo estado mental apunta en tres direcciones: al mundo (intencionalidad), al cerebro (percepción cerebral) y a la conducta (acción)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Todos los estados mentales: sensación, percepción, pensamiento",
+    "distinctive_mechanism_or_principle": "Percepción entendida como seguimiento: la mente registra la actividad del cerebro y responde a ella, de modo que ambos están correlacionados de forma fiable y se podría leer el cerebro a partir de la mente.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "El objeto percibido está en el cerebro (fibras C para el dolor, corteza occipital para la visión); percibir es una relación con él.",
+    "causation_and_functional_role": "El cerebro hace que la mente responda de modos que portan información sobre él. Los estados mentales son también funcionalmente activos, en dirección a la conducta.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "La conciencia codifica el cerebro del mismo modo que la experiencia sensorial codifica el entorno; el dolor porta la información de que se están descargando las fibras C.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "El dolor es la percepción de la descarga de las fibras C y no la propia descarga.",
+      "La percatación cerebral es de re, de modo que percibimos estados cerebrales sin percibirlos como estados cerebrales.",
+      "La experiencia se siente interior y, como el cerebro alberga la mente, el cerebro es el mejor candidato para ese objeto interior.",
+      "Tratar todos los fenómenos mentales como percepciones cerebrales da una explicación uniforme de la naturaleza de la mente."
+    ],
+    "basis_of_belief_or_evidence_type": "Argumentación filosófica y observación fenomenológica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Especulativa",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "McGinn anticipa la objeción de que las personas tienen mente sin saber nada sobre el cerebro, y responde que la percepción cerebral es solo de re. El punto de presión principal sigue siendo si la «percepción» puede extenderse para cubrir un mero seguimiento fiable, sin experiencia del cerebro como tal.",
+    "open_questions_and_limitations": "McGinn especula con que, si descifráramos el código, podríamos aprender a sentir nuestra corteza frontal o a prestar atención a regiones cerebrales, pero la teoría no dice cómo funcionaría tal descodificación.",
+    "ontological_coherence": "Deliberadamente neutral entre el materialismo y el dualismo sustancial. Encaja mal con el misterianismo de McGinn, según el cual el vínculo mente-cerebro está fuera de nuestro alcance, aunque ambos pueden leerse como compatibles, ya que la percepción cerebral es solo de re."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Dado que todo estado mental es una percepción del cerebro, una mente sin cerebro carecería del objeto de toda su experiencia."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Armstrong’s Higher-Order Perception Theory",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Dretske’s Information and Representationalism",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Contraste"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "McGinn’s Brain Perception, Landscape of Consciousness, Robert Lawrence Kuhn"
+      }
+    ]
+  }
+}

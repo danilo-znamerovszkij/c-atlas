@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La teoria dell'elaborazione ricorrente di Lamme",
     "summary": "La teoria dell'elaborazione ricorrente (RPT) di Lamme sostiene che la coscienza è necessaria e sufficiente quando si verificano connessioni di retroazione reciproche (ricorrenti) tra aree neurali, in particolare nei sistemi sensoriali. Questa elaborazione, che avviene localmente nelle aree sensoriali e post-sensoriali (Fase 3), genera l'esperienza fenomenica senza richiedere l'accesso alla diffusione globale.",
-    "associated_thinkers": ["Victor Lamme"],
+    "associated_thinkers": [
+      "Victor Lamme"
+    ],
     "category": "Materialismo",
-    "subcategory": "Rappresentazionale",
+    "subcategory": "Primo ordine",
     "core_identity_tagline": "«La coscienza come elaborazione ricorrente nei sistemi sensoriali»",
     "classification_tags": [
       "neuroscience",
@@ -50,7 +52,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "In quanto teoria materialista, la coscienza dell'IA deve, in linea di principio, essere possibile qualora il necessario pattern di elaborazione ricorrente potesse essere duplicato artificialmente in un substrato non biologico."
     },
     "survival_beyond_death": {
@@ -58,26 +60,26 @@
       "rationale": "La coscienza è legata all'attività cerebrale fisica e a specifici circuiti neurali (stati di elaborazione ricorrente), il che suggerisce la sua cessazione con la morte corporea."
     },
     "meaning_and_purpose": {
-      "stance": "Solo umanistico",
+      "stance": "Humanistic only",
       "rationale": "La teoria si concentra su una spiegazione puramente fisicalista e neurobiologica dell'esperienza fenomenica e non sostiene alcun significato o scopo cosmico ultimo."
     },
     "virtual_immortality": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "Poiché la coscienza è lo stato di elaborazione ricorrente stesso, una duplicazione perfetta di tale processo su un nuovo mezzo (caricamento) genererebbe il sé in prima persona, rendendo possibile l'immortalità virtuale."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "Critica"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "Estensione"
       },
       {
-        "name": "Block’s Biological Reductionism",
+        "name": "Block's Biological Reductionism",
         "relationship": "Sovrapposizione"
       }
     ],

@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "先住民の諸宗教における魂",
     "summary": "このカテゴリーは、世界の先住民の宗教や民俗宗教に見られる多様な魂の概念を集める。これらの信仰は典型的に、多岐にわたる非物理的な魂の構成要素を含み、そのあるものは死とともに消滅すると考えられ、他のものは存続するとされ、伝統的な二元論の諸側面を反映する。",
-    "associated_thinkers": ["Claude Rivière", "Stevan Harrell"],
+    "associated_thinkers": [
+      "Claude Rivière",
+      "Stevan Harrell"
+    ],
     "category": "二元論",
-    "subcategory": "先住民の諸宗教における魂",
+    "subcategory": "先住民の宗教における魂",
     "core_identity_tagline": "多岐にわたり、遍在し、時代を超えて存続する魂の信仰",
     "classification_tags": [
       "indigenous",
@@ -51,26 +54,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "否定する",
+      "stance": "No",
       "rationale": "意識は非物理的な源泉ないし創造者に由来する霊的な構成要素（魂／霊）を要するが、人工システムは本質的にこれを欠くであろう。"
     },
     "survival_beyond_death": {
-      "stance": "肯定する",
+      "stance": "Yes",
       "rationale": "死後の存続は中心的な特徴である。魂のいくつかの構成要素が生物学的身体の死の後も存続すると措定されるためである。"
     },
     "meaning_and_purpose": {
-      "stance": "宇宙的／実存的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "これらの信仰体系は、先在、創造者からの霊的起源、および個体の運命を支配する包括的な構造を措定することで、究極的な意味を含意する。"
     },
     "virtual_immortality": {
-      "stance": "否定する",
+      "stance": "No",
       "rationale": "不死は本来の霊的な魂の存続を通じて達せられるのであり、物理的身体の機能的パターンの技術的複製ないし模擬を介しては得られない。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "重複"
       },
       {

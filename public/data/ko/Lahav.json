@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "라하브의 상대성 이론",
     "summary": "이 이론은 의식을 '인지적 기준틀'이 수행하는 측정에 상대적인 물리적 현상으로 규정한다. 물리학의 속도와 유비적으로, 상이한 인지적 기준틀에서 작동하는 서로 다른 관찰자는 동일한 현상을 관찰할 때 서로 다른 물리적 속성(자신에게는 의식적 자각, 타인에게는 측정된 뇌 활동)을 드러내게 된다.",
-    "associated_thinkers": ["Nir Lahav", "Z.A. Neemeh"],
+    "associated_thinkers": [
+      "Nir Lahav",
+      "Z.A. Neemeh"
+    ],
     "category": "유물론",
     "subcategory": "관계적",
     "core_identity_tagline": "인지적 기준틀에 상대적인 물리적 현상으로서의 의식",
@@ -50,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "이 이론은 의식이 계산이 아니라 물리적 측정으로부터 발생한다고 보므로, AI 체계는 인지적 기준틀을 구성하는 비계산적 물리 측정 과정을 갖추어야 한다. 따라서 단순한 계산을 넘어서는 하드웨어 구현에 조건적이다."
     },
     "survival_beyond_death": {
@@ -62,7 +65,7 @@
       "rationale": "이 항목은 제시된 출처 자료에서 다루어지지 않는다."
     },
     "virtual_immortality": {
-      "stance": "가능성 낮음",
+      "stance": "Unlikely",
       "rationale": "의식은 비계산적이며 물리적 측정 과정에 의존하므로 표준적인 가상적 불멸(소프트웨어/자료의 업로드)은 개연성이 낮다. 다만 상대론적 물리 체계의 물리적 복제는 이론적으로 가능할 수 있다."
     }
   },

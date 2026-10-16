@@ -10,7 +10,7 @@
       "Roger Penrose"
     ],
     "category": "বস্তুবাদ",
-    "subcategory": "গণনামূলক ও তথ্যভিত্তিক",
+    "subcategory": "গণনামূলক",
     "core_identity_tagline": "আনুষ্ঠানিক গাণিতিক গঠন হিসেবে চেতনা",
     "classification_tags": [
       "mathematics",
@@ -57,19 +57,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "শর্তাধীন",
+      "stance": "Conditional",
       "rationale": "যদি চেতনা সম্পূর্ণভাবে বিমুক্ত গাণিতিক গঠন বা গণনামূলক যুক্তি দ্বারা সংজ্ঞায়িত হয়, তবে সেই গঠন রূপায়িত করা কৃত্রিম ব্যবস্থা সম্ভাবত চেতনা রূপায়িত করতে পারে।"
     },
     "survival_beyond_death": {
-      "stance": "শর্তাধীন",
+      "stance": "Conditional",
       "rationale": "সত্তাতাত্ত্বিক গাণিতিক তত্ত্ব (যেমন, Tegmark, Penrose) প্রস্তাব করে যে বাস্তবতার ভিত্তি অনন্তকালীন গাণিতিক গঠন, যা সম্ভাবত একটি বিমুক্ত অর্থে ভৌত মস্তিষ্কের বাইরে চেতনার টিকে থাকার অনুমতি দেয়।"
     },
     "meaning_and_purpose": {
-      "stance": "শর্তাধীন মহাজাগতিক",
+      "stance": "Uncertain",
       "rationale": "যদি মহাবিশ্ব মৌলিকভাবে গাণিতিক বা প্লেটোনিক রূপে প্রতিষ্ঠিত হয়, তবে এটি অস্তিত্বের একটি অন্তর্নিহিত যৌক্তিক তাৎপর্য নির্দেশ করে, যদিও প্রয়োজনীয়ভাবে ব্যক্তিগত উদ্দেশ্যবাদী অর্থ নয়।"
     },
     "virtual_immortality": {
-      "stance": "সম্ভবত",
+      "stance": "Possible",
       "rationale": "যদি মন সম্পূর্ণভাবে একটি পরিমাণযোগ্য গাণিতিক গঠন বা তথ্যপ্রবাহে নিরসিত হয়, তবে এই প্যাটার্ন নীতিগতভাবে একটি নতুন মাধ্যমে সংরক্ষিত ও রূপায়িত হতে পারে।"
     }
   },
@@ -80,11 +80,11 @@
         "relationship": "প্রভাব"
       },
       {
-        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "name": "Friston's Free-Energy Principle and Active Inference",
         "relationship": "প্রভাব"
       },
       {
-        "name": "Tegmark’s State of Matter",
+        "name": "Tegmark's State of Matter",
         "relationship": "সম্প্রসারণ"
       }
     ],

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "레빈의 도처의 마음에 대한 기술적 접근(TAME)",
     "summary": "이 틀은 마음과 인지를 공학적 재료와 합성생물학을 포함한 다양하고 종종 비관습적인 기질에 걸친 기능적·목표 지향적 활동을 통해 이해한다. 의식 또는 감응력은 연속적이고 정도를 지니며, 동물의 마음은 세포 집단들 사이의 집단 지능의 한 사례로 본다.",
-    "associated_thinkers": ["Michael Levin"],
-    "category": "유물론 이론",
-    "subcategory": "계통발생적 진화",
+    "associated_thinkers": [
+      "Michael Levin"
+    ],
+    "category": "도전",
+    "subcategory": "",
     "core_identity_tagline": "도처의 마음에 대한 기술적 접근(TAME)",
     "classification_tags": [
       "technological",
@@ -55,34 +57,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "TAME이 설계된 재료와 키메라적 재료에 적용되므로, 목표 지향적이고 체화된 지각-행위 체계로 구성된 인공 체계라면 의식을 실현할 수 있을 법하다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식을 체화된 물리적 기질의 지속적 기능과 결부시키는 유물론적 틀로서, 그 기질의 존재를 넘어선 존속은 뒷받침되지 않는다."
     },
     "meaning_and_purpose": {
-      "stance": "인간주의적/행위성에 결부됨",
+      "stance": "Humanistic only",
       "rationale": "의식은 목표 지향적 활동과 연결되므로, 의미는 우주적 목적론이 아니라 체계에 내재한 행위성에서 도출된다."
     },
     "virtual_immortality": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "마음이 새롭고 비생물학적인 구조에서 공학적으로 만들어지고 예화될 수 있다는 전제는, 복잡하고 체화된 지각-행위 체계를 복제하고 전송하는 일이 원리상 가능함을 시사한다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Embodied Cognition",
+        "name": "Embodied",
         "relationship": "양립 가능/영향"
       },
       {
-        "name": "Ginsburg and Jablonka’s Associative Learning During Evolution",
+        "name": "Ginsburg and Jablonka's Associative Learning During Evolution",
         "relationship": "중첩"
       },
       {
-        "name": "Computational and Informational Theories",
+        "name": "Computational",
         "relationship": "중첩"
       }
     ],

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Teoría Causal de las Vistas de Smolin",
     "summary": "Esta teoría propone una completitud relacional y realista de la teoría cuántica, afirmando que el universo se construye fundamentalmente a partir de una colección de 'vistas de eventos', definidas por la información disponible desde su pasado causal. La conciencia se identifica con las vistas raras, específicas, que son sin precedentes o únicas en la historia universal.",
-    "associated_thinkers": ["Lee Smolin"],
-    "category": "Teorías Cuánticas",
-    "subcategory": "Teoría Cuántica Relacional/Causal",
+    "associated_thinkers": [
+      "Lee Smolin"
+    ],
+    "category": "Cuántico",
+    "subcategory": "Teoría cuántica relacional/causal",
     "core_identity_tagline": "La Conciencia como Vistas Causales Novedosas o Únicas",
     "classification_tags": [
       "relational physics",
@@ -50,7 +52,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "Los sistemas de IA podrían potencialmente alcanzar la conciencia si sus procesos computacionales generan vistas causales de eventos genuinamente novedosas y únicas que cumplan con los criterios de selección, aunque esto no está garantizado para los procesos computacionales rutinarios."
     },
     "survival_beyond_death": {
@@ -58,7 +60,7 @@
       "rationale": "La conciencia está ligada a eventos físicos y sus vistas causales en el universo. No se describe ningún mecanismo para que estas vistas persistan de manera independiente una vez que se disuelve el sustrato físico subyacente (el cerebro/la serie de eventos)."
     },
     "meaning_and_purpose": {
-      "stance": "Indeterminado",
+      "stance": "Uncertain",
       "rationale": "La teoría se centra en la ontología física fundamental de la conciencia (cómo encajan los qualia en la física) y no aborda inherentemente el significado cósmico o la teleología."
     },
     "virtual_immortality": {
@@ -69,15 +71,15 @@
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Rovelli's Relational Physics",
+        "name": "Rovelli's Relationship Physics",
         "relationship": "Influencia/solapamiento"
       },
       {
-        "name": "Panpsychism (Micropsychism)",
+        "name": "Panpsychism",
         "relationship": "Restricción/contraste"
       },
       {
-        "name": "Bohm’s Implicate-Explicate Order",
+        "name": "Bohm's Implicate-Explicate Order",
         "relationship": "Influencia contextual"
       }
     ],

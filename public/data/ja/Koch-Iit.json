@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "コッホによる統合情報理論と汎心論の比較",
     "summary": "本項目は、統合情報理論（IIT）と汎心論についてのクリストフ・コッホの比較を概説し、両者が意識を実在の内在的で根本的な性質とみなす直観を共有すると論じる。しかしIITは、意識の具体的な基準（$Phi$、ファイによって定量化される）を明確化し、排他公準を介して結合問題を解決し、伝統的な汎心論とは異なり具体的な経験的研究計画を提供するがゆえに優れているとされる。",
-    "associated_thinkers": ["Christof Koch", "Giulio Tononi"],
-    "category": "統合情報理論",
-    "subcategory": "比較／批判",
+    "associated_thinkers": [
+      "Christof Koch",
+      "Giulio Tononi"
+    ],
+    "category": "統合情報",
+    "subcategory": "比較・批判",
     "core_identity_tagline": "IIT：汎心論の結合問題を解決する根本的に意識的な理論",
     "classification_tags": [
       "iit",
@@ -56,19 +59,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "コッホは、IITがAIの意識に必要な機能主義的見解と根本的に対立すると論じ、デジタルコンピュータはその計算力や知能にかかわらず、そのハードウェア構造が無視できるほど小さい統合情報（$Phi$）をもたらすため、決して感受性をもたないと主張する。"
     },
     "survival_beyond_death": {
-      "stance": "不確か",
+      "stance": "Uncertain",
       "rationale": "存続は、IITが措定する実在の還元不可能な構造（クオリア空間）の未知の本性と技術的操作可能性に依拠する。ある種の存続は排除されないが、一人称的な存続は未解決の問いである。"
     },
     "meaning_and_purpose": {
-      "stance": "不確か",
+      "stance": "Uncertain",
       "rationale": "IITの思弁的で無数のn次元構造は、究極的意味に関する判断を保留するに足るほど新奇ではあるが、本理論が伝える意識の中核的な測定と分析は、究極的な意味・目的・価値を提供しない。"
     },
     "virtual_immortality": {
-      "stance": "不確か",
+      "stance": "Uncertain",
       "rationale": "意識が（IITが主張するように）単なるアルゴリズムではなく複雑系の物理学に結びついた構造であるならば、心のアップロードは不可能である。先進技術が意識を引き起こす$Phi$構造を操作できない限り、アップロードは主観的経験を欠いた「ディープフェイク」をもたらすだろう。"
     }
   },
@@ -79,7 +82,7 @@
         "relationship": "共有された直観／批判"
       },
       {
-        "name": "Computational Functionalism",
+        "name": "Computational",
         "relationship": "批判（計算不可能な意識）"
       },
       {
@@ -87,7 +90,7 @@
         "relationship": "批判（コッホは、質的側面は量的枠組みで捉えられないというゴフの主張に反論する）"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "対比（暗黙裡に、所在および再帰／全域的放送の必要性に関して）"
       }
     ],

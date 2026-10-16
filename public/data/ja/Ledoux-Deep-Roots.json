@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ルドゥーの意識の深い根源理論",
     "summary": "この理論は、人間の意識と行動を深い進化史のレンズを通して捉え、意識は皮質の認知回路の洗練された産物として比較的最近になって出現したと主張する。最初期の生物から受け継がれた基礎的な生存能力が、神経系の進化によって強化され、最終的に意識へと至った経緯を追跡する。",
-    "associated_thinkers": ["Joseph LeDoux"],
-    "category": "唯物論の諸理論",
-    "subcategory": "系統発生的進化",
+    "associated_thinkers": [
+      "Joseph LeDoux"
+    ],
+    "category": "唯物論",
+    "subcategory": "系統発生的",
     "core_identity_tagline": "強化された生存メカニズムの創発的産物としての意識。",
     "classification_tags": [
       "evolution",
@@ -48,19 +50,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "創発的な生物学的メカニズムに焦点を当てる唯物論的理論として、必要な進化的・生存的機能を人工的な基体において再現できるならば、原理的にAIの意識は可能であるはずである。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は、死とともに機能を停止する進化した生物学的な脳とその皮質的認知回路に明示的に依存している。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "唯物論と整合的に、意識は主として生存と繁栄を強化する生物学的機能を果たすものであり、人間が自ら作り出すもの以外に、内在的な宇宙的意味や目的論を提供しない。"
     },
     "virtual_immortality": {
-      "stance": "可",
+      "stance": "Yes",
       "rationale": "意識は純粋に物理的であり、複雑な生物学的情報処理から創発するものと理解されるため、神経パターンの複製は原理的に仮想的不死を可能にするはずである。"
     }
   },
@@ -71,11 +73,11 @@
         "relationship": "拡張"
       },
       {
-        "name": "Dennett’s Evolution of Minds",
+        "name": "Dennett's Evolution of Minds",
         "relationship": "重複"
       },
       {
-        "name": "Mitchell’s Free Agents",
+        "name": "Mitchell's Free Agents",
         "relationship": "両立可能"
       },
       {

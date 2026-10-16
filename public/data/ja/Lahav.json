@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "ラハヴの相対論的理論",
     "summary": "本理論は、意識を「認知的準拠枠」によって行われる測定に相対的な物理的現象として特徴づける。物理学における速度に類比して、異なる認知的枠で作動する異なる観測者は、同一の現象を観測する際に異なる物理的性質（自分自身にとっては意識的な気づき、他者にとっては測定された脳活動）を顕現させる。",
-    "associated_thinkers": ["Nir Lahav", "Z.A. Neemeh"],
+    "associated_thinkers": [
+      "Nir Lahav",
+      "Z.A. Neemeh"
+    ],
     "category": "唯物論",
     "subcategory": "関係的",
     "core_identity_tagline": "認知的準拠枠に相対的な物理的現象としての意識",
@@ -50,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "本理論は意識が計算ではなく物理的測定から生じると措定するため、AIシステムは認知的準拠枠を構成する非計算的な物理的測定の過程を要し、単純な計算を超えたハードウェアの実装に条件付けられる。"
     },
     "survival_beyond_death": {
@@ -62,7 +65,7 @@
       "rationale": "この項目は提供された出典では扱われていない。"
     },
     "virtual_immortality": {
-      "stance": "可能性が低い",
+      "stance": "Unlikely",
       "rationale": "意識は非計算的であり物理的測定の過程に依拠するため、標準的な仮想的不死（ソフトウェア／データのアップロード）は考えにくいが、相対論的な物理系の物理的複製は理論的には可能かもしれない。"
     }
   },

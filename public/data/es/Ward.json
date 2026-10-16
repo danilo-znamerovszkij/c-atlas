@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "El Idealismo Personal de Ward: Las Almas como Agentes Encarnados Creados por Dios",
     "summary": "Esta teoría postula la conciencia como la realidad última (Idealismo), centrándose en el sujeto consciente irreducible, o alma. Enmarca el alma como un agente encarnado creado por Dios, lo que significa que el sujeto es distinto del mundo físico objetivo, pero inseparable de él. El mundo mismo se concibe como un constructo de percepciones y pensamientos, afirmando la primacía de la perspectiva en primera persona.",
-    "associated_thinkers": ["Keith Ward"],
-    "category": "Idealismos",
-    "subcategory": "Idealismo Personal",
+    "associated_thinkers": [
+      "Keith Ward"
+    ],
+    "category": "Idealismo",
+    "subcategory": "Idealismo personal",
     "core_identity_tagline": "La Conciencia como el Sujeto Encarnado de la Agencia Creado por Dios",
     "classification_tags": [
       "idealism",
@@ -51,15 +53,15 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "Si la conciencia es el alma no reducible creada por Dios, entonces los sistemas artificiales no pueden alcanzar la conciencia a menos que Dios les otorgue almas/agencia, lo que hace que la conciencia de la IA sea físicamente improbable por defecto."
     },
     "survival_beyond_death": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "Dado que el alma se define como un sujeto no físico e irreducible, debería persistir más allá de la muerte biológica del cuerpo, en consonancia con las tradiciones dualistas/idealistas."
     },
     "meaning_and_purpose": {
-      "stance": "Cósmico/Teológico",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Los agentes conscientes (las almas) son creados por Dios, lo que implica inherentemente sentido, propósito y valor moral últimos derivados de este origen divino."
     },
     "virtual_immortality": {
@@ -74,11 +76,11 @@
         "relationship": "Influencia"
       },
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "Crítica"
       },
       {
-        "name": "McGilchrist’s Relational, Creative-Process Idealism",
+        "name": "McGilchrist's Relational, Creative-Process Idealism",
         "relationship": "Compatible"
       }
     ],

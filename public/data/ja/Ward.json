@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "ウォードの人格的観念論——神によって創造された身体化された行為者としての魂",
     "summary": "この理論は意識を究極的実在（観念論）として措定し、還元不可能な意識的主観、すなわち魂に焦点を当てる。魂を神によって創造された身体化された行為者として位置づけ、主観は客観的な物理世界と区別されつつもそれと不可分であるとする。世界そのものは知覚と思考の構築物と見なされ、一人称視点の優位性を確証する。",
-    "associated_thinkers": ["Keith Ward"],
-    "category": "諸観念論",
+    "associated_thinkers": [
+      "Keith Ward"
+    ],
+    "category": "観念論",
     "subcategory": "人格的観念論",
     "core_identity_tagline": "神によって創造された行為主体性の身体化された主観としての意識",
     "classification_tags": [
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "意識が神によって創造された還元不可能な魂であるなら、神が魂／行為主体性を授けない限り人工系は意識を達成できず、それゆえAIの意識は既定では物理的にありそうにない。"
     },
     "survival_beyond_death": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "魂は非物理的で還元不可能な主観として定義されるため、二元論的／観念論的伝統と整合的に、身体の生物学的死を超えて存続するはずである。"
     },
     "meaning_and_purpose": {
-      "stance": "宇宙的／神学的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "意識的行為者（魂）は神によって創造され、この神的起源に由来する究極的な意味・目的・道徳的価値を本来的に含意する。"
     },
     "virtual_immortality": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "仮想的不死は物理状態の複製に依拠する。意識的主観（魂）は還元不可能であり、公共的に観察可能な物理的事実によって同定されないため、物理的複製では必要な非物理的構成要素を捉えられない。"
     }
   },
@@ -74,11 +76,11 @@
         "relationship": "影響"
       },
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "批判"
       },
       {
-        "name": "McGilchrist’s Relational, Creative-Process Idealism",
+        "name": "McGilchrist's Relational, Creative-Process Idealism",
         "relationship": "両立可能"
       }
     ],

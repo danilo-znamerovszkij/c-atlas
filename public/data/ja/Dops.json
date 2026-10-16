@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "DOPS 理論的枠組み",
     "summary": "臨死体験（NDE）や生まれ変わりのような現象への経験的研究に支えられたこの枠組みは、意識の伝達モデルあるいはフィルターモデルを提唱し、そこでは脳が意識の産出者ではなくインターフェースとして作用する。意識は有機体から独立しており潜在的に実在の基盤であると論じることで、従来の物理主義に体系的に挑戦する。",
-    "associated_thinkers": ["Ed Kelly", "Ian Stevenson", "Bruce Greyson"],
-    "category": "変則的・変性状態",
-    "subcategory": "物理主義/唯物論への研究駆動型の挑戦",
+    "associated_thinkers": [
+      "Ed Kelly",
+      "Ian Stevenson",
+      "Bruce Greyson"
+    ],
+    "category": "異常",
+    "subcategory": "物理主義・唯物論に対する研究主導の挑戦",
     "core_identity_tagline": "フィルターを通された普遍的存在としての意識",
     "classification_tags": [
       "survival",
@@ -54,19 +58,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "見込みは乏しい",
+      "stance": "Unlikely",
       "rationale": "この枠組みは意識が還元不可能であり根本的で普遍的な実在（観念論/万有内在神論）に結びついていることを示唆し、それゆえ単なる人工的/計算論的システムがそれを有する可能性は低いことを含意し、AGI の意識の見込みは乏しいものとなる。"
     },
     "survival_beyond_death": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "この理論は、意識が身体の死を超えて存続すると論じる経験的証拠（臨死体験、生まれ変わりの事例）に動機づけられており、それゆえ非物質的な産出モデルを要する。"
     },
     "meaning_and_purpose": {
-      "stance": "宇宙的/究極的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "観念論/万有内在神論への中核的な形而上学的傾向は、意識が究極的な意味、目的、価値を提供する最高の意識に基礎づけられていることを示唆する。"
     },
     "virtual_immortality": {
-      "stance": "いいえ（不要）",
+      "stance": "Not needed",
       "rationale": "意識が非物理的で潜在的に連続的/死後存続的であるため、複製（仮想的不死）は元の一人称的自己を捉えそこねる可能性が高く、あるいは真正な死後存続が生じるならば無関係となろう。"
     }
   },
@@ -76,18 +80,36 @@
         "name": "Myers/James Transmission Model",
         "relationship": "基礎"
       },
-      { "name": "Idealism/Panentheism", "relationship": "両立可能/傾向" },
+      {
+        "name": "Idealism/Panentheism",
+        "relationship": "両立可能/傾向"
+      },
       {
         "name": "Interactive Dualism",
         "relationship": "代替的な概念的枠組み"
       },
-      { "name": "Materialism Theories (General)", "relationship": "批判" }
+      {
+        "name": "Materialism",
+        "relationship": "批判"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Irreducible Mind", "year": 2007 },
-      { "title_with_names": "Beyond Physicalism", "year": 2015 },
-      { "title_with_names": "Consciousness Unbound", "year": 2021 },
-      { "title_with_names": "The Continuity of Consciousness", "year": 2022 }
+      {
+        "title_with_names": "Irreducible Mind",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Beyond Physicalism",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Consciousness Unbound",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Continuity of Consciousness",
+        "year": 2022
+      }
     ]
   }
 }

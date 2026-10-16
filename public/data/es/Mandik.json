@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "El quietismo sobre los qualia, de Mandik",
+    "summary": "Pete Mandik sostiene que el término «qualia» carece de contenido suficiente para que pueda decirse algo informativo afirmando o negando que los qualia existen, de modo que rechaza tanto el realismo como el eliminativismo respecto de ellos. Estudia la conciencia en cambio mediante el neurofuncionalismo, según el cual los estados conscientes son representaciones de base cerebral cuyo carácter sentido está fijado por su contenido y que se representan a sí mismas.",
+    "associated_thinkers": [
+      "Pete Mandik"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Eliminativismo/Ilusionismo",
+    "core_identity_tagline": "La conciencia sin hablar de qualia: estados neuronales que se representan a sí mismos",
+    "classification_tags": [
+      "qualia",
+      "quietism",
+      "representationalism",
+      "self-representation",
+      "neurofunctionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Los estados conscientes son estados representacionales neuronales cuyo carácter fenoménico se agota en su contenido intencional, y que son conscientes porque incluyen una representación de sí mismos.",
+    "ontological_status": "Naturalismo (neurofuncionalista)",
+    "mind_body_relationship": "El neurofuncionalismo fundamenta en la implementación neuronal los papeles causales del funcionalismo clásico. Mandik afirma, no obstante, que no es fisicalista y que el quietismo sobre los qualia es compatible incluso con el dualismo sustancial.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia débil (la conciencia surge de la estructura representacional neuronal)",
+    "subjectivity_and_intentionality": "La intencionalidad va primero: lo que es la experiencia viene fijado por lo que representa el cerebro. La subjetividad está incorporada a la estructura del estado como autorrepresentación, y no se añade mediante un acto de introspección separado.",
+    "qualia_account": "Mandik no toma partido sobre si existen los qualia, porque el término no tiene un contenido claro. La experiencia es transparente: somos conscientes de propiedades representadas, como el rojo de una manzana, y no de la representación, y el hablar de qualia intrínsecos proviene de leer mal esto.",
+    "ontological_commitments": "Estados representacionales neuronales con poderes causales y contenido intencional.",
+    "epistemic_access": "Mediante el estudio científico de la representación y de la función neuronal. Mandik considera que la introspección no es fiable ni científica.",
+    "constituents_and_structure": "Estados representacionales que portan contenido sobre el mundo y, de forma reflexiva, sobre sí mismos."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménico (a través del contenido representacional); autorrepresentación; intencionalidad",
+    "distinctive_mechanism_or_principle": "Autorrepresentación dentro de representaciones neuronales transparentes: un estado se vuelve consciente al representarse a sí mismo como parte de su contenido.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "En estructuras representacionales de base cerebral.",
+    "causation_and_functional_role": "Los estados fenoménicos son estados cerebrales físicos con poderes causales.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "El contenido determina el carácter. Ver rojo es el cerebro representando algo como rojo de cierta manera, sin ningún quale adicional.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "El argumento del caos: las explicaciones de los qualia entran en conflicto, pues los tratan como propiedades de las experiencias, como las experiencias mismas o como los objetos experimentados.",
+      "El argumento de la circularidad: «qualia», «carácter fenoménico» y «lo que se siente ser» se definen unos por otros en un pequeño círculo vicioso con poca relación con el lenguaje ordinario.",
+      "El argumento de las alternativas: preguntas más claras, como si ver rojo requiere ser un organismo biológico, pueden sustituir al lenguaje de los qualia.",
+      "Mandik presenta estos puntos como un caso acumulativo, no como una prueba."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica (análisis conceptual), con una teoría representacional informada por la ciencia cognitiva."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente contrastable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Los realistas fenoménicos, como David Chalmers, que sostienen que la conciencia plantea un problema difícil, rechazarían la tesis de que «qualia» es un término vacío. El propio Mandik se distanció de su primera formulación, que hacía que la palabra sonara «repelente al significado». Llamar anti-realista a la postura mientras se sostiene que los estados fenoménicos son estados cerebrales reales, y negar el fisicalismo mientras se fundamenta la conciencia en neuronas, requiere una lectura cuidadosa.",
+    "open_questions_and_limitations": "El quietismo es una actitud respaldada por un caso acumulativo, no un argumento deductivo, como admite el propio Mandik.",
+    "ontological_coherence": "El quietismo pretende ser metafísicamente neutral, pero la teoría positiva (neural, representacional, causal) es naturalista."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Mandik plantea como cuestión abierta, que vale la pena formular en lugar de las preguntas sobre qualia, si algo que ve rojo debe ser un organismo biológico o podría ser un artefacto."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Dado que aquí los estados conscientes son representaciones neuronales, terminarían con el cerebro, aunque Mandik no se compromete con el fisicalismo."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Contraste"
+      },
+      {
+        "name": "Dennett’s Illusionism",
+        "relationship": "Contraste"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Kriegel’s Cross-Order Self-Representation",
+        "relationship": "Solapamiento"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mandik’s Qualia Quietism (Landscape of Consciousness), Pete Mandik",
+        "year": 2024
+      }
+    ]
+  }
+}

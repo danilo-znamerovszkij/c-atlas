@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "チャーマーズとマックイーンの量子収縮",
+    "summary": "チャーマーズとマックイーンは、意識が量子の波動関数を収縮させるという考えを復活させ、統合情報理論と連続的自発的局在化を組み合わせることで、それを精密なモデルへと組み立てる。彼らの論じるところによれば、波動関数の収縮はまさに、意識が作用しうる物理学における因果的な隙間であり、そのため性質二元論に対する因果的閉包の反論に答える。彼らはこの結果を確定した見解としてではなく、検証可能な研究プログラムとして提示する。",
+    "associated_thinkers": [
+      "David Chalmers",
+      "Kelvin McQueen"
+    ],
+    "category": "量子",
+    "subcategory": "",
+    "core_identity_tagline": "量子収縮の引き金としての意識",
+    "classification_tags": [
+      "quantum collapse",
+      "integrated information",
+      "mental causation",
+      "property dualism",
+      "causal closure"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "IITの統合情報のように、数学的理論によって規定される意識（閾値以上の統合情報）こそが、量子の波動関数の収縮をもたらすものである。",
+    "ontological_status": "性質二元論または物理主義（未決）",
+    "mind_body_relationship": "意識は収縮を通じて物理世界に因果的に作用する。著者らは、これが、意識を複雑な物理的性質とみなす唯物論的見解と、意識を物理的性質と相関する根本的性質とみなす二元論的見解の、どちらにも適合すると述べる。",
+    "primitive_or_emergent_status": "不明確",
+    "emergence_type": "未決: このモデルは意識に因果的役割を与え、困難な問題に対する多くの異なる答えと組み合わさるよう設計されている。",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "扱われていない。チャーマーズとマックイーンは、困難な問題を解こうとしているのではないと述べる。",
+    "ontological_commitments": "実際の収縮を被る量子の波動関数。収縮を、Φのような意識の性質に結びつける根本法則。意識は、複雑な物理的性質であるか、質量や電荷に似た根本的性質である。",
+    "epistemic_access": "意識と量子力学の数学的理論を通じて、原理的には量子コンピュータによる実験を通じて。",
+    "constituents_and_structure": "閾値以上の統合情報をもつシステム。その状態は、ボルンの規則に従って収縮を引き起こす。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "心的因果; 意識と量子測定の関係。",
+    "distinctive_mechanism_or_principle": "収縮の法則: Φによって規定された条件のもとで、重ね合わせはボルンの規則に従って収縮する。これは連続的自発的局在化の力学によってモデル化される。",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "物理システムが、関連する閾値を超える統合情報をもつところならどこでも。",
+    "causation_and_functional_role": "意識が収縮を引き起こし、それによって物理的効果を生む。これは、標準的な物理学が測定において残す因果的な隙間を埋める。",
+    "integration_or_binding": "統合はIITを通じて組み込まれている。IITは意識を統合情報と同一視する。",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "性質二元論に対する主要な哲学的論拠は、因果的閉包に基づく。すなわち、物理学には、非物理的な意識が埋めるべき隙間はないという主張である。",
+      "波動関数の収縮はそのような隙間に見える。また、意識による収縮のモデルは、既知の物理学によって明白に排除されているわけではない。",
+      "物理学者は、意識による収縮が二元論的に見えるため退け、哲学者は、性質二元論が閉包を侵すように見えるため退ける。両者をあわせて考えると、どちらの反論も結合された見解を排除しない。",
+      "意識をΦの閾値以上と同一視する唯物論的な版は、異例の根本的物理法則を伴うが、非物理的なものは何も伴わない。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的論証と、量子力学およびIITにおける形式的モデル化の組み合わせ。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": "この理論の版は、原理的には量子コンピュータを用いた実験によって検証されうる。",
+    "criticisms_and_tensions": "フォン・ノイマンとウィグナーが真剣に取り上げた意識による収縮という考えは、今日では物理学者の多くから退けられており、二元論はほとんどの哲学者から拒否されている。このモデルは、争われている意識の理論（IIT）と、収縮が実在するという前提に依拠している。",
+    "open_questions_and_limitations": "著者らは、意識による収縮の解釈が正しいと主張しているわけではなく、その研究プログラムが探究に値すると述べているにすぎない。このモデルは、物理過程がなぜ経験を生じさせるのかについては何も述べない。",
+    "ontological_coherence": "中立であるように設計されている。Φが物理的性質である唯物論的な読解と、意識が根本的である相互作用主義的な性質二元論の読解の双方に適合する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "IIT版では、統合情報が閾値を超えるどのシステムも、それが何でできているかにかかわらず意識をもち、収縮を引き起こすことになる。"
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Wigner–von Neumann’s Consciousness-Collapse: Experience at the Quantum Cut",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "基盤"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
+        "relationship": "重なり"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Chalmers and McQueen’s Quantum Collapse (Landscape of Consciousness), David Chalmers and Kelvin McQueen",
+        "year": 2022
+      }
+    ]
+  }
+}

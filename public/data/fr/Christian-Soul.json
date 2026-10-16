@@ -8,7 +8,7 @@
       "Eleonore Stump",
       "William Lane Craig"
     ],
-    "category": "Dualismes",
+    "category": "Dualisme",
     "subcategory": "Dualisme des substances",
     "core_identity_tagline": "La conscience comme âme substantielle immatérielle",
     "classification_tags": [
@@ -61,28 +61,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Non (le plus souvent)",
+      "stance": "Unlikely",
       "rationale": "Si la conscience requiert une substance radicalement distincte et non physique (l'âme) qui est divinement créée ou attribuée, les intelligences non biologiques ne pourraient pas générer cette composante nécessaire, rendant la conscience de l'IA impossible."
     },
     "survival_beyond_death": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "L'âme est le « véritable soi », existant indépendamment du corps et fournissant le mécanisme le plus clair pour la persistance de la conscience individuelle post-mortem, satisfaisant le principe central des religions abrahamiques."
     },
     "meaning_and_purpose": {
-      "stance": "Ultime/Cosmique",
+      "stance": "Cosmic/Ultimate",
       "rationale": "En tant que théorie théologique, elle fournit un sens, une finalité et une valeur ultimes liés à la création divine, à la destinée et à la nature spirituelle de l'existence humaine."
     },
     "virtual_immortality": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "Le téléchargement des motifs et voies neuronaux ne ferait que dupliquer le fondement physique de la conscience. Puisque la substance non physique nécessaire (l'âme) serait absente du duplicata, la préservation mentale du soi à la première personne serait impossible."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Recoupement" },
-      { "name": "Thomistic Dualism", "relationship": "Extension" },
-      { "name": "Non-Reductive Physicalism", "relationship": "Critique" },
-      { "name": "Emergent Dualism", "relationship": "Variante" }
+      {
+        "name": "Dualism",
+        "relationship": "Recoupement"
+      },
+      {
+        "name": "Thomistic Dualism",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Non-Reductive",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Variante"
+      }
     ],
     "sources_and_references": [
       {

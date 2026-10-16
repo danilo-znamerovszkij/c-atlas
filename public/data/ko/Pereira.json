@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "페레이라의 감응성 이론",
     "summary": "이 이론은 의식이 두 가지 구별되는 양상을 지닌다고 상정한다. 하나는 통증이나 배고픔 같은 기본적 느낌으로 특징지어지는 근본적 감응성이고, 다른 하나는 추상적 사고와 표상을 수반하는 고차 인지적 의식이다. 핵심 주장은 인지 역량이 항상성 체계에 생물학적으로 근거한 이 기저의 감응 상태에 의존한다는 것이다.",
-    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "associated_thinkers": [
+      "Antonio Pereira, Jr."
+    ],
     "category": "유물론",
-    "subcategory": "항상성적·정동적 이론",
+    "subcategory": "항상성",
     "core_identity_tagline": "감응성에 근거한 이층 체계로서의 의식",
     "classification_tags": [
       "sentience",
@@ -53,34 +55,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "인공 시스템이 (감응성에 필요한) 동적 생화학적 항상성을 관장하는 생리 체계와 (인지에 필요한) 생체전기적 신경망 활동을 온전히 재현할 수 있다면 인공 의식이 가능하다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식은 기능하는 생물학적 체계(항상성 제어와 신경망)에 엄격히 의존하므로, 신체와 뇌가 돌이킬 수 없이 해체되면 소멸하는 것으로 추정된다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "이 이론은 생물학적 안정성(항상성)을 유지하고 유연한 인지를 가능하게 하는 의식의 기능적·적응적 역할에 초점을 맞추며, 우주적이거나 궁극적인 목적의 근거를 제공하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "감응성과 인지의 상관물로 확인된 특정한 동적 항상성 패턴과 생체전기 패턴이 비생물학적 매체에서 완벽하게 디지털화되고 복제될 수 있을 경우에만 이론적으로 가능하다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "중첩"
       },
       {
-        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "name": "Solms's Affect as the Hidden Spring of Consciousness",
         "relationship": "양립 가능"
       },
       {
-        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+        "name": "Prinz's Neurofunctionalism: Attention Engenders Experience",
         "relationship": "양립 가능"
       }
     ],

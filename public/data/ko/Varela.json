@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "바렐라의 신경현상학",
     "summary": "신경현상학은 체험된 경험 속에 현전하는 일인칭 현상(현상학)과 인지과학이 확립한 삼인칭 신경 현상 사이에 상호 제약 관계를 수립하고자 하는 방법론적 접근이다. 그 목표는 엄밀한 과학과 인간 경험에 대한 훈련된 검토를 결합하여, 경험의 구조를 과학적 탐구의 핵심에 두는 것이다.",
-    "associated_thinkers": ["Francisco Varela"],
-    "category": "유물론",
-    "subcategory": "체화 및 발제",
+    "associated_thinkers": [
+      "Francisco Varela"
+    ],
+    "category": "현상학",
+    "subcategory": "",
     "core_identity_tagline": "경험과 뇌의 상호 제약으로서의 의식",
     "classification_tags": [
       "phenomenology",
@@ -53,30 +55,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 낮음",
+      "stance": "Unlikely",
       "rationale": "의식은 체화되고 체험된 경험, 그리고 생물학적 과정과 결부된 동역학에 크게 의존하므로, 단순한 계산적 복제만으로는 불충분하다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "이 이론은 유물론/체화 이론으로 분류되며, 의식이 살아 있는 생물학적 유기체에 뿌리를 두고 그 전반으로 뻗어 나간다는 데 초점을 맞추므로 신체의 죽음과 함께 소멸함을 함축한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간주의적/실용주의적",
+      "stance": "Humanistic only",
       "rationale": "이 방법론은 '인간의 삶'과 주관적 경험을 과학적 설명에 회복시키고자 하며, 우주적 목적을 상정하지 않은 채 순수한 기능에 의한 소외보다 체험된 경험을 중시함으로써 의미를 제공한다."
     },
     "virtual_immortality": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식이 뇌를 넘어 확장되는 체화된 체험 경험에 뿌리를 둔다면, 신경적·기능적 자료를 단순히 업로드하는 것만으로는 유기체-환경 관계에 필요한 동역학을 포착하지 못할 것이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Thompson’s Mind in Life",
+        "name": "Thompson's Mind in Life",
         "relationship": "확장"
       },
       {
-        "name": "Bitbol’s Radical Neurophenomenology",
+        "name": "Bitbol's Radical Neurophenomenology",
         "relationship": "확장/정교화"
       },
       {

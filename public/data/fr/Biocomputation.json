@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Le computationnalisme biologique de Malinkovic et Aru",
+    "summary": "Milinkovic et Aru soutiennent que la conscience dépend d'un type de calcul que seuls les substrats biologiques réalisent, et dans lequel les propriétés physiques, énergétiques et chimiques du tissu font partie du calcul lui-même. Sous de strictes contraintes métaboliques, le cerveau traite l'information à travers des échelles qui ne peuvent être séparées, et il mêle des pointes discrètes à des processus continus, comme les potentiels gradués et les champs électriques. Les systèmes numériques séparent l'algorithme du matériel ; selon cette thèse, ils ne possèdent donc pas ce dont la conscience a besoin.",
+    "associated_thinkers": [
+      "Borjan Milinkovic",
+      "Jaan Aru"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Computationnel",
+    "core_identity_tagline": "La conscience comme calcul biologique multiéchelle lié au substrat",
+    "classification_tags": [
+      "substrate dependence",
+      "multiscale",
+      "metabolism",
+      "hybrid computation",
+      "artificial consciousness"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience dépend d'un calcul biologique dans lequel le substrat est l'algorithme. Les potentiels de membrane, les flux ioniques, la diffusion chimique et les champs effectuent le calcul ; aucune couche ne sépare le logiciel du matériel.",
+    "ontological_status": "Physicalisme (computationnalisme biologique)",
+    "mind_body_relationship": "Le traitement conscient est lié à la dynamique physique concrète du tissu vivant. Les auteurs opposent leur thèse au fonctionnalisme computationnel, qui rend le médium indifférent, et donnent au naturalisme biologique un fondement computationnel.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence par fermeture inter-échelles, dans laquelle les échelles inférieures engendrent les échelles supérieures, tandis que la dynamique des échelles supérieures contraint les inférieures (« codétermination dynamico-structurelle »)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "Neurones, dendrites, potentiels gradués, flux ioniques, champs électriques extracellulaires, molécules de signalisation subcellulaires comme la protéine kinase A, et le budget métabolique qui les façonne.",
+    "epistemic_access": "Par la neuroscience de la dynamique neuronale multiéchelle, et par la comparaison entre architectures biologiques et numériques.",
+    "constituents_and_structure": "Une hétérarchie : des pointes discrètes chevauchent des potentiels de membrane gradués, des flux ioniques et des potentiels de champ, lesquels reposent à leur tour sur l'anatomie corticale stratifiée, sans échelle unique privilégiée."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Traitement conscient en général ; conditions de la conscience artificielle",
+    "distinctive_mechanism_or_principle": "Inséparabilité des échelles et calcul hybride. Les calculs à une échelle ne peuvent être séparés de ceux des autres échelles, et un « calcul continu » à valeurs continues s'exécute parallèlement à la décharge discrète.",
+    "dynamics_of_emergence": "Des processus subcellulaires lents accumulent des preuves sur des intervalles plus longs et déclenchent des transitions discrètes au niveau du réseau. La protéine kinase A, par exemple, compare l'activité interne à celle des neurones postsynaptiques et signale l'atteinte d'un but du réseau.",
+    "location_and_distribution": "Répartie à travers les échelles du cerveau, de la chimie subcellulaire et des dendrites jusqu'aux champs et aux réseaux corticaux.",
+    "causation_and_functional_role": "Les champs extracellulaires transportent une information qui guide et synchronise la décharge neuronale par couplage éphaptique ; la dynamique des échelles supérieures contraint l'activité des échelles inférieures.",
+    "integration_or_binding": "L'information est intégrée entre les échelles par gros grain : des événements discrets microscopiques sont regroupés en une dynamique continue macroscopique, tout en conservant les interdépendances entre échelles.",
+    "information_flow_or_representation": "Les dendrites effectuent localement des opérations non linéaires et regroupent les entrées avant qu'elles n'atteignent le soma. Les neurones non pointants relaient des signaux gradués qui transportent plus d'information par seconde que les pointes, coûteuses.",
+    "evolutionary_account": "L'organisation du cerveau a évolué sous un budget énergétique strict d'environ 20 watts, ce qui l'a contraint à maximiser le calcul par unité d'énergie grâce au gros grain et à l'intégration inter-échelles.",
+    "core_claims_and_evidence": [
+      "Les contraintes métaboliques sont des forces constitutives qui façonnent la manière dont les systèmes neuronaux traitent, transmettent et intègrent l'information entre les échelles.",
+      "Les systèmes biologiques calculent de manière hétérarchique, avec une codétermination continue entre échelles, à la différence des couches d'abstraction à sens unique des machines numériques.",
+      "Le tissu neuronal combine des pointes discrètes et des processus continus, comme les potentiels gradués et les effets de champ éphaptiques.",
+      "Les machines de von Neumann, y compris les grands modèles de langage, séparent la mémoire, le traitement et le contrôle, et dissocient l'information du substrat ; elles ne possèdent donc pas la structure causale dont la conscience a besoin."
+    ],
+    "basis_of_belief_or_evidence_type": "Neuroscience théorique, s'appuyant sur les résultats concernant le calcul dendritique, le couplage éphaptique et l'énergétique neuronale"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Testable sur le plan conceptuel",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Cette thèse conteste directement le fonctionnalisme computationnel, dont les défenseurs soutiennent que le bon schéma de traitement de l'information suffit, quel que soit le médium.",
+    "open_questions_and_limitations": "Les auteurs notent qu'aucun cadre cohérent n'explique encore en quoi le calcul biologique diffère du calcul numérique, ni pourquoi cette différence importe pour la conscience ; leur proposition vise à fournir ce cadre. Elle ne précise pas comment un calcul biologique multiéchelle donne naissance à une expérience subjective.",
+    "ontological_coherence": "Cohérente avec le physicalisme et proche du naturalisme biologique, tout en conservant un vocabulaire computationnel."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "L'IA numérique actuelle, y compris les grands modèles de langage, ne peut pas être consciente. Milinkovic et Aru admettent que des substrats biomimétiques dotés d'une dynamique hybride, multiéchelle et contrainte par l'énergie pourraient l'être."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conscience dépendant de la dynamique contrainte par l'énergie du tissu vivant, il en découle que celle-ci prend fin lorsque cette dynamique cesse."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "Une simulation numérique modélise les échelles du cerveau comme des objets mathématiques séparés et ne peut reproduire le calcul lié au substrat que les auteurs jugent nécessaire."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Searle's Biological Naturalism",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Ephaptic Coupling",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Dendritic Integration Theory",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Biological Computationalism (Landscape of Consciousness entry), Borjan Milinkovic and Jaan Aru",
+        "year": 2025
+      }
+    ]
+  }
+}

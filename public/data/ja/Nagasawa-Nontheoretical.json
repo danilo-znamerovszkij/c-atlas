@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ナガサワの非理論的物理主義理論",
     "summary": "この理論は、世界は全面的に物理的であるが、それは物理諸科学の完全な理論によってさえ捉えることも説明することもできない意識についての特定の物理的事実を含む、と主張する。物理的存在論を、還元的理論が現象的意識を把握することに明らかに失敗している事態と調停しようとする、物理主義の代替的定式化として機能する。",
-    "associated_thinkers": ["Yujin Nagasawa"],
-    "category": "非還元的物理主義",
-    "subcategory": "代替的な物理主義の定式化",
+    "associated_thinkers": [
+      "Yujin Nagasawa"
+    ],
+    "category": "非還元的",
+    "subcategory": "代替的物理主義の定式化",
     "core_identity_tagline": "物理理論を超えた物理主義",
     "classification_tags": [
       "physicalism",
@@ -50,30 +52,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありそう",
+      "stance": "Likely",
       "rationale": "世界は全面的に物理的であり、意識は存在者に基づく物理的事実に根ざしているため、複雑な人工システムは原理的に、必要な非理論的な物理的事実を実現しうる。"
     },
     "survival_beyond_death": {
-      "stance": "否定",
+      "stance": "No",
       "rationale": "物理主義の一形態として、意識は物理的世界に結びついており、物理的基盤の解体後に存続を許すという徴候はない。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的のみ",
+      "stance": "Humanistic only",
       "rationale": "存在論は厳密に物理的であり、科学的理論に接近不可能な物理的事実を認めはするものの、それ自体として究極的な宇宙的意味や目的を含意しはしない。"
     },
     "virtual_immortality": {
-      "stance": "条件付き（技術的に限定される）",
+      "stance": "Conditional",
       "rationale": "非理論的な意識の事実を体現する特定の物理的存在者（あるいはその構成）を完全に複製あるいは非生物学的媒体へアップロードできるなら、仮想的不死は技術的に可能だが、きわめて困難である。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Physicalism",
+        "name": "Materialism",
         "relationship": "拡張"
       },
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "批判／代替"
       },
       {

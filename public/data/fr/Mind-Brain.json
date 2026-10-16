@@ -2,7 +2,11 @@
   "id_and_class": {
     "theory_title": "Théorie de l'identité esprit-cerveau",
     "summary": "Cette théorie philosophique classique de la conscience postule que les états, événements ou processus mentaux sont strictement identiques à des états, événements ou processus spécifiques se produisant dans le cerveau. Elle fonctionne comme l'exemple paradigmatique du matérialisme en affirmant que la conscience est entièrement physique.",
-    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "associated_thinkers": [
+      "J.J.C. Smart",
+      "U.T. Place",
+      "Herbert Feigl"
+    ],
     "category": "Matérialisme",
     "subcategory": "Philosophique",
     "core_identity_tagline": "Les états mentaux sont des états cérébraux",
@@ -49,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "Puisque la théorie de l'identité esprit-cerveau affirme que la conscience est réductible à des processus physiques, si ces processus physiques spécifiques peuvent être reproduits dans un substrat artificiel non biologique, la conscience est nécessairement instanciée."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience est strictement identique à l'intégrité fonctionnelle et physique du cerveau ; sa dissolution à la mort entraîne la cessation permanente du soi conscient."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "En tant que théorie matérialiste, la théorie de l'identité esprit-cerveau n'implique aucun sens ou finalité cosmique ultime. Le sens et la valeur sont des propriétés émergentes créées par les agents conscients humains."
     },
     "virtual_immortality": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "Si la conscience (le motif physique précis) peut être scannée et parfaitement dupliquée/téléchargée dans un nouveau support physique (numérique ou autre), la théorie garantit la survie du soi conscient identique."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Papineau’s Mind-Brain Identity",
+        "name": "Papineau's Mind-Brain Identity",
         "relationship": "Extension"
       },
       {
@@ -80,7 +84,7 @@
         "relationship": "Critique"
       },
       {
-        "name": "Tye’s Contingentism",
+        "name": "Tye's Contingentism",
         "relationship": "Influence"
       }
     ],

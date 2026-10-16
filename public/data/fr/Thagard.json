@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La représentation neuronale, le liage, la cohérence et la compétition de Thagard",
     "summary": "Cette théorie attribue les expériences conscientes aux interactions de quatre mécanismes cérébraux empiriquement plausibles : la représentation neuronale, le liage, la cohérence et la compétition. Elle affirme que la conscience émerge de ces interactions à travers le cerveau, fournissant une explication scientifiquement fondée des phénomènes conscients complexes comme les rêves, l'humour, et la conscience de soi.",
-    "associated_thinkers": ["Paul Thagard"],
+    "associated_thinkers": [
+      "Paul Thagard"
+    ],
     "category": "Matérialisme",
-    "subcategory": "Représentationnel",
+    "subcategory": "Ordre supérieur",
     "core_identity_tagline": "« La conscience construite par des mécanismes neuronaux »",
     "classification_tags": [
       "neuroscience",
@@ -52,34 +54,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "La théorie suggère que, bien que les ordinateurs actuels ne soient pas conscients, les nouveaux modèles d'IA générative possèdent des mécanismes similaires à ceux des humains, ce qui pourrait permettre un certain degré de conscience, en particulier si les quatre mécanismes cérébraux centraux peuvent être modélisés ou reproduits de manière computationnelle."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "En tant que théorie matérialiste, la conscience dépend entièrement du cerveau biologique ; par conséquent, la mort du cerveau entraîne la non-existence permanente de la personne et de la conscience."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "En tant que théorie matérialiste, elle adhère à une explication physicaliste qui exclut généralement un sens ou une finalité cosmique ultime, ne reconnaissant que le sens et la valeur créés par les êtres humains eux-mêmes."
     },
     "virtual_immortality": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "Si la théorie matérialiste explique entièrement la conscience par des mécanismes physiques (représentation neuronale, liage, cohérence, compétition), alors le soi mental à la première personne est téléversable et l'immortalité virtuelle est atteignable via une technologie avancée capable de dupliquer ces processus physiques."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Representational Theories",
+        "name": "First-Order",
         "relationship": "Extension"
       },
       {
-        "name": "Higher-Order Theories",
+        "name": "Higher-Order",
         "relationship": "Compatible"
       },
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "Compatible"
       }
     ],

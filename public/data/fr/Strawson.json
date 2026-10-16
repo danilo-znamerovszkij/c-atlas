@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "Le panpsychisme de Strawson",
     "summary": "Strawson soutient que tout philosophe adoptant une vision réaliste du physicalisme doit accepter que tous les phénomènes physiques sont intrinsèquement expérientiels ou phénoménaux, ce qui conduit au panpsychisme (ou panexpérientialisme) comme conclusion nécessaire du « matérialisme réel ». L'existence de l'expérience consciente, étant le fait le plus certain, ne peut être niée par un véritable physicalisme.",
-    "associated_thinkers": ["Galen Strawson"],
-    "category": "Panpsychismes",
+    "associated_thinkers": [
+      "Galen Strawson"
+    ],
+    "category": "Panpsychisme",
     "subcategory": "Panexpérientialisme",
     "core_identity_tagline": "« Le matérialisme réel entraîne le panpsychisme »",
     "classification_tags": [
@@ -51,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probablement",
+      "stance": "Likely",
       "rationale": "Si la conscience est une propriété irréductible de chaque entité physique élémentaire, alors l'IA, étant composée de matière physique, devrait également posséder une conscience intérieure, à condition que le problème de la combinaison puisse être résolu et que les aspects micropsychiques puissent être manipulés par une technologie avancée."
     },
     "survival_beyond_death": {
-      "stance": "Improbable (hypothèse lointaine)",
+      "stance": "Unlikely",
       "rationale": "Bien que le monde soit imprégné de conscience, la survie nécessite d'inverser le processus complexe par lequel des éléments microscopiques se coalisent en une conscience macroscopique, ce qui semble difficile pour la survie à la première personne lors de la dissolution du cerveau."
     },
     "meaning_and_purpose": {
-      "stance": "Possible",
+      "stance": "Uncertain",
       "rationale": "Le panpsychisme est positionné entre le matérialisme (aucun but ultime) et le dualisme/idéalisme (but ultime), suggérant un sens/but/valeur ultimes possibles."
     },
     "virtual_immortality": {
-      "stance": "Probablement",
+      "stance": "Likely",
       "rationale": "Si la conscience est une propriété intrinsèque et régulière du tissu de la réalité, une technologie avancée pourrait potentiellement apprendre les régularités nécessaires pour agréger ou manipuler des forces micropsychiques afin de dupliquer ou de téléverser la conscience."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Chalmers’s Panpsychism",
+        "name": "Chalmers's Panpsychism",
         "relationship": "Compatible/Influence"
       },
       {
@@ -78,7 +80,7 @@
         "relationship": "Recouvrement/Synthèse"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "Critique"
       }
     ],

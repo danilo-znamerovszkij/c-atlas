@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "L'approche relationnelle de la conscience de Tsuchiya",
     "summary": "Cette approche est avant tout une méthodologie qui cherche à caractériser et définir la conscience par des descriptions exhaustives de ses relations avec toutes les autres consciences. Elle utilise la théorie des catégories, un outil fondé sur des structures mathématiques et leurs relations, pour décrire avec précision mathématique la structure et les relations réciproques de la phénoménologie consciente.",
-    "associated_thinkers": ["Nao Tsuchiya", "Hayato Saigo"],
-    "category": "Théories du matérialisme",
-    "subcategory": "Relationnelle",
+    "associated_thinkers": [
+      "Nao Tsuchiya",
+      "Hayato Saigo"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Relationnel",
     "core_identity_tagline": "La conscience comme relations caractérisées mathématiquement",
     "classification_tags": [
       "relational",
@@ -49,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si la conscience est fondamentalement définie par des relations et des structures pouvant être décrites avec précision de manière mathématique (via la théorie des catégories), ces structures devraient être réalisables dans des systèmes computationnels non biologiques avancés."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La théorie étant classée dans le matérialisme, cela implique que la conscience dépend du substrat physique (vraisemblablement le cerveau) qui réalise les structures relationnelles, ce qui signifie qu'elle cesse à la mort biologique."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste/Pragmatique",
+      "stance": "Humanistic only",
       "rationale": "En tant que méthodologie matérialiste et structurelle, elle offre des outils pour définir la conscience mais ne fournit aucun sens cosmique ou ultime inhérent, au-delà de celui créé par l'expérience humaine."
     },
     "virtual_immortality": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "La conscience étant caractérisée par des relations et des catégories précisément quantifiables et définissables, la duplication de ces structures dans un support virtuel ou numérique devrait, en principe, permettre la continuation du soi conscient."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Théories relationnelles",
+        "name": "Relational",
         "relationship": "Soutenue par"
       },
       {
-        "name": "L'hylémorphisme de Jaworski",
+        "name": "Jaworski's Hylomorphism",
         "relationship": "Apparentée (catégorie partagée)"
       },
       {
-        "name": "Théorie des catégories en mathématiques",
+        "name": "Category Theory in Mathematics",
         "relationship": "Fondement"
       }
     ],

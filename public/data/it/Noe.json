@@ -7,7 +7,7 @@
       "Kevin O’Regan"
     ],
     "category": "Materialismo",
-    "subcategory": "Relazionale",
+    "subcategory": "Incarnato",
     "core_identity_tagline": "La coscienza come interazione attiva con il mondo",
     "classification_tags": [
       "relational",
@@ -54,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Incerto/Condizionale",
+      "stance": "Uncertain",
       "rationale": "La computazione standard è insufficiente; la coscienza è possibile solo se i sistemi di IA conseguono una piena incarnazione, abilità e un'interazione continua e autonoma con un mondo (soddisfacendo le stesse esigenze poste agli organismi viventi)."
     },
     "survival_beyond_death": {
@@ -62,30 +62,54 @@
       "rationale": "La coscienza è inseparabile dal ciclo fisico continuo e attivo che coinvolge il cervello e il corpo nell'interazione con il mondo; la sua cessazione significa la fine dell'attività cosciente."
     },
     "meaning_and_purpose": {
-      "stance": "Solo umanistico",
+      "stance": "Humanistic only",
       "rationale": "La coscienza consente all'agente di acquisire contesto, conoscenza e comprensione, conferendogli la capacità di assegnare significato alle interazioni e di guidare un comportamento proattivo, ma non implica alcuno scopo trascendente."
     },
     "virtual_immortality": {
-      "stance": "Altamente implausibile",
+      "stance": "Unlikely",
       "rationale": "Caricare soltanto i processi interni del cervello (il 'luogo meccanico') non può catturare l'attività interattiva esterna, continua e non confinata al cervello, definita come coscienza."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Enactivism (Varela & Thompson)", "relationship": "Quadro costitutivo" },
-      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "Influenza fondativa" },
-      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "Influenza filosofica" },
-      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "Parzialmente compatibile / Sovrapposta" },
-      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "Correlata / Complementare (percezione attiva, modello dei circuiti condivisi)" },
-      { "name": "Internalist Materialism", "relationship": "Critica" },
-      { "name": "Dualism", "relationship": "Critica" }
+      {
+        "name": "Enactivism",
+        "relationship": "Quadro costitutivo"
+      },
+      {
+        "name": "Ecological Psychology (James J. Gibson)",
+        "relationship": "Influenza fondativa"
+      },
+      {
+        "name": "Embodied Phenomenology (Maurice Merleau-Ponty)",
+        "relationship": "Influenza filosofica"
+      },
+      {
+        "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)",
+        "relationship": "Parzialmente compatibile / Sovrapposta"
+      },
+      {
+        "name": "Susan Hurley — Action/Perception & Shared Circuits",
+        "relationship": "Correlata / Complementare (percezione attiva, modello dei circuiti condivisi)"
+      },
+      {
+        "name": "Internalist Materialism",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "Critica"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
         "year": 2010
       },
-      { "title_with_names": "Varieties of Presence, Alva Noë", "year": 2012 },
+      {
+        "title_with_names": "Varieties of Presence, Alva Noë",
+        "year": 2012
+      },
       {
         "title_with_names": "Is consciousness an illusion, Alva Noë",
         "year": 2007

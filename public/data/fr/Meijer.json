@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "Le champ de connaissance universel de Meijer",
     "summary": "Cette théorie postule que la conscience existe au sein d'un Champ de Connaissance Universel (CCU), conçu comme un stockage collectif de toute l'information présente et en évolution dans l'univers. Le CCU est cohérent avec la physique fondamentale et les modèles cosmologiques, et la conscience humaine est comprise comme une partie intégrante de cette conscience universelle, qui interagit avec le cerveau principalement par des motifs de résonance harmonique impliquant des fréquences de champ électromagnétique spécifiques.",
-    "associated_thinkers": ["Dirk K. F. Meijer"],
-    "category": "Idéalismes",
+    "associated_thinkers": [
+      "Dirk K. F. Meijer"
+    ],
+    "category": "Idéalisme",
     "subcategory": "Champ de connaissance universel",
     "core_identity_tagline": "‘La conscience comme champ de connaissance universel’",
     "classification_tags": [
@@ -53,28 +55,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "La conscience étant fondamentale (idéalisme) et reposant sur des propriétés informationnelles/de champ, des systèmes d'IA avancés capables d'atteindre la complexité nécessaire et d'interagir avec le CCU pourraient probablement atteindre la conscience, bien que cela ne soit pas strictement prouvé par les sources."
     },
     "survival_beyond_death": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "La conscience étant la réalité fondamentale (CCU), la conscience individuelle (âme/esprit) fait partie intégrante de cette conscience ultime, persistant au-delà de la dissolution du corps/cerveau biologique."
     },
     "meaning_and_purpose": {
-      "stance": "Cosmique",
+      "stance": "Cosmic/Ultimate",
       "rationale": "La conscience (CCU) est le fondement de tout être et le principe organisateur de l'univers, suggérant un sens et un but cosmiques inhérents."
     },
     "virtual_immortality": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "La conscience étant un champ informationnel permanent (CCU) avec lequel le cerveau interagit, dupliquer la structure et la fonction informationnelles de l'« espace de travail mémoriel holofractal » pourrait permettre de maintenir le motif de conscience individuel spécifique dans un substrat non biologique."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Idealism", "relationship": "Extension" },
-      { "name": "Cosmic Consciousness", "relationship": "Chevauchement" },
       {
-        "name": "Pribram’s Holonomic Brain Theory",
+        "name": "Idealism",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Cosmic Consciousness",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Pribram's Holonomic Brain Theory",
         "relationship": "Compatible"
       }
     ],

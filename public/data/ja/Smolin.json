@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "スモーリンの視点の因果理論",
     "summary": "この理論は、量子論の関係論的で実在論的な完成を提唱し、宇宙は根本的に、その因果的過去から利用可能な情報によって定義される「事象の視点」の集まりから構成されると主張する。意識は、宇宙的歴史のなかで前例がないか唯一である稀で特定の視点と同定される。",
-    "associated_thinkers": ["Lee Smolin"],
-    "category": "量子理論",
-    "subcategory": "関係論的／因果的量子論",
+    "associated_thinkers": [
+      "Lee Smolin"
+    ],
+    "category": "量子",
+    "subcategory": "関係的・因果的量子論",
     "core_identity_tagline": "新奇なあるいは唯一の因果的視点としての意識",
     "classification_tags": [
       "relational physics",
@@ -50,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "AIシステムは、その計算的過程が選択基準を満たす真に新奇で唯一の事象の因果的視点を生成するならば意識を実現しうるが、これは日常的な計算的過程については保証されない。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は宇宙における物理的事象とその因果的視点に結びついている。基底にある物理的基盤（脳／事象の系列）が消散したのち、これらの視点が独立して存続する機構は記述されていない。"
     },
     "meaning_and_purpose": {
-      "stance": "未定",
+      "stance": "Uncertain",
       "rationale": "この理論は意識の根本的な物理的存在論（クオリアが物理学にどう収まるか）に焦点を当てており、宇宙的意味や目的論を本来的に扱わない。"
     },
     "virtual_immortality": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "デジタル的な複製はおそらく「ありふれた日常的な」視点を再現するが、それは意識的知覚と相関しないと明示的に仮定されている。真の仮想的意識は新奇性の生成を要するが、それは単なるシミュレーションを通じてはありそうにない。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Rovelli's Relational Physics",
+        "name": "Rovelli's Relationship Physics",
         "relationship": "影響／重複"
       },
       {
-        "name": "Panpsychism (Micropsychism)",
+        "name": "Panpsychism",
         "relationship": "制限／対比"
       },
       {
-        "name": "Bohm’s Implicate-Explicate Order",
+        "name": "Bohm's Implicate-Explicate Order",
         "relationship": "文脈的影響"
       }
     ],

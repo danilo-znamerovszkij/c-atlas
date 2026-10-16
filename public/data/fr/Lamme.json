@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La théorie du traitement récurrent de Lamme",
     "summary": "La théorie du traitement récurrent (RPT) de Lamme postule que la conscience est à la fois nécessaire et suffisante lorsque des connexions rétroactives (récurrentes) réciproques se produisent entre des aires neuronales, en particulier dans les systèmes sensoriels. Ce traitement, qui se déroule localement dans les aires sensorielles et post-sensorielles (stade 3), engendre l'expérience phénoménale sans nécessiter d'accès à une diffusion globale.",
-    "associated_thinkers": ["Victor Lamme"],
+    "associated_thinkers": [
+      "Victor Lamme"
+    ],
     "category": "Matérialisme",
-    "subcategory": "Représentationnelle",
+    "subcategory": "Premier ordre",
     "core_identity_tagline": "« La conscience comme traitement récurrent dans les systèmes sensoriels »",
     "classification_tags": [
       "neuroscience",
@@ -50,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "En tant que théorie du matérialisme, la conscience de l'IA doit, en principe, être possible si le motif requis de traitement récurrent pouvait être artificiellement dupliqué dans un substrat non biologique."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience est liée à l'activité cérébrale physique et à des circuits neuronaux spécifiques (états de traitement récurrent), ce qui suggère sa cessation à la mort corporelle."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "La théorie se concentre sur une explication purement physicaliste et neurobiologique de l'expérience phénoménale et ne soutient aucun sens ou dessein cosmique ultime."
     },
     "virtual_immortality": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "La conscience étant l'état de traitement récurrent lui-même, une duplication parfaite de ce processus sur un nouveau support (téléchargement) engendrerait le soi en première personne, permettant l'immortalité virtuelle."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Théorie de l'espace de travail global",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "Critique"
       },
       {
-        "name": "Représentationnalisme de premier ordre",
+        "name": "First-Order",
         "relationship": "Extension"
       },
       {
-        "name": "Réductionnisme biologique de Block",
+        "name": "Block's Biological Reductionism",
         "relationship": "Chevauchement"
       }
     ],

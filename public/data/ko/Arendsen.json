@@ -1,0 +1,119 @@
+{
+  "id_and_class": {
+    "theory_title": "아렌센의 복합 관념론",
+    "summary": "알베르트 R.J.(리처드) 아렌센은 실재가 지속(duration)의 연속적인 정신적·정보적 흐름이며, 의식은 어떤 계산으로도 모델링할 수 없는 '쪼개질 수 없는 통일성'이라고 주장한다. 측정되는 물리적 우주는 이 흐름의 이차적이고 얼어붙은 스냅샷이며, 아렌센은 흐름이 이산적인 물리적 사건으로 바뀌는 접점에 대한 수학적 모델을 제시한다. '복합'은 복소수에서처럼 '실수'와 '허수' 영역을 잇는 이중 측면 구조를 가리킨다.",
+    "associated_thinkers": [
+      "Albert R.J. (Richard) Arendsen"
+    ],
+    "category": "관념론",
+    "subcategory": "",
+    "core_identity_tagline": "쪼개질 수 없고 연속적인 지속의 흐름으로서의 의식",
+    "classification_tags": [
+      "process idealism",
+      "duration",
+      "non-computational",
+      "bergson",
+      "phase space"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "의식은 일차적이고 연속적인 정신적 운동성이며, 실재의 직물을 이루는 나눌 수 없는 질적 지속의 흐름이다.",
+    "ontological_status": "관념론(과정적, 이중 측면)",
+    "mind_body_relationship": "물리적 구조는 정신적 흐름이 측정되고 셈해질 때 그 흐름에서 응결된, 안정적이고 얼어붙은 경계이다. 뇌는 연속적인 흐름을 이산적인 의사소통 신호로 잘라 내며, 의식을 계산하지는 않는다.",
+    "primitive_or_emergent_status": "원초적",
+    "emergence_type": "해당 없음(정신적 흐름이 일차적이며, 공간화된 물질은 그 이차적 산물이다)",
+    "subjectivity_and_intentionality": "아렌센은 인지를 직관과 지성으로 나눈다. 직관은 연속적인 지속을 직접 파악하며 셈할 수 없다. 지성은 흐름을 이산적인 과거 사건들로 잘라 이름 붙이고 셈하여, 사용과 의사소통과 사회적 조율에 쓰이게 한다.",
+    "qualia_account": "질적 경험은 흐름 그 자체이므로, 양적이고 공간화된 물질로부터 도출될 수 없다. 아렌센은 이것이 물리주의적이고 기능주의적인 설명 격차의 메우기 시도가 실패하는 이유라고 말한다.",
+    "ontological_commitments": "보편적인 연속적 정신 흐름. 4차원 위상 공간을 정의하는 네 가지 보편적 불변량(플랑크 작용량 h, 빛의 속도 c, 진동수 ν, 전하 e). 입자, 장, 법칙으로 나타나는 재귀적 '시간 없는 운동들'.",
+    "epistemic_access": "직관은 지속에 대한 직접적 접근을 준다. 지성과 물리적 측정은 그 얼어붙고 셈해진 흔적에만 접근하게 한다.",
+    "constituents_and_structure": "일차적 흐름, 흐름이 기록되는 '작동(actuation)'의 접점, 그리고 측정된 물리적 세계. 이 접점은 감각 복합 특징 모델(Sensory Complex Features Model, SCFM)과 생성적 보편 변환자(Generative Universal Transformers, GUT) 연산자 역학으로 모델링된다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "현상적 경험과 그 통일성; 시간과 지속; 직관 대 지성; 설명 격차.",
+    "distinctive_mechanism_or_principle": "위상 회전에 의한 작동. GUT는 접점을 2x2 행렬 회전(연속적 위상 이동)과 크로네커 곱(재귀적 스케일링)으로 모델링하며, 이를 h, c, ν, e로 구성된 사원수적 4차원 위상 공간 위에 투영한다. 여기서 작동 충격이 흐름을 안정적인 재귀적 운동들로 쪼갠다.",
+    "dynamics_of_emergence": "의식 자체는 창발하지 않는다. 물리적 실재는 흐름이 쪼개지고 얼어붙어 이산적이고 측정 가능한 사건이 될 때마다 계속 창발한다.",
+    "location_and_distribution": "보편적이다. 흐름이 실재의 직물이며, 개별 관찰자는 그 흐름의 표현들이다.",
+    "causation_and_functional_role": "물리적 우주는 쪼개질 수 없는 정신적 통일성이 자기 자신과 상호작용하는 표현 매체이며, 뇌는 흐름을 이산적 신호로 바꾸는 정규화기(regularizer)로 작용한다.",
+    "integration_or_binding": "의식은 처음부터 나뉠 수 없으므로 묶을 것이 없다. 부분으로의 나눔은 지성이나 측정이 흐름을 셀 때에만 일어난다.",
+    "information_flow_or_representation": "SCFM은 감각 데이터를 외부 물질 세계의 투영이 아니라, 지속을 국소화된 복합 특징 집합으로 기하학적으로 능동 기록하는 것으로 본다.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "대부분의 정신 모델은 뇌와 우주를 정적인 연속 상태를 처리하는 기계로 취급함으로써 시간을 '공간화'한다. 이는 베르그송이 지적한 오류이다.",
+      "의식은 계산의 산출물이 아니므로, 어떤 알고리즘도 의식을 모델링할 수 없다. 다만 의식이 물리적인 것과 맺는 소통은 모델링될 수 있다.",
+      "아렌센의 위상 공간 형식론 아래에서 양자역학과 전자기학의 법칙은 일차적 흐름의 이차적 자취로 생겨난다.",
+      "카스트럽의 분석적 관념론에 맞서, 흐름이 실재이며 정적인 공간과 이산적 대상은 추상이다."
+    ],
+    "basis_of_belief_or_evidence_type": "과정 철학에서 나온 형이상학적 논증과 수학적 모델링 틀의 결합."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "사변적",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "아렌센은 의식을 비계산적이라 부르면서도 그 접점을 선형대수로 모델링하며, 뇌를 의식을 생성하지 않는 것으로 묘사하면서 동시에 '생성자 또는 정규화기'로도 묘사하는데, 이는 명확히 할 필요가 있다. 수학적 틀은 ResearchGate에 게시된 논문에 제시되어 있으며, 그것과 확립된 물리학의 연결은 검증된 것이 아니라 주장된 것이다.",
+    "open_questions_and_limitations": "아렌센은 4차원 위상 공간 모델이 표준 물리학이 예측하지 않는 어떤 관찰을 예측하는지, 또는 개별 정신이 보편적 흐름 안에서 어떻게 한정되는지를 보이지 않는다.",
+    "ontological_coherence": "베르그송적 과정 관념론으로서는 정합적이다. 실재가 정신적이라는 점에서는 분석적 관념론과 일치하지만, 시간에 관해서는 이를 뒤집어, 카스트럽이 흐름을 현상으로 취급하는 곳에서 흐름을 근본적인 것으로 취급한다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "의식은 계산의 산출물이 아니므로, 어떤 AI 체계도 계산을 통해 의식을 만들어 낼 수 없다."
+    },
+    "survival_beyond_death": {
+      "stance": "Yes",
+      "rationale": "아렌센은 관찰자가 연속적 지속의 표현이라고 본다. 따라서 물리적 사멸은 측정의 얼어붙은 추상이며, 지각하는 존재는 영원성을 결코 부정당하지 않는다."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "의식은 계산적으로 모델링될 수 없으므로, 사람의 디지털 시뮬레이션은 그 사람의 의식을 담지 못한다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Bergson's Multiplicity, Duration, Perception, Memory",
+        "relationship": "기초"
+      },
+      {
+        "name": "Kastrup's Analytic Idealism",
+        "relationship": "대조"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "양립 가능"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "비판"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Generative Universal Transformers of Complex Idealism: Metaphysical Model, Albert R.J. Arendsen",
+        "year": 2026
+      },
+      {
+        "title_with_names": "The Grand Phase Architecture of the New SI Units: Structural Placeholders and Active Rotations in Complex Idealism, Albert R.J. Arendsen",
+        "year": 2026
+      },
+      {
+        "title_with_names": "The Actuation Impulse of Complex Idealism: How the Measured Universe Splits into Recursive Timeless Movements, Albert R.J. Arendsen",
+        "year": 2026
+      },
+      {
+        "title_with_names": "The Quaternionic Split: How 4D Rational Rotations Apportion the Indivisible Continuum of Complex Idealism, Albert R.J. Arendsen",
+        "year": 2026
+      },
+      {
+        "title_with_names": "The Sensory Complex Features Model of Complex Idealism in a Flash, Albert R.J. Arendsen",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Time and Free Will: An Essay on the Immediate Data of Consciousness, Henri Bergson",
+        "year": 1889
+      }
+    ]
+  }
+}

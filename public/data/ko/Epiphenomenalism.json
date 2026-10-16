@@ -6,8 +6,8 @@
       "David Chalmers (Classifier)",
       "Frank Jackson (Related Thinker)"
     ],
-    "category": "유물론 이론",
-    "subcategory": "철학적",
+    "category": "이원론",
+    "subcategory": "",
     "core_identity_tagline": "의식은 실재하지만 인과적으로 무력하다.",
     "classification_tags": [
       "property dualism",
@@ -54,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 뇌의 물리적 과정의 비인과적 부산물(거품)에 불과하다면, 그 물리적 과정을 AI에서 재현할 경우 비인과적 심적 상태가 기능적 재현을 방해하는 일 없이 동일한 의식 상태가 산출될 것이다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "의식은 전적으로 물리적이며 오로지 생물학적 뇌의 산물이다. 이러한 물리적 의존성은 신체적 죽음 이후의 존속을 배제한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "철학적 유물론 이론으로서 궁극적 의미나 목적을 제공하지 않는다. 의식이 인과적으로 무력한 이상, 우주적 목적론적 가치를 부여할 수 없다."
     },
     "virtual_immortality": {
-      "stance": "매우 가능성 높음",
+      "stance": "Likely",
       "rationale": "의식의 무력한 본성은 물리적 상태를 업로드하면 필연적으로 부수현상적 심적 상태도 복제됨을 뜻한다. 무력한 '거품'은 가상적 불멸의 달성에 거의 영향을 주지 않을 것이다."
     }
   },
@@ -77,7 +77,7 @@
         "relationship": "약한 형태/유형"
       },
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "더 약한 형태/중첩"
       },
       {

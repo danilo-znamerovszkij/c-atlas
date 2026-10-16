@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "レヴィンの「あらゆる場所に心を」への技術的アプローチ（TAME）",
     "summary": "この枠組みは、心と認知を、工学的材料や合成生物学を含む多様でしばしば非慣習的な基体を横断する機能的・目標志向的活動を通じて理解する。意識ないし有感性は連続的かつ段階的なものであると措定し、動物の心を細胞群における集合的知性の一事例とみなす。",
-    "associated_thinkers": ["Michael Levin"],
-    "category": "唯物論の諸理論",
-    "subcategory": "系統発生的進化",
+    "associated_thinkers": [
+      "Michael Levin"
+    ],
+    "category": "チャレンジ",
+    "subcategory": "",
     "core_identity_tagline": "「あらゆる場所に心を」への技術的アプローチ（TAME）",
     "classification_tags": [
       "technological",
@@ -55,34 +57,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "TAMEは設計された材料やキメラ的材料に適用されるため、人工システムは（目標志向的で身体化された知覚‐行為システムとして構成されるならば）もっともらしく意識を実現しうる。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識を身体化された物理的基体の継続的機能に結びつける唯物論的枠組みとして、その基体の存在を超えた存続は支持されない。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的／行為主体性に結びついたもの",
+      "stance": "Humanistic only",
       "rationale": "意識は目標志向的活動に結びついており、意味は宇宙的な目的論からではなく、システムに内在する行為主体性から導かれることを示唆する。"
     },
     "virtual_immortality": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "心が新奇な非生物学的アーキテクチャにおいて工学的に構築・実現されうるという前提は、複雑で身体化された知覚‐行為システムの複製と転送が原理的に可能であることを示唆する。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Embodied Cognition",
+        "name": "Embodied",
         "relationship": "両立可能／影響"
       },
       {
-        "name": "Ginsburg and Jablonka’s Associative Learning During Evolution",
+        "name": "Ginsburg and Jablonka's Associative Learning During Evolution",
         "relationship": "重複"
       },
       {
-        "name": "Computational and Informational Theories",
+        "name": "Computational",
         "relationship": "重複"
       }
     ],

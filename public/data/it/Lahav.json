@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "La teoria relativistica di Lahav",
     "summary": "Questa teoria caratterizza la coscienza come un fenomeno fisico relativo alle misurazioni compiute da un «sistema di riferimento cognitivo». Analogamente alla velocità in fisica, osservatori diversi che operano in sistemi cognitivi diversi manifesteranno proprietà fisiche diverse (consapevolezza cosciente per sé stessi rispetto all'attività cerebrale misurata per un altro) osservando lo stesso fenomeno.",
-    "associated_thinkers": ["Nir Lahav", "Z.A. Neemeh"],
+    "associated_thinkers": [
+      "Nir Lahav",
+      "Z.A. Neemeh"
+    ],
     "category": "Materialismo",
     "subcategory": "Relazionale",
     "core_identity_tagline": "La coscienza come fenomeno fisico relativo a un sistema di riferimento cognitivo",
@@ -50,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condizionale",
+      "stance": "Conditional",
       "rationale": "Poiché la teoria sostiene che la coscienza scaturisca dalla misurazione fisica e non dalla computazione, i sistemi di IA richiederebbero processi di misurazione fisica non computazionali che costituiscano un sistema di riferimento cognitivo, il che la rende condizionata a un'implementazione hardware che vada oltre la semplice computazione."
     },
     "survival_beyond_death": {
@@ -62,7 +65,7 @@
       "rationale": "Questo campo non è affrontato nel materiale di riferimento fornito."
     },
     "virtual_immortality": {
-      "stance": "Improbabile",
+      "stance": "Unlikely",
       "rationale": "Poiché la coscienza è non computazionale e dipendente dal processo di misurazione fisica, l'immortalità virtuale standard (il caricamento di software/dati) è improbabile, sebbene la duplicazione fisica del sistema fisico relativistico possa essere teoricamente possibile."
     }
   },

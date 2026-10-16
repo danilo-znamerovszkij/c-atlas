@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "La visione epistemica e il fisicalismo non standard di Stoljar",
     "summary": "Questa teoria difende il fisicalismo dagli argomenti antimaterialisti introducendo l'ipotesi dell'ignoranza, secondo cui siamo profondamente inconsapevoli di un tipo di fatto o proprietà fisica rilevante per la coscienza. Sostiene che il presunto problema di compatibilità tra coscienza e fisicalismo sorga dai nostri attuali limiti epistemici, non da un difetto ontologico del fisicalismo stesso.",
-    "associated_thinkers": ["Daniel Stoljar"],
+    "associated_thinkers": [
+      "Daniel Stoljar"
+    ],
     "category": "Materialismo",
     "subcategory": "Filosofico",
     "core_identity_tagline": "Il fisicalismo difeso tramite l'ignoranza epistemica",
@@ -50,7 +52,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "In quanto difesa del fisicalismo, la teoria afferma che la coscienza è fisica. Pertanto, in linea di principio, qualsiasi sistema artificiale che realizzi i necessari fatti fisici (anche quelli attualmente ignoti) dovrebbe diventare cosciente."
     },
     "survival_beyond_death": {
@@ -58,11 +60,11 @@
       "rationale": "La coscienza dipende da fatti e processi fisici e non è fondamentale. Alla distruzione del substrato fisico (il cervello), la coscienza cessa di esistere, coerentemente con il fisicalismo."
     },
     "meaning_and_purpose": {
-      "stance": "Solo umanistico",
+      "stance": "Humanistic only",
       "rationale": "Coerentemente con il suo impegno fisicalista fondativo, la teoria non fornisce alcuna base per un significato o uno scopo cosmico ultimo; il significato è costruito da agenti coscienti."
     },
     "virtual_immortality": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "Se la coscienza è interamente fisica, il sé mentale in prima persona è potenzialmente caricabile, a condizione che il complesso substrato fisico (comprese le proprietà ignote individuate nell'ipotesi dell'ignoranza) possa essere duplicato in un mezzo non biologico."
     }
   },
@@ -77,11 +79,11 @@
         "relationship": "Critica/Risposta"
       },
       {
-        "name": "Standard Physicalism",
+        "name": "Materialism",
         "relationship": "Critica"
       },
       {
-        "name": "Kind’s Dualism 2.0",
+        "name": "Kind's Dualism 2.0",
         "relationship": "Interlocutore nel dibattito/Progetto condiviso"
       }
     ],

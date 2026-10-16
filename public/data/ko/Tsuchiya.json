@@ -2,8 +2,11 @@
   "id_and_class": {
     "theory_title": "츠치야의 의식에 대한 관계적 접근",
     "summary": "이 접근은 의식을 다른 모든 의식과 맺는 관계에 대한 남김 없는 기술을 통해 특징짓고 규정하려는 방법론이다. 이 접근은 수학적 구조와 그 관계에 기초한 도구인 범주론을 활용하여 의식적 현상학의 구조와 상호 관계를 수학적 정밀성으로 기술한다.",
-    "associated_thinkers": ["Nao Tsuchiya", "Hayato Saigo"],
-    "category": "유물론 이론",
+    "associated_thinkers": [
+      "Nao Tsuchiya",
+      "Hayato Saigo"
+    ],
+    "category": "유물론",
     "subcategory": "관계적",
     "core_identity_tagline": "수학적으로 특징지어진 관계로서의 의식",
     "classification_tags": [
@@ -49,30 +52,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 근본적으로 (범주론을 통해) 수학적으로 정밀하게 기술될 수 있는 관계와 구조에 의해 규정된다면, 이러한 구조는 진보된 비생물학적 계산 체계에서 실현될 수 있어야 한다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "이 이론은 유물론으로 분류되며, 이는 의식이 관계 구조를 실현하는 물리적 기질(아마도 뇌)에 의존함을 함축한다. 따라서 의식은 생물학적 죽음과 함께 소멸한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간주의적/실용주의적",
+      "stance": "Humanistic only",
       "rationale": "구조적이고 유물론적인 방법론으로서 의식을 규정하는 도구를 제공하지만, 인간의 경험이 창조하는 것을 넘어서는 내재적·궁극적 의미를 제공하지는 않는다."
     },
     "virtual_immortality": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 정밀하게 정량화되고 규정될 수 있는 관계와 범주로 특징지어지므로, 이러한 구조를 가상적·디지털 기질에서 복제하면 원리적으로 의식적 자아의 존속이 가능할 것이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Relational Theories",
+        "name": "Relational",
         "relationship": "지지받음"
       },
       {
-        "name": "Jaworski’s Hylomorphism",
+        "name": "Jaworski's Hylomorphism",
         "relationship": "관련(범주 공유)"
       },
       {

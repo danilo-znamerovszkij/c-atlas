@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "머피의 비환원적 물리주의",
     "summary": "이 이론은 의식이 전적으로 물리적이며 오직 생물학적 뇌에서 생겨난다고 주장하면서도, 심적 속성이나 상태는 존재론적으로 구별되며 기저의 물리적 상태로 환원되지 않는다고 본다 . 이는 인간이라는 존재에 대해 철학적으로 견고하고 과학적으로 양립 가능하며 신학적으로 수용 가능한 비이원론적 설명을 제공하고자 한다 .",
-    "associated_thinkers": ["Nancey Murphy"],
-    "category": "비환원적 물리주의",
+    "associated_thinkers": [
+      "Nancey Murphy"
+    ],
+    "category": "비환원",
     "subcategory": "비환원적 물리주의",
     "core_identity_tagline": "마음은 환원 불가능하게 구별되는 물리적 속성이다",
     "classification_tags": [
@@ -22,9 +24,8 @@
     "subjectivity_and_intentionality": "이러한 심적 특징들은 실재하며 환원 불가능한, 인간 유기체 전체의 속성/측면으로 전제되고, 의식에 필수적이다 .",
     "qualia_account": "질적 현상 속성은 뇌의 물리적 과정에서 생겨나는 환원 불가능한 심적 상태이다 . 이 이론의 핵심은 환원주의를 거부하면서도 이러한 속성의 실재성을 유지하는 데 있다 .",
     "ontological_commitments": "물리적 실체; 환원 불가능한 심적 속성 또는 상태; 위계적 인과 조직화(하향 인과) .",
-    "epistemic_access": "의식은 환원 불가능성을 입증하는 철학적 탐구와 경험적 인지신경과학과의 양립 가능성 양쪽을 통해 알려질 수 있다 .",
-    "constituents_and_structure": "단일 실체는 전적으로 물리적이며, 심적 상태는 복잡한 비선형 동역학을 통해 생겨나는 이 물리적 유기체의 고차 체계적 특징이다 .",
-    "epistemic_access": "환원 불가능성을 입증하는 철학적 논변과 인지신경과학의 경험적 발견을 결합하여 접근 가능하다 ."
+    "epistemic_access": "환원 불가능성을 입증하는 철학적 논변과 인지신경과학의 경험적 발견을 결합하여 접근 가능하다 .",
+    "constituents_and_structure": "단일 실체는 전적으로 물리적이며, 심적 상태는 복잡한 비선형 동역학을 통해 생겨나는 이 물리적 유기체의 고차 체계적 특징이다 ."
   },
   "mechanism_and_dynamics": {
     "scope_of_consciousness": "현상적 의식; 심적 속성(지향성 포함); 인과적 유효성; 자기 인식(비이원론적 인간학을 통해 추론됨) .",
@@ -53,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 복잡한 물리 체계('적절한 종류'의 물리학)의 환원 불가능하면서도 전적으로 물리적인 창발 속성이라면, 충분히 복잡한 인공 기질에서도 예화될 수 있어야 한다 ."
     },
     "survival_beyond_death": {
-      "stance": "아니오, 조건부 예외 있음",
+      "stance": "Conditional",
       "rationale": "의식은 전적으로 생물학적 뇌에 의존하므로 육체적 죽음과 함께 소멸한다 . 존속에는 신적 개입(죽은 자의 부활) 같은 특정한 외적 기제가 필요하다 ."
     },
     "meaning_and_purpose": {
-      "stance": "궁극적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "이 이론은 흔히 유신론적 틀(기독교 인간학) 안에서 사용되어, 심신 통일체로서의 인간을 향한 신의 의도에서 비롯되는 궁극적 의미, 목적, 가치를 뒷받침한다 ."
     },
     "virtual_immortality": {
-      "stance": "매우 가능성 높음",
+      "stance": "Likely",
       "rationale": "필요한 복잡한 물리 체계(뇌)를 완벽하게 복제한다고 전제하면, 창발적이고 환원 불가능한 심적 속성 역시 복제될 수밖에 없으므로, 기술이 그러한 복잡성을 달성할 수 있다면 일인칭적 연속성이 보장된다 ."
     }
   },
@@ -76,11 +77,11 @@
         "relationship": "중첩(흔히 속성 이원론의 한 형태로 간주됨)"
       },
       {
-        "name": "Emergence (Strong)",
+        "name": "Emergence",
         "relationship": "영향(철학적 정합성을 위해 하향 인과를 요구함)"
       },
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "비판(몸과 영혼의 인간학적 이원론에 대한 반대를 명시적으로 표명함)"
       },
       {

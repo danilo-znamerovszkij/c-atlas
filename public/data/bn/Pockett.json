@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Pockett-এর সচেতন ও অচেতন প্যাটার্ন",
     "summary": "এই তড়িৎচুম্বকীয় ক্ষেত্র তত্ত্ব দাবি করে যে সচেতন অভিজ্ঞতা মস্তিষ্কের দ্বারা উৎপন্ন নির্দিষ্ট তড়িৎচুম্বকীয় প্যাটার্নের সঙ্গে অভিন্ন। এটি জোর দেয় যে চেতনা একটি ভৌত বস্তু—একটি স্থানিক তড়িৎচুম্বকীয় প্যাটার্ন—এবং কোনো স্নায়বিক প্রক্রিয়া নয়, যা সচেতন প্যাটার্নের নির্দিষ্ট ত্রিমাত্রিক আকৃতির একটি সংজ্ঞা নির্ধারণকে আবশ্যক করে তোলে।",
-    "associated_thinkers": ["Susan Pockett"],
-    "category": "বস্তুবাদী তত্ত্ব",
-    "subcategory": "তড়িৎচুম্বকীয় ক্ষেত্র",
+    "associated_thinkers": [
+      "Susan Pockett"
+    ],
+    "category": "বস্তুবাদ",
+    "subcategory": "তড়িৎচুম্বকীয়",
     "core_identity_tagline": "'স্থানিক তড়িৎচুম্বকীয় প্যাটার্ন হিসেবে চেতনা'",
     "classification_tags": [
       "electromagnetic field",
@@ -51,30 +53,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "সম্ভাব্য",
+      "stance": "Possible",
       "rationale": "সচেতন EM প্যাটার্ন, নীতিগতভাবে, জৈবিক 'ওয়েটওয়্যারের' বদলে বিশেষায়িত হার্ডওয়্যার দ্বারা উৎপন্ন হতে পারে, যদি হার্ডওয়্যারটি প্রয়োজনীয় ক্ষেত্র বৈশিষ্ট্য পুনরুৎপাদন করতে সক্ষম হয়।"
     },
     "survival_beyond_death": {
-      "stance": "না",
+      "stance": "No",
       "rationale": "চেতনা ভৌতিক মস্তিষ্কের দ্বারা উৎপন্ন নির্দিষ্ট EM প্যাটার্নের সঙ্গে অভিন্ন। জৈবিক মৃত্যু ও মস্তিষ্কের বিলুপ্তির পর, এই প্যাটার্নগুলি অস্তিত্বহীন হয়ে যাবে।"
     },
     "meaning_and_purpose": {
-      "stance": "কেবল মানবতাবাদী",
+      "stance": "Humanistic only",
       "rationale": "একটি সম্পূর্ণ বস্তুবাদী ও ভৌতবাদী তত্ত্ব হওয়ার কারণে, এটি প্রস্তাব করে যে চেতনা, একটি বাস্তব ভৌতিক প্রপঞ্চ হলেও, মানব অভিজ্ঞতা দ্বারা সৃষ্ট মূল্যের বাইরে কোনো বৈশ্বিক উদ্দেশ্য বা পরম মূল্যের প্রমাণ প্রদান করে না।"
     },
     "virtual_immortality": {
-      "stance": "সম্ভাব্য",
+      "stance": "Possible",
       "rationale": "যদি চেতনা-গঠনকারী EM প্যাটার্নকে নিখুঁতভাবে পরিমাপ করা এবং অ-জৈবিক হার্ডওয়্যার দ্বারা পুনরুৎপাদন বা সিমুলেট করা যায়, তবে প্রথম-পুরুষ স্ব তাত্ত্বিকভাবে নতুন মাধ্যমে টিকে থাকতে পারে।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McFadden’s Conscious Electromagnetic Information Theory",
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
         "relationship": "ওভারল্যাপ"
       },
       {
-        "name": "Jones’s Electromagnetic Fields",
+        "name": "Jones's Electromagnetic Fields",
         "relationship": "ওভারল্যাপ"
       },
       {

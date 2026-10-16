@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "패링턴의 언어와 도구가 이끄는 의식 이론",
     "summary": "이 이론은 인간의 자기의식적 자각이 질적인 진화적 도약을 나타내며, 이는 주로 복잡한 언어, 개념적 사고, 정교한 도구 사용의 공진화에 의해 추동되었다고 주장한다. 의식은 진동하는 뇌 활동의 상호작용과 결합 역할에서 비롯되어, 인간에게 고유한 고차 인지 능력에 의해 증폭된 실재하고 통일된 현상으로 상정된다.",
-    "associated_thinkers": ["John Parrington"],
-    "category": "유물론 이론",
-    "subcategory": "언어와의 관계",
+    "associated_thinkers": [
+      "John Parrington"
+    ],
+    "category": "유물론",
+    "subcategory": "언어",
     "core_identity_tagline": "언어와 도구가 이끄는 통일성으로서의 인간 의식",
     "classification_tags": [
       "evolution",
@@ -52,34 +54,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "(추상적 상징과 결합 신경망과 같은) 계산적·구조적 메커니즘을 강조하는 유물론/물리주의 이론으로서, 필요한 기능적 조직과 상징 처리를 재현할 수 있는 인공 체계에서 의식은 달성 가능하다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "의식은 전적으로 변형된 생물학적 뇌와 그 신경 회로의 산물이다. 따라서 개인의 의식은 신체의 죽음과 뇌의 해체와 함께 소멸한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한정",
+      "stance": "Humanistic only",
       "rationale": "목표는 '인간 의식에 대한 물질적 설명'이며, 이는 의식이 우주적 목적 없이 진화한 현상임을 함축하여 의미와 가치의 생성을 전적으로 인간의 창조에 맡긴다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "의식을 생성하는 물리적 메커니즘(신경 패턴, 상징 처리, 뇌파 동역학)이 비생물학적 매체에서 완벽히 복제될 수 있다면, 주관적 자아의 가상적 불멸은 원리적으로 가능할 것이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Deacon’s Symbolic Communication (Human Consciousness)",
+        "name": "Deacon's Symbolic Communication (Human Consciousness)",
         "relationship": "중첩/확장"
       },
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
         "relationship": "맥락/대조"
       },
       {
-        "name": "Language Relationships",
+        "name": "Language",
         "relationship": "범주 구성원"
       }
     ],

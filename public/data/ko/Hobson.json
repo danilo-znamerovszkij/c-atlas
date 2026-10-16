@@ -1,0 +1,133 @@
+{
+  "id_and_class": {
+    "theory_title": "홉슨의 꿈꾸기 원-의식 이론",
+    "summary": "J. 앨런 홉슨은 렘수면이 원-의식 상태라고 제안한다. 외부 입력 없이 뇌가 세계와 몸을 모형화하는, 유전적으로 프로그램된 가상현실이라는 것이다. 꿈은 1차 의식(지각, 정서, 위치를 가진 자아)을 거의 순수한 형태로 보여 주며, 렘수면은 깨어 있는 의식이 그 위에 세워지는, 즉 언어, 성찰, 의지를 갖춘 의식의 생성 기구를 훈련하고 유지한다.",
+    "associated_thinkers": [
+      "J. Allan Hobson",
+      "Robert McCarley",
+      "Karl Friston"
+    ],
+    "category": "이상현상",
+    "subcategory": "",
+    "core_identity_tagline": "뇌의 가상현실 훈련장으로서의 꿈",
+    "classification_tags": [
+      "dreaming",
+      "rem sleep",
+      "aim model",
+      "neurophysiology",
+      "predictive processing"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "의식은 뇌가 산출한 세계와 몸의 모형이다. 1차 의식은 이 모형이 (꿈에서처럼) 돌아가는 것이며, 2차 의식은 그 위에 언어, 메타인지, 자발적 통제를 더한다.",
+    "ontological_status": "물리주의(신경생물학적)",
+    "mind_body_relationship": "의식 상태는 활성화, 입력-출력 게이팅, 신경조절에 의해 정의되는 뇌 상태 공간의 위치에 대응하므로, 각 종류의 경험은 생리적 프로파일에 대응한다.",
+    "primitive_or_emergent_status": "창발적",
+    "emergence_type": "약한 창발(뇌의 활성화, 게이팅, 신경조절 균형으로부터 나온다)",
+    "subjectivity_and_intentionality": "꿈꾸는 자는 일인칭 관점과 위치를 가진 자아를 갖지만, 보통 자신이 꿈을 꾸고 있다는 성찰적 통찰은 결여한다. 자기 성찰은 언어와 깨어 있을 때의 전두두정 조직에 의존하는 2차 의식에 속한다.",
+    "qualia_account": "꿈은 감각 입력이 거의 없이도 생생한 현상 세계가 산출될 수 있음을 보여 주므로, 지각은 능동적으로 구축된 모형이다. 홉슨은 어떤 뇌 상태가 느껴지는지를 설명한다고 주장하지 않는다.",
+    "ontological_commitments": "뇌간과 전뇌의 회로; 아민성 및 콜린성 신경조절계; 감각과 운동의 게이팅; 세계와 몸의 생성 모형.",
+    "epistemic_access": "수면실 신경생리학, 꿈 보고, 자각몽 연구, 태아와 신생아의 렘수면에 관한 발달 자료.",
+    "constituents_and_structure": "에델만을 따르는 두 층위. 1차 의식(지각, 정서, 운동 심상)과 2차 의식(언어, 추상적 사고, 자기 성찰, 의지). 상태들은 3차원 AIM 공간 안에 놓인다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "현상적(1차 의식), 자기 인식과 메타인지(2차), 의식의 상태(깨어 있음, 렘, 비렘, 마취)",
+    "distinctive_mechanism_or_principle": "AIM(활성화-입력-조절) 모형: 의식 상태는 뇌의 활성화 수준, 처리가 외부 입력에 의해 구동되는지 내부 생성에 의해 구동되는지, 그리고 아민성과 콜린성 신경조절의 균형에 의해 정해진다.",
+    "dynamics_of_emergence": "렘수면은 처리할 깨어 있는 경험이 생기기 전인 태아와 신생아에게 가장 많다. 홉슨은 렘수면이 먼저 세계 모형화 회로를 구축하고, 깨어 있는 의식은 그 토대 위에서 발달하며, 렘수면은 평생 그것을 유지한다고 추론한다.",
+    "location_and_distribution": "뇌간과 전뇌 전역에서 산출된다. 2차 의식은 전두두정 네트워크에 의존한다.",
+    "causation_and_functional_role": "꿈은 세계 모형화를 연습한다. 칼 프리스턴과 함께 홉슨은, 오프라인 꿈꾸기가 중복된 매개변수를 솎아 내어 생성 모형을 최적화하므로 깨어 있을 때의 추론이 효율적으로 유지된다고 주장한다.",
+    "integration_or_binding": "전뇌는 내부에서 생성된 뇌간 활성화를 일관된 꿈 서사로 종합한다(활성화-종합 가설).",
+    "information_flow_or_representation": "꿈은 감각 증거가 게이트되어 차단되고 운동 출력이 막혔을 때 뇌의 생성 모형이 산출하는 것이다.",
+    "evolutionary_account": "1차 의식은 성찰적 의식보다 진화적으로, 그리고 발달적으로 앞서며, 중요한 점에서 다른 동물과 공유된다.",
+    "core_claims_and_evidence": [
+      "꿈의 특징(생생한 심상, 강렬한 정서, 자기 성찰의 상실, 방향 상실, 기억상실)은 AIM 공간에서 렘이 차지하는 위치, 즉 콜린성 우세, 아민성 철수, 게이트된 입출력에서 따라 나온다.",
+      "태아와 신생아에게 렘수면이 많다는 것은, 깨어 있는 경험이 존재하기 전에 의식을 위한 회로를 발달시킨다는 것을 시사한다.",
+      "자각몽은, 2차 의식이 렘이 산출한 세계 안에서 부분적으로 돌아오는 것으로, 깨어 있음과 꿈꾸기의 측정 가능한 혼합이다.",
+      "꿈꾸기는 뇌의 생성 모형의 복잡성을 줄이며, 이로써 수면에는 정보 이론적 기능이 주어진다."
+    ],
+    "basis_of_belief_or_evidence_type": "경험적 근거(수면 신경생리학, 신경조절, 발달 및 자각몽 연구)와 계산 모형화"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "경험적으로 검증 가능",
+    "known_empirical_interventions_or_tests": "수면다원검사 기반의 수면실 연구; 자각몽에 관한 뇌파 연구(포스, 홉슨 및 동료들); 발달 전반에 걸친 렘수면 측정; 정신병과 기분장애에서의 아민성-콜린성 불균형에 관한 임상 연구.",
+    "criticisms_and_tensions": "비렘 수면 중의 꿈 보고는 원-의식을 렘에 엄격하게 대응시키는 것을 약화시킨다. 발달 논증은 기능의 입증이 아니라 시기(렘이 초기에 많다)에 기대고 있으며, 렘의 초기 풍부함에는 다른 설명이 있을 수 있다.",
+    "open_questions_and_limitations": "이 이론은 꿈이 왜 존재하는지, 그리고 그것이 깨어 있음과 어떻게 관련되는지는 설명하지만, 어떤 뇌 상태든 왜 느껴지는지는 설명하지 않는다. 태아가 렘 중에 원-의식적 경험을 하는지는 검증하기 어렵다.",
+    "ontological_coherence": "신경생물학적 물리주의, 그리고 지각을 생성된 모형으로 보는 예측 처리 설명과 일관된다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "여기서 의식은 뇌의 활성화와 신경조절의 산물이므로, 이 견해에는 뇌의 죽음을 넘어 살아남는 것이 없다."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Edelman's Neural Darwinism and Reentrant Neural Circuitry",
+        "relationship": "토대"
+      },
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Freud's Surface Consciousness and Irreducible Affect",
+        "relationship": "비판"
+      },
+      {
+        "name": "Thompson's Phenomenology: Waking, Dreaming, Sleeping, Pure Awareness",
+        "relationship": "중첩"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "REM Sleep and Dreaming: Towards a Theory of Protoconsciousness, J. Allan Hobson",
+        "year": 2009
+      },
+      {
+        "title_with_names": "The Brain as a Dream State Generator: An Activation-Synthesis Hypothesis of the Dream Process, J. Allan Hobson and Robert W. McCarley",
+        "year": 1977
+      },
+      {
+        "title_with_names": "Dreaming and the Brain: Toward a Cognitive Neuroscience of Conscious States, J. Allan Hobson, E. F. Pace-Schott, R. Stickgold",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Waking and Dreaming Consciousness: Neurobiological and Functional Considerations, J. Allan Hobson and K. J. Friston",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Virtual Reality and Consciousness Inference in Dreaming, J. Allan Hobson, C. C.-H. Hong, K. J. Friston",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Psychodynamic Neurology: Dreams, Consciousness, and Virtual Reality, J. Allan Hobson",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Lucid Dreaming: A State of Consciousness with Features of Both Waking and Non-Lucid Dreaming, U. Voss, R. Holzmann, I. Tuin, J. Allan Hobson",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Bright Air, Brilliant Fire: On the Matter of the Mind, G. M. Edelman",
+        "year": 1992
+      },
+      {
+        "title_with_names": "The Reinterpretation of Dreams: An Evolutionary Hypothesis of the Function of Dreaming, A. Revonsuo",
+        "year": 2000
+      }
+    ]
+  }
+}

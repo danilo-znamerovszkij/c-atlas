@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Théorème de non-existence de Reason contre le matérialisme et la survenance",
+    "summary": "Catherine M. Reason propose une preuve formelle selon laquelle aucun système physique, ni aucun modèle survenant sur un système physique, ne peut posséder l'autocertitude par laquelle un humain conscient sait qu'il est conscient. Le théorème dit ce que la conscience ne peut être, et elle en conclut que toute théorie physicaliste décrivant un système rationnel et conscient de lui-même doit être internement incohérente.",
+    "associated_thinkers": [
+      "Catherine M. Reason",
+      "Gilbert Caplain"
+    ],
+    "category": "Défi",
+    "subcategory": "",
+    "core_identity_tagline": "L'autocertitude ne peut survenir sur des processus physiques",
+    "classification_tags": [
+      "no-go theorem",
+      "supervenience",
+      "self-certainty",
+      "anti-physicalism",
+      "formal proof"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Le théorème ne donne aucune identité positive à la conscience. Il définit un système conscient comme un système capable d'un raisonnement de type humain et d'une autocertitude absolue, et soutient qu'un tel système ne peut être entièrement physique.",
+    "ontological_status": "Antiphysicalisme (non-survenance)",
+    "mind_body_relationship": "Reason admet que les cerveaux sont corrélés à la conscience et qu'une grande part de la cognition peut être étudiée en termes de troisième personne. Elle rejette la thèse plus forte selon laquelle les états pleinement conscients d'eux-mêmes sont entièrement déterminés par des états physiques objectivement observables.",
+    "primitive_or_emergent_status": "Incertain",
+    "emergence_type": "Non émergente à partir de systèmes physiques ; Reason et Shah soutiennent que les macroétats conscients n'émergent ni ne surviennent sur des microétats physiques, car la conscience n'est pas mesurable comme le sont les propriétés émergentes avérées.",
+    "subjectivity_and_intentionality": "La subjectivité est rattachée au cogito cartésien : un sujet conscient peut affirmer avec certitude qu'il est conscient, ce qui se traduit opérationnellement par le fait de savoir qu'il n'est pas dans un sommeil sans rêves.",
+    "qualia_account": "",
+    "ontological_commitments": "Au moins quelques états, dans tout système conscient de type humain, qui ne surviennent pas sur des états physiques.",
+    "epistemic_access": "Par l'autocertitude de première personne, analysée au moyen d'outils formels : une fonction d'autocertitude ω, une logique modale des prédicats et le « dispositif d'inférence » de Wolpert pour les systèmes physiques capables d'observation, de prédiction et de mémoire.",
+    "constituents_and_structure": "Trois postulats que Reason montre incompatibles entre eux : l'objectivité (les états mentaux surviennent sur une dynamique observable), la conscience de soi et la rationalité de type humain."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conscience de soi (autocertitude) ; limites des explications physicalistes de la conscience phénoménale",
+    "distinctive_mechanism_or_principle": "Une régression diagonale. Certifier qu'un corrélat neuronal fonctionne correctement exige un autre corrélat distinct (NCC*), puis un autre (NCC**), sans fin, et aucun cerveau ne pourrait contenir une infinité d'états distinguables.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "Les cerveaux conscients affectent les dispositifs d'enregistrement, sans pouvoir être entièrement décrits par une théorie physique quelconque ; Reason et Shah en concluent qu'ils doivent violer d'une manière ou d'une autre la conservation de l'énergie, peut-être par la relation d'incertitude énergie-temps.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Pour réaliser ω, un système doit exécuter une fonction ξ certifiant que ses processus sont physiquement réels ; or vérifier ξ exige d'appliquer ξ à elle-même, de sorte que le résultat est nécessaire avant de pouvoir être calculé.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Le théorème 1a affirme qu'aucun système physique capable d'un raisonnement humain correct ne peut exécuter la fonction d'autocertitude ω, ni être enregistré en train d'affirmer « je suis autocertain ».",
+      "Le théorème 1b étend ce résultat à tout modèle survenant sur un système physique, ce qui contraindrait un dispositif d'enregistrement à deux états contradictoires.",
+      "La régression a la structure diagonale de la preuve de Turing sur le problème de l'arrêt, ce qui, selon Reason, la distingue des arguments ordinaires de régression infinie.",
+      "Le dualisme de propriétés, le monisme réflexif, le monisme réaliste et l'illusionnisme sont écartés dans leur forme actuelle, et la thèse de Chalmers ne survit que si les humains se comportent de manière irrationnelle."
+    ],
+    "basis_of_belief_or_evidence_type": "Preuve logique et mathématique formelle, construite sur le cogito cartésien."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Testable sur le plan conceptuel",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "L'ensemble du résultat dépend de l'acceptation du cogito cartésien comme fondement valide d'une autocertitude absolue. Le passage d'une limite portant sur les modèles théoriques à des violations de la conservation de l'énergie dans les cerveaux réels va bien au-delà de la conclusion stricte.",
+    "open_questions_and_limitations": "Reason affirme que le théorème contraint les modèles de systèmes, et non les systèmes eux-mêmes. À la rigueur, il ne donne que ceci : certains états conscients ne surviennent pas sur des états physiques ; et la question de savoir si le cogito fonde l'autocertitude est, dit-elle, une question empirique qu'aucun argument théorique ne peut trancher.",
+    "ontological_coherence": "Cohérent en tant que résultat négatif. Il laisse ouvert ce qu'est positivement la conscience, et Reason note que le postulat physicaliste n'a besoin d'être possible, et non nécessaire, pour que l'argument fonctionne."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "Puisqu'aucun modèle physicaliste d'un système ne peut être capable d'autocertitude, une machine purement computationnelle ou physique ne pourrait être consciente au sens défini par Reason."
+    },
+    "survival_beyond_death": {
+      "stance": "Uncertain",
+      "rationale": "Le théorème implique que certains états conscients ne sont pas physiques, mais il ne dit rien quant à leur persistance après la mort du cerveau."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Si la conscience autocertaine ne peut survenir sur aucun processus physique, une copie numérique tournant sur du matériel physique ne pourrait la reproduire."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Kim’s Supervenience",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Velmans's Reflexive Monism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reason's No-Go Theorem against Materialism/Supervenience (Landscape of Consciousness entry), Catherine M. Reason",
+        "year": 2019
+      }
+    ]
+  }
+}

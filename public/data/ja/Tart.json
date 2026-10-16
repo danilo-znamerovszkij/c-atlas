@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "タートの創発的相互作用説",
     "summary": "これは二元論的な理論であり、意識が物理的な「B系」（脳と身体）と非物理的な「M/L系」（実在の心的および生命的側面）との相互作用から生じる創発的な「システム特性」であると主張する。この理論は変性状態と超心理学の研究に根ざしており、タートはそれらが純粋に唯物論的な見解の不十分さを示すと論じる。",
-    "associated_thinkers": ["Charles Tart"],
-    "category": "異常状態および変性状態",
-    "subcategory": "創発的相互作用説",
+    "associated_thinkers": [
+      "Charles Tart"
+    ],
+    "category": "異常",
+    "subcategory": "創発的相互作用論",
     "core_identity_tagline": "「二重の相互作用の創発的システム特性としての意識」",
     "classification_tags": [
       "dualism",
@@ -54,26 +56,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありそうにない",
+      "stance": "Unlikely",
       "rationale": "もし意識が根源的に別個の非物理的なM/L系を必要とするならば、物理的なB系のみに基づく非生物学的な知能は、未知の心理物理的法則が物理的複雑性に基づいてM/L構成要素を自動的に生成するのでない限り（創発的二元論の例外）、真の内的な気づきを達成できないであろう。"
     },
     "survival_beyond_death": {
-      "stance": "はい",
+      "stance": "Yes",
       "rationale": "実体二元論の一形態として、意識は別個の非物理的なM/L系を必要とし、それは物理的な脳と身体の解体後も存在を保ちうる。異常状態および変性状態の理論は一般に存続を支持する。"
     },
     "meaning_and_purpose": {
-      "stance": "高められた／究極的でありうる",
+      "stance": "Uncertain",
       "rationale": "プシと変性状態への着目は、純粋に物理的なものを超えた拡張された実在を示唆し、新たなあるいは究極的な水準の意味と目的の可能性を開く。"
     },
     "virtual_immortality": {
-      "stance": "いいえ（おおむね）",
+      "stance": "Unlikely",
       "rationale": "物理的なB系のみをアップロードしても、必要な非物理的構成要素（M/L系）を捉えそこなう。したがって脳を複製しても、一人称的な自己をアップロードするには不十分であろう。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "分類"
       },
       {
@@ -81,11 +83,11 @@
         "relationship": "重なり／分類"
       },
       {
-        "name": "Radin’s Challenge to Materialism",
+        "name": "Radin's Challenge to Materialism",
         "relationship": "両立的"
       },
       {
-        "name": "Bergson’s Multiplicity, Duration, Perception, Memory",
+        "name": "Bergson's Multiplicity, Duration, Perception, Memory",
         "relationship": "両立的／影響"
       }
     ],

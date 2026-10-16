@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Funcionalismo de máquina de Putnam",
+    "summary": "El funcionalismo de máquina temprano de Putnam define los estados mentales por su papel funcional, es decir, por las relaciones causales entre entradas sensoriales, estados internos y salidas motoras, y no por aquello de lo que están hechos. Como un mismo papel puede ser desempeñado por sistemas físicos muy distintos, el dolor podría existir en pulpos, extraterrestres u ordenadores, lo que llevó a Putnam a rechazar la teoría de la identidad mente-cerebro. Más tarde rechazó el funcionalismo estricto por ser ciego al significado, a la encarnación y a la experiencia cualitativa, y se orientó hacia un ‘funcionalismo liberal’ y un pluralismo pragmático.",
+    "associated_thinkers": [
+      "Hilary Putnam"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Computacional",
+    "core_identity_tagline": "Estados mentales como papeles funcionales, como un software",
+    "classification_tags": [
+      "functionalism",
+      "multiple realizability",
+      "computational theory of mind",
+      "semantic externalism",
+      "liberal functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Un estado mental es un estado funcional de un sistema, fijado por sus relaciones causales con las entradas, las salidas y otros estados internos. En la analogía de Putnam, la mente es el software y el cerebro es el hardware que lo ejecuta.",
+    "ontological_status": "Funcionalismo (de estados de máquina; después, funcionalismo liberal)",
+    "mind_body_relationship": "Los estados mentales se realizan mediante estados físicos, pero no son idénticos a ningún tipo particular de ellos. Putnam rechazó siempre el dualismo de sustancias y, al final de su carrera, negó que los fenómenos mentales pudieran describirse por completo mediante una única teoría física fundamental.",
+    "primitive_or_emergent_status": "Ninguno",
+    "emergence_type": "No aplicable (los estados mentales se definen por la organización funcional, que cualquier sistema físico adecuado puede realizar)",
+    "subjectivity_and_intentionality": "La semántica externalista de Putnam sostiene que el contenido de los pensamientos depende de la interacción con el mundo externo, y no solo de los estados internos. Rechazó una ‘intencionalidad interior’ dada en la propia experiencia de pensar.",
+    "qualia_account": "Putnam llegó a aceptar que el funcionalismo no puede capturar la experiencia cualitativa, y siguió sin estar seguro de qué trabajo teórico cumple la noción de qualia.",
+    "ontological_commitments": "Sistemas físicos de cualquier composición, su organización funcional y (en la visión posterior) el entorno y la interacción encarnada que fijan el contenido mental.",
+    "epistemic_access": "Mediante el análisis funcional de las relaciones entre entradas y salidas y de los estados internos. Más tarde, Putnam se inclinó por un pluralismo pragmático, en el que el lenguaje mental es un esquema conceptual entre otros, adecuado a distintos propósitos.",
+    "constituents_and_structure": "Estados funcionales definidos por la organización de un sistema, análogos a los estados de una máquina de computar."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Estados mentales en general (sensaciones, creencias, emociones); intencionalidad y significado; qualia reconocidos como no explicados",
+    "distinctive_mechanism_or_principle": "Realizabilidad múltiple. Un mismo estado mental puede realizarse en sistemas físicos distintos siempre que sus estados internos desempeñen el mismo papel funcional.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Dondequiera que se realice la organización funcional adecuada: en cerebros humanos, cerebros animales, cerebros extraterrestres u ordenadores.",
+    "causation_and_functional_role": "Un estado mental es su papel causal: qué lo causa típicamente, qué causa a su vez y cómo interactúa con otros estados internos.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "La visión temprana trata la mente como un sistema computacional realizado por la actividad neuronal. La visión posterior sostiene que el significado no está ‘en la cabeza’, sino que depende del mundo.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "La organización funcional de un sistema es el conjunto de relaciones causales entre sus entradas sensoriales, sus salidas motoras y sus estados internos, y los estados mentales se definen por ella.",
+      "El dolor ligado a la descarga de fibras C en los mamíferos podría realizarse en criaturas con una biología distinta, de modo que los estados mentales no son idénticos a estados cerebrales específicos.",
+      "Putnam sostuvo después que el externalismo semántico socava el funcionalismo, porque los estados funcionales son internos, mientras que el contenido mental depende del entorno.",
+      "En su obra tardía, Putnam sostuvo que el funcionalismo no es una filosofía completa de la mente y defendió un funcionalismo liberal fundado en capacidades encarnadas que involucran al entorno."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica (análisis conceptual, analogía con las máquinas de computar)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Putnam se convirtió en su principal crítico. Sostuvo que el funcionalismo estricto simplifica en exceso los fenómenos mentales, ignora los aspectos semánticos e intencionales del pensamiento y no puede capturar la experiencia cualitativa.",
+    "open_questions_and_limitations": "Putnam dejó sin resolver los qualia y dudó de que exista un único problema unificado de la conciencia que pueda resolverse de una vez por todas.",
+    "ontological_coherence": "La visión temprana es coherente dentro del fisicalismo computacionalista. El pluralismo posterior se niega a reducir el lenguaje mental a una única descripción subyacente, lo que debilita su ajuste con el fisicalismo reductivo."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "La realizabilidad múltiple permite que los estados mentales ‘se ejecuten’ en ordenadores además de en cerebros. Las dudas posteriores de Putnam sobre si el funcionalismo capta los qualia y el significado dejan abierta la conciencia de las máquinas."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Putnam rechazó el dualismo de sustancias, de modo que los estados mentales necesitan algún sistema físico que los realice, y nada en la visión sostiene la supervivencia sin uno."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "El pluralismo pragmático de Putnam trata el lenguaje mental como un esquema conceptual humano adecuado a propósitos humanos, sin apelar a un propósito cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Según el funcionalismo de máquina, reproducir la organización funcional de una mente en otro sustrato reproduciría sus estados mentales, aunque el externalismo posterior de Putnam también vincula el contenido con el mundo."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Fundamento"
+      },
+      {
+        "name": "Smart’s Topic-Neutral Identity",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Lewis’s Analytic Functionalism and Causal-Role Identity Theory",
+        "relationship": "Contraste"
+      },
+      {
+        "name": "Turing’s Imitation, Machine Thought, and the Hidden Mind",
+        "relationship": "Influencia"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Putnam’s Machine Functionalism (Landscape of Consciousness entry), Hilary Putnam",
+        "year": 1988
+      }
+    ]
+  }
+}

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Koch-এর চেতনা ভাষার উপর নির্ভরশীল নয় তত্ত্ব",
     "summary": "এই তত্ত্ব প্রতিপাদন করে আনুভূতিক চেতনা, বা মৌলিক অন্তর্গত অভিজ্ঞতা, ভাষা-সামর্থ্যের কার্যকরীভাবে স্বাধীন। এটি সমর্থিত হয় ক্লিনিক্যাল ক্ষেত্র দ্বারা যেখানে ভাষা-সামর্থ্য মারাত্মকভাবে ব্যাহত বা লুপ্ত, তবুও মৌলিক সচেতনতা রক্ষিত থাকে, যা এই সিদ্ধান্তে নিয়ে যায় মৌলিক অনুভূতিসম্পন্নতা বহু অ-ভাষিক প্রাণীর সাথে ভাগ করা একটি ব্যাপক গুণ।",
-    "associated_thinkers": ["Christof Koch"],
-    "category": "বস্তুবাদ তত্ত্ব",
-    "subcategory": "ভাষা সম্পর্ক",
+    "associated_thinkers": [
+      "Christof Koch"
+    ],
+    "category": "বস্তুবাদ",
+    "subcategory": "ভাষা",
     "core_identity_tagline": "চেতনা ভাষার উপর নির্ভরশীল নয়",
     "classification_tags": [
       "phenomenal consciousness",
@@ -50,38 +52,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "শর্তসাপেক্ষ",
+      "stance": "Conditional",
       "rationale": "ভাষা চেতনার জন্য প্রয়োজনীয় না হওয়ায়, AI-র ভাষিক সামর্থ্য (LLM) অপ্রাসঙ্গিক। AI চেতনা সম্পূর্ণভাবে নির্ভর করে প্রয়োজনীয় অ-ভাষিক ভৌত ভিত্তি কৃত্রিম তন্ত্রে প্রতিলিপি করা যায় কিনা তার উপর।"
     },
     "survival_beyond_death": {
-      "stance": "না",
+      "stance": "No",
       "rationale": "এর বস্তুবাদী শ্রেণিবিন্যাসের সাথে সামঞ্জস্যপূর্ণ, চেতনা একটি ভৌত ভিত্তির (মস্তিষ্ক) সাথে যুক্ত এবং জৈবিক মৃত্যুর পরে টিকে থাকতে পারে না।"
     },
     "meaning_and_purpose": {
-      "stance": "কেবল মানবতাবাদী",
+      "stance": "Humanistic only",
       "rationale": "চেতনা স্ব-কে ভাষার মাধ্যমে একটি আখ্যানমূলক কেন্দ্র হিসেবে কাজ করতে সক্ষম করে, যা মানব-সৃষ্ট অর্থের অনুমতি দেয়, কিন্তু অন্তর্নিহিত বস্তুগত বাস্তবতা কোনো চরম মহাজাগতিক উদ্দেশ্যের ইঙ্গিত দেয় না।"
     },
     "virtual_immortality": {
-      "stance": "শর্তসাপেক্ষ",
+      "stance": "Conditional",
       "rationale": "চেতনা যদি ভাষা থেকে বিচ্ছিন্ন হয়, কেন্দ্রবিন্দু সম্পূর্ণভাবে মৌলিক সচেতনতার অ-ভাষিক, ভৌত ভিত্তির প্রতিলিপির দিকে সরে যায়। এই নির্দিষ্ট অ-ভাষিক স্নায়বিক গঠন প্রতিলিপিযোগ্য হলে, ভার্চুয়াল অমরত্ব সম্ভব।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
         "relationship": "সমালোচনা"
       },
       {
-        "name": "Searle’s Language and Consciousness",
+        "name": "Searle's Language and Consciousness",
         "relationship": "সমালোচনা"
       },
       {
-        "name": "Andrews’s Consciousness Without Complex Brains",
+        "name": "Andrews's Consciousness Without Complex Brains",
         "relationship": "সঙ্গত"
       },
       {
-        "name": "Smith’s Language as Classifier of Consciousness",
+        "name": "Smith's Language as Classifier of Consciousness",
         "relationship": "অতিব্যাপন"
       }
     ],

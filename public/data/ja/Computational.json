@@ -7,7 +7,7 @@
       "James Reggia"
     ],
     "category": "唯物論",
-    "subcategory": "計算論的・情報的",
+    "subcategory": "計算論的",
     "core_identity_tagline": "アルゴリズムおよび計算としての意識",
     "classification_tags": [
       "computation",
@@ -56,19 +56,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "是",
+      "stance": "Yes",
       "rationale": "計算論的機能主義は意識が正しい種類の計算を遂行することの結果であると措定するため、非生物学的な知能における計算的精緻さの指数関数的成長を踏まえれば、AIの意識は可能であるのみならず不可避である。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は基体における物理的あるいは機能的実現に結びついている。伝統的な死後の存続は否定されるが、継続はデジタルな心のアップロード(仮想的不死)を通じてのみ可能である。"
     },
     "meaning_and_purpose": {
-      "stance": "人間的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "唯物論の理論として、いかなる究極的で宇宙的な意味や目的も支持しない。意味と価値は、意識的存在の複雑な機能から生じる創発的で自己創出的な現象とみなされる。"
     },
     "virtual_immortality": {
-      "stance": "是",
+      "stance": "Yes",
       "rationale": "意識が純粋に計算的・機能的であるならば(すなわちその本質がアルゴリズム的であるならば)、脳の機能的パターンを非生物学的媒体において完全に複製すれば一人称的な心的自己が保存され、仮想的不死は原理的に達成可能となる。"
     }
   },
@@ -79,11 +79,11 @@
         "relationship": "中核原理"
       },
       {
-        "name": "Computational Functionalism",
+        "name": "Computational",
         "relationship": "拡張"
       },
       {
-        "name": "Eliminative Materialism/Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "両立的"
       },
       {

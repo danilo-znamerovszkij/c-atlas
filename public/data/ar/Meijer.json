@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "مجال المعرفة الكوني عند مايير",
     "summary": "تفترض هذه النظرية أن الوعي يوجد داخل مجال معرفة كوني (UKF)، يُتصوَّر بوصفه مخزنًا جمعيًا لكل المعلومات الحاضرة والمتطورة في الكون. ويتسق هذا المجال مع الفيزياء الأساسية والنماذج الكونية، ويُفهم الوعي البشري بوصفه جزءًا لا يتجزأ من هذا الوعي الكوني، الذي يتواصل مع الدماغ في المقام الأول عبر أنماط رنين توافقية تنطوي على ترددات محددة للمجال الكهرومغناطيسي.",
-    "associated_thinkers": ["Dirk K. F. Meijer"],
-    "category": "المثاليات",
-    "subcategory": "مجال المعرفة الكوني",
+    "associated_thinkers": [
+      "Dirk K. F. Meijer"
+    ],
+    "category": "المثالية",
+    "subcategory": "حقل المعرفة الكوني",
     "core_identity_tagline": "‘الوعي بوصفه مجال معرفة كوني’",
     "classification_tags": [
       "idealism",
@@ -53,28 +55,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "بما أن الوعي أساسي (المثالية) ويعتمد على خصائص معلوماتية/مجالية، فإن أنظمة الذكاء الاصطناعي المتقدمة القادرة على بلوغ التعقيد اللازم والتفاعل مع مجال المعرفة الكوني يمكنها على الأرجح بلوغ الوعي، وإن لم تكن المصادر تثبت ذلك بصرامة."
     },
     "survival_beyond_death": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "بما أن الوعي هو الواقع الأساسي (مجال المعرفة الكوني)، فإن الوعي الفردي (الروح/النفس) جزء لا يتجزأ من هذا الوعي النهائي، يستمر بعد انحلال الجسد/الدماغ البيولوجي."
     },
     "meaning_and_purpose": {
-      "stance": "كوني",
+      "stance": "Cosmic/Ultimate",
       "rationale": "الوعي (مجال المعرفة الكوني) هو أرضية كل كينونة والمبدأ المنظِّم للكون، بما يوحي بمعنى وغاية كونيين متأصلين."
     },
     "virtual_immortality": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "بما أن الوعي مجال معلوماتي دائم (مجال المعرفة الكوني) يتواصل معه الدماغ، فإن نسخ البنية المعلوماتية ووظيفة 'فضاء العمل الذاكري الهولوفراكتالي' قد يتيح الحفاظ على نمط الوعي الفردي المحدد في ركيزة غير بيولوجية."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Idealism", "relationship": "امتداد" },
-      { "name": "Cosmic Consciousness", "relationship": "تداخل" },
       {
-        "name": "Pribram’s Holonomic Brain Theory",
+        "name": "Idealism",
+        "relationship": "امتداد"
+      },
+      {
+        "name": "Cosmic Consciousness",
+        "relationship": "تداخل"
+      },
+      {
+        "name": "Pribram's Holonomic Brain Theory",
         "relationship": "متوافقة"
       }
     ],

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "デイヴィッドソンの非法則的一元論",
     "summary": "非法則的一元論は、あらゆる心的出来事は物理的出来事と同一である（トークン同一性）と措定し、一元論的存在論を維持する。しかしこの理論は、心的概念（タイプ）と物理的概念を結びつける厳密で例外のない自然法則は存在しないと主張し、心理学の物理学への還元不可能性へと至る。この二重の主張は、心的因果と物理的世界の因果的完結性との間の見かけの対立を解消する。",
-    "associated_thinkers": ["Donald Davidson"],
+    "associated_thinkers": [
+      "Donald Davidson"
+    ],
     "category": "一元論",
-    "subcategory": "非法則的一元論",
+    "subcategory": "異常一元論",
     "core_identity_tagline": "心的トークンは物理的であり、心的タイプは非法則的である",
     "classification_tags": [
       "monism",
@@ -52,33 +54,42 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "可能",
+      "stance": "Possible",
       "rationale": "存在論が根本的に一元論的である（あらゆる心的出来事は物理的出来事である）ため、関連する複雑な物理的システムが人工的媒体で再現されうるならば、AI の意識は原理的に可能である。ただし予測可能な心的法則の欠如（非法則性）は評価を複雑にする。"
     },
     "survival_beyond_death": {
-      "stance": "いいえ",
+      "stance": "No",
       "rationale": "心的出来事は物理的出来事に依存する（トークン同一性）。この唯物論的前提のもとでは、生物学的基体の破壊を超えた存続は排除される。"
     },
     "meaning_and_purpose": {
-      "stance": "人間的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "存在論的一元論の理論として、人間が自ら作り出すものを超えた究極的な意味や目的を一般に合理化しない唯物論的カテゴリーと合致する。"
     },
     "virtual_immortality": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "物理的基体（脳のパターン）が複製されれば、心的出来事（それらのトークンと同一である）もまた複製されるはずであり、他の非還元的物理主義の見解と同様に、仮想的不死は到達可能となる。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Non-Reductive Physicalism", "relationship": "重なり合い" },
-      { "name": "Property Dualism", "relationship": "重なり合い" },
       {
-        "name": "Mind-Brain Identity Theory (Type Identity)",
+        "name": "Non-Reductive",
+        "relationship": "重なり合い"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "重なり合い"
+      },
+      {
+        "name": "Mind-Brain Identity",
         "relationship": "批判"
       }
     ],
     "sources_and_references": [
-      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+      {
+        "title_with_names": "Thinking Causes, Donald Davidson",
+        "year": 1993
+      }
     ]
   }
 }

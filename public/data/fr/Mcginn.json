@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Le mystère ultime de McGinn (mystérianisme)",
     "summary": "La théorie soutient que le lien métaphysique entre l'esprit conscient et le cerveau physique est un mystère ultime que l'intelligence humaine est fondamentalement incapable de résoudre. Cette clôture cognitive est due à des limitations inhérentes à nos ressources conceptuelles humaines, et non au fait que la conscience serait surnaturelle.",
-    "associated_thinkers": ["Colin McGinn"],
-    "category": "Théories du défi",
-    "subcategory": "Le mystère ultime (mystérianisme)",
+    "associated_thinkers": [
+      "Colin McGinn"
+    ],
+    "category": "Défi",
+    "subcategory": "Mystère ultime (mystérianisme)",
     "core_identity_tagline": "Le lien entre l'esprit et le cerveau est un mystère ultime",
     "classification_tags": [
       "mystery",
@@ -53,34 +55,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "Si le lien producteur de conscience est un mystère ultime qui ne peut être compris (et encore moins conçu), il est impossible de construire délibérément un système d'IA conscient doté d'une véritable expérience intérieure."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La théorie repose sur l'hypothèse matérialiste selon laquelle la conscience naît uniquement du cerveau matériel, impliquant son extinction à la mort corporelle."
     },
     "meaning_and_purpose": {
-      "stance": "Aucun",
+      "stance": "Humanistic only",
       "rationale": "En tant que forme de naturalisme existentiel, la théorie ne postule aucune finalité cosmique ni sens ultime ; la conscience est un résultat contingent de processus matériels."
     },
     "virtual_immortality": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "Si le mécanisme reliant le cerveau physique à l'esprit subjectif est un mystère ultime, alors reproduire ce processus avec une « perfection à la première personne » dans un support synthétique serait impossible en principe."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "L'esprit et le cosmos de Nagel",
+        "name": "Nagel's Mind and Cosmos",
         "relationship": "Influence"
       },
       {
-        "name": "Le mystère de la conscience de S. Harris",
+        "name": "S. Harris's Mystery of Consciousness",
         "relationship": "Chevauchement"
       },
       {
-        "name": "Matérialisme éliminativiste / Illusionnisme",
+        "name": "Eliminative/Illusionism",
         "relationship": "Critique"
       }
     ],

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La teoria dell'ipotesi del contenuto di T. Clark",
     "summary": "Questa teoria postula che la coscienza fenomenica sia il contenuto rappresentazionale derivato dall'elaborazione sufficientemente strutturata di un sistema cognitivo . L'esperienza cosciente è categoricamente soggettiva e fondamentalmente legata al cervello fisico, operando come un fenomeno materiale istanziato dal cervello .",
-    "associated_thinkers": ["Thomas Clark"],
+    "associated_thinkers": [
+      "Thomas Clark"
+    ],
     "category": "Materialismo",
-    "subcategory": "Rappresentazionale",
+    "subcategory": "Primo ordine",
     "core_identity_tagline": "La coscienza fenomenica come contenuto rappresentazionale strutturato",
     "classification_tags": [
       "representational",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "Poiché la coscienza è posta come un fenomeno strettamente fisico risultante da un'elaborazione sufficientemente strutturata, la replicazione di questa struttura in sistemi artificiali avanzati dovrebbe consentire la coscienza ."
     },
     "survival_beyond_death": {
-      "stance": "No (per il sé personale) / Sì (per la soggettività generica)",
+      "stance": "No",
       "rationale": "La coscienza individuale è un'istanziazione fisica e si dissolve alla morte cerebrale. Tuttavia, la «continuità soggettiva generica» suggerisce che la coscienza continui in altri contesti, sebbene non come l'individuo deceduto ."
     },
     "meaning_and_purpose": {
-      "stance": "Esistenziale/Intrinseco",
+      "stance": "Humanistic only",
       "rationale": "La coscienza, spinta dalla finitezza del sistema autoriflessivo, crea intrinsecamente un mondo interiore, fornendo uno scopo legato al mantenimento della continuità soggettiva ."
     },
     "virtual_immortality": {
-      "stance": "Condizionale",
+      "stance": "Conditional",
       "rationale": "In quanto teoria materialista, se l'«elaborazione rappresentazionale sufficientemente strutturata» che la definisce può essere duplicata con precisione in un mezzo non biologico, il trasferimento della coscienza personale è possibile ."
     }
   },
@@ -74,15 +76,15 @@
         "relationship": "Coerente"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "Coerente"
       },
       {
-        "name": "Predictive Processing",
+        "name": "Predictive Theories (Top-Down)",
         "relationship": "Coerente"
       },
       {
-        "name": "Metzinger’s No-Self Representational Theory of Subjectivity",
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
         "relationship": "Influenza"
       }
     ],

@@ -2,8 +2,11 @@
   "id_and_class": {
     "theory_title": "Pylkkänen-এর কোয়ান্টাম বিভব শক্তি ও সক্রিয় তথ্য",
     "summary": "এই তত্ত্ব প্রস্তাব করে যে চেতনার ব্যবস্থার শিকড় কোয়ান্টাম তত্ত্ব থেকে উদ্ভূত ভৌত বাস্তবতার এক মৌলিক সম্প্রসারণে নিহিত। চেতনাকে গতিশীল, সমগ্রতাবাদী কোয়ান্টাম প্রক্রিয়ার—বিশেষত ‘সক্রিয় তথ্য’ বহনকারী কোয়ান্টাম বিভব শক্তির—উপর আরোপ করা হয়, যা চিরায়ত স্নায়বিক ব্যবস্থার পরিপূরক; এই স্নায়বিক ব্যবস্থাকে ওই গভীরতর বাস্তবতার ছায়া হিসেবে দেখা হয়।",
-    "associated_thinkers": ["Paavo Pylkkänen", "Basil Hiley"],
-    "category": "কোয়ান্টাম তত্ত্ব",
+    "associated_thinkers": [
+      "Paavo Pylkkänen",
+      "Basil Hiley"
+    ],
+    "category": "কোয়ান্টাম",
     "subcategory": "কোয়ান্টাম তথ্য",
     "core_identity_tagline": "চেতনা কোয়ান্টাম সমগ্রতাবাদ ও সক্রিয় তথ্যকে প্রতিফলিত করে",
     "classification_tags": [
@@ -51,34 +54,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "শর্তসাপেক্ষ",
+      "stance": "Conditional",
       "rationale": "চেতনা কেবল তখনই সম্ভব যদি কৃত্রিম ভিত্তি কোয়ান্টাম বিভব শক্তি ও সক্রিয় তথ্যের গতিবিদ্যা থেকে উদ্ভূত অ-যান্ত্রিক প্রক্রিয়াগুলিকে ধারণ ও ব্যবহার করতে সক্ষম হয়, যার জন্য অত্যন্ত উন্নত বা অ-প্রমিত পদার্থবিজ্ঞান/প্রকৌশল প্রয়োজন।"
     },
     "survival_beyond_death": {
-      "stance": "সম্ভব",
+      "stance": "Possible",
       "rationale": "চেতনার শিকড় একটি গভীরতর, সমগ্রতাবাদী ‘নিহিত’ ক্রমে, যার নিছক ছায়া হলো ভৌত মস্তিষ্ক। যান্ত্রিক মস্তিষ্ক থেকে মানসিক সারসত্তার এই বিচ্ছেদ জৈবিক বিলয়ের পরেও অস্তিত্ব টিকে থাকার সম্ভাবনার ইঙ্গিত দেয়।"
     },
     "meaning_and_purpose": {
-      "stance": "অনিশ্চিত/সম্ভাব্য",
+      "stance": "Uncertain",
       "rationale": "বাস্তবতার একটি মৌলিকভাবে সমগ্রতাবাদী, অ-যান্ত্রিক মাত্রা (সক্রিয় তথ্য) প্রস্তাব করে, যাকে চেতনা প্রতিফলিত করে, এটি চিরায়ত যান্ত্রিক নিহিলিজমের বাইরে অন্তর্গত মহাজাগতিক অর্থের সম্ভাবনা উন্মুক্ত করে।"
     },
     "virtual_immortality": {
-      "stance": "শর্তসাপেক্ষ",
+      "stance": "Conditional",
       "rationale": "ভার্চুয়াল অমরত্বের জন্য কেবল চিরায়ত মস্তিষ্ক-কার্যকলাপের (ছায়ার) অনুকরণ যথেষ্ট নয়; প্রথম পুরুষের অভিজ্ঞতার জন্য প্রয়োজনীয় সুনির্দিষ্ট অ-যান্ত্রিক সক্রিয় তথ্য-গতিবিদ্যার পুনরুৎপাদন ও রক্ষণে সক্ষম একটি অজৈবিক ব্যবস্থা প্রকৌশল করতে হবে।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Bohm’s Implicate-Explicate Order",
+        "name": "Bohm's Implicate-Explicate Order",
         "relationship": "প্রভাব"
       },
       {
-        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
         "relationship": "সম্পর্কিত"
       },
       {
-        "name": "McFadden’s Conscious Electromagnetic Information Theory",
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
         "relationship": "সম্পর্কিত"
       }
     ],

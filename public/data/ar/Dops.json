@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "الإطار النظري لقسم دراسات الإدراك (DOPS)",
     "summary": "يدعو هذا الإطار، المسنود ببحوث تجريبية في ظواهر كتجارب الاقتراب من الموت والتناسخ، إلى نموذج نقل أو ترشيح للوعي، حيث يعمل الدماغ بوصفه واجهةً لا منتِجاً للوعي. وهو يتحدّى الفيزيائية التقليدية منهجياً بالاحتجاج بأن الوعي مستقلّ عن الكائن وربما يكون تأسيسياً للواقع.",
-    "associated_thinkers": ["Ed Kelly", "Ian Stevenson", "Bruce Greyson"],
-    "category": "الحالات الشاذّة والمتغيّرة",
-    "subcategory": "تحدٍّ مسنود بالبحث للفيزيائية/المادية",
+    "associated_thinkers": [
+      "Ed Kelly",
+      "Ian Stevenson",
+      "Bruce Greyson"
+    ],
+    "category": "الشاذّة",
+    "subcategory": "تحدٍّ بحثي للفيزيائية/المادية",
     "core_identity_tagline": "الوعي بوصفه وجوداً كونياً مُرشَّحاً",
     "classification_tags": [
       "survival",
@@ -54,19 +58,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "آفاق ضعيفة",
+      "stance": "Unlikely",
       "rationale": "يوحي الإطار بأن الوعي غير قابل للردّ ومرتبط بواقع أساسي كوني (المثالية/وحدة الوجود المتعالية)، ما يتضمّن أن مجرّد الأنظمة الاصطناعية/الحاسوبية يُستبعَد أن تمتلكه، مفضياً إلى آفاق ضعيفة لوعي الذكاء الاصطناعي العام."
     },
     "survival_beyond_death": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "تنطلق النظرية من أدلة تجريبية (تجارب الاقتراب من الموت، حالات التناسخ) تحتجّ بأن الوعي يبقى بعد موت الجسد، ما يقتضي نموذج إنتاج غير مادي."
     },
     "meaning_and_purpose": {
-      "stance": "كوني/أسمى",
+      "stance": "Cosmic/Ultimate",
       "rationale": "يوحي النزوع الميتافيزيقي الجوهري نحو المثالية/وحدة الوجود المتعالية بأن الوعي متأصّل في وعيٍ أسمى يوفّر معنى وغاية وقيمة أسمى."
     },
     "virtual_immortality": {
-      "stance": "لا (غير ضروري)",
+      "stance": "Not needed",
       "rationale": "بما أن الوعي غير فيزيائي وربما مستمرّ/باقٍ بعد الموت، فإن الاستنساخ (الخلود الافتراضي) يُرجَّح أن يُخفق في التقاط الذات الأصلية بضمير المتكلم، أو يكون بلا صلة إذا حدث بقاء حقيقي."
     }
   },
@@ -76,18 +80,36 @@
         "name": "Myers/James Transmission Model",
         "relationship": "أساس"
       },
-      { "name": "Idealism/Panentheism", "relationship": "متوافق/نزوع" },
+      {
+        "name": "Idealism/Panentheism",
+        "relationship": "متوافق/نزوع"
+      },
       {
         "name": "Interactive Dualism",
         "relationship": "إطار مفاهيمي بديل"
       },
-      { "name": "Materialism Theories (General)", "relationship": "نقد" }
+      {
+        "name": "Materialism",
+        "relationship": "نقد"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Irreducible Mind", "year": 2007 },
-      { "title_with_names": "Beyond Physicalism", "year": 2015 },
-      { "title_with_names": "Consciousness Unbound", "year": 2021 },
-      { "title_with_names": "The Continuity of Consciousness", "year": 2022 }
+      {
+        "title_with_names": "Irreducible Mind",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Beyond Physicalism",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Consciousness Unbound",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Continuity of Consciousness",
+        "year": 2022
+      }
     ]
   }
 }

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "نظرية مراقبة الواقعية الإدراكية لدى لاو",
     "summary": "تقترح هذه النظرية من الرتبة الأعلى، ذات الأساس التجريبي، أن الإدراك الواعي يحدث عندما يصادق تمثيل معيّن من الرتبة الأعلى (HOR) على تمثيل حسّي من الرتبة الأولى بوصفه انعكاسًا موثوقًا للعالم الخارجي. ويعمل التمثيل من الرتبة الأعلى واجهةً بين الإدراك والمعرفة، فيوفّر الإحساس الذاتي بالتسويغ للخبرة الواعية.",
-    "associated_thinkers": ["Hakwan Lau"],
+    "associated_thinkers": [
+      "Hakwan Lau"
+    ],
     "category": "المادية",
-    "subcategory": "التمثيلية",
+    "subcategory": "الرتبة العليا",
     "core_identity_tagline": "الوعي بوصفه مراقبةً للواقعية الإدراكية",
     "classification_tags": [
       "higher-order theory",
@@ -53,38 +55,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مرجّح",
+      "stance": "Likely",
       "rationale": "بوصفها نظرية وظيفية، يتوقف الوعي على تطبيق البنية المعلوماتية/الوظيفية الصحيحة (آلية التمثيل من الرتبة الأعلى). وإذا أمكن تحقيق هذه البنية في روبوت أو برنامج حاسوبي، فالوعي الاصطناعي ممكن."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "الوعي مرتبط صراحةً بآليات عصبية متخصّصة محددة تتموضع في الدماغ البيولوجي (كالقشرة قبل الجبهية)، بما لا يترك مجالًا للبقاء بعد الموت البيولوجي."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "دور الآلية الأساسي وظيفيّ (تمييز الواقع من الخيال وتوجيه المعلومات). ولا تقدّم أي غاية كونية أو قصوى تتجاوز المزايا التكيّفية التي تمنحها هذه الآلية البيولوجية."
     },
     "virtual_immortality": {
-      "stance": "مرجّح",
+      "stance": "Likely",
       "rationale": "إذا أمكن تحميل البنية الوظيفية والمعلوماتية المحددة تحميلًا تامًّا وتشغيلها على ركيزة غير بيولوجية، بما في ذلك الطبيعة التناظرية للتمثيلات، لحُفظت الذات الذهنية من منظور الشخص الأول، لأن الوعي مُعرَّف بتلك البنية الوظيفية."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Theories",
+        "name": "Higher-Order",
         "relationship": "حالة خاصة/امتداد"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "نقد (تُطرَح بوصفها بديلًا وسطيًّا متفوّقًا)"
       },
       {
-        "name": "Recurrent Processing Theory",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "نقد (تُطرَح بوصفها بديلًا وسطيًّا متفوّقًا)"
       },
       {
-        "name": "Graziano’s Attention Schema Theory",
+        "name": "Graziano's Attention Schema Theory",
         "relationship": "توافق (تشترك في مقاربة وظيفية/معرفية لتفسير دعاوى الوعي)"
       }
     ],

@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "L'effondrement de la fonction d'onde par le « questionnement » de Stapp",
     "summary": "Cette théorie postule que la conscience est fondamentale à l'univers et repose sur une interprétation traditionnelle de la mécanique quantique selon laquelle la conscience provoque l'effondrement de la fonction d'onde quantique (un acte de mesure) . Ce mécanisme confère à la conscience un rôle causal crucial dans le monde physique, reliant le libre choix d'un agent à l'actualisation physique des corrélats neuronaux .",
-    "associated_thinkers": ["Henry Stapp", "John von Neumann"],
-    "category": "Théories Quantiques",
-    "subcategory": "Théories Quantiques",
+    "associated_thinkers": [
+      "Henry Stapp",
+      "John von Neumann"
+    ],
+    "category": "Quantique",
+    "subcategory": "Théories quantiques",
     "core_identity_tagline": "« La conscience comme effondrement de la fonction d'onde quantique »",
     "classification_tags": [
       "quantum",
@@ -52,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Incertain/Conditionnel",
+      "stance": "Uncertain",
       "rationale": "Puisque la conscience est posée comme une existence indépendante et fondamentale nécessaire pour forcer le saut quantique , dupliquer les processus purement physiques ou computationnels du cerveau dans une IA pourrait être insuffisant pour instancier cette agentivité fondamentale."
     },
     "survival_beyond_death": {
-      "stance": "Peut-être",
+      "stance": "Uncertain",
       "rationale": "La théorie établit que la conscience est fondamentale et inextricablement liée à la réalité quantique , suggérant que la destruction du cerveau classique n'entraîne pas nécessairement la fin de l'entité consciente fondamentale, bien que la survie à la première personne demeure difficile à imaginer ."
     },
     "meaning_and_purpose": {
-      "stance": "Oui",
+      "stance": "Uncertain",
       "rationale": "La théorie accorde à la conscience un rôle causal vital, transformant l'observation passive en participation active (« acteurs ») dans l'univers, fournissant ainsi une fonction et un sens intrinsèques ."
     },
     "virtual_immortality": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "Si la conscience est une existence indépendante et fondamentale requise pour effondrer l'état physique , dupliquer les aspects purement physiques/computationnels du cerveau exclurait nécessairement cette composante non physique requise pour la véritable identité du soi ."
     }
   },
@@ -75,15 +78,15 @@
         "relationship": "Fondation/Influence"
       },
       {
-        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
         "relationship": "Théorie quantique alternative"
       },
       {
-        "name": "Kauffman’s Mind Mediating Possibles to Actuals",
+        "name": "Kauffman's Mind Mediating Possibles to Actuals",
         "relationship": "Chevauchement"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "Critique/Défaite"
       }
     ],

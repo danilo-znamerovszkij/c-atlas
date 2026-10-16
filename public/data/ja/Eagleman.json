@@ -5,7 +5,7 @@
     "associated_thinkers": [
       "David Eagleman"
     ],
-    "category": "挑戦理論",
+    "category": "チャレンジ",
     "subcategory": "",
     "core_identity_tagline": "「高水準の抽象的表象としての意識」",
     "classification_tags": [
@@ -53,34 +53,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる（条件付き）",
+      "stance": "Conditional",
       "rationale": "意識が主として高水準の抽象化の機能であるならば、十分に複雑な AI はこの機能を具現化しうる。しかし主観的な「感じ」（クオリア）の謎は未解決の概念的障壁として残る。"
     },
     "survival_beyond_death": {
-      "stance": "いいえ（条件付き）",
+      "stance": "Unlikely",
       "rationale": "心は明示的に「脳に不可分に依存する」と見なされる。しかし可能主義の哲学は、将来の科学が現在は想像できない非物理的要素——死後存続を許すもの——を明らかにする余地を認める。"
     },
     "meaning_and_purpose": {
-      "stance": "不確定/人間的",
+      "stance": "Uncertain",
       "rationale": "懐疑的な挑戦理論として、宇宙的あるいは究極的なコミットメント（可能主義）を避ける。意味は、意識の機能（目標の設定と行為主体性の遂行）から人間的に導かれる。"
     },
     "virtual_immortality": {
-      "stance": "可能（条件付き）",
+      "stance": "Possible",
       "rationale": "意識が生物学的機構の上に乗る高水準の抽象的表象へと首尾よく還元されるならば、技術的複雑性が克服され主観的な「感じ」が保存される限り、これらの表象は原理的にアップロードされうる。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Dennett’s Multiple Drafts Model",
+        "name": "Dennett's Multiple Drafts Model",
         "relationship": "重なり合い（意識を必要な機能的/表象的機構へと還元する点で）"
       },
       {
-        "name": "Mysterianism",
+        "name": "Challenge",
         "relationship": "重なり合い（クオリアの根本的本性が概念的にアクセス不可能でありうると結論する点で）"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "批判（脳への依存を認めつつ唯物論の十分性に挑戦する）"
       }
     ],

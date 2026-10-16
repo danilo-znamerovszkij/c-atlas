@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "동적 유기성 이론(DOT)",
     "summary": "이는 B유형 유물론에 뿌리를 둔 양자 생물학적 이론으로, 다중척도 시간적–위상학적 틀을 사용하여 의식을 모형화한다. 의식은 뇌의 살아 있는 음엔트로피 상태에서 다중척도 복잡성의 기능성이 최대 복잡성에서 도출되는 기능성을 넘어설 때 자발적으로 발생한다고 주장된다.",
-    "associated_thinkers": ["Roman Poznanski"],
-    "category": "양자 이론",
-    "subcategory": "동적 유기성 (양자 생물학적)",
+    "associated_thinkers": [
+      "Roman Poznanski"
+    ],
+    "category": "양자",
+    "subcategory": "동적 유기성(양자생물학적)",
     "core_identity_tagline": "다중척도 복잡성의 기능성으로서의 의식",
     "classification_tags": [
       "quantum biological",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부/가능성 높음",
+      "stance": "Conditional",
       "rationale": "B유형 유물론의 관점에서 의식은 물리적 과정이다. 인공 시스템이 복잡한 기능적 구조와 다중척도 동역학을 성공적으로 재현하고 $F_{MultiComplexity} > F_{MaxComplexity}$에 요구되는 양자 생물학적 자유도를 활용할 수 있다면 의식이 발생할 것이다."
     },
     "survival_beyond_death": {
-      "stance": "불확실/아니다",
+      "stance": "Unlikely",
       "rationale": "의식은 '살아 있는 음엔트로피 상태'와 물질적 뇌의 특정 동역학에 의존한다. 이 유기적 체계와 독립된 존속은 이 이론의 유물론적 핵심 원리에 의해 뒷받침되지 않는다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한정됨",
+      "stance": "Humanistic only",
       "rationale": "이 이론은 생물학적·기능적 효율성에 초점을 두고 내적 지향성을 행위의 지침으로 규정하며, 이는 자아감과 목적을 제공하지만 외재적이거나 우주적인 목적론을 함축하지는 않는다."
     },
     "virtual_immortality": {
-      "stance": "가능함/조건부",
+      "stance": "Possible",
       "rationale": "$F_{MultiComplexity} > F_{MaxComplexity}$를 산출하는 데 요구되는 근저의 생물학적·양자 기능적 제약이 비생물학적 매체에서 성공적으로 복제되고 구현될 수 있다면, 의식적 자아의 재현이 가능해져 가상 불멸이 성립할 수 있다."
     }
   },
@@ -83,7 +85,7 @@
         "relationship": "비판"
       },
       {
-        "name": "Quantum Theories",
+        "name": "Quantum & Dimensions",
         "relationship": "중첩"
       }
     ],

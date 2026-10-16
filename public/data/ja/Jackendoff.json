@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "ジャッケンドフの中間レベルの認知表象",
+    "summary": "レイ・ジャッケンドフは、私たちが意識するのは心的表象の一つの特定の水準、すなわち生の感覚データと抽象的概念の間にある中間レベルであると考える。視覚においてそれは、光の強度や対象の範疇ではなく、形、輪郭、空間的配置を意味する。表象を意識的にするのは、脳内での位置ではなく、その形式である。",
+    "associated_thinkers": [
+      "Ray Jackendoff"
+    ],
+    "category": "唯物論",
+    "subcategory": "計算論的",
+    "core_identity_tagline": "中間レベルの心的表象としての意識",
+    "classification_tags": [
+      "representationalism",
+      "computational theory of mind",
+      "perception",
+      "linguistics",
+      "cognitive science"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識とは、中間レベルの表象の存在である。すなわち、低次の感覚処理と高次の概念構造の間に位置する、構造化された、様相特異的な形式のことである。",
+    "ontological_status": "物理主義（計算論的表象主義）",
+    "mind_body_relationship": "意識は、神経表象によって実現された計算論的・認知的水準での情報処理から生じる。ジャッケンドフは、特定の脳構造によってではなく、関与する表象の種類によって意識を説明する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（特定の表象形式における情報処理から）",
+    "subjectivity_and_intentionality": "中心的な観察者やデカルト的劇場は存在しない。私たちが経験するのは中間レベルの表象の内容であり、私たちは音を聞き、発話の意味を把握するが、その統語論や音韻論には気づいていない。",
+    "qualia_account": "現象的意識は表象的である。経験される性質は、表象が何についてのものであるかと、その情報がどのように形式化されているかの両方に依存する。",
+    "ontological_commitments": "各様相における低次、中間、高次の水準の心的表象と、それらを担う神経過程。",
+    "epistemic_access": "どの表象が意識に届くのかについての認知的・言語的分析を通じて。それを、被験者が経験していると報告できることと比較する。",
+    "constituents_and_structure": "各感覚系における三層の階層。視覚では、低次が光の強度と縁を扱い、中間が形、輪郭、空間関係を扱い、高次が認識、命名、記憶の連想を扱う。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的なもの（知覚内容）、アクセス（どの表象が利用可能か）",
+    "distinctive_mechanism_or_principle": "中間レベルの表象だけが意識的になる。低次の感覚処理と高次の概念構造は無意識のままである。",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "様相ごとのシステムに分散しており、単一の座はない。ジャッケンドフは、意識を脳の領域ではなく、表象のレベルに結びつける。",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "情報は、生の感覚データから中間構造を経て抽象的概念へと流れ、気づきは中間段階に依拠する。各様相（視覚、聴覚、触覚）は、それぞれ固有の中間表象をもつ。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "私たちが意識するのは、形、輪郭、空間配置であり、エッジ検出や対象の範疇そのものではない。",
+      "言語においては、音と意味には気づくが、統語論や音韻論に直接気づくことはない。",
+      "意識は、情報が何についてのものであるかだけでなく、その情報がどのように形式化されているかに依存する。",
+      "この理論はより深い機構については中立であり、大域的アクセス理論と統合理論の両方と適合する。"
+    ],
+    "basis_of_belief_or_evidence_type": "理論的・計算論的。言語学、知覚研究、そして私たちが何に気づいているかについての現象学的観察に依拠する。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的には検証可能",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "この理論は、どの表象が意識的であるかを述べるが、なぜその形式が何かとして感じられるべきなのかは述べていない。",
+    "open_questions_and_limitations": "ジャッケンドフは、中間表象を意識的にする根底の機構については中立の立場をとる。",
+    "ontological_coherence": "計算論的心の理論と整合的であり、いくつかの神経理論の意識理論とも両立する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "ここでは意識が情報処理の形式に依存するため、適切な中間レベルの表象をもつ機械は、原理的には意識をもちうる。ただしジャッケンドフはこの点を取り上げていない。"
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "意識は心と脳における情報処理の産物であるため、それらを超えて存続することはない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Prinz's Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "拡張"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Jackendoff’s Intermediate-Level Cognitive Representations (Landscape of Consciousness), Ray Jackendoff",
+        "year": 1987
+      }
+    ]
+  }
+}

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Le scepticisme anti-neuromanie de Tallis",
     "summary": "Cette perspective critique et rejette les tentatives naturalistes et matérialistes d'expliquer la conscience, soutenant que la quantification de l'activité neuronale est fondamentalement contradictoire avec l'accès à l'expérience subjective qualitative. Elle avance que le cerveau est nécessaire mais non suffisant, laissant l'essence profonde de la conscience, du soi et de l'intentionnalité comme un mystère irréductible.",
-    "associated_thinkers": ["Raymond Tallis"],
-    "category": "Théories du Défi",
-    "subcategory": "Scepticisme Anti-Neuromanie",
+    "associated_thinkers": [
+      "Raymond Tallis"
+    ],
+    "category": "Défi",
+    "subcategory": "Scepticisme anti-neuromanie",
     "core_identity_tagline": "« La conscience comme mystère intact »",
     "classification_tags": [
       "skepticism",
@@ -51,34 +53,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "Puisque la conscience requiert des qualités subjectives et une intentionnalité irréductibles qui ne peuvent être expliquées par de pures actions physiques, les systèmes informatiques artificiels (qui fonctionnent sur la base de descriptions physiques/fonctionnelles) ne peuvent atteindre une véritable conscience."
     },
     "survival_beyond_death": {
-      "stance": "Incertain",
+      "stance": "Uncertain",
       "rationale": "Bien que Tallis rejette le dualisme et les réponses surnaturelles, son agnosticisme ontologique et sa conviction que « tout est possible » impliquent que les possibilités non matérialistes de survie ne peuvent être exclues, même s'il ne propose aucune théorie positive à l'appui."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste/Indéfini",
+      "stance": "Humanistic only",
       "rationale": "La théorie rejette les explications naturalistes qui laissent la conscience, le soi et les traits humains inexpliqués, ouvrant implicitement la voie à un sens créé de manière humaniste, mais sans offrir de finalité cosmique ultime."
     },
     "virtual_immortality": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "Si la conscience n'est pas réductible à l'activité cérébrale mais requiert des caractéristiques radicalement non matérialistes (comme les « apparitions » phénoménales), une duplication fonctionnelle du substrat neuronal échouerait à dupliquer le soi conscient."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Le mystère ultime de McGinn (mystérianisme)",
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
         "relationship": "Compatible"
       },
       {
-        "name": "Matérialisme éliminativiste / Illusionnisme",
+        "name": "Eliminative/Illusionism",
         "relationship": "Critique"
       },
       {
-        "name": "Panpsychisme",
+        "name": "Panpsychism",
         "relationship": "Critique"
       }
     ],

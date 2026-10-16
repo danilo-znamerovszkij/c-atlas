@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "블룸 부부의 의식 튜링 기계",
+    "summary": "레노어, 매뉴얼, 애브림 블룸은 접근적 의식과 현상적 의식 모두 계산적이며, 형식적 기계 모델인 의식 튜링 기계(Conscious Turing Machine, CTM)로 포착될 수 있다고 주장한다. CTM에서 무의식적 처리기들은 정보 덩어리 하나를 모든 처리기에게 방송되는 한 항목짜리 '무대'에 올리기 위해 경쟁한다. 모든 처리기가 그 방송을 자신이 스스로 구축한 세계 모델, 즉 기계가 세계 그 자체라고 여기는 모델에 비추어 검사할 때, 기계는 무언가를 느낀다.",
+    "associated_thinkers": [
+      "Lenore Blum",
+      "Manuel Blum",
+      "Avrim Blum"
+    ],
+    "category": "유물론",
+    "subcategory": "계산론적",
+    "core_identity_tagline": "세계 모델 덩어리의 방송과 검사로서의 의식",
+    "classification_tags": [
+      "theoretical computer science",
+      "global workspace",
+      "world model",
+      "machine consciousness",
+      "formal model"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "의식은 계산 과정이다. 의식적 주의는 모든 처리기가 방송된 덩어리를 동시에 받아들이는 것이며, 의식적 자각은 모든 처리기가 그 덩어리를 동시에 검사하는 것으로, 그 의미는 기계의 세계 모델에 근거한다.",
+    "ontological_status": "물리주의(계산적 기능주의)",
+    "mind_body_relationship": "마음은 기질과 무관한 계산의 조직이다. CTM은 어떤 뇌 영역이 어떤 기능을 구현하는지에 대해서는 의도적으로 아무 주장도 하지 않으므로, 같은 모델이 뇌와 기계 모두에 적용될 수 있다.",
+    "primitive_or_emergent_status": "창발적",
+    "emergence_type": "약한 창발(주관적 경험은 정의된 구조와 명시된 공리로부터 따라 나온다)",
+    "subjectivity_and_intentionality": "CTM은 세계를 직접 아는 것이 아니라 자신의 세계 모델만을 알며, 그 모델을 실재로 취급한다. 그 자기 감각은 모델 안의 스케치에 이름표를 붙이는 데서 온다. 생각만으로 움직일 수 있는 작동기의 스케치에는 SELF라는 이름표가 붙고, 이후 기계는 자신의 스케치에 CONSCIOUS라는 이름표를 붙이며, 이것이 의식적이라는 느낌을 불러일으킨다.",
+    "qualia_account": "공리 A는 방송된 덩어리를 검사하는 것이 그 덩어리의 무게로부터 강도와 정서가가 오는 고유한 주관적 경험을 불러일으킨다고 말한다. 의미 요약(gist)이 비어 있는 덩어리는 원초적 경험을 불러일으키며(예컨대 고장 난 '산소 계기판'으로부터의 통증), 더 풍부한 경험은 의미 요약 안의 브레이니시 낱말들이 불러일으키는 경험들의 융합이다.",
+    "ontological_commitments": "처리기들, 덩어리들, 단기 기억 무대, 경쟁과 방송의 나무, 처리기들 사이의 헤비안형 연결, 감각기와 작동기, 세계 모델, 그리고 브레이니시(Brainish)라고 불리는 내부 다중 감각 언어.",
+    "epistemic_access": "형식적 정의, 정리, 증명을 통해서, 그리고 모델의 행동을 인간 의식의 알려진 현상과 비교함으로써.",
+    "constituents_and_structure": "일곱 원소의 튜플: 단기 기억(STM, 무대), 장기 기억(LTM, 방대한 무의식적 처리기 집합), 경쟁을 위한 상향 나무(Up-Tree), 방송을 위한 하향 나무(Down-Tree), 처리기들 사이의 연결(Links), 그리고 감각기와 작동기로의 입력 및 출력 사상. 시간은 유한한 수명 동안 이산적인 틱으로 흐른다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "접근(의식적 주의); 현상적(의식적 자각); 자기의식; 의식적이라는 느낌",
+    "distinctive_mechanism_or_principle": "이진 나무를 따라 올라가는 확률적 승자독식 토너먼트. 각 덩어리가 이길 확률은 그 무게를 모든 항목의 전체 무게로 나눈 값과 같다. 승자는 모든 처리기에게 방송되며, 모든 처리기가 같은 틱에 그것을 검사할 때 의식적 자각이 일어난다.",
+    "dynamics_of_emergence": "의식은 기계의 생애 동안 발달한다. 갓 태어난 CTM은 자기와 세계를 구분하지 않는 흐릿한 세계 모델을 가지며, 브레이니시 낱말과 이름표가 붙은 스케치는 경험과 함께 공진화한다. BLOB, PAIN과 같은 원초적 낱말에서 SELF, CONSCIOUS에 이르기까지.",
+    "location_and_distribution": "같은 방송을 받는 장기 기억의 모든 처리기에 걸쳐 분포한다. 단기 기억은 한 번에 한 덩어리만 가진다. 특정한 뇌 위치는 주장되지 않는다.",
+    "causation_and_functional_role": "방송은 모든 처리기에게 무엇이 이겼는지, 그것이 얼마나 중요한지, 그리고 경쟁의 평균 무게가 얼마인지를 알려 주며, 이것이 이후의 행위를 보정한다. 처리기들은 무게가 큰 덩어리를 풀어 해석하려고 하고, 강하게 음수인 무게를 줄이려고 한다. 공정하고 탈중심적인 경쟁이 다른 극장 모델들의 정의되지 않은 '중앙 집행자'를 대체한다.",
+    "integration_or_binding": "브레이니시 의미 요약은 다중 감각 내용(장미의 붉은색, 달콤한 향기, 부드러운 꽃잎, 기억된 만남)을 하나의 이름표로 융합한다. 모든 처리기는 방송된 덩어리들의 동일한 전역 사전을 공유한다.",
+    "information_flow_or_representation": "각 덩어리는 처리기 주소, 시간, 짧은 브레이니시 의미 요약, 부호가 있는 무게, 그리고 나무를 올라가면서 전역적 맥락을 쌓는 보조 데이터를 실어 나른다. 브레이니시 낱말은 이전에 방송된 덩어리를 가리키는 포인터이며, 블룸 부부는 이를 기계 학습의 키와 값에 비유한다.",
+    "evolutionary_account": "하나의 CTM 안에서 브레이니시와 세계 모델은 그 생애 동안 공진화하며, 처리기의 특화 또한 진화한다. 블룸 부부는 이를 닉 험프리의 것과 같은 진화 이론과 나란히 놓는다.",
+    "core_claims_and_evidence": [
+      "한 정리는 덩어리가 이길 확률이 처리기들이 나무의 어디에 위치하는지와 무관하게, 그 무게를 모든 항목의 전체 무게로 나눈 값임을 보인다.",
+      "CTM은 주의 맹목, 변화 맹목, 그리고 덩어리가 경쟁에 들어가는 순간과 그 방송 사이의 리벳형 지연을 재현한다.",
+      "세계 모델 안에서 잘못 이름 붙여진 스케치는 환지 증후군, 신체 완전성 장애, 편집증의 유사물을 낳는다.",
+      "CTM은 전역 작업공간 이론, 주의 도식 이론, 예측 처리, 체화된 인지, 통합 정보 이론과 높은 수준에서 일치한다.",
+      "CTM은 의식에 중앙 집행자가 필요하지 않다고 예측하며, 따라서 뇌에는 그런 것이 없다고 예측한다."
+    ],
+    "basis_of_belief_or_evidence_type": "형식적이고 수학적임(이론 컴퓨터 과학). 인간 의식의 알려진 특징들과 질적으로 일치함으로써 뒷받침된다."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "개념적으로 검증 가능함",
+    "known_empirical_interventions_or_tests": "블룸 부부는 CTM이 구축 가능하다고 주장한다. 뇌에는 중앙 집행자가 없다는 예측은 신경과학에 비추어 검사될 수 있다.",
+    "criticisms_and_tensions": "비판자들은 형식적 정의와 기호 처리가 느껴지는 경험을 포착할 수 있는지 의문을 제기한다. 주관적 경험은 공리 A를 통해 들어오므로, 느낌에 대한 설명은 하나의 가정에 기대고 있다. CTM과 견해가 겹치는 아닐 세스와 닉 험프리는 의식이 살아 있는 유기체를 필요로 한다고 주장하는데, 블룸 부부는 이를 거부한다.",
+    "open_questions_and_limitations": "블룸 부부가 말하듯 CTM은 뇌를 모델링하기에는 지나치게 단순하다. 덩어리를 검사하는 것이 그 역할을 모델링하는 것에 그치지 않고 실제로 경험을 낳는지는 열린 문제로 남아 있다.",
+    "ontological_coherence": "계산적 기능주의 안에서는 일관적이다. 다니엘 데닛과 키스 프랭키시의 환상주의에 가깝지만, 블룸 부부는 '어떤 것과 같은지'를 부정하는 것이 아니라 설명한다고 말한다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "블룸 부부는 CTM이 구축 가능하며, 이것이 AI의 의식을 그럴듯하게, 심지어 불가피하게 만든다고 주장한다."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "여기서 의식은 유한한 수명을 가진 계산 과정이므로, 기계나 뇌가 작동을 멈추면 의식도 끝난다."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "이 이론은 의식을 계산으로 설명하며, 우주적 목적은 상정하지 않는다."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "의식이 기질에 의존하지 않는 계산이라면, 다른 기계에서 같은 과정을 재현하는 것이 이 견해로부터 따라 나올 것이다. 다만 블룸 부부는 이 점을 다루지 않는다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "기초"
+      },
+      {
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "양립 가능"
+      },
+      {
+        "name": "Seth's \"Beast Machine\" Theory",
+        "relationship": "대조"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Lenore, Manuel, and Avrim Blum’s Conscious Turing Machine (Landscape of Consciousness), Lenore Blum, Manuel Blum, Avrim Blum",
+        "year": 2022
+      }
+    ]
+  }
+}

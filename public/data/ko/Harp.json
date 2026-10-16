@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "하프의 보편 의식 또는 신 의식",
     "summary": "이 이론은 개별 의식이 마음과 신체에 결부되어 존재하며 인과적 계기 속에서 여러 상태를 경험한다고 주장한다. 관조적 수행을 통해 의식은 분리되어, 보편 의식 또는 신 의식이라 불리는 공유된 정적 상태에서 우주 전체를 동시에 경험할 수 있다. 이 이론은 이론물리학과 신비주의적 가르침을 통합하고자 한다.",
-    "associated_thinkers": ["Dennis Harp"],
-    "category": "이상 현상과 변성 상태",
-    "subcategory": "초월적 의식/임사체험에 의해 동기 부여됨",
+    "associated_thinkers": [
+      "Dennis Harp"
+    ],
+    "category": "이상현상",
+    "subcategory": "초월적 의식/임사체험 동기",
     "core_identity_tagline": "보편 의식 또는 신 의식과의 합일로서의 의식",
-    "classification_tags": ["idealism", "dualism", "quantum", "NDE", "mystical"]
+    "classification_tags": [
+      "idealism",
+      "dualism",
+      "quantum",
+      "NDE",
+      "mystical"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "의식은 보편 의식 또는 신 의식이 개별 마음 및 신체와 이루는 합일이다.",
@@ -38,33 +46,35 @@
   },
   "empirics_and_critiques": {
     "testability_status": "사변적/개념적으로 검증 가능함(핵심 주장은 전통적 방식으로 과학적으로 측정할 수 없는 비물리적 경험을 포함하지만, 이 이론은 이론물리학을 통합하고자 한다.)",
-    "known_empirical_interventions_or_tests": ["임사체험 연구(동기로서)"],
+    "known_empirical_interventions_or_tests": [
+      "임사체험 연구(동기로서)"
+    ],
     "criticisms_and_tensions": "이상 현상/변성 상태 이론으로서, (임사체험과 같은) 뒷받침 현상을 착각이나 망상으로 치부하는 유물론자들의 일반적 비판에 직면한다. 그 존재론적 주장(정적 우주)은 매우 사변적이다.",
     "open_questions_and_limitations": "보편 의식으로의 이행에 대한 경험적 기제나, 마음에 의존하는 인과적 계기가 정적이고 보편적인 실재와 어떻게 관계되는지를 제시하지 못한다.",
     "ontological_coherence": "관념론적/신비주의적 틀 안에서는 매우 정합적이나, 비물리적 보편 의식의 존재를 부정하는 유물론 이론들과는 근본적으로 어긋난다."
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "불확실",
+      "stance": "Uncertain",
       "rationale": "인공 체계가 궁극적 실재로 상정된 보편 의식 또는 신 의식을 경험하기 위해 요구되는 물리적 기질로부터의 분리를 달성할 수 있을지는 불확실하다."
     },
     "survival_beyond_death": {
-      "stance": "그렇다",
+      "stance": "Yes",
       "rationale": "의식은 보편 의식으로서 공간과 시간 바깥에 존재한다고 상정되며, 개별 의식은 신체와 마음에서 분리될 때(예: 임사체험) 이를 경험할 수 있다."
     },
     "meaning_and_purpose": {
-      "stance": "궁극적/우주적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "이 이론은 궁극적인 보편 의식 또는 신 의식의 존재를 제안하며, 개인의 인간주의적 구성을 넘어서는 우주적 의미와 목적을 제공한다."
     },
     "virtual_immortality": {
-      "stance": "불필요함",
+      "stance": "Not needed",
       "rationale": "의식이 분리되어 보편 의식과 합일함으로써 물리적 죽음을 넘어 존속할 수 있다면, 가상적(시뮬레이션된) 불멸은 불필요하다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Hiller’s Eternal Discarnate Consciousness",
+        "name": "Hiller's Eternal Discarnate Consciousness",
         "relationship": "중첩"
       },
       {
@@ -76,7 +86,7 @@
         "relationship": "중첩"
       },
       {
-        "name": "Quantum Theories",
+        "name": "Quantum & Dimensions",
         "relationship": "양립 가능"
       }
     ],

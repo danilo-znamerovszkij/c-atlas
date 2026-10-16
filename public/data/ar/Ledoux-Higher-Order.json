@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "نظرية لودو ذات الرتبة الأعلى للوعي الانفعالي",
     "summary": "تقترح هذه النظرية أن المشاعر الانفعالية الواعية، كالخوف، لا تختلف اختلافًا جوهريًا عن الخبرات الإدراكية الواعية، إذ ترى أن كليهما ينشأ عن شبكات معرفية عامة (GNC) قشرية الأساس تولّد تمثيلات ذات رتبة أعلى (HORs) لمعلومات ذات رتبة أدنى. ويكمن جوهر الوعي الظاهراتي في إعادة تمثيل حالة سابقة ذات رتبة أعلى، تُسمى HOROR (تمثيلًا ذا رتبة أعلى لتمثيلٍ ما).",
-    "associated_thinkers": ["Joseph LeDoux", "Richard Brown"],
+    "associated_thinkers": [
+      "Joseph LeDoux",
+      "Richard Brown"
+    ],
     "category": "المادية",
-    "subcategory": "تمثيلية",
+    "subcategory": "الرتبة العليا",
     "core_identity_tagline": "الوعي بوصفه تمثيلًا ذا رتبة أعلى للحالات الانفعالية والإدراكية",
     "classification_tags": [
       "neurobiology",
@@ -52,34 +55,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "بوصفها نظرية مادية وظيفية قائمة على معالجة معلومات هرمية (GNC/HORORs)، فإن الوعي قابل من حيث المبدأ للمحاكاة في أنظمة غير بيولوجية قادرة على تجسيد البنى الحاسوبية والتمثيلية الضرورية."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "الوعي كليًا نتاج أنظمة بيولوجية بالغة التعقيد ومتجسدة فيزيائيًا (الدارات القشرية والشبكات المعرفية العامة)، ولا يوفّر أي موارد للبقاء بعد الوجود الفيزيائي للجسد."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "الوعي آلية بيولوجية متطورة تعزّز البقاء وتتيح حالات انفعالية متمركزة حول الذات، لكن النظرية لا تفترض أي معنى أو غاية نهائية أو كونية أو متعالية."
     },
     "virtual_immortality": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "بما أن الذات في منظور الشخص الأول مؤسَّسة على حالات دماغية معقدة ووظيفية وتمثيلية، فإن نسخًا مثاليًا لهذه الحالات الفيزيائية عبر تقنية الرفع من شأنه، من حيث المبدأ، أن يحفظ الذات ويحقق خلودًا افتراضيًا."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Theories",
+        "name": "Higher-Order",
         "relationship": "امتداد"
       },
       {
-        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "name": "Lau's Perceptual Reality Monitoring Theory",
         "relationship": "متوافقة"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "نقد"
       },
       {

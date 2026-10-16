@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "意識の細胞的基盤（CBC）",
     "summary": "この理論は、感覚性（センティエンス）は生命そのものとともに立ち現れたと主張し、意識は有機的形態に内在する原初的な特徴であり、細菌のような単細胞生物にすら備わっていると論じる。心の起源をめぐる探究を、複雑な神経構造から根本的な生体力学的構造へと差し向け直すものである。",
-    "associated_thinkers": ["Arthur Reber"],
+    "associated_thinkers": [
+      "Arthur Reber"
+    ],
     "category": "唯物論",
-    "subcategory": "系統発生的進化",
+    "subcategory": "系統発生的",
     "core_identity_tagline": "有機的形態に内在する特徴としての意識",
     "classification_tags": [
       "biological reductionism",
@@ -50,26 +52,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "この理論は心の計算的見解を明示的に退け、意識は生物学的な有機的形態への内在的なハードウェア依存を要すると主張し、人工的な実現を禁じる。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "唯物論の理論として、意識はもっぱら生物学的な脳・身体の産物である。死は人格／心の取り返しのつかない永久的な非存在を意味する。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的／生物学的",
+      "stance": "Humanistic only",
       "rationale": "意識は主として生存と適応のために機能する。この理論は唯物論に分類されるため、究極的な宇宙的意味や目的は含意されない。"
     },
     "virtual_immortality": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "心の計算的説明の明示的な拒絶と、本質的にハードウェアに依存する生物学的過程への依拠により、デジタル的なアップロードは不可能となる。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Feinberg and Mallatt’s Ancient Origins of Consciousness",
+        "name": "Feinberg and Mallatt's Ancient Origins of Consciousness",
         "relationship": "重複（系統発生的な文脈を共有する）"
       },
       {
@@ -77,7 +79,7 @@
         "relationship": "批判（心的状態は本質的にハードウェアに依存するという主張によって掘り崩される）"
       },
       {
-        "name": "LeDoux’s Deep Roots of Consciousness",
+        "name": "LeDoux's Deep Roots of Consciousness",
         "relationship": "両立可能（進化的起源への焦点を共有する）"
       }
     ],

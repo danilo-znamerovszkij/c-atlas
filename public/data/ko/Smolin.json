@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "스몰린의 조망에 관한 인과 이론",
     "summary": "이 이론은 양자 이론의 관계적이고 실재론적인 완성을 제안하며, 우주가 근본적으로 각자의 인과적 과거로부터 얻을 수 있는 정보에 의해 정의되는 '사건들의 조망(views of events)'의 집합으로 구성된다고 주장한다 . 의식은 우주의 역사에서 전례가 없거나 유일한, 드물고 특정한 조망과 동일시된다 .",
-    "associated_thinkers": ["Lee Smolin"],
-    "category": "양자 이론",
+    "associated_thinkers": [
+      "Lee Smolin"
+    ],
+    "category": "양자",
     "subcategory": "관계적/인과적 양자 이론",
     "core_identity_tagline": "새롭거나 유일한 인과적 조망으로서의 의식",
     "classification_tags": [
@@ -50,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "인공지능 시스템의 계산 과정이 선택 기준을 충족하는 진정으로 새롭고 유일한 사건 조망을 산출한다면 의식을 획득할 수 있겠지만, 일상적인 계산 과정에서 이것이 보장되지는 않는다 ."
     },
     "survival_beyond_death": {
-      "stance": "아니다",
+      "stance": "No",
       "rationale": "의식은 우주 안의 물리적 사건과 그 인과적 조망에 결부되어 있다 . 근저의 물리적 기반(뇌/사건 계열)이 해체된 후에도 이러한 조망이 독립적으로 존속할 메커니즘은 기술되어 있지 않다."
     },
     "meaning_and_purpose": {
-      "stance": "미결정",
+      "stance": "Uncertain",
       "rationale": "이 이론은 의식의 근본적 물리적 존재론(감각질이 물리학에 어떻게 들어맞는가)에 초점을 두며, 우주적 의미나 목적론을 본질적으로 다루지 않는다 ."
     },
     "virtual_immortality": {
-      "stance": "아니다",
+      "stance": "No",
       "rationale": "디지털 복제는 '흔하고 일상적인' 조망을 재생산할 가능성이 크며, 그러한 조망은 의식적 지각과 상관하지 않는다고 명시적으로 가정된다. 진정한 가상 의식은 새로움의 산출을 요구하는데, 단순한 시뮬레이션을 통해서는 그럴 가능성이 낮아 보인다 ."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Rovelli's Relational Physics",
+        "name": "Rovelli's Relationship Physics",
         "relationship": "영향/중첩"
       },
       {
-        "name": "Panpsychism (Micropsychism)",
+        "name": "Panpsychism",
         "relationship": "제한/대조"
       },
       {
-        "name": "Bohm’s Implicate-Explicate Order",
+        "name": "Bohm's Implicate-Explicate Order",
         "relationship": "맥락적 영향"
       }
     ],

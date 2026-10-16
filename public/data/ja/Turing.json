@@ -1,0 +1,131 @@
+{
+  "id_and_class": {
+    "theory_title": "チューリングの模倣、機械の思考、そして隠された心",
+    "summary": "アラン・チューリングは、現象的意識についての理論を提示せず、その提示を退けた。むしろ彼は、機械が思考するかどうかは、経験の謎をまず解くことなく、他者の心を判断するのと同様に、その公的な振る舞いから判断できると論じた。彼の模倣ゲームと、計算を基体に依存しないものとして捉える見方は、機能主義と人工知能の基礎を準備した。",
+    "associated_thinkers": [
+      "Alan Turing"
+    ],
+    "category": "唯物論",
+    "subcategory": "計算論的",
+    "core_identity_tagline": "意識の問題を解かずに判断される機械の心",
+    "classification_tags": [
+      "turing test",
+      "imitation game",
+      "other minds",
+      "multiple realizability",
+      "machine intelligence"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "チューリングは意識を何ものとも同一視しない。彼はそれを真の謎として扱い、脇に置く。思考の帰属は、観察可能な能力の上に成り立ちうると考える。",
+    "ontological_status": "不可知論（方法論的）",
+    "mind_body_relationship": "未決のまま残されている。彼の1936年の万能機械は、計算が物理的媒体ではなく形式的な組織によって定まることを示す。これは後に多重実現可能性のために用いられた前提である。ただしチューリングは、計算を実行することが経験を生み出すと主張したことは一度もない。彼は、推測として、神が機械に魂を与えるかもしれないということさえ認めた。",
+    "primitive_or_emergent_status": "不明",
+    "emergence_type": "該当しない（チューリングは意識の形而上学を括弧に入れる）",
+    "subjectivity_and_intentionality": "主観性は私的なものであるため、他者の心についての確実性は、その心であることを要求するだろう。チューリングはこの要求を唯我論的な極端と呼び、代わりに「誰もが考えているという礼儀正しい慣習」を採用すべきだと言う。これは、十分に豊かな会話上の証拠を与える機械にも及ぶべきである。",
+    "qualia_account": "なし。チューリングは、機械学習を報酬と罰によって記述することは、機械が快楽や苦痛を感じていることを含意しないと述べる。したがって、機能的な学習と感じられた情動は区別されたままである。",
+    "ontological_commitments": "抽象的な計算機械、それを実装する物理系、そして内的な生が直接観察されない心。",
+    "epistemic_access": "三人称的かつ行動的である。機械の心性は、他の人間の心と同様に、持続的なテキストによる会話のような公的に評価可能な証拠から推論されなければならない。",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "知能と思考（行動的）。現象的意識は明示的に括弧に入れられている。",
+    "distinctive_mechanism_or_principle": "模倣ゲーム。遠隔にいる、テキストのみの質問者が、機械と人間を見分けようとする。チューリングは「機械は思考できるか」という問いを、このテストに置き換える。",
+    "dynamics_of_emergence": "チューリングは、知能は学習されうると提案した。「子どもの機械」、すなわち「組織されていない機械」の訓練可能なネットワークは、教育、報酬、罰、経験を通じて大人の能力を獲得し、その設計者を驚かせるかもしれない。",
+    "location_and_distribution": "チューリングは、意識を局在化しようとするいかなる試みにもパラドックスがあると指摘し、場所を提示しない。",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "思考は、チューリング機械の意味での規則に支配された記号操作として評価される。万能機械は、任意の計算可能な過程をエミュレートできる。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "計算は物理的媒体ではなく形式的組織に依存するため、脳ではないシステムも原理的には心に似た能力をもちうる。",
+      "ジェフリー・ジェファーソンの、機械は自分の思考を感じなければならないという要求を一貫して適用すると、われわれは他の人間が考えていることを知りえなくなるだろう。",
+      "意識は依然として謎めいているが、その謎は、機械が思考するかどうかを決める前に解かれている必要はない。",
+      "チューリングは、模倣ゲームに合格することが意識を保証するとは主張しなかった。"
+    ],
+    "basis_of_belief_or_evidence_type": "数学的（計算の理論）および哲学的（他の心との類比からの論証）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": "模倣ゲームそのもの。今日、大規模言語モデルはこの種の会話テストを日常的に通過しており、パトリック・バトリンらの研究者は、振る舞いだけでなく、意識の理論から導かれる構造的指標を探している。",
+    "criticisms_and_tensions": "ネッド・ブロックの、ルックアップテーブルである「ブロックヘッド」は、思考することなしにあらゆる有限の会話を通過する。したがって、振る舞いだけでは十分ではない。ジョン・サールの「中国語の部屋」は、プログラムを走らせることが理解や意識を生み出すわけではないと論じる。ルーカスとペンローズは、ゲーデルの結果から反機械論的な議論を引き出す。ハードプロブレムの理論家は、チューリングは意識を問題の外に定義することによってのみ、知能のためのテストを規定したと言う。",
+    "open_questions_and_limitations": "チューリングはクオリアについての説明を与えず、いかなる過程も何かとして感じられるべき理由を与えない。テストの読み方は争われている。行動主義的なものか、帰納的証拠なのか、あるいはダイアン・プラウドフットの見解、すなわちチューリングは知能を反応依存的なものとして扱ったのか、をめぐって論争がある。",
+    "ontological_coherence": "最小限であるため一貫している。チューリングは、意識は計算であると考えたからではなく、その可能化の前提のために、計算論的理論のなかに位置づけられる。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "チューリングは、機械であるというだけの理由で、機械を思考する存在から排除することはできないと論じたが、思考する機械が何かを感じるかどうかは未決のまま残した。"
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Putnam’s Machine Functionalism",
+        "relationship": "影響"
+      },
+      {
+        "name": "Searle's Biological Naturalism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Dennett’s Heterophenomenology",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Blums’ Conscious Turing Machine",
+        "relationship": "影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "On Computable Numbers, with an Application to the Entscheidungsproblem, Alan Turing",
+        "year": 1936
+      },
+      {
+        "title_with_names": "Intelligent Machinery, Alan Turing",
+        "year": 1948
+      },
+      {
+        "title_with_names": "Computing Machinery and Intelligence, Alan Turing",
+        "year": 1950
+      },
+      {
+        "title_with_names": "Intelligent Machinery, a Heretical Theory, Alan Turing",
+        "year": 1951
+      },
+      {
+        "title_with_names": "The Mind of Mechanical Man, Geoffrey Jefferson",
+        "year": 1949
+      },
+      {
+        "title_with_names": "Psychologism and Behaviorism, Ned Block",
+        "year": 1981
+      },
+      {
+        "title_with_names": "Minds, Brains, and Programs, John Searle",
+        "year": 1980
+      },
+      {
+        "title_with_names": "Rethinking Turing’s Test and the Philosophical Implications, Diane Proudfoot",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Identifying Indicators of Consciousness in AI Systems, Patrick Butlin, Robert Long, et al.",
+        "year": 2026
+      }
+    ]
+  }
+}

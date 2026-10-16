@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "분석적 관념론",
     "summary": "분석적 관념론은 현상적 의식이 근본적이며 실재의 유일한 원초 요소라고 주장하는 의식 일원의 존재론이다. 물리적 세계와 개별 마음을 포함한 자연의 그 밖의 모든 것은 공간적으로 한정되지 않는 이 우주적 의식의 여기 패턴 또는 그 표현에 근거한다.",
-    "associated_thinkers": ["Bernardo Kastrup"],
+    "associated_thinkers": [
+      "Bernardo Kastrup"
+    ],
     "category": "관념론",
     "subcategory": "존재론적 관념론",
     "core_identity_tagline": "궁극 실재이자 유일한 존재론적 원초 요소로서의 의식",
@@ -52,26 +54,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "Kastrup은 의식적 인공지능이 환상이라고 보며, 의식이 현행 컴퓨터가 수행하는 계산이나 정보 처리로 환원되지 않는다고 논증한다. 의식은 하드웨어의 기능이 아니라 근본적 현상 실재에 결부되어 있다."
     },
     "survival_beyond_death": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "육체적 죽음은 국소적 경계(해리된 인격)의 소멸을 초래하여, 의식적 내적 삶이 그 기저의 보편 의식으로 다시 확장되게 한다고 예측된다. 이는 임사체험(NDE) 보고에 의해 정황적으로 뒷받침된다."
     },
     "meaning_and_purpose": {
-      "stance": "우주적이며 궁극적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "의식이 궁극 실재이므로 존재는 근본적으로 마음/자각에 근거하며, 단일하고 근본적인 의식에 뿌리를 둔 의미와 목적을 본래적으로 제공한다."
     },
     "virtual_immortality": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식은 물리적 구조로 환원되는 알고리즘이나 소프트웨어 프로그램이 아니다. 따라서 신경 패턴의 업로드(모의된 연속)는 참된 주관적 경험을 결여한 기능적 복제물('딥페이크')만을 낳게 된다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Physicalism",
+        "name": "Materialism",
         "relationship": "비판"
       },
       {
@@ -87,7 +89,7 @@
         "relationship": "양립 가능/영향"
       },
       {
-        "name": "Jung’s Synchronicity and the Collective Unconscious",
+        "name": "Jung's Collective Unconscious and Synchronicity",
         "relationship": "양립 가능/영향"
       }
     ],

@@ -1,0 +1,140 @@
+{
+  "id_and_class": {
+    "theory_title": "Il funzionalismo analitico di Lewis e la teoria dell'identità del ruolo causale",
+    "summary": "Lewis definisce ogni esperienza in base al ruolo causale che la psicologia del senso comune le attribuisce (le sue cause tipiche, i suoi effetti e i legami con altri stati mentali), lasciando poi che la scienza scopra quale stato fisico, di solito uno stato neurale, ricopra tale ruolo. Il dolore è ciò che occupa il ruolo del dolore, dunque il dolore è quello stato neurale. I qualia sono reali, ma sono gli occupanti di ruoli funzionali, e sapere com'è un'esperienza è un insieme di abilità, non la conoscenza di un fatto non fisico.",
+    "associated_thinkers": [
+      "David Lewis"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Identità mente-cervello",
+    "core_identity_tagline": "Le esperienze come occupanti fisici di ruoli causali",
+    "classification_tags": [
+      "functionalism",
+      "identity theory",
+      "folk psychology",
+      "ability hypothesis",
+      "reductive physicalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Un'esperienza è lo stato fisico, tipicamente neurale, che occupa il ruolo causale che la psicologia del senso comune le assegna. Il dolore è lo stato tipicamente causato da un danno e tipicamente causa di avversione.",
+    "ontological_status": "Fisicalismo (riduzionista, funzionalismo dei realizzatori)",
+    "mind_body_relationship": "Identità psicofisica raggiunta per argomentazione. Se il dolore è per definizione l'occupante del ruolo R e lo stato neurale N occupa R, allora il dolore è N per transitività dell'identità. Le identità sono contingenti e relative a una popolazione, per cui il dolore umano e il dolore marziano possono essere stati fisici diversi.",
+    "primitive_or_emergent_status": "Nessuno dei due",
+    "emergence_type": "Non applicabile (le esperienze sono identiche ai loro realizzatori fisici, per cui non emerge nulla al di là di essi)",
+    "subjectivity_and_intentionality": "I termini mentali, intenzionali e fenomenici allo stesso modo, sono definiti congiuntamente dalla loro posizione nella rete causale della psicologia del senso comune. La familiarità soggettiva con un'esperienza consiste nelle capacità di ricordarla, immaginarla e riconoscerla.",
+    "qualia_account": "I qualia esistono come detentori imperfetti del nome: stati fisici abbastanza buoni da occupare il ruolo del senso comune. Lewis respinge la dottrina della rivelazione, cioè l'idea che avere un'esperienza ne riveli interamente la natura intrinseca, perché la natura di una proprietà fisica è affare delle neuroscienze.",
+    "ontological_commitments": "Stati ed eventi fisici, in particolare stati neurali, insieme alle relazioni causali tra stimoli, stati interni e comportamento. Nessuna qualità intrinseca non fisica.",
+    "epistemic_access": "L'analisi concettuale della psicologia del senso comune fissa i ruoli, e la scienza empirica trova i loro occupanti. L'introspezione dà accesso alle esperienze ma non ne rivela la natura.",
+    "constituents_and_structure": "Una rete di stati mentali definiti reciprocamente, specificata mediante la frase di Ramsey della psicologia del senso comune, ciascuno realizzato da uno stato fisico concreto all'interno di una data popolazione."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenica (ridimensionata, non eliminativa); sensazioni, credenze, desideri e i loro ruoli causali",
+    "distinctive_mechanism_or_principle": "Una riduzione in due passi. Anzitutto si definisce uno stato mentale come unico occupante di un ruolo causale, ramseyficando la psicologia del senso comune; poi si identifica empiricamente quell'occupante con uno stato fisico.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Negli stati fisici qualunque che riempiono i ruoli, tipicamente stati neurali negli esseri umani e possibilmente altro hardware in altre popolazioni.",
+    "causation_and_functional_role": "Le esperienze sono causalmente efficaci perché sono gli stati fisici che causano il comportamento e altri stati mentali. Il ruolo causale è ciò che rende uno stato l'esperienza che è.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Lewis nega che l'esperienza porti un'informazione non accessibile alla scienza fisica. Ciò che Mary acquisisce vedendo il rosso per la prima volta sono abilità, non nuova informazione proposizionale.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "La psicologia del senso comune funziona come una teoria implicita i cui termini mentali sono definiti congiuntamente dalla rete causale che essa postula.",
+      "L'identità del dolore con uno stato neurale segue per transitività, una volta che la scienza ha trovato l'occupante del ruolo del dolore.",
+      "In ‘Mad Pain and Martian Pain’, relativizzare i ruoli alle popolazioni permette sia a un pazzo con un dolore atipico sia a un marziano con un dolore idraulico di contare come provati di dolore.",
+      "L'ipotesi dell'abilità risponde all'argomento della conoscenza di Jackson trattando il sapere com'è un'esperienza come un saper fare, non come conoscenza di un fatto.",
+      "Lewis risponde ‘sì e no’ alla domanda se un materialista debba credere nei qualia, accettando stati fisici che meritano imperfettamente il nome."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofica (analisi concettuale, esperimenti mentali)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Verificabile concettualmente",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Conee e Alter sostengono che abilità e conoscenza fenomenica possano separarsi, sicché l'una può essere mantenuta senza l'altra, il che mina l'ipotesi dell'abilità. Dualisti e fisicalisti che accettano un vero divario epistemico contestano entrambe le riclassificazioni di Lewis: la conoscenza fenomenica come saper fare e l'accesso introspettivo come qualcosa di diverso dalla rivelazione.",
+    "open_questions_and_limitations": "Lewis non propone alcun meccanismo né un correlato neurale della coscienza. Gli esseri unici e i ‘marziani pazzi’ lasciano un'indeterminatezza semantica ai margini della tipizzazione relativa alla popolazione.",
+    "ontological_coherence": "Altamente sistematica all'interno del materialismo riduzionista, che unisce funzionalismo e identità mente-cervello. Dipende dal rifiuto dell'intuizione della rivelazione che alimenta gli argomenti dualisti."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Lewis ammette che lo stesso ruolo possa essere occupato da hardware diverso in popolazioni diverse, come nel caso del dolore marziano, per cui un sistema artificiale i cui stati occupano i giusti ruoli causali potrebbe avere esperienze."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Poiché ogni esperienza è uno stato fisico dell'organismo, ne segue dalla concezione che l'esperienza finisce quando quegli stati cessano."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "La concezione è un materialismo radicale, senza alcuno spazio per uno scopo cosmico nella spiegazione della mente."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "Una copia che realizza gli stessi ruoli potrebbe contare come dotata dello stesso tipo di stati, ma Lewis non affronta il caricamento della mente, e l'occupazione dei ruoli è relativa alle popolazioni."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Smart’s Topic-Neutral Identity",
+        "relationship": "Influenza"
+      },
+      {
+        "name": "Armstrong’s Causal-Role Central-State Materialism",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Putnam’s Machine Functionalism",
+        "relationship": "Contrasto"
+      },
+      {
+        "name": "Jackson's Representationalism and the Knowledge Argument",
+        "relationship": "Critica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "An Argument for the Identity Theory, David Lewis",
+        "year": 1966
+      },
+      {
+        "title_with_names": "How to Define Theoretical Terms, David Lewis",
+        "year": 1970
+      },
+      {
+        "title_with_names": "Psychophysical and Theoretical Identifications, David Lewis",
+        "year": 1972
+      },
+      {
+        "title_with_names": "Mad Pain and Martian Pain, David Lewis",
+        "year": 1980
+      },
+      {
+        "title_with_names": "What Experience Teaches, David Lewis",
+        "year": 1988
+      },
+      {
+        "title_with_names": "Reduction of Mind, David Lewis",
+        "year": 1994
+      },
+      {
+        "title_with_names": "Should a Materialist Believe in Qualia?, David Lewis",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Epiphenomenal Qualia, F. Jackson",
+        "year": 1982
+      },
+      {
+        "title_with_names": "Physicalism and the Cognitive Role of Acquaintance, L. Nemirow",
+        "year": 1990
+      },
+      {
+        "title_with_names": "Phenomenal Knowledge, E. Conee",
+        "year": 1994
+      },
+      {
+        "title_with_names": "Know-How, Ability, and the Ability Hypothesis, T. Alter",
+        "year": 2001
+      }
+    ]
+  }
+}

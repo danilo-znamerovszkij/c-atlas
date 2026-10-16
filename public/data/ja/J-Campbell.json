@@ -1,0 +1,105 @@
+{
+  "id_and_class": {
+    "theory_title": "J. キャンベルの注意に支えられた関係論",
+    "summary": "ジョン・キャンベルは、知覚された対象への意識的注意こそが、「あの木」や「この茶碗」と言うときのように、私たちがその対象を指示し、それについて思考することを可能にすると論じる。彼の関係論的見解では、経験は主体と対象の間の直接的な関係であり、その質的性格は内的な表象ではなく、知覚された場面そのものの性格である。",
+    "associated_thinkers": [
+      "John Campbell"
+    ],
+    "category": "唯物論",
+    "subcategory": "関係的",
+    "core_identity_tagline": "指示の基礎としての意識的注意",
+    "classification_tags": [
+      "naive realism",
+      "attention",
+      "reference",
+      "demonstratives",
+      "acquaintance"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "知覚的意識は、主体と環境内の対象との間の直接的な親知の関係であり、選択的な意識的注意によって思考に利用可能となるものである。",
+    "ontological_status": "素朴実在論（関係論的）",
+    "mind_body_relationship": "",
+    "primitive_or_emergent_status": "不明",
+    "emergence_type": "",
+    "subjectivity_and_intentionality": "思考は、意識的注意を通じて特定の対象をつかむ。「あの女性」のような指示詞がどの対象を指すのかを知ることは、因果的または記述的な結びつきによってではなく、その対象に意識的に注意を向けることによって構成される。",
+    "qualia_account": "経験の質的性格は、知覚された場面の質的性格によって構成される。性質は、私たちが関係している対象に属するのであって、内的な模型に属するのではない。",
+    "ontological_commitments": "知覚する主体、心から独立した対象と、それ自身の質的性格をもつ場面、そしてそれらの間の意識的注意の関係。",
+    "epistemic_access": "注意についての認知心理学と結合問題に裏付けられた、指示と指示的思考の哲学的分析。",
+    "constituents_and_structure": "三つの連関する概念：対象についての意識、それらへの選択的注意、そして思考と言語におけるそれらへの指示。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "知覚的（現象的）意識、注意、指示と指示的思考",
+    "distinctive_mechanism_or_principle": "意識的注意は、周囲から一つの対象を際立たせ、この注意の関係が、人の指示的思考が何を指しているのかについての知識を与える。",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "経験は、頭の内部に閉じた状態ではなく、環境内の対象へと手を伸ばす関係である。",
+    "causation_and_functional_role": "意識的注意は、特定の対象を指示し、それについて思考するために因果的に必要であり、したがって意識は思考と言語を直接形づくる。キャンベルはこれらの理由から随伴現象説を退ける。",
+    "integration_or_binding": "アン・トライズマンの特徴統合理論に従えば、空間的注意が一つの位置を選び、そこにある感覚的特徴が一つの知覚された対象へと統合される。",
+    "information_flow_or_representation": "キャンベルは、経験がその対象の表象や内的模型であることを否定する。指示は、記述的内容ではなく、関係的な気づきに基づく。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "知覚された対象を指示するには、それを周囲から区別して、意識的に注意を向けなければならない。",
+      "知覚的指示詞の指示対象についての知識は、対象についての直接的な意識的親知から生じる。これはバートランド・ラッセルの親知の概念を拡張したものである。",
+      "トライズマンの特徴統合理論のような、結合問題についての経験的研究は、注意がどのようにして指示のための対象を届けるのかを説明する。",
+      "対象についての意識は、対象について思考する私たちの能力を説明するため、意識は因果的に無力であることはありえない。"
+    ],
+    "basis_of_belief_or_evidence_type": "注意についての認知心理学に支えられた、指示の哲学的分析"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的には検証可能",
+    "known_empirical_interventions_or_tests": "キャンベルは、トライズマンの特徴統合理論と結びついた注意と特徴結合の研究に依拠している。",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "無意識的処理や意識をもたない心のように、意識的注意なしに対象への指示や対象についての思考が生じうるかどうかは、未解決のままである。",
+    "ontological_coherence": "心から独立した世界という実在論的な構図に適合する。ただしキャンベルは、経験の関係がどのように脳過程から生じるのかは説明していない。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Fish’s Naïve Realism",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Dretske’s Information and Representationalism",
+        "relationship": "対照"
+      },
+      {
+        "name": "Prinz's Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "重なり"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reference and Consciousness, John Campbell",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Past, Space, and Self, John Campbell"
+      },
+      {
+        "title_with_names": "J. Campbell’s Attention-Empowered Relationalism, Landscape of Consciousness, Robert Lawrence Kuhn"
+      }
+    ]
+  }
+}

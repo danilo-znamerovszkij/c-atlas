@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "サガードの神経表象・結合・整合性・競合",
     "summary": "この理論は、意識的経験を四つの経験的に妥当な脳の機構、すなわち神経表象、結合、整合性、競合の相互作用に帰する。意識はこれらの相互作用から脳全体にわたって創発すると主張し、夢、ユーモア、自己意識といった複雑な意識現象に科学的に基礎づけられた説明を与える。",
-    "associated_thinkers": ["Paul Thagard"],
+    "associated_thinkers": [
+      "Paul Thagard"
+    ],
     "category": "唯物論",
-    "subcategory": "表象的",
+    "subcategory": "高階",
     "core_identity_tagline": "「神経機構によって構築される意識」",
     "classification_tags": [
       "neuroscience",
@@ -52,34 +54,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "この理論は、現在のコンピュータは意識を持たないものの、新しい生成AIモデルは人間に類似した機構を備えており、とりわけ四つの核心的な脳の機構が計算論的にモデル化ないし複製されうるなら、ある程度の意識を可能にしうると示唆する。"
     },
     "survival_beyond_death": {
-      "stance": "いいえ",
+      "stance": "No",
       "rationale": "唯物論的理論として、意識は生物学的な脳に全面的に依存する。したがって脳の死は、人格と意識の永続的な非存在を帰結する。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "唯物論的理論として、一般に究極的な宇宙的意味や目的を排する物理主義的説明に従い、人間自身が作り出す意味と価値のみを認める。"
     },
     "virtual_immortality": {
-      "stance": "はい",
+      "stance": "Yes",
       "rationale": "もし唯物論的理論が意識を物理的機構（神経表象、結合、整合性、競合）を通じて全面的に説明するならば、一人称的な心的自己はアップロード可能であり、それらの物理的過程を複製しうる高度な技術を介して仮想的不死が達成可能である。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Representational Theories",
+        "name": "First-Order",
         "relationship": "拡張"
       },
       {
-        "name": "Higher-Order Theories",
+        "name": "Higher-Order",
         "relationship": "両立的"
       },
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "両立的"
       }
     ],

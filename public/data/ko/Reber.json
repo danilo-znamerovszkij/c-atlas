@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "의식의 세포적 기초(CBC)",
     "summary": "이 이론은 감응력이 생명 자체와 함께 출현했다고 보며, 의식은 세균 같은 단세포 종에도 이미 존재하는, 유기적 형태에 본유적인 원초적 특징이라고 주장한다 . 이는 마음의 기원에 관한 탐구를 복잡한 신경 구조에서 기초적 생체역학 구조로 전환한다 .",
-    "associated_thinkers": ["Arthur Reber"],
+    "associated_thinkers": [
+      "Arthur Reber"
+    ],
     "category": "유물론",
-    "subcategory": "계통발생적 진화",
+    "subcategory": "계통발생적",
     "core_identity_tagline": "유기적 형태에 본유적인 특징으로서의 의식",
     "classification_tags": [
       "biological reductionism",
@@ -50,26 +52,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "이 이론은 마음에 대한 계산주의적 견해를 명시적으로 거부하며, 의식이 생물학적 유기 형태에 대한 본질적 하드웨어 의존을 요구한다고 주장하므로 인공적 예화를 배제한다 ."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "유물론 이론으로서 의식은 오직 생물학적 뇌/신체의 산물이다. 죽음은 인격/마음의 돌이킬 수 없고 영구적인 비존재를 뜻한다 ."
     },
     "meaning_and_purpose": {
-      "stance": "인간주의적/생물학적",
+      "stance": "Humanistic only",
       "rationale": "의식은 주로 생존과 적응을 위해 기능한다 . 이 이론이 유물론으로 분류되는 이상, 궁극적인 우주적 의미나 목적은 함축되지 않는다 ."
     },
     "virtual_immortality": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "마음에 대한 계산주의적 설명의 명시적 거부 와 본질적으로 하드웨어 의존적인 생물학적 과정에 대한 의존 은 디지털 업로딩을 불가능하게 만든다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Feinberg and Mallatt’s Ancient Origins of Consciousness",
+        "name": "Feinberg and Mallatt's Ancient Origins of Consciousness",
         "relationship": "중첩(계통발생적 맥락을 공유)"
       },
       {
@@ -77,7 +79,7 @@
         "relationship": "비판(심적 상태가 본질적으로 하드웨어 의존적이라는 주장에 의해 약화됨) "
       },
       {
-        "name": "LeDoux’s Deep Roots of Consciousness",
+        "name": "LeDoux's Deep Roots of Consciousness",
         "relationship": "양립 가능(진화적 기원에 대한 초점을 공유) "
       }
     ],

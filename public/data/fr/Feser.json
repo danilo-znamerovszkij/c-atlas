@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Le dualisme néo-thomiste, néo-aristotélicien et de sens commun de Feser",
     "summary": "Cette théorie dualiste avance que l'intellect humain (les concepts abstraits et le raisonnement) est une faculté immatérielle qui ne peut être réduite à des processus matériels. Elle résout le « problème difficile » en préconisant un retour au réalisme aristotélicien de sens commun, où les qualités sensorielles (les qualia) sont des propriétés objectives du monde matériel externe, dissolvant ainsi le dilemme causé par la conception moderne, austère et quantitative de la matière.",
-    "associated_thinkers": ["Edward Feser"],
-    "category": "Dualismes",
-    "subcategory": "Dualisme néo-thomiste, néo-aristotélicien, de sens commun",
+    "associated_thinkers": [
+      "Edward Feser"
+    ],
+    "category": "Dualisme",
+    "subcategory": "Dualisme néothomiste, néo-aristotélicien et du sens commun",
     "core_identity_tagline": "La conscience via l'intellect immatériel et les qualités objectives",
     "classification_tags": [
       "dualism",
@@ -51,34 +53,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probablement non",
+      "stance": "Unlikely",
       "rationale": "Si l'intellect (requis pour la pensée déterminée et les concepts abstraits) est fondamentalement immatériel et irréductible aux processus matériels, alors une IA purement computationnelle/matérielle ne peut instancier la conscience humaine complète décrite par la théorie."
     },
     "survival_beyond_death": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "L'âme est définie comme une entité immatérielle et subsistante, capable d'exister et d'exercer une fonction cognitive par elle-même indépendamment du corps, bien que cela lui soit considéré comme non naturel."
     },
     "meaning_and_purpose": {
-      "stance": "Oui",
+      "stance": "Cosmic/Ultimate",
       "rationale": "La préservation d'un contenu déterminé dans la pensée, la logique et les universaux intellectuels, alliée à l'engagement ontologique envers l'âme, implique une conception non déflationniste du sens qui évite le nihilisme matérialiste."
     },
     "virtual_immortality": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "L'immortalité virtuelle repose sur le fonctionnalisme computationnel. Puisque Feser soutient que la conscience intellectuelle n'est pas réductible aux processus matériels, ni explicable par eux, le soi humain complet ne peut être téléchargé numériquement."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Stump’s Thomistic Dualism", "relationship": "Compatible" },
-      { "name": "Cartesian Dualism", "relationship": "Critique" },
       {
-        "name": "Eliminative Materialism/Illusionism",
+        "name": "Stump's Thomistic Dualism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Cartesian Dualism",
         "relationship": "Critique"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Critique" }
+      {
+        "name": "Eliminative/Illusionism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Critique"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Think, McFly, think, Edward Feser", "year": 2012 },
+      {
+        "title_with_names": "Think, McFly, think, Edward Feser",
+        "year": 2012
+      },
       {
         "title_with_names": "Aristotle, call your office, Edward Feser",
         "year": 2012

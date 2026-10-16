@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Goff의 범심론",
     "summary": "Goff는 의식이 물리 세계의 근본적이고 편재하는 특징이라고 논하며, 이를 유물론이 다루지 못하는 어려운 문제를 해결할 최선의 희망으로 자리매김한다. 그는 순전히 양적인 언어를 쓰는 물리과학이 경험의 질적 본성(질성)이나 주관적 측면을 설명할 수 없으며, 따라서 과학에 대한 우리의 근본적 이해를 바꿀 것이 요구된다고 주장한다(갈릴레오의 오류).",
-    "associated_thinkers": ["Philip Goff"],
+    "associated_thinkers": [
+      "Philip Goff"
+    ],
     "category": "범심론",
     "subcategory": "범심론",
     "core_identity_tagline": "실재의 근본적이고 편재하는 특징으로서의 의식",
@@ -42,28 +44,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "아마도 그렇다",
+      "stance": "Likely",
       "rationale": "의식이 물질/에너지의 내재적 속성이라면 AI 체계의 물리적 구성 요소도 원의식적 속성을 지닐 것이다. 완전한 AI 의식의 실현은 고도의 기술이 인공적 기반에서 결합 문제를 해결할 수 있는지에 달려 있다."
     },
     "survival_beyond_death": {
-      "stance": "가능성이 낮다(희박하다)",
+      "stance": "Unlikely",
       "rationale": "의식이 근본적이라 하더라도, 이 이론이 거시적 경험을 위해 특정한 조직 구조(뇌)에 의존하는 만큼 개별적이고 통일된 인격적 의식(거시 주체)의 존속은 어렵다. 성공 여부는 창발한 주체가 생물학적 기제 바깥에서도 지속되는지에 달려 있다."
     },
     "meaning_and_purpose": {
-      "stance": "우주적/궁극적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Goff의 행위자적/목적론적 우주심론은 우주 자체가 목표 지향적 의도를 지닌 의식적 마음임을 함의하며, 이는 궁극적이고 우주적인 의미와 목적을 시사한다."
     },
     "virtual_immortality": {
-      "stance": "아마도 그렇다",
+      "stance": "Likely",
       "rationale": "물리적 기반(디지털 하드웨어) 역시 근본적으로 의식적인 구성 요소(원의식)로 이루어져 있으므로, 의식적 조직이 (결합 문제를 해결하여) 새로운 매체에서 완벽히 복제될 수 있다면 가상적 불멸은 달성 가능하다. "
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Russellian Monism", "relationship": "확장" },
-      { "name": "Cosmopsychism", "relationship": "확장" },
-      { "name": "Integrated Information Theory", "relationship": "비판" },
-      { "name": "Materialism Theories", "relationship": "비판" }
+      {
+        "name": "Russellian Monism",
+        "relationship": "확장"
+      },
+      {
+        "name": "Cosmopsychism",
+        "relationship": "확장"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "비판"
+      },
+      {
+        "name": "Materialism",
+        "relationship": "비판"
+      }
     ],
     "sources_and_references": [
       {

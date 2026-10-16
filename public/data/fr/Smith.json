@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Le langage comme classificateur de la conscience selon Smith",
     "summary": "Cette théorie, classée dans le cadre du Matérialisme sous la rubrique des Relations avec le Langage, propose que le langage a pour fonction fondamentale de catégoriser, de structurer et d'articuler les contenus de l'expérience subjective. La conscience existe donc comme le contenu qui a été organisé et rendu accessible par ces structures linguistiques.",
-    "associated_thinkers": ["Barry Smith"],
-    "category": "Théories du Matérialisme",
-    "subcategory": "Relations avec le Langage",
+    "associated_thinkers": [
+      "Barry Smith"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Langage",
     "core_identity_tagline": "La conscience comme contenu classifié linguistiquement",
     "classification_tags": [
       "language",
@@ -49,26 +51,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si la conscience est le produit de mécanismes complexes de classification linguistique, des systèmes artificiels dotés de capacités de traitement langagier et symbolique suffisamment avancées devraient pouvoir l'instancier."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience est fondamentalement liée au substrat physique et biologique qui soutient le langage et la classification ; son extinction est définitive à la dissolution du cerveau."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "En tant que théorie matérialiste, elle soutient un sens et des valeurs créés par l'homme, issus de la complexité cognitive et de l'autoréflexion, mais nie toute téléologie cosmique ultime."
     },
     "virtual_immortality": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "Puisque la conscience est fonctionnellement réductible à un système de classification et de représentation de l'information, la duplication numérique parfaite ou le téléchargement de ce système sont possibles en principe."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "T. Clark’s Content Hypothesis",
+        "name": "T. Clark's Content Hypothesis",
         "relationship": "Compatible"
       },
       {
@@ -76,7 +78,7 @@
         "relationship": "Extension"
       },
       {
-        "name": "Chomsky’s Language and Consciousness",
+        "name": "Chomsky's Language and Consciousness",
         "relationship": "Lien/Contraste"
       }
     ],

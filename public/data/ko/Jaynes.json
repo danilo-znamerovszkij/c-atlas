@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "제인스의 양원적 마음의 붕괴 이론",
     "summary": "이 이론은 내성으로 정의되는 의식이 선천적이거나 근본적인 것이 아니라 언어와 문화에 뿌리를 둔 학습된 행동이라고 본다. 의식은 청각적 환청을 특징으로 하는 비의식적 심성인 양원적 마음이 사회적으로 붕괴한 뒤 기원전 2천년기 무렵에 역사적으로 출현하였다고 제안한다.",
-    "associated_thinkers": ["Julian Jaynes"],
-    "category": "유물론 이론",
-    "subcategory": "언어와의 관계",
+    "associated_thinkers": [
+      "Julian Jaynes"
+    ],
+    "category": "유물론",
+    "subcategory": "언어",
     "core_identity_tagline": "세계의 학습된 언어적·은유적 아날로그로서의 의식",
     "classification_tags": [
       "language",
@@ -51,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 근본적으로 언어와 정보 과정에 뿌리를 둔 학습된 아날로그/조작자라면, 대규모 언어 모델과 AI의 발전은 이러한 형태의 의식을 구현할 수 있을 법하다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "물리주의적이고 수축주의적인 이론으로서, 의식은 뇌의 물리적 기구와 그것이 뒷받침하는 언어 구조에 결부되어 있으므로 물리적 죽음 이후의 존속에 대한 근거를 남기지 않는다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한정",
+      "stance": "Humanistic only",
       "rationale": "의식은 생물학적·문화적 요청에서 비롯된 기능적이고 생존 지향적인 목적(의사결정의 개선)에 봉사하며, 어떠한 본래적 우주적 의미도 제공하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "마음이 (소프트웨어와 유사하게) 비생물학적 기질에 업로드되거나 복제될 수 있는 언어적·은유적 구조로 규정되므로, 이 모형에서 가상적 불멸은 개념적으로 성립 가능하다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Dennett’s Multiple Drafts Model",
+        "name": "Dennett's Multiple Drafts Model",
         "relationship": "양립 가능"
       },
       {

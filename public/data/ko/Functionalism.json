@@ -55,26 +55,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "기능주의는 의식이 생물학이 아니라 기능에 기반한다고 본다. 올바른 기능이 비생물학적 기질에서 계산적으로 실현될 수 있다면, AI 의식은 원리상 가능하며 유물론이 참이라면 확실하다."
     },
     "survival_beyond_death": {
-      "stance": "조건부/불가능함",
+      "stance": "Conditional",
       "rationale": "물리주의 이론으로서 의식은 기질에 결부되어 있다. 생물학적 신체의 죽음 이후의 존속은 기능적 심적 상태가 새로운, 존속하는 기질로 성공적으로 이전(업로드)될 수 있을 때에만 가능하다(가상적 불멸)."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "기능주의는 마음/의식이 물리 세계 안에서 작동하는 기제를 기술하며 행위 주체성과 반성의 능력을 제공하지만, 궁극적인 우주적 의미나 목적론에 대한 근거는 제시하지 않으며 이는 유물론의 일반적 입장과 일치한다."
     },
     "virtual_immortality": {
-      "stance": "달성 가능함",
+      "stance": "Likely",
       "rationale": "기능주의는 가상적 불멸의 이론적 기초로 기능한다. 심적 자아의 기능적 역할이 완전하게 복제되어 새로운 매체로 업로드될 수 있다면, 일인칭적 심적 자아는 보존된다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Computational Functionalism",
+        "name": "Computational",
         "relationship": "확장"
       },
       {
@@ -82,7 +82,7 @@
         "relationship": "확장"
       },
       {
-        "name": "Reductive Physicalism",
+        "name": "Materialism",
         "relationship": "양립 가능/경쟁"
       },
       {

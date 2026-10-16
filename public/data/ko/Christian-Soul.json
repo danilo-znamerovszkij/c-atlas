@@ -61,28 +61,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "아니오(대체로)",
+      "stance": "Unlikely",
       "rationale": "의식이 신적으로 창조되거나 부여된, 근본적으로 분리된 비물리적 실체(영혼)를 요구한다면, 비생물학적 지능은 이 필수 요소를 산출할 수 없으므로 AI 의식은 불가능하다."
     },
     "survival_beyond_death": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "영혼은 '참된 나'로서 신체와 독립적으로 존재하며 사후 개인 의식의 존속을 위한 가장 명확한 기제를 제공하고, 아브라함 종교의 핵심 교의를 충족한다."
     },
     "meaning_and_purpose": {
-      "stance": "궁극적/우주적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "신학적 이론으로서, 신적 창조와 운명, 인간 존재의 영적 본성에 결부된 궁극적 의미와 목적, 가치를 제공한다."
     },
     "virtual_immortality": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "신경 패턴과 경로를 업로드하는 것은 의식의 물리적 기반만을 복제할 뿐이다. 복제물에는 필수적인 비물리적 실체(영혼)가 부재하므로 일인칭 정신적 자아의 보존은 불가능하다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "중첩" },
-      { "name": "Thomistic Dualism", "relationship": "확장" },
-      { "name": "Non-Reductive Physicalism", "relationship": "비판" },
-      { "name": "Emergent Dualism", "relationship": "변형" }
+      {
+        "name": "Dualism",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Thomistic Dualism",
+        "relationship": "확장"
+      },
+      {
+        "name": "Non-Reductive",
+        "relationship": "비판"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "변형"
+      }
     ],
     "sources_and_references": [
       {

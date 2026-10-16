@@ -8,7 +8,7 @@
       "Eleonore Stump",
       "William Lane Craig"
     ],
-    "category": "Dualismi",
+    "category": "Dualismo",
     "subcategory": "Dualismo delle sostanze",
     "core_identity_tagline": "La coscienza come anima immateriale e sostanziale",
     "classification_tags": [
@@ -61,15 +61,15 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "No (per lo più)",
+      "stance": "Unlikely",
       "rationale": "Se la coscienza richiede una sostanza radicalmente separata e non fisica (l'anima) creata o assegnata divinamente, le intelligenze non biologiche non potrebbero generare questo componente necessario, rendendo impossibile la coscienza dell'IA."
     },
     "survival_beyond_death": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "L'anima è il «vero te», esistente indipendentemente dal corpo e fornisce il meccanismo più chiaro per la persistenza della coscienza individuale post mortem, adempiendo l'assunto centrale delle religioni abramitiche."
     },
     "meaning_and_purpose": {
-      "stance": "Ultimo/Cosmico",
+      "stance": "Cosmic/Ultimate",
       "rationale": "In quanto teoria teologica, fornisce significato, scopo e valore ultimi legati alla creazione divina, al destino e alla natura spirituale dell'esistenza umana."
     },
     "virtual_immortality": {
@@ -79,10 +79,22 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Sovrapposizione" },
-      { "name": "Thomistic Dualism", "relationship": "Estensione" },
-      { "name": "Non-Reductive Physicalism", "relationship": "Critica" },
-      { "name": "Emergent Dualism", "relationship": "Variazione" }
+      {
+        "name": "Dualism",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Thomistic Dualism",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Non-Reductive",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Variazione"
+      }
     ],
     "sources_and_references": [
       {

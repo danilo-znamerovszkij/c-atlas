@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "페저의 신토마스주의·신아리스토텔레스주의·상식 이원론",
     "summary": "이 이원론적 이론은 인간의 지성(추상적 개념과 추론)이 비물질적 능력이며 물질적 과정으로 환원될 수 없다고 상정한다. 이 이론은 감각적 성질(감각질)이 외부 물질 세계의 객관적 속성인 아리스토텔레스적 상식 실재론으로 돌아갈 것을 주장함으로써, 근대의 인색하고 양적인 물질 개념이 야기한 딜레마를 해소하고 '어려운 문제'를 푼다.",
-    "associated_thinkers": ["Edward Feser"],
+    "associated_thinkers": [
+      "Edward Feser"
+    ],
     "category": "이원론",
-    "subcategory": "신토마스주의·신아리스토텔레스주의·상식 이원론",
+    "subcategory": "신토마스주의·신아리스토텔레스주의·상식적 이원론",
     "core_identity_tagline": "비물질적 지성과 객관적 성질을 통한 의식",
     "classification_tags": [
       "dualism",
@@ -51,34 +53,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "아니오일 가능성 높음",
+      "stance": "Unlikely",
       "rationale": "(확정적 사고와 추상적 개념에 요구되는) 지성이 근본적으로 비물질적이고 물질적 과정으로 환원될 수 없다면, 순전히 계산적/물질적인 AI는 이 이론이 기술하는 완전한 인간 의식을 예화할 수 없다."
     },
     "survival_beyond_death": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "영혼은 비물질적이고 자립적인 존재자로 규정되며, 비록 그것이 영혼에게 부자연스러운 상태로 여겨지기는 하지만 신체와 별개로 존재하고 인지 기능을 수행할 수 있다."
     },
     "meaning_and_purpose": {
-      "stance": "예",
+      "stance": "Cosmic/Ultimate",
       "rationale": "사고, 논리, 지성적 보편자에서 확정적 내용이 보존된다는 점과 영혼에 대한 존재론적 개입이 결합하여, 유물론적 허무주의를 피하는 비축소적 의미관을 함축한다."
     },
     "virtual_immortality": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "가상적 불멸은 계산주의적 기능주의에 의존한다. 페저는 지성적 의식이 물질적 과정으로 환원되거나 그것에 의해 설명될 수 없다고 논하므로, 완전한 인간 자아는 디지털로 업로드될 수 없다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Stump’s Thomistic Dualism", "relationship": "양립 가능" },
-      { "name": "Cartesian Dualism", "relationship": "비판" },
       {
-        "name": "Eliminative Materialism/Illusionism",
+        "name": "Stump's Thomistic Dualism",
+        "relationship": "양립 가능"
+      },
+      {
+        "name": "Cartesian Dualism",
         "relationship": "비판"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "비판" }
+      {
+        "name": "Eliminative/Illusionism",
+        "relationship": "비판"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "비판"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Think, McFly, think, Edward Feser", "year": 2012 },
+      {
+        "title_with_names": "Think, McFly, think, Edward Feser",
+        "year": 2012
+      },
       {
         "title_with_names": "Aristotle, call your office, Edward Feser",
         "year": 2012

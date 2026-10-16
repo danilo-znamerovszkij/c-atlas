@@ -2,8 +2,12 @@
   "id_and_class": {
     "theory_title": "DOPS তাত্ত্বিক কাঠামো",
     "summary": "এই কাঠামো, যা NDE ও পুনর্জন্মের মতো প্রপঞ্চের অভিজ্ঞতামূলক গবেষণা দ্বারা সমর্থিত, চেতনার একটি সংক্রমণ বা পরিশোধক মডেলের পক্ষে সমর্থন করে, যেখানে মস্তিষ্ক চেতনার উৎপাদক নয় বরং একটি ইন্টারফেস হিসেবে কাজ করে। এটি পদ্ধতিগতভাবে প্রচলিত ভৌতবাদকে চ্যালেঞ্জ করে এই যুক্তি দিয়ে যে চেতনা জীব থেকে স্বাধীন এবং সম্ভবত বাস্তবতার মৌলিক ভিত্তি।",
-    "associated_thinkers": ["Ed Kelly", "Ian Stevenson", "Bruce Greyson"],
-    "category": "অস্বাভাবিক ও পরিবর্তিত অবস্থা",
+    "associated_thinkers": [
+      "Ed Kelly",
+      "Ian Stevenson",
+      "Bruce Greyson"
+    ],
+    "category": "অস্বাভাবিক",
     "subcategory": "ভৌতবাদ/বস্তুবাদের প্রতি গবেষণা-চালিত চ্যালেঞ্জ",
     "core_identity_tagline": "চেতনা পরিশোধিত সার্বজনীন অস্তিত্ব রূপে",
     "classification_tags": [
@@ -54,19 +58,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "দুর্বল সম্ভাবনা",
+      "stance": "Unlikely",
       "rationale": "এই কাঠামো নির্দেশ করে যে চেতনা সরলীকরণাতীত এবং মৌলিক, সার্বজনীন বাস্তবতার (ভাববাদ/সর্বেশ্বরবাদ-অন্তর্যামীবাদ) সাথে সংযুক্ত, যা ইঙ্গিত দেয় যে নিছক কৃত্রিম/গণনামূলক ব্যবস্থার তা ধারণ করার সম্ভাবনা কম, যার ফলে AGI চেতনার সম্ভাবনা দুর্বল।"
     },
     "survival_beyond_death": {
-      "stance": "সম্ভাব্য",
+      "stance": "Likely",
       "rationale": "এই তত্ত্ব অভিজ্ঞতামূলক প্রমাণ (NDE, পুনর্জন্ম মামলা) দ্বারা অনুপ্রাণিত, যা যুক্তি দেয় যে চেতনা শারীরিক মৃত্যুর পরেও টিকে থাকে, যার জন্য একটি অ-বস্তুগত উৎপাদন মডেল প্রয়োজন।"
     },
     "meaning_and_purpose": {
-      "stance": "মহাজাগতিক/পরম",
+      "stance": "Cosmic/Ultimate",
       "rationale": "ভাববাদ/সর্বেশ্বরবাদ-অন্তর্যামীবাদের দিকে মূল অধিবিদ্যাগত প্রবণতা নির্দেশ করে যে চেতনা একটি সর্বোচ্চ চেতনায় প্রতিষ্ঠিত, যা পরম অর্থ, উদ্দেশ্য, ও মূল্য প্রদান করে।"
     },
     "virtual_immortality": {
-      "stance": "না (প্রয়োজন নেই)",
+      "stance": "Not needed",
       "rationale": "যেহেতু চেতনা অ-ভৌত এবং সম্ভবত অবিচ্ছিন্ন/মৃত্যুর পরেও টিকে থাকে, প্রতিলিপিকরণ (ভার্চুয়াল অমরত্ব) সম্ভবত মূল প্রথম-পুরুষের স্বকে ধরতে ব্যর্থ হবে, বা যদি প্রকৃত অস্তিত্ব ঘটে তবে অপ্রাসঙ্গিক হবে।"
     }
   },
@@ -76,18 +80,36 @@
         "name": "Myers/James Transmission Model",
         "relationship": "ভিত্তি"
       },
-      { "name": "Idealism/Panentheism", "relationship": "সামঞ্জস্যপূর্ণ/প্রবণতা" },
+      {
+        "name": "Idealism/Panentheism",
+        "relationship": "সামঞ্জস্যপূর্ণ/প্রবণতা"
+      },
       {
         "name": "Interactive Dualism",
         "relationship": "বিকল্প ধারণাগত কাঠামো"
       },
-      { "name": "Materialism Theories (General)", "relationship": "সমালোচনা" }
+      {
+        "name": "Materialism",
+        "relationship": "সমালোচনা"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Irreducible Mind", "year": 2007 },
-      { "title_with_names": "Beyond Physicalism", "year": 2015 },
-      { "title_with_names": "Consciousness Unbound", "year": 2021 },
-      { "title_with_names": "The Continuity of Consciousness", "year": 2022 }
+      {
+        "title_with_names": "Irreducible Mind",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Beyond Physicalism",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Consciousness Unbound",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Continuity of Consciousness",
+        "year": 2022
+      }
     ]
   }
 }

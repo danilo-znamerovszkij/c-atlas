@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "La Fusión de Mentes de Hirstein",
     "summary": "William Hirstein sostiene que el principal obstáculo que impide una explicación física directa de la mente consciente es la infundada 'suposición de privacidad'. Al eliminar este supuesto metafísico —la idea de que una persona nunca puede experimentar los estados conscientes de otra— se socava la motivación para crear dualismos, panpsiquismos y teorías que afirman la insolubilidad del problema.",
-    "associated_thinkers": ["William Hirstein"],
+    "associated_thinkers": [
+      "William Hirstein"
+    ],
     "category": "Materialismo",
     "subcategory": "Neurobiológico",
     "core_identity_tagline": "La conciencia explicada al rechazar la privacidad metafísica",
@@ -49,7 +51,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Dado que la teoría busca una explicación 'directamente física' de la conciencia y se clasifica como Materialismo, no existe una prohibición de principio para crear una IA consciente."
     },
     "survival_beyond_death": {
@@ -57,22 +59,34 @@
       "rationale": "La teoría es un modelo Materialista que pretende derrotar los dualismos. El materialismo sostiene que la conciencia es únicamente producto del cerebro biológico, lo que implica que cesa con la muerte biológica."
     },
     "meaning_and_purpose": {
-      "stance": "Solo humanístico",
+      "stance": "Humanistic only",
       "rationale": "Las Teorías Materialistas generalmente afirman que, si bien los seres humanos pueden crear sentido y valor para sí mismos, no existe un sentido o propósito cósmico último."
     },
     "virtual_immortality": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "Si la conciencia es totalmente explicable en términos físicos (como argumenta Hirstein), entonces cargar los patrones y vías neuronales completos de una persona debería, en principio, preservar el yo mental en primera persona."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Crítica" },
-      { "name": "Panpsychisms", "relationship": "Crítica" },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Compatible" }
+      {
+        "name": "Dualism",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Compatible"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Hirstein’s mindmelding", "year": "" },
+      {
+        "title_with_names": "Hirstein’s mindmelding",
+        "year": ""
+      },
       {
         "title_with_names": "Mindmelding: Consciousness, Neuroscience, and the Mind’s Privacy, William Hirstein",
         "year": 2012

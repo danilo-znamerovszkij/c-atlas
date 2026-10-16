@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Théorie des critiques",
     "summary": "Cette entrée représente la fonction sceptique essentielle et omniprésente au sein des études sur la conscience, remettant systématiquement en question la cohérence explicative, la validité empirique et les hypothèses métaphysiques de toutes les théories proposées de la conscience. Elle met en évidence des tensions conceptuelles persistantes, telles que le fossé explicatif et l'énigme corrélation-causation, forçant les théories à défendre leur cohérence interne et leur ancrage empirique.",
-    "associated_thinkers": ["Robert Lawrence Kuhn"],
-    "category": "Théories de contestation",
-    "subcategory": "Critique/scepticisme",
+    "associated_thinkers": [
+      "Robert Lawrence Kuhn"
+    ],
+    "category": "Info intégrée",
+    "subcategory": "",
     "core_identity_tagline": "La fonction sceptique essentielle",
     "classification_tags": [
       "critique",
@@ -54,26 +56,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Conditionnel",
+      "stance": "Conditional",
       "rationale": "La critique met en évidence la difficulté de vérifier la véritable conscience intérieure chez l'IA, soulignant que la complexité calculée pourrait ne mener qu'à une conscience *apparente* (le défi de la simulation), rendant certaines affirmations peu fiables."
     },
     "survival_beyond_death": {
-      "stance": "Incertain",
+      "stance": "Uncertain",
       "rationale": "La critique reconnaît que si des phénomènes hautement anormaux (comme des expériences de mort imminente vérifiables) étaient confirmés empiriquement, ils falsifieraient instantanément les modèles de production matérialistes, déplaçant le soutien théorique vers des hypothèses de survie non physique."
     },
     "meaning_and_purpose": {
-      "stance": "Diagnostique une absence de sens ultime",
+      "stance": "Humanistic only",
       "rationale": "Les critiques remettent fréquemment en question les explications matérialistes et réductionnistes pour leur échec à rationaliser un sens ou une valeur ultime, ne laissant qu'une autocréation humaniste du but."
     },
     "virtual_immortality": {
-      "stance": "Conditionnel",
+      "stance": "Conditional",
       "rationale": "La critique soutient que sans résoudre l'énigme métaphysique de ce qu'*est* la conscience (par ex., démontrer que le téléversement préserve parfaitement le soi à la première personne), l'immortalité virtuelle demeure conceptuellement problématique et non vérifiée."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mysterianism (McGinn's Ultimate Mystery)",
+        "name": "Challenge",
         "relationship": "Chevauchement"
       },
       {
@@ -85,7 +87,7 @@
         "relationship": "Critique"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "Influence"
       }
     ],

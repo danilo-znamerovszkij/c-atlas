@@ -8,8 +8,8 @@
       "Michael Tye",
       "Dirk Franken"
     ],
-    "category": "유물론 이론",
-    "subcategory": "표상 이론",
+    "category": "유물론",
+    "subcategory": "일차",
     "core_identity_tagline": "‘투명한 표상으로서의 의식’",
     "classification_tags": [
       "representationalism",
@@ -55,26 +55,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "유물론 이론들에 대한 철학적 옹호로서, 의식이 계산적이거나 표상적이라는 견해를 지지하며, 이는 AI 의식이 원리적으로 전적으로 가능함을 뜻한다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "의식은 물리적 뇌에서 파생된 표상 상태에 근거한다. 유물론적 패러다임에 따라 뇌의 파괴는 그 사람의 영구적 비존재를 뜻한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한정",
+      "stance": "Humanistic only",
       "rationale": "이 이론은 유물론을 강화하는 기능을 하며, 유물론은 일반적으로 인간이 만들어낸 의미와 목적, 가치만을 지지한다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "의식이 전적으로 표상적 내용으로 설명된다면, 이 정보는 이론적으로 복제되어 비생물학적 기질에 업로드될 수 있으며, 이로써 가상적 불멸이 달성 가능해진다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Representational Theories",
+        "name": "First-Order",
         "relationship": "토대"
       },
       {
@@ -82,7 +82,7 @@
         "relationship": "유사/등가"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "옹호/지지"
       },
       {

@@ -1,0 +1,95 @@
+{
+  "id_and_class": {
+    "theory_title": "어바인의 과학적 제거주의",
+    "summary": "엘리자베스 어바인은 의식이 단일한 자연종일 가능성이 낮으므로, 과학은 이 용어를 버리는 편이 더 나을 수 있다고 주장한다. 그녀는 의식을 느슨하게 관련된 능력들의 군집으로 다루며, 연구자들이 형이상학적 정의와 내성 보고를 조작적 측정치와 그 측정치가 뇌에서 추적하는 것으로 대체해야 한다고 촉구한다.",
+    "associated_thinkers": [
+      "Elizabeth Irvine"
+    ],
+    "category": "유물론",
+    "subcategory": "제거주의/환상주의",
+    "core_identity_tagline": "과학적으로 없어도 되는 군집 개념으로서의 의식",
+    "classification_tags": [
+      "eliminativism",
+      "natural kinds",
+      "methodology",
+      "introspection",
+      "cognitive science"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "‘의식’은 공유된 본질을 지닌 하나의 현상이 아니라, ‘게임’이나 ‘감정’과 같이 겹치는 능력들의 군집을 가리킨다. 따라서 어바인은 의식이 과학적 종으로서 존재하지 않을 수 있으며, 의식에 대한 언급은 과학에서 제거될 수 있다고 본다.",
+    "ontological_status": "제거주의(과학적)",
+    "mind_body_relationship": "어바인은 형이상학적 심신 문제를 방법론적 자연주의를 위해 제쳐 둔다. 그녀가 인정하는 의식 관련 능력들은 인지적이고 신경적인 현상으로서 연구된다.",
+    "primitive_or_emergent_status": "어느 쪽도 아님",
+    "emergence_type": "해당 없음(어바인은 원초적이거나 창발적이라고 할 만한, 의식이라 불리는 단일한 것이 존재하는지 의심한다)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "어바인은 감각질이나 현상적 성격을 통해 의식을 정의하는 것에 회의적이며, 그것을 과학적으로 거의 쓸모없는 형이상학적 사변으로 본다.",
+    "ontological_commitments": "측정하고 조작할 수 있는 인지 능력, 행동, 뇌 과정.",
+    "epistemic_access": "행동적·신경과학적 측정을 통해서이다. 어바인은 내성 보고가 일관되지 않고 비의식적 요인에 의해 형성되므로 금 표준으로 취급해서는 안 된다고 본다.",
+    "constituents_and_structure": "겹치지만 서로 구별되는 여러 의식 관련 능력들이며, 이를 통합하는 본질은 없다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "의식 관련 인지 능력; 과학적 연구 대상으로서 거부된 현상적 의식",
+    "distinctive_mechanism_or_principle": "의식 개념을 측정 가능한 것에 근거한 조작적 정의로 대체한 다음, 그 측정치가 무엇을 추적하는지 연구한다.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "어바인은 증거가 의식에 대한 깔끔하고 통일된 설명을 가능성이 낮게 만든다고 주장한다.",
+      "의식은 그 사례들이 단일한 정의적 특징을 공유하지 않는 군집 개념처럼 작동한다.",
+      "내성 보고는 신뢰할 수 없으며, 의식 과학의 닻이 되어서는 안 된다.",
+      "연구는 단일한 본질을 가정하지 않고 다원적으로 진행되어야 한다."
+    ],
+    "basis_of_belief_or_evidence_type": "과학철학. 인지과학과 심리학의 방법과 발견에 기대고 있다."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "개념적으로 검증 가능",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "어바인 자신도 제거주의를 진지한 옹호가 필요한 강한 입장이라고 부른다. 경험의 실재론자들은 느껴지는 경험의 사실이 과학이 자연종을 발견하는지 여부에 달려 있지 않다고 응수할 것이다.",
+    "open_questions_and_limitations": "어떤 능력이 군집에 속하는지, 그리고 개정된 어휘가 실제로 ‘의식’을 대체할 수 있는지는 여전히 열린 문제이다.",
+    "ontological_coherence": "방법론적 자연주의와 일관된다. 이것은 완전한 형이상학이라기보다 과학적 개념에 관한 테제에 가깝다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Churchland’s Eliminative Materialism",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Schwitzgebel's Unreliable Introspection, Indeterminate Boundaries, Metaphysical Humility",
+        "relationship": "양립 가능"
+      },
+      {
+        "name": "Dennett’s Heterophenomenology",
+        "relationship": "양립 가능"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Irvine’s Scientific Eliminativism (Landscape of Consciousness), Elizabeth Irvine",
+        "year": 2012
+      }
+    ]
+  }
+}

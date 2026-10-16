@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "범원심론",
     "summary": "범원심론은 근본적 물리적 존재자가 그 자체로는 의식적이지 않으나 '원형현상적'인 속성을 지닌다고 보는 범심론의 한 변형이다. 이러한 원형현상적 속성은 (뇌와 같은) 복잡한 구조 안에서 결합하여 창발적 현상 의식을 산출해야 한다.",
-    "associated_thinkers": ["David Chalmers", "Philip Goff"],
+    "associated_thinkers": [
+      "David Chalmers",
+      "Philip Goff"
+    ],
     "category": "범심론",
     "subcategory": "범원심론",
     "core_identity_tagline": "결합하여 의식을 산출하는 원형현상적 속성",
@@ -51,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "아마도",
+      "stance": "Likely",
       "rationale": "의식이 근본적 속성의 결합 메커니즘에서 비롯된다면, 그러한 속성을 지닌 물리적 재료로 만들어진 인공 시스템도 필요한 결합 구조를 공학적으로 구현할 수 있는 한 의식을 가질 수 있다."
     },
     "survival_beyond_death": {
-      "stance": "가능성 낮음 (희박함)",
+      "stance": "Unlikely",
       "rationale": "현상 의식은 창발적 복잡 구조(예: 뇌)에 결부되어 있다. 죽음과 함께 이 구조가 해체되면 복잡한 의식은 사라지고 지속되는 비의식적 원형현상적 기반만 남는다."
     },
     "meaning_and_purpose": {
-      "stance": "가능함",
+      "stance": "Uncertain",
       "rationale": "범심론의 한 갈래로서 실재에 근본적인 심적 측면을 상정하므로, 엄격한 유물론적 설명을 넘어선 우주적 의미나 가치의 가능성을 시사한다."
     },
     "virtual_immortality": {
-      "stance": "아마도",
+      "stance": "Likely",
       "rationale": "편재하는 원형현상적 속성이 현상적 자아로 결합되는 규칙이 이해되고 비생물학적 기반에서 완전히 복제될 수 있다면 가상 불멸은 달성 가능할 것이다."
     }
   },

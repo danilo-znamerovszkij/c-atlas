@@ -2,11 +2,18 @@
   "id_and_class": {
     "theory_title": "Ramachandran의 새로운 물리학과 신경과학",
     "summary": "이 관점은 현재의 신경과학이나 물리학이 삼인칭 기술만을 제공하여 주관적 경험(감각질)을 배제하므로 의식의 문제를 해결할 수 없다고 주장한다. 이 관점은 의식을 실재의 한 구성 요소로 근본적으로 포함하고 그것이 물리 법칙과 어떻게 얽히는지를 탐구하는, 물리학과 신경과학의 새로운 혼성 분과를 요청한다.",
-    "associated_thinkers": ["V.S. Ramachandran"],
+    "associated_thinkers": [
+      "V.S. Ramachandran"
+    ],
     "category": "일원론",
     "subcategory": "물리학-의식 통합",
     "core_identity_tagline": "새로운 물리 법칙과 얽힌 의식",
-    "classification_tags": ["monism", "physics", "neuroscience", "qualia"]
+    "classification_tags": [
+      "monism",
+      "physics",
+      "neuroscience",
+      "qualia"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "의식은 새로운 혼성 분과를 통해 물리 법칙 및 신경과학과 통합되어야 할, 실재의 근본적인 부분으로 규정된다.",
@@ -45,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "불확실/조건부",
+      "stance": "Uncertain",
       "rationale": "장차의 '새로운 물리학' 틀이 이러한 근본 법칙을 표현할 수 있는 비생물학적 체계에서도 일인칭 관점이 구현될 수 있음을 밝힌다면 인공지능의 의식은 가능하며, 그렇지 않다면 불가능할 것이다."
     },
     "survival_beyond_death": {
-      "stance": "불확실/조건부",
+      "stance": "Uncertain",
       "rationale": "이 틀은 의식을 다루는 베다 문헌을 참조하며 사후 존재를 함축할 수 있으나, '새로운 물리학과 신경과학'의 과학적 정립에 초점을 두므로 생물학적 사후 존속의 문제는 발견될 법칙의 근본 성격에 따라 조건부로 남는다."
     },
     "meaning_and_purpose": {
-      "stance": "규정되지 않음",
+      "stance": "Uncertain",
       "rationale": "이 이론은 주관성을 물리적 실재에 통합함으로써 존재론적·인식론적 완전성을 달성하는 데 초점을 두며, 그 자체로 우주적 의미나 목적을 부여하지는 않는다."
     },
     "virtual_immortality": {
-      "stance": "불확실/조건부",
+      "stance": "Uncertain",
       "rationale": "가상 불멸은 의식이 실재와 '얽히는' 구체적 방식이 진보된 기술에 의해 시뮬레이션된 기질에서 온전히 재현되고 조작될 수 있는지에 전적으로 달려 있다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Monisms",
+        "name": "Neutral Monism",
         "relationship": "범주"
       },
       {
-        "name": "Dualisms",
+        "name": "Dualism",
         "relationship": "비판"
       },
       {
-        "name": "Quantum Theories",
+        "name": "Quantum & Dimensions",
         "relationship": "잠재적 확장/양립 가능성"
       }
     ],

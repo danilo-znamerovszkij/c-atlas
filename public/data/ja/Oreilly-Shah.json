@@ -1,0 +1,140 @@
+{
+  "id_and_class": {
+    "theory_title": "O'Reilly-Shahの状態空間理論と計算論的動的一元論",
+    "summary": "O'Reilly-Shahは、現象的意識を可塑性のある再帰型ニューラルネットワークにおける階層的遅延座標埋め込みとして提案する。再帰的フィードバックにより、脳は環境の動的履歴を再構成でき、階層の頂点では自らの埋め込み活動も再構成できる。彼の形而上学である計算論的動的一元論は、意識をこの時間的に拡張されたプロセスそのものと同一視する。彼は、この同一性によってハードプロブレムは解消されると論じる。残る隔たりは、プロセスを記述することと、そのプロセスであることとの差にすぎないからである。",
+    "associated_thinkers": [
+      "Vikas N. O'Reilly-Shah"
+    ],
+    "category": "唯物論",
+    "subcategory": "計算論的",
+    "core_identity_tagline": "可塑的ネットワークにおける自己参照的な動的埋め込みとしての意識",
+    "classification_tags": [
+      "delay coordinate embedding",
+      "recurrent networks",
+      "process monism",
+      "plasticity",
+      "quality spaces"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "現象的経験は、可塑性のある再帰型ニューラルネットワークによって遂行される、階層的で自己参照的な遅延座標埋め込みと同一である。それは静的な神経状態、機能的役割、物質の内在的性質ではなく、時間的に拡張された計算プロセスである。",
+    "ontological_status": "物理主義（プロセス一元論、計算論的）",
+    "mind_body_relationship": "経験と物理プロセスとの同一性であり、そのモデルは稲妻と大気中の放電の関係である。単一の存在論的範疇である物理プロセスが、科学的記述と、システムが利用可能な主観的性格の双方を支える。",
+    "primitive_or_emergent_status": "どちらでもない",
+    "emergence_type": "該当しない（O'Reilly-Shahは、意識はプロセスによって生み出されるのでも、プロセスから創発するのでもなく、プロセスと同一であると考える）",
+    "subjectivity_and_intentionality": "階層の頂点において、システムは自らの埋め込み活動を埋め込む。すなわち世界をモデル化している自己をモデル化する。この自己モデル化が、主観性として経験される内的視点である。",
+    "qualia_account": "クオリアが私的なのは、あるプロセスを実現することと、それを記述することが、同一のものに対する異なる認識的関係だからである。その構造は埋め込みの幾何学に由来し、この幾何学は、ネットワークが追跡する対象の関係的組織を写す質空間を形成する。",
+    "ontological_commitments": "可塑的な再帰型ニューラルネットワーク、フィードバックによって生じる時間遅延、再構成された状態空間、およびそれらを構成する物理プロセス。",
+    "epistemic_access": "力学系の数学、再帰型およびリザーバーネットワークの解析、神経記録、そしてメタマーや範疇的知覚といった知覚現象を通じて。",
+    "constituents_and_structure": "『DCEエンジン』の階層。下位のネットワークは感覚の動態を埋め込み、上位のネットワークは下位ネットワークの動態を埋め込み、最上位はシステム自身の埋め込みを埋め込む。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（質空間の構造）、主観性と自己モデル化、時間的に厚みのある経験",
+    "distinctive_mechanism_or_principle": "遅延座標埋め込み。タケンスの埋め込み定理に基づき、信号の時間遅延された複製が、その信号を生み出したシステムの状態空間全体を再構成する。再帰的フィードバックが遅延を供給する。",
+    "dynamics_of_emergence": "意識は時間を通じた軌道である。可塑性はネットワークを絶えず再形成するため、システムは状態空間だけでなく関数空間においても移動し、ある時点での計算は別の時点での計算と異なる。",
+    "location_and_distribution": "生物学的な大脳皮質。階層的に配置された可塑的な再帰型ネットワークにおいて。",
+    "causation_and_functional_role": "埋め込みによって、システムは環境および自己の動的履歴を追跡できる。その追跡は環境入力との継続的な相互作用によって導かれる。",
+    "integration_or_binding": "上位の階層は、下位の階層の動態を埋め込むことによって下位を統合し、入れ子状の、より抽象的な再構成を生み出す。",
+    "information_flow_or_representation": "動的に類似した刺激、すなわち類似した未来へ導く刺激は、状態空間において互いに近くに表象される。この幾何学は、予測が乏しい箇所では圧縮し、区別のつかない帰結をもつ異なる入力を一つにまとめ、予測が最もよく効く箇所では鮮明になる。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Hartと共同研究者は、構造化された入力によって駆動される収縮的な再帰型ネットワークが、一般化同期を通じて入力の動態を埋め込むことを証明した。",
+      "UribarriとMindlin、およびOstrow、Eisen、Fieteは、訓練された再帰型ネットワークおよびニューラル系列モデルにおいて、時間遅延埋め込みの幾何学的特徴を見出した。",
+      "コウモリやげっ歯類は三次元空間を位相的なトーラス上で表象する。これは、知覚が規則的な環境動態を低次元のアトラクターへ写す例である。",
+      "O'Reilly-Shah、Selvitella、Schurgerは、無限の時間にわたって静的なフィードフォワード・ネットワークが可塑的な再帰型ネットワークと等価であり続けることはできないと論じ、これは展開論法を弱める。",
+      "本理論は、メタマー、範疇的知覚、弁別閾が、有限の予測資源のもとで作動する位相保存的埋め込みを反映すると予測する。"
+    ],
+    "basis_of_belief_or_evidence_type": "数学的・計算論的（力学系理論、ネットワーク解析）。これを神経科学と精神物理学が補強する"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": "訓練された再帰型ネットワークにおける埋め込みの幾何学の解析。コウモリとげっ歯類におけるトーラス状の空間符号の神経集団記録。メタマー、範疇的知覚、弁別閾についての知覚検査。",
+    "criticisms_and_tensions": "Doerigらによる展開論法（unfolding argument）と、その計算完全性への一般化をHerzogらが行ったものは、任意の計算可能関数は異なる因果構造をもつシステムで再実装できると主張する。O'Reilly-Shahは、これが入出力関数については成り立つことを認めるが、可塑性と環境との結合を無期限に一致させなければならない場合には、その力が失われると論じる。",
+    "open_questions_and_limitations": "皮質が実際にこの種の階層的な自己参照的埋め込みを実現しているかどうかは、収束しているが間接的な証拠に支えられた仮説のままである。同一性によってハードプロブレムが解消されるという主張は哲学的立場であり、反物理主義者はこれを退ける。",
+    "ontological_coherence": "物理主義的プロセス一元論の内部では整合的である。多重実現可能性は狭い意味で扱われ、同じプロセス組織が異なる基体にまたがることは許すが、同じ入出力の振る舞いをもつ異なるプロセスは認めない。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "同じ可塑的で過程的な軌道をもつシステムは意識をもつだろう。ただしO'Reilly-Shahは、予測不能な入力と混沌的な鋭敏性を考えると、厳密な等価性は極めて起こりにくいと考えており、静的なフィードフォワード・システムはこの条件を満たさない。"
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "意識は再帰型ネットワークにおける進行中の物理プロセスと同一であるため、そのプロセスが終わるときに意識も終わるという見解に従う。"
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "複製が原本の可塑性、環境との結合、軌道を無期限に一致させる必要があるが、O'Reilly-Shahはこれを実際上達成不可能と見なしている。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Markwell’s Process Identity Theory",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "対照"
+      },
+      {
+        "name": "Qualia Space",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "両立可能"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Delay Coordinate Embedding as Neuronally Implemented Information Processing: The State Space Theory of Consciousness, Vikas N. O’Reilly-Shah",
+        "year": 2025
+      },
+      {
+        "title_with_names": "A Caveat Regarding the Unfolding Argument: Implications of Plasticity for Computational Theories of Consciousness, V. N. O’Reilly-Shah, A. Selvitella, and A. Schurger",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Computational Dynamic Monism: Process Metaphysics for the State Space Theory of Consciousness, Vikas N. O’Reilly-Shah",
+        "year": 2026
+      },
+      {
+        "title_with_names": "State Space Theory as a Unifying Framework for Consciousness, Vikas N. O’Reilly-Shah",
+        "year": 2026
+      },
+      {
+        "title_with_names": "Smooth Embeddings in Contracting Recurrent Networks Driven by Regular Dynamics: A Synthesis for Neural Representation, V. N. O’Reilly-Shah and A. M. Selvitella",
+        "year": 2026
+      },
+      {
+        "title_with_names": "Detecting Strange Attractors in Turbulence, F. Takens",
+        "year": 1981
+      },
+      {
+        "title_with_names": "Embedding and Approximation Theorems for Echo State Networks, A. Hart, J. Hook, and J. Dawes",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Dynamical Time Series Embeddings in Recurrent Neural Networks, G. Uribarri and G. B. Mindlin",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Delay Embedding Theory of Neural Sequence Models, M. Ostrow, A. Eisen, and I. Fiete",
+        "year": 2024
+      },
+      {
+        "title_with_names": "The Unfolding Argument: Why IIT and Other Causal Structure Theories Cannot Explain Consciousness, A. Doerig, A. Schurger, A. Hess, and M. H. Herzog",
+        "year": 2019
+      },
+      {
+        "title_with_names": "The Multiple Realization Book, T. W. Polger and L. A. Shapiro",
+        "year": 2016
+      }
+    ]
+  }
+}

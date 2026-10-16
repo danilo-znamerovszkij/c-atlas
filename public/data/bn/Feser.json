@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Feser-এর নব্য-টমাসীয়, নব্য-অ্যারিস্টটলীয়, সাধারণ-বুদ্ধিসম্পন্ন দ্বৈতবাদ",
     "summary": "এই দ্বৈতবাদী তত্ত্ব অনুসারে মানুষের বুদ্ধি (বিমূর্ত ধারণা এবং যুক্তিবিন্যাস) একটি অভৌতিক সামর্থ্য এবং তা ভৌত প্রক্রিয়ায় নিরসিত করা যায় না। এটি অ্যারিস্টটলীয় সাধারণ-বুদ্ধিসম্পন্ন বাস্তববাদে প্রত্যাবর্তনের পক্ষে সওয়াল করে 'কঠিন সমস্যা'র সমাধান করে, যেখানে ইন্দ্রিয়গত গুণ (কোয়ালিয়া) বাহ্যিক ভৌত জগতের বস্তুনিষ্ঠ গুণ, এবং এর ফলে বস্তুর আধুনিক কঠোর, পরিমাণগত ধারণা থেকে উদ্ভূত দ্বন্দ্ব দূর হয়ে যায়।",
-    "associated_thinkers": ["Edward Feser"],
+    "associated_thinkers": [
+      "Edward Feser"
+    ],
     "category": "দ্বৈতবাদ",
-    "subcategory": "নব্য-টমাসীয়, নব্য-অ্যারিস্টটলীয়, সাধারণ-বুদ্ধিসম্পন্ন দ্বৈতবাদ",
+    "subcategory": "নব-থমিস্টীয়, নব-অ্যারিস্টটলীয়, কমনসেন্স দ্বৈতবাদ",
     "core_identity_tagline": "অভৌতিক বুদ্ধি ও বস্তুনিষ্ঠ গুণের মাধ্যমে চেতনা",
     "classification_tags": [
       "dualism",
@@ -51,34 +53,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "সম্ভবত না",
+      "stance": "Unlikely",
       "rationale": "বুদ্ধি (নিশ্চিত চিন্তা এবং বিমূর্ত ধারণার জন্য প্রয়োজনীয়) যদি মূলগতভাবে অভৌতিক এবং ভৌত প্রক্রিয়ায় অ-নিরসনযোগ্য হয়, তবে বিশুদ্ধভাবে গণনামূলক/ভৌত AI এই তত্ত্ব দ্বারা বর্ণিত সম্পূর্ণ মানবিক চেতনা সাকার করতে পারে না।"
     },
     "survival_beyond_death": {
-      "stance": "হ্যাঁ",
+      "stance": "Yes",
       "rationale": "আত্মাকে একটি অভৌতিক ও স্বয়ংসিদ্ধ সত্তা হিসেবে সংজ্ঞায়িত করা হয়েছে, যা দেহ থেকে পৃথক হয়ে নিজেই বিদ্যমান থাকতে এবং প্রজ্ঞানমূলক কার্যক্রম চালাতে সক্ষম, যদিও এটিকে তার জন্য অস্বাভাবিক বলে মনে করা হয়।"
     },
     "meaning_and_purpose": {
-      "stance": "হ্যাঁ",
+      "stance": "Cosmic/Ultimate",
       "rationale": "চিন্তা, যুক্তিবিদ্যা এবং বৌদ্ধিক সার্বিক ভাবে নিশ্চিত বিষয়বস্তুর সংরক্ষণ, আত্মার প্রতি সত্তাতাত্ত্বিক অঙ্গীকারের সঙ্গে মিলিতভাবে, অর্থের এমন একটি অ-হ্রাসবাদী দৃষ্টিভঙ্গি অন্তর্ভুক্ত করে যা বস্তুবাদী শূন্যবাদ এড়িয়ে যায়।"
     },
     "virtual_immortality": {
-      "stance": "না",
+      "stance": "No",
       "rationale": "ভার্চুয়াল অমরত্ব গণনামূলক ক্রিয়াবাদের ওপর নির্ভর করে। Feser যেহেতু যুক্তি দেন যে বৌদ্ধিক চেতনা ভৌত প্রক্রিয়ায় নিরসনযোগ্য বা তার দ্বারা ব্যাখ্যাযোগ্য নয়, তাই সম্পূর্ণ মানবিক স্বকে ডিজিটালভাবে আপলোড করা যায় না।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Stump’s Thomistic Dualism", "relationship": "সঙ্গতিপূর্ণ" },
-      { "name": "Cartesian Dualism", "relationship": "সমালোচনা" },
       {
-        "name": "Eliminative Materialism/Illusionism",
+        "name": "Stump's Thomistic Dualism",
+        "relationship": "সঙ্গতিপূর্ণ"
+      },
+      {
+        "name": "Cartesian Dualism",
         "relationship": "সমালোচনা"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "সমালোচনা" }
+      {
+        "name": "Eliminative/Illusionism",
+        "relationship": "সমালোচনা"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "সমালোচনা"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Think, McFly, think, Edward Feser", "year": 2012 },
+      {
+        "title_with_names": "Think, McFly, think, Edward Feser",
+        "year": 2012
+      },
       {
         "title_with_names": "Aristotle, call your office, Edward Feser",
         "year": 2012

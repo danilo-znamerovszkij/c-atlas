@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "Le dualisme des substances de Swinburne",
     "summary": "Cette théorie avance qu'une personne consiste en deux composants radicalement distincts : un corps/cerveau physique et une substance non physique séparée, ou âme, qui est indépendante du monde physique. L'âme non physique est une entité essentielle et irréductible requise pour rendre compte de la vie consciente et pour maintenir l'identité personnelle à travers le temps.",
-    "associated_thinkers": ["Richard Swinburne"],
-    "category": "Dualismes",
+    "associated_thinkers": [
+      "Richard Swinburne"
+    ],
+    "category": "Dualisme",
     "subcategory": "Dualisme des substances",
     "core_identity_tagline": "La conscience comme substance non physique radicalement séparée",
     "classification_tags": [
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Non (majoritairement)",
+      "stance": "Unlikely",
       "rationale": "Les systèmes d'IA manqueraient de la substance non physique radicalement séparée nécessaire (l'âme) requise pour une véritable conscience intérieure. Le dualisme est généralement considéré comme le principal bastion de résistance contre la conscience de l'IA."
     },
     "survival_beyond_death": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "Puisque la personne est constituée par une substance non physique, cette substance (l'âme) pourrait potentiellement maintenir une existence consciente après la mort et la dissolution du corps physique et du cerveau."
     },
     "meaning_and_purpose": {
-      "stance": "Oui",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Les théories dualistes et idéalistes offrent généralement une forme de sens, de finalité ou de valeur ultimes, contrastant avec les théories purement matérialistes."
     },
     "virtual_immortality": {
-      "stance": "Non (majoritairement)",
+      "stance": "Unlikely",
       "rationale": "Télécharger uniquement la structure physique du cerveau serait insuffisant, car la composante non physique nécessaire (l'âme) ne pourrait être reproduite ni téléchargée par la technologie, entraînant l'absence du soi mental original à la première personne."
     }
   },
@@ -83,7 +85,7 @@
         "relationship": "Contraste"
       },
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "Critique"
       }
     ],

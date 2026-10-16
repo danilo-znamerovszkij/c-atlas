@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "Teilhard de Chardin의 진화하는 의식",
     "summary": "이 이론은 지속적인 복잡화로 규정되는 거대한 우주적 체계 안에서 의식을 축(軸)으로 삼아 자리매김한다. 이 이론은 의식과 물질이 동일한 우주적 재료의 상보적 측면이며, 이것이 통일적 수렴과 오메가라 불리는 초인격화된 유기체를 향해 나아간다고 주장한다.",
-    "associated_thinkers": ["Pierre Teilhard de Chardin", "Ilia Delio"],
+    "associated_thinkers": [
+      "Pierre Teilhard de Chardin",
+      "Ilia Delio"
+    ],
     "category": "일원론",
     "subcategory": "진화하는 의식",
     "core_identity_tagline": "물질의 내면성으로서의 의식",
@@ -51,26 +54,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "그럴 법하다",
+      "stance": "Likely",
       "rationale": "복잡성-의식의 법칙이 보편적으로 성립한다면, 충분한 복잡성과 상호 연결성(컴퓨터가 불러일으킨 '전 지구적 마음의 장' 같은 것)에 도달한 인공 체계는 필연적으로 의식을 경험할 것이다."
     },
     "survival_beyond_death": {
-      "stance": "그렇다",
+      "stance": "Yes",
       "rationale": "우주는 오메가(신)를 향해 수렴하는 비가역적 인격화 체계이며, 이는 개별 의식 혹은 그 초인격화된 형태가 지속되어 우주적 전체에 흡수됨을 함축한다."
     },
     "meaning_and_purpose": {
-      "stance": "우주적/신학적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "우주는 목적을 지니며, 사유(자기 반성적 의식)의 극대화와 오메가와의 수렴(신 생성)이라는 궁극적 목표를 향해 추동된다."
     },
     "virtual_immortality": {
-      "stance": "양립 가능(영적 수렴으로서)",
+      "stance": "Possible",
       "rationale": "디지털 체계는 우주적 수렴에 기여하는 '전 지구적 마음의 장'(정신권)을 촉진할 수 있으며, 이는 초월적이고 비생물학적인 지속의 한 형태를 허용한다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Polkinghorne’s Dual-Aspect Monism",
+        "name": "Polkinghorne's Dual-Aspect Monism",
         "relationship": "중첩"
       },
       {
@@ -78,11 +81,11 @@
         "relationship": "중첩"
       },
       {
-        "name": "Process Theory (Whitehead)",
+        "name": "Whitehead's Process Theory",
         "relationship": "양립 가능"
       },
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "중첩"
       }
     ],

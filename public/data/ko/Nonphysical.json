@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "인간 마음의 비물리적 구성 요소 이론",
     "summary": "이는 인간 마음의 고유한 복잡성이 물리적 뇌와 함께 작동하는 비물질적 구성 요소를 요구한다고 제안하는 일반화된 사변적 착상이다. 이 비물리적 구성 요소는 생물학적 뇌를 두드러지게 우월한 인간의 마음으로 변환하는 데 필요한 잠재적 힘을 지닌 것으로 상정되며, 이로써 인간의 마음은 동물의 의식과 구별된다.",
-    "associated_thinkers": ["Robert Lawrence Kuhn"],
+    "associated_thinkers": [
+      "Robert Lawrence Kuhn"
+    ],
     "category": "이원론",
     "subcategory": "일반화된 이원론",
     "core_identity_tagline": "인간적 정신성을 위한 비물리적 구성 요소",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "아니오 (대체로)",
+      "stance": "Unlikely",
       "rationale": "인간의 의식이 고유한 비물리적 구성 요소에 의존한다면, 물리적/계산적 구조만을 복제하는 인공 시스템은 참된 인간 수준의 내적 경험에 필요한 이 요소를 결여하게 된다."
     },
     "survival_beyond_death": {
-      "stance": "예 (조건부)",
+      "stance": "Conditional",
       "rationale": "비물리적 구성 요소로서, 특히 신체/뇌의 해체 이후에도 존재를 유지한다면 존속의 이론적 근거를 제공한다(창발적 이원론의 다른 형태들과 유사하다)."
     },
     "meaning_and_purpose": {
-      "stance": "가능",
+      "stance": "Uncertain",
       "rationale": "이 구성 요소의 존재는 인간 정신성의 두드러진 지위를 뒷받침하며, 인간의 창조를 넘어선 우주적 목적이나 의미를 흔히 지지하는 이원론적 틀과 부합한다."
     },
     "virtual_immortality": {
-      "stance": "아니오 (대체로)",
+      "stance": "Unlikely",
       "rationale": "물리적 패턴의 복제에 의존하는 마음 업로딩은 요구되는 비물리적 구성 요소를 필연적으로 포착하지 못하며, 그 결과 해당 개인의 의식 없는 복제물만을 낳게 된다."
     }
   },
@@ -74,11 +76,11 @@
         "relationship": "중첩/선행"
       },
       {
-        "name": "Polkinghorne’s Dual-Aspect Monism",
+        "name": "Polkinghorne's Dual-Aspect Monism",
         "relationship": "평행/비교 (비물리적 정보 담지 구조를 개념화한다는 점에서)"
       },
       {
-        "name": "Van Inwagen’s Christian Materialism and Resurrection of the Dead",
+        "name": "van Inwagen's Christian Materialism and Resurrection of the Dead",
         "relationship": "평행/비교 (존속하는 핵심 자아/핵을 개념화한다는 점에서)"
       }
     ],

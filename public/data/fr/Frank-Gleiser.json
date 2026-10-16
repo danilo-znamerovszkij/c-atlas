@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "« L'Angle Mort » de Frank/Gleiser/Thompson",
     "summary": "Ce cadre critique les approches matérialistes et dualistes traditionnelles en affirmant la primauté mutuelle de la conscience et de l'incarnation, soutenant que toute investigation scientifique se déroule nécessairement à l'intérieur de l'« horizon de la conscience ». Il définit le « problème difficile » comme un artefact de l'« Angle Mort » — l'incapacité à reconnaître la précondition irréductible de l'expérience dans la quête de la vérité objective — et propose un basculement radical vers la neurophénoménologie.",
-    "associated_thinkers": ["Adam Frank", "Marcello Gleiser", "Evan Thompson"],
-    "category": "Materialism Theories",
-    "subcategory": "Embodied and Enactive",
+    "associated_thinkers": [
+      "Adam Frank",
+      "Marcello Gleiser",
+      "Evan Thompson"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Incarné",
     "core_identity_tagline": "La conscience comme précondition irréductible et boucle étrange incarnée",
     "classification_tags": [
       "embodiment",
@@ -45,31 +49,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Incertaine",
+      "stance": "Uncertain",
       "rationale": "La théorie considère la conscience comme intrinsèquement liée à l'expérience incarnée à la première personne au sein d'une « boucle étrange ». Puisqu'elle critique le fonctionnalisme computationnel qui sous-tend la plupart des approches de l'IA, il n'est pas clair qu'un simple calcul non biologique puisse atteindre cette conscience irréductible et incarnée."
     },
     "survival_beyond_death": {
-      "stance": "Incertaine",
+      "stance": "Uncertain",
       "rationale": "La théorie insiste sur la primauté de l'incarnation, suggérant que la conscience est liée à l'organisme. Toutefois, sa position non réductive, soutenant une science fondée sur la primauté de l'expérience, n'exclut pas des possibilités de survie, bien que les sources ne précisent pas de position à ce sujet."
     },
     "meaning_and_purpose": {
-      "stance": "Intrinsèque/Existentiel",
+      "stance": "Humanistic only",
       "rationale": "La théorie vise à retrouver la « place centrale de l'expérience humaine dans l'entreprise scientifique », impliquant que le sens et la valeur sont fondamentalement présents dans la réalité irréductible de la conscience et de l'expérience."
     },
     "virtual_immortality": {
-      "stance": "Improbable",
+      "stance": "Unlikely",
       "rationale": "L'immortalité virtuelle repose sur la numérisation et la réplication réussies des états mentaux (fonctionnalisme computationnel). Puisque la théorie considère la conscience comme un phénomène irréductible et incarné — une « boucle étrange » — elle implique fortement que le téléchargement de l'esprit serait impossible, en raison de son rejet de la philosophie réductionniste sous-jacente."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Neurophenomenology", "relationship": "Soutien/Extension" },
-      { "name": "Embodied and Enactive Theories", "relationship": "Alignement" },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Soutien/Extension"
+      },
+      {
+        "name": "Embodied",
+        "relationship": "Alignement"
+      },
       {
         "name": "Reductionism/Physicalism",
         "relationship": "Critique/Rejet"
       },
-      { "name": "Francisco Varela’s work", "relationship": "Influence" }
+      {
+        "name": "Francisco Varela’s work",
+        "relationship": "Influence"
+      }
     ],
     "sources_and_references": [
       {

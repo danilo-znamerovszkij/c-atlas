@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "T・クラークの内容仮説",
     "summary": "この理論は、現象的意識が、認知システムの十分に構造化された処理から導かれる表象内容であると措定する。意識的経験は範疇的に主観的であり、根本的に物理的な脳に結びついていて、脳によって具現化される物質的現象として作動する。",
-    "associated_thinkers": ["Thomas Clark"],
+    "associated_thinkers": [
+      "Thomas Clark"
+    ],
     "category": "唯物論",
-    "subcategory": "表象的",
+    "subcategory": "一階",
     "core_identity_tagline": "構造化された表象内容としての現象的意識",
     "classification_tags": [
       "representational",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識は十分に構造化された処理から生じる厳密に物理的な現象として措定されるため、この構造を高度な人工システムにおいて複製すれば意識が可能になるはずである。"
     },
     "survival_beyond_death": {
-      "stance": "いいえ（個人的な自己について）／はい（一般的な主観性について）",
+      "stance": "No",
       "rationale": "個々の意識は物理的な具現化であり、脳死とともに解体する。しかし「一般的な主観的連続性」は、故人という個人としてではないにせよ、意識が他の文脈で続くことを示唆する。"
     },
     "meaning_and_purpose": {
-      "stance": "実存的／内在的",
+      "stance": "Humanistic only",
       "rationale": "自己を省察するシステムの有限性に駆動される意識は、本来的に内的世界を作り出し、主観的連続性を維持することに結びついた目的を与える。"
     },
     "virtual_immortality": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "唯物論的理論として、決定的な「十分に構造化された表象処理」を非生物学的な媒体において正確に複製できるなら、個人的な意識の移送は可能である。"
     }
   },
@@ -74,15 +76,15 @@
         "relationship": "整合的"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "整合的"
       },
       {
-        "name": "Predictive Processing",
+        "name": "Predictive Theories (Top-Down)",
         "relationship": "整合的"
       },
       {
-        "name": "Metzinger’s No-Self Representational Theory of Subjectivity",
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
         "relationship": "影響"
       }
     ],

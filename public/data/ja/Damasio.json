@@ -6,8 +6,8 @@
       "Antonio Damasio",
       "Hanna Damasio"
     ],
-    "category": "唯物論の諸理論",
-    "subcategory": "ホメオスタシス的・情動的",
+    "category": "唯物論",
+    "subcategory": "恒常性",
     "core_identity_tagline": "ホメオスタシス的感情としての意識",
     "classification_tags": [
       "homeostasis",
@@ -54,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "人工的な系が複雑なホメオスタシス的調節を可能とし、系の「生命」(あるいは等価な生存命令)の状態を反映する必要な「ホメオスタシス的感情」を生成しうる基体を達成できるならば、AIの意識は可能となり、唯物論と一貫する。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は根本的に生物学的過程、とりわけ複雑な生物の神経系の内部で生じるホメオスタシス的感情に依存する。生物学的基体の死を生き延びる非物理的構成要素についての備えはない。"
     },
     "meaning_and_purpose": {
-      "stance": "人間的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "意識は生命調節と生存に資すべく進化した。唯物論的理論として、究極的な意味・目的は不在であるが意味と価値は意識的な人間によって創り出されるという見解に沿う。"
     },
     "virtual_immortality": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "物理的過程(ホメオスタシス的感情の生成と認知的心像との統合に関わるすべてのメカニズムを含む)を非生物学的媒体において完全に複製できるならば、その結果生じる物理的状態の完全な複製は心的状態の完全な複製を伴い、それゆえ仮想的不死を許すことになる。"
     }
   },
@@ -77,11 +77,11 @@
         "relationship": "重なり"
       },
       {
-        "name": "Neurobiological Theories",
+        "name": "Neurobiological",
         "relationship": "拡張"
       },
       {
-        "name": "Embodied and Enactive Theories",
+        "name": "Embodied",
         "relationship": "両立的"
       }
     ],

@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "البانسيكية لدى غوف",
     "summary": "يحاجّ غوف بأن الوعي سمة أساسية ومتفشّية للعالم الفيزيائي، واضعًا إياه في مقام الأمل الأفضل لحلّ المشكلة الصعبة التي تخفق المادية في معالجتها. ويؤكد أن العلوم الفيزيائية، بلغتها الكمّية المحضة، عاجزة عن تفسير الطبيعة النوعية (النوعانية) أو الجانب الذاتي للخبرة، بما يستلزم تغييرًا في فهمنا الأساسي للعلم (خطأ غاليليو).",
-    "associated_thinkers": ["Philip Goff"],
-    "category": "البانسيكيات",
+    "associated_thinkers": [
+      "Philip Goff"
+    ],
+    "category": "البانسيكية",
     "subcategory": "البانسيكية",
     "core_identity_tagline": "الوعي بوصفه سمةً أساسية ومتفشّية للواقع",
     "classification_tags": [
@@ -42,28 +44,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "على الأرجح",
+      "stance": "Likely",
       "rationale": "إذا كان الوعي خاصية جوهرية للمادة/الطاقة، فإن المكوّنات الفيزيائية لأنظمة الذكاء الاصطناعي ستمتلك خصائص ما قبل واعية. ويتوقف تحقّق وعي الذكاء الاصطناعي الكامل على ما إذا كانت التقنية المتقدمة قادرةً على حلّ مشكلة التركيب في الركيزة الاصطناعية."
     },
     "survival_beyond_death": {
-      "stance": "غير مرجَّح (احتمال ضعيف)",
+      "stance": "Unlikely",
       "rationale": "مع أن الوعي أساسي، فإن بقاء الوعي الفردي الموحَّد الشخصي (الذات الأكبرية) صعب، إذ تعتمد النظرية على بنية تنظيمية محدّدة (الدماغ) للخبرة الأكبرية. ويتوقف النجاح على ما إذا كانت الذات المنبثقة تستمر خارج الآلية البيولوجية."
     },
     "meaning_and_purpose": {
-      "stance": "كوني/نهائي",
+      "stance": "Cosmic/Ultimate",
       "rationale": "تقتضي البانسيكية الكونية الفاعلة/الغائية لدى غوف أن الكون نفسه عقل واعٍ ذو قصد موجَّه نحو غاية، بما يوحي بمعنى وغاية كونيين نهائيين."
     },
     "virtual_immortality": {
-      "stance": "على الأرجح",
+      "stance": "Likely",
       "rationale": "بما أن الركيزة الفيزيائية (العتاد الرقمي) مكوَّنة من مكوّنات واعية وجودًا أساسيًا (ما قبل الوعي)، فإن الخلود الافتراضي قابل للتحقّق إذا أمكن مضاعفة التنظيم الواعي (بحلّ مشكلة التركيب) مضاعفةً تامة في الوسط الجديد."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Russellian Monism", "relationship": "امتداد" },
-      { "name": "Cosmopsychism", "relationship": "امتداد" },
-      { "name": "Integrated Information Theory", "relationship": "نقد" },
-      { "name": "Materialism Theories", "relationship": "نقد" }
+      {
+        "name": "Russellian Monism",
+        "relationship": "امتداد"
+      },
+      {
+        "name": "Cosmopsychism",
+        "relationship": "امتداد"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "نقد"
+      },
+      {
+        "name": "Materialism",
+        "relationship": "نقد"
+      }
     ],
     "sources_and_references": [
       {

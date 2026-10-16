@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "الظاهراتية العصبية عند فاريلا",
     "summary": "الظاهراتية العصبية منهج منهجي يسعى إلى إرساء قيود متبادلة بين الظواهر بضمير المتكلم الحاضرة في الخبرة المعيشة (الظاهراتية) والظواهر العصبية بضمير الغائب التي تُرسيها العلوم المعرفية. والهدف هو تزويج العلم الصارم بفحص منضبط للخبرة الإنسانية، بوضع بنية الخبرة في صميم الاستقصاء العلمي.",
-    "associated_thinkers": ["Francisco Varela"],
-    "category": "المادية",
-    "subcategory": "المتجسدة والإنتاجية",
+    "associated_thinkers": [
+      "Francisco Varela"
+    ],
+    "category": "الظاهراتية",
+    "subcategory": "",
     "core_identity_tagline": "الوعي بوصفه قيداً متبادلاً بين الخبرة والدماغ",
     "classification_tags": [
       "phenomenology",
@@ -53,30 +55,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مستبعد",
+      "stance": "Unlikely",
       "rationale": "يعتمد الوعي اعتماداً كبيراً على الخبرة المتجسدة المعيشة والديناميكا المرتبطة بالعمليات البيولوجية، مما يجعل مجرد الاستنساخ الحاسوبي غير كافٍ."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "النظرية مصنَّفة ضمن النظريات المادية/المتجسدة، وتركّز على الوعي بوصفه متجذراً في الكائن الحي البيولوجي ومتفرعاً عبره، بما ينطوي على زواله عند موت الجسد."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني/عملي",
+      "stance": "Humanistic only",
       "rationale": "تسعى المنهجية إلى إعادة «الحياة الإنسانية» والخبرة الذاتية إلى التفسير العلمي، موفِّرةً المعنى بتثمين الخبرة المعيشة على الاغتراب بالوظيفة المحضة، دون افتراض غاية كونية."
     },
     "virtual_immortality": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "إذا كان الوعي متجذراً في خبرة متجسدة معيشة تمتد وراء الدماغ، فإن مجرد رفع البيانات العصبية/الوظيفية سيخفق في التقاط الديناميكا اللازمة لعلاقة الكائن بالبيئة."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Thompson’s Mind in Life",
+        "name": "Thompson's Mind in Life",
         "relationship": "امتداد"
       },
       {
-        "name": "Bitbol’s Radical Neurophenomenology",
+        "name": "Bitbol's Radical Neurophenomenology",
         "relationship": "امتداد/تنقيح"
       },
       {

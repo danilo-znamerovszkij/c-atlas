@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ジェインズの二分心の崩壊",
     "summary": "本理論は、内省と定義される意識が、生得的ないし根源的なものではなく、言語と文化に根ざした習得された行動であると主張する。意識は、聴覚幻覚を特徴とする二分心と呼ばれる非意識的な心性が社会的に崩壊したのち、紀元前2千年紀ごろに歴史的に出現したと示唆する。",
-    "associated_thinkers": ["Julian Jaynes"],
-    "category": "唯物論の理論",
-    "subcategory": "言語との関係",
+    "associated_thinkers": [
+      "Julian Jaynes"
+    ],
+    "category": "唯物論",
+    "subcategory": "言語",
     "core_identity_tagline": "世界の習得された言語的／隠喩的アナログとしての意識",
     "classification_tags": [
       "language",
@@ -51,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "意識が根本的に言語と情報過程に根ざした習得されたアナログ／作動子であるならば、大規模言語モデルとAIの進歩は、この形態の意識をもっともらしく例化しうる。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "物理主義的かつデフレ的な理論として、意識は脳の物理的機構とそれが支える言語構造に結びついており、物理的死後の存続の根拠を残さない。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的な意味のみ",
+      "stance": "Humanistic only",
       "rationale": "意識は、生物学的・文化的要請に由来する機能的で生存に駆動された目的（意思決定の改善）に資するのであり、内在的な宇宙的意味を提供しない。"
     },
     "virtual_immortality": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "心は、（ソフトウェアと同様に）非生物学的基盤にアップロードないし複製されうる言語的・隠喩的構造によって定義されるため、このモデルのもとでは仮想的不死は概念的に成立しうる。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Dennett’s Multiple Drafts Model",
+        "name": "Dennett's Multiple Drafts Model",
         "relationship": "両立可能"
       },
       {

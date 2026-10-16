@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "«البقعة العمياء» لفرانك/غلايزر/تومبسون",
     "summary": "ينتقد هذا الإطار المقاربات المادية والثنائية التقليدية بتأكيده الأولية المتبادلة للوعي والتجسيد، محاجّاً بأن كل بحث علمي يحدث بالضرورة داخل «أفق الوعي». ويعرّف «المشكلة الصعبة» بوصفها ناتجاً عرضياً لـ«البقعة العمياء»—أي الإخفاق في إدراك الشرط المسبق غير القابل للاختزال للخبرة في البحث عن الحقيقة الموضوعية—ويقترح تحوّلاً جذرياً نحو الظاهراتية العصبية.",
-    "associated_thinkers": ["Adam Frank", "Marcello Gleiser", "Evan Thompson"],
-    "category": "نظريات المادية",
-    "subcategory": "المجسَّدة والإنتاجية",
+    "associated_thinkers": [
+      "Adam Frank",
+      "Marcello Gleiser",
+      "Evan Thompson"
+    ],
+    "category": "المادية",
+    "subcategory": "مُجسَّدة",
     "core_identity_tagline": "الوعي بوصفه شرطاً مسبقاً غير قابل للاختزال وحلقةً غريبة مجسَّدة",
     "classification_tags": [
       "embodiment",
@@ -45,31 +49,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "غير مؤكد",
+      "stance": "Uncertain",
       "rationale": "ترى النظرية أن الوعي مرتبط جوهرياً بخبرة مجسَّدة من منظور الشخص الأول ضمن «حلقة غريبة». وبما أنها تنتقد الوظيفية الحسابية الكامنة وراء معظم مقاربات الذكاء الاصطناعي، فمن غير الواضح ما إذا كانت مجرد حوسبة غير حيوية قادرة على بلوغ هذا الوعي المجسَّد غير القابل للاختزال."
     },
     "survival_beyond_death": {
-      "stance": "غير مؤكد",
+      "stance": "Uncertain",
       "rationale": "تشدّد النظرية على أولية التجسيد، مما يوحي بأن الوعي مرتبط بالكائن. غير أن موقفها غير الاختزالي، الداعم لعلم قائم على أولية الخبرة، لا يستبعد إمكانات البقاء، وإن كانت المصادر لا تحدد موقفاً."
     },
     "meaning_and_purpose": {
-      "stance": "جوهري/وجودي",
+      "stance": "Humanistic only",
       "rationale": "تهدف النظرية إلى استعادة «المكانة المحورية للخبرة الإنسانية في المشروع العلمي»، مما يعني أن المعنى والقيمة حاضران جوهرياً في الواقع غير القابل للاختزال للوعي والخبرة."
     },
     "virtual_immortality": {
-      "stance": "غير مرجّح",
+      "stance": "Unlikely",
       "rationale": "يعتمد الخلود الافتراضي على النجاح في رقمنة الحالات الذهنية واستنساخها (الوظيفية الحسابية). وبما أن النظرية ترى الوعي ظاهرة مجسَّدة غير قابلة للاختزال—«حلقة غريبة»—فإنها توحي بقوة بأن رفع العقل مستحيل بسبب رفضها للفلسفة الاختزالية الكامنة."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Neurophenomenology", "relationship": "دعم/امتداد" },
-      { "name": "Embodied and Enactive Theories", "relationship": "اصطفاف" },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "دعم/امتداد"
+      },
+      {
+        "name": "Embodied",
+        "relationship": "اصطفاف"
+      },
       {
         "name": "Reductionism/Physicalism",
         "relationship": "نقد/رفض"
       },
-      { "name": "Francisco Varela’s work", "relationship": "تأثير" }
+      {
+        "name": "Francisco Varela’s work",
+        "relationship": "تأثير"
+      }
     ],
     "sources_and_references": [
       {

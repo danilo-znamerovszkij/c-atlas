@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Mindmelding de Hirstein",
     "summary": "William Hirstein soutient que le principal obstacle empêchant une explication physique directe de l'esprit conscient est l'« hypothèse de la vie privée » (assumption of privacy), qui est infondée. En supprimant cette hypothèse métaphysique — l'idée qu'une personne ne peut jamais faire l'expérience des états conscients d'une autre —, la motivation à créer des dualismes contrariants, des panpsychismes et des théories affirmant l'insolubilité du problème s'effondre.",
-    "associated_thinkers": ["William Hirstein"],
+    "associated_thinkers": [
+      "William Hirstein"
+    ],
     "category": "Matérialisme",
     "subcategory": "Neurobiologique",
     "core_identity_tagline": "La conscience expliquée en rejetant la vie privée métaphysique",
@@ -49,30 +51,42 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Puisque la théorie cherche une explication « purement physique » de la conscience et est classée comme Matérialisme, il n'existe aucune interdiction de principe à la création d'une IA consciente."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La théorie est un modèle matérialiste visant à défaire les dualismes. Le matérialisme soutient que la conscience est uniquement un produit du cerveau biologique, ce qui signifie qu'elle cesse à la mort biologique."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "Les théories du matérialisme affirment généralement que, si les humains peuvent créer du sens et de la valeur pour eux-mêmes, il n'existe pas de sens ou de but cosmique ultime."
     },
     "virtual_immortality": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "Si la conscience est entièrement explicable en termes physiques (comme le soutient Hirstein), alors le téléchargement des schémas et voies neuronales complets d'une personne préserverait, en principe, le moi mental à la première personne."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Dualisme des substances", "relationship": "Critique" },
-      { "name": "Panpsychismes", "relationship": "Critique" },
-      { "name": "Théorie de l'identité esprit-cerveau", "relationship": "Compatible" }
+      {
+        "name": "Dualism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Compatible"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Hirstein’s mindmelding", "year": "" },
+      {
+        "title_with_names": "Hirstein’s mindmelding",
+        "year": ""
+      },
       {
         "title_with_names": "Mindmelding: Consciousness, Neuroscience, and the Mind’s Privacy, William Hirstein",
         "year": 2012

@@ -2,8 +2,11 @@
   "id_and_class": {
     "theory_title": "융의 동시성과 집단 무의식",
     "summary": "이 틀은 인과적 연결을 결여한 의미 있는 우연의 일치인 동시성이 인과성과 나란히 실재의 근본 원리라고 상정한다. 그리고 이 비인과적 연결을, 의식적 심적 상태가 그로부터 창발하는 더 깊고 전체론적이며 심물리적으로 중립적인 실재와 결부시킨다.",
-    "associated_thinkers": ["Carl Jung", "Wolfgang Pauli"],
-    "category": "이상 현상과 변성 상태",
+    "associated_thinkers": [
+      "Carl Jung",
+      "Wolfgang Pauli"
+    ],
+    "category": "이상현상",
     "subcategory": "개념적 틀",
     "core_identity_tagline": "‘비인과적 의미로 연결된 의식’",
     "classification_tags": [
@@ -50,38 +53,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "불확실(조건부)",
+      "stance": "Uncertain",
       "rationale": "의식이 근본적이고 비국소적인 심물리적 실재(집단 무의식)에 뿌리를 둔다면, 인공 체계는 이 실재에 접근하거나 참여할 기제를 갖추어야 하므로 그 실현은 매우 조건부이다."
     },
     "survival_beyond_death": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "이 이론은 원형적 요소들이 존속하는 확장된 비국소적 실재(집단 무의식/중립 영역)를 함축하며, 이는 생물학적 죽음 이후의 의식 상태를 허용하는 견해들과 정합적이다."
     },
     "meaning_and_purpose": {
-      "stance": "궁극적/우주적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "이 틀은 내재적인 질적 의미와 목적론적 질서화 요인(원형)을 중심에 두며, 이는 인간주의적이거나 생물학적 필요를 넘어서는 우주적 목적을 시사한다."
     },
     "virtual_immortality": {
-      "stance": "가능성 낮음(조건부)",
+      "stance": "Unlikely",
       "rationale": "가상적 불멸은 개별 자아의 디지털 복제에 의존한다. 그러나 의식이 집단적이고 비국소적인 원천에서 파생되므로, 그 비물리적 원천을 포착하지 않은 채 특정한 창발적 개인 의식 상태를 시뮬레이션 안에서 복제하는 것은 본래의 일인칭 자아를 보존하지 못할 가능성이 크다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Pauli–Jung Conjecture",
+        "name": "Pauli’s One World, Two Aspects: Psychophysical Complementarity",
         "relationship": "확장"
       },
       {
-        "name": "Dual-Aspect Monism",
+        "name": "Neutral Monism",
         "relationship": "양립 가능"
       },
       {
-        "name": "Idealisms",
+        "name": "Idealism",
         "relationship": "양립 가능"
       },
       {
-        "name": "Quantum Theories",
+        "name": "Quantum & Dimensions",
         "relationship": "중첩"
       }
     ],

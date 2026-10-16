@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "DOPS 이론적 틀",
     "summary": "임사체험과 환생 같은 현상에 대한 경험적 연구에 뒷받침되는 이 틀은 의식의 전달 모델 또는 여과 모델을 옹호하며, 여기에서 뇌는 의식의 생산자가 아니라 접속면으로 작동한다. 이 틀은 의식이 유기체와 독립적이며 잠재적으로 실재의 토대라고 주장함으로써 통상적 물리주의에 체계적으로 도전한다.",
-    "associated_thinkers": ["Ed Kelly", "Ian Stevenson", "Bruce Greyson"],
-    "category": "이상 현상과 변성 상태",
-    "subcategory": "연구에 기반한 물리주의/유물론 비판",
+    "associated_thinkers": [
+      "Ed Kelly",
+      "Ian Stevenson",
+      "Bruce Greyson"
+    ],
+    "category": "이상현상",
+    "subcategory": "연구 기반의 물리주의/유물론에 대한 도전",
     "core_identity_tagline": "여과된 보편적 존재로서의 의식",
     "classification_tags": [
       "survival",
@@ -54,19 +58,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "전망이 어두움",
+      "stance": "Unlikely",
       "rationale": "이 틀은 의식이 환원 불가능하며 근본적이고 보편적인 실재(관념론/만유내재신론)에 결부되어 있다고 시사하므로, 단지 인공적/계산적인 체계가 의식을 지닐 가능성은 낮으며 범용인공지능 의식의 전망은 어둡다."
     },
     "survival_beyond_death": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "이 이론은 의식이 신체적 죽음을 넘어 존속한다고 주장하는 경험적 증거(임사체험, 환생 사례)에서 동기를 얻으며, 따라서 비물질적 산출 모델을 요구한다."
     },
     "meaning_and_purpose": {
-      "stance": "우주적/궁극적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "관념론/만유내재신론을 향한 핵심적인 형이상학적 경향은 의식이 궁극적 의미, 목적, 가치를 제공하는 최고의 의식에 근거함을 시사한다."
     },
     "virtual_immortality": {
-      "stance": "아니다(불필요함)",
+      "stance": "Not needed",
       "rationale": "의식이 비물리적이며 잠재적으로 죽음을 넘어 연속되거나 존속하므로, 복제(가상적 불멸)는 본래의 일인칭 자아를 포착하지 못할 가능성이 크며, 진정한 사후 존속이 일어난다면 무의미하다."
     }
   },
@@ -76,18 +80,36 @@
         "name": "Myers/James Transmission Model",
         "relationship": "토대"
       },
-      { "name": "Idealism/Panentheism", "relationship": "양립 가능/경향" },
+      {
+        "name": "Idealism/Panentheism",
+        "relationship": "양립 가능/경향"
+      },
       {
         "name": "Interactive Dualism",
         "relationship": "대안적 개념 틀"
       },
-      { "name": "Materialism Theories (General)", "relationship": "비판" }
+      {
+        "name": "Materialism",
+        "relationship": "비판"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Irreducible Mind", "year": 2007 },
-      { "title_with_names": "Beyond Physicalism", "year": 2015 },
-      { "title_with_names": "Consciousness Unbound", "year": 2021 },
-      { "title_with_names": "The Continuity of Consciousness", "year": 2022 }
+      {
+        "title_with_names": "Irreducible Mind",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Beyond Physicalism",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Consciousness Unbound",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Continuity of Consciousness",
+        "year": 2022
+      }
     ]
   }
 }

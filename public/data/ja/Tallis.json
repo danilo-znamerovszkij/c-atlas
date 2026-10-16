@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "タリスの反ニューロマニア懐疑論",
     "summary": "この立場は、意識を説明しようとする自然主義的・唯物論的試みを批判し退けるものであり、神経活動を定量化することは、質的で主観的な経験へアクセスすることに根本的に自己矛盾すると論じる。脳は必要だが十分ではないと措定し、意識、自己、志向性の深い本質を還元不可能な謎のまま残す。",
-    "associated_thinkers": ["Raymond Tallis"],
-    "category": "チャレンジ理論",
-    "subcategory": "反ニューロマニア懐疑論",
+    "associated_thinkers": [
+      "Raymond Tallis"
+    ],
+    "category": "チャレンジ",
+    "subcategory": "神経マニアへの懐疑論",
     "core_identity_tagline": "「損なわれざる謎としての意識」",
     "classification_tags": [
       "skepticism",
@@ -51,30 +53,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "いいえ",
+      "stance": "No",
       "rationale": "意識は純粋に物理的な作用では説明できない還元不可能な主観的性質と志向性を必要とするため、（物理的／機能的記述に基づいて作動する）人工的な計算システムは真の意識を達成できない。"
     },
     "survival_beyond_death": {
-      "stance": "不確定",
+      "stance": "Uncertain",
       "rationale": "タリスは二元論と超自然的な答えを退けるが、その存在論的不可知論と「何ごとも可能である」という信念は、存続の非唯物論的な可能性を排除できないことを含意する。ただし彼はそれを支持する積極的な理論を提供しない。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的／未規定",
+      "stance": "Humanistic only",
       "rationale": "この理論は、意識、自己、人間的特徴を説明しないまま残す自然主義的説明を退け、暗に人間主義的に構成される意味への扉を開くが、究極的で宇宙的な目的は提供しない。"
     },
     "virtual_immortality": {
-      "stance": "いいえ",
+      "stance": "No",
       "rationale": "もし意識が脳活動へ還元できず、（現象的「現れ」のような）根源的に非唯物論的な特徴を必要とするならば、神経基盤の機能的複製は意識的な自己の複製に失敗するであろう。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
         "relationship": "両立的"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "批判"
       },
       {

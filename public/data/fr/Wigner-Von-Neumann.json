@@ -1,0 +1,118 @@
+{
+  "id_and_class": {
+    "theory_title": "Effondrement par la conscience selon Wigner et von Neumann : l’expérience au point de coupure quantique",
+    "summary": "Cette théorie soutient que la dynamique quantique linéaire ne produit jamais, à elle seule, un résultat unique et déterminé, et que la chaîne des interactions allant du système mesuré à l’appareil puis au cerveau ne s’achève que lorsqu’un observateur conscient fait l’expérience de ce résultat. Von Neumann a élaboré le dispositif formel et montré que la coupure entre le système et l’observateur peut être déplacée librement ; Wigner en a tiré la conclusion explicite que la conscience provoque l’effondrement, parce que l’expérience est toujours déterminée et jamais en superposition. Wigner a ensuite abandonné cette position, mais elle a été reprise sous une forme mathématiquement précise.",
+    "associated_thinkers": [
+      "Eugene Wigner",
+      "John von Neumann",
+      "Fritz London",
+      "Edmond Bauer"
+    ],
+    "category": "Quantique",
+    "subcategory": "",
+    "core_identity_tagline": "La conscience comme ce qui achève la chaîne de la mesure quantique",
+    "classification_tags": [
+      "measurement problem",
+      "wave function collapse",
+      "wigner's friend",
+      "interactionism",
+      "quantum mechanics"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Wigner définit la conscience de manière phénoménale, comme « la propriété d’avoir des sensations », et fait de l’entrée d’une impression dans la conscience le point où une superposition quantique devient un résultat unique et déterminé.",
+    "ontological_status": "Dualisme interactionniste",
+    "mind_body_relationship": "Les états physiques agissent sur la conscience dans la perception, et, selon le principe d’action réciproque de Wigner, la conscience doit agir à son tour sur le monde physique, ce qu’elle fait au moment de la mesure. Von Neumann lui-même invoquait un parallélisme psychophysique et n’attribuait aucun pouvoir causal au « moi abstrait » de l’observateur.",
+    "primitive_or_emergent_status": "Incertain",
+    "emergence_type": "Wigner soutenait qu’une organisation physico-chimique appropriée fait naître la conscience, dont la richesse varie selon la complexité de son substrat ; il attribuait toutefois à la conscience un rôle fondamental dans la dynamique quantique et n’expliquait pas comment elle surgit.",
+    "subjectivity_and_intentionality": "L’argument repose sur une donnée de la première personne : un observateur fait toujours l’expérience d’un résultat unique et déterminé. Dans l’expérience de l’« ami de Wigner », l’ami enfermé dans le laboratoire rapporte une expérience déterminée, alors que, décrit de l’extérieur, il devrait se trouver en superposition.",
+    "qualia_account": "La phénoménalité est présupposée, non expliquée. Wigner demande comment des conditions physico-chimiques font naître des sensations, mais il n’offre aucun mécanisme pour le rouge, la douleur ou le son.",
+    "ontological_commitments": "Des états quantiques soumis à deux types de changement (évolution unitaire continue et mesure discontinue) ; des observateurs conscients dont l’expérience est toujours déterminée ; une influence physique de la conscience sur l’évolution quantique.",
+    "epistemic_access": "Par l’introspection (le caractère déterminé de sa propre expérience), combinée à l’analyse formelle de la mesure quantique.",
+    "constituents_and_structure": "Une chaîne de mesure qui va de l’objet à l’instrument, à la lumière, à la rétine, au nerf optique et au cerveau, jusqu’à la perception subjective, la coupure pouvant être placée n’importe où le long de cette chaîne."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Causalité mentale ; problème de la mesure quantique ; caractère déterminé de l’expérience.",
+    "distinctive_mechanism_or_principle": "La conscience met fin à l’évolution unitaire : lorsqu’une impression entre dans la conscience, une superposition cohérente devient un mélange statistique d’alternatives déterminées. Wigner suggérait que les équations linéaires de la mécanique quantique pourraient cesser de valoir pour les systèmes conscients.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "À l’extrémité de l’observateur de la chaîne de mesure. La partition la plus extrême de von Neumann ne laisse hors de la description physique qu’un moi abstrait ; Stapp situera plus tard l’effet dans le cerveau.",
+    "causation_and_functional_role": "La conscience est causalement efficace : elle sélectionne, ou provoque la sélection, d’une alternative quantique déterminée, et modifie ainsi l’évolution physique ultérieure.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Wigner traite la mécanique quantique comme un moyen de relier des probabilités entre des impressions successives enregistrées par des observateurs.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Von Neumann a démontré que l’endroit où l’on place la coupure entre le système et l’observateur ne modifie pas les prédictions de la théorie, mais qu’elle doit être placée quelque part pour qu’un résultat déterminé apparaisse.",
+      "London et Bauer (1939) ont publié les premiers la thèse explicite, en situant la résolution dans la faculté d’introspection de l’observateur.",
+      "L’ami de Wigner révèle un conflit entre une description en superposition d’un observateur conscient et le rapport de cet observateur faisant état d’une expérience déterminée.",
+      "La physique ne reconnaît aucune influence à sens unique ; si le monde agit sur la conscience, la conscience doit donc agir sur le monde."
+    ],
+    "basis_of_belief_or_evidence_type": "Physique théorique combinée à une prémisse phénoménologique sur le caractère déterminé de l’expérience."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Testable empiriquement",
+    "known_empirical_interventions_or_tests": "Les tests expérimentaux directs n’ont relevé aucun effondrement induit par la conscience (Yu et Nikolić, 2011). Les modèles contemporains d’effondrement par la conscience, comme l’association de la théorie de l’information intégrée et de la localisation spontanée continue proposée par Chalmers et McQueen, sont en principe testables à l’aide d’ordinateurs quantiques.",
+    "criticisms_and_tensions": "La décohérence (Zeh, Zurek) montre comment l’intrication avec l’environnement supprime les interférences bien avant que l’on atteigne un système nerveux, ce qui rend la conscience superflue en apparence. Bell a demandé si la fonction d’onde du monde avait attendu des milliards d’années une créature unicellulaire, ou quelqu’un titulaire d’un doctorat. Appliqué de manière cohérente, ce raisonnement menace le solipsisme, et les interprétations bohmienne, everettienne et à effondrement objectif traitent la mesure sans recourir à la conscience.",
+    "open_questions_and_limitations": "La théorie ne fournit aucun critère permettant de déterminer quels systèmes sont suffisamment conscients pour provoquer l’effondrement ; elle ne peut donc pas dire quand celui-ci se produit. Elle n’explique ni pourquoi la conscience existe, ni son caractère qualitatif, et l’introspection montre seulement que sa propre expérience présente est déterminée.",
+    "ontological_coherence": "Cohérente en tant qu’interactionnisme fondé sur la physique plutôt que sur la métaphysique, bien qu’elle repose sur une prémisse que la physique ne fournit pas. Wigner l’a abandonnée après les travaux de Zeh et s’est tourné vers l’effondrement objectif ; des théoriciens ultérieurs, comme Penrose, Hameroff et Stapp, ont conservé le couplage mais en ont inversé le sens."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "La théorie n’offre aucun critère fondé permettant de déterminer quels systèmes physiques sont conscients ; elle ne peut donc dire si une machine le serait."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Wigner soutenait qu’une organisation physico-chimique fait naître la conscience et en façonne les contenus ; cette position ne fournit donc aucun fondement à l’expérience sans corps."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers and McQueen’s Quantum Collapse",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Interactive Dualism",
+        "relationship": "Recoupement"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mathematical Foundations of Quantum Mechanics, John von Neumann",
+        "year": 1932
+      },
+      {
+        "title_with_names": "Remarks on the mind-body question, Eugene P. Wigner",
+        "year": 1961
+      },
+      {
+        "title_with_names": "The problem of measurement, Eugene P. Wigner",
+        "year": 1963
+      },
+      {
+        "title_with_names": "La théorie de l'observation en mécanique quantique, Fritz London and Edmond Bauer",
+        "year": 1939
+      },
+      {
+        "title_with_names": "Consciousness and the collapse of the wave function, David J. Chalmers and Kelvin J. McQueen",
+        "year": 2022
+      }
+    ]
+  }
+}

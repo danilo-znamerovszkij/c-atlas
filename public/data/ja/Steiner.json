@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "シュタイナーの秘教的な魂と意識",
     "summary": "ルドルフ・シュタイナーの精神科学に根ざしたこの理論は、人間の意識が、明確に区別される非物理的な構成要素（アストラル体とエーテル体）と物理的な身体との相互作用および重なり合いから生じると措定する。人間を七つの構成部分からなる複雑な構造体とみなし、精神的な諸能力と未来の受肉へ向かう意識の進化を中心に据える。",
-    "associated_thinkers": ["Rudolf Steiner"],
+    "associated_thinkers": [
+      "Rudolf Steiner"
+    ],
     "category": "二元論",
     "subcategory": "秘教的な魂と意識",
     "core_identity_tagline": "「アストラル体とエーテル体の重なり合いとしての意識」",
@@ -51,38 +53,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "いいえ",
+      "stance": "No",
       "rationale": "意識は特定の非物理的な構成要素（エーテル体とアストラル体、および自我）を必要とするが、これらは純粋に計算的ないし人工的な基盤において生成・具現化することができないため、人間的な意味でのAIの意識は不可能である。"
     },
     "survival_beyond_death": {
-      "stance": "はい",
+      "stance": "Yes",
       "rationale": "この理論は死後の存在を明示的に記述する。そこではエーテル体が分離して拡散する一方、個人は未来の受肉に備えて惑星圏を進行し、それによって生物学的な死を超えた個の存在（自我）の連続性が確保される。"
     },
     "meaning_and_purpose": {
-      "stance": "宇宙的／精神的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "その核心的な目的は意識の進化であり、精神的諸能力の意識的で自由な発達、霊的存在との協働、そして複数の受肉を貫く歩みへと至る。"
     },
     "virtual_immortality": {
-      "stance": "いいえ",
+      "stance": "No",
       "rationale": "意識は還元不可能な非物理的な諸体／構成部分の内在的な存在に結びついているため、物理的な脳状態を模倣ないしアップロードしても、その人の心的な自己に必要な本質的な非物理的構成要素が欠落し、仮想的な複製は不十分となる。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Theosophy’s Eclectic Soul and Consciousness",
+        "name": "Theosophy's Eclectic Soul and Consciousness",
         "relationship": "競合／影響"
       },
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "重なり"
       },
       {
-        "name": "Anomalous and Altered States",
+        "name": "Anomalous",
         "relationship": "両立的"
       },
       {
-        "name": "Idealisms",
+        "name": "Idealism",
         "relationship": "両立的"
       }
     ],

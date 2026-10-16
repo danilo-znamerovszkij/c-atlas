@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "“El Punto Ciego” de Frank/Gleiser/Thompson",
     "summary": "Este marco critica los enfoques materialistas y dualistas tradicionales al afirmar la primacía mutua de la conciencia y la corporeización, argumentando que toda investigación científica ocurre necesariamente dentro del 'horizonte de la conciencia'. Define el 'problema difícil' como un artefacto del 'Punto Ciego' —el fracaso en reconocer la precondición irreducible de la experiencia en la búsqueda de la verdad objetiva— y propone un giro radical hacia la neurofenomenología.",
-    "associated_thinkers": ["Adam Frank", "Marcello Gleiser", "Evan Thompson"],
-    "category": "Materialism Theories",
-    "subcategory": "Embodied and Enactive",
+    "associated_thinkers": [
+      "Adam Frank",
+      "Marcello Gleiser",
+      "Evan Thompson"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Corporeizado",
     "core_identity_tagline": "La conciencia como precondición irreducible y bucle extraño corporeizado",
     "classification_tags": [
       "embodiment",
@@ -45,31 +49,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Incierto",
+      "stance": "Uncertain",
       "rationale": "La teoría concibe la conciencia como intrínsecamente ligada a la experiencia corporeizada en primera persona dentro de un 'bucle extraño'. Dado que critican el funcionalismo computacional que subyace a la mayoría de los enfoques de la IA, no queda claro si la mera computación no biológica podría lograr esta conciencia irreducible y corporeizada."
     },
     "survival_beyond_death": {
-      "stance": "Incierto",
+      "stance": "Uncertain",
       "rationale": "La teoría enfatiza la primacía de la corporeización, sugiriendo que la conciencia está ligada al organismo. Sin embargo, su postura no reductiva, que apoya una ciencia basada en la primacía de la experiencia, no descarta la posibilidad de supervivencia, aunque las fuentes no especifican una postura al respecto."
     },
     "meaning_and_purpose": {
-      "stance": "Intrínseco/existencial",
+      "stance": "Humanistic only",
       "rationale": "La teoría busca reclamar el 'lugar central de la experiencia humana en la empresa científica', lo que implica que el sentido y el valor están fundamentalmente presentes en la realidad irreducible de la conciencia y la experiencia."
     },
     "virtual_immortality": {
-      "stance": "Improbable",
+      "stance": "Unlikely",
       "rationale": "La inmortalidad virtual depende de la digitalización y replicación exitosas de los estados mentales (funcionalismo computacional). Dado que la teoría concibe la conciencia como un fenómeno irreducible y corporeizado —un 'bucle extraño'—, implica fuertemente que la carga mental sería imposible debido a su rechazo de la filosofía reduccionista subyacente."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Neurophenomenology", "relationship": "Apoyo/Extensión" },
-      { "name": "Embodied and Enactive Theories", "relationship": "Alineación" },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Apoyo/Extensión"
+      },
+      {
+        "name": "Embodied",
+        "relationship": "Alineación"
+      },
       {
         "name": "Reductionism/Physicalism",
         "relationship": "Crítica/Rechazo"
       },
-      { "name": "Francisco Varela’s work", "relationship": "Influencia" }
+      {
+        "name": "Francisco Varela’s work",
+        "relationship": "Influencia"
+      }
     ],
     "sources_and_references": [
       {

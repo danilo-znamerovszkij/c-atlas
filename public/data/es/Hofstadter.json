@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Bucles extraños de Hofstadter",
+    "summary": "Douglas Hofstadter sostiene que la conciencia y el yo surgen de los ‘bucles extraños’: retroalimentaciones abstractas y autorreferenciales en el sistema de símbolos del cerebro que ascienden por niveles de abstracción y vuelven al punto de partida. El ‘yo’ es el símbolo más central y complejo del cerebro, un patrón construido por el propio cerebro que Hofstadter llama una especie de ilusión, pero al que atribuye un poder causal real sobre las neuronas que lo sostienen.",
+    "associated_thinkers": [
+      "Douglas Hofstadter"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Relacional",
+    "core_identity_tagline": "La conciencia como bucle extraño autorreferencial",
+    "classification_tags": [
+      "self-reference",
+      "strange loop",
+      "emergence",
+      "self",
+      "downward causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia y la identidad personal son un patrón autorreferencial de alto nivel de símbolos: un bucle extraño en el que el cerebro se representa a sí mismo y sus representaciones.",
+    "ontological_status": "Fisicalismo (no reductivo, emergentista)",
+    "mind_body_relationship": "La mente es una propiedad emergente de la organización del cerebro, no una entidad espiritual separada; Hofstadter rechaza el dualismo. Mente y cerebro son niveles diferentes de descripción de un mismo sistema.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia con causación descendente (el ‘yo’ de alto nivel es tan causalmente potente como las reglas físicas de bajo nivel)",
+    "subjectivity_and_intentionality": "El ‘yo’ es un símbolo que el cerebro construye sobre sí mismo, una ficción narrativa que actualiza cada nueva experiencia. La autorreferencia permite al sistema percibirse como causa de sus sentimientos y acciones, lo que produce la sensación de agencia.",
+    "qualia_account": "Hofstadter no ofrece una explicación aparte de la sensación cualitativa. La experiencia se explica mediante patrones simbólicos autorreferenciales, y si eso capta la riqueza de la experiencia subjetiva es la cuestión abierta.",
+    "ontological_commitments": "Neuronas, símbolos y los patrones abstractos que forman en niveles superiores, incluidos los bucles autorreferenciales y las jerarquías enredadas.",
+    "epistemic_access": "Analogía formal (los teoremas de incompletitud de Gödel), ciencia cognitiva y reflexión sobre la autorreferencia, más que neurobiología concreta.",
+    "constituents_and_structure": "Una jerarquía enredada de símbolos sin un nivel superior o inferior claro, a través de la cual las representaciones de representaciones vuelven sobre sí mismas."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Autoconciencia; el yo; libre albedrío (como ilusión percibida); conciencia fenoménica por extensión",
+    "distinctive_mechanism_or_principle": "El bucle extraño: moverse de forma coherente hacia arriba o hacia abajo por los niveles de abstracción devuelve al sistema, transformado, a su punto de partida, y crea la autorreferencia.",
+    "dynamics_of_emergence": "La conciencia es gradual y no de todo o nada, y se profundiza a medida que el automodelo simbólico del yo se vuelve más sofisticado. Los humanos tienen bucles complejos, mientras que otros animales pueden tener bucles más simples o menos profundos.",
+    "location_and_distribution": "En el cerebro, pero como bucle abstracto y no como circuito físico. Hofstadter no lo vincula a estructuras neuronales concretas.",
+    "causation_and_functional_role": "Causación descendente: el ‘yo’ emergente influye en las neuronas de las que emerge, lo que da la experiencia de agencia y de libre albedrío, aunque Hofstadter considera el libre albedrío una ilusión.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "El cerebro construye representaciones de sí mismo y de sus experiencias, incluidas las representaciones de esas representaciones, y este modelado recursivo forma el bucle.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "La conciencia emerge de la actividad cerebral de bajo nivel, agitada y en ebullición, igual que la vida emerge de la química de la célula.",
+      "Los teoremas de incompletitud de Gödel muestran cómo un sistema formal puede contener enunciados que se refieren a sí mismos, un modelo para el yo.",
+      "El yo es un patrón dinámico, no una sustancia fija, que se construye con cada nueva experiencia.",
+      "Los sentidos autorreferenciales de alto nivel pueden ser tan causalmente reales como las reglas físicas de bajo nivel del sistema."
+    ],
+    "basis_of_belief_or_evidence_type": "Argumento teórico y computacional que se apoya en la lógica matemática y la ciencia cognitiva"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Especulativa",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Los críticos preguntan si la retroalimentación abstracta por sí sola puede explicar la riqueza de la experiencia subjetiva y de la agencia. La causación descendente es polémica, y describir el yo como ilusión y a la vez como causalmente potente deja una tensión aparente.",
+    "open_questions_and_limitations": "Hofstadter no identifica las estructuras neurobiológicas que implementan los bucles extraños, y la teoría no establece criterios medibles para saber cuándo un bucle es consciente.",
+    "ontological_coherence": "Coherente dentro del fisicalismo no reductivo. Rechaza tanto el dualismo como el reduccionismo estricto al tratar el ‘yo’ como real y causalmente eficaz, aunque emergente."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "Como la conciencia es un patrón abstracto de autorreferencia y no una propiedad de ningún sustrato concreto, un sistema de símbolos con automodelado suficientemente rico en una máquina debería dar lugar a ella."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Como el yo es un patrón sostenido por la actividad cerebral, termina cuando esa actividad termina."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "El yo es un patrón que se inventa a sí mismo dentro de un sistema físico; el sentido surge de ese patrón, y no de ningún propósito cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Si la identidad es un patrón y no una sustancia, reproducir el patrón en otro medio podría, en principio, preservar el yo."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Azarian’s Self-Modeling Strange Loop Theory",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Ellis's Strong Emergence and Top-Down Causation",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
+        "relationship": "Solapamiento"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Gödel, Escher, Bach: An Eternal Golden Braid, Douglas Hofstadter",
+        "year": 1979
+      },
+      {
+        "title_with_names": "I Am a Strange Loop, Douglas Hofstadter",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Hofstadter’s Strange Loops, Landscape of Consciousness, Robert Lawrence Kuhn"
+      }
+    ]
+  }
+}

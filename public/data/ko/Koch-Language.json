@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "코흐의 의식은 언어에 의존하지 않는다는 이론",
     "summary": "이 이론은 현상적 의식, 곧 기본적인 내적 경험이 언어 능력과 기능적으로 독립적이라고 주장한다. 이는 언어 능력이 심각하게 손상되거나 상실되었음에도 근본적 자각이 유지되는 임상 사례들에 의해 뒷받침되며, 기본적 감각능력이 언어를 갖지 않은 여러 동물과 공유되는 널리 퍼진 속성이라는 결론으로 이어진다.",
-    "associated_thinkers": ["Christof Koch"],
-    "category": "유물론 이론",
-    "subcategory": "언어와의 관계",
+    "associated_thinkers": [
+      "Christof Koch"
+    ],
+    "category": "유물론",
+    "subcategory": "언어",
     "core_identity_tagline": "의식은 언어와 독립적이다",
     "classification_tags": [
       "phenomenal consciousness",
@@ -50,38 +52,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "언어가 의식에 필요하지 않으므로 AI의 언어 능력(대규모 언어 모델)은 무관하다. AI 의식은 전적으로 필요한 비언어적 물리적 기질이 인공 체계에서 재현될 수 있는지에 달려 있다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "유물론적 분류와 일관되게, 의식은 물리적 기질(뇌)에 결부되어 있으며 생물학적 죽음 이후에는 존속할 수 없다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한정",
+      "stance": "Humanistic only",
       "rationale": "의식은 언어를 통해 자아가 서사적 중심으로 기능하게 하여 인간이 만들어낸 의미를 가능하게 하지만, 기저의 물질적 실재는 어떠한 궁극적 우주적 목적도 시사하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "의식이 언어와 분리된다면, 초점은 전적으로 기본적 자각의 비언어적·물리적 기질을 복제하는 데로 옮겨간다. 이 특정한 비언어적 신경 구조를 복제할 수 있다면 가상적 불멸은 가능하다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
         "relationship": "비판"
       },
       {
-        "name": "Searle’s Language and Consciousness",
+        "name": "Searle's Language and Consciousness",
         "relationship": "비판"
       },
       {
-        "name": "Andrews’s Consciousness Without Complex Brains",
+        "name": "Andrews's Consciousness Without Complex Brains",
         "relationship": "양립 가능"
       },
       {
-        "name": "Smith’s Language as Classifier of Consciousness",
+        "name": "Smith's Language as Classifier of Consciousness",
         "relationship": "중첩"
       }
     ],

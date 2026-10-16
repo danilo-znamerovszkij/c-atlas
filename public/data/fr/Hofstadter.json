@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Boucles étranges de Hofstadter",
+    "summary": "Douglas Hofstadter soutient que la conscience et le soi naissent de « boucles étranges » : des boucles de rétroaction abstraites et autoréférentielles, dans le système de symboles du cerveau, qui remontent à travers les niveaux d’abstraction et reviennent à leur point de départ. Le « je » est le symbole le plus central et le plus complexe du cerveau, un motif construit par lui-même que Hofstadter qualifie d’une sorte d’illusion, tout en lui reconnaissant un véritable pouvoir causal sur les neurones qui le supportent.",
+    "associated_thinkers": [
+      "Douglas Hofstadter"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Relationnel",
+    "core_identity_tagline": "La conscience comme boucle étrange autoréférentielle",
+    "classification_tags": [
+      "self-reference",
+      "strange loop",
+      "emergence",
+      "self",
+      "downward causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience et le soi sont un motif de symboles de haut niveau et autoréférentiel : une boucle étrange dans laquelle le cerveau se représente lui-même et ses propres représentations.",
+    "ontological_status": "Physicalisme (non réductif, émergentiste)",
+    "mind_body_relationship": "L’esprit est une propriété émergente de l’organisation du cerveau, et non une entité spirituelle séparée ; Hofstadter rejette le dualisme. L’esprit et le cerveau sont deux niveaux de description d’un même système.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence avec causation descendante (le « je » de haut niveau est aussi causalement puissant que les règles physiques de bas niveau)",
+    "subjectivity_and_intentionality": "Le « je » est un symbole que le cerveau construit à son propre sujet, une fiction narrative mise à jour par chaque nouvelle expérience. L’autoréférence permet au système de se percevoir comme la cause de ses sentiments et de ses actions, ce qui produit le sentiment d’agentivité.",
+    "qualia_account": "Hofstadter ne propose aucune explication distincte du ressenti qualitatif. L’expérience s’explique par des motifs symboliques autoréférentiels, et la question ouverte est de savoir si cela rend compte de la richesse de l’expérience subjective.",
+    "ontological_commitments": "Des neurones, des symboles, et les motifs abstraits qu’ils forment à des niveaux supérieurs, y compris les boucles autoréférentielles et les hiérarchies enchevêtrées.",
+    "epistemic_access": "Analogie formelle (théorèmes d’incomplétude de Gödel), sciences cognitives et réflexion sur l’autoréférence, plutôt que neurobiologie spécifique.",
+    "constituents_and_structure": "Une hiérarchie enchevêtrée de symboles, sans niveau supérieur ni inférieur clairement défini, à travers laquelle les représentations de représentations reviennent sur elles-mêmes."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conscience de soi ; le soi ; libre arbitre (comme illusion perçue) ; conscience phénoménale par extension",
+    "distinctive_mechanism_or_principle": "La boucle étrange : en se déplaçant de manière cohérente vers le haut ou vers le bas à travers les niveaux d’abstraction, le système revient, transformé, à son point de départ, ce qui crée l’autoréférence.",
+    "dynamics_of_emergence": "La conscience est graduelle et non tout ou rien ; elle s’approfondit à mesure que le modèle symbolique de soi gagne en sophistication. Les humains ont des boucles complexes, tandis que d’autres animaux peuvent en avoir de plus simples ou de moins profondes.",
+    "location_and_distribution": "Dans le cerveau, mais comme boucle abstraite plutôt que comme circuit physique. Hofstadter ne la rattache pas à des structures neuronales précises.",
+    "causation_and_functional_role": "Causation descendante : le « je » émergent influence les neurones dont il émerge, ce qui donne l’expérience de l’agentivité et du libre arbitre, bien que Hofstadter tienne le libre arbitre pour une illusion.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Le cerveau construit des représentations de lui-même et de ses expériences, y compris des représentations de ces représentations ; cette modélisation récursive forme la boucle.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "La conscience émerge d’une activité cérébrale de bas niveau en effervescence, comme la vie émerge de la chimie de la cellule.",
+      "Les théorèmes d’incomplétude de Gödel montrent comment un système formel peut contenir des énoncés qui se réfèrent à eux-mêmes, modèle du soi.",
+      "Le soi est un motif dynamique, et non une substance fixe, construit par chaque nouvelle expérience.",
+      "Des significations autoréférentielles de haut niveau peuvent être aussi causalement réelles que les règles physiques de bas niveau du système."
+    ],
+    "basis_of_belief_or_evidence_type": "Argument théorique et computationnel, s’appuyant sur la logique mathématique et les sciences cognitives"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spéculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Les critiques demandent si une simple rétroaction abstraite peut expliquer la richesse de l’expérience subjective et de l’agentivité. La causation descendante est controversée, et décrire le soi à la fois comme une illusion et comme causalement puissant laisse une tension apparente.",
+    "open_questions_and_limitations": "Hofstadter n’identifie pas les structures neurobiologiques qui réalisent les boucles étranges, et la théorie ne fixe pas de critères mesurables permettant de dire quand une boucle est consciente.",
+    "ontological_coherence": "Cohérente au sein du physicalisme non réductif. Elle rejette à la fois le dualisme et le réductionnisme strict, en tenant le « je » pour réel et causalement efficace tout en étant émergent."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "La conscience étant un motif abstrait d’autoréférence plutôt qu’une propriété d’un substrat particulier, un système de symboles de modélisation de soi suffisamment riche dans une machine devrait la faire naître."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Le soi étant un motif entretenu par l’activité cérébrale, il prend fin lorsque cette activité cesse."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Le soi est un motif qui s’invente lui-même au sein d’un système physique ; le sens naît de ce motif, et non d’une finalité cosmique."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Si l’identité est un motif et non une substance, reproduire ce motif dans un autre support pourrait en principe préserver le soi."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Azarian’s Self-Modeling Strange Loop Theory",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Ellis's Strong Emergence and Top-Down Causation",
+        "relationship": "Recoupement"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
+        "relationship": "Recoupement"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Gödel, Escher, Bach: An Eternal Golden Braid, Douglas Hofstadter",
+        "year": 1979
+      },
+      {
+        "title_with_names": "I Am a Strange Loop, Douglas Hofstadter",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Hofstadter’s Strange Loops, Landscape of Consciousness, Robert Lawrence Kuhn"
+      }
+    ]
+  }
+}

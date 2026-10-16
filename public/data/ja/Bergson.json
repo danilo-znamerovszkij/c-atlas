@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ベルクソンの多様性・持続・知覚・記憶",
     "summary": "この非還元的理論は、意識を、「持続」と「多様性」を特徴とし根本的に記憶である、動的で絶えず時間的な実在とみなす。脳は意識を生み出すのではなく、フィルターとして作用し、圧倒的な気づきを制限して世界における焦点化された行為を可能にする。",
-    "associated_thinkers": ["Henri Bergson"],
-    "category": "異常状態と変性状態",
-    "subcategory": "多様性・持続・知覚・記憶",
+    "associated_thinkers": [
+      "Henri Bergson"
+    ],
+    "category": "二元論",
+    "subcategory": "",
     "core_identity_tagline": "濾過された記憶かつ純粋持続としての意識",
     "classification_tags": [
       "duration",
@@ -51,39 +53,54 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は持続に結びついた非計算的な精神・記憶として定義され、本来的に非機構的である。計算に基づいて構築された人工システムがこの根源的な時間的実体を捉えることはありそうにない。",
       "justification": "中核概念の厳密に非唯物論的・非機構的な本性から推論される。"
     },
     "survival_beyond_death": {
-      "stance": "可能",
+      "stance": "Possible",
       "rationale": "脳は意識（精神・記憶）の生成者ではなくフィルターであるため、意識が物理的身体から独立しており、身体の死後も持続しうることを示唆する。",
       "justification": "ベルクソンの理論は「死後の何らかの存続をさえ許容しうる」。"
     },
     "meaning_and_purpose": {
-      "stance": "宇宙的／実存的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "意識は「選択と呼ばれる自由な行為」をなしうる動的で根源的な実体（「精神」）として定義され、純粋に人間主義的あるいは生物学的な制約を越える内在的な目的を含意する。",
       "justification": "その「率直に二元論的」な本性と、精神および選択との結びつきから推論される。"
     },
     "virtual_immortality": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "仮想的不死は計算論的あるいは物理的状態のアップロードに依拠する。意識は物理的な脳によって濾過されるだけの非還元的な精神・記憶（純粋持続）であるため、神経状態を複製しても意識的実体を複製することにはならない。",
       "justification": "意識の非唯物論的で非機能主義的な定義に基づいて推論される。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "William James's filter model", "relationship": "整合的" },
-      { "name": "Substance Dualism", "relationship": "同一／重複" },
-      { "name": "Process Theory", "relationship": "影響" },
-      { "name": "Neurophenomenology (Varela)", "relationship": "影響" }
+      {
+        "name": "James's Plural Consciousness, Brain as Filter of a Wider Consciousness",
+        "relationship": "整合的"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "同一／重複"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "影響"
+      },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "影響"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Time and Free Will: an Essay on the Immediate Data of Consciousness",
         "year": 1889
       },
-      { "title_with_names": "Matter and Memory", "year": 1896 },
+      {
+        "title_with_names": "Matter and Memory",
+        "year": 1896
+      },
       {
         "title_with_names": "Life and Consciousness (Mind-Energy)",
         "year": 1920

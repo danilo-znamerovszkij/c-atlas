@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ソームズの意識の隠された源泉としての情動",
     "summary": "この理論は、意識の基本的な形を情動（感じ）と同定し、その生理的機構を上部脳幹に位置づけ、恒常性維持の拡張された形態として機能させる。それはフリストンの自由エネルギー原理を適用し、情動的経験（快／不快）が、複雑な有機体が環境の不確実性を監視し生存行動を最適化するために用いる効率的な機構であると論じる。",
-    "associated_thinkers": ["Mark Solms"],
+    "associated_thinkers": [
+      "Mark Solms"
+    ],
     "category": "唯物論",
-    "subcategory": "恒常性維持的・情動的",
+    "subcategory": "恒常性",
     "core_identity_tagline": "意識の基礎的な形としての情動",
     "classification_tags": [
       "affect",
@@ -55,19 +57,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "この理論が正しければ、システムが能動的にエントロピーへ抗し実存的欲求を管理してフィードバックとして情動的状態を生成するように設計されるかぎり、人工的に意識をもつ自己組織化するシステムを工学的に構築しうる。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "唯物論の理論として、意識は全面的に生物学的な脳とその物理的過程に依存しており、有機体の死とともに永久的な非存在を含意する。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的／生物学的",
+      "stance": "Humanistic only",
       "rationale": "意識の核心は生存のための生物学的要請（消滅の回避と自由エネルギーの最小化）に根ざしており、それは生物学的および人間主義的に構築された意味を支えるが、究極的な宇宙的目的は支えない。"
     },
     "virtual_immortality": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "唯物論の理論として、複雑な物理的機構（情動的および恒常性維持的な動態を含む）が合成的な基盤において包括的に複製されうるかぎり、一人称的な心的自己は原理的にアップロード可能である。"
     }
   },
@@ -78,7 +80,7 @@
         "relationship": "影響／拡張"
       },
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "両立可能"
       },
       {

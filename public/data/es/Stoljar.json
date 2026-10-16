@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La Visión Epistémica de Stoljar y el Fisicalismo No Estándar",
     "summary": "Esta teoría defiende el fisicalismo frente a los argumentos antimaterialistas introduciendo la hipótesis de la ignorancia, que postula que desconocemos profundamente un tipo de hecho o propiedad física relevante para la conciencia. Sostiene que el supuesto problema de compatibilidad entre la conciencia y el fisicalismo surge de nuestras limitaciones epistémicas actuales, no de un defecto ontológico del fisicalismo mismo.",
-    "associated_thinkers": ["Daniel Stoljar"],
+    "associated_thinkers": [
+      "Daniel Stoljar"
+    ],
     "category": "Materialismo",
-    "subcategory": "Filosófica",
+    "subcategory": "Filosófico",
     "core_identity_tagline": "El Fisicalismo Defendido mediante la Ignorancia Epistémica",
     "classification_tags": [
       "physicalism",
@@ -50,7 +52,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Como defensa del fisicalismo, la teoría afirma que la conciencia es física. Por lo tanto, en principio, cualquier sistema artificial que realice los hechos físicos necesarios (incluso los actualmente desconocidos) debería volverse consciente."
     },
     "survival_beyond_death": {
@@ -58,11 +60,11 @@
       "rationale": "La conciencia depende de hechos y procesos físicos, y no es fundamental. Tras la destrucción del sustrato físico (el cerebro), la conciencia deja de existir, en consonancia con el fisicalismo."
     },
     "meaning_and_purpose": {
-      "stance": "Solo humanista",
+      "stance": "Humanistic only",
       "rationale": "En consonancia con su compromiso fisicalista fundacional, la teoría no ofrece fundamento para un sentido o propósito cósmico último; el sentido es construido por agentes conscientes."
     },
     "virtual_immortality": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si la conciencia es enteramente física, el yo mental en primera persona es potencialmente subible, siempre que el sustrato físico complejo (incluidas las propiedades desconocidas identificadas en la hipótesis de la ignorancia) pueda duplicarse en un medio no biológico."
     }
   },
@@ -77,11 +79,11 @@
         "relationship": "Crítica/Respuesta"
       },
       {
-        "name": "Standard Physicalism",
+        "name": "Materialism",
         "relationship": "Crítica"
       },
       {
-        "name": "Kind’s Dualism 2.0",
+        "name": "Kind's Dualism 2.0",
         "relationship": "Interlocutor de Debate/Proyecto Compartido"
       }
     ],

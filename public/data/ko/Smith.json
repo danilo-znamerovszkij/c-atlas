@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "스미스의 의식 분류자로서의 언어 이론",
     "summary": "언어와의 관계라는 하위 범주 아래 유물론 틀 안에 분류되는 이 이론은, 언어가 근본적으로 주관적 경험의 내용을 범주화하고 구조화하며 분절하는 기능을 한다고 제안한다. 따라서 의식은 이러한 언어 구조에 의해 조직되고 접근 가능해진 내용으로서 존재한다.",
-    "associated_thinkers": ["Barry Smith"],
-    "category": "유물론 이론",
-    "subcategory": "언어와의 관계",
+    "associated_thinkers": [
+      "Barry Smith"
+    ],
+    "category": "유물론",
+    "subcategory": "언어",
     "core_identity_tagline": "언어적으로 분류된 내용으로서의 의식",
     "classification_tags": [
       "language",
@@ -49,26 +51,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 복잡한 언어적 분류 메커니즘의 산물이라면, 충분히 진보된 언어 및 상징 처리 능력을 갖춘 인공 체계는 그것을 구현할 수 있어야 한다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "의식은 언어와 분류를 뒷받침하는 물리적·생물학적 기질에 근본적으로 결부되어 있다. 뇌가 해체되면 그 소멸은 영구적이다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한정",
+      "stance": "Humanistic only",
       "rationale": "유물론적 이론으로서 인지적 복잡성과 자기 성찰에서 도출되는 인간이 만들어낸 의미와 가치를 지지하지만, 궁극적인 우주적 목적론은 부정한다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "의식이 정보 분류와 표상의 체계로 기능적으로 환원 가능하므로, 이 체계를 완벽히 디지털로 복제하거나 업로드하는 것은 원리적으로 가능하다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "T. Clark’s Content Hypothesis",
+        "name": "T. Clark's Content Hypothesis",
         "relationship": "양립 가능"
       },
       {
@@ -76,7 +78,7 @@
         "relationship": "확장"
       },
       {
-        "name": "Chomsky’s Language and Consciousness",
+        "name": "Chomsky's Language and Consciousness",
         "relationship": "관련/대조"
       }
     ],

@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "Whitehead의 과정 이론",
     "summary": "범경험론에 뿌리를 둔 이 이론은 근본적 실재가 물질적 측면과 심적 측면을 모두 지닌 역동적 사건 혹은 과정('계기')으로 이루어진다고 본다. 의식은 양극적 관계 과정을 통한 경험의 진화가 이룬 성취로서 창발하며, 이로써 전통적 실체 이원론이나 환원적 유물론의 이분법을 피한다.",
-    "associated_thinkers": ["Alfred North Whitehead", "Matthew T. Segall"],
+    "associated_thinkers": [
+      "Alfred North Whitehead",
+      "Matthew T. Segall"
+    ],
     "category": "범심론",
-    "subcategory": "과정 이론 / 범경험론",
+    "subcategory": "과정 이론 / 범경험주의",
     "core_identity_tagline": "과정-관계적 범경험론으로서의 의식",
     "classification_tags": [
       "panexperientialism",
@@ -50,30 +53,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능함/조건부",
+      "stance": "Possible",
       "rationale": "참된 '합생', 즉 새로운 생성과 창조성을 수행할 수 있는 인공 체계라면 의식을 예화할 수도 있다. 그러나 역동적이고 과정-관계적인 실재에 초점이 있는 만큼 단순한 계산이나 시뮬레이션만으로는 충분하지 않을 것이다."
     },
     "survival_beyond_death": {
-      "stance": "그럴 법하다/조건부",
+      "stance": "Conditional",
       "rationale": "이 이론은 우주의 보편적 영혼/프시케(신)를 상정하고 의식을 비물질적 사건/계기의 관점에서 파악한다. 개별 경험은 후속 계기 속에서 '과거의 창조적 반복'으로 보존되며, 이는 우주적 기억이나 더 큰 전체 안에서의 지속을 시사한다."
     },
     "meaning_and_purpose": {
-      "stance": "우주적/실존적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "우주는 본유적 방향성('창조적 전진')과 '보편적 영혼'(신/원초적 현실태)을 지니며, 이는 진화 과정에 본유적인 궁극적 의미 혹은 목적론을 함의한다."
     },
     "virtual_immortality": {
-      "stance": "불확실",
+      "stance": "Uncertain",
       "rationale": "디지털 복제는 합생에 본유적인 '참된 생성'과 창조적 잠재력을 포착하지 못할 수 있으며, 이는 순전히 시뮬레이션된 지속에는 본질적인 의식적 특성이 결여될 가능성이 크다는 뜻이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Panpsychism (Substance-Property)",
+        "name": "Panpsychism",
         "relationship": "비판"
       },
       {
-        "name": "Process Theory",
+        "name": "Whitehead's Process Theory",
         "relationship": "동일"
       },
       {

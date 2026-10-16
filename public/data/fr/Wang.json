@@ -1,0 +1,119 @@
+{
+  "id_and_class": {
+    "theory_title": "Architecture en couches et informatique cognitive de Wang",
+    "summary": "Wang considère la conscience comme l’état collectif le plus élevé d’une architecture fonctionnelle stratifiée du cerveau, édifiée à partir de l’homéostasie métabolique, du traitement inconscient et du traitement subconscient. La conscience enregistre en temps réel l’état du corps et des émotions dans une « mémoire d’état conscient » cérébelleuse proposée, que le thalamus traite de manière dynamique. Wang formule ce processus dans sa propre mathématique dénotationnelle afin que des ordinateurs et des robots cognitifs puissent le mettre en œuvre.",
+    "associated_thinkers": [
+      "Yingxu Wang"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Computationnel",
+    "core_identity_tagline": "La conscience comme couche supérieure d’une architecture formelle du cerveau",
+    "classification_tags": [
+      "cognitive informatics",
+      "layered model",
+      "denotational mathematics",
+      "thalamus",
+      "cognitive computing"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est un état collectif d’auto-conscience, de conscience de l’environnement et de réactivité intentionnelle, engendré par les couches qui lui sont sous-jacentes. Wang l’appelle aussi le sentiment de soi et le signe de la vie dans l’intelligence naturelle.",
+    "ontological_status": "Physicalisme (fonctionnaliste, de traitement de l’information)",
+    "mind_body_relationship": "Les processus mentaux sont des fonctions de structures physiologiques, organisées dans un modèle de référence qui fait correspondre les fonctions cognitives aux mécanismes neuronaux.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible (la conscience est synthétisée par induction à partir des couches inférieures de l’homéostasie, de l’inconscience et de la subconscience)",
+    "subjectivity_and_intentionality": "La subjectivité est la conscience de soi de l’état du corps et des émotions. Les processus supérieurs acquis sont intentionnels, orientés vers un but et placés sous contrôle conscient.",
+    "qualia_account": "",
+    "ontological_commitments": "Des structures neuronales et physiologiques (notamment le cervelet et le thalamus), plusieurs types de mémoire, dont la « mémoire d’état conscient » proposée, et des processus cognitifs formels décrivables dans la mathématique dénotationnelle.",
+    "epistemic_access": "Par la spécification formelle et la modélisation informatique, avec une vérification par la cartographie neuroanatomique.",
+    "constituents_and_structure": "Trente-sept processus cognitifs répartis en six couches (sensation, mémoire, perception, action, métacognition, cognition supérieure), divisés en fonctions innées et fonctions acquises, et imbriqués dans une hiérarchie à quatre niveaux : homéostasie, inconscience, subconscience et conscience. Certaines versions ultérieures comptent sept couches, en ajoutant l’inférence."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Accès, auto-surveillance, conscience de l’environnement et contrôle intentionnel ; le caractère phénoménal n’est pas traité",
+    "distinctive_mechanism_or_principle": "Un état conscient est une fonction qui associe les événements présents (stimuli externes et motivations internes), ainsi que le contenu de la mémoire d’état conscient, à un état actualisé de cette mémoire.",
+    "dynamics_of_emergence": "La conscience est une fonction dynamique, exécutée en temps réel et sans interruption par le thalamus, qui met à jour l’état corporel et émotionnel à mesure que les événements surviennent.",
+    "location_and_distribution": "La mémoire d’état conscient se situe dans le cervelet, le traitement dynamique dans le thalamus (que Wang appelle l’unité centrale de traitement du cerveau), et le contenu est fourni par l’activité corticale.",
+    "causation_and_functional_role": "La conscience intègre les informations relatives à l’état interne de l’organisme, à son environnement et aux relations entre les deux, et coordonne les réponses intentionnelles.",
+    "integration_or_binding": "L’intégration passe par le thalamus, qui est relié à presque toutes les structures corticales et sous-corticales.",
+    "information_flow_or_representation": "La représentation et le traitement sont dissociés : le cervelet conserve un enregistrement fin de l’état de chaque partie du corps, et le thalamus le traite.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Les processus mentaux du cerveau forment une hiérarchie stratifiée, allant des fonctions innées et automatiques aux fonctions acquises, plastiques et contrôlées par des buts.",
+      "L’homéostasie n’est pas la conscience, mais elle fournit la stabilité physiologique que la conscience requiert.",
+      "Le cervelet fonctionne comme la mémoire d’état conscient, un type de mémoire qui s’ajoute à la mémoire à court terme, à long terme, tampon sensoriel et tampon d’action.",
+      "L’algèbre des concepts, l’algèbre de processus en temps réel et l’algèbre des systèmes peuvent spécifier la conscience avec assez de précision pour une mise en œuvre machine."
+    ],
+    "basis_of_belief_or_evidence_type": "Modélisation computationnelle et formelle (science logicielle, ingénierie des systèmes)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Testable empiriquement",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Situer la mémoire d’état conscient dans le cervelet entre en conflit avec les données cliniques selon lesquelles les personnes atteintes d’agénésie cérébelleuse ou de cérébellectomie restent globalement conscientes. L’appareil formel est développé principalement au sein du programme de Wang et dans ses propres revues, avec un engagement limité dans la littérature plus large sur la conscience.",
+    "open_questions_and_limitations": "Le cadre traite de l’accès, de l’auto-surveillance et de l’organisation fonctionnelle ; rien n’y explique pourquoi un état de la mémoire d’état conscient devrait avoir un vécu quelconque. Ses thèses neuroanatomiques sont plus spéculatives que son appareil formel.",
+    "ontological_coherence": "Compatible avec le physicalisme fonctionnaliste. Le nombre et les intitulés des couches varient d’une présentation à l’autre de Wang."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "Wang formalise explicitement la conscience afin que des ordinateurs et des robots cognitifs puissent la mettre en œuvre, ce qui présuppose que la conscience artificielle est réalisable."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conscience étant engendrée par des structures physiologiques et dépendant de l’homéostasie, elle prend fin avec le corps, selon cette position."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "Le modèle admet la conscience dans les machines, mais Wang n’examine pas le transfert de la conscience d’un individu particulier."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Theories",
+        "relationship": "Recoupement"
+      },
+      {
+        "name": "Minsky's Society of Mind",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "Recoupement"
+      },
+      {
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "On Cognitive Informatics, Yingxu Wang",
+        "year": 2003
+      },
+      {
+        "title_with_names": "A Layered Reference Model of the Brain (LRMB), Y. Wang, Y. Wang, S. Patel, and D. Patel",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Cognitive Informatics Models of the Brain, Y. Wang and Y. Wang",
+        "year": 2006
+      },
+      {
+        "title_with_names": "The OAR Model of Neural Informatics for Internal Knowledge Representation in the Brain, Yingxu Wang",
+        "year": 2007
+      },
+      {
+        "title_with_names": "On Contemporary Denotational Mathematics for Computational Intelligence, Yingxu Wang",
+        "year": 2008
+      },
+      {
+        "title_with_names": "The Cognitive Mechanisms and Formal Models of Consciousness, Yingxu Wang",
+        "year": 2012
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Le dualisme naturaliste de Chalmers",
+    "summary": "David Chalmers soutient que la conscience phénoménale ne peut pas être réduite à des états cérébraux physiques, sans pour autant qu’il existe quoi que ce soit de surnaturel. Sa réponse consiste à traiter l’expérience comme une caractéristique fondamentale du monde, au même titre que la masse, la charge et l’espace-temps, et à la lier aux processus physiques par des lois psychophysiques que la science n’a pas encore découvertes.",
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
+    "category": "Dualisme",
+    "subcategory": "",
+    "core_identity_tagline": "La conscience comme propriété naturelle fondamentale, régie par des lois",
+    "classification_tags": [
+      "property dualism",
+      "hard problem",
+      "zombies",
+      "psychophysical laws",
+      "naturalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "L’expérience consciente est une propriété élémentaire, non physique, du monde naturel, systématiquement liée aux propriétés physiques par des lois fondamentales.",
+    "ontological_status": "Dualisme des propriétés (naturaliste)",
+    "mind_body_relationship": "Les propriétés mentales sont distinctes des propriétés physiques et ne s’y réduisent pas, mais elles sont liées par des lois aux processus physiques. Chalmers rejette la substance mentale cartésienne et tout « fantôme dans la machine » qui exercerait un travail causal supplémentaire, parce que le monde physique est plus ou moins causalement clos.",
+    "primitive_or_emergent_status": "Primitif",
+    "emergence_type": "Sans objet (l’expérience est une propriété fondamentale ; les lois de pont disent comment elle surgit des processus physiques, sans la dériver de ceux-ci)",
+    "subjectivity_and_intentionality": "L’expérience subjective est tenue pour une donnée qu’aucune explication physique ou fonctionnelle ne peut logiquement impliquer. L’intentionnalité n’est pas traitée séparément.",
+    "qualia_account": "Les qualia sont réels et irréductibles. Comme un monde physiquement identique mais dépourvu d’expérience (un « monde zombie ») est concevable, les faits physiques ne fixent pas logiquement les faits qualitatifs ; les qualia doivent donc être ajoutés à titre de propriétés fondamentales.",
+    "ontological_commitments": "Des entités et propriétés physiques telles que décrites par la physique, plus des propriétés phénoménales fondamentales et les lois psychophysiques qui relient les deux. Ni âmes, ni esprits, ni causes surnaturelles.",
+    "epistemic_access": "L’expérience est connue de la première personne et est indéniable. Les lois psychophysiques doivent être trouvées en corrélant l’expérience aux processus physiques, de la manière dont la physique découvre des régularités.",
+    "constituents_and_structure": "Un univers qui se ramène à un réseau d’entités élémentaires obéissant à des lois simples, dont les propriétés de base comprennent l’expérience aussi bien que les grandeurs physiques."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conscience phénoménale (le hard problem).",
+    "distinctive_mechanism_or_principle": "Les lois psychophysiques de pont : de nouveaux principes fondamentaux, ajoutés aux lois de base de la nature, qui relient les processus physiques à l’expérience. Chalmers désigne sa théorie à double aspect de l’information comme candidate pour expliquer le fonctionnement de ces lois.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Partout où les lois psychophysiques relient des états physiques à l’expérience ; la thèse ne localise pas la conscience dans une région cérébrale précise.",
+    "causation_and_functional_role": "Chalmers soutient que les événements physiques ont des causes physiques suffisantes, ce qui ne laisse aucune place à un esprit non physique qui exercerait un travail causal supplémentaire. Il estime que l’indétermination quantique ne peut probablement pas être exploitée pour donner à l’esprit un rôle causal.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "L’expérience consciente ne survient pas logiquement du physique, car un monde zombie physiquement identique est concevable.",
+      "Si tel est le cas, aucune explication réductive de la conscience ne peut réussir.",
+      "La conscience doit être traitée comme fondamentale, avec ses propres lois fondamentales, à la manière dont la physique traite la masse et la charge.",
+      "Ce dualisme ne contredit rien dans la théorie physique ; il ajoute seulement des principes de pont."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique : arguments de concevabilité et arguments modaux, ainsi que la donnée de première personne qu’est l’expérience."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Testable conceptuellement",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Si le monde physique est causalement clos et que l’expérience est non physique, l’expérience semble ne jouer aucun rôle causal, ce qui rapproche la thèse de l’épiphénoménalisme. L’argument du zombie dépend aussi du passage de la concevabilité à la possibilité réelle.",
+    "open_questions_and_limitations": "Les lois psychophysiques sont inconnues, et la thèse affirme leur existence sans les énoncer.",
+    "ontological_coherence": "Chalmers la présente comme un dualisme « innocent » qui préserve une vision scientifique du monde en élargissant la liste des propriétés fondamentales, plutôt qu’en ajoutant une substance mentale."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Qu’une machine soit consciente dépend de ce à quoi les lois psychophysiques rattachent l’expérience ; si elles suivent une organisation physique ou informationnelle qu’une machine peut partager, celle-ci aurait une expérience."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Puisque l’expérience naît des processus physiques par des lois naturelles, et que Chalmers exclut tout élément surnaturel, la thèse ne fournit aucune base à la persistance de l’expérience sans son substrat physique."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Conditional",
+      "rationale": "Une simulation ne porterait une expérience que si les lois psychophysiques attachent l’expérience aux caractéristiques que la simulation reproduit."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Double-Aspect Theory of Information",
+        "relationship": "Prolongement"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Recoupement"
+      },
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Opposition"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Conscious Mind, David Chalmers",
+        "year": 1996
+      }
+    ]
+  }
+}

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "نظرية التحكم الإدراكي عند مانسيل (PCT)",
     "summary": "تقترح هذه النظرية أن الوعي ينبثق عن عملية إعادة التنظيم الحيوية اللازمة لتعديل أنظمة التحكم تكيفيًا. ويهدف هذا التعديل إلى تقليل الخطأ في الآليات الجوهرية التي تحكم متغيرات أساسية، فيزيولوجية في معظمها. ويشمل الوعي جوانب أولية (ظاهراتية) وثانوية (وصولية) وثالثية (الوعي بالذات)، مرتبطة بوظائف تحكم هرمية.",
-    "associated_thinkers": ["Warren Mansell"],
+    "associated_thinkers": [
+      "Warren Mansell"
+    ],
     "category": "المادية",
-    "subcategory": "توازنية وانفعالية",
+    "subcategory": "استتبابية",
     "core_identity_tagline": "الوعي بوصفه إعادة تنظيم تُقلّل الخطأ الجوهري",
     "classification_tags": [
       "homeostatic",
@@ -52,30 +54,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "بما أن الوعي مُعرَّف آليًا بعمليات كتقليل الخطأ والتحكم الهرمي والتلاعب الرمزي (للوعي بالذات)، فإن هذه الوظائف قابلة نظريًا للتحقق في أنظمة حاسوبية اصطناعية بالغة التعقيد."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "الوعي مرتبط في جوهره بالانبثاق الدينامي عن إعادة تنظيم أنظمة التحكم البيولوجية (ركيزة فيزيائية/عصبية ضمنًا)، بما يعني توقّفه عند انحلال هذه الركيزة."
     },
     "meaning_and_purpose": {
-      "stance": "براغماتي/وجودي",
+      "stance": "Humanistic only",
       "rationale": "يُفسَّر وجود الوعي بوظيفته في تعزيز السلوك التكيفي والحفاظ على التحكم (الغائية) ومعالجة قصور الحياة اللاواعية، دون افتراض غاية كونية أو نهائية."
     },
     "virtual_immortality": {
-      "stance": "ممكن",
+      "stance": "Possible",
       "rationale": "إذا كان الوعي مُلتقَطًا كليًا بالبنية المعلوماتية الكامنة وديناميات هرمية نظام التحكم، فإن هذا النمط الوظيفي يمكن على نحو محتمل نسخه واستدامته في ركيزة غير بيولوجية."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "تداخل"
       },
       {
-        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "name": "Friston's Free-Energy Principle and Active Inference",
         "relationship": "تداخل"
       },
       {

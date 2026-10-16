@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "정보 실재론과 창발적 정보 이론",
     "summary": "정보 실재론은 실재가 근본적으로 존재자들이 정보를 교환하는 역량에 의해 규정되며, 정보가 심신 문제를 해소하는 관계적 접착제 역할을 한다고 주장한다. 창발적 정보 이론(EIT)은 의식이 생물학적 체계 안에서 위계적으로 창발하는 비물질적이고 탐지 불가능한 정보 '값'에서 발생하며, 이것이 물리적 신체에 대한 하향 인과를 가능하게 한다고 제안한다.",
-    "associated_thinkers": ["William Dembski", "Daniel Boyd"],
+    "associated_thinkers": [
+      "William Dembski",
+      "Daniel Boyd"
+    ],
     "category": "유물론",
-    "subcategory": "계산적·정보적 이론",
+    "subcategory": "계산론적 및 정보론적",
     "core_identity_tagline": "‘위계적 창발 정보로서의 의식’",
     "classification_tags": [
       "information",
@@ -52,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "유물론으로 분류되는 계산적·정보적 이론으로서, 인공 시스템이 필요한 복잡하고 위계적이며 강하게 창발하는 정보 구조를 구현할 수 있다면 의식이 달성 가능함을 함축한다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "이 이론은 유물론으로 분류되며, 유물론은 일반적으로 의식이 전적으로 물리적 기질(뇌)에 의존한다고 보므로 신체의 파괴는 의식적 자아의 종결을 뜻한다. 정보 값의 비물질적 성격 또한 체계의 물리적 상태에 의존한다."
     },
     "virtual_immortality": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 근본적으로 (정보가 비물질적이라 하더라도) 정보 구조라면, 이 구조와 그 동역학(위계적 창발과 하향 인과의 역량을 포함하여)을 비생물학적 매체로 복제함으로써 일인칭적 정신적 자아의 지속이 가능할 것이다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "유물론 범주에 속하는 이 이론은 우주적이거나 궁극적인 목적론이 아니라 개인이 만들어내는 인간적 의미와 목적을 통상 수반하는 과학 기반 관점을 지지한다."
     }
   },
@@ -83,7 +86,7 @@
         "relationship": "대조"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "양립 가능"
       }
     ],

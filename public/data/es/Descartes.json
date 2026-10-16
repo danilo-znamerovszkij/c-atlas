@@ -1,0 +1,123 @@
+{
+  "id_and_class": {
+    "theory_title": "Dualismo de sustancias de Descartes",
+    "summary": "René Descartes sostiene que la conciencia, a la que llama pensamiento (cogitatio), es la esencia de una sustancia pensante inmaterial (res cogitans) totalmente distinta del cuerpo extenso y mecánico (res extensa). Todo estado consciente, desde el razonamiento y la voluntad hasta el dolor, el color y la emoción, es un modo de la cosa pensante y está inmediatamente presente a ella. Las sensaciones y las pasiones, sin embargo, surgen solo en la unión de mente y cuerpo, donde los procesos cerebrales mantienen relaciones regulares con experiencias a las que no se parecen.",
+    "associated_thinkers": [
+      "René Descartes"
+    ],
+    "category": "Dualismo",
+    "subcategory": "",
+    "core_identity_tagline": "La conciencia como esencia de una sustancia pensante",
+    "classification_tags": [
+      "substance dualism",
+      "cogito",
+      "res cogitans",
+      "mind-body problem",
+      "early modern philosophy"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia es pensamiento, definido como todo lo que ocurre en nosotros en la medida en que somos inmediatamente conscientes de ello, y es el atributo principal de la mente.",
+    "ontological_status": "Dualismo de sustancias (cartesiano)",
+    "mind_body_relationship": "Mente y cuerpo son sustancias finitas realmente distintas, con esencias exclusivas, pensamiento y extensión, y podrían existir separadas por poder divino. Se unen en el ser humano, donde los movimientos corporales dan lugar a las sensaciones y la mente mueve el cuerpo, aunque Descartes nunca explicó de forma satisfactoria esa interacción.",
+    "primitive_or_emergent_status": "Primitivo",
+    "emergence_type": "No aplicable (el pensamiento es la esencia de una sustancia inmaterial y no surge de la extensión)",
+    "subjectivity_and_intentionality": "La subjetividad es la presencia innegable del propio pensar, asegurada por el cogito. La intencionalidad recorre las ideas, que son modos del pensamiento que presentan a la mente objetos, cuerpos, Dios y cualidades sensibles. La conciencia no requiere autoconciencia reflexiva; algunas operaciones conscientes pasan inadvertidas o no se recuerdan.",
+    "qualia_account": "Las cualidades sensibles no son propiedades de la materia, que solo tiene tamaño, forma, movimiento y disposición. El rojo o el dolor experimentados son un modo mental que surge en la unión encarnada y no puede captarse mediante la extensión.",
+    "ontological_commitments": "Dios; sustancias pensantes finitas; sustancia extensa regida por el mecanicismo; las ideas como modos del pensamiento; los espíritus animales como medio físico del sistema nervioso.",
+    "epistemic_access": "El cogito establece la ocurrencia indudable del pensamiento consciente. El conocimiento de cualquier cosa más allá de él, incluidos los cuerpos, depende de la prueba de que Dios no es engañador.",
+    "constituents_and_structure": "Tres niveles: la mente puramente pensante, el cuerpo extenso y el ser humano constituido por su unión. Los modos del pensamiento incluyen dudar, comprender, afirmar, querer, imaginar, sentir, experimentar emociones y pasiones."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (sensación, dolor, emoción); cognición y volición; certeza de uno mismo",
+    "distinctive_mechanism_or_principle": "Mecanicismo del lado corporal y no reducción del lado mental. La luz afecta mecánicamente a los ojos, los nervios y el cerebro, y la mente experimenta entonces el color, la distancia y la forma en correspondencia regular con esos movimientos.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "La mente no es extensa. Las sensaciones y las pasiones se sienten como pertenecientes al propio cuerpo, y Descartes situó la comunicación mente-cerebro en la glándula pineal.",
+    "causation_and_functional_role": "Las pasiones son causadas y reforzadas por los movimientos de los espíritus animales y disponen al alma hacia la volición y la acción. La voluntad puede a su vez mover el cuerpo.",
+    "integration_or_binding": "El dolor se siente como una perturbación del propio cuerpo, no es observado por el intelecto como el marinero percibe el daño de un barco, lo que muestra la estrecha unión de mente y cuerpo.",
+    "information_flow_or_representation": "Los cuerpos afectan mecánicamente a los órganos de los sentidos y al cerebro; la mente tiene entonces ideas sensoriales que representan objetos sin parecerse a sus propiedades mecánicas.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Incluso si todo el contenido sensorial es engañoso, la ocurrencia de dudar, querer, imaginar y sentir no puede ponerse en duda mientras sucede.",
+      "Mente y cuerpo tienen esencias mutuamente excluyentes, pensamiento y extensión, por lo que son sustancias distintas.",
+      "Las sensaciones y las pasiones son corporales en su causa, pero mentales en su ocurrencia.",
+      "Las cualidades sensibles pertenecen a la mente, no a la materia, que Descartes reduce a tamaño, forma y movimiento."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica: duda metódica, argumentación conceptual y premisas teológicas, combinadas con una fisiología mecanicista."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La princesa Isabel de Bohemia preguntó cómo podía un alma inmaterial mover un cuerpo material, y el problema de la interacción sigue sin resolverse. Arnauld y críticos posteriores acusaron de circularidad, ya que las pruebas de la existencia de Dios que garantizan la percepción clara y distinta se apoyan a su vez en la percepción clara y distinta. La lectura habitual niega la conciencia a los animales, lo que hoy la mayoría considera poco plausible.",
+    "open_questions_and_limitations": "La localización en la glándula pineal y la fisiología de los espíritus animales están obsoletas, y el marco del dualismo de sustancias es cuestionado por la neurociencia y la filosofía de la mente contemporáneas.",
+    "ontological_coherence": "Clara y rigurosa internamente respecto de las dos sustancias, pero deja inexplicada su unión. La idea de Descartes de que Dios creó libremente incluso las verdades matemáticas hace que la garantía divina sostenga, en la base, toda su epistemología."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No",
+      "rationale": "Como el pensamiento pertenece solo a una sustancia inmaterial y la materia es pura extensión, una máquina, por compleja que fuera, sería mecanismo sin mente."
+    },
+    "survival_beyond_death": {
+      "stance": "Yes",
+      "rationale": "Descartes presentó la distinción real entre alma y cuerpo como lo que hace inteligible la supervivencia del alma, y las Meditaciones anuncian ese propósito en su subtítulo."
+    },
+    "meaning_and_purpose": {
+      "stance": "Cosmic/Ultimate",
+      "rationale": "El sistema de Descartes descansa en un Dios no engañador que garantiza el conocimiento y que creó incluso las verdades eternas."
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "Copiar el mecanismo del cuerpo no copiaría la sustancia pensante inmaterial."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Trialism",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Malebranche’s Divine Occasionalism: Inner Sensation and Phenomenal Experience",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Avicenna’s Flying Man and Self-Present Soul",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Swinburne's Substance Dualism",
+        "relationship": "Extensión"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Meditations on First Philosophy, René Descartes (trans. J. Cottingham, R. Stoothoff, and D. Murdoch)",
+        "year": 1984
+      },
+      {
+        "title_with_names": "Principles of Philosophy, René Descartes (trans. J. Cottingham, R. Stoothoff, and D. Murdoch)",
+        "year": 1985
+      },
+      {
+        "title_with_names": "The Passions of the Soul, René Descartes (trans. J. Cottingham, R. Stoothoff, and D. Murdoch)",
+        "year": 1985
+      },
+      {
+        "title_with_names": "Discourse on the Method and Dioptrics, René Descartes (trans. J. Cottingham, R. Stoothoff, and D. Murdoch)",
+        "year": 1985
+      },
+      {
+        "title_with_names": "Descartes’s Dualism, M. Rozemond",
+        "year": 1998
+      },
+      {
+        "title_with_names": "Descartes and the Meditations, G. Hatfield",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Cartesian Trialism, J. Cottingham",
+        "year": 1985
+      }
+    ]
+  }
+}

@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "Lo stato della materia di Tegmark",
     "summary": "Tegmark propone che la coscienza possa essere intesa come uno specifico stato della materia, da lui denominato «perceptronium», definito da distintive capacità di elaborazione dell'informazione. Partendo dalla premessa che tutta l'esistenza sia fisica, la teoria cerca principi che distinguano l'elaborazione dell'informazione complessa e cosciente da quella non cosciente.",
-    "associated_thinkers": ["Max Tegmark"],
-    "category": "Monismi",
+    "associated_thinkers": [
+      "Max Tegmark"
+    ],
+    "category": "Monismo",
     "subcategory": "",
     "core_identity_tagline": "La coscienza come stato della materia: il perceptronium",
     "classification_tags": [
@@ -51,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "La teoria è rigorosamente fisicalista («È tutta fisica») e definisce la coscienza come uno stato della materia conseguibile attraverso un'elaborazione complessa dell'informazione. Pertanto, i sistemi artificiali possono in linea di principio conseguire questo stato."
     },
     "survival_beyond_death": {
@@ -59,11 +61,11 @@
       "rationale": "La coscienza è uno stato emergente della materia (perceptronium) del cervello fisico. La morte irreversibile e la dissoluzione del substrato fisico comporterebbero la cessazione della coscienza."
     },
     "meaning_and_purpose": {
-      "stance": "Incerto/Solo umanistico",
+      "stance": "Humanistic only",
       "rationale": "Il fondamento nella fisica e nella struttura matematica suggerisce tipicamente l'assenza di uno scopo cosmico ultimo, coerentemente con le visioni fisicaliste deflazionistiche. La teoria non propone esplicitamente una teleologia cosmica."
     },
     "virtual_immortality": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "Se la coscienza è uno specifico stato informazionale della materia definito da principi matematici/fisici, tale stato potrebbe potenzialmente essere duplicato o caricato perfettamente in un mezzo non biologico da una tecnologia avanzata."
     }
   },
@@ -78,7 +80,7 @@
         "relationship": "Fondamento"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "Compatibile"
       }
     ],

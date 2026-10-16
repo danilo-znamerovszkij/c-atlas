@@ -1,0 +1,127 @@
+{
+  "id_and_class": {
+    "theory_title": "Il tempo della mente di Libet: potenziale di prontezza, iniziazione inconscia, consapevolezza ritardata, anticipazione della coscienza",
+    "summary": "Benjamin Libet confrontò la tempistica dell'attività cerebrale con quella dell'esperienza e concluse che l'attività neurale deve accumularsi per circa mezzo secondo prima che una sensazione diventi cosciente, mentre il cervello riferisce all'indietro la temporalità vissuta allo stimolo. Applicato all'azione, i suoi esperimenti sul potenziale di prontezza suggerivano che gli atti volontari abbiano inizio in modo inconscio, lasciando alla volontà cosciente il potere di porre il veto. I suoi risultati sono diventati un esempio standard a favore del fisicalismo, eppure Libet stesso sosteneva che l'esperienza fenomenica sia non fisica.",
+    "associated_thinkers": [
+      "Benjamin Libet"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Neurobiologico",
+    "core_identity_tagline": "La coscienza come esperienza ritardata e riferita all'indietro",
+    "classification_tags": [
+      "readiness potential",
+      "free will",
+      "neuronal adequacy",
+      "timing",
+      "veto"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "L'esperienza fenomenica è uno stato reale ma lento a formarsi: richiede una durata minima di attivazione neurale appropriata, la ‘adeguatezza neuronale’, e la sua apparente immediatezza è costruita a posteriori.",
+    "ontological_status": "Dualismo (interazionista emergentista)",
+    "mind_body_relationship": "Libet sosteneva che l'esperienza soggettiva sia non fisica e che mente e cervello siano variabili indipendenti in interazione causale, una concezione che sviluppò come Campo Mentale Cosciente. I suoi dati sulla tempistica sono ampiamente letti come a sostegno del fisicalismo, una lettura che egli respinse.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza forte: Libet riteneva che l'esperienza sia generata dall'attività cerebrale, eppure non fisica e capace di agire di nuovo sul cervello.",
+    "subjectivity_and_intentionality": "Il bersaglio è il sentire grezzo nel senso di Feigl, distinto dalla rilevazione o dal comportamento. L'intenzione cosciente di muoversi compare dopo che il cervello ha già iniziato a preparare l'atto, ma prima del movimento.",
+    "qualia_account": "Libet fa della durata la variabile che converte la rilevazione inconscia in sensazione vissuta: al di sotto dell'adeguatezza neuronale, gli stimoli possono essere rilevati senza essere sentiti.",
+    "ontological_commitments": "Attività neurale corticale e talamica, il potenziale di prontezza, un campo cosciente non fisico ma generato dal cervello e un vero veto cosciente.",
+    "epistemic_access": "Stimolazione e registrazione dirette corticali e talamiche in pazienti neurochirurgici svegli, EEG di superficie e resoconti dei soggetti sulla temporalità, ottenuti con un punto luminoso su un orologio rotante.",
+    "constituents_and_structure": "Tre variabili distinte: la tempistica dell'elaborazione neurale, la tempistica della consapevolezza riportabile e la temporalità soggettivamente vissuta di un evento."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Sensazione fenomenica, temporalità soggettiva, volontà cosciente e agentività.",
+    "distinctive_mechanism_or_principle": "Il fattore ‘tempo di attivazione’: la durata dell'attivazione neurale appropriata, in compromesso con l'intensità, decide se l'elaborazione diventa cosciente, e l'esperienza viene quindi anticipata alla risposta corticale precoce.",
+    "dynamics_of_emergence": "L'esperienza sorge solo dopo una fase neurale inconscia di circa 500 ms; Libet suggeriva che gli eventi mentali comincino in genere in modo inconscio.",
+    "location_and_distribution": "Corteccia somatosensoriale e talamo per l'elaborazione sensoriale; attività corticale legata al movimento per il potenziale di prontezza.",
+    "causation_and_functional_role": "La volontà cosciente non avvia atti spontanei, ma può porvi il veto nei circa 200 ms che precedono il movimento (‘free won't’). Libet trattava questo veto come un vero potere cosciente non determinato.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Una volta raggiunta l'adeguatezza neuronale, il tempo vissuto di un'esperienza viene riferito indietro al potenziale evocato primario, per cui l'ordine temporale soggettivo è un contenuto costruito.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "La stimolazione corticale liminale richiedeva treni di impulsi di circa 500 ms per produrre una sensazione riferita.",
+      "Gli stimoli cutanei venivano anticipati rispetto agli stimoli corticali, che non hanno una risposta evocata primaria, come prevede il riferimento soggettivo.",
+      "Con la stimolazione talamica, i soggetti rilevavano gli stimoli sopra il caso a durate che dichiaravano di non sentire.",
+      "Il potenziale di prontezza iniziava circa 550 ms prima di movimenti non pianificati, mentre la consapevolezza dell'impulso compariva circa 200 ms prima."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurofisiologia empirica in pazienti svegli, unita a un argomento filosofico per un'esperienza non fisica e causalmente efficace."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiricamente verificabile",
+    "known_empirical_interventions_or_tests": "Stimolazione diretta della corteccia somatosensoriale, del lemnisco mediale e del nucleo ventrobasale del talamo; rilevazione a scelta forzata sotto stimolazione talamica; il paradigma del potenziale di prontezza con il punto dell'orologio.",
+    "criticisms_and_tensions": "Schurger, Sitt e Dehaene modellano il potenziale di prontezza come un artefatto di media di un accumulatore stocastico, per cui il suo ‘inizio’ non segna alcun evento reale e il confronto temporale con la consapevolezza crolla. Dennett respinge l'anticipazione perché presuppone un teatro interiore, e Gomes e Pockett leggono i dati sensoriali come compatibili con latenze molto più brevi. I critici notano inoltre che il veto potrebbe avere a sua volta cause inconsce e che i resoconti cronometrici della consapevolezza sono inaffidabili.",
+    "open_questions_and_limitations": "Gli studi di stimolazione si basano su piccoli campioni clinici difficili da replicare, la cifra di mezzo secondo non è stabilita e i movimenti semplici e privi di scopo studiati differiscono dalle decisioni reali. Resta aperta la questione se esista un potenziale di prontezza discreto nelle singole prove.",
+    "ontological_coherence": "Attraversa la teoria una tensione: i dati arruolati a favore del fisicalismo provengono da un teorico che era un non fisicalista interazionista. I risultati sulla tempistica riguardano quando si verifica l'esperienza, non che cosa sia."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Libet lega l'esperienza a un campo generato dall'attività cerebrale e non dice se sistemi non biologici potrebbero generarne uno."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Sebbene Libet ritenesse l'esperienza non fisica, la considerava generata dall'attività cerebrale, per cui nulla nella concezione suggerisce che essa sopravviva al cervello."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Libet difendeva il libero arbitrio e la responsabilità morale attraverso il veto cosciente, senza rivendicare alcuno scopo cosmico."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "La concezione non affronta se un cervello simulato genererebbe un campo cosciente."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Libet's Conscious Mental Field",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Halligan and Oakley’s Species-Enhancing Epiphenomenalism",
+        "relationship": "Contrasto"
+      },
+      {
+        "name": "Sapolsky's Hard Incompatibilism",
+        "relationship": "Contrasto"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mind Time: The Temporal Factor in Consciousness, Benjamin Libet",
+        "year": 2004
+      },
+      {
+        "title_with_names": "Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential), B. Libet, C. A. Gleason, E. W. Wright and D. K. Pearl",
+        "year": 1983
+      },
+      {
+        "title_with_names": "Subjective referral of the timing for a conscious sensory experience, B. Libet, E. W. Wright, B. Feinstein and D. K. Pearl",
+        "year": 1979
+      },
+      {
+        "title_with_names": "Control of the transition from sensory detection to sensory awareness in man by the duration of a thalamic stimulus, B. Libet et al.",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Unconscious cerebral initiative and the role of conscious will in voluntary action, Benjamin Libet",
+        "year": 1985
+      },
+      {
+        "title_with_names": "A testable field theory of mind-brain interaction, Benjamin Libet",
+        "year": 1994
+      },
+      {
+        "title_with_names": "An accumulator model for spontaneous neural activity prior to self-initiated movement, A. Schurger, J. D. Sitt and S. Dehaene",
+        "year": 2012
+      },
+      {
+        "title_with_names": "What is the readiness potential?, A. Schurger, P. B. Hu, J. Pak and A. L. Roskies",
+        "year": 2021
+      }
+    ]
+  }
+}

@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "プリンツの神経機能主義：注意が経験を生み出す",
     "summary": "この理論は、意識が注意から生じると主張する。注意は、処理の中間段階において知覚情報が記憶システムへと流れることを促進する。この過程は根本的に同期した神経発火に依拠し、刺激についての、統合され視点を保持した表象をもたらす。",
-    "associated_thinkers": ["Jesse Prinz"],
+    "associated_thinkers": [
+      "Jesse Prinz"
+    ],
     "category": "唯物論",
     "subcategory": "神経生物学的",
     "core_identity_tagline": "注意を向けられた中間表象としての意識",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "この理論は意識を、注意を介して情報を記憶に利用可能にする特定の神経機能的過程として同定するため、この計算論的機能は十分に高度な非生物学的システムにおいて達成可能なはずである。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "唯物論の内部に完全に収まる理論として、意識は脳の生物学的組織と過程（例：同期した神経発火）に完全に依存し、それによって生成され、脳の破壊とともに消滅する。"
     },
     "meaning_and_purpose": {
-      "stance": "人間的な意味のみ",
+      "stance": "Humanistic only",
       "rationale": "意識の機能は実用的であり、柔軟な行動のために知覚情報を利用可能にすることである。それは唯物論的パラダイムの内部で作動し、そこでは通例、意味と目的は宇宙的ではなく自己創出的なものとされる。"
     },
     "virtual_immortality": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "神経機能主義を基盤とし、完全な唯物論的説明を目指すことを踏まえれば、注意に基づく表象システムを非生物学的基体において完全に機能的に複製すれば、元の一人称の意識的自己が保存されるはずである。"
     }
   },
@@ -74,7 +76,7 @@
         "relationship": "拡張"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "両立可能"
       },
       {
@@ -82,7 +84,7 @@
         "relationship": "批判"
       },
       {
-        "name": "Recurrent Processing Theory",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "重複"
       }
     ],

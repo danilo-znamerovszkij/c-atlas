@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "الإحساس عند بيريرا",
     "summary": "تفترض هذه النظرية أن للوعي نمطين متمايزين: الإحساس التأسيسي، المتّسم بمشاعر أساسية كالألم والجوع، والوعي المعرفي الأعلى مستوى، المتضمن للتفكير المجرد والتمثيل. والدعوى الجوهرية هي أن القدرة المعرفية تعتمد على هذه الحالة الإحساسية الكامنة، المتجذّرة بيولوجياً في الأنظمة التوازنية.",
-    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "associated_thinkers": [
+      "Antonio Pereira, Jr."
+    ],
     "category": "المادية",
-    "subcategory": "التوازني والوجداني",
+    "subcategory": "استتبابية",
     "core_identity_tagline": "الوعي بوصفه نظاماً ذا مستويين متجذّراً في الإحساس",
     "classification_tags": [
       "sentience",
@@ -53,34 +55,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مشروط",
+      "stance": "Conditional",
       "rationale": "إذا استطاعت الأنظمة الاصطناعية أن تستنسخ استنساخاً تاماً الأنظمة الفسيولوجية الحاكمة للتوازن البيوكيميائي الديناميكي (اللازم للإحساس) ونشاط الشبكة الكهربائي الحيوي اللازم (للمعرفة)، فإن الوعي الاصطناعي يغدو ممكناً."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "بما أن الوعي معتمد بصرامة على أنظمة بيولوجية وظيفية (التحكم التوازني والشبكات العصبية)، فيُفترَض أنه يتوقف عند الانحلال اللاعكوس للجسد والدماغ."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "تركّز النظرية على الدور الوظيفي التكيفي للوعي في الحفاظ على الاستقرار البيولوجي (التوازن) وإتاحة معرفة مرنة، ولا تقدّم أساساً لغاية كونية أو نهائية."
     },
     "virtual_immortality": {
-      "stance": "مشروط",
+      "stance": "Conditional",
       "rationale": "ممكن نظرياً فقط إذا أمكن رقمنة الأنماط التوازنية والكهربائية الحيوية النوعية المحدَّدة بوصفها مرتبطات الإحساس والمعرفة، واستنساخها استنساخاً تاماً في وسط غير بيولوجي."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "تداخل"
       },
       {
-        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "name": "Solms's Affect as the Hidden Spring of Consciousness",
         "relationship": "متوافق"
       },
       {
-        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+        "name": "Prinz's Neurofunctionalism: Attention Engenders Experience",
         "relationship": "متوافق"
       }
     ],

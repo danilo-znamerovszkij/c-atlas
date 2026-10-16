@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "“Il punto cieco” di Frank/Gleiser/Thompson",
     "summary": "Questo quadro critica gli approcci materialisti e dualisti tradizionali affermando la primazia reciproca della coscienza e dell'incarnazione, sostenendo che ogni indagine scientifica si svolge necessariamente all'interno dell'‘orizzonte della coscienza’. Definisce il 'problema difficile' come un artefatto del 'Punto Cieco'—l'incapacità di riconoscere l'irriducibile precondizione dell'esperienza nella ricerca della verità oggettiva—e propone uno spostamento radicale verso la neurofenomenologia.",
-    "associated_thinkers": ["Adam Frank", "Marcello Gleiser", "Evan Thompson"],
-    "category": "Teorie del Materialismo",
-    "subcategory": "Incarnato ed Enattivo",
+    "associated_thinkers": [
+      "Adam Frank",
+      "Marcello Gleiser",
+      "Evan Thompson"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Incarnato",
     "core_identity_tagline": "La coscienza come precondizione irriducibile e strano anello incarnato",
     "classification_tags": [
       "embodiment",
@@ -45,31 +49,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Incerta",
+      "stance": "Uncertain",
       "rationale": "La teoria considera la coscienza intrinsecamente legata all'esperienza incarnata in prima persona all'interno di uno 'strano anello'. Poiché critica il funzionalismo computazionale che sta alla base della maggior parte degli approcci all'IA, non è chiaro se la mera computazione non biologica possa raggiungere questa coscienza irriducibile e incarnata."
     },
     "survival_beyond_death": {
-      "stance": "Incerta",
+      "stance": "Uncertain",
       "rationale": "La teoria sottolinea la primazia dell'incarnazione, suggerendo che la coscienza sia legata all'organismo. Tuttavia, la sua posizione non riduttiva, che sostiene una scienza basata sulla primazia dell'esperienza, non preclude possibilità di sopravvivenza, sebbene le fonti non specifichino una posizione."
     },
     "meaning_and_purpose": {
-      "stance": "Intrinseco/Esistenziale",
+      "stance": "Humanistic only",
       "rationale": "La teoria mira a recuperare il 'posto centrale dell'esperienza umana nell'impresa scientifica', implicando che il significato e il valore siano fondamentalmente presenti nella realtà irriducibile della coscienza e dell'esperienza."
     },
     "virtual_immortality": {
-      "stance": "Improbabile",
+      "stance": "Unlikely",
       "rationale": "L'immortalità virtuale si basa sulla riuscita digitalizzazione e replicazione degli stati mentali (funzionalismo computazionale). Poiché la teoria considera la coscienza un fenomeno irriducibile e incarnato—uno 'strano anello'—implica fortemente che il caricamento della mente sarebbe impossibile a causa del suo rifiuto della filosofia riduzionista sottostante."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Neurophenomenology", "relationship": "Sostegno/Estensione" },
-      { "name": "Embodied and Enactive Theories", "relationship": "Allineamento" },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Sostegno/Estensione"
+      },
+      {
+        "name": "Embodied",
+        "relationship": "Allineamento"
+      },
       {
         "name": "Reductionism/Physicalism",
         "relationship": "Critica/Rifiuto"
       },
-      { "name": "Francisco Varela’s work", "relationship": "Influenza" }
+      {
+        "name": "Francisco Varela’s work",
+        "relationship": "Influenza"
+      }
     ],
     "sources_and_references": [
       {

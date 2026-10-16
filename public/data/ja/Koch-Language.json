@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "意識は言語に依存しないというコッホの理論",
     "summary": "本理論は、現象的意識、すなわち基本的な内的経験が、言語能力から機能的に独立していると主張する。それは、言語能力が重度に損なわれあるいは失われながらも根本的な気づきが保持される臨床例によって支持され、基本的な感受性が多くの非言語的動物と共有される広く分布した性質であるという結論へと至る。",
-    "associated_thinkers": ["Christof Koch"],
-    "category": "唯物論の理論",
-    "subcategory": "言語との関係",
+    "associated_thinkers": [
+      "Christof Koch"
+    ],
+    "category": "唯物論",
+    "subcategory": "言語",
     "core_identity_tagline": "意識は言語から独立している",
     "classification_tags": [
       "phenomenal consciousness",
@@ -50,38 +52,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "言語は意識に必要ではないため、AIの言語能力（大規模言語モデル）は無関係である。AIの意識は、必要な非言語的な物理的基盤が人工システムにおいて複製されうるか否かに全面的に依拠する。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "その唯物論的分類と整合的に、意識は物理的基盤（脳）に結びついており、生物学的死後に持続しえない。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的な意味のみ",
+      "stance": "Humanistic only",
       "rationale": "意識は自己が言語を介して物語の中心として機能することを可能にし、人間が作り出す意味を許すが、根底にある物質的実在は究極的な宇宙的目的が存在しないことを示唆する。"
     },
     "virtual_immortality": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "意識が言語から切り離されるならば、焦点は基本的な気づきの非言語的で物理的な基盤を複製することへと全面的に移る。この特定の非言語的な神経構造が複製されうるならば、仮想的不死は可能である。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
         "relationship": "批判"
       },
       {
-        "name": "Searle’s Language and Consciousness",
+        "name": "Searle's Language and Consciousness",
         "relationship": "批判"
       },
       {
-        "name": "Andrews’s Consciousness Without Complex Brains",
+        "name": "Andrews's Consciousness Without Complex Brains",
         "relationship": "両立可能"
       },
       {
-        "name": "Smith’s Language as Classifier of Consciousness",
+        "name": "Smith's Language as Classifier of Consciousness",
         "relationship": "重複"
       }
     ],

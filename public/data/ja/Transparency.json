@@ -8,8 +8,8 @@
       "Michael Tye",
       "Dirk Franken"
     ],
-    "category": "唯物論の諸理論",
-    "subcategory": "表象主義的理論",
+    "category": "唯物論",
+    "subcategory": "一階",
     "core_identity_tagline": "「透明な表象としての意識」",
     "classification_tags": [
       "representationalism",
@@ -55,26 +55,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "唯物論の諸理論に対する哲学的擁護として、意識は計算的あるいは表象的であるという見解を支持し、それゆえAIの意識は原理的に絶対的に可能である。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は物理的な脳に由来する表象的状態に基づいている。唯物論のパラダイムに従えば、脳の破壊はその人の恒久的な非存在を意味する。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "本理論は唯物論を補強するように機能し、唯物論は通例、人間主義的に創出された意味・目的・価値のみを支持する。"
     },
     "virtual_immortality": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "意識がもっぱら表象的内容によって説明され尽くすのであれば、この情報は理論的に複製され、非生物学的基盤へアップロードされうるため、仮想的不死は達成可能となる。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Representational Theories",
+        "name": "First-Order",
         "relationship": "基盤"
       },
       {
@@ -82,7 +82,7 @@
         "relationship": "類似／同等"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "擁護／支持"
       },
       {

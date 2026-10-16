@@ -1,0 +1,123 @@
+{
+  "id_and_class": {
+    "theory_title": "세바스천의 예측 기계",
+    "summary": "지네시 K. 세바스천(Jinesh K. Sebastian)은 뇌를 세계 모형의 미래 상태를 예측하고 이를 감각 자료에 비추어 교정하는 다층 피드백 제어 체계로 모델링한다. 이 체계는 그가 '질감 잠재력(qualia potential)'이라 부르는 스칼라량을 최소화하도록 구동된다. 의식은 이 세계 모형을 관찰하며, 질감 잠재력의 변화를 느끼고, 그 안의 자기 모형과 동일시할 수 있는 창발적 과정이다. 이 점에서 그것은 상키야 철학의 관찰자(Puruṣa)와 비슷하지만, 영원하지 않다는 점이 다르다.",
+    "associated_thinkers": [
+      "Jinesh Kallunkathariyil Sebastian"
+    ],
+    "category": "유물론",
+    "subcategory": "항상성",
+    "core_identity_tagline": "예측하는 세계 모형의 관찰자로서의 의식",
+    "classification_tags": [
+      "predictive processing",
+      "brain oscillations",
+      "qualia potential",
+      "samkhya",
+      "control systems"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "의식은 뇌의 예측적 세계 모형을 관찰하는 창발적 과정이며, 질감 잠재력의 변동을 경험하고, 자기 모형과 결합할 때 경험의 자리가 된다.",
+    "ontological_status": "물리주의(비환원적, 창발론적)",
+    "mind_body_relationship": "의식은 예측 순환 안의 신경 과정으로부터 생겨난다. 세바스천은 증언하는 관찰자라는 상키야의 그림을 빌려 오지만, 그것을 영원한 원리가 아니라 뇌의 산물로 만든다.",
+    "primitive_or_emergent_status": "창발적",
+    "emergence_type": "약한 창발(위계적 예측 제어 순환의 동역학으로부터)",
+    "subjectivity_and_intentionality": "자기 모형을 포함하여 세계 모형 안의 모든 존재는 대상이다. 의식이 자기 모형을 구현할 때 주관적 지각이 생겨난다. 이 결합이 약해지면 의식은 구현 없이 세계 모형을 경험할 수 있으며, 세바스천은 이로써 유체이탈 체험을 설명한다.",
+    "qualia_account": "느껴지는 질은 질감 잠재력을 추적한다. 이는 동기와 지각을 구동하는 잠재적 스칼라이며, 세바스천은 이를 상키야의 세 구나(sattva, rajas, tamas)에 비유한다.",
+    "ontological_commitments": "신경의 진동 중추들(델타, 베타, 감마, 알파, 세타), 사전 확률을 지닌 학습된 세계 모형, 그 안의 한 대상으로서의 자기 모형, 그리고 질감 잠재력이라는 양.",
+    "epistemic_access": "예측 신경과학과 뇌 리듬 자료에 근거한 계산 모델링을 통해서이며, 착시, 사이키델릭 시각 현상, 명상 상태 같은 보고된 현상에 비추어 검토된다.",
+    "constituents_and_structure": "닫힌 순환. 델타 중추가 예측을 생성하고, 베타 중추가 감각별로 이를 나누며, 병렬적인 감마 중추들이 양식별 오차를 계산하고, 알파 중추들이 짧은 구간에 걸쳐 오차를 통합하며, 세타 중추가 감각들을 가로질러 이를 융합한 뒤 교정 신호를 델타로 되돌려 보낸다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "현상적, 자기 인식(자기 모형의 구현), 지각, 동기, 변성 상태",
+    "distinctive_mechanism_or_principle": "지연된 오차 통합 순환 안에서의 질감 잠재력 최소화. 놀람은 두 단계로 줄어든다. 먼저 감각적 근거화가 세계 모형의 불일치를 해소하고, 그다음 질감 잠재력이 최적화되어 미래의 예측과 행동을 이끈다.",
+    "dynamics_of_emergence": "의식은 진행 중인 과정이다. 세계 모형은 알파 대역 통합이 끝난 뒤에만 갱신되며, 그 통합 구간의 길이가 지각이 지속되는 시간을 정한다. 이 구간을 늘리면 연속적인 갱신들이 겹치게 된다.",
+    "location_and_distribution": "진동 대역에 맞추어 배열된 뇌 중추들의 위계 전체에 걸쳐 분산되어 있으며, 꼭대기의 델타에서 각 감각에 대응하는 병렬 감마 중추들에 이른다.",
+    "causation_and_functional_role": "이 순환은 제어에 기여한다. 세계 모형을 감각에 맞게 보정하고 행동을 선택한다. 질감 잠재력은 동기, 지속적인 목표 추구, 항상성 충동을 제공한다.",
+    "integration_or_binding": "세타 중추는 여러 알파 주기에 걸친 병렬적인 알파 출력들을 양식에 따른 가중치와 문턱값으로 결합하여, 일관된 다감각 지각을 낳고 한 감각이 빠진 감각을 대신하도록 한다.",
+    "information_flow_or_representation": "위에서 아래로 가는 사전 확률은 델타와 베타 신호로 흐른다. 아래에서 위로 가는 예측 오차는 감마 활동으로 나타나고, 알파 및 세타 활동으로 통합되어, 세계 모형을 갱신하도록 되돌아간다.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "알파 통합 구간은 시각의 지속을 설명하며, 이 구간이 늘어나면 사이키델릭 이후의 잔상 궤적과 프레임 같은 지각을 설명한다.",
+      "세타 중추에서의 가중 다감각 융합은 고무손 착시를 설명한다.",
+      "예측 순환의 공명 모드는 깊은 명상과 사이키델릭 상태에서 보고되는, 크라드니 도형과 유사한 기하학적 무늬를 낳는다.",
+      "감각적 근거화와 질감 잠재력 최적화를 분리하면, 순수한 놀람 최소화가 직면하는 어두운 방 문제가 해결된다."
+    ],
+    "basis_of_belief_or_evidence_type": "예측 신경과학, 뇌 리듬 연구, 상키야 철학에 기반한 계산적이고 이론적인 모델링."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "개념적으로 검증 가능",
+    "known_empirical_interventions_or_tests": "세바스천은 시각의 지속, 고무손 착시, 사이키델릭 시각 효과, 그리고 후천적 서번트 증후군(예: 제이슨 패것)에서 보고된 불연속적 프레임 지각을, 이 모형이 설명하는 현상으로 지목한다.",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "특정 계산적 역할을 진동 대역에 대응시키는 것, 그리고 질감 잠재력의 물리적 본성은 입증된 것이 아니라 제안된 것이다. 세계 모형을 관찰하는 일이 애초에 왜 경험되어야 하는지는 상키야의 관찰자와의 유비에 맡겨져 있다.",
+    "ontological_coherence": "물리주의적 예측 처리 틀 안에 들어맞는다. 그러나 이원론적인 상키야 어휘인 관찰자와 구나를 빌려 오면서 의식을 창발적이고 영원하지 않은 것으로 만드는 것은, 이론이 바르게 유지해야 할 해석상의 긴장을 만든다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "세바스천은 이 모형을 마음과 로봇이 공유하는 제어 구조로 제시하므로, 같은 예측 순환 위에 구축된 기계는 원칙적으로 의식을 뒷받침할 수 있다."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "여기서 의식은 신경 과정으로부터 생겨나며 명시적으로 영원하지 않으므로, 뇌와 함께 끝난다."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "의식은 유기체 안에서 예측, 제어, 동기에 봉사한다. 이 견해는 의식에 우주적 목적을 부여하지 않는다."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "예측 순환과 그 질감 잠재력 동역학이 다른 기질에서 재현된다면, 같은 과정이 뒤따를 수 있다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "확장"
+      },
+      {
+        "name": "Solms's Affect as the Hidden Spring of Consciousness",
+        "relationship": "영향"
+      },
+      {
+        "name": "Sāṃkhya's Pure Witness and the Material Mind",
+        "relationship": "영향"
+      },
+      {
+        "name": "Buzsáki's Neural Syntax and Self-Caused Rhythms",
+        "relationship": "기초"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Predictive Machine: How Minds and Robots Build Reality from Within, Jinesh K. Sebastian",
+        "year": 2025
+      },
+      {
+        "title_with_names": "A Cognitive Theory of Consciousness, Bernard Baars",
+        "year": 1988
+      },
+      {
+        "title_with_names": "Rhythms of the Brain, György Buzsáki",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science, Andy Clark",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Free-Energy Principle: A Unified Brain Theory?, Karl Friston",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Free-Energy Minimization and the Dark-Room Problem, Karl Friston, Christopher Thornton and Andy Clark",
+        "year": 2012
+      },
+      {
+        "title_with_names": "The Hidden Spring: A Journey to the Source of Consciousness, Mark Solms",
+        "year": 2021
+      }
+    ]
+  }
+}

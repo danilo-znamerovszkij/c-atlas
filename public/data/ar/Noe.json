@@ -7,7 +7,7 @@
       "Kevin O’Regan"
     ],
     "category": "المادية",
-    "subcategory": "علائقية",
+    "subcategory": "مُجسَّدة",
     "core_identity_tagline": "الوعي بوصفه تفاعلًا فاعلًا مع العالم",
     "classification_tags": [
       "relational",
@@ -54,38 +54,62 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "غير مؤكد/مشروط",
+      "stance": "Uncertain",
       "rationale": "الحوسبة المعيارية غير كافية؛ فالوعي ممكن فقط إذا حققت أنظمة الذكاء الاصطناعي التجسّد الكامل والمهارات والتفاعل المستمر المستقل مع عالم (مستوفيةً المتطلبات نفسها المفروضة على الكائنات الحية)."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "الوعي غير قابل للفصل عن الحلقة الفيزيائية الفاعلة المستمرة التي تشمل الدماغ والجسد وهما يتفاعلان مع العالم؛ ويعني توقفها إنهاء النشاط الواعي."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "يتيح الوعي للفاعل اكتساب السياق والمعرفة والفهم، مانحًا القدرة على إسناد المعنى للتفاعلات وتوجيه السلوك الاستباقي، لكنه لا يقتضي غاية متعالية."
     },
     "virtual_immortality": {
-      "stance": "غير معقول إلى حد بعيد",
+      "stance": "Unlikely",
       "rationale": "رفع العمليات الداخلية للدماغ وحدها («الموضع الميكانيكي») لا يمكن أن يلتقط النشاط التفاعلي المستمر الخارجي غير المحصور في الدماغ المُعرَّف بوصفه وعيًا."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Enactivism (Varela & Thompson)", "relationship": "إطار مكوِّن" },
-      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "تأثير تأسيسي" },
-      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "تأثير فلسفي" },
-      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "متوافقة جزئيًّا/متداخلة" },
-      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "ذات صلة/مكمِّلة (الإدراك الفاعل، نموذج الدوائر المشتركة)" },
-      { "name": "Internalist Materialism", "relationship": "نقد" },
-      { "name": "Dualism", "relationship": "نقد" }
+      {
+        "name": "Enactivism",
+        "relationship": "إطار مكوِّن"
+      },
+      {
+        "name": "Ecological Psychology (James J. Gibson)",
+        "relationship": "تأثير تأسيسي"
+      },
+      {
+        "name": "Embodied Phenomenology (Maurice Merleau-Ponty)",
+        "relationship": "تأثير فلسفي"
+      },
+      {
+        "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)",
+        "relationship": "متوافقة جزئيًّا/متداخلة"
+      },
+      {
+        "name": "Susan Hurley — Action/Perception & Shared Circuits",
+        "relationship": "ذات صلة/مكمِّلة (الإدراك الفاعل، نموذج الدوائر المشتركة)"
+      },
+      {
+        "name": "Internalist Materialism",
+        "relationship": "نقد"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "نقد"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
         "year": 2010
       },
-      { "title_with_names": "Varieties of Presence, Alva Noë", "year": 2012 },
+      {
+        "title_with_names": "Varieties of Presence, Alva Noë",
+        "year": 2012
+      },
       {
         "title_with_names": "Is consciousness an illusion, Alva Noë",
         "year": 2007

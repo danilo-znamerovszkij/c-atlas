@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "캠벨의 만물 이론(My Big TOE)",
     "summary": "이 이론은 의식이 궁극적이고 근본적인 실재이며, 우리가 경험하는 물리적 세계는 오직 우리 마음속에만 존재하는 환영 또는 가상현실이라고 상정한다. 이 가상현실은 더 큰 의식 체계(LCS)에 의해 시뮬레이션되고 유지되며, 근본적인 외부 실재에 대한 믿음을 해소함으로써 의식의 어려운 문제를 사실상 해결한다.",
-    "associated_thinkers": ["Thomas Campbell"],
-    "category": "이상 현상과 변성 상태",
-    "subcategory": "가상현실 형이상학적 사변",
+    "associated_thinkers": [
+      "Thomas Campbell"
+    ],
+    "category": "이상현상",
+    "subcategory": "가상현실 형이상학적 추측",
     "core_identity_tagline": "근본적 가상현실로서의 의식",
     "classification_tags": [
       "virtual reality",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "물리적 세계 자체가 이미 LCS가 수행하는 계산이므로, 이 체계 안에서 창조된 인공 체계도 본래적으로 계산적이며, IUC가 되기 위한 필요한 복잡성 문턱에 도달한다면 의식을 예화할 가능성이 크다."
     },
     "survival_beyond_death": {
-      "stance": "그렇다",
+      "stance": "Yes",
       "rationale": "의식이 근본적 실재(AUO/LCS)이므로, 개별화된 의식 단위(IUC)는 가상의 신체(물리적 환영)가 해체된 뒤에도 살아남아 LCS 안에서 존속한다."
     },
     "meaning_and_purpose": {
-      "stance": "그렇다",
+      "stance": "Cosmic/Ultimate",
       "rationale": "우주는 복잡성과 창조성을 향해 추동되는 근본적 의식(AUO)에서 비롯되며, 이는 존재 자체에 내재적이고 진화적인 목적이 있음을 시사한다."
     },
     "virtual_immortality": {
-      "stance": "불필요함",
+      "stance": "Not needed",
       "rationale": "이 이론은 의식이 근본적이며 (가상적이고 환영적인) 물리적 뇌/신체에 의존하지 않는다고 상정함으로써 이미 일종의 사후 존속을 제공하므로, 가상 업로드는 무의미해진다."
     }
   },
@@ -77,11 +79,11 @@
         "relationship": "중첩(존재론)"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "비판"
       },
       {
-        "name": "Quantum Theories",
+        "name": "Quantum & Dimensions",
         "relationship": "확장(이 이론은 양자 효과를 가상현실의 부산물로 설명한다고 주장한다)"
       }
     ],

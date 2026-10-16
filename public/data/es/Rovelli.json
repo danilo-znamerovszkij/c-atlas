@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Física Relacional de Rovelli",
     "summary": "Esta teoría adopta una visión deflacionaria del problema difícil al postular que la conciencia queda suficientemente explicada por el aspecto profundamente relacional de la física, especialmente la mecánica cuántica y la relatividad general. La física, entendida correctamente como perspectival —que describe cómo las entidades se manifiestan unas a otras—, disuelve el supuesto desajuste entre el mundo físico y la experiencia subjetiva.",
-    "associated_thinkers": ["Carlo Rovelli"],
-    "category": "Teorías Cuánticas",
-    "subcategory": "Física Relacional",
+    "associated_thinkers": [
+      "Carlo Rovelli"
+    ],
+    "category": "Cuántico",
+    "subcategory": "Física de las relaciones",
     "core_identity_tagline": "'La Conciencia como Realidad Perspectival'",
     "classification_tags": [
       "relationalism",
@@ -50,7 +52,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si la conciencia (los pensamientos) queda plenamente explicada por la interacción de sistemas físicos complejos descritos relacionalmente, entonces cualquier sistema artificial suficientemente complejo cuyo funcionamiento esté gobernado por estas leyes físicas alcanzaría la conciencia."
     },
     "survival_beyond_death": {
@@ -58,11 +60,11 @@
       "rationale": "La teoría rechaza explícitamente que la conciencia desempeñe un papel especial e íntimo en la mecánica cuántica, y explica los pensamientos mediante sistemas físicos complejos. Por lo tanto, la conciencia está ligada a la existencia del sistema físico (por ejemplo, el cerebro), que se disuelve con la muerte."
     },
     "meaning_and_purpose": {
-      "stance": "Improbable/solo humanístico",
+      "stance": "Humanistic only",
       "rationale": "El enfoque está en describir cómo se estructura la realidad a través de relaciones. Aunque los sistemas emergentes complejos (los humanos) pueden crear significado, la realidad física fundamental descrita por la física relacional no proporciona ninguna teleología cósmica ni propósito último."
     },
     "virtual_immortality": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Dado que la conciencia se explica por la estructura e interacción de sistemas físicos, la duplicación o simulación precisa de estos estados físicos relacionales complejos en un sustrato artificial debería lograr la inmortalidad virtual, siempre que la tecnología sea suficientemente avanzada."
     }
   },
@@ -73,11 +75,11 @@
         "relationship": "Compatible (sustenta una 'forma muy leve')"
       },
       {
-        "name": "Stapp’s Collapsing the Wave Function via Asking “Questions”",
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
         "relationship": "Crítica (Rovelli argumenta en contra de que la conciencia tenga un papel especial en el colapso de la mecánica cuántica.)"
       },
       {
-        "name": "Musser’s 'Is It Really So Hard?'",
+        "name": "Musser's \"Is It Really So Hard?\"",
         "relationship": "Influencia (Musser cita con aprobación el enfoque relacional de Rovelli.)"
       }
     ],

@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "밀러의 뇌파에 의한 피질의 아날로그 조직화",
+    "summary": "얼 K. 밀러는 이동하는 뇌파가 아날로그 연산을 수행함으로써 피질을 즉각적으로 조직한다고 주장한다. 여기서 더 느린 알파파와 베타파는 감각 내용을 나르는 더 빠른 감마 활동에 목표를 부여한다. 의식은 ‘인지의 빙산의 일각’으로서, 이러한 파동 패턴이 피질을 통합할 만큼 커질 때 생겨난다.",
+    "associated_thinkers": [
+      "Earl K. Miller"
+    ],
+    "category": "유물론",
+    "subcategory": "전자기적",
+    "core_identity_tagline": "아날로그 뇌파로 통합된 피질로서의 의식",
+    "classification_tags": [
+      "brain waves",
+      "analog computation",
+      "prefrontal cortex",
+      "spatial computing",
+      "anesthesia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "의식은 뇌파의 아날로그 연산에서 나오는 자연스러운 결과이다. 파동 패턴이 충분히 커지고 조율되어 피질을 하나의 표상으로 통합할 때 의식이 나타난다.",
+    "ontological_status": "물리주의 (비환원적, 역학적)",
+    "mind_body_relationship": "인지와 의식은 대규모 신경 자기 조직화의 창발적 속성이며, 밀러는 이 조직화의 많은 측면이 그 구성 요소로 환원되지 않는다고 본다.",
+    "primitive_or_emergent_status": "창발적",
+    "emergence_type": "약한 창발 (집단 수준의 파동 역학이 단일 뉴런으로 환원되지 않는 방식으로 신경 활동을 조직한다)",
+    "subjectivity_and_intentionality": "목적 지향성이 기제에 내장되어 있다. 느린 파동은 뇌의 ‘규칙에 대한 내적 감각’을 부호화하고 더 빠른 활동이 표현할 수 있는 것을 제약하며, 이것이 사고에 대한 의지적 통제를 가능하게 한다.",
+    "qualia_account": "",
+    "ontological_commitments": "뉴런과 순환 회로망, 서로 다른 주파수의 진동, 이동파, 그리고 그것들이 만드는 전기장.",
+    "epistemic_access": "인지 과제를 수행하는 동물에서의 다영역 동시 기록과, 마취제가 파동 역학을 어떻게 바꾸는지에 대한 연구를 통해서이다.",
+    "constituents_and_structure": "과제 규칙과 목표를 나르는 알파/베타파(대략 10~35 Hz), 감각 내용을 나르는 감마파(35~60 Hz), 그리고 피질 표면을 선형으로 또는 회전하며 이동하는 이동파."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "접근과 실행 통제; 작업 기억; 주의; 의식 수준(마취를 통해).",
+    "distinctive_mechanism_or_principle": "공간적 연산: 알파파와 베타파는 전전두피질의 일부 영역에 대해 ‘억제 주형’으로 작용하여, 감마와 연결된 감각 내용이 언제, 어디에서 스파이크로 표현될 수 있는지를 결정한다. 이에 따라 뉴런들은 재배선 없이 임시 과제 집단을 형성한다.",
+    "dynamics_of_emergence": "순환 회로망은 자연스럽게 진동하며, 파동은 실시간으로 신경 활동을 조직한다. 주의가 분산된 뒤에는 회전하는 상태 공간 역학과 이동파가 앞선 활동 패턴을 복원한다.",
+    "location_and_distribution": "피질 전반에 걸쳐 있으며, 실행 통제에서는 전전두피질이, 주의에서는 전두-두정 조율이 중심적 역할을 한다.",
+    "causation_and_functional_role": "의식은 유연성, 계획, 그리고 통합된 표상을 필요로 하는 큰 그림의 과제를 뒷받침한다. 파동에 의한 인지 작업의 대부분은 의식 없이 진행된다.",
+    "integration_or_binding": "대규모 파동 패턴이 피질을 통합한다. 전기장은 자기장 결합(ephaptic coupling)을 통해 뉴런들을 정보를 나르는 집단으로 묶을 수 있다.",
+    "information_flow_or_representation": "아날로그 파동은 위상을 통해 어떤 값이든 매끄럽게 표상할 수 있다. 베타 세기는 감마 세기를 제약하여 목표를 부과하며, 베타가 이완되면 감마가 작업 기억에서 항목을 되살린다.",
+    "evolutionary_account": "밀러는 뇌가 자신의 파동이 제공하는 빠르고 정보가 풍부하며 신뢰할 수 있는 전파를 활용하도록 진화했다고 본다.",
+    "core_claims_and_evidence": [
+      "밀러와 코언(2001)은 전전두피질이 다른 뇌 영역을 편향시키는 목표 패턴을 유지함으로써 인지 통제를 행사한다고 제안하였다.",
+      "부슈먼과 밀러(2007)는 하향식 주의에서는 저주파 전두-두정 동기화가, 상향식 주의에서는 고주파 동기화가 더 강하다는 것을 발견하였다.",
+      "알파/베타 활동의 공간 패턴은 과제 규칙을 부호화하고, 감각 스파이크와 역상관되며, 시행마다의 결정과 상관한다(Chen et al., 2025).",
+      "케타민과 덱스메데토미딘은 분자 작용이 서로 다르지만, 둘 다 의식 상실 동안 양반구 사이의 위상 정렬을 증가시킨다(Bardon et al., 2025)."
+    ],
+    "basis_of_belief_or_evidence_type": "경험적 증거(과제 및 마취 연구에서의 전기생리학)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "경험적으로 검증 가능",
+    "known_empirical_interventions_or_tests": "주의 과제 중의 전두와 두정의 동시 기록; 베타-감마 상호작용에 대한 작업 기억 연구; 주의 분산 후 회복 연구; 파동의 세기, 전파, 위상 정렬에 대한 마취 연구.",
+    "criticisms_and_tensions": "증거의 대부분은 인지, 주의, 작업 기억에 관한 것이다. 의식 자체와의 연결은 마취 연구와, 의식을 ‘빙산의 일각’으로 보는 밀러 자신의 틀에 기대고 있다. 마취는 많은 것을 한꺼번에 바꾸므로, 위상 교란은 경험이 아니라 각성 수준을 추적하는 것일 수 있다.",
+    "open_questions_and_limitations": "이 이론은 통합된 파동 패턴이 어떻게 느껴지게 되는지, 또는 의식이 나타나기 전에 통합이 얼마나 커야 하는지를 설명하지 않는다.",
+    "ontological_coherence": "물리주의와 일관된다. 밀러는 이것이 피질 통합에 아날로그 조직화를 더함으로써 전역 신경 작업공간 이론과 통합정보이론을 보완한다고 제시한다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "여기서 의식은 피질을 통합하는 아날로그 파동 연산에서 따라 나오는데, 디지털 체계는 이를 수행하지 않는다. 아날로그 하드웨어가 이를 수행할 수 있는지는 다루어지지 않는다."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "의식은 살아 있는 피질의 파동 역학에 의존하므로, 뇌보다 오래 지속될 수 없다."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "복사본은 단순한 디지털 정보 흐름이 아니라 아날로그 장 역학을 재현해야 하는데, 이 이론은 이를 다루지 않는다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "확장"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "양립 가능"
+      },
+      {
+        "name": "Singer and Melloni’s Large-Scale Synchrony",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Sejnowski’s Computational Two Tiers and Traveling Waves",
+        "relationship": "중첩"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "An Integrative Theory of Prefrontal Cortex Function, Earl K. Miller and Jonathan Cohen",
+        "year": 2001
+      }
+    ]
+  }
+}

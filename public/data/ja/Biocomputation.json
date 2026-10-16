@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Malinkovic and Aru’s Biological Computationalism（生物学的計算主義）",
+    "summary": "ミリンコヴィッチとアルは、意識は生物学的基盤だけが行う一種の計算に依存すると論じる。その計算では、組織の物理的、エネルギー的、化学的な性質そのものが計算の一部をなす。厳しい代謝の制約のもとで、脳は分離できない複数の尺度にまたがって情報を処理し、離散的なスパイクと、段階的電位や電場といった連続的過程を混在させる。デジタルシステムはアルゴリズムとハードウェアを分離するため、この見解では、意識に必要なものをもたない。",
+    "associated_thinkers": [
+      "Borjan Milinkovic",
+      "Jaan Aru"
+    ],
+    "category": "唯物論",
+    "subcategory": "計算論的",
+    "core_identity_tagline": "基盤に縛られた、多尺度の生物学的計算としての意識",
+    "classification_tags": [
+      "substrate dependence",
+      "multiscale",
+      "metabolism",
+      "hybrid computation",
+      "artificial consciousness"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、基盤がアルゴリズムそのものである生物学的計算に依存する。膜電位、イオンの流れ、化学的拡散、場が計算を行い、ソフトウェアとハードウェアを隔てる層は存在しない。",
+    "ontological_status": "物理主義（生物学的計算主義）",
+    "mind_body_relationship": "意識的処理は、生きた組織の具体的な物理的動態と結びついている。著者らは、媒体を無関係とする計算主義的機能主義に対して自説を置き、生物学的自然主義に計算的な説明を与える。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "尺度横断的閉包を通じた創発。下位の尺度が上位の尺度を生成し、同時に上位の尺度の動態が下位を制約する（「動態構造的共決定」）。",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "ニューロン、樹状突起、段階的電位、イオンの流れ、細胞外電場、プロテインキナーゼAのような細胞内シグナル伝達分子、そしてそれらを形づくる代謝上の予算。",
+    "epistemic_access": "多尺度の神経動態の神経科学を通じて、そして生物学的アーキテクチャとデジタルなアーキテクチャの比較を通じて。",
+    "constituents_and_structure": "ヘテラルキー（異階層構造）。離散的なスパイクは段階的な膜電位、イオンの流れ、場の電位の上に乗り、それらはさらに層状の皮質解剖の上に乗る。特権的な単一の尺度は存在しない。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "意識的処理一般；人工意識の条件",
+    "distinctive_mechanism_or_principle": "尺度の不可分性と混成的計算。ある尺度の計算は他の尺度の計算から分離できず、連続値の「連続的算術」が離散的なスパイキングと並行して働く。",
+    "dynamics_of_emergence": "遅い細胞内過程は、より長い間隔にわたって証拠を蓄積し、離散的なネットワークレベルの移行を引き起こす。たとえばプロテインキナーゼAは、内部の活動をシナプス後ニューロンの活動と比較し、ネットワークの目標に到達したときに信号を送る。",
+    "location_and_distribution": "脳の諸尺度にわたって分布する。細胞内の化学や樹状突起から、場や皮質ネットワークに至る。",
+    "causation_and_functional_role": "細胞外電場は、ephaptic coupling（エファプティック結合）を通じてニューロンの発火を導き同期させる情報を運ぶ。また、より上位の尺度の動態は、より下位の尺度の活動を制約する。",
+    "integration_or_binding": "尺度間の相互依存を保ちながら、微視的な離散事象を巨視的な連続動態へと粗視化することによって、情報は尺度を横断して統合される。",
+    "information_flow_or_representation": "樹状突起は局所的に非線形の演算を行い、体細胞に届く前に入力を粗視化する。非スパイク型のニューロンは段階的信号を中継し、それは高コストのスパイクよりも一秒あたりに多くの情報を運ぶ。",
+    "evolutionary_account": "脳の組織は、約20ワットという厳しいエネルギー予算のもとで進化した。そのため脳は、粗視化と尺度横断的統合を通じて、エネルギー単位あたりの計算量を最大化せざるをえなかった。",
+    "core_claims_and_evidence": [
+      "代謝上の制約は、神経系が尺度を横断して情報を処理し、伝達し、統合する仕方を形づくる構成的な力である。",
+      "生物系はヘテラルキー的に計算する。尺度のあいだでの連続的な共決定があり、デジタル機械の一方向的な抽象層とは異なる。",
+      "神経組織は、離散的なスパイクと、段階的電位やephaptic場効果のような連続的過程を組み合わせる。",
+      "大規模言語モデルを含むフォン・ノイマン型の機械は、記憶、処理、制御を分離し、情報を基盤から切り離すため、意識が必要とする因果構造をもたない。"
+    ],
+    "basis_of_belief_or_evidence_type": "樹状突起の計算、ephaptic coupling、神経エネルギー学の知見に基づく理論神経科学。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的には検証可能",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "この見解は、計算主義的機能主義に直接異を唱える。機能主義の擁護者は、媒体にかかわらず、適切な情報処理のパターンで十分だと考える。",
+    "open_questions_and_limitations": "著者らは、生物学的計算がデジタル計算とどう異なるのか、そしてその違いがなぜ意識にとって重要なのかを説明する、首尾一貫した枠組みがまだ存在しないことを指摘しており、彼らの提案はそれを提供することをめざす。ただし、多尺度の生物学的計算がどのようにして主観的経験をもたらすのかは特定されていない。",
+    "ontological_coherence": "物理主義と整合的であり、生物学的自然主義に近いが、計算的な語彙を保っている。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "大規模言語モデルを含む現在のデジタルAIは意識をもつことができない。ミリンコヴィッチとアルは、混成的で多尺度的でエネルギーに制約された動態をもつ生体模倣的基盤なら、意識をもちうると認める。"
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "意識は生きた組織のエネルギーに制約された動態に依存するため、その動態が停止すると意識も終わるということが、この見解から導かれる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "デジタルシミュレーションは、脳の尺度を別々の数学的対象としてモデル化するため、著者らが必要と考える基盤に縛られた計算を複製できない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Searle's Biological Naturalism",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "批判"
+      },
+      {
+        "name": "Ephaptic Coupling",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Dendritic Integration Theory",
+        "relationship": "両立可能"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Biological Computationalism (Landscape of Consciousness entry), Borjan Milinkovic and Jaan Aru",
+        "year": 2025
+      }
+    ]
+  }
+}

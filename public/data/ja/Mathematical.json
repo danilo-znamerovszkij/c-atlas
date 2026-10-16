@@ -10,7 +10,7 @@
       "Roger Penrose"
     ],
     "category": "唯物論",
-    "subcategory": "計算的・情報的",
+    "subcategory": "計算論的",
     "core_identity_tagline": "形式的な数学的構造としての意識",
     "classification_tags": [
       "mathematics",
@@ -57,19 +57,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "意識が純粋に抽象的な数学的構造ないし計算論理によって定義されるなら、その構造を実現する人工システムは意識を実現しうる可能性がある。"
     },
     "survival_beyond_death": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "存在論的な数学的理論（例えばテグマーク、ペンローズ）は、実在の基盤が永遠の数学的構造であると示唆し、抽象的な意味で意識が物理的な脳を超えて存続することを潜在的に許容する。"
     },
     "meaning_and_purpose": {
-      "stance": "条件付き宇宙的",
+      "stance": "Uncertain",
       "rationale": "宇宙が根本的に数学的である、あるいはプラトン的形相に根ざしているなら、それは存在に内在的な合理的意義を含意する。ただし必ずしも人格的で目的論的な意味を含意するわけではない。"
     },
     "virtual_immortality": {
-      "stance": "可能",
+      "stance": "Possible",
       "rationale": "心が定量化可能な数学的構造ないし情報の流れへと全面的に還元されるなら、このパターンは原理的に保存され、新たな基体において実現されうる。"
     }
   },
@@ -80,11 +80,11 @@
         "relationship": "影響"
       },
       {
-        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "name": "Friston's Free-Energy Principle and Active Inference",
         "relationship": "影響"
       },
       {
-        "name": "Tegmark’s State of Matter",
+        "name": "Tegmark's State of Matter",
         "relationship": "拡張"
       }
     ],

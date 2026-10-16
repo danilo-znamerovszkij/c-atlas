@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoría de la integración dendrítica",
+    "summary": "La teoría de la integración dendrítica sostiene que la percepción consciente depende de un suceso celular: la integración no lineal de señales descendentes y ascendentes en las dendritas apicales de las neuronas piramidales de la capa 5 del neocórtex. Cuando la retroalimentación de áreas superiores coincide con la entrada sensorial feedforward, la dendrita dispara un pico de calcio que amplifica la salida de la neurona, y Larkum y Aru proponen que esta amplificación regula la entrada de la información en la percatación.",
+    "associated_thinkers": [
+      "Matthew Larkum",
+      "Jaan Aru"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "Conciencia como integración dendrítica de señales descendentes y ascendentes",
+    "classification_tags": [
+      "neuroscience",
+      "dendrites",
+      "pyramidal neurons",
+      "anesthesia",
+      "microcircuits"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia se identifica con la integración de dos flujos de información dentro de las neuronas piramidales de la capa 5, donde la retroalimentación llega a las dendritas apicales distales y la entrada feedforward llega cerca del cuerpo celular. Aru y colaboradores sugieren que la conciencia está muy influida por esta integración o que, posiblemente, es sinónima de ella.",
+    "ontological_status": "Fisicalismo (neurobiológico)",
+    "mind_body_relationship": "Los estados conscientes dependen de sucesos biofísicos específicos en las neuronas corticales, y podrían ser idénticos a ellos. La teoría trata la mente como un producto del microcircuito cerebral y no postula nada más allá de él.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia débil (los estados conscientes surgen de sucesos biofísicos identificables en las neuronas y de la dinámica talamocortical que estos hacen posible)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "La DIT no explica por qué la integración dendrítica se siente como algo. Especifica qué sucesos neuronales permiten que un contenido llegue a la percatación. Su predecesora, la teoría de la dendrita apical de LaBerge y Kasevich, especulaba con que el campo electromagnético alrededor de una dendrita apical activa podría portar la propia impresión fenoménica.",
+    "ontological_commitments": "Neuronas piramidales con compartimentos dendríticos funcionalmente separados, picos de calcio dendríticos, vías corticales de retroalimentación y de entrada feedforward, y el sistema talamocortical.",
+    "epistemic_access": "Se estudia desde la tercera persona mediante electrofisiología celular y comparaciones de estados conscientes e inconscientes, como la vigilia y la anestesia general.",
+    "constituents_and_structure": "La unidad básica es la neurona piramidal de la capa 5, que actúa como integrador de dos niveles: la dendrita apical recibe la entrada descendente y la región cercana al soma recibe la entrada ascendente. Muchas de estas neuronas, acopladas mediante bucles talamocorticales, configuran los patrones de actividad global de los estados conscientes."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Acceso (qué contenidos perceptivos llegan a la percatación); estados conscientes frente a inconscientes (vigilia frente a anestesia).",
+    "distinctive_mechanism_or_principle": "Detección de coincidencias en la dendrita apical. Cuando la retroalimentación de áreas superiores coincide con la entrada sensorial feedforward, la dendrita genera un pico de calcio que amplifica la descarga de la neurona, y esta amplificación selecciona lo que entra en la percatación.",
+    "dynamics_of_emergence": "La percepción consciente se produce momento a momento, siempre que coinciden las señales descendentes y ascendentes. En los estados conscientes, el acoplamiento dendrita-soma permite que se construya una actividad compleja y sostenida en todo el sistema talamocortical; bajo anestesia general ese acoplamiento se rompe y la propagación de señales se detiene.",
+    "location_and_distribution": "Los árboles dendríticos de las neuronas piramidales de la capa 5 del neocórtex, integrados en circuitos talamocorticales. El mecanismo es local y celular, pero sus efectos moldean la actividad cerebral global.",
+    "causation_and_functional_role": "Las neuronas piramidales actúan como compuertas que controlan cómo evolucionan los patrones de activación global. La amplificación dendrítica selecciona las entradas relevantes y decide qué información sigue moldeando el procesamiento cortical posterior.",
+    "integration_or_binding": "La vinculación comienza dentro de neuronas individuales, que combinan la retroalimentación contextual y las señales sensoriales feedforward en compartimentos distintos. La salida regulada de muchas de estas neuronas sostiene después una dinámica integrada en todo el sistema talamocortical.",
+    "information_flow_or_representation": "Los datos sensoriales ascendentes llegan a las dendritas proximales, y las predicciones descendentes de áreas superiores llegan al penacho apical distal. La coincidencia entre ambos amplifica la señal, lo que Aru y colaboradores llaman la integración flexible de datos ascendentes y descendentes a nivel celular.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Las dendritas apicales de las neuronas piramidales de la capa 5 realizan una integración no lineal de entradas descendentes y ascendentes.",
+      "Las entradas distales y proximales coincidentes desencadenan picos de calcio dendríticos que amplifican la respuesta de la neurona, y Larkum plantea la hipótesis de que esta coincidencia subyace a la percatación perceptiva.",
+      "La anestesia general altera el acoplamiento dendrita-soma, bloqueando la conciencia mientras continúa buena parte de la otra actividad cerebral.",
+      "En los estados conscientes, el mecanismo dendrítico permite una dinámica talamocortical sostenida que queda bloqueada en los estados inconscientes."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírica (electrofisiología celular y estudios de anestesia), vinculada teóricamente a explicaciones de la conciencia a gran escala."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Comprobable empíricamente",
+    "known_empirical_interventions_or_tests": "Registros de picos de calcio dendríticos en neuronas piramidales de la capa 5; mediciones del acoplamiento dendrita-soma bajo anestesia general.",
+    "criticisms_and_tensions": "Los hallazgos sobre anestesia muestran que el acoplamiento dendrita-soma es necesario para la conciencia, lo que no basta para demostrar que sea suficiente. La afirmación más fuerte de que la conciencia podría ser sinónima de integración dendrítica va más allá de lo que muestran las pruebas que vinculan el mecanismo con los estados conscientes.",
+    "open_questions_and_limitations": "Los defensores oscilan entre que la conciencia esté «muy influida por» la integración dendrítica y que sea «sinónima de» ella. La teoría deja abierta la cuestión de por qué este suceso celular debería experimentarse en absoluto.",
+    "ontological_coherence": "Es coherente con el fisicalismo neurobiológico. Sus defensores la presentan como compatible con las teorías del espacio de trabajo neuronal global y del procesamiento predictivo, aportando un mecanismo celular bajo sus explicaciones a gran escala."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Como la conciencia depende aquí de un mecanismo biofísico concreto en las neuronas corticales, un sistema artificial solo calificaría si reprodujera esa integración dendrítica de dos compartimentos y su función de compuerta."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Como la conciencia es aquí un producto de la actividad dendrítica en el córtex vivo, nada sobrevive a la muerte del cerebro."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "La teoría explica la percatación mediante mecanismos neuronales y no implica ningún propósito cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Conditional",
+      "rationale": "Una copia digital sería consciente solo si reprodujera la integración dendrítica y la dinámica talamocortical que la teoría requiere."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Solapamiento"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dendritic Integration Theory, Matthew Larkum and Jaan Aru",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Apical Dendrite Theory of Consciousness, David LaBerge and Ray Kasevich",
+        "year": 2007
+      }
+    ]
+  }
+}

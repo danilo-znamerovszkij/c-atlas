@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "van Inwagen-এর খ্রিস্টীয় বস্তুবাদ এবং মৃতদের পুনরুত্থান",
     "summary": "এই তত্ত্ব একটি খ্রিস্টীয় বস্তুবাদের রূপ প্রস্তাব করে যেখানে মানুষ সম্পূর্ণরূপে একটি বস্তুগত সত্তা, এবং এইভাবে দার্শনিক ও বাইবেলীয় উভয় ভিত্তিতে দ্রব্য দ্বৈতবাদকে প্রত্যাখ্যান করে। এটি দাবি করে যে মৃত্যুর পরেও ব্যক্তি-পরিচয় বজায় থাকে, কারণ ঈশ্বর মূল বস্তুগত দেহের একটি ভৌতভাবে এবং কার্যকারণগতভাবে অবিচ্ছিন্ন 'অনাবৃত শস্যকণা' চূড়ান্ত পুনরুত্থান পর্যন্ত সংরক্ষণ করেন।",
-    "associated_thinkers": ["Peter van Inwagen"],
-    "category": "অ-নিরসনমূলক ভৌতবাদ",
+    "associated_thinkers": [
+      "Peter van Inwagen"
+    ],
+    "category": "অ-নিরসনবাদী",
     "subcategory": "খ্রিস্টীয় বস্তুবাদ",
     "core_identity_tagline": "বাইবেলীয় পুনরুত্থানের সাথে সমঝোতাকৃত বস্তুবাদ",
     "classification_tags": [
@@ -51,31 +53,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "সম্ভাবত",
+      "stance": "Likely",
       "rationale": "একটি বস্তুবাদী তত্ত্ব হিসেবে, চেতনা চূড়ান্তভাবে জটিল ভৌত বিন্যাসের একটি পণ্য, যার অর্থ প্রয়োজনীয় ভৌত ভিত্তি অর্জিত হলে AI নীতিগতভাবে চেতনা সাকার করতে সক্ষম হওয়া উচিত।"
     },
     "survival_beyond_death": {
-      "stance": "হ্যাঁ (ঐশ্বরিক হস্তক্ষেপের শর্তে)",
+      "stance": "Conditional",
       "rationale": "তত্ত্বটির প্রাথমিক লক্ষ্য হলো বস্তুগত ব্যক্তির বাইবেলীয় পুনরুত্থান ও মরণোত্তর অস্তিত্ব অর্জনের জন্য একটি প্রক্রিয়া (ঈশ্বর কর্তৃক একটি অনাবৃত শস্যকণা সংরক্ষণ) প্রদান করা।"
     },
     "meaning_and_purpose": {
-      "stance": "ব্রহ্মাণ্ডিক/তাত্ত্বিক",
+      "stance": "Cosmic/Ultimate",
       "rationale": "সমগ্র কাঠামোটি মৃতদের পুনরুত্থানে একটি তাত্ত্বিক অঙ্গীকার দ্বারা ভিত্তিপ্রাপ্ত, যা একটি ঐশ্বরিক পরিকল্পনার মধ্যে চরম অর্থ ও উদ্দেশ্য ইঙ্গিত করে।"
     },
     "virtual_immortality": {
-      "stance": "সম্ভাবত",
+      "stance": "Likely",
       "rationale": "যেহেতু ব্যক্তি একটি বস্তুগত সত্তা, মস্তিষ্কের সম্পূর্ণ ভৌত অবস্থা আপলোড করলে নীতিগতভাবে সচেতন স্বের একটি ক্রিয়ামূলক প্রতিলিপি তৈরি হওয়া উচিত, যা ভার্চুয়াল অমরত্বের সুযোগ দেয়।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "সমালোচনা" },
-      { "name": "Papineau’s Mind-Brain Identity", "relationship": "সমাপতন" },
       {
-        "name": "Murphy’s Non-Reductive Physicalism",
+        "name": "Dualism",
+        "relationship": "সমালোচনা"
+      },
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "সমাপতন"
+      },
+      {
+        "name": "Murphy's Non-Reductive Physicalism",
         "relationship": "সামঞ্জস্যপূর্ণ"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "সমাপতন" }
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "সমাপতন"
+      }
     ],
     "sources_and_references": [
       {

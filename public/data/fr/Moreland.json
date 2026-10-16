@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "L'âme chrétienne de Moreland",
     "summary": "Cette théorie défend le dualisme des substances générique, affirmant que la conscience réside dans une âme substantielle, entièrement immatérielle, distincte du corps physique. L'âme agit comme le porteur unifié et durable des propriétés conscientes, fondant l'identité personnelle et animant la structure physique du corps.",
-    "associated_thinkers": ["J.P. Moreland"],
-    "category": "Dualismes",
+    "associated_thinkers": [
+      "J.P. Moreland"
+    ],
+    "category": "Dualisme",
     "subcategory": "Âme chrétienne",
     "core_identity_tagline": "La conscience comme âme entièrement immatérielle",
     "classification_tags": [
@@ -51,34 +53,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience requiert l'âme substantielle et entièrement immatérielle, laquelle ne peut être créée ni instanciée par des systèmes artificiels, physiques ou des calculs."
     },
     "survival_beyond_death": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "L'âme immatérielle (le « vrai moi ») n'est pas identique au corps et persiste après la mort biologique, offrant un mécanisme direct pour la survie post-mortem."
     },
     "meaning_and_purpose": {
-      "stance": "Ultime/cosmique",
+      "stance": "Cosmic/Ultimate",
       "rationale": "En tant que théorie philosophique chrétienne, elle implique que la personne humaine durable et substantielle a une signification, une finalité et une valeur cosmiques en tant que partie d'une réalité théologique."
     },
     "virtual_immortality": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "L'immortalité virtuelle par duplication des motifs cérébraux est impossible car l'information téléchargée manquerait de l'âme substantielle et non physique requise pour fonder le soi original à la première personne."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Swinburne’s Substance Dualism",
+        "name": "Swinburne's Substance Dualism",
         "relationship": "Compatible"
       },
       {
-        "name": "Stump’s Thomistic Dualism",
+        "name": "Stump's Thomistic Dualism",
         "relationship": "Compatible"
       },
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "Critique"
       },
       {

@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "Le monisme anomal de Davidson",
     "summary": "Le monisme anomal postule que chaque événement mental est identique à un événement physique (identité de type token), maintenant une ontologie moniste. Toutefois, la théorie affirme qu'il n'existe pas de lois naturelles strictes et sans exception reliant les concepts mentaux (types) aux concepts physiques, ce qui conduit à l'irréductibilité de la psychologie à la physique. Cette double affirmation résout le conflit apparent entre la causation mentale et la clôture causale du monde physique.",
-    "associated_thinkers": ["Donald Davidson"],
-    "category": "Monismes",
+    "associated_thinkers": [
+      "Donald Davidson"
+    ],
+    "category": "Monisme",
     "subcategory": "Monisme anomal",
     "core_identity_tagline": "Les tokens mentaux sont physiques, les types mentaux sont anomaux",
     "classification_tags": [
@@ -56,29 +58,38 @@
       "rationale": "Puisque l'ontologie est fondamentalement moniste (tous les événements mentaux sont des événements physiques), la conscience de l'IA est possible en principe si les systèmes physiques complexes pertinents peuvent être reproduits dans un support artificiel, bien que l'absence de lois mentales prévisibles (anomalisme) complique l'évaluation."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "Les événements mentaux dépendent des événements physiques (identité de token). La survie au-delà de la destruction du substrat biologique est exclue par cette hypothèse matérialiste."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "En tant que théorie du monisme ontologique, elle s'aligne sur des catégories matérialistes qui, en général, ne justifient pas de sens ou de finalité ultimes au-delà de ceux que les êtres humains créent eux-mêmes."
     },
     "virtual_immortality": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si le substrat physique (le schéma cérébral) est dupliqué, les événements mentaux (identiques à ces tokens) devraient également être dupliqués, rendant l'immortalité virtuelle atteignable, de façon similaire à d'autres conceptions physicalistes non réductives."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Non-Reductive Physicalism", "relationship": "Chevauchement" },
-      { "name": "Property Dualism", "relationship": "Chevauchement" },
       {
-        "name": "Mind-Brain Identity Theory (Type Identity)",
+        "name": "Non-Reductive",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Mind-Brain Identity",
         "relationship": "Critique"
       }
     ],
     "sources_and_references": [
-      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+      {
+        "title_with_names": "Thinking Causes, Donald Davidson",
+        "year": 1993
+      }
     ]
   }
 }

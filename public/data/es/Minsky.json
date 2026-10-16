@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La Sociedad de la Mente de Minsky",
     "summary": "La teoría postula que la cognición y la inteligencia humanas emergen de las interacciones paralelas y no conscientes de numerosos elementos funcionales especializados y semiindependientes conocidos como 'agentes', ubicados en el cerebro. La conciencia misma se considera un 'término maleta', usado de manera ambigua para designar un conjunto de estos diversos procesos cognitivos y de percatación, más que una entidad unificada única.",
-    "associated_thinkers": ["Marvin Minsky"],
+    "associated_thinkers": [
+      "Marvin Minsky"
+    ],
     "category": "Materialismo",
-    "subcategory": "Neurobiológico",
+    "subcategory": "Computacional",
     "core_identity_tagline": "‘La Conciencia como Término Maleta para los Agentes’",
     "classification_tags": [
       "computational",
@@ -51,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "Si la conciencia resulta de las interacciones computacionales necesarias y las descripciones de alto nivel de agentes especializados, los sistemas artificiales capaces de instanciar esta forma específica de organización de alto nivel deberían ser conscientes."
     },
     "survival_beyond_death": {
@@ -59,22 +61,22 @@
       "rationale": "La conciencia depende enteramente de la existencia física y la organización funcional del cerebro/máquina biológicos; su disolución implica el fin permanente de la mente."
     },
     "meaning_and_purpose": {
-      "stance": "Humanista/Pragmático",
+      "stance": "Humanistic only",
       "rationale": "El propósito funcional de la organización cognitiva compleja (la conciencia) es ayudar al organismo a desenvolverse en el mundo, hacer planes y modelarse a sí mismo, aportando un sentido subjetivo pero sin implicar un propósito cósmico global."
     },
     "virtual_immortality": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "Dado que la mente se define por sus patrones informacionales y su organización funcional (descripción de alto nivel), una duplicación total o una carga en un medio no biológico capaz de replicar estas interacciones complejas transferiría la identidad consciente original."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Dennett’s Multiple Drafts Model",
+        "name": "Dennett's Multiple Drafts Model",
         "relationship": "Compatible"
       },
       {
-        "name": "Graziano’s Attention Schema Theory",
+        "name": "Graziano's Attention Schema Theory",
         "relationship": "Compatible"
       },
       {

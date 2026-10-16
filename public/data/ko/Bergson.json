@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "베르그송의 다양성, 지속, 지각, 기억",
     "summary": "이 비환원적 이론은 의식을 '지속'과 '다양성'을 특징으로 하며 근본적으로 기억인, 역동적이고 끊임없이 시간적인 실재로 본다. 뇌는 의식을 생성하지 않고 여과기로 작동하여, 압도적인 자각을 제한함으로써 세계 속에서 집중된 행위를 가능하게 한다.",
-    "associated_thinkers": ["Henri Bergson"],
-    "category": "이상 현상과 변성 상태",
-    "subcategory": "다양성, 지속, 지각, 기억",
+    "associated_thinkers": [
+      "Henri Bergson"
+    ],
+    "category": "이원론",
+    "subcategory": "",
     "core_identity_tagline": "여과된 기억이자 순수 지속으로서의 의식",
     "classification_tags": [
       "duration",
@@ -51,39 +53,54 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "아니다",
+      "stance": "No",
       "rationale": "의식은 지속과 결부된 비계산적 정신/기억으로 규정되며, 이는 본래적으로 비기계론적이다. 계산에 기반하여 구축된 인공 체계가 이 근본적인 시간적 실체를 포착할 가능성은 낮다.",
       "justification": "핵심 개념들이 엄격히 비유물론적이고 비기계론적이라는 점에서 추론됨."
     },
     "survival_beyond_death": {
-      "stance": "가능함",
+      "stance": "Possible",
       "rationale": "뇌가 의식(정신/기억)의 생성자가 아니라 여과기이므로, 이는 의식이 물리적 신체와 독립적이며 신체적 죽음 이후에도 존속할 수 있음을 시사한다.",
       "justification": "베르그송의 이론은 '일종의 사후 존속마저 허용할 수 있다'."
     },
     "meaning_and_purpose": {
-      "stance": "우주적/실존적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "의식은 '선택이라 불리는 자유로운 행위'가 가능한 역동적이고 근본적인 실체('정신')로 규정되며, 이는 순전히 인간주의적이거나 생물학적인 제약을 넘어서는 내재적 목적을 함축한다.",
       "justification": "그 '명백히 이원론적인' 성격과 정신 및 선택과의 결부에서 추론됨."
     },
     "virtual_immortality": {
-      "stance": "아니다",
+      "stance": "No",
       "rationale": "가상적 불멸은 계산적 또는 물리적 상태의 업로드에 의존한다. 그러나 의식은 물리적 뇌에 의해 여과될 뿐인 비환원적 정신/기억(순수 지속)이므로, 신경 상태를 복제하더라도 의식적 존재자가 복제되지는 않는다.",
       "justification": "의식에 대한 비유물론적이고 비기능주의적인 정의에 근거하여 추론됨."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "William James's filter model", "relationship": "양립 가능" },
-      { "name": "Substance Dualism", "relationship": "동일성/중첩" },
-      { "name": "Process Theory", "relationship": "영향" },
-      { "name": "Neurophenomenology (Varela)", "relationship": "영향" }
+      {
+        "name": "James's Plural Consciousness, Brain as Filter of a Wider Consciousness",
+        "relationship": "양립 가능"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "동일성/중첩"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "영향"
+      },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "영향"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Time and Free Will: an Essay on the Immediate Data of Consciousness",
         "year": 1889
       },
-      { "title_with_names": "Matter and Memory", "year": 1896 },
+      {
+        "title_with_names": "Matter and Memory",
+        "year": 1896
+      },
       {
         "title_with_names": "Life and Consciousness (Mind-Energy)",
         "year": 1920

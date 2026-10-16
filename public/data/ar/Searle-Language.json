@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "اللغة والوعي عند سيرل",
     "summary": "يجادل سيرل بأن اللغة حاسمة للوعي البشري، إذ تعمل على تشكيل الخبرة الواعية وإثرائها. ويُنظَر إلى هذه العلاقة بوصفها «أثرًا تمهيديًا ذاتي التعزيز» تطوريًا، إذ أتاح الوعي ما قبل اللغوي اللغةَ التي بلورت بدورها بنية الوعي.",
-    "associated_thinkers": ["John Searle"],
+    "associated_thinkers": [
+      "John Searle"
+    ],
     "category": "المادية",
-    "subcategory": "علاقات اللغة",
+    "subcategory": "اللغة",
     "core_identity_tagline": "«اللغة معزِّزةً للوعي ومُشكِّلةً له»",
     "classification_tags": [
       "language",
@@ -51,38 +53,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مشروط",
+      "stance": "Conditional",
       "rationale": "يرفض أن تبلغ المحاكاة المحضة (الحوسبة) وعيًا شبيهًا بالوعي البشري (الغرفة الصينية). غير أنه لو بنينا آلة اصطناعية تستنسخ العمليات البيولوجية/السببية اللازمة للدماغ، فقد تكون واعية من حيث المبدأ. وقد تجعل مركزية اللغة وعي الذكاء الاصطناعي أكثر ترجيحًا إذا استنسخت الأنظمة اللغوية المتقدمة النحو الداخلي الحاسم."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "الوعي سمة بيولوجية يسبّبها الدماغ وتتحقق فيه. وهو يتوقف حين يضمحل الركيزة البيولوجية."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "بوصفها نظرية مادية، لا يمكنها تسويغ معنى أو غاية نهائيين كونيًا. والوعي، المعزَّز باللغة، يُتيح للبشر توليد معناهم وغايتهم وفاعليتهم المعقدة الخاصة."
     },
     "virtual_immortality": {
-      "stance": "مشروط/مرجَّح",
+      "stance": "Conditional",
       "rationale": "لا يُبلَغ الخلود الافتراضي (تحميل الذات الذهنية) إلا إذا استنسخ الاستنساخُ النظامَ البيولوجي/السببي اللازم، إذ إن المحاكاة وحدها مرفوضة. وإذا كانت اللغة مركزية للجوهر العميق للوعي، فإن الاستنساخ الناجح للعمليات اللغوية/الرمزية ييسّر بلوغه."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Searle’s Biological Naturalism",
+        "name": "Searle's Biological Naturalism",
         "relationship": "أساس"
       },
       {
-        "name": "Chomsky’s Language and Consciousness",
+        "name": "Chomsky's Language and Consciousness",
         "relationship": "تداخل"
       },
       {
-        "name": "Koch’s Consciousness does not Depend on Language",
+        "name": "Koch's Consciousness does not Depend on Language",
         "relationship": "نقد"
       },
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
         "relationship": "تداخل/تباين"
       }
     ],

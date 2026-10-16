@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Il dualismo neo-tomista, neo-aristotelico e del senso comune di Feser",
     "summary": "Questa teoria dualista postula che l'intelletto umano (i concetti astratti e il ragionamento) sia una facoltà immateriale e non possa essere ridotto a processi materiali. Risolve il 'problema difficile' propugnando un ritorno al realismo aristotelico del senso comune, in cui le qualità sensoriali (qualia) sono proprietà oggettive del mondo materiale esterno, dissolvendo così il dilemma causato dalla moderna concezione austera e quantitativa della materia.",
-    "associated_thinkers": ["Edward Feser"],
-    "category": "Dualismi",
-    "subcategory": "Dualismo neo-tomista, neo-aristotelico, del senso comune",
+    "associated_thinkers": [
+      "Edward Feser"
+    ],
+    "category": "Dualismo",
+    "subcategory": "Dualismo neotomistico, neoaristotelico e del senso comune",
     "core_identity_tagline": "La coscienza tramite l'intelletto immateriale e le qualità oggettive",
     "classification_tags": [
       "dualism",
@@ -51,15 +53,15 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probabilmente no",
+      "stance": "Unlikely",
       "rationale": "Se l'intelletto (necessario per il pensiero determinato e i concetti astratti) è fondamentalmente immateriale e irriducibile ai processi materiali, allora un'IA puramente computazionale/materiale non può istanziare la completa coscienza umana descritta dalla teoria."
     },
     "survival_beyond_death": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "L'anima è definita come un'entità immateriale e sussistente, capace di esistere ed esercitare la funzione cognitiva per conto proprio, separata dal corpo, sebbene ciò sia considerato innaturale per essa."
     },
     "meaning_and_purpose": {
-      "stance": "Sì",
+      "stance": "Cosmic/Ultimate",
       "rationale": "La conservazione del contenuto determinato nel pensiero, nella logica e negli universali intellettuali, unita all'impegno ontologico verso l'anima, implica una visione non deflazionista del significato che evita il nichilismo materialista."
     },
     "virtual_immortality": {
@@ -69,16 +71,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Stump’s Thomistic Dualism", "relationship": "Compatibile" },
-      { "name": "Cartesian Dualism", "relationship": "Critica" },
       {
-        "name": "Eliminative Materialism/Illusionism",
+        "name": "Stump's Thomistic Dualism",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Cartesian Dualism",
         "relationship": "Critica"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Critica" }
+      {
+        "name": "Eliminative/Illusionism",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Critica"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Think, McFly, think, Edward Feser", "year": 2012 },
+      {
+        "title_with_names": "Think, McFly, think, Edward Feser",
+        "year": 2012
+      },
       {
         "title_with_names": "Aristotle, call your office, Edward Feser",
         "year": 2012

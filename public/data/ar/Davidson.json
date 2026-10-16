@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "الأحادية الشاذة عند ديفيدسون",
     "summary": "تفترض الأحادية الشاذة أن كل حدث عقلي مطابق لحدث فيزيائي (الهوية على مستوى المثال)، مع الحفاظ على أنطولوجيا أحادية. غير أن النظرية تصرّ على عدم وجود قوانين طبيعية صارمة لا استثناء فيها تربط المفاهيم العقلية (الأنماط) بالمفاهيم الفيزيائية، ما يفضي إلى تعذّر ردّ علم النفس إلى الفيزياء. ويحلّ هذا التأكيد المزدوج التعارض الظاهر بين السببية العقلية والاكتمال السببي للعالم الفيزيائي.",
-    "associated_thinkers": ["Donald Davidson"],
-    "category": "الأحاديات",
-    "subcategory": "الأحادية الشاذة",
+    "associated_thinkers": [
+      "Donald Davidson"
+    ],
+    "category": "الأحادية",
+    "subcategory": "الأحادية الشاذّة",
     "core_identity_tagline": "أمثلة العقلي فيزيائية، وأنماط العقلي شاذّة",
     "classification_tags": [
       "monism",
@@ -52,33 +54,42 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ممكن",
+      "stance": "Possible",
       "rationale": "بما أن الأنطولوجيا أحادية في جوهرها (كل الأحداث العقلية أحداث فيزيائية)، فإن وعي الذكاء الاصطناعي ممكن من حيث المبدأ إذا أمكن استنساخ الأنظمة الفيزيائية المركّبة ذات الصلة في وسائط اصطناعية، وإن كان غياب القوانين العقلية القابلة للتنبؤ (الشذوذ) يعقّد التقييم."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "تعتمد الأحداث العقلية على الأحداث الفيزيائية (الهوية على مستوى المثال). والبقاء بعد فناء الركيزة البيولوجية مستبعَد في ظل هذا الافتراض المادي."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "بوصفها نظرية أحادية أنطولوجياً، فهي تتماشى مع الفئات المادية التي لا تسوّغ عموماً معنى أو غاية أسمَيَين تتجاوزان ما يصنعه البشر لأنفسهم."
     },
     "virtual_immortality": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "إذا استُنسِخت الركيزة الفيزيائية (النمط الدماغي)، فينبغي أن تُستنسَخ معها الأحداث العقلية (المطابقة لتلك الأمثلة)، ما يجعل الخلود الافتراضي قابلاً للبلوغ، على غرار سائر الآراء الفيزيائية اللااختزالية."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Non-Reductive Physicalism", "relationship": "تداخل" },
-      { "name": "Property Dualism", "relationship": "تداخل" },
       {
-        "name": "Mind-Brain Identity Theory (Type Identity)",
+        "name": "Non-Reductive",
+        "relationship": "تداخل"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "تداخل"
+      },
+      {
+        "name": "Mind-Brain Identity",
         "relationship": "نقد"
       }
     ],
     "sources_and_references": [
-      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+      {
+        "title_with_names": "Thinking Causes, Donald Davidson",
+        "year": 1993
+      }
     ]
   }
 }

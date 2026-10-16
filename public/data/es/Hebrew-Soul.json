@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "Teoría del Alma Hebrea",
     "summary": "El concepto hebreo tradicional considera el 'alma' (*nephesh*) no como una sustancia separada, inmortal y no física, sino como la persona o criatura sintiente viva e íntegra, establecida cuando Dios sopló vida en la forma física. La conciencia está así indisolublemente ligada al estado vivo y corporeizado.",
-    "associated_thinkers": ["Hebrew Bible", "Jewish tradition", "Eduard Shyfrin"],
-    "category": "Dualismos",
-    "subcategory": "El Alma en la Biblia Hebrea y la Filosofía Judía",
+    "associated_thinkers": [
+      "Hebrew Bible",
+      "Jewish tradition",
+      "Eduard Shyfrin"
+    ],
+    "category": "Dualismo",
+    "subcategory": "Alma en la Biblia hebrea y la filosofía judía",
     "core_identity_tagline": "El 'Alma' (*Nephesh*) como la Persona Viva Íntegra",
     "classification_tags": [
       "nephesh",
@@ -51,15 +55,15 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "El concepto bíblico original, que liga la conciencia a la vida biológica y al aliento, sugiere que No. Sin embargo, la interpretación cabalística posterior, que define el alma como una 'entidad informacional', podría permitir que sistemas artificiales con suficiente complejidad informacional y la 'dimensión del yo' requerida alcancen la conciencia."
     },
     "survival_beyond_death": {
-      "stance": "No (sin intervención divina)",
+      "stance": "Conditional",
       "rationale": "El concepto central de *nephesh* está ligado a la vida biológica y no es intrínsecamente inmortal. La supervivencia más allá de la muerte depende de la doctrina teológica de la resurrección de los muertos (reconstitución por Dios), no de la persistencia de un alma descarnada."
     },
     "meaning_and_purpose": {
-      "stance": "Último/Teísta",
+      "stance": "Cosmic/Ultimate",
       "rationale": "La conciencia/vida se deriva del 'aliento de vida' provisto por Dios, estableciendo un sentido y propósito últimos inherentes y divinamente ordenados."
     },
     "virtual_immortality": {
@@ -74,11 +78,11 @@
         "relationship": "Influencia/Crítica"
       },
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "Compatible"
       },
       {
-        "name": "Swinburne’s Substance Dualism",
+        "name": "Swinburne's Substance Dualism",
         "relationship": "Crítica"
       },
       {

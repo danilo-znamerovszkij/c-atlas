@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "ウィリアム・ジェイムズの心理学理論におけるハードプロブレムの不在",
     "summary": "ウィリアム・ジェイムズの著作の一解釈に基づくこの見解は、意識は主観的経験の謎ではなく「選択問題」を解決するために進化したメカニズムであると論じることで、ハードプロブレムのパラダイムを反転させる。このメカニズムは、複雑な脳が生み出す膨大な選択肢のなかから適応的な反応を選択し、脳の長期的利害に合致した結果を優先することで、生体の適応度を高める。",
-    "associated_thinkers": ["William James", "Tracy Witham"],
+    "associated_thinkers": [
+      "William James",
+      "Tracy Witham"
+    ],
     "category": "唯物論",
-    "subcategory": "系統発生的進化",
+    "subcategory": "系統発生的",
     "core_identity_tagline": "適応的選択メカニズムとしての意識",
     "classification_tags": [
       "evolution",
@@ -41,19 +44,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "意識が主として機能的な選択メカニズムであるならば、十分な複雑性を達成し、適応的な出力を優先するための同様のメカニズムを必要とするいかなる人工システムも、意識をもつとみなされる可能性が高い。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "この意識の解釈は、進化した生物学的必然性と脳の機能に固く根ざしており、生物学的死後の存続を何ら認めない。"
     },
     "meaning_and_purpose": {
-      "stance": "プラグマティック",
+      "stance": "Humanistic only",
       "rationale": "意味と目的は生物学的機能に結びつく。すなわち進化的適応度を高め、「脳の所有者の最も永続的な利害」を達成することである。"
     },
     "virtual_immortality": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "機能主義的理論として、根底にある選択メカニズムと機能的組織の複製ないしアップロードは、意識の首尾よい継続をもたらすはずである。"
     }
   },
@@ -64,7 +67,7 @@
         "relationship": "両立可能"
       },
       {
-        "name": "Dennett’s Multiple Drafts Model",
+        "name": "Dennett's Multiple Drafts Model",
         "relationship": "両立可能"
       },
       {

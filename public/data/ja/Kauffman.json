@@ -2,8 +2,12 @@
   "id_and_class": {
     "theory_title": "可能態を現実態へと媒介する心（カウフマン）",
     "summary": "本理論は、意識が部分的に量子的であり、量子測定を介して、存在論的に実在する可能態（Res potentia）を現実態（Res extensa）へと変換することを媒介する必要な構成要素として働くと主張する。このメカニズムが必要なのは、純粋に古典的な物理学では波動関数を収縮させる心の役割を説明できないからであり、それは古典物理学の因果的閉包性を回避するために要求される。",
-    "associated_thinkers": ["Stuart Kauffman", "Dean Radin", "Andrea Roli"],
-    "category": "量子理論",
+    "associated_thinkers": [
+      "Stuart Kauffman",
+      "Dean Radin",
+      "Andrea Roli"
+    ],
+    "category": "量子",
     "subcategory": "量子",
     "core_identity_tagline": "量子測定を介して可能態を現実態へと媒介する心",
     "classification_tags": [
@@ -52,30 +56,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "意識が量子力学に根ざしているならば、技術が関連する量子状態を包括的に操作し制御できるならばAIの意識は可能であるはずだが、これは依然として技術的に困難である。"
     },
     "survival_beyond_death": {
-      "stance": "可能",
+      "stance": "Possible",
       "rationale": "本理論は、心のある側面が非局所的で心‐脳システムを超えて広がりうると示唆し、身体の死後の存続についてもっともらしい可能性のあるメカニズムを提供する。"
     },
     "meaning_and_purpose": {
-      "stance": "不確か",
+      "stance": "Uncertain",
       "rationale": "意識を（可能態／現実態を通じて）実在にとって根本的なものと主張し、それに因果的役割を付与することによって、厳格な唯物論の「無意味な」宇宙から離れ、明示的に定義されてはいないものの、究極的意味の枠組みの可能性を含意する。"
     },
     "virtual_immortality": {
-      "stance": "おそらく可能（不確実性を伴う）",
+      "stance": "Likely",
       "rationale": "意識が量子的であるならば、予測可能な規則性のもとで仮想的複製は可能だが、量子物理学に固有の非決定性と確率性が不確実性を導入し、仮想的不死に要求される完全な複製可能性を損ないうる。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Stapp’s Collapsing the Wave Function via Asking “Questions”",
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
         "relationship": "重複"
       },
       {
-        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
         "relationship": "重複"
       },
       {

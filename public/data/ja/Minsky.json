@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ミンスキーの心の社会",
     "summary": "この理論は、人間の認知と知能が、脳内に位置する多数の専門化された半独立の機能的要素――「エージェント」として知られる――の並列的で非意識的な相互作用から創発すると措定する。意識それ自体は「スーツケース語」とみなされ、単一の統一された存在者ではなく、これらの多様な認知・気づきのプロセスの集まりを曖昧にラベルづけするために用いられる。",
-    "associated_thinkers": ["Marvin Minsky"],
+    "associated_thinkers": [
+      "Marvin Minsky"
+    ],
     "category": "唯物論",
-    "subcategory": "神経生物学的",
+    "subcategory": "計算論的",
     "core_identity_tagline": "「エージェントのためのスーツケース語としての意識」",
     "classification_tags": [
       "computational",
@@ -51,30 +53,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "可",
+      "stance": "Yes",
       "rationale": "意識が専門化されたエージェントの必要な計算的相互作用と高レベルの記述から生じるなら、この特定の形態の高レベルの組織を実現できる人工システムは意識的であるはずである。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は生物学的な脳／機械の物理的存在と機能的組織に全面的に依存しており、その解体は心の恒久的な終焉を含意する。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的／実用的",
+      "stance": "Humanistic only",
       "rationale": "複雑な認知的組織（意識）の機能的目的は、生物が世界を航行し、計画を立て、自らをモデル化するのを助けることにあり、主観的な意味を提供するが、包括的な宇宙的目的は含意しない。"
     },
     "virtual_immortality": {
-      "stance": "可",
+      "stance": "Yes",
       "rationale": "心はその情報的パターンと機能的組織（高レベルの記述）によって定義されるため、これらの複雑な相互作用を再現できる非生物学的媒体への完全な複製ないしアップロードは、元の意識的アイデンティティを転送するであろう。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Dennett’s Multiple Drafts Model",
+        "name": "Dennett's Multiple Drafts Model",
         "relationship": "両立可能"
       },
       {
-        "name": "Graziano’s Attention Schema Theory",
+        "name": "Graziano's Attention Schema Theory",
         "relationship": "両立可能"
       },
       {

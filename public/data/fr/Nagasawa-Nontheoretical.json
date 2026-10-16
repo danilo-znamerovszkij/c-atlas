@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Le physicalisme non théorique de Nagasawa",
     "summary": "Cette théorie affirme que le monde est entièrement physique, mais qu'il contient des faits physiques spécifiques sur la conscience qui ne peuvent être saisis ou expliqués même par des théories complètes des sciences physiques. Elle fonctionne comme une formulation alternative du physicalisme qui cherche à concilier l'ontologie physique avec les échecs apparents des théories réductionnistes à saisir la conscience phénoménale.",
-    "associated_thinkers": ["Yujin Nagasawa"],
-    "category": "Physicalisme Non Réductif",
-    "subcategory": "Formulation Alternative du Physicalisme",
+    "associated_thinkers": [
+      "Yujin Nagasawa"
+    ],
+    "category": "Non réductif",
+    "subcategory": "Formulation alternative du physicalisme",
     "core_identity_tagline": "Le physicalisme au-delà de la théorie physique",
     "classification_tags": [
       "physicalism",
@@ -50,30 +52,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Puisque le monde est entièrement physique et que la conscience est ancrée dans des faits physiques fondés sur des entités, des systèmes artificiels complexes pourraient, en principe, instancier les faits physiques non théoriques nécessaires."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "En tant que forme de physicalisme, la conscience est liée au monde physique, et rien n'indique qu'elle permette une persistance après la dissolution du substrat physique."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "L'ontologie est strictement physique, ce qui n'implique pas intrinsèquement un sens ou une finalité cosmique ultime, bien qu'elle reconnaisse des faits physiques inaccessibles à la théorie scientifique."
     },
     "virtual_immortality": {
-      "stance": "Conditionnelle (Limitée technologiquement)",
+      "stance": "Conditional",
       "rationale": "Si l'entité physique spécifique (ou sa configuration) incarnant les faits de conscience non théoriques peut être parfaitement dupliquée ou téléversée sur un support non biologique, l'immortalité virtuelle est techniquement possible, bien que hautement difficile."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Physicalism",
+        "name": "Materialism",
         "relationship": "Extension"
       },
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "Critique/Alternative"
       },
       {

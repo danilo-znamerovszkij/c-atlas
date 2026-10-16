@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "Il dualismo delle sostanze di Swinburne",
     "summary": "Questa teoria postula che una persona sia costituita da due componenti radicalmente distinte: un corpo/cervello fisico e una sostanza separata, non fisica, ovvero l'anima, che è indipendente dal mondo fisico. L'anima non fisica è un'entità essenziale e irriducibile, necessaria per rendere conto della vita cosciente e per mantenere l'identità personale nel tempo.",
-    "associated_thinkers": ["Richard Swinburne"],
-    "category": "Dualismi",
+    "associated_thinkers": [
+      "Richard Swinburne"
+    ],
+    "category": "Dualismo",
     "subcategory": "Dualismo delle sostanze",
     "core_identity_tagline": "La coscienza come sostanza non fisica radicalmente separata",
     "classification_tags": [
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "No (per lo più)",
+      "stance": "Unlikely",
       "rationale": "Ai sistemi di IA mancherebbe la necessaria sostanza non fisica, radicalmente separata (anima) richiesta per una vera consapevolezza interiore. Il dualismo è generalmente considerato il principale baluardo contro la coscienza dell'IA."
     },
     "survival_beyond_death": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "Poiché la persona è costituita da una sostanza non fisica, tale sostanza (l'anima) potrebbe potenzialmente mantenere l'esistenza cosciente dopo la morte e la dissoluzione del corpo e del cervello fisici."
     },
     "meaning_and_purpose": {
-      "stance": "Sì",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Le teorie del dualismo e dell'idealismo offrono generalmente una qualche forma di significato, scopo o valore ultimo, in contrasto con le teorie puramente materialiste ."
     },
     "virtual_immortality": {
-      "stance": "No (per lo più)",
+      "stance": "Unlikely",
       "rationale": "Caricare la sola struttura fisica del cervello sarebbe insufficiente, in quanto la necessaria componente non fisica (l'anima) non potrebbe essere duplicata o caricata dalla tecnologia, con la conseguente assenza del sé mentale originario in prima persona ."
     }
   },
@@ -83,7 +85,7 @@
         "relationship": "Contrasto"
       },
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "Critica"
       }
     ],

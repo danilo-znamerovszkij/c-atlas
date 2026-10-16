@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Teoria dello stato di mentità delle oscillazioni di Llinás",
     "summary": "Questa teoria postula che lo «stato di mentità» cosciente sia fondamentalmente generato da oscillazioni elettriche all'interno dei neuroni e dalla conseguente attività simultanea tra gruppi neurali distanti, che forma la radice neurobiologica della cognizione. Suggerisce che la realtà, così come sperimentata, sia una sorta di realtà virtuale generata da queste oscillazioni interne, le quali funzionano principalmente per consentire la predizione.",
-    "associated_thinkers": ["Rodolfo Llinas"],
-    "category": "Teorie del Materialismo",
-    "subcategory": "Campo Elettromagnetico",
+    "associated_thinkers": [
+      "Rodolfo Llinas"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Elettromagnetico",
     "core_identity_tagline": "«La coscienza come oscillazioni neuronali e predizione»",
     "classification_tags": [
       "neurobiology",
@@ -53,7 +55,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "Se la coscienza è radicata nella funzione computazionale della sincronicità delle oscillazioni e della predizione, queste dinamiche possono, in linea di principio, essere realizzate o simulate in sofisticati sistemi artificiali, in aderenza alla posizione fisicalista."
     },
     "survival_beyond_death": {
@@ -61,30 +63,30 @@
       "rationale": "La coscienza è definita come uno stato generato da meccanismi neurali biologici (oscillazioni) all'interno del cervello, il che preclude la sopravvivenza dopo la morte del substrato biologico."
     },
     "meaning_and_purpose": {
-      "stance": "Solo umanistico",
+      "stance": "Humanistic only",
       "rationale": "In quanto meccanismo neurobiologico evoluto, lo scopo della coscienza è principalmente funzionale (predizione e sopravvivenza), coerentemente con la visione deflazionista del Materialismo che rifiuta un significato cosmico ultimo."
     },
     "virtual_immortality": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "Se la coscienza è spiegata interamente da pattern di attività neurale oscillante, allora una perfetta duplicazione o caricamento di questi pattern dinamici su un supporto non biologico dovrebbe preservare l'identità in prima persona, rendendo possibile l'immortalità virtuale."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Electromagnetic Field Theories",
+        "name": "Electromagnetic",
         "relationship": "Appartenenza di categoria/Sovrapposizione"
       },
       {
-        "name": "Predictive Processing Theories",
+        "name": "Predictive Theories (Top-Down)",
         "relationship": "Sovrapposizione/Estensione"
       },
       {
-        "name": "Recurrent Processing Theory (Lamme)",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "Sovrapposizione"
       },
       {
-        "name": "Dendritic Integration Theory (Aru et al.)",
+        "name": "Dendritic Integration Theory",
         "relationship": "Sovrapposizione"
       }
     ],

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "메칭거의 주관성에 관한 무아(無我) 표상 이론",
     "summary": "이 이론은 주관성에 대한 표상주의적·기능주의적 분석을 제시하며, 현상적 자아—의식적으로 경험되는 일인칭 관점—가 실재하는 개체가 아니라 진행 중인 과정, 구체적으로는 뇌 안에 있는 투명한 자기 모형의 내용이라고 주장한다. 의식적 사고는 대체로 비행위주체적이고 의도되지 않은 형태의 내적 행동으로 특징지어진다.",
-    "associated_thinkers": ["Thomas Metzinger"],
-    "category": "유물론 이론",
-    "subcategory": "표상주의",
+    "associated_thinkers": [
+      "Thomas Metzinger"
+    ],
+    "category": "유물론",
+    "subcategory": "고차",
     "core_identity_tagline": "‘투명한 자기 모형으로서의 현상적 자아’",
     "classification_tags": [
       "representationalism",
@@ -55,26 +57,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "기능주의적이고 표상주의적인 이론이므로, 인공 체계가 투명한 자기 모형(EAM)을 구현하는 데 필요한 기능적 조직과 복잡성을 실현할 수 있다면 의식을 획득할 것이다 , ."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "현상적 자아는 물리적 기반(뇌/표상 구조)에서 발생하는 과정으로 규정된다. 실제적인 '자아'나 비물질적 실체가 존재하지 않으므로, 의식은 신체의 죽음과 함께 소멸한다 , , ."
     },
     "meaning_and_purpose": {
-      "stance": "인간적/실용적 차원",
+      "stance": "Humanistic only",
       "rationale": "의식은 유연한 상호작용의 최적화와 누적적 문화 및 책임의 출현에 인과적으로 필요하며, 우주적 의미가 아닌 진화적으로 형성된 의미를 제공한다 ."
     },
     "virtual_immortality": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 근본적으로 표상 체계(자기 모형)의 기능적 조직이라면, 이 기능적 구조를 비생물학적 매체에 완벽히 재현하는 것은 일인칭 관점을 보존할 것이다 , ."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "중첩"
       },
       {
@@ -82,7 +84,7 @@
         "relationship": "영향"
       },
       {
-        "name": "T. Clark’s Content Hypothesis",
+        "name": "T. Clark's Content Hypothesis",
         "relationship": "양립 가능"
       },
       {

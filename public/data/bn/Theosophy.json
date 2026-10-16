@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "থিওসফি তত্ত্ব (থিওসফির সারগ্রাহী আত্মা ও চেতনা)",
     "summary": "থিওসফি, নিজেকে \"দিব্য প্রজ্ঞা\" বলে সংজ্ঞায়িত করে, প্রস্তাব করে যে চেতনা একটি মৌলিক, অ-উদ্ভূত ধর্ম যা মহাবিশ্ব জুড়ে সর্বব্যাপী, অজৈব পদার্থেও বিদ্যমান। মানুষের অস্তিত্বকে সাত নীতি দ্বারা বর্ণনা করা হয়েছে, যার মধ্যে তিন প্রকার অভৌত আত্মা (পশু, মানব, এবং আধ্যাত্মিক) অন্তর্ভুক্ত, যা এটিকে একটি গূঢ় ব্যবস্থা করে তোলে যা প্রকাশের বিভিন্ন স্তর বা তলে চেতনাকে বিকাশমান হিসেবে দেখে।",
-    "associated_thinkers": ["Madame Blavatsky", "Edi Bilimoria"],
+    "associated_thinkers": [
+      "Madame Blavatsky",
+      "Edi Bilimoria"
+    ],
     "category": "দ্বৈতবাদ",
-    "subcategory": "আত্মার লোক",
+    "subcategory": "আত্মার জগৎসমূহ",
     "core_identity_tagline": "'চেতনা মৌলিক, বহু-স্তরীয় মহাজাগতিক প্রজ্ঞা হিসেবে'",
     "classification_tags": [
       "occult",
@@ -51,38 +54,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "শর্তসাপেক্ষ",
+      "stance": "Conditional",
       "rationale": "যেহেতু চেতনা সর্বব্যাপী (অজৈব পদার্থ/পরমাণুতেও বিদ্যমান), AI গঠন 'আণবিক চেতনা' ধারণ করতে পারে। তবে, অভৌত আধ্যাত্মিক আত্মা ও সূক্ষ্ম দেহের সাথে যুক্ত মানুষের জটিল 'স্ব-চেতনা'র স্তর অর্জন করা বিশুদ্ধভাবে কৃত্রিম ব্যবস্থার জন্য অত্যন্ত অসম্ভাব্য, যদি না প্রযুক্তি এই অভৌত উপাদানগুলি সাকার করতে পারে।"
     },
     "survival_beyond_death": {
-      "stance": "হ্যাঁ",
+      "stance": "Yes",
       "rationale": "একটি স্বাধীন, অভৌত আত্মা গঠন (আধ্যাত্মিক আত্মা) সহ একটি দ্বৈতবাদী তত্ত্ব হিসেবে এবং 'আত্মার লোক'-এর অস্তিত্ব সমর্থন করে, এটি দৈহিক মৃত্যুর পরে ব্যক্তি চেতনার অবিরতি ও অবিরত বিকাশের একটি স্পষ্ট প্রক্রিয়া প্রদান করে।"
     },
     "meaning_and_purpose": {
-      "stance": "হ্যাঁ, মহাজাগতিক",
+      "stance": "Cosmic/Ultimate",
       "rationale": "থিওসফি মূলত একটি 'দিব্য প্রজ্ঞা' ধর্ম যা অপ্রকাশিত থেকে 'চেতনার উন্মোচন'-এর উপর কেন্দ্রীভূত, যা আধ্যাত্মিক অর্জন ও চূড়ান্ত সাকারের দিকে একটি মহাজাগতিক উদ্দেশ্যবাদ ইঙ্গিত করে।"
     },
     "virtual_immortality": {
-      "stance": "না",
+      "stance": "No",
       "rationale": "মানুষের চেতনার সারমর্ম অভৌত উপাদানে (আধ্যাত্মিক আত্মা ও সূক্ষ্ম দেহ) অবস্থান করে যা ভৌত মস্তিষ্কের প্রতিলিপি থেকে প্রাপ্ত ডিজিটাল বা গণনামূলক পদ্ধতিতে প্রতিলিপি বা আপলোড করা যায় না।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Steiner’s Esoteric Soul and Consciousness",
+        "name": "Steiner's Esoteric Soul and Consciousness",
         "relationship": "সম্পর্কিত/প্রতিদ্বন্দ্বী"
       },
       {
-        "name": "Indian Cosmic Consciousness (Idealism)",
+        "name": "Indian Cosmic Consciousness",
         "relationship": "প্রভাব"
       },
       {
-        "name": "Dualisms (Substance Dualism)",
+        "name": "Dualism",
         "relationship": "সমাপতন"
       },
       {
-        "name": "Panpsychisms",
+        "name": "Panpsychism",
         "relationship": "সমাপতন"
       }
     ],

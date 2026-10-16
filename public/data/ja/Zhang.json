@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "張の長距離光速通信",
     "summary": "この理論は、遠隔にあり並列配置されたニューロン間で、伝播する電場を介した光速の通信を提唱することによって、脳と心の謎が解かれうると示唆する。同期の法則に基づくこの機構は、ニューロンが知的生命に不可欠な剛的ネットワークを形成することを可能にする。",
-    "associated_thinkers": ["Ping Zhang"],
+    "associated_thinkers": [
+      "Ping Zhang"
+    ],
     "category": "唯物論",
-    "subcategory": "電磁場",
+    "subcategory": "電磁的",
     "core_identity_tagline": "「光速通信としての意識」",
     "classification_tags": [
       "neurobiology",
@@ -54,38 +56,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "複製可能な物理法則（電場、同期）に依拠する唯物論的理論として、複雑な構造を工学的に実現できるなら、意識に必要な機構は高度な非生物学的ハードウェアにおいて構築可能なはずである。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は全面的に、生物学的な神経系の特定の複雑な組織と物理的動態（電場と同期発火）に根ざしている。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "本理論は知能に要する物理的機構に焦点を当て、宇宙的あるいは究極的な目的を扱うことなく、生物学的産物としての人間の認知と行為主体性を支持する。"
     },
     "virtual_immortality": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識を生成する機構——光速で同期した神経ネットワークの精確な空間的・時間的組織——が完全にデジタル複製されうるなら、仮想的不死は理論的に達成可能である。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McFadden’s Conscious Electromagnetic Information Theory (CEMI)",
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
         "relationship": "重なり"
       },
       {
-        "name": "Jones’s electromagnetic fields",
+        "name": "Jones's Electromagnetic Fields",
         "relationship": "重なり"
       },
       {
-        "name": "Computational and Informational Theories",
+        "name": "Computational",
         "relationship": "批判"
       },
       {
-        "name": "Neurobiological Theories",
+        "name": "Neurobiological",
         "relationship": "拡張"
       }
     ],

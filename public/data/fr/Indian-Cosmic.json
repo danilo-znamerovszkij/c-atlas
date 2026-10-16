@@ -9,7 +9,7 @@
       "Ganapathy Subramaniam",
       "The Upanishads"
     ],
-    "category": "Idéalismes",
+    "category": "Idéalisme",
     "subcategory": "Conscience cosmique indienne",
     "core_identity_tagline": "La conscience comme réalité ultime non duelle",
     "classification_tags": [
@@ -57,19 +57,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable (conditionnelle)",
+      "stance": "Conditional",
       "rationale": "Si la conscience est fondamentale et omniprésente dans toute la réalité, les systèmes artificiels pourraient potentiellement instancier ou participer à la conscience cosmique, à condition qu'ils satisfassent aux exigences structurelles/de complexité nécessaires à la manifestation, bien que certains idéalistes rejettent l'idée d'une IA consciente fondée sur les modèles informatiques actuels."
     },
     "survival_beyond_death": {
-      "stance": "Oui (redéfinie)",
+      "stance": "Yes",
       "rationale": "La survie est une doctrine fondamentale dans les traditions indiennes (par exemple, la réincarnation). Cependant, la survie signifie souvent la perte éventuelle de la conscience actuelle à la première personne, à mesure que la conscience est réabsorbée dans la Conscience cosmique ultime."
     },
     "meaning_and_purpose": {
-      "stance": "Cosmique/ultime",
+      "stance": "Cosmic/Ultimate",
       "rationale": "En posant la conscience comme le fondement de tout être et la réalité ultime, la théorie fournit intrinsèquement un sens et une finalité cosmiques. Les conceptions idéalistes évolutionnistes considèrent également l'évolution de la conscience comme une caractéristique première du sens du monde."
     },
     "virtual_immortality": {
-      "stance": "Non nécessaire",
+      "stance": "Not needed",
       "rationale": "Si la conscience est déjà fondamentale et éternelle (idéalisme), les concepts traditionnels de survie ou de vie éternelle sont déjà théoriquement disponibles, rendant l'immortalité virtuelle technologique superflue."
     }
   },
@@ -79,12 +79,18 @@
         "name": "Kastrup's Analytic Idealism",
         "relationship": "Recoupement/compatible"
       },
-      { "name": "Panpsychisms", "relationship": "Recoupement" },
       {
-        "name": "Buddhism's Empty, Illusory Phenomenal Consciousness (Yogācāra)",
+        "name": "Panpsychism",
+        "relationship": "Recoupement"
+      },
+      {
+        "name": "Buddhism's Empty, Illusory Phenomenal Consciousness",
         "relationship": "Recoupement/contraste"
       },
-      { "name": "Gomatam's GV Vedanta", "relationship": "Contraste" }
+      {
+        "name": "Gomatam's GV Vedanta",
+        "relationship": "Contraste"
+      }
     ],
     "sources_and_references": [
       {

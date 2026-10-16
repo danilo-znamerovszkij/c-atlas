@@ -1,0 +1,127 @@
+{
+  "id_and_class": {
+    "theory_title": "Le « temps mental » de Libet : potentiel de préparation, initiation inconsciente, conscience différée, antidatation de la conscience",
+    "summary": "Benjamin Libet a comparé le moment de l'activité cérébrale au moment de l'expérience et a conclu que l'activité neuronale doit se constituer pendant une durée pouvant atteindre une demi-seconde environ avant qu'une sensation ne devienne consciente, le cerveau rapportant en retour la temporalité ressentie au stimulus. Appliquées à l'action, ses expériences sur le potentiel de préparation suggéraient que les actes volontaires débutent de manière inconsciente, ne laissant à la volonté consciente qu'un pouvoir de veto. Ses résultats sont devenus une pièce de référence du physicalisme, alors que Libet lui-même soutenait que l'expérience phénoménale est non physique.",
+    "associated_thinkers": [
+      "Benjamin Libet"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Neurobiologique",
+    "core_identity_tagline": "La conscience comme expérience différée et rapportée en arrière",
+    "classification_tags": [
+      "readiness potential",
+      "free will",
+      "neuronal adequacy",
+      "timing",
+      "veto"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "L'expérience phénoménale est un état réel mais de formation lente : elle exige une durée minimale d'activation neuronale appropriée, la « suffisance neuronale », et son immédiateté apparente est construite après coup.",
+    "ontological_status": "Dualisme (interactionniste émergent)",
+    "mind_body_relationship": "Libet soutenait que l'expérience subjective est non physique et que l'esprit et le cerveau sont des variables indépendantes en interaction causale, conception qu'il a développée sous le nom de champ mental conscient. Ses données de chronométrie sont largement lues comme un appui au physicalisme, lecture qu'il a rejetée.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence forte : Libet considérait l'expérience comme engendrée par l'activité cérébrale, tout en étant non physique et capable d'agir en retour sur le cerveau.",
+    "subjectivity_and_intentionality": "La cible est le ressenti brut au sens de Feigl, distinct de la détection ou du comportement. L'intention consciente de bouger apparaît après que le cerveau a commencé à préparer l'acte, mais avant le mouvement.",
+    "qualia_account": "Libet fait de la durée la variable qui convertit une détection inconsciente en sensation ressentie : en deçà de la suffisance neuronale, des stimuli peuvent être détectés sans être ressentis.",
+    "ontological_commitments": "Activité neuronale corticale et thalamique, potentiel de préparation, champ conscient non physique mais engendré par le cerveau, et véritable veto conscient.",
+    "epistemic_access": "Stimulation et enregistrement corticaux et thalamiques directs chez des patients neurochirurgicaux éveillés, électroencéphalographie de surface, et rapports des sujets sur le moment de leurs perceptions à l'aide d'un point mobile sur une horloge.",
+    "constituents_and_structure": "Trois variables distinctes : le moment du traitement neuronal, le moment de la conscience rapportable et le moment d'un événement tel qu'il est subjectivement vécu."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Sensation phénoménale, temporalité subjective, volonté consciente et agentivité.",
+    "distinctive_mechanism_or_principle": "Le facteur « durée d'activation » : la durée de l'activation neuronale appropriée, qui se compense avec l'intensité, décide si le traitement devient conscient, et l'expérience est alors antidatée à la réponse corticale précoce.",
+    "dynamics_of_emergence": "L'expérience n'apparaît qu'après une phase neuronale inconsciente pouvant aller jusqu'à 500 ms environ ; Libet suggérait que les événements mentaux commencent généralement de manière inconsciente.",
+    "location_and_distribution": "Cortex somatosensoriel et thalamus pour le traitement sensoriel ; activité corticale liée au mouvement pour le potentiel de préparation.",
+    "causation_and_functional_role": "La volonté consciente n'initie pas les actes spontanés, mais peut les mettre en échec dans les quelque 200 ms qui précèdent le mouvement (« libre inhibition » — free won't). Libet considérait ce veto comme un pouvoir conscient réel et non déterminé.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Une fois la suffisance neuronale atteinte, le temps ressenti d'une expérience est rapporté au potentiel évoqué primaire ; l'ordre temporel subjectif est donc un contenu construit.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Pour produire une sensation rapportée, la stimulation corticale liminaire exigeait des trains d'impulsions d'une durée pouvant atteindre 500 ms environ.",
+      "Les stimuli cutanés étaient antidatés par rapport aux stimuli corticaux, qui ne produisent pas de réponse évoquée primaire, comme le prédit le renvoi subjectif.",
+      "Avec la stimulation thalamique, les sujets détectaient des stimuli au-dessus du hasard pour des durées qu'ils déclaraient ne pas ressentir.",
+      "Le potentiel de préparation commençait environ 550 ms avant les mouvements non planifiés, tandis que la conscience de l'envie n'apparaissait qu'environ 200 ms avant."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurophysiologie empirique chez des patients éveillés, jointe à une argumentation philosophique en faveur d'une expérience non physique et causalement efficace."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable",
+    "known_empirical_interventions_or_tests": "Stimulation directe du cortex somatosensoriel, du lemnisque médian et du noyau ventro-basal du thalamus ; détection à choix forcé sous stimulation thalamique ; paradigme du potentiel de préparation avec point mobile sur une horloge.",
+    "criticisms_and_tensions": "Schurger, Sitt et Dehaene modélisent le potentiel de préparation comme un artefact de moyennage d'un accumulateur stochastique ; son « début » ne marque donc aucun événement réel, et la comparaison temporelle avec la conscience s'effondre. Dennett rejette l'antidatation, qui présuppose un théâtre intérieur, tandis que Gomes et Pockett interprètent les données sensorielles comme compatibles avec des latences beaucoup plus courtes. Les critiques relèvent aussi que le veto pourrait lui-même avoir des causes inconscientes et que les rapports chronométriques sur la conscience sont peu fiables.",
+    "open_questions_and_limitations": "Les études de stimulation reposent sur de petits échantillons cliniques difficiles à reproduire, le chiffre d'une demi-seconde n'est pas établi, et les mouvements simples et dénués de but étudiés diffèrent des décisions réelles. Il reste ouvert de savoir si un potentiel de préparation discret existe sur des essais uniques.",
+    "ontological_coherence": "Une tension traverse la théorie : les données mobilisées en faveur du physicalisme proviennent d'un théoricien qui était un non-physicaliste interactionniste. Les résultats chronométriques portent sur le moment où surgit l'expérience, et non sur ce qu'elle est."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Libet rattache l'expérience à un champ engendré par l'activité cérébrale et ne dit pas si des systèmes non biologiques pourraient en engendrer un."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Bien que Libet tienne l'expérience pour non physique, il la considérait comme engendrée par l'activité cérébrale ; rien dans la position ne suggère donc qu'elle survive au cerveau."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Libet défendait le libre arbitre et la responsabilité morale par le veto conscient, sans revendiquer aucune finalité cosmique."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "La position ne traite pas la question de savoir si un cerveau simulé engendrerait un champ conscient."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Libet's Conscious Mental Field",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Halligan and Oakley’s Species-Enhancing Epiphenomenalism",
+        "relationship": "Opposition"
+      },
+      {
+        "name": "Sapolsky's Hard Incompatibilism",
+        "relationship": "Opposition"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mind Time: The Temporal Factor in Consciousness, Benjamin Libet",
+        "year": 2004
+      },
+      {
+        "title_with_names": "Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential), B. Libet, C. A. Gleason, E. W. Wright and D. K. Pearl",
+        "year": 1983
+      },
+      {
+        "title_with_names": "Subjective referral of the timing for a conscious sensory experience, B. Libet, E. W. Wright, B. Feinstein and D. K. Pearl",
+        "year": 1979
+      },
+      {
+        "title_with_names": "Control of the transition from sensory detection to sensory awareness in man by the duration of a thalamic stimulus, B. Libet et al.",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Unconscious cerebral initiative and the role of conscious will in voluntary action, Benjamin Libet",
+        "year": 1985
+      },
+      {
+        "title_with_names": "A testable field theory of mind-brain interaction, Benjamin Libet",
+        "year": 1994
+      },
+      {
+        "title_with_names": "An accumulator model for spontaneous neural activity prior to self-initiated movement, A. Schurger, J. D. Sitt and S. Dehaene",
+        "year": 2012
+      },
+      {
+        "title_with_names": "What is the readiness potential?, A. Schurger, P. B. Hu, J. Pak and A. L. Roskies",
+        "year": 2021
+      }
+    ]
+  }
+}

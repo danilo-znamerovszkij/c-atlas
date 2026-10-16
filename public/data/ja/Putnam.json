@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Putnamの機械的機能主義",
+    "summary": "Putnamの初期の機械的機能主義は、心的状態を、それが何からできているかによってではなく、その機能的役割、すなわち感覚入力、内的状態、運動出力のあいだの因果関係によって定義する。同じ役割はきわめて異なる物理システムによって満たされうるため、痛みはタコ、宇宙人、あるいはコンピュータにおいても存在しうる。このことがPutnamを心脳同一説の拒否へと導いた。後に彼は、厳格な機能主義が意味、身体性、質的経験に盲目であるとして退け、『自由な機能主義』と実用主義的多元論へと移った。",
+    "associated_thinkers": [
+      "Hilary Putnam"
+    ],
+    "category": "唯物論",
+    "subcategory": "計算論的",
+    "core_identity_tagline": "ソフトウェアのように、機能的役割としての心的状態",
+    "classification_tags": [
+      "functionalism",
+      "multiple realizability",
+      "computational theory of mind",
+      "semantic externalism",
+      "liberal functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "心的状態は、システムの機能的状態であり、入力、出力、他の内的状態との因果関係によって定まる。Putnamの類比では、心はソフトウェアであり、脳はそれを走らせるハードウェアである。",
+    "ontological_status": "機能主義（機械状態説。後に自由な機能主義）",
+    "mind_body_relationship": "心的状態は物理的状態によって実現されるが、そのいずれの特定の種類とも同一ではない。Putnamは一貫して実体二元論を退け、晩年には、心的現象が単一の基礎的な物理理論によって完全に記述されうることを否定した。",
+    "primitive_or_emergent_status": "どちらでもない",
+    "emergence_type": "該当しない（心的状態は機能的組織によって定義され、それにふさわしいいかなる物理システムも実現しうる）",
+    "subjectivity_and_intentionality": "Putnamの意味論的外在主義は、思考の内容が、内的状態のみならず外的世界との相互作用に依存すると論じる。彼は、思考すること自体の経験において与えられる『内的志向性』を退けた。",
+    "qualia_account": "Putnamは、機能主義が質的経験を捉えられないことを受け入れるようになり、クオリアという概念がどのような理論的役割を果たすのかについては、確信をもてないままであった。",
+    "ontological_commitments": "任意の組成をもつ物理システム、それらの機能的組織、そして（後期の見解では）心的内容を定める環境と身体化された相互作用。",
+    "epistemic_access": "入出力関係と内的状態の機能分析を通じて。後にPutnamは実用主義的多元論を支持した。そこでは、心について語ることは、異なる目的に適した、他の概念図式の中の一つの概念図式である。",
+    "constituents_and_structure": "システムの組織によって定義される機能的状態であり、計算機の状態に類比される。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "心的状態一般（感覚、信念、情動）。志向性と意味。説明されないものとして認められたクオリア。",
+    "distinctive_mechanism_or_principle": "多重実現可能性。内的状態が同じ機能的役割を果たす限り、同じ心的状態は異なる物理システムにおいて実現されうる。",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "適切な機能的組織が実現されるところならどこでも。人間の脳、動物の脳、宇宙人の脳、あるいはコンピュータにおいて。",
+    "causation_and_functional_role": "心的状態とは、その因果的役割である。すなわち、典型的に何がそれを引き起こすか、それが何を引き起こすか、そして他の内的状態とどのように相互作用するかである。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "初期の見解は、心を、神経活動によって実現される計算システムとみなす。後期の見解は、意味は『頭の中』にあるのではなく、世界に依存すると考える。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "システムの機能的組織とは、その感覚入力、運動出力、内的状態のあいだの因果関係の集合であり、心的状態はそれによって定義される。",
+      "哺乳類におけるC繊維の発火と結びついた痛みは、異なる生物学をもつ生物において実現されうるため、心的状態は特定の脳状態と同一ではない。",
+      "後にPutnamは、機能的状態は内的であるのに対し、心的内容は環境に依存するため、意味論的外在主義が機能主義を弱体化させると論じた。",
+      "晩年の著作において、Putnamは、機能主義は心の哲学の完全な哲学ではないと考え、身体化された、環境を含む能力に根ざした自由な機能主義を擁護した。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（概念分析、計算機との類比）。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的には検証可能",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Putnamは自らの最大の批判者となった。彼は、厳格な機能主義が心的現象を単純化しすぎ、思考の意味的・志向的側面を無視し、質的経験を捉えられないと論じた。",
+    "open_questions_and_limitations": "Putnamはクオリアを未解決のまま残し、意識の問題が一度きりに解決されるべき単一で統一された問題であるかどうかについても疑念を抱いた。",
+    "ontological_coherence": "初期の見解は、計算論的物理主義の内部で整合的である。後期の多元論は、心について語ることを、いかなる単一の基礎的記述にも還元しようとしないため、還元的物理主義との適合性は緩む。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "多重実現可能性により、心的状態は脳だけでなくコンピュータの上でも『走る』ことができる。機能主義がクオリアと意味を捉えるかどうかについての、Putnamの後の疑念は、機械の意識を開かれたままにする。"
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Putnamは実体二元論を退けたため、心的状態はそれを実現するための何らかの物理システムを必要とし、その見解のなかには、物理システムなしの存続を支持するものはない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Putnamの実用主義的多元論は、心について語ることを、人間の目的に適した人間の概念図式として扱い、宇宙的な目的には訴えない。"
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "機械的機能主義においては、心の機能的組織を別の基体において再現すれば、その心的状態も再現されるだろう。ただし、Putnamの後期の外在主義は、内容を世界にも結びつける。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "基盤"
+      },
+      {
+        "name": "Smart’s Topic-Neutral Identity",
+        "relationship": "批判"
+      },
+      {
+        "name": "Lewis’s Analytic Functionalism and Causal-Role Identity Theory",
+        "relationship": "対照"
+      },
+      {
+        "name": "Turing’s Imitation, Machine Thought, and the Hidden Mind",
+        "relationship": "影響"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Putnam’s Machine Functionalism (Landscape of Consciousness entry), Hilary Putnam",
+        "year": 1988
+      }
+    ]
+  }
+}

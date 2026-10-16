@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "情報実在論と創発的情報理論",
     "summary": "情報実在論は、実在が根本的に、諸存在が情報を交換する能力によって定義されると主張し、それが心身問題を解消する関係的な結合剤として働くとする。創発的情報理論（EIT）は、意識が非物質的で検出不可能な情報的「値」から生じ、それが生物学的システムにおいて階層的に創発し、物理的身体に対するトップダウンの因果を可能にすると提唱する。",
-    "associated_thinkers": ["William Dembski", "Daniel Boyd"],
+    "associated_thinkers": [
+      "William Dembski",
+      "Daniel Boyd"
+    ],
     "category": "唯物論",
-    "subcategory": "計算論的・情報的",
+    "subcategory": "計算論的・情報論的",
     "core_identity_tagline": "「階層的な創発的情報としての意識」",
     "classification_tags": [
       "information",
@@ -52,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "唯物論の下に分類される計算論的・情報的理論として、人工システムが必要な複雑で階層的、かつ強く創発する情報構造を実現できるならば、意識が達成可能であることを含意する。"
     },
     "survival_beyond_death": {
-      "stance": "否定する",
+      "stance": "No",
       "rationale": "この理論は唯物論の下に分類され、唯物論は一般に、意識が物理的基盤（脳）に全面的に依存するとし、身体の破壊が意識ある自己の停止をもたらすことを意味する。情報の値の非物質的性質は、システムの物理的状態に依存する。"
     },
     "virtual_immortality": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "意識が根本的に情報構造である（たとえその情報が非物質的であっても）ならば、この構造とその動態（階層的創発とトップダウンの因果の能力を含む）を非生物学的媒体へ複製すれば、一人称の心的自己の継続を可能にするはずである。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的な意味のみ",
+      "stance": "Humanistic only",
       "rationale": "唯物論のカテゴリーに位置するこの理論は、宇宙的ないし究極的な目的論ではなく、個人が創り出す人間主義的な意味と目的を典型的に含意する科学に基づく観点を支持する。"
     }
   },
@@ -83,7 +86,7 @@
         "relationship": "対比"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "両立的"
       }
     ],

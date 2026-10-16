@@ -2,7 +2,11 @@
   "id_and_class": {
     "theory_title": "心脳同一説",
     "summary": "意識に関するこの古典的な哲学理論は、心的状態、出来事、ないしプロセスが、脳内で生じる特定の状態、出来事、ないしプロセスと厳密に同一であると措定する。意識が全面的に物理的であると主張することで、唯物論の範例として機能する。",
-    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "associated_thinkers": [
+      "J.J.C. Smart",
+      "U.T. Place",
+      "Herbert Feigl"
+    ],
     "category": "唯物論",
     "subcategory": "哲学的",
     "core_identity_tagline": "心的状態は脳状態である",
@@ -49,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "可",
+      "stance": "Yes",
       "rationale": "心脳同一説は意識が物理的プロセスへ還元可能であると主張するため、それらの特定の物理的プロセスを人工的な非生物学的基体において再現できれば、意識は必然的に実現される。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は脳の機能的・物理的完全性と厳密に同一であり、死とともにそれが解体されると、意識的自己の恒久的な終焉に至る。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "唯物論的理論として、心脳同一説はいかなる究極的な宇宙的意味や目的も含意しない。意味と価値は意識的な人間の行為者によって作り出される創発的性質である。"
     },
     "virtual_immortality": {
-      "stance": "可",
+      "stance": "Yes",
       "rationale": "意識（正確な物理的パターン）をスキャンし、新たな物理的媒体（デジタルその他）へ完全に複製／アップロードできるなら、この理論は同一なる意識的自己の存続を保証する。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Papineau’s Mind-Brain Identity",
+        "name": "Papineau's Mind-Brain Identity",
         "relationship": "拡張"
       },
       {
@@ -80,7 +84,7 @@
         "relationship": "批判"
       },
       {
-        "name": "Tye’s Contingentism",
+        "name": "Tye's Contingentism",
         "relationship": "影響"
       }
     ],

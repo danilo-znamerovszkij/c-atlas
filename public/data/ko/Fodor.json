@@ -1,0 +1,127 @@
+{
+  "id_and_class": {
+    "theory_title": "Fodor의 원칙적 유보: 지향성이 현상성을 괄호 치다",
+    "summary": "포도르는 현상적 의식을 이론화하지 않기로 의도적으로 결정했고, 그것이 올바른 연구 전략이라고 주장했다. 그의 표상적 마음 이론은 사고를 '사고의 언어(Language of Thought)' 안의 문장 같은 심적 표상에 대한 계산으로 설명한다. 이는 심적 상태가 어떻게 사물에 관한 것인지는 설명하지만, 왜 그것이 무언가처럼 느껴지는지는 설명하지 않는다. 이 물음에 대해 그는 신비주의자였다. 물질적인 무엇이 어떻게 의식적일 수 있는지 아무도 조금도 알지 못한다고 그는 말했다.",
+    "associated_thinkers": [
+      "Jerry Alan Fodor"
+    ],
+    "category": "도전",
+    "subcategory": "",
+    "core_identity_tagline": "지향성은 설명하고, 현상적 의식은 제쳐 두기",
+    "classification_tags": [
+      "language of thought",
+      "intentionality",
+      "modularity",
+      "mysterianism",
+      "computationalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "포도르는 현상적 의식에 대한 동일성 주장을 내놓지 않는다. 그는 사고를 통사론과 구성적 의미론을 가진 물리적으로 실현된 심적 표상에 대한 계산과 동일시하며, 현상적 성격은 의도적으로 설명에서 뺀다.",
+    "ontological_status": "물리주의(계산-표상적) 및 감각질에 대한 신비주의",
+    "mind_body_relationship": "심적 표상은 뇌에서 물리적으로 실현되며, 심적 과정은 그 표상에 대한 계산이다. 어떤 물질적 과정이 의식적일 수 있는지는 포도르에게 전적으로 알려져 있지 않다.",
+    "primitive_or_emergent_status": "어느 쪽도 아님",
+    "emergence_type": "해당 없음(포도르는 현상적 의식을 괄호 치며, 그에 대한 설명이 어떤 모습일지조차 말할 수 없다고 본다)",
+    "subjectivity_and_intentionality": "지향성은 이 이론의 핵심이다. 비가 오고 있다고 믿는 것은 그것이 비가 오고 있다는 뜻을 가진 멘탈리즈(Mentalese) 토큰과 믿음 관계에 서는 것이다. 계산은 통사론에만 민감하고 통사론은 의미를 추적하므로, 내용은 신비로운 것 없이도 인과적으로 효력을 가질 수 있다. 주관성은 설명되지 않은 채 남는다.",
+    "qualia_account": "틀의 설계상 없다. 포도르의 틀은 브렌타노의 대상 지향성 문제를 다루지, 네이글의 '어떠함' 문제를 다루지 않으며, 그는 의식, 감정, 상상이 법칙적 일반화에 적합한 자연종인지 의심했다.",
+    "ontological_commitments": "통사적, 의미론적 구조를 가진 심적 표상(멘탈리즈), 그 위에서의 계산 과정, 캡슐화된 입력 모듈, 그리고 전체론적 중앙 체계.",
+    "epistemic_access": "인지과학과 사고에 대한 철학적 분석을 통해서이다. 지각 모듈은 캡슐화되어 있으므로, 내성은 지각 경험을 생성하는 기제에 닿지 못한다.",
+    "constituents_and_structure": "지각과 언어 파싱을 위한 빠르고, 강제적이며, 영역 특화된 입력 모듈. 이들은 다른 곳에 저장된 정보를 참조할 수 없으며, 어떤 믿음이든 다른 어떤 믿음에든 관련될 수 있는 중앙 체계에 입력을 보낸다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "지향성, 사고, 지각(구조만 해당). 현상적 의식은 명시적으로 배제된다.",
+    "distinctive_mechanism_or_principle": "방법론적 격리. 지향성과 현상성을 분리 가능한 것으로 취급하고, 질적 성격을 끌어들이지 않고 내용에 대한 완전한 이론을 구축한다.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "심적 표상은 뇌에서 실현된다. 포도르는 의식의 위치를 정하지 않는다.",
+    "causation_and_functional_role": "포도르는 의식에 기능적 역할을 부여하지 않는다. 그는 인지과학자들이 대개 의식을 골칫거리로 여기거나 무시하며, 그것을 제쳐 두는 것이 성공적인 연구 프로그램임이 드러났다고 지적한다.",
+    "integration_or_binding": "중앙 인지는 전역적이다. 어떤 믿음이든 다른 어떤 믿음에든 관련될 수 있다. 포도르는 이로 인해 중앙 인지가 계산적으로 다루기 어려워진다고 주장했다. 국소적 통사에만 민감한 기제는 전역적으로 민감한 추론을 수행할 수 없기 때문이다.",
+    "information_flow_or_representation": "정보는 캡슐화된 지각 모듈을 통과해, 믿음이 확정되는 중앙 체계로 흘러 들어간다. 뮐러-라이어 착시는 선이 같다는 것을 알고 있을 때에도 지속되는데, 이는 지각이 믿음에 의해 침투되지 않음을 보여 준다.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "사고의 언어는 사고가 생산적이고, 체계적이며, 추론적으로 일관적인 이유를 설명한다.",
+      "캡슐화된 입력 모듈은 지각적 착시가 반대되는 지식에도 살아남는 이유를 설명한다.",
+      "물질적인 무엇이 어떻게 의식적일 수 있는지 아무도 모르며, 그런 생각을 갖는다는 것이 어떤 것인지도 아무도 모른다.",
+      "의식을 제쳐 두고 지향성에 집중하는 것은 건전한 전략이다. 다만 포도르는 지각에서 지향적 성질과 질적 성질 사이의 우발적이지 않은 연결에 대한 맥긴의 주장이 자신을 불안하게 한다고 인정했다."
+    ],
+    "basis_of_belief_or_evidence_type": "철학적이고 이론적임. 인지과학과 지각 심리학에 근거한다."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "개념적으로 검증 가능함",
+    "known_empirical_interventions_or_tests": "인지적 침투 불가능성을 시험하는 수단으로서의 뮐러-라이어 같은 지각 착시 연구. 모듈성 테제는 여전히 경험적으로 논쟁 중이다.",
+    "criticisms_and_tensions": "Uriah Kriegel과 Dan Zahavi 같은 현상적 지향성 이론가들은 참된 대상 지향성이 의식에 의존한다고 주장하며, 이는 포도르의 우선성을 뒤집고 그의 전략이 가정하는 분리 가능성을 약화시킨다. 다른 이들은 의식을 자연종으로 다루기를 거부하는 것이 원칙적인지 아니면 선결 문제 요구인지 묻는데, 인과적으로 얽힌 현상은 과학적 연구를 허용해야 하기 때문이다.",
+    "open_questions_and_limitations": "의식에 대한 포도르의 비관주의는 주로 서평과 부수적 언급에 나타나며, 체계적으로 전개된 적이 없다. 그의 후기 연구는 중앙의 전역적 인지가 계산적 설명의 범위를 넘어선다고 주장했고, 이는 그의 틀의 적용 범위를 제한한다.",
+    "ontological_coherence": "사고에 대한 확신에 찬 계산적 설명과, 의식은 현재의 이해를 전적으로 넘어선다는 주장 사이에는 실제적 긴장이 있다. 이 입장은 제거주의인 데닛이나 처칠랜드보다는 맥긴의 인지적 폐쇄와 네이글의 비관주의에 더 가깝다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "기계는 원리상 사고의 계산적 구조를 공유할 수 있지만, 포도르는 어떤 물질적 체계가 의식적일 수 있는지 아무도 모른다고 보았으므로 이 물음은 열려 있다."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "토대"
+      },
+      {
+        "name": "Churchland’s Eliminative Materialism",
+        "relationship": "대조"
+      },
+      {
+        "name": "Zahavi’s Pre-Reflective For-Me-Ness",
+        "relationship": "비판"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Language of Thought, Jerry A. Fodor",
+        "year": 1975
+      },
+      {
+        "title_with_names": "Methodological Solipsism Considered as a Research Strategy in Cognitive Psychology, Jerry A. Fodor",
+        "year": 1980
+      },
+      {
+        "title_with_names": "The Modularity of Mind: An Essay on Faculty Psychology, Jerry A. Fodor",
+        "year": 1983
+      },
+      {
+        "title_with_names": "Too Hard for Our Kind of Mind? (review of McGinn's The Problem of Consciousness), Jerry A. Fodor",
+        "year": 1991
+      },
+      {
+        "title_with_names": "The Big Idea: Can There Be a Science of Mind?, Jerry A. Fodor",
+        "year": 1992
+      },
+      {
+        "title_with_names": "The Mind Doesn't Work That Way: The Scope and Limits of Computational Psychology, Jerry A. Fodor",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Hume Variations, Jerry A. Fodor",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Phenomenal Intentionality, Uriah Kriegel (ed.)",
+        "year": 2013
+      }
+    ]
+  }
+}

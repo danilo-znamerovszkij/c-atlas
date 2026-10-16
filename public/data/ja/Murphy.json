@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "マーフィーの非還元的物理主義",
     "summary": "この理論は、意識が全面的に物理的であり、もっぱら生物学的な脳から生じると主張するが、心的性質ないし状態は存在論的に区別され、基底にある物理的状態へは還元不可能であると考える。哲学的に堅固で、科学的に両立可能で、神学的にも受け入れられる、人間という人格の非二元論的説明を提供しようとする。",
-    "associated_thinkers": ["Nancey Murphy"],
-    "category": "非還元的物理主義",
+    "associated_thinkers": [
+      "Nancey Murphy"
+    ],
+    "category": "非還元的",
     "subcategory": "非還元的物理主義",
     "core_identity_tagline": "心は還元不可能なかたちで区別される物理的性質である",
     "classification_tags": [
@@ -22,9 +24,8 @@
     "subjectivity_and_intentionality": "これらの心的特徴は、意識に必要な、人間という有機体全体の実在的で還元不可能な性質／側面であると想定される。",
     "qualia_account": "質的で現象的な性質は、脳の物理的過程から生じる還元不可能な心的状態である。この理論の核心は、還元主義を拒否しつつこれらの性質の実在性を保持することに依拠する。",
     "ontological_commitments": "物理的実体、還元不可能な心的性質ないし状態、階層的な因果的組織（下向き因果）。",
-    "epistemic_access": "意識は、還元不可能性を論証する哲学的探究と、経験的な認知神経科学との両立可能性の双方を通じて認識可能である。",
-    "constituents_and_structure": "唯一の実体は全面的に物理的である。心的状態はこの物理的有機体のより高次のシステム的特徴であり、複雑で非線形な動態を通じて生じる。",
-    "epistemic_access": "還元不可能性を論証する哲学的論証と、認知神経科学からの経験的知見とが結び合わさることによって接近可能である。"
+    "epistemic_access": "還元不可能性を論証する哲学的論証と、認知神経科学からの経験的知見とが結び合わさることによって接近可能である。",
+    "constituents_and_structure": "唯一の実体は全面的に物理的である。心的状態はこの物理的有機体のより高次のシステム的特徴であり、複雑で非線形な動態を通じて生じる。"
   },
   "mechanism_and_dynamics": {
     "scope_of_consciousness": "現象的、心的性質（志向性を含む）、因果的有効性、自己意識（非二元論的人間論を介して推論される）。",
@@ -53,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありそう",
+      "stance": "Likely",
       "rationale": "意識が、複雑な物理システム（「適切な種類」の物理）の還元不可能かつ全面的に物理的な創発的性質であるなら、それは十分に複雑な人工的基盤において実現可能なはずである。"
     },
     "survival_beyond_death": {
-      "stance": "否定、条件付きの例外あり",
+      "stance": "Conditional",
       "rationale": "意識は全面的に生物学的な脳に依存するため、身体の死とともに消滅する。存続には、神の介入（死者の復活）のような特定の外的メカニズムが必要となる。"
     },
     "meaning_and_purpose": {
-      "stance": "究極的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "この理論はしばしば有神論的枠組み（キリスト教的人間論）の内部で展開され、心身を備えた人格への神の意図に由来する究極的な意味・目的・価値を支持する。"
     },
     "virtual_immortality": {
-      "stance": "きわめてありそう",
+      "stance": "Likely",
       "rationale": "必要な複雑な物理システム（脳）の完全な複製を仮定すれば、創発的で還元不可能な心的性質もまた複製されねばならず、技術がその複雑性を達成できるなら一人称的連続性が確保される。"
     }
   },
@@ -76,11 +77,11 @@
         "relationship": "重なり（しばしば性質二元論の一形態とみなされる）"
       },
       {
-        "name": "Emergence (Strong)",
+        "name": "Emergence",
         "relationship": "影響（哲学的整合性のために下向き因果を必要とする）"
       },
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "批判（身体と魂という人間論的二元論への反対を明示的に示す）"
       },
       {

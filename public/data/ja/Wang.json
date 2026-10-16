@@ -1,0 +1,119 @@
+{
+  "id_and_class": {
+    "theory_title": "ワンの階層的アーキテクチャと認知情報学",
+    "summary": "ワンは、意識を脳の階層的な機能アーキテクチャにおける最上位の集合的状態とみなす。その階層は代謝的恒常性、無意識的処理、潜在意識的処理によって積み上げられている。意識は、提案された小脳の「意識状態記憶」において身体と情動の状態についてのリアルタイムの情報を記録し、視床がそれを動的に処理する。ワンはこの過程を自身の表示数学で記述し、認知コンピュータやロボットが実装できるようにしている。",
+    "associated_thinkers": [
+      "Yingxu Wang"
+    ],
+    "category": "唯物論",
+    "subcategory": "計算論的",
+    "core_identity_tagline": "形式化された脳のアーキテクチャの最上層としての意識",
+    "classification_tags": [
+      "cognitive informatics",
+      "layered model",
+      "denotational mathematics",
+      "thalamus",
+      "cognitive computing"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、自己の気づき、環境の気づき、志向的な応答性という集合的な状態であり、その下にある諸層から生成される。ワンはこれを、自然知能における自己感覚であり生命の徴候とも呼ぶ。",
+    "ontological_status": "物理主義（機能主義的、情報処理的）",
+    "mind_body_relationship": "心的過程は生理的構造の機能であり、認知機能を神経機構へと対応づける参照モデルにおいて組織される。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（意識は、恒常性、無意識性、潜在意識性という下位の諸層から帰納的に総合される）",
+    "subjectivity_and_intentionality": "主観性は、身体と情動の状態についての自己の気づきである。より高次の獲得された過程は、志向的であり、目標に導かれ、意識的な統制のもとにある。",
+    "qualia_account": "",
+    "ontological_commitments": "神経と生理の構造（特に小脳と視床）、提案された意識状態記憶を含む複数の記憶の種類、そして表示数学によって記述できる形式的な認知過程。",
+    "epistemic_access": "形式的な仕様化と計算モデル化を通じて、神経解剖学的な対応づけを検証として用いる。",
+    "constituents_and_structure": "六つの層（感覚、記憶、知覚、行為、メタ認知、高次認知）にまたがる三十七の認知過程。これは遺伝的機能と獲得的機能に分けられ、恒常性、無意識性、潜在意識性、意識という四段階の階層に入れ子になっている。後のバージョンには、推論を加えた七つの層を用いるものもある。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "アクセス、自己モニタリング、環境の気づき、志向的な制御。現象的性格は扱われない。",
+    "distinctive_mechanism_or_principle": "意識状態とは、現在の出来事（外的刺激と内的動機）を、意識状態記憶の内容とともに、その記憶の更新された状態へと写す関数である。",
+    "dynamics_of_emergence": "意識は、視床によって連続的に実行される動的でリアルタイムの関数であり、出来事が到来するにつれて身体と情動の状態を更新する。",
+    "location_and_distribution": "意識状態記憶は小脳にあり、動的な処理は視床（ワンはこれを脳の中央処理装置と呼ぶ）で行われ、その内容は大脳皮質の活動によって供給される。",
+    "causation_and_functional_role": "意識は、有機体の内的状態、その環境、そして両者の関係についての情報を統合し、志向的な応答を調整する。",
+    "integration_or_binding": "統合は視床を介して行われる。視床はほぼすべての皮質および皮質下の構造と結びついている。",
+    "information_flow_or_representation": "表象と処理は分けられている。小脳は身体の各部位の状態についての細かな記録を保持し、視床がそれを処理する。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "脳の心的過程は、遺伝的で自動的な機能から、獲得され可塑的で目標によって制御される機能へと至る階層をなしている。",
+      "恒常性は意識ではないが、意識が必要とする生理的安定性をもたらす。",
+      "小脳は意識状態記憶として機能する。これは短期記憶、長期記憶、感覚バッファ記憶、行為バッファ記憶と並ぶ記憶の一種である。",
+      "概念代数、リアルタイム過程代数、システム代数によって、意識は機械による実装に十分なほど精密に規定できる。"
+    ],
+    "basis_of_belief_or_evidence_type": "計算論的・形式的モデル化（ソフトウェア科学、システム工学）"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "意識状態記憶を小脳に置くことは、小脳を欠いて生まれた人や小脳を切除された人が概ね意識を保つという臨床的証拠と矛盾する。その形式的な装置は主にワンの研究計画と雑誌の内部で発展させられており、より広い意識研究の文献との関わりは限られている。",
+    "open_questions_and_limitations": "この枠組みはアクセス、自己モニタリング、機能的組織化を扱うが、意識状態記憶のある状態がなぜ何かのように感じられるのかは、枠組みのどこにも説明されていない。その神経解剖学的な主張は、形式的な装置よりも思弁的である。",
+    "ontological_coherence": "機能主義的物理主義と一貫している。層の数と名称は、ワンの提示のしかたによって異なる。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "ワンは、認知コンピュータやロボットが実装できるように意識を明示的に形式化している。これは機械の意識が達成可能であることを前提としている。"
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "意識は生理的構造から生成され、恒常性に依存するため、身体とともに終わるという見方から導かれる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "このモデルは機械における意識を認めるが、ワンは特定の個人の意識を移し替えることについては論じていない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Theories",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Minsky's Society of Mind",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "両立可能"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "On Cognitive Informatics, Yingxu Wang",
+        "year": 2003
+      },
+      {
+        "title_with_names": "A Layered Reference Model of the Brain (LRMB), Y. Wang, Y. Wang, S. Patel, and D. Patel",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Cognitive Informatics Models of the Brain, Y. Wang and Y. Wang",
+        "year": 2006
+      },
+      {
+        "title_with_names": "The OAR Model of Neural Informatics for Internal Knowledge Representation in the Brain, Yingxu Wang",
+        "year": 2007
+      },
+      {
+        "title_with_names": "On Contemporary Denotational Mathematics for Computational Intelligence, Yingxu Wang",
+        "year": 2008
+      },
+      {
+        "title_with_names": "The Cognitive Mechanisms and Formal Models of Consciousness, Yingxu Wang",
+        "year": 2012
+      }
+    ]
+  }
+}

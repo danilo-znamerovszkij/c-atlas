@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "الوظيفية القزمية عند لايكان",
     "summary": "تؤكد هذه النظرية أن الوعي فيزيائي ووظيفي بالكامل، وأنه يتألف من نظام لمعالجة المعلومات منظَّم هرميًا. وينشأ الوعي تحديدًا عن تمثيلات من الرتبة الثانية، مؤديًا وظيفة آلية حس داخلية موجَّهة نحو حالات النظام العقلية ذاتها ذات الرتبة الأدنى.",
-    "associated_thinkers": ["William Lycan"],
+    "associated_thinkers": [
+      "William Lycan"
+    ],
     "category": "المادية",
-    "subcategory": "تمثيلية",
+    "subcategory": "الرتبة العليا",
     "core_identity_tagline": "‘الوعي بوصفه تمثيلًا من الرتبة الثانية وانتباهًا داخليًا’",
     "classification_tags": [
       "functionalism",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "بوصفها نظرية وظيفية، فإنه إذا استطاعت الأنظمة الاصطناعية تحقيق التنظيم الوظيفي الضروري والقدرات التمثيلية من الرتبة الثانية، فلا بد أن تكون واعية من حيث المبدأ."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "النظرية مادية صرفة وتفترض أن الوعي متحقق كليًا داخل الدماغ الفيزيائي المنظَّم وظيفيًا؛ ومن ثم لا يمكنه أن يستمر بعد موت الجسد."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "تماشيًا مع أساسها المادي، يتيح الوعي القصدية والفاعلية، ويوفّر معنى يصنعه النظام البيولوجي ذاته، لكنه لا يعني ضمنًا أي غاية كونية نهائية."
     },
     "virtual_immortality": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "بما أن الوعي يُعرَّف بالتنظيم الوظيفي والمضمون التمثيلي، فإن نسخًا وظيفيًا مثاليًا (رفعًا) للأنماط والمسارات العصبية إلى وسيط غير بيولوجي من شأنه، من حيث المبدأ، أن يحفظ الذات العقلية للشخص الأول."
     }
   },
@@ -73,7 +75,7 @@
         "relationship": "تداخل/امتداد"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "امتداد/تباين"
       },
       {
@@ -81,7 +83,7 @@
         "relationship": "تصنيف/أساس"
       },
       {
-        "name": "Jackson’s Representationalism and the Knowledge Argument",
+        "name": "Jackson's Representationalism and the Knowledge Argument",
         "relationship": "نقد"
       }
     ],

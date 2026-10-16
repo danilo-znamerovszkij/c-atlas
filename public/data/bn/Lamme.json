@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Lamme-এর পুনরাবৃত্ত প্রক্রিয়াকরণ তত্ত্ব",
     "summary": "Lamme-এর পুনরাবৃত্ত প্রক্রিয়াকরণ তত্ত্ব (RPT) প্রতিপাদন করে চেতনা প্রয়োজনীয় ও পর্যাপ্ত উভয়ই হয় যখন স্নায়বিক অঞ্চলের মধ্যে, বিশেষত সংবেদী তন্ত্রে, পারস্পরিক (পুনরাবৃত্ত) প্রতিক্রিয়া সংযোগ ঘটে। এই প্রক্রিয়াকরণ, যা স্থানীয়ভাবে সংবেদী ও পোস্ট-সংবেদী অঞ্চলে (স্তর ৩) সংঘটিত হয়, বৈশ্বিক সম্প্রচার প্রবেশাধিকার প্রয়োজন না করে আনুভূতিক অভিজ্ঞতা উৎপন্ন করে।",
-    "associated_thinkers": ["Victor Lamme"],
+    "associated_thinkers": [
+      "Victor Lamme"
+    ],
     "category": "বস্তুবাদ",
-    "subcategory": "প্রতিরূপণমূলক",
+    "subcategory": "প্রথম-ক্রম",
     "core_identity_tagline": "'চেতনা সংবেদী তন্ত্রে পুনরাবৃত্ত প্রক্রিয়াকরণ হিসেবে'",
     "classification_tags": [
       "neuroscience",
@@ -50,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "সম্ভাবত",
+      "stance": "Likely",
       "rationale": "একটি বস্তুবাদ তত্ত্ব হিসেবে, AI চেতনা নীতিগতভাবে সম্ভব হতে হবে যদি প্রয়োজনীয় পুনরাবৃত্ত প্রক্রিয়াকরণের প্যাটার্ন একটি জৈবিক নয় এমন ভিত্তিতে কৃত্রিমভাবে প্রতিলিপি করা যায়।"
     },
     "survival_beyond_death": {
-      "stance": "না",
+      "stance": "No",
       "rationale": "চেতনা ভৌত মস্তিষ্ক কার্যকলাপ ও নির্দিষ্ট স্নায়ু-বর্তনীর (পুনরাবৃত্ত প্রক্রিয়াকরণ অবস্থা) সাথে যুক্ত, যা দৈহিক মৃত্যুতে সমাপ্তির ইঙ্গিত দেয়।"
     },
     "meaning_and_purpose": {
-      "stance": "কেবল মানবতাবাদী",
+      "stance": "Humanistic only",
       "rationale": "তত্ত্বটি আনুভূতিক অভিজ্ঞতার একটি বিশুদ্ধভাবে ভৌতবাদী, স্নায়ুজীববৈজ্ঞানিক ব্যাখ্যার উপর কেন্দ্রীভূত এবং কোনো চরম মহাজাগতিক অর্থ বা উদ্দেশ্য সমর্থন করে না।"
     },
     "virtual_immortality": {
-      "stance": "হাঁ",
+      "stance": "Yes",
       "rationale": "চেতনা যেহেতু পুনরাবৃত্ত প্রক্রিয়াকরণ অবস্থা নিজেই, সেই প্রক্রিয়ার একটি নিখুঁত প্রতিলিপি একটি নতুন মাধ্যমে (আপলোড) প্রথম-পুরুষ স্ব উৎপন্ন করবে, যা ভার্চুয়াল অমরত্বকে সক্ষম করে।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "সমালোচনা"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "সম্প্রসারণ"
       },
       {
-        "name": "Block’s Biological Reductionism",
+        "name": "Block's Biological Reductionism",
         "relationship": "অতিব্যাপন"
       }
     ],

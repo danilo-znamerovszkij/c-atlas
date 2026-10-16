@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "土谷の意識への関係論的アプローチ",
     "summary": "このアプローチは主として、他のすべての意識との関係を網羅的に記述することを通じて意識を特徴づけ、定義しようとする方法論である。数学的構造とその関係に基づく道具である圏論を用い、意識の現象学の構造と相互関係を数学的な精密さで記述する。",
-    "associated_thinkers": ["Nao Tsuchiya", "Hayato Saigo"],
-    "category": "唯物論の諸理論",
-    "subcategory": "関係論的",
+    "associated_thinkers": [
+      "Nao Tsuchiya",
+      "Hayato Saigo"
+    ],
+    "category": "唯物論",
+    "subcategory": "関係的",
     "core_identity_tagline": "数学的に特徴づけられた関係としての意識",
     "classification_tags": [
       "relational",
@@ -49,30 +52,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識が根本的に、数学的に（圏論を介して）精密に記述されうる関係と構造によって定義されるのであれば、これらの構造は高度な非生物学的計算系において実現可能なはずである。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "本理論は唯物論の下に分類され、意識は関係論的構造を実現する物理的基盤（おそらく脳）に依存することを含意する。したがって生物学的死とともに意識は停止する。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的／実用主義的",
+      "stance": "Humanistic only",
       "rationale": "構造的・唯物論的な方法論として、意識を定義する道具を提供するが、人間の経験によって創出されるものを超えた、内在的な宇宙的あるいは究極的な意味は提供しない。"
     },
     "virtual_immortality": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識は精密に定量化され定義可能な関係とカテゴリーによって特徴づけられるため、これらの構造を仮想的あるいはデジタルな基盤において複製すれば、原理的には意識的自己の継続が可能となるはずである。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Relational Theories",
+        "name": "Relational",
         "relationship": "支持される"
       },
       {
-        "name": "Jaworski’s Hylomorphism",
+        "name": "Jaworski's Hylomorphism",
         "relationship": "関連（カテゴリーを共有）"
       },
       {

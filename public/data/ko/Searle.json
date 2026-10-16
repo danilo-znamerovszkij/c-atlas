@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "설의 생물학적 자연주의",
     "summary": "생물학적 자연주의는 의식이 전적으로 하위 수준의 신경생물학적 과정에 의해 야기되고 상위 수준의 체계적 특징으로 실현되는, 실재하고 환원 불가능하며 주관적인 뇌의 생물학적 특징이라고 본다. 이 접근은 과학적 세계관을 수용하면서도 의식 경험의 일인칭적 존재론을 인정함으로써 심신 문제를 해결하고자 한다.",
-    "associated_thinkers": ["John Searle"],
+    "associated_thinkers": [
+      "John Searle"
+    ],
     "category": "유물론",
-    "subcategory": "철학적",
+    "subcategory": "신경생물학적",
     "core_identity_tagline": "환원 불가능한 뇌의 생물학적 특징으로서의 의식",
     "classification_tags": [
       "biological",
@@ -51,30 +53,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부/가능함",
+      "stance": "Conditional",
       "rationale": "설은 시뮬레이션을 통한 의식을 거부하지만(중국어 방 논변), 인과적으로 충분한 생물학적 기제가 밝혀진다면 그와 동일한 기제를 구현하는 인공 기계도 의식을 가질 수 있다고 주장한다. 의식은 엄밀히 생물학적 뉴런을 요구하는 것이 아니라 충분한 인과적 능력만을 요구하기 때문이다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "의식은 전적으로 물리적이며 오로지 생물학적 뇌의 산물이다. 따라서 뇌와 신체의 죽음은 되돌릴 수 없는 영구적 비존재를 뜻한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "유물론 이론으로서 생물학적 자연주의는 궁극적인 우주적 의미나 목적을 정당화하기 어렵지만, 우리 스스로 창출하는 인간적 의미는 여전히 가능하다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "의식이 전적으로 물리적/생물학적 상태로 설명 가능하다면, 그러한 상태(와 그 인과적 관계)를 비생물학적 매체에서 복제하는 것은 원리상 일인칭적 심적 자아의 업로드와 존속을 허용할 것이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "중첩/발전 (뇌 동일성에 기반한 보다 정교한 형태의 유물론)"
       },
       {
-        "name": "Dennett’s Multiple Drafts Model",
+        "name": "Dennett's Multiple Drafts Model",
         "relationship": "대조 (양자 모두 생물학적 자연주의자이지만, 데닛은 내용/기능을 우선시하는 반면 설은 의식/주관성을 우선시한다)"
       },
       {

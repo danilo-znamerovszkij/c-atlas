@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "El Funcionalismo Homuncular de Lycan",
     "summary": "Esta teoría sostiene que la conciencia es enteramente física y funcional, y consiste en un sistema de procesamiento de información jerárquicamente organizado. La conciencia surge específicamente de representaciones de segundo orden, que funcionan como un mecanismo de sentido interno dirigido hacia los propios estados mentales de orden inferior del sistema.",
-    "associated_thinkers": ["William Lycan"],
-    "category": "Materialism",
-    "subcategory": "Representational",
+    "associated_thinkers": [
+      "William Lycan"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Orden superior",
     "core_identity_tagline": "‘La Conciencia como Representación de Segundo Orden y Atención Interna’",
     "classification_tags": [
       "functionalism",
@@ -50,7 +52,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "Como teoría funcionalista, si los sistemas artificiales pueden realizar la organización funcional necesaria y las capacidades representacionales de segundo orden, deben ser, en principio, conscientes."
     },
     "survival_beyond_death": {
@@ -58,11 +60,11 @@
       "rationale": "La teoría es estrictamente materialista y postula que la conciencia se realiza enteramente dentro del cerebro físico funcionalmente organizado; por lo tanto, no puede persistir tras la muerte corporal."
     },
     "meaning_and_purpose": {
-      "stance": "Solo humanista",
+      "stance": "Humanistic only",
       "rationale": "En consonancia con su fundamento materialista, la conciencia permite la intencionalidad y la agencia, proporcionando un sentido creado por el propio sistema biológico, pero sin implicar ningún propósito cósmico último."
     },
     "virtual_immortality": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Dado que la conciencia se define mediante la organización funcional y el contenido representacional, una duplicación funcional perfecta (subida de la mente) de los patrones y vías neuronales a un medio no biológico preservaría, en principio, el yo mental en primera persona."
     }
   },
@@ -73,7 +75,7 @@
         "relationship": "Superposición/Extensión"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "Extensión/Contraste"
       },
       {
@@ -81,7 +83,7 @@
         "relationship": "Clasificación/Fundamento"
       },
       {
-        "name": "Jackson’s Representationalism and the Knowledge Argument",
+        "name": "Jackson's Representationalism and the Knowledge Argument",
         "relationship": "Crítica"
       }
     ],

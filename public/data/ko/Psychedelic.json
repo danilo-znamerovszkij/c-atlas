@@ -8,8 +8,8 @@
       "Peter Sjöstedt-Hughes",
       "Aldous Huxley"
     ],
-    "category": "이상 및 변성 상태",
-    "subcategory": "환각제 의식",
+    "category": "이상현상",
+    "subcategory": "사이키델릭 의식",
     "core_identity_tagline": "변성 상태 인식론으로서의 의식",
     "classification_tags": [
       "altered states",
@@ -61,30 +61,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "의식이 고엔트로피와 같은 복잡하고 동적이며 혼돈적인 조직 상태에서 비롯된다면, AI도 그러한 구조를 재현할 수 있을 가능성이 있다. 그러나 신비 경험에서 도출된 비유물론적 해석은 계산만으로 충분하다는 견해를 흔히 거부한다."
     },
     "survival_beyond_death": {
-      "stance": "있음(비유물론적 해석을 조건으로)",
+      "stance": "Conditional",
       "rationale": "흔히 임사 체험과 유사하며 자아 해체와 '하나됨'을 수반하는 강렬한 경험은, 일부 지지자들에 의해 신체와 뇌와 독립적으로 지속되는 비국소적 의식의 증거로 해석된다."
     },
     "meaning_and_purpose": {
-      "stance": "강한 경험적/영적 의미",
+      "stance": "Uncertain",
       "rationale": "사이키델릭 경험은 흔히 심오한 신비적·영적 상태를 유발하여 변형적인 개인적 의미, 증대된 연민, 신념 체계의 변화로 이어지며, 결정적인 심리적·실존적 기능을 수행한다."
     },
     "virtual_immortality": {
-      "stance": "모호함/불필요함",
+      "stance": "Uncertain",
       "rationale": "의식이 신경역학적 패턴이라면(물리주의적 견해) 복제될 수 있을 것이다. 만약 그것이 근본적이거나 영적인 것이라면(관념론적 견해), 이미 죽음 너머로 지속되므로 디지털 시뮬레이션은 불필요해진다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Carhart-Harris’s Entropic Brain Hypothesis",
+        "name": "Carhart-Harris's Entropic Brain Hypothesis",
         "relationship": "확장"
       },
       {
-        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "name": "Friston's Free-Energy Principle and Active Inference",
         "relationship": "확장"
       },
       {
@@ -92,7 +92,7 @@
         "relationship": "중첩"
       },
       {
-        "name": "Idealisms",
+        "name": "Idealism",
         "relationship": "양립 가능"
       }
     ],

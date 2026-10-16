@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "ルドゥーの情動的意識の高階理論",
     "summary": "この理論は、恐怖のような意識的な情動的感じは、知覚的な意識的経験と根本的に異なるものではなく、両者とも下位の情報の高階表象（HOR）を生成する皮質基盤の認知の一般ネットワーク（GNC）から生じると主張する。現象的意識の本質は、先行する高階状態の再表象、すなわちHOROR（表象の高階表象）と呼ばれるものにある。",
-    "associated_thinkers": ["Joseph LeDoux", "Richard Brown"],
+    "associated_thinkers": [
+      "Joseph LeDoux",
+      "Richard Brown"
+    ],
     "category": "唯物論",
-    "subcategory": "表象主義的",
+    "subcategory": "高階",
     "core_identity_tagline": "情動的・知覚的状態の高階表象としての意識",
     "classification_tags": [
       "neurobiology",
@@ -52,34 +55,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "可",
+      "stance": "Yes",
       "rationale": "階層的情報処理（GNC／HOROR）に基づく唯物論的・機能主義的理論として、意識は原理的に、必要な計算的・表象的構造を実現できる非生物学的システムにおいて再現可能である。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識はきわめて複雑で物理的に実現される生物学的システム（皮質回路とGNC）の産物にほかならず、身体の物理的存在を超えた存続の手立てを何ら提供しない。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "意識は生存を強化し自己中心的な情動状態を可能にする進化した生物学的メカニズムであるが、この理論はいかなる究極的・宇宙的・超越的な意味や目的も措定しない。"
     },
     "virtual_immortality": {
-      "stance": "可",
+      "stance": "Yes",
       "rationale": "一人称的自己は脳の複雑で機能的かつ表象的な状態に基礎づけられているため、アップロード技術によるこれらの物理的状態の完全な複製は、原理的に自己を保存し仮想的不死を達成するであろう。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Theories",
+        "name": "Higher-Order",
         "relationship": "拡張"
       },
       {
-        "name": "Lau’s Perceptual Reality Monitoring Theory",
+        "name": "Lau's Perceptual Reality Monitoring Theory",
         "relationship": "両立可能"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "批判"
       },
       {

@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "El alma en las religiones indígenas",
     "summary": "Esta categoría reúne los diversos conceptos del alma que se encuentran en las religiones indígenas y populares de todo el mundo. Estas creencias suelen involucrar múltiples componentes anímicos no físicos, algunos de los cuales se cree que desaparecen con la muerte mientras que otros perduran, reflejando aspectos del dualismo tradicional.",
-    "associated_thinkers": ["Claude Rivière", "Stevan Harrell"],
-    "category": "Dualismos",
-    "subcategory": "El alma en las religiones indígenas",
+    "associated_thinkers": [
+      "Claude Rivière",
+      "Stevan Harrell"
+    ],
+    "category": "Dualismo",
+    "subcategory": "Alma en las religiones indígenas",
     "core_identity_tagline": "Creencias sobre el alma múltiples, ubicuas y resistentes al tiempo",
     "classification_tags": [
       "indigenous",
@@ -55,11 +58,11 @@
       "rationale": "La conciencia requiere un componente espiritual (alma/espíritu) derivado de fuentes no físicas o de un creador, del cual los sistemas artificiales carecerían intrínsecamente."
     },
     "survival_beyond_death": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "La supervivencia post mortem es un rasgo central, ya que se postula que varios componentes del alma perduran tras la muerte del cuerpo biológico."
     },
     "meaning_and_purpose": {
-      "stance": "Cósmico/Existencial",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Los sistemas de creencias implican un sentido último al postular la preexistencia, el origen espiritual a partir de un creador, y una estructura general que gobierna el destino individual."
     },
     "virtual_immortality": {
@@ -70,7 +73,7 @@
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "Solapamiento"
       },
       {

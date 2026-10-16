@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "비판 이론",
     "summary": "이 항목은 의식 연구 내에서 필수적이고 광범위하게 작동하는 회의적 기능을 나타내며, 제안된 모든 의식 이론의 설명적 정합성, 경험적 타당성, 형이상학적 전제를 체계적으로 문제 삼는다. 설명적 간극이나 상관–인과의 난제와 같은 지속적인 개념적 긴장을 부각시켜, 각 이론이 자신의 내적 일관성과 경험적 근거를 옹호하도록 압박한다.",
-    "associated_thinkers": ["Robert Lawrence Kuhn"],
-    "category": "도전 이론",
-    "subcategory": "비판/회의주의",
+    "associated_thinkers": [
+      "Robert Lawrence Kuhn"
+    ],
+    "category": "통합정보",
+    "subcategory": "",
     "core_identity_tagline": "본질적인 회의적 기능",
     "classification_tags": [
       "critique",
@@ -54,26 +56,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "비판은 인공지능의 진정한 내적 자각을 확인하기 어렵다는 점을 부각하며, 계산된 복잡성이 *겉보기* 의식(시뮬레이션 난제)에 그칠 수 있어 특정 주장을 신뢰하기 어렵게 만든다고 강조한다."
     },
     "survival_beyond_death": {
-      "stance": "불확실",
+      "stance": "Uncertain",
       "rationale": "비판은 (검증 가능한 임사 체험처럼) 고도로 이례적인 현상이 경험적으로 확증된다면 유물론적 산출 모형이 즉시 반증되어 이론적 지지가 비물리적 존속 가설로 이동하리라는 점을 인정한다."
     },
     "meaning_and_purpose": {
-      "stance": "궁극적 의미의 결여를 진단함",
+      "stance": "Humanistic only",
       "rationale": "비판은 유물론적·환원주의적 설명이 궁극적 의미나 가치를 합리적으로 근거 짓지 못한다는 점을 자주 문제 삼으며, 그 결과 인간이 스스로 목적을 창출하는 인간주의적 의미만이 남게 된다고 본다."
     },
     "virtual_immortality": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "비판은 의식이 *무엇인가*라는 형이상학적 수수께끼를 해결하지 않는 한(예: 업로드가 일인칭 자아를 온전히 보존함을 입증하지 않는 한), 가상 불멸은 개념적으로 문제적이며 확인되지 않은 채 남는다고 주장한다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mysterianism (McGinn's Ultimate Mystery)",
+        "name": "Challenge",
         "relationship": "중첩"
       },
       {
@@ -85,7 +87,7 @@
         "relationship": "비판"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "영향"
       }
     ],

@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "العقل وسيطًا بين الممكنات والفعليات عند كوفمان",
     "summary": "تفترض هذه النظرية أن الوعي كمومي جزئيًّا ويعمل بوصفه مكوّنًا ضروريًّا للتوسط في تحويل الممكنات الحقيقية أنطولوجيًّا (Res potentia) إلى فعليات (Res extensa) عبر القياس الكمومي. وهذه الآلية ضرورية لأن الفيزياء الكلاسيكية المحضة لا تستطيع تفسير دور العقل في انهيار الدالة الموجية، وهو المطلوب لتجاوز الانغلاق السببي للفيزياء الكلاسيكية.",
-    "associated_thinkers": ["Stuart Kauffman", "Dean Radin", "Andrea Roli"],
-    "category": "النظريات الكمومية",
-    "subcategory": "كمومية",
+    "associated_thinkers": [
+      "Stuart Kauffman",
+      "Dean Radin",
+      "Andrea Roli"
+    ],
+    "category": "الكمّية",
+    "subcategory": "الكمّية",
     "core_identity_tagline": "العقل وسيطًا بين الممكنات والفعليات عبر القياس الكمومي",
     "classification_tags": [
       "quantum",
@@ -52,30 +56,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "إذا كان الوعي متجذّرًا في ميكانيكا الكم، فينبغي أن يكون وعي الذكاء الاصطناعي ممكنًا إذا استطاعت التقنية التلاعب بالحالات الكمومية ذات الصلة والتحكم فيها على نحو شامل، وإن ظل ذلك تحديًا تقنيًّا."
     },
     "survival_beyond_death": {
-      "stance": "ممكن",
+      "stance": "Possible",
       "rationale": "تشير النظرية إلى أن بعض جوانب العقل غير موضعية ويمكنها أن تمتد إلى ما وراء نظام العقل-الدماغ، بما يوفّر آلية محتملة معقولة للبقاء بعد موت الجسد."
     },
     "meaning_and_purpose": {
-      "stance": "غير مؤكد",
+      "stance": "Uncertain",
       "rationale": "بتأكيدها أن الوعي أساسي للواقع (عبر الممكنات/الفعليات) ومنحها إياه دورًا سببيًّا، تبتعد عن الكون «العبثي» للمادية الصارمة، بما يستلزم إطارًا محتملًا لمعنى نهائي، وإن لم يُحدَّد صراحةً."
     },
     "virtual_immortality": {
-      "stance": "على الأرجح (مع عدم يقين)",
+      "stance": "Likely",
       "rationale": "إذا كان الوعي كموميًّا، فالاستنساخ الافتراضي ممكن ضمن انتظامات قابلة للتنبؤ، لكن اللاتحدّدات والاحتمالية المتأصلة في الفيزياء الكمومية تُدخِل عدم يقين وقد تقوّض قابلية الاستنساخ المثالية اللازمة للخلود الافتراضي."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Stapp’s Collapsing the Wave Function via Asking “Questions”",
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
         "relationship": "تداخل"
       },
       {
-        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
         "relationship": "تداخل"
       },
       {

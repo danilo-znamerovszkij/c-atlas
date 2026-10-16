@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Pereira-এর চেতনক্ষমতা (সেনটিয়েন্স)",
     "summary": "এই তত্ত্ব দাবি করে যে চেতনার দুটি স্বতন্ত্র বিধা আছে: ভিত্তিমূলক চেতনক্ষমতা, যা ব্যথা ও ক্ষুধার মতো মৌলিক অনুভূতি দ্বারা চিহ্নিত, এবং উচ্চ-স্তরের প্রজ্ঞানমূলক চেতনা, যার মধ্যে বিমূর্ত চিন্তন ও প্রতিরূপণ অন্তর্ভুক্ত। মূল দাবি হলো, প্রজ্ঞানমূলক সামর্থ্য এই অন্তর্নিহিত চেতনক্ষম অবস্থার ওপর নির্ভরশীল, যা সমস্থিতিমূলক ব্যবস্থায় জৈবিকভাবে প্রতিষ্ঠিত।",
-    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "associated_thinkers": [
+      "Antonio Pereira, Jr."
+    ],
     "category": "বস্তুবাদ",
-    "subcategory": "সমস্থিতিমূলক ও ভাবগত",
+    "subcategory": "সমস্থিতিমূলক",
     "core_identity_tagline": "চেতনক্ষমতায় প্রতিষ্ঠিত দ্বি-স্তরীয় ব্যবস্থা হিসেবে চেতনা",
     "classification_tags": [
       "sentience",
@@ -53,34 +55,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "সাপেক্ষ",
+      "stance": "Conditional",
       "rationale": "যদি কৃত্রিম ব্যবস্থা জৈবরাসায়নিক সমস্থিতির গতিশীল নিয়ন্ত্রণকারী শারীরবৃত্তীয় ব্যবস্থাকে (চেতনক্ষমতার জন্য আবশ্যক) এবং প্রয়োজনীয় জৈববৈদ্যুতিক জাল-কার্যকলাপকে (প্রজ্ঞানের জন্য) সম্পূর্ণরূপে পুনরুৎপাদন করতে পারে, তবে কৃত্রিম চেতনা সম্ভব।"
     },
     "survival_beyond_death": {
-      "stance": "না",
+      "stance": "No",
       "rationale": "চেতনা যেহেতু কার্যকরী জৈবিক ব্যবস্থার (সমস্থিতি নিয়ন্ত্রণ ও স্নায়ুজাল) ওপর কঠোরভাবে নির্ভরশীল, তাই দেহ ও মস্তিষ্কের অপরিবর্তনীয় বিলুপ্তিতে এর সমাপ্তি ঘটে বলে অনুমিত হয়।"
     },
     "meaning_and_purpose": {
-      "stance": "কেবল মানবতাবাদী",
+      "stance": "Humanistic only",
       "rationale": "তত্ত্বটি জৈবিক স্থিতিশীলতা (সমস্থিতি) রক্ষা ও নমনীয় প্রজ্ঞানকে সক্ষম করার ক্ষেত্রে চেতনার কার্যকরী, অভিযোজিত ভূমিকার ওপর কেন্দ্রীভূত, এবং এটি বৈশ্বিক বা পরম উদ্দেশ্যের কোনো ভিত্তি প্রদান করে না।"
     },
     "virtual_immortality": {
-      "stance": "সাপেক্ষ",
+      "stance": "Conditional",
       "rationale": "তাত্ত্বিকভাবে সম্ভব একমাত্র তখনই, যখন চেতনক্ষমতা ও প্রজ্ঞানের সহসম্পর্ক হিসেবে চিহ্নিত নির্দিষ্ট গতিশীল সমস্থিতিমূলক ও জৈববৈদ্যুতিক প্যাটার্নকে একটি অ-জৈবিক মাধ্যমে সম্পূর্ণরূপে ডিজিটাইজ ও পুনরুৎপাদন করা যায়।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "ওভারল্যাপ"
       },
       {
-        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "name": "Solms's Affect as the Hidden Spring of Consciousness",
         "relationship": "সংগত"
       },
       {
-        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+        "name": "Prinz's Neurofunctionalism: Attention Engenders Experience",
         "relationship": "সংগত"
       }
     ],

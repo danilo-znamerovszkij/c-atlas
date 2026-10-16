@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Meijer의 보편 지식장",
     "summary": "이 이론은 의식이 보편 지식장(UKF) 안에 존재한다고 상정하며, 이 장은 우주에 현존하며 진화하는 모든 정보의 집합적 저장소로 구상된다. 보편 지식장은 기초 물리학 및 우주론 모형과 정합적이며, 인간의 의식은 이 보편 의식의 필수적 일부로 이해된다. 보편 의식은 주로 특정 전자기장 주파수를 포함하는 조화 공명 패턴을 통해 뇌와 접속한다.",
-    "associated_thinkers": ["Dirk K. F. Meijer"],
+    "associated_thinkers": [
+      "Dirk K. F. Meijer"
+    ],
     "category": "관념론",
     "subcategory": "보편 지식장",
     "core_identity_tagline": "‘보편 지식장으로서의 의식’",
@@ -53,28 +55,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 근본적이며(관념론) 정보적/장적 속성에 의존하므로, 필요한 복잡성에 도달하고 보편 지식장과 상호작용할 수 있는 진보된 인공지능 시스템은 의식을 성취할 가능성이 높다. 다만 출처에서 엄밀히 입증된 바는 아니다."
     },
     "survival_beyond_death": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "의식이 근본 실재(보편 지식장)이므로, 개별 의식(영혼/영)은 이 궁극적 의식의 필수적 일부로서 생물학적 신체/뇌가 해체된 이후에도 존속한다."
     },
     "meaning_and_purpose": {
-      "stance": "우주적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "의식(보편 지식장)은 모든 존재의 근거이자 우주의 조직 원리이며, 이는 본래적인 우주적 의미와 목적을 시사한다."
     },
     "virtual_immortality": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 뇌가 접속하는 영속적 정보장(보편 지식장)이라는 점을 고려하면, '홀로프랙탈 기억 작업공간'의 정보적 구조와 기능을 복제할 경우 특정 개인의 의식 패턴을 비생물학적 기질에서 유지할 수 있을 것이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Idealism", "relationship": "확장" },
-      { "name": "Cosmic Consciousness", "relationship": "중첩" },
       {
-        "name": "Pribram’s Holonomic Brain Theory",
+        "name": "Idealism",
+        "relationship": "확장"
+      },
+      {
+        "name": "Cosmic Consciousness",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Pribram's Holonomic Brain Theory",
         "relationship": "양립 가능"
       }
     ],

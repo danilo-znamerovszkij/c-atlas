@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "모어랜드의 기독교적 영혼",
     "summary": "이 이론은 일반적 실체 이원론을 옹호하며, 의식이 물리적 신체와 구별되는 실체적이고 전적으로 비물질적인 영혼에 자리한다고 주장한다. 영혼은 의식적 속성의 통일적이고 지속하는 담지자로 작용하여 인격 동일성을 근거 짓고 신체의 물리적 구조에 생기를 부여한다.",
-    "associated_thinkers": ["J.P. Moreland"],
+    "associated_thinkers": [
+      "J.P. Moreland"
+    ],
     "category": "이원론",
     "subcategory": "기독교적 영혼",
     "core_identity_tagline": "전적으로 비물질적인 영혼으로서의 의식",
@@ -51,34 +53,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식은 실체적이고 전적으로 비물질적인 영혼을 요구하며, 이는 인공적·물리적 체계나 계산에 의해 창조되거나 예화될 수 없다."
     },
     "survival_beyond_death": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "비물질적 영혼('참된 나')은 신체와 동일하지 않으며 생물학적 죽음 이후에도 존속하므로, 사후 존속의 직접적인 기제를 제공한다."
     },
     "meaning_and_purpose": {
-      "stance": "궁극적/우주적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "기독교 철학 이론으로서, 지속하는 실체적 인간 인격이 신학적 실재의 일부로서 우주적 중요성과 목적, 가치를 지님을 함축한다."
     },
     "virtual_immortality": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "뇌 패턴의 복제를 통한 가상적 불멸은 불가능하다. 업로드된 정보에는 본래의 일인칭 자아를 근거 짓는 데 필요한 비물리적이고 실체적인 영혼이 결여되어 있기 때문이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Swinburne’s Substance Dualism",
+        "name": "Swinburne's Substance Dualism",
         "relationship": "양립 가능"
       },
       {
-        "name": "Stump’s Thomistic Dualism",
+        "name": "Stump's Thomistic Dualism",
         "relationship": "양립 가능"
       },
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "비판"
       },
       {

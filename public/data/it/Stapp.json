@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "Il collasso della funzione d'onda tramite il porre «domande» di Stapp",
     "summary": "Questa teoria postula che la coscienza sia fondamentale per l'universo e si basa su un'interpretazione tradizionale della meccanica quantistica secondo cui la coscienza provoca il collasso della funzione d'onda quantistica (un atto di misurazione) . Questo meccanismo conferisce alla coscienza un ruolo causale cruciale nel mondo fisico, collegando la libera scelta di un agente all'attualizzazione fisica dei correlati neurali .",
-    "associated_thinkers": ["Henry Stapp", "John von Neumann"],
-    "category": "Teorie Quantistiche",
-    "subcategory": "Teorie Quantistiche",
+    "associated_thinkers": [
+      "Henry Stapp",
+      "John von Neumann"
+    ],
+    "category": "Quantistico",
+    "subcategory": "Teorie quantistiche",
     "core_identity_tagline": "«La coscienza come collasso della funzione d'onda quantistica»",
     "classification_tags": [
       "quantum",
@@ -52,15 +55,15 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Incerto/Condizionale",
+      "stance": "Uncertain",
       "rationale": "Poiché la coscienza è posta come un'esistenza indipendente e fondamentale necessaria per forzare il salto quantistico , duplicare i processi puramente fisici o computazionali del cervello in un'IA potrebbe essere insufficiente per istanziare questa agentività fondamentale."
     },
     "survival_beyond_death": {
-      "stance": "Forse",
+      "stance": "Uncertain",
       "rationale": "La teoria stabilisce che la coscienza è fondamentale e inestricabilmente legata alla realtà quantistica , suggerendo che la distruzione del cervello classico non comporta necessariamente la fine dell'entità cosciente fondamentale, sebbene la sopravvivenza in prima persona rimanga difficile da immaginare ."
     },
     "meaning_and_purpose": {
-      "stance": "Sì",
+      "stance": "Uncertain",
       "rationale": "La teoria concede alla coscienza un ruolo causale vitale, trasformando l'osservazione passiva in partecipazione attiva («attori») nell'universo, fornendo così una funzione e un significato intrinseci ."
     },
     "virtual_immortality": {
@@ -75,15 +78,15 @@
         "relationship": "Fondamento/Influenza"
       },
       {
-        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
         "relationship": "Teoria quantistica alternativa"
       },
       {
-        "name": "Kauffman’s Mind Mediating Possibles to Actuals",
+        "name": "Kauffman's Mind Mediating Possibles to Actuals",
         "relationship": "Sovrapposizione"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "Critica/Sconfitta"
       }
     ],

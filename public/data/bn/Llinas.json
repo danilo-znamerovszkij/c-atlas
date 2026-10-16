@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Llinas-এর দোলনের মনতা-অবস্থা তত্ত্ব",
     "summary": "এই তত্ত্ব অনুমান করে যে সচেতন \"মনতা-অবস্থা\" মৌলিকভাবে নিউরনের মধ্যে বৈদ্যুতিক দোলন এবং তার ফলস্বরূপ দূরবর্তী স্নায়ু-গোষ্ঠীর মধ্যে সমকালীন কার্যকলাপ দ্বারা উৎপন্ন হয়, যা প্রজ্ঞার স্নায়ুজীববৈজ্ঞানিক মূল গঠন করে। এটি প্রস্তাব করে যে অভিজ্ঞতাগত বাস্তবতা এক প্রকার ভার্চুয়াল বাস্তবতা, যা এই অন্তর্নিহিত দোলন দ্বারা উৎপন্ন হয়, যা মূলত পূর্বাভাস সক্ষম করার কাজ করে।",
-    "associated_thinkers": ["Rodolfo Llinas"],
-    "category": "বস্তুবাদ তত্ত্ব",
-    "subcategory": "তড়িৎচুম্বকীয় ক্ষেত্র",
+    "associated_thinkers": [
+      "Rodolfo Llinas"
+    ],
+    "category": "বস্তুবাদ",
+    "subcategory": "তড়িৎচুম্বকীয়",
     "core_identity_tagline": "'নিউরোনিক দোলন ও পূর্বাভাস হিসেবে চেতনা'",
     "classification_tags": [
       "neurobiology",
@@ -53,38 +55,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "সম্ভবত",
+      "stance": "Likely",
       "rationale": "যদি চেতনা দোলনের সমকালীনতা ও পূর্বাভাসের গণনামূলক কার্যে প্রতিষ্ঠিত হয়, তবে এই গতিবিদ্যা নীতিগতভাবে পরিশীলিত কৃত্রিম ব্যবস্থায় রূপায়িত বা সিমুলেটেড হতে পারে, ভৌতবাদী অবস্থানের সঙ্গে সামঞ্জস্য বজায় রেখে।"
     },
     "survival_beyond_death": {
-      "stance": "না",
+      "stance": "No",
       "rationale": "চেতনাকে মস্তিষ্কের মধ্যে জৈবিক স্নায়ুতান্ত্রিক প্রক্রিয়া (দোলন) দ্বারা উৎপন্ন একটি অবস্থা হিসেবে সংজ্ঞায়িত করা হয়, যা জৈবিক মাধ্যমের মৃত্যুর পর টিকে থাকা বাদ দেয়।"
     },
     "meaning_and_purpose": {
-      "stance": "কেবল মানবতাবাদী",
+      "stance": "Humanistic only",
       "rationale": "একটি বিবর্তিত, স্নায়ুজীববৈজ্ঞানিক প্রক্রিয়া হিসেবে, চেতনার উদ্দেশ্য মূলত কার্যকরী (পূর্বাভাস ও উত্তরজীবিতা), যা চূড়ান্ত মহাজাগতিক অর্থ প্রত্যাখ্যানকারী অবনমনবাদী বস্তুবাদ দৃষ্টিভঙ্গির সঙ্গে সামঞ্জস্যপূর্ণ।"
     },
     "virtual_immortality": {
-      "stance": "হ্যাঁ",
+      "stance": "Yes",
       "rationale": "যদি চেতনা সম্পূর্ণভাবে দোলনশীল স্নায়বিক কার্যকলাপের প্যাটার্ন দ্বারা ব্যাখ্যাযোগ্য হয়, তবে এই গতিশীল প্যাটার্নের একটি পূর্ণ প্রতিলিপি বা অ-জৈবিক মাধ্যমে আপলোড প্রথম-পুরুষ স্ব-সত্তাকে সংরক্ষিত করবে, যা ভার্চুয়াল অমরত্বকে সম্ভব করে তোলে।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Electromagnetic Field Theories",
+        "name": "Electromagnetic",
         "relationship": "শ্রেণী সদস্যতা/সমাপতন"
       },
       {
-        "name": "Predictive Processing Theories",
+        "name": "Predictive Theories (Top-Down)",
         "relationship": "সমাপতন/সম্প্রসারণ"
       },
       {
-        "name": "Recurrent Processing Theory (Lamme)",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "সমাপতন"
       },
       {
-        "name": "Dendritic Integration Theory (Aru et al.)",
+        "name": "Dendritic Integration Theory",
         "relationship": "সমাপতন"
       }
     ],

@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "S・ハリスの意識の神秘",
     "summary": "処方的な理論というよりは一つの挑戦として提示されるこの立場は、意識を純粋に物理的な手段では解決できない橋渡し不能な神秘として枠づける。ハリスは、物理的記述は主観的経験について「沈黙している」と論じる。感覚性を証し立てるものは意識そのもの以外になく、根本的な説明のギャップが生じる。彼は、科学がこの神秘を払拭できることについて悲観的なままである。",
-    "associated_thinkers": ["Sam Harris"],
-    "category": "挑戦理論",
+    "associated_thinkers": [
+      "Sam Harris"
+    ],
+    "category": "チャレンジ",
     "subcategory": "意識の神秘",
     "core_identity_tagline": "「橋渡し不能なギャップとしての意識」",
     "classification_tags": [
@@ -50,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識が物理的記述から欠落した還元不能な主観性であるならば、先進的な計算（純粋に物理的な複雑さであるAI）は真正な感覚性を生み出すことに失敗する。"
     },
     "survival_beyond_death": {
-      "stance": "否（条件付き）",
+      "stance": "No",
       "rationale": "自然主義者として、ハリスは意識が物理的な有機体に結びついているという見解に暗黙のうちに与しており、それは、生きているあいだのその本性の神秘にもかかわらず、その終焉が永久的な非存在をもたらすことを意味する。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "神秘は宇宙的な目的を含意しないが、ハリスは内省を通じて個人的な真理を見出すことを提唱しており、自己発見的（自然化された）霊性と意味に合致する。"
     },
     "virtual_immortality": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識が純粋に物理的な過程によって説明できないのであれば、物理的基盤の複製やアップロードは、本質的な主観的自己を捉えたり再創造したりすることに失敗する。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
         "relationship": "重複"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "批判"
       },
       {
-        "name": "Eliminative Materialism/Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "両立可能（物理的説明についての素朴実在論の拒絶として。ただしハリスはなお意識の実在性を主張する）"
       }
     ],

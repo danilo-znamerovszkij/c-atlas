@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ペレイラのセンティエンス（感受性）",
     "summary": "この理論は、意識には二つの異なる様態があると主張する。すなわち、痛みや空腹といった基本的な感じを特徴とする基底的なセンティエンス（感受性）と、抽象的思考や表象を含む高次の認知的意識である。中心的主張は、認知能力がこの基底にある感受的状態に依存しており、その状態は生物学的にホメオスタシス系に根ざしているというものである。",
-    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "associated_thinkers": [
+      "Antonio Pereira, Jr."
+    ],
     "category": "唯物論",
-    "subcategory": "ホメオスタシス的・情動的",
+    "subcategory": "恒常性",
     "core_identity_tagline": "感受性に根ざした二層システムとしての意識",
     "classification_tags": [
       "sentience",
@@ -53,34 +55,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "人工システムが、生化学的ホメオスタシスを動的に制御する生理学的システム（センティエンスに必要）と、必要な生体電気的ネットワーク活動（認知に必要）を完全に再現できるならば、人工的な意識は可能である。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は機能的な生物学的システム（ホメオスタシス制御と神経ネットワーク）に厳密に依存しているため、身体と脳の不可逆的な崩壊とともに消滅すると推定される。"
     },
     "meaning_and_purpose": {
-      "stance": "人間的な意味のみ",
+      "stance": "Humanistic only",
       "rationale": "この理論は、生物学的安定性（ホメオスタシス）の維持と柔軟な認知の実現における意識の機能的・適応的役割に焦点を当てており、宇宙的あるいは究極的な目的の根拠を与えない。"
     },
     "virtual_immortality": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "センティエンスと認知の相関物として同定された特定の動的ホメオスタシス的・生体電気的パターンを、非生物学的媒体に完全にデジタル化して再現できる場合にのみ、理論上は可能である。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "重複"
       },
       {
-        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "name": "Solms's Affect as the Hidden Spring of Consciousness",
         "relationship": "両立可能"
       },
       {
-        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+        "name": "Prinz's Neurofunctionalism: Attention Engenders Experience",
         "relationship": "両立可能"
       }
     ],

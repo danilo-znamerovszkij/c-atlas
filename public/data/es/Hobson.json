@@ -1,0 +1,133 @@
+{
+  "id_and_class": {
+    "theory_title": "Protoconciencia onírica, de Hobson",
+    "summary": "J. Allan Hobson propone que el sueño REM es un estado protoconsciente, una realidad virtual programada genéticamente en la que el cerebro modela un mundo y un cuerpo sin entrada externa. El sueño muestra la conciencia primaria (percepción, emoción, un yo situado) en forma casi pura, y el sueño REM entrena y mantiene la maquinaria generativa sobre la que se construye la conciencia de vigilia, con su lenguaje, su reflexión y su volición.",
+    "associated_thinkers": [
+      "J. Allan Hobson",
+      "Robert McCarley",
+      "Karl Friston"
+    ],
+    "category": "Anómalo",
+    "subcategory": "",
+    "core_identity_tagline": "El sueño como campo de entrenamiento de la realidad virtual del cerebro",
+    "classification_tags": [
+      "dreaming",
+      "rem sleep",
+      "aim model",
+      "neurophysiology",
+      "predictive processing"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia es el modelo generado por el cerebro de un mundo y de un cuerpo. La conciencia primaria es ese modelo en funcionamiento (como en los sueños), y la conciencia secundaria añade encima el lenguaje, la metacognición y el control voluntario.",
+    "ontological_status": "Fisicalismo (neurobiológico)",
+    "mind_body_relationship": "Los estados conscientes corresponden a posiciones en un espacio de estados cerebrales definido por la activación, el control de entrada y salida y la neuromodulación, de modo que cada tipo de experiencia se corresponde con un perfil fisiológico.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia débil (a partir de la activación cerebral, el control de la información y el equilibrio neuromodulador)",
+    "subjectivity_and_intentionality": "Los soñadores tienen una perspectiva en primera persona y un yo situado, pero suelen carecer de la comprensión reflexiva de que están soñando. La autorreflexión pertenece a la conciencia secundaria, que depende del lenguaje y de la organización frontoparietal de la vigilia.",
+    "qualia_account": "Los sueños muestran que pueden generarse mundos fenoménicos vívidos con casi ninguna entrada sensorial, de modo que la percepción es un modelo construido activamente. Hobson no pretende explicar por qué se siente en absoluto algún estado cerebral.",
+    "ontological_commitments": "Circuitos del tronco encefálico y del prosencéfalo; sistemas neuromoduladores aminérgicos y colinérgicos; control sensorial y motor; un modelo generativo del mundo y del cuerpo.",
+    "epistemic_access": "Neurofisiología de laboratorio del sueño, informes de sueños, estudios del sueño lúcido y datos evolutivos sobre el sueño REM en fetos y recién nacidos.",
+    "constituents_and_structure": "Dos niveles siguiendo a Edelman: la conciencia primaria (percepción, emoción, imaginería de movimiento) y la conciencia secundaria (lenguaje, pensamiento abstracto, autorreflexión, volición). Los estados se sitúan en el espacio AIM tridimensional."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (conciencia primaria); autoconciencia y metacognición (secundaria); estados de conciencia (vigilia, REM, no REM, anestesia)",
+    "distinctive_mechanism_or_principle": "El modelo AIM (Activación-Input-Modulación): los estados conscientes quedan fijados por el nivel de activación del cerebro, por si el procesamiento está impulsado por una entrada externa o por una generación interna, y por el equilibrio entre la neuromodulación aminérgica y la colinérgica.",
+    "dynamics_of_emergence": "El sueño REM es más abundante en el feto y en el recién nacido, antes de que exista una experiencia de vigilia que procesar. Hobson infiere que primero construye los circuitos de modelado del mundo, sobre los que después se desarrolla la conciencia de vigilia, y que el sueño REM la mantiene durante toda la vida.",
+    "location_and_distribution": "Generada a lo largo del tronco encefálico y del prosencéfalo; la conciencia secundaria depende de redes frontoparietales.",
+    "causation_and_functional_role": "Soñar ensaya el modelado del mundo. Junto con Karl Friston, Hobson sostiene que el sueño fuera de línea también optimiza el modelo generativo del cerebro, podando parámetros redundantes para que la inferencia en vigilia siga siendo eficiente.",
+    "integration_or_binding": "El prosencéfalo sintetiza la activación del tronco encefálico, generada internamente, en una narrativa onírica coherente (la hipótesis de activación-síntesis).",
+    "information_flow_or_representation": "Los sueños son lo que produce el modelo generativo del cerebro cuando la evidencia sensorial queda bloqueada y la salida motora está inhibida.",
+    "evolutionary_account": "La conciencia primaria es anterior en la evolución y en el desarrollo a la conciencia reflexiva, y comparte aspectos importantes con otros animales.",
+    "core_claims_and_evidence": [
+      "Los rasgos de los sueños (imaginería vívida, emoción intensa, pérdida de la autorreflexión, desorientación, amnesia) se derivan de la posición del REM en el espacio AIM: dominio colinérgico, retirada aminérgica y control de entrada y salida.",
+      "La abundancia de sueño REM en fetos y recién nacidos sugiere que este desarrolla los circuitos de la conciencia antes de que exista la experiencia de vigilia.",
+      "El sueño lúcido, en el que la conciencia secundaria regresa en parte dentro de un mundo generado por el REM, es una hibridación medible entre vigilia y sueño.",
+      "Soñar reduce la complejidad del modelo generativo del cerebro, lo que da al sueño una función de teoría de la información."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírica (neurofisiología del sueño, neuromodulación, estudios evolutivos y del sueño lúcido), con modelado computacional"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente contrastable",
+    "known_empirical_interventions_or_tests": "Estudios polisomnográficos en laboratorio del sueño; estudios de EEG del sueño lúcido (Voss, Hobson y colaboradores); medición del sueño REM a lo largo del desarrollo; trabajo clínico sobre el desequilibrio aminérgico-colinérgico en la psicosis y los trastornos del estado de ánimo.",
+    "criticisms_and_tensions": "Los informes de sueños durante el sueño no REM debilitan la correspondencia estricta de la protoconciencia con el REM. El argumento evolutivo se apoya en el momento (el REM es abundante en las primeras fases), no en una función demostrada, y la abundancia temprana del REM puede tener otras explicaciones.",
+    "open_questions_and_limitations": "La teoría explica por qué existen los sueños y cómo se relacionan con la vigilia, pero no por qué se siente algún estado cerebral. Es difícil comprobar si los fetos tienen experiencia protoconsciente durante el REM.",
+    "ontological_coherence": "Coherente con el fisicalismo neurobiológico y con las explicaciones de procesamiento predictivo de la percepción como modelos generados."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Como aquí la conciencia es un producto de la activación cerebral y de la neuromodulación, nada de la visión sobrevive a la muerte del cerebro."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Edelman's Neural Darwinism and Reentrant Neural Circuitry",
+        "relationship": "Fundamento"
+      },
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Freud's Surface Consciousness and Irreducible Affect",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Thompson's Phenomenology: Waking, Dreaming, Sleeping, Pure Awareness",
+        "relationship": "Solapamiento"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "REM Sleep and Dreaming: Towards a Theory of Protoconsciousness, J. Allan Hobson",
+        "year": 2009
+      },
+      {
+        "title_with_names": "The Brain as a Dream State Generator: An Activation-Synthesis Hypothesis of the Dream Process, J. Allan Hobson and Robert W. McCarley",
+        "year": 1977
+      },
+      {
+        "title_with_names": "Dreaming and the Brain: Toward a Cognitive Neuroscience of Conscious States, J. Allan Hobson, E. F. Pace-Schott, R. Stickgold",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Waking and Dreaming Consciousness: Neurobiological and Functional Considerations, J. Allan Hobson and K. J. Friston",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Virtual Reality and Consciousness Inference in Dreaming, J. Allan Hobson, C. C.-H. Hong, K. J. Friston",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Psychodynamic Neurology: Dreams, Consciousness, and Virtual Reality, J. Allan Hobson",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Lucid Dreaming: A State of Consciousness with Features of Both Waking and Non-Lucid Dreaming, U. Voss, R. Holzmann, I. Tuin, J. Allan Hobson",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Bright Air, Brilliant Fire: On the Matter of the Mind, G. M. Edelman",
+        "year": 1992
+      },
+      {
+        "title_with_names": "The Reinterpretation of Dreams: An Evolutionary Hypothesis of the Function of Dreaming, A. Revonsuo",
+        "year": 2000
+      }
+    ]
+  }
+}

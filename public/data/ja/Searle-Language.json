@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "サールの言語と意識",
     "summary": "サールは、言語は人間の意識にとって決定的に重要であり、意識的経験を形づくり豊かにする役割を果たすと論じる。この関係は、前言語的な意識が言語を可能にし、その言語がひるがえって意識の構造を精緻化するという進化的な「ブートストラップ効果」とみなされる。",
-    "associated_thinkers": ["John Searle"],
+    "associated_thinkers": [
+      "John Searle"
+    ],
     "category": "唯物論",
-    "subcategory": "言語との関係",
+    "subcategory": "言語",
     "core_identity_tagline": "「意識を増強し形づくるものとしての言語」",
     "classification_tags": [
       "language",
@@ -51,38 +53,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "単なるシミュレーション（計算）が人間のような意識を実現しうることを退ける（中国語の部屋）。しかし、脳の必要な生物学的／因果的過程を再現する人工機械を構築すれば、それは原理的に意識をもちうる。言語の中心性は、先進的な言語システムが決定的に重要な内的統語法を再現するならば、AI意識をより蓋然的にするかもしれない。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は脳によって引き起こされそこで実現される生物学的特徴である。それは生物学的基盤が消散するときに終わる。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "唯物論の理論として、それは究極的な意味や目的を宇宙的に合理化することができない。言語によって増強された意識は、人間が自らの意味、目的、複雑な行為主体性を生み出すことを可能にする。"
     },
     "virtual_immortality": {
-      "stance": "条件付き／ありうる",
+      "stance": "Conditional",
       "rationale": "シミュレーションのみは退けられるため、仮想的不死（心的自己のアップロード）は、複製が必要な生物学的／因果的システムを再現する場合にのみ達成可能である。言語が意識の深い本質にとって中心的であるならば、言語的／象徴的過程の首尾よい複製が達成可能性を促進する。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Searle’s Biological Naturalism",
+        "name": "Searle's Biological Naturalism",
         "relationship": "基盤"
       },
       {
-        "name": "Chomsky’s Language and Consciousness",
+        "name": "Chomsky's Language and Consciousness",
         "relationship": "重複"
       },
       {
-        "name": "Koch’s Consciousness does not Depend on Language",
+        "name": "Koch's Consciousness does not Depend on Language",
         "relationship": "批判"
       },
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
         "relationship": "重複／対比"
       }
     ],

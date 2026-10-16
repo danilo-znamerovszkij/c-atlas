@@ -5,7 +5,7 @@
     "associated_thinkers": [
       "David Eagleman"
     ],
-    "category": "도전 이론",
+    "category": "도전",
     "subcategory": "",
     "core_identity_tagline": "‘상위 수준의 추상적 표상으로서의 의식’",
     "classification_tags": [
@@ -53,34 +53,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음(조건부)",
+      "stance": "Conditional",
       "rationale": "의식이 일차적으로 상위 수준의 추상화 기능이라면, 충분히 복잡한 AI도 이 기능을 구현할 수 있을 것이다. 다만 주관적 '느낌'(감각질)의 신비는 여전히 미해결의 개념적 장벽으로 남는다."
     },
     "survival_beyond_death": {
-      "stance": "없음(조건부)",
+      "stance": "Unlikely",
       "rationale": "마음은 명시적으로 '뇌에 통합적으로 의존하는' 것으로 간주된다. 다만 가능주의 철학은 미래의 과학이 현재로서는 상상할 수 없는 비물리적 구성 요소를 밝혀내어 사후 존속을 허용할 여지를 남긴다."
     },
     "meaning_and_purpose": {
-      "stance": "불확실/인간주의적",
+      "stance": "Uncertain",
       "rationale": "회의주의적 도전 이론으로서 우주적이거나 궁극적인 개입을 회피한다(가능주의). 의미는 의식의 기능(목표 설정과 행위주체성의 실행)으로부터 인간주의적으로 도출된다."
     },
     "virtual_immortality": {
-      "stance": "가능함(조건부)",
+      "stance": "Possible",
       "rationale": "의식이 생물학적 기계 장치 위에 올라탄 상위 수준의 추상적 표상으로 성공적으로 환원된다면, 기술적 복잡성이 극복되고 주관적 '느낌'이 보존되는 한 이러한 표상은 원리상 업로드될 수 있을 것이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Dennett’s Multiple Drafts Model",
+        "name": "Dennett's Multiple Drafts Model",
         "relationship": "중첩(의식을 필수적인 기능적/표상적 메커니즘으로 환원한다는 점에서)"
       },
       {
-        "name": "Mysterianism",
+        "name": "Challenge",
         "relationship": "중첩(감각질의 근본 본성이 개념적으로 접근 불가능할 수 있다고 결론짓는다는 점에서)"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "비판(뇌에 대한 의존을 인정하면서도 유물론의 충분성에 도전한다)"
       }
     ],

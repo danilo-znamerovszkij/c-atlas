@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Molteplicità, durata, percezione, memoria in Bergson",
     "summary": "Questa teoria non riduttiva concepisce la coscienza come una realtà dinamica e incessantemente temporale, caratterizzata dalla 'durata' e dalla 'molteplicità', che è fondamentalmente memoria. Il cervello non genera la coscienza, ma agisce come un filtro, limitando una consapevolezza altrimenti travolgente per rendere possibile un'azione focalizzata nel mondo.",
-    "associated_thinkers": ["Henri Bergson"],
-    "category": "Stati anomali e alterati",
-    "subcategory": "Molteplicità, durata, percezione, memoria",
+    "associated_thinkers": [
+      "Henri Bergson"
+    ],
+    "category": "Dualismo",
+    "subcategory": "",
     "core_identity_tagline": "La coscienza come memoria filtrata e durata pura",
     "classification_tags": [
       "duration",
@@ -56,12 +58,12 @@
       "justification": "Dedotto dalla natura strettamente non materialista e non meccanicistica dei concetti centrali."
     },
     "survival_beyond_death": {
-      "stance": "Possibile",
+      "stance": "Possible",
       "rationale": "Poiché il cervello è un filtro anziché un generatore della coscienza (spirito/memoria), ciò suggerisce che la coscienza sia indipendente dal corpo fisico e possa persistere dopo la morte corporea.",
       "justification": "La teoria di Bergson 'potrebbe persino consentire una qualche forma di sopravvivenza dopo la morte'."
     },
     "meaning_and_purpose": {
-      "stance": "Cosmico/esistenziale",
+      "stance": "Cosmic/Ultimate",
       "rationale": "La coscienza è definita come una sostanza dinamica e fondamentale ('spirito') capace di un 'atto libero chiamato scelta', il che implica uno scopo intrinseco al di là dei vincoli puramente umanistici o biologici.",
       "justification": "Dedotto dalla sua natura 'francamente dualista' e dall'associazione con lo spirito e la scelta."
     },
@@ -73,17 +75,32 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "William James's filter model", "relationship": "Compatibile" },
-      { "name": "Substance Dualism", "relationship": "Identità/sovrapposizione" },
-      { "name": "Process Theory", "relationship": "Influenza" },
-      { "name": "Neurophenomenology (Varela)", "relationship": "Influenza" }
+      {
+        "name": "James's Plural Consciousness, Brain as Filter of a Wider Consciousness",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "Identità/sovrapposizione"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "Influenza"
+      },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Influenza"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Time and Free Will: an Essay on the Immediate Data of Consciousness",
         "year": 1889
       },
-      { "title_with_names": "Matter and Memory", "year": 1896 },
+      {
+        "title_with_names": "Matter and Memory",
+        "year": 1896
+      },
       {
         "title_with_names": "Life and Consciousness (Mind-Energy)",
         "year": 1920

@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "울프럼의 룰리아드 속 의식",
     "summary": "이 이론은 계산적으로 가능한 모든 것의 얽힌 극한으로 정의되며 우리의 물리적 우주를 포괄하는 '룰리아드' 안에 의식을 위치시킴으로써 의식을 형식화하고자 한다. 의식은 일반적인 계산이 아니라, 이 궁극적 계산 구조에 대한 유한하고 단순화된 기술을 사용하여 정합적인 경험의 흐름을 만들어 내는 뇌의 특정한 특징으로 이해된다.",
-    "associated_thinkers": ["Stephen Wolfram"],
-    "category": "양자 이론",
+    "associated_thinkers": [
+      "Stephen Wolfram"
+    ],
+    "category": "양자",
     "subcategory": "양자",
     "core_identity_tagline": "'계산적 룰리아드 속의 유한한 지각으로서의 의식'",
     "classification_tags": [
@@ -52,26 +54,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "계산과 (양자) 물리학에 뿌리를 둔 이론으로서, 비생물학적 체계가 룰리아드 틀 안에서 필요한 계산적 정합성과 통합을 달성할 수 있다면 AI 의식도 가능하다."
     },
     "survival_beyond_death": {
-      "stance": "불확실",
+      "stance": "Uncertain",
       "rationale": "이 이론은 근본적으로 계산적/물리주의적이지만, 양자 이론 범주에 포함되고 추상적인 룰리아드(궁극적 실재 구조)에 의존한다는 점은 존속을 확정적으로 배제할 수 없게 만든다. 다만 의식은 일차적으로 뇌의 물리적 조직화와 결부된다."
     },
     "meaning_and_purpose": {
-      "stance": "아니오(실용주의적/과학적)",
+      "stance": "Humanistic only",
       "rationale": "의식은 계산적 환원 가능성을 가능하게 하고 우주에 대한 우리의 지각을 구조화하는 기능적 역할을 수행하며, 이는 궁극적인 우주적 의미에 관해 축소주의적이고 기능주의적인 귀결과 부합한다."
     },
     "virtual_immortality": {
-      "stance": "아마도 가능함",
+      "stance": "Likely",
       "rationale": "의식이 특정 유형의 계산적 정합성(유한한 계산의 '소프트웨어'적 산물)으로 특징지어지는 이상, 이 구조가 원리상 비생물학적 기질에서 복제되어 가상적 불멸을 가능하게 할 여지가 크다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Quantum Theories",
+        "name": "Quantum & Dimensions",
         "relationship": "중첩"
       },
       {
@@ -79,11 +81,11 @@
         "relationship": "중첩"
       },
       {
-        "name": "Max Tegmark’s State of Matter",
+        "name": "Tegmark's State of Matter",
         "relationship": "양립 가능"
       },
       {
-        "name": "David Bohm’s Implicate-Explicate Order",
+        "name": "Bohm's Implicate-Explicate Order",
         "relationship": "양립 가능"
       }
     ],

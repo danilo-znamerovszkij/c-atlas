@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "«هل هي صعبة إلى هذا الحد حقًا؟» عند موسر",
     "summary": "يتحدى هذا المنظور الرأي القائل بأن الوعي لغز نهائي، ويحاجّ بدلًا من ذلك بأنه على الأرجح ظاهرة قابلة للفهم يمكن النفاذ إليها بالمناهج العلمية، ولا سيما عبر دمج مفاهيم من الفيزياء العلائقية وأبحاث الذكاء الاصطناعي. ويحافظ على تفاؤل حذر بإمكان حلّ المشكلة الصعبة في نهاية المطاف.",
-    "associated_thinkers": ["George Musser"],
-    "category": "نظريات التحدي",
-    "subcategory": "نظريات التحدي",
+    "associated_thinkers": [
+      "George Musser"
+    ],
+    "category": "التحدّي",
+    "subcategory": "نظريات التحدّي",
     "core_identity_tagline": "«الوعي بوصفه مشكلة عصيّة لكنها قابلة للمعرفة»",
     "classification_tags": [
       "relational",
@@ -51,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مرجّح",
+      "stance": "Likely",
       "rationale": "يوحي الإيمان المتفائل بقدرة العلم/الحوسبة بأن وعي الذكاء الاصطناعي قابل للتحقق، وقد تكون أنظمة الذكاء الاصطناعي أدوات ضرورية لاكتشاف حل مشكلة الوعي."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "تتجذّر رؤية موسر في كون الوعي «من هذا العالم» ومنبثقًا عن البنية الفيزيائية، مما يعني توقفه عند الانحلال الفيزيائي (بما يتسق مع السياق المادي للحجة)."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "ينصبّ التركيز على إيجاد حل ضمن الكون الفيزيائي المعروف، مما لا يوفّر أساسًا لغائية كونية، بل فقط المعنى الإنساني المستمد من قدرة العقل على فهم الكون."
     },
     "virtual_immortality": {
-      "stance": "مرجّح (مشروط)",
+      "stance": "Conditional",
       "rationale": "إذا أمكن نمذجة أنماط العقل العلائقية/الفيزيائية الكاملة ومحاكاتها حاسوبيًّا وإعادة إنتاجها بالكامل، فينبغي أن تكون الاستمرارية الافتراضية ممكنة، وإن ظلّ التعقيد الهائل تحديًا عمليًّا."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Rovelli’s Relational Physics",
+        "name": "Rovelli's Relationship Physics",
         "relationship": "تأثير"
       },
       {
@@ -78,7 +80,7 @@
         "relationship": "سياق استكشافي"
       },
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
         "relationship": "نقد"
       },
       {

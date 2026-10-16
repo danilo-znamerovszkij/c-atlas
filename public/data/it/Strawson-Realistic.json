@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "Il monismo realistico e il materialismo reale di Strawson",
     "summary": "Questa teoria afferma che la coscienza, ovvero l'esperienza fenomenica, è interamente fisica ed è il fatto più certo della nostra esistenza. Pertanto, il fisicalismo o materialismo «reale» deve comportare il panpsichismo, nel senso che le proprietà fenomeniche sono intrinseche a tutta la sostanza fisica fondamentale (energia/materia) e non radicalmente emergenti. Questa visione mira a fondare l'esperienza soggettiva direttamente all'interno di un'ontologia fisica ampliata e realistica.",
-    "associated_thinkers": ["Galen Strawson"],
-    "category": "Monismi",
+    "associated_thinkers": [
+      "Galen Strawson"
+    ],
+    "category": "Monismo",
     "subcategory": "Monismo realistico",
     "core_identity_tagline": "La coscienza è interamente fisica ed esperienziale",
     "classification_tags": [
@@ -53,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "Se la coscienza è una proprietà intrinseca delle entità fisiche fondamentali (panpsichismo), allora una tecnologia avanzata dovrebbe essere in grado di manipolare questi aspetti micropsichici nei sistemi artificiali per generare una complessa consapevolezza interiore, poiché ogni cosa è fatta della stessa sostanza esperienziale."
     },
     "survival_beyond_death": {
-      "stance": "Improbabile (poco verosimile)",
+      "stance": "Unlikely",
       "rationale": "Sebbene sia un monismo, il quadro è esplicitamente «materialista reale» e fondamentalmente fisicalista, il che rende improbabile la sopravvivenza oltre la dissoluzione del corpo fisico, in modo analogo alle teorie puramente materialiste."
     },
     "meaning_and_purpose": {
-      "stance": "Possibilmente",
+      "stance": "Uncertain",
       "rationale": "In quanto forma di monismo che incorpora un'esperienza fondamentale e intrinseca, evita la conclusione nichilista spesso associata al materialismo deflazionistico, lasciando spazio a un significato o a uno scopo ultimo legato alla natura stessa della realtà."
     },
     "virtual_immortality": {
-      "stance": "Probabilmente",
+      "stance": "Likely",
       "rationale": "Se la coscienza è una proprietà regolare e intrinseca dell'organizzazione fisica, una iper-tecnologia avanzata capace di duplicare perfettamente lo stato fisico in un substrato non biologico dovrebbe duplicare anche il corrispondente stato cosciente."
     }
   },
@@ -80,11 +82,11 @@
         "relationship": "Sovrapposizione"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "Critica"
       },
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "Estensione"
       }
     ],

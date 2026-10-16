@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La théorie de l'hypothèse du contenu de T. Clark",
     "summary": "Cette théorie postule que la conscience phénoménale est le contenu représentationnel dérivé d'un traitement suffisamment structuré d'un système cognitif . L'expérience consciente est catégoriquement subjective et fondamentalement liée au cerveau physique, opérant comme un phénomène matériel instancié par le cerveau .",
-    "associated_thinkers": ["Thomas Clark"],
+    "associated_thinkers": [
+      "Thomas Clark"
+    ],
     "category": "Matérialisme",
-    "subcategory": "Représentationnel",
+    "subcategory": "Premier ordre",
     "core_identity_tagline": "La conscience phénoménale comme contenu représentationnel structuré",
     "classification_tags": [
       "representational",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Puisque la conscience est postulée comme un phénomène strictement physique résultant d'un traitement suffisamment structuré, la réplication de cette structure dans des systèmes artificiels avancés devrait permettre la conscience ."
     },
     "survival_beyond_death": {
-      "stance": "Non (pour le soi personnel) / Oui (pour la subjectivité générique)",
+      "stance": "No",
       "rationale": "La conscience individuelle est une instanciation physique et se dissout à la mort cérébrale. Cependant, la « continuité subjective générique » suggère que la conscience se poursuit dans d'autres contextes, bien que non en tant que l'individu décédé ."
     },
     "meaning_and_purpose": {
-      "stance": "Existentiel/intrinsèque",
+      "stance": "Humanistic only",
       "rationale": "La conscience, motivée par la finitude du système auto-réflexif, crée intrinsèquement un monde interne, procurant une finalité liée au maintien de la continuité subjective ."
     },
     "virtual_immortality": {
-      "stance": "Conditionnelle",
+      "stance": "Conditional",
       "rationale": "En tant que théorie matérialiste, si le « traitement représentationnel suffisamment structuré » défini peut être précisément dupliqué sur un support non biologique, le transfert de la conscience personnelle est possible ."
     }
   },
@@ -74,15 +76,15 @@
         "relationship": "Cohérente"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "Cohérente"
       },
       {
-        "name": "Predictive Processing",
+        "name": "Predictive Theories (Top-Down)",
         "relationship": "Cohérente"
       },
       {
-        "name": "Metzinger’s No-Self Representational Theory of Subjectivity",
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
         "relationship": "Influence"
       }
     ],

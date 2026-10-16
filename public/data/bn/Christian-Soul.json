@@ -61,28 +61,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "না (অধিকাংশত)",
+      "stance": "Unlikely",
       "rationale": "যদি চেতনার জন্য একটি মূলগতভাবে স্বতন্ত্র, অ-ভৌত দ্রব্যের (আত্মার) প্রয়োজন হয়, যা ঐশ্বরিকভাবে সৃষ্ট বা প্রদত্ত, তবে অ-জৈবিক বুদ্ধিমত্তা এই প্রয়োজনীয় উপাদান সৃষ্টি করতে পারবে না, যা AI চেতনাকে অসম্ভব করে তোলে।"
     },
     "survival_beyond_death": {
-      "stance": "হ্যাঁ",
+      "stance": "Yes",
       "rationale": "আত্মাই 'প্রকৃত আপনি', যা দেহ থেকে স্বাধীনভাবে বিদ্যমান এবং মৃত্যু-পরবর্তী ব্যক্তিগত চেতনার টিকে থাকার সবচেয়ে স্পষ্ট প্রক্রিয়া প্রদান করে, যা আব্রাহামীয় ধর্মগুলির মূল মতবাদ পূর্ণ করে।"
     },
     "meaning_and_purpose": {
-      "stance": "চূড়ান্ত/মহাজাগতিক",
+      "stance": "Cosmic/Ultimate",
       "rationale": "একটি ধর্মতাত্ত্বিক তত্ত্ব হিসেবে, এটি ঐশ্বরিক সৃষ্টি, নিয়তি, এবং মানব অস্তিত্বের আত্মিক প্রকৃতির সাথে যুক্ত চূড়ান্ত অর্থ, উদ্দেশ্য ও মূল্য প্রদান করে।"
     },
     "virtual_immortality": {
-      "stance": "না",
+      "stance": "No",
       "rationale": "স্নায়বিক প্যাটার্ন ও পথ আপলোড করা শুধুমাত্র চেতনার ভৌত ভিত্তি প্রতিলিপি করবে। যেহেতু প্রয়োজনীয় অ-ভৌত উপাদান (আত্মা) প্রতিলিপিতে অনুপস্থিত থাকবে, প্রথম-পুরুষ মানসিক স্ব-সংরক্ষণ অসম্ভব হবে।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "সাদৃশ্য" },
-      { "name": "Thomistic Dualism", "relationship": "সম্প্রসারণ" },
-      { "name": "Non-Reductive Physicalism", "relationship": "সমালোচনা" },
-      { "name": "Emergent Dualism", "relationship": "রূপভেদ" }
+      {
+        "name": "Dualism",
+        "relationship": "সাদৃশ্য"
+      },
+      {
+        "name": "Thomistic Dualism",
+        "relationship": "সম্প্রসারণ"
+      },
+      {
+        "name": "Non-Reductive",
+        "relationship": "সমালোচনা"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "রূপভেদ"
+      }
     ],
     "sources_and_references": [
       {

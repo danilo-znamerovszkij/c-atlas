@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "Le monisme à double aspect de Polkinghorne",
     "summary": "Cette théorie postule que la matière et l'esprit sont des aspects complémentaires d'un être unitaire unique (nature psychosomatique), rejetant le dualisme classique et le matérialisme. L'esprit, ou l'âme, est conçu comme un schéma porteur d'information organisé par le cerveau physique. Cette conception est souvent envisagée dans un contexte théologique chrétien afin de rendre compte de la continuité de l'identité personnelle nécessaire à la résurrection des morts.",
-    "associated_thinkers": ["John Polkinghorne"],
-    "category": "Monismes",
+    "associated_thinkers": [
+      "John Polkinghorne"
+    ],
+    "category": "Monisme",
     "subcategory": "Monisme à double aspect",
     "core_identity_tagline": "L'esprit et la matière comme aspects complémentaires d'un être unitaire",
     "classification_tags": [
@@ -52,34 +54,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si la conscience est essentiellement un schéma émergent d'information organisé par un système complexe, des systèmes artificiels d'une complexité et d'une organisation suffisantes devraient en théorie pouvoir héberger ce schéma et devenir conscients."
     },
     "survival_beyond_death": {
-      "stance": "Oui (conditionnel/théologique)",
+      "stance": "Conditional",
       "rationale": "L'essence de la personne (le schéma porteur d'information/l'âme unique) est conservée par la « mémoire divine » après la mort et sera reconstituée sous une nouvelle forme de matière lors de la résurrection, assurant la continuité."
     },
     "meaning_and_purpose": {
-      "stance": "Cosmique et théologique",
+      "stance": "Cosmic/Ultimate",
       "rationale": "La théorie est motivée par la recherche d'un compte rendu cohérent de l'existence humaine au sein d'une réalité permettant la résurrection, impliquant une finalité et une valeur ultimes liées à l'intention et à la destinée divines."
     },
     "virtual_immortality": {
-      "stance": "Oui (conditionnel)",
+      "stance": "Conditional",
       "rationale": "L'immortalité virtuelle est théoriquement possible parce que le soi essentiel est défini comme un schéma porteur d'information. Téléverser ce schéma vers un support non biologique préserverait la composante d'identité nécessaire, à condition que la réplication soit parfaite et que le schéma soit le seul élément requis pour que le « moi » persiste."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Teilhard de Chardin’s Evolving Consciousness",
+        "name": "Teilhard de Chardin's Evolving Consciousness",
         "relationship": "Chevauchement (partage le monisme à double aspect et le cadre évolutif/téléologique)"
       },
       {
-        "name": "Atmanspacher’s Dual-Aspect Monism",
+        "name": "Atmanspacher's Dual-Aspect Monism",
         "relationship": "Compatible (partage l'engagement envers une conception à double aspect de la réalité unitaire)"
       },
       {
-        "name": "Van Inwagen’s Christian Materialism and Resurrection of the Dead",
+        "name": "van Inwagen's Christian Materialism and Resurrection of the Dead",
         "relationship": "Chevauchement (aborde la nécessité théologique de la continuité de l'identité personnelle malgré la dissolution physique)"
       }
     ],
@@ -92,8 +94,14 @@
         "title_with_names": "The God of Hope and the End of the World",
         "year": 2003
       },
-      { "title_with_names": "Faith, Science and Understanding", "year": 2001 },
-      { "title_with_names": "All things new (Closer To Truth)", "year": 2007 }
+      {
+        "title_with_names": "Faith, Science and Understanding",
+        "year": 2001
+      },
+      {
+        "title_with_names": "All things new (Closer To Truth)",
+        "year": 2007
+      }
     ]
   }
 }

@@ -1,0 +1,134 @@
+{
+  "id_and_class": {
+    "theory_title": "Identidad mente-objeto de Manzotti (\"mente extendida\")",
+    "summary": "Riccardo Manzotti sostiene que tu experiencia de un objeto es idéntica al propio objeto, entendido como un haz de propiedades físicas que existen en relación con tu cuerpo. El cuerpo y el cerebro son condiciones causales que hacen existir ese objeto, del mismo modo que una presa hace existir un lago, pero la experiencia está en el mundo y no en la cabeza.",
+    "associated_thinkers": [
+      "Riccardo Manzotti"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Relacional",
+    "core_identity_tagline": "La experiencia es el propio objeto",
+    "classification_tags": [
+      "externalism",
+      "identity theory",
+      "spread mind",
+      "physicalism",
+      "relative object"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Cuando un sujeto experimenta un objeto O, la experiencia de O es el propio O, el objeto tal como está causal y físicamente disponible en relación con un cuerpo dado.",
+    "ontological_status": "Fisicalismo (teoría de la identidad externalista)",
+    "mind_body_relationship": "Manzotti divide la identidad clásica mente-cerebro en dos tesis: la conciencia es física (lo que mantiene) y está dentro del cerebro (lo que abandona). El cerebro es causalmente necesario para la experiencia, pero no la constituye.",
+    "primitive_or_emergent_status": "Ninguno",
+    "emergence_type": "No aplicable (la experiencia es idéntica a un objeto físico, de modo que nada necesita emerger)",
+    "subjectivity_and_intentionality": "La intencionalidad es un postulado que nunca se encuentra en la experiencia: ver una manzana presenta la manzana, no una relación de referencia hacia ella. El lema de Manzotti es que «la identidad es la nueva intencionalidad».",
+    "qualia_account": "Solo hay un rojo, el rojo de la manzana relativo a un sistema visual, y no un rojo físico más un rojo fenoménico. La rojez sentida parecía faltar en el mundo físico solo porque los teóricos buscaron en el objeto equivocado, el cerebro.",
+    "ontological_commitments": "Objetos físicos cuyas propiedades son relativas (como la velocidad galileana) y actuales (existen solo cuando algún otro objeto proporciona una ocasión causal), más cuerpos que sirven como marcos de referencia causales.",
+    "epistemic_access": "La percepción ordinaria es la presencia directa del objeto. Manzotti apoya la teoría mediante argumentos filosóficos contra la identidad ligada al cerebro y reinterpretando casos como los sueños y las ilusiones.",
+    "constituents_and_structure": "La experiencia está hecha de objetos externos y de sus propiedades relativas al cuerpo. El cuerpo es «solo otro objeto» que fija qué objetos existen en relación con él."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménico (percepción, sueños, alucinaciones, memoria, imaginería); después extendido a la identidad personal, el lenguaje y el pensamiento",
+    "distinctive_mechanism_or_principle": "Relatividad al objeto: las propiedades existen solo en relación con otro sistema físico, de modo que el cuerpo hace existir los objetos que son sus experiencias.",
+    "dynamics_of_emergence": "Las propiedades de un objeto son «arrastradas a la existencia» cuando el cuerpo proporciona la ocasión causal. Como la percepción siempre lleva tiempo, el presente experimentado se extiende a través de causas pasadas y distantes.",
+    "location_and_distribution": "Fuera de la cabeza, en los objetos de la experiencia, extendidos en el espacio y en el tiempo a lo largo de sus trayectorias causales hasta el cuerpo.",
+    "causation_and_functional_role": "El cuerpo y el cerebro hacen posible causalmente la experiencia (capacidades sensoriomotoras, estructuras neuronales, historia, posición), pero no son la experiencia. Manzotti traslada a los objetos distales lo que normalmente se atribuye a sucesos neuronales proximales.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Manzotti rechaza la representación y debilita la distinción entre vehículo y contenido: ningún vehículo separado representa al objeto experimentado.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "La actividad neuronal carece de las propiedades que tiene la experiencia: nada en el cerebro es rojo, redondo o brillante, mientras que la manzana sí lo es.",
+      "El fisicalismo exige solo que la conciencia sea física, no que esté dentro del cerebro.",
+      "Los sueños y las alucinaciones recombinan propiedades externas encontradas previamente en lugar de crear otras nuevas, como muestra el hecho de que las personas ciegas de nacimiento no sueñan en color.",
+      "Las ilusiones son experiencias veridicas de una propiedad sustitutiva; el error está en una creencia sobre qué propiedad se percibe."
+    ],
+    "basis_of_belief_or_evidence_type": "Argumento filosófico (metafísica fisicalista de los objetos relativos)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente contrastable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Los críticos insisten en las alucinaciones que parecen carecer de objeto o ser radicalmente novedosas, en la idea de que la experiencia presente puede estar a años luz del propio cuerpo y en el traslado de la agencia de los sucesos neuronales a los objetos distales. Manzotti responde a cada una negando el supuesto que la genera.",
+    "open_questions_and_limitations": "Tratar la alucinación como percepción desplazada exige estirar el «ahora» en el tiempo hasta donde llega el «allí» en el espacio, una revisión profunda de las nociones ordinarias de tiempo. Queda también por mostrar con detalle cómo maneja la teoría la identidad personal, el lenguaje y el pensamiento.",
+    "ontological_coherence": "Consistente con el fisicalismo y distinta del panpsiquismo, del idealismo y del monismo neutral, pues no añade propiedades fenoménicas a la materia. Va más allá de la mente extendida y del enactivismo, que vinculan la experiencia al acoplamiento cuerpo-mundo en lugar de identificarla con el objeto."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Dado que el cuerpo es solo otro objeto que actúa como marco de referencia causal, un cuerpo robótico podría, en principio, hacer existir objetos en relación consigo mismo. Manzotti no decide qué sistemas cualifican."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Dado que el cuerpo es la condición para que los objetos existan en relación con un sujeto, nada queda para ese sujeto una vez que el cuerpo desaparece."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "La teoría es fisicalista y trata la experiencia como el mundo en relación con un cuerpo, sin que se derive ningún propósito cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Dado que la experiencia son los propios objetos externos, copiar patrones cerebrales no transferiría la experiencia de una persona sin el mismo mundo de objetos relativos a un cuerpo."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Smart’s Topic-Neutral Identity",
+        "relationship": "Influencia"
+      },
+      {
+        "name": "A. Clark's Extended Mind",
+        "relationship": "Contraste"
+      },
+      {
+        "name": "Noë's \"Out of Our Heads\" Theory",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Contraste"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Spread Mind: Why Consciousness and the World Are One, Riccardo Manzotti",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Consciousness and Object: A Mind-Object Identity Physicalist Theory, Riccardo Manzotti",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Mind-Object Identity: A Solution to the Hard Problem, Riccardo Manzotti",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Experiences Are Objects: Towards a Mind-Object Identity Theory, Riccardo Manzotti",
+        "year": 2016
+      },
+      {
+        "title_with_names": "The Spread Mind: Is Consciousness Situated?, Riccardo Manzotti",
+        "year": 2011
+      },
+      {
+        "title_with_names": "The Challenge of Consciousness, Riccardo Manzotti and T. Parks",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Sensations and Brain Processes, J. J. C. Smart",
+        "year": 1959
+      },
+      {
+        "title_with_names": "A Materialist Theory of the Mind, D. M. Armstrong",
+        "year": 1968
+      },
+      {
+        "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, A. Noë",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Manzotti’s Mind-Object Identity (‘Spread Mind’), Landscape of Consciousness, Robert Lawrence Kuhn"
+      }
+    ]
+  }
+}

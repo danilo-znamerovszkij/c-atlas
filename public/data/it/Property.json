@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "Dualismo delle proprietà",
     "summary": "Il dualismo delle proprietà sostiene che, sebbene la sostanza fisica sia l'unica sostanza fondamentale, esistano due categorie irriducibili di proprietà: fisiche e mentali. Le proprietà mentali, come l'esperienza cosciente, sono generate dai cervelli fisici ma non possono essere ridotte alle proprietà fisiche né spiegate interamente da esse.",
-    "associated_thinkers": ["David Chalmers"],
-    "category": "Dualismi",
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
+    "category": "Dualismo",
     "subcategory": "Dualismo delle proprietà",
     "core_identity_tagline": "Una sostanza, due proprietà irriducibili (mentale e fisica)",
     "classification_tags": [
@@ -50,7 +52,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condizionale",
+      "stance": "Conditional",
       "rationale": "L'IA potrebbe essere cosciente se sistemi non biologici potessero istanziare la specifica organizzazione fisica complessa necessaria a generare le proprietà mentali irriducibili descritte."
     },
     "survival_beyond_death": {
@@ -58,22 +60,22 @@
       "rationale": "La coscienza consiste in proprietà generate dal cervello fisico. Queste proprietà cessano di esistere quando la sostanza fisica (cervello/corpo) si dissolve alla morte."
     },
     "meaning_and_purpose": {
-      "stance": "Non dichiarato/Neutro",
+      "stance": "Uncertain",
       "rationale": "La teoria si concentra sulle categorie ontologiche e sulle relazioni tra proprietà; accetta una sostanza fondamentalmente fisica e non avvalla intrinsecamente una teleologia cosmica."
     },
     "virtual_immortality": {
-      "stance": "Possibile",
+      "stance": "Possible",
       "rationale": "Se la coscienza è una proprietà emergente di una specifica organizzazione fisica, replicare quel completo stato fisico (la struttura cerebrale) in un substrato non biologico dovrebbe generare le stesse proprietà mentali."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "Sovrapposizione/Compatibile (spesso trattato come sinonimo o strettamente correlato)"
       },
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "Critica/Contrasto (respinge il dualismo della sostanza ma mantiene il dualismo della proprietà)"
       },
       {

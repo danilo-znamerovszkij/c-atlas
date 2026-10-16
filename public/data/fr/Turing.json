@@ -1,0 +1,131 @@
+{
+  "id_and_class": {
+    "theory_title": "L'imitation, la pensée machinique et l'esprit caché chez Turing",
+    "summary": "Alan Turing n'a proposé aucune théorie de la conscience phénoménale et a refusé d'en formuler une. Il a plutôt soutenu que la question de savoir si une machine pense peut être jugée d'après sa performance publique, comme nous jugeons autrui, sans avoir d'abord résolu le mystère de l'expérience ; son jeu de l'imitation et son compte rendu du calcul indépendant du substrat ont préparé le terrain du fonctionnalisme et de l'intelligence artificielle.",
+    "associated_thinkers": [
+      "Alan Turing"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Computationnel",
+    "core_identity_tagline": "Des esprits machiniques jugés sans résoudre la conscience",
+    "classification_tags": [
+      "turing test",
+      "imitation game",
+      "other minds",
+      "multiple realizability",
+      "machine intelligence"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Turing n'identifie la conscience à rien. Il la tient pour un véritable mystère et la met de côté, estimant que l'attribution de la pensée peut reposer sur des capacités observables.",
+    "ontological_status": "Agnosticisme (méthodologique)",
+    "mind_body_relationship": "Laissé ouvert. Sa machine universelle de 1936 montre qu'un calcul est déterminé par l'organisation formelle et non par le support physique, prémisse reprise plus tard pour la réalisation multiple ; mais Turing n'a jamais affirmé que l'implémentation d'un calcul produit l'expérience. Il admettait même, à titre de spéculation, que Dieu pourrait donner une âme à une machine.",
+    "primitive_or_emergent_status": "Incertain",
+    "emergence_type": "Sans objet (Turing met entre parenthèses la métaphysique de la conscience)",
+    "subjectivity_and_intentionality": "La subjectivité est privée ; la certitude au sujet d'un autre esprit exigerait d'être cet esprit. Turing qualifie cette exigence d'extrême solipsiste et affirme que nous adoptons à la place « la convention polie selon laquelle tout le monde pense », convention qui devrait s'étendre aux machines fournissant des preuves conversationnelles suffisamment riches.",
+    "qualia_account": "Aucun. Turing soutient que décrire l'apprentissage machinique en termes de récompense et de punition n'implique pas que la machine éprouve du plaisir ou de la douleur ; l'apprentissage fonctionnel et l'affect éprouvé restent donc distincts.",
+    "ontological_commitments": "Machines de calcul abstraites, systèmes physiques qui les réalisent, et esprits dont la vie intérieure n'est pas directement observable.",
+    "epistemic_access": "À la troisième personne et comportementale. La mentalité machinique, comme celle des autres esprits humains, doit être inférée à partir de preuves publiquement évaluables, telles qu'une conversation textuelle soutenue.",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Intelligence et pensée (comportementales) ; la conscience phénoménale est explicitement mise entre parenthèses",
+    "distinctive_mechanism_or_principle": "Le jeu de l'imitation. Un interrogateur distant, ne disposant que d'un échange textuel, tente de distinguer une machine d'un humain ; Turing remplace la question « les machines peuvent-elles penser ? » par ce test.",
+    "dynamics_of_emergence": "Turing proposait que l'intelligence puisse s'apprendre. Une « machine enfant » ou un réseau entraînable de « machines non organisées » acquerrait des capacités d'adulte par l'éducation, la récompense, la punition et l'expérience, et pourrait surprendre ses concepteurs.",
+    "location_and_distribution": "Turing relève un paradoxe dans toute tentative de localiser la conscience, et n'en propose aucune localisation.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "La pensée est évaluée comme une manipulation de symboles régie par des règles, au sens de la machine de Turing ; une machine universelle peut émuler tout processus calculable.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Le calcul dépend de l'organisation formelle et non du support physique ; des systèmes non cérébraux pourraient donc, en principe, posséder des capacités analogues à l'esprit.",
+      "L'exigence de Geoffrey Jefferson selon laquelle une machine doit éprouver ses pensées, appliquée de manière cohérente, nous priverait de la possibilité de savoir que les autres humains pensent.",
+      "La conscience reste mystérieuse, mais ce mystère n'a pas besoin d'être résolu avant de décider si une machine pense.",
+      "Turing n'a jamais affirmé que réussir le jeu de l'imitation garantit la conscience."
+    ],
+    "basis_of_belief_or_evidence_type": "Mathématique (théorie du calcul) et philosophique (argument de parité avec les autres esprits)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable",
+    "known_empirical_interventions_or_tests": "Le jeu de l'imitation lui-même. Aujourd'hui, les grands modèles de langage réussissent couramment des tests conversationnels de ce type, et des chercheurs comme Patrick Butlin et ses collègues cherchent désormais des indicateurs architecturaux tirés des théories de la conscience, plutôt que le seul comportement.",
+    "criticisms_and_tensions": "La « Blockhead » de Ned Block, une table de correspondances qui passe n'importe quelle conversation finie sans penser, montre que le comportement ne peut suffire. La Chambre chinoise de John Searle soutient que l'exécution d'un programme ne produit ni compréhension ni conscience. Lucas et Penrose tirent des arguments anti-mécanistes des résultats de Gödel. Les théoriciens du problème difficile affirment que Turing n'a pu spécifier un test d'intelligence qu'en écartant d'emblée la conscience, par définition.",
+    "open_questions_and_limitations": "Turing ne propose aucun compte rendu des qualia et aucune raison pour laquelle un processus quelconque devrait être éprouvé. La manière d'interpréter le test est disputée : behavioriste, fondée sur des preuves inductives, ou selon la thèse de Diane Proudfoot, pour qui Turing traitait l'intelligence comme dépendante de la réponse.",
+    "ontological_coherence": "Cohérent parce que minimal. Turing est rangé parmi les théories computationnelles pour sa prémisse de départ, et non parce qu'il aurait tenu la conscience pour du calcul."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Turing soutenait qu'on ne peut écarter les machines comme penseuses du seul fait qu'elles sont des machines, mais il laissait ouverte la question de savoir si des machines pensantes éprouveraient quoi que ce soit."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Putnam’s Machine Functionalism",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Searle's Biological Naturalism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Dennett’s Heterophenomenology",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Blums’ Conscious Turing Machine",
+        "relationship": "Influence"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "On Computable Numbers, with an Application to the Entscheidungsproblem, Alan Turing",
+        "year": 1936
+      },
+      {
+        "title_with_names": "Intelligent Machinery, Alan Turing",
+        "year": 1948
+      },
+      {
+        "title_with_names": "Computing Machinery and Intelligence, Alan Turing",
+        "year": 1950
+      },
+      {
+        "title_with_names": "Intelligent Machinery, a Heretical Theory, Alan Turing",
+        "year": 1951
+      },
+      {
+        "title_with_names": "The Mind of Mechanical Man, Geoffrey Jefferson",
+        "year": 1949
+      },
+      {
+        "title_with_names": "Psychologism and Behaviorism, Ned Block",
+        "year": 1981
+      },
+      {
+        "title_with_names": "Minds, Brains, and Programs, John Searle",
+        "year": 1980
+      },
+      {
+        "title_with_names": "Rethinking Turing’s Test and the Philosophical Implications, Diane Proudfoot",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Identifying Indicators of Consciousness in AI Systems, Patrick Butlin, Robert Long, et al.",
+        "year": 2026
+      }
+    ]
+  }
+}

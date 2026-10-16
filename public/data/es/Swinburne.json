@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "El Dualismo de Sustancias de Swinburne",
     "summary": "Esta teoría postula que una persona consiste en dos componentes radicalmente distintos: un cuerpo/cerebro físico y una sustancia no física separada, o alma, que es independiente del mundo físico. El alma no física es una entidad esencial e irreducible requerida para dar cuenta de la vida consciente y mantener la identidad personal a través del tiempo.",
-    "associated_thinkers": ["Richard Swinburne"],
-    "category": "Dualisms",
-    "subcategory": "Substance Dualism",
+    "associated_thinkers": [
+      "Richard Swinburne"
+    ],
+    "category": "Dualismo",
+    "subcategory": "Dualismo de sustancias",
     "core_identity_tagline": "La Conciencia como Sustancia No Física Radicalmente Separada",
     "classification_tags": [
       "substance dualism",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "No (en su mayoría)",
+      "stance": "Unlikely",
       "rationale": "Los sistemas de IA carecerían de la sustancia no física radicalmente separada (alma) necesaria para una verdadera conciencia interior. El dualismo se considera generalmente el principal bastión contra la conciencia de la IA."
     },
     "survival_beyond_death": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "Dado que la persona está constituida por una sustancia no física, esa sustancia (el alma) podría potencialmente mantener existencia consciente tras la muerte y disolución del cuerpo y cerebro físicos."
     },
     "meaning_and_purpose": {
-      "stance": "Sí",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Las teorías dualistas e idealistas generalmente ofrecen algún tipo de sentido, propósito o valor último, en contraste con las teorías puramente materialistas."
     },
     "virtual_immortality": {
-      "stance": "No (en su mayoría)",
+      "stance": "Unlikely",
       "rationale": "Cargar solo la estructura física del cerebro sería insuficiente, ya que el componente no físico necesario (el alma) no podría ser duplicado ni cargado mediante tecnología, resultando en la ausencia del yo mental original en primera persona."
     }
   },
@@ -83,7 +85,7 @@
         "relationship": "Contraste"
       },
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "Crítica"
       }
     ],

@@ -10,7 +10,7 @@
       "The Upanishads"
     ],
     "category": "관념론",
-    "subcategory": "인도의 우주적 의식",
+    "subcategory": "인도의 우주 의식",
     "core_identity_tagline": "궁극적 불이 실재로서의 의식",
     "classification_tags": [
       "fundamental",
@@ -57,19 +57,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음 (조건부)",
+      "stance": "Conditional",
       "rationale": "의식이 근본적이며 실재 전체에 두루 미친다면, 인공 시스템도 현현을 위한 구조적/복잡성 요건을 충족하는 한 우주적 의식을 구현하거나 그것에 참여할 수 있다. 다만 일부 관념론자는 현행 컴퓨터 모델을 근거로 의식적 인공지능을 거부한다."
     },
     "survival_beyond_death": {
-      "stance": "예 (재규정됨)",
+      "stance": "Yes",
       "rationale": "존속은 인도 전통의 근본 교리이다(예컨대 환생). 그러나 존속은 흔히 의식이 궁극적 우주 의식으로 재흡수되면서 현재의 일인칭 자각이 결국 상실됨을 뜻한다."
     },
     "meaning_and_purpose": {
-      "stance": "우주적/궁극적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "의식을 모든 존재의 근거이자 궁극 실재로 상정함으로써, 이 이론은 본래적으로 우주적 의미와 목적을 제공한다. 진화적 관념론의 견해 또한 의식의 진화를 세계의 의미를 이루는 일차적 특징으로 본다."
     },
     "virtual_immortality": {
-      "stance": "불필요",
+      "stance": "Not needed",
       "rationale": "의식이 이미 근본적이고 영원하다면(관념론), 존속이나 영생에 관한 전통적 개념이 이미 이론적으로 확보되어 있으므로 기술적 가상 불멸은 무의미하다."
     }
   },
@@ -79,12 +79,18 @@
         "name": "Kastrup's Analytic Idealism",
         "relationship": "중첩/양립 가능"
       },
-      { "name": "Panpsychisms", "relationship": "중첩" },
       {
-        "name": "Buddhism's Empty, Illusory Phenomenal Consciousness (Yogācāra)",
+        "name": "Panpsychism",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Buddhism's Empty, Illusory Phenomenal Consciousness",
         "relationship": "중첩/대비"
       },
-      { "name": "Gomatam's GV Vedanta", "relationship": "대비" }
+      {
+        "name": "Gomatam's GV Vedanta",
+        "relationship": "대비"
+      }
     ],
     "sources_and_references": [
       {

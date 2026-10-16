@@ -1,0 +1,136 @@
+{
+  "id_and_class": {
+    "theory_title": "W・フリーマンの志向的神経力学",
+    "summary": "ウォルター・J・フリーマン三世は、現象的意識は皮質活動の短く大域的に一貫した状態の系列であり、大きな神経集団における位相転移によって形成される「フレーム」であると考える。知覚は辺縁系によって設定された目標から始まり、脳は刺激を写し取るのではなく、動物の履歴から刺激の意味を構成する。気づきは、この行為—知覚の循環の後の方で、選択肢を比較する間は行為を抑止する大域的な秩序化の状態として現れる。",
+    "associated_thinkers": [
+      "Walter J. Freeman III",
+      "Giuseppe Vitiello"
+    ],
+    "category": "唯物論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "一貫した皮質動態のフレームとしての意識",
+    "classification_tags": [
+      "neurodynamics",
+      "phase transitions",
+      "intentionality",
+      "circular causality",
+      "eeg"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、皮質における巨視的な秩序化状態の系列である。各状態は、神経集団の活動の大域的に一貫したパターンであり、それを生み出す活動に対して秩序パラメータとして作用する。",
+    "ontological_status": "物理主義（力学的、非還元的）",
+    "mind_body_relationship": "循環的因果性。微視的な神経活動が大域的な状態を生み出し、大域的な状態がその微視的な活動を制約する。そのループの外に行為者は存在しない。フリーマンは意識を、脳を中心とする力の場であり、身体を通じて周囲に作用し、その効果によってのみ知られるものと記述する。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "神経集団における自己組織化する位相転移を通じた創発。大域的状態からその部分への下向きの制約を伴う。",
+    "subjectivity_and_intentionality": "志向性が先にある。アクィナスに従い、フリーマンは志向を、世界へと伸びていく生物体全体とみなす。循環の前向きの枝は志向的な自己であり、フィードバックの枝は自己とその行為についての気づきである。",
+    "qualia_account": "フリーマンは、ハードプロブレムを脇に置く。内容は各脳の内部で構成されるため、各脳の意味はその脳に固有のものである。しかし、一貫した皮質状態がなぜ感じられるのかは説明していない。",
+    "ontological_commitments": "相互作用する興奮性と抑制性の神経集団、樹状突起の電流の中間的なスケールの場、カオス的な背景活動、学習によって形づくられるアトラクターの地形、そして目標の源としての辺縁系。",
+    "epistemic_access": "フリーマンは、意識を直接に測定する生理的指標は存在しないと考える。彼は脳波と皮質脳波の記録に、覚醒、志向、注意の行動的な測定を組み合わせて用いるが、これらは間接的な接近しか与えない。",
+    "constituents_and_structure": "「K集合」の階層であり、相互作用しない集団から、振動し、カオス的となる感覚系を経て、皮質領域間の大域的な相互作用へと至る。経験は、急速な転移によって区切られた、離散的なフレーム、すなわち波束から構築される。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的なもの（経験の組織と内容）、知覚的意味、志向性、自己の気づき、意識の流れ、気づきの因果的効力。",
+    "distinctive_mechanism_or_principle": "皮質集団における内因性の位相転移。カオス的な背景活動が学習されたアトラクターの盆地へと跳び移り、刺激が動物にとって何を意味するかを表現する振幅変調の空間パターンを生み出す。感覚皮質と嗅内皮質にまたがる、後期の大規模なベータ同期が、彼にとって気づきの候補的な相関物である。",
+    "dynamics_of_emergence": "意識の流れは「映画的」であり、それぞれが位相転移によって形成されたフレームの連続である。その見かけの連続性は、神経内容が連続的に維持されていることを反映する必要はない。",
+    "location_and_distribution": "大域的な皮質の動態であり、辺縁系（嗅内皮質と海馬）が志向を組織する。フリーマンは、意識を層状の皮質神経網をもつ動物に限定し、汎心論を退ける。",
+    "causation_and_functional_role": "気づきは随伴現象でもなく、行為の開始者でもない。それは「巨視的な秩序化状態として付随し、自己組織化する微視的過程が省察的予測において閉じるまで行為を先延ばしにする」ものであり、局所的な揺らぎを鎮め、決定を遅らせる。",
+    "integration_or_binding": "大域的な一貫性。後期のベータ帯域のパターンが、すべての一次感覚野と嗅内皮質にわたって同期し、様式ごとの初期のガンマパターンを一つの状態へと結びつける。",
+    "information_flow_or_representation": "フリーマンは、貯蔵された表象を退ける。生の感覚入力がアトラクターを選択すると、その入力は捨てられ、生じたパターンが、動物の履歴と目標から構築された意味を担う。辺縁系は随伴放電を送り、行為の予想される結果に備えて感覚皮質を準備させる（先行感覚）。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "訓練されたウサギでは、学習された匂いを嗅ぐたびに、嗅球全体にわたってガンマのバーストが生じ、その空間的な振幅パターンが匂いを区別した。",
+      "強化の随伴性が変わったり、新しい匂いが学習されたりすると、それらのパターンは変化した。フリーマンはこれを、パターンが刺激ではなく意味を符号化していることの証拠と読んだ。",
+      "同じ動態は視覚、聴覚、体性感覚の皮質にも現れる。したがってこの機構は嗅覚を超えて一般化される。",
+      "後期の広範なベータの事象は、リベットが記述した、報告される気づきにおける約半秒の遅れと合致する。"
+    ],
+    "basis_of_belief_or_evidence_type": "経験的（動物の電気生理学と非線形力学的モデル化）。哲学的な枠組みは、アクィナス、メルロ＝ポンティ、プラグマティストに由来する。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": "訓練された動物における嗅球と新皮質からの皮質脳波と脳波の記録、ガンマとベータの活動の空間的振幅変調分析、強化の反転と新しい匂いの学習のパラダイム。",
+    "criticisms_and_tensions": "時間的に区切られた神経パターンは、経験そのものに隙間があることを示さなくても、知覚の組織化のモデルを支持しうる。また、動物の記録から刺激を分類しても、動物が何を経験しているかは明らかにならない。ヴィテッロとの量子場への拡張は、振動のデータによって確立されておらず、仮に妥当であっても、経験との結びつきについての説明がなお必要である。",
+    "open_questions_and_limitations": "証拠の大部分は動物の電気生理学であるため、それを人間の経験へと拡張することは推論に依存する。どの力学的性質が経験に必要または十分であるのか、それらが無意識的な認知とどのように異なるのか、そしてなぜそれらが感じられるのかは、なお未解決である。",
+    "ontological_coherence": "大域的状態がその部分を制約することを認める物理主義と一貫している。フリーマンとヴィテッロの散逸的な量子場モデルは、観測可能量を古典的なまま保ち、ニューロンやグリア細胞を量子的な対象として扱わない。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "フリーマンは、意識を層状の皮質神経網をもつ動物に限定しており、彼の見方では意味は、有機体の目標志向的な身体的関与から生じる。"
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "ここでの意識は生きた皮質動態のパターンであるため、その動態が止まれば終わる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Aquinas’s Hylomorphism",
+        "relationship": "影響"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "影響"
+      },
+      {
+        "name": "Globus's Quantum Thermofield Brain Dynamics",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "両立可能"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mass Action in the Nervous System, Walter J. Freeman",
+        "year": 1975
+      },
+      {
+        "title_with_names": "How Brains Make Chaos in Order to Make Sense of the World, C. A. Skarda and Walter J. Freeman",
+        "year": 1987
+      },
+      {
+        "title_with_names": "Consciousness, Intentionality and Causality, Walter J. Freeman",
+        "year": 1999
+      },
+      {
+        "title_with_names": "How Brains Make Up Their Minds, Walter J. Freeman",
+        "year": 2000
+      },
+      {
+        "title_with_names": "A Cinematographic Hypothesis of Cortical Dynamics in Perception, Walter J. Freeman",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Indirect Biological Measures of Consciousness from Field Studies of Brains as Dynamical Systems, Walter J. Freeman",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Nonlinear Brain Dynamics and Intention According to Aquinas, Walter J. Freeman",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Nonlinear Brain Dynamics as Macroscopic Manifestation of Underlying Many-Body Field Dynamics, Walter J. Freeman and Giuseppe Vitiello",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Cognitive Phase Transitions in the Cerebral Cortex, R. Kozma and Walter J. Freeman",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Societies of Brains, Walter J. Freeman",
+        "year": 1995
+      }
+    ]
+  }
+}

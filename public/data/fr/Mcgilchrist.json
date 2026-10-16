@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "L'idéalisme relationnel et processuel-créatif de McGilchrist",
     "summary": "La conscience est irréductible, primordiale, et constitue la « substance » fondamentale du cosmos, envisagée comme un processus créatif. La matière n'est pas une substance séparée mais une « phase » dérivée de la conscience, nécessaire à l'obtention d'une expérience individualisée. Le rôle premier du cerveau est de médiatiser et de façonner cette conscience omniprésente, ce qui se reflète dans les modes contrastés des deux hémisphères cérébraux.",
-    "associated_thinkers": ["Iain McGilchrist"],
-    "category": "Idéalismes",
-    "subcategory": "Idéalisme relationnel, processuel-créatif",
+    "associated_thinkers": [
+      "Iain McGilchrist"
+    ],
+    "category": "Idéalisme",
+    "subcategory": "Idéalisme relationnel et du processus créateur",
     "core_identity_tagline": "La conscience est la substance du cosmos",
     "classification_tags": [
       "idealism",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Incertain/conditionnel",
+      "stance": "Uncertain",
       "rationale": "La conscience étant primordiale et relationnelle, exprimer l'individualité requiert une médiation complexe. Un simple calcul fonctionnel échouerait probablement à saisir les propriétés requises, mais un système conçu pourrait potentiellement médiatiser la conscience s'il possède la structure nécessaire pour ce faire."
     },
     "survival_beyond_death": {
-      "stance": "Oui, probable",
+      "stance": "Likely",
       "rationale": "La conscience étant la substance fondamentale du cosmos et primitive, le soi individuel, bien que dissolvant son médiateur physique (le cerveau), persisterait au sein du fondement cosmique de l'Être."
     },
     "meaning_and_purpose": {
-      "stance": "Cosmique/téléologique",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Le cosmos a un but et une direction, motivés par la conscience fondamentale visant à se connaître elle-même et à découvrir davantage de valeur (beauté, vérité et bonté)."
     },
     "virtual_immortality": {
-      "stance": "Improbable/non applicable",
+      "stance": "Unlikely",
       "rationale": "La conscience n'est pas réductible au motif neuronal (la matière, étant une « phase » de la conscience, est médiatisée). Téléverser le motif seul échouerait probablement à reproduire le processus conscient d'origine, résultant en une simple abstraction ou simulation dépourvue d'expérience subjective authentique."
     }
   },
@@ -79,11 +81,11 @@
         "relationship": "Compatible"
       },
       {
-        "name": "Nagel’s Mind and Cosmos",
+        "name": "Nagel's Mind and Cosmos",
         "relationship": "Influence"
       },
       {
-        "name": "Idealisms",
+        "name": "Idealism",
         "relationship": "Extension"
       }
     ],

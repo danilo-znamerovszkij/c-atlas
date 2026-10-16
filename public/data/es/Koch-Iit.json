@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "Koch Compara la Teoría de la Información Integrada con el Panpsiquismo",
     "summary": "Esta entrada expone la comparación de Christof Koch entre la Teoría de la Información Integrada (IIT) y el Panpsiquismo, argumentando que ambas comparten la intuición de que la conciencia es una propiedad intrínseca y fundamental de la realidad. Sin embargo, la IIT se presenta como superior porque articula criterios específicos (cuantificados por Phi, $Phi$) para la conciencia, resuelve el problema de la combinación mediante el Postulado de Exclusión, y ofrece un programa de investigación empírico concreto, a diferencia del panpsiquismo tradicional.",
-    "associated_thinkers": ["Christof Koch", "Giulio Tononi"],
-    "category": "Teoría de la Información Integrada",
-    "subcategory": "Comparación/Crítica",
+    "associated_thinkers": [
+      "Christof Koch",
+      "Giulio Tononi"
+    ],
+    "category": "Info Integrada",
+    "subcategory": "Comparación/crítica",
     "core_identity_tagline": "IIT: Una Teoría Fundamentalmente Consciente que Resuelve el Problema de la Combinación del Panpsiquismo",
     "classification_tags": [
       "iit",
@@ -60,34 +63,34 @@
       "rationale": "Koch argumenta que la IIT discrepa fundamentalmente de la visión funcionalista necesaria para la conciencia de la IA, afirmando que las computadoras digitales nunca serán sintientes porque la estructura de su hardware resulta en una información integrada ($Phi$) insignificante, sin importar su potencia computacional o inteligencia."
     },
     "survival_beyond_death": {
-      "stance": "Incierto",
+      "stance": "Uncertain",
       "rationale": "La supervivencia depende de la naturaleza desconocida y de la manipulabilidad tecnológica de la estructura no reducible de la realidad (espacio de qualia) postulada por la IIT. Aunque no se descarta alguna forma de persistencia, la supervivencia en primera persona es una cuestión abierta."
     },
     "meaning_and_purpose": {
-      "stance": "Incierto",
+      "stance": "Uncertain",
       "rationale": "Aunque las especulativas e innumerables estructuras de dimensión n de la IIT son lo bastante novedosas como para suspender el juicio respecto al sentido último, la medición y el análisis centrales de la conciencia que transmite la teoría no ofrecen un sentido, propósito o valor último."
     },
     "virtual_immortality": {
-      "stance": "Incierto",
+      "stance": "Uncertain",
       "rationale": "El mind-uploading es imposible si la conciencia es una estructura asociada a la física de sistemas complejos (como sostiene la IIT) en lugar de un mero algoritmo. La carga resultaría en un 'deepfake' carente de experiencia subjetiva, a menos que una tecnología avanzada pueda manipular la estructura-$Phi$ que causa la conciencia."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Panpsiquismo",
+        "name": "Panpsychism",
         "relationship": "Intuición Compartida/Crítica"
       },
       {
-        "name": "Funcionalismo Computacional",
+        "name": "Computational",
         "relationship": "Crítica (conciencia no computable)"
       },
       {
-        "name": "El Error de Galileo (Philip Goff)",
+        "name": "Galileo’s Error (Philip Goff)",
         "relationship": "Crítica (Koch contradice la afirmación de Goff de que los aspectos cualitativos no pueden ser capturados por marcos cuantitativos.)"
       },
       {
-        "name": "Teoría del Espacio de Trabajo Global",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "Contraste (implícito, respecto a la ubicación y la necesidad de la recurrencia/difusión global)"
       }
     ],

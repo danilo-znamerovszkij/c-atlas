@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "نظرية ليناس لحالة العقلانية القائمة على التذبذبات",
     "summary": "تفترض هذه النظرية أن \"حالة العقلانية\" الواعية تتولّد جوهريًا عن تذبذبات كهربائية داخل العصبونات وعن النشاط المتزامن الناتج عبر مجموعات عصبية متباعدة، وهو ما يشكّل الجذر البيولوجي العصبي للمعرفة. وتوحي بأن الواقع، كما يُختبَر، ضربٌ من الواقع الافتراضي تولّده هذه التذبذبات الداخلية، التي تعمل في المقام الأول على إتاحة التنبؤ.",
-    "associated_thinkers": ["Rodolfo Llinas"],
-    "category": "نظريات المادية",
-    "subcategory": "المجال الكهرومغناطيسي",
+    "associated_thinkers": [
+      "Rodolfo Llinas"
+    ],
+    "category": "المادية",
+    "subcategory": "كهرومغناطيسية",
     "core_identity_tagline": "‘الوعي بوصفه تذبذبات عصبونية وتنبؤًا’",
     "classification_tags": [
       "neurobiology",
@@ -53,38 +55,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "إذا كان الوعي متجذرًا في الوظيفة الحاسوبية لتزامن التذبذبات والتنبؤ، فإن هذه الديناميات يمكن من حيث المبدأ تحقيقها أو محاكاتها في أنظمة اصطناعية متطورة، تماشيًا مع الموقف الفيزيائي."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "يُعرَّف الوعي بأنه حالة تولّدها آليات عصبية بيولوجية (التذبذبات) داخل الدماغ، مما يستبعد البقاء بعد موت الركيزة البيولوجية."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "بوصفه آلية بيولوجية عصبية متطورة، فإن غاية الوعي وظيفية في المقام الأول (التنبؤ والبقاء)، بما يتسق مع النظرة المادية التقليصية التي ترفض المعنى الكوني النهائي."
     },
     "virtual_immortality": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "إذا كان الوعي مُفسَّرًا كليًا بأنماط من النشاط العصبي المتذبذب، فإن نسخًا مثاليًا لهذه الأنماط الدينامية أو رفعها إلى وسيط غير بيولوجي من شأنه أن يحفظ ذاتية الشخص الأول، مما يجعل الخلود الافتراضي ممكنًا."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Electromagnetic Field Theories",
+        "name": "Electromagnetic",
         "relationship": "انتماء إلى الفئة/تداخل"
       },
       {
-        "name": "Predictive Processing Theories",
+        "name": "Predictive Theories (Top-Down)",
         "relationship": "تداخل/امتداد"
       },
       {
-        "name": "Recurrent Processing Theory (Lamme)",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "تداخل"
       },
       {
-        "name": "Dendritic Integration Theory (Aru et al.)",
+        "name": "Dendritic Integration Theory",
         "relationship": "تداخل"
       }
     ],

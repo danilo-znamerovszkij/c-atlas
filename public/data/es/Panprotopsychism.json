@@ -2,8 +2,11 @@
   "id_and_class": {
     "theory_title": "Panprotopsiquismo",
     "summary": "El panprotopsiquismo es una variante del panpsiquismo que sostiene que las entidades físicas fundamentales poseen propiedades que no son conscientes en sí mismas, sino 'protofenoménicas'. Estas propiedades protofenoménicas deben combinarse en estructuras complejas (como los cerebros) para generar una conciencia fenomenal emergente.",
-    "associated_thinkers": ["David Chalmers", "Philip Goff"],
-    "category": "Panpsiquismos",
+    "associated_thinkers": [
+      "David Chalmers",
+      "Philip Goff"
+    ],
+    "category": "Panpsiquismo",
     "subcategory": "Panprotopsiquismo",
     "core_identity_tagline": "Las propiedades protofenoménicas se combinan para generar conciencia",
     "classification_tags": [
@@ -51,38 +54,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probablemente",
+      "stance": "Likely",
       "rationale": "Si la conciencia resulta de un mecanismo de combinación de propiedades fundamentales, entonces los sistemas artificiales construidos a partir de materiales físicos que poseen estas propiedades podrían llegar a ser conscientes, siempre que se pueda diseñar la estructura de combinación necesaria."
     },
     "survival_beyond_death": {
-      "stance": "Poco probable (posibilidad remota)",
+      "stance": "Unlikely",
       "rationale": "La conciencia fenomenal está ligada a la estructura compleja emergente (por ejemplo, el cerebro); cuando esta estructura se disuelve con la muerte, la conciencia compleja desaparece, dejando solo un sustrato protofenoménico persistente no consciente."
     },
     "meaning_and_purpose": {
-      "stance": "Posible",
+      "stance": "Uncertain",
       "rationale": "Como variedad del panpsiquismo, postula un aspecto mental fundamental de la realidad, sugiriendo posibilidades de sentido o valor cósmico más allá de los relatos estrictamente materialistas."
     },
     "virtual_immortality": {
-      "stance": "Probablemente",
+      "stance": "Likely",
       "rationale": "Si las reglas para combinar las propiedades protofenoménicas ubicuas en un yo fenomenal pueden comprenderse y duplicarse perfectamente en un sustrato no biológico, la inmortalidad virtual debería ser alcanzable."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Panpsiquismo",
+        "name": "Panpsychism",
         "relationship": "Contraste"
       },
       {
-        "name": "Monismo Russelliano",
+        "name": "Russellian Monism",
         "relationship": "Extensión"
       },
       {
-        "name": "Micropsiquismo",
+        "name": "Micropsychism",
         "relationship": "Contraste"
       },
       {
-        "name": "Pancualitativismo",
+        "name": "Panqualityism",
         "relationship": "Solapamiento"
       }
     ],

@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "ゴフの汎心論",
     "summary": "ゴフは、意識が物理的世界の根本的かつ遍在的な特徴であると論じ、それを、唯物論が対処しそこなうハードプロブレムを解決するための最良の希望として位置づける。彼は、物理諸科学がその純粋に量的な言語をもってしては、経験の質的本性（質性）や主観的側面を説明できず、科学についての我々の根本的理解の変更（ガリレオの誤り）を要すると主張する。",
-    "associated_thinkers": ["Philip Goff"],
+    "associated_thinkers": [
+      "Philip Goff"
+    ],
     "category": "汎心論",
     "subcategory": "汎心論",
     "core_identity_tagline": "実在の根本的かつ遍在的な特徴としての意識",
@@ -42,28 +44,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "おそらく肯定",
+      "stance": "Likely",
       "rationale": "意識が物質／エネルギーの内在的性質であるならば、AIシステムの物理的構成要素は原意識的性質を有するだろう。完全なAIの意識の実現は、先進的技術が人工的基体において組み合わせ問題を解決できるかどうかに依存する。"
     },
     "survival_beyond_death": {
-      "stance": "可能性が低い（見込みは薄い）",
+      "stance": "Unlikely",
       "rationale": "意識は根本的であるが、個別的で統一された人格的意識（マクロ主観）の存続は困難である。というのも、この理論はマクロな経験のために特定の組織構造（脳）に依拠するからである。成否は、創発した主観が生物学的メカニズムの外で持続するかどうかに依存する。"
     },
     "meaning_and_purpose": {
-      "stance": "宇宙的／究極的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "ゴフの行為者的／目的論的宇宙心論は、宇宙それ自体が目標指向的な意図を有する意識的な心であることを含意し、究極的で宇宙的な意味と目的を示唆する。"
     },
     "virtual_immortality": {
-      "stance": "おそらく肯定",
+      "stance": "Likely",
       "rationale": "物理的基体（デジタルハードウェア）は根本的に意識的な構成要素（原意識）から成るため、意識的な組織（組み合わせ問題の解決）が新たな媒体において完全に再現されうるならば、仮想的不死は達成可能である。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Russellian Monism", "relationship": "拡張" },
-      { "name": "Cosmopsychism", "relationship": "拡張" },
-      { "name": "Integrated Information Theory", "relationship": "批判" },
-      { "name": "Materialism Theories", "relationship": "批判" }
+      {
+        "name": "Russellian Monism",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Cosmopsychism",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "批判"
+      },
+      {
+        "name": "Materialism",
+        "relationship": "批判"
+      }
     ],
     "sources_and_references": [
       {

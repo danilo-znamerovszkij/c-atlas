@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "Il panpsichismo di Goff",
     "summary": "Goff sostiene che la coscienza sia una caratteristica fondamentale e ubiqua del mondo fisico, ponendola come la migliore speranza per risolvere il problema difficile che il materialismo non riesce ad affrontare. Afferma che le scienze fisiche, con il loro linguaggio puramente quantitativo, non possono rendere conto della natura qualitativa (qualitatività) o dell'aspetto soggettivo dell'esperienza, richiedendo un cambiamento nella nostra comprensione fondamentale della scienza (l'errore di Galileo).",
-    "associated_thinkers": ["Philip Goff"],
-    "category": "Panpsichismi",
+    "associated_thinkers": [
+      "Philip Goff"
+    ],
+    "category": "Panpsichismo",
     "subcategory": "Panpsichismo",
     "core_identity_tagline": "La coscienza come caratteristica fondamentale e ubiqua della realtà",
     "classification_tags": [
@@ -42,28 +44,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probabilmente",
+      "stance": "Likely",
       "rationale": "Se la coscienza è una proprietà intrinseca della materia/energia, allora i componenti fisici dei sistemi di IA possiederebbero proprietà proto-coscienti. La realizzazione di una piena coscienza dell'IA dipenderebbe dalla capacità della tecnologia avanzata di risolvere il problema della combinazione nel substrato artificiale."
     },
     "survival_beyond_death": {
-      "stance": "Improbabile (assai incerta)",
+      "stance": "Unlikely",
       "rationale": "Sebbene la coscienza sia fondamentale, la sopravvivenza della coscienza personale individuale e unificata (il macro-soggetto) è problematica dato che la teoria si basa su una specifica struttura organizzativa (il cervello) per la macro-esperienza. Il successo dipende dal fatto che il soggetto emergente persista al di fuori del meccanismo biologico."
     },
     "meaning_and_purpose": {
-      "stance": "Cosmico/Ultimo",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Il cosmopsichismo agentivo/teleologico di Goff implica che l'universo stesso sia una mente cosciente con un intento orientato a scopi, suggerendo un significato e uno scopo cosmici e ultimi."
     },
     "virtual_immortality": {
-      "stance": "Probabilmente",
+      "stance": "Likely",
       "rationale": "Poiché il substrato fisico (l'hardware digitale) è composto da componenti fondamentalmente coscienti (proto-coscienza), l'immortalità virtuale è raggiungibile se l'organizzazione cosciente (risolvendo il problema della combinazione) può essere perfettamente replicata nel nuovo supporto. "
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Russellian Monism", "relationship": "Estensione" },
-      { "name": "Cosmopsychism", "relationship": "Estensione" },
-      { "name": "Integrated Information Theory", "relationship": "Critica" },
-      { "name": "Materialism Theories", "relationship": "Critica" }
+      {
+        "name": "Russellian Monism",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Cosmopsychism",
+        "relationship": "Estensione"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Materialism",
+        "relationship": "Critica"
+      }
     ],
     "sources_and_references": [
       {

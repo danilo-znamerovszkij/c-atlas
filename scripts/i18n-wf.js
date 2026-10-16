@@ -9,7 +9,7 @@ export const meta = {
 }
 
 // args: { locale: 'es', name: 'Spanish', files: ['A.json', ...] }
-const { locale, name, files } = args
+const { locale, name, files, skipLabels = false } = args
 const N = 12
 const per = Math.ceil(files.length / N)
 const groups = []
@@ -56,7 +56,7 @@ Report: how many files you wrote, and the final validation line.`
 }
 
 phase('Labels')
-const labels = await agent(labelsPrompt(), { label: `${locale}-labels`, phase: 'Labels' })
+const labels = skipLabels ? true : await agent(labelsPrompt(), { label: `${locale}-labels`, phase: 'Labels' })
 
 phase('Translate')
 const results = await parallel(

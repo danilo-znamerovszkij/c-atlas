@@ -7,7 +7,7 @@
       "David Chalmers"
     ],
     "category": "唯物論",
-    "subcategory": "関係論的",
+    "subcategory": "関係的",
     "core_identity_tagline": "「結合認知システムとしての心」",
     "classification_tags": [
       "externalism",
@@ -53,34 +53,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありそう",
+      "stance": "Likely",
       "rationale": "この理論は計算主義的機能主義と軌を一にしており、認知過程と機能的関係が人工的に実現されうるならば、心は認知的補綴へと広がりうると示唆し、AI の意識をもっともらしいものとする。"
     },
     "survival_beyond_death": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "唯物論（一般に存続を否定する）に根ざしてはいるが、本質的な自己が生物学的基体とは無関係に持続しうる分散的で機能的なパターンとして定義されるならば、そのパターンの存続は可能かもしれない。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "唯物論の理論として、宇宙的な意味・目的・価値は存在しないと示唆する。意味はむしろ人間という有機体によって創り出される。"
     },
     "virtual_immortality": {
-      "stance": "可能",
+      "stance": "Possible",
       "rationale": "仮想的不死はもっともらしい。というのも、この理論は心を外部の「認知的補綴」を介して本質的に拡張可能な機能的パターンとみなし、非生物学的媒体での複製がその機能主義的基盤と整合するからである。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Embodied and Enactive Theories",
+        "name": "Embodied",
         "relationship": "重複"
       },
       {
-        "name": "Computational functionalism",
+        "name": "Computational",
         "relationship": "影響"
       },
       {
-        "name": "Predictive Processing",
+        "name": "Predictive Theories (Top-Down)",
         "relationship": "整合的"
       }
     ],

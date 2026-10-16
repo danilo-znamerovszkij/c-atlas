@@ -1,0 +1,94 @@
+{
+  "id_and_class": {
+    "theory_title": "Le terrain de jeu global de Sergent",
+    "summary": "Claire Sergent soutient que l’accès conscient est différé et peut se désynchroniser de l’entrée sensorielle : le cerveau peut porter un stimulus à la conscience « hors ligne », après sa disparition, s’il devient pertinent. Elle révise le modèle de l’espace de travail neuronal global : les représentations sensorielles sont d’abord partagées à travers un vaste « terrain de jeu global » d’aires cérébrales, qui devient un espace de travail global complet lorsqu’une tâche mobilise la prise de décision.",
+    "associated_thinkers": [
+      "Claire Sergent"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Neurobiologique",
+    "core_identity_tagline": "La conscience comme accès global temporellement flexible",
+    "classification_tags": [
+      "global workspace",
+      "conscious access",
+      "retro-perception",
+      "timing",
+      "attention"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est l’accès conscient : le partage global de l’information à travers les réseaux cérébraux, qui n’a pas à suivre l’ordre en temps réel des événements extérieurs.",
+    "ontological_status": "Physicalisme (fonctionnaliste)",
+    "mind_body_relationship": "L’accès conscient est une configuration de l’activité cérébrale à grande échelle, comme dans le modèle de l’espace de travail neuronal global qu’elle prolonge.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible, à partir du partage d’information entre réseaux cérébraux.",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "Réseaux corticaux distribués, représentations sensorielles maintenues pendant plusieurs centaines de millisecondes, et processus décisionnels qui les mobilisent.",
+    "epistemic_access": "Expériences comportementales sur la temporalité de la conscience, EEG, MEG, enregistrements intracrâniens et IRMf chez des adultes sains et des patients atteints de troubles de la conscience.",
+    "constituents_and_structure": "Deux niveaux : un terrain de jeu global où les représentations sensorielles sont partagées et maintenues sans programme spécifique, et un espace de travail global qui se forme lorsque des processus décisionnels guidés par la tâche s’y joignent."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conscience d’accès, en particulier sa temporalité.",
+    "distinctive_mechanism_or_principle": "Accès conscient hors ligne : l’information maintenue dans le terrain de jeu global peut entrer dans la conscience plus tard, lorsque l’attention ou la pertinence l’exige.",
+    "dynamics_of_emergence": "L’accès conscient est en retard sur la stimulation et peut être déclenché après la disparition d’un stimulus ; l’expérience n’a donc pas à reproduire la succession des événements du monde.",
+    "location_and_distribution": "Un vaste réseau d’aires cérébrales entre lesquelles les représentations sensorielles sont partagées, sous-ensemble de l’espace de travail global.",
+    "causation_and_functional_role": "Sergent suggère que la capacité de traiter l’information hors ligne a rendu le traitement conscient utile, malgré sa lenteur et sa capacité limitée.",
+    "integration_or_binding": "L’information est intégrée dynamiquement dans le temps selon le contexte et la pertinence.",
+    "information_flow_or_representation": "Les représentations sensorielles sont maintenues pendant plusieurs centaines de millisecondes dans le terrain de jeu, offrant plus d’options cognitives que le traitement inconscient automatique, et sont diffusées plus largement lorsque la tâche l’exige.",
+    "evolutionary_account": "Le traitement hors ligne aurait rendu adaptatif un accès conscient lent et à capacité limitée.",
+    "core_claims_and_evidence": [
+      "Dans la rétro-perception, une attention orientée après la disparition d’un stimulus peut déclencher la perception consciente de celui-ci.",
+      "La flexibilité temporelle de l’accès aide à expliquer la période réfractaire psychologique, le clignement attentionnel, les effets postdictifs et la mémoire iconique.",
+      "L’accès conscient voilé dépend d’un terrain de jeu global, qui devient un espace de travail global lorsque la prise de décision s’y ajoute."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirique : psychologie expérimentale et électrophysiologie humaine."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Testable empiriquement",
+    "known_empirical_interventions_or_tests": "Paradigmes de rétro-indication, tâches de clignement attentionnel et de période réfractaire, et études du traitement préconscient et de la mémoire de travail sans conscience.",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "",
+    "ontological_coherence": "Compatible avec le cadre physicaliste de l’espace de travail neuronal global qu’elle révise."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "L’accès conscient étant une configuration de l’activité des réseaux cérébraux, il prend fin avec le cerveau."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "La théorie explique l’accès conscient comme un processus cérébral adaptatif."
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Recouvrement"
+      },
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Sergent’s Global Playground, Claire Sergent",
+        "year": 2018
+      }
+    ]
+  }
+}

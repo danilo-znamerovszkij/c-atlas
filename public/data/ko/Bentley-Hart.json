@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "벤틀리 하트의 일원론: 의식, 존재, 신",
     "summary": "이것은 의식(마음)과 존재(있음) 자체의 깊은 불가분성을 주장함으로써 궁극적 통일 일원론을 구축하는 형이상학적 이론이다. 궁극적 실재는 신이며, 신은 의식과 존재의 절대적 통일이라고 상정하고, 환원주의적 물리주의의 설명을 근본적으로 거부한다.",
-    "associated_thinkers": ["David Bentley Hart"],
-    "category": "일원론",
-    "subcategory": "고차 일원론/관념론적 범심론",
+    "associated_thinkers": [
+      "David Bentley Hart"
+    ],
+    "category": "관념론",
+    "subcategory": "",
     "core_identity_tagline": "존재와 신의 절대적 통일로서의 의식",
     "classification_tags": [
       "monism",
@@ -51,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식은 무한한 마음(신)의 제한된 사례이며 계산이나 물리적 처리로 환원되지 않는다. 따라서 순전히 물리적 기제에 기반한 인공 체계는 참된 의식을 예화할 수 없다."
     },
     "survival_beyond_death": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "의식은 궁극적 존재 및 신과 동일시되므로 근본적이며 파괴될 수 없다. 하트의 신학은 개인이 신과의 합일로 나아가 '창조되지 않은' 존재가 될 운명임을 시사한다."
     },
     "meaning_and_purpose": {
-      "stance": "우주적/궁극적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "실재 전체가 이성적으로 정합적이며 궁극적 이성이자 의식인 신에 근거하고 있어, 본래적으로 궁극적 의미와 목적과 가치를 제공한다."
     },
     "virtual_immortality": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식은 형이상학적으로 통일되어 있고 물리적으로 분할 불가능한 정신적 행위성이므로, 계산적 수단으로 포착하거나 복제하거나 업로드하는 것이 불가능하며, 그러한 수단은 '삼인칭적' 과정만을 복제할 뿐이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Idealisms",
+        "name": "Idealism",
         "relationship": "양립 가능"
       },
       {
@@ -78,11 +80,11 @@
         "relationship": "확장 (관념론적 형태)"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "비판"
       },
       {
-        "name": "Strong Emergence Theories",
+        "name": "Emergence",
         "relationship": "비판"
       }
     ],

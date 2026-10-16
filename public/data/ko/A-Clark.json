@@ -53,34 +53,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "이 이론은 계산주의적 기능주의와 부합하며, 인지 과정과 기능적 관계가 인공적으로 예화될 수 있다면 마음이 인지적 보철물로 확산될 수 있음을 시사하므로 AI 의식이 개연적이다."
     },
     "survival_beyond_death": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "유물론(일반적으로 사후 존속을 부정한다)에 뿌리를 두고 있으나, 본질적 자아가 생물학적 기질과 무관하게 존속할 수 있는 분산된 기능적 패턴으로 규정된다면 그 패턴의 존속은 가능할 수도 있다."
     },
     "meaning_and_purpose": {
-      "stance": "인간주의적 의미에 한함",
+      "stance": "Humanistic only",
       "rationale": "유물론 이론으로서 우주적 의미나 목적, 가치를 상정하지 않으며, 의미는 인간 유기체가 창조하는 것이다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Possible",
       "rationale": "이 이론은 마음을 외부 '인지적 보철물'을 통해 본래적으로 확장 가능한 기능적 패턴으로 보며, 비생물학적 매체에서의 복제가 그 기능주의적 토대와 정합적이므로 가상적 불멸은 개연적이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Embodied and Enactive Theories",
+        "name": "Embodied",
         "relationship": "중첩"
       },
       {
-        "name": "Computational functionalism",
+        "name": "Computational",
         "relationship": "영향"
       },
       {
-        "name": "Predictive Processing",
+        "name": "Predictive Theories (Top-Down)",
         "relationship": "양립 가능"
       }
     ],

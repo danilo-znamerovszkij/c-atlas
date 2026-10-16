@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "프랭크/글라이저/톰슨의 『맹점』",
     "summary": "이 틀은 의식과 체화의 상호 일차성을 주장하고 모든 과학적 탐구가 필연적으로 '의식의 지평' 안에서 이루어진다고 논함으로써 전통적인 유물론적·이원론적 접근을 비판한다. 이 틀은 '어려운 문제'를 '맹점'의 산물—객관적 진리를 추구하는 과정에서 경험이라는 환원 불가능한 선결 조건을 인식하지 못한 데서 비롯된 산물—로 규정하며, 신경현상학을 향한 근본적 전환을 제안한다.",
-    "associated_thinkers": ["Adam Frank", "Marcello Gleiser", "Evan Thompson"],
-    "category": "유물론 이론",
-    "subcategory": "체화 및 발제",
+    "associated_thinkers": [
+      "Adam Frank",
+      "Marcello Gleiser",
+      "Evan Thompson"
+    ],
+    "category": "유물론",
+    "subcategory": "체화된",
     "core_identity_tagline": "환원 불가능한 선결 조건이자 체화된 이상한 고리로서의 의식",
     "classification_tags": [
       "embodiment",
@@ -45,31 +49,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "불확실",
+      "stance": "Uncertain",
       "rationale": "이 이론은 의식을 '이상한 고리' 안의 체화된 일인칭 경험과 본질적으로 결부된 것으로 본다. 대부분의 AI 접근의 기저에 있는 계산주의적 기능주의를 비판하므로, 단순한 비생물학적 계산이 이 환원 불가능한 체화된 의식을 달성할 수 있을지는 불분명하다."
     },
     "survival_beyond_death": {
-      "stance": "불확실",
+      "stance": "Uncertain",
       "rationale": "이 이론은 체화의 일차성을 강조하며, 이는 의식이 유기체에 결부되어 있음을 시사한다. 그러나 경험의 일차성에 기초한 과학을 지지하는 그 비환원적 입장은 존속의 가능성을 배제하지 않으며, 다만 출처가 명시적 입장을 밝히고 있지는 않다."
     },
     "meaning_and_purpose": {
-      "stance": "내재적/실존적",
+      "stance": "Humanistic only",
       "rationale": "이 이론은 '과학적 활동에서 인간 경험이 차지하는 중심적 위치'를 회복하고자 하며, 이는 의미와 가치가 의식과 경험이라는 환원 불가능한 실재 안에 근본적으로 현전함을 함축한다."
     },
     "virtual_immortality": {
-      "stance": "가능성 낮음",
+      "stance": "Unlikely",
       "rationale": "가상적 불멸은 정신 상태의 성공적인 디지털화와 복제(계산주의적 기능주의)에 의존한다. 그러나 이 이론은 의식을 환원 불가능하고 체화된 현상—'이상한 고리'—으로 보므로, 그 기저의 환원주의 철학을 거부한다는 점에서 마음 업로드가 불가능함을 강하게 함축한다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Neurophenomenology", "relationship": "지지/확장" },
-      { "name": "Embodied and Enactive Theories", "relationship": "정렬" },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "지지/확장"
+      },
+      {
+        "name": "Embodied",
+        "relationship": "정렬"
+      },
       {
         "name": "Reductionism/Physicalism",
         "relationship": "비판/거부"
       },
-      { "name": "Francisco Varela’s work", "relationship": "영향" }
+      {
+        "name": "Francisco Varela’s work",
+        "relationship": "영향"
+      }
     ],
     "sources_and_references": [
       {

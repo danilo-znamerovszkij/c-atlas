@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Reasonの唯物論／随伴性に対する不可能性定理",
+    "summary": "Catherine M. Reasonは、いかなる物理システムも、またそれに随伴するいかなるモデルも、意識的な人間が自らが意識的であることを知る、その自己確実性をもちえないことの形式的証明を提示する。この定理は、意識が何でありえないかを述べる。そしてそこから彼女は、自己意識的で理性的なシステムを記述するいかなる物理主義的理論も、内的に不整合でなければならないと結論する。",
+    "associated_thinkers": [
+      "Catherine M. Reason",
+      "Gilbert Caplain"
+    ],
+    "category": "チャレンジ",
+    "subcategory": "",
+    "core_identity_tagline": "自己確実性は物理的過程に随伴しえない",
+    "classification_tags": [
+      "no-go theorem",
+      "supervenience",
+      "self-certainty",
+      "anti-physicalism",
+      "formal proof"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "この定理は、意識に対する積極的な同一性を与えない。意識的システムを、人間のような推論と絶対的な自己確実性を行う能力をもつものとして定義し、そのようなシステムは完全に物理的ではありえないと論じる。",
+    "ontological_status": "反物理主義（非随伴性）",
+    "mind_body_relationship": "Reasonは、脳が意識と相関することと、認知の多くが三人称的な仕方で研究されうることを受け入れる。彼女が退けるのは、完全に自己意識的な状態が、客観的に観察可能な物理的状態によって完全に決定されるという、より強いテーゼである。",
+    "primitive_or_emergent_status": "不明",
+    "emergence_type": "物理システムからの創発ではない。ReasonとShahは、意識的なマクロ状態は、物理的なミクロ状態から創発することも、それに随伴することもないと論じる。意識は、確立された創発的性質のように測定可能ではないからである。",
+    "subjectivity_and_intentionality": "主観性は、デカルトのコギトに結びつけられる。意識的な主体は、自らが意識的であることを確実に主張することができ、これは、夢のない眠りのなかにはいないことを知ることとして操作化される。",
+    "qualia_account": "",
+    "ontological_commitments": "人間のような意識的システムにおける、物理的状態に随伴しない少なくともいくつかの状態。",
+    "epistemic_access": "一人称の自己確実性を、形式的道具を通じて分析する。自己確実性関数ω、述語様相論理、そして観察、予測、記憶が可能な物理システムのためのWolpertの『推論装置』。",
+    "constituents_and_structure": "Reasonが、すべてを同時には成立させえないことを示す三つの公準。客観性（心的状態は観察可能な動態に随伴する）、自己意識、そして人間のような合理性である。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "自己意識（自己確実性）。現象的意識についての物理主義的説明に対する限界。",
+    "distinctive_mechanism_or_principle": "対角線的な無限後退。ある神経相関が正しく働くことを証明するには、別の異なる相関（NCC*）が必要であり、さらにその次の相関（NCC**）が必要となり、果てしなく続く。どの脳も、無限に多くの区別可能な状態をもつことはできない。",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "意識的な脳は記録装置に影響を与えるが、いかなる物理理論によっても完全には記述されえない。そのためReasonとShahは、それらが何らかの仕方でエネルギー保存に違反しなければならず、おそらくエネルギーと時間の不確定性関係を通じてであると結論する。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "ωを実行するためには、システムは、その過程が物理的に実在することを証明する関数ξを実行しなければならない。しかしξを検証するには、ξを自分自身に適用することが必要であり、そのため、結果は計算される前に必要となる。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "定理1aは、健全な人間のような推論を行いうるいかなる物理システムも、自己確実性関数ωを実行することや、『私は自己確実である』と主張する様子を記録されることはできないと述べる。",
+      "定理1bはこれを、物理システムに随伴するいかなるモデルにも拡張し、それは記録装置を二つの矛盾した状態へと強いることになる。",
+      "この無限後退は、Turingの停止問題の証明と対角線的な構造をもつ。Reasonは、そのことによって、これが通常の無限後退論法から区別されると主張する。",
+      "性質二元論、再帰的一元論、実在論的一元論、錯覚論は、現在の形においては退けられる。Chalmersの見解は、人間が非合理的に振る舞う場合にのみ生き残る。"
+    ],
+    "basis_of_belief_or_evidence_type": "デカルトのコギトの上に構築された、形式論理と数学的証明。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的には検証可能",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "結果全体は、デカルトのコギトを絶対的な自己確実性の妥当な基礎として受け入れることに依存する。理論モデルへの限界から、現実の脳におけるエネルギー保存の違反へと飛躍することは、厳密な結論をはるかに超えている。",
+    "open_questions_and_limitations": "Reasonは、この定理が制約するのはシステムそのものではなく、システムのモデルであると述べる。厳密には、この定理は、いくつかの意識的状態が物理的状態に随伴しないことのみを帰結する。そして、コギトが自己確実性を基礎づけるかどうかは、理論的な論証では決着しえない経験的な問題であると彼女は言う。",
+    "ontological_coherence": "否定的な結果として整合的である。意識が積極的に何であるかは未解決のまま残る。Reasonは、論証が成り立つためには、物理主義の公準は必然的である必要はなく、可能であればよいと指摘する。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "いかなる物理主義的なシステムのモデルも自己確実性をもちえないため、純粋に計算的または物理的な機械は、Reasonの定義する意味では意識をもちえないだろう。"
+    },
+    "survival_beyond_death": {
+      "stance": "Uncertain",
+      "rationale": "この定理は、いくつかの意識的状態が物理的ではないことを含意するが、それらが脳の死後にも持続するかどうかについては何も述べない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "自己確実的な意識がいかなる物理的過程にも随伴しえないのであれば、物理的ハードウェア上で走るデジタルな複製は、それを再現できないだろう。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Kim’s Supervenience",
+        "relationship": "批判"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Velmans's Reflexive Monism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reason's No-Go Theorem against Materialism/Supervenience (Landscape of Consciousness entry), Catherine M. Reason",
+        "year": 2019
+      }
+    ]
+  }
+}

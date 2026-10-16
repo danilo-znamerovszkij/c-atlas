@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "El Estado de la Materia de Tegmark",
     "summary": "Tegmark propone que la conciencia puede entenderse como un estado específico de la materia, denominado 'perceptronio', definido por capacidades distintivas de procesamiento de información. Partiendo de la premisa de que toda existencia es física, la teoría busca principios que distingan el procesamiento de información complejo y consciente del procesamiento no consciente.",
-    "associated_thinkers": ["Max Tegmark"],
-    "category": "Monismos",
+    "associated_thinkers": [
+      "Max Tegmark"
+    ],
+    "category": "Monismo",
     "subcategory": "",
     "core_identity_tagline": "La Conciencia como un Estado de la Materia: Perceptronio",
     "classification_tags": [
@@ -51,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "La teoría es estrictamente fisicalista ('todo es física') y define la conciencia como un estado de la materia alcanzable mediante el procesamiento complejo de información. Por lo tanto, los sistemas artificiales pueden alcanzar este estado en principio."
     },
     "survival_beyond_death": {
@@ -59,26 +61,26 @@
       "rationale": "La conciencia es un estado emergente de la materia (perceptronio) del cerebro físico. La muerte irreversible y la disolución del sustrato físico implicarían el cese de la conciencia."
     },
     "meaning_and_purpose": {
-      "stance": "Incierto/solo humanista",
+      "stance": "Humanistic only",
       "rationale": "El fundamento en la física y la estructura matemática típicamente sugiere que no hay un propósito cósmico último, en consonancia con las visiones fisicalistas deflacionarias. La teoría no propone explícitamente una teleología cósmica."
     },
     "virtual_immortality": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si la conciencia es un estado informacional específico de la materia definido por principios matemáticos/físicos, ese estado podría, en principio, duplicarse o cargarse perfectamente en un medio no biológico mediante tecnología avanzada."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Teoría de la Información Integrada",
+        "name": "Integrated Information Theory",
         "relationship": "Extensión"
       },
       {
-        "name": "Hipótesis del Universo Matemático",
+        "name": "Mathematical Universe Hypothesis",
         "relationship": "Fundamento"
       },
       {
-        "name": "Teorías Materialistas",
+        "name": "Materialism",
         "relationship": "Compatible"
       }
     ],

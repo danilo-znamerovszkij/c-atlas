@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Funzionalismo di macchina di Putnam",
+    "summary": "Il funzionalismo di macchina della prima fase di Putnam definisce gli stati mentali in base ai loro ruoli funzionali, cioè alle relazioni causali tra input sensoriali, stati interni e output motori, e non in base alla loro composizione materiale. Poiché lo stesso ruolo può essere ricoperto da sistemi fisici molto diversi, il dolore potrebbe esistere nei polpi, negli extraterrestri o nei computer, e questo ha portato Putnam a respingere la teoria dell'identità mente-cervello. In seguito ha respinto il funzionalismo rigido come cieco al significato, all'incarnazione e all'esperienza qualitativa, e si è orientato verso un ‘funzionalismo liberale’ e un pluralismo pragmatico.",
+    "associated_thinkers": [
+      "Hilary Putnam"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Computazionale",
+    "core_identity_tagline": "Stati mentali come ruoli funzionali, come il software",
+    "classification_tags": [
+      "functionalism",
+      "multiple realizability",
+      "computational theory of mind",
+      "semantic externalism",
+      "liberal functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Uno stato mentale è uno stato funzionale di un sistema, fissato dalle sue relazioni causali con input, output e altri stati interni. Nell'analogia di Putnam, la mente è il software e il cervello è l'hardware su cui gira.",
+    "ontological_status": "Funzionalismo (di macchina a stati; successivamente funzionalismo liberale)",
+    "mind_body_relationship": "Gli stati mentali sono realizzati da stati fisici, ma non sono identici a nessun tipo particolare di essi. Putnam ha sempre respinto il dualismo di sostanza e, nella fase più tarda della sua carriera, ha negato che i fenomeni mentali possano essere descritti interamente da un'unica teoria fisica fondamentale.",
+    "primitive_or_emergent_status": "Nessuno dei due",
+    "emergence_type": "Non applicabile (gli stati mentali sono definiti dall'organizzazione funzionale, che qualsiasi sistema fisico adeguato può realizzare)",
+    "subjectivity_and_intentionality": "L'esternalismo semantico di Putnam sostiene che il contenuto dei pensieri dipenda dall'interazione con il mondo esterno, non solo dagli stati interni. Egli ha respinto un'‘intenzionalità interiore’ data nell'esperienza stessa del pensare.",
+    "qualia_account": "Putnam finì per ammettere che il funzionalismo non può cogliere l'esperienza qualitativa, e restò incerto su quale lavoro teorico svolga la nozione di qualia.",
+    "ontological_commitments": "Sistemi fisici di qualsiasi composizione, la loro organizzazione funzionale e (nella visione più tarda) l'ambiente e l'interazione incarnata che fissano il contenuto mentale.",
+    "epistemic_access": "Attraverso l'analisi funzionale delle relazioni input-output e degli stati interni. Più tardi Putnam ha privilegiato un pluralismo pragmatico, in cui il discorso mentale è uno schema concettuale tra altri, adatto a scopi diversi.",
+    "constituents_and_structure": "Stati funzionali definiti dall'organizzazione di un sistema, analoghi agli stati di una macchina computazionale."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Stati mentali in generale (sensazioni, credenze, emozioni); intenzionalità e significato; qualia riconosciuti come non spiegati",
+    "distinctive_mechanism_or_principle": "Realizzabilità multipla. Lo stesso stato mentale può essere realizzato in sistemi fisici diversi, purché i loro stati interni svolgano lo stesso ruolo funzionale.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Ovunque sia realizzata l'organizzazione funzionale appropriata, che si tratti di cervelli umani, cervelli animali, cervelli extraterrestri o computer.",
+    "causation_and_functional_role": "Uno stato mentale è il suo ruolo causale: ciò che tipicamente lo causa, ciò che causa e come interagisce con gli altri stati interni.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "La prima visione concepisce la mente come un sistema computazionale realizzato dall'attività neurale. La visione successiva sostiene che il significato non sia ‘nella testa’ ma dipenda dal mondo.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "L'organizzazione funzionale di un sistema è l'insieme delle relazioni causali tra i suoi input sensoriali, i suoi output motori e i suoi stati interni, e gli stati mentali sono definiti da essa.",
+      "Il dolore legato alla scarica delle fibre C nei mammiferi potrebbe essere realizzato in creature con una biologia diversa, quindi gli stati mentali non sono identici a specifici stati cerebrali.",
+      "Più tardi Putnam ha sostenuto che l'esternalismo semantico mina il funzionalismo, perché gli stati funzionali sono interni mentre il contenuto mentale dipende dall'ambiente.",
+      "Nell'ultima fase del suo lavoro, Putnam ha sostenuto che il funzionalismo non è una filosofia della mente completa e ha difeso un funzionalismo liberale fondato su capacità incarnate che coinvolgono l'ambiente."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofica (analisi concettuale, analogia con le macchine computazionali)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettualmente verificabile",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Putnam è diventato il proprio principale critico. Ha sostenuto che il funzionalismo rigido semplifica eccessivamente i fenomeni mentali, ignora gli aspetti semantici e intenzionali del pensiero e non può cogliere l'esperienza qualitativa.",
+    "open_questions_and_limitations": "Putnam ha lasciato irrisolti i qualia e ha dubitato che esista un unico problema unificato della coscienza da risolvere una volta per tutte.",
+    "ontological_coherence": "La prima visione è coerente all'interno del fisicalismo computazionalista. Il pluralismo successivo rifiuta di ridurre il discorso mentale a un'unica descrizione sottostante, il che ne allenta l'adesione al fisicalismo riduzionista."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "La realizzabilità multipla permette agli stati mentali di ‘girare’ sui computer così come sui cervelli. I dubbi successivi di Putnam sul fatto che il funzionalismo colga i qualia e il significato lasciano aperta la coscienza delle macchine."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Putnam ha respinto il dualismo di sostanza, quindi gli stati mentali richiedono un sistema fisico che li realizzi, e nulla nella teoria sostiene la sopravvivenza senza di esso."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Il pluralismo pragmatico di Putnam tratta il discorso mentale come uno schema concettuale umano adatto a scopi umani, senza appello a uno scopo cosmico."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Secondo il funzionalismo di macchina, riprodurre l'organizzazione funzionale di una mente in un altro substrato riprodurrebbe i suoi stati mentali, sebbene l'esternalismo successivo di Putnam leghi il contenuto anche al mondo."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Fondamento"
+      },
+      {
+        "name": "Smart’s Topic-Neutral Identity",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Lewis’s Analytic Functionalism and Causal-Role Identity Theory",
+        "relationship": "Contrasto"
+      },
+      {
+        "name": "Turing’s Imitation, Machine Thought, and the Hidden Mind",
+        "relationship": "Influenza"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Putnam’s Machine Functionalism (Landscape of Consciousness entry), Hilary Putnam",
+        "year": 1988
+      }
+    ]
+  }
+}

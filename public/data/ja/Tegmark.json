@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "テグマークの物質の状態",
     "summary": "テグマークは、意識が特定の物質の状態、すなわち「パーセプトロニウム」と名づけられたものとして理解できると提案する。それは独自の情報処理能力によって定義される。あらゆる存在は物理的であるという前提から出発し、この理論は意識的で複雑な情報処理を非意識的な処理から区別する原理を探求する。",
-    "associated_thinkers": ["Max Tegmark"],
+    "associated_thinkers": [
+      "Max Tegmark"
+    ],
     "category": "一元論",
     "subcategory": "",
     "core_identity_tagline": "物質の状態としての意識：パーセプトロニウム",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "はい",
+      "stance": "Yes",
       "rationale": "この理論は厳密に物理主義的（「すべては物理である」）であり、意識を複雑な情報処理を通じて達成しうる物質の状態として定義する。したがって人工システムは原理的にこの状態を達成しうる。"
     },
     "survival_beyond_death": {
-      "stance": "いいえ",
+      "stance": "No",
       "rationale": "意識は物理的な脳の創発的な物質の状態（パーセプトロニウム）である。物理的基盤の不可逆な死と解体は、意識の停止を帰結する。"
     },
     "meaning_and_purpose": {
-      "stance": "不確定／人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "物理学と数学的構造に基礎を置くことは、通例、消去的な物理主義的見解と整合的に、究極的な宇宙的目的がないことを示唆する。この理論は宇宙的目的論を明示的に提案しない。"
     },
     "virtual_immortality": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "もし意識が数学的／物理的原理によって定義される特定の情報的な物質の状態であるならば、その状態は高度な技術によって非生物学的な媒体へ完全に複製ないしアップロードされうる。"
     }
   },
@@ -78,7 +80,7 @@
         "relationship": "基盤"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "両立的"
       }
     ],

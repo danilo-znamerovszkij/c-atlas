@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Le neurofonctionnalisme de Prinz : l'attention engendre l'expérience",
     "summary": "Cette théorie affirme que la conscience émerge de l'attention, qui facilite le flux de l'information perceptive vers les systèmes de mémoire à un stade intermédiaire du traitement. Ce processus repose fondamentalement sur une activité neuronale synchronisée et aboutit à une représentation intégrée du stimulus, conservant un point de vue.",
-    "associated_thinkers": ["Jesse Prinz"],
+    "associated_thinkers": [
+      "Jesse Prinz"
+    ],
     "category": "Matérialisme",
     "subcategory": "Neurobiologique",
     "core_identity_tagline": "La conscience comme représentation intermédiaire attentionnée",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Puisque la théorie identifie la conscience à un processus neurofonctionnel spécifique consistant à rendre l'information disponible pour la mémoire via l'attention, cette fonction computationnelle devrait être réalisable dans des systèmes non biologiques suffisamment avancés."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "En tant que théorie entièrement contenue dans le matérialisme, la conscience dépend entièrement de, et est générée par, l'organisation et les processus biologiques du cerveau (par ex. l'activité neuronale synchronisée) et cesse à la destruction du cerveau."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "La fonction de la conscience est pragmatique — rendre l'information perceptive disponible pour un comportement flexible. Elle opère dans un paradigme matérialiste qui implique généralement que le sens et la finalité sont auto-créés, non cosmiques."
     },
     "virtual_immortality": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "Étant donné son fondement dans le neurofonctionnalisme et sa visée d'une explication matérialiste complète, la duplication fonctionnelle parfaite du système représentationnel fondé sur l'attention dans un substrat non biologique devrait préserver le soi conscient originel à la première personne."
     }
   },
@@ -74,7 +76,7 @@
         "relationship": "Extension"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "Compatible"
       },
       {
@@ -82,7 +84,7 @@
         "relationship": "Critique"
       },
       {
-        "name": "Recurrent Processing Theory",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "Chevauchement"
       }
     ],

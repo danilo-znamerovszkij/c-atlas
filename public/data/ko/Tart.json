@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "타트의 창발적 상호작용론",
     "summary": "이는 의식이 물리적 'B 체계'(뇌와 신체)와 비물리적 'M/L 체계'(실재의 심적 측면과 생명적 측면) 사이의 상호작용에서 비롯되는 창발적 '체계 속성'이라고 주장하는 이원론적 이론이다. 이 이론은 변성 상태와 초심리학 연구에 뿌리를 두며, 타트는 이러한 연구가 순전히 유물론적인 견해의 부적절함을 보여준다고 주장한다.",
-    "associated_thinkers": ["Charles Tart"],
-    "category": "이상 현상과 변성 상태",
+    "associated_thinkers": [
+      "Charles Tart"
+    ],
+    "category": "이상현상",
     "subcategory": "창발적 상호작용론",
     "core_identity_tagline": "‘이중 상호작용의 창발적 체계 속성으로서의 의식’",
     "classification_tags": [
@@ -54,26 +56,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 낮음",
+      "stance": "Unlikely",
       "rationale": "의식이 근본적으로 분리된 비물리적 M/L 체계를 요구한다면, 물리적 B 체계에만 기반한 비생물학적 지능은 참된 내적 자각에 이를 수 없다. 다만 알려지지 않은 심물리 법칙이 물리적 복잡성에 근거하여 M/L 구성 요소를 자동으로 산출하는 경우는 예외이다(창발적 이원론의 예외)."
     },
     "survival_beyond_death": {
-      "stance": "그렇다",
+      "stance": "Yes",
       "rationale": "실체 이원론의 한 형태로서, 의식은 별개의 비물리적 M/L 체계를 요구하며 이 체계는 물리적 뇌와 신체가 해체된 후에도 존재를 유지할 수 있다. 이상 현상과 변성 상태 이론들은 일반적으로 사후 존속에 우호적이다."
     },
     "meaning_and_purpose": {
-      "stance": "확장됨/궁극적 가능성 있음",
+      "stance": "Uncertain",
       "rationale": "초심리 현상과 변성 상태에 대한 초점은 순전히 물리적인 것을 넘어선 확장된 실재를 시사하며, 새로운 혹은 궁극적인 차원의 의미와 목적의 가능성을 연다."
     },
     "virtual_immortality": {
-      "stance": "아니다(대체로)",
+      "stance": "Unlikely",
       "rationale": "물리적 B 체계만을 업로드하는 것으로는 필수적인 비물리적 구성 요소(M/L 체계)를 포착하지 못한다. 따라서 뇌를 복제하는 것만으로는 일인칭 자아를 업로드하기에 충분하지 않다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "분류"
       },
       {
@@ -81,11 +83,11 @@
         "relationship": "중첩/분류"
       },
       {
-        "name": "Radin’s Challenge to Materialism",
+        "name": "Radin's Challenge to Materialism",
         "relationship": "양립 가능"
       },
       {
-        "name": "Bergson’s Multiplicity, Duration, Perception, Memory",
+        "name": "Bergson's Multiplicity, Duration, Perception, Memory",
         "relationship": "양립 가능/영향"
       }
     ],

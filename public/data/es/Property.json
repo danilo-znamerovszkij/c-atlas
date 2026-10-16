@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Dualismo de Propiedades",
     "summary": "El Dualismo de Propiedades postula que, si bien la sustancia física es la única sustancia fundamental, existen dos categorías irreducibles de propiedades: físicas y mentales. Las propiedades mentales, como la experiencia consciente, son generadas por cerebros físicos pero no pueden reducirse ni explicarse completamente solo mediante propiedades físicas.",
-    "associated_thinkers": ["David Chalmers"],
-    "category": "Dualisms",
-    "subcategory": "Property Dualism",
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
+    "category": "Dualismo",
+    "subcategory": "Dualismo de propiedades",
     "core_identity_tagline": "Una Sustancia, Dos Propiedades Irreducibles (Mental y Física)",
     "classification_tags": [
       "irreducible properties",
@@ -50,7 +52,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "La IA podría ser consciente si los sistemas no biológicos pueden instanciar la organización física compleja específica requerida para generar las propiedades mentales irreducibles descritas."
     },
     "survival_beyond_death": {
@@ -58,22 +60,22 @@
       "rationale": "La conciencia consiste en propiedades generadas por el cerebro físico. Estas propiedades dejan de existir cuando la sustancia física (cerebro/cuerpo) se disuelve tras la muerte."
     },
     "meaning_and_purpose": {
-      "stance": "No expresado/Neutral",
+      "stance": "Uncertain",
       "rationale": "La teoría se centra en categorías ontológicas y relaciones de propiedades; acepta una sustancia fundamentalmente física y no respalda inherentemente una teleología cósmica."
     },
     "virtual_immortality": {
-      "stance": "Posible",
+      "stance": "Possible",
       "rationale": "Si la conciencia es una propiedad emergente de una organización física específica, replicar ese estado físico completo (estructura cerebral) en un sustrato no biológico debería generar las mismas propiedades mentales."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "Superposición/Compatible (a menudo tratado como sinónimo o estrechamente relacionado)"
       },
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "Crítica/Contraste (rechaza el dualismo de sustancia pero mantiene el dualismo de propiedad)"
       },
       {

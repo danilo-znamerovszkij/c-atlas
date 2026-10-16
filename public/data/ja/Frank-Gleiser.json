@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "フランク／グレイザー／トンプソンの「ブラインドスポット」",
     "summary": "この枠組みは、意識と身体化の相互的な第一義性を主張することによって、伝統的な唯物論的・二元論的アプローチを批判し、すべての科学的探究が必然的に「意識の地平」の内部で生じると論じる。それは「ハードプロブレム」を「ブラインドスポット」——客観的真理の探求において経験の還元不可能な前提条件を認識しそこなうこと——の産物と定義し、神経現象学へのラディカルな転換を提案する。",
-    "associated_thinkers": ["Adam Frank", "Marcello Gleiser", "Evan Thompson"],
-    "category": "唯物論の理論",
-    "subcategory": "身体化・行為主義的",
+    "associated_thinkers": [
+      "Adam Frank",
+      "Marcello Gleiser",
+      "Evan Thompson"
+    ],
+    "category": "唯物論",
+    "subcategory": "身体化",
     "core_identity_tagline": "還元不可能な前提条件かつ身体化された奇妙なループとしての意識",
     "classification_tags": [
       "embodiment",
@@ -45,31 +49,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "不確定",
+      "stance": "Uncertain",
       "rationale": "この理論は意識を、「奇妙なループ」の内部にある身体化された一人称的経験と本質的に結びついたものと見なす。彼らは大半のAIアプローチの根底にある計算論的機能主義を批判するため、単なる非生物的計算がこの還元不可能で身体化された意識を達成しうるかは不明である。"
     },
     "survival_beyond_death": {
-      "stance": "不確定",
+      "stance": "Uncertain",
       "rationale": "この理論は身体化の第一義性を強調し、意識が有機体に結びついていることを示唆する。しかし、経験の第一義性に基づく科学を支持するその非還元的立場は、存続の可能性を排除しない。ただし出典は立場を明示していない。"
     },
     "meaning_and_purpose": {
-      "stance": "内在的／実存的",
+      "stance": "Humanistic only",
       "rationale": "この理論は「科学的営みにおける人間経験の中心的地位」を取り戻すことを目指しており、意味と価値が意識と経験の還元不可能な実在の中に根本的に存在することを含意する。"
     },
     "virtual_immortality": {
-      "stance": "可能性が低い",
+      "stance": "Unlikely",
       "rationale": "仮想的不死は、心的状態の首尾よいデジタル化と複製（計算論的機能主義）に依拠する。この理論は意識を還元不可能で身体化された現象——「奇妙なループ」——と見なすため、その根底にある還元主義的哲学を退けることによって、心のアップロードが不可能であることを強く含意する。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Neurophenomenology", "relationship": "支持／拡張" },
-      { "name": "Embodied and Enactive Theories", "relationship": "整合" },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "支持／拡張"
+      },
+      {
+        "name": "Embodied",
+        "relationship": "整合"
+      },
       {
         "name": "Reductionism/Physicalism",
         "relationship": "批判／拒絶"
       },
-      { "name": "Francisco Varela’s work", "relationship": "影響" }
+      {
+        "name": "Francisco Varela’s work",
+        "relationship": "影響"
+      }
     ],
     "sources_and_references": [
       {

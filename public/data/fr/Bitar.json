@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "La théorie architecturale de la conscience selon Bitar",
+    "summary": "Bitar explique la conscience par la structure de l'esprit, qu'il appelle l'architecture automatique-volitionnelle. Une unité automatique parallèle traite à la fois, de manière inconsciente, de nombreuses entrées sensorielles et sorties motrices ; une unité volitionnelle sérielle gère le corps sous contrôle intentionnel direct. La conscience est le concept subjectif que nous utilisons pour désigner l'information telle que l'unité sérielle la représente. L'activité mentale ne paraît immatérielle que parce qu'elle est privée ; Bitar la tient donc pour matérielle et considère le problème corps-esprit comme résolu.",
+    "associated_thinkers": [
+      "Philip Bitar"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Computationnel",
+    "core_identity_tagline": "La conscience comme information représentée en série dans l'unité volitionnelle de l'esprit",
+    "classification_tags": [
+      "cognitive architecture",
+      "serial processing",
+      "volition",
+      "materialism",
+      "privacy of mind"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est le concept subjectif que nous utilisons pour caractériser l'information telle que la représente l'unité volitionnelle, l'unité de traitement sériel de haut niveau de l'esprit. Bitar appelle ce format sériel la définition objective de la conscience.",
+    "ontological_status": "Physicalisme (fonctionnalisme architectural)",
+    "mind_body_relationship": "L'esprit est le système de contrôle d'un animal et est réalisé par son cerveau. L'activité mentale est matérielle mais privée ; Bitar compare le rejet de son immatérialité au rejet du vitalisme par la biologie.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible (la conscience découle de l'organisation sérielle du système de contrôle du cerveau)",
+    "subjectivity_and_intentionality": "La subjectivité traduit le caractère privé de l'activité mentale, que nos sens ne peuvent observer directement. Les processus volitionnels sont directement intentionnels ; les processus automatiques ne le sont pas.",
+    "qualia_account": "Les expériences sont des états matériels qui ne paraissent immatériels que parce qu'ils sont privés. Bitar imagine un cerveau qui afficherait l'expérience visuelle sur un écran à l'arrière de la tête ; si c'était ainsi que fonctionnent les cerveaux, personne ne jugerait l'expérience immatérielle.",
+    "ontological_commitments": "Des cerveaux, des systèmes de contrôle à traitement orienté vers des buts, et quatre composantes fonctionnelles : une unité sensorielle, une unité motrice, une unité automatique parallèle et une unité volitionnelle sérielle.",
+    "epistemic_access": "Chacun n'observe que son propre esprit et infère celui des autres à partir de la ressemblance de structure et de fonction corporelles, ainsi que du comportement.",
+    "constituents_and_structure": "Une unité sensorielle, une unité motrice, une unité automatique de traitement parallèle (le « moteur ») et une unité volitionnelle de traitement sériel (le « pilote »)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Volition, attention, et distinction entre traitement conscient et inconscient ; le problème corps-esprit",
+    "distinctive_mechanism_or_principle": "Les processus conscients sont nécessairement sériels, et les processus inconscients fonctionnent en parallèle. L'unité volitionnelle focalise l'attention et approuve ou rejette les propositions de l'unité automatique, qui exécute celles qui sont approuvées.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Le cortex préfrontal joue un rôle majeur dans l'unité volitionnelle, par ses fonctions exécutives, tandis que la plus grande partie du reste du cerveau réalise l'unité automatique. Bitar note que les composantes cérébrales des deux unités n'ont pas encore été identifiées.",
+    "causation_and_functional_role": "L'unité volitionnelle gère centralement le corps, tandis que l'unité automatique maximise la vitesse de réponse du corps. Bitar soutient qu'un animal dépourvu de l'une ou de l'autre ne pourrait survivre.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "L'information est représentée sous forme parallèle dans l'unité automatique et sous forme sérielle dans l'unité volitionnelle ; seule la représentation sérielle est consciente.",
+    "evolutionary_account": "L'architecture automatique-volitionnelle est nécessaire à la survie, ce que Bitar tient pour l'explication de la présence de cette architecture chez les animaux dotés d'un cerveau.",
+    "core_claims_and_evidence": [
+      "La survie exige une unité parallèle pour une réponse rapide et une unité sérielle pour la gestion centrale du corps.",
+      "Les processus volitionnels sont conscients et sériels, et les processus automatiques sont inconscients et parallèles.",
+      "Supposer que l'activité mentale est immatérielle ajoute une complexité inutile, car cela soulève la question de savoir comment un cerveau matériel peut causer une activité immatérielle.",
+      "Bitar soutient que l'argument de Chalmers de 1996, selon lequel la conscience n'est pas physique, présuppose ce qu'il cherche à prouver.",
+      "Une théorie doit être jugée d'abord à sa précision prédictive, puis à sa simplicité, la cohérence logique étant supposée."
+    ],
+    "basis_of_belief_or_evidence_type": "Théorique (architecture des systèmes, arguments de parcimonie)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spéculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "Les régions cérébrales réalisant les unités volitionnelle et automatique n'ont pas été identifiées ; Bitar présume qu'elles sont en grande partie distinctes, mais qu'elles se recouvrent à leurs frontières.",
+    "ontological_coherence": "Cohérente avec le matérialisme et avec l'objectif de Bitar, qui est de s'accorder avec la science dominante. Définir la conscience par une architecture s'accorde mal avec le refus de conscience à un robot dotée de la même architecture ; Bitar lève cette difficulté en invoquant la simplicité."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "No",
+      "rationale": "Bitar soutient que même un robot doté d'une architecture automatique-volitionnelle et d'un comportement humain ne fournit aucune raison de lui attribuer la conscience, puisque nous savons seulement que la représentation biologique de l'information produit l'expérience."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "L'esprit étant réalisé par le cerveau et l'activité mentale étant matérielle, il découle de cette thèse que l'esprit prend fin avec le cerveau."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "Bitar refuse la conscience aux systèmes électroniques ; une copie électronique d'un esprit ne se verrait donc pas, selon lui, attribuer une expérience."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Searle's Biological Naturalism",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Why Human Life Makes Sense, Edition 5, Philip Bitar",
+        "year": 2023
+      }
+    ]
+  }
+}

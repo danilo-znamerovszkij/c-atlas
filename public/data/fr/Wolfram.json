@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "La conscience dans le Ruliad selon Wolfram",
     "summary": "Cette théorie cherche à formaliser la conscience en l'inscrivant dans le « Ruliad », défini comme la limite entrelacée de tout ce qui est computationnellement possible, laquelle englobe notre univers physique. La conscience est comprise non pas comme une computation générale, mais comme une caractéristique spécifique du cerveau qui crée un fil cohérent d'expérience en utilisant des descriptions bornées et simplifiées de cette structure computationnelle ultime.",
-    "associated_thinkers": ["Stephen Wolfram"],
-    "category": "Théories Quantiques",
+    "associated_thinkers": [
+      "Stephen Wolfram"
+    ],
+    "category": "Quantique",
     "subcategory": "Quantique",
     "core_identity_tagline": "« La conscience comme perception bornée dans le Ruliad computationnel »",
     "classification_tags": [
@@ -52,26 +54,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "En tant que théorie ancrée dans la computation et la physique (quantique), la conscience de l'IA est possible si des systèmes non biologiques peuvent atteindre la cohérence et l'intégration computationnelles nécessaires au sein du cadre du Ruliad."
     },
     "survival_beyond_death": {
-      "stance": "Incertain",
+      "stance": "Uncertain",
       "rationale": "Bien que la théorie soit fondamentalement computationnelle/physicaliste, son inclusion dans la catégorie des Théories Quantiques et son recours au Ruliad abstrait (la structure ultime de la réalité) signifient que la survie ne peut être définitivement exclue, bien que la conscience soit principalement liée à l'organisation physique du cerveau."
     },
     "meaning_and_purpose": {
-      "stance": "Non (pragmatique/scientifique)",
+      "stance": "Humanistic only",
       "rationale": "La conscience remplit un rôle fonctionnel en permettant la réductibilité computationnelle et en structurant notre perception de l'univers, s'alignant sur un résultat déflationniste et fonctionnaliste concernant le sens cosmique ultime."
     },
     "virtual_immortality": {
-      "stance": "Probablement",
+      "stance": "Likely",
       "rationale": "Puisque la conscience est caractérisée comme un type spécifique de cohérence computationnelle (un résultat « logiciel » de la computation bornée), il est probable que cette structure puisse, en principe, être dupliquée dans un substrat non biologique, permettant l'immortalité virtuelle."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Quantum Theories",
+        "name": "Quantum & Dimensions",
         "relationship": "Chevauchement"
       },
       {
@@ -79,11 +81,11 @@
         "relationship": "Chevauchement"
       },
       {
-        "name": "Max Tegmark’s State of Matter",
+        "name": "Tegmark's State of Matter",
         "relationship": "Compatible"
       },
       {
-        "name": "David Bohm’s Implicate-Explicate Order",
+        "name": "Bohm's Implicate-Explicate Order",
         "relationship": "Compatible"
       }
     ],

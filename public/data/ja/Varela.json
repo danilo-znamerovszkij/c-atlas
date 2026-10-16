@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ヴァレラの神経現象学",
     "summary": "神経現象学は、生きられた経験に現前する一人称的現象（現象学）と、認知科学によって確立される三人称的な神経現象とのあいだに相互的な制約を打ち立てようとする方法論的アプローチである。その目標は、厳密な科学と、人間の経験の規律ある吟味とを結び合わせ、経験の構造を科学的探究の中核に据えることにある。",
-    "associated_thinkers": ["Francisco Varela"],
-    "category": "唯物論",
-    "subcategory": "身体化とエナクティブ",
+    "associated_thinkers": [
+      "Francisco Varela"
+    ],
+    "category": "現象学",
+    "subcategory": "",
     "core_identity_tagline": "経験と脳の相互制約としての意識",
     "classification_tags": [
       "phenomenology",
@@ -53,30 +55,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "起こりにくい",
+      "stance": "Unlikely",
       "rationale": "意識は身体化され生きられた経験と、生物学的過程に結びついた動態に大きく依拠しており、単なる計算的複製では不十分となる。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "本理論は唯物論／身体化理論の下に分類され、生きている生物学的有機体に根ざしそれを通じて枝分かれするものとして意識を捉えるため、身体の死とともに停止することを含意する。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的／実用主義的",
+      "stance": "Humanistic only",
       "rationale": "本方法論は科学的説明に「人間の生」と主観的経験を回復させようとし、宇宙的目的を措定することなく、純粋な機能による疎外よりも生きられた経験を重んじることで意味を提供する。"
     },
     "virtual_immortality": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識が脳を超えて広がる身体化され生きられた経験に根ざすのであれば、神経的／機能的データの単純なアップロードでは、有機体と環境の関係に必要な動態を捉えそこなうことになる。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Thompson’s Mind in Life",
+        "name": "Thompson's Mind in Life",
         "relationship": "拡張"
       },
       {
-        "name": "Bitbol’s Radical Neurophenomenology",
+        "name": "Bitbol's Radical Neurophenomenology",
         "relationship": "拡張／精緻化"
       },
       {

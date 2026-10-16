@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "الروح في الأديان الأصلية",
     "summary": "تجمع هذه الفئة المفاهيم المتنوعة للروح الموجودة في الأديان الأصلية والشعبية حول العالم. وتنطوي هذه المعتقدات عادةً على مكوّنات روحية متعددة غير فيزيائية، يُظنّ أن بعضها يزول عند الموت في حين يبقى بعضها الآخر، بما يعكس جوانب من الثنائية التقليدية.",
-    "associated_thinkers": ["Claude Rivière", "Stevan Harrell"],
-    "category": "الثنائيات",
-    "subcategory": "الروح في الأديان الأصلية",
+    "associated_thinkers": [
+      "Claude Rivière",
+      "Stevan Harrell"
+    ],
+    "category": "الثنائية",
+    "subcategory": "النفس في الأديان الأصلية",
     "core_identity_tagline": "معتقدات الروح المتعددة، المنتشرة، الصامدة عبر الزمن",
     "classification_tags": [
       "indigenous",
@@ -51,26 +54,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "يتطلب الوعي مكوّنًا روحيًّا (روح/نفس) مشتقًّا من مصادر غير فيزيائية أو من خالق، وهو ما تفتقر إليه الأنظمة الاصطناعية جوهريًّا."
     },
     "survival_beyond_death": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "البقاء بعد الموت سمة محورية، إذ يُفترَض أن عدة مكوّنات من الروح تبقى بعد موت الجسد البيولوجي."
     },
     "meaning_and_purpose": {
-      "stance": "كوني/وجودي",
+      "stance": "Cosmic/Ultimate",
       "rationale": "تستلزم منظومات المعتقد معنىً أقصى بافتراضها الوجودَ السابق والنشأةَ الروحية من خالق وبنيةً شاملة تحكم مصير الفرد."
     },
     "virtual_immortality": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "يتحقق الخلود ببقاء الروح الأصلية، ولا يمكن الحصول عليه عبر المضاعفة التقنية أو محاكاة الأنماط الوظيفية للجسد الفيزيائي."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "تداخل"
       },
       {

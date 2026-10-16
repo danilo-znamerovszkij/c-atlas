@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "プリブラムのホロノミック脳理論",
     "summary": "この理論は、人間の意識が脳細胞の内部あるいは細胞間で生じる量子効果から生じ、それによって脳がホログラフィックな情報記憶ネットワークとして機能すると提案する。このホログラフィックな本性は、情報、とりわけ記憶が神経ネットワーク全体にわたって非局所的に貯蔵されることを意味し、損傷後でも頑健な機能を可能にする。",
-    "associated_thinkers": ["Karl Pribram", "David Bohm"],
-    "category": "唯物論の諸理論",
-    "subcategory": "計算論的・情報論的",
+    "associated_thinkers": [
+      "Karl Pribram",
+      "David Bohm"
+    ],
+    "category": "唯物論",
+    "subcategory": "計算論的",
     "core_identity_tagline": "「ホログラフィックな量子的貯蔵としての意識」",
     "classification_tags": [
       "quantum",
@@ -53,19 +56,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "意識が古典的計算だけではなく特定の量子的／物理的性質（樹状突起の振動や波動干渉のような）に依存しているならば、人工システムはこの特定の、現在のところ未知の物理的構造を再現する場合にのみ意識的となりうる。"
     },
     "survival_beyond_death": {
-      "stance": "きわめて起こりにくい／否",
+      "stance": "Unlikely",
       "rationale": "意識は物理的な脳の樹状突起網内部の創発的な量子動態に結びついている。この物理的構造の破壊は、物理主義的存在論と整合的に、通常は意識の終止を伴う。"
     },
     "meaning_and_purpose": {
-      "stance": "不確実／人間的な意味のみ",
+      "stance": "Humanistic only",
       "rationale": "純粋に機構論的で物理主義的な理論（ただし型破りな物理学を援用するもの）として、それは内在的な宇宙的意味や価値を必要とはしないが、人間の経験と価値創造の物理的基盤について示唆を与える。"
     },
     "virtual_immortality": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "仮想的不死は、技術が生物学的な脳のきわめて複雑で高度に敏感な量子的／ホログラフィックなパターンと動態を完全に測定し、写像し、非生物学的基体において再現できる場合にのみ理論上可能である。"
     }
   },
@@ -84,7 +87,7 @@
         "relationship": "影響"
       },
       {
-        "name": "Electromagnetic Field Theories",
+        "name": "Electromagnetic",
         "relationship": "重複"
       }
     ],

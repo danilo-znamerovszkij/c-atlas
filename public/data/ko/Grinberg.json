@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "그린버그의 신테르기/신경장 이론",
     "summary": "이 심리생리학적 이론은 뇌가 모든 신경 요소의 활성화와 통일에서 비롯되는 초복합적 내부 '신경장'을 창출한다고 상정한다. 의식은 이 장과 긴밀히 연결되며, 이 장은 기본적인 시공간 구조에 왜곡을 일으킨다. 우리의 지각물은 바로 이 왜곡에 대한 지각이다.",
-    "associated_thinkers": ["Jacobo Grinberg-Zylberbaum"],
-    "category": "이상 현상과 변성 상태",
+    "associated_thinkers": [
+      "Jacobo Grinberg-Zylberbaum"
+    ],
+    "category": "이상현상",
     "subcategory": "장 이론",
     "core_identity_tagline": "기본적 시공간 구조의 왜곡으로서의 의식",
     "classification_tags": [
@@ -54,19 +56,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "불확실",
+      "stance": "Uncertain",
       "rationale": "이 이론은 장을 활성화하기 위해 '뇌만큼 복잡한' 구조를 요구하며, 인공 체계에서 재현된다는 보장이 없는 비국소적이고 에너지적인 상호작용에 의존한다."
     },
     "survival_beyond_death": {
-      "stance": "가능함",
+      "stance": "Possible",
       "rationale": "의식과 경험은 국소화된 생리적 뇌 활동과는 다른 차원에 존재한다고 말해진다. 양자 효과와 비국소적 상호작용의 포함은 물리적 신체 바깥에서의 존속 가능성을 시사한다."
     },
     "meaning_and_purpose": {
-      "stance": "우주적/철학적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "이 이론은 의식을 실재의 근본 구조와 연결하고 뇌를 일차적 에너지 모체를 경험으로 변환하는 것으로 보며, 이는 깊은 우주적 의의와 존재 자체와의 통합을 시사한다."
     },
     "virtual_immortality": {
-      "stance": "가능성 낮음",
+      "stance": "Unlikely",
       "rationale": "가상적 불멸은 정확한 에너지적 변환과 신경장이 공간의 신테르기적 조직화와 맺는 상호작용을 기술적으로 복제할 것을 요구하는데, 이 이론의 비국소적이고 비통상적인 물리적 전제로 인해 그럴 가능성은 매우 낮다."
     }
   },
@@ -80,7 +82,10 @@
         "name": "Quantum Theories of Consciousness",
         "relationship": "양립 가능"
       },
-      { "name": "Idealisms", "relationship": "양립 가능" }
+      {
+        "name": "Idealism",
+        "relationship": "양립 가능"
+      }
     ],
     "sources_and_references": [
       {

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "サールの生物学的自然主義",
     "summary": "生物学的自然主義は、意識は脳の実在的で還元不能な主観的な生物学的特徴であり、もっぱらより低次の神経生物学的過程によって引き起こされ、高次のシステム的特徴として実現されると主張する。このアプローチは、科学的世界観を受け入れつつ意識的経験の一人称的存在論を認めることによって、心身問題を解決しようとする。",
-    "associated_thinkers": ["John Searle"],
+    "associated_thinkers": [
+      "John Searle"
+    ],
     "category": "唯物論",
-    "subcategory": "哲学的",
+    "subcategory": "神経生物学的",
     "core_identity_tagline": "脳の還元不能な生物学的特徴としての意識",
     "classification_tags": [
       "biological",
@@ -51,30 +53,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "条件付き／可能",
+      "stance": "Conditional",
       "rationale": "サールはシミュレーションを介した意識を退ける（中国語の部屋の論証）が、因果的に十分な生物学的機構が知られれば、同じ機構を実装する人工機械は意識をもちうると論じる。意識は生物学的な神経細胞を厳密に要するのではなく、十分な因果的な力のみを要するからである。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は全面的に物理的であり、もっぱら生物学的な脳の産物である。それゆえ、脳と身体の死は取り返しのつかない永久的な非存在を意味する。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "唯物論の理論として、生物学的自然主義は究極的な宇宙的意味や目的を合理化することに苦慮するが、われわれ自身によって創出される人間主義的な意味は依然として可能である。"
     },
     "virtual_immortality": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "意識が物理的／生物学的状態によって全面的に説明可能であるならば、それらの状態（およびその因果的関係）を非生物学的な媒体において複製すれば、原理的に一人称的な心的自己のアップロードと存続が可能となる。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "重複／発展（脳同一性にもとづくより洗練された形の唯物論）"
       },
       {
-        "name": "Dennett’s Multiple Drafts Model",
+        "name": "Dennett's Multiple Drafts Model",
         "relationship": "対比（両者とも生物学的自然主義者であるが、デネットは内容／機能を優先し、サールは意識／主観性を優先する）"
       },
       {

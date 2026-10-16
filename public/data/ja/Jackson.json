@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ジャクソンの透明な表象主義と知識論法",
     "summary": "フランク・ジャクソンの透明な表象主義は、知覚経験の現象的性格はその表象的内容によって余すところなく尽くされる、すなわち我々は経験を「透かして」対象の諸性質を見ているのだと主張する。この立場は主として、以前は物理主義に反対する論証であった彼自身の有名な思考実験、すなわち知識論法の結論を掘り崩すために展開された。",
-    "associated_thinkers": ["Frank Jackson"],
-    "category": "唯物論の理論",
-    "subcategory": "表象的",
+    "associated_thinkers": [
+      "Frank Jackson"
+    ],
+    "category": "唯物論",
+    "subcategory": "一階",
     "core_identity_tagline": "「現象的性格は表象的内容によって尽くされる」",
     "classification_tags": [
       "representationalism",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "意識が表象的内容と機能的役割によって尽くされ、かつこれらの性質が計算論的に実現されうるならば、AIシステムは意識を達成しうる。"
     },
     "survival_beyond_death": {
-      "stance": "否定",
+      "stance": "No",
       "rationale": "本理論は唯物論／物理主義の擁護であり、意識はもっぱら物理系（脳またはその機能的／表象的等価物）に結びついていることを含意するため、生物学的停止を超えた存続は妨げられる。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的な意味のみ",
+      "stance": "Humanistic only",
       "rationale": "唯物論の理論として、人間が自らのために作り出すもの以外に究極的な意味や目的を提供しない。"
     },
     "virtual_immortality": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "現象的性格は機能的／表象的内容によって完全に捉えられるため、それらの内容の完全な複製（アップロード）は、もとの一人称的な心的自己を保存するだろう。"
     }
   },
@@ -78,7 +80,7 @@
         "relationship": "基盤"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "重複"
       },
       {

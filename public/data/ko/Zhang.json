@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "장의 장거리 광속 원거리통신 이론",
     "summary": "이 이론은 뇌와 마음의 수수께끼가, 이동하는 전기장을 매개로 멀리 떨어져 평행하게 배열된 뉴런들 사이에서 이루어지는 광속 원거리통신을 제안함으로써 해결될 수 있다고 본다. 동기화 법칙에 기초한 이 메커니즘은 뉴런들이 지적 생명체에 필수적인 견고한 연결망을 형성하도록 한다.",
-    "associated_thinkers": ["Ping Zhang"],
+    "associated_thinkers": [
+      "Ping Zhang"
+    ],
     "category": "유물론",
-    "subcategory": "전자기장",
+    "subcategory": "전자기적",
     "core_identity_tagline": "‘광속 원거리통신으로서의 의식’",
     "classification_tags": [
       "neurobiology",
@@ -54,38 +56,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "재현 가능한 물리 법칙(전기장, 동기화)에 의존하는 유물론 이론이므로, 복잡한 구조를 공학적으로 구현할 수만 있다면 의식에 필요한 메커니즘을 진보된 비생물학적 하드웨어에서 구축할 수 있다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식은 전적으로 생물학적 신경계의 특정한 복잡한 조직과 물리적 동역학(전기장과 동기화된 발화)에 뿌리를 두고 있다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "이 이론은 지능에 요구되는 물리적 메커니즘에 초점을 맞추어 인간의 인지와 행위주체성을 생물학적 산물로 뒷받침할 뿐, 우주적이거나 궁극적인 목적은 다루지 않는다."
     },
     "virtual_immortality": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식을 산출하는 메커니즘, 즉 광속으로 동기화된 신경망의 정밀한 공간적·시간적 조직을 디지털로 완벽히 복제할 수 있다면 가상적 불멸은 이론적으로 달성 가능하다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McFadden’s Conscious Electromagnetic Information Theory (CEMI)",
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
         "relationship": "중첩"
       },
       {
-        "name": "Jones’s electromagnetic fields",
+        "name": "Jones's Electromagnetic Fields",
         "relationship": "중첩"
       },
       {
-        "name": "Computational and Informational Theories",
+        "name": "Computational",
         "relationship": "비판"
       },
       {
-        "name": "Neurobiological Theories",
+        "name": "Neurobiological",
         "relationship": "확장"
       }
     ],

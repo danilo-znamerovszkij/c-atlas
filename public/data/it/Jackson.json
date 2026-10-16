@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Il rappresentazionalismo diafano di Jackson e l'argomento della conoscenza",
     "summary": "Il rappresentazionalismo diafano di Frank Jackson sostiene che il carattere fenomenico dell'esperienza percettiva si esaurisce nel suo contenuto rappresentazionale, il che significa che «vediamo attraverso» l'esperienza fino alle proprietà dell'oggetto. Questa posizione fu sviluppata principalmente per minare la conclusione del suo stesso celebre esperimento mentale, l'argomento della conoscenza, che in precedenza argomentava contro il fisicalismo.",
-    "associated_thinkers": ["Frank Jackson"],
-    "category": "Teorie materialiste",
-    "subcategory": "Rappresentazionale",
+    "associated_thinkers": [
+      "Frank Jackson"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Primo ordine",
     "core_identity_tagline": "«Il carattere fenomenico si esaurisce nel contenuto rappresentazionale»",
     "classification_tags": [
       "representationalism",
@@ -51,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "Se la coscienza si esaurisce nel contenuto rappresentazionale e nel ruolo funzionale, e queste proprietà possono essere realizzate computazionalmente, allora i sistemi di IA possono raggiungere la coscienza."
     },
     "survival_beyond_death": {
@@ -59,11 +61,11 @@
       "rationale": "La teoria è una difesa del materialismo/fisicalismo, il che implica che la coscienza è legata unicamente al sistema fisico (il cervello o il suo equivalente funzionale/rappresentazionale), impedendo la sopravvivenza oltre la cessazione biologica."
     },
     "meaning_and_purpose": {
-      "stance": "Solo umanistico",
+      "stance": "Humanistic only",
       "rationale": "In quanto teoria materialista, non offre alcun significato o scopo ultimo al di fuori di ciò che gli esseri umani creano per sé stessi."
     },
     "virtual_immortality": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "Poiché il carattere fenomenico è pienamente catturato dal contenuto funzionale/rappresentazionale, una duplicazione perfetta (caricamento) di tali contenuti preserverebbe il sé mentale originale in prima persona."
     }
   },
@@ -78,7 +80,7 @@
         "relationship": "Fondamento"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "Sovrapposizione"
       },
       {

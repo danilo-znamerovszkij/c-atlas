@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "L'identité esprit-cerveau de Papineau",
     "summary": "Cette théorie défend le physicalisme neurobiologique en affirmant que les états conscients sont fondamentalement et littéralement identiques à des états cérébraux spécifiques. Elle soutient que cette identité est découverte a posteriori par inférence scientifique, maintenant que l'éternel « fossé explicatif » est un artefact trompeur d'intuitions dualistes profondément ancrées.",
-    "associated_thinkers": ["David Papineau"],
+    "associated_thinkers": [
+      "David Papineau"
+    ],
     "category": "Matérialisme",
-    "subcategory": "Philosophique",
+    "subcategory": "Identité esprit-cerveau",
     "core_identity_tagline": "« La conscience comme identité esprit-cerveau fondamentale »",
     "classification_tags": [
       "physicalism",
@@ -51,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "Si les états conscients sont fondamentalement identiques à des configurations spécifiques de matière et de processus, alors ces états doivent être reproductibles dans tout support capable de réaliser les configurations physiques et la complexité nécessaires, y compris les systèmes artificiels."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience dépend strictement de l'organisation spécifique des processus cérébraux biologiques et lui est identique. Sa persistance est impossible après la cessation irréversible de ce système physique."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "En tant que théorie ancrée dans un physicalisme rigoureux, elle envisage l'esprit comme un produit de processus naturels, ne fournissant aucune base pour un sens ou une finalité cosmique ou transcendante au-delà de celle créée par l'action humaine."
     },
     "virtual_immortality": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "Puisque la conscience est l'organisation physique spécifique du cerveau, une duplication parfaite (téléchargement) de cette structure dans un nouveau substrat physique suffit, en principe, à préserver l'identité consciente."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "Extension"
       },
       {

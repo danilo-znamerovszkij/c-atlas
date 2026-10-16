@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "Teoría de la Identidad Mente-Cerebro",
     "summary": "Esta teoría filosófica clásica de la conciencia postula que los estados, eventos o procesos mentales son estrictamente idénticos a estados, eventos o procesos específicos que ocurren en el cerebro. Funciona como el ejemplo paradigmático del materialismo al sostener que la conciencia es enteramente física.",
-    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "associated_thinkers": [
+      "J.J.C. Smart",
+      "U.T. Place",
+      "Herbert Feigl"
+    ],
     "category": "Materialismo",
-    "subcategory": "Filosófica",
+    "subcategory": "Filosófico",
     "core_identity_tagline": "Los Estados Mentales Son Estados Cerebrales",
     "classification_tags": [
       "identity",
@@ -49,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "Dado que la TIMC afirma que la conciencia es reducible a procesos físicos, si esos procesos físicos específicos pueden reproducirse en un sustrato artificial no biológico, la conciencia queda necesariamente instanciada."
     },
     "survival_beyond_death": {
@@ -57,18 +61,18 @@
       "rationale": "La conciencia es estrictamente idéntica a la integridad funcional y física del cerebro; su disolución con la muerte provoca la cesación permanente del yo consciente."
     },
     "meaning_and_purpose": {
-      "stance": "Solo humanista",
+      "stance": "Humanistic only",
       "rationale": "Como teoría materialista, la TIMC no implica sentido ni propósito cósmico último. El sentido y el valor son propiedades emergentes creadas por agentes humanos conscientes."
     },
     "virtual_immortality": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "Si la conciencia (el patrón físico preciso) puede escanearse y duplicarse/subirse perfectamente a un nuevo medio físico (digital o de otro tipo), la teoría garantiza la supervivencia del yo consciente idéntico."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Papineau’s Mind-Brain Identity",
+        "name": "Papineau's Mind-Brain Identity",
         "relationship": "Extensión"
       },
       {
@@ -80,7 +84,7 @@
         "relationship": "Crítica"
       },
       {
-        "name": "Tye’s Contingentism",
+        "name": "Tye's Contingentism",
         "relationship": "Influencia"
       }
     ],

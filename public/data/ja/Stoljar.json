@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "ストルジャーの認識論的見解と非標準的物理主義",
     "summary": "この理論は無知仮説を導入することによって反唯物論的論証に抗して物理主義を擁護する。無知仮説とは、意識に関わるある種の物理的事実ないし性質について、われわれが根本的に無知であると措定するものである。意識と物理主義のあいだにあるとされる両立性の問題は、物理主義そのものの存在論的欠陥ではなく、われわれの現在の認識論的限界から生じると論じる。",
-    "associated_thinkers": ["Daniel Stoljar"],
+    "associated_thinkers": [
+      "Daniel Stoljar"
+    ],
     "category": "唯物論",
     "subcategory": "哲学的",
     "core_identity_tagline": "認識論的無知を通じて擁護される物理主義",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "物理主義の擁護として、この理論は意識が物理的であると主張する。したがって原理的には、必要な物理的事実（現在未知のものも含む）を実現するいかなる人工システムも意識を持つはずである。"
     },
     "survival_beyond_death": {
-      "stance": "いいえ",
+      "stance": "No",
       "rationale": "意識は物理的事実と過程に依存しており、根源的ではない。物理的基盤（脳）が破壊されると、物理主義と整合的に、意識は存在しなくなる。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "その根底にある物理主義的な立場と整合的に、この理論は究極的な宇宙的意味や目的の基盤を提供しない。意味は意識的な行為者によって構成される。"
     },
     "virtual_immortality": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "もし意識が完全に物理的であるならば、複雑な物理的基盤（無知仮説で同定される未知の性質を含む）を非生物学的な媒体において複製できる限り、一人称的な心的自己は原理的にアップロード可能である。"
     }
   },
@@ -77,11 +79,11 @@
         "relationship": "批判／応答"
       },
       {
-        "name": "Standard Physicalism",
+        "name": "Materialism",
         "relationship": "批判"
       },
       {
-        "name": "Kind’s Dualism 2.0",
+        "name": "Kind's Dualism 2.0",
         "relationship": "論争相手／共同企図"
       }
     ],

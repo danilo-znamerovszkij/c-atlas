@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ライカンのホムンクルス的機能主義",
     "summary": "この理論は、意識が全面的に物理的かつ機能的であり、階層的に組織された情報処理システムから成ると主張する。意識は特に二階の表象から生じ、システム自身の下位の心的状態へと向けられた内的感覚メカニズムとして機能する。",
-    "associated_thinkers": ["William Lycan"],
+    "associated_thinkers": [
+      "William Lycan"
+    ],
     "category": "唯物論",
-    "subcategory": "表象主義的",
+    "subcategory": "高階",
     "core_identity_tagline": "「二階表象と内的注意としての意識」",
     "classification_tags": [
       "functionalism",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "可",
+      "stance": "Yes",
       "rationale": "機能主義的理論として、人工システムが必要な機能的組織と二階の表象能力を実現できるなら、それらは原理的に意識的でなければならない。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "この理論は厳格に唯物論的であり、意識は機能的に組織された物理的な脳の内部で全面的に実現されると措定する。したがって身体の死後に存続することはできない。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "その唯物論的基盤と整合的に、意識は志向性と行為主体性を可能にし、生物学的システム自身が作り出す意味を提供するが、いかなる究極的な宇宙的目的も含意しない。"
     },
     "virtual_immortality": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識は機能的組織と表象的内容によって定義されるため、神経パターンと経路を非生物学的媒体へ完全に機能的に複製（アップロード）すれば、原理的に一人称的な心的自己が保存されるであろう。"
     }
   },
@@ -73,7 +75,7 @@
         "relationship": "重複／拡張"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "拡張／対比"
       },
       {
@@ -81,7 +83,7 @@
         "relationship": "分類／基盤"
       },
       {
-        "name": "Jackson’s Representationalism and the Knowledge Argument",
+        "name": "Jackson's Representationalism and the Knowledge Argument",
         "relationship": "批判"
       }
     ],

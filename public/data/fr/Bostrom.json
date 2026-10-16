@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Le fonctionnalisme computationnel de Bostrom",
+    "summary": "Nick Bostrom soutient que la conscience dépend du calcul, et non du matériau qui l’exécute, si bien que des esprits pourraient fonctionner sur des substrats autres que les neurones biologiques. Il développe cette thèse moins comme une théorie de ce qu’est la conscience que comme prémisse de son argument de simulation, de son raisonnement anthropique et de l’éthique des esprits artificiels.",
+    "associated_thinkers": [
+      "Nick Bostrom"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Computationnel",
+    "core_identity_tagline": "La conscience comme calcul indépendant du substrat",
+    "classification_tags": [
+      "functionalism",
+      "simulation argument",
+      "substrate independence",
+      "anthropic reasoning",
+      "ai ethics"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est le produit des bons processus computationnels. Les états mentaux sont définis par leurs rôles fonctionnels, par ce qu’ils font, plutôt que par ce dont ils sont faits.",
+    "ontological_status": "Physicalisme (fonctionnalisme computationnel)",
+    "mind_body_relationship": "Réalisabilité multiple. Bostrom écrit que si les esprits humains peuvent être simulés et que les esprits simulés peuvent être conscients, notre propre conscience pourrait être réalisée dans un substrat autre que les neurones biologiques.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible (à partir de l’organisation computationnelle)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "Les processus computationnels et le substrat physique qui les implémente, biologique ou artificiel.",
+    "epistemic_access": "Par la neuroscience computationnelle et le raisonnement philosophique sur les observateurs, les probabilités et la simulation.",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménale (en tant que moralement significative) ; degrés de conscience ; statut d’observateur",
+    "distinctive_mechanism_or_principle": "Indépendance au substrat : le même calcul produit les mêmes états mentaux quel que soit le matériel qui l’exécute.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Partout où s’exécute le calcul pertinent, dans des cerveaux, des ordinateurs ou un monde simulé.",
+    "causation_and_functional_role": "Être conscient façonne le raisonnement. Les effets de sélection d’observateur contraignent ce qu’un observateur conscient devrait croire sur l’univers, y compris s’il vit dans une simulation.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Si les esprits peuvent être simulés et que les esprits simulés peuvent être conscients, la conscience ne requiert pas de neurones biologiques.",
+      "L’argument de simulation n’est cohérent que si la conscience est computationnelle, ce qui fait du computationnalisme une condition préalable de celui-ci.",
+      "Bostrom écrit que le statut moral d’une entité dépend au moins en partie de la question de savoir si elle est consciente et à quel degré, ce qui implique que la conscience se présente par degrés.",
+      "Bostrom ne soutient pas que nous vivons dans une simulation ; son computationnalisme repose sur d’autres fondements, notamment la neuroscience computationnelle."
+    ],
+    "basis_of_belief_or_evidence_type": "Argumentation philosophique et probabiliste, informée par la neuroscience computationnelle."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spéculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Bostrom suppose le fonctionnalisme computationnel plus qu’il ne l’argumente, et il n’explique pas pourquoi le calcul devrait produire l’expérience.",
+    "open_questions_and_limitations": "La question de savoir si les esprits artificiels peuvent être conscients, et s’ils devraient avoir des droits, est soulevée par cette thèse sans être tranchée. Le compte rendu de Bostrom relève davantage de l’épistémologie que de la métaphysique.",
+    "ontological_coherence": "Compatible avec le fonctionnalisme dominant et avec ses travaux sur la simulation, le risque existentiel et l’émulation cérébrale complète."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "Si la conscience est un calcul indépendant du substrat, les systèmes artificiels qui exécutent les bons processus seraient conscients, et Bostrom lie à cela leur statut moral."
+    },
+    "survival_beyond_death": {
+      "stance": "Conditional",
+      "rationale": "La mort biologique met fin à la conscience, sauf si son calcul est reproduit ailleurs ; si nous sommes simulés, ce qui nous arrive dépend des simulateurs."
+    },
+    "meaning_and_purpose": {
+      "stance": "Uncertain",
+      "rationale": "Si notre monde est une simulation construite par une civilisation avancée, il peut avoir une finalité fixée par ses créateurs, mais Bostrom ne prétend pas la connaître."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "L’indépendance au substrat implique qu’un esprit simulé pourrait prolonger la conscience d’une personne, conformément à l’intérêt de Bostrom pour l’émulation cérébrale complète."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Putnam’s Machine Functionalism",
+        "relationship": "Fondement"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Recoupement"
+      },
+      {
+        "name": "Agüera y Arcas’s Computational Functionalism",
+        "relationship": "Recoupement"
+      },
+      {
+        "name": "Searle's Biological Naturalism",
+        "relationship": "Opposition"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Bostrom’s Computational Functionalism (Landscape of Consciousness), Nick Bostrom",
+        "year": 2003
+      }
+    ]
+  }
+}

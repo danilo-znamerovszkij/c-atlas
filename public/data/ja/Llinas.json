@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "リナスの振動による「心性状態」理論",
     "summary": "この理論は、意識的な「心性状態（mindness state）」が根本的にはニューロン内部の電気的振動と、それによって生じる離れた神経群間の同時的活動によって生成され、それが認知の神経生物学的根源をなすと措定する。経験される実在とは、こうした内的振動によって生成される一種の仮想現実であり、それは主として予測を可能にする機能を果たすと示唆する。",
-    "associated_thinkers": ["Rodolfo Llinas"],
-    "category": "唯物論の諸理論",
-    "subcategory": "電磁場",
+    "associated_thinkers": [
+      "Rodolfo Llinas"
+    ],
+    "category": "唯物論",
+    "subcategory": "電磁的",
     "core_identity_tagline": "「ニューロンの振動と予測としての意識」",
     "classification_tags": [
       "neurobiology",
@@ -53,38 +55,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識が振動の同期と予測という計算的機能に根ざしているなら、これらの動態は原理的に、物理主義的立場に従って、洗練された人工システムにおいて実現ないしシミュレートされうる。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は脳内の生物学的な神経メカニズム（振動）によって生成される状態として定義されており、生物学的基体の死後の存続を排除する。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "進化した神経生物学的メカニズムとして、意識の目的は主として機能的（予測と生存）であり、究極的な宇宙的意味を退けるデフレ的な唯物論の見解と整合的である。"
     },
     "virtual_immortality": {
-      "stance": "可",
+      "stance": "Yes",
       "rationale": "意識が振動する神経活動のパターンによって全面的に説明されるなら、これらの動的パターンを非生物学的媒体へ完全に複製ないしアップロードすることは一人称的自己を保存し、仮想的不死を可能にするはずである。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Electromagnetic Field Theories",
+        "name": "Electromagnetic",
         "relationship": "カテゴリー的帰属／重複"
       },
       {
-        "name": "Predictive Processing Theories",
+        "name": "Predictive Theories (Top-Down)",
         "relationship": "重複／拡張"
       },
       {
-        "name": "Recurrent Processing Theory (Lamme)",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "重複"
       },
       {
-        "name": "Dendritic Integration Theory (Aru et al.)",
+        "name": "Dendritic Integration Theory",
         "relationship": "重複"
       }
     ],

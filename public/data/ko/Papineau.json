@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "파피노의 심뇌 동일론",
     "summary": "이 이론은 의식 상태가 근본적으로 그리고 문자 그대로 특정한 뇌 상태와 동일하다고 주장함으로써 신경생물학적 물리주의를 옹호한다. 이 동일성은 과학적 추론을 통해 후험적으로 발견되며, 오래된 '설명적 간극'은 깊이 뿌리내린 이원론적 직관이 낳은 오도적 산물이라고 본다.",
-    "associated_thinkers": ["David Papineau"],
+    "associated_thinkers": [
+      "David Papineau"
+    ],
     "category": "유물론",
-    "subcategory": "철학적",
+    "subcategory": "심뇌 동일성",
     "core_identity_tagline": "‘근본적 심뇌 동일성으로서의 의식’",
     "classification_tags": [
       "physicalism",
@@ -51,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "의식 상태가 물질과 과정의 특정한 배열과 근본적으로 동일하다면, 이러한 상태는 필요한 물리적 배열과 복잡성을 실현할 수 있는 어떤 매체에서도, 인공 체계를 포함하여, 재현 가능해야 한다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "의식은 생물학적 뇌 과정의 특정한 조직에 엄밀히 의존하며 그것과 동일하다. 그 물리적 체계가 되돌릴 수 없이 정지한 이후의 지속은 불가능하다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "엄밀한 물리주의에 뿌리를 둔 이론으로서 마음을 자연적 과정의 산물로 보며, 인간의 행위 주체성이 창출한 것 이외의 우주적·초월적 의미나 목적에 대한 근거는 제공하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "의식이 뇌의 특정한 물리적 조직인 이상, 이 구조를 새로운 물리적 기질로 완전하게 복제(업로드)하는 것은 원리상 의식적 동일성을 보존하기에 충분하다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "확장"
       },
       {

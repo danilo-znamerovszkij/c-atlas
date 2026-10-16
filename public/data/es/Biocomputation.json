@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Computacionalismo biológico de Malinkovic y Aru",
+    "summary": "Milinkovic y Aru sostienen que la conciencia depende de un tipo de computación que solo realizan los sustratos biológicos, en la que las propiedades físicas, energéticas y químicas del tejido forman parte de la propia computación. Bajo límites metabólicos estrictos, el cerebro procesa información a escalas que no pueden separarse, y mezcla picos discretos con procesos continuos como los potenciales graduados y los campos eléctricos. Los sistemas digitales separan el algoritmo del hardware, así que, desde esta perspectiva, carecen de lo que la conciencia requiere.",
+    "associated_thinkers": [
+      "Borjan Milinkovic",
+      "Jaan Aru"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Computacional",
+    "core_identity_tagline": "La conciencia como computación biológica multiescala ligada al sustrato",
+    "classification_tags": [
+      "substrate dependence",
+      "multiscale",
+      "metabolism",
+      "hybrid computation",
+      "artificial consciousness"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia depende de una computación biológica en la que el sustrato es el algoritmo. Los potenciales de membrana, los flujos de iones, la difusión química y los campos realizan el cómputo, sin ninguna capa que separe el software del hardware.",
+    "ontological_status": "Fisicalismo (computacionalismo biológico)",
+    "mind_body_relationship": "El procesamiento consciente está ligado a la dinámica física concreta del tejido vivo. Los autores sitúan su visión frente al funcionalismo computacional, que hace irrelevante el medio, y ofrecen al naturalismo biológico una explicación computacional.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia mediante clausura entre escalas, en la que las escalas inferiores generan las superiores mientras que la dinámica de las escalas superiores restringe a las inferiores («codeterminación dinamicoestructural»)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "Neuronas, dendritas, potenciales graduados, flujos de iones, campos eléctricos extracelulares, moléculas de señalización subcelulares como la proteína quinasa A, y el presupuesto metabólico que les da forma.",
+    "epistemic_access": "A través de la neurociencia de la dinámica neuronal multiescala y mediante la comparación de arquitecturas biológicas y digitales.",
+    "constituents_and_structure": "Una heterarquía: picos discretos montados sobre potenciales graduados de membrana, flujos de iones y potenciales de campo, que a su vez se apoyan en una anatomía cortical estratificada, sin una escala única privilegiada."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "El procesamiento consciente en general; las condiciones para la conciencia artificial",
+    "distinctive_mechanism_or_principle": "Inseparabilidad de escalas más computación híbrida. Los cómputos de una escala no pueden separarse de los de otras, y una «aritmética continua» de valores continuos corre en paralelo con la emisión discreta de picos.",
+    "dynamics_of_emergence": "Los procesos lentos subcelulares acumulan evidencia durante intervalos más largos y desencadenan transiciones discretas a nivel de red. La proteína quinasa A, por ejemplo, compara la actividad interna con la de las neuronas postsinápticas y señala cuándo se alcanza un objetivo de red.",
+    "location_and_distribution": "Distribuida a través de las escalas del cerebro, desde la química subcelular y las dendritas hasta los campos y las redes corticales.",
+    "causation_and_functional_role": "Los campos extracelulares transportan información que guía y sincroniza la emisión neuronal mediante el acoplamiento efáptico, y la dinámica de las escalas superiores restringe la actividad de las inferiores.",
+    "integration_or_binding": "La información se integra entre escalas mediante la agregación de eventos discretos microscópicos en dinámicas continuas macroscópicas, conservando las interdependencias entre escalas.",
+    "information_flow_or_representation": "Las dendritas realizan operaciones no lineales localmente y agregan las entradas antes de que lleguen al soma. Las neuronas no espigantes transmiten señales graduadas que portan más información por segundo que los costosos picos.",
+    "evolutionary_account": "La organización del cerebro evolucionó bajo un presupuesto energético estricto de unos 20 vatios, lo que lo obligó a maximizar el cómputo por unidad de energía mediante la agregación entre escalas y la integración entre ellas.",
+    "core_claims_and_evidence": [
+      "Las restricciones metabólicas son fuerzas constitutivas que dan forma a la manera en que los sistemas neuronales procesan, transmiten e integran información entre escalas.",
+      "Los sistemas biológicos computan de forma heterárquica, con codeterminación continua entre escalas, a diferencia de las capas de abstracción unidireccionales de las máquinas digitales.",
+      "El tejido neuronal combina picos discretos con procesos continuos como los potenciales graduados y los efectos de campo efáptico.",
+      "Las máquinas de von Neumann, incluidos los grandes modelos de lenguaje, separan la memoria, el procesamiento y el control, y desacoplan la información del sustrato, así que carecen de la estructura causal que requiere la conciencia."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurociencia teórica, a partir de hallazgos sobre computación dendrítica, acoplamiento efáptico y energética neuronal"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente contrastable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La visión desafía directamente al funcionalismo computacional, cuyos defensores sostienen que basta con el patrón adecuado de procesamiento de información, con independencia del medio.",
+    "open_questions_and_limitations": "Los autores señalan que aún no existe un marco coherente que explique en qué se diferencia la computación biológica de la digital y por qué esa diferencia importa para la conciencia, algo que su propuesta pretende aportar. No especifica cómo la computación biológica multiescala produce la experiencia subjetiva.",
+    "ontological_coherence": "Consistente con el fisicalismo y cercana al naturalismo biológico, aunque conserva un vocabulario computacional."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "La IA digital actual, incluidos los grandes modelos de lenguaje, no puede ser consciente. Milinkovic y Aru admiten que sustratos biomiméticos con dinámicas híbridas, multiescala y limitadas energéticamente podrían serlo."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Dado que la conciencia depende de la dinámica limitada energéticamente del tejido vivo, se sigue de la visión que termina cuando esa dinámica se detiene."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "Una simulación digital modela las escalas del cerebro como objetos matemáticos separados y no puede replicar la computación ligada al sustrato que los autores consideran necesaria."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Searle's Biological Naturalism",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Ephaptic Coupling",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Dendritic Integration Theory",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Biological Computationalism (Landscape of Consciousness entry), Borjan Milinkovic and Jaan Aru",
+        "year": 2025
+      }
+    ]
+  }
+}

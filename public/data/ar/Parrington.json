@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "الوعي المدفوع باللغة والأدوات لدى بارينغتون",
     "summary": "تؤكّد هذه النظرية أن الوعي بالذات لدى الإنسان يمثّل قفزة تطورية نوعية، مدفوعةً في المقام الأول بالتطور المشترك للغة المعقّدة والفكر المفاهيمي والاستخدام المتطوّر للأدوات. ويُفترَض الوعي ظاهرةً حقيقية موحّدة نابعةً من التفاعل والدور الرابط للنشاط الدماغي المتذبذب، مضخَّمةً بقدرات معرفية أعلى مرتبةً تنفرد بها البشرية.",
-    "associated_thinkers": ["John Parrington"],
-    "category": "نظريات المادية",
-    "subcategory": "العلاقات باللغة",
+    "associated_thinkers": [
+      "John Parrington"
+    ],
+    "category": "المادية",
+    "subcategory": "اللغة",
     "core_identity_tagline": "الوعي البشري بوصفه وحدةً مدفوعة باللغة والأدوات",
     "classification_tags": [
       "evolution",
@@ -52,34 +54,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "بوصفها نظرية مادية/فيزيائية تشدّد على آليات حوسبية وبنيوية (كالرموز المجرّدة وشبكات الربط)، فإن الوعي قابل للتحقق في الأنظمة الاصطناعية القادرة على محاكاة التنظيم الوظيفي والمعالجة الرمزية اللازمين."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "الوعي نتاج الدماغ البيولوجي المُحوَّل ودارته العصبية بالكامل؛ ولذا ينطفئ الوعي الشخصي عند موت الجسد وانحلال الدماغ."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "الهدف 'تفسير مادي للوعي البشري'، بما يستلزم أن الوعي ظاهرة متطورة بلا غاية كونية، فيترك توليد المعنى والقيمة للخلق البشري وحده."
     },
     "virtual_immortality": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "إذا أمكن مضاعفةً تامة للآليات الفيزيائية المولِّدة للوعي (الأنماط العصبية، المعالجة الرمزية، ديناميكا الموجات) في وسط غير بيولوجي، فينبغي أن يكون الخلود الافتراضي للذات الذاتية ممكنًا من حيث المبدأ."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Deacon’s Symbolic Communication (Human Consciousness)",
+        "name": "Deacon's Symbolic Communication (Human Consciousness)",
         "relationship": "تداخل/امتداد"
       },
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
         "relationship": "سياق/تباين"
       },
       {
-        "name": "Language Relationships",
+        "name": "Language",
         "relationship": "عضو في الفئة"
       }
     ],

@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "프린츠의 신경기능주의: 주의가 경험을 낳는다",
     "summary": "이 이론은 의식이 주의(attention)로부터 발생한다고 주장하며, 주의는 처리 과정의 중간 단계에서 지각 정보가 기억 체계로 흘러가도록 촉진한다. 이 과정은 근본적으로 동기화된 신경 발화에 의존하며, 자극에 대한 통합적이고 관점을 보존하는 표상을 산출한다.",
-    "associated_thinkers": ["Jesse Prinz"],
+    "associated_thinkers": [
+      "Jesse Prinz"
+    ],
     "category": "유물론",
     "subcategory": "신경생물학적",
     "core_identity_tagline": "주의된 중간 단계 표상으로서의 의식",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "이 이론은 의식을 주의를 통해 정보를 기억에 이용 가능하게 만드는 특정한 신경기능적 과정으로 규정하므로, 이러한 계산적 기능은 충분히 진보한 비생물학적 체계에서도 달성될 수 있어야 한다 ."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "전적으로 유물론 안에 포함된 이론이므로, 의식은 뇌의 생물학적 조직과 과정(예: 동기화된 신경 발화)에 전적으로 의존하여 생성되며 뇌가 파괴되면 소멸한다 ."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "의식의 기능은 실용적이다 — 유연한 행동을 위해 지각 정보를 이용 가능하게 만드는 것이다 . 이는 통상 의미와 목적이 우주적으로 주어진 것이 아니라 스스로 창출되는 것임을 함의하는 유물론적 패러다임 안에서 작동한다 ."
     },
     "virtual_immortality": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "신경기능주의에 근거를 두고 완전한 유물론적 설명을 지향한다는 점을 고려하면 , 주의에 기반한 표상 체계를 비생물학적 기질에서 완벽히 기능적으로 복제할 경우 원래의 일인칭 의식적 자아가 보존되어야 한다 ."
     }
   },
@@ -74,7 +76,7 @@
         "relationship": "확장"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "양립 가능"
       },
       {
@@ -82,7 +84,7 @@
         "relationship": "비판"
       },
       {
-        "name": "Recurrent Processing Theory",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "중첩"
       }
     ],

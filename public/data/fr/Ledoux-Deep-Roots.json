@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La théorie des racines profondes de la conscience de LeDoux",
     "summary": "Cette théorie envisage la conscience et le comportement humains à travers le prisme de l'histoire évolutive profonde, avançant que la conscience est apparue relativement récemment comme un produit sophistiqué des circuits cognitifs corticaux. Elle retrace comment les capacités de survie fondamentales, héritées des tout premiers organismes, ont été renforcées par l'évolution des systèmes nerveux, menant finalement à la conscience.",
-    "associated_thinkers": ["Joseph LeDoux"],
-    "category": "Théories du Matérialisme",
-    "subcategory": "Évolution Phylogénétique",
+    "associated_thinkers": [
+      "Joseph LeDoux"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Phylogénétique",
     "core_identity_tagline": "La conscience comme produit émergent de mécanismes de survie renforcés.",
     "classification_tags": [
       "evolution",
@@ -48,19 +50,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "En tant que théorie matérialiste centrée sur des mécanismes biologiques émergents, si les fonctions évolutives et de survie nécessaires peuvent être reproduites dans un substrat artificiel, la conscience de l'IA devrait être possible en principe."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience dépend explicitement du cerveau biologique évolué et de ses circuits cognitifs corticaux, qui cessent de fonctionner à la mort."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "Conformément au Matérialisme, la conscience remplit principalement la fonction biologique de renforcer la survie et l'épanouissement, sans offrir de sens ou de téléologie cosmique inhérent au-delà de ce que les humains créent eux-mêmes."
     },
     "virtual_immortality": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "Puisque la conscience est comprise comme purement physique et émergente d'un traitement biologique complexe de l'information, la duplication du schéma neuronal devrait, en principe, permettre l'immortalité virtuelle."
     }
   },
@@ -71,11 +73,11 @@
         "relationship": "Extension"
       },
       {
-        "name": "Dennett’s Evolution of Minds",
+        "name": "Dennett's Evolution of Minds",
         "relationship": "Chevauchement"
       },
       {
-        "name": "Mitchell’s Free Agents",
+        "name": "Mitchell's Free Agents",
         "relationship": "Compatible"
       },
       {

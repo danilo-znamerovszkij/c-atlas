@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "汎原意識論",
     "summary": "汎原意識論は汎心論の一変種であり、基本的な物理的存在者が、それ自体は意識的ではないが「原現象的」である性質をもつと主張する。これらの原現象的性質は、（脳のような）複雑な構造において結合して、創発的な現象的意識を生み出さねばならない。",
-    "associated_thinkers": ["David Chalmers", "Philip Goff"],
+    "associated_thinkers": [
+      "David Chalmers",
+      "Philip Goff"
+    ],
     "category": "汎心論",
-    "subcategory": "汎原意識論",
+    "subcategory": "汎原心論",
     "core_identity_tagline": "原現象的性質が結合して意識を生み出す",
     "classification_tags": [
       "protophenomenal",
@@ -51,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "おそらく肯定",
+      "stance": "Likely",
       "rationale": "意識が基本的性質の結合メカニズムから生じるなら、これらの性質をもつ物理的材料から構築された人工システムも、必要な結合構造を設計できる限りにおいて、意識をもちうる。"
     },
     "survival_beyond_death": {
-      "stance": "ありそうにない（可能性は低い）",
+      "stance": "Unlikely",
       "rationale": "現象的意識は創発的な複雑構造（例えば脳）に結びついている。この構造が死において解体するとき、複雑な意識は消え、存続する非意識的な原現象的基盤のみが残る。"
     },
     "meaning_and_purpose": {
-      "stance": "可能",
+      "stance": "Uncertain",
       "rationale": "汎心論の一変種として、実在に基本的な心的側面を措定し、厳密に唯物論的な説明を超えた宇宙的意味ないし価値の可能性を示唆する。"
     },
     "virtual_immortality": {
-      "stance": "おそらく肯定",
+      "stance": "Likely",
       "rationale": "遍在する原現象的性質を現象的自己へと結合する規則を理解し、非生物学的基盤において完全に複製できるなら、仮想的不死は達成可能なはずである。"
     }
   },

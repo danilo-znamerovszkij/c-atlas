@@ -2,7 +2,11 @@
   "id_and_class": {
     "theory_title": "심뇌 동일론",
     "summary": "이 고전적인 의식 철학 이론은 심적 상태, 사건, 과정이 뇌에서 일어나는 특정한 상태, 사건, 과정과 엄밀히 동일하다고 본다. 의식이 전적으로 물리적이라고 주장함으로써 유물론의 전형으로 기능한다.",
-    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "associated_thinkers": [
+      "J.J.C. Smart",
+      "U.T. Place",
+      "Herbert Feigl"
+    ],
     "category": "유물론",
     "subcategory": "철학적",
     "core_identity_tagline": "심적 상태는 뇌 상태이다",
@@ -49,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "심뇌 동일론은 의식이 물리적 과정으로 환원 가능하다고 주장하므로, 그 특정한 물리적 과정이 인공적·비생물학적 기질에서 재현될 수 있다면 의식은 필연적으로 구현된다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "의식은 뇌의 기능적·물리적 온전성과 엄밀히 동일하며, 죽음에 따른 그 해체는 의식적 자아의 영구적 소멸로 귀결된다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "유물론 이론으로서 심뇌 동일론은 궁극적인 우주적 의미나 목적을 함축하지 않는다. 의미와 가치는 의식적인 인간 행위자가 창출한 창발적 속성이다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "의식(정확한 물리적 패턴)이 스캔되어 새로운 물리적 매체(디지털이든 그 밖의 것이든)로 완전하게 복제/업로드될 수 있다면, 이 이론은 동일한 의식적 자아의 존속을 보장한다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Papineau’s Mind-Brain Identity",
+        "name": "Papineau's Mind-Brain Identity",
         "relationship": "확장"
       },
       {
@@ -80,7 +84,7 @@
         "relationship": "비판"
       },
       {
-        "name": "Tye’s Contingentism",
+        "name": "Tye's Contingentism",
         "relationship": "영향"
       }
     ],

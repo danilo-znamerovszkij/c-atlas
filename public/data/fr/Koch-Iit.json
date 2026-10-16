@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "Koch compare la théorie de l'information intégrée au panpsychisme",
     "summary": "Cette entrée présente la comparaison établie par Christof Koch entre la théorie de l'information intégrée (IIT) et le panpsychisme, affirmant que les deux partagent l'intuition selon laquelle la conscience est une propriété intrinsèque et fondamentale de la réalité. Toutefois, l'IIT est présentée comme supérieure car elle articule des critères précis (quantifiés par Phi, $Phi$) pour la conscience, résout le problème de la combinaison grâce au postulat d'exclusion, et propose un programme de recherche empirique concret, contrairement au panpsychisme traditionnel.",
-    "associated_thinkers": ["Christof Koch", "Giulio Tononi"],
-    "category": "Théorie de l'information intégrée",
-    "subcategory": "Comparaison/Critique",
+    "associated_thinkers": [
+      "Christof Koch",
+      "Giulio Tononi"
+    ],
+    "category": "Info intégrée",
+    "subcategory": "Comparaison/critique",
     "core_identity_tagline": "L'IIT : une théorie fondamentalement consciente qui résout le problème de la combinaison du panpsychisme",
     "classification_tags": [
       "iit",
@@ -56,19 +59,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "Koch soutient que l'IIT s'oppose fondamentalement à la vision fonctionnaliste nécessaire à la conscience de l'IA, affirmant que les ordinateurs numériques ne seront jamais sentients car la structure de leur matériel entraîne une information intégrée négligeable ($Phi$), indépendamment de leur puissance de calcul ou de leur intelligence."
     },
     "survival_beyond_death": {
-      "stance": "Incertain",
+      "stance": "Uncertain",
       "rationale": "La survie dépend de la nature inconnue et de la manipulabilité technologique de la structure non réductible de la réalité (espace des qualia) postulée par l'IIT. Bien qu'une certaine forme de persistance ne soit pas exclue, la survie à la première personne reste une question ouverte."
     },
     "meaning_and_purpose": {
-      "stance": "Incertain",
+      "stance": "Uncertain",
       "rationale": "Bien que les structures spéculatives et innombrables de dimension n de l'IIT soient suffisamment nouvelles pour suspendre le jugement quant au sens ultime, la mesure et l'analyse fondamentales de la conscience véhiculées par la théorie n'offrent pas de sens, de but ou de valeur ultimes."
     },
     "virtual_immortality": {
-      "stance": "Incertain",
+      "stance": "Uncertain",
       "rationale": "Le téléversement de l'esprit est impossible si la conscience est une structure associée à la physique de systèmes complexes (comme le soutient l'IIT) plutôt qu'un simple algorithme. Le téléversement produirait un « faux profond » dépourvu d'expérience subjective, à moins qu'une technologie avancée ne puisse manipuler la structure-$Phi$ causant la conscience."
     }
   },
@@ -79,7 +82,7 @@
         "relationship": "Intuition partagée/Critique"
       },
       {
-        "name": "Computational Functionalism",
+        "name": "Computational",
         "relationship": "Critique (conscience non computable)"
       },
       {
@@ -87,7 +90,7 @@
         "relationship": "Critique (Koch réfute l'affirmation de Goff selon laquelle les aspects qualitatifs ne peuvent être saisis par des cadres quantitatifs.)"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "Contraste (implicite, concernant la localisation et la nécessité de la récurrence/diffusion globale)"
       }
     ],

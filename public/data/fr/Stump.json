@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Le dualisme thomiste de Stump",
     "summary": "Cette théorie présente le compte rendu que fait saint Thomas d'Aquin de l'âme humaine comme une forme de dualisme non cartésien. Elle avance que l'âme est une composante essentiellement immatérielle ou configurationnelle qui est néanmoins réalisée au sein de composants matériels, permettant de concilier la matérialité humaine avec la survie de l'esprit après la mort corporelle.",
-    "associated_thinkers": ["Eleonore Stump", "St. Thomas Aquinas"],
-    "category": "Dualismes",
+    "associated_thinkers": [
+      "Eleonore Stump",
+      "St. Thomas Aquinas"
+    ],
+    "category": "Dualisme",
     "subcategory": "Philosophique",
     "core_identity_tagline": "Âme immatérielle non cartésienne réalisée dans la matière",
-    "classification_tags": ["dualism", "thomism", "non-Cartesian", "soul"]
+    "classification_tags": [
+      "dualism",
+      "thomism",
+      "non-Cartesian",
+      "soul"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "La conscience, ou l'âme/esprit humain, est une substance essentiellement immatérielle ou configurationnelle qui est réalisée dans des composants matériels (le corps).",
@@ -45,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Conditionnelle",
+      "stance": "Conditional",
       "rationale": "Si la conscience est liée à une âme essentiellement immatérielle ou configurationnelle réalisée dans la matière biologique, les systèmes artificiels construits uniquement à partir de composants physiques manqueraient probablement de cette composante non physique nécessaire, à moins que les lois psychophysiques générant l'âme ne puissent s'appliquer à des substrats non biologiques."
     },
     "survival_beyond_death": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "La théorie est explicitement construite pour accommoder la persistance de l'esprit/âme, qui est le siège de la conscience de la personne, après la dissolution du corps."
     },
     "meaning_and_purpose": {
-      "stance": "Cosmique/théologique",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Le cadre est enraciné dans la philosophie scolastique chrétienne, intégrant les doctrines bibliques sur la création et le retour de l'esprit à Dieu, fournissant ainsi un sens et une finalité ultimes."
     },
     "virtual_immortality": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "En tant que variante du dualisme des substances requérant une substance non physique (l'âme), la duplication de la seule structure physique (comme dans l'immortalité virtuelle) omettrait la composante non physique essentielle nécessaire à la continuité du soi."
     }
   },
@@ -68,11 +76,11 @@
         "relationship": "Distinction (alors que le dualisme des propriétés nie le dualisme des substances, le dualisme thomiste cherche à transcender la dichotomie traditionnelle entre substance et réductionnisme matériel.)"
       },
       {
-        "name": "Substance Dualism (Cartesian)",
+        "name": "Dualism",
         "relationship": "Critique"
       },
       {
-        "name": "Jaworski’s Hylomorphism",
+        "name": "Jaworski's Hylomorphism",
         "relationship": "Chevauchement"
       }
     ],

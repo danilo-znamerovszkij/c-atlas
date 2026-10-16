@@ -9,7 +9,7 @@
       "J.J.C. Smart"
     ],
     "category": "유물론",
-    "subcategory": "표상주의",
+    "subcategory": "일차",
     "core_identity_tagline": "‘우연적 물리적 동일성으로서의 의식’",
     "classification_tags": [
       "physicalism",
@@ -55,34 +55,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 우리 세계에서 물리적/기능적/표상적 상태와 우연적으로 동일하고 이러한 상태가 비생물학적 체계에서 구현될 수 있다면, AI 의식은 원리적으로 가능하다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "의식은 현실 세계에서 물리적 뇌 과정에 의존하며 그것과 동일하다. 뇌의 해체는 일인칭적 의식적 자아의 종말을 수반한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한정",
+      "stance": "Humanistic only",
       "rationale": "유물론과 환원적 물리주의에 뿌리를 둔 이론으로서, 의식적인 인간 행위자가 만들어내는 것을 넘어선 궁극적 우주적 의미나 목적의 근거를 제공하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "현상적 의식이 물리적 상태(R)와 동일시되므로, 디지털 업로딩 등을 통해 R를 복제하면 Q도 성공적으로 업로드되어 원리적으로 가상적 불멸이 달성 가능해진다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "양립 가능"
       },
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "영향"
       },
       {
-        "name": "Panpsychisms",
+        "name": "Panpsychism",
         "relationship": "확장/전환"
       }
     ],

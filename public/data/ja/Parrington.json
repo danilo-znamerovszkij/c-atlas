@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "パリントンの言語・道具駆動型意識",
     "summary": "この理論は、人間の自己意識的な気づきが質的な進化上の飛躍を表しており、それが主として複雑な言語・概念的思考・洗練された道具使用の共進化によって駆動されると主張する。意識は、振動する脳活動の相互作用と結合の役割から生じ、人間に固有の高次の認知能力によって増幅される、実在の統一された現象として措定される。",
-    "associated_thinkers": ["John Parrington"],
-    "category": "唯物論理論",
-    "subcategory": "言語との関係",
+    "associated_thinkers": [
+      "John Parrington"
+    ],
+    "category": "唯物論",
+    "subcategory": "言語",
     "core_identity_tagline": "言語・道具駆動型の統一としての人間の意識",
     "classification_tags": [
       "evolution",
@@ -52,34 +54,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "（抽象的記号や結合ネットワークのような）計算的・構造的メカニズムを強調する唯物論／物理主義理論として、必要な機能的組織と記号的処理を複製しうる人工システムにおいて意識は達成可能である。"
     },
     "survival_beyond_death": {
-      "stance": "否定",
+      "stance": "No",
       "rationale": "意識は全面的に、変容した生物学的な脳とその神経回路の産物である。したがって個人的意識は、身体の死と脳の解体とともに消滅する。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的のみ",
+      "stance": "Humanistic only",
       "rationale": "目標は「人間の意識の物質的説明」であり、意識が宇宙的目的をもたない進化した現象であることを含意し、意味と価値の生成を純粋に人間の創造に委ねる。"
     },
     "virtual_immortality": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "意識を生み出す物理的メカニズム（神経パターン、記号的処理、脳波の動態）を非生物学的媒体において完全に複製できるなら、主観的自己の仮想的不死は原理的に可能なはずである。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Deacon’s Symbolic Communication (Human Consciousness)",
+        "name": "Deacon's Symbolic Communication (Human Consciousness)",
         "relationship": "重なり／拡張"
       },
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
         "relationship": "文脈／対比"
       },
       {
-        "name": "Language Relationships",
+        "name": "Language",
         "relationship": "カテゴリー構成員"
       }
     ],

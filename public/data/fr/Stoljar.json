@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "La vision épistémique et le physicalisme non standard de Stoljar",
     "summary": "Cette théorie défend le physicalisme contre les arguments anti-matérialistes en introduisant l'hypothèse de l'ignorance, qui postule que nous ignorons profondément un type de fait ou de propriété physique pertinent pour la conscience. Elle soutient que le prétendu problème de compatibilité entre la conscience et le physicalisme naît de nos limites épistémiques actuelles, et non d'un défaut ontologique du physicalisme lui-même.",
-    "associated_thinkers": ["Daniel Stoljar"],
+    "associated_thinkers": [
+      "Daniel Stoljar"
+    ],
     "category": "Matérialisme",
     "subcategory": "Philosophique",
     "core_identity_tagline": "Le physicalisme défendu par l'ignorance épistémique",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "En tant que défense du physicalisme, la théorie affirme que la conscience est physique. Par conséquent, en principe, tout système artificiel réalisant les faits physiques nécessaires (même ceux actuellement inconnus) devrait devenir conscient."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience dépend de faits et processus physiques, et n'est pas fondamentale. Lors de la destruction du substrat physique (le cerveau), la conscience cesse d'exister, en cohérence avec le physicalisme."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "En cohérence avec son engagement physicaliste fondamental, la théorie ne fournit aucune base pour un sens ou une finalité cosmique ultime ; le sens est construit par des agents conscients."
     },
     "virtual_immortality": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si la conscience est entièrement physique, le soi mental à la première personne est potentiellement téléchargeable, à condition que le substrat physique complexe (y compris les propriétés inconnues identifiées dans l'hypothèse de l'ignorance) puisse être dupliqué dans un support non biologique."
     }
   },
@@ -77,11 +79,11 @@
         "relationship": "Critique/Réponse"
       },
       {
-        "name": "Standard Physicalism",
+        "name": "Materialism",
         "relationship": "Critique"
       },
       {
-        "name": "Kind’s Dualism 2.0",
+        "name": "Kind's Dualism 2.0",
         "relationship": "Partenaire de débat/Projet commun"
       }
     ],

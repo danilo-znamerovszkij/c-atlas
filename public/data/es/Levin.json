@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "El Enfoque Tecnológico de la Mente en Todas Partes de Levin (TAME)",
     "summary": "Este marco entiende la mente y la cognición mediante la actividad funcional y dirigida a metas en sustratos diversos, a menudo no convencionales, incluidos materiales diseñados y biología sintética. Postula que la conciencia o la sintiencia es continua y gradual, viendo las mentes animales como una instancia de inteligencia colectiva entre grupos de células.",
-    "associated_thinkers": ["Michael Levin"],
-    "category": "Teorías del Materialismo",
-    "subcategory": "Evolución Filogenética",
+    "associated_thinkers": [
+      "Michael Levin"
+    ],
+    "category": "Desafío",
+    "subcategory": "",
     "core_identity_tagline": "Enfoque Tecnológico de la Mente en Todas Partes (TAME)",
     "classification_tags": [
       "technological",
@@ -55,7 +57,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Dado que TAME se aplica a materiales diseñados y quiméricos, los sistemas artificiales (si se configuran como sistemas de percepción-acción corporeizados y dirigidos a metas) podrían plausiblemente realizar la conciencia."
     },
     "survival_beyond_death": {
@@ -63,26 +65,26 @@
       "rationale": "Como marco materialista que liga la conciencia al funcionamiento continuo de un sustrato físico corporeizado, no se sostiene la supervivencia más allá de la existencia de ese sustrato."
     },
     "meaning_and_purpose": {
-      "stance": "Humanístico/Ligado a la agencia",
+      "stance": "Humanistic only",
       "rationale": "La conciencia está ligada a la actividad dirigida a metas, lo que sugiere que el sentido se deriva de la agencia inherente del sistema, más que de la teleología cósmica."
     },
     "virtual_immortality": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "La premisa de que la mente puede ser diseñada e instanciada en arquitecturas novedosas y no biológicas sugiere que duplicar y transferir el sistema complejo y corporeizado de percepción-acción debería ser posible en principio."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Embodied Cognition",
+        "name": "Embodied",
         "relationship": "Compatible/Influencia"
       },
       {
-        "name": "Ginsburg and Jablonka’s Associative Learning During Evolution",
+        "name": "Ginsburg and Jablonka's Associative Learning During Evolution",
         "relationship": "Solapamiento"
       },
       {
-        "name": "Computational and Informational Theories",
+        "name": "Computational",
         "relationship": "Solapamiento"
       }
     ],

@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "ハーシュタインのマインドメルディング",
     "summary": "ウィリアム・ハーシュタインは、意識ある心の平明な物理的説明を妨げる主要な障害が、根拠のない「私秘性の想定」であると論じる。この形而上学的想定――ある人が他者の意識状態を決して経験できないという考え――を取り除くことによって、悩ましい二元論、汎心論、そして解決不可能性を主張する諸理論を生み出す動機が掘り崩される。",
-    "associated_thinkers": ["William Hirstein"],
+    "associated_thinkers": [
+      "William Hirstein"
+    ],
     "category": "唯物論",
     "subcategory": "神経生物学的",
     "core_identity_tagline": "形而上学的な私秘性を拒否することで説明される意識",
@@ -49,30 +51,42 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "この理論は意識の「平明に物理的な」説明を求め、唯物論に分類されるため、意識あるAIを創出することに原理的な禁止はない。"
     },
     "survival_beyond_death": {
-      "stance": "否定する",
+      "stance": "No",
       "rationale": "この理論は二元論を打破しようとする唯物論的モデルである。唯物論は、意識がもっぱら生物学的な脳の産物であり、生物学的死とともに消滅するとする。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的な意味のみ",
+      "stance": "Humanistic only",
       "rationale": "唯物論的諸理論は一般に、人間が自らのために意味と価値を創り出しうる一方で、いかなる究極的な宇宙的意味や目的も存在しないと主張する。"
     },
     "virtual_immortality": {
-      "stance": "肯定する",
+      "stance": "Yes",
       "rationale": "意識が（ハーシュタインが論じるように）全面的に物理的な用語で説明可能であるならば、人の完全な神経パターンと経路をアップロードすれば、原理的に一人称の心的自己を保存できるであろう。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "批判" },
-      { "name": "Panpsychisms", "relationship": "批判" },
-      { "name": "Mind-Brain Identity Theory", "relationship": "両立的" }
+      {
+        "name": "Dualism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "批判"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "両立的"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Hirstein’s mindmelding", "year": "" },
+      {
+        "title_with_names": "Hirstein’s mindmelding",
+        "year": ""
+      },
       {
         "title_with_names": "Mindmelding: Consciousness, Neuroscience, and the Mind’s Privacy, William Hirstein",
         "year": 2012

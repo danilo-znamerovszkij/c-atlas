@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "الثنائية التومائية عند ستَمب",
     "summary": "تعرض هذه النظرية تصوّر القديس توما الأكويني للنفس البشرية بوصفه صورةً غير ديكارتية من الثنائية. فهي تطرح النفس بوصفها مُكوِّنًا لا-ماديًا أو تكوينيًا في جوهره، غير أنه يتحقق ضمن مُكوِّنات مادية، بما يتيح التوفيق بين مادية الإنسان وبقاء الروح بعد الموت الجسدي.",
-    "associated_thinkers": ["Eleonore Stump", "St. Thomas Aquinas"],
-    "category": "الثنائيات",
-    "subcategory": "فلسفي",
+    "associated_thinkers": [
+      "Eleonore Stump",
+      "St. Thomas Aquinas"
+    ],
+    "category": "الثنائية",
+    "subcategory": "فلسفية",
     "core_identity_tagline": "نفس لا-مادية غير ديكارتية تتحقق في المادة",
-    "classification_tags": ["dualism", "thomism", "non-Cartesian", "soul"]
+    "classification_tags": [
+      "dualism",
+      "thomism",
+      "non-Cartesian",
+      "soul"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "الوعي، أو النفس/الروح البشرية، جوهرٌ لا-مادي أو تكويني في جوهره يتحقق في مُكوِّنات مادية (الجسد).",
@@ -45,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مشروط",
+      "stance": "Conditional",
       "rationale": "إذا كان الوعي مرتبطًا بنفسٍ لا-مادية أو تكوينية في جوهرها متحقِّقة في مادة حيوية، فمن المرجّح أن تفتقر الأنظمة الاصطناعية المبنية من مُكوِّنات فيزيائية فحسب إلى هذا المُكوِّن غير الفيزيائي اللازم، ما لم تسرِ القوانين النفسية-الفيزيائية المولِّدة للنفس على ركائز غير حيوية."
     },
     "survival_beyond_death": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "بُنيت النظرية صراحةً لتستوعب استمرار الروح/النفس، مقرّ وعي الشخص، بعد انحلال الجسد."
     },
     "meaning_and_purpose": {
-      "stance": "كوني/لاهوتي",
+      "stance": "Cosmic/Ultimate",
       "rationale": "يتجذّر الإطار في الفلسفة المدرسية المسيحية، مُدمِجًا العقائد الكتابية عن الخلق ورجوع الروح إلى الله، بما يوفّر معنى وغايةً نهائيَّين."
     },
     "virtual_immortality": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "بوصفها صيغةً من ثنائية الجوهر تستلزم جوهرًا غير فيزيائي (النفس)، فإن استنساخ البنية الفيزيائية وحدها (كما في الخلود الافتراضي) سيُغفِل المُكوِّن غير الفيزيائي الجوهري اللازم لاستمرار الذات."
     }
   },
@@ -68,11 +76,11 @@
         "relationship": "تمييز (في حين تنكر ثنائية الخصائص ثنائيةَ الجوهر، تسعى الثنائية التومائية إلى تجاوز الثنائية التقليدية بين الجوهر والاختزال المادي.)"
       },
       {
-        "name": "Substance Dualism (Cartesian)",
+        "name": "Dualism",
         "relationship": "نقد"
       },
       {
-        "name": "Jaworski’s Hylomorphism",
+        "name": "Jaworski's Hylomorphism",
         "relationship": "تداخل"
       }
     ],

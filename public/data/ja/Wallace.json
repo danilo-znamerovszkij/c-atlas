@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "ウォレスの物理学内部の汎心論",
     "summary": "デイヴィッド・ウォレスは、意識が別個の力や特徴ではなく、根本的な物理的存在の内在的本性として同定される汎心論的見解を提唱する。このアプローチは、標準的な唯物論（意識の説明を欠く）と二元論（閉じた物理系における意識の因果的役割を欠く）の問題を回避する統合として意図されている。",
-    "associated_thinkers": ["David Wallace"],
-    "category": "諸汎心論",
+    "associated_thinkers": [
+      "David Wallace"
+    ],
+    "category": "汎心論",
     "subcategory": "物理学内部の汎心論",
     "core_identity_tagline": "物理学の内在的本性としての意識",
     "classification_tags": [
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識が物理学の記述するすべての物質／エネルギーの内在的本性であるなら、十分に複雑なAIアーキテクチャを含むあらゆる物理系は必然的に意識をもつことになる。"
     },
     "survival_beyond_death": {
-      "stance": "起こりにくい（可能性は低い）",
+      "stance": "Unlikely",
       "rationale": "意識そのものは根本的で遍在する（汎心論）が、*個人的*意識を定義する特定の統合された構造は、複雑な物理的配置（例えば脳）に結びついている。この特定の構造が生物学的消滅を超えて存続するかどうかは不確かである。"
     },
     "meaning_and_purpose": {
-      "stance": "不確か／おそらく",
+      "stance": "Uncertain",
       "rationale": "汎心論の変種として、意識が根本的であるため究極的な意味や目的を潜在的に許容するが、出典はこの含意についてのウォレスの立場を明示していない。"
     },
     "virtual_immortality": {
-      "stance": "おそらく",
+      "stance": "Likely",
       "rationale": "意識は物理的構造の根底にある内在的本性であるため、物理学が記述する脳の物理的・関係論的構造を完全にデジタル複製すれば、対応する内在的な意識的本性もおそらく複製されるだろう。"
     }
   },

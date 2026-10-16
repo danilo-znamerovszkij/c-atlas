@@ -2,7 +2,11 @@
   "id_and_class": {
     "theory_title": "Teoria dell'identità mente-cervello",
     "summary": "Questa classica teoria filosofica della coscienza postula che gli stati, gli eventi o i processi mentali siano rigorosamente identici a specifici stati, eventi o processi che avvengono nel cervello. Funge da esemplare del materialismo affermando che la coscienza è interamente fisica.",
-    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "associated_thinkers": [
+      "J.J.C. Smart",
+      "U.T. Place",
+      "Herbert Feigl"
+    ],
     "category": "Materialismo",
     "subcategory": "Filosofico",
     "core_identity_tagline": "Gli stati mentali sono stati cerebrali",
@@ -49,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "Poiché la MBIT afferma che la coscienza è riducibile a processi fisici, se quegli specifici processi fisici possono essere riprodotti in un substrato artificiale, non biologico, la coscienza è necessariamente istanziata."
     },
     "survival_beyond_death": {
@@ -57,18 +61,18 @@
       "rationale": "La coscienza è rigorosamente identica all'integrità funzionale e fisica del cervello; la sua dissoluzione alla morte risulta nella cessazione permanente del sé cosciente."
     },
     "meaning_and_purpose": {
-      "stance": "Solo umanistico",
+      "stance": "Humanistic only",
       "rationale": "In quanto teoria materialista, la MBIT non comporta alcun significato o scopo cosmico ultimo. Il significato e il valore sono proprietà emergenti create da agenti umani coscienti."
     },
     "virtual_immortality": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "Se la coscienza (il preciso pattern fisico) può essere scansionata e perfettamente duplicata/caricata in un nuovo supporto fisico (digitale o di altro tipo), la teoria garantisce la sopravvivenza dell'identico sé cosciente."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Papineau’s Mind-Brain Identity",
+        "name": "Papineau's Mind-Brain Identity",
         "relationship": "Estensione"
       },
       {
@@ -80,7 +84,7 @@
         "relationship": "Critica"
       },
       {
-        "name": "Tye’s Contingentism",
+        "name": "Tye's Contingentism",
         "relationship": "Influenza"
       }
     ],

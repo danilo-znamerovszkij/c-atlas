@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La Teoría de la Hipótesis del Contenido de T. Clark",
     "summary": "Esta teoría postula que la conciencia fenoménica es el contenido representacional derivado del procesamiento suficientemente estructurado de un sistema cognitivo . La experiencia consciente es categóricamente subjetiva y está fundamentalmente vinculada al cerebro físico, funcionando como un fenómeno material instanciado por el cerebro .",
-    "associated_thinkers": ["Thomas Clark"],
-    "category": "Materialism",
-    "subcategory": "Representational",
+    "associated_thinkers": [
+      "Thomas Clark"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Primer orden",
     "core_identity_tagline": "La conciencia fenoménica como contenido representacional estructurado",
     "classification_tags": [
       "representational",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Dado que la conciencia se postula como un fenómeno estrictamente físico resultante de un procesamiento suficientemente estructurado, la réplica de esta estructura en sistemas artificiales avanzados debería permitir la conciencia ."
     },
     "survival_beyond_death": {
-      "stance": "No (para el yo personal) / Sí (para la subjetividad genérica)",
+      "stance": "No",
       "rationale": "La conciencia individual es una instanciación física y se disuelve con la muerte cerebral. Sin embargo, la 'continuidad subjetiva genérica' sugiere que la conciencia continúa en otros contextos, aunque no como el individuo fallecido ."
     },
     "meaning_and_purpose": {
-      "stance": "Existencial/Intrínseco",
+      "stance": "Humanistic only",
       "rationale": "La conciencia, impulsada por la finitud del sistema autorreflexivo, crea inherentemente un mundo interno, proporcionando un propósito ligado al mantenimiento de la continuidad subjetiva ."
     },
     "virtual_immortality": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "Como teoría materialista, si el 'procesamiento representacional suficientemente estructurado' definitorio puede duplicarse con precisión en un medio no biológico, la transferencia de la conciencia personal es posible ."
     }
   },
@@ -74,15 +76,15 @@
         "relationship": "Coherente"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "Coherente"
       },
       {
-        "name": "Predictive Processing",
+        "name": "Predictive Theories (Top-Down)",
         "relationship": "Coherente"
       },
       {
-        "name": "Metzinger’s No-Self Representational Theory of Subjectivity",
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
         "relationship": "Influencia"
       }
     ],

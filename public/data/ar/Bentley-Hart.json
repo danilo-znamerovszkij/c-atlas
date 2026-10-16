@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "أحادية بنتلي هارت: الوعي والكينونة والله",
     "summary": "هذه نظرية ميتافيزيقية تبني أحادية موحَّدة قصوى بالتأكيد على عدم الانفصال العميق بين الوعي (العقل) والكينونة (الوجود) نفسها. وتفترض أن الواقع الأقصى هو الله، الذي هو الوحدة المطلقة للوعي والكينونة، رافضةً جذرياً التفسيرات الفيزيائية التقليصية.",
-    "associated_thinkers": ["David Bentley Hart"],
-    "category": "الأحاديات",
-    "subcategory": "أحادية الرتبة العليا/البانسيكية المثالية",
+    "associated_thinkers": [
+      "David Bentley Hart"
+    ],
+    "category": "المثالية",
+    "subcategory": "",
     "core_identity_tagline": "الوعي بوصفه الوحدة المطلقة للكينونة والله",
     "classification_tags": [
       "monism",
@@ -51,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "الوعي حالة مقيَّدة من العقل اللامتناهي (الله) وليس قابلاً للاختزال إلى الحوسبة أو المعالجة الفيزيائية. ومن ثمّ لا يمكن للأنظمة الصناعية القائمة محضاً على آليات فيزيائية أن تجسّد وعياً حقيقياً."
     },
     "survival_beyond_death": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "يُحدَّد الوعي بالكينونة القصوى وبالله، بمعنى أنه أساسي ولا يمكن إفناؤه. ويوحي لاهوت هارت بأن الأفراد مقدَّرون للاتحاد بالله، فيصيرون «غير مخلوقين»."
     },
     "meaning_and_purpose": {
-      "stance": "كوني/أقصى",
+      "stance": "Cosmic/Ultimate",
       "rationale": "الواقع بأسره متماسك عقلانياً ومؤسَّس في الله، العقل والوعي الأقصى، بما يوفّر بطبيعته معنى وغاية وقيمة أقصى."
     },
     "virtual_immortality": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "الوعي فاعلية عقلية موحَّدة ميتافيزيقياً وغير قابلة للكسر فيزيائياً، بما يجعل من المستحيل التقاطها أو استنساخها أو رفعها بوسائل حاسوبية لا تستنسخ سوى العمليات «بمنظور الشخص الثالث»."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Idealisms",
+        "name": "Idealism",
         "relationship": "متوافق"
       },
       {
@@ -78,11 +80,11 @@
         "relationship": "امتداد (صورة مثالية)"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "نقد"
       },
       {
-        "name": "Strong Emergence Theories",
+        "name": "Emergence",
         "relationship": "نقد"
       }
     ],

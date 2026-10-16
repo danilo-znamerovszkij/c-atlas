@@ -2,11 +2,18 @@
   "id_and_class": {
     "theory_title": "La Nueva Física y Neurociencia de Ramachandran",
     "summary": "Esta perspectiva postula que la cuestión de la conciencia no puede resolverse con la neurociencia o la física actuales, ya que estas disciplinas ofrecen únicamente descripciones en tercera persona, excluyendo la experiencia subjetiva (qualia). Reclama una nueva disciplina híbrida de física y neurociencia que incorpore fundamentalmente la conciencia como componente de la realidad, explorando cómo se entrelaza con las leyes físicas.",
-    "associated_thinkers": ["V.S. Ramachandran"],
-    "category": "Monismos",
-    "subcategory": "Integración de Física y Conciencia",
+    "associated_thinkers": [
+      "V.S. Ramachandran"
+    ],
+    "category": "Monismo",
+    "subcategory": "Integración física-conciencia",
     "core_identity_tagline": "La Conciencia Entrelazada con Nuevas Leyes Físicas",
-    "classification_tags": ["monism", "physics", "neuroscience", "qualia"]
+    "classification_tags": [
+      "monism",
+      "physics",
+      "neuroscience",
+      "qualia"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "La conciencia se identifica como una parte fundamental de la realidad que debe integrarse con las leyes físicas y la neurociencia mediante una nueva disciplina híbrida.",
@@ -45,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Incierto/condicional",
+      "stance": "Uncertain",
       "rationale": "Si el eventual marco de la 'nueva física' revela que la perspectiva en primera persona puede instanciarse en sistemas no biológicos capaces de expresar estas leyes fundamentales, entonces la conciencia de la IA es posible; de lo contrario, probablemente sea imposible."
     },
     "survival_beyond_death": {
-      "stance": "Incierto/condicional",
+      "stance": "Uncertain",
       "rationale": "El marco se basa en textos védicos, que abordan la conciencia y podrían implicar la existencia post mortem, pero el enfoque en desarrollar una 'nueva física y neurociencia' científica deja la cuestión de la supervivencia biológica condicionada a la naturaleza fundamental de las leyes descubiertas."
     },
     "meaning_and_purpose": {
-      "stance": "Indefinido",
+      "stance": "Uncertain",
       "rationale": "La teoría se centra en lograr una completitud ontológica y epistémica integrando la subjetividad en la realidad física, pero no asigna inherentemente un sentido o propósito cósmico."
     },
     "virtual_immortality": {
-      "stance": "Incierto/condicional",
+      "stance": "Uncertain",
       "rationale": "La inmortalidad virtual depende enteramente de si la forma específica en que la conciencia 'se entrelaza' con la realidad es completamente reproducible y manipulable por tecnología avanzada en un sustrato simulado."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Monismos",
+        "name": "Neutral Monism",
         "relationship": "Categoría"
       },
       {
-        "name": "Dualismos",
+        "name": "Dualism",
         "relationship": "Crítica"
       },
       {
-        "name": "Teorías Cuánticas",
+        "name": "Quantum & Dimensions",
         "relationship": "Posible extensión/compatibilidad"
       }
     ],

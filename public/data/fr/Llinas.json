@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Théorie de l'état de « mindness » par oscillations de Llinas",
     "summary": "Cette théorie postule que l'« état de mindness » conscient est fondamentalement généré par des oscillations électriques au sein des neurones et par l'activité simultanée qui en résulte à travers des groupes neuronaux distants, ce qui constitue la racine neurobiologique de la cognition. Elle suggère que la réalité, telle qu'elle est vécue, est une sorte de réalité virtuelle générée par ces oscillations internes, qui servent principalement à permettre la prédiction.",
-    "associated_thinkers": ["Rodolfo Llinas"],
-    "category": "Théories du Matérialisme",
-    "subcategory": "Champ Électromagnétique",
+    "associated_thinkers": [
+      "Rodolfo Llinas"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Électromagnétique",
     "core_identity_tagline": "« La conscience comme oscillations neuronales et prédiction »",
     "classification_tags": [
       "neurobiology",
@@ -53,38 +55,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si la conscience est enracinée dans la fonction computationnelle de la synchronicité des oscillations et de la prédiction, ces dynamiques peuvent, en principe, être réalisées ou simulées dans des systèmes artificiels sophistiqués, conformément à la position physicaliste."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience est définie comme un état généré par des mécanismes neuronaux biologiques (oscillations) au sein du cerveau, excluant toute survie après la mort du substrat biologique."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "En tant que mécanisme neurobiologique évolué, le but de la conscience est principalement fonctionnel (prédiction et survie), conformément à la vision déflationniste du Matérialisme qui rejette tout sens cosmique ultime."
     },
     "virtual_immortality": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "Si la conscience s'explique entièrement par des motifs d'activité neuronale oscillante, alors une duplication ou un téléchargement parfait de ces motifs dynamiques dans un support non biologique devrait préserver l'identité à la première personne, rendant l'immortalité virtuelle possible."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Théories du champ électromagnétique",
+        "name": "Electromagnetic",
         "relationship": "Appartenance à la catégorie/Chevauchement"
       },
       {
-        "name": "Théories du traitement prédictif",
+        "name": "Predictive Theories (Top-Down)",
         "relationship": "Chevauchement/Extension"
       },
       {
-        "name": "Théorie du traitement récurrent (Lamme)",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "Chevauchement"
       },
       {
-        "name": "Théorie de l'intégration dendritique (Aru et al.)",
+        "name": "Dendritic Integration Theory",
         "relationship": "Chevauchement"
       }
     ],

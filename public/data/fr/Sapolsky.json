@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "L'incompatibilisme fort de Sapolsky",
     "summary": "Cette perspective soutient que la conscience est une propriété émergente complexe découlant uniquement de mécanismes biologiques, inextricablement liée aux règles physiques de l'univers. Son engagement philosophique principal est l'incompatibilisme fort, affirmant le déterminisme biologique et niant par conséquent l'existence du libre arbitre.",
-    "associated_thinkers": ["Robert Sapolsky"],
+    "associated_thinkers": [
+      "Robert Sapolsky"
+    ],
     "category": "Matérialisme",
     "subcategory": "Neurobiologique",
     "core_identity_tagline": "« La conscience comme propriété émergente complexe »",
@@ -52,26 +54,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si la conscience est une propriété émergente, causalement active, régie par les règles physiques de l'organisation biologique complexe, elle devrait, en principe, être réalisable dans un système artificiel reproduisant la complexité nécessaire."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience est uniquement le produit du cerveau biologique ; la mort du cerveau constitue donc la fin irrévocable de l'existence personnelle."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "La nature déterministe de la conscience signifie qu'il n'existe aucun sens ou finalité cosmique ultime ; tout sens ou valeur est nécessairement créé par les êtres humains eux-mêmes."
     },
     "virtual_immortality": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Puisque la conscience est réductible à, et dépendante d'états physiques complexes, une duplication parfaite de ces états dans un substrat non biologique aboutirait à la continuation du soi mental à la première personne, conformément aux théories du matérialisme."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mitchell’s Free Agents",
+        "name": "Mitchell's Free Agents",
         "relationship": "Critique"
       },
       {
@@ -79,7 +81,7 @@
         "relationship": "Critique"
       },
       {
-        "name": "Flanagan’s Constructive Naturalism",
+        "name": "Flanagan's Constructive Naturalism",
         "relationship": "Chevauchement"
       }
     ],

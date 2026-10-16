@@ -7,7 +7,7 @@
       "Kevin O’Regan"
     ],
     "category": "유물론",
-    "subcategory": "관계적",
+    "subcategory": "체화된",
     "core_identity_tagline": "능동적 세계 상호작용으로서의 의식",
     "classification_tags": [
       "relational",
@@ -54,38 +54,62 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "불확실/조건부",
+      "stance": "Uncertain",
       "rationale": "표준적 계산만으로는 불충분하다. AI 체계가 완전한 체화, 기술, 그리고 세계와의 지속적이고 자율적인 상호작용(살아 있는 유기체에게 부과되는 것과 동일한 요구)을 달성할 때에만 의식이 가능하다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식은 뇌와 신체가 세계와 상호작용하는 지속적이고 능동적인 물리적 순환과 분리될 수 없으며, 그 순환의 정지는 의식 활동의 종료를 의미한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간주의적 의미에 한함",
+      "stance": "Humanistic only",
       "rationale": "의식은 행위자가 맥락, 지식, 이해를 획득하도록 하여 상호작용에 의미를 부여하고 능동적 행동을 인도하는 역량을 부여하지만, 초월적 목적은 함축하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "매우 개연성 낮음",
+      "stance": "Unlikely",
       "rationale": "뇌의 내적 과정('기계적 자리')만을 업로드하는 것으로는 의식으로 규정되는, 뇌에 국한되지 않는 외적이고 지속적인 상호작용 활동을 포착할 수 없다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Enactivism (Varela & Thompson)", "relationship": "구성적 틀" },
-      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "토대적 영향" },
-      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "철학적 영향" },
-      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "부분적 양립 가능 / 중첩" },
-      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "관련 / 상보적(능동적 지각, 공유 회로 모형)" },
-      { "name": "Internalist Materialism", "relationship": "비판" },
-      { "name": "Dualism", "relationship": "비판" }
+      {
+        "name": "Enactivism",
+        "relationship": "구성적 틀"
+      },
+      {
+        "name": "Ecological Psychology (James J. Gibson)",
+        "relationship": "토대적 영향"
+      },
+      {
+        "name": "Embodied Phenomenology (Maurice Merleau-Ponty)",
+        "relationship": "철학적 영향"
+      },
+      {
+        "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)",
+        "relationship": "부분적 양립 가능 / 중첩"
+      },
+      {
+        "name": "Susan Hurley — Action/Perception & Shared Circuits",
+        "relationship": "관련 / 상보적(능동적 지각, 공유 회로 모형)"
+      },
+      {
+        "name": "Internalist Materialism",
+        "relationship": "비판"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "비판"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
         "year": 2010
       },
-      { "title_with_names": "Varieties of Presence, Alva Noë", "year": 2012 },
+      {
+        "title_with_names": "Varieties of Presence, Alva Noë",
+        "year": 2012
+      },
       {
         "title_with_names": "Is consciousness an illusion, Alva Noë",
         "year": 2007

@@ -7,8 +7,8 @@
       "Francisco Varela",
       "Maurice Merleau-Ponty"
     ],
-    "category": "유물론 이론",
-    "subcategory": "체화와 발제",
+    "category": "이상현상",
+    "subcategory": "",
     "core_identity_tagline": "체험된 경험의 우선성과 어려운 문제의 해소",
     "classification_tags": [
       "phenomenology",
@@ -59,30 +59,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "불확실",
+      "stance": "Uncertain",
       "rationale": "의식은 환원 불가능한 체험된 경험과 신체-의식 변증법에 뿌리를 두므로, AI 의식 주장의 기반인 시뮬레이션이나 계산적 실현에 저항할 가능성이 크다."
     },
     "survival_beyond_death": {
-      "stance": "가능함",
+      "stance": "Possible",
       "rationale": "급진적 현상학적 접근은 (임사체험과 같은) 변성 의식 상태를 외재적이지 않고 스스로를 드러내는 '내적 존재론', 곧 표준적 유물론의 제약을 넘어선 깊은 연속성을 시사하는 존재 양식을 잠재적으로 드러내는 것으로 해석한다."
     },
     "meaning_and_purpose": {
-      "stance": "실존적/철학적",
+      "stance": "Humanistic only",
       "rationale": "이 이론은 의식의 성격을 지적 신비에서 '실존적 선택'으로 바꾸며, 체험된 경험과 주관적 존재에 관여하는 존재론적 접근(내부 존재론)에 의미를 위치시킨다."
     },
     "virtual_immortality": {
-      "stance": "아니다",
+      "stance": "No",
       "rationale": "가상적 불멸은 일인칭 정신적 자아를 디지털 정보로 환원할 것을 요구하는데, 이는 체화된 체험 경험의 우선성과 환원 불가능성에 관한 이 이론의 근본 전제와 어긋난다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Varela’s Neurophenomenology",
+        "name": "Varela's Neurophenomenology",
         "relationship": "확장"
       },
       {
-        "name": "Merleau-Ponty’s Intra-ontology",
+        "name": "Merleau-Ponty's Embodied Perception and the Lived Body",
         "relationship": "영향"
       },
       {
@@ -90,7 +90,7 @@
         "relationship": "비판"
       },
       {
-        "name": "Standard Physicalism",
+        "name": "Materialism",
         "relationship": "비판"
       }
     ],

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ローリッツの構造的実在論",
     "summary": "この理論は、意識的経験が全面的に構造的な現象であり、神経活動における複雑な高階パターンとして脳内に存在すると措定する。ハードプロブレムを解くにあたり、クオリアは質的で非構造的に見えるものの、実際には複雑な合成的構造であり、神経パターン自体によって誤って一元的性質として知覚されているのだと論じる。",
-    "associated_thinkers": ["Kristjan Loorits"],
+    "associated_thinkers": [
+      "Kristjan Loorits"
+    ],
     "category": "唯物論",
-    "subcategory": "関係主義的",
+    "subcategory": "関係的",
     "core_identity_tagline": "全面的に構造的な神経パターンとしての意識",
     "classification_tags": [
       "structuralism",
@@ -44,30 +46,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識を構造的な神経パターンと同定する唯物論的理論として、これらのパターンは概念的に非生物学的な計算基体において再現可能である。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "この理論は意識を生物学的な脳内に存在する全面的に構造的な現象として定義する。したがって、意識はこれらの神経プロセスの停止とともに終わるであろう。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "唯物論的理論として、現象的意識の物理主義的説明を提供するが、究極的・宇宙的な意味や目的を支持しない。"
     },
     "virtual_immortality": {
-      "stance": "可（ありうる）",
+      "stance": "Likely",
       "rationale": "意識は構造的な物理的性質（神経パターン）と全面的に同定されるため、これらのパターンを非生物学的媒体において複製すれば、唯物論／機能主義の原理と整合的に、意識的自己の完全な存続がもたらされるはずである。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "拡張／支持（ローリッツは非構造的特徴が全面的に構造的であるという考えを支持し、「見え」を視点依存的現象とみなす）"
       },
       {
-        "name": "Representational Theories",
+        "name": "First-Order",
         "relationship": "重複（この理論は、誤知覚されているとはいえ、クオリアの構造的表象に依拠する）"
       },
       {

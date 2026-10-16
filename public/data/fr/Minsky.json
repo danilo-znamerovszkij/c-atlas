@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La société de l'esprit de Minsky",
     "summary": "La théorie postule que la cognition et l'intelligence humaines émergent des interactions parallèles et non conscientes de nombreux éléments fonctionnels spécialisés et semi-indépendants appelés « agents », situés dans le cerveau. La conscience elle-même est considérée comme un « terme fourre-tout », utilisé de manière ambiguë pour désigner un ensemble de ces différents processus cognitifs et de conscience, plutôt qu'une entité unique et unifiée.",
-    "associated_thinkers": ["Marvin Minsky"],
+    "associated_thinkers": [
+      "Marvin Minsky"
+    ],
     "category": "Matérialisme",
-    "subcategory": "Neurobiologique",
+    "subcategory": "Computationnel",
     "core_identity_tagline": "« La conscience comme terme fourre-tout pour des agents »",
     "classification_tags": [
       "computational",
@@ -51,30 +53,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "Si la conscience résulte des interactions computationnelles nécessaires et des descriptions de haut niveau d'agents spécialisés, des systèmes artificiels capables d'instancier cette forme spécifique d'organisation de haut niveau devraient être conscients."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience dépend entièrement de l'existence physique et de l'organisation fonctionnelle du cerveau/de la machine biologique ; sa dissolution implique la fin permanente de l'esprit."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste/Pragmatique",
+      "stance": "Humanistic only",
       "rationale": "La finalité fonctionnelle de l'organisation cognitive complexe (la conscience) est d'aider l'organisme à naviguer dans le monde, à faire des plans et à se modéliser lui-même, procurant un sens subjectif mais n'impliquant aucune finalité cosmique globale."
     },
     "virtual_immortality": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "Puisque l'esprit est défini par ses motifs informationnels et son organisation fonctionnelle (description de haut niveau), une duplication totale ou un téléversement vers un support non biologique capable de reproduire ces interactions complexes transférerait l'identité consciente originale."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Dennett’s Multiple Drafts Model",
+        "name": "Dennett's Multiple Drafts Model",
         "relationship": "Compatible"
       },
       {
-        "name": "Graziano’s Attention Schema Theory",
+        "name": "Graziano's Attention Schema Theory",
         "relationship": "Compatible"
       },
       {

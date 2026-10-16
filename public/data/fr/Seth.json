@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Théorie de la « Bête-Machine » de Seth",
     "summary": "Cette théorie postule que les expériences conscientes, y compris les perceptions du monde et du soi, sont des formes de prédiction perceptuelle d'origine cérébrale, métaphoriquement appelées « hallucinations contrôlées ». Elle ancre le mécanisme de la conscience dans l'impératif biologique fondamental de réguler la physiologie corporelle afin de rester en vie.",
-    "associated_thinkers": ["Anil Seth"],
-    "category": "Théories du Matérialisme",
-    "subcategory": "Homéostatique et Affectif",
+    "associated_thinkers": [
+      "Anil Seth"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Homéostatique",
     "core_identity_tagline": "‘La Conscience comme Hallucination Contrôlée fondée sur la Prédiction’",
     "classification_tags": [
       "neurobiology",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "En tant que théorie matérialiste centrée sur des mécanismes computationnels et de traitement de l'information (la prédiction perceptuelle), des systèmes d'IA instanciant des mécanismes complexes similaires devraient être capables d'atteindre la conscience."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience est un produit des cerveaux biologiques et d'une machinerie prédictive complexe et physiquement instanciée. La mort du cerveau conduit à la non-existence irrévocable et permanente de la conscience personnelle."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "Classée comme une Théorie du Matérialisme, elle n'implique aucun sens ou finalité ultime ou cosmique, bien qu'elle soutienne un sens créé par l'humain et une valeur dérivée de l'agentivité et de l'expérience individuelles."
     },
     "virtual_immortality": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "Si la conscience est entièrement explicable par les processus computationnels du cerveau, alors, en principe, le soi mental à la première personne pourrait être dupliqué et instancié dans un substrat non biologique, permettant l'immortalité virtuelle."
     }
   },
@@ -73,15 +75,15 @@
         "relationship": "Chevauchement"
       },
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "Compatible"
       },
       {
-        "name": "T. Clark’s Content Hypothesis",
+        "name": "T. Clark's Content Hypothesis",
         "relationship": "Compatible"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "Compatible"
       }
     ],

@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoría de Doble Aspecto de la Información, de Chalmers",
+    "summary": "David Chalmers propone con cautela que la información es ontológicamente fundamental y tiene dos aspectos: un aspecto físico, realizado en sistemas como los cerebros y las computadoras, y un aspecto fenoménico, realizado como experiencia subjetiva. Siempre que un espacio de información se realiza en la experiencia, el mismo espacio se realiza físicamente, de modo que la información sirve de moneda común entre lo físico y lo fenoménico.",
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
+    "category": "Info Integrada",
+    "subcategory": "",
+    "core_identity_tagline": "Información con un rostro físico y un rostro fenoménico",
+    "classification_tags": [
+      "information",
+      "double-aspect",
+      "hard problem",
+      "naturalistic dualism",
+      "neutral monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia es el aspecto fenoménico de la información: el mismo estado informacional que se realiza en un sustrato físico se realiza también en la experiencia.",
+    "ontological_status": "Monismo de doble aspecto (basado en la información)",
+    "mind_body_relationship": "Los procesos físicos y la experiencia son dos realizaciones de un único espacio de información. La propuesta se ofrece como una forma de hacer funcionar el dualismo naturalista de Chalmers, en el que los procesos físicos dan lugar a la experiencia sin ser idénticos a ella.",
+    "primitive_or_emergent_status": "Primitivo",
+    "emergence_type": "No aplicable (la información y su aspecto fenoménico se tratan como fundamentales y no como derivados)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Los qualia son el lado intrínseco y experiencial de los estados de información. La estructura de una experiencia coincide con la estructura de la información realizada en su sustrato físico.",
+    "ontological_commitments": "Espacios de información como fundamentales, con aspectos físicos y fenoménicos; sistemas físicos tanto vivos como artificiales.",
+    "epistemic_access": "Mediante el análisis filosófico de la correspondencia estructural entre la experiencia y su sustrato físico.",
+    "constituents_and_structure": "Espacios y estados de información, cada uno realizado dos veces: una vez físicamente y, potencialmente, una vez fenoménicamente."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica",
+    "distinctive_mechanism_or_principle": "Doble realización: el mismo espacio de información se realiza física y fenoménicamente, y Chalmers sugiere que esta «doble vida» podría ser el vínculo fundamental entre los procesos físicos y la experiencia.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Dondequiera que la información se realice físicamente existe un potencial de experiencia, de modo que la experiencia no se limita, en principio, a los cerebros.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "La información es el concepto puente: donde hay experiencia consciente hay información, y donde hay información hay un potencial de experiencia consciente.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Siempre que un espacio de información se realiza fenoménicamente, el mismo espacio se realiza físicamente.",
+      "La información puede tratarse como la moneda común entre lo físico y lo fenoménico.",
+      "Esta ontología de doble aspecto se hace eco de ideas que van de Spinoza al monismo neutral de Russell.",
+      "Si la teoría fracasa, el dualismo naturalista podría seguir siendo verdadero por algún otro principio."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica (argumento a priori a partir del problema difícil y de la coherencia estructural entre mente y cerebro)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Especulativa",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "El propio Chalmers califica la teoría de especulativa y se pregunta cuán en serio debe tomarse el lenguaje de doble aspecto y si cosifica la información. Si cada estado de información porta una experiencia potencial, la concepción extiende la experiencia de forma muy amplia.",
+    "open_questions_and_limitations": "Chalmers deja abierto si lo físico, lo fenoménico o ambos dependen ontológicamente de lo informacional, y cuáles son los estados de información que de hecho se experimentan.",
+    "ontological_coherence": "Encaja en las tradiciones del monismo neutral y del russelliano y sirve al dualismo naturalista de Chalmers, aunque el dualismo naturalista no depende de ella."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "La información se realiza tanto en las computadoras como en las neuronas, y allí donde hay información hay un potencial de experiencia."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Si la experiencia sigue la estructura de la información, un sistema que realice el mismo espacio de información que un cerebro realizaría la misma experiencia."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Fundamento"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Influencia"
+      },
+      {
+        "name": "Spinoza’s One Reality: Embodied Mind and Graded Consciousness",
+        "relationship": "Influencia"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Solapamiento"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Chalmers’ Double-Aspect Theory of Information, David Chalmers",
+        "year": 1996
+      }
+    ]
+  }
+}

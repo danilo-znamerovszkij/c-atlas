@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "히브리적 영혼 이론",
     "summary": "전통적인 히브리적 개념은 '영혼'(*네페쉬*)을 분리된 불멸의 비물리적 실체가 아니라, 신이 물리적 형체에 생명의 숨을 불어넣음으로써 성립한 온전하고 통합된 살아 있는 인격 또는 감응하는 피조물로 본다. 따라서 의식은 살아 있고 신체화된 상태와 불가분하게 결부되어 있다.",
-    "associated_thinkers": ["Hebrew Bible", "Jewish tradition", "Eduard Shyfrin"],
+    "associated_thinkers": [
+      "Hebrew Bible",
+      "Jewish tradition",
+      "Eduard Shyfrin"
+    ],
     "category": "이원론",
-    "subcategory": "히브리 성서와 유대 철학에서의 영혼",
+    "subcategory": "히브리 성서와 유대 철학의 영혼",
     "core_identity_tagline": "온전한 살아 있는 인격으로서의 '영혼'(*네페쉬*)",
     "classification_tags": [
       "nephesh",
@@ -51,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "의식을 생물학적 생명과 숨에 결부시키는 본래의 성서적 개념은 '아니오'를 시사한다. 그러나 영혼을 '정보 존재자'로 규정하는 후대의 카발라적 해석은 충분한 정보적 복잡성과 요구되는 '자아의 차원'을 갖춘 인공 체계가 의식에 이르는 것을 허용할 수도 있다."
     },
     "survival_beyond_death": {
-      "stance": "아니오(신적 개입이 없다면)",
+      "stance": "Conditional",
       "rationale": "*네페쉬*의 핵심 개념은 생물학적 생명과 결부되어 있으며 본래적으로 불멸하지 않다. 사후 존속은 탈신체화된 영혼의 존속이 아니라 죽은 자의 부활(신에 의한 재구성)이라는 신학적 교리에 의존한다."
     },
     "meaning_and_purpose": {
-      "stance": "궁극적/유신론적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "의식/생명은 신이 제공한 '생명의 숨'에서 비롯되며, 이로써 신이 정한 본래적이고 궁극적인 의미와 목적이 성립한다."
     },
     "virtual_immortality": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "가상적 불멸은 물리주의적/기능주의적 가정에 의존하여 뇌 기능을 복제할 것을 요구한다. 본래의 히브리적 *네페쉬* 개념은 본질적으로 생물학적이고 통합적이므로, 정보 패턴의 시뮬레이션이나 업로드만으로는 살아 있는 존재의 본질을 포착하지 못한다."
     }
   },
@@ -74,11 +78,11 @@
         "relationship": "영향/비판"
       },
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "양립 가능"
       },
       {
-        "name": "Swinburne’s Substance Dualism",
+        "name": "Swinburne's Substance Dualism",
         "relationship": "비판"
       },
       {

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "El Monismo Anómalo de Davidson",
     "summary": "El Monismo Anómalo postula que todo evento mental es idéntico a un evento físico (identidad de tokens), manteniendo una ontología monista. Sin embargo, la teoría sostiene que no existen leyes naturales estrictas y sin excepciones que conecten los conceptos mentales (tipos) con los conceptos físicos, lo que conduce a la irreducibilidad de la psicología a la física. Esta doble afirmación resuelve el conflicto aparente entre la causación mental y la completitud causal del mundo físico.",
-    "associated_thinkers": ["Donald Davidson"],
-    "category": "Monismos",
-    "subcategory": "Monismo Anómalo",
+    "associated_thinkers": [
+      "Donald Davidson"
+    ],
+    "category": "Monismo",
+    "subcategory": "Monismo anómalo",
     "core_identity_tagline": "Los tokens mentales son físicos, los tipos mentales son anómalos",
     "classification_tags": [
       "monism",
@@ -52,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Posible",
+      "stance": "Possible",
       "rationale": "Dado que la ontología es fundamentalmente monista (todos los eventos mentales son eventos físicos), la conciencia en la IA es posible en principio si los sistemas físicos complejos relevantes pueden replicarse en medios artificiales, aunque la falta de leyes mentales predecibles (anomalismo) complica la evaluación."
     },
     "survival_beyond_death": {
@@ -60,25 +62,34 @@
       "rationale": "Los eventos mentales dependen de los eventos físicos (identidad de tokens). La supervivencia más allá de la destrucción del sustrato biológico queda excluida bajo este supuesto materialista."
     },
     "meaning_and_purpose": {
-      "stance": "Solo humanista",
+      "stance": "Humanistic only",
       "rationale": "Como teoría de monismo ontológico, se alinea con categorías materialistas que, en general, no fundamentan un sentido o propósito último más allá del que los propios seres humanos crean para sí mismos."
     },
     "virtual_immortality": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si el sustrato físico (el patrón cerebral) se duplica, los eventos mentales (que son idénticos a esos tokens) también deberían duplicarse, haciendo alcanzable la inmortalidad virtual, de forma similar a otras visiones fisicalistas no reduccionistas."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Fisicalismo No Reduccionista", "relationship": "Solapamiento" },
-      { "name": "Dualismo de Propiedades", "relationship": "Solapamiento" },
       {
-        "name": "Teoría de la Identidad Mente-Cerebro (Identidad de Tipo)",
+        "name": "Non-Reductive",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Mind-Brain Identity",
         "relationship": "Crítica"
       }
     ],
     "sources_and_references": [
-      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+      {
+        "title_with_names": "Thinking Causes, Donald Davidson",
+        "year": 1993
+      }
     ]
   }
 }

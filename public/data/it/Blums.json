@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "La macchina di Turing cosciente dei Blum",
+    "summary": "Lenore, Manuel e Avrim Blum sostengono che la coscienza, sia di accesso sia fenomenica, sia computazionale e possa essere catturata in un modello di macchina formale, la Macchina di Turing Cosciente (CTM). Nella CTM, processori inconsci competono per collocare un frammento di informazione su un «palcoscenico» a elemento unico, che viene trasmesso a tutti i processori; la macchina prova qualcosa quando ogni processore confronta questa trasmissione con il proprio Modello del Mondo, costruito da sé, che la macchina prende per il mondo stesso.",
+    "associated_thinkers": [
+      "Lenore Blum",
+      "Manuel Blum",
+      "Avrim Blum"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Computazionale",
+    "core_identity_tagline": "La coscienza come trasmissione e ispezione di frammenti del modello del mondo",
+    "classification_tags": [
+      "theoretical computer science",
+      "global workspace",
+      "world model",
+      "machine consciousness",
+      "formal model"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è un processo computazionale. L'attenzione cosciente è la ricezione simultanea di un frammento trasmesso da parte di tutti i processori; la consapevolezza cosciente è l'ispezione simultanea di quel frammento da parte di tutti i processori, il cui significato è fondato nel Modello del Mondo della macchina.",
+    "ontological_status": "Fisicalismo (funzionalismo computazionale)",
+    "mind_body_relationship": "La mente è l'organizzazione del calcolo, indipendente dal substrato. La CTM non afferma deliberatamente quali aree cerebrali realizzino quali funzioni, sicché lo stesso modello può valere per cervelli e macchine.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole (l'esperienza soggettiva segue da un'architettura definita più un assioma dichiarato)",
+    "subjectivity_and_intentionality": "La CTM è consapevole soltanto del proprio Modello del Mondo, mai del mondo direttamente, e tratta il modello come realtà. Il suo senso di sé deriva dall'etichettare gli schizzi nel modello: uno schizzo di un attuatore che può muovere con il pensiero riceve l'etichetta SÉ, e in seguito la macchina etichetta il proprio schizzo COSCIENTE, il che suscita la sensazione di essere cosciente.",
+    "qualia_account": "L'Assioma A afferma che l'ispezione di un frammento trasmesso evoca un'esperienza soggettiva unica, la cui intensità e valenza derivano dal peso del frammento. I frammenti con sintesi vuote evocano esperienze primarie (per esempio il dolore proveniente da un «indicatore dell'ossigeno» che fallisce), e le esperienze più ricche sono fusioni delle esperienze evocate dalle parole del Brainish contenute in una sintesi.",
+    "ontological_commitments": "Processori, frammenti, uno stadio di memoria a breve termine, alberi di competizione e di trasmissione, collegamenti di tipo hebbiano tra processori, sensori e attuatori, un Modello del Mondo e un linguaggio multimodale interno chiamato Brainish.",
+    "epistemic_access": "Attraverso definizioni formali, teoremi e dimostrazioni, e attraverso il confronto del comportamento del modello con fenomeni noti della coscienza umana.",
+    "constituents_and_structure": "Una 7-upla: memoria a breve termine (STM, il palcoscenico), memoria a lungo termine (LTM, un vasto insieme di processori inconsci), un Albero Ascendente per la competizione, un Albero Discendente per la trasmissione, Collegamenti tra processori, e mappe di Input e Output verso sensori e attuatori. Il tempo scorre in tick discreti lungo una vita finita."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Accesso (attenzione cosciente); fenomenico (consapevolezza cosciente); autoconsapevolezza; la sensazione di essere coscienti",
+    "distinctive_mechanism_or_principle": "Un torneo probabilistico in cui vince uno solo, salendo lungo un albero binario, dove la probabilità di vittoria di ciascun frammento è pari al suo peso diviso per il peso totale di tutte le voci. Il vincitore viene trasmesso a tutti i processori, e la consapevolezza cosciente si verifica quando tutti i processori lo ispezionano nello stesso tick.",
+    "dynamics_of_emergence": "La coscienza si sviluppa nel corso della vita della macchina. Una CTM appena nata ha un Modello del Mondo confuso che non separa il sé dal mondo; le parole del Brainish e gli schizzi etichettati co-evolvono con l'esperienza, dalle parole primarie come BLOB e DOLORE fino a SÉ e COSCIENTE.",
+    "location_and_distribution": "Distribuita su tutti i processori della LTM, che ricevono la stessa trasmissione; la STM contiene un solo frammento per volta. Non viene rivendicata alcuna specifica localizzazione cerebrale.",
+    "causation_and_functional_role": "La trasmissione permette a ogni processore di sapere che cosa ha vinto, quanto fosse importante e il peso medio della competizione, il che calibra l'azione successiva. I processori cercano di decomprimere i frammenti di peso elevato e di ridurre i pesi fortemente negativi. La competizione equa e decentralizzata sostituisce il «direttore centrale» non definito di altri modelli teatrali.",
+    "integration_or_binding": "Una sintesi in Brainish fonde contenuti multimodali (il colore rosso di una rosa, il profumo dolce, i petali morbidi, gli incontri ricordati) in un'unica etichetta. Tutti i processori condividono un dizionario globale identico di frammenti trasmessi.",
+    "information_flow_or_representation": "Ogni frammento porta un indirizzo di processore, un tempo, una breve sintesi in Brainish, un peso con segno e dati ausiliari che accumulano il contesto globale mentre salgono nell'albero. Le parole del Brainish sono puntatori a frammenti trasmessi precedenti, che i Blum paragonano alle chiavi e ai valori nell'apprendimento automatico.",
+    "evolutionary_account": "All'interno di una singola CTM, il Brainish e il Modello del Mondo co-evolvono nel corso della sua vita; anche le specializzazioni dei processori evolvono. I Blum collocano questo in linea con teorie evolutive come quella di Nick Humphrey.",
+    "core_claims_and_evidence": [
+      "Un teorema dimostra che la probabilità di vittoria di un frammento è il suo peso diviso per il peso totale di tutte le voci, indipendentemente da dove i processori si trovino nell'albero.",
+      "La CTM riproduce la cecità inattentiva, la cecità al cambiamento e un ritardo di tipo Libet tra l'ingresso di un frammento nella competizione e la sua trasmissione.",
+      "Gli schizzi mal etichettati nel Modello del Mondo producono analoghi della sindrome dell'arto fantasma, del disturbo dell'integrità corporea e della paranoia.",
+      "La CTM si allinea ad alto livello con la teoria dello spazio di lavoro globale, la teoria dello schema dell'attenzione, l'elaborazione predittiva, la cognizione incarnata e la teoria dell'informazione integrata.",
+      "La CTM prevede che un esecutivo centrale non sia necessario alla coscienza, e quindi che il cervello non ne abbia alcuno."
+    ],
+    "basis_of_belief_or_evidence_type": "Formale e matematica (informatica teorica), sostenuta da una corrispondenza qualitativa con le caratteristiche note della coscienza umana."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettualmente verificabile",
+    "known_empirical_interventions_or_tests": "I Blum sostengono che la CTM sia costruibile. La sua previsione che il cervello non abbia un esecutivo centrale potrebbe essere verificata con la neuroscienza.",
+    "criticisms_and_tensions": "I critici si chiedono se definizioni formali ed elaborazione di simboli possano catturare l'esperienza vissuta. L'esperienza soggettiva entra attraverso l'Assioma A, sicché il resoconto del sentire poggia su un presupposto. Anil Seth e Nick Humphrey, le cui posizioni si sovrappongono alla CTM, sostengono che la coscienza richieda un organismo vivente, cosa che i Blum respingono.",
+    "open_questions_and_limitations": "La CTM è troppo semplice per modellare il cervello, come ammettono i Blum. Resta aperto se l'ispezione di un frammento produca esperienza, anziché soltanto modellare il suo ruolo.",
+    "ontological_coherence": "Coerente all'interno del funzionalismo computazionale. Si avvicina all'illusionismo di Daniel Dennett e Keith Frankish, sebbene i Blum parlino di spiegare «ciò che si prova» anziché di negarlo."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "I Blum sostengono che la CTM sia costruibile e che renda plausibile, anzi inevitabile, la coscienza dell'IA."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Poiché la coscienza qui è un processo computazionale con una vita finita, termina quando la macchina o il cervello smettono di funzionare."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "La teoria spiega la coscienza come calcolo e non postula alcuno scopo cosmico."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Se la coscienza è un calcolo indipendente dal substrato, riprodurre gli stessi processi in un'altra macchina seguirebbe dalla visione, sebbene i Blum non lo affrontino."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Fondamento"
+      },
+      {
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Seth's \"Beast Machine\" Theory",
+        "relationship": "Contrasto"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Lenore, Manuel, and Avrim Blum’s Conscious Turing Machine (Landscape of Consciousness), Lenore Blum, Manuel Blum, Avrim Blum",
+        "year": 2022
+      }
+    ]
+  }
+}

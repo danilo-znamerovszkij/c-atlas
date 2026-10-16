@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Superveniencia de Kim",
+    "summary": "Jaegwon Kim sostiene que las propiedades mentales supervienen sobre las físicas: no hay diferencia mental sin una diferencia física. Su argumento de exclusión causal obliga entonces a elegir, ya que una causa mental irreductible o sobredeterminaría los efectos físicos o sería causalmente inerte. Kim concluyó que las propiedades mentales deben reducirse a las físicas para tener poder causal, aunque reconoció que los qualia se resisten a la reducción funcional.",
+    "associated_thinkers": [
+      "Jaegwon Kim"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Filosófico",
+    "core_identity_tagline": "No hay diferencia mental sin una diferencia física",
+    "classification_tags": [
+      "supervenience",
+      "causal exclusion",
+      "mental causation",
+      "reductionism",
+      "qualia"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Las propiedades mentales quedan fijadas por las propiedades físicas: lo que es físicamente idéntico es psicológicamente idéntico. La superveniencia describe esta dependencia sin explicar cómo lo físico produce lo mental.",
+    "ontological_status": "Fisicalismo (reductivo, con un residuo de qualia)",
+    "mind_body_relationship": "La visión de Kim cambió a lo largo de su carrera: primero la teoría de la identidad, después el fisicalismo no reductivo basado en la superveniencia y, por último, el fisicalismo reductivo. Más tarde aceptó una versión del dualismo de propiedades para los qualia, a la que llamó algo cercano al fisicalismo.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Dependencia de superveniencia (las propiedades mentales quedan fijadas por las físicas; Kim sostenía que deben reducirse para ser causalmente eficaces)",
+    "subjectivity_and_intentionality": "Kim trata las propiedades mentales definibles funcionalmente como reducibles. Las propiedades fenoménicas subjetivas son la excepción que no pudo reducir.",
+    "qualia_account": "Kim sostenía que las propiedades fenoménicas no son definibles funcionalmente y, por tanto, son funcionalmente irreductibles, y añadía que si la reducción funcional no funciona para los qualia, no funcionará para nada.",
+    "ontological_commitments": "Un dominio físico causalmente cerrado, propiedades físicas que fijan las mentales y, en su visión posterior, propiedades fenoménicas que exceden la descripción física.",
+    "epistemic_access": "Kim creía que cualquier explicación correcta de la mente vendría de las ciencias naturales y no de la filosofía o la psicología.",
+    "constituents_and_structure": "Estados mentales realizados por estados físicos, donde un mismo estado mental puede realizarse en sistemas físicos distintos (realizabilidad múltiple)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Causación mental; conciencia fenoménica (qualia); la relación mente-cuerpo en general.",
+    "distinctive_mechanism_or_principle": "El argumento de exclusión causal: todo evento físico que tiene causa tiene una causa física suficiente, de modo que una causa mental irreductible produciría sobredeterminación. Por tanto, las causas mentales deben ser idénticas a las causas físicas o ser epifenoménicas.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "Los estados mentales son causalmente eficaces solo si se reducen a estados físicos, como en la identidad del dolor con la descarga de fibras C. Las propiedades mentales irreductibles quedarían excluidas por sus bases físicas.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Las cosas exactamente iguales en todas las propiedades físicas no pueden diferir en sus propiedades mentales.",
+      "La superveniencia permite que la misma psicología se realice en sistemas físicos distintos, en consonancia con el funcionalismo y la realizabilidad múltiple.",
+      "El argumento de exclusión causal derrota al fisicalismo no reductivo, que quiere que lo mental sea a la vez irreductible, dependiente y causalmente eficaz.",
+      "Las propiedades fenoménicas no son definibles funcionalmente, así que el fisicalismo no puede sobrevivir intacto y en su totalidad."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica: argumento metafísico a partir de la superveniencia y del cierre causal de lo físico."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Comprobable conceptualmente",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La superveniencia establece una dependencia, no un mecanismo, por lo que no explica nada sobre cómo los cerebros producen mentes. El propio argumento de exclusión de Kim amenaza con volver epifenoménicos a los qualia una vez que él concede que son irreductibles.",
+    "open_questions_and_limitations": "Kim admitió que las descripciones físicas del cerebro parecen incapaces de dar cuenta de los qualia, lo que deja un residuo mental que el fisicalismo no puede absorber.",
+    "ontological_coherence": "Kim llevó el fisicalismo hasta su límite y encontró un residuo. Aun así, seguía considerando el fisicalismo la cosmovisión más comprehensiva y rechazaba la explicación sobrenatural porque sustituye un enigma por otro."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Dado que toda diferencia mental requiere una diferencia física, ninguna vida mental puede continuar una vez desaparecida la base física."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Kim sostenía que la mente es un fenómeno natural y descartaba la explicación sobrenatural."
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Murphy's Non-Reductive Physicalism",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Epiphenomenalism (Materialism)",
+        "relationship": "Contraste"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Kim's Supervenience (Landscape of Consciousness entry), Jaegwon Kim",
+        "year": 2005
+      }
+    ]
+  }
+}

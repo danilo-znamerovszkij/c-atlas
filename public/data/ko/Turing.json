@@ -1,0 +1,131 @@
+{
+  "id_and_class": {
+    "theory_title": "튜링의 모방, 기계의 사고, 그리고 숨겨진 마음",
+    "summary": "앨런 튜링은 현상적 의식에 대한 이론을 제시하지 않았고, 그것을 제시하기를 거부했다. 대신 그는 경험의 신비를 먼저 풀지 않고도, 우리가 다른 사람을 판단하듯 기계가 생각하는지를 그 공개적 수행으로부터 판단할 수 있다고 주장했다. 그의 모방 게임과 기질에 의존하지 않는 계산 개념은 기능주의와 인공지능의 토대를 놓았다.",
+    "associated_thinkers": [
+      "Alan Turing"
+    ],
+    "category": "유물론",
+    "subcategory": "계산론적",
+    "core_identity_tagline": "의식을 풀지 않고 판단되는 기계의 마음",
+    "classification_tags": [
+      "turing test",
+      "imitation game",
+      "other minds",
+      "multiple realizability",
+      "machine intelligence"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "튜링은 의식을 어떤 것과도 동일시하지 않는다. 그는 의식을 진정한 신비로 다루어 제쳐 두며, 사고의 귀속은 관찰 가능한 능력에 기초할 수 있다고 본다.",
+    "ontological_status": "불가지론(방법론적)",
+    "mind_body_relationship": "열린 채로 남겨진다. 그의 1936년 보편 기계는 계산이 물리적 매체가 아니라 형식적 조직에 의해 고정된다는 것을 보여주며, 이 전제는 나중에 다중 실현 가능성에 쓰였지만, 튜링은 계산을 실행하는 것이 경험을 낳는다고 주장한 적이 없다. 그는 추측으로서 신이 기계에 영혼을 줄 수도 있다는 것조차 허용했다.",
+    "primitive_or_emergent_status": "불분명",
+    "emergence_type": "해당 없음(튜링은 의식의 형이상학을 괄호로 묶는다)",
+    "subjectivity_and_intentionality": "주관성은 사적인 것이므로, 다른 마음에 대한 확실성은 그 마음이 되는 것을 요구할 것이다. 튜링은 이 요구를 유아론의 극단이라고 부르며, 대신 '모두가 생각한다는 예의 바른 관례'를 채택한다고 말하는데, 이 관례는 충분히 풍부한 대화적 증거를 주는 기계에도 확장되어야 한다고 본다.",
+    "qualia_account": "없음. 튜링은 기계 학습을 보상과 처벌로 기술하는 것이 기계가 쾌락이나 고통을 느낀다는 것을 함축하지 않는다고 말하므로, 기능적 학습과 느껴지는 정동은 구별된 채로 남는다.",
+    "ontological_commitments": "추상적 계산 기계, 그것을 구현하는 물리적 체계, 그리고 내적 삶이 직접 관찰될 수 없는 마음들.",
+    "epistemic_access": "3인칭적이고 행동적이다. 기계의 정신성은, 다른 인간의 마음과 마찬가지로, 지속적인 텍스트 대화와 같이 공개적으로 평가 가능한 증거로부터 추론되어야 한다.",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "지능과 사고(행동적). 현상적 의식은 명시적으로 괄호 안에 놓인다.",
+    "distinctive_mechanism_or_principle": "모방 게임. 원격의, 텍스트만 주고받는 심문자가 기계와 인간을 구별하려고 시도한다. 튜링은 '기계는 생각할 수 있는가?'라는 물음을 이 시험으로 대체한다.",
+    "dynamics_of_emergence": "튜링은 지능이 학습될 수 있다고 제안했다. '아이 기계' 또는 '조직되지 않은 기계'들의 훈련 가능한 망은 교육, 보상, 처벌, 경험을 통해 성인의 능력을 습득하며, 설계자들을 놀라게 할 수도 있다.",
+    "location_and_distribution": "튜링은 의식을 위치시키려는 어떤 시도에도 역설이 있다고 지적하며, 위치를 제시하지 않는다.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "사고는 튜링 기계의 의미에서 규칙이 지배하는 기호 조작으로 평가된다. 보편 기계는 계산 가능한 모든 과정을 흉내 낼 수 있다.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "계산은 물리적 매체가 아니라 형식적 조직에 의존하므로, 뇌가 아닌 체계도 원리상 마음과 같은 능력을 가질 수 있다.",
+      "제프슨이 기계는 자신의 생각을 느껴야 한다고 요구한다면, 이를 일관되게 적용할 경우 우리는 다른 인간들이 생각한다는 것조차 알 수 없게 된다.",
+      "의식은 여전히 신비로 남지만, 기계가 생각하는지를 결정하기 전에 그 신비를 풀 필요는 없다.",
+      "튜링은 모방 게임을 통과하는 것이 의식을 보증한다고 주장하지 않았다."
+    ],
+    "basis_of_belief_or_evidence_type": "수학적(계산 이론)이며, 철학적(다른 마음들과의 동등성에 대한 논증)이다."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "경험적으로 검증 가능",
+    "known_empirical_interventions_or_tests": "모방 게임 그 자체. 오늘날 대형 언어 모델은 이런 종류의 대화 시험을 일상적으로 통과하며, 패트릭 버틀린 등의 연구자들은 이제 행동만이 아니라 의식 이론에서 가져온 구조적 지표를 찾는다.",
+    "criticisms_and_tensions": "네드 블록의 룩업 테이블 '블록헤드'는 사고하지 않고도 유한한 어떤 대화든 통과하므로, 행동만으로는 충분하지 않다. 존 설의 중국어 방은 프로그램을 실행하는 것이 이해나 의식을 낳지 않는다고 주장한다. 루카스와 펜로즈는 괴델의 결과로부터 반기계론적 논증을 끌어낸다. 어려운 문제의 이론가들은 튜링이 의식을 물음 바깥으로 정의해 버림으로써만 지능에 대한 시험을 규정했다고 말한다.",
+    "open_questions_and_limitations": "튜링은 감각질에 대한 설명도, 어떤 과정이든 무언가처럼 느껴져야 할 이유도 제시하지 않는다. 시험을 어떻게 읽어야 하는지는 논쟁적이다. 즉 행동주의적으로 읽을지, 귀납적 증거로 읽을지, 또는 튜링이 지능을 반응 의존적인 것으로 취급했다는 다이앤 프라우드풋의 견해로 읽을지가 다투어진다.",
+    "ontological_coherence": "최소주의적이므로 일관적이다. 튜링은 의식이 계산이라고 주장했기 때문이 아니라, 그가 제공한 가능화 전제 때문에 계산 이론들 속에 놓인다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "튜링은 기계라는 이유만으로 기계를 사고하는 존재에서 배제할 수는 없다고 주장했지만, 생각하는 기계가 무언가를 느끼는지는 열어 두었다."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Putnam’s Machine Functionalism",
+        "relationship": "영향"
+      },
+      {
+        "name": "Searle's Biological Naturalism",
+        "relationship": "비판"
+      },
+      {
+        "name": "Dennett’s Heterophenomenology",
+        "relationship": "확장"
+      },
+      {
+        "name": "Blums’ Conscious Turing Machine",
+        "relationship": "영향"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "On Computable Numbers, with an Application to the Entscheidungsproblem, Alan Turing",
+        "year": 1936
+      },
+      {
+        "title_with_names": "Intelligent Machinery, Alan Turing",
+        "year": 1948
+      },
+      {
+        "title_with_names": "Computing Machinery and Intelligence, Alan Turing",
+        "year": 1950
+      },
+      {
+        "title_with_names": "Intelligent Machinery, a Heretical Theory, Alan Turing",
+        "year": 1951
+      },
+      {
+        "title_with_names": "The Mind of Mechanical Man, Geoffrey Jefferson",
+        "year": 1949
+      },
+      {
+        "title_with_names": "Psychologism and Behaviorism, Ned Block",
+        "year": 1981
+      },
+      {
+        "title_with_names": "Minds, Brains, and Programs, John Searle",
+        "year": 1980
+      },
+      {
+        "title_with_names": "Rethinking Turing’s Test and the Philosophical Implications, Diane Proudfoot",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Identifying Indicators of Consciousness in AI Systems, Patrick Butlin, Robert Long, et al.",
+        "year": 2026
+      }
+    ]
+  }
+}

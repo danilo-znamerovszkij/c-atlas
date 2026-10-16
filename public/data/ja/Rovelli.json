@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ロヴェッリの関係論的物理学",
     "summary": "この理論は、意識は物理学、とりわけ量子力学と一般相対性理論の深く関係論的な側面によって十分に説明されると主張し、ハードプロブレムに対して収縮的（デフレ的）な見方をとる。物理学を、諸存在が互いにいかに立ち現れるかを記述する遠近法的（パースペクティブ的）なものとして正しく理解すれば、物理的世界と主観的経験のあいだに感じられる齟齬は解消される。",
-    "associated_thinkers": ["Carlo Rovelli"],
-    "category": "量子理論",
-    "subcategory": "関係論的物理学",
+    "associated_thinkers": [
+      "Carlo Rovelli"
+    ],
+    "category": "量子",
+    "subcategory": "関係性の物理学",
     "core_identity_tagline": "「遠近法的実在としての意識」",
     "classification_tags": [
       "relationalism",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識（思考）が、関係論的に記述される複雑な物理系の相互作用によって完全に説明されるのであれば、その作動がこれらの物理法則に支配されている十分に複雑な人工システムはいずれも意識を実現するであろう。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "この理論は、意識が量子力学において特別で緊密な役割を果たすことを明示的に退け、思考を複雑な物理系によって説明する。それゆえ意識は物理系（たとえば脳）の存在に結びついており、死とともに消散する。"
     },
     "meaning_and_purpose": {
-      "stance": "ありそうにない／人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "焦点は、実在が諸関係を通じていかに構造化されているかを記述することにある。複雑な創発的な系（人間）は意味を創出しうるが、関係論的物理学が記述する根本的な物理的実在は、宇宙的な目的論や究極的な目的を一切提供しない。"
     },
     "virtual_immortality": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識は物理系の構造と相互作用によって説明されるため、これらの複雑な関係論的な物理的状態を人工的な基盤上で正確に複製あるいはシミュレートすれば、技術が十分に先進的であるかぎり、仮想的不死が実現されるはずである。"
     }
   },
@@ -73,11 +75,11 @@
         "relationship": "両立可能（「ごく穏当な形」を支持する）"
       },
       {
-        "name": "Stapp’s Collapsing the Wave Function via Asking “Questions”",
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
         "relationship": "批判（ロヴェッリは、意識が量子力学の収縮において特別な役割を果たすことに反対して論じる。）"
       },
       {
-        "name": "Musser’s 'Is It Really So Hard?'",
+        "name": "Musser's \"Is It Really So Hard?\"",
         "relationship": "影響（マサーはロヴェッリの関係論的アプローチを賛意をもって引用している。）"
       }
     ],

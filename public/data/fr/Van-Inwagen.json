@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Le matérialisme chrétien et la résurrection des morts de van Inwagen",
     "summary": "Cette théorie propose une forme de matérialisme chrétien selon laquelle la personne humaine est entièrement une entité matérielle, rejetant ainsi le dualisme des substances pour des raisons à la fois philosophiques et bibliques. Elle soutient que l'identité personnelle par-delà la mort est maintenue par Dieu, qui préserve un « noyau nu » physiquement et causalement continu du corps matériel original jusqu'à la résurrection finale.",
-    "associated_thinkers": ["Peter van Inwagen"],
-    "category": "Physicalisme Non Réductif",
-    "subcategory": "Matérialisme Chrétien",
+    "associated_thinkers": [
+      "Peter van Inwagen"
+    ],
+    "category": "Non réductif",
+    "subcategory": "Matérialisme chrétien",
     "core_identity_tagline": "Le matérialisme réconcilié avec la résurrection biblique",
     "classification_tags": [
       "christian philosophy",
@@ -51,31 +53,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "En tant que théorie matérialiste, la conscience est finalement un produit de l'arrangement physique complexe, ce qui signifie que l'IA devrait, en principe, pouvoir instancier la conscience si le substrat physique requis est atteint."
     },
     "survival_beyond_death": {
-      "stance": "Oui (Conditionnel à une intervention divine)",
+      "stance": "Conditional",
       "rationale": "L'objectif principal de la théorie est de fournir un mécanisme (Dieu préservant un noyau nu) permettant à la personne matérielle d'atteindre la résurrection biblique et la survie post-mortem."
     },
     "meaning_and_purpose": {
-      "stance": "Cosmique/Théologique",
+      "stance": "Cosmic/Ultimate",
       "rationale": "L'ensemble du cadre repose sur un engagement théologique envers la résurrection des morts, impliquant un sens et une finalité ultimes au sein d'un plan divin."
     },
     "virtual_immortality": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Puisque la personne est une chose matérielle, le téléversement de l'état physique complet du cerveau devrait, en principe, aboutir à une duplication fonctionnelle du soi conscient, permettant l'immortalité virtuelle."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Critique" },
-      { "name": "Papineau’s Mind-Brain Identity", "relationship": "Chevauchement" },
       {
-        "name": "Murphy’s Non-Reductive Physicalism",
+        "name": "Dualism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Chevauchement"
+      },
+      {
+        "name": "Murphy's Non-Reductive Physicalism",
         "relationship": "Compatible"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Chevauchement" }
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Chevauchement"
+      }
     ],
     "sources_and_references": [
       {

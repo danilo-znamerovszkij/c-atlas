@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "L'âme dans les religions indigènes",
     "summary": "Cette catégorie rassemble les diverses conceptions de l'âme rencontrées à travers les religions indigènes et populaires du monde entier. Ces croyances impliquent généralement de multiples composantes non physiques de l'âme, dont certaines sont censées disparaître à la mort tandis que d'autres persistent, reflétant des aspects du dualisme traditionnel.",
-    "associated_thinkers": ["Claude Rivière", "Stevan Harrell"],
-    "category": "Dualismes",
-    "subcategory": "L'âme dans les religions indigènes",
+    "associated_thinkers": [
+      "Claude Rivière",
+      "Stevan Harrell"
+    ],
+    "category": "Dualisme",
+    "subcategory": "L’âme dans les religions autochtones",
     "core_identity_tagline": "Croyances multiples, ubiquitaires et durables sur l'âme",
     "classification_tags": [
       "indigenous",
@@ -51,26 +54,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience requiert une composante spirituelle (l'âme/l'esprit) dérivée de sources non physiques ou d'un créateur, ce que les systèmes artificiels manqueraient intrinsèquement."
     },
     "survival_beyond_death": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "La survie post-mortem est une caractéristique centrale, puisque plusieurs composantes de l'âme sont censées persister après la mort du corps biologique."
     },
     "meaning_and_purpose": {
-      "stance": "Cosmique/existentiel",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Les systèmes de croyance impliquent un sens ultime en postulant la préexistence, l'origination spirituelle à partir d'un créateur, et une structure globale régissant la destinée individuelle."
     },
     "virtual_immortality": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "L'immortalité s'accomplit par la persistance de l'âme spirituelle originelle, et ne peut être obtenue par la duplication technologique ou la simulation des motifs fonctionnels du corps physique."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "Recoupement"
       },
       {

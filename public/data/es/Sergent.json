@@ -1,0 +1,94 @@
+{
+  "id_and_class": {
+    "theory_title": "El ‘parque global’ de Sergent",
+    "summary": "Claire Sergent sostiene que el acceso consciente se retrasa y puede desincronizarse de la entrada sensorial, de modo que el cerebro puede llevar un estímulo a la conciencia ‘fuera de línea’, después de que haya desaparecido, si adquiere relevancia. Revisa el modelo del espacio de trabajo neuronal global: las representaciones sensoriales se comparten primero en un amplio ‘parque global’ de áreas cerebrales, que se convierte en un espacio de trabajo global pleno cuando una tarea recluta la toma de decisiones.",
+    "associated_thinkers": [
+      "Claire Sergent"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "La conciencia como acceso global temporalmente flexible",
+    "classification_tags": [
+      "global workspace",
+      "conscious access",
+      "retro-perception",
+      "timing",
+      "attention"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia es acceso consciente: el intercambio global de información entre redes cerebrales, que no tiene por qué seguir el orden en tiempo real de los sucesos externos.",
+    "ontological_status": "Fisicalismo (funcionalista)",
+    "mind_body_relationship": "El acceso consciente es un patrón de actividad cerebral a gran escala, como en el modelo del espacio de trabajo neuronal global que extiende.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia débil, a partir del intercambio de información entre redes cerebrales.",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "Redes corticales distribuidas, representaciones sensoriales que se mantienen durante varios cientos de milisegundos, y procesos de toma de decisiones que las reclutan.",
+    "epistemic_access": "Experimentos conductuales sobre la temporización de la percatación, EEG, MEG, registros intracraneales y fMRI en adultos sanos y en pacientes con trastornos de la conciencia.",
+    "constituents_and_structure": "Dos niveles: un parque global en el que las representaciones sensoriales se comparten y se mantienen sin una agenda específica, y un espacio de trabajo global que se forma cuando los procesos de decisión dirigidos por la tarea se incorporan a él."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Conciencia de acceso, especialmente su temporización.",
+    "distinctive_mechanism_or_principle": "Acceso consciente fuera de línea: la información retenida en el parque global puede entrar en la conciencia más tarde, cuando la atención o la relevancia lo requieran.",
+    "dynamics_of_emergence": "El acceso consciente va por detrás de la estimulación y puede activarse después de que un estímulo desaparezca, de modo que la experiencia no tiene por qué reflejar la secuencia de los sucesos del mundo.",
+    "location_and_distribution": "Una amplia red de áreas cerebrales entre las que se comparten las representaciones sensoriales, un subconjunto del espacio de trabajo global.",
+    "causation_and_functional_role": "Sergent sugiere que la capacidad de procesar información fuera de línea hizo que valiera la pena el procesamiento consciente, a pesar de su lentitud y de su capacidad limitada.",
+    "integration_or_binding": "La información se integra dinámicamente a lo largo del tiempo según el contexto y la relevancia.",
+    "information_flow_or_representation": "Las representaciones sensoriales se mantienen durante varios cientos de milisegundos en el parque, ofreciendo más opciones cognitivas que el procesamiento inconsciente automático, y se difunden de forma más plena cuando una tarea lo exige.",
+    "evolutionary_account": "El procesamiento fuera de línea habría hecho adaptativo el acceso consciente, lento y de capacidad limitada.",
+    "core_claims_and_evidence": [
+      "En la retro-percepción, la atención señalada después de que un estímulo desaparece puede desencadenar la percepción consciente de este.",
+      "La flexibilidad temporal del acceso ayuda a explicar el periodo refractario psicológico, el parpadeo atencional, los efectos postdictivos y la memoria icónica.",
+      "El acceso consciente encubierto depende de un parque global, que se convierte en un espacio de trabajo global cuando se añade la toma de decisiones."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírica: psicología experimental y electrofisiología humana."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Comprobable empíricamente",
+    "known_empirical_interventions_or_tests": "Paradigmas de retro-señalización, tareas de parpadeo atencional y de periodo refractario, y estudios del procesamiento preconsciente y de la memoria de trabajo sin conciencia.",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "",
+    "ontological_coherence": "Coherente con el marco fisicalista del espacio de trabajo neuronal global que revisa."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Como el acceso consciente es un patrón de actividad de redes cerebrales, termina con el cerebro."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "La teoría explica el acceso consciente como un proceso cerebral adaptativo."
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Sergent’s Global Playground, Claire Sergent",
+        "year": 2018
+      }
+    ]
+  }
+}

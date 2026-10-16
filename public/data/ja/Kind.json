@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "カインドの二元論2.0",
     "summary": "これは伝統的な宗教的ないし非科学的な含意から切り離された現代版の二元論であり、物理主義は意識的経験の完全な質的実在を十全に捉えることができないと論じる。それは、現象的状態・事象・過程が、物理的活動とは区別される、還元不可能なほど実在する一種の活動であると措定し、必ずしも別個の実体を措定することなく活動の二元性へと至る。",
-    "associated_thinkers": ["Amy Kind"],
+    "associated_thinkers": [
+      "Amy Kind"
+    ],
     "category": "二元論",
     "subcategory": "二元論の変種",
     "core_identity_tagline": "現象的活動と物理的活動の二元性",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "人工システムが、還元不可能なほど実在する現象的活動が生じるために必要な物理的複雑性（純粋に計算へは還元不可能なもの）を例化できるならば、AIの意識は可能である。しかしこの創発の正確な条件は未知である。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "カインドの二元論2.0は、別個の非物理的実体（魂）を措定することを避けて活動の二元性を採り、意識が能動的過程に結びつけられる広く自然主義的な見解に合致するため、生物学的停止後の存続は考えにくい。"
     },
     "meaning_and_purpose": {
-      "stance": "内在的価値（推論）",
+      "stance": "Uncertain",
       "rationale": "自然主義的見解（人間主義的な意味を示唆する）と両立するものの、質的経験が世界の還元不可能なほど実在する特徴であるという中核的主張は、意識が有用性や生存へは還元しえない、内在的で根本的な価値をもつことを含意する。"
     },
     "virtual_immortality": {
-      "stance": "不確か",
+      "stance": "Uncertain",
       "rationale": "現象的性格は還元不可能なほど実在的であるため、現象的創発を司る未知の法則が完璧に捉えられシミュレートされない限り、物理的ないし機能的状態を単に複製するだけでは現象的活動の複製を保証しないかもしれない。"
     }
   },
@@ -74,7 +76,7 @@
         "relationship": "重複"
       },
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "重複"
       },
       {

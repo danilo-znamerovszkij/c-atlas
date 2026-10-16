@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Levin-এর সর্বত্র মনের প্রতি প্রযুক্তিগত দৃষ্টিভঙ্গি (TAME)",
     "summary": "এই কাঠামো মন ও প্রজ্ঞাকে বৈচিত্র্যময়, প্রায়শই অপ্রচলিত মাধ্যমে—যার মধ্যে ইঞ্জিনিয়ার করা উপাদান ও কৃত্রিম জীববিজ্ঞান অন্তর্ভুক্ত—লক্ষ্য-নির্দেশিত কার্যকলাপের মাধ্যমে বোঝে। এটি অনুমান করে যে চেতনা বা অনুভূতিসম্পন্নতা ধারাবাহিক ও ক্রমিক, এবং প্রাণীর মনকে কোষ-গোষ্ঠীর মধ্যে সমষ্টিগত বুদ্ধিমত্তার একটি দৃষ্টান্ত হিসেবে দেখে।",
-    "associated_thinkers": ["Michael Levin"],
-    "category": "বস্তুবাদ তত্ত্ব",
-    "subcategory": "জাতিজনিগত বিবর্তন",
+    "associated_thinkers": [
+      "Michael Levin"
+    ],
+    "category": "চ্যালেঞ্জ",
+    "subcategory": "",
     "core_identity_tagline": "সর্বত্র মনের প্রতি প্রযুক্তিগত দৃষ্টিভঙ্গি (TAME)",
     "classification_tags": [
       "technological",
@@ -55,34 +57,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "সম্ভবত",
+      "stance": "Likely",
       "rationale": "যেহেতু TAME নকশাকৃত ও কাইমেরিক উপাদানের ক্ষেত্রেও প্রযোজ্য, কৃত্রিম ব্যবস্থা (যদি লক্ষ্য-নির্দেশিত, দেহায়িত প্রত্যক্ষণ-কর্ম ব্যবস্থা হিসেবে গঠিত হয়) যুক্তিসঙ্গতভাবে চেতনা রূপায়িত করতে পারে।"
     },
     "survival_beyond_death": {
-      "stance": "না",
+      "stance": "No",
       "rationale": "একটি বস্তুবাদী কাঠামো হিসেবে, যা চেতনাকে একটি দেহায়িত ভৌত মাধ্যমের চলমান কার্যকারিতার সঙ্গে যুক্ত করে, সেই মাধ্যমের অস্তিত্বের বাইরে টিকে থাকা সমর্থিত নয়।"
     },
     "meaning_and_purpose": {
-      "stance": "মানবতাবাদী/কর্তৃত্বের সঙ্গে যুক্ত",
+      "stance": "Humanistic only",
       "rationale": "চেতনা লক্ষ্য-নির্দেশিত কার্যকলাপের সঙ্গে যুক্ত, যা প্রস্তাব করে যে অর্থ মহাজাগতিক উদ্দেশ্যবাদের পরিবর্তে ব্যবস্থার অন্তর্নিহিত কর্তৃত্ব থেকে উদ্ভূত।"
     },
     "virtual_immortality": {
-      "stance": "সম্ভবত",
+      "stance": "Likely",
       "rationale": "মনকে প্রকৌশলিত ও নতুন, অ-জৈবিক স্থাপত্যে রূপায়িত করা যায় এমন প্রকল্প প্রস্তাব করে যে জটিল, দেহায়িত প্রত্যক্ষণ-কর্ম ব্যবস্থার প্রতিলিপিকরণ ও স্থানান্তর নীতিগতভাবে সম্ভব হওয়া উচিত।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Embodied Cognition",
+        "name": "Embodied",
         "relationship": "সামঞ্জস্যপূর্ণ/প্রভাব"
       },
       {
-        "name": "Ginsburg and Jablonka’s Associative Learning During Evolution",
+        "name": "Ginsburg and Jablonka's Associative Learning During Evolution",
         "relationship": "সমাপতন"
       },
       {
-        "name": "Computational and Informational Theories",
+        "name": "Computational",
         "relationship": "সমাপতন"
       }
     ],

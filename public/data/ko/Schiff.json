@@ -1,0 +1,123 @@
+{
+  "id_and_class": {
+    "theory_title": "쉬프의 의식 회복 전뇌 중간회로 이론",
+    "summary": "니콜라스 D. 쉬프(Nicholas D. Schiff)는 심한 뇌손상 이후 의식의 상실과 회복이 중심 시상, 전두엽 피질, 선조체, 내측 창백구(globus pallidus interna)를 잇는 회로에 달려 있다고 제안한다. 광범위한 손상은 선조체에 입력을 끊고, 그 결과 창백구의 억제가 중심 시상으로 풀리며, 이로써 전뇌 전체가 자기 강화적인 억제 상태로 빠져든다. 이 회로는 역치 너머로 다시 밀어 올릴 수 있으므로, 이 모형은 회복을 설명하고 어떤 치료가 효과를 낼지 예측한다.",
+    "associated_thinkers": [
+      "Nicholas D. Schiff"
+    ],
+    "category": "유물론",
+    "subcategory": "신경생물학적",
+    "core_identity_tagline": "시상-피질 회로의 기능으로서의 의식 수준",
+    "classification_tags": [
+      "disorders of consciousness",
+      "thalamus",
+      "deep brain stimulation",
+      "brain injury",
+      "neurology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "쉬프는 의식이 무엇인지 말하지 않는다. 그는 의식 수준을 가능하게 하는 조건을 규정한다. 즉 의식 상태가 의존하는 순환적 활동을 지속시킬 수 있는, 활성화된 전뇌 중간회로이다.",
+    "ontological_status": "물리주의(신경생물학적)",
+    "mind_body_relationship": "의식 수준은 특정한 피질하-피질 회로에 의존하며, 이 회로가 실패하면 대뇌피질 조직이 많이 남아 있어도 의식이 사라진다. 이 모형은 뇌 활동이 경험된 내용과 어떻게 관련되는지에 대해서는 침묵한다.",
+    "primitive_or_emergent_status": "창발적",
+    "emergence_type": "약한 창발(의식 수준은 뇌 회로의 동적 상태에 의존한다)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "다루지 않는다. 쉬프는 이 가설을 현상적 성격의 모형이 아니라 의식 수준의 모형으로 제시한다.",
+    "ontological_commitments": "신경 회로(중심 시상, 선조체의 중형 가시 뉴런, 내측 창백구, 전두엽 피질), 시냅스 구동, 신경조절, 대사.",
+    "epistemic_access": "행동 진단, 국소 뇌 대사(PET), 두피 EEG의 스펙트럼 패턴, 약물과 뇌심부 자극에 대한 반응.",
+    "constituents_and_structure": "하나의 고리. 피질과 시상이 선조체를 구동하고, 선조체는 내측 창백구를 억제하며, 창백구는 중심 시상을 억제하고, 중심 시상은 전두엽 피질과 선조체를 흥분시킨다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "의식 수준과 각성; 주의, 작업기억, 의도적 행동, 의사소통의 능력; 은폐된 의식. 현상적 내용은 아니다.",
+    "distinctive_mechanism_or_principle": "중간회로 하향 조절: 선조체 뉴런이 수렴하는 피질 및 시상 입력을 잃으면, 중심 시상에 대한 창백구의 억제가 증가하고, 시상-피질 구동이 무너지며, 줄어든 활동이 선조체를 침묵 상태로 유지한다.",
+    "dynamics_of_emergence": "의식 장애는 단계적인 회로 상태이다. 환자는 혼수에서 무반응 각성 상태를 거쳐 최소 의식 상태로 옮겨 갈 수 있으며, 시냅스 효율, 신경조절, 대사, 또는 자극의 작은 변화도 고리를 역치 너머로 밀어낼 수 있으므로 회복은 비선형적일 수 있다.",
+    "location_and_distribution": "전뇌: 중심 시상(중심 외측핵 포함), 선조체, 내측 창백구, 전두엽 피질. 이후 연구는 외측 창백구를 추가한다.",
+    "causation_and_functional_role": "활성화된 중간회로는 대규모 네트워크가 각성, 주의, 작업기억, 의도적 행동, 의사소통을 뒷받침하게 한다.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "식물인간 상태와 최소 의식 상태의 환자는 국소 손상의 크기에 비해 불균형하게, 전두엽 피질, 시상, 선조체에 집중된 대사 저하를 보인다(프리드먼 등).",
+      "진정제인 졸피뎀은 내측 창백구를 억제하고 중심 시상을 풀어 줌으로써 일부 환자의 반응을 회복시키며, 반응자에게서는 전전두 대사가 증가하고 저주파 EEG 활동이 줄어든다.",
+      "양측 중심 시상 뇌심부 자극은 6년 동안 최소 의식 상태였던 환자에게 지속적인 호전을 가져왔으며, 1상 임상시험은 외상성 뇌손상 이후 실행 통제의 개선을 보고했다.",
+      "ABCD 모형에서 EEG 회복은 1Hz 미만의 활동에서 시작해 세타파를 거쳐 알파파와 베타파 리듬으로 진행하며, 이는 시상-피질 고리가 복원되는 과정과 함께 일어난다."
+    ],
+    "basis_of_belief_or_evidence_type": "경험적 근거: 임상 신경학, PET 대사, EEG, 약리학, 개입 임상시험."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "경험적으로 검증 가능",
+    "known_empirical_interventions_or_tests": "졸피뎀 도전 검사; 중심 시상 뇌심부 자극(1상 무작위 실행 가능성 연구 포함); 국소 PET 대사 지도; 예후 판정과 신경조절 후보 선정을 위한 ABCD 모형을 활용한 EEG 스펙트럼 분류.",
+    "criticisms_and_tensions": "이 모형은 의식이 언제 일어날 수 있는지를 설명할 뿐, 의식이 무엇인지나 왜 어떤 느낌을 주는지는 설명하지 않는다. 추론 사슬의 여러 연결은 이미 수정되었는데, 외측 창백구의 추가가 그 예이다.",
+    "open_questions_and_limitations": "중간회로는 경험의 내용이나 그 질적 성격을 규정하지 않으며, 쉬프도 이를 인정한다. 비슷한 행동 진단이라도 서로 다른 잔존 능력을 숨길 수 있으므로, 은폐된 의식은 여전히 탐지하기 어렵다.",
+    "ontological_coherence": "물리주의와 일관되며, 존재론적 이론들에 대해 중립적이다. 이 모형은 경쟁하기보다 그 이론들을 제약한다. 의식을 전적으로 피질의 동역학 안에 두는 설명에 대해서는 문제를 제기한다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "여기서 의식 수준은 활성화된 전뇌 회로에 의존하므로, 그 회로의 영구적 실패를 의식이 넘어서 지속될 수 없다."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "중복"
+      },
+      {
+        "name": "Merker’s Midbrain-Centered Reality Space",
+        "relationship": "양립 가능"
+      },
+      {
+        "name": "Llinas's Mindness State of Oscillations",
+        "relationship": "중복"
+      },
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "양립 가능"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Recovery of Consciousness after Brain Injury: A Mesocircuit Hypothesis, Nicholas D. Schiff",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Behavioural Improvements with Thalamic Stimulation after Severe Traumatic Brain Injury, Nicholas D. Schiff et al.",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Regional Cerebral Metabolic Patterns Demonstrate the Role of Anterior Forebrain Mesocircuit Dysfunction in the Severely Injured Brain, E. A. Fridman et al.",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Common Resting Brain Dynamics Indicate a Possible Mechanism Underlying Zolpidem Response in Severe Brain Injury, S. T. Williams et al.",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Large-Scale Brain Dynamics in Disorders of Consciousness, Nicholas D. Schiff, T. Nauvel and J. D. Victor",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Central Thalamic Deep Brain Stimulation to Support Anterior Forebrain Mesocircuit Function in the Severely Injured Brain, Nicholas D. Schiff",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Thalamic Deep Brain Stimulation in Traumatic Brain Injury: A Phase 1, Randomized Feasibility Study, Nicholas D. Schiff et al.",
+        "year": 2023
+      }
+    ]
+  }
+}

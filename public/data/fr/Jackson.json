@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Le représentationnalisme diaphane de Jackson et l'argument de la connaissance",
     "summary": "Le représentationnalisme diaphane de Frank Jackson postule que le caractère phénoménal de l'expérience perceptive est entièrement épuisé par son contenu représentationnel, ce qui signifie que nous « voyons directement à travers » l'expérience jusqu'aux propriétés de l'objet. Cette position a été développée principalement pour saper la conclusion de sa propre célèbre expérience de pensée, l'Argument de la Connaissance, qui argumentait auparavant contre le physicalisme.",
-    "associated_thinkers": ["Frank Jackson"],
-    "category": "Théories matérialistes",
-    "subcategory": "Représentationnel",
+    "associated_thinkers": [
+      "Frank Jackson"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Premier ordre",
     "core_identity_tagline": "« Le caractère phénoménal est épuisé par le contenu représentationnel »",
     "classification_tags": [
       "representationalism",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "Si la conscience est épuisée par le contenu représentationnel et le rôle fonctionnel, et que ces propriétés peuvent être réalisées de manière computationnelle, alors les systèmes d'IA peuvent atteindre la conscience."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La théorie est une défense du matérialisme/physicalisme, impliquant que la conscience est liée uniquement au système physique (le cerveau ou son équivalent fonctionnel/représentationnel), empêchant toute survie au-delà de la cessation biologique."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "En tant que théorie matérialiste, elle n'offre aucun sens ou finalité ultime en dehors de ce que les humains créent pour eux-mêmes."
     },
     "virtual_immortality": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "Puisque le caractère phénoménal est entièrement capturé par le contenu fonctionnel/représentationnel, une duplication parfaite (téléversement) de ces contenus préserverait le soi mental original à la première personne."
     }
   },
@@ -78,7 +80,7 @@
         "relationship": "Fondement"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "Chevauchement"
       },
       {

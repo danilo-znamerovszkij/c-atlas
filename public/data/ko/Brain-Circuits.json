@@ -3,7 +3,7 @@
     "theory_title": "뇌 회로와 주기 이론",
     "summary": "이 오래된 이론군은 의식을 대규모 신경생리학적 구조와 동적 전기 활동의 작동, 즉 측방 경로, 망상 활성계, 수직 시상피질 방사(회로), 그리고 넓은 뇌 영역에 걸친 동기적 신경 발화(뇌파와 같은 주기)에 귀속시킨다. 이러한 설명들은 일반적으로 그 자체만으로는 불충분하다고 여겨지며, 보다 정교한 현대 신경생물학 이론으로 발전해 왔다.",
     "associated_thinkers": [],
-    "category": "유물론 이론",
+    "category": "유물론",
     "subcategory": "신경생물학적",
     "core_identity_tagline": "대규모 신경 구조와 진동으로서의 의식",
     "classification_tags": [
@@ -54,30 +54,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "의식이 전적으로 특정한 물리적 신경 회로와 동적 활동 패턴의 산물이라면, 이러한 메커니즘은 원리적으로 비생물학적 기질에서 완벽히 복제될 수 있으며 따라서 AI 의식이 가능해진다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "유물론 이론으로서 의식은 전적으로 생물학적 뇌에 결부되어 있다. 이러한 특정한 신경 회로와 주기가 멈추면 의식도 끝난다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "유물론과 일관되게, 이 이론은 궁극적인 우주적 의미나 목적을 제시하지 않는다. 모든 의미는 의식적 존재가 스스로 창출한다."
     },
     "virtual_immortality": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "일인칭 자아가 신경 패턴과 경로의 복잡한 물리적 조직과 동일시되므로, 이러한 회로를 비생물학적 매체에 완벽히 복제하면 현상적 의식이 보존될 것이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "확장"
       },
       {
-        "name": "Recurrent Processing Theory",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "확장/중첩"
       },
       {
@@ -85,7 +85,7 @@
         "relationship": "정교화"
       },
       {
-        "name": "Electromagnetic Field Theories",
+        "name": "Electromagnetic",
         "relationship": "중첩(뇌 주기는 전자기장과 관련된다)"
       }
     ],

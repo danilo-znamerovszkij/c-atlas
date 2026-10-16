@@ -7,7 +7,7 @@
       "Kevin O’Regan"
     ],
     "category": "বস্তুবাদ",
-    "subcategory": "সম্পর্কমূলক",
+    "subcategory": "মূর্ত",
     "core_identity_tagline": "সক্রিয় জগৎ-মিথস্ক্রিয়া হিসেবে চেতনা",
     "classification_tags": [
       "relational",
@@ -54,38 +54,62 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "অনিশ্চিত/শর্তসাপেক্ষ",
+      "stance": "Uncertain",
       "rationale": "স্বাভাবিক গণনা অপর্যাপ্ত; চেতনা কেবল সম্ভব যদি AI তন্ত্র সম্পূর্ণ দেহায়ন, দক্ষতা এবং একটি জগতের সাথে ধারাবাহিক, স্বাধীন মিথস্ক্রিয়া অর্জন করে (জীবন্ত প্রাণীর ওপর আরোপিত একই দাবি পূরণ করে)।"
     },
     "survival_beyond_death": {
-      "stance": "না",
+      "stance": "No",
       "rationale": "চেতনা মস্তিষ্ক ও দেহের জগতের সাথে মিথস্ক্রিয়ার ধারাবাহিক, সক্রিয় ভৌত লুপ থেকে অবিচ্ছেদ্য; এর সমাপ্তির অর্থ সচেতন কার্যকলাপের অবসান।"
     },
     "meaning_and_purpose": {
-      "stance": "কেবল মানবতাবাদী",
+      "stance": "Humanistic only",
       "rationale": "চেতনা কর্তাকে প্রসঙ্গ, জ্ঞান ও বোঝাপড়া অর্জন করতে সক্ষম করে, মিথস্ক্রিয়ায় অর্থ প্রদান ও সক্রিয় আচরণ পরিচালনার ক্ষমতা দেয়, কিন্তু কোনো অতীন্দ্রিয় উদ্দেশ্য বোঝায় না।"
     },
     "virtual_immortality": {
-      "stance": "অত্যন্ত অসম্ভাব্য",
+      "stance": "Unlikely",
       "rationale": "কেবল মস্তিষ্কের অভ্যন্তরীণ প্রক্রিয়া (সেই 'যান্ত্রিক অবস্থান') আপলোড করলে চেতনা হিসেবে সংজ্ঞায়িত অ-মস্তিষ্ক-নির্ভর, বাহ্যিক ও ধারাবাহিক মিথস্ক্রিয়ামূলক কার্যকলাপ ধরা যায় না।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Enactivism (Varela & Thompson)", "relationship": "গঠনকারী কাঠামো" },
-      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "মৌলিক প্রভাব" },
-      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "দার্শনিক প্রভাব" },
-      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "আংশিকভাবে সংগত/অতিব্যাপন" },
-      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "সম্পর্কিত/পরিপূরক (সক্রিয় প্রত্যক্ষণ, ভাগাভাগি সার্কিট প্রতিরূপ)" },
-      { "name": "Internalist Materialism", "relationship": "সমালোচনা" },
-      { "name": "Dualism", "relationship": "সমালোচনা" }
+      {
+        "name": "Enactivism",
+        "relationship": "গঠনকারী কাঠামো"
+      },
+      {
+        "name": "Ecological Psychology (James J. Gibson)",
+        "relationship": "মৌলিক প্রভাব"
+      },
+      {
+        "name": "Embodied Phenomenology (Maurice Merleau-Ponty)",
+        "relationship": "দার্শনিক প্রভাব"
+      },
+      {
+        "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)",
+        "relationship": "আংশিকভাবে সংগত/অতিব্যাপন"
+      },
+      {
+        "name": "Susan Hurley — Action/Perception & Shared Circuits",
+        "relationship": "সম্পর্কিত/পরিপূরক (সক্রিয় প্রত্যক্ষণ, ভাগাভাগি সার্কিট প্রতিরূপ)"
+      },
+      {
+        "name": "Internalist Materialism",
+        "relationship": "সমালোচনা"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "সমালোচনা"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
         "year": 2010
       },
-      { "title_with_names": "Varieties of Presence, Alva Noë", "year": 2012 },
+      {
+        "title_with_names": "Varieties of Presence, Alva Noë",
+        "year": 2012
+      },
       {
         "title_with_names": "Is consciousness an illusion, Alva Noë",
         "year": 2007

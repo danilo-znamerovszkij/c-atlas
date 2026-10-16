@@ -6,8 +6,8 @@
       "George Lakoff",
       "Mark Johnson"
     ],
-    "category": "유물론 이론",
-    "subcategory": "체화·발제 이론",
+    "category": "유물론",
+    "subcategory": "체화 및 행화",
     "core_identity_tagline": "근본적으로 체화된 경험으로서의 의식",
     "classification_tags": [
       "embodiment",
@@ -54,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "의식이 특정한 체화를 요구한다면, 인공 시스템은 유물론이 필요한 신체 체계와 감각운동 체계를 완벽하게 재현하는 비생물학적 기질을 구축하는 데 성공할 경우에만 의식을 가질 수 있다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식은 생물학적 신체와 그 체계의 존재 및 작동에 정교하게 의존하므로, 그 물리적 구성 요소가 기능을 멈추면 지속될 수 없다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "유물론 이론으로서, 궁극적인 우주적 의미는 없으나 의식이 스스로 결정한 의미와 가치를 창출하는 토대를 제공한다는 관점과 부합한다."
     },
     "virtual_immortality": {
-      "stance": "불확실",
+      "stance": "Uncertain",
       "rationale": "복제하려면 체화된 체계 전체와 그 감각운동 기제를 재현해야 하며, 이는 단지 뇌 활동을 복제하는 것을 넘어 상당하고 어쩌면 극복 불가능한 수준의 복잡성을 더한다."
     }
   },
@@ -77,11 +77,11 @@
         "relationship": "중첩"
       },
       {
-        "name": "Projective Consciousness Model (PCM)",
+        "name": "Projective Consciousness Model",
         "relationship": "영향"
       },
       {
-        "name": "Gibson’s Ecological Psychology",
+        "name": "Gibson's Ecological Psychology",
         "relationship": "중첩"
       }
     ],

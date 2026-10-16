@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "보스트롬의 계산적 기능주의",
+    "summary": "닉 보스트롬은 의식이 그것을 수행하는 물질이 아니라 계산에 의존한다고 보며, 따라서 마음은 생물학적 뉴런이 아닌 다른 기반 위에서도 작동할 수 있다고 주장한다. 그는 이것을 의식이 무엇인지에 대한 이론이라기보다, 그의 모의실험 논증, 인류원리적 추론, 인공 마음의 윤리학을 떠받치는 전제로 제시한다.",
+    "associated_thinkers": [
+      "Nick Bostrom"
+    ],
+    "category": "유물론",
+    "subcategory": "계산론적",
+    "core_identity_tagline": "기반 독립적 계산으로서의 의식",
+    "classification_tags": [
+      "functionalism",
+      "simulation argument",
+      "substrate independence",
+      "anthropic reasoning",
+      "ai ethics"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "의식은 올바른 계산 과정의 산물이다. 정신 상태는 그것이 무엇으로 이루어져 있는지가 아니라, 무엇을 하는지, 즉 기능적 역할에 의해 규정된다.",
+    "ontological_status": "물리주의 (계산적 기능주의)",
+    "mind_body_relationship": "다수 실현 가능성. 보스트롬은 인간의 마음이 모의실험될 수 있고 모의실험된 마음이 의식을 가질 수 있다면, 우리의 의식도 생물학적 뉴런이 아닌 다른 기반 위에서 실현될 수 있다고 쓴다.",
+    "primitive_or_emergent_status": "창발적",
+    "emergence_type": "약한 창발 (계산적 조직으로부터)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "계산 과정과, 그것을 구현하는 물리적 기반(생물학적이든 인공적이든).",
+    "epistemic_access": "계산신경과학과, 관찰자, 확률, 모의실험에 관한 철학적 추론을 통해.",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "현상적(도덕적으로 유의미한 것으로서); 의식의 정도; 관찰자 지위",
+    "distinctive_mechanism_or_principle": "기반 독립성: 어떤 하드웨어에서 실행되든 동일한 계산은 동일한 정신 상태를 낳는다.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "관련 계산이 실행되는 곳이라면 어디에서든, 뇌에서든, 컴퓨터에서든, 모의된 세계에서든.",
+    "causation_and_functional_role": "의식을 가진다는 것은 추론의 방식을 형성한다. 관찰자 선택 효과는 의식을 가진 관찰자가 우주에 대해 무엇을 믿어야 하는지, 그리고 자신이 모의실험 안에 있는지 여부까지도 제약한다.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "마음이 모의될 수 있고 모의된 마음이 의식을 가질 수 있다면, 의식은 생물학적 뉴런을 요구하지 않는다.",
+      "모의실험 논증은 의식이 계산적일 때에만 일관적이며, 따라서 계산주의는 그 논증의 전제 조건이다.",
+      "보스트롬은 존재자의 도덕적 지위가 적어도 부분적으로는 그것이 의식을 가지는지, 그리고 어느 정도 가지는지에 달려 있다고 쓰며, 이는 의식이 정도의 문제로 주어진다는 것을 함축한다.",
+      "보스트롬은 우리가 모의실험 속에 살고 있다고 주장하지 않는다. 그의 계산주의는 계산신경과학을 포함한 다른 근거에 의존한다."
+    ],
+    "basis_of_belief_or_evidence_type": "계산신경과학에 의해 뒷받침된 철학적, 확률론적 논증."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "사변적",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "보스트롬은 계산적 기능주의를 논증하기보다 대개 전제하며, 계산이 왜 경험을 낳아야 하는지 설명하지 않는다.",
+    "open_questions_and_limitations": "인공 마음이 의식을 가질 수 있는지, 그리고 그것이 권리를 가져야 하는지는 이 견해가 제기하지만 해결하지 않는 질문들이다. 보스트롬의 설명은 형이상학적이라기보다 인식론적이다.",
+    "ontological_coherence": "주류 기능주의, 그리고 모의실험, 실존적 위험, 전뇌 에뮬레이션에 관한 그의 연구와 일관된다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "의식이 기반 독립적인 계산이라면, 올바른 과정을 실행하는 인공 체계는 의식을 가질 것이며, 보스트롬은 그들의 도덕적 지위를 이에 연결한다."
+    },
+    "survival_beyond_death": {
+      "stance": "Conditional",
+      "rationale": "생물학적 죽음은, 그 계산이 다른 곳에서 재현되지 않는 한 의식을 끝낸다. 우리가 모의되어 있다면, 우리에게 일어나는 일은 모의하는 자에게 달려 있다."
+    },
+    "meaning_and_purpose": {
+      "stance": "Uncertain",
+      "rationale": "우리 세계가 고도로 발달한 문명이 만든 모의실험이라면, 그것은 만든 자가 정한 목적을 가질 수도 있다. 다만 보스트롬은 이를 안다고 주장하지 않는다."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "기반 독립성은 모의된 마음이 한 사람의 의식을 이어갈 수 있음을 함축하며, 이는 전뇌 에뮬레이션에 대한 보스트롬의 관심과 맞닿아 있다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Putnam’s Machine Functionalism",
+        "relationship": "기반"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Agüera y Arcas’s Computational Functionalism",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Searle's Biological Naturalism",
+        "relationship": "대조"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Bostrom’s Computational Functionalism (Landscape of Consciousness), Nick Bostrom",
+        "year": 2003
+      }
+    ]
+  }
+}

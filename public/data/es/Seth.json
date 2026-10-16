@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Teoría de la \"Máquina Bestia\" de Seth",
     "summary": "Esta teoría postula que las experiencias conscientes, incluidas las percepciones del mundo y del yo, son formas de predicción perceptiva de base cerebral, denominadas metafóricamente 'alucinaciones controladas'. Sitúa el mecanismo de la conciencia en el imperativo biológico fundamental de regular la fisiología corporal para permanecer con vida.",
-    "associated_thinkers": ["Anil Seth"],
-    "category": "Teorías del Materialismo",
-    "subcategory": "Homeostático y Afectivo",
+    "associated_thinkers": [
+      "Anil Seth"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Homeostático",
     "core_identity_tagline": "‘La Conciencia como Alucinación Controlada basada en la Predicción’",
     "classification_tags": [
       "neurobiology",
@@ -50,7 +52,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Como teoría materialista centrada en mecanismos computacionales y de procesamiento de información (predicción perceptiva), los sistemas de IA que instancien mecanismos complejos similares deberían ser capaces de alcanzar la conciencia."
     },
     "survival_beyond_death": {
@@ -58,11 +60,11 @@
       "rationale": "La conciencia es producto de cerebros biológicos y de una maquinaria predictiva compleja y físicamente instanciada. La muerte del cerebro conduce a la inexistencia irrevocable y permanente de la conciencia personal."
     },
     "meaning_and_purpose": {
-      "stance": "Solo humanista",
+      "stance": "Humanistic only",
       "rationale": "Categorizada como una Teoría del Materialismo, implica la ausencia de un sentido o propósito último o cósmico, aunque respalda el sentido y el valor creados por el ser humano derivados de la agencia y la experiencia individuales."
     },
     "virtual_immortality": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "Si la conciencia es enteramente explicable por los procesos computacionales del cerebro, entonces, en principio, el yo mental en primera persona podría duplicarse e instanciarse en un sustrato no biológico, permitiendo la inmortalidad virtual."
     }
   },
@@ -73,15 +75,15 @@
         "relationship": "Superposición"
       },
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "Compatible"
       },
       {
-        "name": "T. Clark’s Content Hypothesis",
+        "name": "T. Clark's Content Hypothesis",
         "relationship": "Compatible"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "Compatible"
       }
     ],

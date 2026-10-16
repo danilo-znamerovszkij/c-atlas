@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Les représentations mentales et attracteurs cérébraux de Humphrey",
     "summary": "Cette théorie matérialiste considère la conscience phénoménale comme un développement évolutif tardif, présent uniquement chez certaines espèces complexes. Les sensations sont générées par un processus en deux étapes : la collecte d'informations sensorielles, suivie d'une « lecture consciente » interprétative qui génère des représentations mentales possédant des propriétés phénoménales (qualia), souvent stabilisées par des états attracteurs complexes dans le cerveau.",
-    "associated_thinkers": ["Nicholas Humphrey"],
+    "associated_thinkers": [
+      "Nicholas Humphrey"
+    ],
     "category": "Matérialisme",
-    "subcategory": "Représentationnel",
+    "subcategory": "Ordre supérieur",
     "core_identity_tagline": "La conscience phénoménale comme représentations mentales évoluées dans des attracteurs",
     "classification_tags": [
       "evolutionary",
@@ -52,34 +54,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "En tant que théorie matérialiste où la conscience est réalisée par un traitement informationnel complexe, des représentations et des états attracteurs dans le cerveau, des systèmes artificiels capables de reproduire ces mécanismes devraient, en principe, devenir conscients."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience dépend entièrement du cerveau biologique évolué et de ses mécanismes neuronaux spécifiques (représentations et états attracteurs). La mort du cerveau entraîne la cessation de la conscience, conformément au matérialisme."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "La théorie s'inscrit strictement dans un contexte évolutif, où la conscience naît pour des bénéfices adaptatifs dans le « jeu de la fitness », suggérant que le sens et la finalité sont créés par l'humain ou subjectifs, plutôt que cosmiques ou ultimes."
     },
     "virtual_immortality": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si la conscience est entièrement explicable par les motifs neuronaux spécifiques, les représentations et les états attracteurs générés par le cerveau (théories matérialistes), alors une duplication parfaite de ces dynamiques fonctionnelles dans un support non biologique devrait préserver le soi mental à la première personne."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Thought Theory",
+        "name": "Higher-Order",
         "relationship": "Extension"
       },
       {
-        "name": "Dennett’s Evolution of Minds",
+        "name": "Dennett's Evolution of Minds",
         "relationship": "Chevauchement"
       },
       {
-        "name": "Recurrent Processing Theory",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "Chevauchement"
       }
     ],

@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "性質二元論",
     "summary": "性質二元論は、物理的実体が唯一の根本的な実体でありながら、還元不可能な二つの範疇の性質、すなわち物理的性質と心的性質が存在すると主張する。意識的経験のような心的性質は、物理的な脳によって生成されるが、物理的性質のみに還元されることも、それのみによって完全に説明されることもできない。",
-    "associated_thinkers": ["David Chalmers"],
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
     "category": "二元論",
     "subcategory": "性質二元論",
     "core_identity_tagline": "一つの実体、二つの還元不可能な性質（心的なものと物理的なもの）",
@@ -50,30 +52,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "非生物学的システムが、記述された還元不可能な心的性質を生成するのに必要な特定の複雑な物理的組織を例化できるならば、AIは意識的でありうる。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は物理的な脳によって生成される性質から成る。これらの性質は、死とともに物理的実体（脳／身体）が崩壊するときに存在しなくなる。"
     },
     "meaning_and_purpose": {
-      "stance": "言明なし／中立",
+      "stance": "Uncertain",
       "rationale": "この理論は存在論的範疇と性質の関係に焦点を当てる。根本的に物理的な実体を受け入れ、宇宙的目的論を本来的に支持しはしない。"
     },
     "virtual_immortality": {
-      "stance": "可能",
+      "stance": "Possible",
       "rationale": "意識が特定の物理的組織の創発的性質であるならば、その完全な物理的状態（脳の構造）を非生物学的基体において複製すれば、同一の心的性質が生成されるはずである。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "重複／両立可能（しばしば同義あるいは密接に関連するものとして扱われる）"
       },
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "批判／対比（実体の二元論を斥けるが、性質の二元論は維持する）"
       },
       {

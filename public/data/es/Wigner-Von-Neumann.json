@@ -1,0 +1,118 @@
+{
+  "id_and_class": {
+    "theory_title": "Colapso por conciencia de Wigner–von Neumann: la experiencia en el corte cuántico",
+    "summary": "La teoría sostiene que la dinámica cuántica lineal nunca produce por sí sola un resultado único y definido, y que la cadena de interacciones que va del sistema medido al aparato y al cerebro termina solo cuando un observador consciente tiene una experiencia. Von Neumann construyó el marco formal y mostró que el corte entre el sistema y el observador puede desplazarse libremente; Wigner extrajo la conclusión explícita de que la conciencia causa el colapso, porque la experiencia siempre es definida y nunca está en superposición. Wigner abandonó más tarde esta visión, pero ha sido revivida en una forma matemáticamente precisa.",
+    "associated_thinkers": [
+      "Eugene Wigner",
+      "John von Neumann",
+      "Fritz London",
+      "Edmond Bauer"
+    ],
+    "category": "Cuántico",
+    "subcategory": "",
+    "core_identity_tagline": "La conciencia como lo que pone fin a la cadena de medida cuántica",
+    "classification_tags": [
+      "measurement problem",
+      "wave function collapse",
+      "wigner's friend",
+      "interactionism",
+      "quantum mechanics"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Wigner define la conciencia de forma fenoménica, como ‘la propiedad de tener sensaciones’, y convierte la entrada de una impresión en la conciencia en el punto en que una superposición cuántica se convierte en un único resultado definido.",
+    "ontological_status": "Dualismo interaccionista",
+    "mind_body_relationship": "Los estados físicos actúan sobre la conciencia en la percepción, y, según el principio de acción recíproca de Wigner, la conciencia debe actuar a su vez sobre el mundo físico, lo que hace en la medida. El propio von Neumann recurrió al paralelismo psicofísico y no atribuyó poder causal al ‘ego abstracto’ del observador.",
+    "primitive_or_emergent_status": "No claro",
+    "emergence_type": "Wigner sostuvo que una organización físico-química adecuada da lugar a la conciencia, con una riqueza que varía según la complejidad de su sustrato; sin embargo, le asignó a la conciencia un papel fundamental en la dinámica cuántica y no ofreció ninguna explicación de cómo surge.",
+    "subjectivity_and_intentionality": "El argumento descansa en un dato de primera persona: un observador siempre experimenta un único resultado definido. En el ‘amigo de Wigner’, el amigo dentro del laboratorio informa de una experiencia definida, aunque, descrito desde fuera, debería estar en superposición.",
+    "qualia_account": "La fenomenalidad se presupone, no se explica. Wigner pregunta cómo las condiciones físico-químicas dan lugar a las sensaciones, pero no ofrece ningún mecanismo para el rojo, el dolor o el sonido.",
+    "ontological_commitments": "Estados cuánticos con dos tipos de cambio (la evolución unitaria continua y la medida discontinua); observadores conscientes cuya experiencia es siempre determinada; una influencia física de la conciencia sobre la evolución cuántica.",
+    "epistemic_access": "Mediante la introspección (la definición de la propia experiencia presente) combinada con el análisis formal de la medida cuántica.",
+    "constituents_and_structure": "Una cadena de medida que va del objeto al instrumento, la luz, la retina, el nervio óptico y el cerebro, hasta la percepción subjetiva, y en la que el corte puede situarse en cualquier punto."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Causación mental; el problema de la medida cuántica; la definición de la experiencia.",
+    "distinctive_mechanism_or_principle": "La conciencia pone fin a la evolución unitaria: cuando una impresión entra en la conciencia, una superposición coherente se convierte en una mezcla estadística de alternativas definidas. Wigner sugirió que las ecuaciones lineales de la mecánica cuántica podrían fallar en los sistemas conscientes.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "En el extremo del observador de la cadena de medida. La partición más extrema de von Neumann deja fuera de la descripción física solo un ego abstracto; Stapp situó más tarde el efecto en el cerebro.",
+    "causation_and_functional_role": "La conciencia es causalmente eficaz: selecciona, o induce la selección de, una alternativa cuántica definida y, con ello, altera la evolución física posterior.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Wigner trata la mecánica cuántica como una conexión de probabilidades entre impresiones sucesivas registradas por los observadores.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Von Neumann demostró que el lugar donde se sitúa el corte entre el sistema y el observador no cambia las predicciones de la teoría, pero que el corte debe estar en algún lugar para que aparezca cualquier resultado definido.",
+      "London y Bauer (1939) publicaron por primera vez la afirmación explícita, situando la resolución en la facultad de introspección del observador.",
+      "El amigo de Wigner muestra un conflicto entre la descripción en superposición de un observador consciente y el informe de ese mismo observador sobre una experiencia definida.",
+      "La física no reconoce influencias unidireccionales; por tanto, si el mundo actúa sobre la conciencia, la conciencia debe actuar sobre el mundo."
+    ],
+    "basis_of_belief_or_evidence_type": "Física teórica combinada con una premisa fenomenológica sobre la definición de la experiencia."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente contrastable",
+    "known_empirical_interventions_or_tests": "Las pruebas experimentales directas no han encontrado un colapso inducido por la conciencia (Yu y Nikolić, 2011). Los modelos actuales de colapso por conciencia, como la combinación de la IIT con la localización espontánea continua propuesta por Chalmers y McQueen, son en principio contrastables con ordenadores cuánticos.",
+    "criticisms_and_tensions": "La decoherencia (Zeh, Zurek) muestra cómo el entrelazamiento con el entorno suprime la interferencia mucho antes de llegar a un sistema nervioso, lo que hace que la conciencia parezca redundante. Bell preguntó si la función de onda del mundo había esperado miles de millones de años a una criatura unicelular, o a alguien con un doctorado. Aplicado de forma coherente, el razonamiento amenaza con el solipsismo, y las interpretaciones bohmiana, everettiana y de colapso objetivo tratan la medida sin recurrir a la conciencia.",
+    "open_questions_and_limitations": "La teoría no ofrece ningún criterio sobre qué sistemas son lo bastante conscientes como para causar el colapso, por lo que no puede decir cuándo se produce el colapso. No explica ni por qué existe la conciencia ni su carácter cualitativo, y la introspección solo muestra que la propia experiencia presente es definida.",
+    "ontological_coherence": "Coherente como interaccionismo fundado en la física y no en la metafísica, aunque descansa en una premisa que la física no proporciona. Wigner la abandonó tras el trabajo de Zeh y se acercó al colapso objetivo; más tarde, teóricos como Penrose, Hameroff y Stapp mantuvieron el acoplamiento, pero invirtieron su dirección."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "La teoría no ofrece un criterio fundado sobre qué sistemas físicos son conscientes, por lo que no puede decir si lo sería una máquina."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Wigner sostuvo que la organización físico-química da lugar a la conciencia y da forma a sus contenidos, por lo que la visión no ofrece fundamento para la experiencia sin cuerpo."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers and McQueen’s Quantum Collapse",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
+        "relationship": "Extensión"
+      },
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "Influencia"
+      },
+      {
+        "name": "Interactive Dualism",
+        "relationship": "Solapamiento"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mathematical Foundations of Quantum Mechanics, John von Neumann",
+        "year": 1932
+      },
+      {
+        "title_with_names": "Remarks on the mind-body question, Eugene P. Wigner",
+        "year": 1961
+      },
+      {
+        "title_with_names": "The problem of measurement, Eugene P. Wigner",
+        "year": 1963
+      },
+      {
+        "title_with_names": "La théorie de l'observation en mécanique quantique, Fritz London and Edmond Bauer",
+        "year": 1939
+      },
+      {
+        "title_with_names": "Consciousness and the collapse of the wave function, David J. Chalmers and Kelvin J. McQueen",
+        "year": 2022
+      }
+    ]
+  }
+}

@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "La théorie causale des vues de Smolin",
     "summary": "Cette théorie propose un achèvement relationnel et réaliste de la théorie quantique, affirmant que l'univers est fondamentalement construit à partir d'une collection de « vues d'événements », définies par l'information disponible depuis leur passé causal. La conscience est identifiée aux vues rares, spécifiques, qui sont sans précédent ou uniques dans l'histoire universelle.",
-    "associated_thinkers": ["Lee Smolin"],
-    "category": "Théories quantiques",
+    "associated_thinkers": [
+      "Lee Smolin"
+    ],
+    "category": "Quantique",
     "subcategory": "Théorie quantique relationnelle/causale",
     "core_identity_tagline": "La conscience comme vues causales nouvelles ou uniques",
     "classification_tags": [
@@ -50,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Conditionnel",
+      "stance": "Conditional",
       "rationale": "Les systèmes d'IA pourraient potentiellement atteindre la conscience si leurs processus computationnels génèrent des vues causales d'événements véritablement nouvelles et uniques répondant aux critères de sélection, mais cela n'est pas garanti pour les processus computationnels routiniers."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience est liée à des événements physiques et à leurs vues causales dans l'univers. Aucun mécanisme n'est décrit pour que ces vues persistent indépendamment une fois le substrat physique sous-jacent (le cerveau/la série d'événements) dissous."
     },
     "meaning_and_purpose": {
-      "stance": "Indéterminé",
+      "stance": "Uncertain",
       "rationale": "La théorie se concentre sur l'ontologie physique fondamentale de la conscience (comment les qualia s'intègrent dans la physique) et n'aborde pas intrinsèquement le sens cosmique ou la téléologie."
     },
     "virtual_immortality": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La duplication numérique reproduirait vraisemblablement des vues « communes et routinières », dont il est explicitement émis l'hypothèse qu'elles ne sont pas corrélées à des perceptions conscientes. Une véritable conscience virtuelle nécessiterait de générer de la nouveauté, ce qui semble peu probable par la simple simulation."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Rovelli's Relational Physics",
+        "name": "Rovelli's Relationship Physics",
         "relationship": "Influence/Chevauchement"
       },
       {
-        "name": "Panpsychism (Micropsychism)",
+        "name": "Panpsychism",
         "relationship": "Restriction/Contraste"
       },
       {
-        "name": "Bohm’s Implicate-Explicate Order",
+        "name": "Bohm's Implicate-Explicate Order",
         "relationship": "Influence contextuelle"
       }
     ],

@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Funcionalismo Computacional de Bostrom",
+    "summary": "Nick Bostrom sostiene que la conciencia depende de la computación, no del material que la realiza, de modo que las mentes podrían ejecutarse en sustratos distintos de las neuronas biológicas. Desarrolla esta tesis menos como una teoría de lo que es la conciencia que como premisa de su argumento de la simulación, de su razonamiento antrópico y de la ética de las mentes artificiales.",
+    "associated_thinkers": [
+      "Nick Bostrom"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Computacional",
+    "core_identity_tagline": "La conciencia como computación independiente del sustrato",
+    "classification_tags": [
+      "functionalism",
+      "simulation argument",
+      "substrate independence",
+      "anthropic reasoning",
+      "ai ethics"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia es un producto de los procesos computacionales adecuados. Los estados mentales se definen por sus roles funcionales, por lo que hacen, y no por aquello de lo que están hechos.",
+    "ontological_status": "Fisicalismo (funcionalismo computacional)",
+    "mind_body_relationship": "Realizabilidad múltiple. Bostrom sostiene que, si las mentes humanas pueden simularse y las mentes simuladas pueden ser conscientes, nuestra propia conciencia podría realizarse en un sustrato distinto de las neuronas biológicas.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia débil (a partir de la organización computacional)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "Los procesos computacionales y cualquier sustrato físico que los implemente, biológico o artificial.",
+    "epistemic_access": "A través de la neurociencia computacional y del razonamiento filosófico sobre observadores, probabilidad y simulación.",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (en cuanto moralmente significativa); Grados de conciencia; Estatus de observador",
+    "distinctive_mechanism_or_principle": "Independencia del sustrato: la misma computación produce los mismos estados mentales, cualquiera sea el hardware que la ejecute.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Dondequiera que se ejecute la computación pertinente: en cerebros, computadoras o un mundo simulado.",
+    "causation_and_functional_role": "Ser consciente condiciona el razonamiento. Los efectos de selección observacional limitan lo que un observador consciente debería creer sobre el universo, incluido si vive en una simulación.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Si las mentes pueden simularse y las mentes simuladas pueden ser conscientes, la conciencia no requiere neuronas biológicas.",
+      "El argumento de la simulación es coherente solo si la conciencia es computacional, lo que convierte al computacionalismo en una precondición suya.",
+      "Bostrom sostiene que el estatus moral de una entidad depende, al menos en parte, de si es consciente y en qué grado, lo que implica que la conciencia admite grados.",
+      "Bostrom no afirma que vivamos en una simulación; su computacionalismo descansa en otros fundamentos, entre ellos la neurociencia computacional."
+    ],
+    "basis_of_belief_or_evidence_type": "Argumentación filosófica y probabilística, informada por la neurociencia computacional."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Especulativa",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Bostrom supone el funcionalismo computacional más de lo que lo argumenta, y no explica por qué la computación debería producir experiencia.",
+    "open_questions_and_limitations": "Si las mentes artificiales pueden ser conscientes, y si deberían tener derechos, son preguntas que la teoría plantea pero no resuelve. La explicación de Bostrom es más epistemológica que metafísica.",
+    "ontological_coherence": "Compatible con el funcionalismo dominante y con su trabajo sobre la simulación, el riesgo existencial y la emulación cerebral completa."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "Si la conciencia es computación independiente del sustrato, los sistemas artificiales que ejecuten los procesos adecuados serían conscientes, y Bostrom vincula a ello su estatus moral."
+    },
+    "survival_beyond_death": {
+      "stance": "Conditional",
+      "rationale": "La muerte biológica pone fin a la conciencia, salvo que su computación se reproduzca en otra parte; si somos simulados, lo que nos ocurra dependerá de los simuladores."
+    },
+    "meaning_and_purpose": {
+      "stance": "Uncertain",
+      "rationale": "Si nuestro mundo es una simulación construida por una civilización avanzada, podría tener un propósito fijado por sus creadores, pero Bostrom no afirma saberlo."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "La independencia del sustrato implica que una mente simulada podría prolongar la conciencia de una persona, en línea con el interés de Bostrom por la emulación cerebral completa."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Putnam’s Machine Functionalism",
+        "relationship": "Fundamento"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Agüera y Arcas’s Computational Functionalism",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Searle's Biological Naturalism",
+        "relationship": "Contraste"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Bostrom’s Computational Functionalism (Landscape of Consciousness), Nick Bostrom",
+        "year": 2003
+      }
+    ]
+  }
+}

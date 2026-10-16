@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "التزامن واللاوعي الجمعي عند يونغ",
     "summary": "يفترض هذا الإطار أن التزامن، وهو مصادفة ذات معنى تفتقر إلى صلة سببية، مبدأ أساسي للواقع إلى جانب السببية. ويربط هذه الصلة اللاسببية بواقع أعمق كُلّاني محايد نفسيًّا-فيزيائيًّا تنبثق منه الحالات العقلية الواعية.",
-    "associated_thinkers": ["Carl Jung", "Wolfgang Pauli"],
-    "category": "الحالات الشاذة والمتغيّرة",
-    "subcategory": "إطار مفاهيمي",
+    "associated_thinkers": [
+      "Carl Jung",
+      "Wolfgang Pauli"
+    ],
+    "category": "الشاذّة",
+    "subcategory": "الإطار المفاهيمي",
     "core_identity_tagline": "«وعي مترابط بمعنى لاسببي»",
     "classification_tags": [
       "synchronicity",
@@ -50,38 +53,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "غير مؤكد (مشروط)",
+      "stance": "Uncertain",
       "rationale": "إذا كان الوعي متجذّرًا في واقع نفسي-فيزيائي أساسي غير موضعي (اللاوعي الجمعي)، فستحتاج الأنظمة الاصطناعية إلى آلية للوصول إلى هذا الواقع أو المشاركة فيه، ما يجعل تحققه مشروطًا إلى حد بعيد."
     },
     "survival_beyond_death": {
-      "stance": "مرجّح",
+      "stance": "Likely",
       "rationale": "تستلزم النظرية واقعًا موسَّعًا غير موضعي (اللاوعي الجمعي/المجال المحايد) تستمر فيه العناصر النماذجية الأولية، بما يتسق مع الآراء التي تسمح بحالة وعي بعد الموت البيولوجي."
     },
     "meaning_and_purpose": {
-      "stance": "نهائي/كوني",
+      "stance": "Cosmic/Ultimate",
       "rationale": "يتمحور الإطار حول المعنى الكيفي المتأصل والعوامل النَّظْمية الغائية (النماذج الأولية)، بما يشير إلى غاية كونية تتجاوز الضرورة الإنسانية أو البيولوجية."
     },
     "virtual_immortality": {
-      "stance": "غير مرجّح (مشروط)",
+      "stance": "Unlikely",
       "rationale": "يعتمد الخلود الافتراضي على الاستنساخ الرقمي للذات الفردية. وبما أن الوعي مشتقّ من مصدر جمعي غير موضعي، فإن استنساخ الحالة الواعية الشخصية الانبثاقية المحددة في محاكاة دون التقاط المصدر غير الفيزيائي سيفشل على الأرجح في حفظ الذات الأصلية بمنظورها الأول."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Pauli–Jung Conjecture",
+        "name": "Pauli’s One World, Two Aspects: Psychophysical Complementarity",
         "relationship": "امتداد"
       },
       {
-        "name": "Dual-Aspect Monism",
+        "name": "Neutral Monism",
         "relationship": "متوافقة"
       },
       {
-        "name": "Idealisms",
+        "name": "Idealism",
         "relationship": "متوافقة"
       },
       {
-        "name": "Quantum Theories",
+        "name": "Quantum & Dimensions",
         "relationship": "تداخل"
       }
     ],

@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "La théorie relativiste de Lahav",
     "summary": "Cette théorie caractérise la conscience comme un phénomène physique relatif aux mesures effectuées par un « référentiel cognitif ». Par analogie avec la vitesse en physique, différents observateurs opérant dans différents référentiels cognitifs manifesteront des propriétés physiques différentes (conscience éprouvée pour soi-même contre activité cérébrale mesurée pour autrui) en observant le même phénomène.",
-    "associated_thinkers": ["Nir Lahav", "Z.A. Neemeh"],
+    "associated_thinkers": [
+      "Nir Lahav",
+      "Z.A. Neemeh"
+    ],
     "category": "Matérialisme",
-    "subcategory": "Relationnelle",
+    "subcategory": "Relationnel",
     "core_identity_tagline": "La conscience comme phénomène physique relatif à un référentiel cognitif",
     "classification_tags": [
       "relativistic",
@@ -50,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Conditionnelle",
+      "stance": "Conditional",
       "rationale": "La théorie postulant que la conscience naît de la mesure physique et non du calcul, les systèmes d'IA nécessiteraient des processus de mesure physique non computationnels constituant un référentiel cognitif, ce qui rend la conscience conditionnelle à une implémentation matérielle allant au-delà du simple calcul."
     },
     "survival_beyond_death": {
@@ -62,22 +65,22 @@
       "rationale": "Ce champ n'est pas abordé dans le matériel source fourni."
     },
     "virtual_immortality": {
-      "stance": "Improbable",
+      "stance": "Unlikely",
       "rationale": "La conscience étant non computationnelle et dépendante du processus de mesure physique, l'immortalité virtuelle standard (téléchargement de logiciels/données) est improbable, bien que la duplication physique du système relativiste puisse théoriquement être possible."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Théories relationnelles de la conscience",
+        "name": "Relational Theories of consciousness",
         "relationship": "Chevauchement"
       },
       {
-        "name": "Théories computationnelles de l'esprit",
+        "name": "Computational Theories of Mind",
         "relationship": "Critique"
       },
       {
-        "name": "La physique relationnelle de Rovelli",
+        "name": "Rovelli's Relationship Physics",
         "relationship": "Influence"
       }
     ],

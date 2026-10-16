@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "ホフマンの意識的実在論――実在に反対する論証",
     "summary": "この理論は、進化が実在の真正な知覚ではなく生存と繁殖上の適応度を選択すると主張する。その結果、時空と物理的対象は、適応的行動を導く単なる「インターフェース」ないし錯覚として機能する。究極的実在は根本的に、相互作用する意識的作因とその経験から成り、それらは物理的世界に先立ち、それを生み出すものである。",
-    "associated_thinkers": ["Donald Hoffman"],
+    "associated_thinkers": [
+      "Donald Hoffman"
+    ],
     "category": "観念論",
     "subcategory": "観念論（意識的実在論）",
     "core_identity_tagline": "「意識こそ根源的実在である」",
@@ -50,30 +52,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "意識が根源的である（観念論）ため、それは生物学的物質に限られない。人工システムが「意識的作因」に特徴的な組織的複雑性を達成すれば、その物理的基盤のいかんにかかわらず、根源的な意識場に接続しうる。"
     },
     "survival_beyond_death": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "意識は根源的で物理的インターフェースを生み出すため、個別的な意識的作因は、生物学的身体／インターフェースの解体を超えて存続する可能性が高い。"
     },
     "meaning_and_purpose": {
-      "stance": "究極的な意味／目的／価値",
+      "stance": "Cosmic/Ultimate",
       "rationale": "観念論は根本的に究極的な意味と目的を支持する。実在は相互作用する意識的作因から成り、その存在と行為（他の作因への影響）は本来的な価値と目的を含意する。"
     },
     "virtual_immortality": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "脳が根源的意識のための単なるインターフェースであるならば、仮想的不死は、非生物学的媒体において個別的な意識的作因を顕現させるために必要な構造ないし機能（「図像」ないしインターフェース）を再現する問題となる。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Analytic Idealism (Kastrup)",
+        "name": "Kastrup's Analytic Idealism",
         "relationship": "重複"
       },
       {
-        "name": "Eliminative Materialism/Illusionism (Dennett/Graziano)",
+        "name": "Eliminative/Illusionism",
         "relationship": "批判"
       },
       {

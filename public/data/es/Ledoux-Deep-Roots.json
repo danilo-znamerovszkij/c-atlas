@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Teoría de las Raíces Profundas de LeDoux",
     "summary": "Esta teoría examina la conciencia y el comportamiento humanos a través del prisma de la historia evolutiva profunda, postulando que la conciencia surgió relativamente hace poco como producto sofisticado de los circuitos cognitivos corticales. Rastrea cómo las capacidades de supervivencia fundamentales, heredadas de los organismos más antiguos, fueron potenciadas por la evolución de los sistemas nerviosos, dando lugar finalmente a la conciencia.",
-    "associated_thinkers": ["Joseph LeDoux"],
-    "category": "Teorías del Materialismo",
-    "subcategory": "Evolución Filogenética",
+    "associated_thinkers": [
+      "Joseph LeDoux"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Filogenético",
     "core_identity_tagline": "La conciencia como producto emergente de mecanismos de supervivencia potenciados.",
     "classification_tags": [
       "evolution",
@@ -48,7 +50,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Como teoría materialista centrada en mecanismos biológicos emergentes, si las funciones evolutivas y de supervivencia necesarias pueden replicarse en un sustrato artificial, la conciencia de la IA debería ser posible en principio."
     },
     "survival_beyond_death": {
@@ -56,11 +58,11 @@
       "rationale": "La conciencia depende explícitamente del cerebro biológico evolucionado y sus circuitos cognitivos corticales, que cesan de funcionar en la muerte."
     },
     "meaning_and_purpose": {
-      "stance": "Solo humanístico",
+      "stance": "Humanistic only",
       "rationale": "En consonancia con el materialismo, la conciencia sirve principalmente a la función biológica de potenciar la supervivencia y el florecimiento, sin ofrecer un sentido o teleología cósmica inherente más allá del que los humanos crean para sí mismos."
     },
     "virtual_immortality": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "Dado que la conciencia se entiende como puramente física y emergente del procesamiento biológico complejo de información, la duplicación del patrón neural debería, en principio, permitir la inmortalidad virtual."
     }
   },
@@ -71,11 +73,11 @@
         "relationship": "Extensión"
       },
       {
-        "name": "Dennett’s Evolution of Minds",
+        "name": "Dennett's Evolution of Minds",
         "relationship": "Solapamiento"
       },
       {
-        "name": "Mitchell’s Free Agents",
+        "name": "Mitchell's Free Agents",
         "relationship": "Compatible"
       },
       {

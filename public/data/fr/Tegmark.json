@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "L'état de matière de Tegmark",
     "summary": "Tegmark propose que la conscience puisse être comprise comme un état particulier de la matière, désigné sous le terme de « perceptronium », défini par des capacités distinctives de traitement de l'information. Partant de la prémisse que toute existence est physique, la théorie recherche des principes distinguant le traitement de l'information complexe et conscient du traitement non conscient.",
-    "associated_thinkers": ["Max Tegmark"],
-    "category": "Monismes",
+    "associated_thinkers": [
+      "Max Tegmark"
+    ],
+    "category": "Monisme",
     "subcategory": "",
     "core_identity_tagline": "La conscience comme état de matière : le perceptronium",
     "classification_tags": [
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Oui",
+      "stance": "Yes",
       "rationale": "La théorie est strictement physicaliste (« tout est physique ») et définit la conscience comme un état de matière atteignable par un traitement complexe de l'information. Par conséquent, les systèmes artificiels peuvent atteindre cet état en principe."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience est un état émergent de matière (le perceptronium) du cerveau physique. La mort et la dissolution irréversibles du substrat physique entraîneraient la cessation de la conscience."
     },
     "meaning_and_purpose": {
-      "stance": "Incertain/humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "Le fondement dans la physique et la structure mathématique suggère généralement l'absence de finalité cosmique ultime, en cohérence avec les conceptions physicalistes déflationnistes. La théorie ne propose pas explicitement de téléologie cosmique."
     },
     "virtual_immortality": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si la conscience est un état informationnel spécifique de la matière défini par des principes mathématiques/physiques, cet état pourrait potentiellement être dupliqué parfaitement ou téléversé dans un support non biologique par une technologie avancée."
     }
   },
@@ -78,7 +80,7 @@
         "relationship": "Fondement"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "Compatible"
       }
     ],

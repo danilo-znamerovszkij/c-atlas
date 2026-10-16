@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ラメの再帰的処理理論",
     "summary": "ラメの再帰的処理理論（RPT）は、とりわけ感覚系において神経領域間に相互的な（再帰的な）フィードバック結合が生じるとき、意識が必要かつ十分であると主張する。感覚領域および感覚後領域で局所的に生じるこの処理（第3段階）は、全域的放送によるアクセスを要さずに現象的経験を生み出す。",
-    "associated_thinkers": ["Victor Lamme"],
+    "associated_thinkers": [
+      "Victor Lamme"
+    ],
     "category": "唯物論",
-    "subcategory": "表象的",
+    "subcategory": "一階",
     "core_identity_tagline": "「感覚系における再帰的処理としての意識」",
     "classification_tags": [
       "neuroscience",
@@ -50,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "唯物論の理論として、必要な再帰的処理のパターンが非生物学的基盤において人工的に複製されうるならば、AIの意識は原理的に可能であるはずである。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は物理的な脳活動と特定の神経回路（再帰的処理状態）に結びついており、身体の死とともに停止することを示唆する。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的な意味のみ",
+      "stance": "Humanistic only",
       "rationale": "本理論は現象的経験の純粋に物理主義的で神経生物学的な説明に焦点を当て、いかなる究極的な宇宙的意味や目的も支持しない。"
     },
     "virtual_immortality": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "意識は再帰的処理状態そのものであるため、その過程の完全な複製を新たな媒体へ移すこと（アップロード）は一人称的自己を生み出し、仮想的不死を可能にするだろう。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "批判"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "拡張"
       },
       {
-        "name": "Block’s Biological Reductionism",
+        "name": "Block's Biological Reductionism",
         "relationship": "重複"
       }
     ],

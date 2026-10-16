@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "새가드의 신경 표상·결합·정합·경쟁 이론",
     "summary": "이 이론은 의식 경험을 경험적으로 그럴듯한 네 가지 뇌 메커니즘, 곧 신경 표상, 결합, 정합, 경쟁의 상호작용에 귀속시킨다. 의식은 뇌 전반에 걸친 이러한 상호작용에서 창발하며, 이는 꿈, 유머, 자기의식과 같은 복잡한 의식 현상에 대해 과학적으로 근거 있는 설명을 제공한다고 주장한다.",
-    "associated_thinkers": ["Paul Thagard"],
+    "associated_thinkers": [
+      "Paul Thagard"
+    ],
     "category": "유물론",
-    "subcategory": "표상주의",
+    "subcategory": "고차",
     "core_identity_tagline": "‘신경 메커니즘이 구축하는 의식’",
     "classification_tags": [
       "neuroscience",
@@ -52,34 +54,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "이 이론은 현재의 컴퓨터는 의식적이지 않지만 새로운 생성형 AI 모델이 인간과 유사한 메커니즘을 지니고 있어 어느 정도의 의식이 가능할 수 있으며, 특히 네 가지 핵심 뇌 메커니즘이 계산적으로 모델링되거나 재현될 수 있다면 그러하다고 시사한다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "유물론 이론으로서 의식은 전적으로 생물학적 뇌에 의존한다. 따라서 뇌의 죽음은 그 사람과 의식의 영구적 비존재를 초래한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한정",
+      "stance": "Humanistic only",
       "rationale": "유물론 이론으로서 궁극적인 우주적 의미나 목적을 일반적으로 배제하는 물리주의적 설명을 따르며, 오직 인간 자신이 만들어내는 의미와 가치만을 인정한다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "유물론 이론이 의식을 전적으로 물리적 메커니즘(신경 표상, 결합, 정합, 경쟁)으로 설명한다면, 일인칭적 심적 자아는 업로드 가능하며 그러한 물리적 과정을 복제할 수 있는 진보된 기술을 통해 가상적 불멸이 달성 가능하다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Representational Theories",
+        "name": "First-Order",
         "relationship": "확장"
       },
       {
-        "name": "Higher-Order Theories",
+        "name": "Higher-Order",
         "relationship": "양립 가능"
       },
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "양립 가능"
       }
     ],

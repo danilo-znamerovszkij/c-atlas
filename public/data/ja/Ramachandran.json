@@ -2,11 +2,18 @@
   "id_and_class": {
     "theory_title": "ラマチャンドランの新しい物理学と神経科学",
     "summary": "この立場は、意識の問題は現在の神経科学や物理学によっては解決できないと主張する。これらの学問は三人称的な記述しか提供せず、主観的経験（クオリア）を排除しているからである。この立場は、意識を実在の構成要素として根本的に組み込む、物理学と神経科学の新しいハイブリッドな学問を求め、意識がいかに物理法則と絡み合っているかを探究する。",
-    "associated_thinkers": ["V.S. Ramachandran"],
+    "associated_thinkers": [
+      "V.S. Ramachandran"
+    ],
     "category": "一元論",
     "subcategory": "物理学と意識の統合",
     "core_identity_tagline": "新しい物理法則と絡み合う意識",
-    "classification_tags": ["monism", "physics", "neuroscience", "qualia"]
+    "classification_tags": [
+      "monism",
+      "physics",
+      "neuroscience",
+      "qualia"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "意識は実在の根本的な一部として同定され、新しいハイブリッドな学問を通じて物理法則および神経科学と統合されねばならない。",
@@ -45,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "不確定／条件付き",
+      "stance": "Uncertain",
       "rationale": "最終的な「新しい物理学」の枠組みが、一人称視点をこれらの根本法則を体現しうる非生物学的システムによって実現できることを明らかにするならば、AI意識は可能である。そうでなければ、おそらく不可能である。"
     },
     "survival_beyond_death": {
-      "stance": "不確定／条件付き",
+      "stance": "Uncertain",
       "rationale": "この枠組みは、意識を扱い死後存在を含意しうるヴェーダの文献に依拠しているが、科学的な「新しい物理学と神経科学」の構築に焦点を当てているため、生物学的存続の問題は発見される法則の根本的な性質に条件付けられたままとなる。"
     },
     "meaning_and_purpose": {
-      "stance": "未定義",
+      "stance": "Uncertain",
       "rationale": "この理論は、主観性を物理的実在へと統合することで存在論的・認識論的な完全性を達成することに焦点を当てるが、宇宙的な意味や目的を本質的に付与するものではない。"
     },
     "virtual_immortality": {
-      "stance": "不確定／条件付き",
+      "stance": "Uncertain",
       "rationale": "仮想的不死は、意識が実在と「絡み合う」その具体的な仕方が、先進技術によってシミュレートされた基盤上で完全に再現・操作可能であるかどうかに全面的に依存する。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Monisms",
+        "name": "Neutral Monism",
         "relationship": "カテゴリー"
       },
       {
-        "name": "Dualisms",
+        "name": "Dualism",
         "relationship": "批判"
       },
       {
-        "name": "Quantum Theories",
+        "name": "Quantum & Dimensions",
         "relationship": "潜在的な拡張／両立可能性"
       }
     ],

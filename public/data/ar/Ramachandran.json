@@ -2,11 +2,18 @@
   "id_and_class": {
     "theory_title": "الفيزياء الجديدة وعلم الأعصاب عند راماشاندران",
     "summary": "يطرح هذا المنظور أن مسألة الوعي لا يمكن حلّها بعلم الأعصاب أو الفيزياء الحاليين، إذ لا يقدّم هذان التخصصان سوى أوصاف بضمير الغائب، مستبعدَين الخبرة الذاتية (الكواليا). ويدعو إلى تخصص هجين جديد يجمع الفيزياء وعلم الأعصاب، يُدمِج الوعي جوهريًا بوصفه مكوّنًا من مكوّنات الواقع، ويستكشف كيف يتشابك مع القوانين الفيزيائية.",
-    "associated_thinkers": ["V.S. Ramachandran"],
-    "category": "الأحاديات",
-    "subcategory": "دمج الفيزياء والوعي",
+    "associated_thinkers": [
+      "V.S. Ramachandran"
+    ],
+    "category": "الأحادية",
+    "subcategory": "تكامل الفيزياء والوعي",
     "core_identity_tagline": "الوعي متشابكًا مع قوانين فيزيائية جديدة",
-    "classification_tags": ["monism", "physics", "neuroscience", "qualia"]
+    "classification_tags": [
+      "monism",
+      "physics",
+      "neuroscience",
+      "qualia"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "يُعرَّف الوعي بوصفه جزءًا أساسيًا من الواقع يجب دمجه بالقوانين الفيزيائية وعلم الأعصاب عبر تخصص هجين جديد.",
@@ -45,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "غير مؤكد/مشروط",
+      "stance": "Uncertain",
       "rationale": "إذا كشف إطار «الفيزياء الجديدة» المرتقب أن منظور الشخص الأول يمكن أن تجسّده أنظمة غير حيوية قادرة على التعبير عن هذه القوانين الأساسية، فإن وعي الذكاء الاصطناعي ممكن؛ وإلا فيُرجَّح أنه مستحيل."
     },
     "survival_beyond_death": {
-      "stance": "غير مؤكد/مشروط",
+      "stance": "Uncertain",
       "rationale": "يستند الإطار إلى النصوص الفيدية التي تتناول الوعي وقد تستلزم وجودًا بعد الموت، لكن التركيز على تطوير «فيزياء وعلم أعصاب جديدين» علميين يجعل مسألة البقاء البيولوجي مشروطة بالطبيعة الأساسية للقوانين المكتشَفة."
     },
     "meaning_and_purpose": {
-      "stance": "غير محدَّد",
+      "stance": "Uncertain",
       "rationale": "تركّز النظرية على بلوغ اكتمال أنطولوجي ومعرفي بدمج الذاتية في الواقع الفيزيائي، لكنها لا تُسنِد بطبيعتها معنى أو غاية كونيين."
     },
     "virtual_immortality": {
-      "stance": "غير مؤكد/مشروط",
+      "stance": "Uncertain",
       "rationale": "يتوقف الخلود الافتراضي كليًا على ما إذا كانت الطريقة المحددة التي «يتشابك» بها الوعي مع الواقع قابلة للاستنساخ التام والتلاعب بها بواسطة تقنية متقدمة في ركيزة محاكاة."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Monisms",
+        "name": "Neutral Monism",
         "relationship": "فئة"
       },
       {
-        "name": "Dualisms",
+        "name": "Dualism",
         "relationship": "نقد"
       },
       {
-        "name": "Quantum Theories",
+        "name": "Quantum & Dimensions",
         "relationship": "امتداد/توافق محتمل"
       }
     ],

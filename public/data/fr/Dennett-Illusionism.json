@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Illusionnisme de Dennett",
+    "summary": "Daniel Dennett soutient que les qualia, conçus comme des propriétés intrinsèques, ineffables, privées et immédiatement connues de l'expérience, n'existent pas ; ce sont des inventions de philosophes. L'expérience est réelle, mais elle n'est pas ce qu'elle paraît de l'intérieur : les processus inconscients du cerveau produisent une « illusion d'utilisateur » bénigne, et la conscience ne contient rien de plus que les fonctions et les dispositions qui la sous-tendent.",
+    "associated_thinkers": [
+      "Daniel Dennett"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Éliminativisme/Illusionnisme",
+    "core_identity_tagline": "La conscience comme illusion d'utilisateur bénigne",
+    "classification_tags": [
+      "illusionism",
+      "qualia",
+      "user illusion",
+      "functionalism",
+      "eliminativism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est l'activité fonctionnelle du cerveau, qui se présente à nous comme une illusion d'utilisateur. « Il n'existe pas de qualia. »",
+    "ontological_status": "Physicalisme (illusionniste)",
+    "mind_body_relationship": "La conscience est entièrement un produit des processus inconscients du cerveau. Dennett rejette tout domaine intérieur et non physique de propriétés ressenties.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible (l'illusion d'utilisateur surgit des processus cérébraux inconscients ; les qualia eux-mêmes sont illusoires, et non émergents)",
+    "subjectivity_and_intentionality": "Dennett concède qu'il semble exister une phénoménologie, ce qui est un fait qui appelle une explication, mais soutient que cela ne suffit pas à établir qu'il existe réellement une phénoménologie. Le point de vue de la première personne décrit mal ce qui se passe.",
+    "qualia_account": "Il n'existe pas de qualia au sens traditionnel. Dennett qualifie les prétendues propriétés intrinsèques, ineffables et privées de « rien d'autre que des inventions de philosophes ».",
+    "ontological_commitments": "Le cerveau et ses processus inconscients, fonctions et dispositions.",
+    "epistemic_access": "Par la science à la troisième personne de la manière dont le cerveau produit les apparences que nous rapportons. La conviction à la première personne est une donnée à expliquer, et non une fenêtre sur la nature de l'expérience.",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménal (dégonflé, en tant qu'illusion d'utilisateur) ; qualia (niés)",
+    "distinctive_mechanism_or_principle": "L'illusion d'utilisateur. De même que les icônes du bureau d'un ordinateur remplacent des processus sous-jacents complexes, le cerveau se présente à nous sous une forme simplifiée que nous prenons à tort pour un monde intérieur de qualités.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Dans les processus inconscients du cerveau, sans théâtre intérieur.",
+    "causation_and_functional_role": "L'illusion d'utilisateur est bénigne : elle nous permet de nous gouverner sans accéder à la complexité sous-jacente du cerveau.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Les qualia, définis comme intrinsèques, ineffables, privés et immédiatement appréhensibles, n'existent pas.",
+      "Le fait qu'il semble exister une phénoménologie ne montre pas qu'il en existe une.",
+      "La conscience est une illusion d'utilisateur bénigne, produite par les processus inconscients du cerveau.",
+      "Dennett ne nie pas que nous ayons des expériences ; il nie qu'il y ait quoi que ce soit en elles au-delà des fonctions et des dispositions."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique, informée par les sciences cognitives et par l'analogie avec les interfaces informatiques."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Testable sur le plan conceptuel",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "On lit souvent Dennett comme niant l'existence de l'expérience, et ses critiques répondent qu'une illusion d'expérience serait elle-même une expérience. Dennett a refusé l'étiquette éliminativiste, bien que de nombreux philosophes l'appliquent à son rejet des qualia.",
+    "open_questions_and_limitations": "Le fait que cette position relève de l'illusionnisme ou de l'éliminativisme dépend de la manière dont on définit « conscience » et « qualia ».",
+    "ontological_coherence": "Compatible avec le matérialisme. Keith Frankish qualifie Dennett d'« illusionniste original » et fonde son propre illusionnisme sur les critiques que Dennett adresse aux qualia."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "La conscience n'étant rien au-delà des fonctions et des dispositions, une machine dotée de la bonne organisation fonctionnelle pourrait la posséder ; Dennett n'aborde pas ce point ici."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conscience étant un produit des processus cérébraux, elle prend fin lorsque ceux-ci cessent."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Le matérialisme de Dennett, et sa place parmi les « nouveaux athées », ne laissent aucune place à une finalité cosmique."
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Fondement"
+      },
+      {
+        "name": "Dennett’s Heterophenomenology",
+        "relationship": "Recouvrement"
+      },
+      {
+        "name": "Churchland’s Eliminative Materialism",
+        "relationship": "Recouvrement"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness Explained, Daniel Dennett"
+      },
+      {
+        "title_with_names": "I've Been Thinking, Daniel Dennett",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Dennett’s Illusionism (Landscape of Consciousness), Daniel Dennett",
+        "year": 1992
+      }
+    ]
+  }
+}

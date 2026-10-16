@@ -1,0 +1,140 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoría del espacio de estados de O'Reilly-Shah y monismo dinámico computacional",
+    "summary": "O'Reilly-Shah propone que la conciencia fenoménica es un embebido jerárquico de coordenadas de retardo en redes neuronales recurrentes plásticas: la retroalimentación recurrente permite al cerebro reconstruir la historia dinámica de su entorno y, en la cúspide de la jerarquía, de su propia actividad de embebido. Su metafísica, el monismo dinámico computacional, identifica la conciencia con este proceso temporalmente extendido. Sostiene que esta identidad disuelve el problema difícil, pues la brecha que queda es solo la diferencia entre describir un proceso y ser ese proceso.",
+    "associated_thinkers": [
+      "Vikas N. O'Reilly-Shah"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Computacional",
+    "core_identity_tagline": "La conciencia como embebido dinámico autorreferencial en redes plásticas",
+    "classification_tags": [
+      "delay coordinate embedding",
+      "recurrent networks",
+      "process monism",
+      "plasticity",
+      "quality spaces"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La experiencia fenoménica es idéntica al embebido jerárquico y autorreferencial de coordenadas de retardo que llevan a cabo las redes recurrentes plásticas, un proceso computacional temporalmente extendido, y no un estado neuronal estático, un papel funcional ni una propiedad intrínseca de la materia.",
+    "ontological_status": "Fisicalismo (monismo de procesos, computacional)",
+    "mind_body_relationship": "Identidad entre la experiencia y un proceso físico, según el modelo del relámpago y la descarga eléctrica atmosférica. Una única categoría ontológica, el proceso físico, sustenta tanto la descripción científica como el carácter subjetivo accesible al sistema.",
+    "primitive_or_emergent_status": "Ninguno",
+    "emergence_type": "No aplicable (O'Reilly-Shah sostiene que la conciencia es idéntica al proceso, no que sea producida por él ni emergente a partir de él)",
+    "subjectivity_and_intentionality": "En la cúspide de la jerarquía, el sistema incorpora su propia actividad de embebido, modelándose a sí mismo mientras modela el mundo, y este automodelado es la perspectiva interna que se experimenta como subjetividad.",
+    "qualia_account": "Los qualia son privados porque instanciar un proceso y describirlo son relaciones epistémicas distintas con una misma cosa. Su estructura procede de la geometría del embebido, que forma un espacio de cualidades que refleja la organización relacional de lo que la red registra.",
+    "ontological_commitments": "Redes neuronales recurrentes plásticas, los retardos temporales creados por la retroalimentación, los espacios de estados reconstruidos y los procesos físicos que los constituyen.",
+    "epistemic_access": "Mediante la matemática de los sistemas dinámicos, el análisis de redes recurrentes y de reservorio, registros neuronales y fenómenos perceptivos como los metámeros y la percepción categorial.",
+    "constituents_and_structure": "Una jerarquía de ‘motores DCE’: las redes inferiores embeben la dinámica sensorial, las superiores embeben la dinámica de las inferiores, y los niveles más altos embeben el propio embebido del sistema."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (estructura de los espacios de cualidades); subjetividad y automodelado; experiencia temporalmente densa",
+    "distinctive_mechanism_or_principle": "Embebido de coordenadas de retardo, fundado en el teorema de embebido de Takens, en el que copias de una señal con retardo reconstruyen el espacio de estados completo del sistema que la produjo. La retroalimentación recurrente aporta los retardos.",
+    "dynamics_of_emergence": "La conciencia es una trayectoria en el tiempo. La plasticidad sigue reconfigurando la red, de modo que se desplaza tanto por el espacio de funciones como por el de estados, y su cómputo en un momento difiere de su cómputo en otro.",
+    "location_and_distribution": "Córtex biológico, en redes recurrentes plásticas dispuestas jerárquicamente.",
+    "causation_and_functional_role": "El embebido permite al sistema seguir la historia dinámica de su entorno y de sí mismo, guiado por la interacción continua con los estímulos ambientales.",
+    "integration_or_binding": "Los niveles superiores integran los inferiores al embeber sus dinámicas, lo que produce reconstrucciones anidadas y cada vez más abstractas.",
+    "information_flow_or_representation": "Los estímulos dinámicamente similares, es decir, los que conducen a futuros parecidos, se representan próximos en el espacio de estados. La geometría comprime donde la predicción es pobre, colapsa entradas distintas con consecuencias indistinguibles y se agudiza donde la predicción es mejor.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Hart y colaboradores demostraron que las redes recurrentes contractivas impulsadas por una entrada estructurada embeben la dinámica de la entrada mediante sincronización generalizada.",
+      "Uribarri y Mindlin, así como Ostrow, Eisen y Fiete, hallaron la firma geométrica de los embebidos de retardo temporal en redes recurrentes entrenadas y en modelos de secuencias neuronales.",
+      "Los murciélagos y los roedores representan el espacio tridimensional sobre un toro topológico, un ejemplo de percepción que proyecta dinámicas ambientales regulares sobre atractores de baja dimensión.",
+      "O'Reilly-Shah, Selvitella y Schurger sostienen que ninguna red feedforward estática puede seguir siendo equivalente a una red recurrente plástica a lo largo de un tiempo ilimitado, lo que debilita el argumento del despliegue.",
+      "La teoría predice que los metámeros, la percepción categorial y los umbrales de discriminación reflejan un embebido que preserva la topología y que opera con recursos predictivos finitos."
+    ],
+    "basis_of_belief_or_evidence_type": "Matemática y computacional (teoría de sistemas dinámicos, análisis de redes), con apoyo de la neurociencia y la psicofísica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente comprobable",
+    "known_empirical_interventions_or_tests": "Análisis de la geometría del embebido en redes recurrentes entrenadas; registros de poblaciones neuronales de códigos espaciales toroidales en murciélagos y roedores; pruebas perceptivas de metámeros, percepción categorial y umbrales de discriminación.",
+    "criticisms_and_tensions": "El argumento del despliegue de Doerig y colaboradores, y su generalización a la completitud de Turing por Herzog y colaboradores, sostiene que cualquier función computable puede reimplementarse en un sistema con una estructura causal distinta. O'Reilly-Shah lo acepta para las funciones de entrada-salida, pero sostiene que pierde fuerza cuando la plasticidad y el acoplamiento con el entorno deben igualarse indefinidamente.",
+    "open_questions_and_limitations": "Si el córtex implementa realmente un embebido autorreferencial jerárquico de este tipo sigue siendo una hipótesis, apoyada por evidencia convergente pero indirecta. La afirmación de que la identidad disuelve el problema difícil es una posición filosófica que rechazan los antifisicalistas.",
+    "ontological_coherence": "Consistente dentro del monismo de procesos fisicalista. Trata la realizabilidad múltiple de forma restringida: admite la misma organización de procesos en distintos sustratos, pero no un proceso distinto con el mismo comportamiento de entrada-salida."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Un sistema con la misma trayectoria procesual plástica sería consciente, pero O'Reilly-Shah considera extremadamente improbable una equivalencia exacta, dadas las entradas impredecibles y la sensibilidad caótica, y los sistemas feedforward estáticos no cumplen el requisito."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Dado que la conciencia es idéntica a un proceso físico en curso en redes recurrentes, se sigue de esta visión que termina cuando ese proceso termina."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Una copia tendría que igualar la plasticidad, el acoplamiento con el entorno y la trayectoria del original indefinidamente, algo que O'Reilly-Shah considera prácticamente inalcanzable."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Markwell’s Process Identity Theory",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Contraste"
+      },
+      {
+        "name": "Qualia Space",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Delay Coordinate Embedding as Neuronally Implemented Information Processing: The State Space Theory of Consciousness, Vikas N. O’Reilly-Shah",
+        "year": 2025
+      },
+      {
+        "title_with_names": "A Caveat Regarding the Unfolding Argument: Implications of Plasticity for Computational Theories of Consciousness, V. N. O’Reilly-Shah, A. Selvitella, and A. Schurger",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Computational Dynamic Monism: Process Metaphysics for the State Space Theory of Consciousness, Vikas N. O’Reilly-Shah",
+        "year": 2026
+      },
+      {
+        "title_with_names": "State Space Theory as a Unifying Framework for Consciousness, Vikas N. O’Reilly-Shah",
+        "year": 2026
+      },
+      {
+        "title_with_names": "Smooth Embeddings in Contracting Recurrent Networks Driven by Regular Dynamics: A Synthesis for Neural Representation, V. N. O’Reilly-Shah and A. M. Selvitella",
+        "year": 2026
+      },
+      {
+        "title_with_names": "Detecting Strange Attractors in Turbulence, F. Takens",
+        "year": 1981
+      },
+      {
+        "title_with_names": "Embedding and Approximation Theorems for Echo State Networks, A. Hart, J. Hook, and J. Dawes",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Dynamical Time Series Embeddings in Recurrent Neural Networks, G. Uribarri and G. B. Mindlin",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Delay Embedding Theory of Neural Sequence Models, M. Ostrow, A. Eisen, and I. Fiete",
+        "year": 2024
+      },
+      {
+        "title_with_names": "The Unfolding Argument: Why IIT and Other Causal Structure Theories Cannot Explain Consciousness, A. Doerig, A. Schurger, A. Hess, and M. H. Herzog",
+        "year": 2019
+      },
+      {
+        "title_with_names": "The Multiple Realization Book, T. W. Polger and L. A. Shapiro",
+        "year": 2016
+      }
+    ]
+  }
+}

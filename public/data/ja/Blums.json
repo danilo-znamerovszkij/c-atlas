@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "ブルムたちの意識チューリングマシン",
+    "summary": "レノア、マニュエル、アヴリム・ブルムは、意識はアクセス意識も現象的意識も計算的であり、形式的な機械モデルである意識チューリングマシン（CTM）によって捉えられると考える。CTMでは、無意識的なプロセッサが、一つの項目からなる「ステージ」に情報のチャンクを置くために競争する。そのチャンクはすべてのプロセッサへ放送される。機械は、すべてのプロセッサがその放送を、自ら構築した世界モデル（それを世界そのものとみなす）と照合するとき、何かを感じる。",
+    "associated_thinkers": [
+      "Lenore Blum",
+      "Manuel Blum",
+      "Avrim Blum"
+    ],
+    "category": "唯物論",
+    "subcategory": "計算論的",
+    "core_identity_tagline": "世界モデルのチャンクの放送と検査としての意識",
+    "classification_tags": [
+      "theoretical computer science",
+      "global workspace",
+      "world model",
+      "machine consciousness",
+      "formal model"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は計算過程である。意識的注意とは、放送されたチャンクをすべてのプロセッサが同時に受け取ることであり、意識的な気づきとは、すべてのプロセッサが同時にそのチャンクを検査することである。そのチャンクの意味は、機械の世界モデルに基礎づけられている。",
+    "ontological_status": "物理主義（計算論的機能主義）",
+    "mind_body_relationship": "心は計算の組織であり、基盤からは独立している。CTMは、どの脳領域がどの機能を実装しているかについては意図的に何も主張しない。そのため、同じモデルが脳にもマシンにも当てはまりうる。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（主観的経験は、定義された構造と述べられた一つの公理から帰結する）",
+    "subjectivity_and_intentionality": "CTMは、世界を直接にではなく、自らの世界モデルだけを認識し、そのモデルを実在とみなす。その自己感覚は、モデルのなかのスケッチにラベルを付けることから生じる。思考によって動かせるアクチュエータのスケッチには SELF というラベルが付き、後に機械は自分自身のスケッチに CONSCIOUS というラベルを付ける。これが、意識的であることの感じを喚起する。",
+    "qualia_account": "公理Aは、放送されたチャンクを検査すると、その強さと価値性がチャンクの重みから生じる、独自の主観的経験が喚起されると述べる。意味の要約（gist）が空のチャンクは原初的な経験を喚起する（たとえば、故障した「酸素計」からの痛み）。より豊かな経験は、要約のなかのブレインish語によって喚起された経験が融合したものである。",
+    "ontological_commitments": "プロセッサ、チャンク、短期記憶のステージ、競争と放送の木、プロセッサ間のヘッブ的な結びつき、センサーとアクチュエータ、世界モデル、そしてブレインish（Brainish）と呼ばれる内的な多感覚言語。",
+    "epistemic_access": "形式的な定義、定理、証明を通じて、また、モデルの振る舞いと人間の意識の既知の現象との比較を通じて。",
+    "constituents_and_structure": "七つ組：短期記憶（STM、ステージ）、長期記憶（LTM、膨大な無意識的プロセッサの集合）、競争のためのアップツリー、放送のためのダウンツリー、プロセッサ間のリンク、そしてセンサーとアクチュエータへの入力・出力写像。時間は有限な寿命にわたる離散的な刻み（tick）で進む。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "アクセス（意識的注意）；現象的（意識的気づき）；自己意識；意識的であるという感じ",
+    "distinctive_mechanism_or_principle": "二分木を上昇する確率的な勝者総取りのトーナメント。各チャンクが勝つ確率は、その重みを、すべての項目の総重みで割ったものに等しい。勝者はすべてのプロセッサへ放送され、すべてのプロセッサが同じ刻みでそれを検査するとき、意識的気づきが生じる。",
+    "dynamics_of_emergence": "意識は、機械の生涯を通じて発達する。生まれたばかりのCTMは、自己と世界を区別しない、もやのかかった世界モデルをもつ。ブレインish語とラベルの付いたスケッチは、経験とともに共進化し、BLOBやPAINといった原初的な語から、SELFやCONSCIOUSへと至る。",
+    "location_and_distribution": "LTMにおけるすべてのプロセッサにわたって分布しており、それらはすべて同じ放送を受け取る。STMは一度に一つのチャンクしか保持しない。特定の脳の位置は主張されない。",
+    "causation_and_functional_role": "放送によって、すべてのプロセッサは、何が勝ったのか、それがどれほど重要であったのか、そして競争の平均的な重みを知ることができ、それが後の行為を調整する。プロセッサは、重みの大きなチャンクを展開しようとし、強く負の重みを減らそうとする。公正で非集中的な競争は、他の劇場モデルにおける不明確な「中央実行系」に取って代わる。",
+    "integration_or_binding": "ブレインishの要約は、多感覚的な内容（バラの赤い色、甘い香り、柔らかい花びら、記憶された出会い）を一つのラベルへと融合させる。すべてのプロセッサは、放送されたチャンクの同一の大域的辞書を共有する。",
+    "information_flow_or_representation": "各チャンクは、プロセッサのアドレス、時刻、短いブレインishの要約、符号付きの重み、そしてツリーを上昇するにつれて大域的文脈を蓄積する補助データを運ぶ。ブレインish語は、先に放送されたチャンクへのポインタであり、ブルムたちはこれを機械学習におけるキーと値に比べる。",
+    "evolutionary_account": "一つのCTMのなかで、ブレインishと世界モデルは、その生涯にわたって共進化する。プロセッサの特殊化もまた進化する。ブルムたちは、これをニック・ハンフリーのような進化論的理論と結びつける。",
+    "core_claims_and_evidence": [
+      "一つの定理は、チャンクが勝つ確率が、プロセッサが木のどこに位置するかに依存せず、その重みを全項目の総重みで割ったものであることを示す。",
+      "CTMは、注意の欠如による盲目、変化の見落とし、そして、チャンクが競争に入ってから放送されるまでのリベット様の遅延を再現する。",
+      "世界モデルにおける誤ってラベル付けされたスケッチは、幻肢症候群、身体完全性障害、そして偏執症に類似したものを生み出す。",
+      "CTMは、大域的ワークスペース理論、注意スキーマ理論、予測処理、身体化された認知、統合情報理論と、高い水準で整合する。",
+      "CTMは、中央実行系は意識に不要であると予測し、したがって脳はそれをもたないと予測する。"
+    ],
+    "basis_of_belief_or_evidence_type": "形式的かつ数学的なもの（理論計算機科学）。人間の意識の既知の特徴との質的な一致によって支えられる。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的には検証可能",
+    "known_empirical_interventions_or_tests": "ブルムたちは、CTMは構築可能であると論じる。脳は中央実行系をもたないという予測は、神経科学によって確かめられうる。",
+    "criticisms_and_tensions": "批判者は、形式的な定義と記号処理が、感じられる経験を捉えられるかどうかを疑う。主観的経験は公理Aを通じて入ってくるため、感じについての説明は一つの仮定に依拠している。CTMと見解の重なるアニル・セスやニック・ハンフリーは、意識には生きた有機体が必要であると考えるが、ブルムたちはこれを退ける。",
+    "open_questions_and_limitations": "ブルムたちが述べるとおり、CTMは脳をモデル化するには単純すぎる。チャンクを検査することが、その役割をモデル化するだけでなく、経験を生み出すのかどうかは、なお未決である。",
+    "ontological_coherence": "計算論的機能主義の内で首尾一貫している。ダニエル・デネットやキース・フランキッシュの幻想主義に近いが、ブルムたちは、それを否定するのではなく、「それがどのようであるか」を説明すると語る。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "ブルムたちは、CTMは構築可能であり、それはAIの意識をもっともらしく、さらには不可避なものにすると論じる。"
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "ここでの意識は、有限な寿命をもつ計算過程であるため、機械または脳が動作を止めると意識も終わる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "この理論は意識を計算として説明し、宇宙的な目的を仮定しない。"
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "意識が基盤非依存的な計算であるなら、別の機械で同じ過程を再現することがこの見解から導かれる。ただし、ブルムたちはこれを扱っていない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "基礎"
+      },
+      {
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Seth's \"Beast Machine\" Theory",
+        "relationship": "対比"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Lenore, Manuel, and Avrim Blum’s Conscious Turing Machine (Landscape of Consciousness), Lenore Blum, Manuel Blum, Avrim Blum",
+        "year": 2022
+      }
+    ]
+  }
+}

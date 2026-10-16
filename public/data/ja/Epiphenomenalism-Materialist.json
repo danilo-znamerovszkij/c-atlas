@@ -1,0 +1,96 @@
+{
+  "id_and_class": {
+    "theory_title": "随伴現象論（唯物論）",
+    "summary": "随伴現象論は、脳の過程が意識的経験を生み出すが、経験そのものは物理的にも心的にも何ものも引き起こさないと考える。因果は、物理的なものから現象的なものへの一方向に流れる。これによって物理的世界は因果的に閉じたままとなり、思考が私たちを動かしているという感覚は誤りとみなされる。",
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
+    "category": "唯物論",
+    "subcategory": "哲学的",
+    "core_identity_tagline": "波の上の、因果的に不活性な泡としての意識",
+    "classification_tags": [
+      "epiphenomenalism",
+      "mental causation",
+      "causal closure",
+      "free will"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、それ自身の因果的な力をもたない、生物学的な脳活動の実在的な副産物である。",
+    "ontological_status": "物理主義（非還元的、随伴現象論的）",
+    "mind_body_relationship": "一方向の因果。物理的状態が現象的状態を引き起こすのであって、その逆はない。チャルマーズの定式化では、現象的性質は存在論的に物理的性質とは区別され、物理的性質に何の効果ももたない。そのためこの見解は、物理的なものの因果的閉包を肯定するという点で唯物論のもとに位置する、弱い二元論である。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "脳の活動によって生み出されるが、それへと還元されず、下向きの因果もない。",
+    "subjectivity_and_intentionality": "気づきは実在するが、私たちの思考や意図が行為を引き起こしているという感覚は幻想である。",
+    "qualia_account": "クオリアは存在し、脳によって引き起こされるが、物理的状態へと還元することはできない。クオリアは因果的に空回りしている。",
+    "ontological_commitments": "因果的に閉じた物理的世界、生物学的な脳、そして結果ではあるが決して原因ではない現象的性質。",
+    "epistemic_access": "内省は経験を明らかにするが、その因果的役割については誤らせる。随伴現象論は、何も引き起こさない状態を、それについての私たち自身の信念を含めて、どのように知り、報告しうるのかという問題に直面する。",
+    "constituents_and_structure": "知覚的な意識を含め、あらゆる意識的な出来事は、すべての因果的な働きを担う無意識的な処理に基づいている。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的なもの、心的因果、自由意志。",
+    "distinctive_mechanism_or_principle": "物理的なものの因果的閉包。すなわち、すべての物理的出来事は十分な物理的原因をもつため、意識的状態は脳活動の結果でありうるが、原因ではありえない。",
+    "dynamics_of_emergence": "意識的状態は、海の波の上の泡のように、脳の過程に絶えず付随している。それは常に存在し、一見すると作用しているように見えるが、決して波を駆動してはいない。",
+    "location_and_distribution": "生物学的な脳。",
+    "causation_and_functional_role": "なし。意識は因果的にも機能的にも何の役割ももたず、心から脳への上向きの因果もない。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "物理的状態は現象的状態を引き起こすが、現象的状態は何も引き起こさない。",
+      "リベットの実験では、随意運動の準備電位は、その運動の意図への気づきに数百ミリ秒先行しており、脳が行為を開始していることを示唆する。",
+      "リベットの準備電位のデータは、多くの実験デザインにわたって再現可能である。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的（因果的閉包の論証）であり、随意行為のタイミングに関する神経科学によって支えられている。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的には検証可能",
+    "known_empirical_interventions_or_tests": "リベットの準備電位のパラダイムとその後の再現研究。シューガーらによる自発的な神経の揺らぎの分析。",
+    "criticisms_and_tensions": "リベットのデータの解釈は争われており、とりわけシューガーらは、準備電位は無意識的な決定ではなく、神経活動における確率的なノイズを反映しているかもしれないと論じた。ダニエル・ストルヤールは、私たちの意識状態は因果的に重要であるように確かに見えるため、この見解が直観に反することを認める。",
+    "open_questions_and_limitations": "意識の理論は心的因果の理論を含まなければならず、それはさらに自己知を説明しなければならない。経験が何も引き起こさないならば、それが私たちがそれについて何を言い、何を信じるかをどのように形づくるのかは不明確である。",
+    "ontological_coherence": "この見解は二元論と唯物論のあいだに位置する。物理的なものとは区別される現象的性質を認めつつ、物理的なものを因果的に閉じたままにしておく。意識を「完全に物理的」と呼ぶと同時に、それを還元不可能とみなすことは、この立場に常に伴う緊張である。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "ここでの意識は生物学的な脳のみの産物であるため、脳がそれを生み出すのをやめると終わる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "意識的な意志は行為を引き起こさないため、宇宙的な、あるいは因果的な主体としての意識のための余地は残されない。"
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "基礎"
+      },
+      {
+        "name": "Kind's Dualism 2.0",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Halligan and Oakley’s Species-Enhancing Epiphenomenalism",
+        "relationship": "拡張"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Epiphenomenalism (Landscape of Consciousness entry), David Chalmers"
+      }
+    ]
+  }
+}

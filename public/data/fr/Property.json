@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "Dualisme des propriétés",
     "summary": "Le dualisme des propriétés avance que, bien que la substance physique soit la seule substance fondamentale, il existe deux catégories irréductibles de propriétés : physiques et mentales. Les propriétés mentales, telles que l'expérience consciente, sont générées par des cerveaux physiques mais ne peuvent être réduites aux propriétés physiques ni entièrement expliquées par elles seules.",
-    "associated_thinkers": ["David Chalmers"],
-    "category": "Dualismes",
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
+    "category": "Dualisme",
     "subcategory": "Dualisme des propriétés",
     "core_identity_tagline": "Une substance, deux propriétés irréductibles (mentale et physique)",
     "classification_tags": [
@@ -50,15 +52,15 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Conditionnelle",
+      "stance": "Conditional",
       "rationale": "L'IA pourrait être consciente si des systèmes non biologiques peuvent instancier l'organisation physique complexe spécifique requise pour générer les propriétés mentales irréductibles décrites."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience consiste en des propriétés générées par le cerveau physique. Ces propriétés cessent d'exister lorsque la substance physique (le cerveau/le corps) se dissout à la mort."
     },
     "meaning_and_purpose": {
-      "stance": "Non précisée/neutre",
+      "stance": "Uncertain",
       "rationale": "La théorie se concentre sur des catégories ontologiques et des relations de propriétés ; elle admet une substance fondamentalement physique et n'endosse pas intrinsèquement de téléologie cosmique."
     },
     "virtual_immortality": {
@@ -69,11 +71,11 @@
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "Chevauchement/Compatible (souvent traité comme synonyme ou étroitement lié)"
       },
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "Critique/Contraste (rejette le dualisme de substance mais maintient le dualisme de propriété)"
       },
       {

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Zhang-এর দূরপাল্লার আলোর-গতিসম্পন্ন টেলিযোগাযোগ",
     "summary": "এই তত্ত্ব প্রস্তাব করে যে মস্তিষ্ক এবং মনের ধাঁধাটি দূরবর্তী, সমান্তরালভাবে বিন্যস্ত নিউরনের মধ্যে ভ্রমণকারী তড়িৎ ক্ষেত্রের মাধ্যমে আলোর-গতিসম্পন্ন টেলিযোগাযোগ প্রস্তাব করে সমাধান করা যেতে পারে। সমকালীকরণের নিয়মের উপর ভিত্তিক এই প্রক্রিয়া নিউরনসমূহকে বুদ্ধিমান জীবনের জন্য প্রয়োজনীয় একটি দৃঢ় নেটওয়ার্ক গঠন করতে সক্ষম করে।",
-    "associated_thinkers": ["Ping Zhang"],
+    "associated_thinkers": [
+      "Ping Zhang"
+    ],
     "category": "বস্তুবাদ",
-    "subcategory": "তড়িৎচুম্বকীয় ক্ষেত্র",
+    "subcategory": "তড়িৎচুম্বকীয়",
     "core_identity_tagline": "‘আলোর-গতিসম্পন্ন টেলিযোগাযোগ হিসেবে চেতনা’",
     "classification_tags": [
       "neurobiology",
@@ -54,38 +56,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "সম্ভাবত",
+      "stance": "Likely",
       "rationale": "প্রতিলিপিযোগ্য ভৌত নিয়মের (তড়িৎ ক্ষেত্র, সমকালীকরণ) উপর নির্ভরশীল একটি বস্তুবাদী তত্ত্ব হিসেবে, চেতনার জন্য প্রয়োজনীয় প্রক্রিয়া উন্নত অ-জৈবিক হার্ডওয়্যারে নির্মাণযোগ্য হওয়া উচিত, যদি জটিল গঠন প্রকৌশলিতভাবে তৈরি করা যায়।"
     },
     "survival_beyond_death": {
-      "stance": "না",
+      "stance": "No",
       "rationale": "চেতনা সম্পূর্ণরূপে জৈবিক স্নায়ু ব্যবস্থার নির্দিষ্ট জটিল সংগঠন এবং ভৌত গতিবিদ্যায় (তড়িৎ ক্ষেত্র ও সমকালীকৃত উদ্দীপনা) মূলিত।"
     },
     "meaning_and_purpose": {
-      "stance": "কেবল মানবতাবাদী",
+      "stance": "Humanistic only",
       "rationale": "তত্ত্বটি বুদ্ধিমত্তার জন্য প্রয়োজনীয় ভৌত প্রক্রিয়ার উপর কেন্দ্রীভূত, মানব প্রজ্ঞান ও কর্তৃত্বকে জৈবিক পণ্য হিসেবে সমর্থন করে, ব্রহ্মাণ্ডিক বা চরম উদ্দেশ্যকে সম্বোধন না করে।"
     },
     "virtual_immortality": {
-      "stance": "সম্ভাবত",
+      "stance": "Likely",
       "rationale": "যদি চেতনা-উৎপাদনকারী প্রক্রিয়া—আলোর-গতিসম্পন্ন সমকালীকৃত স্নায়ু নেটওয়ার্কের যথাযথ স্থানিক ও কালিক সংগঠন—ডিজিটালভাবে নিখুঁতভাবে প্রতিলিপি করা যায়, তাহলে ভার্চুয়াল অমরত্ব তাত্ত্বিকভাবে প্রাপ্তিসাধ্য।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McFadden’s Conscious Electromagnetic Information Theory (CEMI)",
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
         "relationship": "সমাপতন"
       },
       {
-        "name": "Jones’s electromagnetic fields",
+        "name": "Jones's Electromagnetic Fields",
         "relationship": "সমাপতন"
       },
       {
-        "name": "Computational and Informational Theories",
+        "name": "Computational",
         "relationship": "সমালোচনা"
       },
       {
-        "name": "Neurobiological Theories",
+        "name": "Neurobiological",
         "relationship": "সম্প্রসারণ"
       }
     ],

@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "نظرية الصيرورة لدى وايتهيد",
     "summary": "تفترض هذه النظرية، المتجذّرة في البانتجريبية، أن الواقع الأساسي يتكوّن من أحداث أو عمليات دينامية ('مناسبات') تمتلك جانبين ماديًا وعقليًا معًا. وينبثق الوعي بوصفه إنجازًا لتطوّر الخبرة عبر عملية علائقية ثنائية القطب، متجنّبًا ثنائية الجوهر التقليدية والمادية الاختزالية معًا.",
-    "associated_thinkers": ["Alfred North Whitehead", "Matthew T. Segall"],
-    "category": "البانسيكيات",
-    "subcategory": "نظرية الصيرورة / البانتجريبية",
+    "associated_thinkers": [
+      "Alfred North Whitehead",
+      "Matthew T. Segall"
+    ],
+    "category": "البانسيكية",
+    "subcategory": "نظرية العملية / الخبرانية الشاملة",
     "core_identity_tagline": "الوعي بوصفه بانتجريبية علائقية-صيرورية",
     "classification_tags": [
       "panexperientialism",
@@ -50,30 +53,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ممكن/مشروط",
+      "stance": "Possible",
       "rationale": "قد تجسّد الأنظمة الاصطناعية القادرة على 'تلاحُم' أصيل — صيرورة مُستجِدّة وخلّاقية — الوعيَ، لكن مجرّد الحوسبة أو المحاكاة يرجَّح أن يكون غير كافٍ نظرًا إلى التركيز على واقع دينامي علائقي-صيروري."
     },
     "survival_beyond_death": {
-      "stance": "مرجَّح/مشروط",
+      "stance": "Conditional",
       "rationale": "تفترض النظرية نفسًا/روحًا كونية للكون (الله) وتصوغ الوعي بلغة أحداث/مناسبات غير مادية. وتُحفَظ الخبرة الفردية بوصفها 'تكرارًا خلّاقًا للماضي' في المناسبات اللاحقة، بما يوحي باستمرار في ذاكرة كونية أو كلّ أعظم."
     },
     "meaning_and_purpose": {
-      "stance": "كوني/وجودي",
+      "stance": "Cosmic/Ultimate",
       "rationale": "يمتلك الكون اتجاهًا جوهريًا ('تقدّم خلّاق') و'نفسًا كونية' (الله/الفعلية الأولى)، بما يفيد معنى أو غائيةً نهائية متأصّلة في العملية التطورية."
     },
     "virtual_immortality": {
-      "stance": "غير مؤكّد",
+      "stance": "Uncertain",
       "rationale": "قد تخفِق المضاعفة الرقمية في التقاط 'الصيرورة الأصيلة' والإمكان الخلّاق الكامنين في التلاحُم، بما يعني أن استمرارًا محاكًى محضًا يرجَّح أن يفتقر إلى السمات الواعية الجوهرية."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Panpsychism (Substance-Property)",
+        "name": "Panpsychism",
         "relationship": "نقد"
       },
       {
-        "name": "Process Theory",
+        "name": "Whitehead's Process Theory",
         "relationship": "هوية"
       },
       {

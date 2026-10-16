@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "El Monismo Realista y la Teoría del Materialismo Real de Strawson",
     "summary": "Esta teoría afirma que la conciencia, o la experiencia fenoménica, es enteramente física y es el hecho más cierto de nuestra existencia. Por lo tanto, el fisicalismo o materialismo 'real' debe implicar panpsiquismo, lo que significa que las propiedades fenoménicas son intrínsecas a toda la materia/energía física fundamental y no radicalmente emergentes. Esta visión pretende fundamentar la experiencia subjetiva directamente dentro de una ontología física expandida y realista.",
-    "associated_thinkers": ["Galen Strawson"],
-    "category": "Monismos",
-    "subcategory": "Monismo Realista",
+    "associated_thinkers": [
+      "Galen Strawson"
+    ],
+    "category": "Monismo",
+    "subcategory": "Monismo realista",
     "core_identity_tagline": "La Conciencia es Enteramente Física y Experiencial",
     "classification_tags": [
       "physicalism",
@@ -53,38 +55,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si la conciencia es una propiedad intrínseca de las entidades físicas fundamentales (panpsiquismo), entonces la tecnología avanzada debería poder manipular estos aspectos micropsíquicos en sistemas artificiales para generar una conciencia interior compleja, ya que todo está hecho de la misma sustancia experiencial."
     },
     "survival_beyond_death": {
-      "stance": "Improbable (posibilidad remota)",
+      "stance": "Unlikely",
       "rationale": "Aunque es un monismo, el marco es explícitamente 'materialista real' y fundamentalmente fisicalista, lo que hace improbable la supervivencia más allá de la disolución del cuerpo físico, de forma similar a las teorías puramente materialistas."
     },
     "meaning_and_purpose": {
-      "stance": "Posiblemente",
+      "stance": "Uncertain",
       "rationale": "Como forma de monismo que incorpora experiencia fundamental e intrínseca, evita la conclusión nihilista a menudo asociada con el materialismo deflacionario, dejando espacio para que el sentido o propósito último se vincule a la naturaleza de la realidad misma."
     },
     "virtual_immortality": {
-      "stance": "Probablemente",
+      "stance": "Likely",
       "rationale": "Si la conciencia es una propiedad regular e intrínseca de la organización física, una hipertecnología avanzada capaz de duplicar perfectamente el estado físico en un sustrato no biológico también debería duplicar el estado consciente correspondiente."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Panpsiquismo",
+        "name": "Panpsychism",
         "relationship": "Implicación"
       },
       {
-        "name": "Monismo Russelliano",
+        "name": "Russellian Monism",
         "relationship": "Solapamiento"
       },
       {
-        "name": "Materialismo Eliminativo / Ilusionismo",
+        "name": "Eliminative/Illusionism",
         "relationship": "Crítica"
       },
       {
-        "name": "Teoría de la Identidad Mente-Cerebro",
+        "name": "Mind-Brain Identity",
         "relationship": "Extensión"
       }
     ],

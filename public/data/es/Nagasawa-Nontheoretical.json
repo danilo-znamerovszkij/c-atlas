@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La Teoría del Fisicalismo No Teórico de Nagasawa",
     "summary": "Esta teoría sostiene que el mundo es enteramente físico, aunque contiene hechos físicos específicos sobre la conciencia que no pueden ser captados ni explicados ni siquiera por teorías completas de las ciencias físicas. Funciona como una formulación alternativa del fisicalismo que busca reconciliar la ontología física con los aparentes fracasos de las teorías reduccionistas para captar la conciencia fenoménica.",
-    "associated_thinkers": ["Yujin Nagasawa"],
-    "category": "Fisicalismo No Reductivo",
-    "subcategory": "Formulación Alternativa del Fisicalismo",
+    "associated_thinkers": [
+      "Yujin Nagasawa"
+    ],
+    "category": "No Reductivo",
+    "subcategory": "Formulación alternativa del fisicalismo",
     "core_identity_tagline": "El Fisicalismo más allá de la Teoría Física",
     "classification_tags": [
       "physicalism",
@@ -50,7 +52,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Dado que el mundo es enteramente físico y la conciencia se fundamenta en hechos físicos basados en entidades, los sistemas artificiales complejos podrían, en principio, instanciar los hechos físicos no teóricos necesarios."
     },
     "survival_beyond_death": {
@@ -58,22 +60,22 @@
       "rationale": "Al tratarse de una forma de fisicalismo, la conciencia está ligada al mundo físico, y no hay indicios de que permita la persistencia tras la disolución del sustrato físico."
     },
     "meaning_and_purpose": {
-      "stance": "Solo humanístico",
+      "stance": "Humanistic only",
       "rationale": "La ontología es estrictamente física, lo que no implica inherentemente un sentido o propósito cósmico último, aunque reconoce hechos físicos inaccesibles a la teoría científica."
     },
     "virtual_immortality": {
-      "stance": "Condicional (limitada tecnológicamente)",
+      "stance": "Conditional",
       "rationale": "Si la entidad física específica (o su configuración) que encarna los hechos no teóricos de la conciencia puede duplicarse perfectamente o cargarse en medios no biológicos, la inmortalidad virtual es técnicamente posible, aunque sumamente desafiante."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Physicalism",
+        "name": "Materialism",
         "relationship": "Extensión"
       },
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "Crítica/Alternativa"
       },
       {

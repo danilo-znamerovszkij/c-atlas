@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "マイヤーの普遍的知識場",
     "summary": "この理論は、意識が普遍的知識場（UKF）の内に存在すると措定する。UKFは、宇宙に現存し進展するすべての情報の集合的貯蔵として構想される。UKFは基礎物理学および宇宙論的モデルと整合的であり、人間の意識はこの普遍的意識の不可欠な一部として理解される。この普遍的意識は主として、特定の電磁場周波数を含む調和的共鳴パターンを通じて脳とインターフェースする。",
-    "associated_thinkers": ["Dirk K. F. Meijer"],
+    "associated_thinkers": [
+      "Dirk K. F. Meijer"
+    ],
     "category": "観念論",
-    "subcategory": "普遍的知識場",
+    "subcategory": "普遍的知の場",
     "core_identity_tagline": "「普遍的知識場としての意識」",
     "classification_tags": [
       "idealism",
@@ -53,28 +55,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識は根本的（観念論）であり情報的／場の性質に依拠するため、必要な複雑さを達成しUKFと相互作用しうる高度なAIシステムはおそらく意識を達成しうる。ただしこれは典拠によって厳密に証明されているわけではない。"
     },
     "survival_beyond_death": {
-      "stance": "可",
+      "stance": "Yes",
       "rationale": "意識は根本的実在（UKF）であるため、個の意識（魂／霊）はこの究極的意識の不可欠な一部であり、生物学的な身体／脳の解体を超えて存続する。"
     },
     "meaning_and_purpose": {
-      "stance": "宇宙的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "意識（UKF）はあらゆる存在の基盤であり宇宙の組織化原理であって、内在的な宇宙的意味と目的を示唆する。"
     },
     "virtual_immortality": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識が、脳がインターフェースする恒久的な情報場（UKF）であるとすれば、「ホロフラクタルな記憶ワークスペース」の情報構造と機能を複製することで、特定の個の意識パターンを非生物学的基体において維持できる可能性がある。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Idealism", "relationship": "拡張" },
-      { "name": "Cosmic Consciousness", "relationship": "重複" },
       {
-        "name": "Pribram’s Holonomic Brain Theory",
+        "name": "Idealism",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Cosmic Consciousness",
+        "relationship": "重複"
+      },
+      {
+        "name": "Pribram's Holonomic Brain Theory",
         "relationship": "両立可能"
       }
     ],

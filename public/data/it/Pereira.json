@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La senzienza di Pereira",
     "summary": "Questa teoria sostiene che la coscienza abbia due modalità distinte: una senzienza fondativa, caratterizzata da sensazioni di base come il dolore e la fame, e una coscienza cognitiva di livello superiore, che coinvolge il pensiero astratto e la rappresentazione. L'affermazione centrale è che la capacità cognitiva dipende da questo stato senziente sottostante, biologicamente radicato nei sistemi omeostatici.",
-    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "associated_thinkers": [
+      "Antonio Pereira, Jr."
+    ],
     "category": "Materialismo",
-    "subcategory": "Omeostatico e affettivo",
+    "subcategory": "Omeostatico",
     "core_identity_tagline": "La coscienza come sistema a due livelli radicato nella senzienza",
     "classification_tags": [
       "sentience",
@@ -53,7 +55,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condizionale",
+      "stance": "Conditional",
       "rationale": "Se i sistemi artificiali potessero replicare pienamente i sistemi fisiologici che governano l'omeostasi biochimica dinamica (necessaria per la senzienza) e la necessaria attività bioelettrica di rete (per la cognizione), allora una coscienza artificiale sarebbe possibile."
     },
     "survival_beyond_death": {
@@ -61,26 +63,26 @@
       "rationale": "Poiché la coscienza dipende strettamente da sistemi biologici funzionanti (controllo dell'omeostasi e reti neurali), si presume che cessi con la dissoluzione irreversibile del corpo e del cervello."
     },
     "meaning_and_purpose": {
-      "stance": "Solo umanistico",
+      "stance": "Humanistic only",
       "rationale": "La teoria si concentra sul ruolo funzionale e adattivo della coscienza nel mantenere la stabilità biologica (omeostasi) e nel consentire una cognizione flessibile, senza fornire alcuna base per uno scopo cosmico o ultimo."
     },
     "virtual_immortality": {
-      "stance": "Condizionale",
+      "stance": "Conditional",
       "rationale": "Teoricamente possibile solo se gli specifici schemi omeostatici e bioelettrici dinamici identificati come correlati della senzienza e della cognizione potessero essere perfettamente digitalizzati e replicati in un supporto non biologico."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "Sovrapposizione"
       },
       {
-        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "name": "Solms's Affect as the Hidden Spring of Consciousness",
         "relationship": "Compatibile"
       },
       {
-        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+        "name": "Prinz's Neurofunctionalism: Attention Engenders Experience",
         "relationship": "Compatibile"
       }
     ],

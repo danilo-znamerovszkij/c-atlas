@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "スウィンバーンの実体二元論",
     "summary": "この理論は、人格が二つの根源的に異なる構成要素、すなわち物理的な身体／脳と、物理世界から独立した別個の非物理的な実体ないし魂とから成ると措定する。この非物理的な魂は、意識的な生を説明し、時間を通じて人格的同一性を保つために必要な、本質的で還元不可能な存在者である。",
-    "associated_thinkers": ["Richard Swinburne"],
+    "associated_thinkers": [
+      "Richard Swinburne"
+    ],
     "category": "二元論",
     "subcategory": "実体二元論",
     "core_identity_tagline": "根源的に別個の非物理的実体としての意識",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "いいえ（おおむね）",
+      "stance": "Unlikely",
       "rationale": "AIシステムは、真の内的な気づきに必要な、根源的に別個の非物理的実体（魂）を欠くことになろう。二元論は一般に、AIの意識に対する主要な抵抗勢力とみなされる。"
     },
     "survival_beyond_death": {
-      "stance": "はい",
+      "stance": "Yes",
       "rationale": "人格は非物理的な実体によって構成されるため、その実体（魂）は、物理的な身体と脳の死および解体の後も意識的な存在を保ちうる。"
     },
     "meaning_and_purpose": {
-      "stance": "はい",
+      "stance": "Cosmic/Ultimate",
       "rationale": "二元論と観念論の理論は一般に、純粋に唯物論的な理論と対照的に、何らかの究極的な意味、目的、価値を提供する。"
     },
     "virtual_immortality": {
-      "stance": "いいえ（おおむね）",
+      "stance": "Unlikely",
       "rationale": "必要な非物理的構成要素（魂）は技術によって複製ないしアップロードできないため、脳の物理的構造のみをアップロードしても不十分であり、元の一人称的な心的自己が欠如する結果となる。"
     }
   },
@@ -83,7 +85,7 @@
         "relationship": "対照"
       },
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "批判"
       }
     ],

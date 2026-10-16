@@ -1,0 +1,127 @@
+{
+  "id_and_class": {
+    "theory_title": "L'identité neutre au regard du sujet de Smart",
+    "summary": "J. J. C. Smart soutient que les sensations sont des processus cérébraux, une identité découverte par la science et non vraie par la signification. Les rapports d'expérience sont « neutres quant au sujet » : ils disent que quelque chose se passe, comme lorsqu'on voit une tache orangée sans trancher si elle est physique, de sorte que la science peut l'identifier comme un processus neuronal. Le rasoir d'Ockham retire ensuite de l'explication physique de la nature les « appendices nomologiques » mentaux, irréductibles, qui y pendent.",
+    "associated_thinkers": [
+      "John Jamieson Carswell Smart"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Identité esprit-cerveau",
+    "core_identity_tagline": "Les sensations comme processus cérébraux, décrites de manière neutre quant au sujet",
+    "classification_tags": [
+      "identity theory",
+      "topic-neutral",
+      "parsimony",
+      "physicalism",
+      "philosophy of mind"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Les sensations et les expériences phénoménales ne sont rien d'autre que des processus du système nerveux central.",
+    "ontological_status": "Physicalisme (réductif, identité de types)",
+    "mind_body_relationship": "Identité contingente entre l'esprit et le cerveau, comparable au fait que la foudre est une décharge électrique ou que l'étoile du matin est l'étoile du soir. « Sensation » ne signifie pas « processus cérébral », mais les deux désignent le même événement.",
+    "primitive_or_emergent_status": "Ni l'un ni l'autre",
+    "emergence_type": "Sans objet (identité : il y a un seul événement, et non un événement mental qui surgirait d'un événement physique).",
+    "subjectivity_and_intentionality": "Smart distingue la simple conscience, la collecte d'informations d'un conducteur en pilotage automatique, de la pleine conscience, qu'il modélise sur la perception d'ordre supérieur d'Armstrong : le cerveau se percevant lui-même. Le dernier état d'une telle série n'est pas lui-même perçu, ce qui lui sert à expliquer le caractère ineffable de la conscience.",
+    "qualia_account": "Smart traite les qualia comme des points dans un espace de similarité multidimensionnel. Il identifie l'expérience de paraître voir une tache colorée à un processus cérébral, qui n'a pas besoin lui-même d'être coloré, et suggère que l'impression de quelque chose de plus pourrait relever de la fallace phénoménologique.",
+    "ontological_commitments": "Processus physiques uniquement. Les données sensibles et les images mentales ne sont pas des entités du monde.",
+    "epistemic_access": "L'introspection rapporte les expériences en termes neutres quant au sujet ; la neuroscience identifie ce qui satisfait ces rapports. L'intimité et l'incorrigibilité apparente concernent les modes d'accès, et non la nature de ce à quoi l'on accède.",
+    "constituents_and_structure": "Processus neuronaux rapportés par l'introspection au moyen de termes de ressemblance tels que « quelque chose se passe comme… », « croissant » et « décroissant »."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Sensation phénoménale, conscience simple et pleine conscience ; étendue aux croyances, désirs et états intentionnels en général.",
+    "distinctive_mechanism_or_principle": "Analyse neutre quant au sujet des rapports d'expérience, qui laisse à la science le soin de trancher la nature de l'événement rapporté, combinée à un argument de parcimonie.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Le système nerveux central.",
+    "causation_and_functional_role": "L'identité préserve la causalité mentale : la douleur provoque l'évitement parce que la douleur est le processus neuronal qui cause le comportement. Le parallélisme et l'épiphénoménalisme dupliquent le monde sans ajouter de pouvoir prédictif.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Une expérience représente des propriétés qu'elle n'a pas nécessairement, de même qu'une représentation d'un cercle n'est pas nécessairement circulaire.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "La science montre de plus en plus que les organismes sont des mécanismes physico-chimiques, ce qui fait des sensations une exception peu plausible.",
+      "Le dualisme a besoin de lois psychophysiques fondamentales qui pendent du réseau nomologique et n'expliquent rien, terme que Smart emprunte à Feigl ; le rasoir d'Ockham les élimine.",
+      "Les rapports d'expérience sont neutres quant au sujet, de sorte qu'ils n'engagent pas le locuteur envers des propriétés non physiques.",
+      "Contre Kripke, Smart soutient que le lien n'est contingent qu'à moitié : une description complète du cerveau impliquerait le rapport neutre quant au sujet, mais non l'inverse."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique : analyse conceptuelle et argument de parcimonie, appuyé sur les progrès de la science physique."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Testable en principe",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "L'argument de la réalisation multiple de Putnam, dirigé contre la formulation de Smart, soutient que la douleur peut survenir chez des créatures de constitution physique très différente ; se replier sur des identités relatives à l'espèce ou au jeton sacrifie l'universalité. Levine soutient que l'identité sans explication de la raison pour laquelle un processus est douloureux laisse un fossé explicatif. Les critiques affirment aussi que la ressemblance neutre quant au sujet doit être une ressemblance de caractère phénoménal, ce qui présuppose ce que l'analyse cherche à éliminer, objection que Smart comptait parmi les plus fortes.",
+    "open_questions_and_limitations": "Il reste à savoir si une explication future rendra l'identité intelligible plutôt que simplement affirmée ; Smart n'offre aucune théorie neuronale détaillée de la conscience.",
+    "ontological_coherence": "Intérieurement claire et économique. L'identité de types sans restriction a perdu sa crédibilité au profit du fonctionnalisme, mais son appel à la parcimonie et son traitement de l'identité comme découverte contingente demeurent centraux pour le physicalisme."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "Dans le cadre d'une identité stricte de types, une machine n'aurait des sensations que si elle exécutait les mêmes types de processus qu'un cerveau, bien que Smart ait admis des identités plus restreintes qui pourraient assouplir cette conclusion."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Les sensations étant des processus cérébraux, elles prennent fin avec le cerveau ; Smart était par ailleurs athée."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Cette vision inscrit entièrement la conscience dans une explication physique de la nature."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Si les expériences sont identiques à des types de processus neuronaux, une simulation ne les porterait pas, à moins de reproduire ces processus."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Place’s Empirical Identity and the Phenomenological Fallacy",
+        "relationship": "Fondement"
+      },
+      {
+        "name": "Feigl's Double Knowledge of Raw Feels",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Armstrong’s Higher-Order Perception Theory",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Kripke’s Modal Argument Against Mind–Brain Identity",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Sensations and brain processes, J. J. C. Smart",
+        "year": 1959
+      },
+      {
+        "title_with_names": "Philosophy and Scientific Realism, J. J. C. Smart",
+        "year": 1963
+      },
+      {
+        "title_with_names": "Consciousness and awareness, J. J. C. Smart",
+        "year": 2004
+      },
+      {
+        "title_with_names": "The mind/brain identity theory, J. J. C. Smart",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Colours, J. J. C. Smart",
+        "year": 1961
+      },
+      {
+        "title_with_names": "Materialism as a scientific hypothesis, U. T. Place",
+        "year": 1960
+      },
+      {
+        "title_with_names": "Psychological predicates, H. Putnam",
+        "year": 1967
+      },
+      {
+        "title_with_names": "Materialism and qualia: The explanatory gap, J. Levine",
+        "year": 1983
+      }
+    ]
+  }
+}

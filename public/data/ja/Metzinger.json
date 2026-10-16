@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "メッツィンガーの無我・表象主義的主観性理論",
     "summary": "この理論は主観性の表象主義的かつ機能的な分析を提供し、現象的自己――意識的に経験される一人称的視点――は実在する存在者ではなく進行中のプロセスであり、具体的には脳内の透明な自己モデルの内容であると措定する。意識的思考は、大部分が非行為者的で非意図的な内的行動の一形態として特徴づけられる。",
-    "associated_thinkers": ["Thomas Metzinger"],
-    "category": "唯物論の諸理論",
-    "subcategory": "表象主義的",
+    "associated_thinkers": [
+      "Thomas Metzinger"
+    ],
+    "category": "唯物論",
+    "subcategory": "高階",
     "core_identity_tagline": "「透明な自己モデルとしての現象的自己」",
     "classification_tags": [
       "representationalism",
@@ -55,26 +57,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "機能主義的かつ表象主義的な理論として、人工システムが透明な自己モデル（EAM）を実現するのに必要な機能的組織と複雑さを実装できるなら、それは意識を達成するであろう , 。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "現象的自己は物理的基体（脳／表象的構造）から生じるプロセスとして定義される。実際の「自己」や非物質的実体は存在しないため、意識は身体の死とともに終わる , , 。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的／実用的",
+      "stance": "Humanistic only",
       "rationale": "意識は柔軟な相互作用の最適化、そして累積的文化と責任の創発にとって因果的に必要であり、進化した意味を提供するが、宇宙的な意味は提供しない 。"
     },
     "virtual_immortality": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識が根本的に表象的システム（自己モデル）の機能的組織であるなら、この機能的構造を非生物学的媒体へ完全に再現すれば一人称的視点が保存されるはずである , 。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "重複"
       },
       {
@@ -82,7 +84,7 @@
         "relationship": "影響"
       },
       {
-        "name": "T. Clark’s Content Hypothesis",
+        "name": "T. Clark's Content Hypothesis",
         "relationship": "両立可能"
       },
       {

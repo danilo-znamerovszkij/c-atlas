@@ -1,0 +1,124 @@
+{
+  "id_and_class": {
+    "theory_title": "Due livelli computazionali e onde viaggianti di Sejnowski",
+    "summary": "Sejnowski propone che la coscienza sorga da un secondo livello cognitivo dell'elaborazione corticale, che si sovrappone al normale livello sensomotorio. Il livello sensomotorio codifica l'informazione nei tassi di scarica, mentre il livello cognitivo usa la temporizzazione degli impulsi con precisione di millisecondi, organizzata da onde viaggianti e da plasticità sinaptica temporanea, per mantenere il contesto nel tempo e far proseguire il pensiero in assenza di input esterni. Egli prevede che, una volta compresi questi meccanismi, il problema della coscienza potrebbe svanire 'come il gatto del Cheshire'.",
+    "associated_thinkers": [
+      "Terrence J. Sejnowski"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Computazionale",
+    "core_identity_tagline": "La coscienza come pensiero autogenerato in un livello corticale a impulsi temporizzati",
+    "classification_tags": [
+      "computational neuroscience",
+      "spike timing",
+      "traveling waves",
+      "postdiction",
+      "thalamus"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è lo stato dinamico globale di un cervello che pensa il proprio pensare: attività autogenerata in un livello cognitivo corticale che costruisce rappresentazioni interne a partire dall'esperienza passata.",
+    "ontological_status": "Fisicalismo (computazionale, dinamiche neurali)",
+    "mind_body_relationship": "I fenomeni mentali sono meccanismi neurali, e Sejnowski si aspetta che le questioni filosofiche sulla mente ricevano risposte scientifiche man mano che quei meccanismi vengono compresi.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole (dalle dinamiche globali di neuroni che generano impulsi e di onde viaggianti)",
+    "subjectivity_and_intentionality": "L'adesso unitario dell'esperienza è costruito in modo postdittivo: il cervello rivede la storia recente affinché il presente cosciente si accordi con ciò che accade dopo.",
+    "qualia_account": "",
+    "ontological_commitments": "Neuroni corticali che generano impulsi, plasticità dipendente dalla temporizzazione degli impulsi, onde viaggianti, cellule a canestro inibitorie positive per la parvalbumina, e sistemi talamici di nucleo e di matrice.",
+    "epistemic_access": "Attraverso l'elettrofisiologia di laboratorio, la psicofisica come l'effetto flash-lag, la modellazione computazionale e le evidenze da lesioni.",
+    "constituents_and_structure": "Due livelli. Il livello 1 è una rete sensomotoria a lungo termine che usa codici di frequenza e il talamo di nucleo. Il livello 2 è una rete cognitiva temporanea che usa la temporizzazione precisa degli impulsi, le onde viaggianti e il talamo di matrice."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Accesso e cognizione (pensiero autogenerato, memoria di lavoro, decisione, pianificazione); unità temporale dell'esperienza",
+    "distinctive_mechanism_or_principle": "Le onde viaggianti organizzano impulsi temporizzati con precisione in un codice di popolazione spazio-temporale, che innesca una plasticità dipendente dalla temporizzazione degli impulsi della durata di ore e forma una rete cognitiva temporanea al di sopra della rete sensomotoria.",
+    "dynamics_of_emergence": "La consapevolezza è postdittiva. La percezione di un momento dipende dagli eventi dei successivi 80 millisecondi circa, e le finestre di integrazione crescono da circa 100 millisecondi nella corteccia visiva primaria fino a 10 secondi nella corteccia prefrontale.",
+    "location_and_distribution": "Corteccia cerebrale, con il sistema talamico di matrice che proietta in modo ampio verso gli strati corticali superficiali. Piccole lesioni nei nuclei talamici intralaminari possono abolire la coscienza.",
+    "causation_and_functional_role": "Il livello cognitivo sostiene la memoria di lavoro a lungo termine, la decisione e il pensiero che prosegue dopo la fine degli stimoli esterni, raccogliendo il contesto attraverso il tempo per guidare l'azione.",
+    "integration_or_binding": "La coordinazione globale delle vie talamiche di matrice unifica l'esperienza, e le onde viaggianti legano l'informazione nello spazio e nel tempo all'interno di un'unica popolazione neurale.",
+    "information_flow_or_representation": "Le onde viaggianti formano un codice simile a un ologramma in cui il tempo è una dimensione, sicché una sola popolazione può rappresentare una finestra temporale, in modo analogo all'auto-attenzione dei Transformer nell'IA, che mette in relazione le parole all'interno di una frase.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Mainen e Sejnowski hanno osservato che i neuroni corticali avviano impulsi con precisione di millisecondi quando sono guidati da un input di 'rumore congelato' fluttuante, con una temporizzazione determinata dal rimbalzo post-inibitorio delle cellule a canestro.",
+      "L'effetto flash-lag mostra che la percezione di un lampo dipende da ciò che accade dopo di esso, che Eagleman e Sejnowski interpretano come postdizione.",
+      "Le onde viaggianti osservate in molte bande di frequenza potrebbero innescare una plasticità dipendente dalla temporizzazione degli impulsi della durata di ore, sostenendo la memoria di lavoro a lungo termine.",
+      "Sejnowski propone che il segnale BOLD della fMRI rifletta il costo metabolico della plasticità sinaptica e dell'attenzione più che l'emissione di impulsi.",
+      "A differenza dei grandi modelli linguistici, la cui attività feedforward si arresta quando termina un prompt, il cervello sostiene un'attività autogenerata attraverso circuiti ricorrenti."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirica (elettrofisiologia, psicofisica, dati da lesioni) e modellazione computazionale"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Verificabile empiricamente",
+    "known_empirical_interventions_or_tests": "Iniezione di corrente con rumore congelato nei neuroni corticali; psicofisica flash-lag; registrazioni di onde viaggianti corticali; lesioni dei nuclei talamici intralaminari; fMRI BOLD.",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "Sejnowski descrive il problema della coscienza come un problema che potrebbe dissolversi con una migliore comprensione di percezione, decisione e pianificazione; quindi la cornice affronta più i meccanismi cognitivi che il motivo per cui essi abbiano un carattere di esperienza. Il legame tra la plasticità innescata dalle onde viaggianti e la memoria di lavoro a lungo termine è presentato come plausibile, non come dimostrato.",
+    "ontological_coherence": "Coerente con il fisicalismo e con il programma di Crick sui meccanismi neurali della consapevolezza. Sejnowski paragona il livello cognitivo a uno spazio di lavoro globale."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Gli attuali grandi modelli linguistici non hanno attività autogenerativa, ma Sejnowski suggerisce che macchine costruite con dinamiche autogenerative di 'Sistema 2', organizzate da onde viaggianti e plasticità, potrebbero acquisire una cognizione più vicina all'esperienza umana."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Poiché la coscienza è lo stato dinamico globale dei circuiti corticali e talamici, ne segue, secondo questa concezione, che finisce quando tali dinamiche si arrestano."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Sejnowski intende l'autoconoscenza come comprensione dei meccanismi del pensiero, senza alcun coinvolgimento di uno scopo cosmico."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "La concezione è computazionale e ammette in linea di principio una cognizione delle macchine, ma Sejnowski non affronta la copia di una mente individuale."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "Fondamento"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Eagleman's Possibilianism",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "Compatibile"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reliability of Spike Timing in Neocortical Neurons, Z. F. Mainen and T. J. Sejnowski",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Motion Integration and Postdiction in Visual Awareness, D. M. Eagleman and T. J. Sejnowski",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Regulation of Spike Timing in Visual Cortical Circuits, P. Tiesinga, J. M. Fellous, and T. J. Sejnowski",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Consciousness, Terrence J. Sejnowski",
+        "year": 2015
+      },
+      {
+        "title_with_names": "The Deep Learning Revolution, Terrence J. Sejnowski",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Transformers and Cortical Waves: Encoders for Pulling in Context Across Time, L. Muller, P. S. Churchland, and T. J. Sejnowski",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Dynamical Mechanisms for Coordinating Long-term Working Memory Based on the Precision of Spike-timing in Cortical Neurons, Terrence J. Sejnowski",
+        "year": 2026
+      }
+    ]
+  }
+}

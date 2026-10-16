@@ -1,0 +1,127 @@
+{
+  "id_and_class": {
+    "theory_title": "ビーベリッヒの再帰的統合フラクタル理論",
+    "summary": "エルハルト・ビーベリッヒは、意識は再帰的ネットワークの個々のニューロンにおいて、三つの古典的な段階を経て生じると提案する。ネットワークの活動は、細胞膜におけるイオンチャネルと脂質ドメインのフラクタル的パターン（センチオン（sentyon））へと圧縮される。そのパターンはホログラフィック的に展開され、統一された経験空間（エンドスペース（endospace））となる。そしてエンドスペースは、それを生み出した膜へとフィードバックする。",
+    "associated_thinkers": [
+      "Erhard Bieberich"
+    ],
+    "category": "唯物論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "ホログラフィック的に展開されるフラクタル膜パターンとしての意識",
+    "classification_tags": [
+      "fractals",
+      "holography",
+      "single neuron",
+      "binding problem",
+      "membrane lipids"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識とは、ニューロンの体細胞膜におけるネットワーク活動の、部分のうちに全体が含まれるフラクタル符号化から再構成された、統一され幾何学的に構造化された経験空間である。",
+    "ontological_status": "物理主義（古典的分子的）",
+    "mind_body_relationship": "経験は、ニューロンにおける特定の分子的・幾何学的変換によって生成され、その基盤へと作用し返す。ビーベリッヒは以前、物質の意識的な形態を「明るい物質（bright matter）」と呼んだ。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "フラクタル圧縮とホログラフィック再構成を通じた、古典的分子動力学からの創発。ビーベリッヒは量子コヒーレンスも収縮も持ち出さない。",
+    "subjectivity_and_intentionality": "知覚する自己は、場を生み出す組織の一部である。ビーベリッヒは、それを眺める小人（ホムンクルス）に代えてこの見方を提示する。外的世界の空間関係（エクソスペース）は、エンドスペースの内部で再構成される。",
+    "qualia_account": "RIFTは、経験の幾何学がどのように生成され保持されるかを説明するが、ビーベリッヒ自身の言明によれば、その幾何学がなぜ経験されるのかは説明しない。",
+    "ontological_commitments": "再帰的な神経ループ、フラクタルな樹状突起の樹、脂質ドメインとイオンチャネルからなる多重フラクタル格子（センチオン）、ホログラフィック的に生成された場（エンドスペース）、そして自己のアトラクター。",
+    "epistemic_access": "理論的論証と計算機シミュレーション。そして、膜の脂質、樹状突起のタイミング、注意に関する提案された実験。",
+    "constituents_and_structure": "核となるニューロン（たとえば第5層の錐体細胞）が再帰的入力を受け取り、その体細胞膜は臨界付近のイジング格子としてモデル化される。そして、各意識の瞬間を次の瞬間へと運ぶ圧縮された「種」。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的統一、結合、経験の連続性、注意、心的因果。",
+    "distinctive_mechanism_or_principle": "フラクタル的な包み込み、ホログラフィック的な展開、そして自己創出的なフィードバック。部分のうちに全体が写像されることによってのみ、諸部分を失うことなく統合できる。神経信号の総和にはそれができない。",
+    "dynamics_of_emergence": "世代的フラクタル写像（Generational Fractal Mapping）において、膜のパターンは閾値まで成長し、各活動電位とともに崩壊する。その一方で、脂質に基づく種は存続するため、各意識の瞬間が前の瞬間を更新する。",
+    "location_and_distribution": "個々の核となるニューロンの内部であるが、移動可能である。「センチオン転送」を通じて種が他のニューロンに複製され、意識は、処理が必要とされるところへ移動する動的な核となる。",
+    "causation_and_functional_role": "エンドスペースの平均場強度は、脂質ドメインとイオンチャネルのあいだの結合を強め、エネルギーを加えることなくチャネルの開口を偏らせる。ビーベリッヒは、これによって意識を因果的に有効なものにしようとする。注意は、この核の移動性を表現する。",
+    "integration_or_binding": "膜パターンのあらゆる部分領域は全体を符号化しているため、断片からもほぼ同じ場が再構成される。ビーベリッヒは、これを結合問題への幾何学的な答えとして提示する。",
+    "information_flow_or_representation": "総ループ時間が等しい再帰的ループは、体細胞においてEPSPを一致させ、その振幅と潜時が、ネットワーク活性化の幾何学を膜へと運ぶ。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "統合発火型の符号化は、何千もの入力を一つのスパイクへと押し潰すため、神経符号のうちでは、異なる候補となる経験が区別できなくなる。",
+      "シミュレーションにおいて、樹状突起の経路長と外的経路長の逆の関係が、同時性に基づくシナプス選択から生じた。",
+      "シミュレートされた体細胞パターンの、互いに似ていない八つの断片は、ほぼ同一の場を再構成した（類似度0.96）。一方、ランダムな入力や規則的な入力では、そうはならなかった。",
+      "シミュレーションにおいて、脂質とチャネルの結合を高めると、チャネル開口の割合が89.0%から95.5%へと増加した。"
+    ],
+    "basis_of_belief_or_evidence_type": "理論的かつ計算論的なもの。ビーベリッヒは、公開されてアーカイブされたコードを用いて、六つのシミュレーション・モジュールを実行した。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的",
+    "known_empirical_interventions_or_tests": "予測：コレステロールの枯渇は、イオンチャネルの遮断よりも意識を損なうはずである。樹状突起の分岐水準と外的経路長は、逆の時間関係をもつはずである。種の転送は、注意が向けられた領域全体に同調の痕跡を残すはずである。アルツハイマー病では、脂質ドメインの破壊は、アミロイド負荷よりもよく記憶の喪失と対応するはずである。",
+    "criticisms_and_tensions": "シミュレーションが示すのは、ニューロンがこの理論を実装していることではなく、この理論自体が定める基準をあるアーキテクチャが満たすことにすぎない。逆方向の結合性と体細胞の多重フラクタルは、実証されていない。ホログラフィック的な段階には、膜のなかで同定された干渉性の源が欠けており、経験空間を生成するという主張は、なぜその空間が経験されるのかを否認することと折り合いが悪い。",
+    "open_questions_and_limitations": "ビーベリッヒは、六つのモジュールが一つのループとして実行されたわけではないこと、主要な段階は、確認された物理的担い手をもたない計算上の代理であること、フィードバックの強さは手作業で設定されたこと、そして統合の尺度は形式的な統合情報量の計算ではないことを認めている。",
+    "ontological_coherence": "古典的物理主義とは整合的であるが、再構成された幾何学と経験を同一視することは、なお公準のままである。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "現在のAIは、再帰的なフラクタルのタイミング、多重フラクタルの基盤、ホログラフィック的再構成をもたないため、RIFTの基準では意識をもたない。ただし、ビーベリッヒは、その数学的構造は基盤非依存的であると考えている。"
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "意識は生きたニューロンにおける分子パターンによって生成されるため、それらが失われると意識も終わる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "この理論は、宇宙的な目的をもたない古典的な生物物理学的機構である。"
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "基盤非依存的な構造は、原理的には扉を開いたままにするが、RIFTは特定の人物を再現することを扱ってはいない。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Pribram's Holonomic Brain Theory",
+        "relationship": "影響"
+      },
+      {
+        "name": "Dendritic Integration Theory",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Edelman's Neural Darwinism and Reentrant Neural Circuitry",
+        "relationship": "影響"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "RIFT: A fractal-holographic theory of consciousness and autopoietic control, Erhard Bieberich",
+        "year": 2026
+      },
+      {
+        "title_with_names": "Introduction to the fractality principle of consciousness and the sentyon postulate, Erhard Bieberich",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Recurrent fractal neural networks: A strategy for the exchange of local and global information processing in the brain, Erhard Bieberich",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Brain and Perception: Holonomy and Structure in Figural Processing, K. H. Pribram",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Autopoiesis and Cognition: The Realization of the Living, H. R. Maturana and F. J. Varela",
+        "year": 1980
+      },
+      {
+        "title_with_names": "A Universe of Consciousness, G. M. Edelman and G. Tononi",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Single-neuron theory of consciousness, S. Sevush",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Cellular mechanisms of conscious processing, J. Aru, M. Suzuki and M. E. Larkum",
+        "year": 2020
+      }
+    ]
+  }
+}

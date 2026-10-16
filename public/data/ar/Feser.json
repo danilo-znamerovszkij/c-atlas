@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "الثنائية الحسّية المشتركة الأرسطية الجديدة والتوماوية الجديدة لدى فيزر",
     "summary": "تفترض هذه النظرية الثنائية أن العقل البشري (المفاهيم المجردة والاستدلال) ملكة غير مادية ولا يمكن اختزاله إلى عمليات مادية. وهي تحل «المشكلة الصعبة» بالدعوة إلى العودة إلى الواقعية الحسّية المشتركة الأرسطية، حيث تكون الكيفيات الحسّية (الكواليا) خصائص موضوعية للعالم المادي الخارجي، فتنحلّ بذلك المعضلة الناجمة عن التصور الحديث المتقشّف الكمّي للمادة.",
-    "associated_thinkers": ["Edward Feser"],
-    "category": "الثنائيات",
-    "subcategory": "الثنائية الحسّية المشتركة الأرسطية الجديدة والتوماوية الجديدة",
+    "associated_thinkers": [
+      "Edward Feser"
+    ],
+    "category": "الثنائية",
+    "subcategory": "الثنائية التوماوية الجديدة والأرسطية الجديدة وثنائية الحس المشترك",
     "core_identity_tagline": "الوعي عبر العقل غير المادي والكيفيات الموضوعية",
     "classification_tags": [
       "dualism",
@@ -51,34 +53,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "لا على الأرجح",
+      "stance": "Unlikely",
       "rationale": "إذا كان العقل (اللازم للفكر المحدَّد والمفاهيم المجردة) غير مادي جوهرياً وغير قابل للاختزال إلى عمليات مادية، فإن الذكاء الاصطناعي الحسابي/المادي المحض لا يمكنه تجسيد الوعي البشري الكامل الذي تصفه النظرية."
     },
     "survival_beyond_death": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "تُعرَّف النفس بوصفها كياناً غير مادي قائم بذاته، قادراً على الوجود وممارسة الوظيفة المعرفية بمفرده بمعزل عن الجسد، وإن كان ذلك يُعدّ غير طبيعي لها."
     },
     "meaning_and_purpose": {
-      "stance": "نعم",
+      "stance": "Cosmic/Ultimate",
       "rationale": "إن الحفاظ على المحتوى المحدَّد في الفكر والمنطق والكليات العقلية، مقروناً بالالتزام الأنطولوجي بالنفس، يستلزم رؤيةً غير تفريغية للمعنى تتجنب العدمية المادية."
     },
     "virtual_immortality": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "يعتمد الخلود الافتراضي على الوظيفية الحسابية. وبما أن فيزر يحاجّ بأن الوعي العقلي غير قابل للاختزال إلى عمليات مادية أو للتفسير بها، فلا يمكن رفع الذات البشرية الكاملة رقمياً."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Stump’s Thomistic Dualism", "relationship": "متوافق" },
-      { "name": "Cartesian Dualism", "relationship": "نقد" },
       {
-        "name": "Eliminative Materialism/Illusionism",
+        "name": "Stump's Thomistic Dualism",
+        "relationship": "متوافق"
+      },
+      {
+        "name": "Cartesian Dualism",
         "relationship": "نقد"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "نقد" }
+      {
+        "name": "Eliminative/Illusionism",
+        "relationship": "نقد"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "نقد"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Think, McFly, think, Edward Feser", "year": 2012 },
+      {
+        "title_with_names": "Think, McFly, think, Edward Feser",
+        "year": 2012
+      },
       {
         "title_with_names": "Aristotle, call your office, Edward Feser",
         "year": 2012

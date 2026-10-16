@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "ボストロムの計算的機能主義",
+    "summary": "ニック・ボストロムは、意識は計算に依存するのであって、それを実行する素材には依存しないと考えるため、心は生物学的ニューロン以外の基体上で動作しうるとする。彼はこれを意識の本性についての理論というより、シミュレーション仮説、人間原理に基づく推論、人工的な心の倫理を支える前提として展開している。",
+    "associated_thinkers": [
+      "Nick Bostrom"
+    ],
+    "category": "唯物論",
+    "subcategory": "計算論的",
+    "core_identity_tagline": "基体非依存の計算としての意識",
+    "classification_tags": [
+      "functionalism",
+      "simulation argument",
+      "substrate independence",
+      "anthropic reasoning",
+      "ai ethics"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は適切な計算過程の産物である。心的状態は、何でできているかではなく、何をするか、すなわち機能的役割によって定義される。",
+    "ontological_status": "物理主義（計算的機能主義）",
+    "mind_body_relationship": "多重実現可能性。ボストロムは、人間の心をシミュレートでき、シミュレートされた心が意識をもちうるなら、われわれ自身の意識は生物学的ニューロン以外の基体によって実現されているかもしれないと書いている。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（計算的組織化に由来）",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "計算過程と、それを実装する物理的基体（生物的なものであれ人工的なものであれ）。",
+    "epistemic_access": "計算神経科学と、観測者、確率、シミュレーションについての哲学的推論を通じて。",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的（道徳的に重要なものとして）; 意識の程度; 観測者としての地位",
+    "distinctive_mechanism_or_principle": "基体非依存性: 同じ計算は、どのハードウェア上で実行されても同じ心的状態を生み出す。",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "関連する計算が実行されるところならどこでも。脳、コンピュータ、あるいはシミュレートされた世界の中で。",
+    "causation_and_functional_role": "意識をもつことは推論の仕方を形づくる。観測者選択効果は、意識をもつ観測者が宇宙について何を信じるべきかを制約し、それにはその観測者が、シミュレーションの中に生きているかどうかも含まれる。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "人間の心がシミュレートでき、シミュレートされた心が意識をもちうるなら、意識は生物学的ニューロンを必要としない。",
+      "シミュレーション論法が首尾一貫するのは、意識が計算的である場合に限られ、そのため計算主義はその前提条件となる。",
+      "ボストロムは、ある存在の道徳的地位は少なくとも部分的には、それが意識をもつかどうか、またどの程度もつかに依存すると書いており、これは意識が程度の問題であることを含意する。",
+      "ボストロムは、われわれがシミュレーションの中に生きていると主張しているわけではない。彼の計算主義は、計算神経科学を含むほかの根拠に基づいている。"
+    ],
+    "basis_of_belief_or_evidence_type": "計算神経科学に基づいた、哲学的かつ確率論的な論証。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "推測的",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "ボストロムは計算的機能主義を擁護するよりも前提としており、なぜ計算が経験を生み出すのかを説明していない。",
+    "open_questions_and_limitations": "人工的な心が意識をもちうるか、また権利をもつべきかは、この見解が提起するが解決しない問いである。ボストロムの立場は形而上学的というより認識論的である。",
+    "ontological_coherence": "主流の機能主義、そしてシミュレーション、実存的リスク、全脳エミュレーションに関する彼自身の研究と整合している。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "意識が基体非依存の計算であるなら、適切な過程を実行する人工システムは意識をもつことになり、ボストロムはそれに人工システムの道徳的地位を結びつけている。"
+    },
+    "survival_beyond_death": {
+      "stance": "Conditional",
+      "rationale": "生物学的な死は、その計算がほかの場所で再現されない限り意識を終わらせる。われわれがシミュレートされているなら、われわれの身に何が起こるかはシミュレーションを行う者次第である。"
+    },
+    "meaning_and_purpose": {
+      "stance": "Uncertain",
+      "rationale": "われわれの世界が高度な文明によって構築されたシミュレーションであるなら、それはその製作者によって定められた目的をもつかもしれないが、ボストロムはそれを知っているとは主張しない。"
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "基体非依存性は、シミュレートされた心が人の意識を存続させうることを含意する。これは全脳エミュレーションへのボストロムの関心と一致する。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Putnam’s Machine Functionalism",
+        "relationship": "基盤"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Agüera y Arcas’s Computational Functionalism",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Searle's Biological Naturalism",
+        "relationship": "対照"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Bostrom’s Computational Functionalism (Landscape of Consciousness), Nick Bostrom",
+        "year": 2003
+      }
+    ]
+  }
+}

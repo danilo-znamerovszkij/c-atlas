@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "مقاربة ليفين التقنية للعقل في كل مكان (TAME)",
     "summary": "يفهم هذا الإطار العقل والمعرفة من خلال النشاط الوظيفي الموجَّه نحو غاية عبر ركائز متنوعة، كثيرًا ما تكون غير تقليدية، بما فيها المواد المهندَسة والأحياء التخليقية. ويفترض أن الوعي أو الحس متصل ومتدرّج، إذ ينظر إلى عقول الحيوان بوصفها مثالًا على الذكاء الجمعي بين مجموعات الخلايا.",
-    "associated_thinkers": ["Michael Levin"],
-    "category": "نظريات المادية",
-    "subcategory": "التطور السلالي",
+    "associated_thinkers": [
+      "Michael Levin"
+    ],
+    "category": "التحدّي",
+    "subcategory": "",
     "core_identity_tagline": "المقاربة التقنية للعقل في كل مكان (TAME)",
     "classification_tags": [
       "technological",
@@ -55,34 +57,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "بما أن مقاربة TAME تنطبق على المواد المصممة والمسخية، فإن الأنظمة الاصطناعية (إذا هيّئت بوصفها أنظمة إدراك-فعل مجسَّدة موجَّهة نحو غاية) يمكنها على نحو معقول أن تحقق الوعي."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "بوصفه إطارًا ماديًا يربط الوعي بالاشتغال المستمر لركيزة فيزيائية مجسَّدة، فإن البقاء بعد وجود تلك الركيزة غير مدعوم."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني/مرتبط بالفاعلية",
+      "stance": "Humanistic only",
       "rationale": "يرتبط الوعي بالنشاط الموجَّه نحو غاية، مما يوحي بأن المعنى مستمد من الفاعلية المتأصلة في النظام، لا من غائية كونية."
     },
     "virtual_immortality": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "يوحي المنطلق القائل بأن العقل يمكن هندسته وتجسيده في بنى مستحدثة غير بيولوجية بأن نسخ نظام الإدراك-الفعل المجسَّد المعقد ونقله ينبغي أن يكونا ممكنين من حيث المبدأ."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Embodied Cognition",
+        "name": "Embodied",
         "relationship": "متوافقة/تأثير"
       },
       {
-        "name": "Ginsburg and Jablonka’s Associative Learning During Evolution",
+        "name": "Ginsburg and Jablonka's Associative Learning During Evolution",
         "relationship": "تداخل"
       },
       {
-        "name": "Computational and Informational Theories",
+        "name": "Computational",
         "relationship": "تداخل"
       }
     ],

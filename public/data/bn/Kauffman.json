@@ -2,8 +2,12 @@
   "id_and_class": {
     "theory_title": "Kauffman-এর সম্ভাব্যকে বাস্তবে মধ্যস্থতাকারী মন",
     "summary": "এই তত্ত্ব প্রস্তাব করে চেতনা আংশিকভাবে কোয়ান্টাম এবং সত্তাতাত্ত্বিকভাবে বাস্তব সম্ভাব্যকে (Res potentia) বাস্তবে (Res extensa) রূপান্তরের একটি প্রয়োজনীয় উপাদান হিসেবে কাজ করে কোয়ান্টাম পরিমাপের মাধ্যমে। এই প্রক্রিয়া প্রয়োজনীয় কারণ বিশুদ্ধ চিরায়ত পদার্থবিজ্ঞান তরঙ্গ ফাংশনের সংকোচনে মনের ভূমিকা ব্যাখ্যা করতে পারে না, যা চিরায়ত পদার্থবিজ্ঞানের কারণসংক্রান্ত সমাপ্তি এড়ানোর জন্য প্রয়োজনীয়।",
-    "associated_thinkers": ["Stuart Kauffman", "Dean Radin", "Andrea Roli"],
-    "category": "কোয়ান্টাম তত্ত্ব",
+    "associated_thinkers": [
+      "Stuart Kauffman",
+      "Dean Radin",
+      "Andrea Roli"
+    ],
+    "category": "কোয়ান্টাম",
     "subcategory": "কোয়ান্টাম",
     "core_identity_tagline": "কোয়ান্টাম পরিমাপের মাধ্যমে সম্ভাব্যকে বাস্তবে মধ্যস্থতাকারী মন",
     "classification_tags": [
@@ -52,30 +56,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "হাঁ",
+      "stance": "Yes",
       "rationale": "চেতনা যদি কোয়ান্টাম মেকানিক্সে নিহিত হয়, প্রযুক্তি প্রাসঙ্গিক কোয়ান্টাম অবস্থাকে ব্যাপকভাবে পরিচালনা ও নিয়ন্ত্রণ করতে পারলে AI চেতনা সম্ভব হওয়া উচিত, যদিও এটি প্রযুক্তিগতভাবে এখনও চ্যালেঞ্জিং।"
     },
     "survival_beyond_death": {
-      "stance": "সম্ভবত",
+      "stance": "Possible",
       "rationale": "তত্ত্বটি প্রস্তাব করে মনের কিছু দিক অ-স্থানীয় এবং মন-মস্তিষ্ক তন্ত্রের বাইরে বিস্তৃত হতে পারে, যা দৈহিক মৃত্যুর পরে টিকে থাকার জন্য একটি সম্ভাবনীয় যুক্তিসিদ্ধ প্রক্রিয়া প্রদান করে।"
     },
     "meaning_and_purpose": {
-      "stance": "অনিশ্চিত",
+      "stance": "Uncertain",
       "rationale": "চেতনাকে বাস্তবতার জন্য মৌলিক (potentia/actuals এর মাধ্যমে) প্রতিপাদন করে এবং তাকে একটি কার্যকারণমূলক ভূমিকা প্রদান করে, এটি কঠোর বস্তুবাদের 'অর্থহীন' মহাবিশ্ব থেকে দূরে যায়, চরম অর্থের জন্য একটি সম্ভাব্য কাঠামোর ইঙ্গিত দেয়, যদিও স্পষ্টভাবে সংজ্ঞায়িত নয়।"
     },
     "virtual_immortality": {
-      "stance": "সম্ভবত (অনিশ্চয়তার সাথে)",
+      "stance": "Likely",
       "rationale": "চেতনা যদি কোয়ান্টাম হয়, ভার্চুয়াল প্রতিলিপি অনুমানযোগ্য নিয়মিততার অধীনে সম্ভব, কিন্তু কোয়ান্টাম পদার্থবিজ্ঞানের অন্তর্নিহিত অনির্ধারণযোগ্যতা ও সম্ভাব্যতা অনিশ্চয়তা প্রবেশ করায় এবং ভার্চুয়াল অমরত্বের জন্য প্রয়োজনীয় নিখুঁত প্রতিলিপি-সক্ষমতা ক্ষুণ্ণ করতে পারে।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Stapp’s Collapsing the Wave Function via Asking “Questions”",
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
         "relationship": "অতিব্যাপন"
       },
       {
-        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
         "relationship": "অতিব্যাপন"
       },
       {

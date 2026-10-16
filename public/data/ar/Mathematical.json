@@ -10,7 +10,7 @@
       "Roger Penrose"
     ],
     "category": "المادية",
-    "subcategory": "حاسوبية ومعلوماتية",
+    "subcategory": "حاسوبية",
     "core_identity_tagline": "الوعي بوصفه بنية رياضية صورية",
     "classification_tags": [
       "mathematics",
@@ -57,19 +57,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مشروط",
+      "stance": "Conditional",
       "rationale": "إذا كان الوعي مُعرَّفًا بحتًا ببنية رياضية مجردة أو منطق حاسوبي، فإن الأنظمة الاصطناعية التي تحقق تلك البنية يمكنها على نحو محتمل تجسيد الوعي."
     },
     "survival_beyond_death": {
-      "stance": "مشروط",
+      "stance": "Conditional",
       "rationale": "توحي النظريات الرياضية الأنطولوجية (كتيغمارك وبنروز) بأن أساس الواقع بنية رياضية أزلية، مما قد يتيح للوعي أن يستمر بعد الدماغ الفيزيائي بمعنى مجرد."
     },
     "meaning_and_purpose": {
-      "stance": "كوني مشروط",
+      "stance": "Uncertain",
       "rationale": "إذا كان الكون رياضيًا في جوهره أو متجذرًا في الأشكال الأفلاطونية، فإن ذلك يعني دلالة عقلانية متأصلة للوجود، وإن لم تكن بالضرورة معنى غائيًا شخصيًا."
     },
     "virtual_immortality": {
-      "stance": "ممكن",
+      "stance": "Possible",
       "rationale": "إذا اختُزل العقل كليًا إلى بنية رياضية قابلة للتكميم أو إلى تدفق معلومات، فإن هذا النمط يمكن من حيث المبدأ حفظه وتجسيده في ركيزة جديدة."
     }
   },
@@ -80,11 +80,11 @@
         "relationship": "تأثير"
       },
       {
-        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "name": "Friston's Free-Energy Principle and Active Inference",
         "relationship": "تأثير"
       },
       {
-        "name": "Tegmark’s State of Matter",
+        "name": "Tegmark's State of Matter",
         "relationship": "امتداد"
       }
     ],

@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Il mindmelding di Hirstein",
     "summary": "William Hirstein sostiene che il principale ostacolo che impedisce una spiegazione fisica diretta della mente cosciente sia l'infondata «assunzione di privatezza». Rimuovendo questa assunzione metafisica — l'idea che una persona non possa mai sperimentare gli stati coscienti di un'altra — viene meno la motivazione a creare fastidiosi dualismi, panpsichismi e teorie che rivendicano l'insolubilità.",
-    "associated_thinkers": ["William Hirstein"],
+    "associated_thinkers": [
+      "William Hirstein"
+    ],
     "category": "Materialismo",
     "subcategory": "Neurobiologico",
     "core_identity_tagline": "La coscienza spiegata rifiutando la privatezza metafisica",
@@ -49,7 +51,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "Poiché la teoria cerca una spiegazione «direttamente fisica» della coscienza ed è classificata come Materialismo, non vi è alcun divieto di principio alla creazione di un'IA cosciente."
     },
     "survival_beyond_death": {
@@ -57,22 +59,34 @@
       "rationale": "La teoria è un modello materialista che mira a sconfiggere i dualismi. Il materialismo ritiene che la coscienza sia esclusivamente un prodotto del cervello biologico, il che significa che cessa con la morte biologica."
     },
     "meaning_and_purpose": {
-      "stance": "Solo umanistico",
+      "stance": "Humanistic only",
       "rationale": "Le Teorie materialiste affermano generalmente che, sebbene gli esseri umani possano creare significato e valore per sé stessi, non esiste alcun significato o scopo cosmico ultimo."
     },
     "virtual_immortality": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "Se la coscienza è interamente spiegabile in termini fisici (come sostiene Hirstein), allora il caricamento dei pattern e delle vie neurali completi di una persona preserverebbe, in linea di principio, il sé mentale in prima persona."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Critica" },
-      { "name": "Panpsychisms", "relationship": "Critica" },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Compatibile" }
+      {
+        "name": "Dualism",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Compatibile"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Hirstein’s mindmelding", "year": "" },
+      {
+        "title_with_names": "Hirstein’s mindmelding",
+        "year": ""
+      },
       {
         "title_with_names": "Mindmelding: Consciousness, Neuroscience, and the Mind’s Privacy, William Hirstein",
         "year": 2012

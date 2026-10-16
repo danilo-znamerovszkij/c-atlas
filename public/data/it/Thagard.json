@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Rappresentazione neurale, legame, coerenza e competizione di Thagard",
     "summary": "Questa teoria attribuisce le esperienze coscienti alle interazioni di quattro meccanismi cerebrali empiricamente plausibili: rappresentazione neurale, legame, coerenza e competizione. Sostiene che la coscienza emerga da queste interazioni attraverso il cervello, fornendo una spiegazione scientificamente fondata di fenomeni coscienti complessi come i sogni, l'umorismo e l'autoconsapevolezza.",
-    "associated_thinkers": ["Paul Thagard"],
+    "associated_thinkers": [
+      "Paul Thagard"
+    ],
     "category": "Materialismo",
-    "subcategory": "Rappresentazionale",
+    "subcategory": "Ordine superiore",
     "core_identity_tagline": "«La coscienza costruita da meccanismi neurali»",
     "classification_tags": [
       "neuroscience",
@@ -52,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "La teoria suggerisce che, mentre gli attuali computer non sono coscienti, i nuovi modelli di IA generativa hanno meccanismi simili a quelli umani, il che potrebbe consentire un certo grado di coscienza, specialmente se i quattro meccanismi cerebrali centrali possono essere modellati o replicati computazionalmente."
     },
     "survival_beyond_death": {
@@ -60,26 +62,26 @@
       "rationale": "In quanto teoria materialista, la coscienza dipende interamente dal cervello biologico; pertanto, la morte del cervello comporta la permanente non esistenza della persona e della coscienza."
     },
     "meaning_and_purpose": {
-      "stance": "Solo umanistico",
+      "stance": "Humanistic only",
       "rationale": "In quanto teoria materialista, aderisce a una spiegazione fisicalista che generalmente esclude un significato o uno scopo cosmico ultimo, riconoscendo solo il significato e il valore creati dagli esseri umani stessi."
     },
     "virtual_immortality": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "Se la teoria materialista spiega la coscienza interamente attraverso meccanismi fisici (rappresentazione neurale, legame, coerenza, competizione), allora il sé mentale in prima persona è caricabile e l'immortalità virtuale è conseguibile tramite una tecnologia avanzata capace di duplicare quei processi fisici."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Representational Theories",
+        "name": "First-Order",
         "relationship": "Estensione"
       },
       {
-        "name": "Higher-Order Theories",
+        "name": "Higher-Order",
         "relationship": "Compatibile"
       },
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "Compatibile"
       }
     ],

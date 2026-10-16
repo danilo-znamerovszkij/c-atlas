@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "La teoria teosofica (l'anima e la coscienza eclettiche della Teosofia)",
     "summary": "La Teosofia, che si definisce «Saggezza Divina», postula che la coscienza sia una proprietà fondamentale, non emergente, ubiqua in tutto il cosmo, presente anche nella materia inorganica. L'esistenza umana è descritta mediante sette principi, tra cui tre tipi di anima non fisica (animale, umana e spirituale), il che ne fa un sistema occulto che concepisce la coscienza come in evoluzione attraverso vari livelli o piani di manifestazione.",
-    "associated_thinkers": ["Madame Blavatsky", "Edi Bilimoria"],
-    "category": "Dualismi",
-    "subcategory": "Regni dell'anima",
+    "associated_thinkers": [
+      "Madame Blavatsky",
+      "Edi Bilimoria"
+    ],
+    "category": "Dualismo",
+    "subcategory": "Regni dell’anima",
     "core_identity_tagline": "«La coscienza come saggezza cosmica fondamentale e multilivello»",
     "classification_tags": [
       "occult",
@@ -51,15 +54,15 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condizionale",
+      "stance": "Conditional",
       "rationale": "Poiché la coscienza è ubiqua (presente anche nella materia inorganica/negli atomi), le strutture di IA potrebbero possedere una «coscienza atomica». Tuttavia, conseguire il complesso livello umano di «autocoscienza» legato all'anima spirituale non fisica e ai corpi sottili è altamente improbabile per sistemi puramente artificiali, a meno che la tecnologia non possa istanziare queste componenti non fisiche."
     },
     "survival_beyond_death": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "In quanto teoria dualista che presenta una struttura dell'anima indipendente e non fisica (anima spirituale) e che sostiene l'esistenza dei «Regni dell'anima», fornisce un chiaro meccanismo per la sopravvivenza e lo sviluppo continuato della coscienza individuale dopo la morte corporea."
     },
     "meaning_and_purpose": {
-      "stance": "Sì, cosmico",
+      "stance": "Cosmic/Ultimate",
       "rationale": "La Teosofia è fondamentalmente una religione della «Saggezza Divina» incentrata sul «dispiegarsi della Coscienza» dal Non manifesto, il che implica una teleologia cosmica verso il conseguimento spirituale e la realizzazione ultima."
     },
     "virtual_immortality": {
@@ -70,19 +73,19 @@
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Steiner’s Esoteric Soul and Consciousness",
+        "name": "Steiner's Esoteric Soul and Consciousness",
         "relationship": "Correlata/Concorrente"
       },
       {
-        "name": "Indian Cosmic Consciousness (Idealism)",
+        "name": "Indian Cosmic Consciousness",
         "relationship": "Influenza"
       },
       {
-        "name": "Dualisms (Substance Dualism)",
+        "name": "Dualism",
         "relationship": "Sovrapposizione"
       },
       {
-        "name": "Panpsychisms",
+        "name": "Panpsychism",
         "relationship": "Sovrapposizione"
       }
     ],

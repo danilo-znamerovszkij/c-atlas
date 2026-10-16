@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "El cálculo de qualia de Merriam como primitivos lógicos",
+    "summary": "El Cálculo de Qualia de Paul Merriam es un sistema formal con términos no referenciales, como █, que presentan una experiencia directamente en la conciencia en lugar de referirse a ella. Desde esta perspectiva, los qualia son primitivos lógicos, irreducibles y no explicables ulteriormente, y Merriam sostiene que las teorías adecuadas de la mente necesitan tales términos presentacionales junto a los referenciales ordinarios.",
+    "associated_thinkers": [
+      "Paul Merriam",
+      "Mohammed A. Z. Habeeb"
+    ],
+    "category": "Desafío",
+    "subcategory": "",
+    "core_identity_tagline": "Los qualia como primitivos lógicos no referenciales",
+    "classification_tags": [
+      "qualia",
+      "formal logic",
+      "non-referential terms",
+      "zombie argument",
+      "hard problem"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Los qualia son primitivos lógicos cuyo significado es su propia presentación. Un término no referencial como █ instancia el quale cuando aparece; no lo denota.",
+    "ontological_status": "Realismo de qualia (primitivismo lógico)",
+    "mind_body_relationship": "El problema difícil se convierte en ‘¿por qué el proceso físico p se correlaciona con █?’, y Merriam sugiere que las respuestas implicarían vías experienciales, como convertir un pensamiento cerebral referencial en █.",
+    "primitive_or_emergent_status": "Primitivo",
+    "emergence_type": "No emergente; los qualia son primitivos irreducibles cuya naturaleza intrínseca no puede explicarse más.",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Las palabras referenciales como ‘negrura’ abstraen el quale, mientras que █ lo presenta. Cada quale plantea, por tanto, su propio problema difícil distinto.",
+    "ontological_commitments": "Los qualia como primitivos reales e irreducibles; dos tipos semánticos de término, referenciales y no referenciales.",
+    "epistemic_access": "Presentación directa en la conciencia, captada formalmente mediante términos no referenciales.",
+    "constituents_and_structure": "Las ‘cualaciones’ (expresiones que contienen términos no referenciales) obedecen reglas propias: las instancias no colapsan al sumarse (█ + █ siguen siendo dos instancias), y un término entrecomillado equivale a lo que presenta (‘█’ = █), a diferencia de ‘negrura’."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (qualia)",
+    "distinctive_mechanism_or_principle": "Términos no referenciales y presentacionales. Un Cálculo de Nombres con operadores de nombre y referente colapsa para tales términos, y el Teorema de la Barrera de Referencia muestra que ninguna cualación bien formada puede igualar un término referencial con uno no referencial.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "El cálculo es no causal: los estímulos posibilitan los términos no referenciales pero no los definen, lo que lo sitúa frente a las teorías causales del significado.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Merriam rechaza la reducción de los qualia a contenido propia del representacionalismo. Usar solo términos referenciales, dice, ‘es como usar notación musical en una partitura sin llegar nunca a oír la música real’.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Los lenguajes desde Frege hasta Husserl y Heidegger están ligados a la referencia y, por ello, no pueden captar la inmediatez de los qualia.",
+      "Una teoría dual de la verdad separa la verdad referencial (correspondencia) de la verdad presentacional (instanciación precisa), y el Teorema de la Barrera de la Verdad afirma que ningún término posee ambas.",
+      "El argumento del zombi se disuelve: afirmar que un zombi carece de █ exige presentar █, de modo que su ausencia no puede enunciarse coherentemente.",
+      "Las estrategias de concepto fenoménico y de entrecomillado siguen siendo referenciales, de modo que, por la Barrera de Referencia, no pueden captar la presentación."
+    ],
+    "basis_of_belief_or_evidence_type": "Lógica formal y filosofía del lenguaje."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptualmente comprobable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Merriam presenta el resultado sobre el zombi como una disolución lógica, no como una refutación empírica. El cálculo afirma que los qualia son irreducibles, pero no explica por qué los procesos físicos se correlacionan con ellos.",
+    "open_questions_and_limitations": "Dado que cada quale genera su propio problema difícil, el cálculo multiplica los objetivos explicativos en lugar de cerrarlos.",
+    "ontological_coherence": "Merriam compara el cálculo con los números complejos: añade poder expresivo sin negar los sistemas anteriores. Afirma la realidad de los qualia frente al ilusionismo."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Crítica"
+      },
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Contraste"
+      },
+      {
+        "name": "Husserl’s Transcendental Phenomenology",
+        "relationship": "Contraste"
+      },
+      {
+        "name": "Lewis’s Analytic Functionalism and Causal-Role Identity Theory",
+        "relationship": "Contraste"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Merriam’s Calculus of Qualia as Logical Primitives (Landscape of Consciousness entry), Paul Merriam and Mohammed A. Z. Habeeb",
+        "year": 2022
+      }
+    ]
+  }
+}

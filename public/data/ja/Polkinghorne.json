@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ポーキングホーンの二相一元論",
     "summary": "この理論は、物質と心が単一の統一的存在（心身的な本性）の相補的な側面であると主張し、古典的二元論と唯物論の双方を斥ける。心、すなわち魂は、物理的な脳によって組織化された情報を担うパターンとして構想される。この見解はしばしばキリスト教神学の文脈のうちに位置づけられ、死者の復活に必要な人格的同一性の連続性を説明しようとする。",
-    "associated_thinkers": ["John Polkinghorne"],
+    "associated_thinkers": [
+      "John Polkinghorne"
+    ],
     "category": "一元論",
-    "subcategory": "二相一元論",
+    "subcategory": "二側面一元論",
     "core_identity_tagline": "統一的存在の相補的側面としての心と物質",
     "classification_tags": [
       "psychosomatic",
@@ -52,34 +54,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "可能性が高い",
+      "stance": "Likely",
       "rationale": "意識が主として、複雑なシステムによって組織化された情報の創発的パターンであるならば、十分な複雑さと組織化をもつ人工システムは理論上このパターンを宿し意識的となりうるはずである。"
     },
     "survival_beyond_death": {
-      "stance": "肯定（条件付き／神学的）",
+      "stance": "Conditional",
       "rationale": "人格の本質（独自の情報を担うパターン／魂）は死後に「神の記憶」によって保持され、復活の際に新たな形態の物質のうちに再構成されて連続性を保証する。"
     },
     "meaning_and_purpose": {
-      "stance": "宇宙的かつ神学的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "この理論は、復活を許容する実在の内部に人間存在の整合的な説明を見いだそうとする動機に基づいており、神の意図と運命に結びついた究極の目的と価値を含意する。"
     },
     "virtual_immortality": {
-      "stance": "肯定（条件付き）",
+      "stance": "Conditional",
       "rationale": "本質的な自己が情報を担うパターンとして定義されるため、仮想的不死は理論上可能である。このパターンを非生物学的媒体にアップロードすれば、必要な同一性の要素が保存される。ただし複製が完全であり、そのパターンが「私」の存続に必要な唯一の要素であることが条件となる。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Teilhard de Chardin’s Evolving Consciousness",
+        "name": "Teilhard de Chardin's Evolving Consciousness",
         "relationship": "重複（二相一元論と進化的・目的論的枠組みを共有する）"
       },
       {
-        "name": "Atmanspacher’s Dual-Aspect Monism",
+        "name": "Atmanspacher's Dual-Aspect Monism",
         "relationship": "両立可能（統一的実在の二相的見解へのコミットメントを共有する）"
       },
       {
-        "name": "Van Inwagen’s Christian Materialism and Resurrection of the Dead",
+        "name": "van Inwagen's Christian Materialism and Resurrection of the Dead",
         "relationship": "重複（物理的崩壊にもかかわらず人格的同一性の連続性を求める神学的必然性を扱う）"
       }
     ],
@@ -92,8 +94,14 @@
         "title_with_names": "The God of Hope and the End of the World",
         "year": 2003
       },
-      { "title_with_names": "Faith, Science and Understanding", "year": 2001 },
-      { "title_with_names": "All things new (Closer To Truth)", "year": 2007 }
+      {
+        "title_with_names": "Faith, Science and Understanding",
+        "year": 2001
+      },
+      {
+        "title_with_names": "All things new (Closer To Truth)",
+        "year": 2007
+      }
     ]
   }
 }

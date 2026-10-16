@@ -8,7 +8,7 @@
       "Eleonore Stump",
       "William Lane Craig"
     ],
-    "category": "الثنائيات",
+    "category": "الثنائية",
     "subcategory": "ثنائية الجوهر",
     "core_identity_tagline": "الوعي بوصفه روحًا جوهرية غير مادية",
     "classification_tags": [
@@ -61,28 +61,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "لا (في الغالب)",
+      "stance": "Unlikely",
       "rationale": "إذا كان الوعي يتطلب جوهرًا غير فيزيائي منفصلًا انفصالًا جذريًا (روحًا) مخلوقًا أو معطى إلهيًا، فلن تتمكن الأذكياء غير البيولوجية من توليد هذا المكوّن اللازم، مما يجعل وعي الذكاء الاصطناعي مستحيلًا."
     },
     "survival_beyond_death": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "الروح هي 'أنت الحقيقي'، توجد مستقلةً عن الجسد وتقدّم أوضح آلية لاستمرار الوعي الفردي بعد الموت، محقِّقةً المبدأ الجوهري للأديان الإبراهيمية."
     },
     "meaning_and_purpose": {
-      "stance": "نهائي/كوني",
+      "stance": "Cosmic/Ultimate",
       "rationale": "بوصفها نظرية لاهوتية، تقدّم معنى وغاية وقيمة نهائية مرتبطة بالخلق الإلهي والمصير والطبيعة الروحية للوجود الإنساني."
     },
     "virtual_immortality": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "تحميل الأنماط والمسارات العصبية لن يفعل سوى مضاعفة الأساس الفيزيائي للوعي. وبما أن الجوهر غير الفيزيائي اللازم (الروح) سيغيب عن النسخة، فإن حفظ الذات العقلية من منظور الشخص الأول سيكون مستحيلًا."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "تداخل" },
-      { "name": "Thomistic Dualism", "relationship": "امتداد" },
-      { "name": "Non-Reductive Physicalism", "relationship": "نقد" },
-      { "name": "Emergent Dualism", "relationship": "تنويع" }
+      {
+        "name": "Dualism",
+        "relationship": "تداخل"
+      },
+      {
+        "name": "Thomistic Dualism",
+        "relationship": "امتداد"
+      },
+      {
+        "name": "Non-Reductive",
+        "relationship": "نقد"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "تنويع"
+      }
     ],
     "sources_and_references": [
       {

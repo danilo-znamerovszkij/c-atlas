@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "카인드의 이원론 2.0",
     "summary": "이것은 전통적인 종교적·비과학적 함의로부터 분리된 현대적 형태의 이원론으로, 물리주의가 의식 경험의 온전한 질적 실재성을 적절히 포착할 수 없다고 논한다. 현상적 상태와 사건, 과정은 물리적 활동과 구별되는, 환원 불가능하게 실재적인 종류의 활동이라고 상정하며, 이로써 별개의 실체를 반드시 상정하지 않으면서도 활동의 이원성에 이른다.",
-    "associated_thinkers": ["Amy Kind"],
+    "associated_thinkers": [
+      "Amy Kind"
+    ],
     "category": "이원론",
     "subcategory": "이원론 변형",
     "core_identity_tagline": "현상적 활동과 물리적 활동의 이원성",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "인공 체계가 환원 불가능하게 실재적인 현상적 활동이 발생하는 데 요구되는 물리적 복잡성(이는 순전히 계산으로 환원되지 않는다)을 예화할 수 있다면 AI 의식은 가능하다. 다만 그러한 창발의 정확한 조건은 알려져 있지 않다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "카인드의 이원론 2.0은 별개의 비물리적 실체(영혼)를 상정하는 대신 활동의 이원성을 택하며, 의식을 능동적 과정과 결부시키는 폭넓게 자연주의적인 견해와 부합하므로 생물학적 정지 이후의 존속은 개연적이지 않다."
     },
     "meaning_and_purpose": {
-      "stance": "내재적 가치(추론)",
+      "stance": "Uncertain",
       "rationale": "자연주의적 견해와 양립 가능하여 인간주의적 의미를 시사하면서도, 질적 경험이 세계의 환원 불가능하게 실재적인 특징이라는 핵심 주장은 의식이 유용성이나 생존으로 환원될 수 없는 고유하고 근본적인 가치를 지님을 함축한다."
     },
     "virtual_immortality": {
-      "stance": "불확실",
+      "stance": "Uncertain",
       "rationale": "현상적 성격이 환원 불가능하게 실재적이므로, 현상적 창발을 지배하는 미지의 법칙이 완전히 포착되고 시뮬레이션되지 않는 한 물리적 또는 기능적 상태만을 복제하는 것으로는 현상적 활동의 복제가 보장되지 않을 수 있다."
     }
   },
@@ -74,7 +76,7 @@
         "relationship": "중첩"
       },
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "중첩"
       },
       {

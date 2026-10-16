@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Teorema di non-realizzabilità di Reason contro il materialismo e la sopravvenienza",
+    "summary": "Catherine M. Reason offre una dimostrazione formale secondo cui nessun sistema fisico, e nessun modello che sopravvenga su uno di essi, può possedere l'autocertezza grazie alla quale un essere umano cosciente sa di essere cosciente. Il teorema stabilisce ciò che la coscienza non può essere, e da esso conclude che ogni teoria fisicalista che descriva un sistema autoconsapevole e razionale deve essere internamente incoerente.",
+    "associated_thinkers": [
+      "Catherine M. Reason",
+      "Gilbert Caplain"
+    ],
+    "category": "Sfida",
+    "subcategory": "",
+    "core_identity_tagline": "L'autocertezza non può sopravvenire sui processi fisici",
+    "classification_tags": [
+      "no-go theorem",
+      "supervenience",
+      "self-certainty",
+      "anti-physicalism",
+      "formal proof"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Il teorema non fornisce alcuna identità positiva della coscienza. Definisce un sistema cosciente come un sistema capace di ragionamento simile a quello umano e di autocertezza assoluta, e sostiene che un tale sistema non può essere interamente fisico.",
+    "ontological_status": "Antifisicalismo (non sopravvenienza)",
+    "mind_body_relationship": "Reason accetta che i cervelli siano correlati alla coscienza e che gran parte della cognizione possa essere studiata in terza persona. Respinge la tesi più forte secondo cui gli stati pienamente autoconsapevoli sono interamente determinati da stati fisici oggettivamente osservabili.",
+    "primitive_or_emergent_status": "Non chiaro",
+    "emergence_type": "Non emergente dai sistemi fisici; Reason e Shah sostengono che i macrostati coscienti né emergono dai microstati fisici né vi sopravvengono, perché la coscienza non è misurabile come le proprietà emergenti accertate.",
+    "subjectivity_and_intentionality": "La soggettività è ancorata al cogito cartesiano: un soggetto cosciente può affermare con certezza di essere cosciente, operazionalizzato come il sapere di non esserlo nel sonno senza sogni.",
+    "qualia_account": "",
+    "ontological_commitments": "Almeno alcuni stati, in ogni sistema cosciente simile a quello umano, che non sopravvengono sugli stati fisici.",
+    "epistemic_access": "Autocertezza in prima persona, analizzata con strumenti formali: una funzione di autocertezza ω, la logica modale predicativa e lo ‘strumento inferenziale’ di Wolpert per sistemi fisici capaci di osservazione, previsione e memoria.",
+    "constituents_and_structure": "Tre postulati che Reason mostra non poter valere insieme: oggettività (gli stati mentali sopravvengono alla dinamica osservabile), autoconsapevolezza e razionalità simile a quella umana."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Autoconsapevolezza (autocertezza); limiti dei resoconti fisicalisti della coscienza fenomenica",
+    "distinctive_mechanism_or_principle": "Una regressione diagonale. Certificare che un correlato neurale funzioni correttamente richiede un altro correlato distinto (NCC*), poi un altro ancora (NCC**), senza fine, e nessun cervello potrebbe contenere infiniti stati distinguibili.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "I cervelli coscienti influiscono sui dispositivi di registrazione ma non possono essere descritti interamente da alcuna teoria fisica, quindi Reason e Shah concludono che debbano violare in qualche modo la conservazione dell'energia, forse attraverso la relazione di indeterminazione energia-tempo.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Per eseguire ω, un sistema deve eseguire una funzione ξ che certifica la realtà fisica dei suoi processi; ma verificare ξ richiede di applicare ξ a sé stessa, quindi il risultato è necessario prima di poter essere calcolato.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Il Teorema 1a afferma che nessun sistema fisico capace di un ragionamento corretto e simile a quello umano può eseguire la funzione di autocertezza ω o essere registrato mentre afferma ‘sono autocerto’.",
+      "Il Teorema 1b estende questo risultato a qualsiasi modello che sopravvenga su un sistema fisico, il che costringerebbe un dispositivo di registrazione in due stati contraddittori.",
+      "La regressione ha la struttura diagonale della dimostrazione di Turing sul problema della fermata, che secondo Reason la distingue dai comuni argomenti della regressione infinita.",
+      "Il dualismo delle proprietà, il monismo riflessivo, il monismo realistico e l'illusionismo sono esclusi nella loro forma attuale, e la posizione di Chalmers sopravvive solo se gli esseri umani si comportano in modo irrazionale."
+    ],
+    "basis_of_belief_or_evidence_type": "Dimostrazione logico-matematica formale costruita sul cogito cartesiano."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettualmente verificabile",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "L'intero risultato dipende dall'accettare il cogito cartesiano come base valida per l'autocertezza assoluta. Il salto dal limite dei modelli teorici alle violazioni della conservazione dell'energia nei cervelli reali va molto oltre la conclusione rigorosa.",
+    "open_questions_and_limitations": "Reason afferma che il teorema vincola i modelli dei sistemi, non i sistemi stessi. In senso stretto ne deriva soltanto che alcuni stati coscienti non sopravvengono sugli stati fisici, e se il cogito fondi l'autocertezza è, secondo lei, una questione empirica che nessun argomento teorico può risolvere.",
+    "ontological_coherence": "Coerente come risultato negativo. Lascia aperto che cosa la coscienza sia positivamente, e Reason osserva che il postulato fisicalista deve soltanto essere possibile, non necessario, perché l'argomento funzioni."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "Poiché nessun modello fisicalista di un sistema può essere capace di autocertezza, una macchina puramente computazionale o fisica non potrebbe essere cosciente nel senso definito da Reason."
+    },
+    "survival_beyond_death": {
+      "stance": "Uncertain",
+      "rationale": "Il teorema implica che alcuni stati coscienti non sono fisici, ma non dice nulla sul fatto che persistano dopo la morte del cervello."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Se la coscienza autocerta non può sopravvenire su alcun processo fisico, una copia digitale che gira su hardware fisico non potrebbe riprodurla."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Kim’s Supervenience",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Velmans's Reflexive Monism",
+        "relationship": "Critica"
+      },
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Critica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reason's No-Go Theorem against Materialism/Supervenience (Landscape of Consciousness entry), Catherine M. Reason",
+        "year": 2019
+      }
+    ]
+  }
+}

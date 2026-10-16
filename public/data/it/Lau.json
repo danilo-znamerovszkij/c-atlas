@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La teoria del monitoraggio della realtà percettiva di Lau",
     "summary": "Questa teoria di ordine superiore, empiricamente fondata, propone che la percezione cosciente si verifichi quando una specifica rappresentazione di ordine superiore (HOR) convalida una rappresentazione sensoriale di primo ordine come riflesso affidabile del mondo esterno. La HOR agisce come interfaccia tra percezione e cognizione, fornendo il senso soggettivo di giustificazione per l'esperienza cosciente.",
-    "associated_thinkers": ["Hakwan Lau"],
+    "associated_thinkers": [
+      "Hakwan Lau"
+    ],
     "category": "Materialismo",
-    "subcategory": "Rappresentazionale",
+    "subcategory": "Ordine superiore",
     "core_identity_tagline": "«La coscienza come monitoraggio della realtà percettiva»",
     "classification_tags": [
       "higher-order theory",
@@ -53,7 +55,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "In quanto teoria funzionalista, la coscienza dipende dall'implementazione della corretta architettura informazionale/funzionale (il meccanismo HOR). Se questa architettura può essere istanziata in un robot o in un programma informatico, la coscienza artificiale è possibile."
     },
     "survival_beyond_death": {
@@ -61,30 +63,30 @@
       "rationale": "La coscienza è esplicitamente legata a specifici meccanismi neurali specializzati localizzati nel cervello biologico (per es. la corteccia prefrontale), senza lasciare spazio alla persistenza dopo la morte biologica."
     },
     "meaning_and_purpose": {
-      "stance": "Solo umanistico",
+      "stance": "Humanistic only",
       "rationale": "Il ruolo primario del meccanismo è funzionale (distinguere la realtà dalla fantasia e instradare l'informazione). Non offre alcuno scopo cosmico o ultimo al di là dei vantaggi adattivi conferiti da questo meccanismo biologico."
     },
     "virtual_immortality": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "Se la specifica architettura funzionale e informazionale, inclusa la natura analogica delle rappresentazioni, può essere caricata perfettamente ed eseguita su un substrato non biologico, il sé mentale in prima persona sarebbe preservato, poiché la coscienza è definita da quella struttura funzionale."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Theories",
+        "name": "Higher-Order",
         "relationship": "Istanza specifica/estensione"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "Critica (collocata come alternativa intermedia superiore)"
       },
       {
-        "name": "Recurrent Processing Theory",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "Critica (collocata come alternativa intermedia superiore)"
       },
       {
-        "name": "Graziano’s Attention Schema Theory",
+        "name": "Graziano's Attention Schema Theory",
         "relationship": "Compatibile (condivide un approccio funzionalista/cognitivo alla spiegazione delle asserzioni sulla coscienza)"
       }
     ],

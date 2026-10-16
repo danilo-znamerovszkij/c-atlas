@@ -1,0 +1,123 @@
+{
+  "id_and_class": {
+    "theory_title": "マコーマスの海馬記憶流理論",
+    "summary": "アラン・マコーマスは、現象的意識を、海馬のニューロンの発火によって生み出される、絶えず更新される短期記憶の連続と同一視する。経験の主要な生成装置は皮質ではなく海馬である。皮質は内容を供給し、海馬の記憶がそれを、自己と世界のうちに位置づけられた、時間的に広がりをもつ「いま」へと変える。",
+    "associated_thinkers": [
+      "Alan J. McComas"
+    ],
+    "category": "唯物論",
+    "subcategory": "神経生物学的",
+    "core_identity_tagline": "海馬の短期記憶流としての意識",
+    "classification_tags": [
+      "hippocampus",
+      "short-term memory",
+      "concept cells",
+      "reductionism",
+      "time"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識的であるとは、脳が、海馬のニューロンのパターン化された衝動活動によって生み出される、「ついさきほどの今」の絶えず更新される痕跡を保持していることである。",
+    "ontological_status": "物理主義（還元的）",
+    "mind_body_relationship": "同一性。思考、感覚、意図、心像は神経の衝動によって生み出される。脳に作用する独立した心的主体は存在しない。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発。短期記憶の痕跡を維持する海馬の発火から。",
+    "subjectivity_and_intentionality": "一人称的な現前は、記憶系が一つのエピソードを自己と世界との関係において位置づけることから生じる。志向的な方向づけは、特定の人物、場所、対象に応答する概念細胞に依拠する。",
+    "qualia_account": "マコーマスは、クオリアは原理的には、ニューロンの衝動活動の関数であり、異国的な性質や非物理的な性質はそこに関与しないと考える。",
+    "ontological_commitments": "ニューロンとその衝動、海馬と辺縁系、短期記憶の痕跡、そして概念細胞。",
+    "epistemic_access": "臨床神経学、病変と健忘の事例、脳刺激、そして意識のある患者における単一ニューロンの記録。",
+    "constituents_and_structure": "皮質は、特化した感覚、言語、運動の処理を行うが、海馬がその出力を時間的に首尾一貫した流れへと結びつけるまで無意識のままである。網様体賦活系は覚醒を供給するが、意識は供給しない。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的、現在の時間的連続性、再認、自己の位置づけ。主体性は、先行する脳活動の産物として扱われる。",
+    "distinctive_mechanism_or_principle": "海馬の発火は、急速に更新される短期記憶の系列を生み出し、その記憶の流れが意識である。",
+    "dynamics_of_emergence": "連続的な過程である。瞬間的な意識は存在しない。瞬間の気づきは、情報が保持され再認されるのに十分な長さだけ持続するときにのみ、意識的になる。",
+    "location_and_distribution": "辺縁系の内部の海馬が主たる生成装置であり、皮質は分化した内容を供給する従属的な供給源である。",
+    "causation_and_functional_role": "意識は神経活動の産物であり、その指令者ではない。リベットの準備電位の研究を引きつつ、マコーマスは、意志することと注意することは先行する脳活動によって開始され、その後に意識的な主体性として経験されると論じる。",
+    "integration_or_binding": "海馬は、時間を通じて入力を結びつけ、「何」と「どこ」を結びつけ、一時的な刺激をエピソードに似た構造へと変える。",
+    "information_flow_or_representation": "皮質の出力は、海馬がそれを記憶の流れへと描き出すまで、無意識の計算にとどまる。概念細胞は、想起された概念が感覚入力なしに現前することを可能にし、それによって夢、心的イメージ、内言が説明される。",
+    "evolutionary_account": "ダーウィンの連続性テーゼに従い、マコーマスは生成装置を、他の動物と共有される古い記憶と概念の系のうちに位置づける。そのため、記憶、価値づけ、再認を支えるあらゆる場所に、より単純な意識が存在しうる。",
+    "core_claims_and_evidence": [
+      "ペンフィールドは、大きな皮質病変があっても意識は比較的保たれうることを見出し、側頭葉の刺激は鮮明な経験の断片を喚起した。",
+      "H・Mとクライヴ・ウェアリングにおける海馬の損傷は、重度の健忘と、著しく収縮した経験の連続性を生んだ。",
+      "海馬の概念細胞は、人物、場所、対象を再認する瞬間またはその直前に発火し、また、被験者がそれを単に思い浮かべるだけでも発火する。",
+      "網様体賦活系による覚醒は意識とは区別される。意識には、記憶に基づく自己の位置づけが必要である。"
+    ],
+    "basis_of_belief_or_evidence_type": "経験的：臨床神経生理学、病変研究、単一ニューロンの記録。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": "病変と健忘の研究、側頭葉刺激、ヒト内側側頭葉における概念細胞の単一ニューロン記録。",
+    "criticisms_and_tensions": "海馬に重度の損傷をもつ患者も、覚醒し、反応し、見かけ上は現象的に意識をもつ。また多くの証拠が、意識的な知覚内容を後部皮質と視床－皮質の活動に結びつけている。リベットに対するマコーマスの読みは争われており、シュルガーらは準備電位について別の説明を提示している。",
+    "open_questions_and_limitations": "海馬が現象性の唯一の生成装置なのか、それとも自伝的な連続性、再認、自己の時間的構造に不可欠であるにすぎないのかは未解決である。",
+    "ontological_coherence": "首尾一貫した還元的物理主義である。その強みは、具体的で解剖学的に局在化され、反証可能でありうる主張をなす点にある。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "マコーマスは意識を海馬の衝動活動と結びつけており、人工的な記憶の流れがそれに該当するかどうかは扱っていない。"
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "意識は海馬ニューロンの発火であるため、それらのニューロンが停止すれば意識も終わる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "この理論は厳格に還元主義的であり、宇宙的な目的を仮定しない。"
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "この見解は、シミュレートされた記憶の流れが生物学的なものを再現するかどうかについて沈黙している。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Budson’s Consciousness as a Memory System",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "影響"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "対照"
+      },
+      {
+        "name": "Merker’s Midbrain-Centered Reality Space",
+        "relationship": "両立可能"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Aranzio’s Seahorse and the Search for Memory and Consciousness, Alan J. McComas",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Consciousness: The road to reductionism, Alan J. McComas",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Invariant visual representation by single neurons in the human brain, R. Quian Quiroga, L. Reddy, G. Kreiman, C. Koch and I. Fried",
+        "year": 2005
+      },
+      {
+        "title_with_names": "Loss of recent memory after bilateral hippocampal lesions, W. B. Scoville and B. Milner",
+        "year": 1957
+      },
+      {
+        "title_with_names": "The cerebral cortex in man: I. The cerebral cortex and consciousness, W. Penfield",
+        "year": 1938
+      },
+      {
+        "title_with_names": "Time of conscious intention to act in relation to onset of cerebral activity, B. Libet, C. A. Gleason, E. W. Wright and D. K. Pearl",
+        "year": 1983
+      },
+      {
+        "title_with_names": "What Is the Readiness Potential?, A. Schurger, J. Pak and A. Roskies",
+        "year": 2021
+      }
+    ]
+  }
+}

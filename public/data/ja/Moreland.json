@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "モーランドのキリスト教的魂",
     "summary": "この理論は、一般的な実体二元論を擁護し、意識は物理的身体とは区別される、実体的で全面的に非物質的な魂に宿ると主張する。魂は意識的性質の統一された持続的な担い手として働き、人格的同一性を基礎づけ、身体の物理的構造に生命を与える。",
-    "associated_thinkers": ["J.P. Moreland"],
+    "associated_thinkers": [
+      "J.P. Moreland"
+    ],
     "category": "二元論",
     "subcategory": "キリスト教的魂",
     "core_identity_tagline": "全面的に非物質的な魂としての意識",
@@ -51,34 +53,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "否定",
+      "stance": "No",
       "rationale": "意識は実体的で全面的に非物質的な魂を必要とするが、これは人工的な物理システムや計算によって創り出すことも実現することもできない。"
     },
     "survival_beyond_death": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "非物質的な魂（「本当の私」）は身体と同一ではなく、生物学的な死の後も存続し、死後存続の直接的なメカニズムを提供する。"
     },
     "meaning_and_purpose": {
-      "stance": "究極的／宇宙的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "キリスト教的な哲学理論として、持続的で実体的な人間の人格が、神学的実在の一部として宇宙的な意義・目的・価値をもつことを含意する。"
     },
     "virtual_immortality": {
-      "stance": "否定",
+      "stance": "No",
       "rationale": "脳のパターンの複製による仮想的不死は不可能である。アップロードされた情報は、元の一人称的自己を基礎づけるのに必要な、非物理的で実体的な魂を欠くからである。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Swinburne’s Substance Dualism",
+        "name": "Swinburne's Substance Dualism",
         "relationship": "両立可能"
       },
       {
-        "name": "Stump’s Thomistic Dualism",
+        "name": "Stump's Thomistic Dualism",
         "relationship": "両立可能"
       },
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "批判"
       },
       {

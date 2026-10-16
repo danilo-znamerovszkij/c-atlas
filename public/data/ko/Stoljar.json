@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "스톨자의 인식적 견해와 비표준적 물리주의",
     "summary": "이 이론은 우리가 의식과 관련된 일종의 물리적 사실 또는 속성을 심대하게 알지 못한다고 보는 무지 가설을 도입함으로써 반유물론 논증에 맞서 물리주의를 옹호한다. 의식과 물리주의 사이의 이른바 양립 가능성 문제는 물리주의 자체의 존재론적 결함이 아니라 우리의 현재적 인식 한계에서 비롯된다고 주장한다.",
-    "associated_thinkers": ["Daniel Stoljar"],
+    "associated_thinkers": [
+      "Daniel Stoljar"
+    ],
     "category": "유물론",
     "subcategory": "철학적",
     "core_identity_tagline": "인식적 무지를 통해 옹호되는 물리주의",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "물리주의의 옹호로서 이 이론은 의식이 물리적이라고 주장한다. 따라서 원리상 필요한 물리적 사실(현재 미지의 것을 포함하여)을 실현하는 어떤 인공 체계도 의식을 갖게 되어야 한다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "의식은 물리적 사실과 과정에 의존하며 근본적이지 않다. 물리적 기질(뇌)이 파괴되면 물리주의와 일관되게 의식은 존재하기를 멈춘다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "물리주의라는 토대적 개입과 일관되게 이 이론은 궁극적인 우주적 의미나 목적의 근거를 제공하지 않으며, 의미는 의식적 행위자에 의해 구성된다."
     },
     "virtual_immortality": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 전적으로 물리적이라면, 복잡한 물리적 기질(무지 가설이 지목하는 미지의 속성을 포함하여)이 비생물학적 매체에서 복제될 수 있는 한 일인칭적 심적 자아는 잠재적으로 업로드 가능하다."
     }
   },
@@ -77,11 +79,11 @@
         "relationship": "비판/응답"
       },
       {
-        "name": "Standard Physicalism",
+        "name": "Materialism",
         "relationship": "비판"
       },
       {
-        "name": "Kind’s Dualism 2.0",
+        "name": "Kind's Dualism 2.0",
         "relationship": "논쟁 상대/공동 기획"
       }
     ],

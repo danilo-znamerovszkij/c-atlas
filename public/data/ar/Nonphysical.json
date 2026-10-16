@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "نظرية المكوّن اللافيزيائي في العقل البشري",
     "summary": "هذه فكرة معمّمة تأملية تقترح أن التعقيد الفريد للعقل البشري يستلزم مكوّنًا لاماديًّا يعمل مع الدماغ الفيزيائي. ويُفترَض أن هذا المكوّن اللافيزيائي يمتلك القدرة الكامنة اللازمة لتحويل الدماغ البيولوجي إلى العقل البشري المتفوّق تفوّقًا مميّزًا، مما يميّزه عن وعي الحيوان.",
-    "associated_thinkers": ["Robert Lawrence Kuhn"],
-    "category": "الثنائيات",
-    "subcategory": "ثنائية معمّمة",
+    "associated_thinkers": [
+      "Robert Lawrence Kuhn"
+    ],
+    "category": "الثنائية",
+    "subcategory": "الثنائية المعمّمة",
     "core_identity_tagline": "المكوّن اللافيزيائي للعقلانية البشرية",
     "classification_tags": [
       "dualism",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "لا (في الغالب)",
+      "stance": "Unlikely",
       "rationale": "إذا كان الوعي البشري يعتمد على مكوّن لافيزيائي فريد، فإن الأنظمة الاصطناعية التي تستنسخ البنى الفيزيائية/الحاسوبية فقط ستفتقر إلى هذا العنصر اللازم للخبرة الداخلية الحقيقية بمستواها البشري."
     },
     "survival_beyond_death": {
-      "stance": "نعم (مشروط)",
+      "stance": "Conditional",
       "rationale": "بوصفه مكوّنًا لافيزيائيًّا، فإنه يوفّر أساسًا نظريًّا للبقاء، خصوصًا إذا حافظ على وجوده بعد انحلال الجسد/الدماغ (على غرار أشكال أخرى من الثنائية الانبثاقية)."
     },
     "meaning_and_purpose": {
-      "stance": "ربما",
+      "stance": "Uncertain",
       "rationale": "يؤكد وجود المكوّن المكانة المميّزة للعقلانية البشرية، بما يتوافق مع الأطر الثنائية التي كثيرًا ما تدعم غاية أو معنى كونيًّا يتجاوز الخلق البشري."
     },
     "virtual_immortality": {
-      "stance": "لا (في الغالب)",
+      "stance": "Unlikely",
       "rationale": "رفع العقل، المعتمد على استنساخ الأنماط الفيزيائية، سيفشل بالضرورة في التقاط المكوّن اللافيزيائي اللازم، مما يُنتج نسخة غير واعية من الفرد."
     }
   },
@@ -74,11 +76,11 @@
         "relationship": "تداخل/سابق"
       },
       {
-        "name": "Polkinghorne’s Dual-Aspect Monism",
+        "name": "Polkinghorne's Dual-Aspect Monism",
         "relationship": "مواز/مقارنة (في تصوّر بنية لافيزيائية حاملة للمعلومة)"
       },
       {
-        "name": "Van Inwagen’s Christian Materialism and Resurrection of the Dead",
+        "name": "van Inwagen's Christian Materialism and Resurrection of the Dead",
         "relationship": "مواز/مقارنة (في تصوّر ذات/نواة جوهرية تبقى)"
       }
     ],

@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Le rappresentazioni cognitive di livello intermedio di Jackendoff",
+    "summary": "Ray Jackendoff sostiene che siamo coscienti di un livello particolare della rappresentazione mentale, il livello intermedio tra i dati sensoriali grezzi e i concetti astratti. Nella visione questo significa forme, contorni e disposizione spaziale, non intensità luminose né categorie di oggetti; ciò che rende cosciente una rappresentazione è il suo formato, non la sua collocazione nel cervello.",
+    "associated_thinkers": [
+      "Ray Jackendoff"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Computazionale",
+    "core_identity_tagline": "La coscienza come rappresentazione mentale di livello intermedio",
+    "classification_tags": [
+      "representationalism",
+      "computational theory of mind",
+      "perception",
+      "linguistics",
+      "cognitive science"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è la presenza di rappresentazioni di livello intermedio: formati strutturati e specifici per modalità, collocati tra l'elaborazione sensoriale di basso livello e la struttura concettuale di alto livello.",
+    "ontological_status": "Fisicalismo (rappresentazionalismo computazionale)",
+    "mind_body_relationship": "La coscienza risulta dall'elaborazione dell'informazione al livello computazionale-cognitivo, realizzato da rappresentazioni neurali. Jackendoff la spiega in base al tipo di rappresentazione coinvolta piuttosto che a una specifica struttura cerebrale.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergenza debole (dall'elaborazione dell'informazione in un particolare formato rappresentazionale)",
+    "subjectivity_and_intentionality": "Non esiste un osservatore centrale né un Teatro cartesiano. Ciò che esperiamo è il contenuto delle rappresentazioni di livello intermedio, per cui udiamo i suoni e cogliamo il significato del parlato senza essere consapevoli della loro sintassi o fonologia.",
+    "qualia_account": "La coscienza fenomenica è rappresentazionale. Le qualità esperite dipendono sia da ciò di cui una rappresentazione tratta, sia da come la sua informazione è formattata.",
+    "ontological_commitments": "Rappresentazioni mentali di livello basso, intermedio e alto in ciascuna modalità, e i processi neurali che le sostengono.",
+    "epistemic_access": "Attraverso l'analisi cognitiva e linguistica di quali rappresentazioni raggiungono la consapevolezza, confrontate con ciò che i soggetti riferiscono di esperire.",
+    "constituents_and_structure": "Una gerarchia a tre livelli in ciascun sistema sensoriale. Nella visione, il livello basso gestisce intensità luminosa e bordi, il livello intermedio forme, contorni e relazioni spaziali, il livello alto riconoscimento, etichettatura e associazioni mnestiche."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenica (contenuto percettivo); accesso (quali rappresentazioni sono disponibili)",
+    "distinctive_mechanism_or_principle": "Solo le rappresentazioni di livello intermedio diventano coscienti; l'elaborazione sensoriale di basso livello e le strutture concettuali di alto livello restano inconsce.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Distribuita tra sistemi specifici per modalità, senza una sede unica. Jackendoff lega la coscienza a un livello di rappresentazione piuttosto che a una regione del cervello.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "L'informazione scorre dai dati sensoriali grezzi attraverso una struttura intermedia fino ai concetti astratti, e la consapevolezza attinge allo stadio intermedio. Ciascuna modalità (vista, udito, tatto) ha le proprie rappresentazioni intermedie.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Siamo coscienti di forme, contorni e disposizioni spaziali, non del rilevamento dei bordi né delle categorie degli oggetti in quanto tali.",
+      "Nel linguaggio siamo consapevoli del suono e del significato, ma non direttamente della sintassi o della fonologia.",
+      "La coscienza dipende da come l'informazione è formattata, non solo da ciò di cui tratta.",
+      "La teoria è neutrale rispetto al meccanismo più profondo e si concilia sia con le teorie dell'accesso globale sia con quelle dell'integrazione."
+    ],
+    "basis_of_belief_or_evidence_type": "Teorica e computazionale, basata sulla linguistica, sulla ricerca sulla percezione e sull'osservazione fenomenologica di ciò di cui siamo consapevoli."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Concettualmente verificabile",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "La teoria dice quali rappresentazioni sono coscienti, non perché quel formato dovrebbe avere un qualche sapore di esperienza.",
+    "open_questions_and_limitations": "Jackendoff resta neutrale sul meccanismo sottostante che rende coscienti le rappresentazioni di livello intermedio.",
+    "ontological_coherence": "Coerente con la teoria computazionale della mente e compatibile con diverse teorie neurali della coscienza."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Poiché qui la coscienza dipende dal formato dell'elaborazione dell'informazione, una macchina dotata delle giuste rappresentazioni di livello intermedio potrebbe in linea di principio essere cosciente, sebbene Jackendoff non sviluppi questo punto."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La coscienza è un prodotto dell'elaborazione dell'informazione nella mente e nel cervello, quindi non sopravviverebbe a essi."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Compatibile"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Sovrapposizione"
+      },
+      {
+        "name": "Prinz's Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "Estensione"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Jackendoff’s Intermediate-Level Cognitive Representations (Landscape of Consciousness), Ray Jackendoff",
+        "year": 1987
+      }
+    ]
+  }
+}

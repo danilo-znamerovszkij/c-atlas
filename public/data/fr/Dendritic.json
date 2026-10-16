@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Théorie de l'intégration dendritique",
+    "summary": "La théorie de l'intégration dendritique soutient que la perception consciente dépend d'un événement cellulaire, l'intégration non linéaire des signaux descendants et ascendants dans les dendrites apicales des neurones pyramidaux de la couche 5 du néocortex. Lorsque la rétroaction provenant d'aires supérieures coïncide avec l'entrée sensorielle ascendante, le dendrite produit une pointe calcique qui amplifie la sortie du neurone ; Larkum et Aru proposent que cette amplification ouvre l'accès de l'information à la conscience.",
+    "associated_thinkers": [
+      "Matthew Larkum",
+      "Jaan Aru"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Neurobiologique",
+    "core_identity_tagline": "La conscience comme intégration dendritique des signaux descendants et ascendants",
+    "classification_tags": [
+      "neuroscience",
+      "dendrites",
+      "pyramidal neurons",
+      "anesthesia",
+      "microcircuits"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est identifiée à l'intégration de deux flux d'information à l'intérieur des neurones pyramidaux de la couche 5, la rétroaction arrivant aux dendrites apicales distales et l'entrée ascendante près du corps cellulaire. Aru et ses collègues suggèrent que la conscience est fortement influencée par cette intégration, ou qu'elle lui est peut-être synonyme.",
+    "ontological_status": "Physicalisme (neurobiologique)",
+    "mind_body_relationship": "Les états conscients dépendent d'événements biophysiques spécifiques dans les neurones corticaux, et peuvent leur être identiques. La théorie considère l'esprit comme un produit des microcircuits cérébraux et ne postule rien au-delà.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible (les états conscients surgissent d'événements biophysiques identifiables dans les neurones et de la dynamique thalamocorticale qu'ils rendent possible)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "La théorie de l'intégration dendritique n'explique pas pourquoi l'intégration dendritique a une dimension vécue. Elle précise quels événements neuronaux permettent à un contenu d'atteindre la conscience. Sa devancière, la théorie du dendrite apical de LaBerge et Kasevich, supposait que le champ électromagnétique entourant un dendrite apical actif pourrait porter l'impression phénoménale elle-même.",
+    "ontological_commitments": "Des neurones pyramidaux dotés de compartiments dendritiques fonctionnellement distincts, des pointes calciques dendritiques, des voies corticales de rétroaction et d'entrée ascendante, et le système thalamocortical.",
+    "epistemic_access": "Étudiée à la troisième personne par l'électrophysiologie cellulaire et par la comparaison d'états conscients et inconscients, comme l'éveil et l'anesthésie générale.",
+    "constituents_and_structure": "L'unité de base est le neurone pyramidal de la couche 5, agissant comme un intégrateur à deux niveaux : le dendrite apical reçoit l'entrée descendante, et la région proche du soma reçoit l'entrée ascendante. De nombreux neurones de ce type, couplés par des boucles thalamocorticales, façonnent les patterns d'activité globale des états conscients."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Accès (quels contenus perceptifs atteignent la conscience) ; états conscients et inconscients (veille et anesthésie).",
+    "distinctive_mechanism_or_principle": "Détection de coïncidence dans le dendrite apical. Lorsque la rétroaction des aires supérieures correspond à l'entrée sensorielle ascendante, le dendrite génère une pointe calcique qui amplifie la décharge du neurone, et cette amplification sélectionne ce qui entre dans la conscience.",
+    "dynamics_of_emergence": "La perception consciente se produit instant après instant, chaque fois que les signaux descendants et ascendants coïncident. Dans les états conscients, le couplage dendrite-soma permet à une activité complexe et soutenue de se construire à travers le système thalamocortical ; sous anesthésie générale, ce couplage se rompt et la propagation du signal s'arrête.",
+    "location_and_distribution": "Les arbres dendritiques des neurones pyramidaux de la couche 5 du néocortex, insérés dans des circuits thalamocorticaux. Le mécanisme est local et cellulaire, mais ses effets façonnent l'activité cérébrale globale.",
+    "causation_and_functional_role": "Les neurones pyramidaux agissent comme des portes qui contrôlent l'évolution des patterns d'activation globale. L'amplification dendritique repère les entrées pertinentes et décide quelles informations contribueront à façonner le traitement cortical ultérieur.",
+    "integration_or_binding": "La liaison commence à l'intérieur des neurones individuels, qui combinent la rétroaction contextuelle et l'entrée sensorielle ascendante dans des compartiments différents. La sortie filtrée de nombreux neurones de ce type entretient ensuite une dynamique intégrée à travers le système thalamocortical.",
+    "information_flow_or_representation": "Les données sensorielles ascendantes atteignent les dendrites proximaux, et les prédictions descendantes des aires supérieures atteignent la touffe apicale distale. Une correspondance entre les deux amplifie le signal, ce qu'Aru et ses collègues décrivent comme l'intégration souple des données ascendantes et descendantes au niveau cellulaire.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Les dendrites apicales des neurones pyramidaux de la couche 5 réalisent une intégration non linéaire des entrées descendantes et ascendantes.",
+      "Une entrée distale et une entrée proximale coïncidentes déclenchent des pointes calciques dendritiques qui amplifient la réponse du neurone, et Larkum fait l'hypothèse que cette correspondance sous-tend la conscience perceptive.",
+      "L'anesthésie générale perturbe le couplage dendrite-soma, bloquant la conscience tandis qu'une grande partie de l'activité cérébrale se poursuit.",
+      "Dans les états conscients, le mécanisme dendritique rend possible une dynamique thalamocorticale soutenue, bloquée dans les états inconscients."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirique (électrophysiologie cellulaire et études sur l'anesthésie), reliée théoriquement aux théories à grande échelle de la conscience."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable",
+    "known_empirical_interventions_or_tests": "Enregistrements des pointes calciques dendritiques dans les neurones pyramidaux de la couche 5 ; mesures du couplage dendrite-soma sous anesthésie générale.",
+    "criticisms_and_tensions": "Les résultats sur l'anesthésie montrent que le couplage dendrite-soma est nécessaire à la conscience, ce qui est loin de démontrer qu'il est suffisant. La thèse plus forte selon laquelle la conscience pourrait être synonyme de l'intégration dendritique dépasse ce que les données établissent quant au lien entre le mécanisme et les états conscients.",
+    "open_questions_and_limitations": "Les partisans oscillent entre la conscience « fortement influencée par » l'intégration dendritique et la conscience « synonyme de » celle-ci. La théorie laisse ouverte la question de savoir pourquoi cet événement cellulaire devrait être vécu.",
+    "ontological_coherence": "Compatible avec le physicalisme neurobiologique. Ses partisans la présentent comme compatible avec les théories de l'espace de travail neuronal global et du traitement prédictif, en fournissant un mécanisme cellulaire sous-jacent à leurs théories à grande échelle."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "La conscience dépendant ici d'un mécanisme biophysique spécifique des neurones corticaux, un système artificiel ne serait qualifié que s'il reproduisait cette intégration dendritique à deux compartiments et son rôle de porte."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conscience étant ici un produit de l'activité dendritique dans le cortex vivant, rien ne survit à la mort du cerveau."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "La théorie explique la conscience par des mécanismes neuronaux et n'implique aucune finalité cosmique."
+    },
+    "virtual_immortality": {
+      "stance": "Conditional",
+      "rationale": "Une copie numérique ne serait consciente que si elle reproduisait l'intégration dendritique et la dynamique thalamocorticale que la théorie exige."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Recouvrement"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dendritic Integration Theory, Matthew Larkum and Jaan Aru",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Apical Dendrite Theory of Consciousness, David LaBerge and Ray Kasevich",
+        "year": 2007
+      }
+    ]
+  }
+}

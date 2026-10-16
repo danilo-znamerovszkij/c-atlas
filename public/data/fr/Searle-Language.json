@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Le langage et la conscience de Searle",
     "summary": "Searle soutient que le langage est crucial pour la conscience humaine, servant à façonner et à enrichir l'expérience consciente . Cette relation est perçue comme un « effet d'amorçage » évolutif où la conscience préverbale a permis le langage, qui a à son tour élaboré la structure de la conscience .",
-    "associated_thinkers": ["John Searle"],
+    "associated_thinkers": [
+      "John Searle"
+    ],
     "category": "Matérialisme",
-    "subcategory": "Relations avec le langage",
+    "subcategory": "Langage",
     "core_identity_tagline": "« Le langage comme amplificateur et façonneur de la conscience »",
     "classification_tags": [
       "language",
@@ -51,38 +53,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Conditionnelle",
+      "stance": "Conditional",
       "rationale": "Rejette l'idée qu'une simple simulation (calcul) puisse atteindre une conscience de type humain (chambre chinoise) . Cependant, si nous construisions une machine artificielle reproduisant les processus biologiques/causaux nécessaires du cerveau, elle pourrait, en principe, être consciente . La centralité du langage pourrait rendre la conscience de l'IA plus probable si des systèmes linguistiques avancés reproduisent la syntaxe interne cruciale ."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience est un trait biologique causé par, et réalisé dans, le cerveau . Elle cesse lorsque le substrat biologique se dissout ."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "En tant que théorie matérialiste, elle ne peut rationaliser un sens ou une finalité ultime au niveau cosmique . La conscience, amplifiée par le langage, permet aux humains de générer leur propre sens, finalité, et agentivité complexe ."
     },
     "virtual_immortality": {
-      "stance": "Conditionnelle/probable",
+      "stance": "Conditional",
       "rationale": "L'immortalité virtuelle (téléversement du soi mental) n'est atteignable que si la duplication reproduit le système biologique/causal requis, la simulation seule étant rejetée . Si le langage est central à l'essence profonde de la conscience, la duplication réussie des processus linguistiques/symboliques facilite l'atteignabilité ."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Searle’s Biological Naturalism",
+        "name": "Searle's Biological Naturalism",
         "relationship": "Base"
       },
       {
-        "name": "Chomsky’s Language and Consciousness",
+        "name": "Chomsky's Language and Consciousness",
         "relationship": "Chevauchement"
       },
       {
-        "name": "Koch’s Consciousness does not Depend on Language",
+        "name": "Koch's Consciousness does not Depend on Language",
         "relationship": "Critique"
       },
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
         "relationship": "Chevauchement/contraste"
       }
     ],

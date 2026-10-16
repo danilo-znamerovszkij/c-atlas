@@ -10,7 +10,7 @@
       "Jeffrey Mishlove",
       "Eben Alexander"
     ],
-    "subcategory": "意識の分離と存続についての現象学的主張",
+    "subcategory": "意識の分離と持続に関する現象学的主張",
     "core_identity_tagline": "意識は脳の死を超えて存続する",
     "classification_tags": [
       "nonphysical",
@@ -18,7 +18,8 @@
       "anomalous cognition",
       "OBE",
       "NDE"
-    ]
+    ],
+    "category": "異常"
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "これらの主張は、意識が身体と脳から機能的に分離可能な非物理的な存在者（魂ないし自己）であり、生物学的な停止ないし機能不全のあいだも気づきと同一性を保持することを含意する。",
@@ -61,30 +62,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "おそらく可能",
+      "stance": "Possible",
       "rationale": "意識が非物理的成分（魂）を必要とするなら、AIが意識をもちうるのは、複雑な非生物学的基盤がそのような成分の創発／創造を引き起こしうる場合（創発的二元論）、あるいは意識がAIの接近しうる遍在的な場に結びついている場合に限られる。"
     },
     "survival_beyond_death": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "存続が中心的信条である。NDEと過去世の主張は、一人称的な意識的自己が生物学的な脳の解体を超えて存続することを含意する。"
     },
     "meaning_and_purpose": {
-      "stance": "宇宙的／霊的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "存続モデルは一般に内在的な価値を含意し、しばしば霊的成長、業（カルマ）の蓄積（過去世）、超越的実在ないし「霊的存在」との交流を伴う。"
     },
     "virtual_immortality": {
-      "stance": "不要／無関係",
+      "stance": "Not needed",
       "rationale": "意識が非物理的であるなら、脳のデジタル複製は元の自己を保存せず（「偽者」ないし「ゾンビ」を生み出す）。意識はすでに自然に不死である。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "両立可能"
       },
       {
-        "name": "Idealism (e.g., Kastrup's Analytic Idealism)",
+        "name": "Idealism",
         "relationship": "両立可能"
       },
       {
@@ -92,7 +93,7 @@
         "relationship": "両立可能"
       },
       {
-        "name": "Sheldrake’s Morphic Fields",
+        "name": "Sheldrake's Morphic Fields",
         "relationship": "拡張"
       }
     ],

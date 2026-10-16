@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "잭켄도프의 중간 수준 인지 표상",
+    "summary": "레이 잭켄도프는 우리가 정신 표상의 한 특정 수준, 즉 원시적 감각 자료와 추상적 개념 사이의 중간 수준을 의식한다고 본다. 시각에서 이는 빛의 강도나 대상 범주가 아니라 형태, 윤곽, 공간 배치를 뜻한다. 표상을 의식적으로 만드는 것은 뇌에서의 위치가 아니라 그 형식이다.",
+    "associated_thinkers": [
+      "Ray Jackendoff"
+    ],
+    "category": "유물론",
+    "subcategory": "계산론적",
+    "core_identity_tagline": "중간 수준의 정신 표상으로서의 의식",
+    "classification_tags": [
+      "representationalism",
+      "computational theory of mind",
+      "perception",
+      "linguistics",
+      "cognitive science"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "의식은 중간 수준 표상들이 존재하는 것이다. 이는 저수준 감각 처리와 고수준 개념 구조 사이에 놓이는, 구조화되고 양상에 특정된 형식이다.",
+    "ontological_status": "물리주의(계산적 표상주의)",
+    "mind_body_relationship": "의식은 신경 표상으로 실현되는 계산-인지 수준의 정보처리에서 생겨난다. 잭켄도프는 특정한 뇌 구조가 아니라 관여하는 표상의 유형으로 의식을 설명한다.",
+    "primitive_or_emergent_status": "창발적",
+    "emergence_type": "약한 창발(특정한 표상 형식에서 이루어지는 정보처리로부터)",
+    "subjectivity_and_intentionality": "중심 관찰자나 데카르트적 극장은 존재하지 않는다. 우리가 경험하는 것은 중간 수준 표상의 내용이므로, 우리는 말소리의 통사나 음운을 의식하지 않고도 소리를 듣고 발화의 의미를 파악한다.",
+    "qualia_account": "현상적 의식은 표상적이다. 경험되는 질은 표상이 무엇에 관한 것인지와 그 정보가 어떻게 형식화되는지 양쪽에 모두 의존한다.",
+    "ontological_commitments": "각 양상에서 저수준, 중간 수준, 고수준의 정신 표상과, 그것들을 실어 나르는 신경 과정.",
+    "epistemic_access": "어떤 표상이 자각에 도달하는지에 대한 인지적·언어적 분석을 통해서이며, 이는 피험자가 경험했다고 보고할 수 있는 것과 비교된다.",
+    "constituents_and_structure": "각 감각 체계 안의 세 층위 위계. 시각에서 저수준은 빛의 강도와 가장자리를 다루고, 중간 수준은 형태, 윤곽, 공간 관계를 다루며, 고수준은 인식, 명명, 기억 연상을 다룬다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "현상적(지각 내용); 접근(어떤 표상이 이용 가능한지)",
+    "distinctive_mechanism_or_principle": "중간 수준 표상만이 의식이 된다. 저수준 감각 처리와 고수준 개념 구조는 무의식으로 남는다.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "양상에 특정된 체계들에 걸쳐 분산되어 있으며, 단일한 자리는 없다. 잭켄도프는 의식을 뇌 영역이 아니라 표상의 수준에 묶는다.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "정보는 원시적 감각 자료에서 중간 구조를 거쳐 추상적 개념으로 흐르며, 자각은 중간 단계에 의존한다. 각 양상(시각, 청각, 촉각)은 고유의 중간 표상을 가진다.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "우리는 가장자리 검출이나 대상 범주 그 자체가 아니라 형태, 윤곽, 공간 배치를 의식한다.",
+      "언어에서 우리는 소리와 의미를 알아차리지만, 통사나 음운을 직접 의식하지는 않는다.",
+      "의식은 정보가 무엇에 관한 것인지뿐 아니라, 그 정보가 어떻게 형식화되는지에도 의존한다.",
+      "이 이론은 더 깊은 기제에 대해서는 중립적이며, 전역 접근 이론과 통합 이론 모두와 맞아떨어진다."
+    ],
+    "basis_of_belief_or_evidence_type": "이론적이고 계산적이며, 언어학, 지각 연구, 우리가 자각하는 것에 대한 현상학적 관찰에 기대고 있다."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "개념적으로 검증 가능",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "이 이론은 어떤 표상이 의식적인지는 말하지만, 그 형식이 왜 무엇인가처럼 느껴져야 하는지는 말하지 않는다.",
+    "open_questions_and_limitations": "잭켄도프는 중간 수준 표상을 의식적으로 만드는 기저 기제에 대해서는 중립을 지킨다.",
+    "ontological_coherence": "계산주의적 마음 이론과 일관되며, 여러 신경 이론과도 양립할 수 있다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "여기서 의식은 정보처리의 형식에 의존하므로, 올바른 중간 수준 표상을 가진 기계는 원칙적으로 의식적일 수 있다. 다만 잭켄도프는 이 문제를 다루지 않는다."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "의식은 마음과 뇌에서 일어나는 정보처리의 산물이므로, 그것들을 넘어서 존속하지 않을 것이다."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "양립 가능"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "양립 가능"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Prinz's Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "확장"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Jackendoff’s Intermediate-Level Cognitive Representations (Landscape of Consciousness), Ray Jackendoff",
+        "year": 1987
+      }
+    ]
+  }
+}

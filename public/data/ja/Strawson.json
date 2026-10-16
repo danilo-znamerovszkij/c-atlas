@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ストローソンの汎心論",
     "summary": "ストローソンは、物理主義について実在論的な見解をとる哲学者は誰であれ、すべての物理的現象が内在的に経験的ないし現象的であることを受け入れざるをえず、それは「真正唯物論」の必然的帰結としての汎心論（ないし汎経験説）へと至ると論じる。もっとも確実な事実である意識的経験の存在は、真正の物理主義によって否定することができない。",
-    "associated_thinkers": ["Galen Strawson"],
+    "associated_thinkers": [
+      "Galen Strawson"
+    ],
     "category": "汎心論",
-    "subcategory": "汎経験説",
+    "subcategory": "汎経験主義",
     "core_identity_tagline": "「真正唯物論は汎心論を含意する」",
     "classification_tags": [
       "real materialism",
@@ -51,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "おそらく",
+      "stance": "Likely",
       "rationale": "もし意識があらゆる基本的な物理的存在者の還元不可能な性質であるならば、物理的物質から成るAIもまた内的な気づきを持つはずである。ただし結合問題が解決可能であり、微視的心的側面を高度な技術によって操作できることが前提となる。"
     },
     "survival_beyond_death": {
-      "stance": "ありそうにない（きわめて低い見込み）",
+      "stance": "Unlikely",
       "rationale": "世界は意識に満ちているものの、存続には微視的要素が集まって巨視的意識を形成する複雑な過程を逆転させることが必要であり、脳の解体に際して一人称的に存続することは困難と思われる。"
     },
     "meaning_and_purpose": {
-      "stance": "可能",
+      "stance": "Uncertain",
       "rationale": "汎心論は唯物論（究極的目的なし）と二元論／観念論（究極的目的あり）のあいだに位置づけられ、究極的な意味／目的／価値がありうることを示唆する。"
     },
     "virtual_immortality": {
-      "stance": "おそらく",
+      "stance": "Likely",
       "rationale": "もし意識が実在の織物に内在する通常の性質であるならば、高度な技術は、意識を複製ないしアップロードするために微視的心的な力を集積・操作するのに必要な規則性を学習しうるかもしれない。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Chalmers’s Panpsychism",
+        "name": "Chalmers's Panpsychism",
         "relationship": "両立的／影響"
       },
       {
@@ -78,7 +80,7 @@
         "relationship": "重なり／総合"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "批判"
       }
     ],

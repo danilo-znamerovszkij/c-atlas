@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Il naturalismo biologico di Searle",
     "summary": "Il naturalismo biologico sostiene che la coscienza sia una caratteristica biologica reale, irriducibile e soggettiva del cervello, interamente causata da processi neurobiologici di livello inferiore e realizzata come caratteristica di sistema di livello superiore. Questo approccio cerca di risolvere il problema mente-corpo accettando la visione scientifica del mondo, riconoscendo al contempo l'ontologia in prima persona dell'esperienza cosciente.",
-    "associated_thinkers": ["John Searle"],
+    "associated_thinkers": [
+      "John Searle"
+    ],
     "category": "Materialismo",
-    "subcategory": "Filosofico",
+    "subcategory": "Neurobiologico",
     "core_identity_tagline": "La coscienza come caratteristica biologica irriducibile del cervello",
     "classification_tags": [
       "biological",
@@ -51,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condizionale/Possibile",
+      "stance": "Conditional",
       "rationale": "Searle respinge la coscienza tramite simulazione (argomento della Stanza cinese) ma sostiene che, se il meccanismo biologico causalmente sufficiente fosse noto, una macchina artificiale che implementasse quello stesso meccanismo potrebbe essere cosciente, poiché la coscienza non richiede rigorosamente neuroni biologici, ma solo un sufficiente potere causale."
     },
     "survival_beyond_death": {
@@ -59,22 +61,22 @@
       "rationale": "La coscienza è interamente fisica e unicamente il prodotto di cervelli biologici; pertanto, la morte del cervello e del corpo significa la non esistenza irrevocabile e permanente."
     },
     "meaning_and_purpose": {
-      "stance": "Solo umanistico",
+      "stance": "Humanistic only",
       "rationale": "In quanto teoria materialista, il naturalismo biologico fatica a razionalizzare un significato o uno scopo cosmico ultimo, sebbene rimanga possibile un significato umanistico creato da noi stessi."
     },
     "virtual_immortality": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "Se la coscienza è interamente spiegabile mediante stati fisici/biologici, allora duplicare tali stati (e le loro relazioni causali) in un mezzo non biologico consentirebbe, in linea di principio, il caricamento e la continuazione del sé mentale in prima persona."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "Sovrapposizione/Evoluzione (una forma più sofisticata di materialismo basata sull'identità cerebrale)"
       },
       {
-        "name": "Dennett’s Multiple Drafts Model",
+        "name": "Dennett's Multiple Drafts Model",
         "relationship": "Contrasto (entrambi sono naturalisti biologici, ma Dennett antepone il contenuto/la funzione, mentre Searle antepone la coscienza/la soggettività)"
       },
       {

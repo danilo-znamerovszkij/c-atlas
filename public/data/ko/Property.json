@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "속성 이원론",
     "summary": "속성 이원론은 물리적 실체가 유일한 근본 실체이지만, 환원 불가능한 두 범주의 속성, 곧 물리적 속성과 정신적 속성이 존재한다고 상정한다. 의식 경험과 같은 정신적 속성은 물리적 뇌에 의해 산출되지만 물리적 속성만으로 환원되거나 온전히 설명될 수 없다.",
-    "associated_thinkers": ["David Chalmers"],
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
     "category": "이원론",
     "subcategory": "속성 이원론",
     "core_identity_tagline": "하나의 실체, 환원 불가능한 두 속성(정신적 속성과 물리적 속성)",
@@ -50,30 +52,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "비생물학적 체계가 기술된 환원 불가능한 정신적 속성을 산출하는 데 요구되는 특정한 복잡한 물리적 조직을 예화할 수 있다면 AI도 의식적일 수 있다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식은 물리적 뇌가 산출하는 속성들로 이루어진다. 죽음으로 물리적 실체(뇌/신체)가 해체되면 이 속성들은 소멸한다."
     },
     "meaning_and_purpose": {
-      "stance": "언급 없음/중립",
+      "stance": "Uncertain",
       "rationale": "이 이론은 존재론적 범주와 속성 관계에 초점을 맞추며, 근본적으로 물리적인 실체를 받아들이고 우주적 목적론을 본래적으로 지지하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Possible",
       "rationale": "의식이 특정한 물리적 조직의 창발적 속성이라면, 그 완전한 물리적 상태(뇌 구조)를 비생물학적 기질에서 복제하면 동일한 정신적 속성이 산출될 것이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "중첩/양립 가능(종종 동의어이거나 밀접하게 관련된 것으로 취급됨)"
       },
       {
-        "name": "Substance Dualism",
+        "name": "Dualism",
         "relationship": "비판/대조(실체의 이원성은 거부하되 속성의 이원성은 유지함)"
       },
       {

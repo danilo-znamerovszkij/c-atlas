@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "الأساس الخلوي للوعي (CBC)",
     "summary": "تطرح هذه النظرية أن الإحساس نشأ مع الحياة ذاتها، وتجادل بأن الوعي سمة أولية متأصلة في الشكل العضوي، حاضرة حتى في الأنواع وحيدة الخلية كالبكتيريا. وهي تُحوِّل البحث في أصل العقل من البنى العصبية المعقدة إلى البنى البيوميكانيكية التأسيسية.",
-    "associated_thinkers": ["Arthur Reber"],
+    "associated_thinkers": [
+      "Arthur Reber"
+    ],
     "category": "المادية",
-    "subcategory": "التطور السلالي",
+    "subcategory": "سلالية",
     "core_identity_tagline": "الوعي بوصفه سمة متأصلة في الشكل العضوي",
     "classification_tags": [
       "biological reductionism",
@@ -50,26 +52,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "ترفض النظرية صراحةً النظرة الحاسوبية للعقل وتؤكد أن الوعي يتطلب اعتمادًا جوهريًا على عتاد الشكل العضوي البيولوجي، مما يحول دون التجسيد الاصطناعي."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "بوصفها نظرية مادية، فإن الوعي نتاج محض للأدمغة/الأجساد البيولوجية. والموت يعني انعدامًا نهائيًا لا رجعة فيه للشخص/العقل."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني/بيولوجي",
+      "stance": "Humanistic only",
       "rationale": "يؤدي الوعي وظيفته أساسًا من أجل البقاء والتكيف. وبما أن النظرية مصنَّفة تحت المادية، فلا تستلزم معنى أو غاية كونيين نهائيين."
     },
     "virtual_immortality": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "يجعل الرفض الصريح للتفسيرات الحاسوبية للعقل والاعتماد على عمليات بيولوجية معتمدة جوهريًا على العتاد التحميلَ الرقمي مستحيلًا."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Feinberg and Mallatt’s Ancient Origins of Consciousness",
+        "name": "Feinberg and Mallatt's Ancient Origins of Consciousness",
         "relationship": "تداخل (يتشارك السياق السلالي)"
       },
       {
@@ -77,7 +79,7 @@
         "relationship": "نقد (يقوّضه الزعم بأن الحالات الذهنية معتمدة جوهريًا على العتاد)"
       },
       {
-        "name": "LeDoux’s Deep Roots of Consciousness",
+        "name": "LeDoux's Deep Roots of Consciousness",
         "relationship": "متوافق (يتشارك التركيز على الأصول التطورية)"
       }
     ],

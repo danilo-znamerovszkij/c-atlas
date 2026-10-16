@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "グリンベルグの共作用場／ニューロン場理論",
     "summary": "この精神生理学的理論は、脳がそのすべてのニューロン要素の活性化と統一から生じる超複雑な内的「ニューロン場」を創出すると主張する。意識はこの場と密接に結びついており、この場が基本的な時空構造にゆがみを生じさせる。われわれの知覚はこのゆがみの知覚である。",
-    "associated_thinkers": ["Jacobo Grinberg-Zylberbaum"],
-    "category": "異常状態と変性状態",
+    "associated_thinkers": [
+      "Jacobo Grinberg-Zylberbaum"
+    ],
+    "category": "異常",
     "subcategory": "場の理論",
     "core_identity_tagline": "基本的な時空構造におけるゆがみとしての意識",
     "classification_tags": [
@@ -54,19 +56,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "不確実",
+      "stance": "Uncertain",
       "rationale": "この理論は場を活性化するために「脳と同じくらい複雑な」構造を必要とし、人工システムで再現可能である保証のない非局所的でエネルギー的な相互作用に依拠している。"
     },
     "survival_beyond_death": {
-      "stance": "可能",
+      "stance": "Possible",
       "rationale": "意識と経験は、局在化した脳の生理的活動とは異なる次元に存在するとされる。量子効果と非局所的相互作用を含めていることは、物理的身体の外での存続の可能性を示唆する。"
     },
     "meaning_and_purpose": {
-      "stance": "宇宙的／哲学的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "この理論は意識を実在の根源的構造に結びつけ、脳を根源的なエネルギー的マトリクスを経験へと変換するものとみなしており、深遠な宇宙的意義と存在そのものへの統合を示唆する。"
     },
     "virtual_immortality": {
-      "stance": "起こりにくい",
+      "stance": "Unlikely",
       "rationale": "仮想的不死は、正確なエネルギー的変換と、ニューロン場が空間の共作用的組織化と相互作用することとの技術的複製を必要とするが、この理論の非局所的で非在来的な物理的前提のため、これは極めて起こりにくい。"
     }
   },
@@ -80,7 +82,10 @@
         "name": "Quantum Theories of Consciousness",
         "relationship": "両立的"
       },
-      { "name": "Idealisms", "relationship": "両立的" }
+      {
+        "name": "Idealism",
+        "relationship": "両立的"
+      }
     ],
     "sources_and_references": [
       {

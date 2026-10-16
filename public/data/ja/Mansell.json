@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "マンセルの知覚制御理論（PCT）",
     "summary": "この理論は、意識が、制御システムを適応的に修正するために不可欠な再組織化という重要なプロセスから創発すると提唱する。この修正は、本質的で大部分は生理学的な変数を統御する内在的メカニズムにおける誤差を低減することを目指す。意識は、階層的な制御機能に結びついた一次（現象的）、二次（アクセス）、三次（自己意識）の諸相を包含する。",
-    "associated_thinkers": ["Warren Mansell"],
+    "associated_thinkers": [
+      "Warren Mansell"
+    ],
     "category": "唯物論",
-    "subcategory": "恒常性維持的・情動的",
+    "subcategory": "恒常性",
     "core_identity_tagline": "内在的誤差を最小化する再組織化としての意識",
     "classification_tags": [
       "homeostatic",
@@ -52,30 +54,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "意識は誤差低減、階層的制御、（自己意識のための）シンボル操作といったプロセスによって機構的に定義されるため、これらの機能は理論的に十分に複雑な人工計算システムにおいて実現可能である。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は生物学的制御システム（暗黙のうちに物理的／神経的な基体）の再組織化からの動的な創発に本質的に結びついており、この基体の解体とともに終わることを含意する。"
     },
     "meaning_and_purpose": {
-      "stance": "実用的／実存的",
+      "stance": "Humanistic only",
       "rationale": "意識の存在は、適応的行動の促進、制御の維持（目的性）、非意識的生の限界への対処におけるその機能によって説明され、宇宙的ないし究極的な目的を措定しない。"
     },
     "virtual_immortality": {
-      "stance": "可能",
+      "stance": "Possible",
       "rationale": "意識が制御システム階層の基底の情報構造と動態によって全面的に捉えられるなら、この機能的パターンは非生物学的基体において再現・維持されうる可能性がある。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "重複"
       },
       {
-        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "name": "Friston's Free-Energy Principle and Active Inference",
         "relationship": "重複"
       },
       {

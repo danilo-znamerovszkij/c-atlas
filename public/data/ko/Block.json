@@ -6,7 +6,7 @@
       "Ned Block"
     ],
     "category": "유물론",
-    "subcategory": "철학적",
+    "subcategory": "신경생물학적",
     "core_identity_tagline": "신경생물학적 전기화학적 활동으로서의 현상적 의식",
     "classification_tags": [
       "physicalism",
@@ -53,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "의식이 신경 조직의 특정한 전기화학적/생물학적 본성으로 환원 가능하다면, 그러한 특정 물리적 구성을 결여한 비생물학적 체계(디지털 AI 등)는 진정한 현상적 의식을 구현할 수 없다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "의식은 뇌의 생물학적 과정과 동일시되고 그것으로 환원되므로, 뇌의 파괴는 의식의 소멸을 함축한다."
     },
     "meaning_and_purpose": {
-      "stance": "불확실함",
+      "stance": "Uncertain",
       "rationale": "순전히 물리주의적 환원으로서 이 이론은 우주적 의미나 목적을 제공하지 않지만, (대부분의 유물론 이론과 마찬가지로) 의식적 유기체가 창출하는 인간적 의미는 암묵적으로 허용한다."
     },
     "virtual_immortality": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "블록은 현상성이 우리의 생물학적 기제의 본성에 의존한다고 시사한다. 가상적 불멸은 비생물학적 매체에서의 계산적/기능적 재현에 의존하므로, 이전 과정에서 현상적 성격(감각질)은 상실될 가능성이 높다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "중첩"
       },
       {
@@ -80,11 +80,11 @@
         "relationship": "비판"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "양립 가능"
       },
       {
-        "name": "Higher-Order Theories (HOT)",
+        "name": "Higher-Order",
         "relationship": "비판"
       }
     ],

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Jones-এর তড়িৎচুম্বকীয় ক্ষেত্র",
     "summary": "এই তত্ত্ব শ্রেণিবদ্ধ করে এবং সমর্থন করে এই ধারণাকে যে মন মস্তিষ্কের সমষ্টিগত বৈদ্যুতিক কার্যকলাপ দ্বারা উৎপন্ন স্নায়বিক তড়িৎচুম্বকীয় (EM) ক্ষেত্রের সাথে অভিন্ন। এই একীভূত ক্ষেত্র স্নায়ু-বর্তনীর সাথে মিথষ্ক্রিয়া করে বলে মনে করা হয়, যা চেতনার একত্বের ভিত্তি প্রদান করে এবং কোয়ালিয়ার উৎসের সম্বোধন করে।",
-    "associated_thinkers": ["Mostyn Jones"],
+    "associated_thinkers": [
+      "Mostyn Jones"
+    ],
     "category": "বস্তুবাদ",
-    "subcategory": "তড়িৎচুম্বকীয় ক্ষেত্র",
+    "subcategory": "তড়িৎচুম্বকীয়",
     "core_identity_tagline": "মন হল একীভূত স্নায়বিক তড়িৎচুম্বকীয় ক্ষেত্র",
     "classification_tags": [
       "electromagnetic field",
@@ -52,30 +54,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "সম্ভাবত",
+      "stance": "Likely",
       "rationale": "একটি বস্তুবাদী/তড়িৎচুম্বকীয় ক্ষেত্র তত্ত্ব হিসেবে, চেতনা নির্দিষ্ট ভৌত ক্ষেত্র গঠনের উপর নির্ভর করে। প্রযুক্তি প্রয়োজনীয় EM ক্ষেত্র প্যাটার্ন উৎপাদন ও পরিচালনা করতে সক্ষম হার্ডওয়্যার প্রতিলিপি করতে পারলে, AI চেতনা তত্ত্বত অর্জনযোগ্য হওয়া উচিত।"
     },
     "survival_beyond_death": {
-      "stance": "না",
+      "stance": "No",
       "rationale": "চেতনাকে জৈবিক মস্তিষ্কের চলমান কার্যকলাপ দ্বারা উৎপন্ন একটি নির্দিষ্ট ভৌত ক্ষেত্র প্যাটার্ন হিসেবে সংজ্ঞায়িত করা হয়। ক্ষেত্র উৎপাদনকারী জৈবিক প্রক্রিয়ার ক্ষয়ের সাথে এটি অবসিত হবে।"
     },
     "meaning_and_purpose": {
-      "stance": "কেবল মানবতাবাদী",
+      "stance": "Humanistic only",
       "rationale": "তত্ত্বটি ভৌত প্রক্রিয়া ও নীতির (বস্তুবাদ) মধ্যে নিহিত, যা ইঙ্গিত দেয় চেতনা বাহ্যিক মহাজাগতিক পরাকাষ্ঠা বা চরম অর্থ ছাড়াই স্বাভাবিকভাবে উদ্ভূত হয়।"
     },
     "virtual_immortality": {
-      "stance": "সম্ভাবত",
+      "stance": "Likely",
       "rationale": "ভার্চুয়াল অমরত্ব চেতনার ভিত্তির প্রতিলিপির উপর নির্ভর করে। সচেতন মন যদি একটি সুনির্দিষ্ট, জটিল EM ক্ষেত্র প্যাটার্নে সরলীকরণযোগ্য হয়, এই প্যাটার্নটি একটি জৈবিক নয় এমন মাধ্যমে প্রতিলিপিযোগ্য হওয়া উচিত, যা ডিজিটাল ধারাবাহিকতাকে সক্ষম করে, যদিও বাস্তবিকভাবে অর্জন করা অত্যন্ত জটিল।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McFadden’s Conscious Electromagnetic Information Theory",
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
         "relationship": "অতিব্যাপন"
       },
       {
-        "name": "Pockett’s Conscious and Non-Conscious Patterns",
+        "name": "Pockett's Conscious and Non-Conscious Patterns",
         "relationship": "অতিব্যাপন"
       },
       {

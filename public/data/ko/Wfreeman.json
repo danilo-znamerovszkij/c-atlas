@@ -1,0 +1,136 @@
+{
+  "id_and_class": {
+    "theory_title": "W. 프리먼의 지향적 신경역학",
+    "summary": "월터 J. 프리먼 3세는 현상적 의식이 대뇌피질 활동의 짧고 전역적으로 일관된 상태들의 연속, 즉 대규모 신경 집단의 위상 전이에 의해 형성되는 '틀(frame)'들의 계열이라고 본다. 지각은 변연계가 설정한 목표에서 시작하며, 뇌는 자극을 복사하기보다 동물의 이력으로부터 자극의 의미를 구성한다. 자각은 이 행위-지각 순환의 후반에 나타나는 전역적 질서 상태로서 찾아오며, 선택지들이 저울질되는 동안 행위를 붙잡아 둔다.",
+    "associated_thinkers": [
+      "Walter J. Freeman III",
+      "Giuseppe Vitiello"
+    ],
+    "category": "유물론",
+    "subcategory": "신경생물학적",
+    "core_identity_tagline": "일관된 피질 역학의 틀로서의 의식",
+    "classification_tags": [
+      "neurodynamics",
+      "phase transitions",
+      "intentionality",
+      "circular causality",
+      "eeg"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "의식은 피질에서 거시적 질서 상태들의 연속이다. 각 상태는 신경 집단 활동의 전역적으로 일관된 패턴이며, 그 패턴을 낳는 활동에 대해 질서 매개변수로 작용한다.",
+    "ontological_status": "물리주의(동역학적, 비환원적)",
+    "mind_body_relationship": "순환 인과: 미시적 신경 활동이 전역 상태를 낳고, 전역 상태가 다시 그 미시적 활동을 제약하며, 이 고리 바깥에는 행위자가 없다. 프리먼은 의식을 뇌에 중심을 둔 힘의 장으로 기술하는데, 이 장은 신체를 통해 주변에 작용하며 그 효과를 통해서만 알려진다.",
+    "primitive_or_emergent_status": "창발적",
+    "emergence_type": "신경 집단에서 자기조직화하는 위상 전이를 통한 창발이며, 전역 상태가 그 부분들에 하향 제약을 가한다.",
+    "subjectivity_and_intentionality": "지향성이 먼저 온다. 아퀴나스를 따라 프리먼은 지향을 세계를 향해 뻗어 나가는 유기체 전체로 본다. 순환 고리의 전진하는 가지는 지향적 자기이며, 피드백 가지는 자기와 그 행위에 대한 자각이다.",
+    "qualia_account": "프리먼은 어려운 문제를 제쳐 둔다. 내용은 각 뇌 안에서 구성되므로 각 뇌의 의미는 그 뇌 자신의 것이지만, 일관된 피질 상태가 왜 느껴지는지는 설명하지 않는다.",
+    "ontological_commitments": "상호작용하는 흥분성 및 억제성 신경 집단, 수상돌기 전류의 중시적(mesoscopic) 장, 혼돈적 배경 활동, 학습에 의해 형성된 끌개(attractor) 지형, 그리고 목표의 원천으로서의 변연계.",
+    "epistemic_access": "프리먼은 의식에 대한 직접적인 생리적 척도는 존재하지 않는다고 본다. 그는 뇌파도(EEG)와 피질 전위도(electrocorticogram) 기록, 각성·지향·주의에 대한 행동 검사에 의존하며, 이들은 간접적인 접근만을 제공한다.",
+    "constituents_and_structure": "'K-집합'의 위계이며, 상호작용하지 않는 집단에서 출발하여 진동하고 혼돈적인 감각계를 거쳐 피질 영역들 사이의 전역적 상호작용에 이른다. 경험은 빠른 전이로 분리된 이산적 틀, 즉 파동 묶음들로 구성된다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "현상적(경험의 조직과 내용), 지각적 의미, 지향성, 자기인식, 의식의 흐름, 자각의 인과적 효력.",
+    "distinctive_mechanism_or_principle": "피질 집단의 내생적 위상 전이: 혼돈적 배경 활동이 학습된 끌개 분지로 뛰어들어, 자극이 동물에게 무엇을 뜻하는지를 표현하는 진폭 변조의 공간 패턴을 만든다. 감각 피질과 내후각 피질에 걸친 늦은 대규모 베타 동기화는 그가 제시하는 자각의 후보 상관물이다.",
+    "dynamics_of_emergence": "의식의 흐름은 '영화적'이다. 각각 위상 전이에 의해 형성된 틀들의 연속이며, 그 겉보기 연속성이 지속적으로 유지되는 신경 내용을 반영할 필요는 없다.",
+    "location_and_distribution": "전역적 피질 역학이며, 변연계(내후각 피질과 해마)가 의도를 조직한다. 프리먼은 의식을 층상 피질 신경 뉴필(neuropil)을 가진 동물에 한정하고 범심론을 거부한다.",
+    "causation_and_functional_role": "자각은 부수현상도 아니고 행위의 시작자도 아니다. 그것은 '거시적 질서 상태로서 수반되며, 자기조직화하는 미시적 과정이 성찰적 예측에서 닫힘에 도달할 때까지 행위를 미루는' 상태로서, 국소적 요동을 잠재우고 헌신을 늦춘다.",
+    "integration_or_binding": "전역적 일관성: 늦은 베타 범위 패턴이 모든 일차 감각 영역과 내후각 피질에 걸쳐 동기화되어, 양상별 초기 감마 패턴들을 하나의 상태로 묶는다.",
+    "information_flow_or_representation": "프리먼은 저장된 표상을 거부한다. 원시 감각 입력이 끌개를 선택하고 나면 그 입력은 버려지며, 그 결과로 생긴 패턴이 동물의 이력과 목표로부터 구성된 의미를 지닌다. 변연계는 행위의 예상된 결과에 대비하여 감각 피질을 준비시키는 부수 방전(corollary discharge), 즉 사전 지각(preafference)을 보낸다.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "훈련된 토끼에게서 학습된 냄새를 맡을 때마다, 후각 망울 전체에 걸쳐 감마 버스트가 나타났으며, 그 공간 진폭 패턴이 냄새들을 구별했다.",
+      "강화 조건이 바뀌거나 새로운 냄새를 학습하면 이 패턴들도 바뀌었는데, 프리먼은 이를 패턴이 자극이 아니라 의미를 부호화한다는 증거로 읽는다.",
+      "같은 역학이 시각, 청각, 체성감각 피질에서도 나타나므로, 이 기제는 후각을 넘어 일반화된다.",
+      "늦고 광범위한 베타 사건들은 리벳이 기술한, 보고된 자각에서의 약 반 초 지연과 맞아떨어진다."
+    ],
+    "basis_of_belief_or_evidence_type": "경험적(동물 전기생리학과 비선형 동역학 모형화), 철학적 틀은 아퀴나스, 메를로퐁티, 실용주의자들에게서 가져온다."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "경험적으로 검증 가능",
+    "known_empirical_interventions_or_tests": "훈련된 동물의 후각 망울과 신피질에서 얻은 피질 전위도 및 뇌파 기록, 감마 및 베타 활동의 공간 진폭 변조 분석, 강화 역전 및 새로운 냄새 학습 패러다임.",
+    "criticisms_and_tensions": "시간적으로 분절된 신경 패턴은 지각 조직화의 모형을 뒷받침할 수 있지만, 경험 자체에 틈이 있음을 보여 주지는 못한다. 동물 기록에서 자극을 분류하는 것은 동물이 무엇을 경험하는지를 드러내지 못한다. 비텔로와 함께 제시한 양자장 확장은 진동 자료로는 입증되지 않으며, 설령 타당하다 해도 경험과의 연결에 대한 설명이 여전히 필요할 것이다.",
+    "open_questions_and_limitations": "증거는 대체로 동물의 전기생리학이므로, 이를 인간 경험으로 확장하는 것은 추론에 의존한다. 어떤 동역학적 속성이 경험에 필요충분한지, 그 속성들이 무의식적 인지와 어떻게 다른지, 왜 그것들이 느껴지는지는 모두 열려 있다.",
+    "ontological_coherence": "전역 상태가 그 부분들을 제약할 수 있도록 허용하는 물리주의와 일관된다. 프리먼과 비텔로의 소산적 양자장 모형은 관측 가능량을 고전적인 채로 두며, 뉴런이나 교세포를 양자 대상으로 다루지 않는다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "프리먼은 의식을 층상 피질 신경 뉴필을 가진 동물에 한정하며, 그의 관점에서 의미는 유기체가 세계와 목표 지향적으로 신체적으로 관여하는 데서 나온다."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "의식은 여기서 살아 있는 피질 역학의 패턴이므로, 그 역학이 멈추면 끝난다."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Aquinas’s Hylomorphism",
+        "relationship": "영향"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "영향"
+      },
+      {
+        "name": "Globus's Quantum Thermofield Brain Dynamics",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "양립 가능"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mass Action in the Nervous System, Walter J. Freeman",
+        "year": 1975
+      },
+      {
+        "title_with_names": "How Brains Make Chaos in Order to Make Sense of the World, C. A. Skarda and Walter J. Freeman",
+        "year": 1987
+      },
+      {
+        "title_with_names": "Consciousness, Intentionality and Causality, Walter J. Freeman",
+        "year": 1999
+      },
+      {
+        "title_with_names": "How Brains Make Up Their Minds, Walter J. Freeman",
+        "year": 2000
+      },
+      {
+        "title_with_names": "A Cinematographic Hypothesis of Cortical Dynamics in Perception, Walter J. Freeman",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Indirect Biological Measures of Consciousness from Field Studies of Brains as Dynamical Systems, Walter J. Freeman",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Nonlinear Brain Dynamics and Intention According to Aquinas, Walter J. Freeman",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Nonlinear Brain Dynamics as Macroscopic Manifestation of Underlying Many-Body Field Dynamics, Walter J. Freeman and Giuseppe Vitiello",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Cognitive Phase Transitions in the Cerebral Cortex, R. Kozma and Walter J. Freeman",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Societies of Brains, Walter J. Freeman",
+        "year": 1995
+      }
+    ]
+  }
+}

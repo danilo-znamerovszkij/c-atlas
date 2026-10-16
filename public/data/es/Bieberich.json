@@ -1,0 +1,127 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoría de la integración recurrente fractal de Bieberich",
+    "summary": "Erhard Bieberich propone que la conciencia surge en neuronas individuales de redes recurrentes mediante tres pasos clásicos. La actividad de la red se comprime en un patrón fractal de canales iónicos y dominios lipídicos en la membrana celular (el sentyon); ese patrón se despliega holográficamente en un espacio experiencial unificado (el endoespacio), y el endoespacio retroalimenta la membrana que lo produjo.",
+    "associated_thinkers": [
+      "Erhard Bieberich"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "La conciencia como patrones fractales de membrana desplegados holográficamente",
+    "classification_tags": [
+      "fractals",
+      "holography",
+      "single neuron",
+      "binding problem",
+      "membrane lipids"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia es un espacio experiencial unificado y con estructura geométrica, reconstruido a partir de una codificación fractal de tipo todo-en-parte de la actividad de la red en la membrana somática de una neurona.",
+    "ontological_status": "Fisicalismo (molecular clásico)",
+    "mind_body_relationship": "La experiencia es generada por una transformación molecular y geométrica específica en las neuronas, y actúa de vuelta sobre ese sustrato. Bieberich llamó antes a la forma consciente de la materia «materia brillante».",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia a partir de la dinámica molecular clásica mediante compresión fractal y reconstrucción holográfica; Bieberich no invoca ni la coherencia cuántica ni el colapso.",
+    "subjectivity_and_intentionality": "El Yo perceptor forma parte de la organización que genera el campo, lo que Bieberich ofrece en lugar de un homúnculo que lo contemple. Las relaciones espaciales del mundo exterior (exoespacio) se reconstruyen dentro del endoespacio.",
+    "qualia_account": "RIFT explica cómo se genera y se conserva la geometría experiencial, pero, según la propia afirmación de Bieberich, no por qué esa geometría se experimenta.",
+    "ontological_commitments": "Bucles neuronales recurrentes, árboles dendríticos fractales, una red multifractal de dominios lipídicos y canales iónicos (el sentyon), un campo generado holográficamente (endoespacio) y el atractor del Yo.",
+    "epistemic_access": "Argumentación teórica y simulación por ordenador, con experimentos propuestos sobre lípidos de membrana, temporización dendrítica y atención.",
+    "constituents_and_structure": "Una neurona núcleo, como una célula piramidal de la capa 5, que recibe entrada recurrente; su membrana somática modelada como una red de Ising cercana a la criticalidad; y una «semilla» comprimida que lleva cada momento consciente al siguiente."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Unidad fenomenal, ligadura, continuidad de la experiencia, atención, causación mental.",
+    "distinctive_mechanism_or_principle": "Plegamiento fractal, despliegue holográfico y retroalimentación autopoiética: solo una aplicación de tipo todo-en-parte puede integrar partes sin perderlas, algo que la suma de señales neuronales no puede hacer.",
+    "dynamics_of_emergence": "En el Mapeo Fractal Generacional, el patrón de membrana crece hasta alcanzar un umbral y colapsa con cada potencial de acción mientras sobrevive una semilla basada en lípidos, de modo que cada momento consciente actualiza al anterior.",
+    "location_and_distribution": "Dentro de neuronas núcleo individuales, pero móvil: mediante la «transferencia de sentyon» la semilla se clona en otras neuronas, lo que convierte a la conciencia en un núcleo dinámico errante que va allí donde se necesita procesamiento.",
+    "causation_and_functional_role": "El campo medio del endoespacio aumenta el acoplamiento entre los dominios lipídicos y los canales iónicos, sesgando la apertura de los canales sin añadir energía, lo que Bieberich pretende que haga causalmente eficaz a la conciencia. La atención expresa la movilidad del núcleo.",
+    "integration_or_binding": "Cada subregión del patrón de membrana codifica el todo, de modo que los fragmentos reconstruyen un campo casi idéntico. Bieberich lo ofrece como respuesta geométrica al problema de la ligadura.",
+    "information_flow_or_representation": "Los bucles recurrentes con tiempo total de bucle igual hacen que los EPSP coincidan en el soma, y sus amplitudes y latencias transportan la geometría de la activación de la red hasta la membrana.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "La codificación de integración y disparo colapsa miles de entradas en un solo pico, de modo que experiencias candidatas distintas se vuelven indistinguibles en el código neuronal.",
+      "En la simulación, la relación inversa entre la longitud de trayecto dendrítica y la externa surgió a partir de una selección de sinapsis basada en la coincidencia.",
+      "Ocho fragmentos disímiles de un patrón somático simulado reconstruyeron campos casi idénticos (similitud de 0,96), mientras que las entradas aleatorias o regulares no lo hicieron.",
+      "Aumentar en la simulación el acoplamiento lípido-canal elevó la fracción de apertura de canales del 89,0 al 95,5 por ciento."
+    ],
+    "basis_of_belief_or_evidence_type": "Teórica y computacional; Bieberich ejecutó seis módulos de simulación con código archivado públicamente."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Especulativa",
+    "known_empirical_interventions_or_tests": "Predicciones: la depleción de colesterol debería perjudicar la conciencia más que el bloqueo de canales iónicos; el nivel de ramificación dendrítica y la longitud de trayecto externa deberían tener una temporización inversa; la transferencia de la semilla debería dejar firmas de arrastre en las regiones atendidas; en la enfermedad de Alzheimer, la alteración de los dominios lipídicos debería seguir la pérdida de memoria mejor que la carga amiloide.",
+    "criticisms_and_tensions": "Las simulaciones muestran que una arquitectura cumple los criterios que la propia teoría establece, no que las neuronas la implementen; la conectividad inversa y el multifractal somático no están demostrados. El paso holográfico carece de fuentes coherentes identificadas en la membrana, y la afirmación de generar un espacio experiencial resulta difícil de conciliar con la renuncia a explicar por qué ese espacio se experimenta.",
+    "open_questions_and_limitations": "Bieberich reconoce que los seis módulos no se ejecutaron como un único bucle, que los pasos clave son sustitutos computacionales sin un portador físico confirmado, que la intensidad de la retroalimentación se fijó a mano y que las medidas de integración no son cálculos formales de información integrada.",
+    "ontological_coherence": "Consistente con el fisicalismo clásico, pero la identificación de la geometría reconstruida con la experiencia sigue siendo un postulado."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "La IA actual carece de temporización fractal recursiva, de un sustrato multifractal y de reconstrucción holográfica, así que no es consciente según los criterios de RIFT, aunque Bieberich considera que la estructura matemática es independiente del sustrato."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Dado que la conciencia es generada por patrones moleculares en neuronas vivas, termina cuando estas terminan."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "La teoría es un mecanismo biofísico clásico sin propósito cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "Una estructura independiente del sustrato deja la puerta abierta en principio, pero RIFT no aborda la reproducción de una persona concreta."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Pribram's Holonomic Brain Theory",
+        "relationship": "Influencia"
+      },
+      {
+        "name": "Dendritic Integration Theory",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Edelman's Neural Darwinism and Reentrant Neural Circuitry",
+        "relationship": "Influencia"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Crítica"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "RIFT: A fractal-holographic theory of consciousness and autopoietic control, Erhard Bieberich",
+        "year": 2026
+      },
+      {
+        "title_with_names": "Introduction to the fractality principle of consciousness and the sentyon postulate, Erhard Bieberich",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Recurrent fractal neural networks: A strategy for the exchange of local and global information processing in the brain, Erhard Bieberich",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Brain and Perception: Holonomy and Structure in Figural Processing, K. H. Pribram",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Autopoiesis and Cognition: The Realization of the Living, H. R. Maturana and F. J. Varela",
+        "year": 1980
+      },
+      {
+        "title_with_names": "A Universe of Consciousness, G. M. Edelman and G. Tononi",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Single-neuron theory of consciousness, S. Sevush",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Cellular mechanisms of conscious processing, J. Aru, M. Suzuki and M. E. Larkum",
+        "year": 2020
+      }
+    ]
+  }
+}

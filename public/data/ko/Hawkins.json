@@ -1,0 +1,124 @@
+{
+  "id_and_class": {
+    "theory_title": "호킨스의 천 개의 뇌 기억 모델링",
+    "summary": "제프 호킨스는 신피질이 대뇌피질 기둥마다 하나씩, 수천 개의 병렬적 세계 모형을 구축하며, 이 모형들이 투표를 통해 하나의 지각에 도달한다고 주장한다. 그의 설명에서 자각은 뇌가 자신의 최근 모형 상태를 지속적으로 기억하고 되살리는 것이며, 질감은 균일한 피질의 각 부분이 우연히 연결된 것을 반영한다.",
+    "associated_thinkers": [
+      "Jeff Hawkins"
+    ],
+    "category": "유물론",
+    "subcategory": "신경생물학적",
+    "core_identity_tagline": "피질 모형 상태의 기억으로서의 의식",
+    "classification_tags": [
+      "neocortex",
+      "cortical columns",
+      "reference frames",
+      "memory",
+      "machine consciousness"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "의식은 신피질 모형화가 산출하는, 뇌가 생성한 시뮬레이션이다. 자각은 뇌의 최근 모형 상태를 지속적으로 저장하고 되살리는 것과 동일시되며, 감각질은 대뇌피질 기둥들의 연결성과 동일시된다.",
+    "ontological_status": "물리주의(기능주의적)",
+    "mind_body_relationship": "마음은 신피질이 하는 일이다. 경험은 대뇌피질 모형, 투표, 예측, 행동의 산출물이며, 기능적 구조 이상의 추가 요소는 없다.",
+    "primitive_or_emergent_status": "창발적",
+    "emergence_type": "약한 창발. 분산된 피질 모형화와 모형 상태의 기억으로부터 나온다.",
+    "subjectivity_and_intentionality": "뇌의 세계 모형에는 자기에 대한 모형이 포함되며, 의식적이라는 느낌은 피질이 자신의 상태를 지속적으로 기록하고 되살리는 데서 나온다. 지향성은 기둥들이 대상, 장소, 개념에 붙이는 감각운동 준거틀에 기초한다.",
+    "qualia_account": "같은 회로가 시각, 촉각, 청각을 모두 처리하므로, 호킨스는 감각들 사이의 질적 차이를 한 기둥이 무엇과 연결되어 있는지로 추적한다. 즉 그것이 어떤 입력을 받고 어떤 행동을 구동하는지이다. 그는 그런 설명이 성숙하면 어려운 문제가 해소되리라 기대한다.",
+    "ontological_commitments": "대뇌피질 기둥; 격자 세포와 장소 세포 기제로부터 차용한 지도 같은 준거틀; 예측적 신경 활동; 모형 상태의 기억 흔적.",
+    "epistemic_access": "신경해부학, 대뇌피질 회로의 계산 모형화, 지워진 기억과 자기 보고에 관한 사고 실험을 통해 연구된다.",
+    "constituents_and_structure": "약 15만 개의 대뇌피질 기둥. 각각은 대상과 개념의 완전한 감각운동 모형을 학습하며, 이들은 풍부하게 상호 연결되어 있어 부분 모형들이 투표를 통해 하나의 지각으로 수렴한다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "자각, 지각의 통일성, 자기 모형화, 감각질(디플레이션적 설명). 주로 지능에 관한 이론이다.",
+    "distinctive_mechanism_or_principle": "수천 개의 기둥 수준 모형이 투표하여 합의된 지각에 이르고, 자각은 뇌의 최근 모형 상태에 대한 지속적인 기억과 회상이다.",
+    "dynamics_of_emergence": "연속적인 과정이다. 피질은 계속 예측하고, 예측이 어긋나면 자신의 시뮬레이션을 갱신하며, 순간순간 자신의 상태를 기록한다.",
+    "location_and_distribution": "중앙 처리기 없이 신피질 전체에 분산되어 있다. 더 오래된 피질하 뇌는 욕구와 감정을 공급한다.",
+    "causation_and_functional_role": "최근 상태의 회상된 기억이 지속되는 행동을 이끈다. 예측 불일치는 주의를 끌고 모형 수정을 촉발하며, 충족된 예측은 알아차려지지 않는다.",
+    "integration_or_binding": "상호 연결된 기둥들 사이의 투표는 왜곡되고 얼룩진 입력을 하나의 안정적이고 대상 중심적인 지각으로 바꾸며, 호킨스는 이를 결합 문제에 대한 기계론적 답으로 제시한다.",
+    "information_flow_or_representation": "신피질에 도달하는 것은 전기 스파이크뿐이다. 기둥들은 감각 입력과 운동 출력을 결합하는 준거틀을 사용하므로, 지식은 본질적으로 감각운동적이며 지각은 세계에 대한 모형의 시뮬레이션이다.",
+    "evolutionary_account": "호킨스는 뇌를 진화된 욕구를 지닌 오래된 피질하 뇌와, 세계 모형을 구축하는 새로운 신피질로 나눈다.",
+    "core_claims_and_evidence": [
+      "마운트캐슬을 따라, 호킨스는 신피질이 하나의 공통 알고리즘을 실행하며, 영역들은 구조가 아니라 연결에서 다르다고 주장한다.",
+      "각 대뇌피질 기둥은 격자 세포와 장소 세포 기제에서 유래한 준거틀을 사용하여 대상의 완전한 모형을 학습한다.",
+      "기둥들은 투표하여 파편적인 감각 입력으로부터 통일된 지각을 만든다.",
+      "기억에서 지워진 행동은 무의식적인 것으로 판정될 텐데, 호킨스는 이것이 자각이 기억된 상태로 이루어져 있음을 보여 준다고 본다.",
+      "세계 모형을 학습하고, 자신의 상태를 지속적으로 저장하고 되살리는 체계는 모두 의식을 가질 것이다."
+    ],
+    "basis_of_belief_or_evidence_type": "이론 신경과학과 계산 모형화, 그리고 기억에 관한 사고 실험."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "경험적으로 검증 가능",
+    "known_empirical_interventions_or_tests": "대뇌피질에 관한 주장(기둥 수준 모형, 격자 세포와 유사한 준거틀, 투표)은 신경과학과 계산 모형화를 위한 가설로 구성되어 있다. 기억된 상태와 자각 사이의 연결은 주로 사고 실험에 기대고 있다.",
+    "criticisms_and_tensions": "신경과학에 우호적인 평자들은 감각질을 연결성과 동일시하는 것이 왜 어떤 패턴이 느껴지는지 설명하지 않은 채 상관을 되풀이할 뿐이라고 반대한다. 신경과학자들은 또한 날카로운 옛뇌/새뇌 분할을, 이미 폐기된 삼위일체 뇌 도식의 부활이라고 공격하는데, 포유류의 신피질이 새와 파충류의 외투 피질과 매우 닮았기 때문이다.",
+    "open_questions_and_limitations": "호킨스는 자신이 어려운 문제를 풀지 못했음을 인정한다. 이 설명은 접근, 통일성, 자기 모형화를 다루지만 현상적 성격은 설명되지 않은 채 남겨 둔다.",
+    "ontological_coherence": "기능주의적 물리주의로서는 일관된다. 다만 어려운 문제가 해소되리라는 확신은 논증이 아니라 예측이다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "호킨스는 천 개의 뇌 원리에 따라 만들어진 기계가 정서가 없다 하더라도 의식을 가지리라고 본다. 옛뇌의 진화된 욕구가 없기 때문이다."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "여기서 의식은 신피질 모형화가 산출하는 것이므로, 뇌가 죽으면 아무것도 살아남지 않는다."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "이 이론은 경험을 뇌 기능으로 설명하며 어떤 우주적 목적도 상정하지 않는다."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "올바른 기능적 구조가 의식에 충분하다면, 한 사람의 피질 모형을 재현하는 체계는 원리상 그것을 지닐 수 있다. 다만 호킨스는 업로딩을 다루지 않는다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Budson’s Consciousness as a Memory System",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Chalmers's Panpsychism",
+        "relationship": "대조"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "양립 가능"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A Thousand Brains: A New Theory of Intelligence, Jeff Hawkins",
+        "year": 2021
+      },
+      {
+        "title_with_names": "On Intelligence, Jeff Hawkins and Sandra Blakeslee",
+        "year": 2004
+      },
+      {
+        "title_with_names": "A framework for intelligence and cortical function based on grid cells in the neocortex, Jeff Hawkins, M. Lewis, M. Klukas, S. Purdy and S. Ahmad",
+        "year": 2019
+      },
+      {
+        "title_with_names": "A theory of how columns in the neocortex enable learning the structure of the world, Jeff Hawkins, S. Ahmad and Y. Cui",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Why neurons have thousands of synapses, a theory of sequence memory in neocortex, Jeff Hawkins and S. Ahmad",
+        "year": 2016
+      },
+      {
+        "title_with_names": "An organizing principle for cerebral function: The unit module and the distributed system, Vernon B. Mountcastle",
+        "year": 1978
+      },
+      {
+        "title_with_names": "Facing up to the problem of consciousness, D. J. Chalmers",
+        "year": 1995
+      }
+    ]
+  }
+}

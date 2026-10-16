@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "조지프슨의 초심리 현상에 기반한 모델",
     "summary": "의식에 대한 이 접근은 뇌를 이해하려면 하위 수준의 속성을 상위 수준의 현상학과 연결하는 적절한 모델들의 집합을 개발하고 구현해야 한다고 제안한다. 이는 초심리 현상의 실재 가능성에 크게 영향을 받았으며, 그러한 가능성은 의식을 설명하기 위해 현재 물리학이 인정하는 것을 넘어선 새로운 실재의 차원이나 새로운 생물학적 원리가 필요함을 함축한다.",
-    "associated_thinkers": ["Brian Josephson"],
-    "category": "이상 현상과 변성 상태",
-    "subcategory": "초심리 현상에 기반한 모델",
+    "associated_thinkers": [
+      "Brian Josephson"
+    ],
+    "category": "이상현상",
+    "subcategory": "프시에 기반한 모델",
     "core_identity_tagline": "초심리 현상에 기반한 모델을 통해 뇌를 이해하기.",
     "classification_tags": [
       "psi phenomena",
@@ -50,26 +52,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "의식이 특정한 생물학적 원리나 (초심리 현상이 시사하는) 비물리적 차원에 대한 접근을 요구한다면, 인공 체계가 이러한 필수적인 생물학적/비물리적 요인을 재현할 수 없는 한 AI 의식은 불확실하다."
     },
     "survival_beyond_death": {
-      "stance": "가능함",
+      "stance": "Possible",
       "rationale": "이 이론은 흔히 죽음 이후의 확장된 실재나 의식 상태를 상정하는 '이상 현상과 변성 상태 이론' 범주에 속한다. '더 크고 어쩌면 무한한 규모로 우주 배후에 있는' 의식에 관한 사변이 이 가능성을 뒷받침한다."
     },
     "meaning_and_purpose": {
-      "stance": "우주적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "이 이론은 무의미하지 않은 우주를 제안하며, '목표 지향성이 담당할 중요한 역할이 있다'고 주장하고 우주가 특정한 목적에 부합하도록 작용하는 행위자들의 산물일 수 있다고 시사한다."
     },
     "virtual_immortality": {
-      "stance": "불확실",
+      "stance": "Uncertain",
       "rationale": "의식이 비국소적 양자 과정이나 현재의 물리학을 넘어선 차원(새로운 생물학적 원리 또는 생물학적 장)에 의존한다면, 진보된 기술이 이러한 환원 불가능한 원인들을 조작하거나 복제하여 가상 업로드를 달성할 수 있을지는 현재로서는 알 수 없다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Pauli–Jung Conjecture",
+        "name": "Pauli’s One World, Two Aspects: Psychophysical Complementarity",
         "relationship": "양립 가능"
       },
       {
@@ -77,7 +79,7 @@
         "relationship": "확장"
       },
       {
-        "name": "Quantum Theories",
+        "name": "Quantum & Dimensions",
         "relationship": "중첩"
       },
       {

@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "ミッチェルの自由な行為主体",
     "summary": "この理論は、自由意志すなわち行為主体性が、脳の純粋に物理的な働きから全面的に創発する実在の現象であると主張する。神経系が学習・モデル化・予測・シミュレーションの能力を発達させ、生き物が真の選択を行えるようになった進化の道筋を強調する。",
-    "associated_thinkers": ["Kevin Mitchell"],
+    "associated_thinkers": [
+      "Kevin Mitchell"
+    ],
     "category": "唯物論",
     "subcategory": "神経生物学的",
     "core_identity_tagline": "純粋に物理的な脳の働きから生じる自由な行為主体",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "意識と行為主体性は、複雑なシステムから創発する全面的に物理的な現象である。したがって、十分な技術的進歩があれば、人工システムは必要な物理的働きを実現し意識を達成しうる。"
     },
     "survival_beyond_death": {
-      "stance": "否定",
+      "stance": "No",
       "rationale": "意識は生物学的な脳の内部における純粋に物理的な働きと活動パターンに全面的に依存している。「幽霊」とは作動中の機械にほかならず、脳死とともに停止することを含意する。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的／進化論的",
+      "stance": "Humanistic only",
       "rationale": "行為主体性は個人が自らの未来を意識的に形づくり目的をもって行為することを可能にし、内的で創り出された意味を提供する。だが根底にある宇宙の秩序は唯物論的である（生命なき物質から創発した）。"
     },
     "virtual_immortality": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "物理主義的理論として、意識に本質的な神経活動のパターンとそれが支える創発的な行為主体性を、非生物学的媒体において完全に複製できるならば、仮想的不死は原理的に達成可能である。"
     }
   },

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Le mystère de la conscience selon S. Harris",
     "summary": "Cette perspective, présentée comme un défi plutôt que comme une théorie prescriptive, envisage la conscience comme un mystère infranchissable qui ne peut être résolu par des moyens purement physiques. Harris soutient que les descriptions physiques sont « muettes » concernant l'expérience subjective ; la seule chose qui atteste de la sentience est la conscience elle-même, ce qui crée un fossé explicatif fondamental. Il demeure pessimiste quant à la capacité de la science à dissiper ce mystère.",
-    "associated_thinkers": ["Sam Harris"],
-    "category": "Théories du Défi",
-    "subcategory": "Mystère de la Conscience",
+    "associated_thinkers": [
+      "Sam Harris"
+    ],
+    "category": "Défi",
+    "subcategory": "Mystère de la conscience",
     "core_identity_tagline": "« La conscience comme un fossé infranchissable »",
     "classification_tags": [
       "mysterianism",
@@ -50,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "Si la conscience est une subjectivité irréductible absente des descriptions physiques, alors le calcul avancé (l'IA, qui n'est que complexité purement physique) ne parviendra pas à engendrer une véritable sentience."
     },
     "survival_beyond_death": {
-      "stance": "Non (Conditionnel)",
+      "stance": "No",
       "rationale": "En tant que naturaliste, Harris s'aligne implicitement sur l'idée que la conscience est liée à l'organisme physique, ce qui signifie que sa cessation entraîne une non-existence permanente, malgré le mystère de sa nature du vivant de l'organisme."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste seulement",
+      "stance": "Humanistic only",
       "rationale": "Le mystère n'implique aucune finalité cosmique, mais Harris préconise de trouver des vérités personnelles par l'introspection, s'alignant sur une spiritualité et un sens auto-découverts (naturalisés)."
     },
     "virtual_immortality": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "Si la conscience ne peut être expliquée par des processus purement physiques, alors la duplication ou le téléchargement du substrat physique ne parviendra pas à capturer ou à recréer le soi subjectif essentiel."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Le mystère ultime de McGinn (mystérianisme)",
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
         "relationship": "Chevauchement"
       },
       {
-        "name": "Théories du matérialisme",
+        "name": "Materialism",
         "relationship": "Critique"
       },
       {
-        "name": "Matérialisme éliminativiste/Illusionnisme",
+        "name": "Eliminative/Illusionism",
         "relationship": "Compatible (en tant que rejet du réalisme naïf sur l'explication physique, bien que Harris continue d'affirmer la réalité de la conscience)"
       }
     ],

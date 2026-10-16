@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "이나스의 진동 마음상태 이론",
     "summary": "이 이론은 의식적 \"마음상태(mindness state)\"가 근본적으로 뉴런 내부의 전기적 진동과 그로부터 비롯되는 멀리 떨어진 신경 집단들의 동시적 활동에 의해 생성되며, 이것이 인지의 신경생물학적 뿌리를 이룬다고 상정한다. 경험되는 실재는 이러한 내적 진동이 만들어내는 일종의 가상 실재이며, 이 진동의 주된 기능은 예측을 가능하게 하는 것이라고 본다.",
-    "associated_thinkers": ["Rodolfo Llinas"],
-    "category": "유물론 이론",
-    "subcategory": "전자기장",
+    "associated_thinkers": [
+      "Rodolfo Llinas"
+    ],
+    "category": "유물론",
+    "subcategory": "전자기적",
     "core_identity_tagline": "‘신경 진동과 예측으로서의 의식’",
     "classification_tags": [
       "neurobiology",
@@ -53,38 +55,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 진동 동기성과 예측이라는 계산적 기능에 뿌리를 둔다면, 물리주의 입장에 따라 이러한 동역학은 원리적으로 정교한 인공 체계에서 실현되거나 시뮬레이션될 수 있다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식은 뇌 안의 생물학적 신경 메커니즘(진동)에 의해 생성되는 상태로 정의되므로, 생물학적 기질의 죽음 이후의 존속은 배제된다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "진화한 신경생물학적 메커니즘으로서 의식의 목적은 주로 기능적(예측과 생존)이며, 이는 궁극적인 우주적 의미를 거부하는 축소적 유물론 견해와 일관된다."
     },
     "virtual_immortality": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "의식이 전적으로 진동하는 신경 활동의 패턴으로 설명된다면, 이러한 동적 패턴을 비생물학적 매체에 완벽히 복제하거나 업로드하는 것은 일인칭 자아성을 보존할 것이며 따라서 가상적 불멸이 가능해진다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Electromagnetic Field Theories",
+        "name": "Electromagnetic",
         "relationship": "동일 범주/중첩"
       },
       {
-        "name": "Predictive Processing Theories",
+        "name": "Predictive Theories (Top-Down)",
         "relationship": "중첩/확장"
       },
       {
-        "name": "Recurrent Processing Theory (Lamme)",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "중첩"
       },
       {
-        "name": "Dendritic Integration Theory (Aru et al.)",
+        "name": "Dendritic Integration Theory",
         "relationship": "중첩"
       }
     ],

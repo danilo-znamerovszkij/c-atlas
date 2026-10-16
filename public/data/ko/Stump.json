@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "스텀프의 토마스주의 이원론",
     "summary": "이 이론은 토마스 아퀴나스의 인간 영혼론을 비데카르트적 형태의 이원론으로 제시한다. 영혼은 본질적으로 비물질적이거나 배열적인 요소이면서도 물질적 구성 요소 안에서 실현된다고 상정하며, 이를 통해 인간의 물질성과 신체적 죽음 이후 정신의 존속을 조화시킨다.",
-    "associated_thinkers": ["Eleonore Stump", "St. Thomas Aquinas"],
+    "associated_thinkers": [
+      "Eleonore Stump",
+      "St. Thomas Aquinas"
+    ],
     "category": "이원론",
     "subcategory": "철학적",
     "core_identity_tagline": "물질 안에서 실현되는 비데카르트적 비물질 영혼",
-    "classification_tags": ["dualism", "thomism", "non-Cartesian", "soul"]
+    "classification_tags": [
+      "dualism",
+      "thomism",
+      "non-Cartesian",
+      "soul"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "의식, 곧 인간의 영혼/정신은 본질적으로 비물질적이거나 배열적인 실체이며, 물질적 구성 요소(신체) 안에서 실현된다.",
@@ -45,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "의식이 생물학적 물질 안에서 실현되는 본질적으로 비물질적이거나 배열적인 영혼과 결부되어 있다면, 오직 물리적 요소로만 구성된 인공 체계는 영혼을 산출하는 심리물리 법칙이 비생물학적 기질에도 적용될 수 있지 않은 한 이 필수적인 비물리적 구성 요소를 결여할 것이다."
     },
     "survival_beyond_death": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "이 이론은 신체가 해체된 이후에도 인격의 의식이 자리한 정신/영혼이 존속함을 수용하도록 명시적으로 구성되어 있다."
     },
     "meaning_and_purpose": {
-      "stance": "우주적/신학적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "이 틀은 기독교 스콜라 철학에 뿌리를 두고 있으며, 창조와 정신의 신께로의 귀환에 관한 성서적 교리를 통합함으로써 궁극적 의미와 목적을 제공한다."
     },
     "virtual_immortality": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "비물리적 실체(영혼)를 요구하는 실체 이원론의 변형으로서, (가상적 불멸에서와 같이) 물리적 구조만을 복제하는 것은 자아의 연속성에 필수적인 비물리적 요소를 누락시킬 것이다."
     }
   },
@@ -68,11 +76,11 @@
         "relationship": "구별(속성 이원론은 실체 이원론을 부정하는 반면, 토마스주의 이원론은 실체와 물질적 환원주의 사이의 전통적 이분법을 넘어서고자 한다.)"
       },
       {
-        "name": "Substance Dualism (Cartesian)",
+        "name": "Dualism",
         "relationship": "비판"
       },
       {
-        "name": "Jaworski’s Hylomorphism",
+        "name": "Jaworski's Hylomorphism",
         "relationship": "중첩"
       }
     ],

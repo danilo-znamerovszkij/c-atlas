@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "로벨리의 관계적 물리학",
     "summary": "이 이론은 의식이 물리학, 특히 양자역학과 일반상대성이론의 철저히 관계적인 측면에 의해 충분히 설명된다고 상정함으로써 어려운 문제에 대한 축소적 관점을 취한다. 물리학을 관점적인 것으로—즉 존재자들이 서로에게 어떻게 현시되는지를 기술하는 것으로—올바르게 이해하면, 물리적 세계와 주관적 경험 사이에 있다고 여겨지는 불일치는 해소된다.",
-    "associated_thinkers": ["Carlo Rovelli"],
-    "category": "양자 이론",
+    "associated_thinkers": [
+      "Carlo Rovelli"
+    ],
+    "category": "양자",
     "subcategory": "관계 물리학",
     "core_identity_tagline": "'관점적 실재로서의 의식'",
     "classification_tags": [
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식(사고)이 관계적으로 기술되는 복잡한 물리계의 상호작용으로 온전히 설명된다면, 이러한 물리 법칙에 따라 작동하는 충분히 복잡한 인공 시스템은 의식을 획득할 것이다."
     },
     "survival_beyond_death": {
-      "stance": "아니다",
+      "stance": "No",
       "rationale": "이 이론은 의식이 양자역학에서 특별하고 긴밀한 역할을 한다는 주장을 명시적으로 거부하고 사고를 복잡한 물리계로 설명한다. 따라서 의식은 물리계(예: 뇌)의 존재에 결부되며, 그 체계는 죽음과 함께 해체된다."
     },
     "meaning_and_purpose": {
-      "stance": "가능성 낮음/인간적 차원에 한정됨",
+      "stance": "Humanistic only",
       "rationale": "초점은 실재가 관계를 통해 어떻게 구조화되는지를 기술하는 데 있다. 복잡한 창발적 체계(인간)는 의미를 창출할 수 있지만, 관계적 물리학이 기술하는 근본적 물리 실재는 우주적 목적론이나 궁극적 목적을 제공하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 물리계의 구조와 상호작용으로 설명되므로, 기술이 충분히 발전한다면 이러한 복잡한 관계적 물리 상태를 인공적 기반에서 정밀하게 복제하거나 시뮬레이션함으로써 가상 불멸을 달성할 수 있을 것이다."
     }
   },
@@ -73,11 +75,11 @@
         "relationship": "양립 가능 ('매우 온건한 형태'를 지지함)"
       },
       {
-        "name": "Stapp’s Collapsing the Wave Function via Asking “Questions”",
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
         "relationship": "비판 (로벨리는 의식이 양자역학의 붕괴에서 특별한 역할을 한다는 주장에 반대한다.)"
       },
       {
-        "name": "Musser’s 'Is It Really So Hard?'",
+        "name": "Musser's \"Is It Really So Hard?\"",
         "relationship": "영향 (무서는 로벨리의 관계적 접근을 긍정적으로 인용한다.)"
       }
     ],

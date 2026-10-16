@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "El Monismo de Doble Aspecto de Polkinghorne",
     "summary": "Esta teoría postula que la materia y la mente son aspectos complementarios de un único ser unitario (naturaleza psicosomática), rechazando el dualismo clásico y el materialismo. La mente, o alma, se concibe como un patrón portador de información organizado por el cerebro físico. Esta visión se enmarca a menudo en un contexto teológico cristiano para dar cabida a la continuidad de la identidad personal necesaria para la resurrección de los muertos.",
-    "associated_thinkers": ["John Polkinghorne"],
-    "category": "Monismos",
-    "subcategory": "Monismo de Doble Aspecto",
+    "associated_thinkers": [
+      "John Polkinghorne"
+    ],
+    "category": "Monismo",
+    "subcategory": "Monismo de doble aspecto",
     "core_identity_tagline": "Mente y Materia como Aspectos Complementarios de un Ser Unitario",
     "classification_tags": [
       "psychosomatic",
@@ -52,34 +54,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "Si la conciencia es principalmente un patrón emergente de información organizado por un sistema complejo, los sistemas artificiales de suficiente complejidad y organización deberían, en teoría, poder albergar este patrón y volverse conscientes."
     },
     "survival_beyond_death": {
-      "stance": "Sí (condicional/teológico)",
+      "stance": "Conditional",
       "rationale": "La esencia de la persona (el patrón único portador de información/alma) es mantenida por la 'memoria divina' tras la muerte y será reconstituida en una nueva forma de materia en la resurrección, garantizando la continuidad."
     },
     "meaning_and_purpose": {
-      "stance": "Cósmico y teológico",
+      "stance": "Cosmic/Ultimate",
       "rationale": "La teoría está motivada por encontrar una explicación coherente de la existencia humana dentro de una realidad que permite la resurrección, lo que implica un propósito y valor últimos ligados a la intención y el destino divinos."
     },
     "virtual_immortality": {
-      "stance": "Sí (condicional)",
+      "stance": "Conditional",
       "rationale": "La inmortalidad virtual es teóricamente posible porque el yo esencial se define como un patrón portador de información. Cargar este patrón en medios no biológicos preservaría el componente de identidad necesario, siempre que la réplica sea perfecta y el patrón sea el único elemento necesario para que 'yo' persista."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Conciencia Evolutiva de Teilhard de Chardin",
+        "name": "Teilhard de Chardin's Evolving Consciousness",
         "relationship": "Solapamiento (comparte el monismo de doble aspecto y el marco evolutivo/teleológico)"
       },
       {
-        "name": "Monismo de Doble Aspecto de Atmanspacher",
+        "name": "Atmanspacher's Dual-Aspect Monism",
         "relationship": "Compatible (comparte el compromiso con una visión de doble aspecto de la realidad unitaria)"
       },
       {
-        "name": "Materialismo Cristiano y la Resurrección de los Muertos de Van Inwagen",
+        "name": "van Inwagen's Christian Materialism and Resurrection of the Dead",
         "relationship": "Solapamiento (aborda la necesidad teológica de continuidad de la identidad personal a pesar de la disolución física)"
       }
     ],
@@ -92,8 +94,14 @@
         "title_with_names": "The God of Hope and the End of the World",
         "year": 2003
       },
-      { "title_with_names": "Faith, Science and Understanding", "year": 2001 },
-      { "title_with_names": "All things new (Closer To Truth)", "year": 2007 }
+      {
+        "title_with_names": "Faith, Science and Understanding",
+        "year": 2001
+      },
+      {
+        "title_with_names": "All things new (Closer To Truth)",
+        "year": 2007
+      }
     ]
   }
 }

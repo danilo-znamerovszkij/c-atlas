@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Teoria del campo sintergico/neuronale di Grinberg",
     "summary": "Questa teoria psicofisiologica sostiene che il cervello crei un «campo neuronale» interno ipercomplesso risultante dall'attivazione e dall'unificazione di tutti i suoi elementi neuronali. La coscienza è strettamente connessa a questo campo, che produce una distorsione nella struttura di base dello spazio-tempo; i nostri percetti sono la percezione di questa distorsione.",
-    "associated_thinkers": ["Jacobo Grinberg-Zylberbaum"],
-    "category": "Stati Anomali e Alterati",
-    "subcategory": "Teoria del Campo",
+    "associated_thinkers": [
+      "Jacobo Grinberg-Zylberbaum"
+    ],
+    "category": "Anomalo",
+    "subcategory": "Teoria dei campi",
     "core_identity_tagline": "La coscienza come distorsione nella struttura di base dello spazio-tempo",
     "classification_tags": [
       "psychophysiological",
@@ -54,19 +56,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Incerta",
+      "stance": "Uncertain",
       "rationale": "La teoria richiede una struttura «complessa quanto il cervello» per attivare il campo e si basa su interazioni energetiche non locali che non è garantito siano replicabili nei sistemi artificiali."
     },
     "survival_beyond_death": {
-      "stance": "Possibile",
+      "stance": "Possible",
       "rationale": "Si afferma che la coscienza e l'esperienza esistano in una dimensione diversa dall'attività fisiologica cerebrale localizzata. L'inclusione di effetti quantistici e interazioni non locali suggerisce un potenziale di persistenza al di fuori del corpo fisico."
     },
     "meaning_and_purpose": {
-      "stance": "Cosmico/Filosofico",
+      "stance": "Cosmic/Ultimate",
       "rationale": "La teoria collega la coscienza alla struttura fondamentale della realtà, considerando il cervello come convertitore di una matrice energetica primaria in esperienza, il che suggerisce un profondo significato cosmico e un'integrazione con l'esistenza stessa."
     },
     "virtual_immortality": {
-      "stance": "Improbabile",
+      "stance": "Unlikely",
       "rationale": "L'immortalità virtuale richiederebbe la duplicazione tecnologica della precisa trasformazione energetica e dell'interazione del campo neuronale con l'organizzazione sintergica dello spazio, cosa altamente improbabile a causa dei presupposti fisici non locali e non convenzionali della teoria."
     }
   },
@@ -80,7 +82,10 @@
         "name": "Quantum Theories of Consciousness",
         "relationship": "Compatibile"
       },
-      { "name": "Idealisms", "relationship": "Compatibile" }
+      {
+        "name": "Idealism",
+        "relationship": "Compatibile"
+      }
     ],
     "sources_and_references": [
       {

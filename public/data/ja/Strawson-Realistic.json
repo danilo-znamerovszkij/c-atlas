@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "ストローソンの実在論的一元論と真正唯物論",
     "summary": "この理論は、意識ないし現象的経験が全面的に物理的であり、われわれの存在についてもっとも確実な事実であると主張する。それゆえ「真正の」物理主義ないし唯物論は汎心論を含意せざるをえず、すなわち現象的性質はすべての根源的な物理的素材（エネルギー／物質）に内在的であって根源的に創発するものではない、ということになる。この見解は、拡張された実在論的な物理的存在論の内に主観的経験を直接に基礎づけることを目指す。",
-    "associated_thinkers": ["Galen Strawson"],
+    "associated_thinkers": [
+      "Galen Strawson"
+    ],
     "category": "一元論",
     "subcategory": "実在論的一元論",
     "core_identity_tagline": "意識は全面的に物理的かつ経験的である",
@@ -53,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "もし意識が根源的な物理的存在者の内在的性質（汎心論）であるならば、あらゆるものが同じ経験的素材から成るのだから、高度な技術は人工システムにおいてこれらの微視的心的側面を操作して複雑な内的な気づきを生成できるはずである。"
     },
     "survival_beyond_death": {
-      "stance": "ありそうにない（きわめて低い見込み）",
+      "stance": "Unlikely",
       "rationale": "一元論ではあるものの、この枠組みは明示的に「真正唯物論的」で根本的に物理主義的であるため、純粋な唯物論的理論と同様に、物理的身体の解体を超えた存続はありそうにない。"
     },
     "meaning_and_purpose": {
-      "stance": "おそらく",
+      "stance": "Uncertain",
       "rationale": "根源的で内在的な経験を組み込む一元論の一形態として、これはしばしば消去的唯物論に伴うニヒリスティックな結論を回避し、究極的な意味や目的が実在そのものの本性に結びつく余地を残す。"
     },
     "virtual_immortality": {
-      "stance": "おそらく可能",
+      "stance": "Likely",
       "rationale": "もし意識が物理的組織化の通常かつ内在的な性質であるならば、非生物学的な基盤において物理的状態を完全に複製しうる高度な超技術は、対応する意識状態をも複製できるはずである。"
     }
   },
@@ -80,11 +82,11 @@
         "relationship": "重なり"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "批判"
       },
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "拡張"
       }
     ],

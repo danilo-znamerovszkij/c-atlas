@@ -9,7 +9,7 @@
       "Rudolfo Llinas"
     ],
     "category": "유물론",
-    "subcategory": "항상성적·정동적 이론",
+    "subcategory": "항상성",
     "core_identity_tagline": "능동적 예측 종합으로서의 의식",
     "classification_tags": [
       "prediction",
@@ -57,19 +57,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 주로 지각을 종합하기 위해 예측을 생성하고 검증하는 계산적 기능으로 이해된다면, 이러한 기능을 수행하는 충분히 복잡한 인공지능 시스템도 의식을 갖게 될 것이다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "이 이론은 의식을 뇌의 진화된 생물학적 과정에 근거 짓는다. 의식은 물리적 기질에 결부되어 있으므로 생물학적 죽음과 함께 소멸한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적/진화적",
+      "stance": "Humanistic only",
       "rationale": "의식은 생존과 적응이라는 근본적인 생물학적 문제를 해결하기 위해 진화했으며, 적합도를 극대화하는 데서 목적을 얻지만 우주적 의미를 수반하지는 않는다."
     },
     "virtual_immortality": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "이 이론의 계산적·기능적 성격은 자아를 구성하는 예측적 조직화가 원리상 디지털화되어 비생물학적 기질에서 재현됨으로써 기능적 지속이 가능함을 시사한다."
     }
   },
@@ -80,15 +80,15 @@
         "relationship": "토대"
       },
       {
-        "name": "Seth’s “Beast Machine” Theory",
+        "name": "Seth's \"Beast Machine\" Theory",
         "relationship": "확장"
       },
       {
-        "name": "Lamme’s Recurrent Processing Theory",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "중첩"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "대조"
       }
     ],

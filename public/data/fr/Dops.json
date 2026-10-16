@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "Cadre théorique du DOPS",
     "summary": "Ce cadre, appuyé par des recherches empiriques sur des phénomènes tels que les EMI et la réincarnation, défend un modèle de transmission ou de filtre de la conscience, où le cerveau agit comme une interface plutôt qu'un producteur de conscience. Il remet systématiquement en question le physicalisme conventionnel en soutenant que la conscience est indépendante de l'organisme et potentiellement fondamentale à la réalité.",
-    "associated_thinkers": ["Ed Kelly", "Ian Stevenson", "Bruce Greyson"],
-    "category": "États anormaux et altérés",
-    "subcategory": "Défi de la recherche au physicalisme/matérialisme",
+    "associated_thinkers": [
+      "Ed Kelly",
+      "Ian Stevenson",
+      "Bruce Greyson"
+    ],
+    "category": "Anomal",
+    "subcategory": "Défi empirique au physicalisme/matérialisme",
     "core_identity_tagline": "La conscience comme existence universelle filtrée",
     "classification_tags": [
       "survival",
@@ -54,40 +58,58 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Perspectives peu favorables",
+      "stance": "Unlikely",
       "rationale": "Le cadre suggère que la conscience est irréductible et liée à une réalité fondamentale et universelle (idéalisme/panenthéisme), impliquant ainsi que de simples systèmes artificiels/computationnels sont peu susceptibles de la posséder, ce qui conduit à des perspectives peu favorables pour la conscience de l'AGI."
     },
     "survival_beyond_death": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "La théorie est motivée par des preuves empiriques (EMI, cas de réincarnation) soutenant que la conscience survit à la mort corporelle, nécessitant ainsi un modèle de production non matériel."
     },
     "meaning_and_purpose": {
-      "stance": "Cosmique/Ultime",
+      "stance": "Cosmic/Ultimate",
       "rationale": "La tendance métaphysique centrale vers l'idéalisme/panenthéisme suggère que la conscience est ancrée dans une conscience suprême qui fournit un sens, une finalité et une valeur ultimes."
     },
     "virtual_immortality": {
-      "stance": "Non (non nécessaire)",
+      "stance": "Not needed",
       "rationale": "Puisque la conscience est non physique et potentiellement continue/survivant à la mort, la duplication (immortalité virtuelle) échouerait probablement à capturer le soi original à la première personne, ou serait sans objet si une survie authentique se produit."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Modèle de transmission de Myers/James",
+        "name": "Myers/James Transmission Model",
         "relationship": "Fondement"
       },
-      { "name": "Idéalisme/Panenthéisme", "relationship": "Compatible/Tendance" },
       {
-        "name": "Dualisme interactionniste",
+        "name": "Idealism/Panentheism",
+        "relationship": "Compatible/Tendance"
+      },
+      {
+        "name": "Interactive Dualism",
         "relationship": "Cadre conceptuel alternatif"
       },
-      { "name": "Théories matérialistes (général)", "relationship": "Critique" }
+      {
+        "name": "Materialism",
+        "relationship": "Critique"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Irreducible Mind", "year": 2007 },
-      { "title_with_names": "Beyond Physicalism", "year": 2015 },
-      { "title_with_names": "Consciousness Unbound", "year": 2021 },
-      { "title_with_names": "The Continuity of Consciousness", "year": 2022 }
+      {
+        "title_with_names": "Irreducible Mind",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Beyond Physicalism",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Consciousness Unbound",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Continuity of Consciousness",
+        "year": 2022
+      }
     ]
   }
 }

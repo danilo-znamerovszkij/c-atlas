@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "সেথের 'বীস্ট মেশিন' তত্ত্ব",
     "summary": "এই তত্ত্ব প্রস্তাব করে যে চেতন অভিজ্ঞতা, যার মধ্যে জগৎ ও স্বের প্রত্যক্ষণ অন্তর্ভুক্ত, মস্তিষ্ক-ভিত্তিক প্রত্যক্ষণমূলক পূর্বাভাসের রূপ, যাকে রূপকভাবে 'নিয়ন্ত্রিত অলীক দর্শন' বলা হয়। এটি চেতনার যান্ত্রিকতাকে বেঁচে থাকার জন্য শরীরের দৈহিক ক্রিয়া নিয়ন্ত্রণ করার মৌলিক জৈবিক প্রয়োজনীয়তায় ভিত্তিস্থাপিত করে।",
-    "associated_thinkers": ["Anil Seth"],
-    "category": "বস্তুবাদ তত্ত্বসমূহ",
-    "subcategory": "সমস্থিতিমূলক ও অনুভূতিমূলক",
+    "associated_thinkers": [
+      "Anil Seth"
+    ],
+    "category": "বস্তুবাদ",
+    "subcategory": "সমস্থিতিমূলক",
     "core_identity_tagline": "পূর্বাভাসের উপর ভিত্তি করে নিয়ন্ত্রিত অলীক দর্শন হিসেবে চেতনা",
     "classification_tags": [
       "neurobiology",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "সম্ভাব্য",
+      "stance": "Likely",
       "rationale": "গণনামূলক ও তথ্য-প্রক্রিয়াকরণ যান্ত্রিকতার (প্রত্যক্ষণমূলক পূর্বাভাস) উপর কেন্দ্রীভূত একটি বস্তুবাদী তত্ত্ব হিসেবে, এমন জটিল যান্ত্রিকতার প্রতিরূপ তৈরি করা AI ব্যবস্থাগুলি চেতনা অর্জন করতে সক্ষম হওয়া উচিত।"
     },
     "survival_beyond_death": {
-      "stance": "না",
+      "stance": "No",
       "rationale": "চেতনা জৈবিক মস্তিষ্ক ও জটিল, ভৌতভাবে বাস্তবায়িত পূর্বাভাসমূলক যন্ত্রের উৎপাদন। মস্তিষ্কের মৃত্যু ব্যক্তিগত চেতনার অপরিবর্তনীয় ও স্থায়ী অস্তিত্বহীনতার দিকে পরিচালিত করে।"
     },
     "meaning_and_purpose": {
-      "stance": "কেবল মানবতাবাদী",
+      "stance": "Humanistic only",
       "rationale": "একটি বস্তুবাদী তত্ত্ব হিসেবে শ্রেণিভুক্ত, এটি কোনো চূড়ান্ত বা মহাজাগতিক অর্থ বা উদ্দেশ্যকে ইঙ্গিত করে না, যদিও এটি ব্যক্তিগত কর্তৃত্ব ও অভিজ্ঞতা থেকে প্রাপ্ত মানব-সৃষ্ট অর্থ ও মূল্যকে সমর্থন করে।"
     },
     "virtual_immortality": {
-      "stance": "হ্যাঁ",
+      "stance": "Yes",
       "rationale": "যদি চেতনা মস্তিষ্কের গণনামূলক প্রক্রিয়া দ্বারা সম্পূর্ণভাবে ব্যাখ্যাযোগ্য হয়, তবে নীতিগতভাবে প্রথম-পুরুষের মানসিক স্বকে প্রতিরূপ করা যেতে পারে এবং একটি অজৈব আধারে বাস্তবায়িত করা যেতে পারে, যা ভার্চুয়াল অমরত্বকে সক্ষম করে।"
     }
   },
@@ -73,15 +75,15 @@
         "relationship": "সমাপতন"
       },
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "সামঞ্জস্যপূর্ণ"
       },
       {
-        "name": "T. Clark’s Content Hypothesis",
+        "name": "T. Clark's Content Hypothesis",
         "relationship": "সামঞ্জস্যপূর্ণ"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "সামঞ্জস্যপূর্ণ"
       }
     ],

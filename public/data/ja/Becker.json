@@ -1,0 +1,120 @@
+{
+  "id_and_class": {
+    "theory_title": "ベッカーのアナログ身体電気説",
+    "summary": "ロバート・O・ベッカーは、意識は、神経の一部に沿ってグリア細胞とシュワン細胞が担う、遅く連続的な直流（DC）電気系に依存すると提案した。これは神経細胞の速い棘（スパイク）符号と並存する。彼が最初に治癒と再生を調節するものとして見いだしたこのアナログ系は、意識の水準を定め、感覚入力を一つの経験へと結びつけることによって、その内容を形づくるかもしれない。",
+    "associated_thinkers": [
+      "Robert O. Becker"
+    ],
+    "category": "唯物論",
+    "subcategory": "電磁的",
+    "core_identity_tagline": "身体のアナログ直流場によって形づくられる意識",
+    "classification_tags": [
+      "bioelectricity",
+      "direct current",
+      "glia",
+      "regeneration",
+      "electromagnetic fields"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、神経系の非神経細胞性の支持組織における、空間的に組織された直流電気活動に、因果的に、そしておそらく構成的に依存する。ベッカーは、意識が単に電磁場であるとは主張しなかった。",
+    "ontological_status": "物理主義（生体電気的、非還元的）",
+    "mind_body_relationship": "心は、身体における二つの相互作用する電気的様態に依存する。すなわち、デジタルな神経インパルスと、大規模な神経細胞集団の興奮性と協調を調整するアナログ的な直流の背景である。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（経験は、生物の物理的な生体電気的組織から生じる。ベッカーは、なぜそれが何かを感じさせるべきなのかについては説明を与えなかった）",
+    "subjectivity_and_intentionality": "ベッカーは、神経周囲電流の空間的変動が、決定、感情、内言、その他の心的出来事に関与すると提案した。",
+    "qualia_account": "分化した電気的パターンは、経験されるものに寄与するかもしれないが、ベッカーは特定の電気的配置を特定のクオリアへと対応させることはなかった。",
+    "ontological_commitments": "ニューロン、シュワン細胞とグリア細胞、内因性の直流電位、そして提案された半導体的な神経周囲制御網。",
+    "epistemic_access": "直流電位と脳波（EEG）の計測を通じて、また、行動と麻酔の状態を追跡しながら、印加された直流電場や磁場によって電流を乱す実験を通じて。",
+    "constituents_and_structure": "混成的なシステム。離散的信号のための速いデジタルなスパイク符号と、全体的な制御と統合のために生物全体にわたる、遅いアナログの直流網。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "意識の水準（覚醒、睡眠、麻酔、催眠）；経験の統一；おそらく感情や内言などの内容",
+    "distinctive_mechanism_or_principle": "シュワン細胞とグリア細胞の神経周囲経路に沿って流れる遅い直流電流が、アナログ的で生体全体にわたる制御を与え、ニューロンの感受性を定め、活動を統一された状態へと結びつける。",
+    "dynamics_of_emergence": "全体的な直流組織の変化が、脳を覚醒、睡眠、麻酔、そして変性した痛みの状態のあいだで切り替える。より細かな変動は、瞬間ごとの内容を変えるかもしれない。",
+    "location_and_distribution": "中枢神経系と末梢神経系の支持細胞に沿って、脳全体と身体全体にわたる。ベッカーは、ヒトにおける後頭前頭方向の直流変化を報告している。",
+    "causation_and_functional_role": "直流系は、ニューロンの興奮性、覚醒、痛みを調節する。ベッカーのより広い理論では、それはまた、成長、治癒、再生を調整する。",
+    "integration_or_binding": "連続的な空間的電圧勾配は、統一された物理的媒体を与え、それが別々の感覚入力を一つの経験へと結びつけることができる。離散的なスパイクだけではそれはできない。",
+    "information_flow_or_representation": "神経インパルスは離散的な感覚と運動のメッセージを運ぶ。遅い直流電位は、パターンのレベルの情報を運ぶアナログ的な背景を形成する。",
+    "evolutionary_account": "生体電気的な組織は、成長と修復のための古い統合的制御系であり、進化はそれを後に神経系の調節と心のために動員した。",
+    "core_claims_and_evidence": [
+      "サンショウウオにおいて、麻酔が深まるにつれて表面の直流電位はゼロに向かって縮小し、反転しうる。",
+      "内因性の電流に逆らって加えられた弱い直流は無反応と、デルタ波優位の脳波を生み出し、逆方向の電流は化学的麻酔を部分的に打ち消した。",
+      "電流を乱すように向けられた強い磁場は、麻酔に似た行動と脳波の変化を生み出した。",
+      "フリードマン、ベッカー、バックマン（1962）は、催眠による痛みの軽減の間に、局所的な直流変化を見いだした。",
+      "現代の発生生体電気学（レヴィンら）は、内因性の電圧と電場が再生を調節することを確認しているが、ベッカーの特定の神経周囲機構については確認していない。"
+    ],
+    "basis_of_belief_or_evidence_type": "経験的なもの（動物と人間の生体電気実験）であり、推論によって意識へと拡張されている。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "経験的に検証可能",
+    "known_empirical_interventions_or_tests": "麻酔下のサンショウウオにおける直流電位の記録；印加された直流と磁場による摂動；ヒトにおける後頭前頭方向の直流記録；催眠鎮痛中の直流の測定。",
+    "criticisms_and_tensions": "ベッカーの実験は、麻酔、脳波の状態、反応性、痛みの報告を代理指標として用いたが、これらは現象的意識を覚醒、興奮性、注意、報告可能性から区別しない。彼の神経周囲の半導体機構は確認されていない。",
+    "open_questions_and_limitations": "ベッカーは、経験に必要十分な物理的条件を特定せず、電気的パターンをクオリアへと対応させず、そうした過程がなぜ主観的な性格をもつのかを説明しなかった。",
+    "ontological_coherence": "初期の生体電気的物理主義として、また後の電磁場理論の先駆として首尾一貫している。ただし、経験を場のパターンと同一視するところまでは進んでいない。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "ここでの意識は、生きた組織における生物全体にわたるアナログ的な直流系に依存する。デジタル計算機にはそれがない。"
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "経験は生きた身体の生体電気的組織に依存するため、その組織が機能しなくなると経験も終わる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "シミュレーションは、この見解が意識に必要とみなす物理的な直流場を再現しないであろう。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Pockett's Conscious and Non-Conscious Patterns",
+        "relationship": "拡張"
+      },
+      {
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
+        "relationship": "両立可能"
+      },
+      {
+        "name": "Levin's Technological Approach to Mind Everywhere",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Miller’s Brain Waves’ Analog Organization of Cortex",
+        "relationship": "両立可能"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Body Electric: Electromagnetism and the Foundation of Life, Robert O. Becker and G. Selden",
+        "year": 1985
+      },
+      {
+        "title_with_names": "Cross Currents, Robert O. Becker",
+        "year": 1990
+      },
+      {
+        "title_with_names": "The bioelectric field pattern in the salamander and its simulation by an electronic analog, Robert O. Becker",
+        "year": 1960
+      },
+      {
+        "title_with_names": "Search for evidence of axial current flow in peripheral nerves of salamander, Robert O. Becker",
+        "year": 1961
+      },
+      {
+        "title_with_names": "The direct current control system: A link between environment and organism, Robert O. Becker, C. H. Bachman and H. Friedman",
+        "year": 1962
+      },
+      {
+        "title_with_names": "Direct current potentials in hypnoanalgesia, H. Friedman, Robert O. Becker and C. H. Bachman",
+        "year": 1962
+      }
+    ]
+  }
+}

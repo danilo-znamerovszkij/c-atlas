@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Representación Neuronal, Vinculación, Coherencia y Competencia de Thagard",
     "summary": "Esta teoría atribuye las experiencias conscientes a las interacciones de cuatro mecanismos cerebrales empíricamente plausibles: representación neuronal, vinculación, coherencia y competencia. Sostiene que la conciencia surge de estas interacciones a lo largo del cerebro, ofreciendo una explicación con base científica para fenómenos conscientes complejos como los sueños, el humor y la autoconciencia.",
-    "associated_thinkers": ["Paul Thagard"],
-    "category": "Materialism",
-    "subcategory": "Representational",
+    "associated_thinkers": [
+      "Paul Thagard"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Orden superior",
     "core_identity_tagline": "‘La Conciencia Construida por Mecanismos Neuronales’",
     "classification_tags": [
       "neuroscience",
@@ -52,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probable",
+      "stance": "Likely",
       "rationale": "La teoría sugiere que, si bien las computadoras actuales no son conscientes, los nuevos modelos de IA generativa cuentan con mecanismos similares a los humanos, lo que podría permitir cierto grado de conciencia, especialmente si los cuatro mecanismos cerebrales centrales pueden modelarse o replicarse computacionalmente."
     },
     "survival_beyond_death": {
@@ -60,26 +62,26 @@
       "rationale": "Como Teoría Materialista, la conciencia depende enteramente del cerebro biológico; por lo tanto, la muerte del cerebro provoca la inexistencia permanente de la persona y la conciencia."
     },
     "meaning_and_purpose": {
-      "stance": "Solo humanista",
+      "stance": "Humanistic only",
       "rationale": "Como Teoría Materialista, se adhiere a una explicación fisicalista que en general excluye el sentido o propósito cósmico último, reconociendo solo el sentido y el valor creados por los propios seres humanos."
     },
     "virtual_immortality": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "Si la Teoría Materialista explica la conciencia enteramente mediante mecanismos físicos (representación neuronal, vinculación, coherencia, competencia), entonces el yo mental en primera persona es subible y la inmortalidad virtual es alcanzable mediante tecnología avanzada capaz de duplicar esos procesos físicos."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Representational Theories",
+        "name": "First-Order",
         "relationship": "Extensión"
       },
       {
-        "name": "Higher-Order Theories",
+        "name": "Higher-Order",
         "relationship": "Compatible"
       },
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "Compatible"
       }
     ],

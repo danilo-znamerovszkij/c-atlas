@@ -2,9 +2,13 @@
   "id_and_class": {
     "theory_title": "نظرية هوية العقل والدماغ",
     "summary": "تفترض هذه النظرية الفلسفية الكلاسيكية للوعي أن الحالات أو الأحداث أو العمليات الذهنية مطابقة على نحو صارم لحالات أو أحداث أو عمليات محددة تجري في الدماغ. وهي تعمل نموذجًا للمادية بادّعائها أن الوعي فيزيائي بالكامل.",
-    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "associated_thinkers": [
+      "J.J.C. Smart",
+      "U.T. Place",
+      "Herbert Feigl"
+    ],
     "category": "المادية",
-    "subcategory": "الفلسفية",
+    "subcategory": "فلسفية",
     "core_identity_tagline": "الحالات الذهنية هي حالات دماغية",
     "classification_tags": [
       "identity",
@@ -49,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "لمّا كانت نظرية هوية العقل والدماغ تؤكّد أن الوعي قابل للاختزال إلى عمليات فيزيائية، فإنه إذا أمكن إعادة إنتاج تلك العمليات الفيزيائية المحددة في ركيزة اصطناعية غير بيولوجية، فإن الوعي يتحقق بالضرورة."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "الوعي مطابق على نحو صارم لسلامة الدماغ الوظيفية والفيزيائية؛ وانحلاله عند الموت يفضي إلى توقف دائم للذات الواعية."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "بوصفها نظرية مادية، لا تستلزم نظرية هوية العقل والدماغ أي معنى أو غاية كونية قصوى. والمعنى والقيمة خصائص منبثقة يخلقها الفاعلون البشر الواعون."
     },
     "virtual_immortality": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "إذا أمكن مسح الوعي (النمط الفيزيائي الدقيق) ومضاعفته/تحميله مضاعفةً تامة في وسط فيزيائي جديد (رقمي أو غيره)، فإن النظرية تضمن بقاء الذات الواعية المطابِقة."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Papineau’s Mind-Brain Identity",
+        "name": "Papineau's Mind-Brain Identity",
         "relationship": "امتداد"
       },
       {
@@ -80,7 +84,7 @@
         "relationship": "نقد"
       },
       {
-        "name": "Tye’s Contingentism",
+        "name": "Tye's Contingentism",
         "relationship": "تأثير"
       }
     ],

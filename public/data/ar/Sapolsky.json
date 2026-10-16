@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "اللاتوافقية الصارمة عند سابولسكي",
     "summary": "يرى هذا المنظور أن الوعي خاصية انبثاقية معقدة تنشأ حصرًا عن آليات بيولوجية، مرتبطة ارتباطًا لا انفكاك منه بالقواعد الفيزيائية للكون. والتزامه الفلسفي الرئيسي هو اللاتوافقية الصارمة، إذ يؤكد الحتمية البيولوجية ويُنكر تبعًا لذلك وجود الإرادة الحرة.",
-    "associated_thinkers": ["Robert Sapolsky"],
+    "associated_thinkers": [
+      "Robert Sapolsky"
+    ],
     "category": "المادية",
-    "subcategory": "علم الأعصاب الحيوي",
+    "subcategory": "عصبية بيولوجية",
     "core_identity_tagline": "«الوعي بوصفه خاصية انبثاقية معقدة»",
     "classification_tags": [
       "determinism",
@@ -52,26 +54,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "إذا كان الوعي خاصية انبثاقية ذات فاعلية سببية تحكمها قواعد فيزيائية للتنظيم البيولوجي المعقد، فينبغي، من حيث المبدأ، أن يكون قابلًا للتحقق في نظام اصطناعي يستنسخ التعقيد اللازم."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "الوعي نتاج محض للدماغ البيولوجي؛ ومن ثمّ فإن موت الدماغ هو النهاية النهائية للوجود الشخصي."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "تعني الطبيعة الحتمية للوعي أنه لا يوجد معنى أو غاية كونيان نهائيان؛ وأي معنى أو قيمة يخلقهما البشر أنفسهم بالضرورة."
     },
     "virtual_immortality": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "بما أن الوعي قابل للاختزال إلى حالات فيزيائية معقدة ومعتمد عليها، فإن استنساخًا تامًا لهذه الحالات في ركيزة غير بيولوجية سيفضي إلى استمرار الذات الذهنية بضمير المتكلم، بما يتسق مع النظريات المادية."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mitchell’s Free Agents",
+        "name": "Mitchell's Free Agents",
         "relationship": "نقد"
       },
       {
@@ -79,7 +81,7 @@
         "relationship": "نقد"
       },
       {
-        "name": "Flanagan’s Constructive Naturalism",
+        "name": "Flanagan's Constructive Naturalism",
         "relationship": "تداخل"
       }
     ],

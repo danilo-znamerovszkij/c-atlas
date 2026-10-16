@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "العقل والكون عند ناغل",
     "summary": "يتحدى هذا المنظور التصوّر المادي النيو-دارويني السائد للطبيعة، محاجًّا بأنه يعجز عن تفسير الطبيعة غير القابلة للاختزال للخبرة الذاتية، أي «كيف يكون الحال» أن يكون المرء كائنًا واعيًا. ويقترح أن العقل ينبغي أن يُدرَج بوصفه مبدأً أساسيًّا للطبيعة نفسها.",
-    "associated_thinkers": ["Thomas Nagel"],
-    "category": "نظريات التحدي",
-    "subcategory": "العقل والكون عند ناغل",
+    "associated_thinkers": [
+      "Thomas Nagel"
+    ],
+    "category": "التحدّي",
+    "subcategory": "\"العقل والكون\" لناجل",
     "core_identity_tagline": "العقل بوصفه مبدأً أساسيًّا للطبيعة",
     "classification_tags": [
       "subjectivity",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "غير مؤكد/مشروط",
+      "stance": "Uncertain",
       "rationale": "بوصفها نقدًا للوظيفية والاختزالية، توحي رؤية ناغل بأن الكيانات الحاسوبية المحضة التي تفتقر إلى خصائص عقلية أساسية هي على الأرجح زومبيات فلسفية؛ وتتوقف النتيجة على ما إذا كان بمقدور الذكاء الاصطناعي المستقبلي تجسيد المبادئ العقلية الكونية المفترَضة."
     },
     "survival_beyond_death": {
-      "stance": "مشروط",
+      "stance": "Conditional",
       "rationale": "إذا كان الوعي خاصية كونية أساسية لا انبثاقًا بيولوجيًّا، فقد يبقى جوهره بعد الانحلال الجسدي (مُستنتَج من ميوله البانسيكية)، وإن كان على الأرجح دون احتفاظ بالهوية الشخصية."
     },
     "meaning_and_purpose": {
-      "stance": "كوني",
+      "stance": "Cosmic/Ultimate",
       "rationale": "يسعى صراحةً إلى إدراج العقل بوصفه مبدأً طبيعيًّا أساسيًّا لتجاوز «انعدام المعنى» الذي تقتضيه المادية، مقترحًا غاية أو قيمة كونية ملازمة غير توحيدية."
     },
     "virtual_immortality": {
-      "stance": "مستبعد/مشروط",
+      "stance": "Unlikely",
       "rationale": "تعني اللاقابلية لاختزال الخبرة الذاتية أن استنساخ الأنماط الفيزيائية/الوظيفية وحده سيفشل في نقل وعي الشخص الأول الأصلي."
     }
   },
@@ -75,15 +77,15 @@
         "relationship": "تأثير"
       },
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
         "relationship": "متوافقة"
       },
       {
-        "name": "Panpsychisms",
+        "name": "Panpsychism",
         "relationship": "امتداد"
       },
       {
-        "name": "Papineau’s Mind-Brain Identity",
+        "name": "Papineau's Mind-Brain Identity",
         "relationship": "نقد"
       }
     ],

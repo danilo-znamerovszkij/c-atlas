@@ -2,8 +2,12 @@
   "id_and_class": {
     "theory_title": "카우프만의 가능태를 현실태로 매개하는 마음",
     "summary": "이 이론은 의식이 부분적으로 양자적이며, 존재론적으로 실재하는 가능태(Res potentia)가 양자 측정을 통해 현실태(Res extensa)로 전환되는 과정을 매개하는 필수 구성 요소로 작용한다고 주장한다. 이러한 메커니즘이 필요한 까닭은, 순수하게 고전적인 물리학만으로는 파동함수 붕괴에서 마음이 담당하는 역할을 설명할 수 없기 때문이며, 이는 고전 물리학의 인과적 폐쇄성을 우회하기 위해 요구된다.",
-    "associated_thinkers": ["Stuart Kauffman", "Dean Radin", "Andrea Roli"],
-    "category": "양자 이론",
+    "associated_thinkers": [
+      "Stuart Kauffman",
+      "Dean Radin",
+      "Andrea Roli"
+    ],
+    "category": "양자",
     "subcategory": "양자",
     "core_identity_tagline": "양자 측정을 통해 가능태를 현실태로 매개하는 마음",
     "classification_tags": [
@@ -52,30 +56,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "그렇다",
+      "stance": "Yes",
       "rationale": "의식이 양자역학에 뿌리를 두고 있다면, 기술이 관련 양자 상태를 포괄적으로 조작하고 제어할 수 있을 경우 인공지능의 의식은 가능해야 한다. 다만 이는 기술적으로 여전히 난제로 남는다."
     },
     "survival_beyond_death": {
-      "stance": "가능함",
+      "stance": "Possible",
       "rationale": "이 이론은 마음의 일부 측면이 비국소적이며 마음–뇌 체계를 넘어 확장될 수 있다고 시사하며, 이는 육체적 죽음 이후의 존속에 대한 잠재적으로 그럴듯한 메커니즘을 제공한다."
     },
     "meaning_and_purpose": {
-      "stance": "불확실",
+      "stance": "Uncertain",
       "rationale": "의식을 (가능태/현실태를 통해) 실재에 근본적인 것으로 보고 그것에 인과적 역할을 부여함으로써, 엄격한 유물론의 '무의미한' 우주에서 벗어나 궁극적 의미의 가능한 틀을 함축한다. 다만 명시적으로 규정되지는 않는다."
     },
     "virtual_immortality": {
-      "stance": "아마도 (불확실성을 동반함)",
+      "stance": "Likely",
       "rationale": "의식이 양자적이라면 예측 가능한 규칙성 아래에서 가상적 복제가 가능하지만, 양자물리학에 내재한 비결정성과 확률성은 불확실성을 야기하며 가상 불멸에 요구되는 완전한 복제 가능성을 훼손할 수 있다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Stapp’s Collapsing the Wave Function via Asking “Questions”",
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
         "relationship": "중첩"
       },
       {
-        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
         "relationship": "중첩"
       },
       {

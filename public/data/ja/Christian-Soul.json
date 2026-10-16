@@ -61,28 +61,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "否(概ね)",
+      "stance": "Unlikely",
       "rationale": "意識が神によって創造あるいは配分される、根本的に別個の非物理的実体(魂)を要するならば、非生物学的な知能はこの必要な構成要素を生成できず、AIの意識は不可能となる。"
     },
     "survival_beyond_death": {
-      "stance": "是",
+      "stance": "Yes",
       "rationale": "魂は「真のあなた」であり、身体から独立に存在し、死後の個別の意識の存続の最も明確なメカニズムを提供し、アブラハムの諸宗教の中核的教義を満たす。"
     },
     "meaning_and_purpose": {
-      "stance": "究極的・宇宙的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "神学的理論として、神の創造・運命・人間存在の霊的本性に結びついた究極的な意味・目的・価値を提供する。"
     },
     "virtual_immortality": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "神経パターンや経路のアップロードは意識の物理的基盤を複製するにすぎない。必要な非物理的実体(魂)は複製物には欠けるため、一人称的な心的自己の保存は不可能となる。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "重なり" },
-      { "name": "Thomistic Dualism", "relationship": "拡張" },
-      { "name": "Non-Reductive Physicalism", "relationship": "批判" },
-      { "name": "Emergent Dualism", "relationship": "変種" }
+      {
+        "name": "Dualism",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Thomistic Dualism",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Non-Reductive",
+        "relationship": "批判"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "変種"
+      }
     ],
     "sources_and_references": [
       {

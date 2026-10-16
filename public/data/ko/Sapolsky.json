@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "사폴스키의 강한 양립불가능론",
     "summary": "이 관점은 의식이 오로지 생물학적 메커니즘으로부터 발생하는 복잡한 창발적 속성이며 우주의 물리적 규칙과 뗄 수 없이 연결되어 있다고 본다. 그 주된 철학적 개입은 강한 양립불가능론으로, 생물학적 결정론을 긍정하고 그 결과로 자유의지의 존재를 부정한다.",
-    "associated_thinkers": ["Robert Sapolsky"],
+    "associated_thinkers": [
+      "Robert Sapolsky"
+    ],
     "category": "유물론",
     "subcategory": "신경생물학적",
     "core_identity_tagline": "‘복잡한 창발적 속성으로서의 의식’",
@@ -52,26 +54,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 복잡한 생물학적 조직의 물리 규칙에 의해 지배되는 인과적으로 능동적인 창발적 속성이라면, 원리적으로 필요한 복잡성을 복제한 인공 체계에서도 달성될 수 있어야 한다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식은 오로지 생물학적 뇌의 산물이므로, 뇌의 죽음은 개인적 존재의 돌이킬 수 없는 종말이다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "의식의 결정론적 본성은 궁극적인 우주적 의미나 목적이 존재하지 않음을 뜻한다. 모든 의미나 가치는 필연적으로 인간 스스로가 만들어낸 것이다."
     },
     "virtual_immortality": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 복잡한 물리적 상태로 환원되고 그에 의존하는 이상, 그러한 상태를 비생물학적 기질에서 완벽히 복제하면 유물론 이론들과 일관되게 일인칭 심적 자아의 연속이 이루어질 것이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mitchell’s Free Agents",
+        "name": "Mitchell's Free Agents",
         "relationship": "비판"
       },
       {
@@ -79,7 +81,7 @@
         "relationship": "비판"
       },
       {
-        "name": "Flanagan’s Constructive Naturalism",
+        "name": "Flanagan's Constructive Naturalism",
         "relationship": "중첩"
       }
     ],

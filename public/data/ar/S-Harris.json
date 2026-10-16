@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "لغز الوعي عند س. هاريس",
     "summary": "يقدّم هذا المنظور، بوصفه تحديًا لا نظريةً معيارية، الوعيَ لغزًا لا يمكن ردمه ولا يمكن حلّه بوسائل فيزيائية محضة. ويجادل هاريس بأن الأوصاف الفيزيائية «خرساء» إزاء الخبرة الذاتية؛ فالشيء الوحيد الشاهد على الإحساس هو الوعي نفسه، مما يُنشئ فجوة تفسيرية جوهرية. ويظل متشائمًا من قدرة العلم على تبديد هذا اللغز.",
-    "associated_thinkers": ["Sam Harris"],
-    "category": "نظريات التحدي",
+    "associated_thinkers": [
+      "Sam Harris"
+    ],
+    "category": "التحدّي",
     "subcategory": "لغز الوعي",
     "core_identity_tagline": "«الوعي بوصفه فجوة لا يمكن ردمها»",
     "classification_tags": [
@@ -50,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "إذا كان الوعي ذاتية غير قابلة للاختزال غائبة عن الأوصاف الفيزيائية، فإن الحوسبة المتقدمة (الذكاء الاصطناعي، وهو تعقيد فيزيائي محض) ستُخفق في توليد إحساس أصيل."
     },
     "survival_beyond_death": {
-      "stance": "لا (مشروط)",
+      "stance": "No",
       "rationale": "بوصفه طبيعانيًا، يتوافق هاريس ضمنًا مع الرأي القائل إن الوعي مرتبط بالكائن الفيزيائي، أي أن انتهاءه يفضي إلى انعدام دائم، رغم لغز طبيعته في حال الحياة."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "لا يستلزم اللغز غاية كونية، لكن هاريس يدعو إلى إيجاد حقائق شخصية عبر الاستبطان، بما يتماشى مع روحانية ومعنى مُكتشَفين ذاتيًا (مُطبَّعين)."
     },
     "virtual_immortality": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "إذا كان الوعي لا يمكن تفسيره بعمليات فيزيائية محضة، فإن استنساخ الركيزة الفيزيائية أو تحميلها سيُخفق في التقاط الذات الذاتية الجوهرية أو إعادة خلقها."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
         "relationship": "تداخل"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "نقد"
       },
       {
-        "name": "Eliminative Materialism/Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "متوافق (بوصفه رفضًا للواقعية الساذجة إزاء التفسير الفيزيائي، وإن كان هاريس لا يزال يؤكد واقعية الوعي)"
       }
     ],

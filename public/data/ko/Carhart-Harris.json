@@ -5,8 +5,8 @@
     "associated_thinkers": [
       "Robin Carhart-Harris"
     ],
-    "category": "유물론 이론",
-    "subcategory": "항상성적·정동적 이론",
+    "category": "유물론",
+    "subcategory": "항상성",
     "core_identity_tagline": "정보적 엔트로피/임계성으로서의 의식",
     "classification_tags": [
       "entropy",
@@ -56,26 +56,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음(조건부)",
+      "stance": "Conditional",
       "rationale": "이 이론은 물리 체계의 측정 가능한 계산적 속성(엔트로피, 정보적 풍부함, 임계성)에 기반한 유물론 모델이므로, 이러한 필요한 동적 속성이 비생물학적 기질에서 구현된다면 인공지능도 의식을 달성할 가능성이 높다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식은 자발적 뇌 활동과 DMN 같은 물리적 뇌의 특정한 역동적 조직화와 활동에 의해 정의되며, 이는 신체적 죽음과 함께 종결됨을 함축한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "의식 상태와 그 상위인지 기능에 대한 유물론적·신경생물학적 설명으로서, 이 이론은 궁극적이고 우주적인 의미나 목적의 비물리적 원천을 도입하거나 요구하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "의식이 (엔트로피와 임계성 같은) 뇌 활동의 특정한 패턴과 동적 매개변수로 전적으로 설명된다면, 이러한 패턴을 비생물학적 매체에서 완벽하게 재현함으로써 일인칭 현상적 자아가 보존되어 가상 불멸이 뒷받침될 것이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "name": "Friston's Free-Energy Principle and Active Inference",
         "relationship": "확장"
       },
       {
@@ -83,7 +83,7 @@
         "relationship": "양립 가능"
       },
       {
-        "name": "Analytic Idealism (Kastrup)",
+        "name": "Kastrup's Analytic Idealism",
         "relationship": "비판"
       }
     ],

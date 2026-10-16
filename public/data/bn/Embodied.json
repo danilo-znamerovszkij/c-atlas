@@ -6,8 +6,8 @@
       "George Lakoff",
       "Mark Johnson"
     ],
-    "category": "বস্তুবাদ তত্ত্ব",
-    "subcategory": "মূর্ত ও সক্রিয়তাবাদী",
+    "category": "বস্তুবাদ",
+    "subcategory": "মূর্ত ও সক্রিয়তামূলক",
     "core_identity_tagline": "মূলগতভাবে দেহায়িত অভিজ্ঞতা রূপে চেতনা",
     "classification_tags": [
       "embodiment",
@@ -54,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "শর্তসাপেক্ষ",
+      "stance": "Conditional",
       "rationale": "চেতনার জন্য যদি নির্দিষ্ট দেহায়ন প্রয়োজন হয়, তবে কৃত্রিম ব্যবস্থা কেবল তখনই সচেতন হতে পারে যখন বস্তুবাদ এমন একটি অ-জৈবিক আধার নির্মাণে সফল হয় যা প্রয়োজনীয় দৈহিক ও সংবেদী-চালন ব্যবস্থাগুলির নিখুঁত প্রতিরূপ তৈরি করে।"
     },
     "survival_beyond_death": {
-      "stance": "না",
+      "stance": "No",
       "rationale": "চেতনা জৈবিক দেহ ও তার ব্যবস্থাগুলির অস্তিত্ব ও ক্রিয়াকলাপের উপর নিবিড়ভাবে নির্ভরশীল; সেই ভৌত উপাদানগুলি কাজ করা বন্ধ করলে তা টিকে থাকতে পারে না।"
     },
     "meaning_and_purpose": {
-      "stance": "কেবল মানবতাবাদী",
+      "stance": "Humanistic only",
       "rationale": "একটি বস্তুবাদী তত্ত্ব হিসেবে এটি এই দৃষ্টিভঙ্গির সঙ্গে সঙ্গতিপূর্ণ যে কোনো চূড়ান্ত মহাজাগতিক অর্থ নেই, তবে চেতনা স্ব-নির্ধারিত অর্থ ও মূল্য সৃষ্টির ভিত্তি সরবরাহ করে।"
     },
     "virtual_immortality": {
-      "stance": "অনিশ্চিত",
+      "stance": "Uncertain",
       "rationale": "প্রতিলিপির জন্য সমগ্র দেহায়িত ব্যবস্থা ও তার সংবেদী-চালন প্রক্রিয়া পুনরুৎপাদন করা প্রয়োজন, যা কেবল মস্তিষ্কের ক্রিয়া প্রতিলিপির বাইরে উল্লেখযোগ্য, সম্ভবত অনতিক্রম্য মাত্রার জটিলতা যোগ করে।"
     }
   },
@@ -77,11 +77,11 @@
         "relationship": "অধিক্রমণ"
       },
       {
-        "name": "Projective Consciousness Model (PCM)",
+        "name": "Projective Consciousness Model",
         "relationship": "প্রভাব"
       },
       {
-        "name": "Gibson’s Ecological Psychology",
+        "name": "Gibson's Ecological Psychology",
         "relationship": "অধিক্রমণ"
       }
     ],

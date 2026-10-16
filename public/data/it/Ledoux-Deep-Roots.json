@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Teoria delle radici profonde della coscienza di LeDoux",
     "summary": "Questa teoria considera la coscienza e il comportamento umani attraverso la lente della storia evolutiva profonda, sostenendo che la coscienza è emersa relativamente di recente come prodotto sofisticato dei circuiti cognitivi corticali. Traccia come le capacità di sopravvivenza fondamentali, ereditate dai primissimi organismi, siano state potenziate dall'evoluzione dei sistemi nervosi, portando infine alla coscienza.",
-    "associated_thinkers": ["Joseph LeDoux"],
-    "category": "Teorie del Materialismo",
-    "subcategory": "Evoluzione Filogenetica",
+    "associated_thinkers": [
+      "Joseph LeDoux"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Filogenetico",
     "core_identity_tagline": "La coscienza come prodotto emergente di meccanismi di sopravvivenza potenziati.",
     "classification_tags": [
       "evolution",
@@ -48,7 +50,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "In quanto teoria materialista incentrata su meccanismi biologici emergenti, se le funzioni evolutive e di sopravvivenza necessarie possono essere replicate in un substrato artificiale, la coscienza dell'IA dovrebbe essere possibile in linea di principio."
     },
     "survival_beyond_death": {
@@ -56,11 +58,11 @@
       "rationale": "La coscienza dipende esplicitamente dal cervello biologico evoluto e dai suoi circuiti cognitivi corticali, che cessano di funzionare alla morte."
     },
     "meaning_and_purpose": {
-      "stance": "Solo umanistico",
+      "stance": "Humanistic only",
       "rationale": "Coerentemente con il Materialismo, la coscienza serve principalmente la funzione biologica di potenziare la sopravvivenza e la prosperità, senza offrire alcun significato o teleologia cosmica intrinseca al di là di ciò che gli esseri umani creano per sé stessi."
     },
     "virtual_immortality": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "Poiché la coscienza è intesa come puramente fisica ed emergente da una complessa elaborazione biologica delle informazioni, la duplicazione dello schema neurale dovrebbe, in linea di principio, consentire l'immortalità virtuale."
     }
   },
@@ -71,11 +73,11 @@
         "relationship": "Estensione"
       },
       {
-        "name": "Dennett’s Evolution of Minds",
+        "name": "Dennett's Evolution of Minds",
         "relationship": "Sovrapposizione"
       },
       {
-        "name": "Mitchell’s Free Agents",
+        "name": "Mitchell's Free Agents",
         "relationship": "Compatibile"
       },
       {

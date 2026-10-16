@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "La teoria della neurofilosofia non riduttiva di Northoff",
     "summary": "Questa teoria è principalmente una strategia metodologica concepita per analizzare la complessa relazione tra cervello e mente, collegando sistematicamente concetti filosofici e teorie ontologiche con i dati empirici delle neuroscienze in modo bilaterale. Il suo obiettivo è fornire comprensione della soggettività senza ridurre i concetti mentali a fatti fisici.",
-    "associated_thinkers": ["Georg Northoff"],
-    "category": "Fisicalismo non riduttivo",
+    "associated_thinkers": [
+      "Georg Northoff"
+    ],
+    "category": "Non riduttivo",
     "subcategory": "Neurofilosofia non riduttiva",
     "core_identity_tagline": "Strumento metodologico all'interfaccia tra filosofia e neuroscienze",
     "classification_tags": [
@@ -51,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "In quanto approccio fisicalista non riduttivo, la coscienza è legata all'istanziazione di specifiche dinamiche complesse (meccanismi temporo-spaziali); se tali dinamiche possono essere replicate artificialmente, la coscienza nell'IA dovrebbe essere possibile."
     },
     "survival_beyond_death": {
@@ -59,22 +61,22 @@
       "rationale": "La teoria è fondata su meccanismi fisici del cervello (neuro-ecologici, neuro-viscerali, matrice di attività spontanea). La cessazione di questi processi fisici implica la cessazione della struttura cosciente emergente (la senzienza)."
     },
     "meaning_and_purpose": {
-      "stance": "Incerto",
+      "stance": "Uncertain",
       "rationale": "La teoria è principalmente metodologica, incentrata sulle meccaniche e sulla struttura della coscienza anziché su un significato cosmico ultimo. Tuttavia, la sua posizione non riduttiva è compatibile con l'affermazione di un significato e di un valore che sorgono dalla soggettività."
     },
     "virtual_immortality": {
-      "stance": "Probabile",
+      "stance": "Likely",
       "rationale": "Se la coscienza è emergente da dinamiche spaziotemporali complesse e non riduttive, allora esiste la possibilità teorica che una replicazione e un caricamento perfetti di questi pattern complessi preserverebbero con successo il sé cosciente in prima persona, in linea con gli aspetti funzionalisti impliciti in questa categoria."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Northoff’s Temporo-Spatial Sentience",
+        "name": "Northoff's Temporo-Spatial Sentience",
         "relationship": "Estensione"
       },
       {
-        "name": "Embodied and Enactive Theories",
+        "name": "Embodied",
         "relationship": "Compatibile"
       },
       {

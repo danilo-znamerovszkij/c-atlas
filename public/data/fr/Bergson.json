@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La Multiplicité, la Durée, la Perception et la Mémoire chez Bergson",
     "summary": "Cette théorie non réductionniste conçoit la conscience comme une réalité dynamique et incessamment temporelle, caractérisée par la « durée » et la « multiplicité », qui est fondamentalement mémoire. Le cerveau ne génère pas la conscience, mais agit comme un filtre, limitant une conscience accablante afin de permettre une action focalisée dans le monde.",
-    "associated_thinkers": ["Henri Bergson"],
-    "category": "États Anormaux et Altérés",
-    "subcategory": "Multiplicité, Durée, Perception, Mémoire",
+    "associated_thinkers": [
+      "Henri Bergson"
+    ],
+    "category": "Dualisme",
+    "subcategory": "",
     "core_identity_tagline": "La Conscience comme Mémoire Filtrée et Pure Durée",
     "classification_tags": [
       "duration",
@@ -51,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "La conscience est définie comme un esprit/mémoire non computationnel associé à la durée, qui est intrinsèquement non mécaniste. Les systèmes artificiels fondés sur le calcul sont peu susceptibles de saisir cette substance temporelle fondamentale.",
       "justification": "Déduit de la nature strictement non matérialiste et non mécaniste des concepts centraux."
     },
@@ -61,29 +63,44 @@
       "justification": "La théorie de Bergson « pourrait même permettre une certaine forme de survie après la mort »."
     },
     "meaning_and_purpose": {
-      "stance": "Cosmique/Existentiel",
+      "stance": "Cosmic/Ultimate",
       "rationale": "La conscience est définie comme une substance fondamentale et dynamique (« esprit ») capable d'un « acte libre appelé choix », impliquant une finalité intrinsèque au-delà des contraintes purement humanistes ou biologiques.",
       "justification": "Déduit de sa nature « franchement dualiste » et de son association avec l'esprit et le choix."
     },
     "virtual_immortality": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "L'immortalité virtuelle repose sur le téléchargement d'états computationnels ou physiques. Puisque la conscience est un esprit/mémoire non réductionniste (pure durée) qui n'est que filtré par le cerveau physique, dupliquer les états neuronaux ne dupliquerait pas l'entité consciente.",
       "justification": "Déduit de la définition non matérialiste et non fonctionnaliste de la conscience."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Le modèle de filtre de William James", "relationship": "Compatible" },
-      { "name": "Dualisme des Substances", "relationship": "Identité/Chevauchement" },
-      { "name": "Théorie du Processus", "relationship": "Influence" },
-      { "name": "Neurophénoménologie (Varela)", "relationship": "Influence" }
+      {
+        "name": "James's Plural Consciousness, Brain as Filter of a Wider Consciousness",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "Identité/Chevauchement"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Influence"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Time and Free Will: an Essay on the Immediate Data of Consciousness",
         "year": 1889
       },
-      { "title_with_names": "Matter and Memory", "year": 1896 },
+      {
+        "title_with_names": "Matter and Memory",
+        "year": 1896
+      },
       {
         "title_with_names": "Life and Consciousness (Mind-Energy)",
         "year": 1920

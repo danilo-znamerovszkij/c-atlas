@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "L’effondrement quantique selon Chalmers et McQueen",
+    "summary": "Chalmers et McQueen reprennent l’idée que la conscience provoque l’effondrement de la fonction d’onde quantique, et ils la formalisent en un modèle précis, en combinant la théorie de l’information intégrée et la localisation spontanée continue. L’effondrement de la fonction d’onde, soutiennent-ils, est précisément le type de lacune causale de la physique où la conscience pourrait agir ; il répond ainsi à l’objection de la clôture causale faite au dualisme des propriétés. Ils présentent le résultat comme un programme de recherche testable, et non comme une thèse établie.",
+    "associated_thinkers": [
+      "David Chalmers",
+      "Kelvin McQueen"
+    ],
+    "category": "Quantique",
+    "subcategory": "",
+    "core_identity_tagline": "La conscience comme déclencheur de l’effondrement quantique",
+    "classification_tags": [
+      "quantum collapse",
+      "integrated information",
+      "mental causation",
+      "property dualism",
+      "causal closure"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience, spécifiée par une théorie mathématique telle que l’information intégrée de la théorie IIT au-dessus d’un seuil, est ce qui provoque l’effondrement de la fonction d’onde quantique.",
+    "ontological_status": "Dualisme des propriétés ou physicalisme (laissé ouvert)",
+    "mind_body_relationship": "La conscience agit causalement sur le monde physique par l’effondrement. Les auteurs estiment que cela s’accorde à la fois avec les vues matérialistes, où la conscience est une propriété physique complexe, et avec les vues dualistes, où elle est une propriété primitive corrélée aux propriétés physiques.",
+    "primitive_or_emergent_status": "Incertain",
+    "emergence_type": "Laissée ouverte : le modèle attribue à la conscience un rôle causal et est conçu pour se combiner avec de nombreuses réponses différentes au hard problem.",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Non traité ; Chalmers et McQueen déclarent ne pas chercher à résoudre le hard problem.",
+    "ontological_commitments": "Des fonctions d’onde quantiques qui subissent un effondrement réel ; une loi fondamentale liant l’effondrement à une propriété de la conscience, comme Φ ; la conscience comme propriété physique complexe ou comme propriété fondamentale analogue à la masse et à la charge.",
+    "epistemic_access": "Par les théories mathématiques de la conscience et la dynamique quantique, et en principe par des expériences menées sur des ordinateurs quantiques.",
+    "constituents_and_structure": "Des systèmes dont l’information intégrée dépasse un seuil, et dont les états déclenchent l’effondrement selon la règle de Born."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Causalité mentale ; relation entre la conscience et la mesure quantique.",
+    "distinctive_mechanism_or_principle": "Une loi d’effondrement : dans les conditions spécifiées par Φ, les superpositions s’effondrent selon la règle de Born, modélisées par une dynamique de localisation spontanée continue.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Partout où un système physique possède une information intégrée au-dessus du seuil pertinent.",
+    "causation_and_functional_role": "La conscience provoque l’effondrement et produit ainsi des effets physiques, comblant la lacune causale que la physique standard laisse à la mesure.",
+    "integration_or_binding": "L’intégration est incorporée par la théorie IIT, qui identifie la conscience à l’information intégrée.",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "L’argument philosophique principal contre le dualisme des propriétés repose sur la clôture causale, c’est-à-dire l’idée que la physique ne laisse aucune lacune qu’une conscience non physique pourrait combler.",
+      "L’effondrement de la fonction d’onde semble être une telle lacune, et les modèles d’effondrement par la conscience ne sont pas manifestement exclus par la physique connue.",
+      "Les physiciens rejettent l’effondrement par la conscience parce qu’il paraît dualiste, et les philosophes rejettent le dualisme des propriétés parce qu’il paraît violer la clôture ; pris ensemble, ces deux objections n’excluent pas la thèse combinée.",
+      "Une version matérialiste, où la conscience est identique à Φ au-dessus d’un seuil, impliquerait une loi physique fondamentale inhabituelle, mais rien de non physique."
+    ],
+    "basis_of_belief_or_evidence_type": "Argumentation philosophique combinée à une modélisation formelle en mécanique quantique et en théorie IIT."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empiriquement testable",
+    "known_empirical_interventions_or_tests": "Des versions de la théorie peuvent en principe être testées par des expériences sur ordinateurs quantiques.",
+    "criticisms_and_tensions": "L’idée d’un effondrement par la conscience, prise au sérieux par von Neumann et Wigner, est aujourd’hui largement écartée par les physiciens, et le dualisme est rejeté par la plupart des philosophes. Le modèle dépend d’une théorie controversée de la conscience (IIT) et du caractère réel de l’effondrement.",
+    "open_questions_and_limitations": "Les auteurs ne prétendent pas que les interprétations par l’effondrement dû à la conscience sont correctes, seulement que le programme de recherche mérite d’être exploré. Le modèle ne dit rien de la raison pour laquelle des processus physiques font naître l’expérience.",
+    "ontological_coherence": "Conçu pour rester neutre : il s’accorde à une lecture matérialiste où Φ est une propriété physique, ainsi qu’à une lecture dualiste interactionniste des propriétés où la conscience est fondamentale."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Dans la version IIT, tout système dont l’information intégrée dépasse le seuil serait conscient et provoquerait un effondrement, quelle que soit sa composition."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Wigner–von Neumann’s Consciousness-Collapse: Experience at the Quantum Cut",
+        "relationship": "Prolongement"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Fondement"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
+        "relationship": "Recoupement"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Chalmers and McQueen’s Quantum Collapse (Landscape of Consciousness), David Chalmers and Kelvin McQueen",
+        "year": 2022
+      }
+    ]
+  }
+}

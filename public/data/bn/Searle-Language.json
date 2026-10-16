@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "সার্লের ভাষা ও চেতনা",
     "summary": "সার্ল যুক্তি দেন যে ভাষা মানব চেতনার জন্য অত্যাবশ্যক, যা চেতন অভিজ্ঞতাকে গঠন ও সমৃদ্ধ করতে কাজ করে। এই সম্পর্কটি একটি বিবর্তনীয় 'বুট-স্ট্র্যাপিং প্রভাব' হিসেবে দেখা হয়, যেখানে ভাষাপূর্ব চেতনা ভাষাকে সক্ষম করেছিল, যা পরিবর্তে চেতনার গঠনকে বিস্তারিত করেছে।",
-    "associated_thinkers": ["John Searle"],
+    "associated_thinkers": [
+      "John Searle"
+    ],
     "category": "বস্তুবাদ",
-    "subcategory": "ভাষা সম্পর্ক",
+    "subcategory": "ভাষা",
     "core_identity_tagline": "ভাষা চেতনার বর্ধক ও গঠনকারী হিসেবে",
     "classification_tags": [
       "language",
@@ -51,38 +53,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "শর্তাধীন",
+      "stance": "Conditional",
       "rationale": "নিছক সিমুলেশন (গণনা) মানব-সদৃশ চেতনা অর্জন করতে পারে বলে প্রত্যাখ্যান করে (চাইনিজ রুম)। তবে, যদি আমরা এমন একটি কৃত্রিম যন্ত্র তৈরি করি যা মস্তিষ্কের প্রয়োজনীয় জৈবিক/কারণগত প্রক্রিয়ার প্রতিরূপ তৈরি করে, তবে তা নীতিগতভাবে চেতন হতে পারে। ভাষার কেন্দ্রীয়তা AI চেতনাকে সম্ভাব্য বেশি করে তুলতে পারে, যদি উন্নত ভাষা ব্যবস্থা গুরুত্বপূর্ণ অভ্যন্তরীণ বাক্যরীতির প্রতিরূপ তৈরি করে।"
     },
     "survival_beyond_death": {
-      "stance": "না",
+      "stance": "No",
       "rationale": "চেতনা মস্তিষ্ক দ্বারা সৃষ্ট ও বাস্তবায়িত একটি জৈবিক বৈশিষ্ট্য। জৈবিক আধার বিলুপ্ত হলে এর অবসান ঘটে।"
     },
     "meaning_and_purpose": {
-      "stance": "কেবল মানবতাবাদী",
+      "stance": "Humanistic only",
       "rationale": "একটি বস্তুবাদী তত্ত্ব হিসেবে, এটি মহাজাগতিকভাবে চূড়ান্ত অর্থ বা উদ্দেশ্যকে যৌক্তিক করতে পারে না। ভাষা দ্বারা উন্নত চেতনা মানুষকে তাদের নিজস্ব অর্থ, উদ্দেশ্য ও জটিল কর্তৃত্ব সৃষ্টি করতে দেয়।"
     },
     "virtual_immortality": {
-      "stance": "শর্তাধীন/সম্ভাব্য",
+      "stance": "Conditional",
       "rationale": "ভার্চুয়াল অমরত্ব (মানসিক স্বকে আপলোড করা) কেবল তখনই অর্জনযোগ্য, যখন প্রতিরূপণ প্রয়োজনীয় জৈবিক/কারণগত ব্যবস্থার প্রতিরূপ তৈরি করে, কারণ নিছক সিমুলেশন প্রত্যাখ্যাত। যদি চেতনার গভীর মর্মে ভাষা কেন্দ্রীয় হয়, তবে ভাষাগত/সাংকেতিক প্রক্রিয়ার সফল প্রতিরূপণ অর্জনযোগ্যতাকে সহজতর করে।"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Searle’s Biological Naturalism",
+        "name": "Searle's Biological Naturalism",
         "relationship": "ভিত্তি"
       },
       {
-        "name": "Chomsky’s Language and Consciousness",
+        "name": "Chomsky's Language and Consciousness",
         "relationship": "সমাপতন"
       },
       {
-        "name": "Koch’s Consciousness does not Depend on Language",
+        "name": "Koch's Consciousness does not Depend on Language",
         "relationship": "সমালোচনা"
       },
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
         "relationship": "সমাপতন/বৈসাদৃশ্য"
       }
     ],

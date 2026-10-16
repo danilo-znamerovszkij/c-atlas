@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "نظرية المعالجة الرَّاجعة لدى لامّه",
     "summary": "تفترض نظرية المعالجة الرَّاجعة (RPT) لدى لامّه أن الوعي لازم وكافٍ معًا عندما تنشأ وصلات تغذية راجعة متبادلة (رَاجعة) بين المناطق العصبية، ولا سيّما في الأنظمة الحسية. وهذه المعالجة، التي تحدث موضعيًّا في المناطق الحسية وما بعد الحسية (المرحلة 3)، تولّد الخبرة الظاهراتية من دون اشتراط وصول البثّ الشامل.",
-    "associated_thinkers": ["Victor Lamme"],
+    "associated_thinkers": [
+      "Victor Lamme"
+    ],
     "category": "المادية",
-    "subcategory": "التمثيلية",
+    "subcategory": "الرتبة الأولى",
     "core_identity_tagline": "الوعي بوصفه معالجة راجعة في الأنظمة الحسية",
     "classification_tags": [
       "neuroscience",
@@ -50,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مرجّح",
+      "stance": "Likely",
       "rationale": "بوصفها نظرية مادية، لا بدّ أن يكون وعي الذكاء الاصطناعي ممكنًا من حيث المبدأ إذا أمكن مضاعفة النمط اللازم من المعالجة الراجعة اصطناعيًّا في ركيزة غير بيولوجية."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "الوعي مرتبط بالنشاط الدماغي الفيزيائي والدارات العصبية المحددة (حالات المعالجة الراجعة)، بما يوحي بتوقّفه عند موت الجسد."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "تركّز النظرية على تفسير فيزيائي عصبي محض للخبرة الظاهراتية، ولا تدعم أي معنى أو غاية كونية قصوى."
     },
     "virtual_immortality": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "لمّا كان الوعي هو حالة المعالجة الراجعة نفسها، فإن مضاعفةً تامة لتلك العملية على وسط جديد (تحميل) ستولّد الذات من منظور الشخص الأول، بما يتيح الخلود الافتراضي."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "نقد"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "امتداد"
       },
       {
-        "name": "Block’s Biological Reductionism",
+        "name": "Block's Biological Reductionism",
         "relationship": "تداخل"
       }
     ],

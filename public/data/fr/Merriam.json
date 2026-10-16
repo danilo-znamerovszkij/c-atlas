@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Calcul des qualia de Merriam comme primitives logiques",
+    "summary": "Le Calcul des qualia de Paul Merriam est un système formel doté de termes non référentiels, tels que █, qui présentent une expérience directement dans la conscience au lieu de s'y référer. Dans cette perspective, les qualia sont des primitives logiques, irréductibles et non explicables davantage ; Merriam soutient que les théories adéquates de l'esprit ont besoin de tels termes présentationnels, aux côtés des termes référentiels ordinaires.",
+    "associated_thinkers": [
+      "Paul Merriam",
+      "Mohammed A. Z. Habeeb"
+    ],
+    "category": "Défi",
+    "subcategory": "",
+    "core_identity_tagline": "Les qualia comme primitives logiques non référentielles",
+    "classification_tags": [
+      "qualia",
+      "formal logic",
+      "non-referential terms",
+      "zombie argument",
+      "hard problem"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Les qualia sont des primitives logiques dont le sens est leur propre présentation. Un terme non référentiel tel que █ réalise le quale lorsqu'il apparaît ; il ne le désigne pas.",
+    "ontological_status": "Réalisme des qualia (primitivisme logique)",
+    "mind_body_relationship": "Le problème difficile devient « pourquoi le processus physique p est-il corrélé à █ ? », et Merriam suggère que les réponses feraient intervenir des voies expérientielles, par exemple la transformation d'une pensée cérébrale référentielle en █.",
+    "primitive_or_emergent_status": "Primitif",
+    "emergence_type": "Non émergent ; les qualia sont des primitives irréductibles dont la nature intrinsèque ne peut être expliquée davantage.",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Des mots référentiels comme « noirceur » abstraient le quale, tandis que █ le présente. Chaque quale pose donc son propre problème difficile, distinct.",
+    "ontological_commitments": "Qualia comme primitives réelles et irréductibles ; deux types sémantiques de termes, référentiels et non référentiels.",
+    "epistemic_access": "Présentation directe dans la conscience, saisie formellement au moyen de termes non référentiels.",
+    "constituents_and_structure": "Les « qualations » (expressions contenant des termes non référentiels) obéissent à leurs propres règles : les instances ne se confondent pas par addition (█ + █ reste deux instances), et un terme cité est égal à ce qu'il présente (« █ » = █), contrairement à « noirceur »."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménal (qualia)",
+    "distinctive_mechanism_or_principle": "Termes non référentiels, présentationnels. Un calcul de la dénomination doté d'opérateurs de nom et de référent s'effondre pour de tels termes, et le théorème de la barrière de référence montre qu'aucune qualation bien formée ne peut égaler un terme référentiel à un terme non référentiel.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "Le calcul est non causal : les stimuli rendent possibles les termes non référentiels sans les définir, ce qui l'oppose aux théories causales du sens.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Merriam rejette la réduction des qualia au contenu opérée par le représentationnalisme. Ne recourir qu'à des termes référentiels, dit-il, « revient à utiliser la notation musicale sur une partition sans jamais entendre la musique réelle ».",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Les langages, de Frege à Husserl et Heidegger, sont liés par la référence et ne peuvent donc pas saisir l'immédiateté des qualia.",
+      "Une théorie duale de la vérité sépare la vérité référentielle (correspondance) de la vérité présentationnelle (instanciation exacte), et le théorème de la barrière de vérité affirme qu'aucun terme ne possède les deux.",
+      "L'argument du zombi se dissout : affirmer qu'un zombi manque de █ exige de présenter █, de sorte que son absence ne peut être énoncée de manière cohérente.",
+      "Les stratégies du concept phénoménal et de la citation demeurent référentielles ; selon la barrière de référence, elles ne peuvent donc pas saisir la présentation."
+    ],
+    "basis_of_belief_or_evidence_type": "Logique formelle et philosophie du langage."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptuellement testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Merriam présente le résultat sur le zombi comme une dissolution logique, non comme une réfutation empirique. Le calcul affirme que les qualia sont irréductibles, mais n'explique pas pourquoi les processus physiques leur sont corrélés.",
+    "open_questions_and_limitations": "Puisque chaque quale engendre son propre problème difficile, le calcul multiplie les cibles explicatives au lieu de les réduire.",
+    "ontological_coherence": "Merriam compare le calcul aux nombres complexes : il ajoute un pouvoir d'expression sans nier les systèmes antérieurs. Il affirme la réalité des qualia contre l'illusionnisme."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Opposition"
+      },
+      {
+        "name": "Husserl’s Transcendental Phenomenology",
+        "relationship": "Opposition"
+      },
+      {
+        "name": "Lewis’s Analytic Functionalism and Causal-Role Identity Theory",
+        "relationship": "Opposition"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Merriam’s Calculus of Qualia as Logical Primitives (Landscape of Consciousness entry), Paul Merriam and Mohammed A. Z. Habeeb",
+        "year": 2022
+      }
+    ]
+  }
+}

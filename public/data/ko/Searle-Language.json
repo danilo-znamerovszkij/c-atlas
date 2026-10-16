@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "설의 언어와 의식",
     "summary": "설은 언어가 인간의 의식에 결정적이며 의식 경험을 형성하고 풍부하게 하는 역할을 한다고 주장한다 . 이 관계는 전(前)언어적 의식이 언어를 가능하게 하고 그 언어가 다시 의식의 구조를 정교화하는 진화적 \"자기 견인 효과\"로 파악된다 .",
-    "associated_thinkers": ["John Searle"],
+    "associated_thinkers": [
+      "John Searle"
+    ],
     "category": "유물론",
-    "subcategory": "언어와의 관계",
+    "subcategory": "언어",
     "core_identity_tagline": "‘의식의 증진자이자 형성자로서의 언어’",
     "classification_tags": [
       "language",
@@ -51,38 +53,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "단순한 시뮬레이션(계산)이 인간과 같은 의식을 달성할 수 있다는 것을 거부한다(중국어 방) . 그러나 뇌의 필요한 생물학적/인과적 과정을 재현하는 인공 기계를 만든다면 그것은 원리적으로 의식적일 수 있다 . 언어의 중심성은, 진보된 언어 체계가 결정적인 내적 통사를 재현할 경우 AI 의식의 가능성을 높일 수 있다 ."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "의식은 뇌에 의해 야기되고 뇌 안에서 실현되는 생물학적 특징이다 . 그것은 생물학적 기질이 해체될 때 소멸한다 ."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한정",
+      "stance": "Humanistic only",
       "rationale": "유물론 이론으로서 우주적 차원의 궁극적 의미나 목적을 합리화할 수 없다 . 언어로 증진된 의식은 인간이 스스로 의미와 목적, 그리고 복잡한 행위주체성을 산출할 수 있게 한다 ."
     },
     "virtual_immortality": {
-      "stance": "조건부/가능성 높음",
+      "stance": "Conditional",
       "rationale": "시뮬레이션만으로는 거부되므로, 가상적 불멸(심적 자아의 업로드)은 복제가 요구되는 생물학적/인과적 체계를 재현할 경우에만 달성 가능하다 . 언어가 의식의 심층적 본질에 핵심적이라면, 언어적/상징적 과정의 성공적 복제가 그 달성 가능성을 촉진한다 ."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Searle’s Biological Naturalism",
+        "name": "Searle's Biological Naturalism",
         "relationship": "토대"
       },
       {
-        "name": "Chomsky’s Language and Consciousness",
+        "name": "Chomsky's Language and Consciousness",
         "relationship": "중첩"
       },
       {
-        "name": "Koch’s Consciousness does not Depend on Language",
+        "name": "Koch's Consciousness does not Depend on Language",
         "relationship": "비판"
       },
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
         "relationship": "중첩/대조"
       }
     ],

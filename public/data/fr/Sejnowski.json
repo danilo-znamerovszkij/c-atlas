@@ -1,0 +1,124 @@
+{
+  "id_and_class": {
+    "theory_title": "Les deux niveaux computationnels et les ondes progressives selon Sejnowski",
+    "summary": "Sejnowski propose que la conscience naisse d’un second niveau cognitif du traitement cortical, qui se superpose au niveau sensorimoteur ordinaire. Le niveau sensorimoteur code l’information dans les fréquences de décharge, tandis que le niveau cognitif utilise une temporisation des pointes à la milliseconde près, organisée par des ondes progressives et une plasticité synaptique temporaire, pour maintenir le contexte dans le temps et poursuivre la pensée sans apport extérieur. Il s’attend à ce qu’une fois ces mécanismes compris, le problème de la conscience disparaisse « comme le chat du Cheshire ».",
+    "associated_thinkers": [
+      "Terrence J. Sejnowski"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Computationnel",
+    "core_identity_tagline": "La conscience comme pensée auto-générée dans un niveau cortical à temporisation des pointes",
+    "classification_tags": [
+      "computational neuroscience",
+      "spike timing",
+      "traveling waves",
+      "postdiction",
+      "thalamus"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est l’état dynamique global d’un cerveau qui pense sa propre pensée : une activité auto-générée dans un niveau cognitif cortical qui construit des représentations internes à partir de l’expérience passée.",
+    "ontological_status": "Physicalisme (computationnel, dynamique neuronale)",
+    "mind_body_relationship": "Les phénomènes mentaux sont des mécanismes neuronaux, et Sejnowski s’attend à ce que les questions philosophiques sur l’esprit reçoivent des réponses scientifiques à mesure que ces mécanismes seront compris.",
+    "primitive_or_emergent_status": "Émergent",
+    "emergence_type": "Émergence faible (à partir de la dynamique globale des neurones à décharges et des ondes progressives)",
+    "subjectivity_and_intentionality": "Le « maintenant » unifié de l’expérience est construit de manière postdictive : le cerveau révise l’histoire récente pour que le présent conscient s’accorde avec ce qui se produit ensuite.",
+    "qualia_account": "",
+    "ontological_commitments": "Neurones corticaux à décharges, plasticité dépendante de la temporisation des pointes, ondes progressives, interneurones inhibiteurs en corbeille exprimant la parvalbumine, et systèmes thalamiques du noyau et de la matrice.",
+    "epistemic_access": "Par l’électrophysiologie en laboratoire, la psychophysique (comme l’effet flash-lag), la modélisation computationnelle et les données lésionnelles.",
+    "constituents_and_structure": "Deux niveaux. Le niveau 1 est un réseau sensorimoteur à long terme utilisant des codes de fréquence et le thalamus de noyau. Le niveau 2 est un réseau cognitif temporaire utilisant une temporisation précise des pointes, des ondes progressives et le thalamus de matrice."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Accès et cognition (pensée auto-générée, mémoire de travail, prise de décision, planification) ; unité temporelle de l’expérience",
+    "distinctive_mechanism_or_principle": "Les ondes progressives organisent des pointes temporisées avec précision en un code de population spatio-temporel, qui déclenche une plasticité dépendante de la temporisation des pointes durant plusieurs heures et forme un réseau cognitif temporaire au-dessus du réseau sensorimoteur.",
+    "dynamics_of_emergence": "La conscience est postdictive. La perception d’un instant dépend des événements survenant dans les 80 millisecondes environ qui suivent, et les fenêtres d’intégration vont d’environ 100 millisecondes dans le cortex visuel primaire jusqu’à 10 secondes dans le cortex préfrontal.",
+    "location_and_distribution": "Cortex cérébral, avec le système thalamique de matrice qui projette largement vers les couches corticales superficielles. De petites lésions des noyaux thalamiques intralaminaires peuvent abolir la conscience.",
+    "causation_and_functional_role": "Le niveau cognitif soutient la mémoire de travail à long terme, la prise de décision et une pensée qui se poursuit après la cessation des stimulations extérieures, en reliant le contexte à travers le temps pour guider l’action.",
+    "integration_or_binding": "La coordination globale des voies thalamiques de matrice unifie l’expérience, et les ondes progressives lient l’information dans l’espace et le temps au sein d’une même population neuronale.",
+    "information_flow_or_representation": "Les ondes progressives forment un code de type holographique où le temps est une dimension, de sorte qu’une même population peut représenter une fenêtre temporelle, un peu comme l’auto-attention des Transformers en IA relie les mots d’une phrase.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Mainen et Sejnowski ont montré que les neurones corticaux déclenchent des pointes avec une précision de la milliseconde lorsqu’ils sont stimulés par une entrée fluctuante de « bruit figé », la temporisation étant fixée par le rebond post-inhibiteur des interneurones en corbeille.",
+      "L’effet flash-lag montre que la perception d’un flash dépend de ce qui se produit après lui, ce qu’Eagleman et Sejnowski interprètent comme une postdiction.",
+      "Les ondes progressives observées dans de nombreuses bandes de fréquence pourraient déclencher une plasticité dépendante de la temporisation des pointes durant plusieurs heures, soutenant la mémoire de travail à long terme.",
+      "Sejnowski propose que le signal BOLD de l’IRMf reflète davantage le coût métabolique de la plasticité synaptique et de l’attention que les décharges.",
+      "Contrairement aux grands modèles de langage, dont l’activité en propagation directe cesse à la fin d’une requête, le cerveau entretient une activité auto-générée par des boucles récurrentes."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirique (électrophysiologie, psychophysique, données lésionnelles) et modélisation computationnelle"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Testable empiriquement",
+    "known_empirical_interventions_or_tests": "Injection de courant de « bruit figé » dans des neurones corticaux ; psychophysique de l’effet flash-lag ; enregistrements des ondes progressives corticales ; lésions des noyaux thalamiques intralaminaires ; IRMf BOLD.",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "Sejnowski décrit le problème de la conscience comme pouvant se dissoudre avec une meilleure compréhension de la perception, de la prise de décision et de la planification ; le cadre traite donc davantage les mécanismes cognitifs que la raison pour laquelle ils sont vécus comme quelque chose. Le lien entre la plasticité déclenchée par les ondes progressives et la mémoire de travail à long terme est présenté comme plausible, mais non démontré.",
+    "ontological_coherence": "Compatible avec le physicalisme et avec le programme de Crick sur les mécanismes neuronaux de la conscience. Sejnowski assimile le niveau cognitif à un espace de travail global."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Les grands modèles de langage actuels manquent d’activité auto-générative, mais Sejnowski suggère que des machines construites avec une dynamique auto-générative de « Système 2 », organisée par des ondes progressives et la plasticité, pourraient acquérir une cognition plus proche de l’expérience humaine."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "La conscience étant l’état dynamique global des circuits corticaux et thalamiques, elle prend fin lorsque ces dynamiques cessent."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Sejnowski conçoit la connaissance de soi comme la compréhension des mécanismes de la pensée, sans finalité cosmique en jeu."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "La position est computationnelle et admet en principe une cognition machinique, mais Sejnowski n’aborde pas la copie d’un esprit individuel."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "Fondement"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Recouvrement"
+      },
+      {
+        "name": "Eagleman's Possibilianism",
+        "relationship": "Recouvrement"
+      },
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reliability of Spike Timing in Neocortical Neurons, Z. F. Mainen and T. J. Sejnowski",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Motion Integration and Postdiction in Visual Awareness, D. M. Eagleman and T. J. Sejnowski",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Regulation of Spike Timing in Visual Cortical Circuits, P. Tiesinga, J. M. Fellous, and T. J. Sejnowski",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Consciousness, Terrence J. Sejnowski",
+        "year": 2015
+      },
+      {
+        "title_with_names": "The Deep Learning Revolution, Terrence J. Sejnowski",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Transformers and Cortical Waves: Encoders for Pulling in Context Across Time, L. Muller, P. S. Churchland, and T. J. Sejnowski",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Dynamical Mechanisms for Coordinating Long-term Working Memory Based on the Precision of Spike-timing in Cortical Neurons, Terrence J. Sejnowski",
+        "year": 2026
+      }
+    ]
+  }
+}

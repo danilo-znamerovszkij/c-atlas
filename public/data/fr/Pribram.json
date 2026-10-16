@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "Théorie du Cerveau Holonomique de Pribram",
     "summary": "Cette théorie propose que la conscience humaine naît d'effets quantiques se produisant à l'intérieur ou entre les cellules cérébrales, faisant fonctionner le cerveau comme un réseau holographique de stockage de l'information. Cette nature holographique implique que l'information, en particulier la mémoire, est stockée de manière non locale à travers les réseaux neuronaux, permettant un fonctionnement robuste même après une lésion.",
-    "associated_thinkers": ["Karl Pribram", "David Bohm"],
-    "category": "Théories du Matérialisme",
-    "subcategory": "Computationnel et Informationnel",
+    "associated_thinkers": [
+      "Karl Pribram",
+      "David Bohm"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Computationnel",
     "core_identity_tagline": "‘La Conscience comme Stockage Quantique Holographique’",
     "classification_tags": [
       "quantum",
@@ -53,19 +56,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Conditionnel",
+      "stance": "Conditional",
       "rationale": "Si la conscience dépend de propriétés quantiques/physiques spécifiques (comme les oscillations dendritiques et l'interférence d'ondes) plutôt que du seul calcul classique, les systèmes artificiels ne pourraient être conscients que s'ils reproduisent cette structure physique spécifique, actuellement inconnue."
     },
     "survival_beyond_death": {
-      "stance": "Hautement improbable/Non",
+      "stance": "Unlikely",
       "rationale": "La conscience est liée à la dynamique quantique émergente au sein des réseaux dendritiques du cerveau physique ; la destruction de cette structure physique entraînerait typiquement la cessation de la conscience, conformément à une ontologie physicaliste."
     },
     "meaning_and_purpose": {
-      "stance": "Incertain/Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "En tant que théorie purement mécaniste et physicaliste (bien qu'invoquant une physique non conventionnelle), elle n'implique aucun sens ou valeur cosmique inhérent, bien qu'elle informe la base physique de l'expérience humaine et de la création de valeur."
     },
     "virtual_immortality": {
-      "stance": "Conditionnel",
+      "stance": "Conditional",
       "rationale": "L'immortalité virtuelle n'est théoriquement possible que si la technologie peut mesurer, cartographier et reproduire parfaitement les motifs et dynamiques quantiques/holographiques incroyablement complexes et hautement sensibles du cerveau biologique dans un substrat non biologique."
     }
   },
@@ -84,7 +87,7 @@
         "relationship": "Influence"
       },
       {
-        "name": "Electromagnetic Field Theories",
+        "name": "Electromagnetic",
         "relationship": "Chevauchement"
       }
     ],

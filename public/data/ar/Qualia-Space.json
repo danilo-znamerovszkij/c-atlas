@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "نظرية فضاء الكواليا",
     "summary": "تطرح هذه النظرية أن الوعي سمة مستقلة غير قابلة للاختزال من سمات الواقع، توجد جنبًا إلى جنب مع القوانين الفيزيائية الأساسية، مثل القوى الأربع والزمكان والكتلة-الطاقة. وتُتصوَّر هذه السمة بوصفها بنية أو تنظيمًا جديدًا جذريًا، يُحتمل أن توجد بوصفها بُعدًا مختلفًا من أبعاد الواقع.",
-    "associated_thinkers": ["Giulio Tononi", "Christof Koch"],
-    "category": "البانسيكيات",
-    "subcategory": "فئة مفاهيمية",
+    "associated_thinkers": [
+      "Giulio Tononi",
+      "Christof Koch"
+    ],
+    "category": "البانسيكية",
+    "subcategory": "الفئة المفاهيمية",
     "core_identity_tagline": "الوعي بوصفه سمة بُعدية مستقلة غير قابلة للاختزال من سمات الواقع",
     "classification_tags": [
       "independent feature",
@@ -51,26 +54,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "غير مؤكد",
+      "stance": "Uncertain",
       "rationale": "يتوقف الأمر على ما إذا كان بالإمكان التحكم تقنيًا في السمة غير القابلة للاختزال المُنتِجة للوعي في فضاء الكواليا أو تجسيدها في أنظمة غير حيوية."
     },
     "survival_beyond_death": {
-      "stance": "ربما",
+      "stance": "Possible",
       "rationale": "إذا كان الوعي بنية أساسية أو بُعدًا أساسيًا من أبعاد الواقع، فلا يمكن نفي ديمومته، مما يُبقي إمكانية البقاء مفتوحةً، وإن لم يكن بالضرورة بوصفه وعيًا شخصيًا."
     },
     "meaning_and_purpose": {
-      "stance": "غير مؤكد",
+      "stance": "Uncertain",
       "rationale": "افتراض سمة مستقلة غير فيزيائية يوحي بأساس ممكن لمعنى نهائي، مما يضعها في الفئة الوسطى من النظريات (كالبانسيكية أو الأحادية) ذات المعنى/الغاية/القيمة النهائية الممكنة."
     },
     "virtual_immortality": {
-      "stance": "ممكن",
+      "stance": "Possible",
       "rationale": "يتوقف الخلود الافتراضي على ما إذا كان بالإمكان توجيه البنية المُنتِجة للوعي داخل فضاء الكواليا أو التحكم فيها بواسطة تقنية متقدمة عبر انتظامات قابلة للتنبؤ."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Integrated Information Theory (IIT)",
+        "name": "Integrated Information Theory",
         "relationship": "تداخل"
       },
       {

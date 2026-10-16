@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Hoffman의 의식 실재론: 실재에 반대하는 논변",
     "summary": "이 이론은 진화가 실재에 대한 참된 지각이 아니라 생존과 번식 적합도를 선택한다고 주장한다. 그 결과 시공간과 물리적 대상은 적응 행동을 인도하는 '인터페이스' 내지 환영으로 기능할 뿐이다. 궁극 실재는 근본적으로 상호작용하는 의식 행위자들과 그들의 경험으로 구성되며, 이는 물리적 세계에 앞서며 그것을 산출한다.",
-    "associated_thinkers": ["Donald Hoffman"],
+    "associated_thinkers": [
+      "Donald Hoffman"
+    ],
     "category": "관념론",
-    "subcategory": "관념론 (의식 실재론)",
+    "subcategory": "관념론 (의식적 실재론)",
     "core_identity_tagline": "‘의식이 근본 실재이다’",
     "classification_tags": [
       "idealism",
@@ -50,30 +52,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 근본적이므로(관념론) 생물학적 물질에 국한되지 않는다. 인공 시스템이 '의식 행위자'에 특징적인 조직적 복잡성에 도달한다면, 그 물리적 기질과 무관하게 근본적 의식의 장에 접속할 수 있을 것이다."
     },
     "survival_beyond_death": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 근본적이며 물리적 인터페이스를 산출하므로, 개별 의식 행위자는 생물학적 신체/인터페이스가 해체된 이후에도 존속할 가능성이 높다."
     },
     "meaning_and_purpose": {
-      "stance": "궁극적 의미/목적/가치",
+      "stance": "Cosmic/Ultimate",
       "rationale": "관념론은 궁극적 의미와 목적을 근본적으로 지지한다. 실재는 상호작용하는 의식 행위자들로 구성되며, 그들의 존재와 행위(다른 행위자에게 영향을 미치는 일)는 본래적 가치와 목적을 함축한다."
     },
     "virtual_immortality": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "뇌가 근본적 의식의 인터페이스에 불과하다면, 가상 불멸은 비생물학적 매체에서 개별 의식 행위자를 현현시키는 데 필요한 구조나 기능('아이콘' 또는 인터페이스)을 재현하는 문제가 된다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Analytic Idealism (Kastrup)",
+        "name": "Kastrup's Analytic Idealism",
         "relationship": "중첩"
       },
       {
-        "name": "Eliminative Materialism/Illusionism (Dennett/Graziano)",
+        "name": "Eliminative/Illusionism",
         "relationship": "비판"
       },
       {

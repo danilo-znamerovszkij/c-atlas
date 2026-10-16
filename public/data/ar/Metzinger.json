@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "نظرية ميتزينغر التمثيلية في الذاتية القائمة على نفي الذات",
     "summary": "تقدّم هذه النظرية تحليلًا تمثيليًّا ووظيفيًّا للذاتية، إذ تفترض أن الذات الظاهراتية—أي منظور الشخص الأول المُختبَر واعيًا—ليست كيانًا حقيقيًّا بل عملية مستمرة، وتحديدًا محتوى نموذج ذاتي شفّاف في الدماغ. ويُوصَف الفكر الواعي في معظمه بأنه صورة من صور السلوك الباطني غير الفاعلي وغير القصدي.",
-    "associated_thinkers": ["Thomas Metzinger"],
-    "category": "نظريات المادية",
-    "subcategory": "التمثيلية",
+    "associated_thinkers": [
+      "Thomas Metzinger"
+    ],
+    "category": "المادية",
+    "subcategory": "الرتبة العليا",
     "core_identity_tagline": "‘الذات الظاهراتية بوصفها نموذجًا ذاتيًّا شفّافًا’",
     "classification_tags": [
       "representationalism",
@@ -55,26 +57,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مرجّح",
+      "stance": "Likely",
       "rationale": "بوصفها نظرية وظيفية وتمثيلية، إذا استطاع نظام اصطناعي أن يطبّق التنظيم الوظيفي والتعقيد اللازمين لتحقيق النموذج الذاتي الشفّاف (EAM)، فسيبلغ الوعي , ."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "تُعرَّف الذات الظاهراتية بوصفها عملية ناشئة عن ركيزة فيزيائية (الدماغ/البنية التمثيلية). ولمّا لم توجد 'ذات' فعلية أو جوهر غير مادي، فإن الوعي يتوقف عند موت الجسد , , ."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني/عملي",
+      "stance": "Humanistic only",
       "rationale": "الوعي لازم سببيًّا لتحسين التفاعلات المرنة ولانبثاق الثقافة التراكمية والمسؤولية، بما يوفّر معنىً متطوّرًا لا كونيًّا ."
     },
     "virtual_immortality": {
-      "stance": "مرجّح",
+      "stance": "Likely",
       "rationale": "إذا كان الوعي في جوهره التنظيم الوظيفي لنظام تمثيلي (النموذج الذاتي)، فإن إعادة إنتاج تامّة لهذه البنية الوظيفية على وسط غير بيولوجي ينبغي أن تحفظ منظور الشخص الأول , ."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "تداخل"
       },
       {
@@ -82,7 +84,7 @@
         "relationship": "تأثير"
       },
       {
-        "name": "T. Clark’s Content Hypothesis",
+        "name": "T. Clark's Content Hypothesis",
         "relationship": "توافق"
       },
       {

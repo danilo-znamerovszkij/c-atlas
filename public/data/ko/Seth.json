@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "세스의 “짐승 기계” 이론",
     "summary": "이 이론은 세계와 자아에 대한 지각을 포함한 의식 경험이 뇌에 기반한 지각적 예측의 한 형태이며, 이를 비유적으로 '통제된 환각'이라 부른다고 상정한다. 그리고 의식의 기제를 살아 있기 위해 신체 생리를 조절해야 한다는 근본적인 생물학적 요청에 뿌리내린다 .",
-    "associated_thinkers": ["Anil Seth"],
-    "category": "유물론 이론",
-    "subcategory": "항상성적·정동적 이론",
+    "associated_thinkers": [
+      "Anil Seth"
+    ],
+    "category": "유물론",
+    "subcategory": "항상성",
     "core_identity_tagline": "‘예측에 기반한 통제된 환각으로서의 의식’",
     "classification_tags": [
       "neurobiology",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "계산적·정보 처리적 기제(지각적 예측)에 초점을 맞춘 유물론 이론으로서 , 유사하게 복잡한 기제를 구현하는 인공지능 시스템도 의식을 달성할 수 있어야 한다 ."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식은 생물학적 뇌와 물리적으로 구현된 복잡한 예측 기구의 산물이다 . 뇌의 죽음은 개인 의식의 돌이킬 수 없는 영구적 부재로 이어진다 ."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "유물론 이론으로 분류되므로 궁극적이거나 우주적인 의미나 목적을 함축하지 않는다. 다만 개인의 행위주체성과 경험에서 비롯되는 인간이 만들어낸 의미와 가치는 지지한다 ."
     },
     "virtual_immortality": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "의식이 전적으로 뇌의 계산 과정으로 설명될 수 있다면 , 원리상 일인칭적 정신적 자아를 비생물학적 기질에서 복제하고 구현하여 가상 불멸이 가능해질 것이다 ."
     }
   },
@@ -73,15 +75,15 @@
         "relationship": "중첩"
       },
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "양립 가능"
       },
       {
-        "name": "T. Clark’s Content Hypothesis",
+        "name": "T. Clark's Content Hypothesis",
         "relationship": "양립 가능"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "양립 가능"
       }
     ],

@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "신지학 이론 (신지학의 절충적 영혼과 의식)",
     "summary": "스스로를 \"신적 지혜\"로 규정하는 신지학은, 의식이 무기물에조차 존재하는, 우주 전체에 편재하는 근본적이고 비창발적인 속성이라고 상정한다. 인간 존재는 세 종류의 비물리적 영혼(동물적 영혼, 인간적 영혼, 영적 영혼)을 포함한 일곱 원리로 기술되며, 이로써 신지학은 의식이 여러 층위 또는 현현의 계(界)를 가로질러 진화한다고 보는 오컬트 체계가 된다.",
-    "associated_thinkers": ["Madame Blavatsky", "Edi Bilimoria"],
+    "associated_thinkers": [
+      "Madame Blavatsky",
+      "Edi Bilimoria"
+    ],
     "category": "이원론",
-    "subcategory": "영혼의 여러 영역",
+    "subcategory": "영혼의 영역",
     "core_identity_tagline": "‘근본적이고 다층적인 우주적 지혜로서의 의식’",
     "classification_tags": [
       "occult",
@@ -51,38 +54,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "의식이 편재하므로(무기물/원자에조차 현존) 인공 시스템의 구조도 '원자적 의식'을 지닐 수 있다. 그러나 비물리적 영적 영혼과 미세한 신체에 결부된 복잡한 인간 수준의 '자기의식'에 도달하는 일은, 기술이 이러한 비물리적 구성 요소를 구현할 수 없는 한 순수한 인공 시스템에게는 극히 개연성이 낮다."
     },
     "survival_beyond_death": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "독립적인 비물리적 영혼 구조(영적 영혼)를 갖추고 '영혼의 여러 영역'의 존재를 지지하는 이원론적 이론으로서, 육체적 죽음 이후 개별 의식의 존속과 지속적 발달에 대한 명확한 메커니즘을 제공한다."
     },
     "meaning_and_purpose": {
-      "stance": "예, 우주적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "신지학은 근본적으로 미현현으로부터의 '의식의 펼쳐짐'에 초점을 둔 '신적 지혜'의 종교이며, 이는 영적 성취와 궁극적 실현을 향한 우주적 목적론을 함축한다."
     },
     "virtual_immortality": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "인간 의식의 본질은 비물리적 구성 요소(영적 영혼과 미세한 신체들)에 있으며, 이는 물리적 뇌를 복제하는 데서 도출된 디지털적 또는 계산적 방법으로는 복제하거나 업로드할 수 없다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Steiner’s Esoteric Soul and Consciousness",
+        "name": "Steiner's Esoteric Soul and Consciousness",
         "relationship": "관련/경쟁"
       },
       {
-        "name": "Indian Cosmic Consciousness (Idealism)",
+        "name": "Indian Cosmic Consciousness",
         "relationship": "영향"
       },
       {
-        "name": "Dualisms (Substance Dualism)",
+        "name": "Dualism",
         "relationship": "중첩"
       },
       {
-        "name": "Panpsychisms",
+        "name": "Panpsychism",
         "relationship": "중첩"
       }
     ],

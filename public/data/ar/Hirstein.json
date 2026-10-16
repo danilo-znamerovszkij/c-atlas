@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "دمج العقول عند هيرشتاين",
     "summary": "يرى ويليام هيرشتاين أن العائق الرئيس الذي يحول دون تفسير فيزيائي مباشر للعقل الواعي هو «افتراض الخصوصية» الذي لا أساس له. وبإزالة هذا الافتراض الميتافيزيقي -فكرة أن المرء لا يمكنه أبدًا أن يختبر الحالات الواعية لغيره- يُقوَّض الدافع إلى ابتكار ثنائيات مربِكة وبانسيكيات ونظريات تزعم استحالة الحل.",
-    "associated_thinkers": ["William Hirstein"],
+    "associated_thinkers": [
+      "William Hirstein"
+    ],
     "category": "المادية",
-    "subcategory": "العصبي البيولوجي",
+    "subcategory": "عصبية بيولوجية",
     "core_identity_tagline": "تفسير الوعي برفض الخصوصية الميتافيزيقية",
     "classification_tags": [
       "privacy",
@@ -49,30 +51,42 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "بما أن النظرية تلتمس تفسيرًا «فيزيائيًا مباشرًا» للوعي وتُصنَّف ضمن المادية، فلا يوجد مانع مبدئي من صناعة ذكاء اصطناعي واعٍ."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "النظرية نموذج مادي يهدف إلى دحض الثنائيات. وترى المادية أن الوعي نتاج الدماغ البيولوجي وحده، بما يعني توقّفه عند الموت البيولوجي."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "تؤكد النظريات المادية عمومًا أنه بينما يستطيع البشر أن يصنعوا لأنفسهم معنى وقيمة، لا يوجد معنى أو غاية كونيان نهائيان."
     },
     "virtual_immortality": {
-      "stance": "نعم",
+      "stance": "Yes",
       "rationale": "إذا كان الوعي قابلًا للتفسير بالكامل بمصطلحات فيزيائية (كما يرى هيرشتاين)، فإن رفع أنماط الشخص العصبية ومساراتها كاملةً سيحفظ مبدئيًا الذات العقلية من منظور الشخص الأول."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "نقد" },
-      { "name": "Panpsychisms", "relationship": "نقد" },
-      { "name": "Mind-Brain Identity Theory", "relationship": "متوافق" }
+      {
+        "name": "Dualism",
+        "relationship": "نقد"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "نقد"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "متوافق"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Hirstein’s mindmelding", "year": "" },
+      {
+        "title_with_names": "Hirstein’s mindmelding",
+        "year": ""
+      },
       {
         "title_with_names": "Mindmelding: Consciousness, Neuroscience, and the Mind’s Privacy, William Hirstein",
         "year": 2012

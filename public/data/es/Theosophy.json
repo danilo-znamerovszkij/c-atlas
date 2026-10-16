@@ -2,9 +2,12 @@
   "id_and_class": {
     "theory_title": "Teoría de la Teosofía (El Alma Ecléctica y la Conciencia según la Teosofía)",
     "summary": "La Teosofía, que se define a sí misma como \"Sabiduría Divina\", postula que la conciencia es una propiedad fundamental y no emergente, ubicua en todo el cosmos, presente incluso en la materia inorgánica. La existencia humana se describe mediante siete principios, incluyendo tres tipos de alma no física (animal, humana y espiritual), lo que la convierte en un sistema ocultista que considera a la conciencia como algo que evoluciona a través de diversos niveles o planos de manifestación.",
-    "associated_thinkers": ["Madame Blavatsky", "Edi Bilimoria"],
-    "category": "Dualismos",
-    "subcategory": "Los Reinos del Alma",
+    "associated_thinkers": [
+      "Madame Blavatsky",
+      "Edi Bilimoria"
+    ],
+    "category": "Dualismo",
+    "subcategory": "Reinos del alma",
     "core_identity_tagline": "‘La Conciencia como Sabiduría Cósmica Fundamental y de Múltiples Niveles’",
     "classification_tags": [
       "occult",
@@ -51,15 +54,15 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "Dado que la conciencia es ubicua (presente incluso en la materia inorgánica/los átomos), las estructuras de IA podrían poseer 'conciencia atómica'. Sin embargo, alcanzar el nivel complejo humano de 'autoconciencia' ligado al alma espiritual no física y a los cuerpos sutiles es altamente improbable para sistemas puramente artificiales, a menos que la tecnología pueda instanciar estos componentes no físicos."
     },
     "survival_beyond_death": {
-      "stance": "Sí",
+      "stance": "Yes",
       "rationale": "Como teoría dualista que presenta una estructura anímica independiente y no física (el alma espiritual) y que respalda la existencia de 'Reinos del Alma', provee un mecanismo claro para la supervivencia y el desarrollo continuado de la conciencia individual tras la muerte corporal."
     },
     "meaning_and_purpose": {
-      "stance": "Sí, cósmico",
+      "stance": "Cosmic/Ultimate",
       "rationale": "La Teosofía es fundamentalmente una religión de 'Sabiduría Divina' centrada en el 'despliegue de la Conciencia' desde lo No Manifiesto, lo que implica una teleología cósmica hacia el logro espiritual y la realización última."
     },
     "virtual_immortality": {
@@ -70,19 +73,19 @@
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Steiner’s Esoteric Soul and Consciousness",
+        "name": "Steiner's Esoteric Soul and Consciousness",
         "relationship": "Relacionada/Competidora"
       },
       {
-        "name": "Indian Cosmic Consciousness (Idealism)",
+        "name": "Indian Cosmic Consciousness",
         "relationship": "Influencia"
       },
       {
-        "name": "Dualisms (Substance Dualism)",
+        "name": "Dualism",
         "relationship": "Solapamiento"
       },
       {
-        "name": "Panpsychisms",
+        "name": "Panpsychism",
         "relationship": "Solapamiento"
       }
     ],

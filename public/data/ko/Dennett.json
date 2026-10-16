@@ -8,8 +8,8 @@
       "Paul Churchland",
       "Keith Frankish"
     ],
-    "category": "유물론 이론",
-    "subcategory": "신경생물학적",
+    "category": "유물론",
+    "subcategory": "계산론적",
     "core_identity_tagline": "다중 초고와 서사적 중력으로서의 의식",
     "classification_tags": [
       "eliminative materialism",
@@ -57,38 +57,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "기능주의/계산주의에 뿌리를 둔 강한 유물론 이론으로서 의식이 전적으로 물리적이며 계산주의적 기능주의가 참이라고 본다. 따라서 초강력 AI에 도달한 비생물학적 지능은 결국 의식을 획득해야 한다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "유물론 이론에서 생물학적 뇌와 신체의 죽음은 그 인격의 되돌릴 수 없는 영구적 비존재로 귀결된다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "유물론 이론은 궁극적인 우주적 의미나 목적을 정당화하지 않으며, 대신 개인이 스스로를 위해 창출하는 인간적 의미와 가치를 강조한다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "이 이론이 주장하듯 의식이 전적으로 물리적이며 정보 처리로 환원 가능하다면, 일인칭적 심적 자아는 비생물학적 매체로 업로드/복제될 수 있으며 충분한 기술이 주어질 경우 가상적 불멸은 달성 가능하다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "중첩 (핵심적인 철학적 기반)"
       },
       {
-        "name": "Attention Schema Theory (Graziano)",
+        "name": "Graziano's Attention Schema Theory",
         "relationship": "유사성 (기능주의적 접근)"
       },
       {
-        "name": "Global Workspace Theory (GWT)",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "비교 (양자 모두 데카르트적 극장을 거부하고 정보적 접근에 초점을 두지만 세부에서는 다르다)"
       },
       {
-        "name": "Higher-Order Thought Theories",
+        "name": "Higher-Order",
         "relationship": "중첩 (인지적 내용을 우선시한다는 점에서 데닛의 모형은 흔히 고차 이론의 한 형태로 간주된다)"
       }
     ],

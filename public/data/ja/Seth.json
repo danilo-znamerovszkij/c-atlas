@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "セスの「獣機械」理論",
     "summary": "この理論は、世界や自己の知覚を含む意識的経験は、脳にもとづく知覚的予測の一形態であり、比喩的に「制御された幻覚」と呼ばれると主張する。それは、意識の機構を、生き続けるために身体の生理を調整するという根本的な生物学的要請に基礎づける。",
-    "associated_thinkers": ["Anil Seth"],
-    "category": "唯物論の諸理論",
-    "subcategory": "恒常性維持的・情動的",
+    "associated_thinkers": [
+      "Anil Seth"
+    ],
+    "category": "唯物論",
+    "subcategory": "恒常性",
     "core_identity_tagline": "「予測にもとづく制御された幻覚としての意識」",
     "classification_tags": [
       "neurobiology",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありうる",
+      "stance": "Likely",
       "rationale": "計算的で情報処理的な機構（知覚的予測）に焦点を当てる唯物論の理論として、類似の複雑な機構を具現化するAIシステムは意識を実現できるはずである。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識は、生物学的な脳と、複雑で物理的に具現化された予測的機構の産物である。脳の死は、個人的意識の取り返しのつかない永久的な非存在をもたらす。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "唯物論の理論に分類され、究極的あるいは宇宙的な意味や目的を含意しないが、個人の行為主体性と経験から導かれる人間が創出する意味と価値を支持する。"
     },
     "virtual_immortality": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "意識が脳の計算的過程によって全面的に説明可能であるならば、原理的に一人称的な心的自己は非生物学的な基盤において複製・具現化されえ、仮想的不死を可能にする。"
     }
   },
@@ -73,15 +75,15 @@
         "relationship": "重複"
       },
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "両立可能"
       },
       {
-        "name": "T. Clark’s Content Hypothesis",
+        "name": "T. Clark's Content Hypothesis",
         "relationship": "両立可能"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "両立可能"
       }
     ],

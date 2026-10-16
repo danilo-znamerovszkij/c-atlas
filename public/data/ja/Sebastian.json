@@ -1,0 +1,123 @@
+{
+  "id_and_class": {
+    "theory_title": "Sebastianの予測機械",
+    "summary": "Jinesh K. Sebastianは、脳を多層のフィードバック制御系としてモデル化する。その系は世界モデルの将来の状態を予測し、感覚データに照らして修正する。駆動力は、彼が「クオリア・ポテンシャル」と呼ぶスカラー量の最小化である。意識は、この世界モデルを観察し、クオリア・ポテンシャルの変化を感じ、その内部の自己モデルと同一化しうる創発的過程である。ただし、サーンキヤ哲学のプルシャ（見者）とは異なり、永遠ではない。",
+    "associated_thinkers": [
+      "Jinesh Kallunkathariyil Sebastian"
+    ],
+    "category": "唯物論",
+    "subcategory": "恒常性",
+    "core_identity_tagline": "予測的な世界モデルを観察するものとしての意識",
+    "classification_tags": [
+      "predictive processing",
+      "brain oscillations",
+      "qualia potential",
+      "samkhya",
+      "control systems"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は、脳の予測的な世界モデルを観察し、クオリア・ポテンシャルの変動を経験し、自己モデルと結合したときに経験の座となる、創発的過程である。",
+    "ontological_status": "物理主義（非還元的、創発論的）",
+    "mind_body_relationship": "意識は、予測ループ内の神経過程から生じる。Sebastianはサーンキヤの、証人である見者という描像を借用するが、それを永遠の原理ではなく、脳の産物とする。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "弱い創発（階層的な予測制御ループの動態から）",
+    "subjectivity_and_intentionality": "自己モデルを含め、世界モデル内のすべての存在は対象である。意識が自己モデルを身体化するとき、主観的知覚が生じる。その結合が弱まると、意識は身体化なしに世界モデルを経験しうる。Sebastianはこれを体外離脱体験の説明に用いる。",
+    "qualia_account": "感じられた質は、クオリア・ポテンシャルに対応する。これは動機づけと知覚を駆動する潜在的なスカラー量であり、Sebastianはこれをサーンキヤの三つのグナ（サットヴァ、ラジャス、タマス）になぞらえる。",
+    "ontological_commitments": "神経の振動中枢（デルタ、ベータ、ガンマ、アルファ、シータ）；事前分布をもつ学習された世界モデル；その内部の一つの対象としての自己モデル；クオリア・ポテンシャルという量。",
+    "epistemic_access": "予測神経科学と脳リズムのデータに基づく計算モデリングを通じて。錯覚、サイケデリックな視覚像、瞑想状態といった報告された現象と照合される。",
+    "constituents_and_structure": "閉じたループ。デルタ中枢が予測を生成し、ベータ中枢がそれを感覚ごとに分割する。並列のガンマ中枢が様相特異的な誤差を計算し、アルファ中枢が短い時間窓にわたって誤差を統合する。シータ中枢が諸感覚にわたってそれらを融合し、修正をデルタへ返す。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的なもの、自己意識（自己モデルの身体化）、知覚、動機づけ、変性状態",
+    "distinctive_mechanism_or_principle": "遅延された誤差統合ループ内でのクオリア・ポテンシャルの最小化。驚きは二段階で減らされる。まず感覚的な基礎づけが世界モデルの不一致を解消し、次にクオリア・ポテンシャルが最適化されて、将来の予測と行為を導く。",
+    "dynamics_of_emergence": "意識は進行中の過程である。世界モデルは、アルファ帯域の統合の後にのみ更新される。その統合窓の長さが、知覚像の持続時間を定める。窓を長くすると、続く更新が重なり合う。",
+    "location_and_distribution": "脳の中枢の階層に分散している。それらは振動帯域に対応し、頂点のデルタ中枢から、各感覚のための並列のガンマ中枢に至る。",
+    "causation_and_functional_role": "ループは制御に仕える。世界モデルを感覚に対して較正し続け、行為を選択する。クオリア・ポテンシャルは、動機づけ、持続的な目標追求、恒常性の駆動を与える。",
+    "integration_or_binding": "シータ中枢は、複数のアルファ周期にわたる並列のアルファ出力を、様相に依存する重みと閾値によって結合し、整合的な多感覚知覚をもたらす。また、一つの感覚が欠けた別の感覚の代わりを務めることも可能にする。",
+    "information_flow_or_representation": "トップダウンの事前分布はデルタとベータの信号として流れる。ボトムアップの予測誤差はガンマ活動として現れ、アルファとシータ活動として統合され、世界モデルを更新するために戻る。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "アルファの統合窓は残像現象を説明し、その延長はサイケデリック状態における運動の残像やコマ送り的な知覚を説明する。",
+      "シータ中枢における重み付けされた多感覚融合は、ラバーハンド錯覚を説明する。",
+      "予測ループ内の共鳴モードは、深い瞑想やサイケデリック状態で報告される、クラドニ図形に似た幾何学的パターンを生み出す。",
+      "感覚的基礎づけとクオリア・ポテンシャルの最適化を分けることは、純粋な驚きの最小化が直面する暗い部屋問題を解消する。"
+    ],
+    "basis_of_belief_or_evidence_type": "予測神経科学、脳リズムの研究、サーンキヤ哲学に依拠した計算的・理論的モデリング。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的には検証可能",
+    "known_empirical_interventions_or_tests": "Sebastianは、残像現象、ラバーハンド錯覚、サイケデリックな視覚効果、そして後天性サヴァン症候群（Jason Padgettなど）における離散的なコマ送り的知覚の報告を、このモデルが説明する現象として挙げる。",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "特定の計算的役割を振動帯域へ対応させることや、クオリア・ポテンシャルの物理的性質は、実証されたものではなく提案されたものである。世界モデルを観察することがそもそも経験されるべき理由は、サーンキヤの見者との類比に委ねられている。",
+    "ontological_coherence": "物理主義的な予測処理の枠組みに収まる。見者やグナといった二元論的なサーンキヤの語彙を借用しつつ、意識を創発的で非永遠なものとするため、理論が整理し続けなければならない解釈上の緊張が生じる。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Sebastianは、このモデルを、心と機械に共通する制御アーキテクチャとして位置づける。したがって、同じ予測ループの上に作られた機械は、原理的には意識を支えうる。"
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "ここでは意識は神経過程から創発し、明示的に永遠ではないので、脳とともに終わる。"
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "意識は、有機体の内部で予測、制御、動機づけに仕える。この見解は、意識に宇宙的な目的を与えない。"
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "予測ループとそのクオリア・ポテンシャルの動態が別の基盤で再現されるならば、同じ過程が続きうる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Solms's Affect as the Hidden Spring of Consciousness",
+        "relationship": "影響"
+      },
+      {
+        "name": "Sāṃkhya's Pure Witness and the Material Mind",
+        "relationship": "影響"
+      },
+      {
+        "name": "Buzsáki's Neural Syntax and Self-Caused Rhythms",
+        "relationship": "基盤"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Predictive Machine: How Minds and Robots Build Reality from Within, Jinesh K. Sebastian",
+        "year": 2025
+      },
+      {
+        "title_with_names": "A Cognitive Theory of Consciousness, Bernard Baars",
+        "year": 1988
+      },
+      {
+        "title_with_names": "Rhythms of the Brain, György Buzsáki",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science, Andy Clark",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Free-Energy Principle: A Unified Brain Theory?, Karl Friston",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Free-Energy Minimization and the Dark-Room Problem, Karl Friston, Christopher Thornton and Andy Clark",
+        "year": 2012
+      },
+      {
+        "title_with_names": "The Hidden Spring: A Journey to the Source of Consciousness, Mark Solms",
+        "year": 2021
+      }
+    ]
+  }
+}

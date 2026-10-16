@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La Sintiencia de Pereira",
     "summary": "Esta teoría postula que la conciencia tiene dos modalidades distintas: la sintiencia fundamental, caracterizada por sensaciones básicas como el dolor y el hambre, y la conciencia cognitiva de nivel superior, que implica pensamiento abstracto y representación. La afirmación central es que la capacidad cognitiva depende de este estado sintiente subyacente, el cual está biológicamente fundado en sistemas homeostáticos.",
-    "associated_thinkers": ["Antonio Pereira, Jr."],
-    "category": "Materialism",
-    "subcategory": "Homeostatic and Affective",
+    "associated_thinkers": [
+      "Antonio Pereira, Jr."
+    ],
+    "category": "Materialismo",
+    "subcategory": "Homeostático",
     "core_identity_tagline": "La conciencia como un sistema de dos niveles fundado en la sintiencia",
     "classification_tags": [
       "sentience",
@@ -53,7 +55,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "Si los sistemas artificiales pueden replicar completamente los sistemas fisiológicos que rigen la homeostasis bioquímica dinámica (necesaria para la sintiencia) y la actividad de red bioeléctrica necesaria (para la cognición), entonces la conciencia artificial es posible."
     },
     "survival_beyond_death": {
@@ -61,26 +63,26 @@
       "rationale": "Dado que la conciencia depende estrictamente de sistemas biológicos funcionales (control de la homeostasis y redes neuronales), se presume que cesa con la disolución irreversible del cuerpo y el cerebro."
     },
     "meaning_and_purpose": {
-      "stance": "Solo humanístico",
+      "stance": "Humanistic only",
       "rationale": "La teoría se centra en el papel funcional y adaptativo de la conciencia en el mantenimiento de la estabilidad biológica (homeostasis) y en la posibilitación de la cognición flexible, sin proporcionar una base para un propósito cósmico o último."
     },
     "virtual_immortality": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "Teóricamente posible solo si los patrones dinámicos homeostáticos y bioeléctricos específicos identificados como correlatos de la sintiencia y la cognición pueden digitalizarse y replicarse perfectamente en un medio no biológico."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "Solapamiento"
       },
       {
-        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
+        "name": "Solms's Affect as the Hidden Spring of Consciousness",
         "relationship": "Compatible"
       },
       {
-        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
+        "name": "Prinz's Neurofunctionalism: Attention Engenders Experience",
         "relationship": "Compatible"
       }
     ],

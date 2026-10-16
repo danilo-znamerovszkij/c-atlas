@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "チャーマーズの自然主義的二元論",
+    "summary": "デイヴィッド・チャーマーズは、現象的意識は物理的な脳状態へと還元できないが、超自然的なものは何も存在しないと論じる。彼の答えは、経験を、質量、電荷、時空と並ぶ世界の根本的な特徴として扱うことである。経験は、科学がまだ発見していない心理物理法則によって物理的過程と結びつけられる。",
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
+    "category": "二元論",
+    "subcategory": "",
+    "core_identity_tagline": "根本的で法則に支配された自然な性質としての意識",
+    "classification_tags": [
+      "property dualism",
+      "hard problem",
+      "zombies",
+      "psychophysical laws",
+      "naturalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識経験は、自然界の基礎的で非物理的な性質であり、根本的な法則によって物理的性質と体系的に結びつけられている。",
+    "ontological_status": "性質二元論（自然主義的）",
+    "mind_body_relationship": "心的性質は物理的性質と区別され、それらに還元されないが、物理的過程と法則的に相関する。チャーマーズはデカルト的な心的実体と、「機械の中の幽霊」として余分な因果的働きをするいかなるものも退ける。物理的世界はおおむね因果的に閉じているからである。",
+    "primitive_or_emergent_status": "根源的",
+    "emergence_type": "該当しない（経験は根本的な性質であり、橋渡しの法則は、それがどのように物理的過程から生じるかを述べるが、物理的過程から導出するわけではない）",
+    "subjectivity_and_intentionality": "主観的経験は、いかなる物理的ないし機能的な説明も論理的に含意できない所与として扱われる。志向性は別途扱われていない。",
+    "qualia_account": "クオリアは実在し、還元不可能である。経験をもたない、物理的に同一の世界（「ゾンビの世界」）は想定可能であるため、物理的事実は質的事実を論理的に決定せず、クオリアは基礎的なものとして加えられなければならない。",
+    "ontological_commitments": "物理学が記述する物理的な実体と性質に加えて、根本的な現象的性質と、両者を結びつける心理物理法則。魂、霊、超自然的原因はない。",
+    "epistemic_access": "経験は一人称的に知られ、否定しえない。心理物理法則は、物理学が規則性を見出すのと同様に、経験を物理的過程と相関させることで見出されるべきものである。",
+    "constituents_and_structure": "単純な法則に従う基礎的な実体のネットワークへと帰着する宇宙。その基礎的な性質には、物理量だけでなく経験も含まれる。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的意識（困難な問題）。",
+    "distinctive_mechanism_or_principle": "心理物理的な橋渡しの法則: 自然法則の基礎に加えられた新しい根本原理であり、物理的過程と経験を結びつける。チャーマーズは、これらの法則がどのように働くかの候補として、自らの情報の二重側面理論を挙げる。",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "心理物理法則が物理状態を経験に結びつけるところならどこでも。この見解は、意識を特定の脳領域に局在させない。",
+    "causation_and_functional_role": "チャーマーズは、物理的事象は十分な物理的原因をもつと考える。それゆえ、非物理的な心が余分な因果的働きをする余地はない。量子的不確定性が心に因果的役割を与えるために利用されうる可能性は低いと彼は判断する。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "物理的に同一のゾンビの世界が想定可能であるため、意識経験は物理的なものに論理的に随伴しない。",
+      "もしそうなら、意識のいかなる還元的説明も成功しえない。",
+      "意識は、物理学が質量や電荷を扱うのと同様に、独自の根本法則をもつ根本的なものとして扱われるべきである。",
+      "この二元論は物理理論の何ものにも矛盾しない。ただ橋渡しの原理を加えるだけである。"
+    ],
+    "basis_of_belief_or_evidence_type": "哲学的: 想像可能性と様相論証、そして経験という一人称的所与。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "概念的に検証可能",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "物理的世界が因果的に閉じており、経験が非物理的であるなら、経験は因果的な働きをしないように見え、この見解は随伴現象説へと押しやられる。またゾンビ論証は、想像可能性から真の可能性への移行に依拠している。",
+    "open_questions_and_limitations": "心理物理法則は未知であり、この見解はその存在を名指すが、それを述べてはいない。",
+    "ontological_coherence": "チャーマーズは、心的実体を加えるのではなく、基礎的な性質のリストを拡大することで科学的世界観を保つ「無害な」二元論として提示している。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "機械が意識をもつかどうかは、心理物理法則が経験を何に結びつけるかに依存する。もしそれが機械が共有しうる物理的ないし情報的組織化に従うなら、機械は経験をもつことになる。"
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "経験は自然法則を通じて物理的過程から生じ、チャーマーズは超自然的なものを一切排除するため、この見解は、その物理的基盤を失っても経験が続く根拠を与えない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Conditional",
+      "rationale": "シミュレーションが経験をもつのは、心理物理法則が、そのシミュレーションが再現する特徴に経験を結びつける場合に限られる。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Double-Aspect Theory of Information",
+        "relationship": "拡張"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "対照"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "両立可能"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Conscious Mind, David Chalmers",
+        "year": 1996
+      }
+    ]
+  }
+}

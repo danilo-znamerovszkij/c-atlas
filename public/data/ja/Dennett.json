@@ -8,8 +8,8 @@
       "Paul Churchland",
       "Keith Frankish"
     ],
-    "category": "唯物論理論",
-    "subcategory": "神経生物学的",
+    "category": "唯物論",
+    "subcategory": "計算論的",
     "core_identity_tagline": "複数の草稿と物語的重心としての意識",
     "classification_tags": [
       "eliminative materialism",
@@ -57,38 +57,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "はい",
+      "stance": "Yes",
       "rationale": "機能主義/計算論に根ざした強い唯物論的理論として、意識は全面的に物理的であり計算論的機能主義が真であると主張する。したがって超強力な AI を達成する非生物学的知能は、最終的に意識を達成するにちがいない。"
     },
     "survival_beyond_death": {
-      "stance": "いいえ",
+      "stance": "No",
       "rationale": "唯物論理論では、生物学的な脳と身体の死は、その人物の取り返しのつかない永続的な非存在をもたらす。"
     },
     "meaning_and_purpose": {
-      "stance": "人間的なもののみ",
+      "stance": "Humanistic only",
       "rationale": "唯物論理論は究極的な宇宙的意味や目的を合理化せず、代わりに個人が自ら作り出す人間的な意味と価値を強調する。"
     },
     "virtual_immortality": {
-      "stance": "はい",
+      "stance": "Yes",
       "rationale": "意識が全面的に物理的で情報処理に還元可能であるならば（この理論が主張するように）、一人称的な心的自己は非生物学的媒体にアップロード/複製可能であり、十分な技術があれば仮想的不死は到達可能となる。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "重なり合い（中核的な哲学的基盤）"
       },
       {
-        "name": "Attention Schema Theory (Graziano)",
+        "name": "Graziano's Attention Schema Theory",
         "relationship": "類似（機能主義的アプローチ）"
       },
       {
-        "name": "Global Workspace Theory (GWT)",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "比較（両者ともデカルト劇場を退け情報的アクセスに焦点を当てるが、細部では異なる）"
       },
       {
-        "name": "Higher-Order Thought Theories",
+        "name": "Higher-Order",
         "relationship": "重なり合い（ダネットのモデルは認知的内容を優先する点でしばしば高階理論の一形態と見なされる）"
       }
     ],

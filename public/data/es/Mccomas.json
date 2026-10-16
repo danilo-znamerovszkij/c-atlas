@@ -1,0 +1,123 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoría del flujo de memoria hipocámpica, de McComas",
+    "summary": "Alan McComas identifica la conciencia fenoménica con una secuencia continuamente renovada de memorias a corto plazo producida por la descarga de neuronas hipocámpicas. El hipocampo, y no la corteza, es el generador principal de la experiencia: la corteza aporta el contenido, y la memoria hipocámpica lo convierte en un «ahora» extendido en el tiempo, situado en un yo y en un mundo.",
+    "associated_thinkers": [
+      "Alan J. McComas"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "La conciencia como flujo hipocámpico de memoria a corto plazo",
+    "classification_tags": [
+      "hippocampus",
+      "short-term memory",
+      "concept cells",
+      "reductionism",
+      "time"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Ser consciente es que el cerebro mantenga una huella continuamente renovada del «recién pasado-ahora», generada por la actividad patrónica de impulsos de las neuronas hipocámpicas.",
+    "ontological_status": "Fisicalismo (reductivo)",
+    "mind_body_relationship": "Identidad. Los pensamientos, las sensaciones, las intenciones y las imágenes son producidos por impulsos nerviosos, sin ningún agente mental independiente que actúe sobre el cerebro.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia débil, a partir de la descarga hipocámpica que sostiene las huellas de la memoria a corto plazo.",
+    "subjectivity_and_intentionality": "La presencia en primera persona procede de que el sistema de memoria sitúa un episodio en relación con el yo y el mundo. La direccionalidad descansa en células de concepto que responden a una persona, lugar u objeto determinado.",
+    "qualia_account": "McComas sostiene que los qualia son, en principio, una función de la actividad de impulsos neuronales, sin que intervenga ninguna propiedad exótica o no física.",
+    "ontological_commitments": "Neuronas y sus impulsos, el sistema hipocampo-límbico, las huellas de la memoria a corto plazo y las células de concepto.",
+    "epistemic_access": "Neurología clínica, casos de lesión y amnesia, estimulación cerebral y registros de neuronas individuales en pacientes conscientes.",
+    "constituents_and_structure": "La corteza realiza un procesamiento sensorial, lingüístico y motor especializado que permanece inconsciente hasta que el hipocampo une sus salidas en un flujo temporalmente coherente; el sistema reticular activador proporciona la vigilia, pero no la conciencia."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménico, continuidad temporal del presente, reconocimiento, localización del yo; la agencia se trata como producto de la actividad cerebral previa.",
+    "distinctive_mechanism_or_principle": "La descarga hipocámpica genera una secuencia de memorias a corto plazo renovada rápidamente, y ese flujo de memoria es la conciencia.",
+    "dynamics_of_emergence": "Un proceso continuo. No hay conciencia instantánea: la percatación momentánea se vuelve consciente solo cuando la información persiste lo bastante como para ser retenida y reconocida.",
+    "location_and_distribution": "El hipocampo, dentro del sistema límbico, como generador principal; la corteza como proveedora subordinada de contenido diferenciado.",
+    "causation_and_functional_role": "La conciencia es un producto de la actividad neuronal, no su comandante. Basándose en los estudios de Libet sobre el potencial de disposición, McComas sostiene que el querer y el atender son iniciados por una actividad cerebral previa y se experimentan después como agencia consciente.",
+    "integration_or_binding": "El hipocampo une las entradas a lo largo del tiempo, enlaza el «qué» con el «dónde» y convierte la estimulación transitoria en una estructura de tipo episodio.",
+    "information_flow_or_representation": "Las salidas corticales siguen siendo cómputo inconsciente hasta que el hipocampo las convierte en un flujo de memoria. Las células de concepto permiten que un concepto recordado se haga presente sin entrada sensorial, lo que explica los sueños, las imágenes y el habla interior.",
+    "evolutionary_account": "Siguiendo la tesis de continuidad de Darwin, McComas sitúa al generador en sistemas antiguos de memoria y de conceptos compartidos con otros animales, de modo que una conciencia más simple podría existir allí donde tal arquitectura sostenga la memoria, la valoración y el reconocimiento.",
+    "core_claims_and_evidence": [
+      "Penfield encontró que grandes lesiones corticales pueden dejar la conciencia relativamente preservada, mientras que la estimulación del lóbulo temporal evoca fragmentos experienciales vívidos.",
+      "El daño hipocámpico en H. M. y en Clive Wearing produjo una amnesia profunda y una continuidad experiencial sensiblemente contraída.",
+      "Las células de concepto del hipocampo se disparan en el momento o justo antes del reconocimiento de una persona, lugar u objeto, y también cuando el sujeto simplemente lo piensa.",
+      "La vigilia procedente del sistema reticular activador es distinta de la conciencia, que necesita la localización del yo basada en la memoria."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírica: neurofisiología clínica, estudios de lesiones y registros de neuronas individuales."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente contrastable",
+    "known_empirical_interventions_or_tests": "Estudios de lesiones y amnesia, estimulación del lóbulo temporal y registros de neuronas individuales de células de concepto en el lóbulo temporal medial humano.",
+    "criticisms_and_tensions": "Los pacientes con un daño hipocámpico grave siguen despiertos, responden y aparentemente son fenoménicamente conscientes, y gran parte de la evidencia vincula el contenido perceptivo consciente con la actividad cortical posterior y talamocortical. Su lectura de Libet es discutida; Schurger y colaboradores ofrecen una explicación alternativa del potencial de disposición.",
+    "open_questions_and_limitations": "Si el hipocampo es el único generador de la fenomenalidad o solo es indispensable para la continuidad autobiográfica, el reconocimiento y la estructura temporal del yo.",
+    "ontological_coherence": "Fisicalismo reductivo consistente; su fuerza es una afirmación concreta, localizada anatómicamente y potencialmente falsable."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "McComas vincula la conciencia a la actividad de impulsos hipocámpicos y no aborda si un flujo de memoria artificial cualificaría."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Dado que la conciencia es la descarga de las neuronas hipocámpicas, termina cuando esas neuronas dejan de funcionar."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "La teoría es estrictamente reduccionista y no postula ningún propósito cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "La teoría guarda silencio sobre si un flujo de memoria simulado reproduciría el biológico."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Budson’s Consciousness as a Memory System",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "Influencia"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Contraste"
+      },
+      {
+        "name": "Merker’s Midbrain-Centered Reality Space",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Aranzio’s Seahorse and the Search for Memory and Consciousness, Alan J. McComas",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Consciousness: The road to reductionism, Alan J. McComas",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Invariant visual representation by single neurons in the human brain, R. Quian Quiroga, L. Reddy, G. Kreiman, C. Koch and I. Fried",
+        "year": 2005
+      },
+      {
+        "title_with_names": "Loss of recent memory after bilateral hippocampal lesions, W. B. Scoville and B. Milner",
+        "year": 1957
+      },
+      {
+        "title_with_names": "The cerebral cortex in man: I. The cerebral cortex and consciousness, W. Penfield",
+        "year": 1938
+      },
+      {
+        "title_with_names": "Time of conscious intention to act in relation to onset of cerebral activity, B. Libet, C. A. Gleason, E. W. Wright and D. K. Pearl",
+        "year": 1983
+      },
+      {
+        "title_with_names": "What Is the Readiness Potential?, A. Schurger, J. Pak and A. Roskies",
+        "year": 2021
+      }
+    ]
+  }
+}

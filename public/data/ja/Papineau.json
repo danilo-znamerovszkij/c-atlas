@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "パピノーの心脳同一説",
     "summary": "この理論は、意識的状態が根本的かつ文字どおりに特定の脳状態と同一であると主張することによって、神経生物学的物理主義を擁護する。この同一性は科学的推論を介して後験的に発見されると主張し、根強い「説明のギャップ」は深く根づいた二元論的直観のもたらす誤解を招く産物であるとする。",
-    "associated_thinkers": ["David Papineau"],
+    "associated_thinkers": [
+      "David Papineau"
+    ],
     "category": "唯物論",
-    "subcategory": "哲学的",
+    "subcategory": "心脳同一説",
     "core_identity_tagline": "「根本的な心脳同一性としての意識」",
     "classification_tags": [
       "physicalism",
@@ -51,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "意識的状態が物質と過程の特定の構成と根本的に同一であるなら、これらの状態は、必要な物理的構成と複雑性を実現しうるいかなる媒体においても——人工システムを含めて——再現可能でなければならない。"
     },
     "survival_beyond_death": {
-      "stance": "否定",
+      "stance": "No",
       "rationale": "意識は生物学的な脳の過程の特定の組織に厳密に依存し、それと同一である。その物理システムの不可逆な停止の後に意識が存続することは不可能である。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的のみ",
+      "stance": "Humanistic only",
       "rationale": "厳密な物理主義に根ざした理論として、心を自然過程の産物とみなし、人間の行為主体性が創り出すものを超えた宇宙的ないし超越的な意味や目的の基盤を提供しない。"
     },
     "virtual_immortality": {
-      "stance": "肯定",
+      "stance": "Yes",
       "rationale": "意識は脳の特定の物理的組織であるため、この構造を新たな物理的基盤へ完全に複製（アップロード）することは、原理的に意識的同一性を保存するのに十分である。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mind-Brain Identity Theory",
+        "name": "Mind-Brain Identity",
         "relationship": "拡張"
       },
       {

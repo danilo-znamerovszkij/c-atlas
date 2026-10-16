@@ -10,7 +10,7 @@
       "Roger Penrose"
     ],
     "category": "유물론",
-    "subcategory": "계산적·정보적 이론",
+    "subcategory": "계산론적",
     "core_identity_tagline": "형식적 수학 구조로서의 의식",
     "classification_tags": [
       "mathematics",
@@ -57,19 +57,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "의식이 순전히 추상적 수학 구조나 계산 논리에 의해 정의된다면, 그 구조를 실현하는 인공 시스템도 잠재적으로 의식을 구현할 수 있을 것이다."
     },
     "survival_beyond_death": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "존재론적 수학 이론(예: 테그마크, 펜로즈)은 실재의 토대가 영원한 수학적 구조라고 보며, 이는 추상적인 의미에서 의식이 물리적 뇌를 넘어 지속될 가능성을 열어 준다."
     },
     "meaning_and_purpose": {
-      "stance": "조건부 우주적",
+      "stance": "Uncertain",
       "rationale": "우주가 근본적으로 수학적이거나 플라톤적 형상에 뿌리를 두고 있다면, 이는 존재에 내재적인 이성적 의의가 있음을 함축한다. 다만 반드시 개인적·목적론적 의미를 뜻하지는 않는다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Possible",
       "rationale": "마음이 전적으로 정량화 가능한 수학적 구조나 정보 흐름으로 환원된다면, 이 패턴은 원리상 보존되어 새로운 기질에서 구현될 수 있다."
     }
   },
@@ -80,11 +80,11 @@
         "relationship": "영향"
       },
       {
-        "name": "Friston’s Free-Energy Principle and Active Inference",
+        "name": "Friston's Free-Energy Principle and Active Inference",
         "relationship": "영향"
       },
       {
-        "name": "Tegmark’s State of Matter",
+        "name": "Tegmark's State of Matter",
         "relationship": "확장"
       }
     ],

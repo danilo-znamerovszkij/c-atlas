@@ -1,0 +1,115 @@
+{
+  "id_and_class": {
+    "theory_title": "Pinker의 자연주의",
+    "summary": "Steven Pinker는 접근 의식(access consciousness)을 계산적으로 설명하는데, 이는 뇌의 특수화된 체계들이 전역적으로 이용할 수 있게 된 정보이다. 그는 모든 증거가 의식을 신경 활동과 연결한다고 본다. 현상적 의식에 대해서는 ‘약한 신비주의(mysterian-light)’ 입장을 취한다. 그 느껴지는 성격은 실재하며 뇌에 의존하지만, 진화한 우리의 마음에는 그 이유를 이해할 개념이 부족할 수 있다는 것이다.",
+    "associated_thinkers": [
+      "Steven Pinker"
+    ],
+    "category": "도전",
+    "subcategory": "",
+    "core_identity_tagline": "뇌에 묶인 접근, 약한 신비주의적 현상성",
+    "classification_tags": [
+      "naturalism",
+      "access consciousness",
+      "global workspace",
+      "mysterianism",
+      "evolutionary psychology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "접근 의식은 지각, 기억, 언어, 계획, 행위 체계가 모두 사용할 수 있는 공통 형식으로 게시된 정보다. 현상적 의식은 전적으로 뇌의 정보 처리에 의존하지만, Pinker는 이를 고유한 것(sui generis)이라고 부른다.",
+    "ontological_status": "물리주의 (자연주의적, 약한 신비주의 포함)",
+    "mind_body_relationship": "의식은 뇌 활동과 분리될 수 없으며, 뇌를 도구로 사용하는 비물질적 실체가 아니다. 2025년에 Pinker는 현상적 의식이 물이 H₂O에 맞는 방식으로 인과, 환원, 창발, 실현에 맞지 않을 수도 있다고 덧붙였다.",
+    "primitive_or_emergent_status": "불분명함",
+    "emergence_type": "불분명함: 접근 의식은 신경 계산으로부터 생겨나지만, Pinker는 현상적 의식이 창발을 포함해 어떤 표준적 관계에도 맞는지 의심한다.",
+    "subjectivity_and_intentionality": "입력을 검사하고 명령을 내리는 통일된 내적 ‘나’는 인지적 구성물이다. Pinker는 일인칭 관점을 과학이 설명하지 못한 실재하는 잔여물로 다룬다.",
+    "qualia_account": "감각질은 존재한다. 수학적 플라톤주의자에게 정보나 수가 존재하는 방식과 비슷할 수 있으나, Pinker는 그 비교조차 실패할 수 있다고 의심한다. 신경 처리가 왜 느껴지는 경험이거나 그것을 낳는지는 진화한 인간의 인지가 파악할 수 있는 범위를 넘어설 수 있다.",
+    "ontological_commitments": "뉴런, 계산, 진화한 인지 모듈; 영혼은 없고 양자적이거나 이국적인 물리학도 없다.",
+    "epistemic_access": "인지신경과학을 통해서이다: fMRI 해독, 약물, 전기 자극, 분리 뇌 사례, 마취, 양안 경합, 뇌전도(EEG). 뇌는 흔히 사후에 합리화하므로 내성은 믿을 수 없다.",
+    "constituents_and_structure": "경쟁하며 공유 칠판에 정보를 게시하는 특수화된 신경 체계들. 의식은 분산되어 있고, 경쟁적이며, 부분적으로 조작적 설명(confabulation)을 한다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "접근(설명됨); 현상적(인정되지만 인간의 이해를 넘어설 수 있음); 자기(구성물로서)",
+    "distinctive_mechanism_or_principle": "Baars와 Dehaene 식의 전역 작업공간 또는 ‘칠판’ 접근. 이는 정보 과부하를 막고 유연한 행동을 가능하게 하는 실행 요약처럼 작동한다.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "특수화된 뇌 체계들에 걸쳐 분산되어 있으며, 피질 및 시상 활동이 확인된 상관물에 속한다.",
+    "causation_and_functional_role": "의식적 접근은 보고, 추론, 계획, 기억, 언어, 자발적 행위를 뒷받침하며, 그 밖의 정보는 무의식적으로 남아 있으면서도 인과적으로 작동한다.",
+    "integration_or_binding": "정보는 많은 체계가 접근할 수 있는 공통 형식으로 게시됨으로써 통일된다.",
+    "information_flow_or_representation": "마음은 ‘역공학’되어야 할 진화한 계산 기관들의 체계다. Trivers를 따르면, 자기기만이 사회적으로 이득이 되기 때문에 일부 정보는 무의식으로 남는다.",
+    "evolutionary_account": "자연선택은 어떤 정보가 의식이 되는지, 그리고 우리 개념의 한계를 함께 형성했으며, 이것이 어려운 문제가 해결 불가능해 보이는 이유를 설명할 수 있다.",
+    "core_claims_and_evidence": [
+      "수렴하는 신경과학 증거는 신경 과정과 독립적으로 작동하는 의식의 믿을 만한 사례가 없음을 보여 준다.",
+      "의식은 언어나 자기 인식을 요구하지 않는다. 영아, 동물, 실어증 환자도 의식이 있을 수 있기 때문이다.",
+      "어려운 문제에는 초자연 현상, 이국적인 양자 물리학, 비물질적 영혼이 관여하지 않으며, 영혼을 끌어들이는 것은 신비의 이름만 바꿀 뿐이다.",
+      "블랙홀과 생명의 기원도 의식만큼 이상하다. 의식이 특별히 이상해 보이는 것은 주로 그것을 가진 존재가 우리이기 때문이다."
+    ],
+    "basis_of_belief_or_evidence_type": "경험적(인지신경과학, 진화심리학)이며 철학적 분석과 결합되어 있다."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "경험적으로 검증 가능함",
+    "known_empirical_interventions_or_tests": "fMRI 해독, 향정신성 약물, 뇌의 전기 자극, 분리 뇌 연구, 마취와 혼수, 자극으로 유도된 유체이탈 경험, 양안 경합, EEG 리듬.",
+    "criticisms_and_tensions": "Pinker는 현상적 의식에 대한 새로운 기계론적 이론이 아니라 기존 견해들의 종합을 제시한다. 감각(sentience)을 고유한 것이라고 부르면서 그것이 전적으로 뇌에 의존한다고 고집하는 것은 그 존재론적 지위를 미결로 남긴다.",
+    "open_questions_and_limitations": "Pinker는 미래의 ‘의식의 다윈 또는 아인슈타인’이 어려운 문제를 해소할 수도 있다고 인정한다. 그의 현재 판단은 설명적 간극이 인간 인지 구조를 반영한다는 것이며, 그는 Dennett에게 순수한 어려운 문제는 과학적 문제가 아닐 수도 있다고 양보한다.",
+    "ontological_coherence": "주류 자연주의 및 계산주의 마음 이론과 일관된다. 현상적 의식을 환영이라고 부르기를 거부하는 입장은 그를 Dennett의 축소주의와 McGinn의 신비주의 사이에 놓는다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "접근 의식은 계산적 마음에서의 정보 처리이므로, 기계도 원리적으로 그것을 가질 수 있다. 그런 기계가 무엇인가를 느끼는지는 Pinker가 우리가 끝내 풀지 못할 수도 있다고 보는 어려운 문제에 속한다."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Pinker는 의식이 전적으로 신경 활동에 의존하며 비물질적 영혼을 거부하므로, 뇌의 죽음 뒤에 아무것도 살아남지 않는다고 본다."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "비슷한 신경 구조를 가진 존재들이 공유하는 고통을 겪을 능력이 불멸의 영혼을 대신하여 도덕적 관심의 근거가 된다."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "계산적 마음은 원리적으로 재현될 수 있지만, 그 복사본이 현상적 경험을 가질지는 Pinker가 열어 둔 질문이다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "양립 가능"
+      },
+      {
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
+        "relationship": "영향"
+      },
+      {
+        "name": "Dennett’s Illusionism",
+        "relationship": "대조"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "중첩"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "How the Mind Works, Steven Pinker",
+        "year": 1997
+      },
+      {
+        "title_with_names": "The Mystery of Consciousness (Time), Steven Pinker",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Science Is Not Your Enemy (The New Republic), Steven Pinker",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Steven Pinker: On the Problem of Consciousness (interview by Tony Sobrado, The Montréal Review), Steven Pinker",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Can We Solve the Mind–Body Problem?, Colin McGinn",
+        "year": 1989
+      }
+    ]
+  }
+}

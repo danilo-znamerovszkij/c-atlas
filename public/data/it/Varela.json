@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La neurofenomenologia di Varela",
     "summary": "La neurofenomenologia è un approccio metodologico che cerca di stabilire vincoli reciproci tra i fenomeni in prima persona presenti nell'esperienza vissuta (fenomenologia) e i fenomeni neurali in terza persona stabiliti dalle scienze cognitive. L'obiettivo è coniugare una scienza rigorosa con un esame disciplinato dell'esperienza umana, ponendo la struttura dell'esperienza al centro dell'indagine scientifica.",
-    "associated_thinkers": ["Francisco Varela"],
-    "category": "Materialismo",
-    "subcategory": "Incarnata ed enattiva",
+    "associated_thinkers": [
+      "Francisco Varela"
+    ],
+    "category": "Fenomenologia",
+    "subcategory": "",
     "core_identity_tagline": "La coscienza come vincolo reciproco tra esperienza e cervello",
     "classification_tags": [
       "phenomenology",
@@ -53,7 +55,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Improbabile",
+      "stance": "Unlikely",
       "rationale": "La coscienza dipende fortemente dall'esperienza incarnata e vissuta e da dinamiche legate a processi biologici, il che rende insufficiente la mera replica computazionale."
     },
     "survival_beyond_death": {
@@ -61,7 +63,7 @@
       "rationale": "La teoria è classificata tra le teorie materialiste/incarnate, che considerano la coscienza radicata nell'organismo biologico vivente e ramificata attraverso di esso, il che implica la cessazione con la morte corporea."
     },
     "meaning_and_purpose": {
-      "stance": "Umanistico/pragmatico",
+      "stance": "Humanistic only",
       "rationale": "La metodologia cerca di restituire la «vita umana» e l'esperienza soggettiva alla spiegazione scientifica, offrendo significato attraverso la valorizzazione dell'esperienza vissuta contro l'alienazione della pura funzione, senza postulare uno scopo cosmico."
     },
     "virtual_immortality": {
@@ -72,11 +74,11 @@
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Thompson’s Mind in Life",
+        "name": "Thompson's Mind in Life",
         "relationship": "Estensione"
       },
       {
-        "name": "Bitbol’s Radical Neurophenomenology",
+        "name": "Bitbol's Radical Neurophenomenology",
         "relationship": "Estensione/perfezionamento"
       },
       {

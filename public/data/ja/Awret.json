@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "アウレットの意識のホログラフィック対応理論",
+    "summary": "アウレットは量子重力理論からホログラフィック原理を借用し、心的状態が、それ自体とはまったく似ていない脳状態と同一でありうることを説明する。AdS/CFT対応では、ある空間は、その境界上でもつれ合った自由度によって完全に決定される。アウレットは、大規模にもつれ合った意識の神経相関が境界の役割を果たしうると提案し、意識はその空間が構成されるのと同じ仕方で構成されると論じる。彼はこれを、「奇妙な形而上学を奇妙な物理学に置き換える」自然主義的理論と呼ぶ。",
+    "associated_thinkers": [
+      "Uziel Awret"
+    ],
+    "category": "唯物論",
+    "subcategory": "計算論的",
+    "core_identity_tagline": "もつれ合った神経状態のホログラフィック双対としての意識",
+    "classification_tags": [
+      "holographic principle",
+      "quantum gravity",
+      "entanglement",
+      "ads/cft",
+      "physicalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "意識は物質の特異な相である。それは、AdS空間がその境界場の理論のもつれ合った自由度によって構成されるのと同じく、もつれ合った意識の神経相関によって構成される。",
+    "ontological_status": "物理主義（量子重力的、ホログラフィック）",
+    "mind_body_relationship": "心と脳は、一つの系についての根本的に異なる二つの記述を与える、ホログラフィック双対性の両面として関係する。アウレットは、これによって同一性と必然性の結びつきが緩むと論じ、そのため完全に異なるように見えるものが、ある意味で同一でありうるとする。",
+    "primitive_or_emergent_status": "創発的",
+    "emergence_type": "ホログラフィック的創発（AdS/CFTにおいて滑らかな時空が量子情報から構築されるように、意識は境界レベルのもつれから生じる）",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "アウレットは、ホログラフィック対応が構造的不一致の問題を解決しうることを示唆する。その問題とは、現象的状態の構造と、その物理的相関の構造との不一致である。",
+    "ontological_commitments": "脳における量子もつれ、AdS/CFT型のホログラフィック双対性、量子誤り訂正符号、そしてより基礎的な量子的構成要素から構築された時空。",
+    "epistemic_access": "量子重力との類比を通じて、そして最終的には実験室で構築されたAdS空間や、脳のもつれが十分に長く持続するかどうかの検証を通じて。",
+    "constituents_and_structure": "量子コンピュータのように働く、大規模にもつれ合った神経状態の境界と、その局所的安定性が境界の非局所的な誤り訂正符号に対応する、双対的な「バルク」。"
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "現象的構造；心的因果；意識の空間的位置と境界；融合、分裂、アップロードに関する難問",
+    "distinctive_mechanism_or_principle": "ホログラフィック対応。生物学的に関連する時間にわたって大規模にもつれ合った意識の神経相関が、その双対が意識であるような境界場の理論として機能する。",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "意識は、もつれや時空の構築が通常の時空間的存在を超えるのと同様に、空間と時間のうちに位置づけられることに抵抗する。アウレットは、この理論によって、一つの意識がどこで終わり、別の意識がどこで始まるのかが明確になるかもしれないと考える。",
+    "causation_and_functional_role": "アウレットは、心的記述と物理的記述は一つの系についての双対的記述であるため、ホログラフィックな見方は心的因果の問題を回避すると主張する。",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "境界における量子情報は、誤り訂正符号と同様に非局所的に符号化され、その符号化が局所的に安定した双対空間を生み出す。",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "AdS/CFTにおいては、空間の性質はその境界上のもつれ合った自由度によって定まり、このことは、量子情報から滑らかな時空を構築するための方法を与える。",
+      "サスキンドのER=EPR提案は、空間と適切にもつれ合った量子ビットが、ある意味で同一であることを示唆する。",
+      "心の融合、心の分割、心のアップロードに関する難問は、空間の融合、切断、アップロードの問題に似ている。",
+      "アウレットは、このアプローチが、中心的な物理学を変更することなく、構造的不一致、心的因果、そして概念可能性論証に対処すると主張する。"
+    ],
+    "basis_of_belief_or_evidence_type": "理論物理学（量子重力からの類比）と哲学的論証。"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "思弁的",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "アウレットはこの機構を「確かに非常に奇妙である」と呼び、並外れた理論は自らのアプローチを正当化し、何を説明するのかを明確にしなければならないと指摘する。彼は、自らの見解を、プリブラムのような古典的なホログラフィック脳理論から区別している。",
+    "open_questions_and_limitations": "中心的な未解決の問いは、脳における量子もつれが、対応を支えるのに十分な長さと十分な規模で持続しうるかどうかである。アウレットは、10,000個未満の量子ビットをもつれさせることによって、約20年以内に実験室でAdS空間を生成できるかもしれないと予想している。",
+    "ontological_coherence": "アウレットは、思弁的な量子重力から構造を借用しつつ、中心的な物理学を変えずに、物理主義の内にとどまることを目指す。"
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "脳に匹敵する大規模で持続的なもつれを備えたシステム、たとえば大規模な量子コンピュータのみが意識を宿しうるという見解から導かれる。古典的コンピュータはこれに該当しない。"
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "意識は生きた脳のもつれ状態の双対であるため、それらの状態が失われた後に意識が継続することを、この見解は何も支持しない。"
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "アウレットは、心のアップロードは、空間そのものをアップロードする場合と同様の同一性のパラドックスを生むと論じるため、この理論はそれを未解決のままにしている。"
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Pribram's Holonomic Brain Theory",
+        "relationship": "対比"
+      },
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "重なり"
+      },
+      {
+        "name": "Levine’s Explanatory Gap",
+        "relationship": "批判"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "批判"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Awret’s Holographic Correspondence Theory of Consciousness (Landscape of Consciousness entry), Uziel Awret"
+      }
+    ]
+  }
+}

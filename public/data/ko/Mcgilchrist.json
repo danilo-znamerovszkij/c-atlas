@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "McGilchrist의 관계적·창조 과정 관념론",
     "summary": "의식은 환원 불가능하고 원초적이며 우주의 근본적 '재료'로서, 창조적 과정으로 이해된다. 물질은 별개의 실체가 아니라 의식의 파생적 '상(相)'이며, 개별화된 경험을 성취하는 데 필요하다. 뇌의 일차적 역할은 이 편재하는 의식을 매개하고 형성하는 것이며, 이는 두 대뇌 반구의 대비되는 양식에 반영된다.",
-    "associated_thinkers": ["Iain McGilchrist"],
+    "associated_thinkers": [
+      "Iain McGilchrist"
+    ],
     "category": "관념론",
-    "subcategory": "관계적·창조 과정 관념론",
+    "subcategory": "관계적, 창조-과정 관념론",
     "core_identity_tagline": "의식은 우주의 재료이다",
     "classification_tags": [
       "idealism",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "불확실/조건부",
+      "stance": "Uncertain",
       "rationale": "의식은 원초적이고 관계적이며, 개체성을 표현하기 위해 복잡한 매개를 요구한다. 단순한 기능적 계산으로는 요구되는 속성을 포착하지 못할 가능성이 높으나, 공학적으로 구성된 시스템이 그에 필요한 구조를 갖춘다면 의식을 매개할 수도 있다."
     },
     "survival_beyond_death": {
-      "stance": "예, 가능성 높음",
+      "stance": "Likely",
       "rationale": "의식이 우주의 근본적 재료이자 원초적인 것이므로, 개별 자아는 그 물리적 매개자(뇌)가 해체되더라도 우주적 존재의 근거 안에서 존속할 것이다."
     },
     "meaning_and_purpose": {
-      "stance": "우주적/목적론적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "우주는 스스로를 알고 가치(아름다움, 진리, 선함)를 더 발견하고자 하는 근본 의식에 이끌려 목적과 방향을 지닌다."
     },
     "virtual_immortality": {
-      "stance": "가능성 낮음/해당 없음",
+      "stance": "Unlikely",
       "rationale": "의식은 신경 패턴으로 환원되지 않는다(물질은 의식의 '상'으로서 매개된다). 패턴만을 업로드하는 일은 그것을 발생시킨 의식적 과정을 재현하지 못할 가능성이 높으며, 참된 주관적 경험이 없는 한낱 추상이나 모의물만을 낳게 된다."
     }
   },
@@ -79,11 +81,11 @@
         "relationship": "양립 가능"
       },
       {
-        "name": "Nagel’s Mind and Cosmos",
+        "name": "Nagel's Mind and Cosmos",
         "relationship": "영향"
       },
       {
-        "name": "Idealisms",
+        "name": "Idealism",
         "relationship": "확장"
       }
     ],

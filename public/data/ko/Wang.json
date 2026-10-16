@@ -1,0 +1,119 @@
+{
+  "id_and_class": {
+    "theory_title": "왕의 층위 구조 아키텍처와 인지정보학",
+    "summary": "왕은 의식을 뇌의 층위적 기능 구조에서 가장 높은 집합 상태로 본다. 이 구조는 대사적 항상성, 무의식적 처리, 하의식적 처리로 쌓여 올라간다. 의식은 신체와 정서의 상태에 관한 실시간 정보를 제안된 소뇌의 '의식 상태 기억'에 기록하고, 시상이 이를 동적으로 처리한다. 왕은 이 과정을 인지 컴퓨터와 로봇이 구현할 수 있도록 자신의 지시 수학으로 적는다.",
+    "associated_thinkers": [
+      "Yingxu Wang"
+    ],
+    "category": "유물론",
+    "subcategory": "계산론적",
+    "core_identity_tagline": "형식화된 뇌 아키텍처의 최상층으로서의 의식",
+    "classification_tags": [
+      "cognitive informatics",
+      "layered model",
+      "denotational mathematics",
+      "thalamus",
+      "cognitive computing"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "의식은 자기인식, 환경 인식, 의도적 반응성이라는 집합 상태이며, 그 아래 층위들로부터 생겨난다. 왕은 이를 자아감이자 자연 지능의 생명의 표지라고도 부른다.",
+    "ontological_status": "물리주의(기능주의적, 정보처리적)",
+    "mind_body_relationship": "정신 과정은 생리적 구조의 기능이며, 인지 기능을 신경 기제에 대응시키는 참조 모형 안에 조직된다.",
+    "primitive_or_emergent_status": "창발적",
+    "emergence_type": "약한 창발(의식은 항상성, 무의식, 하의식이라는 하위 층위로부터 귀납적으로 종합된다)",
+    "subjectivity_and_intentionality": "주체성은 신체와 정서 상태에 대한 자기인식이다. 더 높은 후천적 과정은 의도적이고 목표 지향적이며 의식적 통제 아래 있다.",
+    "qualia_account": "",
+    "ontological_commitments": "신경 및 생리적 구조(특히 소뇌와 시상), 제안된 의식 상태 기억을 포함한 여러 기억 유형, 그리고 지시 수학으로 기술할 수 있는 형식적 인지 과정.",
+    "epistemic_access": "형식적 명세와 계산 모형화를 통해서이며, 신경해부학적 대응은 검증 수단으로 쓰인다.",
+    "constituents_and_structure": "여섯 층위(감각, 기억, 지각, 행위, 메타인지, 고차 인지)에 걸친 서른일곱 가지 인지 과정이며, 이는 유전된 기능과 후천적 기능으로 나뉘고 항상성, 무의식, 하의식, 의식의 네 단계 위계 안에 중첩된다. 이후 일부 판본은 추론을 더해 일곱 층위를 쓴다."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "접근, 자기 감시, 환경 인식, 의도적 통제. 현상적 성격은 다루지 않는다.",
+    "distinctive_mechanism_or_principle": "의식 상태는 현재의 사건(외부 자극과 내적 동기)과 의식 상태 기억의 내용을 그 기억의 갱신된 상태로 대응시키는 함수이다.",
+    "dynamics_of_emergence": "의식은 시상이 지속적으로 실행하는 동적이고 실시간적인 함수이며, 사건이 도착할 때마다 신체와 정서의 상태를 갱신한다.",
+    "location_and_distribution": "의식 상태 기억은 소뇌에 있고, 동적 처리는 시상에서 이루어지며(왕은 이를 뇌의 중앙처리장치라고 부른다), 내용은 대뇌피질의 활동이 공급한다.",
+    "causation_and_functional_role": "의식은 유기체의 내적 상태, 환경, 그 둘 사이의 관계에 관한 정보를 통합하고, 의도적 반응을 조정한다.",
+    "integration_or_binding": "통합은 시상을 통해 이루어지며, 시상은 거의 모든 대뇌피질 및 피질하 구조와 연결되어 있다.",
+    "information_flow_or_representation": "표상과 처리가 나뉘어 있다. 소뇌는 각 신체 부위의 상태를 세밀하게 기록하고, 시상이 이를 처리한다.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "뇌의 정신 과정은 유전된 자동적 기능에서 후천적이고 가소적이며 목표로 통제되는 기능에 이르는 층위적 위계를 이룬다.",
+      "항상성은 의식이 아니지만, 의식이 필요로 하는 생리적 안정성을 제공한다.",
+      "소뇌는 단기, 장기, 감각 버퍼, 행위 버퍼 기억과 나란히 하나의 기억 유형인 의식 상태 기억으로 기능한다.",
+      "개념 대수, 실시간 과정 대수, 체계 대수는 기계 구현이 가능할 만큼 의식을 정확하게 명세할 수 있다."
+    ],
+    "basis_of_belief_or_evidence_type": "계산적·형식적 모형화(소프트웨어 과학, 체계공학)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "경험적으로 검증 가능",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "의식 상태 기억을 소뇌에 두는 것은, 선천적으로 소뇌가 없거나 소뇌를 제거한 사람들이 대체로 의식을 유지한다는 임상적 증거와 충돌한다. 형식적 장치는 주로 왕 자신의 연구 프로그램과 학술지 안에서 발전해 왔으며, 더 넓은 의식 문헌과의 교류는 제한적이다.",
+    "open_questions_and_limitations": "이 틀은 접근, 자기 감시, 기능적 조직을 다루며, 의식 상태 기억의 상태가 어째서 무언가처럼 느껴져야 하는지는 설명하지 않는다. 그 신경해부학적 주장은 형식적 장치보다 더 사변적이다.",
+    "ontological_coherence": "기능주의적 물리주의와 일관된다. 층위의 수와 명칭은 왕의 발표마다 다르다."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "왕은 인지 컴퓨터와 로봇이 구현할 수 있도록 의식을 명시적으로 형식화하며, 이는 기계 의식이 달성 가능하다는 전제를 함축한다."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "의식은 생리적 구조로부터 생겨나고 항상성에 의존하므로, 신체와 함께 끝난다는 관점에서 따라 나온다."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "이 모형은 기계 안의 의식을 허용하지만, 왕은 특정 개인의 의식을 옮기는 문제는 논하지 않는다."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Theories",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Minsky's Society of Mind",
+        "relationship": "양립 가능"
+      },
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "중첩"
+      },
+      {
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "양립 가능"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "On Cognitive Informatics, Yingxu Wang",
+        "year": 2003
+      },
+      {
+        "title_with_names": "A Layered Reference Model of the Brain (LRMB), Y. Wang, Y. Wang, S. Patel, and D. Patel",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Cognitive Informatics Models of the Brain, Y. Wang and Y. Wang",
+        "year": 2006
+      },
+      {
+        "title_with_names": "The OAR Model of Neural Informatics for Internal Knowledge Representation in the Brain, Yingxu Wang",
+        "year": 2007
+      },
+      {
+        "title_with_names": "On Contemporary Denotational Mathematics for Computational Intelligence, Yingxu Wang",
+        "year": 2008
+      },
+      {
+        "title_with_names": "The Cognitive Mechanisms and Formal Models of Consciousness, Yingxu Wang",
+        "year": 2012
+      }
+    ]
+  }
+}

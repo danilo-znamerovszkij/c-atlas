@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "ノートフの非還元的神経哲学理論",
     "summary": "この理論は主として、哲学的概念および存在論的理論を経験的神経科学のデータと双方向的に体系的に結びつけることによって、脳と心の込み入った関係を分析するために設計された方法論的戦略である。その目標は、心的概念を物理的事実へと還元することなく、主観性への洞察を提供することにある。",
-    "associated_thinkers": ["Georg Northoff"],
-    "category": "非還元的物理主義",
+    "associated_thinkers": [
+      "Georg Northoff"
+    ],
+    "category": "非還元的",
     "subcategory": "非還元的神経哲学",
     "core_identity_tagline": "哲学と神経科学の接点における方法論的道具",
     "classification_tags": [
@@ -51,30 +53,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありそう",
+      "stance": "Likely",
       "rationale": "非還元的物理主義的アプローチとして、意識は特定の複雑な動態（時空的メカニズム）の実現に結びついている。これらの動態を人工的に複製できるなら、AIにおける意識は可能なはずである。"
     },
     "survival_beyond_death": {
-      "stance": "否定",
+      "stance": "No",
       "rationale": "この理論は脳の物理的メカニズム（神経生態学的、神経内臓的、自発的活動のマトリクス）に基礎づけられる。これらの物理的過程の停止は、創発的な意識的構造（感受性）の停止を含意する。"
     },
     "meaning_and_purpose": {
-      "stance": "不確実",
+      "stance": "Uncertain",
       "rationale": "この理論は主として方法論的であり、究極的な宇宙的意味よりは意識のメカニズムと構造に焦点を当てる。しかし、その非還元的立場は、主観性から生じる意味と価値を肯定することと両立する。"
     },
     "virtual_immortality": {
-      "stance": "ありそう",
+      "stance": "Likely",
       "rationale": "意識が複雑で非還元的な時空的動態から創発するなら、これらの複雑なパターンの完全な複製とアップロードが一人称的な意識的自己を首尾よく保存するという理論的可能性が存在し、このカテゴリーに暗に含まれる機能主義的側面と軌を一にする。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Northoff’s Temporo-Spatial Sentience",
+        "name": "Northoff's Temporo-Spatial Sentience",
         "relationship": "拡張"
       },
       {
-        "name": "Embodied and Enactive Theories",
+        "name": "Embodied",
         "relationship": "両立可能"
       },
       {

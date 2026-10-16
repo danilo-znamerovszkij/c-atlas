@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "マッサーの「本当にそれほど難しいのか？」",
     "summary": "この立場は、意識が究極的な神秘であるという見解に異議を唱え、むしろそれが、とりわけ関係論的物理学と人工知能（AI）研究の概念を統合することによって、科学的方法で接近可能な理解可能な現象である可能性が高いと論じる。ハードプロブレムは最終的に解決できるという慎重な楽観を保つ。",
-    "associated_thinkers": ["George Musser"],
-    "category": "チャレンジ理論",
+    "associated_thinkers": [
+      "George Musser"
+    ],
+    "category": "チャレンジ",
     "subcategory": "チャレンジ理論",
     "core_identity_tagline": "「手強いが認識可能な問題としての意識」",
     "classification_tags": [
@@ -51,26 +53,26 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "ありそう",
+      "stance": "Likely",
       "rationale": "科学／計算の力への楽観的な信念は、AIの意識が達成可能であり、AIシステムが意識の解を発見するために必要な道具ですらありうることを示唆する。"
     },
     "survival_beyond_death": {
-      "stance": "否定",
+      "stance": "No",
       "rationale": "マッサーの見解は、意識が「この世界のもの」であり物理的構造から創発するという点に根ざしており、物理的解体とともに停止することを含意する（論証の唯物論的文脈と整合する）。"
     },
     "meaning_and_purpose": {
-      "stance": "人間主義的のみ",
+      "stance": "Humanistic only",
       "rationale": "焦点は既知の物理的宇宙の内部で解を見出すことにあり、宇宙論的な目的論の基盤は提供せず、心が宇宙を理解しうることに由来する人間主義的な意味のみを提供する。"
     },
     "virtual_immortality": {
-      "stance": "ありそう（条件付き）",
+      "stance": "Conditional",
       "rationale": "心の完全な関係論的／物理的パターンを完全にモデル化・計算的にシミュレーション・再現できるなら、仮想的な連続性は可能なはずである。ただし膨大な複雑性が実践上の課題として残る。"
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Rovelli’s Relational Physics",
+        "name": "Rovelli's Relationship Physics",
         "relationship": "影響"
       },
       {
@@ -78,7 +80,7 @@
         "relationship": "探索の文脈"
       },
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
         "relationship": "批判"
       },
       {

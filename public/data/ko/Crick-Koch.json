@@ -58,30 +58,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "의식이 전적으로 물리적 조직 패턴(NCC)으로 환원 가능하다면, 그 정확한 패턴을 재현할 수 있는 비생물학적 체계도 기술적 제약이 없는 한 의식을 갖게 될 것이다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "유물론 이론으로서 의식은 전적으로 물리적 뇌에 의존한다. 뇌 기능의 정지는 의식의 종식을 함축한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "유물론과 일관되게 의식은 진화와 물리학의 생물학적 산물이며, 인간이 스스로 창출하는 것 이외의 궁극적인 우주적 의미나 목적론을 부여하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "NCC 상태가 완전하게 측정되어 디지털 또는 인공 매체에서 재현될 수 있다면(마인드 업로딩), 그 결과인 체계는 기능적으로도 현상적으로도 동일할 것이며 원리상 가상적 불멸이 달성된다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Recurrent Processing Theory (Lamme)",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "중첩"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "중첩/대조"
       },
       {

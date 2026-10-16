@@ -6,8 +6,8 @@
       "Antonio Damasio",
       "Hanna Damasio"
     ],
-    "category": "유물론 이론",
-    "subcategory": "항상성적·정동적 이론",
+    "category": "유물론",
+    "subcategory": "항상성",
     "core_identity_tagline": "항상성적 느낌으로서의 의식",
     "classification_tags": [
       "homeostasis",
@@ -54,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "조건부",
+      "stance": "Conditional",
       "rationale": "인공 시스템이 복잡한 항상성 조절이 가능한 기질을 갖추고 그 체계의 '생명'(또는 그에 상응하는 생존 요청)의 상태를 반영하는 필요한 '항상성적 느낌'을 생성할 수 있다면, 유물론과 일치하는 방식으로 인공지능의 의식이 가능할 것이다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식은 근본적으로 생물학적 과정, 구체적으로는 복잡한 유기체의 신경계 안에서 발생하는 항상성적 느낌에 의존한다. 생물학적 기질의 죽음 이후에도 존속하는 비물리적 구성 요소를 위한 여지는 없다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적 차원에 한함",
+      "stance": "Humanistic only",
       "rationale": "의식은 생명 조절과 생존에 봉사하기 위해 진화했다. 유물론 이론으로서, 궁극적 의미/목적은 부재하지만 의미와 가치는 의식적 인간이 창출한다는 관점과 부합한다."
     },
     "virtual_immortality": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "물리적 과정(항상성적 느낌의 생성 및 인지적 심상과의 통합에 관련된 모든 기제를 포함하여)이 비생물학적 매체에서 완벽하게 복제될 수 있다면, 그 결과로서의 물리적 상태의 완벽한 복제는 정신적 상태의 완벽한 복제를 수반하며, 따라서 가상 불멸이 가능해질 것이다."
     }
   },
@@ -77,11 +77,11 @@
         "relationship": "중첩"
       },
       {
-        "name": "Neurobiological Theories",
+        "name": "Neurobiological",
         "relationship": "확장"
       },
       {
-        "name": "Embodied and Enactive Theories",
+        "name": "Embodied",
         "relationship": "양립 가능"
       }
     ],

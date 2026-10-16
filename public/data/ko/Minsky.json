@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "민스키의 마음의 사회",
     "summary": "이 이론은 인간의 인지와 지능이 뇌에 자리한 수많은 특화되고 반쯤 독립적인 기능 요소, 곧 '행위자'들의 병렬적이고 비의식적인 상호작용으로부터 창발한다고 본다. 의식 자체는 단일하고 통일된 실체가 아니라 이러한 다양한 인지 및 자각 과정의 집합을 모호하게 지칭하는 데 쓰이는 '여행 가방 용어'로 간주된다.",
-    "associated_thinkers": ["Marvin Minsky"],
+    "associated_thinkers": [
+      "Marvin Minsky"
+    ],
     "category": "유물론",
-    "subcategory": "신경생물학적",
+    "subcategory": "계산론적",
     "core_identity_tagline": "‘행위자들을 지칭하는 여행 가방 용어로서의 의식’",
     "classification_tags": [
       "computational",
@@ -51,30 +53,30 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "의식이 특화된 행위자들의 필요한 계산적 상호작용과 상위 수준 기술로부터 비롯된다면, 이러한 특정한 형태의 상위 수준 조직을 구현할 수 있는 인공 체계는 의식을 가져야 한다."
     },
     "survival_beyond_death": {
-      "stance": "불가능함",
+      "stance": "No",
       "rationale": "의식은 전적으로 생물학적 뇌/기계의 물리적 존재와 기능적 조직에 의존하며, 그 해체는 마음의 영구적 종식을 함축한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적/실용적 차원",
+      "stance": "Humanistic only",
       "rationale": "복잡한 인지적 조직(의식)의 기능적 목적은 유기체가 세계를 항행하고 계획을 세우며 자신을 모형화하도록 돕는 것으로, 주관적 의미를 제공하되 포괄적인 우주적 목적을 함축하지는 않는다."
     },
     "virtual_immortality": {
-      "stance": "가능함",
+      "stance": "Yes",
       "rationale": "마음이 그 정보적 패턴과 기능적 조직(상위 수준 기술)에 의해 정의되는 이상, 이러한 복잡한 상호작용을 재현할 수 있는 비생물학적 매체로의 전면적 복제나 업로드는 원래의 의식적 동일성을 이전할 것이다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Dennett’s Multiple Drafts Model",
+        "name": "Dennett's Multiple Drafts Model",
         "relationship": "양립 가능"
       },
       {
-        "name": "Graziano’s Attention Schema Theory",
+        "name": "Graziano's Attention Schema Theory",
         "relationship": "양립 가능"
       },
       {

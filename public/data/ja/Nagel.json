@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "ネーゲルの『心と宇宙』",
     "summary": "この立場は、支配的な唯物論的・ネオダーウィニズム的な自然観に異議を唱え、それが主観的経験の還元不可能な性質、すなわち意識をもつ有機体であることの「どのようであるか」を説明できていないと主張する。心は自然そのものの基本原理として組み込まれねばならないと提唱する。",
-    "associated_thinkers": ["Thomas Nagel"],
-    "category": "チャレンジ理論",
-    "subcategory": "ネーゲルの『心と宇宙』",
+    "associated_thinkers": [
+      "Thomas Nagel"
+    ],
+    "category": "チャレンジ",
+    "subcategory": "ネーゲルの『Mind and Cosmos』",
     "core_identity_tagline": "自然の基本原理としての心",
     "classification_tags": [
       "subjectivity",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "不確実／条件付き",
+      "stance": "Uncertain",
       "rationale": "機能主義と還元主義への批判として、ネーゲルの見解は、基本的な心的性質を欠く純粋に計算的な存在がおそらく哲学的ゾンビであることを示唆する。帰結は、将来のAIが仮定された普遍的な心的原理を実現しうるかどうかに依存する。"
     },
     "survival_beyond_death": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "意識が生物学的な創発物ではなく普遍的で基本的な性質であるなら、その本質は身体の解体後も存続しうる（汎心論的傾斜から推論される）。ただしおそらくは人格的同一性の保持を伴わない。"
     },
     "meaning_and_purpose": {
-      "stance": "宇宙的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "唯物論が含意する「無意味さ」を克服するために、心を基本的な自然原理として明示的に組み込もうとし、非有神論的で内在的な宇宙的目的あるいは価値を示唆する。"
     },
     "virtual_immortality": {
-      "stance": "ありそうにない／条件付き",
+      "stance": "Unlikely",
       "rationale": "主観的経験の還元不可能性は、物理的／機能的パターンのみの複製では、元の一人称的意識を移すことに失敗することを意味する。"
     }
   },
@@ -75,15 +77,15 @@
         "relationship": "影響"
       },
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
         "relationship": "両立可能"
       },
       {
-        "name": "Panpsychisms",
+        "name": "Panpsychism",
         "relationship": "拡張"
       },
       {
-        "name": "Papineau’s Mind-Brain Identity",
+        "name": "Papineau's Mind-Brain Identity",
         "relationship": "批判"
       }
     ],

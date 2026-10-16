@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "La teoria a doppio aspetto dell'informazione di Chalmers",
+    "summary": "David Chalmers propone in via provvisoria che l'informazione sia ontologicamente fondamentale e abbia due aspetti: un aspetto fisico, realizzato in sistemi come cervelli e computer, e un aspetto fenomenico, realizzato come esperienza soggettiva. Ogni volta che uno spazio informazionale si realizza nell'esperienza, lo stesso spazio si realizza anche fisicamente; l'informazione funge quindi da moneta comune tra il fisico e il fenomenico.",
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
+    "category": "Info integrata",
+    "subcategory": "",
+    "core_identity_tagline": "Informazione con un volto fisico e uno fenomenico",
+    "classification_tags": [
+      "information",
+      "double-aspect",
+      "hard problem",
+      "naturalistic dualism",
+      "neutral monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La coscienza è l'aspetto fenomenico dell'informazione: lo stesso stato informazionale che si realizza in un substrato fisico si realizza anche nell'esperienza.",
+    "ontological_status": "Monismo a doppio aspetto (basato sull'informazione)",
+    "mind_body_relationship": "I processi fisici e l'esperienza sono due realizzazioni di un unico spazio informazionale. La proposta è offerta come un modo per far funzionare il dualismo naturalistico di Chalmers, nel quale i processi fisici danno origine all'esperienza senza esserle identici.",
+    "primitive_or_emergent_status": "Primitivo",
+    "emergence_type": "Non applicabile (l'informazione e il suo aspetto fenomenico sono trattati come fondamentali, non come derivati)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "I qualia sono il lato intrinseco, esperienziale, degli stati informazionali. La struttura di un'esperienza corrisponde alla struttura dell'informazione realizzata nel suo substrato fisico.",
+    "ontological_commitments": "Spazi informazionali come fondamentali, con aspetti fisici e fenomenici; sistemi fisici sia viventi sia artificiali.",
+    "epistemic_access": "Attraverso l'analisi filosofica della corrispondenza strutturale tra l'esperienza e il suo substrato fisico.",
+    "constituents_and_structure": "Spazi e stati informazionali, ciascuno realizzato due volte: una volta fisicamente e, potenzialmente, una volta fenomenicamente."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenica",
+    "distinctive_mechanism_or_principle": "Doppia realizzazione: lo stesso spazio informazionale si realizza fisicamente e fenomenicamente, e Chalmers suggerisce che questa «doppia vita» possa essere il legame fondamentale tra processi fisici ed esperienza.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Dovunque l'informazione si realizzi fisicamente vi è una potenzialità di esperienza, quindi l'esperienza non è limitata in linea di principio ai cervelli.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "L'informazione è il concetto ponte: dovunque vi sia esperienza cosciente vi è informazione, e dovunque vi sia informazione vi è una potenzialità di esperienza cosciente.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Ogni volta che uno spazio informazionale si realizza fenomenicamente, lo stesso spazio si realizza fisicamente.",
+      "L'informazione può essere trattata come la moneta comune tra il fisico e il fenomenico.",
+      "Questa ontologia a doppio aspetto riecheggia idee che vanno da Spinoza al monismo neutrale di Russell.",
+      "Se la teoria fallisse, il dualismo naturalistico potrebbe comunque essere vero per qualche altro principio."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosofica (argomento a priori a partire dall'hard problem e dalla coerenza strutturale tra mente e cervello)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculativa",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Chalmers stesso definisce la teoria speculativa e si chiede quanto sul serio vada preso il linguaggio del doppio aspetto e se esso reifichi l'informazione. Se ogni stato informazionale porta con sé una potenziale esperienza, la visione diffonde l'esperienza in modo molto ampio.",
+    "open_questions_and_limitations": "Chalmers lascia aperto se il fisico, il fenomenico o entrambi dipendano ontologicamente dall'informazionale, e quali stati informazionali siano effettivamente esperiti.",
+    "ontological_coherence": "Si inserisce nelle tradizioni del monismo neutrale e russelliano e serve il dualismo naturalistico di Chalmers, sebbene il dualismo naturalistico non dipenda da essa."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "L'informazione si realizza nei computer così come nei neuroni, e dove c'è informazione c'è una potenzialità di esperienza."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Se l'esperienza segue la struttura dell'informazione, un sistema che realizza lo stesso spazio informazionale di un cervello realizzerebbe la stessa esperienza."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Fondamento"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Influenza"
+      },
+      {
+        "name": "Spinoza’s One Reality: Embodied Mind and Graded Consciousness",
+        "relationship": "Influenza"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Sovrapposizione"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Chalmers’ Double-Aspect Theory of Information, David Chalmers",
+        "year": 1996
+      }
+    ]
+  }
+}

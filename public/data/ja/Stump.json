@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "スタンプのトマス主義的二元論",
     "summary": "この理論は、人間の魂に関する聖トマス・アクィナスの説明を、非デカルト的な形態の二元論として提示する。魂を本質的に非物質的ないし配置的な構成要素でありながらも物質的構成要素の内に実現されるものとして措定し、それによって人間の物質性と、肉体の死後における霊の存続との調停を可能にする。",
-    "associated_thinkers": ["Eleonore Stump", "St. Thomas Aquinas"],
+    "associated_thinkers": [
+      "Eleonore Stump",
+      "St. Thomas Aquinas"
+    ],
     "category": "二元論",
     "subcategory": "哲学的",
     "core_identity_tagline": "物質の内に実現される非デカルト的な非物質的魂",
-    "classification_tags": ["dualism", "thomism", "non-Cartesian", "soul"]
+    "classification_tags": [
+      "dualism",
+      "thomism",
+      "non-Cartesian",
+      "soul"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "意識、すなわち人間の魂／霊は、本質的に非物質的ないし配置的な実体であり、物質的構成要素（身体）の内に実現される。",
@@ -45,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "条件付き",
+      "stance": "Conditional",
       "rationale": "もし意識が、生物学的物質の内に実現される本質的に非物質的ないし配置的な魂に結びついているならば、物理的構成要素のみから構築された人工システムは、魂を生み出す心理物理的法則が非生物学的な基盤にも適用されうるのでない限り、この必要な非物理的構成要素を欠くことになろう。"
     },
     "survival_beyond_death": {
-      "stance": "はい",
+      "stance": "Yes",
       "rationale": "この理論は、人格の意識の座である霊／魂が身体の解体後も存続することを受け入れるよう明示的に構築されている。"
     },
     "meaning_and_purpose": {
-      "stance": "宇宙的／神学的",
+      "stance": "Cosmic/Ultimate",
       "rationale": "この枠組みはキリスト教スコラ哲学に根ざし、創造と霊の神への帰還に関する聖書的教義を統合し、それによって究極的な意味と目的を与える。"
     },
     "virtual_immortality": {
-      "stance": "いいえ",
+      "stance": "No",
       "rationale": "非物理的な実体（魂）を必要とする実体二元論の一変種として、（仮想的不死のように）物理的構造のみを複製しても、自己の連続性に必要な本質的な非物理的構成要素が欠落することになる。"
     }
   },
@@ -68,11 +76,11 @@
         "relationship": "区別（性質二元論は実体二元論を否定するが、トマス主義的二元論は実体と物質的還元主義との伝統的な二分法を超えることを目指す。）"
       },
       {
-        "name": "Substance Dualism (Cartesian)",
+        "name": "Dualism",
         "relationship": "批判"
       },
       {
-        "name": "Jaworski’s Hylomorphism",
+        "name": "Jaworski's Hylomorphism",
         "relationship": "重なり"
       }
     ],

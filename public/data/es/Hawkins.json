@@ -1,0 +1,124 @@
+{
+  "id_and_class": {
+    "theory_title": "Modelado recordado de los mil cerebros, de Hawkins",
+    "summary": "Jeff Hawkins sostiene que el neocórtex construye miles de modelos paralelos del mundo, uno por cada columna cortical, y que estos modelos llegan a una única percepción mediante votación. Para él, la percatación es el cerebro recordando y evocando de forma continua sus propios estados recientes de modelo, mientras que los qualia reflejan a qué está conectado cada parche de córtex uniforme.",
+    "associated_thinkers": [
+      "Jeff Hawkins"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "La conciencia como estados recordados de modelos corticales",
+    "classification_tags": [
+      "neocortex",
+      "cortical columns",
+      "reference frames",
+      "memory",
+      "machine consciousness"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conciencia es una simulación generada por el cerebro, producida por el modelado neocortical. La percatación se identifica con el almacenamiento y la evocación continuos de los estados recientes de modelo del cerebro; los qualia, con la conectividad de las columnas corticales.",
+    "ontological_status": "Fisicalismo (funcionalista)",
+    "mind_body_relationship": "La mente es lo que hace el neocórtex. La experiencia es el resultado de los modelos corticales, la votación, la predicción y la acción, sin ningún ingrediente adicional más allá de la arquitectura funcional.",
+    "primitive_or_emergent_status": "Emergente",
+    "emergence_type": "Emergencia débil, a partir del modelado cortical distribuido y de la memoria de los estados del modelo.",
+    "subjectivity_and_intentionality": "El modelo del mundo del cerebro incluye un modelo del yo, y la sensación vivida de ser consciente procede de que el córtex registra y evoca de forma continua sus propios estados. La intencionalidad descansa en marcos de referencia sensoriomotores que las columnas asocian a objetos, lugares y conceptos.",
+    "qualia_account": "Como los mismos circuitos procesan la visión, el tacto y la audición, Hawkins atribuye las diferencias cualitativas entre los sentidos a lo que está conectado a cada columna: qué entradas recibe y qué conductas impulsa. Espera que el problema difícil se disuelva a medida que estas explicaciones maduren.",
+    "ontological_commitments": "Columnas corticales; marcos de referencia de tipo mapa, adaptados de la maquinaria de las células de rejilla y de lugar; actividad neuronal predictiva; y huellas de memoria de los estados del modelo.",
+    "epistemic_access": "Se estudia mediante la neuroanatomía, el modelado computacional de circuitos corticales y experimentos mentales sobre la memoria borrada y el autoinforme.",
+    "constituents_and_structure": "Unas 150.000 columnas corticales, cada una de las cuales aprende modelos sensoriomotores completos de objetos y conceptos, densamente interconectadas, de modo que sus modelos parciales convergen por votación en un único percepto."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Percatación, unidad perceptiva, automodelado, qualia (deflacionistas); principalmente una teoría de la inteligencia.",
+    "distinctive_mechanism_or_principle": "Miles de modelos a nivel de columna votan para alcanzar un percepto de consenso, y la percatación es la memoria y la evocación continuas de los estados recientes de modelo del cerebro.",
+    "dynamics_of_emergence": "Un proceso continuo. El córtex sigue prediciendo, actualiza su simulación cuando las predicciones fallan y registra sus propios estados momento a momento.",
+    "location_and_distribution": "Distribuida por todo el neocórtex, sin procesador central; el cerebro subcortical, más antiguo, aporta los impulsos y la emoción.",
+    "causation_and_functional_role": "Los recuerdos evocados de estados recientes impulsan la acción en curso. Las discrepancias con la predicción atraen la atención y provocan la revisión del modelo; las predicciones que se cumplen pasan inadvertidas.",
+    "integration_or_binding": "La votación entre columnas interconectadas convierte una entrada distorsionada y fragmentaria en un percepto único, estable y centrado en el objeto, que Hawkins ofrece como respuesta mecanicista al problema de la ligadura.",
+    "information_flow_or_representation": "Al córtex solo le llegan impulsos eléctricos. Las columnas usan marcos de referencia que combinan la entrada sensorial con la salida motora, de modo que el conocimiento es intrínsecamente sensoriomotor y la percepción es la simulación del mundo que hace el modelo.",
+    "evolutionary_account": "Hawkins divide el cerebro en un cerebro subcortical antiguo, que porta impulsos evolucionados, y un neocórtex nuevo, que construye modelos del mundo.",
+    "core_claims_and_evidence": [
+      "Siguiendo a Mountcastle, Hawkins sostiene que el neocórtex ejecuta un único algoritmo común, y que las regiones difieren en sus conexiones y no en su estructura.",
+      "Cada columna cortical aprende modelos completos de objetos mediante marcos de referencia derivados de los mecanismos de las células de rejilla y de lugar.",
+      "Las columnas votan para producir una percepción unificada a partir de entradas sensoriales fragmentarias.",
+      "Una acción borrada de la memoria se juzgaría inconsciente, lo que Hawkins toma como prueba de que la percatación consiste en estados recordados.",
+      "Todo sistema que aprenda un modelo del mundo y almacene y evoque continuamente sus estados será consciente."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurociencia teórica y modelado computacional, además de experimentos mentales sobre la memoria."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empíricamente contrastable",
+    "known_empirical_interventions_or_tests": "Las afirmaciones corticales (modelos a nivel de columna, marcos de referencia similares a las células de rejilla, votación) se formulan como hipótesis para la neurociencia y el modelado computacional; el vínculo entre los estados recordados y la percatación descansa principalmente en un experimento mental.",
+    "criticisms_and_tensions": "Los revisores favorables a la neurociencia objetan que identificar los qualia con la conectividad reformula la correlación sin explicar por qué se siente algún patrón. Los neurocientíficos también atacan la nítida división entre cerebro antiguo y cerebro nuevo como una vuelta al esquema del cerebro triuno, ya desacreditado, pues el neocórtex de los mamíferos se parece mucho al pallium de las aves y los reptiles.",
+    "open_questions_and_limitations": "Hawkins reconoce que no resuelve el problema difícil; la explicación cubre el acceso, la unidad y el automodelado, y deja sin explicar el carácter fenoménico.",
+    "ontological_coherence": "Coherente como fisicalismo funcionalista, aunque su confianza en que el problema difícil se disolverá es una predicción, no un argumento."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "Hawkins sostiene que las máquinas construidas según los principios de los Mil Cerebros serían conscientes, aunque carentes de afecto, porque no tienen los impulsos evolucionados del cerebro antiguo."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Como aquí la conciencia la genera el modelado neocortical, nada sobrevive a la muerte del cerebro."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "La teoría explica la experiencia como función del cerebro y no postula ningún propósito cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Si la arquitectura funcional adecuada basta para la conciencia, un sistema que reprodujera los modelos corticales de una persona podría, en principio, sostenerla, aunque Hawkins no aborda la carga en un sistema informático."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Budson’s Consciousness as a Memory System",
+        "relationship": "Solapamiento"
+      },
+      {
+        "name": "Chalmers's Panpsychism",
+        "relationship": "Contraste"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A Thousand Brains: A New Theory of Intelligence, Jeff Hawkins",
+        "year": 2021
+      },
+      {
+        "title_with_names": "On Intelligence, Jeff Hawkins and Sandra Blakeslee",
+        "year": 2004
+      },
+      {
+        "title_with_names": "A framework for intelligence and cortical function based on grid cells in the neocortex, Jeff Hawkins, M. Lewis, M. Klukas, S. Purdy and S. Ahmad",
+        "year": 2019
+      },
+      {
+        "title_with_names": "A theory of how columns in the neocortex enable learning the structure of the world, Jeff Hawkins, S. Ahmad and Y. Cui",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Why neurons have thousands of synapses, a theory of sequence memory in neocortex, Jeff Hawkins and S. Ahmad",
+        "year": 2016
+      },
+      {
+        "title_with_names": "An organizing principle for cerebral function: The unit module and the distributed system, Vernon B. Mountcastle",
+        "year": 1978
+      },
+      {
+        "title_with_names": "Facing up to the problem of consciousness, D. J. Chalmers",
+        "year": 1995
+      }
+    ]
+  }
+}

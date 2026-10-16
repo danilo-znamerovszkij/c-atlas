@@ -2,8 +2,11 @@
   "id_and_class": {
     "theory_title": "코흐의 통합정보이론과 범심론 비교",
     "summary": "이 항목은 크리스토프 코흐가 통합정보이론(IIT)과 범심론을 비교하며, 두 입장이 의식을 실재의 내재적이고 근본적인 속성으로 보는 직관을 공유한다고 주장하는 내용을 개괄한다. 다만 통합정보이론은 의식에 대한 구체적 기준(파이, $Phi$로 정량화됨)을 제시하고 배제 공준을 통해 조합 문제를 해결하며 구체적인 경험적 연구 프로그램을 제공한다는 점에서 전통적 범심론보다 우월한 것으로 자리매김된다.",
-    "associated_thinkers": ["Christof Koch", "Giulio Tononi"],
-    "category": "통합정보이론",
+    "associated_thinkers": [
+      "Christof Koch",
+      "Giulio Tononi"
+    ],
+    "category": "통합정보",
     "subcategory": "비교/비판",
     "core_identity_tagline": "통합정보이론: 범심론의 조합 문제를 해결하는 근본적 의식 이론",
     "classification_tags": [
@@ -56,19 +59,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "아니다",
+      "stance": "No",
       "rationale": "코흐는 통합정보이론이 인공지능의 의식에 필요한 기능주의적 관점과 근본적으로 대립한다고 주장하며, 디지털 컴퓨터는 그 계산력이나 지능과 무관하게 하드웨어 구조상 통합 정보($Phi$)가 무시할 만큼 작으므로 결코 감응할 수 없다고 단언한다."
     },
     "survival_beyond_death": {
-      "stance": "불확실",
+      "stance": "Uncertain",
       "rationale": "존속 여부는 통합정보이론이 상정한, 환원 불가능한 실재 구조(감각질 공간)의 알려지지 않은 본성과 기술적 조작 가능성에 달려 있다. 어떤 형태의 지속이 배제되지는 않지만, 일인칭 존속은 미해결 문제이다."
     },
     "meaning_and_purpose": {
-      "stance": "불확실",
+      "stance": "Uncertain",
       "rationale": "통합정보이론이 상정하는 사변적이고 무수한 n차원 구조는 궁극적 의미에 대한 판단을 유보할 만큼 참신하지만, 이 이론이 전하는 의식의 측정과 분석 자체는 궁극적 의미나 목적, 가치를 제공하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "불확실",
+      "stance": "Uncertain",
       "rationale": "의식이 (통합정보이론이 주장하듯) 단순한 알고리즘이 아니라 복잡계 물리학과 결부된 구조라면 마음 업로드는 불가능하다. 첨단 기술이 의식을 산출하는 $Phi$ 구조를 조작할 수 없는 한, 업로드는 주관적 경험이 결여된 '딥페이크'에 그칠 것이다."
     }
   },
@@ -79,7 +82,7 @@
         "relationship": "공유된 직관/비판"
       },
       {
-        "name": "Computational Functionalism",
+        "name": "Computational",
         "relationship": "비판 (계산 불가능한 의식)"
       },
       {
@@ -87,7 +90,7 @@
         "relationship": "비판 (코흐는 질적 측면이 양적 틀로 포착될 수 없다는 고프의 주장에 반박한다.)"
       },
       {
-        "name": "Global Workspace Theory",
+        "name": "Baars's and Dehaene's Global Workspace Theory",
         "relationship": "대조 (위치 및 재귀/전역 방송의 필요성에 관한 암묵적 대조)"
       }
     ],

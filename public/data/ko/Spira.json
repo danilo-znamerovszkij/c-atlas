@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "Spira의 불이론",
     "summary": "이 이론은 궁극 실재가 단일하고 무한하며 나눌 수 없는 순수 의식(불이)이며, 모든 대상과 개별 자아가 겉보기의 독립적 존재를 그로부터 얻는다고 제안한다. 이 순수 의식인 우리의 본질적 본성은 물리적 신체와 마음의 한계 및 운명을 초월한다고 주장한다.",
-    "associated_thinkers": ["Rupert Spira"],
+    "associated_thinkers": [
+      "Rupert Spira"
+    ],
     "category": "관념론",
-    "subcategory": "불이론",
+    "subcategory": "비이원성",
     "core_identity_tagline": "단일하고 무한하며 나눌 수 없는 실재로서의 의식",
     "classification_tags": [
       "idealism",
@@ -51,38 +53,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "아니오/조건부",
+      "stance": "No",
       "rationale": "의식이 단일하고 비물질적인 궁극 실재라면, (파생된 물질적 대상인) 인공 시스템은 참된 의식에 도달할 수 없으며 기능적 모방이나 궁극 실재로부터의 존재 차용에 그친다."
     },
     "survival_beyond_death": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "이 이론은 순수 의식인 우리의 본질적 본성이 신체와 마음의 한계나 운명을 공유하지 않는다고 명시하며, 이는 생물학적 해체를 넘어선 존속 또는 연속성을 함축한다."
     },
     "meaning_and_purpose": {
-      "stance": "궁극적/우주적",
+      "stance": "Cosmic/Ultimate",
       "rationale": "의식은 실재의 토대('실재의 본성')이며, 이 불이적 본질을 이해하는 일이 궁극적 평화와 행복에 이르는 열쇠로서 본래적인 우주적 목적을 제공한다."
     },
     "virtual_immortality": {
-      "stance": "무관",
+      "stance": "Not needed",
       "rationale": "본질적 자아는 근본적으로 비물리적이고 무한한 의식이므로, 본질적 자아의 존속을 위해 신체/마음을 디지털로 복제할 필요가 없다."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Indian Cosmic Consciousness (Advaita Vedanta)",
+        "name": "Indian Cosmic Consciousness",
         "relationship": "양립 가능/영향"
       },
       {
-        "name": "Kastrup’s Analytic Idealism",
+        "name": "Kastrup's Analytic Idealism",
         "relationship": "양립 가능"
       },
       {
-        "name": "Chopra’s Only the Whole is Conscious",
+        "name": "Chopra's Only the Whole is Conscious",
         "relationship": "양립 가능"
       },
       {
-        "name": "Idealism (General)",
+        "name": "Idealism",
         "relationship": "확장"
       }
     ],

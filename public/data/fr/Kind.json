@@ -2,8 +2,10 @@
   "id_and_class": {
     "theory_title": "Le dualisme 2.0 de Kind",
     "summary": "Il s'agit d'une version moderne du dualisme, dissociée des connotations religieuses ou non scientifiques traditionnelles, qui soutient que le physicalisme ne peut saisir adéquatement la pleine réalité qualitative de l'expérience consciente. Elle avance que les états, événements et processus phénoménaux constituent un type d'activité irréductiblement réel, distinct de l'activité physique, conduisant à une dualité d'activité sans postuler nécessairement des substances séparées.",
-    "associated_thinkers": ["Amy Kind"],
-    "category": "Dualismes",
+    "associated_thinkers": [
+      "Amy Kind"
+    ],
+    "category": "Dualisme",
     "subcategory": "Variante du dualisme",
     "core_identity_tagline": "Dualité de l'activité phénoménale et physique",
     "classification_tags": [
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Conditionnelle",
+      "stance": "Conditional",
       "rationale": "Si des systèmes artificiels peuvent instancier la complexité physique nécessaire pour qu'une activité phénoménale irréductiblement réelle apparaisse (laquelle n'est pas purement réductible au calcul), alors la conscience de l'IA est possible. Cependant, les conditions précises de cette émergence sont inconnues."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "Le dualisme 2.0 de Kind évite de postuler une substance non physique séparée (une âme) en faveur d'une dualité d'activité, s'accordant avec une conception largement naturaliste selon laquelle la conscience est liée à des processus actifs, rendant improbable la persistance après la cessation biologique."
     },
     "meaning_and_purpose": {
-      "stance": "Valeur intrinsèque (inférée)",
+      "stance": "Uncertain",
       "rationale": "Bien que compatible avec une conception naturaliste (suggérant un sens humaniste), l'affirmation centrale selon laquelle l'expérience qualitative est un trait irréductiblement réel du monde implique que la conscience possède une valeur inhérente et fondamentale qui ne peut être réduite à l'utilité ou à la survie."
     },
     "virtual_immortality": {
-      "stance": "Incertaine",
+      "stance": "Uncertain",
       "rationale": "Puisque le caractère phénoménal est irréductiblement réel, la simple duplication des états physiques ou fonctionnels pourrait ne pas garantir la duplication de l'activité phénoménale, à moins que les lois inconnues régissant l'émergence phénoménale ne soient parfaitement saisies et simulées."
     }
   },
@@ -74,7 +76,7 @@
         "relationship": "Chevauchement"
       },
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "Chevauchement"
       },
       {

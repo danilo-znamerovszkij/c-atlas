@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "La théorie à double aspect de l’information selon Chalmers",
+    "summary": "David Chalmers propose à titre provisoire que l’information soit ontologiquement fondamentale et qu’elle possède deux aspects : un aspect physique, réalisé dans des systèmes comme les cerveaux et les ordinateurs, et un aspect phénoménal, réalisé sous forme d’expérience subjective. Chaque fois qu’un espace d’information se réalise dans l’expérience, le même espace se réalise physiquement ; l’information sert donc de monnaie commune entre le physique et le phénoménal.",
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
+    "category": "Info intégrée",
+    "subcategory": "",
+    "core_identity_tagline": "L’information avec un visage physique et un visage phénoménal",
+    "classification_tags": [
+      "information",
+      "double-aspect",
+      "hard problem",
+      "naturalistic dualism",
+      "neutral monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "La conscience est l’aspect phénoménal de l’information ; le même état d’information qui se réalise dans un substrat physique se réalise aussi dans l’expérience.",
+    "ontological_status": "Monisme à double aspect (fondé sur l’information)",
+    "mind_body_relationship": "Les processus physiques et l’expérience sont deux réalisations d’un seul et même espace d’information. Cette proposition est avancée comme une manière de rendre viable le dualisme naturaliste de Chalmers, dans lequel les processus physiques font naître l’expérience sans lui être identiques.",
+    "primitive_or_emergent_status": "Primitif",
+    "emergence_type": "Sans objet (l’information et son aspect phénoménal sont traités comme fondamentaux plutôt que dérivés)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Les qualia sont le versant intrinsèque, vécu, des états d’information. La structure d’une expérience correspond à la structure de l’information réalisée dans son substrat physique.",
+    "ontological_commitments": "Des espaces d’information fondamentaux, dotés d’aspects physiques et phénoménaux ; des systèmes physiques, vivants comme artificiels.",
+    "epistemic_access": "Par l’analyse philosophique de la correspondance structurelle entre l’expérience et son substrat physique.",
+    "constituents_and_structure": "Des espaces et des états d’information, chacun réalisé deux fois : une fois physiquement et, potentiellement, une fois phénoménalement."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Phénoménale",
+    "distinctive_mechanism_or_principle": "La double réalisation : le même espace d’information est réalisé physiquement et phénoménalement, et Chalmers suggère que cette « double vie » pourrait être le lien fondamental entre les processus physiques et l’expérience.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Partout où l’information est réalisée physiquement, il existe une possibilité d’expérience ; l’expérience n’est donc pas limitée, en principe, aux cerveaux.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "L’information est le concept pivot : là où il y a expérience consciente, il y a information, et là où il y a information, il y a une possibilité d’expérience consciente.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Chaque fois qu’un espace d’information est réalisé phénoménalement, le même espace est réalisé physiquement.",
+      "L’information peut être traitée comme la monnaie commune entre le physique et le phénoménal.",
+      "Cette ontologie à double aspect fait écho à des idées qui vont de Spinoza au monisme neutre de Russell.",
+      "Si la théorie échoue, le dualisme naturaliste pourrait tout de même être vrai selon un autre principe."
+    ],
+    "basis_of_belief_or_evidence_type": "Philosophique (argument a priori fondé sur le hard problem et sur la cohérence structurelle entre esprit et cerveau)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Spéculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Chalmers lui-même qualifie la théorie de spéculative et se demande dans quelle mesure il faut prendre au sérieux le discours sur le double aspect, et si elle réifie l’information. Si chaque état d’information porte une expérience potentielle, la thèse étend l’expérience très largement.",
+    "open_questions_and_limitations": "Chalmers laisse ouvert le point de savoir si le physique, le phénoménal, ou les deux dépendent ontologiquement de l’informationnel, et quels états d’information sont effectivement vécus.",
+    "ontological_coherence": "S’inscrit dans les traditions du monisme neutre et du russellisme, et sert le dualisme naturaliste de Chalmers, bien que ce dernier ne dépende pas d’elle."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "L’information se réalise dans les ordinateurs comme dans les neurones, et là où il y a information, il existe une possibilité d’expérience."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Si l’expérience suit la structure de l’information, un système qui réalise le même espace d’information qu’un cerveau réaliserait la même expérience."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Fondement"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Spinoza’s One Reality: Embodied Mind and Graded Consciousness",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Recoupement"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Chalmers’ Double-Aspect Theory of Information, David Chalmers",
+        "year": 1996
+      }
+    ]
+  }
+}

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "マッギンの究極の神秘（神秘主義／ミステリアニズム）",
     "summary": "この理論は、意識的な心と物理的な脳との形而上学的な結びつきが究極の神秘であり、人間の知性が根本的に解くことのできないものであると論じる。この認知的閉鎖は、意識が超自然的だからではなく、人間の概念的資源に内在する限界によるものである。",
-    "associated_thinkers": ["Colin McGinn"],
-    "category": "挑戦の諸理論",
-    "subcategory": "究極の神秘（神秘主義）",
+    "associated_thinkers": [
+      "Colin McGinn"
+    ],
+    "category": "チャレンジ",
+    "subcategory": "究極の神秘（ミステリアニズム）",
     "core_identity_tagline": "心と脳の結びつきは究極の神秘である",
     "classification_tags": [
       "mystery",
@@ -53,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "意識を産出する結びつきが理解できない（ましてや工学的に構築できない）究極の神秘であるなら、真の内的経験をもつ意識的AIシステムを意図的に構築することは不可能である。"
     },
     "survival_beyond_death": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "この理論は意識がもっぱら物質的な脳から生じるという唯物論的前提に基づいており、身体の死とともに消滅することを含意する。"
     },
     "meaning_and_purpose": {
-      "stance": "なし",
+      "stance": "Humanistic only",
       "rationale": "実存的自然主義の一形態として、この理論はいかなる宇宙的目的も究極的意味も措定しない。意識は物質的プロセスの偶然的な帰結である。"
     },
     "virtual_immortality": {
-      "stance": "否",
+      "stance": "No",
       "rationale": "物理的な脳を主観的な心に結びつけるメカニズムが究極の神秘であるなら、このプロセスを「一人称的完全性」をもって合成媒体において複製することは原理的に不可能であろう。"
     }
   },
@@ -80,7 +82,7 @@
         "relationship": "重複"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "批判"
       }
     ],

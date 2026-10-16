@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "La théorie de Koch selon laquelle la conscience ne dépend pas du langage",
     "summary": "Cette théorie affirme que la conscience phénoménale, ou l'expérience intérieure fondamentale, est fonctionnellement indépendante de la capacité linguistique. Elle s'appuie sur des cas cliniques où la capacité linguistique est gravement altérée ou perdue, alors que la conscience fondamentale est préservée, ce qui conduit à la conclusion que la sentience de base est une propriété largement répandue, partagée avec de nombreux animaux non linguistiques.",
-    "associated_thinkers": ["Christof Koch"],
-    "category": "Théories du Matérialisme",
-    "subcategory": "Relations avec le Langage",
+    "associated_thinkers": [
+      "Christof Koch"
+    ],
+    "category": "Matérialisme",
+    "subcategory": "Langage",
     "core_identity_tagline": "La conscience est indépendante du langage",
     "classification_tags": [
       "phenomenal consciousness",
@@ -50,38 +52,38 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Conditionnel",
+      "stance": "Conditional",
       "rationale": "Puisque le langage n'est pas nécessaire à la conscience, la capacité linguistique de l'IA (les LLM) est sans pertinence. La conscience de l'IA dépend entièrement de la possibilité de reproduire le substrat physique non linguistique nécessaire dans des systèmes artificiels."
     },
     "survival_beyond_death": {
-      "stance": "Non",
+      "stance": "No",
       "rationale": "Conformément à sa catégorisation matérialiste, la conscience est liée à un substrat physique (le cerveau) et ne peut subsister après la mort biologique."
     },
     "meaning_and_purpose": {
-      "stance": "Humaniste uniquement",
+      "stance": "Humanistic only",
       "rationale": "La conscience permet au soi de fonctionner comme centre narratif par le biais du langage, ce qui autorise un sens créé par l'homme, mais la réalité matérielle sous-jacente suggère l'absence de finalité cosmique ultime."
     },
     "virtual_immortality": {
-      "stance": "Conditionnel",
+      "stance": "Conditional",
       "rationale": "Si la conscience est dissociée du langage, l'attention se porte entièrement sur la duplication du substrat physique non linguistique de la conscience de base. Si cette structure neuronale non linguistique spécifique peut être dupliquée, l'immortalité virtuelle est possible."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
         "relationship": "Critique"
       },
       {
-        "name": "Searle’s Language and Consciousness",
+        "name": "Searle's Language and Consciousness",
         "relationship": "Critique"
       },
       {
-        "name": "Andrews’s Consciousness Without Complex Brains",
+        "name": "Andrews's Consciousness Without Complex Brains",
         "relationship": "Compatible"
       },
       {
-        "name": "Smith’s Language as Classifier of Consciousness",
+        "name": "Smith's Language as Classifier of Consciousness",
         "relationship": "Chevauchement"
       }
     ],

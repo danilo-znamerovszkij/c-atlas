@@ -2,8 +2,11 @@
   "id_and_class": {
     "theory_title": "스탭의 “질문하기”를 통한 파동함수 붕괴",
     "summary": "이 이론은 의식이 우주에 근본적이며, 의식이 양자 파동함수의 붕괴(측정 행위)를 일으킨다고 보는 전통적 양자역학 해석에 의존한다고 본다 . 이 기제는 의식에 물리 세계에서의 결정적인 인과적 역할을 부여하며, 행위자의 자유로운 선택을 신경 상관자의 물리적 현실화와 연결한다 .",
-    "associated_thinkers": ["Henry Stapp", "John von Neumann"],
-    "category": "양자 이론",
+    "associated_thinkers": [
+      "Henry Stapp",
+      "John von Neumann"
+    ],
+    "category": "양자",
     "subcategory": "양자 이론",
     "core_identity_tagline": "'양자 파동함수 붕괴로서의 의식'",
     "classification_tags": [
@@ -52,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "불확실/조건부",
+      "stance": "Uncertain",
       "rationale": "의식은 양자 도약을 강제하기 위해 필요한 독립적이고 근본적인 존재로 상정되므로 , 뇌의 순전히 물리적이거나 계산적인 과정을 AI에서 복제하는 것만으로는 이 근본적 행위성을 예화하기에 불충분할 수 있다."
     },
     "survival_beyond_death": {
-      "stance": "아마도",
+      "stance": "Uncertain",
       "rationale": "이 이론은 의식을 근본적이며 양자 실재와 불가분하게 연결된 것으로 확립하며 , 이는 고전적 뇌의 파괴가 반드시 근본적 의식 존재의 종말을 뜻하지는 않음을 시사한다. 다만 일인칭적 존속은 여전히 상상하기 어렵다 ."
     },
     "meaning_and_purpose": {
-      "stance": "예",
+      "stance": "Uncertain",
       "rationale": "이 이론은 의식에 핵심적인 인과적 역할을 부여하여 수동적 관찰을 우주에서의 능동적 참여('행위자')로 전환하며, 그럼으로써 본유적 기능과 의미를 제공한다 ."
     },
     "virtual_immortality": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "의식이 물리적 상태를 붕괴시키기 위해 요구되는 독립적이고 근본적인 존재라면 , 뇌의 순전히 물리적/계산적 측면만을 복제하는 일은 참된 자기 동일성에 필요한 이 비물리적 요소를 필연적으로 배제하게 된다 ."
     }
   },
@@ -75,15 +78,15 @@
         "relationship": "토대/영향"
       },
       {
-        "name": "Penrose-Hameroff’s Orchestrated Objective Reduction",
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
         "relationship": "대안적 양자 이론"
       },
       {
-        "name": "Kauffman’s Mind Mediating Possibles to Actuals",
+        "name": "Kauffman's Mind Mediating Possibles to Actuals",
         "relationship": "중첩"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "비판/논파"
       }
     ],

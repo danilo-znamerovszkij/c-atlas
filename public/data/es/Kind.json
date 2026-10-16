@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "El Dualismo 2.0 de Kind",
     "summary": "Esta es una versión moderna del dualismo desligada de las connotaciones tradicionales religiosas o no científicas, que argumenta que el fisicalismo no puede captar adecuadamente la realidad cualitativa completa de la experiencia consciente. Postula que los estados, eventos y procesos fenoménicos son un tipo de actividad irreduciblemente real, distinta de la actividad física, dando lugar a una dualidad de actividad sin necesariamente postular sustancias separadas.",
-    "associated_thinkers": ["Amy Kind"],
-    "category": "Dualisms",
-    "subcategory": "Dualism variant",
+    "associated_thinkers": [
+      "Amy Kind"
+    ],
+    "category": "Dualismo",
+    "subcategory": "Variante del dualismo",
     "core_identity_tagline": "Dualidad de actividad fenoménica y física",
     "classification_tags": [
       "dualism",
@@ -51,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "Si los sistemas artificiales pueden instanciar la complejidad física necesaria para que surja la actividad fenoménica irreduciblemente real (que no es puramente reducible a la computación), entonces la conciencia de la IA es posible. Sin embargo, las condiciones precisas para esta emergencia son desconocidas."
     },
     "survival_beyond_death": {
@@ -59,11 +61,11 @@
       "rationale": "El Dualismo 2.0 de Kind evita postular una sustancia no física separada (alma) en favor de una dualidad de actividad, alineándose con una visión ampliamente naturalista en la que la conciencia está ligada a procesos activos, haciendo improbable la persistencia tras el cese biológico."
     },
     "meaning_and_purpose": {
-      "stance": "Valor intrínseco (Inferido)",
+      "stance": "Uncertain",
       "rationale": "Aunque es compatible con una visión naturalista (sugiriendo un sentido humanista), la afirmación central de que la experiencia cualitativa es un rasgo irreduciblemente real del mundo implica que la conciencia posee un valor inherente y fundamental que no puede reducirse a utilidad o supervivencia."
     },
     "virtual_immortality": {
-      "stance": "Incierto",
+      "stance": "Uncertain",
       "rationale": "Dado que el carácter fenoménico es irreduciblemente real, la mera duplicación de los estados físicos o funcionales podría no garantizar la duplicación de la actividad fenoménica, a menos que las leyes desconocidas que gobiernan la emergencia fenoménica se capturen y simulen perfectamente."
     }
   },
@@ -74,7 +76,7 @@
         "relationship": "Superposición"
       },
       {
-        "name": "Non-Reductive Physicalism",
+        "name": "Non-Reductive",
         "relationship": "Superposición"
       },
       {

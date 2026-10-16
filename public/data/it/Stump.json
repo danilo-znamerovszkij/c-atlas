@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Il dualismo tomista di Stump",
     "summary": "Questa teoria presenta la concezione dell'anima umana di san Tommaso d'Aquino come una forma non cartesiana di dualismo. Postula l'anima come una componente essenzialmente immateriale o configurazionale che è tuttavia realizzata all'interno di componenti materiali, consentendo di conciliare la materialità umana con la sopravvivenza dello spirito dopo la morte corporea.",
-    "associated_thinkers": ["Eleonore Stump", "St. Thomas Aquinas"],
-    "category": "Dualismi",
+    "associated_thinkers": [
+      "Eleonore Stump",
+      "St. Thomas Aquinas"
+    ],
+    "category": "Dualismo",
     "subcategory": "Filosofico",
     "core_identity_tagline": "Anima immateriale non cartesiana realizzata nella materia",
-    "classification_tags": ["dualism", "thomism", "non-Cartesian", "soul"]
+    "classification_tags": [
+      "dualism",
+      "thomism",
+      "non-Cartesian",
+      "soul"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "La coscienza, ovvero l'anima/spirito umano, è una sostanza essenzialmente immateriale o configurazionale che è realizzata in componenti materiali (il corpo).",
@@ -45,15 +53,15 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condizionale",
+      "stance": "Conditional",
       "rationale": "Se la coscienza è legata a un'anima essenzialmente immateriale o configurazionale realizzata nella materia biologica, i sistemi artificiali costruiti solo da componenti fisiche mancherebbero probabilmente di questo necessario costituente non fisico, a meno che le leggi psicofisiche che generano l'anima non potessero applicarsi a substrati non biologici."
     },
     "survival_beyond_death": {
-      "stance": "Sì",
+      "stance": "Yes",
       "rationale": "La teoria è esplicitamente costruita per accogliere la persistenza dello spirito/anima, che è la sede della coscienza della persona, dopo la dissoluzione del corpo."
     },
     "meaning_and_purpose": {
-      "stance": "Cosmico/Teologico",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Il quadro è radicato nella filosofia scolastica cristiana, integrando le dottrine bibliche sulla creazione e sul ritorno dello spirito a Dio, fornendo così un significato e uno scopo ultimi."
     },
     "virtual_immortality": {
@@ -68,11 +76,11 @@
         "relationship": "Distinzione (mentre il dualismo delle proprietà nega il dualismo delle sostanze, il dualismo tomista cerca di trascendere la tradizionale dicotomia tra sostanza e riduzionismo materiale.)"
       },
       {
-        "name": "Substance Dualism (Cartesian)",
+        "name": "Dualism",
         "relationship": "Critica"
       },
       {
-        "name": "Jaworski’s Hylomorphism",
+        "name": "Jaworski's Hylomorphism",
         "relationship": "Sovrapposizione"
       }
     ],

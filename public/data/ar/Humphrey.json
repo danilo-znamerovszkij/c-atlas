@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "التمثيلات العقلية وجاذبات الدماغ عند همفري",
     "summary": "ترى هذه النظرية المادية أن الوعي الظاهراتي تطوّر متأخر، لا يوجد إلا في أنواع معقّدة معيّنة. وتُولَّد الإحساسات في عملية على مرحلتين: جمع المعلومات الحسية، ثم «قراءة واعية» تفسيرية تولّد تمثيلات عقلية تمتلك خصائص ظاهراتية (كواليا)، كثيرًا ما تُثبِّتها حالات جاذبات معقّدة في الدماغ.",
-    "associated_thinkers": ["Nicholas Humphrey"],
+    "associated_thinkers": [
+      "Nicholas Humphrey"
+    ],
     "category": "المادية",
-    "subcategory": "التمثيلي",
+    "subcategory": "الرتبة العليا",
     "core_identity_tagline": "الوعي الظاهراتي بوصفه تمثيلات عقلية متطوّرة في جاذبات",
     "classification_tags": [
       "evolutionary",
@@ -52,34 +54,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "بوصفها نظرية مادية يتحقق فيها الوعي عبر معالجة معلوماتية معقّدة وتمثيلات وحالات جاذبات في الدماغ، فإن الأنظمة الاصطناعية القادرة على استنساخ هذه الآليات ينبغي مبدئيًا أن تصير واعية."
     },
     "survival_beyond_death": {
-      "stance": "لا",
+      "stance": "No",
       "rationale": "يعتمد الوعي كليًا على الدماغ البيولوجي المتطوّر وآلياته العصبية المحددة (التمثيلات وحالات الجاذبات). وموت الدماغ يستتبع توقّف الوعي، اتّساقًا مع المادية."
     },
     "meaning_and_purpose": {
-      "stance": "إنساني فقط",
+      "stance": "Humanistic only",
       "rationale": "تُصاغ النظرية ضمن سياق تطوري صارم، ينشأ فيه الوعي لمنافع تكيّفية في «لعبة اللياقة»، مما يوحي بأن المعنى والغاية من صنع الإنسان أو ذاتيان لا كونيان أو نهائيان."
     },
     "virtual_immortality": {
-      "stance": "مرجَّح",
+      "stance": "Likely",
       "rationale": "إذا كان الوعي قابلًا للتفسير بالكامل عبر الأنماط العصبية والتمثيلات وحالات الجاذبات المحددة التي يولّدها الدماغ (النظريات المادية)، فإن استنساخًا تامًا لهذه الديناميكا الوظيفية في وسيطٍ غير بيولوجي ينبغي أن يحفظ الذات العقلية من منظور الشخص الأول."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Thought Theory",
+        "name": "Higher-Order",
         "relationship": "امتداد"
       },
       {
-        "name": "Dennett’s Evolution of Minds",
+        "name": "Dennett's Evolution of Minds",
         "relationship": "تداخل"
       },
       {
-        "name": "Recurrent Processing Theory",
+        "name": "Lamme's Recurrent Processing Theory",
         "relationship": "تداخل"
       }
     ],

@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "솜스의 의식의 숨은 원천으로서의 정동",
     "summary": "이 이론은 의식의 기본 형태를 정동(느낌)으로 규정하고 그 생리적 기제를 상부 뇌간에 위치시키며, 이를 확장된 형태의 항상성으로 본다. 이 이론은 프리스턴의 자유 에너지 원리를 적용하여, 정동적 경험(쾌/불쾌)이 복잡한 유기체가 환경의 불확실성을 감시하고 생존 행동을 최적화하는 데 사용하는 효율적 기제라고 주장한다.",
-    "associated_thinkers": ["Mark Solms"],
+    "associated_thinkers": [
+      "Mark Solms"
+    ],
     "category": "유물론",
-    "subcategory": "항상성적·정동적 이론",
+    "subcategory": "항상성",
     "core_identity_tagline": "의식의 근본 형태로서의 정동",
     "classification_tags": [
       "affect",
@@ -55,19 +57,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "가능성 높음",
+      "stance": "Likely",
       "rationale": "이 이론이 옳다면, 엔트로피에 능동적으로 저항하고 실존적 필요를 관리하며 정동 상태를 피드백으로 생성하도록 설계된 자기조직 체계라면 인공적으로 의식을 갖게 만들 수 있다."
     },
     "survival_beyond_death": {
-      "stance": "아니오",
+      "stance": "No",
       "rationale": "유물론 이론으로서 의식은 전적으로 생물학적 뇌와 그 물리적 과정에 의존하며, 이는 유기체의 죽음과 함께 영구적 부재가 됨을 함축한다."
     },
     "meaning_and_purpose": {
-      "stance": "인간적/생물학적",
+      "stance": "Humanistic only",
       "rationale": "의식의 핵심은 생존이라는 생물학적 요청(소멸의 회피와 자유 에너지의 최소화)에 뿌리를 두며, 이는 생물학적이고 인간적으로 구성된 의미를 지지하되 궁극적인 우주적 목적은 지지하지 않는다."
     },
     "virtual_immortality": {
-      "stance": "예",
+      "stance": "Yes",
       "rationale": "유물론 이론으로서, 복잡한 물리적 기제(정동적·항상성적 동역학을 포함하여)가 합성 기질에서 포괄적으로 복제될 수 있다면 일인칭적 정신적 자아는 원리상 업로드 가능하다."
     }
   },
@@ -78,7 +80,7 @@
         "relationship": "영향/확장"
       },
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
         "relationship": "양립 가능"
       },
       {

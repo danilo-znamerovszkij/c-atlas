@@ -2,9 +2,11 @@
   "id_and_class": {
     "theory_title": "El Misterio de la Conciencia de S. Harris",
     "summary": "Esta perspectiva, ofrecida como un desafío más que como una teoría prescriptiva, enmarca la conciencia como un misterio infranqueable que no puede resolverse por medios puramente físicos. Harris argumenta que las descripciones físicas son 'mudas' respecto a la experiencia subjetiva; lo único que atestigua la sintiencia es la propia conciencia, creando una brecha explicativa fundamental. Se mantiene pesimista respecto a que la ciencia pueda disipar este misterio.",
-    "associated_thinkers": ["Sam Harris"],
-    "category": "Teorías Desafiantes",
-    "subcategory": "Misterio de la Conciencia",
+    "associated_thinkers": [
+      "Sam Harris"
+    ],
+    "category": "Desafío",
+    "subcategory": "Misterio de la conciencia",
     "core_identity_tagline": "‘La Conciencia como una Brecha Infranqueable’",
     "classification_tags": [
       "mysterianism",
@@ -54,11 +56,11 @@
       "rationale": "Si la conciencia es subjetividad irreducible ausente de las descripciones físicas, entonces la computación avanzada (la IA, que es pura complejidad física) no logrará generar sintiencia genuina."
     },
     "survival_beyond_death": {
-      "stance": "No (Condicional)",
+      "stance": "No",
       "rationale": "Como naturalista, Harris se alinea implícitamente con la idea de que la conciencia está ligada al organismo físico, lo que significa que su terminación produce una inexistencia permanente, a pesar del misterio de su naturaleza mientras está vivo."
     },
     "meaning_and_purpose": {
-      "stance": "Solo humanista",
+      "stance": "Humanistic only",
       "rationale": "El misterio no implica un propósito cósmico, pero Harris propugna hallar verdades personales a través de la introspección, alineándose con una espiritualidad y un sentido autodescubiertos (naturalizados)."
     },
     "virtual_immortality": {
@@ -69,15 +71,15 @@
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
         "relationship": "Coincidencia"
       },
       {
-        "name": "Materialism Theories",
+        "name": "Materialism",
         "relationship": "Crítica"
       },
       {
-        "name": "Eliminative Materialism/Illusionism",
+        "name": "Eliminative/Illusionism",
         "relationship": "Compatible (como un rechazo del realismo ingenuo respecto a la explicación física, aunque Harris sigue afirmando la realidad de la conciencia)"
       }
     ],
