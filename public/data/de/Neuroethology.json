@@ -2,11 +2,21 @@
   "id_and_class": {
     "theory_title": "Cabral-Calderin, Hechavarria und Melloni: neuroethologischer Ansatz",
     "summary": "Cabral-Calderin, Hechavarria und Melloni schlagen vor, Bewusstsein über Arten und über die gesamte Lebensspanne hinweg mit Tinbergens vier Fragen zu untersuchen: Mechanismus, Funktion, Entwicklung und Evolution. Sie behandeln Bewusstsein als abgestuftes, mehrdimensionales Produkt der Evolution und argumentieren, dass nichtmenschliche Tiere nicht erst menschliche Merkmale Erwachsener wie sprachliche Berichte zeigen müssen, um als bewusst zu gelten.",
-    "associated_thinkers": ["Yuranny Cabral-Calderin", "Julio Hechavarria", "Lucia Melloni"],
+    "associated_thinkers": [
+      "Yuranny Cabral-Calderin",
+      "Julio Hechavarria",
+      "Lucia Melloni"
+    ],
     "category": "Materialismus",
     "subcategory": "Phylogenetisch",
     "core_identity_tagline": "Bewusstsein, untersucht über Arten und Lebensspannen hinweg",
-    "classification_tags": ["neuroethology", "comparative", "development", "evolution", "animal consciousness"]
+    "classification_tags": [
+      "neuroethology",
+      "comparative",
+      "development",
+      "evolution",
+      "animal consciousness"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist eine abgestufte biologische Eigenschaft, geprägt von evolutionären Kräften und in verschiedenen Taxa und Entwicklungsstadien unterschiedlich ausgeprägt. Es umfasst sowohl phänomenales Bewusstsein (erlebte Erfahrung) als auch Zugangsbewusstsein (Information, die für Kognition und Verhalten verfügbar ist).",
@@ -46,31 +56,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Die Autoren argumentieren, dass Systeme wie große Sprachmodelle die biologische Verkörperung und die evolutionäre Geschichte fehlen, die für echtes bewusstes Erleben nötig sind."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein hier eine Eigenschaft lebender, evolvierter Nervensysteme ist, endet es mit dem Organismus."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Bewusstsein dient adaptiven Funktionen innerhalb der Ökologie eines Organismus, ohne dass ein kosmischer Zweck vorgeschlagen wird."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Wenn biologische Verkörperung für Erleben nötig ist, würde einer digitalen Kopie das fehlen, was Bewusstsein ermöglicht."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Lamme's Recurrent Processing Theory", "relationship": "Einfluss" },
-      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Einfluss" },
-      { "name": "Graziano's Attention Schema Theory", "relationship": "Einfluss" },
-      { "name": "Birch’s Comparative Sentience: Consciousness Profiles Across Diverse Minds", "relationship": "Überschneidung" }
+      {
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Birch’s Comparative Sentience: Consciousness Profiles Across Diverse Minds",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Cabral-Calderin, Hechavarria & Melloni’s Neuroethological Approach, Yuranny Cabral-Calderin, Julio Hechavarria and Lucia Melloni (Landscape of Consciousness entry)", "year": 2025 }
+      {
+        "title_with_names": "Cabral-Calderin, Hechavarria & Melloni’s Neuroethological Approach, Yuranny Cabral-Calderin, Julio Hechavarria and Lucia Melloni (Landscape of Consciousness entry)",
+        "year": 2025
+      }
     ]
   }
 }

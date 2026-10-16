@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Monteros unvollständiger Post-Physikalismus",
     "summary": "Montero vertritt die Auffassung, dass Bewusstsein physisch und kausal wirksam ist, unser Begriff des Physischen aber zu unvollständig ist, um es zu erklären. Sie schlägt vor, das Leib-Seele-Problem als die Frage umzuformulieren, ob Mentalität in einer Welt erklärt werden kann, die grundlegend nichtmental und nicht grundlegend physisch ist.",
-    "associated_thinkers": ["Barbara Montero"],
+    "associated_thinkers": [
+      "Barbara Montero"
+    ],
     "category": "Nicht-reduktiv",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als physisch, innerhalb einer unvollständigen Physik",
-    "classification_tags": ["post-physicalism", "body problem", "non-reductive physicalism", "mental vs nonmental", "naturalism"]
+    "classification_tags": [
+      "post-physicalism",
+      "body problem",
+      "non-reductive physicalism",
+      "mental vs nonmental",
+      "naturalism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist Teil der physischen Welt, real und nicht auf die gegenwärtigen physikalischen Begriffe, Gehirnzustände oder funktionalen Rollen reduzierbar.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unsicher",
+      "stance": "Uncertain",
       "rationale": "Da Montero der Auffassung ist, dass wir noch nicht begreifen, was Bewusstsein physisch macht, liefert die Sicht keine Grundlage, um zu entscheiden, welche künstlichen Systeme es besäßen."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da Erfahrung nach dieser Sicht letztlich physisch ist, gibt es keinen eigenen Geist, der den Körper überdauern könnte."
     },
     "meaning_and_purpose": {
@@ -64,13 +72,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Russellian Monism", "relationship": "Überschneidung" },
-      { "name": "Stoljar's Epistemic View and Non-Standard Physicalism", "relationship": "Überschneidung" },
-      { "name": "Epiphenomenalism", "relationship": "Kritik" },
-      { "name": "Goff's Panpsychism", "relationship": "Kontrast" }
+      {
+        "name": "Russellian Monism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Stoljar's Epistemic View and Non-Standard Physicalism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Goff's Panpsychism",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Montero's Incomplete Post-Physicalism (Landscape of Consciousness), Barbara Montero", "year": 2009 }
+      {
+        "title_with_names": "Montero's Incomplete Post-Physicalism (Landscape of Consciousness), Barbara Montero",
+        "year": 2009
+      }
     ]
   }
 }

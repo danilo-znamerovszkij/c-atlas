@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Jamesʼ plurales Bewusstsein, Gehirn als Filter eines weiteren Bewusstseins",
     "summary": "William James vertrat die Auffassung, dass das normale wache Bewusstsein eine Art unter vielen Geistesformen ist, getrennt durch dünne Schirme von mystischen, tranceartigen, medialen, drogeninduzierten und anderen Zuständen, die jede umfassende Theorie des Geistes untersuchen muss. Außerdem argumentierte er, dass die unbestreitbare Rolle des Gehirns beim Denken nicht zeige, dass es Bewusstsein erzeugt, da es ein weiteres Bewusstsein auch übertragen und begrenzen könnte, so wie ein Prisma das Licht formt, ohne es zu erzeugen.",
-    "associated_thinkers": ["William James"],
+    "associated_thinkers": [
+      "William James"
+    ],
     "category": "Anomal",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als plural und vom Gehirn übertragen",
-    "classification_tags": ["filter theory", "transmission", "mysticism", "psychical research", "pluralism"]
+    "classification_tags": [
+      "filter theory",
+      "transmission",
+      "mysticism",
+      "psychical research",
+      "pluralism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein kann in einem weiteren Feld existieren, das das Gehirn zulässt, formt und begrenzt; das gewöhnliche wache Gewahrsein ist eine besondere Art innerhalb einer Vielfalt von Formen.",
@@ -50,11 +58,11 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "James verteidigte nur die bloße Möglichkeit der Unsterblichkeit: Wenn das Gehirn Bewusstsein überträgt, muss sein Tod das Bewusstsein nicht beenden; behauptet hat er dies aber nicht als gesichert."
     },
     "meaning_and_purpose": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Mystische Zustände verbieten einen voreiligen Abschluss der Rechnung mit der Wirklichkeit, doch James hielt sie nur für diejenigen maßgeblich, die sie erleben."
     },
     "virtual_immortality": {
@@ -64,21 +72,59 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Bergson's Multiplicity, Duration, Perception, Memory", "relationship": "Überschneidung" },
-      { "name": "Huxley’s Mind-At-Large Filter Theory", "relationship": "Einfluss" },
-      { "name": "Mishlove’s Beyond-The-Brain Filtered, Survival Consciousness", "relationship": "Einfluss" },
-      { "name": "James’s Stream of Thought/Consciousness", "relationship": "Vereinbar" }
+      {
+        "name": "Bergson's Multiplicity, Duration, Perception, Memory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Huxley’s Mind-At-Large Filter Theory",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Mishlove’s Beyond-The-Brain Filtered, Survival Consciousness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "James’s Stream of Thought/Consciousness",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Human Immortality: Two Supposed Objections to the Doctrine, William James", "year": 1898 },
-      { "title_with_names": "The Varieties of Religious Experience: A Study in Human Nature, William James", "year": 1902 },
-      { "title_with_names": "The Principles of Psychology, William James", "year": 1890 },
-      { "title_with_names": "A Pluralistic Universe, William James", "year": 1909 },
-      { "title_with_names": "Essays in Radical Empiricism, William James" },
-      { "title_with_names": "Matter and Memory, Henri Bergson", "year": 1896 },
-      { "title_with_names": "The Doors of Perception, Aldous Huxley", "year": 1954 },
-      { "title_with_names": "Psychic Phenomena and the Mind–Body Problem: Historical Notes on a Neglected Conceptual Tradition, C. S. Alvarado", "year": 2012 },
-      { "title_with_names": "William James, Gustav Fechner, and Early Psychophysics, S. L. Hawkins", "year": 2011 }
+      {
+        "title_with_names": "Human Immortality: Two Supposed Objections to the Doctrine, William James",
+        "year": 1898
+      },
+      {
+        "title_with_names": "The Varieties of Religious Experience: A Study in Human Nature, William James",
+        "year": 1902
+      },
+      {
+        "title_with_names": "The Principles of Psychology, William James",
+        "year": 1890
+      },
+      {
+        "title_with_names": "A Pluralistic Universe, William James",
+        "year": 1909
+      },
+      {
+        "title_with_names": "Essays in Radical Empiricism, William James"
+      },
+      {
+        "title_with_names": "Matter and Memory, Henri Bergson",
+        "year": 1896
+      },
+      {
+        "title_with_names": "The Doors of Perception, Aldous Huxley",
+        "year": 1954
+      },
+      {
+        "title_with_names": "Psychic Phenomena and the Mind–Body Problem: Historical Notes on a Neglected Conceptual Tradition, C. S. Alvarado",
+        "year": 2012
+      },
+      {
+        "title_with_names": "William James, Gustav Fechner, and Early Psychophysics, S. L. Hawkins",
+        "year": 2011
+      }
     ]
   }
 }

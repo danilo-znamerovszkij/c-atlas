@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Avicennas fliegender Mensch und die selbstpräsente Seele",
     "summary": "Avicenna vertritt die Auffassung, dass die menschliche Seele eine immaterielle, selbständige Substanz ist, deren Existenz mit ihrem Gewahrsein ihrer selbst identisch ist. Dieses ursprüngliche Selbstgewahrsein braucht keine Empfindung, kein Körpergewahrsein und keinen reflexiven Akt; sein Gedankenexperiment des fliegenden Menschen isoliert es, indem es alle sinnlichen Eingaben abzieht. Sinneserfahrung dagegen läuft über körperliche Vermögen, die im Gehirn sitzen.",
-    "associated_thinkers": ["Avicenna (Ibn Sīnā)"],
+    "associated_thinkers": [
+      "Avicenna (Ibn Sīnā)"
+    ],
     "category": "Dualismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als ursprüngliche Selbstpräsenz der Seele",
-    "classification_tags": ["self-awareness", "immaterial soul", "islamic philosophy", "thought experiment", "internal senses"]
+    "classification_tags": [
+      "self-awareness",
+      "immaterial soul",
+      "islamic philosophy",
+      "thought experiment",
+      "internal senses"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Das grundlegendste Bewusstsein ist das nicht-inferenzielle Gewahrsein der vernünftigen Seele von sich selbst, das Avicenna mit der Existenz der Seele selbst identifiziert und nicht als eine ihrer Tätigkeiten betrachtet.",
@@ -46,37 +54,70 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da das grundlegende Selbstgewahrsein zu einer immateriellen vernünftigen Seele gehört, könnte ein künstliches System höchstens die körperlichen Vermögen reproduzieren, nicht aber das Subjekt der Erfahrung."
     },
     "survival_beyond_death": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Avicenna vertritt, dass jede vernünftige Seele nach ihrer Entstehung beim Tod des Körpers nicht vergeht."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Eine unsterbliche, den Intellekt tragende Seele stellt das menschliche Bewusstsein in eine größere metaphysische Ordnung, die das körperliche Leben überdauert."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Das Kopieren körperlicher Prozesse würde die immaterielle Seele nicht übertragen; eine digitale Nachbildung würde das Selbst daher nicht fortsetzen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Aristotle’s Hylomorphism", "relationship": "Grundlage" },
-      { "name": "Aquinas’s Hylomorphism", "relationship": "Einfluss" },
-      { "name": "Descartes’s Substance Dualism", "relationship": "Überschneidung" },
-      { "name": "Zahavi’s Pre-Reflective For-Me-Ness", "relationship": "Kompatibel" }
+      {
+        "name": "Aristotle’s Hylomorphism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Aquinas’s Hylomorphism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Zahavi’s Pre-Reflective For-Me-Ness",
+        "relationship": "Kompatibel"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Avicenna’s De Anima (Arabic Text): Being the Psychological Part of Kitāb al-Shifāʾ, Avicenna (ed. F. Rahman)", "year": 1959 },
-      { "title_with_names": "Al-Taʿlīqāt, Avicenna (ed. ʿA. R. Badawī)", "year": 1973 },
-      { "title_with_names": "Self-Awareness in Islamic Philosophy: Avicenna and Beyond, J. Kaukua", "year": 2015 },
-      { "title_with_names": "Avicenna on Self-Awareness and Knowing that One Knows, D. L. Black", "year": 2008 },
-      { "title_with_names": "Estimation (Wahm) in Avicenna: The Logical and Psychological Dimensions, D. L. Black", "year": 1993 },
-      { "title_with_names": "The Fate of the Flying Man: Medieval Reception of Avicenna’s Thought Experiment, J. Toivanen", "year": 2015 },
-      { "title_with_names": "Avicenna’s De Anima in the Latin West, D. N. Hasse", "year": 2000 }
+      {
+        "title_with_names": "Avicenna’s De Anima (Arabic Text): Being the Psychological Part of Kitāb al-Shifāʾ, Avicenna (ed. F. Rahman)",
+        "year": 1959
+      },
+      {
+        "title_with_names": "Al-Taʿlīqāt, Avicenna (ed. ʿA. R. Badawī)",
+        "year": 1973
+      },
+      {
+        "title_with_names": "Self-Awareness in Islamic Philosophy: Avicenna and Beyond, J. Kaukua",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Avicenna on Self-Awareness and Knowing that One Knows, D. L. Black",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Estimation (Wahm) in Avicenna: The Logical and Psychological Dimensions, D. L. Black",
+        "year": 1993
+      },
+      {
+        "title_with_names": "The Fate of the Flying Man: Medieval Reception of Avicenna’s Thought Experiment, J. Toivanen",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Avicenna’s De Anima in the Latin West, D. N. Hasse",
+        "year": 2000
+      }
     ]
   }
 }

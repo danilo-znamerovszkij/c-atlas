@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Lockes reflexives Bewusstsein und die Herausbildung der Person",
     "summary": "John Locke bestimmt Bewusstsein als „die Wahrnehmung dessen, was im eigenen Geist eines Menschen vorgeht“, also als unmittelbares Selbstgewahrsein, das jeder Wahrnehmung innewohnt, und nicht als eigenes Vermögen oder als zweiter Akt. Er verortet die personale Identität in der Gleichheit des Bewusstseins, nicht in der Gleichheit des Körpers oder der Seele. Dadurch wird die Person zur Einheit moralischer Verantwortung. Ob das Denkende Materie oder eine immaterielle Seele ist, lässt er offen.",
-    "associated_thinkers": ["John Locke"],
+    "associated_thinkers": [
+      "John Locke"
+    ],
     "category": "Materialismus",
     "subcategory": "Philosophisch",
     "core_identity_tagline": "Bewusstsein als selbstgewahre Wahrnehmung, die die Person konstituiert",
-    "classification_tags": ["empiricism", "personal identity", "self-awareness", "secondary qualities", "agnosticism"]
+    "classification_tags": [
+      "empiricism",
+      "personal identity",
+      "self-awareness",
+      "secondary qualities",
+      "agnosticism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein selbstevidentes Merkmal, das jeder Wahrnehmung einer Vorstellung innewohnt: Wahrnehmen heißt wahrnehmen, dass man wahrnimmt. Es ist weder eine Substanz noch ein Vermögen noch ein eigenständiger Gedanke höherer Ordnung.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Locke räumt ein, dass Gott einer geeignet organisierten Materie die Fähigkeit zu denken verleihen könnte. Er hält jedoch für unmöglich zu wissen, ob das Denken zur Materie oder zu einer immateriellen Seele gehört."
     },
     "survival_beyond_death": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Locke hielt eine immaterielle Seele für wahrscheinlicher. Nach seiner Auffassung überdauert eine Person überall dort, wo dasselbe Bewusstsein fortbesteht, welche Substanz es auch trägt."
     },
     "meaning_and_purpose": {
@@ -58,27 +66,66 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Da die Person der Gleichheit des Bewusstseins folgt und nicht der Substanz, bewahrt ein neues Substrat die Person nur dann, wenn dasselbe Bewusstsein, das seine Vergangenheit sich zu eigen macht, in ihm fortbesteht."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Descartes’s Substance Dualism", "relationship": "Kritik" },
-      { "name": "Hume’s Bundle Theory of Perceptions", "relationship": "Einfluss" },
-      { "name": "Kriegel’s Cross-Order Self-Representation", "relationship": "Überschneidung" },
-      { "name": "Armstrong’s Higher-Order Perception Theory", "relationship": "Kontrast" }
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Hume’s Bundle Theory of Perceptions",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Kriegel’s Cross-Order Self-Representation",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Armstrong’s Higher-Order Perception Theory",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "An Essay Concerning Human Understanding, John Locke", "year": 1689 },
-      { "title_with_names": "The Analogy of Religion, J. Butler", "year": 1736 },
-      { "title_with_names": "Essays on the Intellectual Powers of Man, T. Reid", "year": 1785 },
-      { "title_with_names": "Locke on Consciousness, A. M. Coventry and U. Kriegel", "year": 2008 },
-      { "title_with_names": "Locke on Personal Identity: Consciousness and Concernment, G. Strawson", "year": 2011 },
-      { "title_with_names": "The Early Modern Subject, U. Thiel", "year": 2011 },
-      { "title_with_names": "Consciousness in Locke, S. Weinberg", "year": 2016 },
-      { "title_with_names": "Locke on Consciousness, Personal Identity and the Idea of Duration, G. Yaffe", "year": 2011 },
-      { "title_with_names": "Facing Up to the Problem of Consciousness, David J. Chalmers", "year": 1995 }
+      {
+        "title_with_names": "An Essay Concerning Human Understanding, John Locke",
+        "year": 1689
+      },
+      {
+        "title_with_names": "The Analogy of Religion, J. Butler",
+        "year": 1736
+      },
+      {
+        "title_with_names": "Essays on the Intellectual Powers of Man, T. Reid",
+        "year": 1785
+      },
+      {
+        "title_with_names": "Locke on Consciousness, A. M. Coventry and U. Kriegel",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Locke on Personal Identity: Consciousness and Concernment, G. Strawson",
+        "year": 2011
+      },
+      {
+        "title_with_names": "The Early Modern Subject, U. Thiel",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Consciousness in Locke, S. Weinberg",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Locke on Consciousness, Personal Identity and the Idea of Duration, G. Yaffe",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Facing Up to the Problem of Consciousness, David J. Chalmers",
+        "year": 1995
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Schiffs mesozirkulärer Schaltkreis des vorderen Vorderhirns zur Wiederherstellung des Bewusstseins",
     "summary": "Nicholas D. Schiff schlägt vor, dass Verlust und Wiederkehr des Bewusstseins nach schweren Hirnverletzungen von einer Schleife abhängen, die den zentralen Thalamus, den Frontalkortex, das Striatum und den inneren Globus pallidus verbindet. Ausgedehnte Schädigung entzieht dem Striatum den Eingang, wodurch die Hemmung durch den Pallidum auf den zentralen Thalamus nachlässt und das gesamte vordere Vorderhirn in einen sich selbst verstärkenden gedämpften Zustand gerät. Da sich der Schaltkreis wieder über die Schwelle bringen lässt, erklärt das Modell die Erholung und sagt voraus, welche Behandlungen wirken werden.",
-    "associated_thinkers": ["Nicholas D. Schiff"],
+    "associated_thinkers": [
+      "Nicholas D. Schiff"
+    ],
     "category": "Materialismus",
     "subcategory": "Neurobiologisch",
     "core_identity_tagline": "Bewusstseinsniveau als Funktion thalamokortikaler Schaltkreise",
-    "classification_tags": ["disorders of consciousness", "thalamus", "deep brain stimulation", "brain injury", "neurology"]
+    "classification_tags": [
+      "disorders of consciousness",
+      "thalamus",
+      "deep brain stimulation",
+      "brain injury",
+      "neurology"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Schiff sagt nicht, was Bewusstsein ist. Er nennt die ermöglichenden Bedingungen für das Bewusstseinsniveau: einen aktiven mesozirkulären Schaltkreis des vorderen Vorderhirns, der die rekurrente Aktivität aufrechterhalten kann, auf der bewusste Zustände beruhen.",
@@ -50,7 +58,7 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da das Bewusstseinsniveau hier von einem aktiven Schaltkreis des Vorderhirns abhängt, kann das Bewusstsein den dauerhaften Ausfall dieses Schaltkreises nicht überdauern."
     },
     "meaning_and_purpose": {
@@ -64,19 +72,52 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate", "relationship": "Überschneidung" },
-      { "name": "Merker’s Midbrain-Centered Reality Space", "relationship": "Vereinbar" },
-      { "name": "Llinas's Mindness State of Oscillations", "relationship": "Überschneidung" },
-      { "name": "Crick and Koch's Neural Correlates of Consciousness", "relationship": "Vereinbar" }
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Merker’s Midbrain-Centered Reality Space",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Llinas's Mindness State of Oscillations",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Recovery of Consciousness after Brain Injury: A Mesocircuit Hypothesis, Nicholas D. Schiff", "year": 2010 },
-      { "title_with_names": "Behavioural Improvements with Thalamic Stimulation after Severe Traumatic Brain Injury, Nicholas D. Schiff et al.", "year": 2007 },
-      { "title_with_names": "Regional Cerebral Metabolic Patterns Demonstrate the Role of Anterior Forebrain Mesocircuit Dysfunction in the Severely Injured Brain, E. A. Fridman et al.", "year": 2014 },
-      { "title_with_names": "Common Resting Brain Dynamics Indicate a Possible Mechanism Underlying Zolpidem Response in Severe Brain Injury, S. T. Williams et al.", "year": 2013 },
-      { "title_with_names": "Large-Scale Brain Dynamics in Disorders of Consciousness, Nicholas D. Schiff, T. Nauvel and J. D. Victor", "year": 2014 },
-      { "title_with_names": "Central Thalamic Deep Brain Stimulation to Support Anterior Forebrain Mesocircuit Function in the Severely Injured Brain, Nicholas D. Schiff", "year": 2016 },
-      { "title_with_names": "Thalamic Deep Brain Stimulation in Traumatic Brain Injury: A Phase 1, Randomized Feasibility Study, Nicholas D. Schiff et al.", "year": 2023 }
+      {
+        "title_with_names": "Recovery of Consciousness after Brain Injury: A Mesocircuit Hypothesis, Nicholas D. Schiff",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Behavioural Improvements with Thalamic Stimulation after Severe Traumatic Brain Injury, Nicholas D. Schiff et al.",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Regional Cerebral Metabolic Patterns Demonstrate the Role of Anterior Forebrain Mesocircuit Dysfunction in the Severely Injured Brain, E. A. Fridman et al.",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Common Resting Brain Dynamics Indicate a Possible Mechanism Underlying Zolpidem Response in Severe Brain Injury, S. T. Williams et al.",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Large-Scale Brain Dynamics in Disorders of Consciousness, Nicholas D. Schiff, T. Nauvel and J. D. Victor",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Central Thalamic Deep Brain Stimulation to Support Anterior Forebrain Mesocircuit Function in the Severely Injured Brain, Nicholas D. Schiff",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Thalamic Deep Brain Stimulation in Traumatic Brain Injury: A Phase 1, Randomized Feasibility Study, Nicholas D. Schiff et al.",
+        "year": 2023
+      }
     ]
   }
 }

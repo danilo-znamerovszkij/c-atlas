@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Bieberichs rekurrente Integrations-Fraktaltheorie",
     "summary": "Erhard Bieberich schlägt vor, dass Bewusstsein in einzelnen Neuronen rekurrenter Netzwerke durch drei klassische Schritte entsteht. Die Netzwerkaktivität wird zu einem fraktalen Muster aus Ionenkanälen und Lipiddomänen in der Zellmembran verdichtet (dem Sentyon); dieses Muster wird holographisch zu einem einheitlichen Erfahrungsraum (dem Endospace) entfaltet, und der Endospace wirkt auf die Membran zurück, die ihn hervorgebracht hat.",
-    "associated_thinkers": ["Erhard Bieberich"],
+    "associated_thinkers": [
+      "Erhard Bieberich"
+    ],
     "category": "Materialismus",
     "subcategory": "Neurobiologisch",
     "core_identity_tagline": "Bewusstsein als holographisch entfaltete fraktale Membranmuster",
-    "classification_tags": ["fractals", "holography", "single neuron", "binding problem", "membrane lipids"]
+    "classification_tags": [
+      "fractals",
+      "holography",
+      "single neuron",
+      "binding problem",
+      "membrane lipids"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein einheitlicher, geometrisch strukturierter Erfahrungsraum, rekonstruiert aus einer Ganzes-im-Teil-Fraktalkodierung der Netzwerkaktivität in der somatischen Membran eines Neurons.",
@@ -46,38 +54,74 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Heutiger KI fehlen rekursive fraktale Zeitstruktur, ein multifraktales Substrat und holographische Rekonstruktion; nach den Kriterien von RIFT ist sie daher nicht bewusst, obwohl Bieberich die mathematische Struktur für substratunabhängig hält."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein durch molekulare Muster in lebenden Neuronen erzeugt wird, endet es, wenn diese enden."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Die Theorie ist ein klassischer biophysikalischer Mechanismus ohne kosmischen Zweck."
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Eine substratunabhängige Struktur lässt die Tür prinzipiell offen, aber RIFT befasst sich nicht damit, eine bestimmte Person zu reproduzieren."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Pribram's Holonomic Brain Theory", "relationship": "Einfluss" },
-      { "name": "Dendritic Integration Theory", "relationship": "Überschneidung" },
-      { "name": "Edelman's Neural Darwinism and Reentrant Neural Circuitry", "relationship": "Einfluss" },
-      { "name": "Integrated Information Theory", "relationship": "Kritik" }
+      {
+        "name": "Pribram's Holonomic Brain Theory",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Dendritic Integration Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Edelman's Neural Darwinism and Reentrant Neural Circuitry",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "RIFT: A fractal-holographic theory of consciousness and autopoietic control, Erhard Bieberich", "year": 2026 },
-      { "title_with_names": "Introduction to the fractality principle of consciousness and the sentyon postulate, Erhard Bieberich", "year": 2012 },
-      { "title_with_names": "Recurrent fractal neural networks: A strategy for the exchange of local and global information processing in the brain, Erhard Bieberich", "year": 2002 },
-      { "title_with_names": "Brain and Perception: Holonomy and Structure in Figural Processing, K. H. Pribram", "year": 1991 },
-      { "title_with_names": "Autopoiesis and Cognition: The Realization of the Living, H. R. Maturana and F. J. Varela", "year": 1980 },
-      { "title_with_names": "A Universe of Consciousness, G. M. Edelman and G. Tononi", "year": 2000 },
-      { "title_with_names": "Single-neuron theory of consciousness, S. Sevush", "year": 2006 },
-      { "title_with_names": "Cellular mechanisms of conscious processing, J. Aru, M. Suzuki and M. E. Larkum", "year": 2020 }
+      {
+        "title_with_names": "RIFT: A fractal-holographic theory of consciousness and autopoietic control, Erhard Bieberich",
+        "year": 2026
+      },
+      {
+        "title_with_names": "Introduction to the fractality principle of consciousness and the sentyon postulate, Erhard Bieberich",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Recurrent fractal neural networks: A strategy for the exchange of local and global information processing in the brain, Erhard Bieberich",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Brain and Perception: Holonomy and Structure in Figural Processing, K. H. Pribram",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Autopoiesis and Cognition: The Realization of the Living, H. R. Maturana and F. J. Varela",
+        "year": 1980
+      },
+      {
+        "title_with_names": "A Universe of Consciousness, G. M. Edelman and G. Tononi",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Single-neuron theory of consciousness, S. Sevush",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Cellular mechanisms of conscious processing, J. Aru, M. Suzuki and M. E. Larkum",
+        "year": 2020
+      }
     ]
   }
 }

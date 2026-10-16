@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "Lahavs relativistische Theorie",
     "summary": "Diese Theorie charakterisiert Bewusstsein als ein physisches Phänomen, das relativ zu den von einem ‚kognitiven Bezugssystem‘ vorgenommenen Messungen ist. Analog zur Geschwindigkeit in der Physik werden verschiedene Beobachter, die in verschiedenen kognitiven Bezugssystemen operieren, beim Beobachten desselben Phänomens unterschiedliche physische Eigenschaften manifestieren (bewusstes Gewahrsein für sich selbst gegenüber gemessener Gehirnaktivität für einen anderen).",
-    "associated_thinkers": ["Nir Lahav", "Z.A. Neemeh"],
+    "associated_thinkers": [
+      "Nir Lahav",
+      "Z.A. Neemeh"
+    ],
     "category": "Materialismus",
     "subcategory": "Relational",
     "core_identity_tagline": "Bewusstsein als ein physisches Phänomen relativ zu einem kognitiven Bezugssystem",
@@ -50,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Da die Theorie postuliert, dass Bewusstsein aus physischer Messung und nicht aus Berechnung entsteht, würden KI-Systeme nicht-komputationale physische Messprozesse benötigen, die ein kognitives Bezugssystem konstituieren, was dies von einer über bloße Berechnung hinausgehenden Hardwareumsetzung abhängig macht."
     },
     "survival_beyond_death": {
@@ -62,7 +65,7 @@
       "rationale": "Dieses Feld wird im bereitgestellten Quellenmaterial nicht behandelt."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da Bewusstsein nicht-komputational und vom Prozess der physischen Messung abhängig ist, ist eine standardmäßige virtuelle Unsterblichkeit (das Hochladen von Software/Daten) unwahrscheinlich, wenngleich eine physische Duplikation des relativistischen physischen Systems theoretisch möglich sein könnte."
     }
   },

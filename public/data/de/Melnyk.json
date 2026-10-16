@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Melnyks Realisierungsphysikalismus",
     "summary": "Andrew Melnyk vertritt die Auffassung, dass phänomenale Eigenschaften real, aber nicht fundamental sind: Es handelt sich um mehrfach realisierbare repräsentationale Eigenschaften von Empfindungen, die stets durch physikalische Eigenschaften realisiert werden. Er argumentiert, dass das harte Problem bereits gelöst ist, weil die wichtigsten antiphysikalistischen Argumente scheitern, und dass das hartnäckige Gefühl, Erfahrung könne nicht physisch sein, eine ‚Intuition der Verschiedenheit‘ ist, die durch die Funktionsweise der Introspektion erzeugt wird.",
-    "associated_thinkers": ["Andrew Melnyk"],
+    "associated_thinkers": [
+      "Andrew Melnyk"
+    ],
     "category": "Materialismus",
     "subcategory": "Höherer Ordnung",
     "core_identity_tagline": "Qualia als physisch realisierte repräsentationale Eigenschaften",
-    "classification_tags": ["physicalism", "realization", "representationalism", "intuition of distinctness", "hard problem"]
+    "classification_tags": [
+      "physicalism",
+      "realization",
+      "representationalism",
+      "intuition of distinctness",
+      "hard problem"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Phänomenale Eigenschaften sind identisch mit bestimmten repräsentationalen Eigenschaften von Empfindungen: Das Orangesein eines orangefarbenen Nachbilds ist das Repräsentieren, auf sensorische Weise, dass etwas vor einem orange ist.",
@@ -46,37 +54,70 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Da phänomenale Eigenschaften mehrfach realisierbare repräsentationale Eigenschaften sind, könnte ein nichtbiologisches System sie grundsätzlich realisieren, wobei Melnyks Berufung auf biologische Funktion offenlässt, was ein künstliches System dafür bräuchte."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Alles ist physisch oder physisch realisiert, sodass die Erfahrung endet, wenn ihre physischen Realisierer aufhören zu bestehen."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Ein durchgängiger Physikalismus lässt keinen Raum für einen kosmischen Zweck des Bewusstseins."
     },
     "virtual_immortality": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Mehrfache Realisierbarkeit lässt zu, dass ein anderes physisches System dieselben mentalen Eigenschaften realisieren könnte, wobei Melnyk auf Hochladen nicht eingeht."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Papineau's Mind-Brain Identity", "relationship": "Einfluss" },
-      { "name": "Dretske’s Information and Representationalism", "relationship": "Überschneidung" },
-      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Kritik" },
-      { "name": "Kripke’s Modal Argument Against Mind–Brain Identity", "relationship": "Kritik" }
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Dretske’s Information and Representationalism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Kripke’s Modal Argument Against Mind–Brain Identity",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "A Physicalist Manifesto: Thoroughly Modern Materialism, Andrew Melnyk", "year": 2003 },
-      { "title_with_names": "Realization and the Formulation of Physicalism, Andrew Melnyk", "year": 2006 },
-      { "title_with_names": "In Defense of a Realization Formulation of Physicalism, Andrew Melnyk", "year": 2018 },
-      { "title_with_names": "From Materialism to Physicalism: An Opinionated Sketch, Andrew Melnyk", "year": 2024 },
-      { "title_with_names": "Phenomenal Properties and the Intuition of Distinctness: The View from the Inside, Andrew Melnyk", "year": 2025 },
-      { "title_with_names": "On the Problem of Consciousness, Andrew Melnyk and T. Sobrado", "year": 2025 },
-      { "title_with_names": "Thinking About Consciousness, David Papineau", "year": 2002 }
+      {
+        "title_with_names": "A Physicalist Manifesto: Thoroughly Modern Materialism, Andrew Melnyk",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Realization and the Formulation of Physicalism, Andrew Melnyk",
+        "year": 2006
+      },
+      {
+        "title_with_names": "In Defense of a Realization Formulation of Physicalism, Andrew Melnyk",
+        "year": 2018
+      },
+      {
+        "title_with_names": "From Materialism to Physicalism: An Opinionated Sketch, Andrew Melnyk",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Phenomenal Properties and the Intuition of Distinctness: The View from the Inside, Andrew Melnyk",
+        "year": 2025
+      },
+      {
+        "title_with_names": "On the Problem of Consciousness, Andrew Melnyk and T. Sobrado",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Thinking About Consciousness, David Papineau",
+        "year": 2002
+      }
     ]
   }
 }

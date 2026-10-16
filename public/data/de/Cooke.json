@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Cookes nicht-duale Naturalismus- und Lebendiger-Spiegel-Theorie",
     "summary": "James Cooke argumentiert, dass Bewusstsein die epistemische Beziehung zwischen einem lebenden Organismus und seiner Welt ist, die überall dort entsteht, wo sich Materie zu einem sich selbst erhaltenden lebenden System organisiert. Seine Lebendiger-Spiegel-Theorie gründet dies auf prädiktive Modellierung und das Prinzip der freien Energie, und sein nicht-dualer Naturalismus verortet es in einer prozessrelationalen Wirklichkeit ohne fundamentale Substanzen; dadurch, so Cooke, löst sich das harte Problem auf.",
-    "associated_thinkers": ["James Cooke"],
+    "associated_thinkers": [
+      "James Cooke"
+    ],
     "category": "Materialismus",
     "subcategory": "Relational",
     "core_identity_tagline": "Bewusstsein als epistemische Dimension des Lebens",
-    "classification_tags": ["relational", "life-mind continuity", "free energy principle", "nondualism", "process metaphysics"]
+    "classification_tags": [
+      "relational",
+      "life-mind continuity",
+      "free energy principle",
+      "nondualism",
+      "process metaphysics"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist epistemische Relationalität: die erkennende Schnittstelle, über die ein lebender Organismus die Bedingungen, einschließlich des eigenen Körpers, verfolgt und sich an sie anpasst, die ihn am Leben erhalten.",
@@ -46,32 +54,49 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Da Bewusstsein aus dem Lebendigsein und nicht aus Berechnung entsteht, wäre ein künstliches System nur dann bewusst, wenn es ein tatsächlich sich selbst erhaltendes lebendiges System wäre."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Bewusstsein ist hier die epistemische Seite der Selbsterhaltung eines Organismus und endet daher, wenn dieser lebendige Prozess endet. Cooke sieht die Furcht vor dem Tod durch die Illusion eines getrennten Selbst genährt."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Sinn entsteht aus der Erkenntnis, dass Menschen zum Netz des Lebens gehören, statt außerhalb davon zu stehen; Cooke verbindet dies mit ökologischer Ethik und nicht mit kosmischer Teleologie."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Ein Hochladen würde eine Berechnung kopieren, Cooke bestreitet jedoch, dass Bewusstsein eine vom Gehirn ausgeführte Berechnung ist."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Friston's Free-Energy Principle and Active Inference", "relationship": "Grundlage" },
-      { "name": "Thompson's Mind in Life", "relationship": "Überschneidung" },
-      { "name": "Reber's Cellular Basis of Consciousness", "relationship": "Überschneidung" },
-      { "name": "Nāgārjuna’s Empty Consciousness: Experience Without Essence", "relationship": "Einfluss" }
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Thompson's Mind in Life",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Reber's Cellular Basis of Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Nāgārjuna’s Empty Consciousness: Experience Without Essence",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Dawn of Mind: How Matter Became Conscious and Alive, James Cooke" },
-      { "title_with_names": "Cooke’s Nondual Naturalism + Living Mirror Theory, Landscape of Consciousness, James Cooke", "year": 2025 }
+      {
+        "title_with_names": "The Dawn of Mind: How Matter Became Conscious and Alive, James Cooke"
+      },
+      {
+        "title_with_names": "Cooke’s Nondual Naturalism + Living Mirror Theory, Landscape of Consciousness, James Cooke",
+        "year": 2025
+      }
     ]
   }
 }

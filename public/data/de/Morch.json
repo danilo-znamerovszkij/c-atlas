@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Mørchs Panpsychismus phänomenaler kausaler Kräfte",
     "summary": "Hedda Hassel Mørch verteidigt einen an Russell angelehnten Panpsychismus, nach dem elementares Bewusstsein die intrinsische Natur der Materie ist, bis hinab zu den elementaren Teilchen. Ihre eigentümliche These lautet, dass phänomenale Qualitäten mit kausalen Kräften identisch sind: Erfahrungen wie Schmerz oder Farbe sind das, was Materie sich so verhalten lässt, wie sie es tut. Sie verbindet das harte Problem des Bewusstseins mit dem harten Problem der Materie und sucht bei der Integrierten-Informations-Theorie Hilfe für das Kombinationsproblem.",
-    "associated_thinkers": ["Hedda Hassel Mørch"],
+    "associated_thinkers": [
+      "Hedda Hassel Mørch"
+    ],
     "category": "Panpsychismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als kausale Kräfte der Materie",
-    "classification_tags": ["panpsychism", "causal powers", "russellian monism", "mental causation", "hard problem of matter"]
+    "classification_tags": [
+      "panpsychism",
+      "causal powers",
+      "russellian monism",
+      "mental causation",
+      "hard problem of matter"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein in ursprünglicher Form ist die intrinsische Natur physischer Entitäten, und phänomenale Eigenschaften sind die kategorialen Grundlagen ihrer kausalen Kräfte.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unsicher",
+      "stance": "Uncertain",
       "rationale": "Jedes physische System besitzt an seiner Basis erlebnishafte Materie, doch ob eine KI ein einheitliches bewusstes Subjekt bildet, hängt vom ungelösten Kombinationsproblem ab."
     },
     "survival_beyond_death": {
@@ -64,14 +72,31 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Russellian Monism", "relationship": "Grundlage" },
-      { "name": "Integrated Information Theory", "relationship": "Kompatibel" },
-      { "name": "Goff's Panpsychism", "relationship": "Überschneidung" },
-      { "name": "Epiphenomenalism", "relationship": "Kontrast" }
+      {
+        "name": "Russellian Monism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Goff's Panpsychism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Non-physicalist Theories of Consciousness, Hedda Hassel Mørch" },
-      { "title_with_names": "Mørch's Phenomenal-Causal Powers Panpsychism (Landscape of Consciousness), Hedda Hassel Mørch", "year": 2023 }
+      {
+        "title_with_names": "Non-physicalist Theories of Consciousness, Hedda Hassel Mørch"
+      },
+      {
+        "title_with_names": "Mørch's Phenomenal-Causal Powers Panpsychism (Landscape of Consciousness), Hedda Hassel Mørch",
+        "year": 2023
+      }
     ]
   }
 }

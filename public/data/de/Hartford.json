@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Hartfords Ewige Vermutung",
     "summary": "Andrew Downing Hartford argumentiert, dass, wenn überhaupt etwas existiert, immer etwas existiert hat, da nichts aus absolutem Nichts entsteht. Diese eine ewige Quelle begründet alles, einschließlich unseres Bewusstseins aus erster Person, und da eine beseelte Domäne nicht aus einer unbeseelten Quelle hervorgehen kann, schließt er, dass die Quelle selbst beseelt ist.",
-    "associated_thinkers": ["Andrew Downing Hartford"],
+    "associated_thinkers": [
+      "Andrew Downing Hartford"
+    ],
     "category": "Herausforderung",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein begründet in einer ewigen beseelten Quelle",
-    "classification_tags": ["eternity", "first principle", "minded source", "anti-computationalism", "anti-emergence"]
+    "classification_tags": [
+      "eternity",
+      "first principle",
+      "minded source",
+      "anti-computationalism",
+      "anti-emergence"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Unser Bewusstsein ist Beseeltheit, die an der Domäne einer einzigen, ewigen, beseelten Quelle teilhat, des ‚immer-Seienden‘.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da die Quelle des Bewusstseins nicht rechnerisch ist, sieht Hartford keinen Grund, von Computern Bewusstsein zu erwarten, obwohl er sagt, dies bleibe abzuwarten."
     },
     "survival_beyond_death": {
@@ -54,7 +62,7 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Alles Dasein, einschließlich unserer Geister, gehört zur Domäne einer einzigen ewigen beseelten Quelle, was Hartford Behauptungen entgegensetzt, das Universum sei sinnlos."
     },
     "virtual_immortality": {
@@ -64,14 +72,32 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Computational Theories", "relationship": "Kritik" },
-      { "name": "Emergence", "relationship": "Kritik" },
-      { "name": "Leslie's Consciousness Inside an Infinite Mind", "relationship": "Überschneidung" }
+      {
+        "name": "Computational Theories",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Emergence",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Leslie's Consciousness Inside an Infinite Mind",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The EP Conjecture (Eternal Past Conjecture), Andrew Downing Hartford", "year": 2019 },
-      { "title_with_names": "The Eternal Conjecture (eternalconjecture.com), Andrew Downing Hartford", "year": 2026 },
-      { "title_with_names": "Hartford’s Minded Always-Existor (Landscape of Consciousness entry), Andrew Downing Hartford", "year": 2017 }
+      {
+        "title_with_names": "The EP Conjecture (Eternal Past Conjecture), Andrew Downing Hartford",
+        "year": 2019
+      },
+      {
+        "title_with_names": "The Eternal Conjecture (eternalconjecture.com), Andrew Downing Hartford",
+        "year": 2026
+      },
+      {
+        "title_with_names": "Hartford’s Minded Always-Existor (Landscape of Consciousness entry), Andrew Downing Hartford",
+        "year": 2017
+      }
     ]
   }
 }

@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Lakoffs und Johnsons verkörperter Realismus und verkörperter Geist",
     "summary": "George Lakoff und Mark Johnson argumentieren, dass der Geist wesensmäßig verkörpert ist: Wir denken mit einem Gehirn, das entstanden ist, um einen Körper zu steuern. Daher wird jeder Begriff, selbst die Farbe, von unserer sensomotorischen Ausstattung geprägt und nicht von einer geistunabhängigen Welt abgelesen. Bewusste Erfahrung ist real und vom Gehirn verursacht. Sie wird von einem unbewussten System aus Metaphern, Frames und Bildschemata strukturiert, das in neuronale Schaltkreise eingebettet ist. Lakoff räumt jedoch ein, dass Qualia und reines Gewahrsein außerhalb der Reichweite der Wissenschaft bleiben könnten.",
-    "associated_thinkers": ["George Lakoff", "Mark Johnson"],
+    "associated_thinkers": [
+      "George Lakoff",
+      "Mark Johnson"
+    ],
     "category": "Materialismus",
     "subcategory": "Verkörpert",
     "core_identity_tagline": "Der Geist ist der Körper",
-    "classification_tags": ["embodied cognition", "conceptual metaphor", "cognitive unconscious", "cognitive linguistics", "image schemas"]
+    "classification_tags": [
+      "embodied cognition",
+      "conceptual metaphor",
+      "cognitive unconscious",
+      "cognitive linguistics",
+      "image schemas"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist die Art, wie der verkörperte Organismus die Welt darstellt. Es ist ein vom Gehirn verursachtes Phänomen, dessen Inhalte und Kategorien aus körperlicher und neuronaler Struktur stammen und nicht aus einer körperlosen Vernunft.",
@@ -46,36 +55,64 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da Begriffe und Erfahrung aus einem Körper stammen, den ein Gehirn zu steuern entwickelt hat, würde einem System ohne einen solchen Körper die Verankerung fehlen, die diese Auffassung voraussetzt."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da der Geist der Körper ist und keine abtrennbare geistige Substanz besitzt, besteht nichts von ihm fort, sobald der Körper stirbt."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Sinn gründet in körperlicher Erfahrung und deren metaphorischer Erweiterung, nicht in einer körperlosen Vernunft oder einer kosmischen Ordnung."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Hängt das Denken von einem bestimmten sensomotorischen Körper ab, so würde eine körperlose Kopie den Geist nicht reproduzieren."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Enactivism", "relationship": "Überschneidung" },
-      { "name": "Varela's Neurophenomenology", "relationship": "Vereinbar" },
-      { "name": "Merleau-Ponty's Embodied Perception and the Lived Body", "relationship": "Einfluss" },
-      { "name": "Descartes’s Substance Dualism", "relationship": "Kritik" }
+      {
+        "name": "Enactivism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Merleau-Ponty's Embodied Perception and the Lived Body",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Metaphors We Live By, George Lakoff and Mark Johnson", "year": 1980 },
-      { "title_with_names": "Philosophy in the Flesh: The Embodied Mind and Its Challenge to Western Thought, George Lakoff and Mark Johnson", "year": 1999 },
-      { "title_with_names": "George Lakoff (Closer to Truth interview), Robert Lawrence Kuhn", "year": 2009 },
-      { "title_with_names": "The Embodied Mind: Cognitive Science and Human Experience, Francisco J. Varela, Evan Thompson and Eleanor Rosch", "year": 1991 },
-      { "title_with_names": "The Body in the Mind, Mark Johnson" },
-      { "title_with_names": "The Meaning of the Body, Mark Johnson" }
+      {
+        "title_with_names": "Metaphors We Live By, George Lakoff and Mark Johnson",
+        "year": 1980
+      },
+      {
+        "title_with_names": "Philosophy in the Flesh: The Embodied Mind and Its Challenge to Western Thought, George Lakoff and Mark Johnson",
+        "year": 1999
+      },
+      {
+        "title_with_names": "George Lakoff (Closer to Truth interview), Robert Lawrence Kuhn",
+        "year": 2009
+      },
+      {
+        "title_with_names": "The Embodied Mind: Cognitive Science and Human Experience, Francisco J. Varela, Evan Thompson and Eleanor Rosch",
+        "year": 1991
+      },
+      {
+        "title_with_names": "The Body in the Mind, Mark Johnson"
+      },
+      {
+        "title_with_names": "The Meaning of the Body, Mark Johnson"
+      }
     ]
   }
 }

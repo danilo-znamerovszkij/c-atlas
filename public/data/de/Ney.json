@@ -2,11 +2,18 @@
   "id_and_class": {
     "theory_title": "Neys Physikalismus ohne Szientismus",
     "summary": "Alyssa Ney vertritt die Auffassung, dass die Welt im Grundsatz so beschaffen ist, wie die Physik sie beschreibt, und dass Bewusstsein real, aber nicht fundamental ist, aus dem Physischen hervorgeht oder durch es realisiert wird. Physikalismus ist in ihrem Sinne eine Aussage darüber, was fundamental ist, nicht darüber, was existiert; deshalb verlangt er ebenso wenig die Eliminierung des Bewusstseins, wie er die Eliminierung von Spaghetti verlangt.",
-    "associated_thinkers": ["Alyssa Ney"],
+    "associated_thinkers": [
+      "Alyssa Ney"
+    ],
     "category": "Materialismus",
     "subcategory": "Philosophisch",
     "core_identity_tagline": "Bewusstsein als real, aber nicht fundamental",
-    "classification_tags": ["physicalism", "fundamental physics", "anti-scientism", "non-reductive"]
+    "classification_tags": [
+      "physicalism",
+      "fundamental physics",
+      "anti-scientism",
+      "non-reductive"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein nicht fundamentaler Teil der physischen Welt, der aus dem hervorgeht oder durch das realisiert wird, was die fundamentale Physik beschreibt.",
@@ -50,7 +57,7 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein hier durch das Physische realisiert wird, besteht es nicht fort, sobald seine physische Grundlage verschwunden ist."
     },
     "meaning_and_purpose": {
@@ -64,13 +71,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Kritik" },
-      { "name": "Goff's Panpsychism", "relationship": "Kritik" },
-      { "name": "Churchland’s Eliminative Materialism", "relationship": "Kontrast" },
-      { "name": "Melnyk’s Realization Physicalism", "relationship": "Überschneidung" }
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Goff's Panpsychism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Churchland’s Eliminative Materialism",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Melnyk’s Realization Physicalism",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Ney's Physicalism, Not Scientism (Landscape of Consciousness entry), Alyssa Ney", "year": 2018 }
+      {
+        "title_with_names": "Ney's Physicalism, Not Scientism (Landscape of Consciousness entry), Alyssa Ney",
+        "year": 2018
+      }
     ]
   }
 }

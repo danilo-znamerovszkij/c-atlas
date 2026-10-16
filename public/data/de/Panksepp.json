@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Panksepps primär affektives Bewusstsein",
     "summary": "Jaak Panksepp vertritt die Auffassung, dass die grundlegendste Form phänomenalen Bewusstseins das reine Gefühl (Affekt) ist, erzeugt von alten subkortikalen Emotionssystemen, die alle Säugetiere teilen, und nicht Wahrnehmung oder Denken, die vom Neokortex hervorgebracht werden. Kortikales Lernen und Kognition bauen komplexe Emotionen und reflexives Gewahrsein auf diesem affektiven Kern auf, sodass das Bewusstsein von den Gefühlen des Körpers aus nach oben wächst.",
-    "associated_thinkers": ["Jaak Panksepp"],
+    "associated_thinkers": [
+      "Jaak Panksepp"
+    ],
     "category": "Materialismus",
     "subcategory": "Homöostatisch",
     "core_identity_tagline": "Bewusstsein als primales subkortikales Gefühl",
-    "classification_tags": ["affective neuroscience", "emotion", "subcortical", "animal consciousness", "core self"]
+    "classification_tags": [
+      "affective neuroscience",
+      "emotion",
+      "subcortical",
+      "animal consciousness",
+      "core self"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Primäres Bewusstsein ist gefühlter Affekt: intrinsisch bewertetes Gefühl, das einem Organismus mitteilt, wie es ihm geht. Panksepp identifiziert emotionale Gefühle mit der Neurodynamik der Hirnsysteme, die instinktives emotionales Verhalten erzeugen.",
@@ -46,43 +54,94 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da reines Gefühl hier die innere Seite evolvierter subkortikaler emotionaler Schaltkreise in lebenden Körpern ist, hätten Systeme ohne solche Schaltkreise es nicht."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Affekt wird mit der Neurodynamik der Hirnsysteme identifiziert und endet daher, wenn diese Systeme aufhören zu arbeiten."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Gefühle sind bedeutsam, weil sie Organismen mitteilen, wie es ihnen geht, und das Überleben leiten; die Theorie verortet diesen Wert in der Biologie, nicht in einer kosmischen Ordnung."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Bewusstsein hängt von verkörperter, subkortikaler affektiver Neurodynamik ab, die eine digitale Kopie der Kognition nicht übertragen würde."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Solms's Affect as the Hidden Spring of Consciousness", "relationship": "Erweiterung" },
-      { "name": "LeDoux's Higher-Order Theory of Emotional Consciousness", "relationship": "Gegensatz" },
-      { "name": "Northoff's Non-Reductive Neurophilosophy", "relationship": "Überschneidung" },
-      { "name": "Merker’s Midbrain-Centered Reality Space", "relationship": "Vereinbar" }
+      {
+        "name": "Solms's Affect as the Hidden Spring of Consciousness",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "LeDoux's Higher-Order Theory of Emotional Consciousness",
+        "relationship": "Gegensatz"
+      },
+      {
+        "name": "Northoff's Non-Reductive Neurophilosophy",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Merker’s Midbrain-Centered Reality Space",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Affective Neuroscience: The Foundations of Human and Animal Emotions, Jaak Panksepp", "year": 1998 },
-      { "title_with_names": "The Periconscious Substrates of Consciousness: Affective States and the Evolutionary Origins of the SELF, Jaak Panksepp", "year": 1998 },
-      { "title_with_names": "Affective Consciousness: Core Emotional Feelings in Animals and Humans, Jaak Panksepp", "year": 2005 },
-      { "title_with_names": "On the Embodied Neural Nature of Core Emotional Affects, Jaak Panksepp", "year": 2005 },
-      { "title_with_names": "Neurologizing the Psychology of Affects: How Appraisal-Based Constructivism and Basic Emotion Theory Can Coexist, Jaak Panksepp", "year": 2007 },
-      { "title_with_names": "The Archaeology of Mind: Neuroevolutionary Origins of Human Emotions, Jaak Panksepp and Lucy Biven", "year": 2012 },
-      { "title_with_names": "‘Laughing’ Rats and the Evolutionary Antecedents of Human Joy?, Jaak Panksepp and Jeffrey Burgdorf", "year": 2003 },
-      { "title_with_names": "Effects of Neonatal Decortication on the Social Play of Juvenile Rats, Jaak Panksepp, L. Normansell, J. F. Cox and S. M. Siviy", "year": 1994 },
-      { "title_with_names": "The Trans-Species Core SELF, Jaak Panksepp and Georg Northoff", "year": 2009 },
-      { "title_with_names": "The Affective Core of the Self, A. Alcaro, S. Carta and Jaak Panksepp", "year": 2017 },
-      { "title_with_names": "The ‘Id’ Knows More than the ‘Ego’ Admits, Mark Solms and Jaak Panksepp", "year": 2012 },
-      { "title_with_names": "The Emergence of Primary Anoetic Consciousness in Episodic Memory, M. Vandekerckhove, L. C. Bulnes and Jaak Panksepp", "year": 2014 },
-      { "title_with_names": "A Higher-Order Theory of Emotional Consciousness, Joseph E. LeDoux and Richard Brown", "year": 2017 }
+      {
+        "title_with_names": "Affective Neuroscience: The Foundations of Human and Animal Emotions, Jaak Panksepp",
+        "year": 1998
+      },
+      {
+        "title_with_names": "The Periconscious Substrates of Consciousness: Affective States and the Evolutionary Origins of the SELF, Jaak Panksepp",
+        "year": 1998
+      },
+      {
+        "title_with_names": "Affective Consciousness: Core Emotional Feelings in Animals and Humans, Jaak Panksepp",
+        "year": 2005
+      },
+      {
+        "title_with_names": "On the Embodied Neural Nature of Core Emotional Affects, Jaak Panksepp",
+        "year": 2005
+      },
+      {
+        "title_with_names": "Neurologizing the Psychology of Affects: How Appraisal-Based Constructivism and Basic Emotion Theory Can Coexist, Jaak Panksepp",
+        "year": 2007
+      },
+      {
+        "title_with_names": "The Archaeology of Mind: Neuroevolutionary Origins of Human Emotions, Jaak Panksepp and Lucy Biven",
+        "year": 2012
+      },
+      {
+        "title_with_names": "‘Laughing’ Rats and the Evolutionary Antecedents of Human Joy?, Jaak Panksepp and Jeffrey Burgdorf",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Effects of Neonatal Decortication on the Social Play of Juvenile Rats, Jaak Panksepp, L. Normansell, J. F. Cox and S. M. Siviy",
+        "year": 1994
+      },
+      {
+        "title_with_names": "The Trans-Species Core SELF, Jaak Panksepp and Georg Northoff",
+        "year": 2009
+      },
+      {
+        "title_with_names": "The Affective Core of the Self, A. Alcaro, S. Carta and Jaak Panksepp",
+        "year": 2017
+      },
+      {
+        "title_with_names": "The ‘Id’ Knows More than the ‘Ego’ Admits, Mark Solms and Jaak Panksepp",
+        "year": 2012
+      },
+      {
+        "title_with_names": "The Emergence of Primary Anoetic Consciousness in Episodic Memory, M. Vandekerckhove, L. C. Bulnes and Jaak Panksepp",
+        "year": 2014
+      },
+      {
+        "title_with_names": "A Higher-Order Theory of Emotional Consciousness, Joseph E. LeDoux and Richard Brown",
+        "year": 2017
+      }
     ]
   }
 }

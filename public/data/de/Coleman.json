@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Colemans Panqualitativismus",
     "summary": "Sam Coleman vertritt die Auffassung, dass die intrinsische Natur, die hinter der Struktur steckt, welche die Physik beschreibt, aus Qualitäten besteht, also aus derselben Art von Dingen wie Rötlichkeit oder Schmerzhaftigkeit, dass diese Qualitäten jedoch an sich von niemandem erlebt werden. Phänomenales Bewusstsein tritt nur dann auf, wenn ein Gehirn sich organisierter Qualitäten gewahr wird, was Coleman mit seiner quotationalen Theorie des Denkens höherer Ordnung erklärt. Qualitäten sind irreduzibel und fundamental, Subjekte und Gewahrsein dagegen sind reduzierbar.",
-    "associated_thinkers": ["Sam Coleman"],
+    "associated_thinkers": [
+      "Sam Coleman"
+    ],
     "category": "Panpsychismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als Gewahrsein unerlebter Qualitäten",
-    "classification_tags": ["panqualityism", "russellian monism", "qualia", "higher-order thought", "combination problem"]
+    "classification_tags": [
+      "panqualityism",
+      "russellian monism",
+      "qualia",
+      "higher-order thought",
+      "combination problem"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist eine Beziehung des Gewahrseins zu Qualitäten. Eine Qualität ist nur der mögliche Inhalt einer Erfahrung; Erfahrung tritt auf, wenn das Gewahrsein eines Subjekts sie aufnimmt.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Alle Materie ist qualitativ, und Gewahrsein ist eine funktionale Beziehung; daher folgt aus der Auffassung, dass ein künstliches System bewusst wäre, wenn es das Gewahrsein von Qualitäten auf die richtige Weise realisierte."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Qualitäten bestehen fort, Subjekte und Erfahrung hängen jedoch von der Gewahrseinsstruktur eines Gehirns ab; daher folgt aus der Auffassung, dass die Erfahrung einer Person mit ihm endet."
     },
     "meaning_and_purpose": {
@@ -64,24 +72,72 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Russellian Monism", "relationship": "Grundlage" },
-      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Einfluss" },
-      { "name": "Feigl's Double Knowledge of Raw Feels", "relationship": "Einfluss" },
-      { "name": "Goff's Panpsychism", "relationship": "Kontrast" }
+      {
+        "name": "Russellian Monism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Rosenthal’s Higher-Order Thought",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Feigl's Double Knowledge of Raw Feels",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Goff's Panpsychism",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Mental chemistry: Combination for panpsychists, Sam Coleman", "year": 2012 },
-      { "title_with_names": "The real combination problem: Panpsychism, micro-subjects, and emergence, Sam Coleman", "year": 2014 },
-      { "title_with_names": "Quotational higher-order thought theory, Sam Coleman", "year": 2015 },
-      { "title_with_names": "Phenomenal Qualities: Sense, Perception, and Consciousness, P. Coates, Sam Coleman (eds.)", "year": 2015 },
-      { "title_with_names": "Panpsychism and neutral monism: How to make up one's mind, Sam Coleman", "year": 2017 },
-      { "title_with_names": "Natural acquaintance, Sam Coleman", "year": 2019 },
-      { "title_with_names": "A Panqualityist Manifesto, Sam Coleman", "year": 2024 },
-      { "title_with_names": "An Argument for Unconscious Mental Qualities, Sam Coleman", "year": 2025 },
-      { "title_with_names": "The Analysis of Matter, Bertrand Russell", "year": 1927 },
-      { "title_with_names": "The combination problem for panpsychism, David J. Chalmers", "year": 2017 },
-      { "title_with_names": "Panqualityism, awareness and the explanatory gap, J. Mihálik", "year": 2020 },
-      { "title_with_names": "First-order representationalist panqualityism, H. Rosenberg", "year": 2025 }
+      {
+        "title_with_names": "Mental chemistry: Combination for panpsychists, Sam Coleman",
+        "year": 2012
+      },
+      {
+        "title_with_names": "The real combination problem: Panpsychism, micro-subjects, and emergence, Sam Coleman",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Quotational higher-order thought theory, Sam Coleman",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Phenomenal Qualities: Sense, Perception, and Consciousness, P. Coates, Sam Coleman (eds.)",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Panpsychism and neutral monism: How to make up one's mind, Sam Coleman",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Natural acquaintance, Sam Coleman",
+        "year": 2019
+      },
+      {
+        "title_with_names": "A Panqualityist Manifesto, Sam Coleman",
+        "year": 2024
+      },
+      {
+        "title_with_names": "An Argument for Unconscious Mental Qualities, Sam Coleman",
+        "year": 2025
+      },
+      {
+        "title_with_names": "The Analysis of Matter, Bertrand Russell",
+        "year": 1927
+      },
+      {
+        "title_with_names": "The combination problem for panpsychism, David J. Chalmers",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Panqualityism, awareness and the explanatory gap, J. Mihálik",
+        "year": 2020
+      },
+      {
+        "title_with_names": "First-order representationalist panqualityism, H. Rosenberg",
+        "year": 2025
+      }
     ]
   }
 }

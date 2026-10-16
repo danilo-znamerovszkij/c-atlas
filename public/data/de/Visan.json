@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Vișans Selbstreferenz",
     "summary": "Cosmin Vișan identifiziert Bewusstsein mit Selbstreferenz, einer Entität, deren einzige Eigenschaft darin besteht, auf sich selbst zurückzublicken. Jeder Akt des Zurückblickens schließt den vorangegangenen ein und geht über ihn hinaus. Dies erkläre, so Vișan, warum Qualia in Ebenen geordnet sind, und die Form, die die Selbstreferenz auf jeder Stufe annimmt, sei durch eine Bedeutung festgelegt, was erkläre, warum Qualia so erlebt werden, wie sie erlebt werden. Da Selbstreferenz nur Formen und Qualitäten hervorbringen kann, schließt er, dass Bewusstsein alles ist, was es gibt.",
-    "associated_thinkers": ["Cosmin Vișan"],
+    "associated_thinkers": [
+      "Cosmin Vișan"
+    ],
     "category": "Idealismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als Selbstreferenz, die auf sich selbst zurückblickt",
-    "classification_tags": ["self-reference", "qualia", "meaning", "idealism", "phenomenology"]
+    "classification_tags": [
+      "self-reference",
+      "qualia",
+      "meaning",
+      "idealism",
+      "phenomenology"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist Selbstreferenz, der Akt des Zurückblickens auf sich selbst. Jedes Quale ist Selbstreferenz, die sich unter einer bestimmten Form sieht.",
@@ -46,15 +54,15 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unsicher",
+      "stance": "Uncertain",
       "rationale": "Vișan bestreitet, dass Systeme Selbstreferenz hervorbringen, da Selbstreferenz Systeme instanziiert. Eine selbstreferenzielle Maschine würde daher kein Bewusstsein erzeugen. Offen bleibt jedoch, ob eine Maschine eine Form der Selbstreferenz sein könnte."
     },
     "survival_beyond_death": {
-      "stance": "Unsicher",
+      "stance": "Uncertain",
       "rationale": "Selbstreferenz ist ungeschaffen und logisch notwendig, daher kann Bewusstsein als solches nicht enden. Vișan sagt jedoch nicht, was beim Tod mit den Formen eines Individuums geschieht."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Bedeutung ist in die Wirklichkeit eingebaut, da jede Qualität, die Selbstreferenz annimmt, durch eine Bedeutung bestimmt ist."
     },
     "virtual_immortality": {
@@ -64,13 +72,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Hofstadter’s Strange Loops", "relationship": "Kritik" },
-      { "name": "Kastrup's Analytic Idealism", "relationship": "Kompatibel" },
-      { "name": "Qualia Space", "relationship": "Überschneidung" }
+      {
+        "name": "Hofstadter’s Strange Loops",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Kastrup's Analytic Idealism",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Qualia Space",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "How Self-Reference Builds the World, Cosmin Vișan", "year": 2023 },
-      { "title_with_names": "Vișan’s Self-Reference (Landscape of Consciousness entry), Cosmin Vișan", "year": 2023 }
+      {
+        "title_with_names": "How Self-Reference Builds the World, Cosmin Vișan",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Vișan’s Self-Reference (Landscape of Consciousness entry), Cosmin Vișan",
+        "year": 2023
+      }
     ]
   }
 }

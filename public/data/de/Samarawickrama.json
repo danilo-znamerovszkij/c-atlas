@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Samarawickramas fundamentales, frequenztragendes Feld",
     "summary": "Mahendra Samarawickrama vertritt die Auffassung, Bewusstsein sei eine fundamentale Dimension der Wirklichkeit, die Erfahrung vor allem Erkennen, Logik und Sprache verleiht; diese seien sekundäre Konstrukte, die daraus aufgebaut werden. Er modelliert Bewusstsein als sequenzielles Feld mit einer Grundfrequenz, verbindet Einsteins E=mc² mit Plancks E=hf und ergänzt ein „Bewusstseinsteilchen“, das Primion, das verborgene Variablen trägt, die der Erfahrung, nicht aber der physikalischen Messung zugänglich sind. Bewusstsein verläuft in zwei Modi: einem selbstbezüglichen Modus, der Wissen hervorbringt und gödelunvollständig ist, und einem nichtreferenziellen Modus des unmittelbaren, vollständigen Gewahrseins von Kausalität.",
-    "associated_thinkers": ["Mahendra Samarawickrama"],
+    "associated_thinkers": [
+      "Mahendra Samarawickrama"
+    ],
     "category": "Idealismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als fundamentales, frequenztragendes Feld",
-    "classification_tags": ["frequency field", "hidden variables", "primion", "gödel", "meditation"]
+    "classification_tags": [
+      "frequency field",
+      "hidden variables",
+      "primion",
+      "gödel",
+      "meditation"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein fundamentales, frequenztragendes Feld und ein sequenzieller Prozess, der alle Erfahrung und alles Wissen begründet. Es ist unmittelbar erfahrbar und unabhängig von den kognitiven, logischen und sprachlichen Prozessen des Gehirns.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Berechnung und materielle Prozesse allein können niemals Bewusstsein hervorbringen; Samarawickrama befürwortet jedoch bewusstseinsfähige KI, die durch Schnittstellen von Maschinen mit lebenden Gehirnen oder Organoiden in Human-in-the-Loop-Konstruktionen entsteht."
     },
     "survival_beyond_death": {
@@ -58,19 +66,34 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Bewusstsein übersteigt Logik, Sprache und Berechnung, auf die digitale Systeme beschränkt sind; eine rein rechnerische Kopie wäre daher nicht bewusst."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Penrose-Hameroff's Orchestrated Objective Reduction", "relationship": "Überschneidung" },
-      { "name": "Faggin's Quantum Information-based Panpsychism", "relationship": "Überschneidung" },
-      { "name": "Kant’s Transcendental Idealism", "relationship": "Gegensatz" },
-      { "name": "Meditation and the Brain", "relationship": "Vereinbar" }
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Faggin's Quantum Information-based Panpsychism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Kant’s Transcendental Idealism",
+        "relationship": "Gegensatz"
+      },
+      {
+        "name": "Meditation and the Brain",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Samarawickrama’s Fundamental, Frequency-bearing Field (Landscape of Consciousness entry), Mahendra Samarawickrama", "year": 2024 }
+      {
+        "title_with_names": "Samarawickrama’s Fundamental, Frequency-bearing Field (Landscape of Consciousness entry), Mahendra Samarawickrama",
+        "year": 2024
+      }
     ]
   }
 }

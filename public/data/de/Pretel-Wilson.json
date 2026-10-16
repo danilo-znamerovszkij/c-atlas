@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Pretel-Wilsons Theorie menschlicher Systeme",
     "summary": "Manel Pretel-Wilson argumentiert, dass der Begriff des Bewusstseins, den wir von Descartes’ Trennung zwischen einem denkenden Subjekt und einer ausgedehnten Welt übernommen haben, durch räumliche und zeitliche Dualitäten ersetzt werden sollte, die alles Seiende strukturieren. Für den Menschen ist die zentrale Dualität die zwischen dem Wirklichen und dem Möglichen, verwirklicht durch menschliche Systeme, die Menschen gemeinsam aufbauen, um die menschliche Welt zu gestalten.",
-    "associated_thinkers": ["Manel Pretel-Wilson"],
+    "associated_thinkers": [
+      "Manel Pretel-Wilson"
+    ],
     "category": "Materialismus",
     "subcategory": "Verkörpert",
     "core_identity_tagline": "Bewusstsein abgelöst durch die Dualität von Wirklichem und Möglichem",
-    "classification_tags": ["systems theory", "anti-dualism", "human systems", "creativity", "organism-environment"]
+    "classification_tags": [
+      "systems theory",
+      "anti-dualism",
+      "human systems",
+      "creativity",
+      "organism-environment"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Pretel-Wilson bezeichnet nichts als Bewusstsein; er vertritt die Auffassung, dass der Begriff überflüssig wird, sobald die räumliche Dualität (peripher und zentral, innen und außen) und die zeitliche Dualität (wirklich und möglich) der Wesen geklärt sind.",
@@ -53,7 +61,7 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Pretel-Wilson verortet Zweck im Menschen, der durch menschliche Systeme gemeinsam daran arbeitet, Ideen zu verwirklichen, die die menschliche Welt gestalten."
     },
     "virtual_immortality": {
@@ -63,14 +71,32 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Descartes’s Substance Dualism", "relationship": "Kritik" },
-      { "name": "Complex Adaptive Systems Models", "relationship": "Überschneidung" },
-      { "name": "Enactivism", "relationship": "Vereinbar" },
-      { "name": "Churchland’s Eliminative Materialism", "relationship": "Überschneidung" }
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Complex Adaptive Systems Models",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Churchland’s Eliminative Materialism",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Utopics: The Unification of Human Science, Manel Pretel-Wilson", "year": 2020 },
-      { "title_with_names": "The Ethics of Human Systems: Creating Economic Value with Impact for Good, Manel Pretel-Wilson", "year": 2025 }
+      {
+        "title_with_names": "Utopics: The Unification of Human Science, Manel Pretel-Wilson",
+        "year": 2020
+      },
+      {
+        "title_with_names": "The Ethics of Human Systems: Creating Economic Value with Impact for Good, Manel Pretel-Wilson",
+        "year": 2025
+      }
     ]
   }
 }

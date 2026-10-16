@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "McGinns lebendiges Bewusstsein",
     "summary": "McGinn schlägt vor, dass elementares Bewusstsein in allem lebendigen, organischen Gewebe existiert, in nichts Anorganischem dagegen. Er nennt diese Auffassung pan-biologisch und nicht pan-physisch. Organisch zu sein ist eine Voraussetzung des Geistes, und Bewusstsein könnte in verschiedenen Graden über die Gewebe des Körpers verteilt sein und im Gehirn seinen Höhepunkt erreichen.",
-    "associated_thinkers": ["Colin McGinn"],
+    "associated_thinkers": [
+      "Colin McGinn"
+    ],
     "category": "Materialismus",
     "subcategory": "Phylogenetisch",
     "core_identity_tagline": "Bewusstsein beschränkt auf lebendiges organisches Gewebe",
-    "classification_tags": ["biopsychism", "panpsychism", "organic matter", "degrees of consciousness", "life"]
+    "classification_tags": [
+      "biopsychism",
+      "panpsychism",
+      "organic matter",
+      "degrees of consciousness",
+      "life"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein in elementarer oder proto-mentaler Form ist ein Merkmal organischen Gewebes als solchem. Der tierische Körper ist die Wiege des Mentalen, und das Gehirn ist der Ort, an dem organisches Gewebe seinen mentalen Höhepunkt erreicht.",
@@ -46,31 +54,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Existiert Bewusstsein nur im organischen Gewebe, folgt, dass anorganischen Maschinen selbst elementare Mentalität fehlen würde."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da der Geist vom lebendigen Gewebe abhängt, folgt, dass Bewusstsein den organischen Körper nicht überdauern würde."
     },
     "meaning_and_purpose": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "McGinn stellt Bewusstsein als rätselhafte natürliche Tendenz der organischen Materie dar, ohne Schlüsse über einen Zweck zu ziehen."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Eine digitale Kopie ist nicht organisch. Nach dieser Auffassung würde sie daher kein Bewusstsein tragen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Goff's Panpsychism", "relationship": "Kritik" },
-      { "name": "McGinn's Ultimate Mystery (Mysterianism)", "relationship": "Vereinbar" },
-      { "name": "Thompson's Mind in Life", "relationship": "Überschneidung" },
-      { "name": "Reber's Cellular Basis of Consciousness", "relationship": "Überschneidung" }
+      {
+        "name": "Goff's Panpsychism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Thompson's Mind in Life",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Reber's Cellular Basis of Consciousness",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "McGinn’s Living Consciousness, Colin McGinn (Landscape of Consciousness entry)", "year": 2025 }
+      {
+        "title_with_names": "McGinn’s Living Consciousness, Colin McGinn (Landscape of Consciousness entry)",
+        "year": 2025
+      }
     ]
   }
 }

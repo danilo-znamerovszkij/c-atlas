@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Berkeleys immaterialistischer Idealismus",
     "summary": "George Berkeley vertritt die Auffassung, dass nur Geister (Seelen) und die Ideen, die sie wahrnehmen, existieren: Sein heißt wahrgenommen werden oder wahrnehmen. Sinnliche Gegenstände sind stabile, gesetzmäßige Ansammlungen von Ideen und nicht geistunabhängige Materie hinter ihnen. Gott, ein unendlicher Geist, verursacht und erhält diese Ideen, was die sinnliche Welt lebendig, geordnet und öffentlich hält und sie auch dann im Dasein erhält, wenn kein endlicher Geist sie wahrnimmt.",
-    "associated_thinkers": ["George Berkeley"],
+    "associated_thinkers": [
+      "George Berkeley"
+    ],
     "category": "Idealismus",
     "subcategory": "",
     "core_identity_tagline": "Sein heißt wahrgenommen werden oder wahrnehmen",
-    "classification_tags": ["immaterialism", "subjective idealism", "empiricism", "theism", "perception"]
+    "classification_tags": [
+      "immaterialism",
+      "subjective idealism",
+      "empiricism",
+      "theism",
+      "perception"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Phänomenales Bewusstsein ist das unmittelbare Erfassen von Ideen durch tätige endliche Geister; es ist die Weise, in der die sinnliche Welt selbst existiert, und nicht eine innere Repräsentation von etwas jenseits ihrer.",
@@ -46,36 +54,66 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Nur Geister nehmen wahr und handeln, und eine Maschine ist eine Ansammlung von Ideen; daher könnte eine Maschine als solche nach dieser Auffassung nicht bewusst sein."
     },
     "survival_beyond_death": {
-      "stance": "Wahrscheinlich",
+      "stance": "Likely",
       "rationale": "Ein Geist ist keine Idee und daher nicht Teil des Körpers, der stirbt; Berkeleys System ist zur Stützung des religiösen Glaubens angelegt, auch wenn das Überleben hier nicht begründet wird."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Berkeley richtet sein Vorhaben auf Praxis und Moral, ausgehend von der Nähe und Allgegenwart Gottes, dessen Wille die ganze sinnliche Welt ordnet."
     },
     "virtual_immortality": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Eine digitale Kopie wäre nur eine weitere Ansammlung von Ideen, niemals ein tätiger wahrnehmender Geist."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Locke’s Reflexive Consciousness and the Making of the Person", "relationship": "Kritik" },
-      { "name": "Descartes’s Substance Dualism", "relationship": "Kritik" },
-      { "name": "Malebranche’s Divine Occasionalism: Inner Sensation and Phenomenal Experience", "relationship": "Überschneidung" },
-      { "name": "Yetter-Chappell’s Non-Theistic Idealism", "relationship": "Erweiterung" }
+      {
+        "name": "Locke’s Reflexive Consciousness and the Making of the Person",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Malebranche’s Divine Occasionalism: Inner Sensation and Phenomenal Experience",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Yetter-Chappell’s Non-Theistic Idealism",
+        "relationship": "Erweiterung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "An Essay Towards a New Theory of Vision, George Berkeley", "year": 1709 },
-      { "title_with_names": "A Treatise Concerning the Principles of Human Knowledge, George Berkeley", "year": 1710 },
-      { "title_with_names": "Three Dialogues Between Hylas and Philonous, George Berkeley", "year": 1713 },
-      { "title_with_names": "Alciphron, or the Minute Philosopher, George Berkeley", "year": 1732 },
-      { "title_with_names": "Berkeley: An Interpretation, Kenneth P. Winkler", "year": 1989 },
-      { "title_with_names": "Berkeley’s World: An Examination of the Three Dialogues, Tom Stoneham", "year": 2002 }
+      {
+        "title_with_names": "An Essay Towards a New Theory of Vision, George Berkeley",
+        "year": 1709
+      },
+      {
+        "title_with_names": "A Treatise Concerning the Principles of Human Knowledge, George Berkeley",
+        "year": 1710
+      },
+      {
+        "title_with_names": "Three Dialogues Between Hylas and Philonous, George Berkeley",
+        "year": 1713
+      },
+      {
+        "title_with_names": "Alciphron, or the Minute Philosopher, George Berkeley",
+        "year": 1732
+      },
+      {
+        "title_with_names": "Berkeley: An Interpretation, Kenneth P. Winkler",
+        "year": 1989
+      },
+      {
+        "title_with_names": "Berkeley’s World: An Examination of the Three Dialogues, Tom Stoneham",
+        "year": 2002
+      }
     ]
   }
 }

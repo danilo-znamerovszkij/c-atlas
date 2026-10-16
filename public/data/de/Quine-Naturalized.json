@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Quines naturalisierter Geist und das herabgestufte Phänomenale",
     "summary": "Quine vertritt die Auffassung, dass Bewusstsein real, aber vollständig körperlich ist, ein Zustand des Nervensystems, und dass jedes mentale Ereignis mit einem physischen Ereignis identisch ist, auch wenn mentale Arten nicht in neurologische Arten übersetzt werden können. Sein Naturalismus geht von einem physischen Organismus aus, der von einer öffentlichen Welt gereizt wird, sodass die Rede von privaten Sinnesqualitäten ein spätes, abgeleitetes Idiom wird. Er erklärt, wie Reizung, Verhaltensdispositionen und öffentliche Sprache Wissen und die Zuschreibung mentaler Zustände ermöglichen, lässt aber offen, warum neuronale Aktivität sich irgendwie anfühlt.",
-    "associated_thinkers": ["Willard Van Orman Quine"],
+    "associated_thinkers": [
+      "Willard Van Orman Quine"
+    ],
     "category": "Materialismus",
     "subcategory": "Geist-Gehirn-Identität",
     "core_identity_tagline": "Bewusstsein als körperlicher Zustand, beschrieben in einem Idiom zweiten Grades",
-    "classification_tags": ["naturalism", "token identity", "physicalism", "extensionalism", "behaviorism"]
+    "classification_tags": [
+      "naturalism",
+      "token identity",
+      "physicalism",
+      "extensionalism",
+      "behaviorism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein Zustand des Körpers, genauer des Nervensystems. Quine nennt dies die Identitätstheorie des Geistes: „mentale Zustände sind Zustände des Körpers“.",
@@ -46,39 +54,78 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Quine verknüpft mentale Zustände mit den Zuständen von Organismen und befasste sich nicht mit Maschinen; seine Token-Identität liefert keine Regel dafür, welche physischen Systeme als bewusst gelten."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein ein Zustand des Nervensystems ist, folgt aus der Auffassung, dass nichts den Tod des Körpers überdauert."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Quines Naturalismus lässt nur zu, was unsere beste Wissenschaft beschreibt, und das lässt keinen Raum für einen kosmischen Zweck."
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Mentale Zustände sind körperliche Zustände, und Quine sagt nichts darüber, ob eine nichtbiologische Kopie sie teilen würde."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Davidson's Anomalous Monism", "relationship": "Überschneidung" },
-      { "name": "Quine's Linguistic Demotion of Phenomenal Consciousness", "relationship": "Erweiterung" },
-      { "name": "Churchland’s Eliminative Materialism", "relationship": "Gegensatz" },
-      { "name": "Smart’s Topic-Neutral Identity", "relationship": "Vereinbar" }
+      {
+        "name": "Davidson's Anomalous Monism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Quine's Linguistic Demotion of Phenomenal Consciousness",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Churchland’s Eliminative Materialism",
+        "relationship": "Gegensatz"
+      },
+      {
+        "name": "Smart’s Topic-Neutral Identity",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Word and Object, W. V. O. Quine", "year": 1960 },
-      { "title_with_names": "Epistemology Naturalized, W. V. O. Quine", "year": 1969 },
-      { "title_with_names": "Mind and Verbal Dispositions, W. V. O. Quine", "year": 1975 },
-      { "title_with_names": "Quiddities: An Intermittently Philosophical Dictionary, W. V. O. Quine", "year": 1987 },
-      { "title_with_names": "Pursuit of Truth, W. V. O. Quine", "year": 1990 },
-      { "title_with_names": "From Stimulus to Science, W. V. O. Quine", "year": 1995 },
-      { "title_with_names": "Science and Sensibilia: The 1980 Immanuel Kant Lectures, W. V. O. Quine (ed. R. Sinclair)", "year": 2019 },
-      { "title_with_names": "Quine, Ontology, and Physicalism, F. Janssen-Lauret", "year": 2019 },
-      { "title_with_names": "Willard Van Orman Quine (Stanford Encyclopedia of Philosophy), P. Hylton and G. Kemp", "year": 2023 }
+      {
+        "title_with_names": "Word and Object, W. V. O. Quine",
+        "year": 1960
+      },
+      {
+        "title_with_names": "Epistemology Naturalized, W. V. O. Quine",
+        "year": 1969
+      },
+      {
+        "title_with_names": "Mind and Verbal Dispositions, W. V. O. Quine",
+        "year": 1975
+      },
+      {
+        "title_with_names": "Quiddities: An Intermittently Philosophical Dictionary, W. V. O. Quine",
+        "year": 1987
+      },
+      {
+        "title_with_names": "Pursuit of Truth, W. V. O. Quine",
+        "year": 1990
+      },
+      {
+        "title_with_names": "From Stimulus to Science, W. V. O. Quine",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Science and Sensibilia: The 1980 Immanuel Kant Lectures, W. V. O. Quine (ed. R. Sinclair)",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Quine, Ontology, and Physicalism, F. Janssen-Lauret",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Willard Van Orman Quine (Stanford Encyclopedia of Philosophy), P. Hylton and G. Kemp",
+        "year": 2023
+      }
     ]
   }
 }

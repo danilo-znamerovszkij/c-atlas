@@ -2,11 +2,22 @@
   "id_and_class": {
     "theory_title": "Nyāyas kontingentes Bewusstsein des beständigen Selbst",
     "summary": "Die Nyāya-Schule vertritt die Auffassung, dass jede Person ein ewiges, alldurchdringendes, nichtphysisches Selbst (ātman) ist, das von Natur aus nicht bewusst ist. Erkenntnis, Lust, Schmerz, Begehren, Abneigung und Wollen sind kontingente Qualitäten, die im Selbst nur entstehen, wenn es über das innere Organ (manas) mit den Sinnen, dem Körper und den Gegenständen verbunden ist. Eine Erkenntnis offenbart ihren Gegenstand, aber nicht sich selbst; dass man weiß, dass man weiß, erfordert eine zweite, spätere innere Wahrnehmung.",
-    "associated_thinkers": ["Gautama (Akṣapāda)", "Vātsyāyana", "Gaṅgeśa", "Bhāsarvajña"],
+    "associated_thinkers": [
+      "Gautama (Akṣapāda)",
+      "Vātsyāyana",
+      "Gaṅgeśa",
+      "Bhāsarvajña"
+    ],
     "category": "Dualismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als vorübergehende Qualität eines nicht bewussten Selbst",
-    "classification_tags": ["indian philosophy", "substance dualism", "direct realism", "higher-order awareness", "ātman"]
+    "classification_tags": [
+      "indian philosophy",
+      "substance dualism",
+      "direct realism",
+      "higher-order awareness",
+      "ātman"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist eine Gesamtheit zufälliger Qualitäten (āgantuka guṇa), vor allem Gewahrsein (jñāna) und gefühlte Affekte, die einem nichtphysischen Selbst innewohnen, ohne sein Wesen zu sein.",
@@ -46,37 +57,70 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein nur einem nichtphysischen Selbst innewohnen kann, kann ein materielles Artefakt es nicht tragen."
     },
     "survival_beyond_death": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Das Selbst ist ewig, und das manas trägt Gedächtnisspuren über Leben hinweg, daher überlebt das Subjekt den Tod; in der endgültigen Befreiung überlebt das Selbst, doch das Bewusstsein erlischt."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Die Psychologie der Nyāya dient einem Weg zur Befreiung, dem vollständigen Ende von Leiden und Wiedergeburt."
     },
     "virtual_immortality": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Erfahrung gehört einem nichtphysischen Selbst, daher würde das Kopieren körperlicher oder neuronaler Muster die Person nicht fortsetzen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Sāṃkhya's Pure Witness and the Material Mind", "relationship": "Kontrast" },
-      { "name": "Śaṅkara's Self-Luminous Nondualism", "relationship": "Kritik" },
-      { "name": "Buddhism's Empty, Illusory Phenomenal Consciousness", "relationship": "Kontrast" },
-      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Überschneidung" }
+      {
+        "name": "Sāṃkhya's Pure Witness and the Material Mind",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Śaṅkara's Self-Luminous Nondualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Buddhism's Empty, Illusory Phenomenal Consciousness",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Rosenthal’s Higher-Order Thought",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Nyāya-sūtra: Selections with Early Commentaries, Gautama (trans. M. R. Dasti and S. H. Phillips)", "year": 2017 },
-      { "title_with_names": "Classical Indian Philosophy of Mind: The Nyāya Dualist Tradition, K. K. Chakrabarti", "year": 1999 },
-      { "title_with_names": "Nyāya’s Self as Agent and Knower, M. R. Dasti", "year": 2013 },
-      { "title_with_names": "Perception: An Essay on Classical Indian Theories of Knowledge, B. K. Matilal", "year": 1986 },
-      { "title_with_names": "Epistemology in Classical India: The Knowledge Sources of the Nyāya School, S. H. Phillips", "year": 2012 },
-      { "title_with_names": "The Self in Early Nyāya: A Minimal Conclusion, M. Chadha", "year": 2013 },
-      { "title_with_names": "Cross-Modality and the Self, J. Ganeri", "year": 2000 }
+      {
+        "title_with_names": "The Nyāya-sūtra: Selections with Early Commentaries, Gautama (trans. M. R. Dasti and S. H. Phillips)",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Classical Indian Philosophy of Mind: The Nyāya Dualist Tradition, K. K. Chakrabarti",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Nyāya’s Self as Agent and Knower, M. R. Dasti",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Perception: An Essay on Classical Indian Theories of Knowledge, B. K. Matilal",
+        "year": 1986
+      },
+      {
+        "title_with_names": "Epistemology in Classical India: The Knowledge Sources of the Nyāya School, S. H. Phillips",
+        "year": 2012
+      },
+      {
+        "title_with_names": "The Self in Early Nyāya: A Minimal Conclusion, M. Chadha",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Cross-Modality and the Self, J. Ganeri",
+        "year": 2000
+      }
     ]
   }
 }

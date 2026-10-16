@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Caveliers verschränkte Spins am NMDA-Rezeptor",
     "summary": "German Cavelier schlägt vor, dass das Gehirn bewusste Erfahrung in verschränkten Radikalpaar-Spinzuständen an NMDA-Rezeptoren registriert und dass diese Quanteninformation eins zu eins den Spike-Frequenz- und Zeitcodes der umgebenden Schaltkreise entspricht. Er formuliert die Idee als zwei prüfbare Hypothesen mit expliziten Falsifikationsbedingungen und Parameterbereichen und betont, dass die beteiligten biologischen Prozesse noch hypothetisch sind.",
-    "associated_thinkers": ["German Cavelier"],
+    "associated_thinkers": [
+      "German Cavelier"
+    ],
     "category": "Quanten",
     "subcategory": "",
     "core_identity_tagline": "Erfahrung, registriert in verschränkten Rezeptorspins",
-    "classification_tags": ["radical pairs", "nmda receptor", "entanglement", "quantum biology", "falsifiability"]
+    "classification_tags": [
+      "radical pairs",
+      "nmda receptor",
+      "entanglement",
+      "quantum biology",
+      "falsifiability"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusste Erfahrung wird als Information in verschränkten Elektronenspinzuständen an NMDA-Rezeptoren registriert und über molekulare, Kanal- und Schaltkreisebenen in die Feuermuster getragen, aus denen Qualia hervorgehen.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Cavelier verknüpft die Registrierung von Erfahrung mit einer bestimmten Biophysik der Rezeptoren und beantwortet nicht, ob künstliche Systeme ein Äquivalent haben könnten."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da Erfahrung hier in den Rezeptoren und Schaltkreisen des Gehirns registriert wird, folgt aus der Auffassung, dass sie diese nicht überdauert."
     },
     "meaning_and_purpose": {
@@ -64,16 +72,40 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Neven's Quantum Superposition Formation", "relationship": "Überschneidung" },
-      { "name": "Crick and Koch's Neural Correlates of Consciousness", "relationship": "Erweiterung" },
-      { "name": "McFadden's Conscious Electromagnetic Information Theory", "relationship": "Vereinbar" },
-      { "name": "Penrose-Hameroff's Orchestrated Objective Reduction", "relationship": "Überschneidung" }
+      {
+        "name": "Neven's Quantum Superposition Formation",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Brain entangled quantum states in radical pairs: A possible link to consciousness, German Cavelier", "year": 2026 },
-      { "title_with_names": "Evidence of quantum-entangled higher states of consciousness, Á. Escolà-Gascón", "year": 2025 },
-      { "title_with_names": "Quantum entanglement at ambient conditions in a macroscopic solid-state spin ensemble, P. V. Klimov, A. L. Falk, D. J. Christle, V. V. Dobrovitski, D. D. Awschalom", "year": 2015 },
-      { "title_with_names": "Testing the conjecture that quantum processes create conscious experience, H. Neven, A. Zalcman, P. Read, et al.", "year": 2024 }
+      {
+        "title_with_names": "Brain entangled quantum states in radical pairs: A possible link to consciousness, German Cavelier",
+        "year": 2026
+      },
+      {
+        "title_with_names": "Evidence of quantum-entangled higher states of consciousness, Á. Escolà-Gascón",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Quantum entanglement at ambient conditions in a macroscopic solid-state spin ensemble, P. V. Klimov, A. L. Falk, D. J. Christle, V. V. Dobrovitski, D. D. Awschalom",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Testing the conjecture that quantum processes create conscious experience, H. Neven, A. Zalcman, P. Read, et al.",
+        "year": 2024
+      }
     ]
   }
 }

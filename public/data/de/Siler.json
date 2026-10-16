@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Silers Kunst des Bewusstseins",
     "summary": "Der Künstler Todd Siler nähert sich dem Bewusstsein über ‚Metaphorming‘: das Herstellen von Verbindungen durch Metapher, Analogie, Symbol, Modell und Erzählung, das er für den schöpferischen Prozess sowohl des menschlichen Gehirns als auch der Natur hält. Seine großformatigen NeuroArt-Gemälde zeigen das Gehirn als verbunden mit allem, was es hervorbringt, und er betrachtet Bewusstsein zusammen mit Gewissen als das, was organische Materie in reflexive, schöpferische und empathische Wesen verwandelt.",
-    "associated_thinkers": ["Todd Siler"],
+    "associated_thinkers": [
+      "Todd Siler"
+    ],
     "category": "Herausforderung",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als schöpferisches Herstellen von Verbindungen",
-    "classification_tags": ["art", "metaphor", "creativity", "artscience", "neuroart"]
+    "classification_tags": [
+      "art",
+      "metaphor",
+      "creativity",
+      "artscience",
+      "neuroart"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Siler betrachtet Bewusstsein als Quelle von Geist, Kunst, Wissenschaft und Technik sowie als Bedingung für Reflexion, Schöpfung und Empathie. Er stellt es über Metaforme dar, die seiner Ansicht nach alle unsere symbolischen Sprachen und Werkzeuge der Verbindungsbildung ausmachen.",
@@ -54,7 +62,7 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Siler verortet Sinn in menschlicher Kreativität, im Gewissen und in der Liebe sowie im Aufbau einer gewissenhafteren Zivilisation."
     },
     "virtual_immortality": {
@@ -64,15 +72,33 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Lakoff and Johnson’s Embodied Realism and Embodied Mind", "relationship": "Überschneidung" },
-      { "name": "Crick and Koch's Neural Correlates of Consciousness", "relationship": "Vereinbar" }
+      {
+        "name": "Lakoff and Johnson’s Embodied Realism and Embodied Mind",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Breaking the Mind Barrier, Todd Siler" },
-      { "title_with_names": "Think Like A Genius, Todd Siler" },
-      { "title_with_names": "Deciphering The Neural Rosetta Stone (painting), Todd Siler", "year": 1989 },
-      { "title_with_names": "The Big Bang of Consciousness (painting), Todd Siler", "year": 1983 },
-      { "title_with_names": "Siler's Art/Consciousness (Landscape of Consciousness entry), Todd Siler" }
+      {
+        "title_with_names": "Breaking the Mind Barrier, Todd Siler"
+      },
+      {
+        "title_with_names": "Think Like A Genius, Todd Siler"
+      },
+      {
+        "title_with_names": "Deciphering The Neural Rosetta Stone (painting), Todd Siler",
+        "year": 1989
+      },
+      {
+        "title_with_names": "The Big Bang of Consciousness (painting), Todd Siler",
+        "year": 1983
+      },
+      {
+        "title_with_names": "Siler's Art/Consciousness (Landscape of Consciousness entry), Todd Siler"
+      }
     ]
   }
 }

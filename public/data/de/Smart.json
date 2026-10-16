@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Smarts themenneutrale Identität",
     "summary": "J. J. C. Smart argumentiert, dass Empfindungen Hirnprozesse sind, eine Identität, die die Wissenschaft entdeckt und nicht durch Bedeutung wahr ist. Berichte über Erfahrung sind ‚themenneutral‘: Sie sagen, dass etwas vorgeht, ähnlich dem, was geschieht, wenn man einen orangefarbenen Fleck sieht, ohne zu entscheiden, ob er physisch ist, sodass die Wissenschaft ihn als neuronalen Prozess identifizieren kann. Ockhams Rasiermesser entfernt dann irreduzibel mentale ‚nomologische Hängeseile‘ aus der physikalischen Darstellung der Natur.",
-    "associated_thinkers": ["John Jamieson Carswell Smart"],
+    "associated_thinkers": [
+      "John Jamieson Carswell Smart"
+    ],
     "category": "Materialismus",
     "subcategory": "Geist-Gehirn-Identität",
     "core_identity_tagline": "Empfindungen als Hirnprozesse unter themenneutraler Beschreibung",
-    "classification_tags": ["identity theory", "topic-neutral", "parsimony", "physicalism", "philosophy of mind"]
+    "classification_tags": [
+      "identity theory",
+      "topic-neutral",
+      "parsimony",
+      "physicalism",
+      "philosophy of mind"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Empfindungen und phänomenale Erfahrungen sind nichts über die Prozesse im zentralen Nervensystem hinaus.",
@@ -46,38 +54,74 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Bei strikter Typenidentität hätte eine Maschine nur dann Empfindungen, wenn sie dieselben Arten von Prozessen wie ein Gehirn ausführte, obwohl Smart engere Identitäten zuließ, die dies lockern könnten."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Empfindungen Hirnprozesse sind, enden sie mit dem Gehirn; Smart war zudem Atheist."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Die Auffassung ordnet Bewusstsein vollständig in eine physikalische Darstellung der Natur ein."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Sind Erfahrungen mit Typen neuronaler Prozesse identisch, würde eine Simulation sie nur dann tragen, wenn sie diese Prozesse reproduzierte."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Place’s Empirical Identity and the Phenomenological Fallacy", "relationship": "Grundlage" },
-      { "name": "Feigl's Double Knowledge of Raw Feels", "relationship": "Einfluss" },
-      { "name": "Armstrong’s Higher-Order Perception Theory", "relationship": "Vereinbar" },
-      { "name": "Kripke’s Modal Argument Against Mind–Brain Identity", "relationship": "Kritik" }
+      {
+        "name": "Place’s Empirical Identity and the Phenomenological Fallacy",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Feigl's Double Knowledge of Raw Feels",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Armstrong’s Higher-Order Perception Theory",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Kripke’s Modal Argument Against Mind–Brain Identity",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Sensations and brain processes, J. J. C. Smart", "year": 1959 },
-      { "title_with_names": "Philosophy and Scientific Realism, J. J. C. Smart", "year": 1963 },
-      { "title_with_names": "Consciousness and awareness, J. J. C. Smart", "year": 2004 },
-      { "title_with_names": "The mind/brain identity theory, J. J. C. Smart", "year": 2007 },
-      { "title_with_names": "Colours, J. J. C. Smart", "year": 1961 },
-      { "title_with_names": "Materialism as a scientific hypothesis, U. T. Place", "year": 1960 },
-      { "title_with_names": "Psychological predicates, H. Putnam", "year": 1967 },
-      { "title_with_names": "Materialism and qualia: The explanatory gap, J. Levine", "year": 1983 }
+      {
+        "title_with_names": "Sensations and brain processes, J. J. C. Smart",
+        "year": 1959
+      },
+      {
+        "title_with_names": "Philosophy and Scientific Realism, J. J. C. Smart",
+        "year": 1963
+      },
+      {
+        "title_with_names": "Consciousness and awareness, J. J. C. Smart",
+        "year": 2004
+      },
+      {
+        "title_with_names": "The mind/brain identity theory, J. J. C. Smart",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Colours, J. J. C. Smart",
+        "year": 1961
+      },
+      {
+        "title_with_names": "Materialism as a scientific hypothesis, U. T. Place",
+        "year": 1960
+      },
+      {
+        "title_with_names": "Psychological predicates, H. Putnam",
+        "year": 1967
+      },
+      {
+        "title_with_names": "Materialism and qualia: The explanatory gap, J. Levine",
+        "year": 1983
+      }
     ]
   }
 }

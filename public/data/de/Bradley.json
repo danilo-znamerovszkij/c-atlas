@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Bradleys absoluter Idealismus",
     "summary": "F. H. Bradley vertritt die Auffassung, dass empfindende Erfahrung die einzige Wirklichkeit ist. Im Grundsätzlichsten ist Bewusstsein ‚Gefühl‘: ein unmittelbares, vorrelationales Ganzes, in dem Unterschiede zwar vorhanden, aber noch nicht in Subjekt und Objekt getrennt sind und aus dem Selbst, Körper, Natur und Urteil später abstrahiert werden. Alle endlichen Erfahrungszentren sind partielle Erscheinungen einer einzigen, alles umfassenden absoluten Erfahrung.",
-    "associated_thinkers": ["Francis Herbert Bradley"],
+    "associated_thinkers": [
+      "Francis Herbert Bradley"
+    ],
     "category": "Idealismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als gefühlte Einheit innerhalb des Absoluten",
-    "classification_tags": ["absolute idealism", "british idealism", "immediate experience", "relations", "unity of consciousness"]
+    "classification_tags": [
+      "absolute idealism",
+      "british idealism",
+      "immediate experience",
+      "relations",
+      "unity of consciousness"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Erfahrung ist die Grundsubstanz der Wirklichkeit: Wirklich zu sein heißt, in den Bereich der Empfindung zu fallen, und Gefühl, Denken und Wollen sind das einzige Material des Daseins. Phänomenales Bewusstsein ist sowohl das grundlegende Datum von Bradleys Metaphysik als auch, umgeformt und vereinheitlicht, das Ganze dessen, was wirklich ist.",
@@ -54,7 +62,7 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Jede endliche Erfahrung, einschließlich Irrtum und Übel, wird in der einen absoluten Erfahrung in Harmonie überführt."
     },
     "virtual_immortality": {
@@ -64,20 +72,56 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Hegel’s Dialectical Consciousness in the Development of Spirit", "relationship": "Einfluss" },
-      { "name": "Sprigge’s Absolute Idealism", "relationship": "Erweiterung" },
-      { "name": "Hume’s Bundle Theory of Perceptions", "relationship": "Kritik" },
-      { "name": "James’s Radical Empiricism of Monistic Pure Experience", "relationship": "Kontrast" }
+      {
+        "name": "Hegel’s Dialectical Consciousness in the Development of Spirit",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Sprigge’s Absolute Idealism",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Hume’s Bundle Theory of Perceptions",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "James’s Radical Empiricism of Monistic Pure Experience",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Ethical Studies, F. H. Bradley", "year": 1876 },
-      { "title_with_names": "The Principles of Logic, F. H. Bradley", "year": 1883 },
-      { "title_with_names": "Appearance and Reality: A Metaphysical Essay, F. H. Bradley", "year": 1893 },
-      { "title_with_names": "Essays on Truth and Reality, F. H. Bradley", "year": 1914 },
-      { "title_with_names": "An Introduction to Bradley’s Metaphysics, W. J. Mander", "year": 1994 },
-      { "title_with_names": "British Idealism: A History, W. J. Mander", "year": 2011 },
-      { "title_with_names": "Emotion and Satisfaction in the Philosophy of F. H. Bradley, W. J. Mander", "year": 2018 },
-      { "title_with_names": "Francis Herbert Bradley, Stanford Encyclopedia of Philosophy, S. Candlish", "year": 2021 }
+      {
+        "title_with_names": "Ethical Studies, F. H. Bradley",
+        "year": 1876
+      },
+      {
+        "title_with_names": "The Principles of Logic, F. H. Bradley",
+        "year": 1883
+      },
+      {
+        "title_with_names": "Appearance and Reality: A Metaphysical Essay, F. H. Bradley",
+        "year": 1893
+      },
+      {
+        "title_with_names": "Essays on Truth and Reality, F. H. Bradley",
+        "year": 1914
+      },
+      {
+        "title_with_names": "An Introduction to Bradley’s Metaphysics, W. J. Mander",
+        "year": 1994
+      },
+      {
+        "title_with_names": "British Idealism: A History, W. J. Mander",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Emotion and Satisfaction in the Philosophy of F. H. Bradley, W. J. Mander",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Francis Herbert Bradley, Stanford Encyclopedia of Philosophy, S. Candlish",
+        "year": 2021
+      }
     ]
   }
 }

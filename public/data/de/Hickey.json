@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Hickeys Sprache und Bewusstsein",
     "summary": "Raymond Hickey vertritt die Auffassung, dass Denken und Empfindung die beiden Hauptaspekte bewusster Erfahrung sind und dass Sprache nach außen zur Verständigung und nach innen zur Ordnung des Denkens dient. Da Denken und logisches Schließen bei schwerer Aphasie den vollständigen Verlust der Sprache überdauern können, schließt er, dass Sprache dem Bewusstsein Inhalte liefert, aber nicht notwendig für es ist. Er verfolgt, wie sich Syntax, Hirnwachstum und Stimmapparat gemeinsam entwickelt haben, und argumentiert, dass die Beurteilung, wie bewusst ein Wesen ist, letztlich verlangt, dass es seine Erfahrung sprachlich beschreibt.",
-    "associated_thinkers": ["Raymond Hickey"],
+    "associated_thinkers": [
+      "Raymond Hickey"
+    ],
     "category": "Materialismus",
     "subcategory": "Sprache",
     "core_identity_tagline": "Sprache ordnet das Bewusstsein, erzeugt es aber nicht",
-    "classification_tags": ["language", "linguistics", "evolution", "syntax", "aphasia"]
+    "classification_tags": [
+      "language",
+      "linguistics",
+      "evolution",
+      "syntax",
+      "aphasia"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Hickey identifiziert das Bewusstsein mit nichts; er beschreibt es als aus Denken und Empfindung zusammengesetzt, wobei Sprache seine Inhalte ordnet und mitteilt.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Hickey macht die sprachliche Selbstbeschreibung zum Prüfstein für die Feststellung von Bewusstsein, erörtert aber keine Maschinen, die Sprache hervorbringen."
     },
     "survival_beyond_death": {
@@ -64,13 +72,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Koch's Consciousness does not Depend on Language", "relationship": "Überschneidung" },
-      { "name": "Chomsky's Language and Consciousness", "relationship": "Kontrast" },
-      { "name": "Deacon's Symbolic Communication (Human Consciousness)", "relationship": "Überschneidung" },
-      { "name": "Parrington's Language and Tool-Driven Consciousness", "relationship": "Überschneidung" }
+      {
+        "name": "Koch's Consciousness does not Depend on Language",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Chomsky's Language and Consciousness",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Deacon's Symbolic Communication (Human Consciousness)",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Parrington's Language and Tool-Driven Consciousness",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Hickey’s Language and Consciousness, Landscape of Consciousness, Raymond Hickey", "year": 2023 }
+      {
+        "title_with_names": "Hickey’s Language and Consciousness, Landscape of Consciousness, Raymond Hickey",
+        "year": 2023
+      }
     ]
   }
 }

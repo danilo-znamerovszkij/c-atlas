@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Jamesʼ radikaler Empirismus der monistischen reinen Erfahrung",
     "summary": "William James argumentiert, dass Geist und Materie zwei Weisen sind, ein grundlegenderes Feld der ‚reinen Erfahrung‘ zu ordnen, das selbst weder mental noch physisch ist. Ein und dieselbe Erfahrung zählt in einem Beziehungsgefüge als physisches Objekt und in einem anderen als Wahrnehmung einer Person; Bewusstsein bezeichnet daher eine Funktion und keine Substanz.",
-    "associated_thinkers": ["William James"],
+    "associated_thinkers": [
+      "William James"
+    ],
     "category": "Monismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als Funktion innerhalb der reinen Erfahrung",
-    "classification_tags": ["neutral monism", "radical empiricism", "pure experience", "pluralism", "pragmatism"]
+    "classification_tags": [
+      "neutral monism",
+      "radical empiricism",
+      "pure experience",
+      "pluralism",
+      "pragmatism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist reine Erfahrung, genommen in bestimmten Beziehungen: rückblickend, aneignend, persönlich, erkennend, praktisch und affektiv. Das Physische ist dieselbe Erfahrung, genommen in Beziehungen von Stabilität, Widerstand, Öffentlichkeit und kausaler Wirksamkeit.",
@@ -50,11 +58,11 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "In Human Immortality schlug James vor, dass das Gehirn Bewusstsein übertragen statt erzeugen könnte, weigerte sich aber zu behaupten, die Evidenz entscheide die Frage des Überlebens."
     },
     "meaning_and_purpose": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Die Theorie entwirft ein pluralistisches, offenes Universum ohne ein einziges geschlossenes System und liefert für sich allein keinen kosmischen Zweck."
     },
     "virtual_immortality": {
@@ -64,20 +72,56 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Russellian Monism", "relationship": "Einfluss" },
-      { "name": "James’s Stream of Thought/Consciousness", "relationship": "Grundlage" },
-      { "name": "Kant’s Transcendental Idealism", "relationship": "Kritik" },
-      { "name": "Whitehead's Process Theory", "relationship": "Vereinbar" }
+      {
+        "name": "Russellian Monism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "James’s Stream of Thought/Consciousness",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Kant’s Transcendental Idealism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Does ‘Consciousness’ Exist?, William James", "year": 1904 },
-      { "title_with_names": "A World of Pure Experience, William James", "year": 1904 },
-      { "title_with_names": "A Pluralistic Universe, William James", "year": 1909 },
-      { "title_with_names": "Essays in Radical Empiricism, William James (R. B. Perry, Ed.)", "year": 1912 },
-      { "title_with_names": "The Analysis of Mind, Bertrand Russell", "year": 1921 },
-      { "title_with_names": "Pure Experience: The Response to William James, E. Taylor & R. H. Wozniak (Eds.)", "year": 1996 },
-      { "title_with_names": "William James, Stanford Encyclopedia of Philosophy, R. Goodman", "year": 2021 },
-      { "title_with_names": "Neutral Monism, Stanford Encyclopedia of Philosophy, L. Stubenberg & D. Wishon", "year": 2023 }
+      {
+        "title_with_names": "Does ‘Consciousness’ Exist?, William James",
+        "year": 1904
+      },
+      {
+        "title_with_names": "A World of Pure Experience, William James",
+        "year": 1904
+      },
+      {
+        "title_with_names": "A Pluralistic Universe, William James",
+        "year": 1909
+      },
+      {
+        "title_with_names": "Essays in Radical Empiricism, William James (R. B. Perry, Ed.)",
+        "year": 1912
+      },
+      {
+        "title_with_names": "The Analysis of Mind, Bertrand Russell",
+        "year": 1921
+      },
+      {
+        "title_with_names": "Pure Experience: The Response to William James, E. Taylor & R. H. Wozniak (Eds.)",
+        "year": 1996
+      },
+      {
+        "title_with_names": "William James, Stanford Encyclopedia of Philosophy, R. Goodman",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Neutral Monism, Stanford Encyclopedia of Philosophy, L. Stubenberg & D. Wishon",
+        "year": 2023
+      }
     ]
   }
 }

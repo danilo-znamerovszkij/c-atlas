@@ -2,11 +2,21 @@
   "id_and_class": {
     "theory_title": "Hobsons protobewusstes Träumen",
     "summary": "J. Allan Hobson schlägt vor, dass der REM-Schlaf ein protobewusster Zustand ist, eine genetisch programmierte virtuelle Realität, in der das Gehirn ohne äußere Eingaben eine Welt und einen Körper modelliert. Das Träumen zeigt das primäre Bewusstsein (Wahrnehmung, Emotion, ein situiertes Selbst) in nahezu reiner Form, und der REM-Schlaf trainiert und erhält den generativen Apparat, auf dem das Wachbewusstsein mit seiner Sprache, Reflexion und Willensbildung aufbaut.",
-    "associated_thinkers": ["J. Allan Hobson", "Robert McCarley", "Karl Friston"],
+    "associated_thinkers": [
+      "J. Allan Hobson",
+      "Robert McCarley",
+      "Karl Friston"
+    ],
     "category": "Anomal",
     "subcategory": "",
     "core_identity_tagline": "Träumen als Übungsfeld der virtuellen Realität des Gehirns",
-    "classification_tags": ["dreaming", "rem sleep", "aim model", "neurophysiology", "predictive processing"]
+    "classification_tags": [
+      "dreaming",
+      "rem sleep",
+      "aim model",
+      "neurophysiology",
+      "predictive processing"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist das vom Gehirn erzeugte Modell einer Welt und eines Körpers. Primäres Bewusstsein ist dieses Modell im Ablauf (wie im Traum), und sekundäres Bewusstsein fügt darauf Sprache, Metakognition und willentliche Kontrolle hinzu.",
@@ -50,7 +60,7 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein hier ein Produkt von Hirnaktivierung und Neuromodulation ist, überdauert nichts in dieser Auffassung den Tod des Gehirns."
     },
     "meaning_and_purpose": {
@@ -64,21 +74,60 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Edelman's Neural Darwinism and Reentrant Neural Circuitry", "relationship": "Grundlage" },
-      { "name": "Friston's Free-Energy Principle and Active Inference", "relationship": "Überschneidung" },
-      { "name": "Freud's Surface Consciousness and Irreducible Affect", "relationship": "Kritik" },
-      { "name": "Thompson's Phenomenology: Waking, Dreaming, Sleeping, Pure Awareness", "relationship": "Überschneidung" }
+      {
+        "name": "Edelman's Neural Darwinism and Reentrant Neural Circuitry",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Freud's Surface Consciousness and Irreducible Affect",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Thompson's Phenomenology: Waking, Dreaming, Sleeping, Pure Awareness",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "REM Sleep and Dreaming: Towards a Theory of Protoconsciousness, J. Allan Hobson", "year": 2009 },
-      { "title_with_names": "The Brain as a Dream State Generator: An Activation-Synthesis Hypothesis of the Dream Process, J. Allan Hobson and Robert W. McCarley", "year": 1977 },
-      { "title_with_names": "Dreaming and the Brain: Toward a Cognitive Neuroscience of Conscious States, J. Allan Hobson, E. F. Pace-Schott, R. Stickgold", "year": 2000 },
-      { "title_with_names": "Waking and Dreaming Consciousness: Neurobiological and Functional Considerations, J. Allan Hobson and K. J. Friston", "year": 2012 },
-      { "title_with_names": "Virtual Reality and Consciousness Inference in Dreaming, J. Allan Hobson, C. C.-H. Hong, K. J. Friston", "year": 2014 },
-      { "title_with_names": "Psychodynamic Neurology: Dreams, Consciousness, and Virtual Reality, J. Allan Hobson", "year": 2015 },
-      { "title_with_names": "Lucid Dreaming: A State of Consciousness with Features of Both Waking and Non-Lucid Dreaming, U. Voss, R. Holzmann, I. Tuin, J. Allan Hobson", "year": 2009 },
-      { "title_with_names": "Bright Air, Brilliant Fire: On the Matter of the Mind, G. M. Edelman", "year": 1992 },
-      { "title_with_names": "The Reinterpretation of Dreams: An Evolutionary Hypothesis of the Function of Dreaming, A. Revonsuo", "year": 2000 }
+      {
+        "title_with_names": "REM Sleep and Dreaming: Towards a Theory of Protoconsciousness, J. Allan Hobson",
+        "year": 2009
+      },
+      {
+        "title_with_names": "The Brain as a Dream State Generator: An Activation-Synthesis Hypothesis of the Dream Process, J. Allan Hobson and Robert W. McCarley",
+        "year": 1977
+      },
+      {
+        "title_with_names": "Dreaming and the Brain: Toward a Cognitive Neuroscience of Conscious States, J. Allan Hobson, E. F. Pace-Schott, R. Stickgold",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Waking and Dreaming Consciousness: Neurobiological and Functional Considerations, J. Allan Hobson and K. J. Friston",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Virtual Reality and Consciousness Inference in Dreaming, J. Allan Hobson, C. C.-H. Hong, K. J. Friston",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Psychodynamic Neurology: Dreams, Consciousness, and Virtual Reality, J. Allan Hobson",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Lucid Dreaming: A State of Consciousness with Features of Both Waking and Non-Lucid Dreaming, U. Voss, R. Holzmann, I. Tuin, J. Allan Hobson",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Bright Air, Brilliant Fire: On the Matter of the Mind, G. M. Edelman",
+        "year": 1992
+      },
+      {
+        "title_with_names": "The Reinterpretation of Dreams: An Evolutionary Hypothesis of the Function of Dreaming, A. Revonsuo",
+        "year": 2000
+      }
     ]
   }
 }

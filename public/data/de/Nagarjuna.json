@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Nāgārjunas leeres Bewusstsein: Erfahrung ohne Wesen",
     "summary": "Nāgārjuna argumentiert, dass alles, auch das Bewusstsein, leer (śūnyatā) an svabhāva ist, einer intrinsischen Natur, die ein Ding von seiner eigenen Seite her hätte. Erfahrung ist konventionell real und wirkt kausal, entsteht aber nur in Abhängigkeit von Sinnesvermögen, Objekt und Bedingungen, ohne intrinsischen Kern und ohne letztes Subjekt, dem sie gehört. Die Sicht lehnt sowohl den Illusionismus als auch den Idealismus ab, da beide eine intrinsische Natur voraussetzen: Der Illusionismus spricht sie der Erfahrung ab, der Idealismus macht sie zum Grund.",
-    "associated_thinkers": ["Nāgārjuna"],
+    "associated_thinkers": [
+      "Nāgārjuna"
+    ],
     "category": "Idealismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als leeres, abhängiges Entstehen",
-    "classification_tags": ["madhyamaka", "emptiness", "dependent origination", "buddhism", "no-self"]
+    "classification_tags": [
+      "madhyamaka",
+      "emptiness",
+      "dependent origination",
+      "buddhism",
+      "no-self"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein (vijñāna) ist ein abhängig entstandenes, konventionell reales Ereignis, dem eine intrinsische Natur fehlt. Nāgārjuna bietet eine Diagnose dessen, was Bewusstsein nicht sein kann, keine positive Theorie darüber, was es ist.",
@@ -50,11 +58,11 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Unsicher",
+      "stance": "Uncertain",
       "rationale": "Es gibt kein substanzielles Selbst, das überleben könnte, doch konventionelle Handlungsfähigkeit und moralische Folgen bleiben erhalten; die Sicht bestreitet einen dauerhaften Erfahrenden, ohne zu beantworten, was fortdauert."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Die Analyse dient der Befreiung: Nur ein Wesen ohne festes Wesen kann vom Leiden befreit werden, und Nirvāṇa ist das Ende der Fehlauffassung dieser Welt, kein Übergang in eine andere."
     },
     "virtual_immortality": {
@@ -64,27 +72,82 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Buddhism's Empty, Illusory Phenomenal Consciousness", "relationship": "Überschneidung" },
-      { "name": "Hume’s Bundle Theory of Perceptions", "relationship": "Überschneidung" },
-      { "name": "Metzinger's No-Self Representational Theory of Subjectivity", "relationship": "Überschneidung" },
-      { "name": "Kriegel’s Cross-Order Self-Representation", "relationship": "Kritik" }
+      {
+        "name": "Buddhism's Empty, Illusory Phenomenal Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Hume’s Bundle Theory of Perceptions",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Kriegel’s Cross-Order Self-Representation",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Mūlamadhyamakakārikā, Nāgārjuna" },
-      { "title_with_names": "Vigrahavyāvartanī, Nāgārjuna" },
-      { "title_with_names": "The Emptiness of Emptiness: A Study of Early Indian Mādhyamika, C. W. Huntington", "year": 1989 },
-      { "title_with_names": "The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā, J. L. Garfield", "year": 1995 },
-      { "title_with_names": "Emptiness and Positionlessness: Do the Mādhyamika Relinquish All Views?, J. L. Garfield", "year": 1996 },
-      { "title_with_names": "Emptiness Appraised: A Critical Study of Nāgārjuna's Philosophy, D. Burton", "year": 1999 },
-      { "title_with_names": "Nāgārjuna and the Limits of Thought, G. Priest & J. L. Garfield", "year": 2002 },
-      { "title_with_names": "Causation and Emptiness in Early Madhyamika, M. Siderits", "year": 2004 },
-      { "title_with_names": "Nāgārjuna's Madhyamaka: A Philosophical Introduction, J. Westerhoff", "year": 2009 },
-      { "title_with_names": "The Structure of Emptiness, G. Priest", "year": 2009 },
-      { "title_with_names": "The Dispeller of Disputes: Nāgārjuna's Vigrahavyāvartanī, J. Westerhoff", "year": 2010 },
-      { "title_with_names": "Nāgārjuna's Middle Way: Mūlamadhyamakakārikā, M. Siderits & S. Katsura", "year": 2013 },
-      { "title_with_names": "Engaging Buddhism: Why It Matters to Philosophy, J. L. Garfield", "year": 2015 },
-      { "title_with_names": "On the Nihilist Interpretation of Madhyamaka, J. Westerhoff", "year": 2016 },
-      { "title_with_names": "Nāgārjuna, Stanford Encyclopedia of Philosophy, J. Westerhoff", "year": 2026 }
+      {
+        "title_with_names": "Mūlamadhyamakakārikā, Nāgārjuna"
+      },
+      {
+        "title_with_names": "Vigrahavyāvartanī, Nāgārjuna"
+      },
+      {
+        "title_with_names": "The Emptiness of Emptiness: A Study of Early Indian Mādhyamika, C. W. Huntington",
+        "year": 1989
+      },
+      {
+        "title_with_names": "The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā, J. L. Garfield",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Emptiness and Positionlessness: Do the Mādhyamika Relinquish All Views?, J. L. Garfield",
+        "year": 1996
+      },
+      {
+        "title_with_names": "Emptiness Appraised: A Critical Study of Nāgārjuna's Philosophy, D. Burton",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Nāgārjuna and the Limits of Thought, G. Priest & J. L. Garfield",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Causation and Emptiness in Early Madhyamika, M. Siderits",
+        "year": 2004
+      },
+      {
+        "title_with_names": "Nāgārjuna's Madhyamaka: A Philosophical Introduction, J. Westerhoff",
+        "year": 2009
+      },
+      {
+        "title_with_names": "The Structure of Emptiness, G. Priest",
+        "year": 2009
+      },
+      {
+        "title_with_names": "The Dispeller of Disputes: Nāgārjuna's Vigrahavyāvartanī, J. Westerhoff",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Nāgārjuna's Middle Way: Mūlamadhyamakakārikā, M. Siderits & S. Katsura",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Engaging Buddhism: Why It Matters to Philosophy, J. L. Garfield",
+        "year": 2015
+      },
+      {
+        "title_with_names": "On the Nihilist Interpretation of Madhyamaka, J. Westerhoff",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Nāgārjuna, Stanford Encyclopedia of Philosophy, J. Westerhoff",
+        "year": 2026
+      }
     ]
   }
 }

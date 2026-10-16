@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Haskers einheitliche Erfahrung, bewusstes Selbst, kausaler Geist erfordert eine vom Gehirn erzeugte nicht-physische Substanz",
     "summary": "William Hasker argumentiert, dass sich eine einheitliche bewusste Erfahrung nicht auf die Teile eines zusammengesetzten Gegenstands verteilen lässt, daher kann das Subjekt der Erfahrung nicht das Gehirn sein. Stattdessen erzeugt das sich entwickelnde Gehirn auf natürliche Weise ein neues, nicht zusammengesetztes, nicht-physisches Individuum, ein ‚Bewusstseinsfeld‘, das sich zum Gehirn etwa so verhält wie ein Magnetfeld zum Magneten. Er nennt dies emergenten Dualismus: Das Selbst hängt eng von seinem Gehirn ab, besitzt aber eigene kausale Kräfte, darunter rationales Schließen und libertarische Willensfreiheit.",
-    "associated_thinkers": ["William Hasker"],
+    "associated_thinkers": [
+      "William Hasker"
+    ],
     "category": "Dualismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als emergentes, vom Gehirn erzeugtes Selbst",
-    "classification_tags": ["emergent dualism", "unity of consciousness", "free will", "substance dualism", "philosophy of religion"]
+    "classification_tags": [
+      "emergent dualism",
+      "unity of consciousness",
+      "free will",
+      "substance dualism",
+      "philosophy of religion"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein gehört zu einem emergenten Individuum, einem vereinheitlichten nicht-physischen Feld, das vom Gehirn erzeugt wird und das Subjekt von Erfahrung, Denken und Wahl ist.",
@@ -47,37 +55,70 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Das Selbst entsteht aus der Potenzialität geeignet organisierter Materie, Hasker gibt jedoch keine Auskunft darüber, welche Organisationen es hervorbringen, daher ist offen, ob ein künstliches System dies könnte."
     },
     "survival_beyond_death": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Hasker vertritt die Auffassung, das Selbst würde sich bei der Zerstörung des Gehirns natürlicherweise auflösen; Fortbestand setzt daher voraus, dass Gott es unmittelbar erhält oder einen Auferstehungsleib bereitstellt, der es erzeugt."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Hasker bietet den emergenten Dualismus als die mit der Wissenschaft am besten vereinbare christliche Anthropologie an, die Auferstehung und eine von Gott gegebene Zukunft zulässt."
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Das Selbst ist an das jeweilige Gehirn gebunden, das es erzeugt, und die Theorie sagt nicht, ob eine Kopie dasselbe Selbst oder ein neues erzeugen würde."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Emergent Dualism", "relationship": "Überschneidung" },
-      { "name": "Descartes’s Substance Dualism", "relationship": "Kritik" },
-      { "name": "Stump's Thomistic Dualism", "relationship": "Kritik" },
-      { "name": "van Inwagen's Christian Materialism and Resurrection of the Dead", "relationship": "Kontrast" }
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Stump's Thomistic Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "van Inwagen's Christian Materialism and Resurrection of the Dead",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Emergent Self, William Hasker", "year": 1999 },
-      { "title_with_names": "Persons and the Unity of Consciousness, William Hasker", "year": 2010 },
-      { "title_with_names": "Emergent Dualism: A Challenge to a Materialist Consensus, William Hasker", "year": 2004 },
-      { "title_with_names": "Materialism and the Resurrection: Are the Prospects Improving?, William Hasker", "year": 2011 },
-      { "title_with_names": "Against Emergent Dualism, B. Rickabaugh", "year": 2018 },
-      { "title_with_names": "Emergent Individuals, T. O’Connor and J. D. Jacobs", "year": 2003 },
-      { "title_with_names": "Hasker on the Unity of Consciousness, W. Shrader", "year": 2005 }
+      {
+        "title_with_names": "The Emergent Self, William Hasker",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Persons and the Unity of Consciousness, William Hasker",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Emergent Dualism: A Challenge to a Materialist Consensus, William Hasker",
+        "year": 2004
+      },
+      {
+        "title_with_names": "Materialism and the Resurrection: Are the Prospects Improving?, William Hasker",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Against Emergent Dualism, B. Rickabaugh",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Emergent Individuals, T. O’Connor and J. D. Jacobs",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Hasker on the Unity of Consciousness, W. Shrader",
+        "year": 2005
+      }
     ]
   }
 }

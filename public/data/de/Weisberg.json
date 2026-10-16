@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Weisbergs Erklärungsoptimismus durch die Theorie der automatisierten Kompression",
     "summary": "Josh Weisberg argumentiert, dass das schwere Problem deshalb schwer erscheint, weil der Zugang der ersten Person zur Erfahrung systematisch irreführend ist. Seine Theorie der automatisierten Kompression besagt, dass wir auf Erfahrung durch automatischen Abruf komprimierter sensorischer Information zugreifen. Dies lässt Erfahrung als unmittelbar, unbeschreibbar und einfach erscheinen und nur zufällig mit dem Gehirn verbunden. Sobald dieser Anschein in gewöhnlichen physischen Begriffen erklärt ist, gilt er nicht mehr als Beleg gegen den Physikalismus.",
-    "associated_thinkers": ["Josh Weisberg"],
+    "associated_thinkers": [
+      "Josh Weisberg"
+    ],
     "category": "Materialismus",
     "subcategory": "Philosophisch",
     "core_identity_tagline": "Intuitionen zum schweren Problem als Artefakte komprimierten Zugangs",
-    "classification_tags": ["physicalism", "weak illusionism", "debunking argument", "hard problem", "introspection"]
+    "classification_tags": [
+      "physicalism",
+      "weak illusionism",
+      "debunking argument",
+      "hard problem",
+      "introspection"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Phänomenales Bewusstsein ist ein physisches Phänomen, das sich in „einfachen“ Begriffen erklären lässt. Was sich der Erklärung widersetzt, ist allein die Weise, wie es uns erscheint: ein Anschein, der durch automatisierten, komprimierten Zugang erzeugt wird.",
@@ -50,7 +58,7 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein hier ein physischer Prozess ohne außergewöhnliche Eigenschaften ist, bleibt davon nichts bestehen, sobald dieser Prozess endet."
     },
     "meaning_and_purpose": {
@@ -64,13 +72,27 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Frankish’s Illusionism", "relationship": "Kontrast" },
-      { "name": "Kammerer’s Introspective Illusionism", "relationship": "Überschneidung" },
-      { "name": "Jackson's Representationalism and the Knowledge Argument", "relationship": "Kritik" },
-      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Kritik" }
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Kammerer’s Introspective Illusionism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Jackson's Representationalism and the Knowledge Argument",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Explanatory Optimism about the Hard Problem of Consciousness, Josh Weisberg" }
+      {
+        "title_with_names": "Explanatory Optimism about the Hard Problem of Consciousness, Josh Weisberg"
+      }
     ]
   }
 }

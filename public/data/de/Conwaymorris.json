@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Conway Morris' konvergente Empfindungsfähigkeit jenseits des Materialismus",
     "summary": "Simon Conway Morris argumentiert, dass phänomenales Bewusstsein real und irreduzibel ist und nicht von der Materie hervorgebracht wird: Gehirne ermöglichen, filtern und begegnen einem Geist, der zu einer umfassenderen „orthogonalen Wirklichkeit“ gehört. Seine Belege stammen aus der evolutionären Konvergenz, der wiederholten, unabhängigen Entstehung ähnlicher Augen, Gehirne und Empfindungsfähigkeit, die er als Suche der Evolution in einem Möglichkeitsraum liest, der den Geist bereits enthält.",
-    "associated_thinkers": ["Simon Conway Morris"],
+    "associated_thinkers": [
+      "Simon Conway Morris"
+    ],
     "category": "Herausforderung",
     "subcategory": "",
     "core_identity_tagline": "Gehirne begegnen einem Geist, auf den die Evolution konvergiert",
-    "classification_tags": ["convergent evolution", "anti-materialism", "filter theory", "theism", "sentience"]
+    "classification_tags": [
+      "convergent evolution",
+      "anti-materialism",
+      "filter theory",
+      "theism",
+      "sentience"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist Geist, der zu einer orthogonalen Wirklichkeit gehört, die den Nervensystemen vorausgeht. Entwickelte Gehirne greifen auf ihn zu und leiten ihn weiter; sie erzeugen ihn nicht.",
@@ -46,36 +54,66 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Conway Morris nennt kein Kriterium dafür, welche Systeme auf Geist treffen können; daher sagt die Auffassung nicht, ob ein künstlicher Empfänger dazu in der Lage wäre."
     },
     "survival_beyond_death": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Da das Gehirn einen Geist leitet, der unabhängig von ihm existiert, lässt die Auffassung Raum dafür, dass der Geist ein bestimmtes Gehirn überdauert, obwohl Conway Morris kein persönliches Überleben behauptet."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Die Evolution ist die Suchmaschine, durch die ein von einem rationalen Geist geschaffenes Universum selbstbewusst wird."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Wenn Gehirne Geist empfangen und nicht erzeugen, würde das Kopieren neuronaler Berechnung nicht den Geist selbst kopieren."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Huxley’s Mind-At-Large Filter Theory", "relationship": "Überschneidung" },
-      { "name": "James's Plural Consciousness, Brain as Filter of a Wider Consciousness", "relationship": "Überschneidung" },
-      { "name": "Levin’s Ingressing Minds from Platonic Space", "relationship": "Überschneidung" },
-      { "name": "Teilhard de Chardin's Evolving Consciousness", "relationship": "Einfluss" }
+      {
+        "name": "Huxley’s Mind-At-Large Filter Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "James's Plural Consciousness, Brain as Filter of a Wider Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Levin’s Ingressing Minds from Platonic Space",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Teilhard de Chardin's Evolving Consciousness",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Life’s Solution: Inevitable Humans in a Lonely Universe, Simon Conway Morris", "year": 2003 },
-      { "title_with_names": "The Evolution of Consciousness: A Window on to Invisible Worlds? (Gifford Lecture 5), Simon Conway Morris", "year": 2007 },
-      { "title_with_names": "The Runes of Evolution: How the Universe Became Self-Aware, Simon Conway Morris", "year": 2015 },
-      { "title_with_names": "From Extraterrestrials to Animal Minds: Six Myths of Evolution, Simon Conway Morris", "year": 2022 },
-      { "title_with_names": "Evolution, convergence, and theism (Mindscape interview by Sean Carroll), Simon Conway Morris", "year": 2022 },
-      { "title_with_names": "A convergence of minds: Teilhard de Chardin and Conway Morris, S. P. Hart", "year": 2021 }
+      {
+        "title_with_names": "Life’s Solution: Inevitable Humans in a Lonely Universe, Simon Conway Morris",
+        "year": 2003
+      },
+      {
+        "title_with_names": "The Evolution of Consciousness: A Window on to Invisible Worlds? (Gifford Lecture 5), Simon Conway Morris",
+        "year": 2007
+      },
+      {
+        "title_with_names": "The Runes of Evolution: How the Universe Became Self-Aware, Simon Conway Morris",
+        "year": 2015
+      },
+      {
+        "title_with_names": "From Extraterrestrials to Animal Minds: Six Myths of Evolution, Simon Conway Morris",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Evolution, convergence, and theism (Mindscape interview by Sean Carroll), Simon Conway Morris",
+        "year": 2022
+      },
+      {
+        "title_with_names": "A convergence of minds: Teilhard de Chardin and Conway Morris, S. P. Hart",
+        "year": 2021
+      }
     ]
   }
 }

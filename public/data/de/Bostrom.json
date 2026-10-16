@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Bostroms komputationaler Funktionalismus",
     "summary": "Nick Bostrom vertritt die Auffassung, dass Bewusstsein von Berechnung abhängt und nicht von dem Material, das sie ausführt; Geister könnten daher auf anderen Substraten als biologischen Neuronen laufen. Er entwickelt dies weniger als Theorie darüber, was Bewusstsein ist, sondern als Prämisse für sein Simulationsargument, für anthropische Überlegungen und für die Ethik künstlicher Geister.",
-    "associated_thinkers": ["Nick Bostrom"],
+    "associated_thinkers": [
+      "Nick Bostrom"
+    ],
     "category": "Materialismus",
     "subcategory": "Komputational",
     "core_identity_tagline": "Bewusstsein als substratunabhängige Berechnung",
-    "classification_tags": ["functionalism", "simulation argument", "substrate independence", "anthropic reasoning", "ai ethics"]
+    "classification_tags": [
+      "functionalism",
+      "simulation argument",
+      "substrate independence",
+      "anthropic reasoning",
+      "ai ethics"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein Produkt der richtigen computationalen Prozesse. Mentale Zustände werden durch ihre funktionalen Rollen definiert, also dadurch, was sie tun, und nicht durch das, woraus sie bestehen.",
@@ -46,31 +54,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Wahrscheinlich",
+      "stance": "Likely",
       "rationale": "Wenn Bewusstsein substratunabhängige Berechnung ist, wären künstliche Systeme, die die richtigen Prozesse ausführen, bewusst, und Bostrom verknüpft ihren moralischen Status damit."
     },
     "survival_beyond_death": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Der biologische Tod beendet das Bewusstsein, sofern seine Berechnung nicht anderswo reproduziert wird; wenn wir simuliert sind, hängt, was mit uns geschieht, von den Simulatoren ab."
     },
     "meaning_and_purpose": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Wenn unsere Welt eine von einer fortgeschrittenen Zivilisation geschaffene Simulation ist, könnte sie einen von ihren Schöpfern festgelegten Zweck haben, doch Bostrom beansprucht nicht, dies zu wissen."
     },
     "virtual_immortality": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Substratunabhängigkeit impliziert, dass ein simulierter Geist das Bewusstsein einer Person fortsetzen könnte, im Einklang mit Bostroms Interesse an der Ganzhirnemulation."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Putnam’s Machine Functionalism", "relationship": "Grundlage" },
-      { "name": "Functionalism", "relationship": "Überschneidung" },
-      { "name": "Agüera y Arcas’s Computational Functionalism", "relationship": "Überschneidung" },
-      { "name": "Searle's Biological Naturalism", "relationship": "Kontrast" }
+      {
+        "name": "Putnam’s Machine Functionalism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Agüera y Arcas’s Computational Functionalism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Searle's Biological Naturalism",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Bostrom’s Computational Functionalism (Landscape of Consciousness), Nick Bostrom", "year": 2003 }
+      {
+        "title_with_names": "Bostrom’s Computational Functionalism (Landscape of Consciousness), Nick Bostrom",
+        "year": 2003
+      }
     ]
   }
 }

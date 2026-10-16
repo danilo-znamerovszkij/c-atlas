@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Aristoteles’ Hylemorphismus",
     "summary": "Aristoteles fasst die Seele als Form eines lebendigen organischen Körpers auf, sodass Gewahrsein eine Fähigkeit des ganzen Lebewesens ist und keine Eigenschaft einer getrennten Substanz. Wahrnehmung ist der Empfang der sinnlichen Form ohne Materie, und jeder Wahrnehmungsakt trägt ein Bewusstsein davon in sich, dass man wahrnimmt; vereint wird er durch einen Gemeinsinn. Der Intellekt bildet die Ausnahme: Aristoteles nennt den tätigen Intellekt getrennt und ewig, eine Mehrdeutigkeit, die Jahrhunderte des Streits nährte.",
-    "associated_thinkers": ["Aristotle"],
+    "associated_thinkers": [
+      "Aristotle"
+    ],
     "category": "Dualismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als reflexives Wahrnehmen des lebendigen Körpers",
-    "classification_tags": ["hylomorphism", "perception", "reflexivity", "ancient philosophy", "embodiment"]
+    "classification_tags": [
+      "hylomorphism",
+      "perception",
+      "reflexivity",
+      "ancient philosophy",
+      "embodiment"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Gewahrsein ist eine Wirklichkeit des beseelten Tieres: das Wahrnehmungsvermögen, das sinnliche Form ohne Materie empfängt, mit einem eingebauten Bewusstsein der eigenen Tätigkeit.",
@@ -46,37 +54,70 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Da Wahrnehmung ein Vermögen der Form eines lebendigen Organismus ist, ist unklar, ob ein nicht lebendiges Artefakt überhaupt die richtige Art von Form haben könnte."
     },
     "survival_beyond_death": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Die Seele als Ganzes vergeht mit dem Körper, doch Aristoteles nennt den tätigen Intellekt unsterblich und ewig; ob dieser Intellekt individuell, gemeinsam oder göttlich ist, bleibt umstritten."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Die Teleologie des Aristoteles gibt jedem lebendigen Vermögen ein Ziel, und das intellektuelle Selbstgewahrsein des Menschen hat unvollkommen Anteil am göttlichen Denken, das sich selbst denkt."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Das Wahrnehmungsgewahrsein gehört zur Form eines bestimmten lebendigen Körpers, daher würde eine Simulation das Gewahrsein des einzelnen Tieres nicht fortsetzen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Aquinas’s Hylomorphism", "relationship": "Erweiterung" },
-      { "name": "Jaworski's Hylomorphism", "relationship": "Erweiterung" },
-      { "name": "Brentano’s Intentionality and Self-Awareness", "relationship": "Einfluss" },
-      { "name": "Kriegel’s Cross-Order Self-Representation", "relationship": "Einfluss" }
+      {
+        "name": "Aquinas’s Hylomorphism",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Jaworski's Hylomorphism",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Brentano’s Intentionality and Self-Awareness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Kriegel’s Cross-Order Self-Representation",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Complete Works of Aristotle: The Revised Oxford Translation, J. Barnes (ed.)", "year": 1984 },
-      { "title_with_names": "Aristotle: De Anima, Translated with an Introduction and Commentary, C. Shields", "year": 2016 },
-      { "title_with_names": "Aristotle on Consciousness, V. Caston", "year": 2002 },
-      { "title_with_names": "Perceiving That We Perceive: On the Soul III, 2, L. A. Kosman", "year": 1975 },
-      { "title_with_names": "Is an Aristotelian Philosophy of Mind Still Credible? (A Draft), M. F. Burnyeat", "year": 1992 },
-      { "title_with_names": "The Undivided Self: Aristotle and the ‘Mind–Body’ Problem, D. Charles", "year": 2021 },
-      { "title_with_names": "Structure and the Metaphysics of Mind: How Hylomorphism Solves the Mind–Body Problem, W. Jaworski", "year": 2016 }
+      {
+        "title_with_names": "The Complete Works of Aristotle: The Revised Oxford Translation, J. Barnes (ed.)",
+        "year": 1984
+      },
+      {
+        "title_with_names": "Aristotle: De Anima, Translated with an Introduction and Commentary, C. Shields",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Aristotle on Consciousness, V. Caston",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Perceiving That We Perceive: On the Soul III, 2, L. A. Kosman",
+        "year": 1975
+      },
+      {
+        "title_with_names": "Is an Aristotelian Philosophy of Mind Still Credible? (A Draft), M. F. Burnyeat",
+        "year": 1992
+      },
+      {
+        "title_with_names": "The Undivided Self: Aristotle and the ‘Mind–Body’ Problem, D. Charles",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Structure and the Metaphysics of Mind: How Hylomorphism Solves the Mind–Body Problem, W. Jaworski",
+        "year": 2016
+      }
     ]
   }
 }

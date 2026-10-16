@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Turings Nachahmung, maschinelles Denken und der verborgene Geist",
     "summary": "Alan Turing bot keine Theorie des phänomenalen Bewusstseins an und lehnte es ab, eine zu formulieren. Er argumentierte stattdessen, dass sich über die Frage, ob eine Maschine denkt, anhand ihrer öffentlichen Leistung urteilen lasse, so wie wir es bei anderen Menschen tun, ohne das Rätsel der Erfahrung zuvor zu lösen; sein Nachahmungsspiel und seine substratunabhängige Auffassung der Berechnung legten den Grund für Funktionalismus und künstliche Intelligenz.",
-    "associated_thinkers": ["Alan Turing"],
+    "associated_thinkers": [
+      "Alan Turing"
+    ],
     "category": "Materialismus",
     "subcategory": "Komputational",
     "core_identity_tagline": "Maschinengeister, beurteilt ohne Lösung des Bewusstseinsproblems",
-    "classification_tags": ["turing test", "imitation game", "other minds", "multiple realizability", "machine intelligence"]
+    "classification_tags": [
+      "turing test",
+      "imitation game",
+      "other minds",
+      "multiple realizability",
+      "machine intelligence"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Turing identifiziert Bewusstsein mit nichts. Er behandelt es als echtes Rätsel und klammert es aus, indem er annimmt, dass die Zuschreibung von Denken auf beobachtbaren Fähigkeiten beruhen kann.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Turing argumentierte, dass Maschinen nicht allein deshalb als denkend ausgeschlossen werden können, weil sie Maschinen sind; er ließ aber offen, ob denkende Maschinen irgendetwas empfinden würden."
     },
     "survival_beyond_death": {
@@ -64,21 +72,60 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Putnam’s Machine Functionalism", "relationship": "Einfluss" },
-      { "name": "Searle's Biological Naturalism", "relationship": "Kritik" },
-      { "name": "Dennett’s Heterophenomenology", "relationship": "Erweiterung" },
-      { "name": "Blums’ Conscious Turing Machine", "relationship": "Einfluss" }
+      {
+        "name": "Putnam’s Machine Functionalism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Searle's Biological Naturalism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Dennett’s Heterophenomenology",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Blums’ Conscious Turing Machine",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "On Computable Numbers, with an Application to the Entscheidungsproblem, Alan Turing", "year": 1936 },
-      { "title_with_names": "Intelligent Machinery, Alan Turing", "year": 1948 },
-      { "title_with_names": "Computing Machinery and Intelligence, Alan Turing", "year": 1950 },
-      { "title_with_names": "Intelligent Machinery, a Heretical Theory, Alan Turing", "year": 1951 },
-      { "title_with_names": "The Mind of Mechanical Man, Geoffrey Jefferson", "year": 1949 },
-      { "title_with_names": "Psychologism and Behaviorism, Ned Block", "year": 1981 },
-      { "title_with_names": "Minds, Brains, and Programs, John Searle", "year": 1980 },
-      { "title_with_names": "Rethinking Turing’s Test and the Philosophical Implications, Diane Proudfoot", "year": 2020 },
-      { "title_with_names": "Identifying Indicators of Consciousness in AI Systems, Patrick Butlin, Robert Long, et al.", "year": 2026 }
+      {
+        "title_with_names": "On Computable Numbers, with an Application to the Entscheidungsproblem, Alan Turing",
+        "year": 1936
+      },
+      {
+        "title_with_names": "Intelligent Machinery, Alan Turing",
+        "year": 1948
+      },
+      {
+        "title_with_names": "Computing Machinery and Intelligence, Alan Turing",
+        "year": 1950
+      },
+      {
+        "title_with_names": "Intelligent Machinery, a Heretical Theory, Alan Turing",
+        "year": 1951
+      },
+      {
+        "title_with_names": "The Mind of Mechanical Man, Geoffrey Jefferson",
+        "year": 1949
+      },
+      {
+        "title_with_names": "Psychologism and Behaviorism, Ned Block",
+        "year": 1981
+      },
+      {
+        "title_with_names": "Minds, Brains, and Programs, John Searle",
+        "year": 1980
+      },
+      {
+        "title_with_names": "Rethinking Turing’s Test and the Philosophical Implications, Diane Proudfoot",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Identifying Indicators of Consciousness in AI Systems, Patrick Butlin, Robert Long, et al.",
+        "year": 2026
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Tyes irreduzibles Bewusstsein",
     "summary": "Michael Tye, einst reduktiver Physikalist, argumentiert nun, dass phänomenales Bewusstsein irreduzibel ist, weil es keine Grenzfälle kennt: Ein Zustand ist entweder bewusst oder nicht. Auf fundamentaler Ebene gibt es ‚Bewusstsein*‘ (Protobewusstsein), das auf komplexe Systeme übergeht, die die richtige funktionale Rolle spielen und Eigenschaften repräsentieren. Unterschiede darin, wie sich Erfahrungen anfühlen, entstehen aus Unterschieden in dem, was sie repräsentieren; so bleibt sein früherer Repräsentationalismus erhalten.",
-    "associated_thinkers": ["Michael Tye"],
+    "associated_thinkers": [
+      "Michael Tye"
+    ],
     "category": "Panpsychismus",
     "subcategory": "",
     "core_identity_tagline": "Irreduzibles Ein-Aus-Bewusstsein, vom Fundamentalen übertragen",
-    "classification_tags": ["panpsychism", "protoconsciousness", "representationalism", "irreducibility", "combination problem"]
+    "classification_tags": [
+      "panpsychism",
+      "protoconsciousness",
+      "representationalism",
+      "irreducibility",
+      "combination problem"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Phänomenales Bewusstsein ist eine irreduzible Alles-oder-nichts-Eigenschaft, deren Grundform, Bewusstsein*, fundamentalen Entitäten zukommt.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Da jede Kombination mit der richtigen funktionalen Rolle und den richtigen Repräsentationen bewusst wird, folgt aus der Auffassung, dass ein künstliches System, das diese Bedingungen erfüllt, ebenfalls bewusst wäre."
     },
     "survival_beyond_death": {
@@ -64,13 +72,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Tye's Contingentism", "relationship": "Gegensatz" },
-      { "name": "Panprotopsychism", "relationship": "Überschneidung" },
-      { "name": "Chalmers's Panpsychism", "relationship": "Überschneidung" },
-      { "name": "Transparency Thesis", "relationship": "Vereinbar" }
+      {
+        "name": "Tye's Contingentism",
+        "relationship": "Gegensatz"
+      },
+      {
+        "name": "Panprotopsychism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Chalmers's Panpsychism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Tye's Irreducible Consciousness* (Landscape of Consciousness), Michael Tye", "year": 2024 }
+      {
+        "title_with_names": "Tye's Irreducible Consciousness* (Landscape of Consciousness), Michael Tye",
+        "year": 2024
+      }
     ]
   }
 }

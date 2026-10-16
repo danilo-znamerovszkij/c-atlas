@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Putnams Maschinenfunktionalismus",
     "summary": "Putnams früher Maschinenfunktionalismus bestimmt mentale Zustände durch ihre funktionale Rolle, also die kausalen Beziehungen zwischen sensorischen Inputs, inneren Zuständen und motorischen Outputs, und nicht durch ihre Stoffe. Da dieselbe Rolle von sehr verschiedenen physischen Systemen eingenommen werden kann, könnte Schmerz bei Oktopoden, Außerirdischen oder Computern existieren; dies führte Putnam dazu, die Identitätstheorie von Geist und Gehirn abzulehnen. Später verwarf er den strikten Funktionalismus als blind für Bedeutung, Verkörperung und qualitative Erfahrung und wandte sich einem „liberalen Funktionalismus“ und einem pragmatischen Pluralismus zu.",
-    "associated_thinkers": ["Hilary Putnam"],
+    "associated_thinkers": [
+      "Hilary Putnam"
+    ],
     "category": "Materialismus",
     "subcategory": "Komputational",
     "core_identity_tagline": "Mentale Zustände als funktionale Rollen, wie Software",
-    "classification_tags": ["functionalism", "multiple realizability", "computational theory of mind", "semantic externalism", "liberal functionalism"]
+    "classification_tags": [
+      "functionalism",
+      "multiple realizability",
+      "computational theory of mind",
+      "semantic externalism",
+      "liberal functionalism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Ein mentaler Zustand ist ein funktionaler Zustand eines Systems, bestimmt durch seine kausalen Beziehungen zu Inputs, Outputs und anderen inneren Zuständen. In Putnams Analogie ist der Geist die Software und das Gehirn die Hardware, auf der sie läuft.",
@@ -46,31 +54,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Multiple Realisierbarkeit erlaubt es mentalen Zuständen, sowohl auf Computern als auch auf Gehirnen zu „laufen“. Putnams spätere Zweifel, ob der Funktionalismus Qualia und Bedeutung erfasst, lassen maschinelles Bewusstsein offen."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Putnam lehnte den Substanzdualismus ab; mentale Zustände brauchen daher ein physisches System, das sie realisiert, und nichts in der Auffassung stützt ein Überleben ohne ein solches System."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Putnams pragmatischer Pluralismus behandelt die Rede vom Mentalen als menschliches begriffliches Schema, das menschlichen Zwecken dient, ohne Berufung auf einen kosmischen Zweck."
     },
     "virtual_immortality": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Nach dem Maschinenfunktionalismus würde die Reproduktion der funktionalen Organisation eines Geistes in einem anderen Substrat auch seine mentalen Zustände reproduzieren, obwohl Putnams späterer Externalismus den Gehalt ebenfalls an die Welt bindet."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Functionalism", "relationship": "Grundlage" },
-      { "name": "Smart’s Topic-Neutral Identity", "relationship": "Kritik" },
-      { "name": "Lewis’s Analytic Functionalism and Causal-Role Identity Theory", "relationship": "Gegensatz" },
-      { "name": "Turing’s Imitation, Machine Thought, and the Hidden Mind", "relationship": "Einfluss" }
+      {
+        "name": "Functionalism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Smart’s Topic-Neutral Identity",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Lewis’s Analytic Functionalism and Causal-Role Identity Theory",
+        "relationship": "Gegensatz"
+      },
+      {
+        "name": "Turing’s Imitation, Machine Thought, and the Hidden Mind",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Putnam’s Machine Functionalism (Landscape of Consciousness entry), Hilary Putnam", "year": 1988 }
+      {
+        "title_with_names": "Putnam’s Machine Functionalism (Landscape of Consciousness entry), Hilary Putnam",
+        "year": 1988
+      }
     ]
   }
 }

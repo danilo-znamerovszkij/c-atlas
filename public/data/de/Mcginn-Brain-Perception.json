@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "McGinns Hirnwahrnehmung",
     "summary": "Colin McGinn schlägt vor, dass alles Bewusstsein Wahrnehmung des eigenen Gehirns ist. Schmerz ist die Wahrnehmung des Feuerns von C-Fasern, und das Sehen eines Hundes ist zugleich die Wahrnehmung eines Stücks des eigenen Hinterhauptkortex. Das Gewahrsein ist de re: Wir nehmen Hirnzustände wahr, ohne sie als Hirnzustände wahrzunehmen, so wie wir einen Block aus Atomen sehen, ohne ihn als Atome zu sehen.",
-    "associated_thinkers": ["Colin McGinn"],
+    "associated_thinkers": [
+      "Colin McGinn"
+    ],
     "category": "Materialismus",
     "subcategory": "Relational",
     "core_identity_tagline": "Bewusstsein als Wahrnehmung des eigenen Gehirns",
-    "classification_tags": ["brain perception", "identity theory", "de re awareness", "intentionality", "relational"]
+    "classification_tags": [
+      "brain perception",
+      "identity theory",
+      "de re awareness",
+      "intentionality",
+      "relational"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Mentale Zustände sind mit wahrnehmenden Zuständen des Hirngewahrseins identisch. Jede Erfahrung ist eine Wahrnehmung eines Hirnzustands, dazu kommt das Gewahrsein anderer Dinge, sofern der Zustand sich auf die Welt richtet.",
@@ -50,7 +58,7 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da jeder mentale Zustand eine Wahrnehmung des Gehirns ist, würde ein Geist ohne Gehirn den Gegenstand aller seiner Erfahrungen entbehren."
     },
     "meaning_and_purpose": {
@@ -64,13 +72,27 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "McGinn's Ultimate Mystery (Mysterianism)", "relationship": "Vereinbar" },
-      { "name": "Armstrong’s Higher-Order Perception Theory", "relationship": "Überschneidung" },
-      { "name": "Dretske’s Information and Representationalism", "relationship": "Überschneidung" },
-      { "name": "Descartes’s Substance Dualism", "relationship": "Kontrast" }
+      {
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Armstrong’s Higher-Order Perception Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Dretske’s Information and Representationalism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "McGinn’s Brain Perception, Landscape of Consciousness, Robert Lawrence Kuhn" }
+      {
+        "title_with_names": "McGinn’s Brain Perception, Landscape of Consciousness, Robert Lawrence Kuhn"
+      }
     ]
   }
 }

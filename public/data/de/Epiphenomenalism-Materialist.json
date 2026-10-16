@@ -2,11 +2,18 @@
   "id_and_class": {
     "theory_title": "Epiphänomenalismus (Materialismus)",
     "summary": "Der Epiphänomenalismus vertritt die Auffassung, dass Hirnprozesse bewusste Erfahrung hervorbringen, die Erfahrung selbst aber nichts bewirkt, weder physisch noch mental. Die Kausalität verläuft in eine Richtung, vom Physischen zum Phänomenalen; so bleibt die physische Welt kausal geschlossen, während das Gefühl, Gedanken bewegten uns, als Irrtum gilt.",
-    "associated_thinkers": ["David Chalmers"],
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
     "category": "Materialismus",
     "subcategory": "Philosophisch",
     "core_identity_tagline": "Bewusstsein als kausal wirkungsloser Schaum auf der Welle",
-    "classification_tags": ["epiphenomenalism", "mental causation", "causal closure", "free will"]
+    "classification_tags": [
+      "epiphenomenalism",
+      "mental causation",
+      "causal closure",
+      "free will"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein echtes Nebenprodukt biologischer Hirnaktivität, das keine eigene kausale Kraft besitzt.",
@@ -49,11 +56,11 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein hier allein ein Produkt biologischer Gehirne ist, endet es, sobald das Gehirn es nicht mehr hervorbringt."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Bewusster Wille bewirkt keine Handlung, daher bleibt kein Raum für Bewusstsein als kosmischen oder kausalen Akteur."
     },
     "virtual_immortality": {
@@ -63,13 +70,27 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Epiphenomenalism", "relationship": "Überschneidung" },
-      { "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness", "relationship": "Grundlage" },
-      { "name": "Kind's Dualism 2.0", "relationship": "Vereinbar" },
-      { "name": "Halligan and Oakley’s Species-Enhancing Epiphenomenalism", "relationship": "Erweiterung" }
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Kind's Dualism 2.0",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Halligan and Oakley’s Species-Enhancing Epiphenomenalism",
+        "relationship": "Erweiterung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Epiphenomenalism (Landscape of Consciousness entry), David Chalmers" }
+      {
+        "title_with_names": "Epiphenomenalism (Landscape of Consciousness entry), David Chalmers"
+      }
     ]
   }
 }

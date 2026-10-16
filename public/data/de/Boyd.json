@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Boyds emergente Informationstheorie",
     "summary": "Daniel Boyd argumentiert, dass jedes informationsverarbeitende System, vom Computer bis zum Gehirn, durch nicht-physische informationelle Entitäten arbeitet, die in hierarchischen Ebenen auf physischen Zuständen aufbauen. Bewusstsein ist ein solches emergentes, nicht-materielles Phänomen, das vom Gehirn erzeugt wird und top-down auf die neuronale Aktivität einwirkt; Boyds Auffassung ist damit eine Form des emergenten Dualismus.",
-    "associated_thinkers": ["Daniel Boyd"],
+    "associated_thinkers": [
+      "Daniel Boyd"
+    ],
     "category": "Integrierte Info",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als emergente nicht-physische Information",
-    "classification_tags": ["information", "emergent dualism", "top-down causation", "computation", "free will"]
+    "classification_tags": [
+      "information",
+      "emergent dualism",
+      "top-down causation",
+      "computation",
+      "free will"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein hochstufiges informationelles Phänomen, aufgebaut aus fundamentalen informationellen Entitäten, die mit neuronalen Zuständen verbunden sind und sich in einer ‚Informationsdimension‘ jenseits der drei physischen Dimensionen befinden.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Die EIT behandelt künstliche neuronale Netze wie Gehirne als emergente Informationssysteme, doch Boyd hält fest, dass nur die biologische Selbstorganisation nachweislich Bewusstsein hervorbringt."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da informationelle Phänomene nur aufgrund von Prozessen in ihrem materiellen Substrat existieren, sollte der Geist das Gehirn, das ihn erzeugt, nicht überdauern."
     },
     "meaning_and_purpose": {
@@ -58,19 +66,34 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Die hochstufigen informationellen Phänomene eines Gehirns lassen sich nicht aus messbaren neuronalen Zuständen rekonstruieren, weshalb sich ein Geist nicht zum Kopieren auslesen lässt."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Emergent Dualism", "relationship": "Überschneidung" },
-      { "name": "Ellis's Strong Emergence and Top-Down Causation", "relationship": "Vereinbar" },
-      { "name": "Hoel’s Causal Emergence", "relationship": "Überschneidung" },
-      { "name": "Computational Theories", "relationship": "Kontrast" }
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Ellis's Strong Emergence and Top-Down Causation",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Hoel’s Causal Emergence",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Boyd’s Emergent Information Theory, Daniel Boyd", "year": 2024 }
+      {
+        "title_with_names": "Boyd’s Emergent Information Theory, Daniel Boyd",
+        "year": 2024
+      }
     ]
   }
 }

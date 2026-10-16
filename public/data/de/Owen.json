@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Owens Geist-Körper-Kräfte: NCC sind philosophisch und religiös neutral",
     "summary": "Matthew Owen argumentiert, dass die Suche nach neuronalen Korrelaten des Bewusstseins (NCC) niemanden auf den Physikalismus festlegt, sodass atheistische Materialisten und theistische Dualisten sie gemeinsam verfolgen können. Sein eigenes Modell der Geist-Körper-Kräfte liest die NCC durch den aristotelisch-thomistischen Hylomorphismus: neuronale Mechanismen und bewusste Zustände sind die gemeinsame Manifestation der körperlichen und geistigen Kräfte einer Person, und Bewusstsein ist seinen neuronalen Mechanismen vorgeordnet.",
-    "associated_thinkers": ["Matthew Owen"],
+    "associated_thinkers": [
+      "Matthew Owen"
+    ],
     "category": "Herausforderung",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als geistige Kraft, die sich mit dem Gehirn gemeinsam manifestiert",
-    "classification_tags": ["neural correlates", "hylomorphism", "mental causation", "neutrality", "dualism"]
+    "classification_tags": [
+      "neural correlates",
+      "hylomorphism",
+      "mental causation",
+      "neutrality",
+      "dualism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist eine Kraft der Seele, die Form, welche einen lebendigen menschlichen Körper vereint. Bewusste Zustände sind Manifestationen dieser geistigen Kraft, gepaart mit körperlichen Kräften, die sich in neuronalen Mechanismen ausdrücken.",
@@ -46,34 +54,56 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Owen wendet das Modell auf künstliche neuronale Netze an, doch im Hylomorphismus ist Bewusstsein eine Kraft der Form eines lebendigen Körpers, und zu Maschinen äußert er kein Urteil."
     },
     "survival_beyond_death": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Owen vertritt die Auffassung, dass der hylomorphe Rahmen mit einem Leben nach dem Tod vereinbar ist, und sieht darin eine Grundlage für die Erwartung einer leiblichen Auferstehung."
     },
     "meaning_and_purpose": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Das Modell ist so angelegt, dass es Atheisten wie Theisten willkommen heißt, auch wenn seine thomistischen Wurzeln zu einem theistischen Bild passen."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da Bewusstsein zur einenden Form eines lebendigen Körpers gehört und den neuronalen Mechanismen vorgeordnet ist, würde das Kopieren dieser Mechanismen das Subjekt nicht übertragen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Aquinas’s Hylomorphism", "relationship": "Grundlage" },
-      { "name": "Aristotle’s Hylomorphism", "relationship": "Grundlage" },
-      { "name": "Crick and Koch's Neural Correlates of Consciousness", "relationship": "Erweiterung" },
-      { "name": "Kim’s Supervenience", "relationship": "Gegensatz" }
+      {
+        "name": "Aquinas’s Hylomorphism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Aristotle’s Hylomorphism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Kim’s Supervenience",
+        "relationship": "Gegensatz"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Owen's Mind-Body Powers: NCC are Philosophically & Religiously Neutral (Landscape of Consciousness entry), Matthew Owen", "year": 2020 },
-      { "title_with_names": "The Feeling of Life Itself, Christof Koch", "year": 2019 },
-      { "title_with_names": "De Anima, Aristotle" },
-      { "title_with_names": "Metaphysics, Aristotle" }
+      {
+        "title_with_names": "Owen's Mind-Body Powers: NCC are Philosophically & Religiously Neutral (Landscape of Consciousness entry), Matthew Owen",
+        "year": 2020
+      },
+      {
+        "title_with_names": "The Feeling of Life Itself, Christof Koch",
+        "year": 2019
+      },
+      {
+        "title_with_names": "De Anima, Aristotle"
+      },
+      {
+        "title_with_names": "Metaphysics, Aristotle"
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Zuboffs Universalismus",
     "summary": "Arnold Zuboff argumentiert, dass es genau ein Subjekt der Erfahrung gibt, das überall und zu jeder Zeit verwirklicht ist, wo Erfahrung auftritt. Daher ist jedes bewusste Wesen du. Was eine Erfahrung „meine“ macht, ist ihre Unmittelbarkeit der ersten Person, die alle Erfahrung teilt. Das Gefühl, ein getrenntes Selbst zu sein, entsteht nur daraus, dass die Inhalte verschiedener Leben nicht integriert sind.",
-    "associated_thinkers": ["Arnold Zuboff"],
+    "associated_thinkers": [
+      "Arnold Zuboff"
+    ],
     "category": "Herausforderung",
     "subcategory": "",
     "core_identity_tagline": "Ein Subjekt der Erfahrung in allen bewussten Wesen",
-    "classification_tags": ["personal identity", "open individualism", "probability", "functionalism", "self"]
+    "classification_tags": [
+      "personal identity",
+      "open individualism",
+      "probability",
+      "functionalism",
+      "self"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Der Universalismus ist vor allem eine Theorie der personalen Identität. Er identifiziert das Subjekt mit der Qualität der Unmittelbarkeit, dem „Jetzt-mein-Sein“, das aller Erfahrung innewohnt. Daher gibt es ein Subjekt, wo immer Erfahrung auftritt.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Da Erfahrung von einem Muster abhängt, das gegenüber seinem Medium gleichgültig ist, wäre eine Maschine, die das richtige Muster verwirklicht, bewusst, und nach dem Universalismus wäre sie du."
     },
     "survival_beyond_death": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Da jedes bewusste Wesen du ist, existierst du, solange irgendeine Erfahrung irgendwo existiert. Erinnerungen und Inhalte eines Lebens gehen allerdings nicht auf andere über."
     },
     "meaning_and_purpose": {
@@ -58,19 +66,33 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Eine Erfahrung ist eine konkrete Universalie, die zahlenmäßig eine bleibt, wenn sie erneut verwirklicht wird. Eine getreue Reproduktion des Musters wäre daher dieselbe Erfahrung und dasselbe Subjekt."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Functionalism", "relationship": "Grundlage" },
-      { "name": "Cohen’s Ultra-Fine-Tuned Personal Consciousness", "relationship": "Kontrast" },
-      { "name": "Śaṅkara's Self-Luminous Nondualism", "relationship": "Überschneidung" }
+      {
+        "name": "Functionalism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Cohen’s Ultra-Fine-Tuned Personal Consciousness",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Śaṅkara's Self-Luminous Nondualism",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Finding Myself, Arnold Zuboff", "year": 2025 },
-      { "title_with_names": "Zuboff’s Universalism (Landscape of Consciousness entry), Arnold Zuboff" }
+      {
+        "title_with_names": "Finding Myself, Arnold Zuboff",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Zuboff’s Universalism (Landscape of Consciousness entry), Arnold Zuboff"
+      }
     ]
   }
 }

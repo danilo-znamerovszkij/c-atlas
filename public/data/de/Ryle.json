@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Ryles Kategorienauflösung des Innentheater-Bewusstseins",
     "summary": "Gilbert Ryle argumentierte, dass das cartesische Bild des Geistes, „das Dogma vom Gespenst in der Maschine“, auf einem Kategorienfehler beruht: Es behandelt mentale Begriffe als Namen für verborgene innere Vorgänge desselben logischen Typs wie körperliche Ereignisse. Ryle hielt dagegen, mentale Begriffe beschrieben Dispositionen, Fähigkeiten und Weisen des Handelns; Bewusstsein sei daher ein Merkmal der Art und Weise, wie intelligente Leistungen vollbracht werden, und kein privates Theater, das von einem inneren Auge beobachtet wird.",
-    "associated_thinkers": ["Gilbert Ryle"],
+    "associated_thinkers": [
+      "Gilbert Ryle"
+    ],
     "category": "Materialismus",
     "subcategory": "Eliminativ/Illusionismus",
     "core_identity_tagline": "Geist als Dispositionen, nicht als Gespenst in der Maschine",
-    "classification_tags": ["category mistake", "ordinary language philosophy", "dispositions", "anti-cartesianism", "knowing how"]
+    "classification_tags": [
+      "category mistake",
+      "ordinary language philosophy",
+      "dispositions",
+      "anti-cartesianism",
+      "knowing how"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Was Philosophen bewusste Erfahrung nennen, ist eine Familie von Fähigkeiten, Dispositionen, Ausdrucksformen, Leistungen, Bekenntnissen und Sensibilitäten. Ryle bietet eine Diagnose, warum die Forderung nach einer Theorie eines inneren phänomenalen Raums fehlgeleitet ist.",
@@ -50,7 +58,7 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da es kein Gespenst in der Maschine gibt, sondern nur die verkörperten Fähigkeiten und das Verhalten einer Person, bleibt nichts Mentales übrig, das getrennt vom lebenden Körper fortbestehen könnte."
     },
     "meaning_and_purpose": {
@@ -64,17 +72,44 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Descartes’s Substance Dualism", "relationship": "Kritik" },
-      { "name": "Dennett’s Heterophenomenology", "relationship": "Einfluss" },
-      { "name": "Place’s Empirical Identity and the Phenomenological Fallacy", "relationship": "Kritik" },
-      { "name": "Functionalism", "relationship": "Einfluss" }
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Dennett’s Heterophenomenology",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Place’s Empirical Identity and the Phenomenological Fallacy",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Concept of Mind, Gilbert Ryle", "year": 1949 },
-      { "title_with_names": "Collected Papers, Gilbert Ryle", "year": 1971 },
-      { "title_with_names": "The Opacity of Mind: An Integrative Theory of Self-Knowledge, Peter Carruthers", "year": 2011 },
-      { "title_with_names": "Ryle on Sensation and the Origin of the Identity Theory, P. Livingston", "year": 2002 },
-      { "title_with_names": "Gilbert Ryle (Stanford Encyclopedia of Philosophy), Julia Tanney", "year": 2024 }
+      {
+        "title_with_names": "The Concept of Mind, Gilbert Ryle",
+        "year": 1949
+      },
+      {
+        "title_with_names": "Collected Papers, Gilbert Ryle",
+        "year": 1971
+      },
+      {
+        "title_with_names": "The Opacity of Mind: An Integrative Theory of Self-Knowledge, Peter Carruthers",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Ryle on Sensation and the Origin of the Identity Theory, P. Livingston",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Gilbert Ryle (Stanford Encyclopedia of Philosophy), Julia Tanney",
+        "year": 2024
+      }
     ]
   }
 }

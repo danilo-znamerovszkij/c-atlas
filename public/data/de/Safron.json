@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Safrons Theorie der integrierten Weltmodellierung",
     "summary": "Adam Safron schlägt vor, dass phänomenales Bewusstsein das ist, wie es sich anfühlt, ein probabilistisches generatives Modell des eigenen Körpers und der Welt zu betreiben, das im Raum, in der Zeit und in der Ursache kohärent ist und schnell genug arbeitet, um Handlungen zu informieren und von ihnen informiert zu werden. Die Theorie der integrierten Weltmodellierung (IWMT) verbindet die Integrierte-Informations-Theorie, die Theorie des Globalen neuronalen Arbeitsraums und das Freie-Energie-Prinzip und argumentiert, dass keine von ihnen allein hinreichende Bedingungen für Erfahrung liefert.",
-    "associated_thinkers": ["Adam Safron"],
+    "associated_thinkers": [
+      "Adam Safron"
+    ],
     "category": "Integrierte Info",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als kohärente generative Weltmodellierung",
-    "classification_tags": ["generative models", "predictive processing", "active inference", "global workspace", "integrated information"]
+    "classification_tags": [
+      "generative models",
+      "predictive processing",
+      "active inference",
+      "global workspace",
+      "integrated information"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Phänomenales Bewusstsein ist ein rechnerisches Objekt: der räumlich, zeitlich und kausal kohärente Output eines generativen Modells des Sinnesfelds eines verkörperten Akteurs, das bei Kopplung an Sinnesdaten Wahrnehmung und bei Entkopplung Vorstellung hervorbringt. Safron vergleicht es mit einem „Deepfake“ aus sensorischen Zuständen statt aus Pixeln.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Safron legt nahe, dass bewusste Zustände in künstlichen Körper-Geistern verwirklicht werden könnten, sobald die Substrate genau bestimmt sind."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Erfahrung durch die Modellierungsprozesse eines verkörperten Organismus erzeugt wird, endet sie, sobald diese Prozesse aufhören."
     },
     "meaning_and_purpose": {
@@ -58,19 +66,33 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Ist Bewusstsein eine Form generativer Modellierung, könnte ein System, das diese Modellierung reproduziert, es im Prinzip aufrechterhalten; allerdings hat die IWMT noch nicht geklärt, welche Umsetzungen dafür infrage kommen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Integrated Information Theory", "relationship": "Grundlage" },
-      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Grundlage" },
-      { "name": "Friston's Free-Energy Principle and Active Inference", "relationship": "Grundlage" },
-      { "name": "Northoff's Temporo-Spatial Sentience", "relationship": "Vereinbar" }
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Northoff's Temporo-Spatial Sentience",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Safron’s Integrated World Modeling Theory, Adam Safron" }
+      {
+        "title_with_names": "Safron’s Integrated World Modeling Theory, Adam Safron"
+      }
     ]
   }
 }

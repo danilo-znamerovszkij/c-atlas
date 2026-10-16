@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Nevens Bildung quantenmechanischer Superposition",
     "summary": "Neven schlägt vor, dass bewusste Erfahrung immer dann entsteht, wenn sich eine quantenmechanische Superposition bildet, und nicht, wenn sie kollabiert, wie in Penroses Darstellung. Im Rahmen von Everetts Viele-Welten-Bild hält er fest, dass ein System mehreren Zweigen zugleich folgt, von denen jeder eine Folge bestimmter bewusster Momente liefert, während Verschränkung die Erfahrung zu einer Einheit bindet. Er möchte die Idee prüfen, indem er Qubits im menschlichen Gehirn mit einem Quantencomputer verschränkt, und fragt, ob die Erfahrung der Versuchsperson dadurch reicher wird.",
-    "associated_thinkers": ["Hartmut Neven", "Christof Koch"],
+    "associated_thinkers": [
+      "Hartmut Neven",
+      "Christof Koch"
+    ],
     "category": "Quanten",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein entsteht, wenn sich eine quantenmechanische Superposition bildet",
-    "classification_tags": ["quantum superposition", "entanglement", "many-worlds", "quantum computing", "binding problem"]
+    "classification_tags": [
+      "quantum superposition",
+      "entanglement",
+      "many-worlds",
+      "quantum computing",
+      "binding problem"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Ein bewusster Moment ist der Erste-Person-Aspekt eines Quantensystems, das sich in bestimmte klassische Zustände verzweigt, was jedes Mal geschieht, wenn sich eine Superposition bildet.",
@@ -46,7 +55,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Neven argumentiert, klassische Computer könnten intelligent, aber nie bewusst werden; ein Quantenprozessor als Quanten-Turingmaschine könnte dagegen Erfahrung beherbergen."
     },
     "survival_beyond_death": {
@@ -58,22 +67,46 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Eine Simulation auf klassischer Hardware wäre nach dieser Sicht nicht bewusst; nur Quanten-Hardware könnte Erfahrung tragen, und Neven spricht davon, Bewusstsein auszuweiten, indem Gehirne mit Quantencomputern verschränkt werden."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Penrose-Hameroff's Orchestrated Objective Reduction", "relationship": "Einfluss" },
-      { "name": "Integrated Information Theory", "relationship": "Überschneidung" },
-      { "name": "Chalmers and McQueen’s Quantum Collapse", "relationship": "Kontrast" }
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Chalmers and McQueen’s Quantum Collapse",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Testing the Conjecture That Quantum Processes Create Conscious Experience, Hartmut Neven, Christof Koch, et al.", "year": 2024 },
-      { "title_with_names": "Experiments Prepare to Test Whether Consciousness Arises from Quantum Weirdness, Hartmut Neven and Christof Koch", "year": 2024 },
-      { "title_with_names": "Do Robots powered by a Quantum Processor have the Freedom to swerve?, Hartmut Neven, P. Read, and T. Rees", "year": 2021 },
-      { "title_with_names": "Can we use quantum computers to test a radical consciousness theory?, T. Lewton", "year": 2024 },
-      { "title_with_names": "The Emperor's New Mind, Roger Penrose", "year": 1989 }
+      {
+        "title_with_names": "Testing the Conjecture That Quantum Processes Create Conscious Experience, Hartmut Neven, Christof Koch, et al.",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Experiments Prepare to Test Whether Consciousness Arises from Quantum Weirdness, Hartmut Neven and Christof Koch",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Do Robots powered by a Quantum Processor have the Freedom to swerve?, Hartmut Neven, P. Read, and T. Rees",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Can we use quantum computers to test a radical consciousness theory?, T. Lewton",
+        "year": 2024
+      },
+      {
+        "title_with_names": "The Emperor's New Mind, Roger Penrose",
+        "year": 1989
+      }
     ]
   }
 }

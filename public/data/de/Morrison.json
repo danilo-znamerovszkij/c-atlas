@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Morrisons positionswählender Interaktionismus",
     "summary": "Colin Morrison schlägt vor, dass das unmittelbare physische Korrelat unserer Erfahrung die Wellenfunktion eines einzelnen seltenen Teilchens ist, das in einer winzigen Hirnregion eingeschlossen ist, wahrscheinlich ein einzelnes Neuron, das er ‚die Kavität‘ nennt. Sinnessignale, Gedächtnis und Emotion formen die Amplitude dieser Wellenfunktion, und die tatsächlich freie Wahl der Position durch das Teilchen, die unsere Wahl ist, lenkt die Aufmerksamkeit. Die natürliche Selektion hat dieses System so abgestimmt, dass das Muster der Wellenfunktion subjektive Bilder bildete, die die Reize unserer Sinnesorgane spiegeln.",
-    "associated_thinkers": ["Colin S. Morrison"],
+    "associated_thinkers": [
+      "Colin S. Morrison"
+    ],
     "category": "Quanten",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als ein Teilchen, das seine Position wählt",
-    "classification_tags": ["wavefunction", "attention", "panexperientialism", "micropsychism", "free choice"]
+    "classification_tags": [
+      "wavefunction",
+      "attention",
+      "panexperientialism",
+      "micropsychism",
+      "free choice"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Unser Bewusstsein ist die Erfahrung eines einzelnen seltenen, wahrscheinlich zusammengesetzten Teilchens in der Kavität; die Intensität eines Qualiums wird mit der Amplitude der Wellenfunktion dieses Teilchens an einer bestimmten Position identifiziert.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unsicher",
+      "stance": "Uncertain",
       "rationale": "Jedes Teilchen hat eine gewisse Erfahrung, doch unsere Art von Bewusstsein hängt von einem entwickelten System aus Kavität und Detektoren um ein einzelnes Teilchen ab, und Morrison sagt nicht, ob künstliche Systeme eines bauen könnten."
     },
     "survival_beyond_death": {
@@ -58,21 +66,41 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da das Subjekt ein bestimmtes physisches Teilchen ist, folgt aus der Sicht, dass das Kopieren der Information des Gehirns dieses Subjekt nicht hinüberretten würde."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Micropsychism", "relationship": "Überschneidung" },
-      { "name": "Whitehead's Process Theory", "relationship": "Kompatibel" },
-      { "name": "Penrose-Hameroff's Orchestrated Objective Reduction", "relationship": "Überschneidung" },
-      { "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"", "relationship": "Kompatibel" }
+      {
+        "name": "Micropsychism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
+        "relationship": "Kompatibel"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Blind Mindmaker, Colin S. Morrison" },
-      { "title_with_names": "Book review of Morrison's work, Jo Edwards", "year": 2017 },
-      { "title_with_names": "Morrison’s Position Selecting Interactionism (Landscape of Consciousness), Colin Morrison", "year": 2016 }
+      {
+        "title_with_names": "The Blind Mindmaker, Colin S. Morrison"
+      },
+      {
+        "title_with_names": "Book review of Morrison's work, Jo Edwards",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Morrison’s Position Selecting Interactionism (Landscape of Consciousness), Colin Morrison",
+        "year": 2016
+      }
     ]
   }
 }

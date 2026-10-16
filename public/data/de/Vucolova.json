@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Vucolovas Kollaps in Übersetzung",
     "summary": "Ludmila Vucolova schlägt vor, dass Bewusstsein entsteht, wenn ein perzeptueller Zustand erster Ordnung und ein symbolischer Zustand höherer Ordnung zu einem gleichwertigen Zustand kollabieren, den sie als C = (X* ≡ Y*) schreibt. Der Kollaps geht aus der sensomotorischen Wechselwirkung zwischen Körper und Welt hervor und übersetzt physische Reize in Symbole, wie bei Helen Keller, die begriff, dass das buchstabierte „w-a-t-e-r“ das Wasser auf ihrer Hand bezeichnete.",
-    "associated_thinkers": ["Ludmila Vucolova"],
+    "associated_thinkers": [
+      "Ludmila Vucolova"
+    ],
     "category": "Materialismus",
     "subcategory": "Verkörpert",
     "core_identity_tagline": "Bewusstsein als Kollaps von Wahrnehmung in Symbol",
-    "classification_tags": ["embodiment", "symbolic representation", "sensorimotor", "higher-order", "language"]
+    "classification_tags": [
+      "embodiment",
+      "symbolic representation",
+      "sensorimotor",
+      "higher-order",
+      "language"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist der vereinheitlichte Zustand, der entsteht, wenn ein perzeptueller Zustand (X*) und ein symbolischer Zustand (Y*) gleichwertig werden, sodass die phänomenalen Eigenschaften der Wahrnehmung dem Symbol zugeschrieben werden.",
@@ -46,41 +54,86 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unsicher",
+      "stance": "Uncertain",
       "rationale": "Bewusstsein erfordert die verkörperte sensomotorische Kopplung von Wahrnehmung mit selbst erzeugten Symbolen. Ob eine Maschine diesen Kollaps erreichen könnte, wird nicht behandelt."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein vollständig in physischen Prozessen eines lebenden Körpers und Gehirns begründet ist, lässt die Auffassung nichts erkennen, was es über den Tod hinaus fortsetzen würde."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Bedeutung entsteht durch Benennung und gemeinsame Symbole verkörperter Akteure, innerhalb des menschlichen Lebens und der menschlichen Kommunikation."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Die Auffassung bindet Bewusstsein an die motorischen Handlungen und das sensorische Feedback eines Körpers, was einer körperlosen digitalen Kopie fehlen würde."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Einfluss" },
-      { "name": "Noë's \"Out of Our Heads\" Theory", "relationship": "Einfluss" },
-      { "name": "Godfrey-Smith’s Naturalist, Gradualist, Diversified Evolution of Consciousness", "relationship": "Einfluss" },
-      { "name": "Penrose-Hameroff's Orchestrated Objective Reduction", "relationship": "Überschneidung" }
+      {
+        "name": "Rosenthal’s Higher-Order Thought",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Noë's \"Out of Our Heads\" Theory",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Godfrey-Smith’s Naturalist, Gradualist, Diversified Evolution of Consciousness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Formation of a Thought: How the Brain Produces a Conscious Experience, Ludmila Vucolova", "year": 2017 },
-      { "title_with_names": "How a Strictly Physical Universe Gave Rise to Consciousness, Ludmila Vucolova", "year": 2022 },
-      { "title_with_names": "An Innovative Multidisciplinary Investigation of Consciousness, Ludmila Vucolova", "year": 2023 },
-      { "title_with_names": "Harmonizing the Theories of Consciousness: How Consciousness Emerges from Matter and Energy, Ludmila Vucolova", "year": 2024 },
-      { "title_with_names": "Consciousness and Mind, David M. Rosenthal", "year": 2005 },
-      { "title_with_names": "Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness, Peter Godfrey-Smith", "year": 2016 },
-      { "title_with_names": "Action in Perception, Alva Noë", "year": 2004 },
-      { "title_with_names": "The Message in the Bottle, Walker Percy", "year": 1975 },
-      { "title_with_names": "Facing Up to the Problem of Consciousness, David Chalmers", "year": 1995 },
-      { "title_with_names": "Man a Machine, Julien Offray de La Mettrie", "year": 1748 },
-      { "title_with_names": "The Miracle Worker, W. Gibson", "year": 2008 }
+      {
+        "title_with_names": "Formation of a Thought: How the Brain Produces a Conscious Experience, Ludmila Vucolova",
+        "year": 2017
+      },
+      {
+        "title_with_names": "How a Strictly Physical Universe Gave Rise to Consciousness, Ludmila Vucolova",
+        "year": 2022
+      },
+      {
+        "title_with_names": "An Innovative Multidisciplinary Investigation of Consciousness, Ludmila Vucolova",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Harmonizing the Theories of Consciousness: How Consciousness Emerges from Matter and Energy, Ludmila Vucolova",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Consciousness and Mind, David M. Rosenthal",
+        "year": 2005
+      },
+      {
+        "title_with_names": "Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness, Peter Godfrey-Smith",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Action in Perception, Alva Noë",
+        "year": 2004
+      },
+      {
+        "title_with_names": "The Message in the Bottle, Walker Percy",
+        "year": 1975
+      },
+      {
+        "title_with_names": "Facing Up to the Problem of Consciousness, David Chalmers",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Man a Machine, Julien Offray de La Mettrie",
+        "year": 1748
+      },
+      {
+        "title_with_names": "The Miracle Worker, W. Gibson",
+        "year": 2008
+      }
     ]
   }
 }

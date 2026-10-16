@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Jackendoffs kognitive Repräsentationen auf mittlerer Ebene",
     "summary": "Ray Jackendoff vertritt die Auffassung, dass wir uns einer bestimmten Ebene mentaler Repräsentation bewusst sind, nämlich der mittleren Ebene zwischen rohen sensorischen Daten und abstrakten Begriffen. Beim Sehen bedeutet das Formen, Konturen und räumliche Anordnung, nicht Lichtintensitäten oder Objektkategorien; was eine Repräsentation bewusst macht, ist ihr Format und nicht ihr Ort im Gehirn.",
-    "associated_thinkers": ["Ray Jackendoff"],
+    "associated_thinkers": [
+      "Ray Jackendoff"
+    ],
     "category": "Materialismus",
     "subcategory": "Komputational",
     "core_identity_tagline": "Bewusstsein als mentale Repräsentation auf mittlerer Ebene",
-    "classification_tags": ["representationalism", "computational theory of mind", "perception", "linguistics", "cognitive science"]
+    "classification_tags": [
+      "representationalism",
+      "computational theory of mind",
+      "perception",
+      "linguistics",
+      "cognitive science"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist das Vorhandensein von Repräsentationen auf mittlerer Ebene: strukturierte, modalitätsspezifische Formate, die zwischen der sensorischen Verarbeitung niedriger Stufe und der konzeptuellen Struktur hoher Stufe liegen.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Da Bewusstsein hier vom Format der Informationsverarbeitung abhängt, könnte eine Maschine mit den richtigen Repräsentationen auf mittlerer Ebene grundsätzlich bewusst sein, auch wenn Jackendoff dies nicht weiterverfolgt."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Bewusstsein ist ein Produkt der Informationsverarbeitung in Geist und Gehirn und würde deren Ende daher nicht überdauern."
     },
     "meaning_and_purpose": {
@@ -64,13 +72,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Vereinbar" },
-      { "name": "Integrated Information Theory", "relationship": "Vereinbar" },
-      { "name": "Dennett's Multiple Drafts Model", "relationship": "Überschneidung" },
-      { "name": "Prinz's Neurofunctionalism: Attention Engenders Experience", "relationship": "Erweiterung" }
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Prinz's Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "Erweiterung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Jackendoff’s Intermediate-Level Cognitive Representations (Landscape of Consciousness), Ray Jackendoff", "year": 1987 }
+      {
+        "title_with_names": "Jackendoff’s Intermediate-Level Cognitive Representations (Landscape of Consciousness), Ray Jackendoff",
+        "year": 1987
+      }
     ]
   }
 }

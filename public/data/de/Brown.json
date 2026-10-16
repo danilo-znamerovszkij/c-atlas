@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Browns „HOROR“ Repräsentationalismus höherer Ordnung",
     "summary": "Richard Brown argumentiert gemeinsam mit Hakwan Lau, dass phänomenales Bewusstsein darin besteht, eine Repräsentation höherer Ordnung zu haben, in der man selbst einen bestimmten Repräsentationszustand erster Ordnung hat. Weil man sich selbst als in solchen Zuständen befindlich repräsentiert, erscheint es einem so, als habe man bewusste Erfahrung. Die Theorie verfeinert Rosenthals Theorie des Gedankens höherer Ordnung, indem sie Repräsentationen als solche ins Visier nimmt und den Zustand höherer Ordnung selbst zum Träger des phänomenalen Charakters macht.",
-    "associated_thinkers": ["Richard Brown", "Hakwan Lau"],
+    "associated_thinkers": [
+      "Richard Brown",
+      "Hakwan Lau"
+    ],
     "category": "Materialismus",
     "subcategory": "Höherer Ordnung",
     "core_identity_tagline": "Bewusstsein als Repräsentation der eigenen Repräsentationen",
-    "classification_tags": ["higher-order theory", "representationalism", "cognitive access", "functionalism", "self-representation"]
+    "classification_tags": [
+      "higher-order theory",
+      "representationalism",
+      "cognitive access",
+      "functionalism",
+      "self-representation"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Phänomenales Bewusstsein besteht darin, eine gedankenähnliche Repräsentation höherer Ordnung zu instanziieren, deren Inhalt etwa lautet: ‚Ich selbst habe diese visuelle Repräsentation von Rot.‘",
@@ -46,32 +55,49 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Da Bewusstsein in einer bestimmten Art von Repräsentation höherer Ordnung innerhalb einer kognitiven Architektur besteht, würde ein System mit dieser Architektur im Prinzip qualifiziert sein."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Bewusstsein ist eine Angelegenheit von Repräsentationen, die in einem funktionierenden kognitiven System verwirklicht sind; es endet daher, wenn dieses System aufhört."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Eine funktionalistische Theorie der Repräsentation impliziert keinen kosmischen Zweck."
     },
     "virtual_immortality": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Würden die relevanten Repräsentationen in einem anderen System reproduziert, gäbe die Theorie keinen Grund, warum sie nicht bewusst wären."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Erweiterung" },
-      { "name": "Lau's Perceptual Reality Monitoring Theory", "relationship": "Überschneidung" },
-      { "name": "Armstrong’s Higher-Order Perception Theory", "relationship": "Kontrast" },
-      { "name": "Block's Biological Reductionism", "relationship": "Kritik" }
+      {
+        "name": "Rosenthal’s Higher-Order Thought",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Lau's Perceptual Reality Monitoring Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Armstrong’s Higher-Order Perception Theory",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Block's Biological Reductionism",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Brown’s ‘HOROR’ Higher-Order Representationalism, Landscape of Consciousness, Richard Brown and Hakwan Lau", "year": 2015 },
-      { "title_with_names": "In Consciousness We Trust, Hakwan Lau" }
+      {
+        "title_with_names": "Brown’s ‘HOROR’ Higher-Order Representationalism, Landscape of Consciousness, Richard Brown and Hakwan Lau",
+        "year": 2015
+      },
+      {
+        "title_with_names": "In Consciousness We Trust, Hakwan Lau"
+      }
     ]
   }
 }

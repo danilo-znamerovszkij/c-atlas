@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Delaflors modellabhängige Ontologie",
     "summary": "Delaflors modellabhängige Ontologie (MDO) verweigert sich jeder Festlegung auf ein Substrat, sei es materiell, mental oder anders, und behandelt Theorien des Bewusstseins als nützliche Landkarten statt als Entdeckungen darüber, was Erfahrung ist. Was wir Bewusstsein nennen, ist „C2“, die sprachgetragene Ordnung, in der Selbst und Welt als gepaarte, praktische Unterscheidungen entworfen werden; darunter liegt „C1“, nicht-egoische rohe Erfahrung, und jenseits davon eine unentscheidbare Grenze, auf die sich nur hinweisen lässt. Delaflor bietet den Rahmen weniger als konkurrierende Theorie denn als Vorrichtung an, vergleichbar einem erweiterten Zen-Koan, mit der sich der Boden räumen lässt, auf dem jede Theorie steht.",
-    "associated_thinkers": ["Manuel Delaflor"],
+    "associated_thinkers": [
+      "Manuel Delaflor"
+    ],
     "category": "Herausforderung",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als sprachlich gefasstes Modell von Selbst und Welt",
-    "classification_tags": ["epistemology", "model dependence", "non-duality", "language", "machine consciousness"]
+    "classification_tags": [
+      "epistemology",
+      "model dependence",
+      "non-duality",
+      "language",
+      "machine consciousness"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Gewöhnliches Bewusstsein ist C2, die fokussierte, intentionale, propositionale Ordnung, die entsteht, wenn Sprache die rohe nicht-egoische Erfahrung C1 erweitert. In C2 wird Erfahrung als Sprache, Selbst und Welt dargestellt, und die Welt ist ein Teil dessen, was C2 darstellt, nicht etwas außerhalb davon.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Delaflor argumentiert, dass heutige Sprachmodelle nur C2-Strukturen nachahmen und die kontinuierliche Verfügbarkeit von C1 fehlt. Er behandelt sie als künstliche Kognition, nicht als Bewusstsein."
     },
     "survival_beyond_death": {
@@ -54,7 +62,7 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Die MDO verweist auf eine unentscheidbare Grenze, die sich nicht benennen lässt, und macht keine Aussage über einen letzten Sinn."
     },
     "virtual_immortality": {
@@ -64,18 +72,48 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Dao De Jing's Constant Dao", "relationship": "Überschneidung" },
-      { "name": "Nāgārjuna’s Empty Consciousness: Experience Without Essence", "relationship": "Überschneidung" },
-      { "name": "Wittgenstein's Grammatical Fiction", "relationship": "Überschneidung" },
-      { "name": "Kastrup's Analytic Idealism", "relationship": "Kontrast" }
+      {
+        "name": "Dao De Jing's Constant Dao",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Nāgārjuna’s Empty Consciousness: Experience Without Essence",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Wittgenstein's Grammatical Fiction",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Kastrup's Analytic Idealism",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Model Dependent Ontology (forthcoming), Manuel Delaflor", "year": 2026 },
-      { "title_with_names": "We Do Not Discover Reality, We Create It, Manuel Delaflor", "year": 2026 },
-      { "title_with_names": "Theories Are Never True, They Are Only More or Less Useful, Manuel Delaflor", "year": 2026 },
-      { "title_with_names": "Artificial Intelligence as Self-Instantiated, Temporally Continuous, Disturbance-Driven Adaptive World-Builder, Manuel Delaflor, C. Delgado-Solórzano and C. Toxtli", "year": 2025 },
-      { "title_with_names": "Philosophical Investigations, Ludwig Wittgenstein", "year": 1953 },
-      { "title_with_names": "I Am That, Nisargadatta Maharaj", "year": 1973 }
+      {
+        "title_with_names": "Model Dependent Ontology (forthcoming), Manuel Delaflor",
+        "year": 2026
+      },
+      {
+        "title_with_names": "We Do Not Discover Reality, We Create It, Manuel Delaflor",
+        "year": 2026
+      },
+      {
+        "title_with_names": "Theories Are Never True, They Are Only More or Less Useful, Manuel Delaflor",
+        "year": 2026
+      },
+      {
+        "title_with_names": "Artificial Intelligence as Self-Instantiated, Temporally Continuous, Disturbance-Driven Adaptive World-Builder, Manuel Delaflor, C. Delgado-Solórzano and C. Toxtli",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Philosophical Investigations, Ludwig Wittgenstein",
+        "year": 1953
+      },
+      {
+        "title_with_names": "I Am That, Nisargadatta Maharaj",
+        "year": 1973
+      }
     ]
   }
 }

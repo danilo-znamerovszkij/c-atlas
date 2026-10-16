@@ -2,11 +2,22 @@
   "id_and_class": {
     "theory_title": "Entropische Theorien",
     "summary": "Entropische Theorien erklären Bewusstsein über seine Beziehung zum zweiten Hauptsatz der Thermodynamik. Peter Lugten argumentiert, dass der lokale Entropieabfall, den Bewusstsein erreicht, durch das dauerhafte Löschen der Berechnungen bezahlt werden muss, die ihn hervorbrachten; deshalb erscheint Erfahrung als nichtphysisch. Carlos van Hamme bindet Gewahrsein an die Kohärenz, die in neuronalen Mikrotubuli eine Schwelle überschreitet; Yifeng Chen und J. W. Sanders modellieren Bewusstsein als Entropieverringerung, die aus vielen möglichen Szenarien ein bewusstes Szenario auswählt.",
-    "associated_thinkers": ["Peter Lugten", "Carlos van Hamme", "Yifeng Chen", "J. W. Sanders"],
+    "associated_thinkers": [
+      "Peter Lugten",
+      "Carlos van Hamme",
+      "Yifeng Chen",
+      "J. W. Sanders"
+    ],
     "category": "Materialismus",
     "subcategory": "Homöostatisch",
     "core_identity_tagline": "Bewusstsein als thermodynamisch begrenzte Ordnung",
-    "classification_tags": ["entropy", "thermodynamics", "information theory", "microtubules", "emergence"]
+    "classification_tags": [
+      "entropy",
+      "thermodynamics",
+      "information theory",
+      "microtubules",
+      "emergence"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein physikalischer Prozess, der durch seine Beziehung zur Entropie bestimmt ist. Für Lugten ist es eine evolutionär entstandene rechnerische Emergenz, die Arbeit verrichtet und Wärme abgibt; für van Hamme ist es ein Schwellenregime eines universellen entropisch-kohärenten Feldes; für Chen und Sanders ist es die Verringerung von Unsicherheit durch die Wahl eines inneren Szenarios.",
@@ -46,31 +57,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Lugten vertritt die Auffassung, dass nur lebende Organismen die Entropieschuld begleichen können, was bewusste Maschinen ausschließt; van Hamme bindet Gewahrsein an biologische Mikrotubuli."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein hier thermodynamische Arbeit eines lebenden Gehirns ist, endet es, sobald diese Arbeit aufhört."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Lugten verteidigt einen echten freien Willen innerhalb eines naturalistischen Rahmens; van Hamme behandelt Bewusstsein, Wahl und Wert als natürliche Ausdrucksformen eines physischen Substrats und nicht als Zeichen eines kosmischen Zwecks."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Wenn Bewusstsein auf sich entwickelnde Organismen beschränkt ist, die eine Entropieschuld zahlen, wäre eine digitale Kopie nicht bewusst."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Carhart-Harris's Entropic Brain Hypothesis", "relationship": "Überschneidung" },
-      { "name": "Penrose-Hameroff's Orchestrated Objective Reduction", "relationship": "Überschneidung" },
-      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Einfluss" },
-      { "name": "Integrated Information Theory", "relationship": "Einfluss" }
+      {
+        "name": "Carhart-Harris's Entropic Brain Hypothesis",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Entropic Theories, Peter Lugten, Carlos van Hamme, Yifeng Chen and J. W. Sanders", "year": 2025 }
+      {
+        "title_with_names": "Entropic Theories, Peter Lugten, Carlos van Hamme, Yifeng Chen and J. W. Sanders",
+        "year": 2025
+      }
     ]
   }
 }

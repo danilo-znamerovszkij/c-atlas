@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Sri Ramanas Selbst als reines Bewusstsein",
     "summary": "Sri Ramana Maharshi lehrt, wie Michael James ihn erläutert, dass das einzig wirkliche Bewusstsein intransitives Gewahrsein ist: Gewahrsein nichts als des eigenen Seins, des ‚Ich bin‘. Das Gewahrsein von Objekten ist ein flüchtiger Schein, der sein Dasein und sein Licht von diesem reinen Gewahrsein entlehnt. Bewusstsein erkennt man daher, indem man die Aufmerksamkeit auf sich selbst nach innen richtet, bis das Gewahrsein von allem anderen aufhört.",
-    "associated_thinkers": ["Ramana Maharshi", "Michael James"],
+    "associated_thinkers": [
+      "Ramana Maharshi",
+      "Michael James"
+    ],
     "category": "Idealismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als selbstleuchtendes reines Sein",
-    "classification_tags": ["advaita vedanta", "nondualism", "self-investigation", "pure awareness", "indian philosophy"]
+    "classification_tags": [
+      "advaita vedanta",
+      "nondualism",
+      "self-investigation",
+      "pure awareness",
+      "indian philosophy"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein in seiner wirklichen Form ist reines intransitives Gewahrsein (sat-cit), ein Bewusstsein, das selbst reines Sein ist. Es ist die eine wirkliche Substanz, von der alles andere seine scheinbare Existenz ableitet, so wie goldene Schmuckstücke ihre Existenz vom Gold ableiten.",
@@ -46,35 +55,58 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da das wirkliche Bewusstsein das eine reine Gewahrsein ist und jede Maschine ein Phänomen ist, das im transitiven Gewahrsein erscheint, kann keine Maschine Bewusstsein erzeugen."
     },
     "survival_beyond_death": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Was wir tatsächlich sind, ist dauerhaftes, unveränderliches Gewahrsein, das niemals ein Körper ist; es endet daher nicht, wenn ein Körper endet."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Ziel des Lebens ist es, uns selbst durch Selbstuntersuchung als reines Gewahrsein zu erkennen und die falsche Identifikation mit Körper und Ego zu beenden."
     },
     "virtual_immortality": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Eine digitale Kopie würde nur Phänomene und die Muster des Egos bewahren, die die Auffassung für unwirklich hält; es würde daher nichts Wirkliches übertragen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Śaṅkara's Self-Luminous Nondualism", "relationship": "Grundlage" },
-      { "name": "Sāṃkhya's Pure Witness and the Material Mind", "relationship": "Gegensatz" },
-      { "name": "Spira's Non-Duality", "relationship": "Überschneidung" },
-      { "name": "Indian Cosmic Consciousness", "relationship": "Überschneidung" }
+      {
+        "name": "Śaṅkara's Self-Luminous Nondualism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Sāṃkhya's Pure Witness and the Material Mind",
+        "relationship": "Gegensatz"
+      },
+      {
+        "name": "Spira's Non-Duality",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Indian Cosmic Consciousness",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Uḷḷadu Nāṟpadu (Forty Verses on What Is), Sri Ramana Maharshi (Michael James, Trans.)" },
-      { "title_with_names": "Āṉma-Viddai: The Science of Knowing Oneself, Michael James" },
-      { "title_with_names": "Sri Ramana's Self as Pure Consciousness, Michael James", "year": 2012 },
-      { "title_with_names": "Chāndōgya Upaniṣad" },
-      { "title_with_names": "Bhagavad Gītā" }
+      {
+        "title_with_names": "Uḷḷadu Nāṟpadu (Forty Verses on What Is), Sri Ramana Maharshi (Michael James, Trans.)"
+      },
+      {
+        "title_with_names": "Āṉma-Viddai: The Science of Knowing Oneself, Michael James"
+      },
+      {
+        "title_with_names": "Sri Ramana's Self as Pure Consciousness, Michael James",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Chāndōgya Upaniṣad"
+      },
+      {
+        "title_with_names": "Bhagavad Gītā"
+      }
     ]
   }
 }

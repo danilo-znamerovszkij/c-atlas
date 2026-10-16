@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Hegels dialektisches Bewusstsein in der Entwicklung des Geistes",
     "summary": "Georg Wilhelm Friedrich Hegel begreift Bewusstsein als eine sich entwickelnde Beziehung zwischen einem Erkennenden und seinem Gegenstand, die eine notwendige Folge von ‚Gestalten‘ durchläuft, von der bloßen sinnlichen Gewissheit über das Selbstbewusstsein und die Vernunft bis zum Geist. Jede Gestalt scheitert an ihrem eigenen Maßstab und wird durch eine umfassendere aufgehoben, bis das Bewusstsein seinen Gegenstand als seine eigene Tätigkeit erkennt. Das Selbstbewusstsein ist sozial und wird nur durch wechselseitige Anerkennung zwischen Selbsten erreicht.",
-    "associated_thinkers": ["Georg Wilhelm Friedrich Hegel"],
+    "associated_thinkers": [
+      "Georg Wilhelm Friedrich Hegel"
+    ],
     "category": "Idealismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als das sich selbst entwickelnde Leben des Geistes",
-    "classification_tags": ["german idealism", "dialectic", "recognition", "self-consciousness", "phenomenology"]
+    "classification_tags": [
+      "german idealism",
+      "dialectic",
+      "recognition",
+      "self-consciousness",
+      "phenomenology"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein Moment des Geistes, des kollektiven, geschichtlich sich entwickelnden Subjekts, das sich durch seine eigenen kulturellen Leistungen selbst erkennt. Seine individuellen Formen sind Stufen dieser Entwicklung und keine festen Vermögen oder privaten Behälter von Gefühlen.",
@@ -54,7 +62,7 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Die Geschichte ist der Prozess, durch den der Geist sich selbst erkennt; individuelles und kollektives Bewusstsein nehmen daher an einer vernünftigen Entwicklung hin zum absoluten Wissen teil."
     },
     "virtual_immortality": {
@@ -64,20 +72,56 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Kant’s Transcendental Idealism", "relationship": "Grundlage" },
-      { "name": "Fichte’s Self-Positing I", "relationship": "Grundlage" },
-      { "name": "Bradley’s Absolute Idealism", "relationship": "Einfluss" },
-      { "name": "Schelling’s Nature, Spirit, and the Identity of Mind", "relationship": "Überschneidung" }
+      {
+        "name": "Kant’s Transcendental Idealism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Fichte’s Self-Positing I",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Bradley’s Absolute Idealism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Schelling’s Nature, Spirit, and the Identity of Mind",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Phenomenology of Spirit, Georg Wilhelm Friedrich Hegel", "year": 1807 },
-      { "title_with_names": "Encyclopedia of the Philosophical Sciences, Part III: Philosophy of Mind, Georg Wilhelm Friedrich Hegel", "year": 1830 },
-      { "title_with_names": "Critique of Pure Reason, Immanuel Kant", "year": 1781 },
-      { "title_with_names": "Appearance and Reality, F. H. Bradley", "year": 1893 },
-      { "title_with_names": "Mind and World, J. McDowell", "year": 1994 },
-      { "title_with_names": "The Struggle for Recognition: The Moral Grammar of Social Conflicts, A. Honneth", "year": 1995 },
-      { "title_with_names": "Hegel on Self-Consciousness: Desire and Death in the Phenomenology of Spirit, R. B. Pippin", "year": 2011 },
-      { "title_with_names": "Georg Wilhelm Friedrich Hegel, Stanford Encyclopedia of Philosophy, P. Redding", "year": 2020 }
+      {
+        "title_with_names": "Phenomenology of Spirit, Georg Wilhelm Friedrich Hegel",
+        "year": 1807
+      },
+      {
+        "title_with_names": "Encyclopedia of the Philosophical Sciences, Part III: Philosophy of Mind, Georg Wilhelm Friedrich Hegel",
+        "year": 1830
+      },
+      {
+        "title_with_names": "Critique of Pure Reason, Immanuel Kant",
+        "year": 1781
+      },
+      {
+        "title_with_names": "Appearance and Reality, F. H. Bradley",
+        "year": 1893
+      },
+      {
+        "title_with_names": "Mind and World, J. McDowell",
+        "year": 1994
+      },
+      {
+        "title_with_names": "The Struggle for Recognition: The Moral Grammar of Social Conflicts, A. Honneth",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Hegel on Self-Consciousness: Desire and Death in the Phenomenology of Spirit, R. B. Pippin",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Georg Wilhelm Friedrich Hegel, Stanford Encyclopedia of Philosophy, P. Redding",
+        "year": 2020
+      }
     ]
   }
 }

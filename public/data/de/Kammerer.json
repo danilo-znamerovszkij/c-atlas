@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Kammerers introspektiver Illusionismus",
     "summary": "François Kammerer verteidigt den starken Illusionismus: Phänomenales Bewusstsein existiert nicht, sondern scheint nur zu existieren, weil die Introspektion unsere Zustände als phänomenal darstellt. Seine TCE-Theorie erklärt, warum die Illusion so überzeugend ist, und Kammerer argumentiert, dass der Illusionismus den Physikalismus besser verteidigt als die gängigen Fassungen.",
-    "associated_thinkers": ["François Kammerer"],
+    "associated_thinkers": [
+      "François Kammerer"
+    ],
     "category": "Materialismus",
     "subcategory": "Eliminativ/Illusionismus",
     "core_identity_tagline": "Phänomenales Bewusstsein als Produkt einer introspektiven Fehlrepräsentation",
-    "classification_tags": ["illusionism", "introspection", "phenomenal concepts", "physicalism", "eliminativism"]
+    "classification_tags": [
+      "illusionism",
+      "introspection",
+      "phenomenal concepts",
+      "physicalism",
+      "eliminativism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Phänomenales Bewusstsein ist nichts; was existiert, ist sein Anschein, der entsteht, wenn die Introspektion phänomenale Begriffe auf unsere Zustände anwendet.",
@@ -50,11 +58,11 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da nur physische Zustände existieren und phänomenales Bewusstsein eine Illusion ist, bleibt nichts Nichtphysisches übrig, das den Tod überdauern könnte."
     },
     "meaning_and_purpose": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Kammerer argumentiert, dass Dinge auch dann Wert haben können, wenn phänomenales Bewusstsein nicht existiert, räumt aber ein, dass die normativen Folgen schwer zu bewältigen sein können."
     },
     "virtual_immortality": {
@@ -64,12 +72,23 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Frankish’s Illusionism", "relationship": "Überschneidung" },
-      { "name": "Dennett’s Illusionism", "relationship": "Grundlage" },
-      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Kritik" }
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Dennett’s Illusionism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Kammerer’s Introspective Illusionism (Landscape of Consciousness), François Kammerer" }
+      {
+        "title_with_names": "Kammerer’s Introspective Illusionism (Landscape of Consciousness), François Kammerer"
+      }
     ]
   }
 }

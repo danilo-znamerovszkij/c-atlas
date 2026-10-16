@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Schopenhauers Die Welt als Wille",
     "summary": "Schopenhauer vertritt die Auffassung, dass die Welt zwei Seiten hat: die Vorstellung, die Welt der Objekte, die für ein erkennendes Subjekt durch Raum, Zeit und Kausalität strukturiert ist, und den Willen, ein einziges blindes, ziel- und grundloses Streben, das das innere Wesen von allem ist. Den Willen erkennen wir unmittelbar nur in einem Fall: am eigenen Körper, von innen als Wollen gespürt. Bewusstsein und Intellekt sind sekundäre Werkzeuge, die der Wille bei höheren Organismen entwickelt; phänomenale Erfahrung ist daher eine Oberfläche über einer nichtbewussten Wirklichkeit.",
-    "associated_thinkers": ["Arthur Schopenhauer"],
+    "associated_thinkers": [
+      "Arthur Schopenhauer"
+    ],
     "category": "Idealismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als sekundäres Werkzeug des Willens",
-    "classification_tags": ["will", "representation", "transcendental idealism", "pessimism", "intrinsic nature"]
+    "classification_tags": [
+      "will",
+      "representation",
+      "transcendental idealism",
+      "pessimism",
+      "intrinsic nature"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist Vorstellung, das Feld der Erscheinungen aus Subjekt und Objekt, das vom Gehirn als Werkzeug des Willens hervorgebracht wird. Darunter liegt der Wille, das nichtbewusste Ding an sich.",
@@ -46,35 +54,62 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Schopenhauer knüpft Bewusstsein an Gehirne höherer Organismen, die der Wille hervorbringt. Ob ein künstliches System als solches Werkzeug dienen könnte, sagt er nichts."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Bewusstsein erlischt mit dem Tod; nur der nichtbewusste, unpersönliche Wille besteht fort."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Der Wille an der Wurzel der Wirklichkeit ist blind und ziellos, daher hat der Kosmos keinen Zweck. Linderung findet sich allein in der ästhetischen Betrachtung, im Mitleid und in der Verneinung des Wollens."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da die bewusste Individualität eine vergängliche Erscheinung des einen Willens ist, würde die Bewahrung einer Kopie eines Geistes nichts Wesentliches bewahren."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Kant’s Transcendental Idealism", "relationship": "Grundlage" },
-      { "name": "Russellian Monism", "relationship": "Einfluss" },
-      { "name": "Freud's Surface Consciousness and Irreducible Affect", "relationship": "Einfluss" },
-      { "name": "Panprotopsychism", "relationship": "Überschneidung" }
+      {
+        "name": "Kant’s Transcendental Idealism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Freud's Surface Consciousness and Irreducible Affect",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Panprotopsychism",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The World as Will and Representation, Arthur Schopenhauer", "year": 1818 },
-      { "title_with_names": "Schopenhauer: A Very Short Introduction, Christopher Janaway", "year": 2002 },
-      { "title_with_names": "Arthur Schopenhauer (Stanford Encyclopedia of Philosophy), Robert Wicks", "year": 2021 },
-      { "title_with_names": "The Vindication of Absolute Idealism, T. L. S. Sprigge", "year": 1983 },
-      { "title_with_names": "Panpsychism (Stanford Encyclopedia of Philosophy), Philip Goff, William Seager, Sean Allen-Hermanson", "year": 2022 }
+      {
+        "title_with_names": "The World as Will and Representation, Arthur Schopenhauer",
+        "year": 1818
+      },
+      {
+        "title_with_names": "Schopenhauer: A Very Short Introduction, Christopher Janaway",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Arthur Schopenhauer (Stanford Encyclopedia of Philosophy), Robert Wicks",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Vindication of Absolute Idealism, T. L. S. Sprigge",
+        "year": 1983
+      },
+      {
+        "title_with_names": "Panpsychism (Stanford Encyclopedia of Philosophy), Philip Goff, William Seager, Sean Allen-Hermanson",
+        "year": 2022
+      }
     ]
   }
 }

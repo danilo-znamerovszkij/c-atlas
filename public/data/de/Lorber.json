@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Lorbers Seele und Geist",
     "summary": "Jakob Lorber, ein christlicher Mystiker des 19. Jahrhunderts, der seine Schriften als Offenbarungen Christi verstand, vertritt die Auffassung, dass der Mensch eine Seele und einen göttlichen Geist ist, die für kurze Zeit gemeinsam in einem materiellen Körper verkörpert sind. Die Seele besteht aus unzähligen lebendigen Intelligenzpartikeln, den sogenannten Specifica. Der Geist ist ein Funke der Liebe Gottes, der um die Geburt herum in das Herz der Seele gelegt und stark abgeschirmt wird, damit er die Seele nicht überwältigt. Der Sinn des Lebens besteht darin, Seele und Geist durch das Suchen Gottes und selbstlose Liebe zu vereinigen.",
-    "associated_thinkers": ["Jakob Lorber", "Albert Hoffmann"],
+    "associated_thinkers": [
+      "Jakob Lorber",
+      "Albert Hoffmann"
+    ],
     "category": "Dualismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als Seelenpartikel, geleitet von einem göttlichen Funken",
-    "classification_tags": ["christian mysticism", "revelation", "soul", "spirit", "free will"]
+    "classification_tags": [
+      "christian mysticism",
+      "revelation",
+      "soul",
+      "spirit",
+      "free will"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein beruht auf Specifica, unfassbaren lebendigen Intelligenzpartikeln, die die grundlegendsten Bestandteile sowohl der geistigen als auch der physischen Welt sind. Beim Menschen werden sie durch einen innewohnenden göttlichen Geist erhoben.",
@@ -46,30 +55,41 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Menschliches Bewusstsein hängt von einer Seele aus Specifica und einem von Gott eingesetzten göttlichen Geist ab. Kein Artefakt könnte diese liefern."
     },
     "survival_beyond_death": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Seele und Geist sind nur für sehr kurze Zeit im Körper verkörpert. Sie bestehen deshalb nach dessen Tod fort."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Lorber vertritt die Auffassung, dass Gott die Menschheit aus Liebe erschaffen hat, damit sie ihn wieder liebt und andere mehr liebt als sich selbst."
     },
     "virtual_immortality": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da die Person aus Seele und göttlichem Geist besteht, würde eine digitale Kopie des Körpers oder des Gehirns sie nicht tragen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Soul in the New Testament and Christian Philosophy", "relationship": "Überschneidung" },
-      { "name": "Steiner's Esoteric Soul and Consciousness", "relationship": "Überschneidung" },
-      { "name": "Theosophy's Eclectic Soul and Consciousness", "relationship": "Überschneidung" }
+      {
+        "name": "Soul in the New Testament and Christian Philosophy",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Steiner's Esoteric Soul and Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Theosophy's Eclectic Soul and Consciousness",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Lorber’s Soul and Spirit, Jakob Lorber" }
+      {
+        "title_with_names": "Lorber’s Soul and Spirit, Jakob Lorber"
+      }
     ]
   }
 }

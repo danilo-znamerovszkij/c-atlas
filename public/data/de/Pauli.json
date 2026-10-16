@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Paulis eine Welt, zwei Aspekte: psychophysische Komplementarität",
     "summary": "Wolfgang Pauli vertrat die Auffassung, dass Geist und Materie komplementäre Aspekte einer zugrunde liegenden Wirklichkeit sind, der unus mundus („eine Welt“), die selbst weder mental noch physisch ist und nicht unmittelbar beobachtet werden kann. Bewusste Erfahrung ist der subjektive Pol dieser Spaltung, und Archetypen wirken als Ordnungsprinzipien, die sowohl die Psyche als auch die physische Natur formen.",
-    "associated_thinkers": ["Wolfgang Pauli", "Carl Jung"],
+    "associated_thinkers": [
+      "Wolfgang Pauli",
+      "Carl Jung"
+    ],
     "category": "Monismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als psychischer Aspekt der einen Welt",
-    "classification_tags": ["dual-aspect monism", "complementarity", "archetypes", "synchronicity", "quantum physics"]
+    "classification_tags": [
+      "dual-aspect monism",
+      "complementarity",
+      "archetypes",
+      "synchronicity",
+      "quantum physics"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist einer von zwei komplementären Aspekten einer psychophysisch neutralen, archetypisch geordneten Wirklichkeit. Phänomenale Erfahrung und physischer Prozess sind gleichermaßen wirklich und gleichermaßen abgeleitet.",
@@ -54,7 +63,7 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Pauli spekulierte über ein Naturgesetz, das in Bedeutung gründet, und sah Archetypen sowohl Geist als auch Materie ordnen, wodurch Bedeutung einen Platz in der Natur jenseits menschlicher Anliegen erhält."
     },
     "virtual_immortality": {
@@ -64,22 +73,64 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Jung's Collective Unconscious and Synchronicity", "relationship": "Grundlage" },
-      { "name": "Atmanspacher's Dual-Aspect Monism", "relationship": "Erweiterung" },
-      { "name": "James’s Radical Empiricism of Monistic Pure Experience", "relationship": "Gegensatz" },
-      { "name": "Russellian Monism", "relationship": "Gegensatz" }
+      {
+        "name": "Jung's Collective Unconscious and Synchronicity",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Atmanspacher's Dual-Aspect Monism",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "James’s Radical Empiricism of Monistic Pure Experience",
+        "relationship": "Gegensatz"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Gegensatz"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Influence of Archetypal Ideas on the Scientific Theories of Kepler, Wolfgang Pauli", "year": 1952 },
-      { "title_with_names": "The Interpretation of Nature and the Psyche, Carl Jung & Wolfgang Pauli", "year": 1955 },
-      { "title_with_names": "Atomic Physics and Human Knowledge, Niels Bohr", "year": 1958 },
-      { "title_with_names": "Writings on Physics and Philosophy, Wolfgang Pauli (C. P. Enz & K. von Meyenn, Eds.)", "year": 1994 },
-      { "title_with_names": "Atom and Archetype: The Pauli/Jung Letters, 1932–1958, C. A. Meier (Ed.)", "year": 2001 },
-      { "title_with_names": "Pauli's Ideas on Mind and Matter in the Context of Contemporary Science, H. Atmanspacher & H. Primas", "year": 2006 },
-      { "title_with_names": "A New Idea of Reality: Pauli on the Unity of Mind and Matter, W. Seager", "year": 2011 },
-      { "title_with_names": "Dual-Aspect Monism à la Pauli and Jung, H. Atmanspacher", "year": 2012 },
-      { "title_with_names": "The Pauli–Jung Conjecture and Its Impact Today, H. Atmanspacher & C. A. Fuchs (Eds.)", "year": 2014 },
-      { "title_with_names": "The Pauli–Jung Conjecture and Its Relatives: A Formally Augmented Outline, H. Atmanspacher", "year": 2020 }
+      {
+        "title_with_names": "The Influence of Archetypal Ideas on the Scientific Theories of Kepler, Wolfgang Pauli",
+        "year": 1952
+      },
+      {
+        "title_with_names": "The Interpretation of Nature and the Psyche, Carl Jung & Wolfgang Pauli",
+        "year": 1955
+      },
+      {
+        "title_with_names": "Atomic Physics and Human Knowledge, Niels Bohr",
+        "year": 1958
+      },
+      {
+        "title_with_names": "Writings on Physics and Philosophy, Wolfgang Pauli (C. P. Enz & K. von Meyenn, Eds.)",
+        "year": 1994
+      },
+      {
+        "title_with_names": "Atom and Archetype: The Pauli/Jung Letters, 1932–1958, C. A. Meier (Ed.)",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Pauli's Ideas on Mind and Matter in the Context of Contemporary Science, H. Atmanspacher & H. Primas",
+        "year": 2006
+      },
+      {
+        "title_with_names": "A New Idea of Reality: Pauli on the Unity of Mind and Matter, W. Seager",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Dual-Aspect Monism à la Pauli and Jung, H. Atmanspacher",
+        "year": 2012
+      },
+      {
+        "title_with_names": "The Pauli–Jung Conjecture and Its Impact Today, H. Atmanspacher & C. A. Fuchs (Eds.)",
+        "year": 2014
+      },
+      {
+        "title_with_names": "The Pauli–Jung Conjecture and Its Relatives: A Formally Augmented Outline, H. Atmanspacher",
+        "year": 2020
+      }
     ]
   }
 }

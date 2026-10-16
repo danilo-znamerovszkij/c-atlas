@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Peirces phaneroskopische Semiotik",
     "summary": "Peirce behandelt phänomenales Bewusstsein als Erstheit, die einfache, unanalysierbare Qualität des Gefühls, die er findet, indem er inventarisiert, was dem Geist erscheint (Phaneroskopie). Jede Erfahrung enthält außerdem Zweitheit (rohe Reaktion) und Drittheit (Gewohnheit, Gesetz, Bedeutung), sodass Erfahrung mit Zeichengebrauch und Forschung zusammenhängt. In seiner Metaphysik kommt das Gefühl im Kosmos zuerst, und die Materie ist ein „erschöpfter Geist“, der sich zu Gewohnheit verhärtet hat.",
-    "associated_thinkers": ["Charles Sanders Peirce"],
+    "associated_thinkers": [
+      "Charles Sanders Peirce"
+    ],
     "category": "Phänomenologie",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als Erstheit, die reine Qualität des Gefühls",
-    "classification_tags": ["phaneroscopy", "semiotics", "pragmatism", "objective idealism", "synechism"]
+    "classification_tags": [
+      "phaneroscopy",
+      "semiotics",
+      "pragmatism",
+      "objective idealism",
+      "synechism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Phänomenales Bewusstsein ist Erstheit: eine Gefühlsqualität (Röte, Schmerz, Heiterkeit), die einfach, teillos ist und unabhängig von allem anderen das ist, was sie ist. Peirce fügt hinzu, dass eine Qualität an sich eine bloße Möglichkeit ist und nur stufenweise bewusst wird.",
@@ -47,15 +55,15 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Da Gefühl einen kontinuierlichen Kosmos durchdringt und Geist überall dort auftaucht, wo Zeichen gedeutet werden, beschränkt Peirces Auffassung Bewusstsein nicht auf Menschen oder Gehirne. Zu Maschinen hat er sich nicht geäußert."
     },
     "survival_beyond_death": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Eine Person ist eine allgemeine Idee, und Bewusstseine stehen miteinander in Kontinuität, was Raum für eine Form des Fortbestehens lässt; Peirces Darstellung entscheidet jedoch nichts über das Überleben des Einzelnen."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Aus seinem objektiven Idealismus folgt, dass das Universum selbst sich vom Gefühl hin zu Gewohnheit, Gesetz und Bedeutung entwickelt, sodass Geist Teil der eigenen Entwicklung des Kosmos ist."
     },
     "virtual_immortality": {
@@ -65,20 +73,54 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Husserl’s Transcendental Phenomenology", "relationship": "Gegensatz" },
-      { "name": "Schelling’s Nature, Spirit, and the Identity of Mind", "relationship": "Einfluss" },
-      { "name": "Champagne’s Semiotic Account", "relationship": "Erweiterung" },
-      { "name": "Whitehead's Process Theory", "relationship": "Überschneidung" }
+      {
+        "name": "Husserl’s Transcendental Phenomenology",
+        "relationship": "Gegensatz"
+      },
+      {
+        "name": "Schelling’s Nature, Spirit, and the Identity of Mind",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Champagne’s Semiotic Account",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "On a New List of Categories, Charles S. Peirce", "year": 1867 },
-      { "title_with_names": "On Phenomenology, Charles S. Peirce", "year": 1903 },
-      { "title_with_names": "Phaneroscopy, Charles S. Peirce", "year": 1904 },
-      { "title_with_names": "The Architecture of Theories, Charles S. Peirce" },
-      { "title_with_names": "Charles S. Peirce's Phenomenology: Analysis and Consciousness, R. K. Atkins", "year": 2018 },
-      { "title_with_names": "Phenomenology and Phaneroscopy: A Neglected Chapter in the History of Ideas, A.-V. Pietarinen and M. Shafiei (eds.)", "year": 2024 },
-      { "title_with_names": "Peirce's legacy for contemporary consciousness studies, the emergence of consciousness from qualia, and its evanescence in habits, W. Nöth", "year": 2021 },
-      { "title_with_names": "Peirce’s Phaneroscopic Semiotics, Landscape of Consciousness (Closer To Truth)" }
+      {
+        "title_with_names": "On a New List of Categories, Charles S. Peirce",
+        "year": 1867
+      },
+      {
+        "title_with_names": "On Phenomenology, Charles S. Peirce",
+        "year": 1903
+      },
+      {
+        "title_with_names": "Phaneroscopy, Charles S. Peirce",
+        "year": 1904
+      },
+      {
+        "title_with_names": "The Architecture of Theories, Charles S. Peirce"
+      },
+      {
+        "title_with_names": "Charles S. Peirce's Phenomenology: Analysis and Consciousness, R. K. Atkins",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Phenomenology and Phaneroscopy: A Neglected Chapter in the History of Ideas, A.-V. Pietarinen and M. Shafiei (eds.)",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Peirce's legacy for contemporary consciousness studies, the emergence of consciousness from qualia, and its evanescence in habits, W. Nöth",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Peirce’s Phaneroscopic Semiotics, Landscape of Consciousness (Closer To Truth)"
+      }
     ]
   }
 }

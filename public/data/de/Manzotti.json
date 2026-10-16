@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Manzottis Identität von Geist und Objekt („Spread Mind“)",
     "summary": "Riccardo Manzotti argumentiert, dass deine Erfahrung eines Objekts mit dem Objekt selbst identisch ist, genommen als Bündel physischer Eigenschaften, die relativ zu deinem Körper existieren. Körper und Gehirn sind kausale Bedingungen, die dieses Objekt entstehen lassen, so wie ein Damm einen See entstehen lässt. Die Erfahrung liegt jedoch in der Welt und nicht im Kopf.",
-    "associated_thinkers": ["Riccardo Manzotti"],
+    "associated_thinkers": [
+      "Riccardo Manzotti"
+    ],
     "category": "Materialismus",
     "subcategory": "Relational",
     "core_identity_tagline": "Erfahrung ist das Objekt selbst",
-    "classification_tags": ["externalism", "identity theory", "spread mind", "physicalism", "relative object"]
+    "classification_tags": [
+      "externalism",
+      "identity theory",
+      "spread mind",
+      "physicalism",
+      "relative object"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Wenn ein Subjekt ein Objekt O erfährt, ist die Erfahrung von O das Objekt O selbst, und zwar als dasjenige, das kausal und physisch relativ zu einem bestimmten Körper verfügbar ist.",
@@ -46,40 +54,81 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Da der Körper nur ein weiteres Objekt ist, das als kausales Bezugssystem dient, könnte ein Roboterkörper im Prinzip Objekte relativ zu sich selbst entstehen lassen. Manzotti legt nicht fest, welche Systeme dafür infrage kommen."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da der Körper die Bedingung dafür ist, dass Objekte relativ zu einem Subjekt existieren, bleibt für dieses Subjekt nichts übrig, sobald der Körper fort ist."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Die Auffassung ist physikalistisch und fasst Erfahrung als Welt relativ zu einem Körper auf. Ein kosmischer Zweck ist nicht impliziert."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da Erfahrung die äußeren Objekte selbst sind, würde das Kopieren von Gehirnmustern die Erfahrung einer Person nicht übertragen, ohne dieselbe Welt von Objekten relativ zu einem Körper."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Smart’s Topic-Neutral Identity", "relationship": "Einfluss" },
-      { "name": "A. Clark's Extended Mind", "relationship": "Kontrast" },
-      { "name": "Noë's \"Out of Our Heads\" Theory", "relationship": "Überschneidung" },
-      { "name": "Integrated Information Theory", "relationship": "Kontrast" }
+      {
+        "name": "Smart’s Topic-Neutral Identity",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "A. Clark's Extended Mind",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Noë's \"Out of Our Heads\" Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Spread Mind: Why Consciousness and the World Are One, Riccardo Manzotti", "year": 2017 },
-      { "title_with_names": "Consciousness and Object: A Mind-Object Identity Physicalist Theory, Riccardo Manzotti", "year": 2017 },
-      { "title_with_names": "Mind-Object Identity: A Solution to the Hard Problem, Riccardo Manzotti", "year": 2019 },
-      { "title_with_names": "Experiences Are Objects: Towards a Mind-Object Identity Theory, Riccardo Manzotti", "year": 2016 },
-      { "title_with_names": "The Spread Mind: Is Consciousness Situated?, Riccardo Manzotti", "year": 2011 },
-      { "title_with_names": "The Challenge of Consciousness, Riccardo Manzotti and T. Parks", "year": 2018 },
-      { "title_with_names": "Sensations and Brain Processes, J. J. C. Smart", "year": 1959 },
-      { "title_with_names": "A Materialist Theory of the Mind, D. M. Armstrong", "year": 1968 },
-      { "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, A. Noë", "year": 2009 },
-      { "title_with_names": "Manzotti’s Mind-Object Identity (‘Spread Mind’), Landscape of Consciousness, Robert Lawrence Kuhn" }
+      {
+        "title_with_names": "The Spread Mind: Why Consciousness and the World Are One, Riccardo Manzotti",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Consciousness and Object: A Mind-Object Identity Physicalist Theory, Riccardo Manzotti",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Mind-Object Identity: A Solution to the Hard Problem, Riccardo Manzotti",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Experiences Are Objects: Towards a Mind-Object Identity Theory, Riccardo Manzotti",
+        "year": 2016
+      },
+      {
+        "title_with_names": "The Spread Mind: Is Consciousness Situated?, Riccardo Manzotti",
+        "year": 2011
+      },
+      {
+        "title_with_names": "The Challenge of Consciousness, Riccardo Manzotti and T. Parks",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Sensations and Brain Processes, J. J. C. Smart",
+        "year": 1959
+      },
+      {
+        "title_with_names": "A Materialist Theory of the Mind, D. M. Armstrong",
+        "year": 1968
+      },
+      {
+        "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, A. Noë",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Manzotti’s Mind-Object Identity (‘Spread Mind’), Landscape of Consciousness, Robert Lawrence Kuhn"
+      }
     ]
   }
 }

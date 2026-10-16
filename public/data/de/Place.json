@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Places empirische Identität und der phänomenologische Fehlschluss",
     "summary": "U. T. Place argumentiert, dass bewusste Erfahrungen (Empfindungen, Wahrnehmungserscheinungen, Träume, Vorstellungsbilder) Gehirnprozesse sind, so wie der Blitz eine elektrische Entladung ist. Er stellt dies als kontingente wissenschaftliche Hypothese dar und diagnostiziert den „phänomenologischen Fehlschluss“, den Irrtum, Berichte darüber, wie Dinge erscheinen, als Beschreibungen privater Gegenstände zu behandeln, die diese Qualitäten tatsächlich besitzen.",
-    "associated_thinkers": ["Ullin Thomas Place"],
+    "associated_thinkers": [
+      "Ullin Thomas Place"
+    ],
     "category": "Materialismus",
     "subcategory": "Geist-Gehirn-Identität",
     "core_identity_tagline": "Bewusstsein als empirisch identifizierter Gehirnprozess",
-    "classification_tags": ["identity theory", "phenomenological fallacy", "behaviorism", "philosophy of mind", "neural process"]
+    "classification_tags": [
+      "identity theory",
+      "phenomenological fallacy",
+      "behaviorism",
+      "philosophy of mind",
+      "neural process"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein besteht aus Prozessen im Gehirn. Die Identität ist eine der Zusammensetzung, empirisch entdeckt, und keine der Definition oder Bedeutung.",
@@ -46,36 +54,66 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Place identifiziert bewusste Prozesse mit Typen von Gehirnprozessen, was Maschinenbewusstsein fraglich macht, sofern diese Typen nicht flexibler individuiert werden können; eine Frage, die er offenließ."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da bewusste Episoden Gehirnprozesse sind, können sie nicht fortbestehen, sobald das Gehirn aufhört."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Die Auffassung weist jeden nichtphysischen inneren Bereich zurück und behandelt Bewusstsein als biologischen Prozess."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Nach der Typidentitätsauffassung würde eine Simulation die Erfahrungen einer Person nur dann reproduzieren, wenn sie dieselben Arten von Gehirnprozessen ausführte."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Smart’s Topic-Neutral Identity", "relationship": "Erweiterung" },
-      { "name": "Ryle’s Category-Dissolution of Inner-Theater Consciousness", "relationship": "Einfluss" },
-      { "name": "Feigl's Double Knowledge of Raw Feels", "relationship": "Überschneidung" },
-      { "name": "Putnam’s Machine Functionalism", "relationship": "Kritik" }
+      {
+        "name": "Smart’s Topic-Neutral Identity",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Ryle’s Category-Dissolution of Inner-Theater Consciousness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Feigl's Double Knowledge of Raw Feels",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Putnam’s Machine Functionalism",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Is consciousness a brain process?, U. T. Place", "year": 1956 },
-      { "title_with_names": "The concept of heed, U. T. Place", "year": 1954 },
-      { "title_with_names": "Thirty years on: Is consciousness still a brain process?, U. T. Place", "year": 1988 },
-      { "title_with_names": "Connectionism and the problem of consciousness, U. T. Place", "year": 1999 },
-      { "title_with_names": "Identifying the Mind: Selected Papers of U. T. Place, G. Graham and E. R. Valentine (eds.)", "year": 2004 },
-      { "title_with_names": "The Concept of Mind, Gilbert Ryle", "year": 1949 }
+      {
+        "title_with_names": "Is consciousness a brain process?, U. T. Place",
+        "year": 1956
+      },
+      {
+        "title_with_names": "The concept of heed, U. T. Place",
+        "year": 1954
+      },
+      {
+        "title_with_names": "Thirty years on: Is consciousness still a brain process?, U. T. Place",
+        "year": 1988
+      },
+      {
+        "title_with_names": "Connectionism and the problem of consciousness, U. T. Place",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Identifying the Mind: Selected Papers of U. T. Place, G. Graham and E. R. Valentine (eds.)",
+        "year": 2004
+      },
+      {
+        "title_with_names": "The Concept of Mind, Gilbert Ryle",
+        "year": 1949
+      }
     ]
   }
 }

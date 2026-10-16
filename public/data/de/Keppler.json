@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Kepplers Nullpunktfeld",
     "summary": "Der Physiker Joachim Keppler argumentiert, dass Bewusstsein ein fundamentales Merkmal des Universums ist, getragen vom Nullpunktfeld (ZPF), dem fluktuierenden elektromagnetischen Grundzustand des Quantenvakuums. Das Gehirn erzeugt Bewusstsein nicht; es wirkt als resonanter Oszillator, der an bestimmte ZPF-Moden koppelt und sie verstärkt, und jede Auswahl von Moden ergibt einen bestimmten bewussten Zustand.",
-    "associated_thinkers": ["Joachim Keppler"],
+    "associated_thinkers": [
+      "Joachim Keppler"
+    ],
     "category": "Quanten",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein im Quantenvakuum verwurzelt",
-    "classification_tags": ["zero-point field", "quantum vacuum", "resonance", "criticality", "electromagnetic"]
+    "classification_tags": [
+      "zero-point field",
+      "quantum vacuum",
+      "resonance",
+      "criticality",
+      "electromagnetic"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein intrinsisches Merkmal des elektromagnetischen Nullpunktfeldes; ein einzelner bewusster Zustand entsteht, wenn die Hirnaktivität durch selektive Verstärkung einiger seiner Moden einen Informations-‚Fingerabdruck‘ in diesem Feld hinterlässt.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Da ein bewusster Zustand durch resonante Kopplung an ZPF-Moden entsteht, folgt aus der Auffassung, dass ein künstliches System nur dann bewusst wäre, wenn es auf dieselbe Weise an das ZPF koppelte."
     },
     "survival_beyond_death": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Das bewusste Substrat ist universell und überdauert jedes Gehirn; individuelle bewusste Zustände hängen aber von der resonanten Kopplung eines Gehirns ab, und Keppler behandelt nicht, was geschieht, wenn sie endet."
     },
     "meaning_and_purpose": {
@@ -58,19 +66,33 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Nach dieser Auffassung hängt Bewusstsein von physischer Kopplung an das Vakuumfeld ab; die bloße Simulation von Hirninformation würde es daher nicht reproduzieren."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Cosmopsychism", "relationship": "Vereinbar" },
-      { "name": "Atmanspacher's Dual-Aspect Monism", "relationship": "Vereinbar" },
-      { "name": "McFadden's Conscious Electromagnetic Information Theory", "relationship": "Überschneidung" },
-      { "name": "Critical Brain Hypothesis", "relationship": "Überschneidung" }
+      {
+        "name": "Cosmopsychism",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Atmanspacher's Dual-Aspect Monism",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Critical Brain Hypothesis",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Keppler’s Zero-Point Field (Landscape of Consciousness), Joachim Keppler" }
+      {
+        "title_with_names": "Keppler’s Zero-Point Field (Landscape of Consciousness), Joachim Keppler"
+      }
     ]
   }
 }

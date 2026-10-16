@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Shiahs Kryptochrom-Theorie",
     "summary": "Shiah schlägt vor, dass Kryptochrom, ein lichtempfindliches Flavoprotein, das in Bakterien, Pflanzen und Menschen vorkommt, als biologischer Wandler wirkt, der bewusstseinsgesteuerte Information in physikalische Effekte überführt. Der Mechanismus ist eine quantenmechanische Radikalpaar-Reaktion, bei der schon sehr schwache Signale Elektronenspinzustände verschieben und Chemie auslösen können. Psi-Phänomene wie Telepathie und Hellsehen deutet er als Beleg dafür, dass Bewusstsein eine nicht-lokale Kraft ist, die auf diese Weise wirkt.",
-    "associated_thinkers": ["Yung-Jong Shiah"],
+    "associated_thinkers": [
+      "Yung-Jong Shiah"
+    ],
     "category": "Quanten",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als nicht-lokale Kraft, die vom Kryptochrom empfangen wird",
-    "classification_tags": ["psi", "cryptochrome", "radical pair", "quantum biology", "intention"]
+    "classification_tags": [
+      "psi",
+      "cryptochrome",
+      "radical pair",
+      "quantum biology",
+      "intention"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist sowohl informations- als auch energiebasiert und wirkt als nicht-lokale Kraft, die Materie unmittelbar beeinflussen kann.",
@@ -49,7 +57,7 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Shiah zählt Medienfähigkeiten zu den Psi-Fähigkeiten, die zeigen, dass Bewusstsein Raum und Zeit übersteigt; das lässt Raum für Überleben, auch wenn er dies nicht unmittelbar begründet."
     },
     "meaning_and_purpose": {
@@ -63,13 +71,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Shiah’s Contentless Consciousness Theory", "relationship": "Vereinbar" },
-      { "name": "Radin's Challenge to Materialism", "relationship": "Überschneidung" },
-      { "name": "Josephson's Psi-Informed Models", "relationship": "Überschneidung" },
-      { "name": "Wigner–von Neumann’s Consciousness-Collapse: Experience at the Quantum Cut", "relationship": "Einfluss" }
+      {
+        "name": "Shiah’s Contentless Consciousness Theory",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Radin's Challenge to Materialism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Josephson's Psi-Informed Models",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Wigner–von Neumann’s Consciousness-Collapse: Experience at the Quantum Cut",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Shiah’s Cryptochrome Theory (Landscape of Consciousness), Yung-Jong Shiah", "year": 2023 }
+      {
+        "title_with_names": "Shiah’s Cryptochrome Theory (Landscape of Consciousness), Yung-Jong Shiah",
+        "year": 2023
+      }
     ]
   }
 }

@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Singer und Melloni: Großräumige Synchronie",
     "summary": "Wolf Singer und Lucia Melloni argumentieren, dass Bewusstsein aus der vorübergehenden Synchronisation neuronaler Assemblies über entfernte Hirnregionen entsteht und nicht aus der Aktivität eines bestimmten Areals. Weitreichende Synchronie im Gamma-Band, getaktet durch langsamere Theta-Rhythmen, bindet getrennt berechnete Merkmale zu einer einzigen Wahrnehmung und scheidet bewusste von unbewusster Verarbeitung.",
-    "associated_thinkers": ["Wolf Singer", "Lucia Melloni"],
+    "associated_thinkers": [
+      "Wolf Singer",
+      "Lucia Melloni"
+    ],
     "category": "Materialismus",
     "subcategory": "Elektromagnetisch",
     "core_identity_tagline": "Bewusstsein als großräumige neuronale Synchronie",
-    "classification_tags": ["synchrony", "binding problem", "gamma oscillations", "neural assemblies", "dynamical systems"]
+    "classification_tags": [
+      "synchrony",
+      "binding problem",
+      "gamma oscillations",
+      "neural assemblies",
+      "dynamical systems"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist eine Form der Koordination: die zeitliche Abstimmung verteilter neuronaler Prozesse über entfernte Hirnareale. Singer und Melloni nennen die Theorie interaktionsbasiert, nicht inhalts- oder ortsbasiert.",
@@ -46,11 +55,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Liegt Bewusstsein in der dynamischen Konfiguration wechselwirkender Einheiten, könnte ein System mit vergleichbarer großräumiger Synchronie in Frage kommen; Singer und Melloni formulieren die Auffassung jedoch für biologische Gehirne."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein eine Form der Koordination zwischen lebenden neuronalen Assemblies ist, endet es, wenn diese Aktivität aufhört."
     },
     "meaning_and_purpose": {
@@ -58,19 +67,34 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Die Auffassung bindet Bewusstsein an Dynamik statt an Anatomie, was offenlässt, aber nicht entscheidet, ob eine getreue dynamische Kopie bewusst sein könnte."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Varela's Neurophenomenology", "relationship": "Einfluss" },
-      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Gegensatz" },
-      { "name": "Lamme's Recurrent Processing Theory", "relationship": "Gegensatz" },
-      { "name": "Hunt and Schooler’s General Resonance Theory", "relationship": "Überschneidung" }
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Gegensatz"
+      },
+      {
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Gegensatz"
+      },
+      {
+        "name": "Hunt and Schooler’s General Resonance Theory",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Singer and Melloni’s Large-Scale Synchrony, Wolf Singer and Lucia Melloni", "year": 2010 }
+      {
+        "title_with_names": "Singer and Melloni’s Large-Scale Synchrony, Wolf Singer and Lucia Melloni",
+        "year": 2010
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "McLaughlins Neurobiologismus",
     "summary": "McLaughlin vertritt die Auffassung, dass jede Art phänomenaler Erfahrung numerisch mit einer Art neurobiologischen Zustands identisch ist. Diese Tatsache wird empirisch entdeckt und ist, wenn sie wahr ist, notwendig. Er räumt Levines Erklärungslücke als echtes Merkmal unserer Begriffe ein, bestreitet aber, dass sie irgendeine Lücke in der Wirklichkeit markiert. Die Identitäten erschließt er als beste Erklärung für eine strikte phänomenal-neurale Korrelation. Da die Identitäten mit neurobiologischen Typen bestehen, hängt Bewusstsein sowohl von seinem biologischen Substrat als auch von seiner funktionalen Organisation ab.",
-    "associated_thinkers": ["Brian P. McLaughlin"],
+    "associated_thinkers": [
+      "Brian P. McLaughlin"
+    ],
     "category": "Materialismus",
     "subcategory": "Geist-Gehirn-Identität",
     "core_identity_tagline": "Phänomenale Typen als neurobiologische Typen",
-    "classification_tags": ["type identity", "type-b materialism", "phenomenal concepts", "explanatory gap", "substrate dependence"]
+    "classification_tags": [
+      "type identity",
+      "type-b materialism",
+      "phenomenal concepts",
+      "explanatory gap",
+      "substrate dependence"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Für jeden phänomenalen Zustandstyp C gibt es einen neurobiologischen Zustandstyp N, sodass C = N gilt. N ist ein von der Neurobiologie anerkannter Zustand oder dessen erkennbarer Nachfolger. Schmerz ist ein Zustand, der auf zwei sehr verschiedene Weisen begrifflich erfasst wird.",
@@ -47,41 +55,86 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "McLaughlin vertritt die Auffassung, dass ein siliziumbasiertes Duplikat der funktionalen Organisation des Menschen phänomenales Bewusstsein entbehren würde, weil phänomenale Typen neurobiologische Typen sind."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da phänomenale Zustände neurobiologische Zustände sind, folgt aus der Auffassung, dass sie enden, wenn das Gehirn endet."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Die Auffassung verortet Bewusstsein ganz innerhalb der Neurobiologie und gibt ihm keine kosmische Rolle."
     },
     "virtual_immortality": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Eine digitale Simulation würde die Organisation ohne neurobiologische Konstitution reproduzieren. Nach dieser Auffassung wäre sie daher nicht bewusst."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Levine’s Explanatory Gap", "relationship": "Einfluss" },
-      { "name": "Kripke’s Modal Argument Against Mind–Brain Identity", "relationship": "Kritik" },
-      { "name": "Block's Biological Reductionism", "relationship": "Überschneidung" },
-      { "name": "Russellian Monism", "relationship": "Kontrast" }
+      {
+        "name": "Levine’s Explanatory Gap",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Kripke’s Modal Argument Against Mind–Brain Identity",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Block's Biological Reductionism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Rise and Fall of British Emergentism, Brian P. McLaughlin", "year": 1992 },
-      { "title_with_names": "Emergence and Supervenience, Brian P. McLaughlin", "year": 1997 },
-      { "title_with_names": "In Defense of New Wave Materialism: A Response to Horgan and Tienson, Brian P. McLaughlin", "year": 2001 },
-      { "title_with_names": "On Justifying Neurobiologicalism for Consciousness, Brian P. McLaughlin", "year": 2012 },
-      { "title_with_names": "Hill on Phenomenal Consciousness, Brian P. McLaughlin", "year": 2016 },
-      { "title_with_names": "Type Materialism for Phenomenal Consciousness, Brian P. McLaughlin", "year": 2017 },
-      { "title_with_names": "There Are Fewer Things in Reality Than Are Dreamt of in Chalmers’s Philosophy, C. S. Hill and B. P. McLaughlin", "year": 1999 },
-      { "title_with_names": "Deconstructing New Wave Materialism, T. Horgan and J. Tienson", "year": 2001 },
-      { "title_with_names": "Materialism and Qualia: The Explanatory Gap, J. Levine", "year": 1983 },
-      { "title_with_names": "The Conscious Mind: In Search of a Fundamental Theory, D. J. Chalmers", "year": 1996 },
-      { "title_with_names": "Functional Role, Superficialism and Commander Data: Reply to Brian McLaughlin, N. Block", "year": 2018 }
+      {
+        "title_with_names": "The Rise and Fall of British Emergentism, Brian P. McLaughlin",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Emergence and Supervenience, Brian P. McLaughlin",
+        "year": 1997
+      },
+      {
+        "title_with_names": "In Defense of New Wave Materialism: A Response to Horgan and Tienson, Brian P. McLaughlin",
+        "year": 2001
+      },
+      {
+        "title_with_names": "On Justifying Neurobiologicalism for Consciousness, Brian P. McLaughlin",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Hill on Phenomenal Consciousness, Brian P. McLaughlin",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Type Materialism for Phenomenal Consciousness, Brian P. McLaughlin",
+        "year": 2017
+      },
+      {
+        "title_with_names": "There Are Fewer Things in Reality Than Are Dreamt of in Chalmers’s Philosophy, C. S. Hill and B. P. McLaughlin",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Deconstructing New Wave Materialism, T. Horgan and J. Tienson",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Materialism and Qualia: The Explanatory Gap, J. Levine",
+        "year": 1983
+      },
+      {
+        "title_with_names": "The Conscious Mind: In Search of a Fundamental Theory, D. J. Chalmers",
+        "year": 1996
+      },
+      {
+        "title_with_names": "Functional Role, Superficialism and Commander Data: Reply to Brian McLaughlin, N. Block",
+        "year": 2018
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Skopelitous Logos: Sprache vor dem Bewusstsein?",
     "summary": "Skopelitou argumentiert, dass Sprache, die sie Logos nennt, die Bedingung des Bewusstseins ist: Bewusstsein wird nur durch Sprache möglich, und die Welt wird nur durch Sprache bedeutsam. Da jede Frage nach dem Bewusstsein, jeder Begriff und jedes wissenschaftliche Instrument in Worten gefasst ist, stellt sie Logos als Metatheorie vor, die den Streit zwischen Materialismus und Idealismus auflöst.",
-    "associated_thinkers": ["Stella Skopelitou"],
+    "associated_thinkers": [
+      "Stella Skopelitou"
+    ],
     "category": "Materialismus",
     "subcategory": "Sprache",
     "core_identity_tagline": "Bewusstsein, durch Sprache ermöglicht",
-    "classification_tags": ["language", "logos", "meta-theory", "reflexivity", "philosophy of mind"]
+    "classification_tags": [
+      "language",
+      "logos",
+      "meta-theory",
+      "reflexivity",
+      "philosophy of mind"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein wird durch Sprache konstituiert. Wenn alles, einschließlich Zeit, Raum, Selbstheit und Universum, zuerst ein Wort ist, dann ist auch Bewusstsein mit allem, was es umfasst, ein Wort.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Skopelitou schließt eine Form von KI-Erfahrung nicht aus, hält aber jedes Urteil darüber für eine sprachliche Projektion, die wir nicht unabhängig überprüfen können."
     },
     "survival_beyond_death": {
@@ -54,7 +62,7 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Bedeutung wird nach dieser Auffassung durch Sprache und die reflexiven Sprecher, die sie verwenden, hervorgebracht; ein darüber hinausgehender kosmischer Zweck wird nicht vorgeschlagen."
     },
     "virtual_immortality": {
@@ -64,13 +72,27 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Bhartṛhari’s Linguistic Idealism", "relationship": "Überschneidung" },
-      { "name": "Drabkin’s “Language” as Fundamental Expression", "relationship": "Überschneidung" },
-      { "name": "Wittgenstein's Grammatical Fiction", "relationship": "Vereinbar" },
-      { "name": "Koch's Consciousness does not Depend on Language", "relationship": "Gegensatz" }
+      {
+        "name": "Bhartṛhari’s Linguistic Idealism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Drabkin’s “Language” as Fundamental Expression",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Wittgenstein's Grammatical Fiction",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Koch's Consciousness does not Depend on Language",
+        "relationship": "Gegensatz"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Skopelitou’s Logos: Language Before Consciousness?, Stella Skopelitou (Landscape of Consciousness entry)" }
+      {
+        "title_with_names": "Skopelitou’s Logos: Language Before Consciousness?, Stella Skopelitou (Landscape of Consciousness entry)"
+      }
     ]
   }
 }

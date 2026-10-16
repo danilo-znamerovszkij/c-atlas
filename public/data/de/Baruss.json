@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Barušs’ Bedeutungsfelder",
     "summary": "Imants Barušs schlägt eine transzendente Theorie vor, in der Bewusstsein fundamental sein könnte, vielleicht ein tiefes Bewusstsein, das mit einem vorphysischen Substrat zusammenfällt, und in der ‚Bedeutungsfelder‘, die an jedem Punkt von Raum und Zeit definiert sind, Ereignisse formen. Diese Felder tragen Bedeutung, können beurteilen, was unter ihren Einfluss fällt, wirken nichtlokal über Raum und Zeit und können durch menschliche Absicht abgestimmt und verändert werden; Barušs bietet dies als Weg an, Fernwahrnehmung, Fernheilung und andere Anomalien zu erklären.",
-    "associated_thinkers": ["Imants Barušs"],
+    "associated_thinkers": [
+      "Imants Barušs"
+    ],
     "category": "Anomal",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein und Bedeutungsfelder, die die Wirklichkeit formen",
-    "classification_tags": ["meaning fields", "transcendent", "nonlocality", "quantum", "anomalous phenomena"]
+    "classification_tags": [
+      "meaning fields",
+      "transcendent",
+      "nonlocality",
+      "quantum",
+      "anomalous phenomena"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein könnte ein tiefes, vorphysisches Substrat sein, aus dem Absicht sowohl mentale Erfahrung als auch physische Ereignisse formt, wobei Bedeutungsfelder die Strukturen sind, durch die Bedeutung die Wirklichkeit ordnet.",
@@ -54,7 +62,7 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Bedeutung existiert jenseits des Menschen in Bedeutungsfeldern, möglicherweise einschließlich existenzieller Bedeutung, und Barušs verlangt von einer Theorie des Bewusstseins, dass sie soteriologische Orientierung bietet."
     },
     "virtual_immortality": {
@@ -64,13 +72,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Bohm's Implicate-Explicate Order", "relationship": "Einfluss" },
-      { "name": "Sheldrake's Morphic Fields", "relationship": "Überschneidung" },
-      { "name": "Radin's Challenge to Materialism", "relationship": "Kompatibel" }
+      {
+        "name": "Bohm's Implicate-Explicate Order",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Sheldrake's Morphic Fields",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Radin's Challenge to Materialism",
+        "relationship": "Kompatibel"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Radical Transformation, Imants Barušs", "year": 2021 },
-      { "title_with_names": "Barušs’s Meaning Fields (Landscape of Consciousness), Imants Barušs", "year": 2008 }
+      {
+        "title_with_names": "Radical Transformation, Imants Barušs",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Barušs’s Meaning Fields (Landscape of Consciousness), Imants Barušs",
+        "year": 2008
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Kings symbiotische existenzielle Kosmologie",
     "summary": "Chris King vertritt die Auffassung, dass subjektives Bewusstsein und das physische Universum irreduzible, wechselwirkende Komplemente sind und dass bewusstes Leben der symbiotische Höhepunkt eines reifenden Universums ist. Bewusstsein wirkt auf das Gehirn während Phasenübergängen am Rand des Chaos zwischen quantenmechanischer Verschränkung und Wellenfunktionskollaps, wo die Physik unbestimmt ist; daher kann Wille kausal wirksam sein, ohne das physikalische Gesetz zu brechen. King argumentiert, dass gerade diese Kraft bewusster Antizipation der Grund ist, weshalb die Evolution subjektives Bewusstsein behielt, statt sich allein auf Berechnung zu verlassen.",
-    "associated_thinkers": ["Chris King"],
+    "associated_thinkers": [
+      "Chris King"
+    ],
     "category": "Quanten",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als wechselwirkendes Komplement des Universums",
-    "classification_tags": ["biocosmology", "quantum criticality", "edge of chaos", "retrocausality", "volition"]
+    "classification_tags": [
+      "biocosmology",
+      "quantum criticality",
+      "edge of chaos",
+      "retrocausality",
+      "volition"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Subjektives Bewusstsein ist ein fundamentales Komplement des physischen Universums, das mit ihm wechselwirkt; auf der Quantenebene komplementiert die Wellenfunktion das Gewahrsein, und der Wellenfunktionskollaps komplementiert die Entscheidung.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "King argumentiert, die Evolution habe subjektives Bewusstsein behalten, weil seine quantenmechanische Antizipation etwas leistet, was rechnerische Vorhersage nicht kann; daraus folgt, dass Berechnung allein es nach dieser Auffassung nicht hervorbringen würde."
     },
     "survival_beyond_death": {
@@ -54,24 +62,42 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "King betrachtet bewusstes Leben als Höhepunkt der kosmischen Evolution und die Biosphäre als privilegiertes, kosmologisch unantastbares Ergebnis."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da bewusste Handlungsfähigkeit von quantenkritischer Hirndynamik abhängt und nicht von Berechnung, würde einer digitalen Kopie sie nach dieser Auffassung fehlen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Reason's No-Go Theorem against Materialism/Supervenience", "relationship": "Grundlage" },
-      { "name": "Critical Brain Hypothesis", "relationship": "Überschneidung" },
-      { "name": "W. Freeman's Intentional Neurodynamics", "relationship": "Einfluss" },
-      { "name": "Schopenhauer’s The World as Will", "relationship": "Einfluss" }
+      {
+        "name": "Reason's No-Go Theorem against Materialism/Supervenience",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Critical Brain Hypothesis",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "W. Freeman's Intentional Neurodynamics",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Schopenhauer’s The World as Will",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Symbiotic Existential Cosmology, Chris King", "year": 2021 },
-      { "title_with_names": "Review of existential theories of everything, Chris King", "year": 2026 }
+      {
+        "title_with_names": "Symbiotic Existential Cosmology, Chris King",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Review of existential theories of everything, Chris King",
+        "year": 2026
+      }
     ]
   }
 }

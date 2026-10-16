@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Hobbes’ mechanische Phantasmen und der materielle Geist",
     "summary": "Thomas Hobbes vertritt die Auffassung, dass alles, was existiert, Körper ist und alles, was sich verändert, Bewegung ist; daher sind Empfindung, Vorstellung, Gedächtnis, Denken und Emotion allesamt Bewegungen in einem lebenden Organismus. Druck eines äußeren Körpers wandert nach innen zu Gehirn und Herz und ruft eine nach außen gerichtete Gegenbewegung hervor, das ‚Bestreben‘, und die erlebte Erscheinung von Farbe, Klang oder Schmerz (das ‚Phantasma‘) ist eben diese Bewegung. Es gibt keine immaterielle Seele und, für Hobbes, keine Erklärungslücke.",
-    "associated_thinkers": ["Thomas Hobbes"],
+    "associated_thinkers": [
+      "Thomas Hobbes"
+    ],
     "category": "Materialismus",
     "subcategory": "Philosophisch",
     "core_identity_tagline": "Phänomenale Erscheinung als Bewegung im Körper",
-    "classification_tags": ["mechanism", "corporealism", "phantasm", "secondary qualities", "early modern"]
+    "classification_tags": [
+      "mechanism",
+      "corporealism",
+      "phantasm",
+      "secondary qualities",
+      "early modern"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Ein Phantasma, der erlebte Gehalt der Empfindung, ist identisch mit einer reaktiven Bewegung im Körper des Wahrnehmenden. Die Erscheinung ist wirklich, gänzlich körperlich und nichts über diese Bewegung hinaus.",
@@ -50,7 +58,7 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da jeder geistige Zustand eine Bewegung in einem Körper ist und unkörperliche Substanz ein Widerspruch, besteht nichts vom Geist fort, sobald die Bewegungen des Körpers aufhören."
     },
     "meaning_and_purpose": {
@@ -64,22 +72,64 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Descartes’s Substance Dualism", "relationship": "Kritik" },
-      { "name": "Place’s Empirical Identity and the Phenomenological Fallacy", "relationship": "Einfluss" },
-      { "name": "Smart’s Topic-Neutral Identity", "relationship": "Einfluss" },
-      { "name": "Locke’s Reflexive Consciousness and the Making of the Person", "relationship": "Kontrast" }
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Place’s Empirical Identity and the Phenomenological Fallacy",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Smart’s Topic-Neutral Identity",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Locke’s Reflexive Consciousness and the Making of the Person",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Leviathan, Thomas Hobbes", "year": 1651 },
-      { "title_with_names": "De Corpore, Thomas Hobbes", "year": 1655 },
-      { "title_with_names": "Meditations on First Philosophy, with Objections and Replies, René Descartes", "year": 1641 },
-      { "title_with_names": "The Wax and the Mechanical Mind: Reexamining Hobbes's Objections to Descartes's Meditations, M. P. Adams", "year": 2014 },
-      { "title_with_names": "Debating Materialism: Cavendish, Hobbes, and More, S. Duncan", "year": 2012 },
-      { "title_with_names": "Materialism from Hobbes to Locke, S. Duncan", "year": 2022 },
-      { "title_with_names": "Hobbes and the Matter of Self-Consciousness, S. Frost", "year": 2005 },
-      { "title_with_names": "The Mechanisation of Aristotelianism, C. Leijenhorst", "year": 2002 },
-      { "title_with_names": "Hobbes and Descartes on the Relation between Language and Consciousness, G. M. Ross", "year": 1988 },
-      { "title_with_names": "Hobbes, T. Sorell", "year": 1986 }
+      {
+        "title_with_names": "Leviathan, Thomas Hobbes",
+        "year": 1651
+      },
+      {
+        "title_with_names": "De Corpore, Thomas Hobbes",
+        "year": 1655
+      },
+      {
+        "title_with_names": "Meditations on First Philosophy, with Objections and Replies, René Descartes",
+        "year": 1641
+      },
+      {
+        "title_with_names": "The Wax and the Mechanical Mind: Reexamining Hobbes's Objections to Descartes's Meditations, M. P. Adams",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Debating Materialism: Cavendish, Hobbes, and More, S. Duncan",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Materialism from Hobbes to Locke, S. Duncan",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Hobbes and the Matter of Self-Consciousness, S. Frost",
+        "year": 2005
+      },
+      {
+        "title_with_names": "The Mechanisation of Aristotelianism, C. Leijenhorst",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Hobbes and Descartes on the Relation between Language and Consciousness, G. M. Ross",
+        "year": 1988
+      },
+      {
+        "title_with_names": "Hobbes, T. Sorell",
+        "year": 1986
+      }
     ]
   }
 }

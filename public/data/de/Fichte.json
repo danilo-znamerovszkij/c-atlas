@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Fichtes sich selbst setzendes Ich",
     "summary": "Fichte gründet das Bewusstsein im sich selbst setzenden Ich, einer ursprünglichen Tätigkeit, die sich selbst unmittelbar gegenwärtig ist, bevor sich Subjekt und Objekt trennen. Erfahrung entsteht, wenn diese Tätigkeit auf eine Hemmung (Anstoß) ihrer selbst trifft, die das endliche Ich als Gefühl, Empfindung, Anschauung und Begriff artikuliert und so eine Welt hervorbringt, die ihm widersteht. Volle Selbstbewusstheit erfordert zudem, dass andere vernünftige Wesen das Ich zur Freiheit auffordern.",
-    "associated_thinkers": ["Johann Gottlieb Fichte"],
+    "associated_thinkers": [
+      "Johann Gottlieb Fichte"
+    ],
     "category": "Idealismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als sich selbst setzende Tätigkeit des Ich",
-    "classification_tags": ["german idealism", "transcendental idealism", "self-consciousness", "agency", "intersubjectivity"]
+    "classification_tags": [
+      "german idealism",
+      "transcendental idealism",
+      "self-consciousness",
+      "agency",
+      "intersubjectivity"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist die sich selbst setzende Tätigkeit des Ich, ein sich auf sich selbst beziehender Akt (Tathandlung, ‚Tat-Handlung‘), der sich selbst gewahr ist, ohne sich zum Objekt zu machen. Phänomenale Erfahrung ist diese Tätigkeit, insofern sie begrenzt und eingeschränkt wird.",
@@ -54,7 +62,7 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Fichte verortet Sinn in endlicher Freiheit, praktischer Handlungsfähigkeit und wechselseitiger Anerkennung unter vernünftigen Wesen, die moralische Schranken des Handelns begründen."
     },
     "virtual_immortality": {
@@ -64,18 +72,48 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Kant’s Transcendental Idealism", "relationship": "Grundlage" },
-      { "name": "Schelling’s Nature, Spirit, and the Identity of Mind", "relationship": "Einfluss" },
-      { "name": "Zahavi’s Pre-Reflective For-Me-Ness", "relationship": "Einfluss" },
-      { "name": "Berkeley’s Immaterialist Idealism", "relationship": "Kontrast" }
+      {
+        "name": "Kant’s Transcendental Idealism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Schelling’s Nature, Spirit, and the Identity of Mind",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Zahavi’s Pre-Reflective For-Me-Ness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Berkeley’s Immaterialist Idealism",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Foundation of the Entire Wissenschaftslehre, Johann Gottlieb Fichte", "year": 1794 },
-      { "title_with_names": "Foundations of Natural Right, Johann Gottlieb Fichte", "year": 1796 },
-      { "title_with_names": "Foundations of Transcendental Philosophy: Wissenschaftslehre nova methodo, Johann Gottlieb Fichte", "year": 1796 },
-      { "title_with_names": "Thinking Through the Wissenschaftslehre: Themes from Fichte’s Early Philosophy, Daniel Breazeale", "year": 2013 },
-      { "title_with_names": "Fichte’s Theory of Subjectivity, Frederick Neuhouser", "year": 1990 },
-      { "title_with_names": "Fichte’s Original Insight, Dieter Henrich", "year": 1966 }
+      {
+        "title_with_names": "Foundation of the Entire Wissenschaftslehre, Johann Gottlieb Fichte",
+        "year": 1794
+      },
+      {
+        "title_with_names": "Foundations of Natural Right, Johann Gottlieb Fichte",
+        "year": 1796
+      },
+      {
+        "title_with_names": "Foundations of Transcendental Philosophy: Wissenschaftslehre nova methodo, Johann Gottlieb Fichte",
+        "year": 1796
+      },
+      {
+        "title_with_names": "Thinking Through the Wissenschaftslehre: Themes from Fichte’s Early Philosophy, Daniel Breazeale",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Fichte’s Theory of Subjectivity, Frederick Neuhouser",
+        "year": 1990
+      },
+      {
+        "title_with_names": "Fichte’s Original Insight, Dieter Henrich",
+        "year": 1966
+      }
     ]
   }
 }

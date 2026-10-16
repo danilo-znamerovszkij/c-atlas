@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Hofstadters seltsame Schleifen",
     "summary": "Douglas Hofstadter argumentiert, dass Bewusstsein und Selbst aus ‚seltsamen Schleifen‘ entstehen: abstrakten, selbstbezüglichen Rückkopplungsschleifen im Symbolsystem des Gehirns, die durch Abstraktionsebenen aufsteigen und an ihrem Ausgangspunkt wieder ankommen. Das ‚Ich‘ ist das zentralste und komplexeste Symbol des Gehirns, ein selbst aufgebautes Muster, das Hofstadter eine Art Illusion nennt, dem er aber reale kausale Wirkung auf die Neuronen zuschreibt, die es tragen.",
-    "associated_thinkers": ["Douglas Hofstadter"],
+    "associated_thinkers": [
+      "Douglas Hofstadter"
+    ],
     "category": "Materialismus",
     "subcategory": "Relational",
     "core_identity_tagline": "Bewusstsein als selbstbezügliche seltsame Schleife",
-    "classification_tags": ["self-reference", "strange loop", "emergence", "self", "downward causation"]
+    "classification_tags": [
+      "self-reference",
+      "strange loop",
+      "emergence",
+      "self",
+      "downward causation"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein und Selbstheit sind ein übergeordnetes, selbstbezügliches Muster von Symbolen: eine seltsame Schleife, in der das Gehirn sich selbst und seine Repräsentationen repräsentiert.",
@@ -46,33 +54,53 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Wahrscheinlich",
+      "stance": "Likely",
       "rationale": "Da Bewusstsein ein abstraktes Muster von Selbstbezug ist und keine Eigenschaft eines bestimmten Substrats, sollte ein hinreichend reichhaltiges selbstmodellierendes Symbolsystem in einer Maschine es hervorbringen."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da das Selbst ein Muster ist, das durch Hirnaktivität getragen wird, endet es, wenn diese Aktivität endet."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Das Selbst ist ein sich selbst erfindendes Muster innerhalb eines physikalischen Systems; Bedeutung entsteht aus diesem Muster und nicht aus einem kosmischen Zweck."
     },
     "virtual_immortality": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Wenn Identität ein Muster und keine Substanz ist, könnte die Reproduktion des Musters in einem anderen Medium das Selbst grundsätzlich bewahren."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Azarian’s Self-Modeling Strange Loop Theory", "relationship": "Erweiterung" },
-      { "name": "Ellis's Strong Emergence and Top-Down Causation", "relationship": "Überschneidung" },
-      { "name": "Dennett's Multiple Drafts Model", "relationship": "Vereinbar" },
-      { "name": "Metzinger's No-Self Representational Theory of Subjectivity", "relationship": "Überschneidung" }
+      {
+        "name": "Azarian’s Self-Modeling Strange Loop Theory",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Ellis's Strong Emergence and Top-Down Causation",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Gödel, Escher, Bach: An Eternal Golden Braid, Douglas Hofstadter", "year": 1979 },
-      { "title_with_names": "I Am a Strange Loop, Douglas Hofstadter", "year": 2007 },
-      { "title_with_names": "Hofstadter’s Strange Loops, Landscape of Consciousness, Robert Lawrence Kuhn" }
+      {
+        "title_with_names": "Gödel, Escher, Bach: An Eternal Golden Braid, Douglas Hofstadter",
+        "year": 1979
+      },
+      {
+        "title_with_names": "I Am a Strange Loop, Douglas Hofstadter",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Hofstadter’s Strange Loops, Landscape of Consciousness, Robert Lawrence Kuhn"
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Toomelas sprachvermittelte strukturell-systemische Theorie",
     "summary": "Aaro Toomela definiert Bewusstsein eng als das Erleben der eigenen psychischen Erfahrung und argumentiert, dass es erst entsteht, wenn ein Kind sprachliche Zeichen erwirbt. Ein Wort verweist nach außen auf die sinnlich erfahrbare Welt und nach innen auf ein anderes Zeichen im Geist; jeder Gebrauch eines Wortes ist daher zugleich ein Bezug auf die Welt und ein Erleben des eigenen mentalen Inhalts. Bewusstsein ist somit sozial geformt, entwicklungsbedingt erworben und, soweit bekannt, eindeutig menschlich.",
-    "associated_thinkers": ["Aaro Toomela"],
+    "associated_thinkers": [
+      "Aaro Toomela"
+    ],
     "category": "Materialismus",
     "subcategory": "Sprache",
     "core_identity_tagline": "Bewusstsein als sprachvermitteltes Erleben von Erfahrung",
-    "classification_tags": ["language", "semiotics", "vygotsky", "development", "cultural-historical psychology"]
+    "classification_tags": [
+      "language",
+      "semiotics",
+      "vygotsky",
+      "development",
+      "cultural-historical psychology"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein sprachvermittelter psychischer Prozess, dessen Ergebnis das Erleben der eigenen Psyche ist, ‚das Erleben von Erlebnissen‘ in Vygotskis Wendung.",
@@ -46,37 +54,70 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Bewusstsein erfordert sprachliche Zeichen, die in einer sozialen, sprachlichen Umwelt erworben und in einer sinnesbasierten Psyche verankert sind; Toomela sagt nicht, ob eine Maschine diese Bedingungen erfüllen könnte."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da das Gehirn für Bewusstsein notwendig ist, bleibt nach der Auffassung nichts übrig, das nach dessen Ende fortbestehen könnte."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Bewusstsein ist eine soziale und kulturelle Errungenschaft menschlicher Entwicklung, ohne dass ein kosmischer Zweck impliziert wird."
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Toomela geht darauf nicht ein; Bewusstsein hängt von einer Entwicklungsgeschichte innerhalb einer sprachlichen Gemeinschaft ab, die eine Kopie nicht ohne Weiteres übertragen würde."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Peirce’s Phaneroscopic Semiotics", "relationship": "Einfluss" },
-      { "name": "James’s Radical Empiricism of Monistic Pure Experience", "relationship": "Einfluss" },
-      { "name": "Koch's Consciousness does not Depend on Language", "relationship": "Gegensatz" },
-      { "name": "Crick and Koch's Neural Correlates of Consciousness", "relationship": "Kritik" }
+      {
+        "name": "Peirce’s Phaneroscopic Semiotics",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "James’s Radical Empiricism of Monistic Pure Experience",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Koch's Consciousness does not Depend on Language",
+        "relationship": "Gegensatz"
+      },
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Culture, Speech and My Self, Aaro Toomela", "year": 2016 },
-      { "title_with_names": "What Are Higher Psychological Functions?, Aaro Toomela", "year": 2016 },
-      { "title_with_names": "Thinking and Speech, L. S. Vygotsky", "year": 1934 },
-      { "title_with_names": "The Working Brain: An Introduction to Neuropsychology, A. R. Luria", "year": 1973 },
-      { "title_with_names": "A Stroll Through the Worlds of Animals and Men, J. von Uexküll", "year": 1934 },
-      { "title_with_names": "Some Consequences of Four Incapacities, C. S. Peirce", "year": 1868 },
-      { "title_with_names": "Does ‘Consciousness’ Exist?, W. James", "year": 1904 }
+      {
+        "title_with_names": "Culture, Speech and My Self, Aaro Toomela",
+        "year": 2016
+      },
+      {
+        "title_with_names": "What Are Higher Psychological Functions?, Aaro Toomela",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Thinking and Speech, L. S. Vygotsky",
+        "year": 1934
+      },
+      {
+        "title_with_names": "The Working Brain: An Introduction to Neuropsychology, A. R. Luria",
+        "year": 1973
+      },
+      {
+        "title_with_names": "A Stroll Through the Worlds of Animals and Men, J. von Uexküll",
+        "year": 1934
+      },
+      {
+        "title_with_names": "Some Consequences of Four Incapacities, C. S. Peirce",
+        "year": 1868
+      },
+      {
+        "title_with_names": "Does ‘Consciousness’ Exist?, W. James",
+        "year": 1904
+      }
     ]
   }
 }

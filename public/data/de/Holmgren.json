@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Holmgrens körnige, atomare Gefühle",
     "summary": "Holmgren schlägt vor, dass bewusste Erfahrung körnig ist und aus diskreten ‚atomaren Gefühlen‘ aufgebaut ist, deren jedes die Verwirklichung eines kleinen, kurzlebigen, örtlich begrenzten Mikroprozesses im Gehirn ist, der aus einer kontinuierlichen natürlichen Welt hervorgeht. Cluster dieser Gefühle, als Gedächtnisengramme gespeichert, werden zu Begriffen und abstraktem Denken. Er stellt die Auffassung in einen evolutionären Rahmen und in einen Mehraspekt-Monismus, der es ablehnt, Bewusstsein auf eine einzelne Wissenschaft zu reduzieren.",
-    "associated_thinkers": ["Jan Holmgren"],
+    "associated_thinkers": [
+      "Jan Holmgren"
+    ],
     "category": "Materialismus",
     "subcategory": "Phylogenetisch",
     "core_identity_tagline": "Bewusstsein als diskrete atomare Gefühle",
-    "classification_tags": ["atomic feels", "discreteness", "qualia", "evolution", "process philosophy"]
+    "classification_tags": [
+      "atomic feels",
+      "discreteness",
+      "qualia",
+      "evolution",
+      "process philosophy"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist eine Abfolge diskreter atomarer Gefühle, deren jedes einem kurzlebigen, örtlich begrenzten Mikroprozess des Gehirns entspricht. Große Mengen dieser Gefühle, geordnet in reichen Spektren von Qualitäten, sind alles, woraus Wissen aufgebaut werden kann.",
@@ -50,11 +58,11 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da jedes atomare Gefühl die Verwirklichung eines Mikroprozesses im Gehirn ist, hängt bewusste Erfahrung von einem lebenden Gehirn ab und überdauert es nicht."
     },
     "meaning_and_purpose": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Holmgren gründet das Bewusstsein in der Evolution, doch sein Mehraspekt-Monismus hält spirituelle Aspekte im Blick, ohne einen kosmischen Zweck auszuführen."
     },
     "virtual_immortality": {
@@ -64,12 +72,24 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Whitehead's Process Theory", "relationship": "Grundlage" },
-      { "name": "Pereira’s Triple-Aspect Monism", "relationship": "Kritik" },
-      { "name": "Pereira's Sentience", "relationship": "Einfluss" }
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Pereira’s Triple-Aspect Monism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Pereira's Sentience",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Holmgren’s Grainy, Atomic Feels, Jan Holmgren (Landscape of Consciousness entry)", "year": 2014 }
+      {
+        "title_with_names": "Holmgren’s Grainy, Atomic Feels, Jan Holmgren (Landscape of Consciousness entry)",
+        "year": 2014
+      }
     ]
   }
 }

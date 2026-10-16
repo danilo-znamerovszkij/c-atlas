@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Libets bewusstes mentales Feld",
     "summary": "Benjamin Libet schlägt vor, dass bewusste Erfahrung ein bewusstes mentales Feld (Conscious Mental Field, CMF) ist: ein einheitliches, nichtphysisches Feld, das durch die Aktivität sehr großer Neuronenpopulationen erzeugt wird und auf diese zurückwirken kann. Er führte es ein, um zu erklären, warum verteilte, teilbare Hirnaktivität eine einheitliche Erfahrung ergibt, und um dem Bewusstsein echte kausale Wirkkraft zu verleihen. Libet entwarf außerdem einen neurochirurgischen Test für dieses Feld, der bisher nie durchgeführt wurde.",
-    "associated_thinkers": ["Benjamin Libet"],
+    "associated_thinkers": [
+      "Benjamin Libet"
+    ],
     "category": "Dualismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als ein vom Gehirn erzeugtes nichtphysisches Feld",
-    "classification_tags": ["mental field", "phenomenal unity", "mental causation", "interactionism", "neurophysiology"]
+    "classification_tags": [
+      "mental field",
+      "phenomenal unity",
+      "mental causation",
+      "interactionism",
+      "neurophysiology"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Subjektive Erfahrung ist ein Feld, also eine Systemeigenschaft, die durch die geeignete Aktivität von Milliarden Neuronen erzeugt wird. Sie gehört zu keiner bekannten Kategorie physikalischer Felder und ist nur aus der Ersten-Person-Perspektive unmittelbar zugänglich.",
@@ -46,36 +54,66 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Das Feld wird durch geeignete neuronale Aktivität erzeugt. Libet nennt kein Kriterium dafür, welche Systeme es hervorbringen, daher bleibt offen, ob eine Maschine es könnte."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da das CMF für seine Existenz von neuronaler Aktivität abhängt und nicht unabhängig vom Gehirn bestehen kann, endet es, wenn das Gehirn endet."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Libets Verteidigung der Willensfreiheit und moralischen Verantwortung verleiht bewusster Handlungsfähigkeit echtes Gewicht, ohne einen kosmischen Zweck."
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Ob eine Simulation das Feld erzeugen würde, hängt davon ab, welche Art von Aktivität es hervorbringt. Libet legt dies nicht fest."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness", "relationship": "Grundlage" },
-      { "name": "Hasker's Unified Experience, Conscious Self, Causal Mind Requires a Brain-Generated Nonphysical Substance", "relationship": "Überschneidung" },
-      { "name": "McFadden's Conscious Electromagnetic Information Theory", "relationship": "Kontrast" },
-      { "name": "Halligan and Oakley’s Species-Enhancing Epiphenomenalism", "relationship": "Kontrast" }
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Hasker's Unified Experience, Conscious Self, Causal Mind Requires a Brain-Generated Nonphysical Substance",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Halligan and Oakley’s Species-Enhancing Epiphenomenalism",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "A Testable Field Theory of Mind-Brain Interaction, Benjamin Libet", "year": 1994 },
-      { "title_with_names": "Conscious Mind as a Field, Benjamin Libet", "year": 1996 },
-      { "title_with_names": "Conscious Mind as a Force Field: A Reply to Lindahl & Århem, Benjamin Libet", "year": 1997 },
-      { "title_with_names": "Mind Time: The Temporal Factor in Consciousness, Benjamin Libet", "year": 2004 },
-      { "title_with_names": "Reflections on the Interaction of the Mind and Brain, Benjamin Libet", "year": 2006 },
-      { "title_with_names": "Consciousness and Neural Force Fields, B. I. B. Lindahl and P. Århem", "year": 2016 }
+      {
+        "title_with_names": "A Testable Field Theory of Mind-Brain Interaction, Benjamin Libet",
+        "year": 1994
+      },
+      {
+        "title_with_names": "Conscious Mind as a Field, Benjamin Libet",
+        "year": 1996
+      },
+      {
+        "title_with_names": "Conscious Mind as a Force Field: A Reply to Lindahl & Århem, Benjamin Libet",
+        "year": 1997
+      },
+      {
+        "title_with_names": "Mind Time: The Temporal Factor in Consciousness, Benjamin Libet",
+        "year": 2004
+      },
+      {
+        "title_with_names": "Reflections on the Interaction of the Mind and Brain, Benjamin Libet",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Consciousness and Neural Force Fields, B. I. B. Lindahl and P. Århem",
+        "year": 2016
+      }
     ]
   }
 }

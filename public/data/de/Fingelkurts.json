@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Fingelkurts und Fingelkurts’ operationale Architektonik",
     "summary": "Alexander und Andrew Fingelkurts schlagen vor, dass Gehirn und Geist eine gemeinsame Struktur aus ‚Operationen‘ haben, raumzeitlich begrenzten Ereignissen, die zugleich als neuronale Aktivität und als Erfahrung gelten. Bewusste Inhalte entstehen, wenn lokale elektromagnetische Felder, die von vorübergehenden neuronalen Ensembles erzeugt werden, sich zu operationalen Modulen synchronisieren; die Abfolge dieser Module bildet den Bewusstseinsstrom.",
-    "associated_thinkers": ["Alexander Fingelkurts", "Andrew Fingelkurts"],
+    "associated_thinkers": [
+      "Alexander Fingelkurts",
+      "Andrew Fingelkurts"
+    ],
     "category": "Materialismus",
     "subcategory": "Elektromagnetisch",
     "core_identity_tagline": "Bewusstsein als verschachtelte Operationen von Hirnfeldern",
-    "classification_tags": ["electromagnetic fields", "eeg", "neurophenomenology", "emergentist monism", "metastability"]
+    "classification_tags": [
+      "electromagnetic fields",
+      "eeg",
+      "neurophenomenology",
+      "emergentist monism",
+      "metastability"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein wird durch die operationale Ebene der Hirnorganisation konstituiert: hierarchisch verschachtelte, synchronisierte lokale elektromagnetische Felder, die zur Struktur der Erfahrung isomorph sind.",
@@ -47,11 +56,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Bewusstsein erfordert spezifische Felddynamiken neuronaler Ensembles; ob künstliche Hardware vergleichbare verschachtelte Felder erzeugen könnte, wird nicht behandelt."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Erfahrung auf der operationalen Feldebene des Gehirns supervenient ist, kann sie das Gehirn, das diese Felder erzeugt, nicht überdauern."
     },
     "meaning_and_purpose": {
@@ -59,19 +68,34 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Nach dieser Auffassung müsste eine Simulation physikalische Felddynamiken reproduzieren und nicht bloß Informationsverarbeitung; ein Hochladen im üblichen Sinne würde Bewusstsein daher nicht übertragen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "McFadden's Conscious Electromagnetic Information Theory", "relationship": "Überschneidung" },
-      { "name": "James’s Stream of Thought/Consciousness", "relationship": "Einfluss" },
-      { "name": "Kim’s Supervenience", "relationship": "Grundlage" },
-      { "name": "Varela's Neurophenomenology", "relationship": "Vereinbar" }
+      {
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "James’s Stream of Thought/Consciousness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Kim’s Supervenience",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Fingelkurts and Fingelkurts’s Operational Architectonics, Alexander Fingelkurts and Andrew Fingelkurts", "year": 2013 }
+      {
+        "title_with_names": "Fingelkurts and Fingelkurts’s Operational Architectonics, Alexander Fingelkurts and Andrew Fingelkurts",
+        "year": 2013
+      }
     ]
   }
 }

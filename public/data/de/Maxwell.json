@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Maxwells Theorie der eindeutigen Zuordnung",
     "summary": "Maxwell argumentiert, dass Bewusstsein der erlebte Aspekt bestimmter Hirnprozesse ist. Man kann es nur erkennen, indem man einen ähnlichen Prozess im eigenen Gehirn hat. Warum bestimmte Empfindungen mit bestimmten Hirnprozessen einhergehen, erklärt er durch eine eindeutige, strukturerhaltende Eins-zu-eins-Abbildung zwischen einem kontinuierlichen Raum aller möglichen Empfindungen und einem Raum funktional beschriebener Hirnprozesse.",
-    "associated_thinkers": ["Nicholas Maxwell"],
+    "associated_thinkers": [
+      "Nicholas Maxwell"
+    ],
     "category": "Nicht-reduktiv",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als erlebter Aspekt einer übereinstimmenden Hirnstruktur",
-    "classification_tags": ["two-aspect theory", "sensation space", "isomorphism", "personalistic explanation", "non-reductive"]
+    "classification_tags": [
+      "two-aspect theory",
+      "sensation space",
+      "isomorphism",
+      "personalistic explanation",
+      "non-reductive"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist das, wie es sich anfühlt, wenn ein bestimmter Hirnprozess im eigenen Gehirn abläuft, und nichts darüber hinaus.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Empfindungen werden funktional beschriebenen Hirnprozessen zugeordnet. Maxwell lehnt den Funktionalismus jedoch ab und bindet Erfahrung an Hirnprozesse, daher bleibt der Status von Maschinen offen."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da Bewusstsein nach dieser Auffassung ein Aspekt von Hirnprozessen ist, sollte es enden, wenn diese Prozesse enden."
     },
     "meaning_and_purpose": {
@@ -64,13 +72,27 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Einfluss" },
-      { "name": "Jackson's Representationalism and the Knowledge Argument", "relationship": "Überschneidung" },
-      { "name": "Functionalism", "relationship": "Kritik" },
-      { "name": "Qualia Space", "relationship": "Überschneidung" }
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Jackson's Representationalism and the Knowledge Argument",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Qualia Space",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Maxwell’s Unique-Matching Theory (Landscape of Consciousness), Nicholas Maxwell" }
+      {
+        "title_with_names": "Maxwell’s Unique-Matching Theory (Landscape of Consciousness), Nicholas Maxwell"
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Kants transzendentaler Idealismus",
     "summary": "Kant vertritt die Auffassung, dass die Welt, die wir bewusst erfahren, eine Welt der Erscheinungen ist, die durch die eigenen apriorischen Formen des Geistes strukturiert wird: Raum und Zeit als Formen der Anschauung und die Kategorien des Verstandes. Einheitliche Erfahrung beruht auf der transzendentalen Einheit der Apperzeption, der Forderung, dass ‚Ich denke‘ alle eigenen Vorstellungen begleiten kann; das Selbst, das dies voraussetzt, wird jedoch nur als Erscheinung erkannt, nie als denkende Substanz.",
-    "associated_thinkers": ["Immanuel Kant"],
+    "associated_thinkers": [
+      "Immanuel Kant"
+    ],
     "category": "Idealismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als einigende Bedingung der Erfahrung",
-    "classification_tags": ["transcendental idealism", "unity of apperception", "self", "epistemology", "enlightenment philosophy"]
+    "classification_tags": [
+      "transcendental idealism",
+      "unity of apperception",
+      "self",
+      "epistemology",
+      "enlightenment philosophy"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Kant sagt nicht, was Bewusstsein an sich ist. Er bestimmt die Bedingungen, unter denen bewusste Erfahrung von Gegenständen möglich ist: sinnliche Materie, gegeben in Raum und Zeit, Synthesis durch Einbildungskraft und Verstand sowie die Einheit der Apperzeption, durch die Vorstellungen zu einem Subjekt gehören.",
@@ -47,36 +55,66 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Kants Bedingungen der Erfahrung sind formal (Synthesis und einheitliche Apperzeption) und an kein Material gebunden; doch das Subjekt an sich ist unerkennbar, sodass die Auffassung kein Urteil über Maschinen fällt."
     },
     "survival_beyond_death": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Die Paralogismen zerlegen Beweise dafür, dass die Seele eine unsterbliche Substanz ist; da das Selbst an sich aber unerkennbar ist, kann die theoretische Vernunft das Überleben ebenso wenig ausschließen."
     },
     "meaning_and_purpose": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Da Wissen auf Erscheinungen beschränkt ist, liegen Fragen nach dem letzten Zweck jenseits dessen, was Kants Erkenntnistheorie entscheiden kann."
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Kants Darstellung sagt nichts darüber, was das Subjekt an sich ist, und kann daher nicht sagen, ob eine Kopie es bewahren würde."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Berkeley’s Immaterialist Idealism", "relationship": "Kontrast" },
-      { "name": "Hume’s Bundle Theory of Perceptions", "relationship": "Kritik" },
-      { "name": "Descartes’s Substance Dualism", "relationship": "Kritik" },
-      { "name": "McGinn's Ultimate Mystery (Mysterianism)", "relationship": "Einfluss" }
+      {
+        "name": "Berkeley’s Immaterialist Idealism",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Hume’s Bundle Theory of Perceptions",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Critique of Pure Reason (A and B editions, 1781/1787), Immanuel Kant", "year": 1781 },
-      { "title_with_names": "Prolegomena to Any Future Metaphysics, Immanuel Kant", "year": 1783 },
-      { "title_with_names": "Anthropology from a Pragmatic Point of View, Immanuel Kant", "year": 1798 },
-      { "title_with_names": "Kant's View of the Mind and Consciousness of Self (Stanford Encyclopedia of Philosophy), A. Brook and J. Wuerth", "year": 2020 },
-      { "title_with_names": "Kant's Transcendental Idealism (Stanford Encyclopedia of Philosophy), N. F. Stang", "year": 2022 },
-      { "title_with_names": "The Bounds of Sense: An Essay on Kant's Critique of Pure Reason, P. F. Strawson", "year": 1966 }
+      {
+        "title_with_names": "Critique of Pure Reason (A and B editions, 1781/1787), Immanuel Kant",
+        "year": 1781
+      },
+      {
+        "title_with_names": "Prolegomena to Any Future Metaphysics, Immanuel Kant",
+        "year": 1783
+      },
+      {
+        "title_with_names": "Anthropology from a Pragmatic Point of View, Immanuel Kant",
+        "year": 1798
+      },
+      {
+        "title_with_names": "Kant's View of the Mind and Consciousness of Self (Stanford Encyclopedia of Philosophy), A. Brook and J. Wuerth",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Kant's Transcendental Idealism (Stanford Encyclopedia of Philosophy), N. F. Stang",
+        "year": 2022
+      },
+      {
+        "title_with_names": "The Bounds of Sense: An Essay on Kant's Critique of Pure Reason, P. F. Strawson",
+        "year": 1966
+      }
     ]
   }
 }

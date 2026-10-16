@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Fedotovs Kommunikationshypothese des Bewusstseins",
     "summary": "Fedotov vertritt die Auffassung, dass Bewusstsein eine spezialisierte Gehirnfunktion ist, die persönliche Informationen in Botschaften kodiert, die mit einer anderen Person geteilt werden können. Sich eines mentalen Bildes gewahr zu sein bedeutet, dass die Information bereit ist, an einen Gesprächspartner weitergegeben zu werden; Bewusstsein entsteht daher mit der Sprache und entwickelt sich bei jedem Menschen im Zuge ihres Erwerbs.",
-    "associated_thinkers": ["Sergei A. Fedotov", "E. V. Baidyuk"],
+    "associated_thinkers": [
+      "Sergei A. Fedotov",
+      "E. V. Baidyuk"
+    ],
     "category": "Materialismus",
     "subcategory": "Sprache",
     "core_identity_tagline": "Bewusstsein als Kodierung von Erfahrung in teilbare Botschaften",
-    "classification_tags": ["language", "communication", "social cognition", "ontogeny", "neuroscience"]
+    "classification_tags": [
+      "language",
+      "communication",
+      "social cognition",
+      "ontogeny",
+      "neuroscience"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist die Fähigkeit des Gehirns, persönliche Informationen in kommunikative Botschaften zu kodieren, die aus gemeinsamen konventionellen Zeichen wie Wörtern und Gesten aufgebaut sind. Das Gewahrsein eines Ereignisses ist das Gewahrsein davon im Kontext seiner Bedeutung für andere.",
@@ -46,34 +55,58 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Wenn Bewusstsein die Fähigkeit ist, Information in gemeinsame konventionelle Zeichen zu kodieren, könnte ein System, das in einer sozialen Gemeinschaft tatsächlich Sprache erworben und gebraucht hat, dafür infrage kommen. Fedotov geht nicht direkt auf Maschinen ein."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein hier eine über Sprache erworbene Gehirnfunktion ist, endet es, wenn das Gehirn seine Arbeit einstellt."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Bewusstsein dient der Kommunikation und sozialen Koordination unter Menschen; eine kosmische Rolle wird nicht unterstellt."
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Die Hypothese äußert sich nicht dazu, ob eine kopierte Gehirnfunktion die bewusste Botschaftskodierung einer Person bewahren würde."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Deacon's Symbolic Communication (Human Consciousness)", "relationship": "Überschneidung" },
-      { "name": "Parrington's Language and Tool-Driven Consciousness", "relationship": "Überschneidung" },
-      { "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness", "relationship": "Einfluss" },
-      { "name": "Koch's Consciousness does not Depend on Language", "relationship": "Kontrast" }
+      {
+        "name": "Deacon's Symbolic Communication (Human Consciousness)",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Parrington's Language and Tool-Driven Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Koch's Consciousness does not Depend on Language",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Communication as the Origin of Consciousness, Sergei A. Fedotov and E. V. Baidyuk", "year": 2023 },
-      { "title_with_names": "Fedotov's Communication Hypothesis of Consciousness, Sergei A. Fedotov (Landscape of Consciousness entry)", "year": 2022 },
-      { "title_with_names": "Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity (Readiness-Potential), Benjamin Libet, C. A. Gleason and E. W. Wright", "year": 1983 },
-      { "title_with_names": "Consciousness, Personal Identity and the Divided Brain, Roger Sperry", "year": 1984 }
+      {
+        "title_with_names": "Communication as the Origin of Consciousness, Sergei A. Fedotov and E. V. Baidyuk",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Fedotov's Communication Hypothesis of Consciousness, Sergei A. Fedotov (Landscape of Consciousness entry)",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity (Readiness-Potential), Benjamin Libet, C. A. Gleason and E. W. Wright",
+        "year": 1983
+      },
+      {
+        "title_with_names": "Consciousness, Personal Identity and the Divided Brain, Roger Sperry",
+        "year": 1984
+      }
     ]
   }
 }

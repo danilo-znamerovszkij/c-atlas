@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Leibniz' Monaden",
     "summary": "Gottfried Wilhelm Leibniz vertritt die Auffassung, dass die Wirklichkeit aus Monaden besteht, einfachen immateriellen Substanzen, deren gesamtes inneres Leben aus Perzeption und Appetition besteht. Perzeption findet sich überall in der Natur, Bewusstsein (das er Apperzeption nennt) ist dagegen eine seltenere, reflexive Stufe der Perzeption, nämlich eine Wahrnehmung der eigenen Perzeptionen. Geist und Körper wirken nie aufeinander ein. Gott hat ihre Reihen von Anfang an aufeinander abgestimmt.",
-    "associated_thinkers": ["Gottfried Wilhelm Leibniz"],
+    "associated_thinkers": [
+      "Gottfried Wilhelm Leibniz"
+    ],
     "category": "Monismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als reflexive Perzeption in einfachen Substanzen",
-    "classification_tags": ["monadology", "apperception", "pre-established harmony", "unconscious perception", "panpsychism"]
+    "classification_tags": [
+      "monadology",
+      "apperception",
+      "pre-established harmony",
+      "unconscious perception",
+      "panpsychism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist Apperzeption, das reflexive Wissen einer Monade um ihre eigenen Wahrnehmungszustände. Die Perzeption selbst, also die Vorstellung vieler Dinge in einer einfachen Einheit, kommt jeder Monade zu.",
@@ -46,40 +54,82 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da das Mühlen-Argument besagt, dass kein Mechanismus aus Teilen wahrnehmen kann, kann eine Maschine, die als Aggregat betrachtet wird, nicht bewusst sein."
     },
     "survival_beyond_death": {
-      "stance": "Wahrscheinlich",
+      "stance": "Likely",
       "rationale": "Monaden können nur durch göttliche Schöpfung und Vernichtung entstehen und enden. Geister sind Glieder der Gottesstadt, was aus der Auffassung folgt, dass Seelen einfache Substanzen sind."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Gott hat diese Welt als die bestmögliche gewählt und steht zu den Geistern wie ein Fürst zu seinen Untertanen. Daher hat das reflexive Bewusstsein einen moralischen und göttlichen Zweck."
     },
     "virtual_immortality": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Bewusstsein gehört zu einer einfachen Substanz und kann durch keine Anordnung von Teilen hervorgebracht werden. Daher könnte eine Simulation es nicht tragen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Descartes’s Substance Dualism", "relationship": "Kritik" },
-      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Einfluss" },
-      { "name": "Levine’s Explanatory Gap", "relationship": "Einfluss" },
-      { "name": "Kant’s Transcendental Idealism", "relationship": "Einfluss" }
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Rosenthal’s Higher-Order Thought",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Levine’s Explanatory Gap",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Kant’s Transcendental Idealism",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Theodicy: Essays on the Goodness of God, the Freedom of Man and the Origin of Evil, Gottfried Wilhelm Leibniz", "year": 1710 },
-      { "title_with_names": "The Monadology, Gottfried Wilhelm Leibniz", "year": 1714 },
-      { "title_with_names": "Principles of Nature and Grace, Based on Reason, Gottfried Wilhelm Leibniz", "year": 1714 },
-      { "title_with_names": "New Essays on Human Understanding, Gottfried Wilhelm Leibniz", "year": 1765 },
-      { "title_with_names": "Meditations on First Philosophy, René Descartes", "year": 1641 },
-      { "title_with_names": "Materialism and Qualia: The Explanatory Gap, J. Levine", "year": 1983 },
-      { "title_with_names": "Leibniz on Consciousness and Self-Consciousness, R. J. Gennaro", "year": 1999 },
-      { "title_with_names": "Leibniz's Philosophy of Mind, Stanford Encyclopedia of Philosophy, M. Kulstad & L. Carlin", "year": 2020 },
-      { "title_with_names": "Seventeenth-Century Theories of Consciousness, Stanford Encyclopedia of Philosophy, L. M. Jorgensen", "year": 2020 },
-      { "title_with_names": "Panpsychism, Stanford Encyclopedia of Philosophy, P. Goff, W. Seager & S. Allen-Hermanson", "year": 2022 }
+      {
+        "title_with_names": "Theodicy: Essays on the Goodness of God, the Freedom of Man and the Origin of Evil, Gottfried Wilhelm Leibniz",
+        "year": 1710
+      },
+      {
+        "title_with_names": "The Monadology, Gottfried Wilhelm Leibniz",
+        "year": 1714
+      },
+      {
+        "title_with_names": "Principles of Nature and Grace, Based on Reason, Gottfried Wilhelm Leibniz",
+        "year": 1714
+      },
+      {
+        "title_with_names": "New Essays on Human Understanding, Gottfried Wilhelm Leibniz",
+        "year": 1765
+      },
+      {
+        "title_with_names": "Meditations on First Philosophy, René Descartes",
+        "year": 1641
+      },
+      {
+        "title_with_names": "Materialism and Qualia: The Explanatory Gap, J. Levine",
+        "year": 1983
+      },
+      {
+        "title_with_names": "Leibniz on Consciousness and Self-Consciousness, R. J. Gennaro",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Leibniz's Philosophy of Mind, Stanford Encyclopedia of Philosophy, M. Kulstad & L. Carlin",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Seventeenth-Century Theories of Consciousness, Stanford Encyclopedia of Philosophy, L. M. Jorgensen",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Panpsychism, Stanford Encyclopedia of Philosophy, P. Goff, W. Seager & S. Allen-Hermanson",
+        "year": 2022
+      }
     ]
   }
 }

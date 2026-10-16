@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Quines sprachliche Herabstufung des phänomenalen Bewusstseins",
     "summary": "W. V. O. Quine bot keine Theorie des Bewusstseins an, doch seine Sprachphilosophie stuft das Phänomenale in eine „Idiom zweiten Grades“ herab: im Alltagsgespräch verwendbar, aber aus der extensionalen, öffentlichen Sprache ausgeschlossen, in der er die wahre Struktur der Wirklichkeit beschrieben sah. Da Bedeutung ganz in Dispositionen zu sprachlichem Verhalten unter beobachtbaren Umständen besteht, gibt es keinen privaten inneren Gehalt, über den Wörter für Erfahrung berichten könnten. Quine bestreitet nicht, dass Qualia existieren; er bestreitet ihrem Vokabular nur jede grundlegende Rolle.",
-    "associated_thinkers": ["Willard Van Orman Quine"],
+    "associated_thinkers": [
+      "Willard Van Orman Quine"
+    ],
     "category": "Materialismus",
     "subcategory": "Sprache",
     "core_identity_tagline": "Qualitätssprache als abgeleitetes Idiom zweiten Grades",
-    "classification_tags": ["behaviorism", "extensionality", "radical translation", "naturalism", "philosophy of language"]
+    "classification_tags": [
+      "behaviorism",
+      "extensionality",
+      "radical translation",
+      "naturalism",
+      "philosophy of language"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Quine macht keine Identitätsbehauptung über Bewusstsein. Er behandelt das Vokabular subjektiver Qualität als abgeleitetes Idiom, aufgebaut aus öffentlichen Vergleichen, ohne Platz in der kanonischen wissenschaftlichen Beschreibung.",
@@ -46,15 +54,15 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Quine befasst sich nicht mit Maschinen; seine behavioristische Semantik würde die Sprache einer Maschine nach ihren Dispositionen beurteilen, was aber nichts darüber sagt, ob sie erlebt."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Innerhalb von Quines physikalistischem Naturalismus gibt es nichts Nichtphysisches, das den Körper überdauern könnte."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Ein Naturalismus, der mit der empirischen Wissenschaft zusammenhängt, lässt keinen Raum für einen kosmischen Zweck."
     },
     "virtual_immortality": {
@@ -64,16 +72,40 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Quine’s Naturalized Mind and the Demoted Phenomenal", "relationship": "Erweiterung" },
-      { "name": "Wittgenstein's Grammatical Fiction", "relationship": "Überschneidung" },
-      { "name": "Chomsky's Language and Consciousness", "relationship": "Gegensatz" },
-      { "name": "Searle's Language and Consciousness", "relationship": "Gegensatz" }
+      {
+        "name": "Quine’s Naturalized Mind and the Demoted Phenomenal",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Wittgenstein's Grammatical Fiction",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Chomsky's Language and Consciousness",
+        "relationship": "Gegensatz"
+      },
+      {
+        "name": "Searle's Language and Consciousness",
+        "relationship": "Gegensatz"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Word and Object, W. V. O. Quine", "year": 1960 },
-      { "title_with_names": "Indeterminacy of Translation Again, W. V. O. Quine", "year": 1987 },
-      { "title_with_names": "Two Dogmas of Empiricism, W. V. O. Quine", "year": 1951 },
-      { "title_with_names": "Why Only Us: Language and Evolution, R. C. Berwick and N. Chomsky", "year": 2016 }
+      {
+        "title_with_names": "Word and Object, W. V. O. Quine",
+        "year": 1960
+      },
+      {
+        "title_with_names": "Indeterminacy of Translation Again, W. V. O. Quine",
+        "year": 1987
+      },
+      {
+        "title_with_names": "Two Dogmas of Empiricism, W. V. O. Quine",
+        "year": 1951
+      },
+      {
+        "title_with_names": "Why Only Us: Language and Evolution, R. C. Berwick and N. Chomsky",
+        "year": 2016
+      }
     ]
   }
 }

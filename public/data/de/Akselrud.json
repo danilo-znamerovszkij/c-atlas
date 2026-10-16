@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Akselruds Erklärungsvermögen: Bewusstsein als internalisierte Erklärung",
     "summary": "Boris Akselrud identifiziert phänomenales Bewusstsein mit der angeborenen, unbegründeten Fähigkeit des Geistes, Erklärungen zu erzeugen und zu erkennen, und wendet sie auf die eigenen Zustände zurück. Er bestreitet das schwere Problem: Es ist ein Zusammenstoß zweier unvereinbarer Weisen des Erklärens (unpersönliches physikalisches Gesetz und Gegebenheit der ersten Person), und dieser Zusammenstoß gehört zur Struktur der Erklärung, nicht zur Natur.",
-    "associated_thinkers": ["Boris Akselrud"],
+    "associated_thinkers": [
+      "Boris Akselrud"
+    ],
     "category": "Herausforderung",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als internalisierte Erklärung",
-    "classification_tags": ["explanation", "self-consciousness", "hard problem", "anti-foundationalism", "reflexivity"]
+    "classification_tags": [
+      "explanation",
+      "self-consciousness",
+      "hard problem",
+      "anti-foundationalism",
+      "reflexivity"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist das nach innen ausgeübte Erklärungsvermögen. Wenn der Geist erkennt, warum er so gedacht oder gehandelt hat, wird er zugleich Subjekt und Objekt der Erklärung, und diese Rekursion ist minimales Selbstbewusstsein.",
@@ -47,11 +55,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Akselrud behandelt das Erklärungsvermögen als gegebene menschliche Ausstattung und sagt nicht, ob eine Maschine es haben könnte."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da Bewusstsein hier ein Vermögen eines Organismus ist, vergleichbar dem Flug eines Vogels, bietet die Auffassung keine Möglichkeit, ohne den Organismus fortzubestehen."
     },
     "meaning_and_purpose": {
@@ -65,15 +73,35 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Levine’s Explanatory Gap", "relationship": "Kritik" },
-      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Kontrast" },
-      { "name": "McGinn's Ultimate Mystery (Mysterianism)", "relationship": "Kontrast" },
-      { "name": "Frankish’s Illusionism", "relationship": "Kontrast" }
+      {
+        "name": "Levine’s Explanatory Gap",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Rosenthal’s Higher-Order Thought",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Homo sapiens: The Species That Explains (manuscript), Boris Akselrud", "year": 2025 },
-      { "title_with_names": "Akselrud's Explanatory Faculty: Consciousness as Internalized Explanation (Landscape of Consciousness entry), Boris Akselrud" },
-      { "title_with_names": "A landscape of consciousness: Toward a taxonomy of explanations and implications, Robert Lawrence Kuhn", "year": 2024 }
+      {
+        "title_with_names": "Homo sapiens: The Species That Explains (manuscript), Boris Akselrud",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Akselrud's Explanatory Faculty: Consciousness as Internalized Explanation (Landscape of Consciousness entry), Boris Akselrud"
+      },
+      {
+        "title_with_names": "A landscape of consciousness: Toward a taxonomy of explanations and implications, Robert Lawrence Kuhn",
+        "year": 2024
+      }
     ]
   }
 }

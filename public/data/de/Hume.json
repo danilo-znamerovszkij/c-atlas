@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Humes Bündeltheorie der Wahrnehmungen",
     "summary": "David Hume vertritt die Auffassung, dass der Geist nichts als ein Bündel flüchtiger Wahrnehmungen ist: lebhafter Eindrücke und schwächerer Vorstellungen, verbunden durch Assoziation, Gedächtnis, Gewohnheit und Einbildungskraft. Die Introspektion findet einzelne Wahrnehmungen und nie ein Selbst, eine Seele oder eine geistige Substanz dahinter; daher sind personale Identität und der Glaube an äußere Gegenstände Konstruktionen der Einbildungskraft.",
-    "associated_thinkers": ["David Hume"],
+    "associated_thinkers": [
+      "David Hume"
+    ],
     "category": "Materialismus",
     "subcategory": "Philosophisch",
     "core_identity_tagline": "Der Geist als Bündel von Wahrnehmungen",
-    "classification_tags": ["empiricism", "bundle theory", "no-self", "personal identity", "association"]
+    "classification_tags": [
+      "empiricism",
+      "bundle theory",
+      "no-self",
+      "personal identity",
+      "association"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist der Strom der Wahrnehmungen selbst. Es gibt kein weiteres Medium des Gewahrseins und kein Subjekt über das lebendige Vorkommen von Eindrücken und Vorstellungen hinaus.",
@@ -50,11 +58,11 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da hinter dem Bündel der Wahrnehmungen keine Seele und keine Selbstsubstanz steht, lässt die Auffassung nichts übrig, was eine Person über das Ende dieses Bündels hinaus tragen könnte."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Hume gründet Glauben und Wert in Gewohnheit, Empfindung und Leidenschaften und weist metaphysische Behauptungen über die Erfahrung hinaus zurück."
     },
     "virtual_immortality": {
@@ -64,18 +72,47 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "James’s Stream of Thought/Consciousness", "relationship": "Einfluss" },
-      { "name": "Buddhism's Empty, Illusory Phenomenal Consciousness", "relationship": "Überschneidung" },
-      { "name": "Frankish’s Illusionism", "relationship": "Einfluss" },
-      { "name": "Berkeley’s Immaterialist Idealism", "relationship": "Kontrast" }
+      {
+        "name": "James’s Stream of Thought/Consciousness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Buddhism's Empty, Illusory Phenomenal Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Berkeley’s Immaterialist Idealism",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "A Treatise of Human Nature, David Hume" },
-      { "title_with_names": "An Enquiry concerning Human Understanding, David Hume", "year": 1748 },
-      { "title_with_names": "A Dissertation on the Passions, David Hume", "year": 1757 },
-      { "title_with_names": "Hume’s True Scepticism, D. C. Ainslie", "year": 2008 },
-      { "title_with_names": "Cognition and Commitment in Hume’s Philosophy, D. Garrett", "year": 1997 },
-      { "title_with_names": "Stability and Justification in Hume’s Treatise, L. E. Loeb", "year": 2002 }
+      {
+        "title_with_names": "A Treatise of Human Nature, David Hume"
+      },
+      {
+        "title_with_names": "An Enquiry concerning Human Understanding, David Hume",
+        "year": 1748
+      },
+      {
+        "title_with_names": "A Dissertation on the Passions, David Hume",
+        "year": 1757
+      },
+      {
+        "title_with_names": "Hume’s True Scepticism, D. C. Ainslie",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Cognition and Commitment in Hume’s Philosophy, D. Garrett",
+        "year": 1997
+      },
+      {
+        "title_with_names": "Stability and Justification in Hume’s Treatise, L. E. Loeb",
+        "year": 2002
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Reschs Platonischer Funktionalismus",
     "summary": "Jason Resch verbindet Funktionalismus (das Bewusstsein eines Geistes hängt allein von seiner funktionalen Organisation ab) mit mathematischem Platonismus (alle mathematischen Objekte, einschließlich jeder Berechnung, existieren). Da manche platonischen Berechnungen unser Universum und seine Beobachter simulieren, könnten wir selbst diese Berechnungen sein. Resch verzichtet deshalb auf eine eigenständige physische Welt und gelangt zu einem „mathematischen Monismus“, in dem Geister und Physik aus Berechnung hervorgehen.",
-    "associated_thinkers": ["Jason Resch"],
+    "associated_thinkers": [
+      "Jason Resch"
+    ],
     "category": "Integrierte Info",
     "subcategory": "",
     "core_identity_tagline": "Geister und Welten als platonische Berechnungen",
-    "classification_tags": ["functionalism", "platonism", "computation", "mathematical monism", "substrate independence"]
+    "classification_tags": [
+      "functionalism",
+      "platonism",
+      "computation",
+      "mathematical monism",
+      "substrate independence"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein wird vollständig durch funktionale Organisation bestimmt, und jede funktionale Organisation existiert als Berechnung unter platonischen mathematischen Objekten.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Resch argumentiert, dass eine Emulation des menschlichen Gehirns auf genau dieselbe Weise bewusst sein muss wie das biologische Gehirn."
     },
     "survival_beyond_death": {
@@ -58,19 +66,33 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Da die funktionale Organisation das Bewusstsein vollständig festlegt, würde eine getreue Emulation denselben Geist und dieselben Qualia tragen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Functionalism", "relationship": "Grundlage" },
-      { "name": "Wolfram's Consciousness in the Ruliad", "relationship": "Überschneidung" },
-      { "name": "Zuboff’s Universalism", "relationship": "Einfluss" },
-      { "name": "Bostrom’s Computational Functionalism", "relationship": "Überschneidung" }
+      {
+        "name": "Functionalism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Wolfram's Consciousness in the Ruliad",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Zuboff’s Universalism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Bostrom’s Computational Functionalism",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Resch’s Platonic Functionalism, Jason Resch" }
+      {
+        "title_with_names": "Resch’s Platonic Functionalism, Jason Resch"
+      }
     ]
   }
 }

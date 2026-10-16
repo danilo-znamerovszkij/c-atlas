@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Thomas von Aquins Hylemorphismus",
     "summary": "Thomas von Aquin vertritt die Auffassung, dass die Seele die substantielle Form des Körpers ist, sodass ein Mensch ein einziges Lebewesen ist und nicht ein in einer Maschine untergebrachter Geist. Die Sinneswahrnehmung empfängt die Form eines Gegenstands ohne dessen Materie, und ein inneres Vermögen, der Gemeinsinn (sensus communis), vereint die Sinne und macht uns bewusst, dass wir wahrnehmen. Der Intellekt ist immateriell, muss aber durch sinnliche Vorstellungen arbeiten, und der Geist erkennt sich selbst nur mittelbar, durch seine eigenen Akte.",
-    "associated_thinkers": ["Thomas Aquinas"],
+    "associated_thinkers": [
+      "Thomas Aquinas"
+    ],
     "category": "Dualismus",
     "subcategory": "",
     "core_identity_tagline": "Die Seele als Form des lebendigen Körpers",
-    "classification_tags": ["hylomorphism", "scholasticism", "intentionality", "soul", "self-knowledge"]
+    "classification_tags": [
+      "hylomorphism",
+      "scholasticism",
+      "intentionality",
+      "soul",
+      "self-knowledge"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Was wir heute phänomenales Bewusstsein nennen, gehört zum sinnlichen Leben des verkörperten Tieres: Die Sinnesorgane empfangen die Formen der Dinge ‚intentional‘, und der Gemeinsinn integriert sie zu einem einzigen Wahrnehmungsvorgang. Die reflexive menschliche Gewahrwerdung fügt einen immateriellen Intellekt hinzu, der aus sinnlichen Vorstellungen Universalien abstrahiert.",
@@ -46,40 +54,79 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Sinnliches Gewahrsein gehört zu organisierten lebendigen Körpern, und die vernünftige Seele wird unmittelbar von Gott geschaffen, sodass einem Artefakt beides fehlt. Thomas’ körperlose Engel zeigen Erkenntnis ohne Sinne, doch das hängt davon ab, wie ein Wesen erschaffen wird, und nicht davon, wie es organisiert ist."
     },
     "survival_beyond_death": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Die vernünftige Seele ist selbständig und überdauert den Tod, indem sie durch von Gott eingegossene Species erkennt. Thomas nennt diesen getrennten Zustand unnatürlich und unvollständig, daher erfordert das volle menschliche Leben die leibliche Auferstehung."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Der Mensch ist nach dem Bild Gottes geschaffen, und sein letztes Ziel ist die unmittelbare Schau des göttlichen Wesens, erreicht durch das übernatürliche ‚Licht der Herrlichkeit‘."
     },
     "virtual_immortality": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da die Person der integrierte Organismus aus Leib und Seele ist und die vernünftige Seele von Gott stammt, würde das Kopieren eines Musters in eine Maschine die Person nicht fortsetzen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Aristotle’s Hylomorphism", "relationship": "Grundlage" },
-      { "name": "Descartes’s Substance Dualism", "relationship": "Kontrast" },
-      { "name": "Brentano’s Intentionality and Self-Awareness", "relationship": "Einfluss" },
-      { "name": "Jaworski's Hylomorphism", "relationship": "Erweiterung" }
+      {
+        "name": "Aristotle’s Hylomorphism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Brentano’s Intentionality and Self-Awareness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Jaworski's Hylomorphism",
+        "relationship": "Erweiterung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Summa Theologiae, Thomas Aquinas" },
-      { "title_with_names": "Quaestiones disputatae de veritate, Thomas Aquinas" },
-      { "title_with_names": "Sentencia libri De anima, Thomas Aquinas" },
-      { "title_with_names": "De unitate intellectus contra Averroistas, Thomas Aquinas", "year": 1270 },
-      { "title_with_names": "Consciousness and Self-Knowledge in Aquinas's Critique of Averroes's Psychology, D. L. Black", "year": 1993 },
-      { "title_with_names": "Aquinas on 'Spiritual Change' in Perception, M. F. Burnyeat", "year": 2001 },
-      { "title_with_names": "Aquinas on Human Self-Knowledge, T. S. Cory", "year": 2014 },
-      { "title_with_names": "Aquinas's Theory of Perception: An Analytic Reconstruction, A. J. Lisska", "year": 2016 },
-      { "title_with_names": "Thomas Aquinas on Human Nature, R. Pasnau", "year": 2002 },
-      { "title_with_names": "Aquinas, E. Stump", "year": 2003 }
+      {
+        "title_with_names": "Summa Theologiae, Thomas Aquinas"
+      },
+      {
+        "title_with_names": "Quaestiones disputatae de veritate, Thomas Aquinas"
+      },
+      {
+        "title_with_names": "Sentencia libri De anima, Thomas Aquinas"
+      },
+      {
+        "title_with_names": "De unitate intellectus contra Averroistas, Thomas Aquinas",
+        "year": 1270
+      },
+      {
+        "title_with_names": "Consciousness and Self-Knowledge in Aquinas's Critique of Averroes's Psychology, D. L. Black",
+        "year": 1993
+      },
+      {
+        "title_with_names": "Aquinas on 'Spiritual Change' in Perception, M. F. Burnyeat",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Aquinas on Human Self-Knowledge, T. S. Cory",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Aquinas's Theory of Perception: An Analytic Reconstruction, A. J. Lisska",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Thomas Aquinas on Human Nature, R. Pasnau",
+        "year": 2002
+      },
+      {
+        "title_with_names": "Aquinas, E. Stump",
+        "year": 2003
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Yetter-Chappells nichttheistischer Idealismus",
     "summary": "Helen Yetter-Chappell entwickelt einen quasi-berkeleyschen realistischen Idealismus ohne Gott. Die Wirklichkeit ist eine umfassende Einheit bewusster Erfahrung, die Erfahrungen jedes Gegenstandes aus jeder Perspektive zusammenhält und die Welt stabil hält, wenn niemand hinsieht. Damit verbindet sie die Verteidigung eines epiphänomenalistischen Dualismus, nach dem einzelne Erfahrungen kausal wirkungslos sind und dennoch den eigentlichen Stoff der Wirklichkeit bilden.",
-    "associated_thinkers": ["Helen Yetter-Chappell"],
+    "associated_thinkers": [
+      "Helen Yetter-Chappell"
+    ],
     "category": "Idealismus",
     "subcategory": "",
     "core_identity_tagline": "Wirklichkeit als gottlose Einheit der Erfahrung",
-    "classification_tags": ["idealism", "berkeley", "epiphenomenalism", "direct realism", "perception"]
+    "classification_tags": [
+      "idealism",
+      "berkeley",
+      "epiphenomenalism",
+      "direct realism",
+      "perception"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist der grundlegende Bestandteil der Wirklichkeit. Die Welt ist eine einheitliche Erfahrung, die Erfahrungen von jedem Gegenstand aus jeder Perspektive umfasst. Sie ist, in Yetter-Chappells Bild, aus Erfahrungsfäden gewebt.",
@@ -54,7 +62,7 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Die Einheit der Erfahrung, die die Wirklichkeit begründet, hat weder Wünsche, Absichten noch Handlungsfähigkeit. Sie liefert daher keinen kosmischen Zweck."
     },
     "virtual_immortality": {
@@ -64,14 +72,31 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Berkeley’s Immaterialist Idealism", "relationship": "Erweiterung" },
-      { "name": "Epiphenomenalism", "relationship": "Überschneidung" },
-      { "name": "Fish’s Naïve Realism", "relationship": "Kritik" },
-      { "name": "Kastrup's Analytic Idealism", "relationship": "Kompatibel" }
+      {
+        "name": "Berkeley’s Immaterialist Idealism",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Fish’s Naïve Realism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Kastrup's Analytic Idealism",
+        "relationship": "Kompatibel"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The View From Everywhere: Realist Idealism Without God, Helen Yetter-Chappell" },
-      { "title_with_names": "Yetter-Chappell’s Non-Theistic Idealism, Helen Yetter-Chappell", "year": 2017 }
+      {
+        "title_with_names": "The View From Everywhere: Realist Idealism Without God, Helen Yetter-Chappell"
+      },
+      {
+        "title_with_names": "Yetter-Chappell’s Non-Theistic Idealism, Helen Yetter-Chappell",
+        "year": 2017
+      }
     ]
   }
 }

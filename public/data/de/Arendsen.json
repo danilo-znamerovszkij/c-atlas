@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Arendsens Komplexer Idealismus",
     "summary": "Albert R.J. (Richard) Arendsen vertritt die Auffassung, dass die Wirklichkeit ein kontinuierlicher geistiger und informationeller Fluss der Dauer ist und dass Bewusstsein eine ‚unteilbare Einheit‘ ist, die keine Berechnung modellieren kann. Das gemessene physische Universum ist ein sekundärer, erstarrter Schnappschuss dieses Flusses, und Arendsen bietet ein mathematisches Modell der Schnittstelle, an der der Fluss zu diskreten physischen Ereignissen wird. ‚Komplex‘ bezeichnet eine Struktur mit zwei Aspekten, die ‚reelle‘ und ‚imaginäre‘ Bereiche verbindet, wie bei komplexen Zahlen.",
-    "associated_thinkers": ["Albert R.J. (Richard) Arendsen"],
+    "associated_thinkers": [
+      "Albert R.J. (Richard) Arendsen"
+    ],
     "category": "Idealismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als unteilbarer, kontinuierlicher Fluss der Dauer",
-    "classification_tags": ["process idealism", "duration", "non-computational", "bergson", "phase space"]
+    "classification_tags": [
+      "process idealism",
+      "duration",
+      "non-computational",
+      "bergson",
+      "phase space"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist eine primäre, kontinuierliche geistige Beweglichkeit, ein unteilbarer qualitativer Fluss der Dauer, der das Gewebe der Wirklichkeit bildet.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Bewusstsein ist kein Rechenergebnis, daher könnte kein KI-System es durch Rechnen hervorbringen."
     },
     "survival_beyond_death": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Arendsen vertritt, dass der Beobachter ein Ausdruck der kontinuierlichen Dauer ist; daher ist die physische Sterblichkeit eine erstarrte Abstraktion der Messung, und dem wahrnehmenden Wesen wird die Ewigkeit nie verwehrt."
     },
     "meaning_and_purpose": {
@@ -58,24 +66,54 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein nicht rechnerisch modelliert werden kann, würde eine digitale Simulation einer Person deren Bewusstsein nicht tragen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Bergson's Multiplicity, Duration, Perception, Memory", "relationship": "Grundlage" },
-      { "name": "Kastrup's Analytic Idealism", "relationship": "Kontrast" },
-      { "name": "Whitehead's Process Theory", "relationship": "Kompatibel" },
-      { "name": "Computational Theories", "relationship": "Kritik" }
+      {
+        "name": "Bergson's Multiplicity, Duration, Perception, Memory",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Kastrup's Analytic Idealism",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Generative Universal Transformers of Complex Idealism: Metaphysical Model, Albert R.J. Arendsen", "year": 2026 },
-      { "title_with_names": "The Grand Phase Architecture of the New SI Units: Structural Placeholders and Active Rotations in Complex Idealism, Albert R.J. Arendsen", "year": 2026 },
-      { "title_with_names": "The Actuation Impulse of Complex Idealism: How the Measured Universe Splits into Recursive Timeless Movements, Albert R.J. Arendsen", "year": 2026 },
-      { "title_with_names": "The Quaternionic Split: How 4D Rational Rotations Apportion the Indivisible Continuum of Complex Idealism, Albert R.J. Arendsen", "year": 2026 },
-      { "title_with_names": "The Sensory Complex Features Model of Complex Idealism in a Flash, Albert R.J. Arendsen", "year": 2025 },
-      { "title_with_names": "Time and Free Will: An Essay on the Immediate Data of Consciousness, Henri Bergson", "year": 1889 }
+      {
+        "title_with_names": "The Generative Universal Transformers of Complex Idealism: Metaphysical Model, Albert R.J. Arendsen",
+        "year": 2026
+      },
+      {
+        "title_with_names": "The Grand Phase Architecture of the New SI Units: Structural Placeholders and Active Rotations in Complex Idealism, Albert R.J. Arendsen",
+        "year": 2026
+      },
+      {
+        "title_with_names": "The Actuation Impulse of Complex Idealism: How the Measured Universe Splits into Recursive Timeless Movements, Albert R.J. Arendsen",
+        "year": 2026
+      },
+      {
+        "title_with_names": "The Quaternionic Split: How 4D Rational Rotations Apportion the Indivisible Continuum of Complex Idealism, Albert R.J. Arendsen",
+        "year": 2026
+      },
+      {
+        "title_with_names": "The Sensory Complex Features Model of Complex Idealism in a Flash, Albert R.J. Arendsen",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Time and Free Will: An Essay on the Immediate Data of Consciousness, Henri Bergson",
+        "year": 1889
+      }
     ]
   }
 }

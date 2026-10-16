@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Budsons Bewusstsein als Gedächtnissystem",
     "summary": "Andrew Budson und Mitarbeiter argumentieren, dass sich Bewusstsein als Teil des episodischen Gedächtnissystems entwickelt hat, um Erfahrungen zu speicherbaren Episoden zu bündeln, die flexibel neu kombiniert werden können, um die Zukunft zu simulieren. Da das Gehirn zu langsam ist, als dass Gewahrsein das Handeln in Echtzeit lenken könnte, ist das, was wir als Wahrnehmung der Gegenwart erleben, eine Erinnerung an die Welt von einigen hundert Millisekunden zuvor.",
-    "associated_thinkers": ["Andrew E. Budson"],
+    "associated_thinkers": [
+      "Andrew E. Budson"
+    ],
     "category": "Materialismus",
     "subcategory": "Homöostatisch",
     "core_identity_tagline": "Bewusstsein als episodisches Gedächtnissystem",
-    "classification_tags": ["episodic memory", "hippocampus", "future simulation", "evolution", "neurology"]
+    "classification_tags": [
+      "episodic memory",
+      "hippocampus",
+      "future simulation",
+      "evolution",
+      "neurology"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist das Gedächtnissystem: die ‚Schreib‘-Funktion des episodischen Gedächtnisses, die explizite Ereignisgedächtnisse erzeugt und abruft. In Budsons Worten: ‚Wir nehmen die Welt nicht in Echtzeit wahr; wir erinnern sie.‘",
@@ -46,31 +54,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Da Bewusstsein mit einer bestimmten funktionalen Gedächtnisleistung identifiziert wird, könnte ein künstliches System, das explizite Episoden erzeugt, bindet und abspielt, um die Zukunft zu simulieren, im Prinzip qualifiziert sein, auch wenn Budson dies nicht behandelt."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Bewusstsein ist das episodische Gedächtnissystem des Gehirns und endet daher, wenn diese Schaltkreise aufhören."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Bewusstsein hat sich entwickelt, um flexibles, anpassungsfähiges und kreatives menschliches Verhalten zu ermöglichen, ohne einen über den Organismus hinausreichenden Zweck."
     },
     "virtual_immortality": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Würde die funktionale Organisation des episodischen Gedächtnisses reproduziert, gäbe es keinen prinzipiellen Grund, warum Bewusstsein nicht folgen würde."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "McComas's Hippocampal Memory-Stream Theory", "relationship": "Überschneidung" },
-      { "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness", "relationship": "Vereinbar" },
-      { "name": "James’s Stream of Thought/Consciousness", "relationship": "Einfluss" },
-      { "name": "Dennett's Multiple Drafts Model", "relationship": "Vereinbar" }
+      {
+        "name": "McComas's Hippocampal Memory-Stream Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "James’s Stream of Thought/Consciousness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Consciousness as a Memory System, Andrew E. Budson and colleagues", "year": 2022 }
+      {
+        "title_with_names": "Consciousness as a Memory System, Andrew E. Budson and colleagues",
+        "year": 2022
+      }
     ]
   }
 }

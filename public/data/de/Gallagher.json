@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Gallaghers verkörpertes Selbst und interaktives Bewusstsein",
     "summary": "Shaun Gallagher vertritt die Auffassung, dass Bewusstsein eine Tätigkeit des gesamten verkörperten Organismus ist, der sich mit seiner Umwelt und anderen Menschen auseinandersetzt, und kein Prozess im Inneren des Gehirns. Er schärft zwei Unterscheidungen, Körperbild gegenüber Körperschema und minimales Selbst gegenüber narrativem Selbst, die dem leiblichen Selbstgewahrsein einen prüfbaren Gehalt geben. Seine Methode, die ‚vorgelagerte‘ Phänomenologie, baut phänomenologische Unterscheidungen von Beginn an in das experimentelle Design ein.",
-    "associated_thinkers": ["Shaun Gallagher"],
+    "associated_thinkers": [
+      "Shaun Gallagher"
+    ],
     "category": "Phänomenologie",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als verkörperte Handlungsfähigkeit im Bezug auf Welt und Andere",
-    "classification_tags": ["embodiment", "enactivism", "4e cognition", "minimal self", "body schema"]
+    "classification_tags": [
+      "embodiment",
+      "enactivism",
+      "4e cognition",
+      "minimal self",
+      "body schema"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Phänomenales Bewusstsein ist die situierte, handlungsorientierte, affektiv modulierte und sozial eingebettete Offenheit des erlebten Leibes für die Welt, konstituiert in der dynamischen Kopplung von Gehirn, Körper und Umwelt.",
@@ -46,39 +54,77 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da Bewusstsein hier eine Tätigkeit eines lebenden, mit seiner Welt gekoppelten Körpers ist, fehlt einem körperlosen System das Erforderliche. Ein künstliches System bräuchte zumindest einen Körper und echte sensomotorische Auseinandersetzung, was Gallagher nicht direkt behandelt."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Es folgt aus der Auffassung, dass Bewusstsein die Tätigkeit eines verkörperten, mit seiner Umwelt befassten Organismus ist, der mit dem Organismus endet."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Selbstheit und Sinn entstehen im verkörperten Handeln, in der Interaktion und in der persönlichen Erzählung, ohne Berufung auf einen kosmischen Zweck."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Das Hochladen von Information würde den Körper und seine Kopplung an die Welt zurücklassen, die diese Auffassung als Teil des Bewusstseins selbst behandelt."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Merleau-Ponty's Embodied Perception and the Lived Body", "relationship": "Grundlage" },
-      { "name": "Varela's Neurophenomenology", "relationship": "Vereinbar" },
-      { "name": "Zahavi’s Pre-Reflective For-Me-Ness", "relationship": "Überschneidung" },
-      { "name": "Dennett’s Heterophenomenology", "relationship": "Kontrast" }
+      {
+        "name": "Merleau-Ponty's Embodied Perception and the Lived Body",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Zahavi’s Pre-Reflective For-Me-Ness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Dennett’s Heterophenomenology",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Body image and body schema: a conceptual clarification, Shaun Gallagher", "year": 1986 },
-      { "title_with_names": "Philosophical conceptions of the self: implications for cognitive science, Shaun Gallagher", "year": 2000 },
-      { "title_with_names": "Phenomenology and experimental design: toward a phenomenologically enlightened experimental science, Shaun Gallagher", "year": 2003 },
-      { "title_with_names": "How the Body Shapes the Mind, Shaun Gallagher", "year": 2005 },
-      { "title_with_names": "Decentering the brain: embodied cognition and the critique of neurocentrism and narrow-minded philosophy of mind, Shaun Gallagher", "year": 2018 },
-      { "title_with_names": "Embodied and Enactive Approaches to Cognition, Shaun Gallagher", "year": 2023 },
-      { "title_with_names": "The Phenomenological Mind, Shaun Gallagher and Dan Zahavi", "year": 2012 },
-      { "title_with_names": "The Oxford Handbook of 4E Cognition, A. Newen, L. De Bruin, and Shaun Gallagher (eds.)", "year": 2018 },
-      { "title_with_names": "Gallagher’s Embodied Self and Interactive Consciousness, Landscape of Consciousness (Closer To Truth)" }
+      {
+        "title_with_names": "Body image and body schema: a conceptual clarification, Shaun Gallagher",
+        "year": 1986
+      },
+      {
+        "title_with_names": "Philosophical conceptions of the self: implications for cognitive science, Shaun Gallagher",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Phenomenology and experimental design: toward a phenomenologically enlightened experimental science, Shaun Gallagher",
+        "year": 2003
+      },
+      {
+        "title_with_names": "How the Body Shapes the Mind, Shaun Gallagher",
+        "year": 2005
+      },
+      {
+        "title_with_names": "Decentering the brain: embodied cognition and the critique of neurocentrism and narrow-minded philosophy of mind, Shaun Gallagher",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Embodied and Enactive Approaches to Cognition, Shaun Gallagher",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Phenomenological Mind, Shaun Gallagher and Dan Zahavi",
+        "year": 2012
+      },
+      {
+        "title_with_names": "The Oxford Handbook of 4E Cognition, A. Newen, L. De Bruin, and Shaun Gallagher (eds.)",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Gallagher’s Embodied Self and Interactive Consciousness, Landscape of Consciousness (Closer To Truth)"
+      }
     ]
   }
 }

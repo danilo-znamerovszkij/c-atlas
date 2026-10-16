@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Birchs vergleichende Empfindungsfähigkeit: Bewusstseinsprofile über verschiedene Geister hinweg",
     "summary": "Birch bietet eine Methode, Bewusstsein bei Tieren und KI zu untersuchen, ohne zuvor festzulegen, was Bewusstsein ist. Er stützt die Untersuchung auf eine minimale, ‚theoriearme‘ Hypothese (bewusste Wahrnehmung ermöglicht ein Bündel flexibler Fähigkeiten, die unbewusste Wahrnehmung nicht ermöglicht), ersetzt ‚mehr oder weniger bewusst‘ durch Profile über fünf Dimensionen und schreibt für jeden ‚Kandidaten für Empfindungsfähigkeit‘ eine verhältnismäßige Vorsicht vor.",
-    "associated_thinkers": ["Jonathan Birch"],
+    "associated_thinkers": [
+      "Jonathan Birch"
+    ],
     "category": "Materialismus",
     "subcategory": "Phylogenetisch",
     "core_identity_tagline": "Empfindungsfähigkeit über Arten hinweg unter Ungewissheit kartiert",
-    "classification_tags": ["animal sentience", "methodology", "precaution", "comparative cognition", "ai"]
+    "classification_tags": [
+      "animal sentience",
+      "methodology",
+      "precaution",
+      "comparative cognition",
+      "ai"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Birch definiert Empfindungsfähigkeit weit als die Fähigkeit zu phänomenalem Bewusstsein und eng als die Fähigkeit zu valenter Erfahrung, also zu Zuständen, die sich für ihr Subjekt gut oder schlecht anfühlen. Er identifiziert Bewusstsein mit keiner bestimmten physischen oder funktionalen Eigenschaft.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Birch zählt nichtbiologische Systeme als mögliche Kandidaten für Empfindungsfähigkeit, die Vorsicht rechtfertigen, warnt aber, dass Verhaltensbelege aus Sprachmodellen unzuverlässig sind."
     },
     "survival_beyond_death": {
@@ -54,7 +62,7 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Birchs Anliegen ist ethisch und praktisch: den Schutz jedes Wesens, das leiden können könnte, ohne Anspruch auf kosmischen Sinn."
     },
     "virtual_immortality": {
@@ -64,18 +72,48 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Ginsburg and Jablonka's Associative Learning During Evolution", "relationship": "Überschneidung" },
-      { "name": "Bayne’s Unified, Multidimensional Consciousness: Structure Before Mechanism", "relationship": "Überschneidung" },
-      { "name": "Block's Biological Reductionism", "relationship": "Kontrast" },
-      { "name": "Andrews's Consciousness Without Complex Brains", "relationship": "Kompatibel" }
+      {
+        "name": "Ginsburg and Jablonka's Associative Learning During Evolution",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Bayne’s Unified, Multidimensional Consciousness: Structure Before Mechanism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Block's Biological Reductionism",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Andrews's Consciousness Without Complex Brains",
+        "relationship": "Kompatibel"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI, Jonathan Birch", "year": 2024 },
-      { "title_with_names": "The Search for Invertebrate Consciousness, Jonathan Birch", "year": 2022 },
-      { "title_with_names": "Dimensions of Animal Consciousness, Jonathan Birch, A. K. Schnell and N. S. Clayton", "year": 2020 },
-      { "title_with_names": "Review of the Evidence of Sentience in Cephalopod Molluscs and Decapod Crustaceans, Jonathan Birch, C. Burn, A. Schnell, H. Browning and A. Crump", "year": 2021 },
-      { "title_with_names": "The Learning-Consciousness Connection, Jonathan Birch, S. Ginsburg and E. Jablonka", "year": 2021 },
-      { "title_with_names": "On a Confusion About a Function of Consciousness, Ned Block", "year": 1995 }
+      {
+        "title_with_names": "The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI, Jonathan Birch",
+        "year": 2024
+      },
+      {
+        "title_with_names": "The Search for Invertebrate Consciousness, Jonathan Birch",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Dimensions of Animal Consciousness, Jonathan Birch, A. K. Schnell and N. S. Clayton",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Review of the Evidence of Sentience in Cephalopod Molluscs and Decapod Crustaceans, Jonathan Birch, C. Burn, A. Schnell, H. Browning and A. Crump",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Learning-Consciousness Connection, Jonathan Birch, S. Ginsburg and E. Jablonka",
+        "year": 2021
+      },
+      {
+        "title_with_names": "On a Confusion About a Function of Consciousness, Ned Block",
+        "year": 1995
+      }
     ]
   }
 }

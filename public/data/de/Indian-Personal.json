@@ -2,11 +2,25 @@
   "id_and_class": {
     "theory_title": "Indisches personales Bewusstsein: pluraler Selbste und reale Materie",
     "summary": "Eine Minderheit indischer Traditionen (Sāṃkhya und Yoga, Nyāya-Vaiśeṣika, Jainismus und die theistischen Vedāntas von Rāmānuja, Madhva und Chaitanya) vertritt die Auffassung, dass bewusste Selbste unauflöslich vielfältig und Materie unauflöslich real sind. Sie verwerfen beide advaitischen Schritte: die Materie auf eine Erscheinung im Bewusstsein zu reduzieren und viele Subjekte als ein fehlwahrgenommenes Subjekt zu behandeln. In der Befreiung überdauert das individuelle Erfahrungszentrum als Individuum.",
-    "associated_thinkers": ["Swami Medhananda", "Swami Sarvapriyananda", "Īśvarakṛṣṇa", "Umāsvāti", "Rāmānuja", "Madhva", "Chaitanya"],
+    "associated_thinkers": [
+      "Swami Medhananda",
+      "Swami Sarvapriyananda",
+      "Īśvarakṛṣṇa",
+      "Umāsvāti",
+      "Rāmānuja",
+      "Madhva",
+      "Chaitanya"
+    ],
     "category": "Dualismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als viele ewige Selbste in realer Materie",
-    "classification_tags": ["indian philosophy", "pluralism", "vedanta", "jainism", "sāṃkhya"]
+    "classification_tags": [
+      "indian philosophy",
+      "pluralism",
+      "vedanta",
+      "jainism",
+      "sāṃkhya"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein gehört einzelnen Selbsten, die als ewige Seiende in eigenem Recht bestehen. Für Sāṃkhya, Jainismus und die Vedāntas ist es das Wesen des Selbst, für Nyāya eine zufällige Eigenschaft des Selbst.",
@@ -46,37 +60,70 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Geist und Materie unbeseelt sind und Bewusstsein nur ewigen Selbsten zukommt, würde der Bau einer Maschine kein neues bewusstes Subjekt hervorbringen."
     },
     "survival_beyond_death": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Selbste sind ewig, werden durch viele Leben wiedergeboren und überdauern die Befreiung als Individuen."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Jede Tradition deutet das Leben als Weg zur Befreiung, sei es als Isolation, als Reinigung von Karma oder als ewige Beziehung zu Gott."
     },
     "virtual_immortality": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Eine digitale Kopie würde nur materielle, unbeseelte Prozesse reproduzieren, nicht das Selbst, das diese erlebt."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Indian Cosmic Consciousness", "relationship": "Kontrast" },
-      { "name": "Sāṃkhya's Pure Witness and the Material Mind", "relationship": "Überschneidung" },
-      { "name": "Nyāya’s Contingent Consciousness of the Enduring Self", "relationship": "Überschneidung" },
-      { "name": "Gomatam’s GV Vedanta Consciousness", "relationship": "Überschneidung" }
+      {
+        "name": "Indian Cosmic Consciousness",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Sāṃkhya's Pure Witness and the Material Mind",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Nyāya’s Contingent Consciousness of the Enduring Self",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Gomatam’s GV Vedanta Consciousness",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Classical Sāṃkhya: An Interpretation of Its History and Meaning, G. J. Larson", "year": 1979 },
-      { "title_with_names": "Sāṃkhya: A Dualist Tradition in Indian Philosophy, G. J. Larson and R. S. Bhattacharya (eds.)", "year": 1987 },
-      { "title_with_names": "Mind/Consciousness Dualism in Sāṅkhya-Yoga Philosophy, P. Schweizer", "year": 1993 },
-      { "title_with_names": "The Jaina Path of Purification, P. S. Jaini", "year": 1979 },
-      { "title_with_names": "The Theology of Rāmānuja, J. B. Carman", "year": 1974 },
-      { "title_with_names": "Philosophy of Śrī Madhvācārya, B. N. K. Sharma", "year": 1962 },
-      { "title_with_names": "The Caitanya Vaiṣṇava Vedānta of Jīva Gosvāmī, R. M. Gupta", "year": 2007 }
+      {
+        "title_with_names": "Classical Sāṃkhya: An Interpretation of Its History and Meaning, G. J. Larson",
+        "year": 1979
+      },
+      {
+        "title_with_names": "Sāṃkhya: A Dualist Tradition in Indian Philosophy, G. J. Larson and R. S. Bhattacharya (eds.)",
+        "year": 1987
+      },
+      {
+        "title_with_names": "Mind/Consciousness Dualism in Sāṅkhya-Yoga Philosophy, P. Schweizer",
+        "year": 1993
+      },
+      {
+        "title_with_names": "The Jaina Path of Purification, P. S. Jaini",
+        "year": 1979
+      },
+      {
+        "title_with_names": "The Theology of Rāmānuja, J. B. Carman",
+        "year": 1974
+      },
+      {
+        "title_with_names": "Philosophy of Śrī Madhvācārya, B. N. K. Sharma",
+        "year": 1962
+      },
+      {
+        "title_with_names": "The Caitanya Vaiṣṇava Vedānta of Jīva Gosvāmī, R. M. Gupta",
+        "year": 2007
+      }
     ]
   }
 }

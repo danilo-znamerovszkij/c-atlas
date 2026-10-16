@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Armstrongs Theorie der Wahrnehmung höherer Stufe",
     "summary": "David Armstrong schlägt vor, dass ein mentaler Zustand introspektiv bewusst wird, wenn ein ‚innerer Sinn‘ ihn abtastet und ein wahrnehmungsartiges Gewahrsein dieses Zustands erzeugt. Nach seinem Zentralzustands-Materialismus sind sowohl der abgetastete Zustand als auch das Abtasten Gehirnprozesse; Bewusstsein ist daher eine relationale Eigenschaft, die ein Zustand dadurch erhält, dass er überwacht wird. Ob das Abtasten das phänomenale Gefühl erzeugt oder einen ohnehin gefühlten Zustand nur seinem Subjekt zugänglich macht, bleibt umstritten.",
-    "associated_thinkers": ["David Malet Armstrong", "William Lycan"],
+    "associated_thinkers": [
+      "David Malet Armstrong",
+      "William Lycan"
+    ],
     "category": "Materialismus",
     "subcategory": "Höherer Ordnung",
     "core_identity_tagline": "Bewusstsein als der Geist, der sich selbst wahrnimmt",
-    "classification_tags": ["higher-order perception", "inner sense", "introspection", "central-state materialism", "self-monitoring"]
+    "classification_tags": [
+      "higher-order perception",
+      "inner sense",
+      "introspection",
+      "central-state materialism",
+      "self-monitoring"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Introspektives Bewusstsein ist innere Wahrnehmung: Ein Gehirnprozess tastet einen anderen ab und erzeugt nicht-inferenzielle Information über die gegenwärtigen mentalen Zustände des Subjekts.",
@@ -46,37 +55,70 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Da mentale Zustände durch kausale Rolle definiert sind und der innere Sinn eine Überwachungsfunktion ist, hätte eine Maschine, die ihre eigenen Zustände auf die richtige Weise abtastet, prinzipiell introspektives Bewusstsein."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Alle mentalen Zustände, einschließlich des inneren Abtastens, sind Gehirnzustände und enden daher mit dem Gehirn."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Ein strenger wissenschaftlicher Materialismus lässt keinen Raum für kosmischen Sinn."
     },
     "virtual_immortality": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Werden Zustände durch kausale Rolle individuiert, würde die Reproduktion dieser Rollen und ihrer Selbstüberwachung in einem anderen System prinzipiell das introspektive Bewusstsein reproduzieren."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Armstrong’s Causal-Role Central-State Materialism", "relationship": "Grundlage" },
-      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Kontrast" },
-      { "name": "Lycan's Homuncular Functionalism", "relationship": "Kompatibel" },
-      { "name": "Carruthers’s First-Order Representationalism", "relationship": "Kritik" }
+      {
+        "name": "Armstrong’s Causal-Role Central-State Materialism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Rosenthal’s Higher-Order Thought",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Lycan's Homuncular Functionalism",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Carruthers’s First-Order Representationalism",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "A Materialist Theory of the Mind, David M. Armstrong", "year": 1968 },
-      { "title_with_names": "Three Types of Consciousness, David M. Armstrong", "year": 1979 },
-      { "title_with_names": "What Is Consciousness?, David M. Armstrong", "year": 1981 },
-      { "title_with_names": "Consciousness and Causality: A Debate on the Nature of Mind, David M. Armstrong and N. Malcolm", "year": 1984 },
-      { "title_with_names": "Consciousness and Experience, William G. Lycan", "year": 1996 },
-      { "title_with_names": "Armstrong’s Just-So Story About Consciousness, D. Stoljar", "year": 2021 },
-      { "title_with_names": "Armstrong's Materialist Theory of Mind, Peter R. Anstey and David Braddon-Mitchell (eds.)", "year": 2024 }
+      {
+        "title_with_names": "A Materialist Theory of the Mind, David M. Armstrong",
+        "year": 1968
+      },
+      {
+        "title_with_names": "Three Types of Consciousness, David M. Armstrong",
+        "year": 1979
+      },
+      {
+        "title_with_names": "What Is Consciousness?, David M. Armstrong",
+        "year": 1981
+      },
+      {
+        "title_with_names": "Consciousness and Causality: A Debate on the Nature of Mind, David M. Armstrong and N. Malcolm",
+        "year": 1984
+      },
+      {
+        "title_with_names": "Consciousness and Experience, William G. Lycan",
+        "year": 1996
+      },
+      {
+        "title_with_names": "Armstrong’s Just-So Story About Consciousness, D. Stoljar",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Armstrong's Materialist Theory of Mind, Peter R. Anstey and David Braddon-Mitchell (eds.)",
+        "year": 2024
+      }
     ]
   }
 }

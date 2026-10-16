@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Mishloves über das Gehirn hinausgehendes, durch das Gehirn gefiltertes Überlebensbewusstsein",
     "summary": "Jeffrey Mishlove vertritt die Auffassung, dass Bewusstsein fundamental ist und dass das Gehirn eine umfassendere universelle Geistigkeit filtert, lokalisiert und begrenzt, statt Erfahrung hervorzubringen. Er stützt die Sicht auf den Idealismus, den er aus Gründen der Sparsamkeit wählt, und auf die Konvergenz von neun Linien anomaler Evidenz, von Psi-Experimenten und Nahtoderfahrungen bis zu Reinkarnationsfällen und Medialität, die seiner Meinung nach das Überleben des leiblichen Todes eher erwartbar als anomal machen.",
-    "associated_thinkers": ["Jeffrey Mishlove"],
+    "associated_thinkers": [
+      "Jeffrey Mishlove"
+    ],
     "category": "Anomal",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als universeller Geist, den das Gehirn filtert",
-    "classification_tags": ["filter theory", "survival", "parapsychology", "idealism", "hyperspace"]
+    "classification_tags": [
+      "filter theory",
+      "survival",
+      "parapsychology",
+      "idealism",
+      "hyperspace"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist die Grundnatur eines geistartigen Universums. Persönliches Gewahrsein ist ein lokalisierter Anteil einer umfassenderen Geistigkeit im Allgemeinen, der durch das Gehirn zugelassen wird.",
@@ -51,11 +59,11 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Da das Gehirn Bewusstsein filtert, statt es zu erzeugen, erwartet Mishlove, dass Erfahrung den leiblichen Tod überdauert, und betrachtet Überlebensevidenz als Bestätigung dessen."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Im Anschluss an seinen Mentor Arthur M. Young vertritt Mishlove die Auffassung, dass Zweck dem Dasein eingeschrieben ist und dass wir Teil eines Prozesses sind, durch den Bewusstsein sich mitfühlend selbst erkennt."
     },
     "virtual_immortality": {
@@ -65,24 +73,72 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "James's Plural Consciousness, Brain as Filter of a Wider Consciousness", "relationship": "Grundlage" },
-      { "name": "Kastrup's Analytic Idealism", "relationship": "Überschneidung" },
-      { "name": "Carr's Quantum Theory, Psi, Mental Space", "relationship": "Einfluss" },
-      { "name": "Van Dusen’s Hyperspatial Dimension Theory", "relationship": "Einfluss" }
+      {
+        "name": "James's Plural Consciousness, Brain as Filter of a Wider Consciousness",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Kastrup's Analytic Idealism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Carr's Quantum Theory, Psi, Mental Space",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Van Dusen’s Hyperspatial Dimension Theory",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Roots of Consciousness: The Classic Encyclopedia of Consciousness Studies (Rev. ed.), Jeffrey Mishlove", "year": 1993 },
-      { "title_with_names": "Beyond the Brain: The Survival of Human Consciousness After Permanent Bodily Death, Jeffrey Mishlove", "year": 2021 },
-      { "title_with_names": "Archetypal Synchronistic Resonance: A New Theory of Paranormal Experience, Jeffrey Mishlove and B. Engen", "year": 2007 },
-      { "title_with_names": "Consciousness: A Hyperspace View, Saul-Paul Sirag", "year": 1993 },
-      { "title_with_names": "Human Immortality: Two Supposed Objections to the Doctrine, William James", "year": 1898 },
-      { "title_with_names": "Essays in Radical Empiricism, William James", "year": 1912 },
-      { "title_with_names": "The Idea of the World, Bernardo Kastrup", "year": 2019 },
-      { "title_with_names": "Hyperspatial Models of Matter and Mind, B. Carr", "year": 2015 },
-      { "title_with_names": "Neural Correlates of the Psychedelic State as Determined by fMRI Studies with Psilocybin, R. L. Carhart-Harris et al.", "year": 2012 },
-      { "title_with_names": "Forgotten Truth: The Primordial Tradition, Huston Smith", "year": 1976 },
-      { "title_with_names": "Applied Scientific Inference, P. A. Sturrock", "year": 1994 },
-      { "title_with_names": "The Reflexive Universe: Evolution of Consciousness, Arthur M. Young", "year": 1999 }
+      {
+        "title_with_names": "The Roots of Consciousness: The Classic Encyclopedia of Consciousness Studies (Rev. ed.), Jeffrey Mishlove",
+        "year": 1993
+      },
+      {
+        "title_with_names": "Beyond the Brain: The Survival of Human Consciousness After Permanent Bodily Death, Jeffrey Mishlove",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Archetypal Synchronistic Resonance: A New Theory of Paranormal Experience, Jeffrey Mishlove and B. Engen",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Consciousness: A Hyperspace View, Saul-Paul Sirag",
+        "year": 1993
+      },
+      {
+        "title_with_names": "Human Immortality: Two Supposed Objections to the Doctrine, William James",
+        "year": 1898
+      },
+      {
+        "title_with_names": "Essays in Radical Empiricism, William James",
+        "year": 1912
+      },
+      {
+        "title_with_names": "The Idea of the World, Bernardo Kastrup",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Hyperspatial Models of Matter and Mind, B. Carr",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Neural Correlates of the Psychedelic State as Determined by fMRI Studies with Psilocybin, R. L. Carhart-Harris et al.",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Forgotten Truth: The Primordial Tradition, Huston Smith",
+        "year": 1976
+      },
+      {
+        "title_with_names": "Applied Scientific Inference, P. A. Sturrock",
+        "year": 1994
+      },
+      {
+        "title_with_names": "The Reflexive Universe: Evolution of Consciousness, Arthur M. Young",
+        "year": 1999
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Molls Vermutung des Mehrspur-Bewusstseins",
     "summary": "Jorge Moll schlägt vor, dass in einem Block-Universum, in dem alle Zeitpunkte gleichermaßen real sind, zu jedem Zeitpunkt eine eigene Instanz jedes bewussten Selbst existiert und jede Instanz nur ihr eigenes ‚Jetzt‘ erlebt. Da diese Spuren nicht aufeinander zugreifen können, erlebt jede ihren Moment als die privilegierte Gegenwart, wodurch sich die erlebte Zeit mit einer eternalistischen Physik versöhnen lässt.",
-    "associated_thinkers": ["Jorge Moll"],
+    "associated_thinkers": [
+      "Jorge Moll"
+    ],
     "category": "Integrierte Info",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als viele Selbste, jedes in seiner eigenen Jetzt-Zeit",
-    "classification_tags": ["time", "block universe", "personal identity", "present moment", "eternalism"]
+    "classification_tags": [
+      "time",
+      "block universe",
+      "personal identity",
+      "present moment",
+      "eternalism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Moll identifiziert Bewusstsein mit keiner Substanz. Er behauptet, dass bewusste Erfahrung als viele augenblicksgebundene Spuren instanziiert wird, die sich über die Raumzeit verteilen, wobei jede auf ein einziges Jetzt beschränkt ist.",
@@ -50,11 +58,11 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "In einem Block-Universum bleibt jeder bewusste Moment real, und Moll vermutet, dass geteilte bewusste Information, die in die Raumzeit eingebettet ist, Identitätskontinuitäten tragen könnte."
     },
     "meaning_and_purpose": {
-      "stance": "Unsicher",
+      "stance": "Uncertain",
       "rationale": "Die Sicht deutet Identität als Netz bewusster Zustände in der Raumzeit um, bleibt aber gegenüber jedem kosmischen Zweck neutral."
     },
     "virtual_immortality": {
@@ -64,13 +72,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Grundlage" },
-      { "name": "Dalla Barba's Temporal Consciousness", "relationship": "Überschneidung" },
-      { "name": "Schooler's Resonance Theory and Subjective Time", "relationship": "Überschneidung" },
-      { "name": "Zuboff’s Universalism", "relationship": "Kompatibel" }
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Dalla Barba's Temporal Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Schooler's Resonance Theory and Subjective Time",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Zuboff’s Universalism",
+        "relationship": "Kompatibel"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Moll’s Multitrack Consciousness Conjecture, Jorge Moll", "year": 2025 }
+      {
+        "title_with_names": "Moll’s Multitrack Consciousness Conjecture, Jorge Moll",
+        "year": 2025
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Zahavis vorreflexives Für-mich-Sein",
     "summary": "Dan Zahavi argumentiert, dass jede bewusste Erfahrung ihrem Subjekt als „für mich“ gegeben ist, ohne einen zusätzlichen Akt der Introspektion oder Reflexion. Dieses vorreflexive Selbstgewahrsein, das er Für-mich-Sein nennt, gehört zur Art, wie Erfahrung gelebt wird, und es konstituiert ein minimales Selbst. Eine Theorie, die es auslässt, hat etwas anderes erklärt als Bewusstsein.",
-    "associated_thinkers": ["Dan Zahavi"],
+    "associated_thinkers": [
+      "Dan Zahavi"
+    ],
     "category": "Phänomenologie",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als vorreflexive Selbstgegebenheit der ersten Person",
-    "classification_tags": ["self-consciousness", "minimal self", "first-person perspective", "psychopathology", "husserl"]
+    "classification_tags": [
+      "self-consciousness",
+      "minimal self",
+      "first-person perspective",
+      "psychopathology",
+      "husserl"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Phänomenales Bewusstsein ist seinem Wesen nach selbstbewusst: Jede Erfahrung zeigt sich ihrem Subjekt auf erste-Person-Weise, und dieses Für-mich-Sein macht sie überhaupt zu einer Erfahrung.",
@@ -47,7 +55,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unsicher",
+      "stance": "Uncertain",
       "rationale": "Nach dieser Auffassung bräuchte ein System erste-Person-Gegebenheit und nicht bloß die richtigen Funktionen oder Repräsentationen. Zahavi bietet dafür keinen Test."
     },
     "survival_beyond_death": {
@@ -55,30 +63,65 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Selbstsein und Sinn gründen in gelebter, verkörperter und interpersonaler Erfahrung, ohne Berufung auf einen kosmischen Zweck."
     },
     "virtual_immortality": {
-      "stance": "Unsicher",
+      "stance": "Uncertain",
       "rationale": "Das Kopieren funktionaler und informationeller Eigenschaften würde das Für-mich-Sein auslassen, das solche Darstellungen nach Zahavi nie erfassen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Kriegel’s Cross-Order Self-Representation", "relationship": "Kontrast" },
-      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Kritik" },
-      { "name": "Metzinger's No-Self Representational Theory of Subjectivity", "relationship": "Kritik" },
-      { "name": "Dennett’s Heterophenomenology", "relationship": "Kritik" }
+      {
+        "name": "Kriegel’s Cross-Order Self-Representation",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Rosenthal’s Higher-Order Thought",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Dennett’s Heterophenomenology",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Self-Awareness and Alterity: A Phenomenological Investigation, Dan Zahavi", "year": 1999 },
-      { "title_with_names": "Subjectivity and Selfhood: Investigating the First-Person Perspective, Dan Zahavi", "year": 2005 },
-      { "title_with_names": "Self and Other: Exploring Subjectivity, Empathy, and Shame, Dan Zahavi", "year": 2014 },
-      { "title_with_names": "For-me-ness: what it is and what it is not, Dan Zahavi and Uriah Kriegel", "year": 2016 },
-      { "title_with_names": "Killing the straw man: Dennett and phenomenology, Dan Zahavi", "year": 2007 },
-      { "title_with_names": "The Phenomenological Mind, Shaun Gallagher and Dan Zahavi", "year": 2012 },
-      { "title_with_names": "Schizophrenia, consciousness, and the self, L. A. Sass and J. Parnas", "year": 2003 },
-      { "title_with_names": "Zahavi’s Pre-Reflective For-Me-Ness, Landscape of Consciousness (Closer To Truth)" }
+      {
+        "title_with_names": "Self-Awareness and Alterity: A Phenomenological Investigation, Dan Zahavi",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Subjectivity and Selfhood: Investigating the First-Person Perspective, Dan Zahavi",
+        "year": 2005
+      },
+      {
+        "title_with_names": "Self and Other: Exploring Subjectivity, Empathy, and Shame, Dan Zahavi",
+        "year": 2014
+      },
+      {
+        "title_with_names": "For-me-ness: what it is and what it is not, Dan Zahavi and Uriah Kriegel",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Killing the straw man: Dennett and phenomenology, Dan Zahavi",
+        "year": 2007
+      },
+      {
+        "title_with_names": "The Phenomenological Mind, Shaun Gallagher and Dan Zahavi",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Schizophrenia, consciousness, and the self, L. A. Sass and J. Parnas",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Zahavi’s Pre-Reflective For-Me-Ness, Landscape of Consciousness (Closer To Truth)"
+      }
     ]
   }
 }

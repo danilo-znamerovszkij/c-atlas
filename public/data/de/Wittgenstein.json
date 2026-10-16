@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Wittgensteins grammatische Fiktion",
     "summary": "Wittgenstein argumentiert, dass die Forderung nach einer Theorie phänomenalen Bewusstseins aus einer grammatischen Verwechslung entspringt: Empfindungswörter werden als Namen privater innerer Gegenstände behandelt, so wie Substantive öffentliche Dinge benennen. Er bestreitet weder Schmerz, das Sehen von Rot noch die Unmittelbarkeit der ersten Person. Er verlegt ihre Bedeutung jedoch in öffentliche, verkörperte, regelgeleitete Praktiken des Ausdrucks und des Gebrauchs.",
-    "associated_thinkers": ["Ludwig Wittgenstein"],
+    "associated_thinkers": [
+      "Ludwig Wittgenstein"
+    ],
     "category": "Herausforderung",
     "subcategory": "",
     "core_identity_tagline": "Der private innere Gegenstand als grammatische Fiktion",
-    "classification_tags": ["private language", "grammar", "qualia", "ordinary language", "aspect perception"]
+    "classification_tags": [
+      "private language",
+      "grammar",
+      "qualia",
+      "ordinary language",
+      "aspect perception"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Wittgenstein gibt keine Identität des Bewusstseins an. Er behandelt das Bild eines inneren Gegenstands, der mit dem Wort „Schmerz“ benannt wird, als Fiktion, während die Erfahrung selbst bestehen bleibt. Eine Empfindung „ist kein Etwas, aber auch kein Nichts“ (PU §304).",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unsicher",
+      "stance": "Uncertain",
       "rationale": "Psychologische Begriffe gelten nach öffentlichen Kriterien innerhalb einer Lebensform. Wittgensteins Werk entscheidet hier nicht, ob eine Maschine diese Kriterien erfüllen könnte."
     },
     "survival_beyond_death": {
@@ -64,19 +72,52 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Hacker’s Skepticism", "relationship": "Erweiterung" },
-      { "name": "Dennett’s Illusionism", "relationship": "Einfluss" },
-      { "name": "Ryle’s Category-Dissolution of Inner-Theater Consciousness", "relationship": "Überschneidung" },
-      { "name": "Husserl’s Transcendental Phenomenology", "relationship": "Kritik" }
+      {
+        "name": "Hacker’s Skepticism",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Dennett’s Illusionism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Ryle’s Category-Dissolution of Inner-Theater Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Husserl’s Transcendental Phenomenology",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Philosophical Investigations, Ludwig Wittgenstein", "year": 1953 },
-      { "title_with_names": "Tractatus Logico-Philosophicus, Ludwig Wittgenstein", "year": 1921 },
-      { "title_with_names": "Some Remarks on Logical Form, Ludwig Wittgenstein", "year": 1929 },
-      { "title_with_names": "Wittgenstein: Meaning and Mind, P. M. S. Hacker", "year": 1990 },
-      { "title_with_names": "Wittgenstein on Rules and Private Language, S. A. Kripke", "year": 1982 },
-      { "title_with_names": "Philosophical Foundations of Neuroscience, M. R. Bennett and P. M. S. Hacker", "year": 2003 },
-      { "title_with_names": "Wittgenstein on Aspect Perception, A. Baz", "year": 2020 }
+      {
+        "title_with_names": "Philosophical Investigations, Ludwig Wittgenstein",
+        "year": 1953
+      },
+      {
+        "title_with_names": "Tractatus Logico-Philosophicus, Ludwig Wittgenstein",
+        "year": 1921
+      },
+      {
+        "title_with_names": "Some Remarks on Logical Form, Ludwig Wittgenstein",
+        "year": 1929
+      },
+      {
+        "title_with_names": "Wittgenstein: Meaning and Mind, P. M. S. Hacker",
+        "year": 1990
+      },
+      {
+        "title_with_names": "Wittgenstein on Rules and Private Language, S. A. Kripke",
+        "year": 1982
+      },
+      {
+        "title_with_names": "Philosophical Foundations of Neuroscience, M. R. Bennett and P. M. S. Hacker",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Wittgenstein on Aspect Perception, A. Baz",
+        "year": 2020
+      }
     ]
   }
 }

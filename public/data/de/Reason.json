@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Reasons No-Go-Theorem gegen Materialismus und Supervenienz",
     "summary": "Catherine M. Reason legt einen formalen Beweis vor, dass kein physisches System und kein Modell, das auf einem solchen supervenieren, die Selbstgewissheit haben kann, mit der ein bewusster Mensch weiß, dass er bewusst ist. Das Theorem sagt, was Bewusstsein nicht sein kann, und daraus folgert sie, dass jede physikalistische Theorie eines selbstbewussten, rationalen Systems in sich widersprüchlich sein muss.",
-    "associated_thinkers": ["Catherine M. Reason", "Gilbert Caplain"],
+    "associated_thinkers": [
+      "Catherine M. Reason",
+      "Gilbert Caplain"
+    ],
     "category": "Herausforderung",
     "subcategory": "",
     "core_identity_tagline": "Selbstgewissheit kann nicht auf physischen Prozessen supervenieren",
-    "classification_tags": ["no-go theorem", "supervenience", "self-certainty", "anti-physicalism", "formal proof"]
+    "classification_tags": [
+      "no-go theorem",
+      "supervenience",
+      "self-certainty",
+      "anti-physicalism",
+      "formal proof"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Das Theorem gibt keine positive Identität für Bewusstsein. Es definiert ein bewusstes System als eines, das zu menschenähnlichem Schließen und zu absoluter Selbstgewissheit fähig ist, und argumentiert, dass ein solches System nicht vollständig physisch sein kann.",
@@ -46,11 +55,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da kein physikalistisches Modell eines Systems zur Selbstgewissheit fähig sein kann, könnte eine rein rechnergestützte oder physische Maschine im Sinne Reasons nicht bewusst sein."
     },
     "survival_beyond_death": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Das Theorem impliziert, dass einige bewusste Zustände nicht physisch sind, sagt aber nichts darüber, ob sie nach dem Tod des Gehirns fortbestehen."
     },
     "meaning_and_purpose": {
@@ -58,19 +67,34 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Wenn selbstgewisses Bewusstsein auf keinem physischen Prozess supervenieren kann, könnte eine digitale Kopie, die auf physischer Hardware läuft, es nicht reproduzieren."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Kim’s Supervenience", "relationship": "Kritik" },
-      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Kritik" },
-      { "name": "Velmans's Reflexive Monism", "relationship": "Kritik" },
-      { "name": "Frankish’s Illusionism", "relationship": "Kritik" }
+      {
+        "name": "Kim’s Supervenience",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Velmans's Reflexive Monism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Reason's No-Go Theorem against Materialism/Supervenience (Landscape of Consciousness entry), Catherine M. Reason", "year": 2019 }
+      {
+        "title_with_names": "Reason's No-Go Theorem against Materialism/Supervenience (Landscape of Consciousness entry), Catherine M. Reason",
+        "year": 2019
+      }
     ]
   }
 }

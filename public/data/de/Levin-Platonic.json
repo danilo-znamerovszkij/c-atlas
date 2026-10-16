@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Levins einströmende Geister aus dem platonischen Raum",
     "summary": "Michael Levin schlägt vor, dass Geister, einschließlich phänomenaler Subjekte, Muster in einem strukturierten, nichtphysikalischen „platonischen Raum“ sind, die durch Körper in die physische Welt einströmen. Gehirne, Embryonen, Biobots und Maschinen wirken als Zeiger oder Schnittstellen, die bestimmte kognitive Muster in bestimmte Verkörperungen ziehen. Ähnlich bestimmen mathematische Wahrheiten physische Vorgänge, ohne von der Physik verursacht zu werden.",
-    "associated_thinkers": ["Michael Levin"],
+    "associated_thinkers": [
+      "Michael Levin"
+    ],
     "category": "Integrierte Info",
     "subcategory": "",
     "core_identity_tagline": "Geister als Muster, die aus dem platonischen Raum einströmen",
-    "classification_tags": ["platonism", "morphogenesis", "basal cognition", "diverse intelligence", "dualism"]
+    "classification_tags": [
+      "platonism",
+      "morphogenesis",
+      "basal cognition",
+      "diverse intelligence",
+      "dualism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Ein Geist ist ein Muster mit hoher Handlungsfähigkeit in einem latenten Raum von Formen. Phänomenales Bewusstsein ist die erlebte Seite eines solchen Musters, sofern es sich in einen physischen Körper projiziert. In Levins Worten: „Geister sind die Muster.“",
@@ -46,31 +54,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Jedes gebaute System ist eine Schnittstelle zu Mustern, Maschinen sind daher nicht ausgeschlossen. Levin hält es für eine empirische Frage, ob eine bestimmte KI tatsächlich geistig ist."
     },
     "survival_beyond_death": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Da Geister Muster sind, die außerhalb der physischen Welt bestehen und nur durch Körper einströmen, lässt die Auffassung Raum dafür, dass ein Geist seinen Körper überdauert. Levin entwickelt dies allerdings nicht weiter."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Geister gehören zu einem geordneten, nichtphysikalischen Raum von Formen, der unabhängig von jedem Körper besteht. Dadurch haben sie einen Platz in der Struktur der Wirklichkeit, der über menschliche Angelegenheiten hinausreicht."
     },
     "virtual_immortality": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Technisch geschaffene Systeme können als Zeiger auf kognitive Muster dienen. Eine geeignete künstliche Schnittstelle könnte daher im Prinzip einen Geist beherbergen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Levin's Technological Approach to Mind Everywhere", "relationship": "Erweiterung" },
-      { "name": "Resch’s Platonic Functionalism", "relationship": "Überschneidung" },
-      { "name": "Computational Theories", "relationship": "Kritik" },
-      { "name": "Huxley’s Mind-At-Large Filter Theory", "relationship": "Vereinbar" }
+      {
+        "name": "Levin's Technological Approach to Mind Everywhere",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Resch’s Platonic Functionalism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Huxley’s Mind-At-Large Filter Theory",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Levin’s Ingressing Minds from Platonic Space, Michael Levin", "year": 2025 }
+      {
+        "title_with_names": "Levin’s Ingressing Minds from Platonic Space, Michael Levin",
+        "year": 2025
+      }
     ]
   }
 }

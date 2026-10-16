@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Lewis' und MacGregors Phasen-der-Energie-Resonator-Modell",
     "summary": "Edwin Lewis und Ronald MacGregor schlagen vor, dass Bewusstsein einen wechselseitigen Energieaustausch zwischen dem geistigen Bereich und dem physischen Gehirn umfasst. Sie postulieren eine neuartige „dispositionale Energie“, die aus gewöhnlicher physischer Energie hervorgeht, so wie Dampf aus einer erwärmten Flüssigkeit aufsteigt. Außerdem nehmen sie an, dass gekoppelte Resonatoren, möglicherweise an der Schnittstelle von Astrozyten und Pyramidenzellen, diese Energie hin und her transportieren.",
-    "associated_thinkers": ["Edwin R. Lewis", "Ronald J. MacGregor"],
+    "associated_thinkers": [
+      "Edwin R. Lewis",
+      "Ronald J. MacGregor"
+    ],
     "category": "Materialismus",
     "subcategory": "Elektromagnetisch",
     "core_identity_tagline": "Bewusstsein als neue Phase der Energie",
-    "classification_tags": ["resonance", "energy", "mental causation", "astrocytes", "free will"]
+    "classification_tags": [
+      "resonance",
+      "energy",
+      "mental causation",
+      "astrocytes",
+      "free will"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist eine Phase der Energie: dispositionale Energie, die aus neuraler Energie erzeugt wird, Information trägt und auf das Gehirn zurückwirken kann.",
@@ -46,11 +55,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Bewusstsein hängt davon ab, dass bestimmte molekulare Resonatoren dispositionale Energie erzeugen. Ob künstliche Systeme sie erzeugen könnten, wird nicht behandelt."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Dispositionale Energie wird durch molekulare Prozesse im lebenden Gehirngewebe erzeugt und aufrechterhalten. Sie sollte deshalb diese Prozesse nicht überdauern."
     },
     "meaning_and_purpose": {
@@ -58,19 +67,34 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Ist Bewusstsein eine physische Energiephase in bestimmten Zellen, so fehlte einer Software-Kopie das Substrat, das es erzeugt."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Hunt and Schooler’s General Resonance Theory", "relationship": "Überschneidung" },
-      { "name": "McFadden's Conscious Electromagnetic Information Theory", "relationship": "Vereinbar" },
-      { "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness", "relationship": "Einfluss" },
-      { "name": "Levine’s Explanatory Gap", "relationship": "Grundlage" }
+      {
+        "name": "Hunt and Schooler’s General Resonance Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Levine’s Explanatory Gap",
+        "relationship": "Grundlage"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Lewis and MacGregor’s Phase of Energy Resonator Model, Edwin R. Lewis and Ronald J. MacGregor", "year": 2010 }
+      {
+        "title_with_names": "Lewis and MacGregor’s Phase of Energy Resonator Model, Edwin R. Lewis and Ronald J. MacGregor",
+        "year": 2010
+      }
     ]
   }
 }

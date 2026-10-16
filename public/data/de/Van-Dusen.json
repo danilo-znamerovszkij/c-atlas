@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Van Dusens Theorie der hyperräumlichen Dimensionen",
     "summary": "Wilson Van Dusen vertrat die Auffassung, dass der Geist nicht im vierdimensionalen Raum-Zeit-Kontinuum enthalten ist, sondern buchstäblich in höheren räumlichen Dimensionen ausgedehnt ist: ein fünfdimensionaler alpha-Geist der Ereignisse, ein sechsdimensionaler beta-Geist der Ideen und Tendenzen und ein siebendimensionaler gamma-Geist der Reflexion. Das Gehirn ist der untere physische Anker dieser Struktur, und Bewusstsein ist der scharf differenzierte Ausschnitt jeder Ebene.",
-    "associated_thinkers": ["Wilson M. Van Dusen"],
+    "associated_thinkers": [
+      "Wilson M. Van Dusen"
+    ],
     "category": "Quanten",
     "subcategory": "",
     "core_identity_tagline": "Geist als reeller höherdimensionaler Raum",
-    "classification_tags": ["hyperspace", "dimensions", "topology", "differentiation", "parapsychology"]
+    "classification_tags": [
+      "hyperspace",
+      "dimensions",
+      "topology",
+      "differentiation",
+      "parapsychology"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Geist ist identisch mit Operationen in realen Räumen von fünf, sechs und sieben Dimensionen. Phänomenales Gewahrsein ist die Gegenwart von Inhalten in diesen Räumen, und Bewusstsein ist deren Differenzierung.",
@@ -50,7 +58,7 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Da der Geist größtenteils außerhalb des physischen Raum-Zeit-Kontinuums liegt und das Gehirn nur sein unterer Anker ist, folgt aus der Auffassung, dass der Geist nicht mit dem Gehirn enden muss, eine solche Möglichkeit. Van Dusen begründet dies hier allerdings nicht."
     },
     "meaning_and_purpose": {
@@ -64,20 +72,56 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Tozzi’s Multidimensional Brain", "relationship": "Überschneidung" },
-      { "name": "Mishlove’s Beyond-The-Brain Filtered, Survival Consciousness", "relationship": "Kompatibel" },
-      { "name": "Freud's Surface Consciousness and Irreducible Affect", "relationship": "Kritik" },
-      { "name": "Whitehead's Process Theory", "relationship": "Einfluss" }
+      {
+        "name": "Tozzi’s Multidimensional Brain",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Mishlove’s Beyond-The-Brain Filtered, Survival Consciousness",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Freud's Surface Consciousness and Irreducible Affect",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "A Theory of Mind in Relation to Space (Master's thesis), Wilson M. Van Dusen", "year": 1949 },
-      { "title_with_names": "A Dimension Theory of the Nature of Mind (Doctoral dissertation), Wilson M. Van Dusen", "year": 1952 },
-      { "title_with_names": "Mind in Hyperspace, Wilson M. Van Dusen", "year": 1959 },
-      { "title_with_names": "The Natural Depth in Man, Wilson M. Van Dusen", "year": 1972 },
-      { "title_with_names": "The Presence of Other Worlds: The Psychological and Spiritual Findings of Emanuel Swedenborg, Wilson M. Van Dusen", "year": 1974 },
-      { "title_with_names": "Just Beyond the Physical World, Wilson M. Van Dusen", "year": 2001 },
-      { "title_with_names": "Unconsciousness, J. G. Miller", "year": 1942 },
-      { "title_with_names": "The Serial Universe, J. W. Dunne", "year": 1934 }
+      {
+        "title_with_names": "A Theory of Mind in Relation to Space (Master's thesis), Wilson M. Van Dusen",
+        "year": 1949
+      },
+      {
+        "title_with_names": "A Dimension Theory of the Nature of Mind (Doctoral dissertation), Wilson M. Van Dusen",
+        "year": 1952
+      },
+      {
+        "title_with_names": "Mind in Hyperspace, Wilson M. Van Dusen",
+        "year": 1959
+      },
+      {
+        "title_with_names": "The Natural Depth in Man, Wilson M. Van Dusen",
+        "year": 1972
+      },
+      {
+        "title_with_names": "The Presence of Other Worlds: The Psychological and Spiritual Findings of Emanuel Swedenborg, Wilson M. Van Dusen",
+        "year": 1974
+      },
+      {
+        "title_with_names": "Just Beyond the Physical World, Wilson M. Van Dusen",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Unconsciousness, J. G. Miller",
+        "year": 1942
+      },
+      {
+        "title_with_names": "The Serial Universe, J. W. Dunne",
+        "year": 1934
+      }
     ]
   }
 }

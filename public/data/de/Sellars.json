@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Sellars’ Sensa jenseits des Gegebenen",
     "summary": "Sellars behandelt Denken und Empfindung getrennt. Gedanken sind innere Vorgänge, die dem öffentlichen Sprechen nachgebildet und durch ihre Rolle im Schließen bestimmt sind; eine vollendete Wissenschaft wird sie mit neurophysiologischen Prozessen identifizieren. Empfindungen sind nichtbegriffliche, an sich qualitative Zustände, die er Sensa nennt; da sich eine gleichmäßige rosa Fläche nicht mit der körnigen Struktur von Neuronen in Deckung bringen lässt, argumentiert er, dass die künftige Physik um qualitative Prozesse erweitert werden muss.",
-    "associated_thinkers": ["Wilfrid Sellars"],
+    "associated_thinkers": [
+      "Wilfrid Sellars"
+    ],
     "category": "Materialismus",
     "subcategory": "Geist-Gehirn-Identität",
     "core_identity_tagline": "Empfindungen als qualitative physikalische Prozesse, die auf eine künftige Physik warten",
-    "classification_tags": ["myth of the given", "grain problem", "sensa", "scientific image", "identity theory"]
+    "classification_tags": [
+      "myth of the given",
+      "grain problem",
+      "sensa",
+      "scientific image",
+      "identity theory"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Begriffliches Denken wird mit funktional bestimmten neurophysiologischen Vorgängen identifiziert. Sinnesbewusstsein wird mit Sensa identifiziert, an sich qualitativen physikalischen Prozessen, die die heutige Physik noch nicht beschreibt.",
@@ -46,40 +54,82 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Denken ist funktional und könnte grundsätzlich anders verwirklicht sein; Sinnesbewusstsein erfordert jedoch qualitative Sensa, und Sellars sagt nicht, welche physikalischen Organisationen sie verwirklichen."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Sensa und Gedanken physikalische Prozesse in Nervensystemen sind, folgt aus dieser Auffassung, dass sie mit dem Organismus enden."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Sellars hält Personen, Gründe und Normen in einer stereoskopischen Integration mit dem wissenschaftlichen Bild und beruft sich dabei nicht auf einen kosmischen Zweck."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Eine digitale Kopie könnte die funktionalen Rollen nachbilden, nach Sellars’ Auffassung aber nicht die an sich qualitativen Sensa, die Sinneserfahrung verlangt."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Place’s Empirical Identity and the Phenomenological Fallacy", "relationship": "Überschneidung" },
-      { "name": "Smart’s Topic-Neutral Identity", "relationship": "Überschneidung" },
-      { "name": "Russellian Monism", "relationship": "Vereinbar" },
-      { "name": "Strawson's Realistic Monism and Real Materialism", "relationship": "Vereinbar" }
+      {
+        "name": "Place’s Empirical Identity and the Phenomenological Fallacy",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Smart’s Topic-Neutral Identity",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Strawson's Realistic Monism and Real Materialism",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Empiricism and the Philosophy of Mind, Wilfrid Sellars", "year": 1956 },
-      { "title_with_names": "Philosophy and the Scientific Image of Man, Wilfrid Sellars", "year": 1962 },
-      { "title_with_names": "The Identity Approach to the Mind-Body Problem, Wilfrid Sellars", "year": 1965 },
-      { "title_with_names": "Foundations for a Metaphysics of Pure Process: The Carus Lectures, Wilfrid Sellars", "year": 1981 },
-      { "title_with_names": "Mental Events, Wilfrid Sellars", "year": 1981 },
-      { "title_with_names": "Knowledge, Mind, and the Given, W. A. deVries and T. Triplett", "year": 2000 },
-      { "title_with_names": "Real Materialism, G. Strawson", "year": 2003 },
-      { "title_with_names": "Sellars’s Argument for an Ontology of Absolute Processes, D. Landy", "year": 2019 },
-      { "title_with_names": "Demystifying the Myth of Sensation: Wilfrid Sellars’ Adverbialism Reconsidered, L. Corti", "year": 2022 },
-      { "title_with_names": "Wilfrid Sellars (Stanford Encyclopedia of Philosophy), W. A. deVries", "year": 2024 }
+      {
+        "title_with_names": "Empiricism and the Philosophy of Mind, Wilfrid Sellars",
+        "year": 1956
+      },
+      {
+        "title_with_names": "Philosophy and the Scientific Image of Man, Wilfrid Sellars",
+        "year": 1962
+      },
+      {
+        "title_with_names": "The Identity Approach to the Mind-Body Problem, Wilfrid Sellars",
+        "year": 1965
+      },
+      {
+        "title_with_names": "Foundations for a Metaphysics of Pure Process: The Carus Lectures, Wilfrid Sellars",
+        "year": 1981
+      },
+      {
+        "title_with_names": "Mental Events, Wilfrid Sellars",
+        "year": 1981
+      },
+      {
+        "title_with_names": "Knowledge, Mind, and the Given, W. A. deVries and T. Triplett",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Real Materialism, G. Strawson",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Sellars’s Argument for an Ontology of Absolute Processes, D. Landy",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Demystifying the Myth of Sensation: Wilfrid Sellars’ Adverbialism Reconsidered, L. Corti",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Wilfrid Sellars (Stanford Encyclopedia of Philosophy), W. A. deVries",
+        "year": 2024
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Shermers Bekanntes Unbekanntes … und möglicherweise Unerkennbares",
     "summary": "Michael Shermer ordnet das harte Problem als ‚ein bekanntes Unbekanntes, das unerkennbar sein könnte‘ ein. Die Wissenschaft kann die neuronale Verdrahtung des Gehirns erklären, doch zu wissen, wie es ist, diese Verdrahtung zu sein, würde voraussetzen, sie selbst zu sein; und nach dem Identitätsgesetz kann niemand zugleich er selbst und ein anderes Wesen sein.",
-    "associated_thinkers": ["Michael Shermer"],
+    "associated_thinkers": [
+      "Michael Shermer"
+    ],
     "category": "Herausforderung",
     "subcategory": "",
     "core_identity_tagline": "Nur du kannst du selbst erfahren",
-    "classification_tags": ["hard problem", "skepticism", "law of identity", "anti-dualism", "unknowability"]
+    "classification_tags": [
+      "hard problem",
+      "skepticism",
+      "law of identity",
+      "anti-dualism",
+      "unknowability"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Shermer fasst das leichte Problem als Erklärung der neuronalen Verdrahtung des Gehirns und das harte Problem als Verständnis dessen, wie es ist, diese Verdrahtung zu sein.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Nach Shermers Überlegung könnte man aus Verhaltensmustern, die den eigenen ähneln, auf Erfahrung einer Maschine schließen, würde aber nie wissen, wie es ist, die Maschine zu sein."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da es keine Seele und keinen Geist gibt, die sich vom Gehirn lösen könnten, überdauert nichts von der Person den Tod des Gehirns."
     },
     "meaning_and_purpose": {
@@ -58,19 +66,34 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Es gibt keinen abtrennbaren Geist, der übertragen werden könnte; nach dem Identitätsgesetz wäre ein digitales System daher ein eigenständiges Ding und nicht du."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "McGinn's Ultimate Mystery (Mysterianism)", "relationship": "Überschneidung" },
-      { "name": "Descartes’s Substance Dualism", "relationship": "Kritik" },
-      { "name": "Ryle’s Category-Dissolution of Inner-Theater Consciousness", "relationship": "Überschneidung" }
+      {
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Ryle’s Category-Dissolution of Inner-Theater Consciousness",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Shermer’s Known Unknown…and Possibly Unknowable (Landscape of Consciousness entry), Michael Shermer", "year": 2025 },
-      { "title_with_names": "What is it Like to be a Bat?, Thomas Nagel", "year": 1974 }
+      {
+        "title_with_names": "Shermer’s Known Unknown…and Possibly Unknowable (Landscape of Consciousness entry), Michael Shermer",
+        "year": 2025
+      },
+      {
+        "title_with_names": "What is it Like to be a Bat?, Thomas Nagel",
+        "year": 1974
+      }
     ]
   }
 }

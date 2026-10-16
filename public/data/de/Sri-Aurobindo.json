@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Sri Aurobindos sich entfaltendes Bewusstsein",
     "summary": "Sri Aurobindo vertritt die Auffassung, dass das göttliche Bewusstsein (Sat-Chit-Ananda) das Fundament der Existenz ist, dass es sich zunächst in der Materie verhüllt (Involution) und dann durch Leben und Geist entfaltet (Evolution). Da ‚nichts sich entwickeln kann, was nicht schon eingeschlossen ist‘, manifestiert jede höhere Stufe ein Bewusstsein, das in der niedrigeren bereits verborgen war. Er sagt voraus, dass das menschliche Denken einem supramentalen Bewusstsein weichen wird, das so selbstverständlich zum irdischen Leben gehört, wie der gewöhnliche Geist es heute tut.",
-    "associated_thinkers": ["Sri Aurobindo"],
+    "associated_thinkers": [
+      "Sri Aurobindo"
+    ],
     "category": "Idealismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als göttliche Wirklichkeit, die sich durch die Materie entfaltet",
-    "classification_tags": ["integral yoga", "involution", "evolution", "supermind", "vedanta"]
+    "classification_tags": [
+      "integral yoga",
+      "involution",
+      "evolution",
+      "supermind",
+      "vedanta"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist göttliche Bewusstseinskraft (Chit-Shakti), die eine Wirklichkeit, die als Materie, Leben, Geist, Supramentales und Geist erscheint.",
@@ -50,11 +58,11 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Wahrscheinlich",
+      "stance": "Likely",
       "rationale": "Da Bewusstsein die göttliche Wirklichkeit ist, die der Materie zugrunde liegt, hängt es nicht von einem bestimmten Körper ab, obwohl Aurobindos Schwerpunkt auf der Transformation des irdischen Lebens liegt."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Evolution ist eine Reise der Selbstentdeckung des Göttlichen, und das menschliche Leben ist eine Stufe in seiner fortschreitenden Manifestation hin zu einem göttlichen Leben auf der Erde."
     },
     "virtual_immortality": {
@@ -64,14 +72,30 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Teilhard de Chardin's Evolving Consciousness", "relationship": "Überschneidung" },
-      { "name": "Wilber's Integral Theory", "relationship": "Einfluss" },
-      { "name": "Indian Cosmic Consciousness", "relationship": "Grundlage" },
-      { "name": "Śaṅkara's Self-Luminous Nondualism", "relationship": "Gegensatz" }
+      {
+        "name": "Teilhard de Chardin's Evolving Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Wilber's Integral Theory",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Indian Cosmic Consciousness",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Śaṅkara's Self-Luminous Nondualism",
+        "relationship": "Gegensatz"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Life Divine, Sri Aurobindo" },
-      { "title_with_names": "Savitri, Sri Aurobindo" }
+      {
+        "title_with_names": "The Life Divine, Sri Aurobindo"
+      },
+      {
+        "title_with_names": "Savitri, Sri Aurobindo"
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Schwitzgebels unzuverlässige Introspektion, unbestimmte Grenzen, metaphysische Bescheidenheit",
     "summary": "Schwitzgebel vertritt die Auffassung, dass phänomenales Bewusstsein wirklich ist, bestreitet aber, dass Introspektion einen verlässlichen Zugang dazu gibt oder dass es scharfe Grenzen hat. Er argumentiert, dass es bei manchen Systemen, etwa einer Gartenschnecke, weder bestimmt wahr noch bestimmt falsch sein mag, dass es für sie einen Erlebnischarakter gibt. Sein „Crazyism“ fügt hinzu, dass jede Theorie von Geist und Kosmos bizarre Folgen hat und keine zum Glauben zwingt; seine Position setzt daher Grenzen für Theorien, statt selbst eine zu bieten.",
-    "associated_thinkers": ["Eric Schwitzgebel"],
+    "associated_thinkers": [
+      "Eric Schwitzgebel"
+    ],
     "category": "Herausforderung",
     "subcategory": "",
     "core_identity_tagline": "Wirkliche Erfahrung, unzuverlässige Introspektion, vage Grenzen",
-    "classification_tags": ["introspection", "vagueness", "borderline consciousness", "crazyism", "epistemology"]
+    "classification_tags": [
+      "introspection",
+      "vagueness",
+      "borderline consciousness",
+      "crazyism",
+      "epistemology"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Schwitzgebel bestimmt phänomenales Bewusstsein nur durch Beispiele: durch das offensichtliche Merkmal, das das Sehen von Farben, das Spüren von Schmerz, lebhafte Gefühle, Vorstellungsbilder, Träume und bewusstes Denken teilen, das aber der Hormonregulation, dem dauerhaften Wissen und der unbewussten sensorischen Verarbeitung fehlt.",
@@ -46,38 +54,74 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Schwitzgebel vertritt, dass aktuelle Theorien schwache Gründe liefern, um zu entscheiden, welche künstlichen Systeme bewusst sind; manche könnten Grenzfälle ohne bestimmte Antwort sein."
     },
     "survival_beyond_death": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Da keine Metaphysik des Geistes nach dieser Auffassung zum Glauben zwingt, bleibt die Frage des Überlebens offen."
     },
     "meaning_and_purpose": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Der Crazyism besagt, dass über Geist und Kosmos etwas Bizarres wahr sein muss, wir aber nicht wissen können, was."
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Ohne eine feststehende Metaphysik des Geistes lässt sich nicht entscheiden, ob eine digitale Kopie bewusst wäre."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Frankish’s Illusionism", "relationship": "Kritik" },
-      { "name": "Integrated Information Theory", "relationship": "Kritik" },
-      { "name": "Kammerer’s Introspective Illusionism", "relationship": "Gegensatz" },
-      { "name": "Birch’s Comparative Sentience: Consciousness Profiles Across Diverse Minds", "relationship": "Vereinbar" }
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Kammerer’s Introspective Illusionism",
+        "relationship": "Gegensatz"
+      },
+      {
+        "name": "Birch’s Comparative Sentience: Consciousness Profiles Across Diverse Minds",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Perplexities of Consciousness, Eric Schwitzgebel", "year": 2011 },
-      { "title_with_names": "The Unreliability of Naïve Introspection, Eric Schwitzgebel", "year": 2008 },
-      { "title_with_names": "Why Did We Think We Dreamed in Black and White?, Eric Schwitzgebel", "year": 2002 },
-      { "title_with_names": "If Materialism Is True, the United States Is Probably Conscious, Eric Schwitzgebel", "year": 2015 },
-      { "title_with_names": "Borderline Consciousness, When It's Neither Determinately True nor Determinately False That Experience Is Present, Eric Schwitzgebel", "year": 2023 },
-      { "title_with_names": "The Weirdness of the World, Eric Schwitzgebel", "year": 2024 },
-      { "title_with_names": "Describing Inner Experience? Proponent Meets Skeptic, Eric Schwitzgebel and R. T. Hurlburt", "year": 2007 },
-      { "title_with_names": "How a Materialist Can Deny That the United States Is Probably Conscious, F. Kammerer", "year": 2015 }
+      {
+        "title_with_names": "Perplexities of Consciousness, Eric Schwitzgebel",
+        "year": 2011
+      },
+      {
+        "title_with_names": "The Unreliability of Naïve Introspection, Eric Schwitzgebel",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Why Did We Think We Dreamed in Black and White?, Eric Schwitzgebel",
+        "year": 2002
+      },
+      {
+        "title_with_names": "If Materialism Is True, the United States Is Probably Conscious, Eric Schwitzgebel",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Borderline Consciousness, When It's Neither Determinately True nor Determinately False That Experience Is Present, Eric Schwitzgebel",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Weirdness of the World, Eric Schwitzgebel",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Describing Inner Experience? Proponent Meets Skeptic, Eric Schwitzgebel and R. T. Hurlburt",
+        "year": 2007
+      },
+      {
+        "title_with_names": "How a Materialist Can Deny That the United States Is Probably Conscious, F. Kammerer",
+        "year": 2015
+      }
     ]
   }
 }

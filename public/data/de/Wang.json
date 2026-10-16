@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Wangs geschichtete Architektur und kognitive Informatik",
     "summary": "Wang behandelt Bewusstsein als den höchsten kollektiven Zustand in einer geschichteten funktionalen Architektur des Gehirns, die auf metabolischer Homöostase, unbewusster und unterbewusster Verarbeitung aufbaut. Bewusstsein erfasst in Echtzeit Informationen über den Zustand des Körpers und der Emotionen in einem vorgeschlagenen zerebellären „Bewusstseinsstatus-Gedächtnis“, und der Thalamus verarbeitet sie dynamisch. Wang formuliert diesen Prozess in seiner eigenen denotationalen Mathematik, damit kognitive Computer und Roboter ihn umsetzen können.",
-    "associated_thinkers": ["Yingxu Wang"],
+    "associated_thinkers": [
+      "Yingxu Wang"
+    ],
     "category": "Materialismus",
     "subcategory": "Komputational",
     "core_identity_tagline": "Bewusstsein als oberste Schicht einer formalen Gehirnarchitektur",
-    "classification_tags": ["cognitive informatics", "layered model", "denotational mathematics", "thalamus", "cognitive computing"]
+    "classification_tags": [
+      "cognitive informatics",
+      "layered model",
+      "denotational mathematics",
+      "thalamus",
+      "cognitive computing"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein kollektiver Zustand aus Selbstgewahrsein, Umweltgewahrsein und intentionaler Reaktionsfähigkeit, der aus den darunterliegenden Schichten erzeugt wird. Wang nennt es auch das Selbstgefühl und das Lebenszeichen der natürlichen Intelligenz.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Wahrscheinlich",
+      "stance": "Likely",
       "rationale": "Wang formalisiert Bewusstsein ausdrücklich, damit kognitive Computer und Roboter es umsetzen können. Das setzt voraus, dass maschinelles Bewusstsein erreichbar ist."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein aus physiologischen Strukturen erzeugt wird und von der Homöostase abhängt, endet es nach dieser Auffassung mit dem Körper."
     },
     "meaning_and_purpose": {
@@ -58,24 +66,54 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Unsicher",
+      "stance": "Uncertain",
       "rationale": "Das Modell lässt Bewusstsein in Maschinen zu, doch Wang erörtert nicht die Übertragung des Bewusstseins einer bestimmten Person."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Computational Theories", "relationship": "Überschneidung" },
-      { "name": "Minsky's Society of Mind", "relationship": "Kompatibel" },
-      { "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate", "relationship": "Überschneidung" },
-      { "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness", "relationship": "Kompatibel" }
+      {
+        "name": "Computational Theories",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Minsky's Society of Mind",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Kompatibel"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "On Cognitive Informatics, Yingxu Wang", "year": 2003 },
-      { "title_with_names": "A Layered Reference Model of the Brain (LRMB), Y. Wang, Y. Wang, S. Patel, and D. Patel", "year": 2006 },
-      { "title_with_names": "Cognitive Informatics Models of the Brain, Y. Wang and Y. Wang", "year": 2006 },
-      { "title_with_names": "The OAR Model of Neural Informatics for Internal Knowledge Representation in the Brain, Yingxu Wang", "year": 2007 },
-      { "title_with_names": "On Contemporary Denotational Mathematics for Computational Intelligence, Yingxu Wang", "year": 2008 },
-      { "title_with_names": "The Cognitive Mechanisms and Formal Models of Consciousness, Yingxu Wang", "year": 2012 }
+      {
+        "title_with_names": "On Cognitive Informatics, Yingxu Wang",
+        "year": 2003
+      },
+      {
+        "title_with_names": "A Layered Reference Model of the Brain (LRMB), Y. Wang, Y. Wang, S. Patel, and D. Patel",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Cognitive Informatics Models of the Brain, Y. Wang and Y. Wang",
+        "year": 2006
+      },
+      {
+        "title_with_names": "The OAR Model of Neural Informatics for Internal Knowledge Representation in the Brain, Yingxu Wang",
+        "year": 2007
+      },
+      {
+        "title_with_names": "On Contemporary Denotational Mathematics for Computational Intelligence, Yingxu Wang",
+        "year": 2008
+      },
+      {
+        "title_with_names": "The Cognitive Mechanisms and Formal Models of Consciousness, Yingxu Wang",
+        "year": 2012
+      }
     ]
   }
 }

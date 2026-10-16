@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Sebastians prädiktive Maschine",
     "summary": "Jinesh K. Sebastian modelliert das Gehirn als mehrschichtiges Rückkopplungs-Regelsystem, das künftige Zustände eines Weltmodells vorhersagt und sie an sensorischen Daten korrigiert; angetrieben wird es durch die Minimierung eines Skalars, das er „Qualia-Potenzial“ nennt. Bewusstsein ist ein emergenter Prozess, der dieses Weltmodell beobachtet, Veränderungen im Qualia-Potenzial spürt und sich mit einem Selbstmodell in ihm identifizieren kann, ähnlich dem Seher (Puruṣa) der Sāṅkhya-Philosophie, nur dass er nicht ewig ist.",
-    "associated_thinkers": ["Jinesh Kallunkathariyil Sebastian"],
+    "associated_thinkers": [
+      "Jinesh Kallunkathariyil Sebastian"
+    ],
     "category": "Materialismus",
     "subcategory": "Homöostatisch",
     "core_identity_tagline": "Bewusstsein als Beobachter eines prädiktiven Weltmodells",
-    "classification_tags": ["predictive processing", "brain oscillations", "qualia potential", "samkhya", "control systems"]
+    "classification_tags": [
+      "predictive processing",
+      "brain oscillations",
+      "qualia potential",
+      "samkhya",
+      "control systems"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein emergenter Prozess, der das prädiktive Weltmodell des Gehirns beobachtet, Schwankungen im Qualia-Potenzial erlebt und zum Ort der Erfahrung wird, wenn es sich mit dem Selbstmodell verbindet.",
@@ -46,37 +54,70 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Sebastian fasst das Modell als Regelarchitektur auf, die Geister und Roboter gemeinsam haben; eine Maschine, die auf derselben prädiktiven Schleife beruht, könnte daher im Prinzip Bewusstsein tragen."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein hier aus neurologischen Prozessen entsteht und ausdrücklich nicht ewig ist, endet es mit dem Gehirn."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Bewusstsein dient Vorhersage, Regelung und Motivation innerhalb des Organismus; die Auffassung weist ihm keinen kosmischen Zweck zu."
     },
     "virtual_immortality": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Würden die prädiktive Schleife und ihre Dynamik des Qualia-Potenzials in einem anderen Substrat nachgebildet, könnte derselbe Prozess folgen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Friston's Free-Energy Principle and Active Inference", "relationship": "Erweiterung" },
-      { "name": "Solms's Affect as the Hidden Spring of Consciousness", "relationship": "Einfluss" },
-      { "name": "Sāṃkhya's Pure Witness and the Material Mind", "relationship": "Einfluss" },
-      { "name": "Buzsáki's Neural Syntax and Self-Caused Rhythms", "relationship": "Grundlage" }
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Solms's Affect as the Hidden Spring of Consciousness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Sāṃkhya's Pure Witness and the Material Mind",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Buzsáki's Neural Syntax and Self-Caused Rhythms",
+        "relationship": "Grundlage"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Predictive Machine: How Minds and Robots Build Reality from Within, Jinesh K. Sebastian", "year": 2025 },
-      { "title_with_names": "A Cognitive Theory of Consciousness, Bernard Baars", "year": 1988 },
-      { "title_with_names": "Rhythms of the Brain, György Buzsáki", "year": 2006 },
-      { "title_with_names": "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science, Andy Clark", "year": 2013 },
-      { "title_with_names": "The Free-Energy Principle: A Unified Brain Theory?, Karl Friston", "year": 2010 },
-      { "title_with_names": "Free-Energy Minimization and the Dark-Room Problem, Karl Friston, Christopher Thornton and Andy Clark", "year": 2012 },
-      { "title_with_names": "The Hidden Spring: A Journey to the Source of Consciousness, Mark Solms", "year": 2021 }
+      {
+        "title_with_names": "The Predictive Machine: How Minds and Robots Build Reality from Within, Jinesh K. Sebastian",
+        "year": 2025
+      },
+      {
+        "title_with_names": "A Cognitive Theory of Consciousness, Bernard Baars",
+        "year": 1988
+      },
+      {
+        "title_with_names": "Rhythms of the Brain, György Buzsáki",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science, Andy Clark",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Free-Energy Principle: A Unified Brain Theory?, Karl Friston",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Free-Energy Minimization and the Dark-Room Problem, Karl Friston, Christopher Thornton and Andy Clark",
+        "year": 2012
+      },
+      {
+        "title_with_names": "The Hidden Spring: A Journey to the Source of Consciousness, Mark Solms",
+        "year": 2021
+      }
     ]
   }
 }

@@ -2,11 +2,21 @@
   "id_and_class": {
     "theory_title": "QBism: primäre, partizipatorische Erfahrung. Quantenhandlung und die Welt der ersten Person",
     "summary": "QBism (Quanten-Bayesianismus) ist eine Interpretation der Quantenmechanik und keine Theorie des Bewusstseins, rückt aber die persönliche Erfahrung eines Akteurs an den Grund der Physik. Ein Quantenzustand ist der persönliche Glaubensgrad eines Akteurs über die Folgen seiner Handlungen, und ein Messergebnis ist die neue Erfahrung, die diese Handlung hervorbringt. Erfahrung geht daher als Grundbegriff in die Physik ein. Das lässt das schwere Problem ungelöst, verändert aber den Ausgangspunkt der Physik.",
-    "associated_thinkers": ["Christopher A. Fuchs", "Rüdiger Schack", "Carlton Caves"],
+    "associated_thinkers": [
+      "Christopher A. Fuchs",
+      "Rüdiger Schack",
+      "Carlton Caves"
+    ],
     "category": "Quanten",
     "subcategory": "",
     "core_identity_tagline": "Erfahrung als Grundbegriff der Quantentheorie",
-    "classification_tags": ["qbism", "quantum bayesianism", "participatory realism", "first-person", "measurement"]
+    "classification_tags": [
+      "qbism",
+      "quantum bayesianism",
+      "participatory realism",
+      "first-person",
+      "measurement"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "QBism sagt nicht, was Bewusstsein ist; es behandelt die Erfahrung eines Akteurs als Grundbegriff, wobei ein Messergebnis die Erfahrung ist, die eine Handlung für diesen Akteur hervorruft.",
@@ -46,7 +56,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "QBism liefert kein Kriterium dafür, welche physischen Systeme bewusste Akteure sind, und kann daher nicht entscheiden, ob ein künstliches System einer wäre."
     },
     "survival_beyond_death": {
@@ -64,22 +74,64 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Wigner–von Neumann’s Consciousness-Collapse: Experience at the Quantum Cut", "relationship": "Gegensatz" },
-      { "name": "James’s Radical Empiricism of Monistic Pure Experience", "relationship": "Einfluss" },
-      { "name": "Merleau-Ponty's Embodied Perception and the Lived Body", "relationship": "Überschneidung" },
-      { "name": "Gefter’s Enactive-QBist Engagement", "relationship": "Erweiterung" }
+      {
+        "name": "Wigner–von Neumann’s Consciousness-Collapse: Experience at the Quantum Cut",
+        "relationship": "Gegensatz"
+      },
+      {
+        "name": "James’s Radical Empiricism of Monistic Pure Experience",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Merleau-Ponty's Embodied Perception and the Lived Body",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Gefter’s Enactive-QBist Engagement",
+        "relationship": "Erweiterung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "An introduction to QBism with an application to the locality of quantum mechanics, Christopher A. Fuchs, N. David Mermin, Rüdiger Schack", "year": 2014 },
-      { "title_with_names": "Quantum-Bayesian coherence, Christopher A. Fuchs, Rüdiger Schack", "year": 2013 },
-      { "title_with_names": "QBism and the Greeks: Why a quantum state does not represent an element of physical reality, Christopher A. Fuchs, Rüdiger Schack", "year": 2015 },
-      { "title_with_names": "Quantum measurement and the Paulian idea, Christopher A. Fuchs, Rüdiger Schack", "year": 2014 },
-      { "title_with_names": "On participatory realism, Christopher A. Fuchs", "year": 2016 },
-      { "title_with_names": "QBism, where next?, Christopher A. Fuchs", "year": 2023 },
-      { "title_with_names": "QBism, polishing some points, Christopher A. Fuchs, B. C. Stacey", "year": 2025 },
-      { "title_with_names": "Born’s rule as a quantum extension of Bayesian coherence, J. B. DeBrota, Christopher A. Fuchs, J. L. Pienaar, B. C. Stacey", "year": 2021 },
-      { "title_with_names": "Quantum dynamics happens only on paper: QBism’s account of decoherence, J. B. DeBrota, Christopher A. Fuchs, Rüdiger Schack", "year": 2024 },
-      { "title_with_names": "When will two agents agree on a quantum measurement outcome? Intersubjective agreement in QBism, Rüdiger Schack", "year": 2023 }
+      {
+        "title_with_names": "An introduction to QBism with an application to the locality of quantum mechanics, Christopher A. Fuchs, N. David Mermin, Rüdiger Schack",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Quantum-Bayesian coherence, Christopher A. Fuchs, Rüdiger Schack",
+        "year": 2013
+      },
+      {
+        "title_with_names": "QBism and the Greeks: Why a quantum state does not represent an element of physical reality, Christopher A. Fuchs, Rüdiger Schack",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Quantum measurement and the Paulian idea, Christopher A. Fuchs, Rüdiger Schack",
+        "year": 2014
+      },
+      {
+        "title_with_names": "On participatory realism, Christopher A. Fuchs",
+        "year": 2016
+      },
+      {
+        "title_with_names": "QBism, where next?, Christopher A. Fuchs",
+        "year": 2023
+      },
+      {
+        "title_with_names": "QBism, polishing some points, Christopher A. Fuchs, B. C. Stacey",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Born’s rule as a quantum extension of Bayesian coherence, J. B. DeBrota, Christopher A. Fuchs, J. L. Pienaar, B. C. Stacey",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Quantum dynamics happens only on paper: QBism’s account of decoherence, J. B. DeBrota, Christopher A. Fuchs, Rüdiger Schack",
+        "year": 2024
+      },
+      {
+        "title_with_names": "When will two agents agree on a quantum measurement outcome? Intersubjective agreement in QBism, Rüdiger Schack",
+        "year": 2023
+      }
     ]
   }
 }

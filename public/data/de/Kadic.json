@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Kadićs monadischer Panpsychismus",
     "summary": "Nino Kadić akzeptiert, dass sich Mikrosubjekte nicht zu einem Makrosubjekt verbinden lassen, und entwickelt daher einen Panpsychismus, der dies nie braucht. Jedes fundamentale Mikrosubjekt besitzt einen intrinsischen nackten Gesichtspunkt, und sein reichhaltiger Erlebnisinhalt wird durch seine Beziehungen zu anderen Mikrosubjekten in derselben kausalen Struktur festgelegt, sodass ein einziges Mikrosubjekt (oder nach einer Version jedes einzelne) ein vollständiges menschliches Erleben haben kann. Von Leibniz’ Monaden inspiriert, vermeidet die Auffassung sowohl die Verbindung von Subjekten als auch die Emergenz.",
-    "associated_thinkers": ["Nino Kadić"],
+    "associated_thinkers": [
+      "Nino Kadić"
+    ],
     "category": "Panpsychismus",
     "subcategory": "",
     "core_identity_tagline": "Menschliches Erleben als relational konstituierte Mikrosubjekte",
-    "classification_tags": ["panpsychism", "monads", "combination problem", "microsubjects", "relational"]
+    "classification_tags": [
+      "panpsychism",
+      "monads",
+      "combination problem",
+      "microsubjects",
+      "relational"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist eine nackte Perspektive, die jedem fundamentalen Einfachen eigen ist; der qualitative Reichtum eines menschlichen Erlebnisses gehört einem Mikrosubjekt durch seine Beziehungen zu anderen Mikrosubjekten.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Wenn die phänomenale Struktur die kausale Struktur spiegelt, folgt, dass ein entsprechend organisiertes künstliches System seinen Mikrosubjekten reichhaltiges Erleben verleihen könnte, obwohl Kadićs Darstellung hier nicht auf KI eingeht."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Die Mikrosubjekte bestehen fort, doch das menschliche Erleben, das sie tragen, wird durch ihre Beziehungen innerhalb der kausalen Struktur des Gehirns konstituiert; aus der Auffassung folgt daher, dass dieses Erleben endet, wenn diese Struktur endet."
     },
     "meaning_and_purpose": {
@@ -64,15 +72,36 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Leibniz's Monads", "relationship": "Einfluss" },
-      { "name": "Tye’s Irreducible Consciousness", "relationship": "Einfluss" },
-      { "name": "Coleman’s Panqualityism", "relationship": "Einfluss" },
-      { "name": "Micropsychism", "relationship": "Überschneidung" }
+      {
+        "name": "Leibniz's Monads",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Tye’s Irreducible Consciousness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Coleman’s Panqualityism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Micropsychism",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Kadić's Monadic Panpsychism (Landscape of Consciousness), Nino Kadić", "year": 2024 },
-      { "title_with_names": "PhD dissertation, King's College London, Nino Kadić", "year": 2022 },
-      { "title_with_names": "Vagueness and the Evolution of Consciousness, Michael Tye", "year": 2021 }
+      {
+        "title_with_names": "Kadić's Monadic Panpsychism (Landscape of Consciousness), Nino Kadić",
+        "year": 2024
+      },
+      {
+        "title_with_names": "PhD dissertation, King's College London, Nino Kadić",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Vagueness and the Evolution of Consciousness, Michael Tye",
+        "year": 2021
+      }
     ]
   }
 }

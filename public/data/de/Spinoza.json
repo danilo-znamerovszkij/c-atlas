@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Spinozas eine Wirklichkeit: verkörperter Geist und abgestuftes Bewusstsein",
     "summary": "Baruch Spinoza vertritt die Auffassung, dass es nur eine Substanz gibt, Gott oder die Natur, die uns unter zwei Attributen, Denken und Ausdehnung, bekannt ist. Der menschliche Geist ist die Idee eines tatsächlich existierenden menschlichen Körpers: ein und dasselbe Ding wie der Körper, unter dem Denken aufgefasst. Da jeder Körper eine entsprechende Idee hat, durchzieht der Geist die gesamte Natur, und das Bewusstsein variiert graduell mit der Komplexität und Leistungsfähigkeit des Körpers.",
-    "associated_thinkers": ["Baruch Spinoza"],
+    "associated_thinkers": [
+      "Baruch Spinoza"
+    ],
     "category": "Monismus",
     "subcategory": "",
     "core_identity_tagline": "Der Geist als Idee des Körpers",
-    "classification_tags": ["substance monism", "dual-aspect", "embodiment", "graded consciousness", "affect"]
+    "classification_tags": [
+      "substance monism",
+      "dual-aspect",
+      "embodiment",
+      "graded consciousness",
+      "affect"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Der Geist ist die Idee des Körpers, dasselbe Individuum, unter dem Attribut des Denkens statt der Ausdehnung aufgefasst. Spinoza hebt phänomenales Bewusstsein nicht als eigene Kategorie hervor; seine Interpreten lesen Bewusstsein als Bewusstsein höherer Ordnung, als kognitiven Zugang, als Macht oder Komplexität des Denkens oder als affektives Gewahrsein.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Da jeder Körper einen entsprechenden Geist hat, dessen Reichtum der Komplexität und Leistungsfähigkeit des Körpers folgt, hätte ein hinreichend komplexer künstlicher Körper einen entsprechend reichen Geist; ob dieser Geist im menschlichen Sinn bewusst wäre, ist umstritten."
     },
     "survival_beyond_death": {
@@ -54,7 +62,7 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Geister sind Modi Gottes oder der Natur, und Freiheit liegt im Verstehen der kausalen Ordnung der Natur durch angemessenere Ideen."
     },
     "virtual_immortality": {
@@ -64,26 +72,80 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Descartes’s Substance Dualism", "relationship": "Kritik" },
-      { "name": "Russellian Monism", "relationship": "Einfluss" },
-      { "name": "Velmans's Reflexive Monism", "relationship": "Überschneidung" },
-      { "name": "Goff's Panpsychism", "relationship": "Einfluss" }
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Velmans's Reflexive Monism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Goff's Panpsychism",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Ethics, Baruch Spinoza (E. Curley, Ed. and Trans., The Collected Works of Spinoza)", "year": 1677 },
-      { "title_with_names": "Spinoza’s Metaphysics: An Essay in Interpretation, E. Curley", "year": 1969 },
-      { "title_with_names": "A Study of Spinoza's Ethics, J. Bennett", "year": 1984 },
-      { "title_with_names": "Reflexive Ideas in Spinoza, L. C. Rice", "year": 1990 },
-      { "title_with_names": "On a Confusion About a Function of Consciousness, N. Block", "year": 1995 },
-      { "title_with_names": "Representation and the Mind-Body Problem in Spinoza, M. Della Rocca", "year": 1996 },
-      { "title_with_names": "Objects, Ideas, and ‘Minds’: Comments on Spinoza's Theory of Mind, M. D. Wilson", "year": 1999 },
-      { "title_with_names": "Consciousness in Spinoza's Philosophy of Mind, C. Martin", "year": 2007 },
-      { "title_with_names": "Spinoza and Consciousness, S. Nadler", "year": 2008 },
-      { "title_with_names": "Theories About Consciousness in Spinoza’s Ethics, M. LeBuffe", "year": 2010 },
-      { "title_with_names": "The Spiritual Automaton: Spinoza’s Science of the Mind, E. Marshall", "year": 2014 },
-      { "title_with_names": "Consciousness, Ideas of Ideas and Animation in Spinoza’s Ethics, O. Marrama", "year": 2017 },
-      { "title_with_names": "Representation and Consciousness in Spinoza’s Naturalistic Theory of the Mind and Imagination, D. Garrett", "year": 2018 },
-      { "title_with_names": "The Idea of the Idea, Consciousness, and Human Experience in Spinoza’s Ethics, O. I. Toth", "year": 2026 }
+      {
+        "title_with_names": "Ethics, Baruch Spinoza (E. Curley, Ed. and Trans., The Collected Works of Spinoza)",
+        "year": 1677
+      },
+      {
+        "title_with_names": "Spinoza’s Metaphysics: An Essay in Interpretation, E. Curley",
+        "year": 1969
+      },
+      {
+        "title_with_names": "A Study of Spinoza's Ethics, J. Bennett",
+        "year": 1984
+      },
+      {
+        "title_with_names": "Reflexive Ideas in Spinoza, L. C. Rice",
+        "year": 1990
+      },
+      {
+        "title_with_names": "On a Confusion About a Function of Consciousness, N. Block",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Representation and the Mind-Body Problem in Spinoza, M. Della Rocca",
+        "year": 1996
+      },
+      {
+        "title_with_names": "Objects, Ideas, and ‘Minds’: Comments on Spinoza's Theory of Mind, M. D. Wilson",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Consciousness in Spinoza's Philosophy of Mind, C. Martin",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Spinoza and Consciousness, S. Nadler",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Theories About Consciousness in Spinoza’s Ethics, M. LeBuffe",
+        "year": 2010
+      },
+      {
+        "title_with_names": "The Spiritual Automaton: Spinoza’s Science of the Mind, E. Marshall",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Consciousness, Ideas of Ideas and Animation in Spinoza’s Ethics, O. Marrama",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Representation and Consciousness in Spinoza’s Naturalistic Theory of the Mind and Imagination, D. Garrett",
+        "year": 2018
+      },
+      {
+        "title_with_names": "The Idea of the Idea, Consciousness, and Human Experience in Spinoza’s Ethics, O. I. Toth",
+        "year": 2026
+      }
     ]
   }
 }

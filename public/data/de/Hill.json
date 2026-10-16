@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Hills Repräsentationalismus: Erscheinung und Wirklichkeit der Qualia",
     "summary": "Christopher S. Hill vertritt die Auffassung, dass alles Gewahrsein repräsentational ist: Etwas gewahr zu sein heißt, in einem Zustand zu sein, der es repräsentiert, und phänomenale Erfahrung ist eine reichhaltige, überwiegend nicht-begriffliche Form solcher Repräsentation. Da Repräsentationen falsch repräsentieren können, wendet er die Unterscheidung von Erscheinung und Wirklichkeit auf die Qualia selbst an; daher muss die Introspektion nicht offenbaren, was Qualia wirklich sind, was der Evidenzbasis der Argumente für den Eigenschaftsdualismus den Boden entzieht.",
-    "associated_thinkers": ["Christopher S. Hill"],
+    "associated_thinkers": [
+      "Christopher S. Hill"
+    ],
     "category": "Materialismus",
     "subcategory": "Erster Ordnung",
     "core_identity_tagline": "Qualia als repräsentierte Erscheinungen, nicht als sich selbst offenbarende Wesenheiten",
-    "classification_tags": ["representationalism", "qualia", "introspection", "nonconceptual content", "physicalism"]
+    "classification_tags": [
+      "representationalism",
+      "qualia",
+      "introspection",
+      "nonconceptual content",
+      "physicalism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Phänomenales Bewusstsein ist erlebnishafte Repräsentation: eine feinkörnige, typischerweise nicht-begriffliche Darstellung von Farben, Klängen, körperlichen Zuständen und Emotionen. Qualia sind Weisen, wie Dinge aussehen, sich anfühlen oder anderweitig erscheinen.",
@@ -46,15 +54,15 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Hills früher Typen-Materialismus vertrat die Auffassung, Silizium-Androiden könnten keine Empfindungen haben; seither ist er zum Repräsentationalismus übergegangen, und sein Urteil über Maschinen ist nicht geklärt."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Hills Auffassung physikalistisch ist, hängt bewusste Repräsentation von einem funktionierenden physischen System ab und überdauert es nicht."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Die Auffassung ist naturalistisch und weist dem Bewusstsein keine kosmische Rolle zu."
     },
     "virtual_immortality": {
@@ -64,23 +72,67 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Dretske’s Information and Representationalism", "relationship": "Überschneidung" },
-      { "name": "McLaughlin's Neurobiologicalism", "relationship": "Vereinbar" },
-      { "name": "Armstrong’s Causal-Role Central-State Materialism", "relationship": "Einfluss" },
-      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Kritik" }
+      {
+        "name": "Dretske’s Information and Representationalism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "McLaughlin's Neurobiologicalism",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Armstrong’s Causal-Role Central-State Materialism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Consciousness, Christopher S. Hill", "year": 2009 },
-      { "title_with_names": "Perceptual Experience, Christopher S. Hill", "year": 2022 },
-      { "title_with_names": "Sensations: A Defense of Type Materialism, Christopher S. Hill", "year": 1991 },
-      { "title_with_names": "Meaning, Mind, and Knowledge, Christopher S. Hill", "year": 2014 },
-      { "title_with_names": "Locating Qualia: Do They Reside in the Brain or in the Body and the World?, Christopher S. Hill", "year": 2012 },
-      { "title_with_names": "Insects: Still Looking Like Zombies, Christopher S. Hill", "year": 2016 },
-      { "title_with_names": "Unity of Consciousness, Christopher S. Hill", "year": 2018 },
-      { "title_with_names": "Sensory Integration and the Unity of Consciousness, Christopher S. Hill and D. J. Bennett (eds.)", "year": 2014 },
-      { "title_with_names": "Hill on Phenomenal Consciousness, B. P. McLaughlin", "year": 2016 },
-      { "title_with_names": "Christopher Hill: Consciousness, A. Byrne", "year": 2011 },
-      { "title_with_names": "Hill's Representationalism: Qualia’s Appearance and Reality, Landscape of Consciousness, Robert Lawrence Kuhn" }
+      {
+        "title_with_names": "Consciousness, Christopher S. Hill",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Perceptual Experience, Christopher S. Hill",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Sensations: A Defense of Type Materialism, Christopher S. Hill",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Meaning, Mind, and Knowledge, Christopher S. Hill",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Locating Qualia: Do They Reside in the Brain or in the Body and the World?, Christopher S. Hill",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Insects: Still Looking Like Zombies, Christopher S. Hill",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Unity of Consciousness, Christopher S. Hill",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Sensory Integration and the Unity of Consciousness, Christopher S. Hill and D. J. Bennett (eds.)",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Hill on Phenomenal Consciousness, B. P. McLaughlin",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Christopher Hill: Consciousness, A. Byrne",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Hill's Representationalism: Qualia’s Appearance and Reality, Landscape of Consciousness, Robert Lawrence Kuhn"
+      }
     ]
   }
 }

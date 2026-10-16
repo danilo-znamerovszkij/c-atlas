@@ -2,11 +2,21 @@
   "id_and_class": {
     "theory_title": "Poppers und Eccles’ interaktionistischer Dualismus: Drei Welten und das Verbindungsgehirn",
     "summary": "Popper und Eccles argumentieren, dass bewusste Erfahrung ein realer, nichtphysischer Bereich ist, der sowohl Input vom Gehirn empfängt als auch auf es einwirkt, sodass die physische Welt nicht kausal geschlossen ist. Popper ordnet Erfahrung in eine Ontologie dreier Welten ein und argumentiert, Bewusstsein hätte sich nur entwickeln können, wenn es das Verhalten beeinflusst. Eccles fügt eine neuronale Schnittstelle hinzu: einen selbstbewussten Geist, der die Aktivität in kortikalen „Verbindungsarealen“ abtastet, auswählt und vereinheitlicht; später umformuliert als Psychonen, die über Quanteneffekte an der Synapse auf Dendrone einwirken.",
-    "associated_thinkers": ["Karl Popper", "John Eccles", "Friedrich Beck"],
+    "associated_thinkers": [
+      "Karl Popper",
+      "John Eccles",
+      "Friedrich Beck"
+    ],
     "category": "Dualismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als nichtphysischer Geist, der auf das Gehirn einwirkt",
-    "classification_tags": ["interactionism", "three worlds", "mental causation", "downward causation", "quantum synapse"]
+    "classification_tags": [
+      "interactionism",
+      "three worlds",
+      "mental causation",
+      "downward causation",
+      "quantum synapse"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist Welt 2: ein nicht reduzierbarer Bereich subjektiver Erfahrung und mentaler Dispositionen, verschieden von der physischen Welt 1 und von Welt 3, den objektiven Gehalten des Denkens.",
@@ -47,37 +57,70 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da Bewusstsein ein nichtphysischer Bereich von Welt 2 ist, der mit Gehirnen wechselwirkt, würde der Bau einer physischen Maschine es nicht von selbst hervorbringen."
     },
     "survival_beyond_death": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Eccles vertrat eine persönliche Überlebensthese, gegründet auf ein nichtphysisches Selbst, während Popper sie nicht teilte."
     },
     "meaning_and_purpose": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Popper gründet das Selbst in Sprache und Kultur, während Eccles die Wissenschaft mit Fragen des Geistes verbinden wollte; deshalb gehen die beiden auseinander."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Das Kopieren des Gehirns würde nur Welt 1 kopieren, nicht den nichtphysischen Geist, der es vereint und lenkt."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Beck-Eccles's Quantum Processes in the Synapse", "relationship": "Erweiterung" },
-      { "name": "Sperry’s Mentalist Paradigm", "relationship": "Überschneidung" },
-      { "name": "Ellis's Strong Emergence and Top-Down Causation", "relationship": "Vereinbar" },
-      { "name": "Pitts’s Interactionist Dualism: Energy Conservation and Mental Causation", "relationship": "Erweiterung" }
+      {
+        "name": "Beck-Eccles's Quantum Processes in the Synapse",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Sperry’s Mentalist Paradigm",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Ellis's Strong Emergence and Top-Down Causation",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Pitts’s Interactionist Dualism: Energy Conservation and Mental Causation",
+        "relationship": "Erweiterung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Self and Its Brain: An Argument for Interactionism, Karl Popper and John Eccles", "year": 1977 },
-      { "title_with_names": "Objective Knowledge: An Evolutionary Approach, Karl Popper", "year": 1972 },
-      { "title_with_names": "Natural Selection and the Emergence of Mind, Karl Popper", "year": 1978 },
-      { "title_with_names": "A Unitary Hypothesis of Mind–Brain Interaction in the Cerebral Cortex, John Eccles", "year": 1990 },
-      { "title_with_names": "Quantum Aspects of Brain Activity and the Role of Consciousness, Friedrich Beck and John Eccles", "year": 1992 },
-      { "title_with_names": "How the Self Controls Its Brain, John Eccles", "year": 1994 },
-      { "title_with_names": "The Human Mystery, John Eccles", "year": 1979 }
+      {
+        "title_with_names": "The Self and Its Brain: An Argument for Interactionism, Karl Popper and John Eccles",
+        "year": 1977
+      },
+      {
+        "title_with_names": "Objective Knowledge: An Evolutionary Approach, Karl Popper",
+        "year": 1972
+      },
+      {
+        "title_with_names": "Natural Selection and the Emergence of Mind, Karl Popper",
+        "year": 1978
+      },
+      {
+        "title_with_names": "A Unitary Hypothesis of Mind–Brain Interaction in the Cerebral Cortex, John Eccles",
+        "year": 1990
+      },
+      {
+        "title_with_names": "Quantum Aspects of Brain Activity and the Role of Consciousness, Friedrich Beck and John Eccles",
+        "year": 1992
+      },
+      {
+        "title_with_names": "How the Self Controls Its Brain, John Eccles",
+        "year": 1994
+      },
+      {
+        "title_with_names": "The Human Mystery, John Eccles",
+        "year": 1979
+      }
     ]
   }
 }

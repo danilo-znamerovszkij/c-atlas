@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Beckers analoger elektrischer Körper",
     "summary": "Robert O. Becker schlug vor, dass Bewusstsein von einem langsamen, kontinuierlichen elektrischen Gleichstromsystem abhängt, das von Glia- und Schwann-Zellen entlang der Nerven getragen wird, neben dem schnellen Spitzencode der Neuronen. Dieses analoge System, das er zunächst bei der Regulation von Heilung und Regeneration entdeckte, bestimmt das Niveau des Bewusstseins und kann seine Inhalte formen, indem es sensorische Eingaben zu einer einzigen Erfahrung bindet.",
-    "associated_thinkers": ["Robert O. Becker"],
+    "associated_thinkers": [
+      "Robert O. Becker"
+    ],
     "category": "Materialismus",
     "subcategory": "Elektromagnetisch",
     "core_identity_tagline": "Bewusstsein, geformt durch das analoge Gleichstromfeld des Körpers",
-    "classification_tags": ["bioelectricity", "direct current", "glia", "regeneration", "electromagnetic fields"]
+    "classification_tags": [
+      "bioelectricity",
+      "direct current",
+      "glia",
+      "regeneration",
+      "electromagnetic fields"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein hängt kausal, möglicherweise auch konstitutiv, von räumlich organisierter elektrischer Gleichstromaktivität im nicht-neuronalen Stützgewebe des Nervensystems ab. Becker behauptete nicht, dass Bewusstsein einfach ein elektromagnetisches Feld ist.",
@@ -47,11 +55,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Bewusstsein hängt hier von einem den ganzen Organismus umspannenden analogen Gleichstromsystem im lebenden Gewebe ab, das digitale Computer nicht besitzen."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Erfahrung von der bioelektrischen Organisation des lebenden Körpers abhängt, endet sie, wenn diese Organisation versagt."
     },
     "meaning_and_purpose": {
@@ -59,24 +67,54 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Eine Simulation würde die physischen Gleichstromfelder nicht reproduzieren, die die Auffassung für Bewusstsein als notwendig ansieht."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Pockett's Conscious and Non-Conscious Patterns", "relationship": "Erweiterung" },
-      { "name": "McFadden's Conscious Electromagnetic Information Theory", "relationship": "Kompatibel" },
-      { "name": "Levin's Technological Approach to Mind Everywhere", "relationship": "Überschneidung" },
-      { "name": "Miller’s Brain Waves’ Analog Organization of Cortex", "relationship": "Kompatibel" }
+      {
+        "name": "Pockett's Conscious and Non-Conscious Patterns",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Levin's Technological Approach to Mind Everywhere",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Miller’s Brain Waves’ Analog Organization of Cortex",
+        "relationship": "Kompatibel"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Body Electric: Electromagnetism and the Foundation of Life, Robert O. Becker and G. Selden", "year": 1985 },
-      { "title_with_names": "Cross Currents, Robert O. Becker", "year": 1990 },
-      { "title_with_names": "The bioelectric field pattern in the salamander and its simulation by an electronic analog, Robert O. Becker", "year": 1960 },
-      { "title_with_names": "Search for evidence of axial current flow in peripheral nerves of salamander, Robert O. Becker", "year": 1961 },
-      { "title_with_names": "The direct current control system: A link between environment and organism, Robert O. Becker, C. H. Bachman and H. Friedman", "year": 1962 },
-      { "title_with_names": "Direct current potentials in hypnoanalgesia, H. Friedman, Robert O. Becker and C. H. Bachman", "year": 1962 }
+      {
+        "title_with_names": "The Body Electric: Electromagnetism and the Foundation of Life, Robert O. Becker and G. Selden",
+        "year": 1985
+      },
+      {
+        "title_with_names": "Cross Currents, Robert O. Becker",
+        "year": 1990
+      },
+      {
+        "title_with_names": "The bioelectric field pattern in the salamander and its simulation by an electronic analog, Robert O. Becker",
+        "year": 1960
+      },
+      {
+        "title_with_names": "Search for evidence of axial current flow in peripheral nerves of salamander, Robert O. Becker",
+        "year": 1961
+      },
+      {
+        "title_with_names": "The direct current control system: A link between environment and organism, Robert O. Becker, C. H. Bachman and H. Friedman",
+        "year": 1962
+      },
+      {
+        "title_with_names": "Direct current potentials in hypnoanalgesia, H. Friedman, Robert O. Becker and C. H. Bachman",
+        "year": 1962
+      }
     ]
   }
 }

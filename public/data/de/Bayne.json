@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Baynes einheitliches, mehrdimensionales Bewusstsein: Struktur vor Mechanismus",
     "summary": "Tim Bayne argumentiert, dass die Bewusstseinswissenschaft zu unreif für detaillierte mechanistische Theorien ist und zuerst die strukturellen Bedingungen festlegen sollte, die jede Theorie erfüllen muss. Seine Einheitsthese besagt, dass alle gleichzeitigen Erfahrungen eines Subjekts notwendigerweise Teile eines einzigen gesamten Bewusstseinszustands sind. Außerdem argumentiert er, dass globale Zustände wie Schlaf, Narkose und psychedelische Zustände entlang mehrerer Dimensionen variieren und nicht entlang einer einzigen ‚Stufe‘ des Bewusstseins.",
-    "associated_thinkers": ["Tim Bayne"],
+    "associated_thinkers": [
+      "Tim Bayne"
+    ],
     "category": "Materialismus",
     "subcategory": "Philosophisch",
     "core_identity_tagline": "Bewusstsein als ein einheitliches, mehrdimensionales Feld",
-    "classification_tags": ["phenomenal unity", "split-brain", "global states", "measurement", "methodology"]
+    "classification_tags": [
+      "phenomenal unity",
+      "split-brain",
+      "global states",
+      "measurement",
+      "methodology"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bayne macht keine Aussage darüber, was Bewusstsein ist. Er behauptet, dass das phänomenale Feld eines Subjekts eine Erfahrung mit Teilen ist und keine Ansammlung von Erfahrungen, die zufällig gleichzeitig auftreten.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Bayne behandelt das Bewusstsein von KI als offene Frage, die sich durch validierte Bewusstseinstests klären lässt, und nicht als etwas, das im Voraus entschieden ist."
     },
     "survival_beyond_death": {
@@ -64,22 +72,64 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Integrated Information Theory", "relationship": "Kritik" },
-      { "name": "Critiques of Integrated Information Theory", "relationship": "Überschneidung" },
-      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Kompatibel" },
-      { "name": "Psychedelic Theories of Consciousness", "relationship": "Überschneidung" }
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Critiques of Integrated Information Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Psychedelic Theories of Consciousness",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Unity of Consciousness and the Split-Brain Syndrome, Tim Bayne", "year": 2008 },
-      { "title_with_names": "The Unity of Consciousness, Tim Bayne", "year": 2010 },
-      { "title_with_names": "On the Axiomatic Foundations of the Integrated Information Theory of Consciousness, Tim Bayne", "year": 2018 },
-      { "title_with_names": "Dimensions of Consciousness and the Psychedelic State, Tim Bayne and O. Carter", "year": 2018 },
-      { "title_with_names": "What Is the Unity of Consciousness?, Tim Bayne and David J. Chalmers", "year": 2003 },
-      { "title_with_names": "Are There Levels of Consciousness?, Tim Bayne, J. Hohwy and A. M. Owen", "year": 2016 },
-      { "title_with_names": "Are There Islands of Awareness?, Tim Bayne, A. K. Seth and M. Massimini", "year": 2020 },
-      { "title_with_names": "Tests for Consciousness in Humans and Beyond, Tim Bayne, A. K. Seth, M. Massimini et al.", "year": 2024 },
-      { "title_with_names": "Self-Consciousness and ‘Split’ Brains: The Minds’ I, E. Schechter", "year": 2018 },
-      { "title_with_names": "Split Brain: Divided Perception but Undivided Consciousness, Y. Pinto et al.", "year": 2017 }
+      {
+        "title_with_names": "The Unity of Consciousness and the Split-Brain Syndrome, Tim Bayne",
+        "year": 2008
+      },
+      {
+        "title_with_names": "The Unity of Consciousness, Tim Bayne",
+        "year": 2010
+      },
+      {
+        "title_with_names": "On the Axiomatic Foundations of the Integrated Information Theory of Consciousness, Tim Bayne",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Dimensions of Consciousness and the Psychedelic State, Tim Bayne and O. Carter",
+        "year": 2018
+      },
+      {
+        "title_with_names": "What Is the Unity of Consciousness?, Tim Bayne and David J. Chalmers",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Are There Levels of Consciousness?, Tim Bayne, J. Hohwy and A. M. Owen",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Are There Islands of Awareness?, Tim Bayne, A. K. Seth and M. Massimini",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Tests for Consciousness in Humans and Beyond, Tim Bayne, A. K. Seth, M. Massimini et al.",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Self-Consciousness and ‘Split’ Brains: The Minds’ I, E. Schechter",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Split Brain: Divided Perception but Undivided Consciousness, Y. Pinto et al.",
+        "year": 2017
+      }
     ]
   }
 }

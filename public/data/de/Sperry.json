@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Sperrys mentalistisches Paradigma",
     "summary": "Sperry vertritt die Auffassung, dass Bewusstsein eine nicht-reduktive, dynamische Emergenz der Hirnaktivität ist, die echte Top-down-Kontrolle über die neuronalen Prozesse ausübt, aus denen sie hervorgeht. Er nennt diese Sicht ‚mentalistischen Monismus‘: eine Welt, kein unverkörperter Geist, aber mentale Eigenschaften als echte Ursachen des Verhaltens.",
-    "associated_thinkers": ["Roger Sperry"],
+    "associated_thinkers": [
+      "Roger Sperry"
+    ],
     "category": "Nicht-reduktiv",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als kausale Emergenz der Gehirnfunktion",
-    "classification_tags": ["emergence", "downward causation", "mental causation", "monism", "neuroscience"]
+    "classification_tags": [
+      "emergence",
+      "downward causation",
+      "mental causation",
+      "monism",
+      "neuroscience"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusste Erfahrung ist eine emergente Eigenschaft der oberen Ebenen bestimmter Hirnprozesse, mit kausaler Macht über die niedrigeren Ereignisse, aus denen sie besteht.",
@@ -46,31 +54,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Sperry bindet Bewusstsein an das Gehirn, beschreibt es aber in verallgemeinerten funktionalen Begriffen; ob ein künstliches System es beherbergen könnte, bleibt offen."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Sperry stellt fest, dass für unverkörpertes Bewusstsein, einen Geist oder einen Geist im Sinne einer Seele kein Raum vorgesehen ist; Bewusstsein kann nicht unabhängig vom Gehirn existieren."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Sperry will die Kluft zwischen wertfreier Wissenschaft und zielgerichteten, wertebeladenen humanistischen Ansichten schließen, indem er dem Bewusstsein eine legitime kausale Rolle zuweist."
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Da Bewusstsein eine Emergenz der Hirnaktivität ist, hinge eine Wiederherstellung an anderer Stelle davon ab, das emergente Ganze neu zu erzeugen, worauf Sperry nicht eingeht."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Ellis's Strong Emergence and Top-Down Causation", "relationship": "Überschneidung" },
-      { "name": "Bunge's Emergent Materialism", "relationship": "Überschneidung" },
-      { "name": "Epiphenomenalism", "relationship": "Kritik" },
-      { "name": "Popper and Eccles's Interactionist Dualism: Three Worlds and the Liaison Brain", "relationship": "Gegensatz" }
+      {
+        "name": "Ellis's Strong Emergence and Top-Down Causation",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Bunge's Emergent Materialism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Popper and Eccles's Interactionist Dualism: Three Worlds and the Liaison Brain",
+        "relationship": "Gegensatz"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Sperry’s Mentalist Paradigm (Landscape of Consciousness), Roger Sperry", "year": 1990 }
+      {
+        "title_with_names": "Sperry’s Mentalist Paradigm (Landscape of Consciousness), Roger Sperry",
+        "year": 1990
+      }
     ]
   }
 }

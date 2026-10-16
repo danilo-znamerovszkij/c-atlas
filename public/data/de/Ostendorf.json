@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Ostendorfs prädiktive, musterbasierte Benutzeroberfläche",
     "summary": "Jason Ostendorf argumentiert, dass Bewusstsein eine rekursive Illusion ist, eine simulierte Benutzeroberfläche, die von einem auf Mustervervollständigung ausgelegten Gehirn erzeugt wird, das auf Überleben und nicht auf Wahrheit angelegt ist. Drei Funktionen erzeugen sie: gefilterter sensorischer Input, Gedächtnis zur Vorhersage und Sprache, die Erfahrung in der ersten Person erzählt, sodass das Selbst und seine Handlungsmacht nachträgliche Geschichten sind.",
-    "associated_thinkers": ["Jason Ostendorf"],
+    "associated_thinkers": [
+      "Jason Ostendorf"
+    ],
     "category": "Materialismus",
     "subcategory": "Eliminativ/Illusionismus",
     "core_identity_tagline": "Bewusstsein als Überlebens-Benutzeroberfläche, die von der Sprache erzählt wird",
-    "classification_tags": ["illusionism", "predictive processing", "self-narrative", "free will", "language"]
+    "classification_tags": [
+      "illusionism",
+      "predictive processing",
+      "self-narrative",
+      "free will",
+      "language"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein Nebenprodukt neuronaler Berechnung: eine komprimierte, verzerrte Benutzeroberfläche, die das Gehirn erzeugt und dann als Selbst erzählt. Ostendorf nennt sie „Information in Bewegung“.",
@@ -46,32 +54,49 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Wenn Bewusstsein aus Informationsverarbeitung und Selbsterzählung besteht, könnte eine Maschine, die sich selbst in der ersten Person vorhersagt und erzählt, dieselbe Art von Benutzeroberfläche erzeugen."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da das Selbst eine von neuronaler Berechnung erzeugte Erzählung ist, endet es, wenn das Gehirn endet."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Ohne wahren Akteur oder ein wahres Selbst ist jede Bedeutung ein Produkt der Überlebens-Benutzeroberfläche und nicht eines tieferen Zwecks."
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Die Auffassung impliziert kein wirkliches Selbst, das zu bewahren wäre; das Kopieren der Prozesse würde also die Erzählung kopieren, aber keine Person in einem tieferen Sinn fortsetzen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Friston's Free-Energy Principle and Active Inference", "relationship": "Grundlage" },
-      { "name": "Predictive Theories (Top-Down)", "relationship": "Grundlage" },
-      { "name": "Frankish’s Illusionism", "relationship": "Überschneidung" },
-      { "name": "Sapolsky's Hard Incompatibilism", "relationship": "Vereinbar" }
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Sapolsky's Hard Incompatibilism",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "You Are Not Alive: The Illusion of Consciousness and Free Will, Jason Ostendorf" },
-      { "title_with_names": "Ostendorf’s Predictive, Pattern-Driven Interface, Jason Ostendorf", "year": 2025 }
+      {
+        "title_with_names": "You Are Not Alive: The Illusion of Consciousness and Free Will, Jason Ostendorf"
+      },
+      {
+        "title_with_names": "Ostendorf’s Predictive, Pattern-Driven Interface, Jason Ostendorf",
+        "year": 2025
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Builes’ modaler Idealismus",
     "summary": "David Builes argumentiert, dass der Idealismus aus metaphysischer Notwendigkeit wahr ist: In jeder möglichen Welt ist jede fundamentale Entität bewusst und jede fundamentale Eigenschaft phänomenal. Nur eine Welt ist fundamental; alle anderen möglichen Welten existieren als Gedanken im Geist eines göttlichen Wesens oder eines ähnlichen idealen Beobachters.",
-    "associated_thinkers": ["David Builes"],
+    "associated_thinkers": [
+      "David Builes"
+    ],
     "category": "Idealismus",
     "subcategory": "",
     "core_identity_tagline": "Notwendiger Idealismus, mögliche Welten als göttliche Gedanken",
-    "classification_tags": ["idealism", "modal metaphysics", "possible worlds", "theism", "phenomenal properties"]
+    "classification_tags": [
+      "idealism",
+      "modal metaphysics",
+      "possible worlds",
+      "theism",
+      "phenomenal properties"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist der fundamentale Charakter der Wirklichkeit: Jede fundamentale Eigenschaft ist eine phänomenale Eigenschaft, die bestimmt, wie es ist, etwas zu sein, und dies gilt notwendigerweise.",
@@ -54,7 +62,7 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Da alle Möglichkeiten als Gedanken eines göttlichen Geistes existieren, ist die Auffassung mit dem Theismus vereinbar und gründet Modalität in göttlicher Erkenntnis oder göttlichem Willen."
     },
     "virtual_immortality": {
@@ -64,13 +72,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Berkeley’s Immaterialist Idealism", "relationship": "Überschneidung" },
-      { "name": "Yetter-Chappell’s Non-Theistic Idealism", "relationship": "Kontrast" },
-      { "name": "Kastrup's Analytic Idealism", "relationship": "Vereinbar" },
-      { "name": "Leslie's Consciousness Inside an Infinite Mind", "relationship": "Überschneidung" }
+      {
+        "name": "Berkeley’s Immaterialist Idealism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Yetter-Chappell’s Non-Theistic Idealism",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Kastrup's Analytic Idealism",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Leslie's Consciousness Inside an Infinite Mind",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Builes’s Modal Idealism, David Builes", "year": 2024 }
+      {
+        "title_with_names": "Builes’s Modal Idealism, David Builes",
+        "year": 2024
+      }
     ]
   }
 }

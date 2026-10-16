@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Fishs naiver Realismus",
     "summary": "William Fish vertritt die Auffassung, dass eine bewusste Wahrnehmungserfahrung eine unmittelbare Beziehung zwischen dem Wahrnehmenden und vom Geist unabhängigen Gegenständen ist, sodass das Rot, das man sieht, das eigene Rot des Apfels ist und keine innere Repräsentation davon. Halluzinationen entbehren diese Beziehung und unterscheiden sich daher der Art nach von echter Wahrnehmung. Fish argumentiert, dass die Behandlung phänomenaler Eigenschaften als relational es einer funktionalistischen Erklärung erlaubt, die Erklärungslücke zu schließen.",
-    "associated_thinkers": ["William Fish"],
+    "associated_thinkers": [
+      "William Fish"
+    ],
     "category": "Materialismus",
     "subcategory": "Relational",
     "core_identity_tagline": "Erfahrung als unmittelbare Beziehung zur Welt",
-    "classification_tags": ["naive realism", "relationalism", "disjunctivism", "perception", "philosophy of mind"]
+    "classification_tags": [
+      "naive realism",
+      "relationalism",
+      "disjunctivism",
+      "perception",
+      "philosophy of mind"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bei wahrheitsgemäßer Wahrnehmung ist Bewusstsein eine Beziehung der Bekanntschaft mit äußeren Gegenständen und ihren Eigenschaften, und der phänomenale Charakter der Erfahrung wird durch diese Gegenstände konstituiert.",
@@ -46,34 +54,55 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Fish behandelt Maschinen nicht; ein künstliches System bräuchte sowohl die richtige funktionale Organisation als auch echte perzeptuelle Beziehungen zu Gegenständen."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da Erfahrung in einer naturalistischen Darstellung in der Beziehung eines lebenden Wahrnehmenden zu physischen Gegenständen besteht, stützt die Auffassung nichts, was Erfahrung nach dem Verschwinden des Wahrnehmenden betrifft."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Die Auffassung ist eine naturalistische Theorie der Wahrnehmung und impliziert keinen kosmischen Zweck."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Eine Simulation würde keine realen äußeren Gegenstände präsentieren, sodass ihre Zustände nach dieser Auffassung eher Halluzinationen als echten Wahrnehmungserfahrungen ähneln würden."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Manzotti’s Mind-Object Identity (\"Spread Mind\")", "relationship": "Überschneidung" },
-      { "name": "Functionalism", "relationship": "Vereinbar" },
-      { "name": "Dretske’s Information and Representationalism", "relationship": "Kontrast" },
-      { "name": "Levine’s Explanatory Gap", "relationship": "Kritik" }
+      {
+        "name": "Manzotti’s Mind-Object Identity (\"Spread Mind\")",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Dretske’s Information and Representationalism",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Levine’s Explanatory Gap",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Perception, Hallucination, and Illusion, William Fish" },
-      { "title_with_names": "Philosophy of Perception: A Contemporary Introduction, William Fish" },
-      { "title_with_names": "Perception: Critical Concepts in Philosophy, William Fish (ed.)" },
-      { "title_with_names": "Fish’s Naïve Realism, Landscape of Consciousness, William Fish", "year": 2008 }
+      {
+        "title_with_names": "Perception, Hallucination, and Illusion, William Fish"
+      },
+      {
+        "title_with_names": "Philosophy of Perception: A Contemporary Introduction, William Fish"
+      },
+      {
+        "title_with_names": "Perception: Critical Concepts in Philosophy, William Fish (ed.)"
+      },
+      {
+        "title_with_names": "Fish’s Naïve Realism, Landscape of Consciousness, William Fish",
+        "year": 2008
+      }
     ]
   }
 }

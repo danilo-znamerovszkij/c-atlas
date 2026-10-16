@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Champagnes semiotische Auffassung",
     "summary": "Marc Champagne knüpft an C. S. Peirce an und argumentiert, dass sich Erlebnisqualitäten von ihren kausalen und inferentiellen Beziehungen nur im Denken trennen lassen (‚Präszission‘), niemals tatsächlich. Indem er den Begriff des ‚Tons‘ zur Unterscheidung von Typ und Token hinzufügt und die Bezugnahme durch Ähnlichkeit (Ikonizität) betont, will er Qualia erklärungstechnisch gewöhnlich machen und das schwere Problem auflösen, indem er die Unterscheidung nicht verdinglicht, die es erzeugt.",
-    "associated_thinkers": ["Marc Champagne", "Charles Sanders Peirce"],
+    "associated_thinkers": [
+      "Marc Champagne",
+      "Charles Sanders Peirce"
+    ],
     "category": "Herausforderung",
     "subcategory": "",
     "core_identity_tagline": "Qualia als präszindierte Töne in einem semiotischen Rahmen",
-    "classification_tags": ["semiotics", "peirce", "qualia", "iconicity", "hard problem"]
+    "classification_tags": [
+      "semiotics",
+      "peirce",
+      "qualia",
+      "iconicity",
+      "hard problem"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Qualitäten sind ‚Töne‘, ursprüngliche Zeichenträger, die jeder Instanziierung und Verwendung vorausgehen. Das menschliche Bewusstsein von Qualitäten ist die Fähigkeit, durch Präszission die einzelnen Qualitäten zu isolieren, aus denen Muster bestehen.",
@@ -50,7 +59,7 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Champagne lehnt den reduktiven Materialismus ab, sagt aber, dass die Hoffnungen auf Unsterblichkeit, die diese Ablehnung oft begleiten, nicht berücksichtigt werden können."
     },
     "meaning_and_purpose": {
@@ -64,18 +73,47 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Peirce’s Phaneroscopic Semiotics", "relationship": "Grundlage" },
-      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Kritik" },
-      { "name": "Dennett’s Heterophenomenology", "relationship": "Vereinbar" },
-      { "name": "Gallagher’s Embodied Self and Interactive Consciousness", "relationship": "Kritik" }
+      {
+        "name": "Peirce’s Phaneroscopic Semiotics",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Dennett’s Heterophenomenology",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Gallagher’s Embodied Self and Interactive Consciousness",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Consciousness and the Philosophy of Signs: How Peircean Semiotics Combines Phenomenal Qualia and Practical Effects, Marc Champagne", "year": 2018 },
-      { "title_with_names": "Explaining the Qualitative Dimension of Consciousness: Prescission instead of Reification, Marc Champagne", "year": 2009 },
-      { "title_with_names": "Referring to the Qualitative Dimension of Consciousness: Iconicity Instead of Indexicality, Marc Champagne", "year": 2014 },
-      { "title_with_names": "Can Pragmatists Believe in Qualia? The Founder of Pragmatism Certainly Did, Marc Champagne", "year": 2016 },
-      { "title_with_names": "The Collected Papers of Charles Sanders Peirce, Charles Sanders Peirce" },
-      { "title_with_names": "A Watershed for Qualia: Marc Champagne’s Unified Theory of Consciousness, J. Pelkey", "year": 2019 }
+      {
+        "title_with_names": "Consciousness and the Philosophy of Signs: How Peircean Semiotics Combines Phenomenal Qualia and Practical Effects, Marc Champagne",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Explaining the Qualitative Dimension of Consciousness: Prescission instead of Reification, Marc Champagne",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Referring to the Qualitative Dimension of Consciousness: Iconicity Instead of Indexicality, Marc Champagne",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Can Pragmatists Believe in Qualia? The Founder of Pragmatism Certainly Did, Marc Champagne",
+        "year": 2016
+      },
+      {
+        "title_with_names": "The Collected Papers of Charles Sanders Peirce, Charles Sanders Peirce"
+      },
+      {
+        "title_with_names": "A Watershed for Qualia: Marc Champagne’s Unified Theory of Consciousness, J. Pelkey",
+        "year": 2019
+      }
     ]
   }
 }

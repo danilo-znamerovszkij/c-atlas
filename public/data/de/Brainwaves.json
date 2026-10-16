@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Millers analoge Organisation des Kortex durch Gehirnwellen",
     "summary": "Earl K. Miller argumentiert, dass wandernde Gehirnwellen den Kortex im Vorbeigehen organisieren, indem sie analoge Berechnungen ausführen: langsamere Alpha- und Beta-Wellen erlegen der schnelleren Gamma-Aktivität, die sensorische Inhalte trägt, Ziele auf. Bewusstsein, ‚die Spitze des Eisbergs der Kognition‘, entsteht, wenn diese Wellenmuster groß genug werden, um den Kortex zu vereinheitlichen.",
-    "associated_thinkers": ["Earl K. Miller"],
+    "associated_thinkers": [
+      "Earl K. Miller"
+    ],
     "category": "Materialismus",
     "subcategory": "Elektromagnetisch",
     "core_identity_tagline": "Bewusstsein als durch analoge Gehirnwellen vereinheitlichter Kortex",
-    "classification_tags": ["brain waves", "analog computation", "prefrontal cortex", "spatial computing", "anesthesia"]
+    "classification_tags": [
+      "brain waves",
+      "analog computation",
+      "prefrontal cortex",
+      "spatial computing",
+      "anesthesia"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein natürliches Ergebnis analoger Berechnung durch Gehirnwellen: Es tritt auf, wenn Wellenmuster groß und koordiniert genug werden, um den Kortex zu einer einzigen Repräsentation zu vereinheitlichen.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Bewusstsein folgt hier aus analoger Wellenberechnung, die den Kortex vereinheitlicht; digitale Systeme führen eine solche nicht aus. Ob analoge Hardware dies könnte, wird nicht behandelt."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein von Wellendynamik in einem lebenden Kortex abhängt, kann es das Gehirn nicht überdauern."
     },
     "meaning_and_purpose": {
@@ -58,19 +66,34 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Eine Kopie müsste analoge Feld-Dynamiken reproduzieren und nicht bloß digitalen Informationsfluss; die Theorie behandelt dies nicht."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Erweiterung" },
-      { "name": "Integrated Information Theory", "relationship": "Vereinbar" },
-      { "name": "Singer and Melloni’s Large-Scale Synchrony", "relationship": "Überschneidung" },
-      { "name": "Sejnowski’s Computational Two Tiers and Traveling Waves", "relationship": "Überschneidung" }
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Singer and Melloni’s Large-Scale Synchrony",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Sejnowski’s Computational Two Tiers and Traveling Waves",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "An Integrative Theory of Prefrontal Cortex Function, Earl K. Miller and Jonathan Cohen", "year": 2001 }
+      {
+        "title_with_names": "An Integrative Theory of Prefrontal Cortex Function, Earl K. Miller and Jonathan Cohen",
+        "year": 2001
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Carruthers’ Repräsentationalismus erster Ordnung",
     "summary": "Peter Carruthers vertritt die Auffassung, dass phänomenales Bewusstsein in perzeptiven Repräsentationen der Welt erster Ordnung besteht, die global an die vielen Verbraucher-Systeme des Gehirns für Bericht, Entscheidung und motorische Steuerung gesendet werden. Eine innere Überwachung oder eine Repräsentation höherer Ordnung ist nicht nötig. Zu dieser Auffassung gelangte er, indem er seine eigenen früheren Argumente für eine Theorie höherer Ordnung (Doppelgehalt-Theorie) umkehrte.",
-    "associated_thinkers": ["Peter Carruthers"],
+    "associated_thinkers": [
+      "Peter Carruthers"
+    ],
     "category": "Materialismus",
     "subcategory": "Erster Ordnung",
     "core_identity_tagline": "Bewusstsein als global gesendeter perzeptiver Gehalt",
-    "classification_tags": ["first-order", "representationalism", "global broadcast", "access", "higher-order debate"]
+    "classification_tags": [
+      "first-order",
+      "representationalism",
+      "global broadcast",
+      "access",
+      "higher-order debate"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Phänomenales Bewusstsein ist global gesendeter perzeptiver Gehalt erster Ordnung ohne begriffliche Form, der jenen Systemen zur Verfügung steht, die Denken, Sprechen und Handeln steuern.",
@@ -46,31 +54,45 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Da Bewusstsein eine Frage des repräsentationalen Gehalts und einer Architektur globaler Sendung ist, könnte ein mit dieser Architektur gebautes System im Prinzip qualifiziert sein."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein die Sendung perzeptiven Gehalts im Gehirn ist, endet es, wenn das Gehirn endet."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Die Auffassung ist reduktiv und naturalistisch und setzt keinen kosmischen Zweck voraus."
     },
     "virtual_immortality": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Da die Theorie funktional und repräsentational ist, würde die Reproduktion der relevanten Gehalte und der Architektur der Sendung im Prinzip das Bewusstsein reproduzieren."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Überschneidung" },
-      { "name": "Dretske’s Information and Representationalism", "relationship": "Überschneidung" },
-      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Kontrast" },
-      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Kritik" }
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Dretske’s Information and Representationalism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Rosenthal’s Higher-Order Thought",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Carruthers’s First-Order Representationalism, Landscape of Consciousness, Robert Lawrence Kuhn" }
+      {
+        "title_with_names": "Carruthers’s First-Order Representationalism, Landscape of Consciousness, Robert Lawrence Kuhn"
+      }
     ]
   }
 }

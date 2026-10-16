@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Pinkers Naturalismus",
     "summary": "Steven Pinker erklärt Zugangsbewusstsein computationell, als Information, die den spezialisierten Systemen des Gehirns global zur Verfügung steht, und vertritt die Auffassung, dass alle Evidenz Bewusstsein an neuronale Aktivität bindet. Zum phänomenalen Bewusstsein vertritt er einen „leichten Mysterianismus“: Sein erlebter Charakter ist real und hängt vom Gehirn ab, doch unsere evolvierten Geister verfügen womöglich nicht über die Begriffe, um zu verstehen, warum.",
-    "associated_thinkers": ["Steven Pinker"],
+    "associated_thinkers": [
+      "Steven Pinker"
+    ],
     "category": "Herausforderung",
     "subcategory": "",
     "core_identity_tagline": "Gehirngebundener Zugang, leichtgewichtiger mysterianischer Phänomenalität",
-    "classification_tags": ["naturalism", "access consciousness", "global workspace", "mysterianism", "evolutionary psychology"]
+    "classification_tags": [
+      "naturalism",
+      "access consciousness",
+      "global workspace",
+      "mysterianism",
+      "evolutionary psychology"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Zugangsbewusstsein ist Information, die in einem gemeinsamen Format bereitgestellt wird, das Wahrnehmungs-, Gedächtnis-, Sprach-, Planungs- und Handlungssysteme alle nutzen können. Phänomenales Bewusstsein hängt vollständig von der Informationsverarbeitung des Gehirns ab, doch Pinker nennt es sui generis.",
@@ -46,35 +54,62 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Da Zugangsbewusstsein Informationsverarbeitung in einem computationalen Geist ist, könnte eine Maschine es im Prinzip haben. Ob eine solche Maschine irgendetwas empfände, fällt unter das schwere Problem, das Pinker womöglich nie lösen wird."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Pinker vertritt die Auffassung, dass Bewusstsein vollständig von neuronaler Aktivität abhängt, und lehnt die immaterielle Seele ab; daher überdauert nichts den Tod des Gehirns."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Die Fähigkeit zu leiden, die Wesen mit ähnlicher neuronaler Architektur teilen, tritt an die Stelle einer unsterblichen Seele als Grundlage moralischer Verantwortung."
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Ein computationaler Geist könnte im Prinzip reproduziert werden, doch ob die Kopie phänomenale Erfahrung hätte, ist die Frage, die Pinker offenlässt."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Vereinbar" },
-      { "name": "McGinn's Ultimate Mystery (Mysterianism)", "relationship": "Einfluss" },
-      { "name": "Dennett’s Illusionism", "relationship": "Gegensatz" },
-      { "name": "Computational Theories", "relationship": "Überschneidung" }
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Dennett’s Illusionism",
+        "relationship": "Gegensatz"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "How the Mind Works, Steven Pinker", "year": 1997 },
-      { "title_with_names": "The Mystery of Consciousness (Time), Steven Pinker", "year": 2007 },
-      { "title_with_names": "Science Is Not Your Enemy (The New Republic), Steven Pinker", "year": 2013 },
-      { "title_with_names": "Steven Pinker: On the Problem of Consciousness (interview by Tony Sobrado, The Montréal Review), Steven Pinker", "year": 2025 },
-      { "title_with_names": "Can We Solve the Mind–Body Problem?, Colin McGinn", "year": 1989 }
+      {
+        "title_with_names": "How the Mind Works, Steven Pinker",
+        "year": 1997
+      },
+      {
+        "title_with_names": "The Mystery of Consciousness (Time), Steven Pinker",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Science Is Not Your Enemy (The New Republic), Steven Pinker",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Steven Pinker: On the Problem of Consciousness (interview by Tony Sobrado, The Montréal Review), Steven Pinker",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Can We Solve the Mind–Body Problem?, Colin McGinn",
+        "year": 1989
+      }
     ]
   }
 }

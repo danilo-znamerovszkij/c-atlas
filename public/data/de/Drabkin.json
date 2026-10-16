@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Drabkins „Sprache“ als grundlegender Ausdruck",
     "summary": "Daniel Drabkin argumentiert, dass die grundlegendste Eigenschaft der Wirklichkeit der Ausdruck oder die Selbstmanifestation ist und nicht das Dasein; diese ausdrückliche Essenz nennt er „Sprache“. Bewusste Erfahrung gehört zur verhaltensmäßigen Eingebundenheit eines Menschen in diese ausdruckshafte Welt und bildet sich während des frühen Spracherwerbs durch Wittgensteinsche „Sprachspiele“ heraus, nicht durch Berechnung im Gehirn. Aus dieser Sicht ist das Gehirn eine Maschine, mit der sich die Welt ausdrückt, und KI kann, da ihr die Eingebundenheit in eine ausdruckshafte Umgebung fehlt, keine echte Handlungsfähigkeit entwickeln.",
-    "associated_thinkers": ["Daniel Drabkin"],
+    "associated_thinkers": [
+      "Daniel Drabkin"
+    ],
     "category": "Materialismus",
     "subcategory": "Sprache",
     "core_identity_tagline": "Bewusstsein als Wirklichkeit, die sich durch Sprache ausdrückt",
-    "classification_tags": ["language", "expression", "language acquisition", "enactivism", "artificial intelligence"]
+    "classification_tags": [
+      "language",
+      "expression",
+      "language acquisition",
+      "enactivism",
+      "artificial intelligence"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusste Erfahrung ist eine Eigenschaft verhaltensmäßiger Eingebundenheit (im Unterschied zum bloßen Funktionieren) in eine Umwelt, deren grundlegendes Wesen Ausdruck ist, oder „Sprache“ im Sinne Drabkins.",
@@ -46,31 +54,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Drabkin vertritt die Auffassung, dass KI grundsätzlich nicht in der Lage ist, menschliche Handlungsfähigkeit zu entwickeln, da sie nicht in eine ausdruckshafte Umwelt eingebettet ist und in ihrer Semantik kein Ausdruck im Kern vorhanden ist."
     },
     "survival_beyond_death": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Bewusstsein gehört zur Eingebundenheit eines verkörperten Akteurs in die Welt; Drabkin behandelt Ausdruck aber auch als Eigenschaft der Wirklichkeit im Ganzen und geht auf den Tod nicht ein."
     },
     "meaning_and_purpose": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Die Bezeichnung des Gehirns als Maschine, mit der sich die Welt ausdrückt, deutet auf ein größeres Ganzes hin, zu dem Menschen gehören; Drabkin zieht jedoch keine Schlüsse über einen Zweck."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Einer digitalen Kopie würde die körperliche Eingebundenheit in eine ausdruckshafte Umwelt fehlen, und genau die setzt nach dieser Auffassung Bewusstsein und Handlungsfähigkeit voraus."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Enactivism", "relationship": "Überschneidung" },
-      { "name": "Wittgenstein's Grammatical Fiction", "relationship": "Einfluss" },
-      { "name": "Bach's Cortical Conductor Theory", "relationship": "Kritik" },
-      { "name": "Kastrup's Analytic Idealism", "relationship": "Kritik" }
+      {
+        "name": "Enactivism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Wittgenstein's Grammatical Fiction",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Bach's Cortical Conductor Theory",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Kastrup's Analytic Idealism",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Drabkin’s Language as Fundamental Expression, Landscape of Consciousness, Daniel Drabkin", "year": 2025 }
+      {
+        "title_with_names": "Drabkin’s Language as Fundamental Expression, Landscape of Consciousness, Daniel Drabkin",
+        "year": 2025
+      }
     ]
   }
 }

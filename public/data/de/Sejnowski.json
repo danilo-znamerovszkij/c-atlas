@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Sejnowskis rechnerische zwei Ebenen und wandernde Wellen",
     "summary": "Sejnowski schlägt vor, dass Bewusstsein aus einer zweiten, kognitiven Ebene der kortikalen Verarbeitung entsteht, die auf der gewöhnlichen sensomotorischen Ebene aufsitzt. Die sensomotorische Ebene kodiert Information in Feuerraten, während die kognitive Ebene millisekundengenaue Spike-Zeitpunkte nutzt, die durch wandernde Wellen und vorübergehende synaptische Plastizität organisiert werden, um Kontext über die Zeit zu halten und das Denken ohne äußeren Input fortzuführen. Er erwartet, dass das Problem des Bewusstseins verschwindet, sobald diese Mechanismen verstanden sind, „wie die Grinsekatze“.",
-    "associated_thinkers": ["Terrence J. Sejnowski"],
+    "associated_thinkers": [
+      "Terrence J. Sejnowski"
+    ],
     "category": "Materialismus",
     "subcategory": "Komputational",
     "core_identity_tagline": "Bewusstsein als selbsterzeugtes Denken in einer spike-getakteten kortikalen Ebene",
-    "classification_tags": ["computational neuroscience", "spike timing", "traveling waves", "postdiction", "thalamus"]
+    "classification_tags": [
+      "computational neuroscience",
+      "spike timing",
+      "traveling waves",
+      "postdiction",
+      "thalamus"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist der globale dynamische Zustand eines Gehirns, das über das Denken nachdenkt: selbsterzeugte Aktivität in einer kognitiven kortikalen Ebene, die aus früherer Erfahrung innere Repräsentationen aufbaut.",
@@ -47,37 +55,70 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Aktuelle große Sprachmodelle besitzen keine selbsterzeugende Aktivität; Sejnowski legt jedoch nahe, dass Maschinen, die mit selbsterzeugender „System-2“-Dynamik aufgebaut sind, die durch wandernde Wellen und Plastizität organisiert wird, eine Kognition erreichen könnten, die der menschlichen Erfahrung näherkommt."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein der globale dynamische Zustand kortikaler und thalamischer Schaltkreise ist, folgt aus dieser Auffassung, dass es endet, wenn diese Dynamik aufhört."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Sejnowski fasst Selbsterkenntnis als Verständnis der Mechanismen des Denkens auf, ohne dass ein kosmischer Zweck im Spiel wäre."
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Die Auffassung ist rechnerisch und lässt grundsätzlich maschinelle Kognition zu, aber Sejnowski befasst sich nicht damit, einen individuellen Geist zu kopieren."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Crick and Koch's Neural Correlates of Consciousness", "relationship": "Grundlage" },
-      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Überschneidung" },
-      { "name": "Eagleman's Possibilianism", "relationship": "Überschneidung" },
-      { "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate", "relationship": "Vereinbar" }
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Eagleman's Possibilianism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Reliability of Spike Timing in Neocortical Neurons, Z. F. Mainen and T. J. Sejnowski", "year": 1995 },
-      { "title_with_names": "Motion Integration and Postdiction in Visual Awareness, D. M. Eagleman and T. J. Sejnowski", "year": 2000 },
-      { "title_with_names": "Regulation of Spike Timing in Visual Cortical Circuits, P. Tiesinga, J. M. Fellous, and T. J. Sejnowski", "year": 2008 },
-      { "title_with_names": "Consciousness, Terrence J. Sejnowski", "year": 2015 },
-      { "title_with_names": "The Deep Learning Revolution, Terrence J. Sejnowski", "year": 2018 },
-      { "title_with_names": "Transformers and Cortical Waves: Encoders for Pulling in Context Across Time, L. Muller, P. S. Churchland, and T. J. Sejnowski", "year": 2024 },
-      { "title_with_names": "Dynamical Mechanisms for Coordinating Long-term Working Memory Based on the Precision of Spike-timing in Cortical Neurons, Terrence J. Sejnowski", "year": 2026 }
+      {
+        "title_with_names": "Reliability of Spike Timing in Neocortical Neurons, Z. F. Mainen and T. J. Sejnowski",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Motion Integration and Postdiction in Visual Awareness, D. M. Eagleman and T. J. Sejnowski",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Regulation of Spike Timing in Visual Cortical Circuits, P. Tiesinga, J. M. Fellous, and T. J. Sejnowski",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Consciousness, Terrence J. Sejnowski",
+        "year": 2015
+      },
+      {
+        "title_with_names": "The Deep Learning Revolution, Terrence J. Sejnowski",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Transformers and Cortical Waves: Encoders for Pulling in Context Across Time, L. Muller, P. S. Churchland, and T. J. Sejnowski",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Dynamical Mechanisms for Coordinating Long-term Working Memory Based on the Precision of Spike-timing in Cortical Neurons, Terrence J. Sejnowski",
+        "year": 2026
+      }
     ]
   }
 }

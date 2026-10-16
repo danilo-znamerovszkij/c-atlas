@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Nida-Rümelins Subjekt-Körper-Dualismus",
     "summary": "Martine Nida-Rümelin argumentiert, dass ein bewusstes Subjekt, das Wesen, das erlebt, denkt und handelt, weder mit einem materiellen Ding identisch ist noch von einem solchen konstituiert wird, obwohl es einen Körper hat. Ihre Sicht ist stärker als der Eigenschaftsdualismus, verabschiedet aber das cartesische Bild einer Person aus Körper plus Seele. Sie stützt sie auf den phänomenalen Essentialismus, die kognitive Unabhängigkeit phänomenaler und physischer Begriffe und die vorreflexive Selbstwahrnehmung, die jeder Erfahrung innewohnt.",
-    "associated_thinkers": ["Martine Nida-Rümelin"],
+    "associated_thinkers": [
+      "Martine Nida-Rümelin"
+    ],
     "category": "Dualismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als nichtmaterielles Subjekt, das einen Körper hat",
-    "classification_tags": ["subject-body dualism", "phenomenal concepts", "knowledge argument", "self-awareness", "personal identity"]
+    "classification_tags": [
+      "subject-body dualism",
+      "phenomenal concepts",
+      "knowledge argument",
+      "self-awareness",
+      "personal identity"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein gehört zu einem erlebenden Subjekt, identisch mit der Person, dessen phänomenale Eigenschaften ontologisch basal und nichtphysisch sind.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unsicher",
+      "stance": "Uncertain",
       "rationale": "Da Subjekte nicht von materiellen Dingen konstituiert werden, garantiert der Bau des richtigen physischen Systems für sich genommen noch kein Subjekt, und Nida-Rümelin sagt nicht, was es garantieren würde."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Nida-Rümelin vertritt die Auffassung, dass der Subjekt-Körper-Dualismus nicht impliziert, dass bewusste Subjekte ohne Körper existieren können."
     },
     "meaning_and_purpose": {
@@ -58,19 +66,34 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da das Subjekt nicht durch sein physisches Substrat konstituiert wird, würde das Kopieren dieses Substrats nicht offensichtlich dasselbe Subjekt hinüberretten."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Jackson's Representationalism and the Knowledge Argument", "relationship": "Einfluss" },
-      { "name": "Property Dualism", "relationship": "Kontrast" },
-      { "name": "Descartes’s Substance Dualism", "relationship": "Kontrast" },
-      { "name": "Zahavi’s Pre-Reflective For-Me-Ness", "relationship": "Überschneidung" }
+      {
+        "name": "Jackson's Representationalism and the Knowledge Argument",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Zahavi’s Pre-Reflective For-Me-Ness",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Nida-Rümelin’s Subject-Body Dualism, Martine Nida-Rümelin", "year": 2010 }
+      {
+        "title_with_names": "Nida-Rümelin’s Subject-Body Dualism, Martine Nida-Rümelin",
+        "year": 2010
+      }
     ]
   }
 }

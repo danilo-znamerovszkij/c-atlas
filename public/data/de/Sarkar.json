@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Sarkars unendliches höchstes Bewusstsein",
     "summary": "Prabhat Ranjan Sarkar lehrt, dass die letzte Wirklichkeit ein unverursachtes, unendliches, nichtqualifiziertes höchstes Bewusstsein (Nirguna Brahman) ist, das aus einem erkennenden Prinzip (Purusha) und einer untrennbaren schöpferischen Kraft (Prakriti) besteht. In einem kosmischen Zyklus wird ein Teil dieses Bewusstseins qualifiziert und verdichtet sich Schritt für Schritt zu Materie; dann entwickelt es sich durch immer höher entwickelte Geister zurück, bis es durch intuitive Praxis wieder in seinen Ursprung eingeht.",
-    "associated_thinkers": ["Prabhat Ranjan Sarkar", "Richard Gauthier"],
+    "associated_thinkers": [
+      "Prabhat Ranjan Sarkar",
+      "Richard Gauthier"
+    ],
     "category": "Idealismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als unendlicher Ursprung und Ziel der Schöpfung",
-    "classification_tags": ["tantra", "ananda marga", "cosmic cycle", "monism", "reincarnation"]
+    "classification_tags": [
+      "tantra",
+      "ananda marga",
+      "cosmic cycle",
+      "monism",
+      "reincarnation"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist die absolute Wirklichkeit: unendliches höchstes Bewusstsein, von dem Materie und individuelle Geister qualifizierte, gröbere Ausdrucksformen sind.",
@@ -50,11 +59,11 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Nach dem Tod wandert jedes Selbst mit seinem Geist, wenn nötig, in einen neuen physischen Körper, bis es im höchsten Bewusstsein aufgeht."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Der Zweck des menschlichen Lebens besteht darin, durch intuitive Praxis und ein sittliches Leben im nichtqualifizierten höchsten Bewusstsein aufzugehen, dem Ursprung, zu dem alles schließlich zurückkehrt."
     },
     "virtual_immortality": {
@@ -64,15 +73,35 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Kashmir Shaivism’s Dynamic Non-Dualism", "relationship": "Überschneidung" },
-      { "name": "Sāṃkhya's Pure Witness and the Material Mind", "relationship": "Grundlage" },
-      { "name": "Sri Aurobindo’s Evolving Consciousness", "relationship": "Überschneidung" },
-      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Kritik" }
+      {
+        "name": "Kashmir Shaivism’s Dynamic Non-Dualism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Sāṃkhya's Pure Witness and the Material Mind",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Sri Aurobindo’s Evolving Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Ananda Sutram, Prabhat Ranjan Sarkar", "year": 1962 },
-      { "title_with_names": "A Guide to Human Conduct, Prabhat Ranjan Sarkar", "year": 2004 },
-      { "title_with_names": "Microvita: Cosmic Seeds of Life, Richard Gauthier" }
+      {
+        "title_with_names": "Ananda Sutram, Prabhat Ranjan Sarkar",
+        "year": 1962
+      },
+      {
+        "title_with_names": "A Guide to Human Conduct, Prabhat Ranjan Sarkar",
+        "year": 2004
+      },
+      {
+        "title_with_names": "Microvita: Cosmic Seeds of Life, Richard Gauthier"
+      }
     ]
   }
 }

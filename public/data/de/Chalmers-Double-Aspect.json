@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Chalmers’ Doppelaspekt-Theorie der Information",
     "summary": "David Chalmers schlägt vorsichtig vor, dass Information ontologisch fundamental ist und zwei Aspekte hat: einen physischen Aspekt, verwirklicht in Systemen wie Gehirnen und Computern, und einen phänomenalen Aspekt, verwirklicht als subjektive Erfahrung. Wo immer ein Informationsraum in Erfahrung verwirklicht ist, ist derselbe Raum physisch verwirklicht; Information dient daher als gemeinsame Währung zwischen dem Physischen und dem Phänomenalen.",
-    "associated_thinkers": ["David Chalmers"],
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
     "category": "Integrierte Info",
     "subcategory": "",
     "core_identity_tagline": "Information mit einem physischen und einem phänomenalen Gesicht",
-    "classification_tags": ["information", "double-aspect", "hard problem", "naturalistic dualism", "neutral monism"]
+    "classification_tags": [
+      "information",
+      "double-aspect",
+      "hard problem",
+      "naturalistic dualism",
+      "neutral monism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist der phänomenale Aspekt der Information; derselbe Informationszustand, der in einem physischen Substrat verwirklicht ist, ist auch in Erfahrung verwirklicht.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Information ist in Computern ebenso verwirklicht wie in Neuronen, und wo Information ist, besteht die Möglichkeit von Erfahrung."
     },
     "survival_beyond_death": {
@@ -58,19 +66,34 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Wenn Erfahrung der Informationsstruktur folgt, würde ein System, das denselben Informationsraum wie ein Gehirn verwirklicht, dieselbe Erfahrung verwirklichen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Grundlage" },
-      { "name": "Russellian Monism", "relationship": "Einfluss" },
-      { "name": "Spinoza’s One Reality: Embodied Mind and Graded Consciousness", "relationship": "Einfluss" },
-      { "name": "Integrated Information Theory", "relationship": "Überschneidung" }
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Spinoza’s One Reality: Embodied Mind and Graded Consciousness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Chalmers’ Double-Aspect Theory of Information, David Chalmers", "year": 1996 }
+      {
+        "title_with_names": "Chalmers’ Double-Aspect Theory of Information, David Chalmers",
+        "year": 1996
+      }
     ]
   }
 }

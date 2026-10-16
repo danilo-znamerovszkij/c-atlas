@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Brand Deislers sprachlich zugeschriebenes biografisches Selbst und bewusste Handlung",
     "summary": "Guillermo Brand Deisler schlägt vor, dass das menschliche Selbst entwicklungsgeschichtlich aus dem gebildet wird, was andere Menschen über ein Kind sagen: Äußerungen wie ‚Peter ist gefallen‘ oder ‚Peter wird morgen den Park besuchen‘ konstruieren um den Namen des Kindes eine Biografie, die an die eigene angesammelte Geschichte des Organismus gekoppelt wird. Ist diese Biografie einmal stabil, wird sie zum Bezugspunkt, dem das Gehirn unbewusst Handlungen zuschreibt; eine Handlung ist in seinem technischen Sinn ‚bewusst‘, wenn sie auf diese Weise dem Selbst zugeschrieben wird. Die Theorie setzt elementare Empfindungsfähigkeit voraus und erklärt, wie sich Erfahrung um eine fortbestehende Person herum organisiert.",
-    "associated_thinkers": ["Guillermo Brand Deisler"],
+    "associated_thinkers": [
+      "Guillermo Brand Deisler"
+    ],
     "category": "Materialismus",
     "subcategory": "Sprache",
     "core_identity_tagline": "Das Selbst als Biografie, aus den Worten anderer gebaut",
-    "classification_tags": ["self", "language", "development", "agency", "autobiographical memory"]
+    "classification_tags": [
+      "self",
+      "language",
+      "development",
+      "agency",
+      "autobiographical memory"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Brand Deisler identifiziert das menschliche Selbst mit einer biografischen Entität, die durch sprachliche Zuschreibung und bewusste Handlung konstruiert wird, wobei Handlungen dieser Entität zugeschrieben werden, die das unbewusste Funktionieren hervorbringt; das phänomenale Bewusstsein selbst identifiziert er mit nichts.",
@@ -46,35 +54,62 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Die Theorie setzt einen empfindungsfähigen Organismus voraus und sagt nicht, ob eine Maschine diese Empfindungsfähigkeit haben könnte, obwohl einer Maschine im Prinzip ein durch Sprache aufgebautes Selbst zugeschrieben werden könnte."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da das Selbst vollständig von der im Organismus verwirklichten Organisation abhängt und außerhalb von ihr keine kausale Wirkkraft besitzt, überdauert nichts davon den Tod des Organismus."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Persönlicher Sinn entsteht aus der sozial konstruierten Biografie einer Person, ohne kosmischen Zweck."
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Eine Biografie ließe sich aufzeichnen oder modellieren, doch die Theorie bindet das Selbst an die funktionale Autobiografie eines lebenden Organismus und behandelt eine Übertragung nicht."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Dennett's Multiple Drafts Model", "relationship": "Überschneidung" },
-      { "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness", "relationship": "Überschneidung" },
-      { "name": "Metzinger's No-Self Representational Theory of Subjectivity", "relationship": "Vereinbar" },
-      { "name": "Toomela’s Language-Mediated Structural-Systemic Theory", "relationship": "Überschneidung" }
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Toomela’s Language-Mediated Structural-Systemic Theory",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Conscious Action and the Self: How the Organism Constructs a Biographical Entity That Comes to Carry Out Actions, Guillermo Brand Deisler", "year": 2026 },
-      { "title_with_names": "The Feeling of What Happens: Body and Emotion in the Making of Consciousness, A. Damasio", "year": 1999 },
-      { "title_with_names": "Consciousness Explained, D. C. Dennett", "year": 1991 },
-      { "title_with_names": "Mind, Self, and Society, G. H. Mead", "year": 1934 },
-      { "title_with_names": "Mind in Society: The Development of Higher Psychological Processes, L. S. Vygotsky", "year": 1978 }
+      {
+        "title_with_names": "Conscious Action and the Self: How the Organism Constructs a Biographical Entity That Comes to Carry Out Actions, Guillermo Brand Deisler",
+        "year": 2026
+      },
+      {
+        "title_with_names": "The Feeling of What Happens: Body and Emotion in the Making of Consciousness, A. Damasio",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Consciousness Explained, D. C. Dennett",
+        "year": 1991
+      },
+      {
+        "title_with_names": "Mind, Self, and Society, G. H. Mead",
+        "year": 1934
+      },
+      {
+        "title_with_names": "Mind in Society: The Development of Higher Psychological Processes, L. S. Vygotsky",
+        "year": 1978
+      }
     ]
   }
 }

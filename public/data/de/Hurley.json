@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Hurleys sensomotorische Schleifen und verkörperte Interaktion",
     "summary": "Susan Hurley verwirft das ‚Sandwichmodell‘, das Kognition zwischen perzeptiven Eingaben und Verhaltensausgaben ansiedelt, und argumentiert, dass Wahrnehmung und Handlung tief voneinander abhängen. Bewusstsein entsteht aus dynamischen sensomotorischen Rückkopplungsschleifen zwischen einem verkörperten Akteur und seiner Welt, und seine Träger können sich über das Gehirn hinaus in Körper und Umwelt erstrecken.",
-    "associated_thinkers": ["Susan Hurley"],
+    "associated_thinkers": [
+      "Susan Hurley"
+    ],
     "category": "Materialismus",
     "subcategory": "Verkörpert",
     "core_identity_tagline": "Bewusstsein als Wahrnehmungs-Handlungs-Schleifen",
-    "classification_tags": ["sensorimotor", "dynamical systems", "vehicle externalism", "agency", "embodied cognition"]
+    "classification_tags": [
+      "sensorimotor",
+      "dynamical systems",
+      "vehicle externalism",
+      "agency",
+      "embodied cognition"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein dynamischer Prozess aus Wahrnehmung und Handlung, die sich durch verkörperte Interaktion wechselseitig konstituieren, und kein inneres Theater von Repräsentationen, die isoliert verarbeitet werden.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Da Bewusstsein von sensomotorischen Schleifen abhängt und nicht von einem bestimmten Substrat, könnte ein künstlicher Akteur sich qualifizieren, wenn er verkörpert ist und in Echtzeitinteraktion mit einer Umwelt handelt."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Bewusstsein ist hier ein Prozess eines verkörperten, handelnden Akteurs und endet daher, wenn der Körper nicht mehr wahrnehmen und handeln kann."
     },
     "meaning_and_purpose": {
@@ -58,19 +66,34 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Eine statische Kopie der Hirnzustände würde die Körper-Welt-Schleifen auslassen, die nach dieser Auffassung das Bewusstsein konstituieren."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Enactivism", "relationship": "Einfluss" },
-      { "name": "A. Clark's Extended Mind", "relationship": "Überschneidung" },
-      { "name": "Varela's Neurophenomenology", "relationship": "Einfluss" },
-      { "name": "Noë's \"Out of Our Heads\" Theory", "relationship": "Überschneidung" }
+      {
+        "name": "Enactivism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "A. Clark's Extended Mind",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Noë's \"Out of Our Heads\" Theory",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Hurley’s Sensorimotor Loops and Embodied Interaction, Susan Hurley", "year": 1998 }
+      {
+        "title_with_names": "Hurley’s Sensorimotor Loops and Embodied Interaction, Susan Hurley",
+        "year": 1998
+      }
     ]
   }
 }

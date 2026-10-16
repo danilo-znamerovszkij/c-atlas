@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Shanons Kartographie und strukturiertes Spektrum",
     "summary": "Benny Shanon beschreibt Bewusstsein als strukturiertes System, das von elementarer Sentience über gewöhnliches mentales Gewahrsein und reflexive ‚Metamentation‘ bis zu nicht-gewöhnlichen und selbsttranszendenten Zuständen reicht. Er argumentiert, dass gewöhnliches Bewusstsein nur dann angemessen beschrieben werden kann, wenn man es mit Träumen, Halluzinationen, psychedelischen Visionen und mystischen Zuständen vergleicht, die Merkmale sichtbar machen, die sonst verborgen bleiben. Die Theorie kartiert Typen, Parameter und Transformationen von Erfahrung und schlägt weder einen neuronalen Mechanismus noch eine Metaphysik vor.",
-    "associated_thinkers": ["Benny Shanon"],
+    "associated_thinkers": [
+      "Benny Shanon"
+    ],
     "category": "Phänomenologie",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als kartiertes Spektrum erfahrungsmäßiger Typen",
-    "classification_tags": ["cartography", "altered states", "ayahuasca", "cognitive psychology", "taxonomy"]
+    "classification_tags": [
+      "cartography",
+      "altered states",
+      "ayahuasca",
+      "cognitive psychology",
+      "taxonomy"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist der Bereich innerer subjektiver Erfahrung, der sich in hierarchisch geordnete, voneinander abhängige Typen gliedert und sich in nicht-gewöhnliche Zustände erstreckt, die mit gewöhnlichen kontinuierlich verbunden sind.",
@@ -54,7 +62,7 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Shanon zählt Bedeutsamkeit und die Fähigkeit zur Transzendenz zu den Merkmalen der Erfahrung, legt sich aber nicht fest, ob transzendente Zustände etwas über den Geist hinaus offenbaren."
     },
     "virtual_immortality": {
@@ -64,19 +72,51 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Gibson's Ecological Psychology", "relationship": "Einfluss" },
-      { "name": "Psychedelic Theories of Consciousness", "relationship": "Überschneidung" },
-      { "name": "Winkelman's Integrative Mode of Neurognostic Structures", "relationship": "Überschneidung" },
-      { "name": "Computational Theories", "relationship": "Kritik" }
+      {
+        "name": "Gibson's Ecological Psychology",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Psychedelic Theories of Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Winkelman's Integrative Mode of Neurognostic Structures",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "A psychological theory of consciousness, Benny Shanon", "year": 2008 },
-      { "title_with_names": "The Antipodes of the Mind: Charting the Phenomenology of the Ayahuasca Experience, Benny Shanon", "year": 2002 },
-      { "title_with_names": "The Representational and the Presentational: An Essay on Cognition and the Study of Mind, Benny Shanon", "year": 1993 },
-      { "title_with_names": "What is the function of consciousness?, Benny Shanon", "year": 1998 },
-      { "title_with_names": "Altered temporality, Benny Shanon", "year": 2001 },
-      { "title_with_names": "Altered states and the study of consciousness: The case of ayahuasca, Benny Shanon", "year": 2003 },
-      { "title_with_names": "Shanon's Cartography and Structured Spectrum, Landscape of Consciousness (Closer To Truth)" }
+      {
+        "title_with_names": "A psychological theory of consciousness, Benny Shanon",
+        "year": 2008
+      },
+      {
+        "title_with_names": "The Antipodes of the Mind: Charting the Phenomenology of the Ayahuasca Experience, Benny Shanon",
+        "year": 2002
+      },
+      {
+        "title_with_names": "The Representational and the Presentational: An Essay on Cognition and the Study of Mind, Benny Shanon",
+        "year": 1993
+      },
+      {
+        "title_with_names": "What is the function of consciousness?, Benny Shanon",
+        "year": 1998
+      },
+      {
+        "title_with_names": "Altered temporality, Benny Shanon",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Altered states and the study of consciousness: The case of ayahuasca, Benny Shanon",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Shanon's Cartography and Structured Spectrum, Landscape of Consciousness (Closer To Truth)"
+      }
     ]
   }
 }

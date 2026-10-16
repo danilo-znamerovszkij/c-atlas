@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Sreedharans affektive Überlebenstheorie",
     "summary": "Sreedharan argumentiert, dass sich Bewusstsein durch natürliche Selektion als System gefühlter affektiver Priorisierung entwickelt hat. Schmerz, Furcht, Hunger und Lust versehen Reize mit Überlebensrelevanz, was Gedächtnis, Aufmerksamkeit und flexibles Verhalten schärft; die Tatsache, dass sich Erfahrung wie etwas anfühlt, ist damit selbst der adaptive Vorteil.",
-    "associated_thinkers": ["Shaji Sreedharan"],
+    "associated_thinkers": [
+      "Shaji Sreedharan"
+    ],
     "category": "Materialismus",
     "subcategory": "Phylogenetisch",
     "core_identity_tagline": "Bewusstsein als gefühlter Affekt, für das Überleben selegiert",
-    "classification_tags": ["affect", "emotion", "evolution", "natural selection", "memory"]
+    "classification_tags": [
+      "affect",
+      "emotion",
+      "evolution",
+      "natural selection",
+      "memory"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist die gefühlte Fähigkeit, überlebensrelevante Erfahrung zu kodieren: affektive Zustände, die das, was ein Organismus wahrnimmt, mit Dringlichkeit und Bedeutung gewichten.",
@@ -45,15 +53,15 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Bewusstsein wird hier an entwickelte affektive Systeme gebunden, die dem Überleben des Organismus dienen; ob ein künstliches System ohne solche Einsätze fühlen könnte, wird nicht behandelt."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein eine biologische Funktion lebender Organismen ist, folgt aus der Auffassung, dass es den Tod des Organismus nicht überdauert."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Sreedharan nennt Bewusstsein die Strategie der Natur für intelligentes Überleben, einen biologischen Zweck ohne kosmische Teleologie."
     },
     "virtual_immortality": {
@@ -63,14 +71,32 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Panksepp’s Primal Affective Consciousness", "relationship": "Überschneidung" },
-      { "name": "Solms's Affect as the Hidden Spring of Consciousness", "relationship": "Überschneidung" },
-      { "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness", "relationship": "Vereinbar" },
-      { "name": "Epiphenomenalism (Materialism)", "relationship": "Gegensatz" }
+      {
+        "name": "Panksepp’s Primal Affective Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Solms's Affect as the Hidden Spring of Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Epiphenomenalism (Materialism)",
+        "relationship": "Gegensatz"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Sreedharan’s Affective Survival Theory, Shaji Sreedharan (Landscape of Consciousness entry)", "year": 2025 },
-      { "title_with_names": "The Expression of the Emotions in Man and Animals, Charles Darwin", "year": 1872 }
+      {
+        "title_with_names": "Sreedharan’s Affective Survival Theory, Shaji Sreedharan (Landscape of Consciousness entry)",
+        "year": 2025
+      },
+      {
+        "title_with_names": "The Expression of the Emotions in Man and Animals, Charles Darwin",
+        "year": 1872
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "O’Reilly-Shahs Zustandsraumtheorie und rechnergestützter dynamischer Monismus",
     "summary": "O’Reilly-Shah schlägt vor, dass phänomenales Bewusstsein in hierarchischer Verzögerungskoordinateneinbettung in plastischen rekurrenten neuronalen Netzen besteht: Rückkopplung ermöglicht es dem Gehirn, die dynamische Geschichte seiner Umwelt zu rekonstruieren und, an der Spitze der Hierarchie, seine eigene Einbettungsaktivität. Seine Metaphysik, der rechnergestützte dynamische Monismus, identifiziert Bewusstsein mit eben diesem zeitlich ausgedehnten Prozess. Er argumentiert, die Identität löse das schwere Problem auf, da die verbleibende Lücke nur noch der Unterschied zwischen dem Beschreiben eines Prozesses und dem Sein dieses Prozesses sei.",
-    "associated_thinkers": ["Vikas N. O'Reilly-Shah"],
+    "associated_thinkers": [
+      "Vikas N. O'Reilly-Shah"
+    ],
     "category": "Materialismus",
     "subcategory": "Komputational",
     "core_identity_tagline": "Bewusstsein als selbstreferenzielle dynamische Einbettung in plastischen Netzwerken",
-    "classification_tags": ["delay coordinate embedding", "recurrent networks", "process monism", "plasticity", "quality spaces"]
+    "classification_tags": [
+      "delay coordinate embedding",
+      "recurrent networks",
+      "process monism",
+      "plasticity",
+      "quality spaces"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Phänomenale Erfahrung ist identisch mit hierarchischer, selbstreferenzieller Verzögerungskoordinateneinbettung, die von plastischen rekurrenten Netzen ausgeführt wird, also einem zeitlich ausgedehnten computationalen Prozess und nicht einem statischen neuronalen Zustand, einer funktionalen Rolle oder einer intrinsischen Eigenschaft der Materie.",
@@ -47,11 +55,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Ein System mit derselben plastischen, prozessualen Trajektorie wäre bewusst. O’Reilly-Shah hält jedoch exakte Äquivalenz angesichts unvorhersehbaren Inputs und chaotischer Sensitivität für äußerst unwahrscheinlich, und statische Feedforward-Systeme qualifizieren sich nicht."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein mit einem laufenden physikalischen Prozess in rekurrenten Netzen identisch ist, folgt aus dieser Auffassung, dass es endet, wenn dieser Prozess endet."
     },
     "meaning_and_purpose": {
@@ -59,29 +67,74 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Eine Kopie müsste die Plastizität, die Umweltkopplung und die Trajektorie des Originals unbegrenzt nachbilden, was O’Reilly-Shah für praktisch nicht erreichbar hält."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Markwell’s Process Identity Theory", "relationship": "Überschneidung" },
-      { "name": "Integrated Information Theory", "relationship": "Gegensatz" },
-      { "name": "Qualia Space", "relationship": "Vereinbar" },
-      { "name": "Lamme's Recurrent Processing Theory", "relationship": "Vereinbar" }
+      {
+        "name": "Markwell’s Process Identity Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Gegensatz"
+      },
+      {
+        "name": "Qualia Space",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Delay Coordinate Embedding as Neuronally Implemented Information Processing: The State Space Theory of Consciousness, Vikas N. O’Reilly-Shah", "year": 2025 },
-      { "title_with_names": "A Caveat Regarding the Unfolding Argument: Implications of Plasticity for Computational Theories of Consciousness, V. N. O’Reilly-Shah, A. Selvitella, and A. Schurger", "year": 2025 },
-      { "title_with_names": "Computational Dynamic Monism: Process Metaphysics for the State Space Theory of Consciousness, Vikas N. O’Reilly-Shah", "year": 2026 },
-      { "title_with_names": "State Space Theory as a Unifying Framework for Consciousness, Vikas N. O’Reilly-Shah", "year": 2026 },
-      { "title_with_names": "Smooth Embeddings in Contracting Recurrent Networks Driven by Regular Dynamics: A Synthesis for Neural Representation, V. N. O’Reilly-Shah and A. M. Selvitella", "year": 2026 },
-      { "title_with_names": "Detecting Strange Attractors in Turbulence, F. Takens", "year": 1981 },
-      { "title_with_names": "Embedding and Approximation Theorems for Echo State Networks, A. Hart, J. Hook, and J. Dawes", "year": 2020 },
-      { "title_with_names": "Dynamical Time Series Embeddings in Recurrent Neural Networks, G. Uribarri and G. B. Mindlin", "year": 2022 },
-      { "title_with_names": "Delay Embedding Theory of Neural Sequence Models, M. Ostrow, A. Eisen, and I. Fiete", "year": 2024 },
-      { "title_with_names": "The Unfolding Argument: Why IIT and Other Causal Structure Theories Cannot Explain Consciousness, A. Doerig, A. Schurger, A. Hess, and M. H. Herzog", "year": 2019 },
-      { "title_with_names": "The Multiple Realization Book, T. W. Polger and L. A. Shapiro", "year": 2016 }
+      {
+        "title_with_names": "Delay Coordinate Embedding as Neuronally Implemented Information Processing: The State Space Theory of Consciousness, Vikas N. O’Reilly-Shah",
+        "year": 2025
+      },
+      {
+        "title_with_names": "A Caveat Regarding the Unfolding Argument: Implications of Plasticity for Computational Theories of Consciousness, V. N. O’Reilly-Shah, A. Selvitella, and A. Schurger",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Computational Dynamic Monism: Process Metaphysics for the State Space Theory of Consciousness, Vikas N. O’Reilly-Shah",
+        "year": 2026
+      },
+      {
+        "title_with_names": "State Space Theory as a Unifying Framework for Consciousness, Vikas N. O’Reilly-Shah",
+        "year": 2026
+      },
+      {
+        "title_with_names": "Smooth Embeddings in Contracting Recurrent Networks Driven by Regular Dynamics: A Synthesis for Neural Representation, V. N. O’Reilly-Shah and A. M. Selvitella",
+        "year": 2026
+      },
+      {
+        "title_with_names": "Detecting Strange Attractors in Turbulence, F. Takens",
+        "year": 1981
+      },
+      {
+        "title_with_names": "Embedding and Approximation Theorems for Echo State Networks, A. Hart, J. Hook, and J. Dawes",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Dynamical Time Series Embeddings in Recurrent Neural Networks, G. Uribarri and G. B. Mindlin",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Delay Embedding Theory of Neural Sequence Models, M. Ostrow, A. Eisen, and I. Fiete",
+        "year": 2024
+      },
+      {
+        "title_with_names": "The Unfolding Argument: Why IIT and Other Causal Structure Theories Cannot Explain Consciousness, A. Doerig, A. Schurger, A. Hess, and M. H. Herzog",
+        "year": 2019
+      },
+      {
+        "title_with_names": "The Multiple Realization Book, T. W. Polger and L. A. Shapiro",
+        "year": 2016
+      }
     ]
   }
 }

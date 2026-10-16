@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Chalmers’ und McQueens Quantenkollaps",
     "summary": "Chalmers und McQueen beleben die Idee wieder, dass Bewusstsein den Quantenzustand kollabieren lässt, und bauen sie zu einem präzisen Modell aus, indem sie die Integrierte Informationstheorie mit der kontinuierlichen spontanen Lokalisation verbinden. Der Kollaps der Wellenfunktion ist nach ihrer Argumentation genau die Art kausaler Lücke in der Physik, in die Bewusstsein eingreifen könnte; damit beantworten sie den Einwand der kausalen Geschlossenheit gegen den Eigenschaftsdualismus. Sie präsentieren das Ergebnis als prüfbares Forschungsprogramm und nicht als gesicherte Auffassung.",
-    "associated_thinkers": ["David Chalmers", "Kelvin McQueen"],
+    "associated_thinkers": [
+      "David Chalmers",
+      "Kelvin McQueen"
+    ],
     "category": "Quanten",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als Auslöser des Quantenkollapses",
-    "classification_tags": ["quantum collapse", "integrated information", "mental causation", "property dualism", "causal closure"]
+    "classification_tags": [
+      "quantum collapse",
+      "integrated information",
+      "mental causation",
+      "property dualism",
+      "causal closure"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein, bestimmt durch eine mathematische Theorie wie die integrierte Information der IIT oberhalb eines Schwellenwerts, ist das, was den Kollaps der Quanten-Wellenfunktion herbeiführt.",
@@ -46,7 +55,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Bei der IIT-Version wäre jedes System, dessen integrierte Information den Schwellenwert übersteigt, bewusst und würde einen Kollaps verursachen, gleichgültig woraus es besteht."
     },
     "survival_beyond_death": {
@@ -64,13 +73,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Wigner–von Neumann’s Consciousness-Collapse: Experience at the Quantum Cut", "relationship": "Erweiterung" },
-      { "name": "Integrated Information Theory", "relationship": "Grundlage" },
-      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Vereinbar" },
-      { "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"", "relationship": "Überschneidung" }
+      {
+        "name": "Wigner–von Neumann’s Consciousness-Collapse: Experience at the Quantum Cut",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Chalmers and McQueen’s Quantum Collapse (Landscape of Consciousness), David Chalmers and Kelvin McQueen", "year": 2022 }
+      {
+        "title_with_names": "Chalmers and McQueen’s Quantum Collapse (Landscape of Consciousness), David Chalmers and Kelvin McQueen",
+        "year": 2022
+      }
     ]
   }
 }

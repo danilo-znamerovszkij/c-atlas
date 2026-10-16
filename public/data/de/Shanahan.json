@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Shanahans verkörperte Einsichten aus unverkörperten Geistern",
     "summary": "Murray Shanahan fragt, ob Bewusstsein unverkörperten Geistern kohärent zugeschrieben werden kann, etwa auf LLM beruhenden Dialogagenten, die keinen Körper und keinen sensorischen Kontakt zur Welt haben. Ausgehend von einer verkörperten, enaktiven Auffassung biologischen Bewusstseins stellt er fest, dass solche Zuschreibungen einen fragmentierten Zeitsinn und ein zerbrochenes Selbst verlangen und die Sprache des Bewusstseins bis an ihre Grenze dehnen.",
-    "associated_thinkers": ["Murray Shanahan"],
+    "associated_thinkers": [
+      "Murray Shanahan"
+    ],
     "category": "Materialismus",
     "subcategory": "Verkörpert",
     "core_identity_tagline": "Bewusstsein gebunden an Körper, Welt und Gesellschaft",
-    "classification_tags": ["embodiment", "enactivism", "large language models", "space of possible minds", "selfhood"]
+    "classification_tags": [
+      "embodiment",
+      "enactivism",
+      "large language models",
+      "space of possible minds",
+      "selfhood"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Biologisches Bewusstsein entsteht aus dem Verbund von Gehirn, Körper und Welt: aus dem In-einer-Welt-Sein und dem Interagieren mit ihr, nicht allein aus interner Berechnung.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Bewusstsein in unverkörperten LLM-Agenten wäre entweder unverständlich oder radikal fremd; Shanahan prüft, ob irgendeine kohärente Auffassung auf sie passt, ohne die Frage zu entscheiden."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Bewusstsein hier von einem lebenden Körper abhängt, der mit seiner Welt interagiert, würde ein vom Körper getrennter Geist das entbehren, was er braucht, um bewusst zu sein."
     },
     "meaning_and_purpose": {
@@ -58,19 +66,34 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Shanahan warnt, dass ein Geist-Upload, der virtuelle Unsterblichkeit sucht, der verkörperten Struktur fehlen könnte, die für menschenähnliches Bewusstsein nötig ist."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Enactivism", "relationship": "Grundlage" },
-      { "name": "Computational Theories", "relationship": "Kritik" },
-      { "name": "Buddhism's Empty, Illusory Phenomenal Consciousness", "relationship": "Einfluss" },
-      { "name": "Agüera y Arcas’s Computational Functionalism", "relationship": "Gegensatz" }
+      {
+        "name": "Enactivism",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Buddhism's Empty, Illusory Phenomenal Consciousness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Agüera y Arcas’s Computational Functionalism",
+        "relationship": "Gegensatz"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Shanahan’s Embodied Insights from Disembodied Minds, Murray Shanahan", "year": 2025 }
+      {
+        "title_with_names": "Shanahan’s Embodied Insights from Disembodied Minds, Murray Shanahan",
+        "year": 2025
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "He’s Theorie der gemeinsamen Determinanten",
     "summary": "Biyu Jade He argumentiert, dass Bewusstsein aus mehreren zusammenwirkenden Hirnschaltkreisen entsteht und dass verschiedene Arten bewussten Inhalts (Wahrnehmungen, Erinnerungen, Emotionen, Gedanken, Willensakte) von unterschiedlichen neuronalen Mechanismen abhängen können. Sie lehnt die Suche nach einem einzigen, kontextunabhängigen neuronalen Korrelat des Bewusstseins ab und fordert, jede Art von Gewahrsein aus ihren eigenen Bedingungen heraus zu untersuchen.",
-    "associated_thinkers": ["Biyu Jade He"],
+    "associated_thinkers": [
+      "Biyu Jade He"
+    ],
     "category": "Materialismus",
     "subcategory": "Neurobiologisch",
     "core_identity_tagline": "Bewusstsein als gemeinsam bestimmt durch viele neuronale Mechanismen",
-    "classification_tags": ["pluralism", "neural correlates", "spontaneous activity", "perception", "methodology"]
+    "classification_tags": [
+      "pluralism",
+      "neural correlates",
+      "spontaneous activity",
+      "perception",
+      "methodology"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist das gemeinsame Produkt mehrerer Mechanismen aus Hirnschaltkreisen, die jeweils zum Gewahrsein und zu seiner integrierten Phänomenologie beitragen.",
@@ -50,11 +58,11 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da das Gewahrsein gemeinsam durch Mechanismen des Gehirns bestimmt wird, endet es mit dem Gehirn."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Der Rahmen ist neurobiologisch und erhebt keine kosmischen Ansprüche."
     },
     "virtual_immortality": {
@@ -64,13 +72,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Crick and Koch's Neural Correlates of Consciousness", "relationship": "Kritik" },
-      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Kritik" },
-      { "name": "Integrated Information Theory", "relationship": "Kritik" },
-      { "name": "Bayne’s Unified, Multidimensional Consciousness: Structure Before Mechanism", "relationship": "Vereinbar" }
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Bayne’s Unified, Multidimensional Consciousness: Structure Before Mechanism",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "He's Joint Determinant Theory, Biyu Jade He", "year": 2023 }
+      {
+        "title_with_names": "He's Joint Determinant Theory, Biyu Jade He",
+        "year": 2023
+      }
     ]
   }
 }

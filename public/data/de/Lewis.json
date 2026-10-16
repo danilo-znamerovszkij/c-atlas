@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Lewis’ analytischer Funktionalismus und Identitätstheorie der kausalen Rolle",
     "summary": "Lewis bestimmt jede Erfahrung über die kausale Rolle, die ihr die Alltagspsychologie zuweist (ihre typischen Ursachen, Wirkungen und Verbindungen zu anderen mentalen Zuständen). Anschließend lässt er die Wissenschaft herausfinden, welcher physische Zustand diese Rolle ausfüllt, meist ein neuronaler Zustand. Schmerz ist, was die Schmerzrolle besetzt, also ist Schmerz dieser neuronale Zustand. Qualia sind real, sie sind aber die Besetzer funktionaler Rollen. Zu wissen, wie sich eine Erfahrung anfühlt, ist eine Menge von Fähigkeiten und kein Wissen über eine nichtphysische Tatsache.",
-    "associated_thinkers": ["David Lewis"],
+    "associated_thinkers": [
+      "David Lewis"
+    ],
     "category": "Materialismus",
     "subcategory": "Geist-Gehirn-Identität",
     "core_identity_tagline": "Erfahrungen als die physischen Besetzer kausaler Rollen",
-    "classification_tags": ["functionalism", "identity theory", "folk psychology", "ability hypothesis", "reductive physicalism"]
+    "classification_tags": [
+      "functionalism",
+      "identity theory",
+      "folk psychology",
+      "ability hypothesis",
+      "reductive physicalism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Eine Erfahrung ist der physische, typischerweise neuronale Zustand, der die kausale Rolle besetzt, die die Alltagspsychologie für sie festlegt. Schmerz ist der Zustand, den typischerweise eine Verletzung verursacht und der typischerweise Abneigung hervorruft.",
@@ -47,41 +55,86 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Lewis lässt zu, dass dieselbe Rolle in verschiedenen Populationen durch unterschiedliche Hardware ausgefüllt wird, wie beim marsianischen Schmerz. Daher könnte ein künstliches System, dessen Zustände die richtigen kausalen Rollen besetzen, Erfahrungen haben."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da jede Erfahrung ein physischer Zustand des Organismus ist, folgt aus der Auffassung, dass Erfahrung endet, wenn diese Zustände aufhören."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Die Auffassung ist ein durchgängiger Materialismus, der in seiner Darstellung des Geistes keinen Platz für einen kosmischen Zweck lässt."
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Eine Kopie, die dieselben Rollen realisiert, könnte als Träger derselben Arten von Zuständen gelten. Lewis hat jedoch das Hochladen nicht behandelt, und die Besetzung einer Rolle ist populationsrelativ."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Smart’s Topic-Neutral Identity", "relationship": "Einfluss" },
-      { "name": "Armstrong’s Causal-Role Central-State Materialism", "relationship": "Überschneidung" },
-      { "name": "Putnam’s Machine Functionalism", "relationship": "Kontrast" },
-      { "name": "Jackson's Representationalism and the Knowledge Argument", "relationship": "Kritik" }
+      {
+        "name": "Smart’s Topic-Neutral Identity",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Armstrong’s Causal-Role Central-State Materialism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Putnam’s Machine Functionalism",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Jackson's Representationalism and the Knowledge Argument",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "An Argument for the Identity Theory, David Lewis", "year": 1966 },
-      { "title_with_names": "How to Define Theoretical Terms, David Lewis", "year": 1970 },
-      { "title_with_names": "Psychophysical and Theoretical Identifications, David Lewis", "year": 1972 },
-      { "title_with_names": "Mad Pain and Martian Pain, David Lewis", "year": 1980 },
-      { "title_with_names": "What Experience Teaches, David Lewis", "year": 1988 },
-      { "title_with_names": "Reduction of Mind, David Lewis", "year": 1994 },
-      { "title_with_names": "Should a Materialist Believe in Qualia?, David Lewis", "year": 1995 },
-      { "title_with_names": "Epiphenomenal Qualia, F. Jackson", "year": 1982 },
-      { "title_with_names": "Physicalism and the Cognitive Role of Acquaintance, L. Nemirow", "year": 1990 },
-      { "title_with_names": "Phenomenal Knowledge, E. Conee", "year": 1994 },
-      { "title_with_names": "Know-How, Ability, and the Ability Hypothesis, T. Alter", "year": 2001 }
+      {
+        "title_with_names": "An Argument for the Identity Theory, David Lewis",
+        "year": 1966
+      },
+      {
+        "title_with_names": "How to Define Theoretical Terms, David Lewis",
+        "year": 1970
+      },
+      {
+        "title_with_names": "Psychophysical and Theoretical Identifications, David Lewis",
+        "year": 1972
+      },
+      {
+        "title_with_names": "Mad Pain and Martian Pain, David Lewis",
+        "year": 1980
+      },
+      {
+        "title_with_names": "What Experience Teaches, David Lewis",
+        "year": 1988
+      },
+      {
+        "title_with_names": "Reduction of Mind, David Lewis",
+        "year": 1994
+      },
+      {
+        "title_with_names": "Should a Materialist Believe in Qualia?, David Lewis",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Epiphenomenal Qualia, F. Jackson",
+        "year": 1982
+      },
+      {
+        "title_with_names": "Physicalism and the Cognitive Role of Acquaintance, L. Nemirow",
+        "year": 1990
+      },
+      {
+        "title_with_names": "Phenomenal Knowledge, E. Conee",
+        "year": 1994
+      },
+      {
+        "title_with_names": "Know-How, Ability, and the Ability Hypothesis, T. Alter",
+        "year": 2001
+      }
     ]
   }
 }

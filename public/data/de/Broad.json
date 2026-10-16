@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Broads emergenter Geist und psychische/Psi-Faktoren",
     "summary": "C. D. Broad vertrat die Auffassung, dass phänomenale Qualitäten real sind und sich selbst aus vollständigem physikalischem Wissen über das Gehirn nicht ableiten lassen; Bewusstsein ist daher eine stark emergente Eigenschaft organisierter Materie, die mit ihr durch nicht reduzierbare ‚transordinale‘ Gesetze verbunden ist. Angesichts der gewöhnlichen Evidenz bevorzugte er diesen emergenten Materialismus, hielt aber dafür, dass gut belegte psychische Phänomene eine Zusammengesetzte Theorie stützen würden, in der der Geist aus einem Gehirn entsteht, das mit einem weiteren ‚psychischen Faktor‘ verbunden ist, der den Körper überdauern könnte.",
-    "associated_thinkers": ["C. D. Broad"],
+    "associated_thinkers": [
+      "C. D. Broad"
+    ],
     "category": "Anomal",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als stark emergent, vielleicht mit einem psychischen Faktor",
-    "classification_tags": ["strong emergence", "psychical research", "qualia", "mind-body taxonomy", "survival"]
+    "classification_tags": [
+      "strong emergence",
+      "psychical research",
+      "qualia",
+      "mind-body taxonomy",
+      "survival"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist eine echte neuartige Eigenschaft, die aus geeignet organisierten materiellen Systemen durch gesetzmäßige, aber nicht ableitbare transordinale Gesetze hervorgeht, möglicherweise in Verbindung mit einem nicht beobachtbaren psychischen Faktor.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Da Mentalität durch transordinale Gesetze entsteht, die nur durch Beobachtung gefunden werden können, lässt sich nicht im Voraus ableiten, ob eine künstliche Organisation Erfahrung hervorbringen würde."
     },
     "survival_beyond_death": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Broad hielt es für möglich, dass ein psychischer Faktor, der einige Dispositionen trägt, nach dem Tod fortbestehen könnte, falls die psychischen Belege echt sind; er behauptete dies jedoch nicht als gesichert, und ein solches Fortbestehen würde hinter dem persönlichen Überleben zurückbleiben."
     },
     "meaning_and_purpose": {
@@ -64,25 +72,76 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Emergence", "relationship": "Überschneidung" },
-      { "name": "Jackson's Representationalism and the Knowledge Argument", "relationship": "Einfluss" },
-      { "name": "Huxley’s Mind-At-Large Filter Theory", "relationship": "Einfluss" },
-      { "name": "Bunge's Emergent Materialism", "relationship": "Überschneidung" }
+      {
+        "name": "Emergence",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Jackson's Representationalism and the Knowledge Argument",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Huxley’s Mind-At-Large Filter Theory",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Bunge's Emergent Materialism",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Mind and Its Place in Nature, C. D. Broad", "year": 1925 },
-      { "title_with_names": "The Relevance of Psychical Research to Philosophy, C. D. Broad", "year": 1949 },
-      { "title_with_names": "Lectures on Psychical Research, C. D. Broad", "year": 1962 },
-      { "title_with_names": "Human Personality and the Possibility of Its Survival, C. D. Broad", "year": 1955 },
-      { "title_with_names": "Religion, Philosophy and Psychical Research: Selected Essays, C. D. Broad", "year": 1953 },
-      { "title_with_names": "Perception, Physics and Reality, C. D. Broad", "year": 1914 },
-      { "title_with_names": "Scientific Thought, C. D. Broad", "year": 1923 },
-      { "title_with_names": "Some Elementary Reflexions on Sense-Perception, C. D. Broad", "year": 1952 },
-      { "title_with_names": "The Rise and Fall of British Emergentism, B. P. McLaughlin", "year": 1992 },
-      { "title_with_names": "The Soal-Goldney Experiments with Basil Shackleton: New Evidence of Data Manipulation, B. Markwick", "year": 1978 },
-      { "title_with_names": "C. D. Broad (A Companion to Analytic Philosophy), J. Van Cleve", "year": 2001 },
-      { "title_with_names": "Emergent Consciousness: Themes in C. D. Broad’s Philosophy of Mind, K. Gustavsson", "year": 2002 },
-      { "title_with_names": "The Varieties of Monism: C. D. Broad, A. Dewalque", "year": 2024 }
+      {
+        "title_with_names": "The Mind and Its Place in Nature, C. D. Broad",
+        "year": 1925
+      },
+      {
+        "title_with_names": "The Relevance of Psychical Research to Philosophy, C. D. Broad",
+        "year": 1949
+      },
+      {
+        "title_with_names": "Lectures on Psychical Research, C. D. Broad",
+        "year": 1962
+      },
+      {
+        "title_with_names": "Human Personality and the Possibility of Its Survival, C. D. Broad",
+        "year": 1955
+      },
+      {
+        "title_with_names": "Religion, Philosophy and Psychical Research: Selected Essays, C. D. Broad",
+        "year": 1953
+      },
+      {
+        "title_with_names": "Perception, Physics and Reality, C. D. Broad",
+        "year": 1914
+      },
+      {
+        "title_with_names": "Scientific Thought, C. D. Broad",
+        "year": 1923
+      },
+      {
+        "title_with_names": "Some Elementary Reflexions on Sense-Perception, C. D. Broad",
+        "year": 1952
+      },
+      {
+        "title_with_names": "The Rise and Fall of British Emergentism, B. P. McLaughlin",
+        "year": 1992
+      },
+      {
+        "title_with_names": "The Soal-Goldney Experiments with Basil Shackleton: New Evidence of Data Manipulation, B. Markwick",
+        "year": 1978
+      },
+      {
+        "title_with_names": "C. D. Broad (A Companion to Analytic Philosophy), J. Van Cleve",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Emergent Consciousness: Themes in C. D. Broad’s Philosophy of Mind, K. Gustavsson",
+        "year": 2002
+      },
+      {
+        "title_with_names": "The Varieties of Monism: C. D. Broad, A. Dewalque",
+        "year": 2024
+      }
     ]
   }
 }

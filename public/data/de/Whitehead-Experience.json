@@ -2,11 +2,21 @@
   "id_and_class": {
     "theory_title": "Whiteheads Erfahrung ist fundamental, Bewusstsein ist es nicht",
     "summary": "Alfred North Whitehead vertrat die Auffassung, dass die Wirklichkeit aus augenblicklichen „tatsächlichen Ereignissen“ der Erfahrung besteht, deren jedes dadurch entsteht, dass es die vorangegangenen Ereignisse fühlt (erfasst). Erfahrung ist daher überall dort, wo Wirklichkeit ist. Bewusstsein ist selten, spät auftretend und abgeleitet: Es ist die Art, wie ein Ereignis hohen Grades den Kontrast zwischen dem Bestehenden und dem, was hätte sein können, fühlt. Das schwere Problem verändert seine Gestalt, denn niemand muss Erfahrung aus gänzlich nichterfahrungshaftiger Materie hervorbringen. Die Frage lautet nun, warum Gewahrsein so selten ist.",
-    "associated_thinkers": ["Alfred North Whitehead", "David Ray Griffin", "Charles Hartshorne"],
+    "associated_thinkers": [
+      "Alfred North Whitehead",
+      "David Ray Griffin",
+      "Charles Hartshorne"
+    ],
     "category": "Monismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als seltene Krone universeller Erfahrung",
-    "classification_tags": ["process philosophy", "panexperientialism", "neutral monism", "prehension", "actual occasions"]
+    "classification_tags": [
+      "process philosophy",
+      "panexperientialism",
+      "neutral monism",
+      "prehension",
+      "actual occasions"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist die subjektive Form eines intellektuellen Gefühls, die Weise, wie ein Ereignis den „Bejahungs-Verneinungs-Kontrast“ zwischen einer gegebenen Tatsache und einer alternativen Möglichkeit fühlt. Erfahrung im Allgemeinen ist Prehension, das Berücksichtigen von Daten, und der größte Teil davon ist nicht bewusst.",
@@ -46,15 +56,15 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Nach dieser Auffassung ist ein Ganzes nur dann bewusst, wenn es ein leitendes Ereignis hat. Eine Maschine, die bloßes Aggregat ist, hätte erfahrende Teile, aber kein eigenes Bewusstsein."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da der Geist ein Strom von Ereignissen ist, die an den lebenden Körper gebunden sind, und jedes Ereignis als Subjekt vergeht, folgt daraus kein persönliches Fortbestehen. Whitehead bietet stattdessen die „objektive Unsterblichkeit“, in der Gott vollendete Ereignisse als Daten bewahrt."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Gott gibt jedem Ereignis sein anfängliches Ziel auf Neuheit hin und bewahrt erreichten Wert. Whitehead nennt Gott den großen Gefährten, den mitleidenden Gefährten, der versteht."
     },
     "virtual_immortality": {
@@ -64,21 +74,60 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Whitehead's Process Theory", "relationship": "Überschneidung" },
-      { "name": "Strawson's Realistic Monism and Real Materialism", "relationship": "Kompatibel" },
-      { "name": "Descartes’s Substance Dualism", "relationship": "Kritik" }
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Strawson's Realistic Monism and Real Materialism",
+        "relationship": "Kompatibel"
+      },
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Process and Reality: An Essay in Cosmology, Alfred North Whitehead", "year": 1929 },
-      { "title_with_names": "Science and the Modern World, Alfred North Whitehead", "year": 1925 },
-      { "title_with_names": "The Concept of Nature, Alfred North Whitehead", "year": 1920 },
-      { "title_with_names": "Adventures of Ideas, Alfred North Whitehead", "year": 1933 },
-      { "title_with_names": "Modes of Thought, Alfred North Whitehead", "year": 1938 },
-      { "title_with_names": "Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem, David Ray Griffin", "year": 1998 },
-      { "title_with_names": "Consciousness as a subjective form: Whitehead's nonreductionist naturalism, David Ray Griffin", "year": 2009 },
-      { "title_with_names": "Whitehead's panpsychism as the subjectivity of prehension, L. B. McHenry", "year": 1995 },
-      { "title_with_names": "Mind-body problem and panpsychism, P. Basile", "year": 2008 },
-      { "title_with_names": "Whitehead’s unique approach to the topic of consciousness, A. Weekes", "year": 2009 }
+      {
+        "title_with_names": "Process and Reality: An Essay in Cosmology, Alfred North Whitehead",
+        "year": 1929
+      },
+      {
+        "title_with_names": "Science and the Modern World, Alfred North Whitehead",
+        "year": 1925
+      },
+      {
+        "title_with_names": "The Concept of Nature, Alfred North Whitehead",
+        "year": 1920
+      },
+      {
+        "title_with_names": "Adventures of Ideas, Alfred North Whitehead",
+        "year": 1933
+      },
+      {
+        "title_with_names": "Modes of Thought, Alfred North Whitehead",
+        "year": 1938
+      },
+      {
+        "title_with_names": "Unsnarling the World-Knot: Consciousness, Freedom, and the Mind-Body Problem, David Ray Griffin",
+        "year": 1998
+      },
+      {
+        "title_with_names": "Consciousness as a subjective form: Whitehead's nonreductionist naturalism, David Ray Griffin",
+        "year": 2009
+      },
+      {
+        "title_with_names": "Whitehead's panpsychism as the subjectivity of prehension, L. B. McHenry",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Mind-body problem and panpsychism, P. Basile",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Whitehead’s unique approach to the topic of consciousness, A. Weekes",
+        "year": 2009
+      }
     ]
   }
 }

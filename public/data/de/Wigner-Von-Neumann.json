@@ -2,11 +2,22 @@
   "id_and_class": {
     "theory_title": "Wigner–von Neumanns Bewusstseinskollaps: Erfahrung am Quantenschnitt",
     "summary": "Die Theorie besagt, dass die lineare Quantendynamik allein niemals ein einziges bestimmtes Ergebnis hervorbringt und dass die Kette der Wechselwirkungen vom gemessenen System über das Messgerät bis zum Gehirn erst endet, wenn ein bewusster Beobachter eine Erfahrung hat. Von Neumann entwickelte den formalen Aufbau und zeigte, dass sich der Schnitt zwischen System und Beobachter frei verschieben lässt. Wigner zog daraus die ausdrückliche Schlussfolgerung, dass Bewusstsein den Kollaps verursacht, weil Erfahrung stets bestimmt ist und nie in Überlagerung vorliegt. Wigner gab die Auffassung später auf, doch wurde sie in mathematisch präziser Form wiederbelebt.",
-    "associated_thinkers": ["Eugene Wigner", "John von Neumann", "Fritz London", "Edmond Bauer"],
+    "associated_thinkers": [
+      "Eugene Wigner",
+      "John von Neumann",
+      "Fritz London",
+      "Edmond Bauer"
+    ],
     "category": "Quanten",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als das, was die Quantenmessungskette beendet",
-    "classification_tags": ["measurement problem", "wave function collapse", "wigner's friend", "interactionism", "quantum mechanics"]
+    "classification_tags": [
+      "measurement problem",
+      "wave function collapse",
+      "wigner's friend",
+      "interactionism",
+      "quantum mechanics"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Wigner definiert Bewusstsein phänomenal als „die Eigenschaft, Empfindungen zu haben“ und macht den Eintritt eines Eindrucks ins Bewusstsein zu dem Punkt, an dem eine quantenmechanische Überlagerung ein einziges bestimmtes Ergebnis wird.",
@@ -46,11 +57,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unsicher",
+      "stance": "Uncertain",
       "rationale": "Die Theorie bietet kein prinzipielles Kriterium dafür, welche physischen Systeme bewusst sind. Daher kann sie nicht sagen, ob eine Maschine bewusst wäre."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Wigner nahm an, dass physikochemische Organisation Bewusstsein hervorbringt und seine Inhalte formt. Die Auffassung bietet daher keine Grundlage für Erfahrung ohne Körper."
     },
     "meaning_and_purpose": {
@@ -64,17 +75,44 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Chalmers and McQueen’s Quantum Collapse", "relationship": "Erweiterung" },
-      { "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"", "relationship": "Erweiterung" },
-      { "name": "Penrose-Hameroff's Orchestrated Objective Reduction", "relationship": "Einfluss" },
-      { "name": "Interactive Dualism", "relationship": "Überschneidung" }
+      {
+        "name": "Chalmers and McQueen’s Quantum Collapse",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Interactive Dualism",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Mathematical Foundations of Quantum Mechanics, John von Neumann", "year": 1932 },
-      { "title_with_names": "Remarks on the mind-body question, Eugene P. Wigner", "year": 1961 },
-      { "title_with_names": "The problem of measurement, Eugene P. Wigner", "year": 1963 },
-      { "title_with_names": "La théorie de l'observation en mécanique quantique, Fritz London and Edmond Bauer", "year": 1939 },
-      { "title_with_names": "Consciousness and the collapse of the wave function, David J. Chalmers and Kelvin J. McQueen", "year": 2022 }
+      {
+        "title_with_names": "Mathematical Foundations of Quantum Mechanics, John von Neumann",
+        "year": 1932
+      },
+      {
+        "title_with_names": "Remarks on the mind-body question, Eugene P. Wigner",
+        "year": 1961
+      },
+      {
+        "title_with_names": "The problem of measurement, Eugene P. Wigner",
+        "year": 1963
+      },
+      {
+        "title_with_names": "La théorie de l'observation en mécanique quantique, Fritz London and Edmond Bauer",
+        "year": 1939
+      },
+      {
+        "title_with_names": "Consciousness and the collapse of the wave function, David J. Chalmers and Kelvin J. McQueen",
+        "year": 2022
+      }
     ]
   }
 }

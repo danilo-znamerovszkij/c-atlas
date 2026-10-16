@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Halligan und Oakleys artenfördernder Epiphänomenalismus",
     "summary": "Halligan und Oakley argumentieren, dass subjektives Gewahrsein ein Epiphänomen ist, ein inneres Gefühl ohne kausale Wirkkraft, das vom Gehirn zusammen mit Ausgaben erzeugt wird, die schnelle nicht-bewusste Systeme bereits hervorgebracht haben. Ausgewählte Ausgaben werden intern als persönliche Erzählung gesendet, und der evolutionäre Zweck dieser Sendung besteht darin, Menschen zu ermöglichen, ihren Inhalt mit anderen zu teilen; sie stützt so die Geselligkeit, die zentrale Überlebensstrategie der Menschheit.",
-    "associated_thinkers": ["Peter Halligan", "David Oakley"],
+    "associated_thinkers": [
+      "Peter Halligan",
+      "David Oakley"
+    ],
     "category": "Materialismus",
     "subcategory": "Phylogenetisch",
     "core_identity_tagline": "Bewusstsein als kausal wirkungslose soziale Sendung",
-    "classification_tags": ["epiphenomenalism", "sociality", "evolution", "free will", "cognitive neuroscience"]
+    "classification_tags": [
+      "epiphenomenalism",
+      "sociality",
+      "evolution",
+      "free will",
+      "cognitive neuroscience"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Halligan und Oakley definieren Bewusstsein als verkörpertes subjektives Gewahrsein einschließlich Metakognition. Sie verstehen es als vom Gehirn erzeugte Begleiterscheinung ausgewählter Ausgaben nicht-bewusster Verarbeitung, die gefühlt wird, aber ohne kausale Wirkkraft ist.",
@@ -50,11 +59,11 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da das Gewahrsein ein Nebenprodukt von Gehirnprozessen ist, endet es, wenn das Gehirn endet."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Halligan und Oakley verorten den Wert der Erfahrung und der sozialen Wirklichkeiten wie Moral und Demokratie in Personen, die in Gemeinschaften leben, ohne kosmischen Zweck."
     },
     "virtual_immortality": {
@@ -64,13 +73,27 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Epiphenomenalism (Materialism)", "relationship": "Überschneidung" },
-      { "name": "Fedotov's Communication Hypothesis of Consciousness", "relationship": "Vereinbar" },
-      { "name": "Baars's and Dehaene's Global Workspace Theory", "relationship": "Überschneidung" },
-      { "name": "Sapolsky's Hard Incompatibilism", "relationship": "Vereinbar" }
+      {
+        "name": "Epiphenomenalism (Materialism)",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Fedotov's Communication Hypothesis of Consciousness",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Sapolsky's Hard Incompatibilism",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Halligan and Oakley’s Species-Enhancing Epiphenomenalism, Peter Halligan and David Oakley (Landscape of Consciousness entry)" }
+      {
+        "title_with_names": "Halligan and Oakley’s Species-Enhancing Epiphenomenalism, Peter Halligan and David Oakley (Landscape of Consciousness entry)"
+      }
     ]
   }
 }

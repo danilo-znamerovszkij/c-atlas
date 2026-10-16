@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "D. W. Smiths ontologische Phänomenologie der drei Facetten",
     "summary": "David Woodruff Smith analysiert Bewusstsein anhand dreier Facetten einer einzigen Tätigkeit: ihrer Form (Intentionalität), ihrer Erscheinung (wie sie erlebt wird, einschließlich der Qualia) und ihres Substrats (ihrer physischen, biologischen und kulturellen Grundlage). Er vertritt die Auffassung, dass ein Akt bewusst ist, weil er ein inneres Gewahrsein seiner selbst als modalen Charakter trägt, als Teil der Art, wie er vollzogen wird, und nicht durch einen eigenen Zustand höherer Ordnung.",
-    "associated_thinkers": ["David Woodruff Smith", "Ronald McIntyre"],
+    "associated_thinkers": [
+      "David Woodruff Smith",
+      "Ronald McIntyre"
+    ],
     "category": "Phänomenologie",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als Form, Erscheinung und Substrat",
-    "classification_tags": ["phenomenology", "intentionality", "inner awareness", "ontology", "husserl"]
+    "classification_tags": [
+      "phenomenology",
+      "intentionality",
+      "inner awareness",
+      "ontology",
+      "husserl"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist eine strukturierte, weltbezogene Tätigkeit mit drei untrennbaren Facetten: intentionaler Form, phänomenaler Erscheinung und einem natürlichen (physischen, biologischen, kulturellen) Substrat.",
@@ -46,7 +55,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Die Analogie von Programm, Benutzeroberfläche und Hardware legt nahe, dass sich die Facetten im Prinzip von der Biologie lösen könnten; Smith bindet das Bewusstsein jedoch an biologisches und kulturelles Leben und geht nicht auf Maschinen ein."
     },
     "survival_beyond_death": {
@@ -64,21 +73,59 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Husserl’s Transcendental Phenomenology", "relationship": "Grundlage" },
-      { "name": "Zahavi’s Pre-Reflective For-Me-Ness", "relationship": "Überschneidung" },
-      { "name": "Kriegel’s Cross-Order Self-Representation", "relationship": "Überschneidung" },
-      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Kontrast" }
+      {
+        "name": "Husserl’s Transcendental Phenomenology",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Zahavi’s Pre-Reflective For-Me-Ness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Kriegel’s Cross-Order Self-Representation",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Rosenthal’s Higher-Order Thought",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Three Facets of Consciousness, David Woodruff Smith", "year": 2001 },
-      { "title_with_names": "Mind World: Essays in Phenomenology and Ontology, David Woodruff Smith", "year": 2004 },
-      { "title_with_names": "Consciousness with Reflexive Content, David Woodruff Smith", "year": 2005 },
-      { "title_with_names": "Phenomenal Intentionality, Inner Awareness, and the Given, David Woodruff Smith", "year": 2021 },
-      { "title_with_names": "Constitution Through Noema and Horizon: Husserl's Theory of Intentionality, David Woodruff Smith", "year": 2023 },
-      { "title_with_names": "Husserl and Intentionality: A Study of Mind, Meaning, and Language, David Woodruff Smith and Ronald McIntyre", "year": 1982 },
-      { "title_with_names": "Subjectivity and Selfhood: Investigating the First-Person Perspective, D. Zahavi", "year": 2005 },
-      { "title_with_names": "Self-Representational Approaches to Consciousness, U. Kriegel and K. Williford (eds.)", "year": 2006 },
-      { "title_with_names": "D.W. Smith’s Three-Facet Ontological Phenomenology, Landscape of Consciousness, Robert Lawrence Kuhn" }
+      {
+        "title_with_names": "Three Facets of Consciousness, David Woodruff Smith",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Mind World: Essays in Phenomenology and Ontology, David Woodruff Smith",
+        "year": 2004
+      },
+      {
+        "title_with_names": "Consciousness with Reflexive Content, David Woodruff Smith",
+        "year": 2005
+      },
+      {
+        "title_with_names": "Phenomenal Intentionality, Inner Awareness, and the Given, David Woodruff Smith",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Constitution Through Noema and Horizon: Husserl's Theory of Intentionality, David Woodruff Smith",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Husserl and Intentionality: A Study of Mind, Meaning, and Language, David Woodruff Smith and Ronald McIntyre",
+        "year": 1982
+      },
+      {
+        "title_with_names": "Subjectivity and Selfhood: Investigating the First-Person Perspective, D. Zahavi",
+        "year": 2005
+      },
+      {
+        "title_with_names": "Self-Representational Approaches to Consciousness, U. Kriegel and K. Williford (eds.)",
+        "year": 2006
+      },
+      {
+        "title_with_names": "D.W. Smith’s Three-Facet Ontological Phenomenology, Landscape of Consciousness, Robert Lawrence Kuhn"
+      }
     ]
   }
 }

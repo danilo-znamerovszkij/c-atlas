@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Levines Erklärungslücke",
     "summary": "Levine argumentiert, dass wir selbst dann, wenn ein bewusster Zustand mit einem neuronalen Zustand identisch ist, nicht erkennen können, warum dieser Zustand sich so anfühlt, wie er sich anfühlt. Mehr physikalische Details helfen dabei nicht. „Wärme ist molekulare Bewegung“ erklärt alles Wesentliche über Wärme, während „Schmerz ist das Feuern von C-Fasern“ den qualitativen Charakter des Schmerzes unerklärt lässt. Anfangs fasste er diese Lücke als Grenze der Erklärung auf, nicht als Beweis für einen Dualismus. Seine späteren Arbeiten neigen jedoch zu einem starken Emergentismus, der von grundlegenden psychophysischen Gesetzen bestimmt wird.",
-    "associated_thinkers": ["Joseph Levine"],
+    "associated_thinkers": [
+      "Joseph Levine"
+    ],
     "category": "Materialismus",
     "subcategory": "Geist-Gehirn-Identität",
     "core_identity_tagline": "Bewusstsein als das, was die physikalische Erklärung auslässt",
-    "classification_tags": ["explanatory gap", "qualia", "conceivability", "strong emergence", "acquaintance"]
+    "classification_tags": [
+      "explanatory gap",
+      "qualia",
+      "conceivability",
+      "strong emergence",
+      "acquaintance"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Levine bietet keine positive Bestimmung des Bewusstseins. In seinen späteren Arbeiten ist Bewusstsein Vertrautheit (acquaintance): eine ursprüngliche Relation, in der ein Subjekt zu einem qualitativen Charakter steht, der präsentiert und nicht bloß repräsentiert wird.",
@@ -47,11 +55,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Wenn phänomenale Zustände durch grobe psychophysische Gesetze entstehen, entscheidet nichts in der funktionalen oder computationalen Beschreibung eines Systems darüber, ob es Erfahrung hat."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Sowohl nach seiner materialistischen als auch nach seiner emergentistischen Lesart hängt Erfahrung von zugrunde liegenden physischen Zuständen ab. Ein Überleben ohne Gehirn findet in dieser Auffassung keine Stütze."
     },
     "meaning_and_purpose": {
@@ -59,30 +67,78 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Die Erklärungslücke bedeutet, dass sich nicht zeigen lässt, dass eine funktionale oder computationale Kopie den phänomenalen Charakter des Originals trägt."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Kripke’s Modal Argument Against Mind–Brain Identity", "relationship": "Grundlage" },
-      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Einfluss" },
-      { "name": "Jackson's Representationalism and the Knowledge Argument", "relationship": "Überschneidung" },
-      { "name": "Frankish’s Illusionism", "relationship": "Kontrast" }
+      {
+        "name": "Kripke’s Modal Argument Against Mind–Brain Identity",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Jackson's Representationalism and the Knowledge Argument",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Materialism and Qualia: The Explanatory Gap, Joseph Levine", "year": 1983 },
-      { "title_with_names": "On Leaving Out What It’s Like, Joseph Levine", "year": 1993 },
-      { "title_with_names": "Conceivability and the Metaphysics of Mind, Joseph Levine", "year": 1998 },
-      { "title_with_names": "Purple Haze: The Puzzle of Consciousness, Joseph Levine", "year": 2001 },
-      { "title_with_names": "Experience and Representation, Joseph Levine", "year": 2003 },
-      { "title_with_names": "Phenomenal Concepts and the Materialist Constraint, Joseph Levine", "year": 2007 },
-      { "title_with_names": "Quality and Content: Essays on Consciousness, Representation, and Modality, Joseph Levine", "year": 2018 },
-      { "title_with_names": "On the Meta-Problem, Joseph Levine", "year": 2019 },
-      { "title_with_names": "Consciousness Is Acquaintance and Acquaintance Is Consciousness, Joseph Levine", "year": 2019 },
-      { "title_with_names": "The Metaphysics and Epistemology of Acquaintance, Joseph Levine", "year": 2021 },
-      { "title_with_names": "Naming and Necessity, S. A. Kripke", "year": 1980 },
-      { "title_with_names": "The Conscious Mind: In Search of a Fundamental Theory, D. J. Chalmers", "year": 1996 }
+      {
+        "title_with_names": "Materialism and Qualia: The Explanatory Gap, Joseph Levine",
+        "year": 1983
+      },
+      {
+        "title_with_names": "On Leaving Out What It’s Like, Joseph Levine",
+        "year": 1993
+      },
+      {
+        "title_with_names": "Conceivability and the Metaphysics of Mind, Joseph Levine",
+        "year": 1998
+      },
+      {
+        "title_with_names": "Purple Haze: The Puzzle of Consciousness, Joseph Levine",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Experience and Representation, Joseph Levine",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Phenomenal Concepts and the Materialist Constraint, Joseph Levine",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Quality and Content: Essays on Consciousness, Representation, and Modality, Joseph Levine",
+        "year": 2018
+      },
+      {
+        "title_with_names": "On the Meta-Problem, Joseph Levine",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Consciousness Is Acquaintance and Acquaintance Is Consciousness, Joseph Levine",
+        "year": 2019
+      },
+      {
+        "title_with_names": "The Metaphysics and Epistemology of Acquaintance, Joseph Levine",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Naming and Necessity, S. A. Kripke",
+        "year": 1980
+      },
+      {
+        "title_with_names": "The Conscious Mind: In Search of a Fundamental Theory, D. J. Chalmers",
+        "year": 1996
+      }
     ]
   }
 }

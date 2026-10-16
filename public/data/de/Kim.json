@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Kims Supervenienz",
     "summary": "Jaegwon Kim vertritt die Auffassung, dass mentale Eigenschaften auf physische supervenieren: Ohne physischen Unterschied gibt es keinen mentalen Unterschied. Sein Argument der kausalen Exklusion zwingt sodann zu einer Wahl, denn eine irreduzible mentale Ursache würde physische Wirkungen entweder überdeterminieren oder kausal untätig sein. Kim schloss, dass mentale Eigenschaften, um kausale Kraft zu haben, auf physische reduzierbar sein müssen, räumte aber ein, dass sich Qualia einer funktionalen Reduktion widersetzen.",
-    "associated_thinkers": ["Jaegwon Kim"],
+    "associated_thinkers": [
+      "Jaegwon Kim"
+    ],
     "category": "Materialismus",
     "subcategory": "Philosophisch",
     "core_identity_tagline": "Kein mentaler Unterschied ohne physischen Unterschied",
-    "classification_tags": ["supervenience", "causal exclusion", "mental causation", "reductionism", "qualia"]
+    "classification_tags": [
+      "supervenience",
+      "causal exclusion",
+      "mental causation",
+      "reductionism",
+      "qualia"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Mentale Eigenschaften werden durch physische Eigenschaften festgelegt: Was physisch identisch ist, ist auch psychisch identisch. Supervenienz beschreibt diese Abhängigkeit, ohne zu erklären, wie das Physische das Mentale hervorbringt.",
@@ -50,11 +58,11 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da jeder mentale Unterschied einen physischen Unterschied voraussetzt, kann kein mentales Leben fortbestehen, wenn die physische Grundlage verschwunden ist."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Kim vertrat die Auffassung, dass der Geist ein natürliches Phänomen ist, und wies übernatürliche Erklärungen zurück."
     },
     "virtual_immortality": {
@@ -64,13 +72,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Murphy's Non-Reductive Physicalism", "relationship": "Kritik" },
-      { "name": "Papineau's Mind-Brain Identity", "relationship": "Überschneidung" },
-      { "name": "Epiphenomenalism (Materialism)", "relationship": "Kontrast" },
-      { "name": "Functionalism", "relationship": "Vereinbar" }
+      {
+        "name": "Murphy's Non-Reductive Physicalism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Epiphenomenalism (Materialism)",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Kim's Supervenience (Landscape of Consciousness entry), Jaegwon Kim", "year": 2005 }
+      {
+        "title_with_names": "Kim's Supervenience (Landscape of Consciousness entry), Jaegwon Kim",
+        "year": 2005
+      }
     ]
   }
 }

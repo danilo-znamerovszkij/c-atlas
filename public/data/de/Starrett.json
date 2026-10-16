@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Starretts radikaler Panpsychismus",
     "summary": "Der Mathematiker John Starrett vertritt die Auffassung, dass jede Entität erlebt, da die Erfahrung einer Entität das zeitlich veränderliche Muster ihrer Freiheitsgrade ist, während sie mit ihrer Umgebung gekoppelt sind. Reiches menschliches Bewusstsein unterscheidet sich von dem eines Atoms nur darin, wie viele geschichtete Freiheitsgrade es hat und durch welche internen ‚Surrogatmodelle‘ es diese integriert. Zusammengesetzte Subjekte entstehen, wenn Entitäten einander umschließen und ihre Freiheitsgrade neu ordnen, nicht durch einfache Aggregation.",
-    "associated_thinkers": ["John Starrett"],
+    "associated_thinkers": [
+      "John Starrett"
+    ],
     "category": "Panpsychismus",
     "subcategory": "",
     "core_identity_tagline": "Erfahrung als Dynamik von Freiheitsgraden",
-    "classification_tags": ["panpsychism", "degrees of freedom", "dynamical systems", "combination problem", "structure"]
+    "classification_tags": [
+      "panpsychism",
+      "degrees of freedom",
+      "dynamical systems",
+      "combination problem",
+      "structure"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Die Erfahrung einer Entität ist die strukturierte Entwicklung ihrer physischen Freiheitsgrade (DOF), während sie mit den DOF ihrer Umgebung gekoppelt sind; Starrett nennt dieses Muster das direkte Modell.",
@@ -45,11 +53,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Wahrscheinlich",
+      "stance": "Likely",
       "rationale": "Da jede Entität durch ihre gekoppelten Freiheitsgrade erlebt, folgt aus der Auffassung, dass ein KI-System irgendeine Form von Erfahrung hat, geprägt durch seine eigene strukturelle Grammatik und Surrogatmodelle."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da Mentalität die Struktur eines Organismus ist, folgt aus der Auffassung, dass die Erfahrung einer Person endet, wenn sich diese Struktur auflöst, auch wenn ihre Bestandteile ihre eigene, einfachere Erfahrung behalten."
     },
     "meaning_and_purpose": {
@@ -57,18 +65,29 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Das direkte Modell ist die physische Kopplung der eigenen Freiheitsgrade einer Entität, keine Abstraktion; nach dieser Auffassung hätte eine Simulation daher die Erfahrung ihrer Hardware und nicht die der simulierten Person."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Micropsychism", "relationship": "Überschneidung" },
-      { "name": "Spinoza’s One Reality: Embodied Mind and Graded Consciousness", "relationship": "Überschneidung" },
-      { "name": "Metzinger's No-Self Representational Theory of Subjectivity", "relationship": "Vereinbar" }
+      {
+        "name": "Micropsychism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Spinoza’s One Reality: Embodied Mind and Graded Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Starrett’s Radical Panpsychism (Landscape of Consciousness), John Starrett" }
+      {
+        "title_with_names": "Starrett’s Radical Panpsychism (Landscape of Consciousness), John Starrett"
+      }
     ]
   }
 }

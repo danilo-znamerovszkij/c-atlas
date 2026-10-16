@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Hameroffs Bewusstsein kam vor dem Leben",
     "summary": "Hameroff argumentiert, dass Bewusstsein ein grundlegendes Merkmal des Universums ist, das vor dem Leben existierte und die Entstehung des Lebens vorangetrieben haben könnte. Proto-bewusste Momente, die mit Penroses objektiven Reduktionen quantenmechanischer Superpositionen in der Raumzeitgeometrie gleichgesetzt werden, traten lange vor der Biologie auf; einige trugen eine lustvolle Valenz, und Moleküle, die sich so anordneten, dass sie diese Momente wiederholten, wurden begünstigt. Nach dieser Auffassung hat sich das Leben als Vehikel entwickelt, um das bereits vorhandene Bewusstsein zu verstärken und zu orchestrieren.",
-    "associated_thinkers": ["Stuart Hameroff", "Deepak Chopra"],
+    "associated_thinkers": [
+      "Stuart Hameroff",
+      "Deepak Chopra"
+    ],
     "category": "Quanten",
     "subcategory": "",
     "core_identity_tagline": "Zuerst das Bewusstsein, das Leben als sein Vehikel",
-    "classification_tags": ["objective reduction", "origin of life", "proto-consciousness", "hedonic valence", "quantum soul"]
+    "classification_tags": [
+      "objective reduction",
+      "origin of life",
+      "proto-consciousness",
+      "hedonic valence",
+      "quantum soul"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein Prozess quantenmechanischer Selbstkollapse (Penroses objektive Reduktionen, OR), der an die Raumzeitgeometrie der Planck-Skala gebunden ist. Jedes OR-Ereignis wählt klassische Zustände aus und ergibt einen proto-bewussten Moment mit hedonischer Valenz.",
@@ -46,31 +55,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da Bewusstsein in OR-Ereignissen der Raumzeitgeometrie liegt und nicht in Berechnung, wäre ein herkömmlicher Computer ohne orchestrierte Quantenprozesse dieser Art nicht bewusst."
     },
     "survival_beyond_death": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Hameroff und Chopra vermuten, dass sich die Quanteninformation des Bewusstseins beim Tod im Universum verteilen und, mit der Raumzeitgeometrie verschränkt, als ‚Quantenseele‘ fortbestehen könnte."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Bewusstsein ist in der grundlegenden Ebene des Universums verwurzelt, und das Leben selbst existiert, um es, angetrieben von Lust, zu verstärken und zu ordnen."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Bewusstsein hängt von Quantenereignissen in der Raumzeitgeometrie ab und nicht von Informationsverarbeitung, die sich in ein digitales System kopieren ließe."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Penrose-Hameroff's Orchestrated Objective Reduction", "relationship": "Grundlage" },
-      { "name": "Chopra's Only the Whole is Conscious", "relationship": "Überschneidung" },
-      { "name": "Panprotopsychism", "relationship": "Überschneidung" },
-      { "name": "Feinberg and Mallatt's Ancient Origins of Consciousness", "relationship": "Kontrast" }
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Chopra's Only the Whole is Conscious",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Panprotopsychism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Feinberg and Mallatt's Ancient Origins of Consciousness",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Hameroff’s Consciousness Came Before Life (Landscape of Consciousness), Stuart Hameroff", "year": 2024 }
+      {
+        "title_with_names": "Hameroff’s Consciousness Came Before Life (Landscape of Consciousness), Stuart Hameroff",
+        "year": 2024
+      }
     ]
   }
 }

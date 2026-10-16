@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Dewarts assertive Rede und Selbstpräsenz",
     "summary": "Leslie Dewart vertritt die Auffassung, dass alle Tiere erleben, aber nur der Mensch bewusst erlebt, und dass nicht die genetische natürliche Selektion, sondern die Sprache diesen Unterschied hervorgebracht hat. Die assertive Rede, bei der ein Sprecher seine Erfahrung mitteilen will und das Mitteilen als sein eigenes Tun erfährt, macht die Erfahrung sich selbst gegenwärtig: Das Subjekt erfährt den Gegenstand, den Akt des Erlebens und sich selbst als Erlebenden in einem einzigen Akt. Bewusstsein entwickelt sich dann kulturell und geschichtlich, und es kann sich auch schlecht entwickeln.",
-    "associated_thinkers": ["Leslie Sutherland Dewart"],
+    "associated_thinkers": [
+      "Leslie Sutherland Dewart"
+    ],
     "category": "Materialismus",
     "subcategory": "Sprache",
     "core_identity_tagline": "Bewusstsein als selbstpräsente Erfahrung, hervorgebracht durch Sprache",
-    "classification_tags": ["speech", "self-presence", "cultural evolution", "pre-reflective self-awareness", "language"]
+    "classification_tags": [
+      "speech",
+      "self-presence",
+      "cultural evolution",
+      "pre-reflective self-awareness",
+      "language"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist selbstpräsente Erfahrung, in der der Akt des Erlebens sich selbst gegenwärtig ist, ohne einen eigenen Akt der Reflexion, und sie wird durch assertive Rede möglich.",
@@ -46,36 +54,66 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Dewart argumentierte, dass echtes Denken und echte Sprache verlangen, dass das System seine Inhalte sich selbst als selbstbezogener zweckgerichteter Prozess mitteilt, was seiner Auffassung nach nur lebende Organismen können."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da Bewusstsein hier ein natürlicher Gebrauch der biochemischen Prozesse eines Organismus ist, bietet die Auffassung keine Grundlage dafür, dass es nach dem Tod fortbesteht."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Dewart führt den Eindruck einer Macht, die durch die Welt spricht, auf eine teilweise Entwicklung des Bewusstseins zurück, das menschliches Handeln nach außen projiziert."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Ein digitales System würde nach seiner Auffassung nur Sprache und Denken simulieren und hätte nicht die Selbstpräsenz eines lebenden Sprechers."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Jaynes's Breakdown of the Bicameral Mind", "relationship": "Überschneidung" },
-      { "name": "Zahavi’s Pre-Reflective For-Me-Ness", "relationship": "Überschneidung" },
-      { "name": "Deacon's Symbolic Communication (Human Consciousness)", "relationship": "Vereinbar" },
-      { "name": "Turing’s Imitation, Machine Thought, and the Hidden Mind", "relationship": "Kritik" }
+      {
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Zahavi’s Pre-Reflective For-Me-Ness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Deacon's Symbolic Communication (Human Consciousness)",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Turing’s Imitation, Machine Thought, and the Hidden Mind",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Evolution and Consciousness: The Role of Speech in the Origin and Development of Human Nature, Leslie Dewart", "year": 1989 },
-      { "title_with_names": "The Future of Belief: Theism in a World Come of Age, Leslie Dewart", "year": 1966 },
-      { "title_with_names": "Hume's Challenge and the Renewal of Modern Philosophy, Leslie Dewart", "year": 2016 },
-      { "title_with_names": "Self-Consciousness: A Critical Introduction to a Theory, D. Henrich", "year": 1971 },
-      { "title_with_names": "Education, Consciousness and Negative Feedback: Towards the Renewal of Modern Philosophy of Education, E. Pikkarainen", "year": 2021 },
-      { "title_with_names": "Leslie Dewart (1922–2009): Canada's Forgotten Theological Philosopher, A. M. Savage", "year": 2020 }
+      {
+        "title_with_names": "Evolution and Consciousness: The Role of Speech in the Origin and Development of Human Nature, Leslie Dewart",
+        "year": 1989
+      },
+      {
+        "title_with_names": "The Future of Belief: Theism in a World Come of Age, Leslie Dewart",
+        "year": 1966
+      },
+      {
+        "title_with_names": "Hume's Challenge and the Renewal of Modern Philosophy, Leslie Dewart",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Self-Consciousness: A Critical Introduction to a Theory, D. Henrich",
+        "year": 1971
+      },
+      {
+        "title_with_names": "Education, Consciousness and Negative Feedback: Towards the Renewal of Modern Philosophy of Education, E. Pikkarainen",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Leslie Dewart (1922–2009): Canada's Forgotten Theological Philosopher, A. M. Savage",
+        "year": 2020
+      }
     ]
   }
 }

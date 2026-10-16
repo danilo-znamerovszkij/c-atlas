@@ -2,11 +2,23 @@
   "id_and_class": {
     "theory_title": "Yogācāras Nur-Bewusstsein: Wie das Speicherbewusstsein Erfahrung ohne äußere Gegenstände zusammenhält",
     "summary": "Der Yogācāra, systematisiert von Asaṅga und Vasubandhu, vertritt die Auffassung, dass das, was als Welt äußerer Gegenstände erscheint, nichts als Erkenntnis ist. Die Spaltung zwischen einem erfahrenden Subjekt und einer unabhängigen Welt ist eine Konstruktion innerhalb des Bewusstseins. Ein achtfaches Modell des Geistes erklärt, wie Erfahrung ohne äußere Ursachen geordnet, kontinuierlich und gemeinsam bleibt. Ein Speicherbewusstsein (ālayavijñāna) hält karmische Samen, die zu Erfahrung reifen, während ein befleckter Geist das beständige Gefühl des „Ich“ erzeugt. Meditative Praxis kann diese Grundlage verwandeln und nichtduales Gewahrsein offenbaren.",
-    "associated_thinkers": ["Asaṅga", "Vasubandhu", "Dignāga", "Dharmakīrti", "Sthiramati"],
+    "associated_thinkers": [
+      "Asaṅga",
+      "Vasubandhu",
+      "Dignāga",
+      "Dharmakīrti",
+      "Sthiramati"
+    ],
     "category": "Idealismus",
     "subcategory": "",
     "core_identity_tagline": "Erfahrung als reine Erkenntnis, gegründet im Speicherbewusstsein",
-    "classification_tags": ["buddhism", "store consciousness", "cognition-only", "three natures", "mahayana"]
+    "classification_tags": [
+      "buddhism",
+      "store consciousness",
+      "cognition-only",
+      "three natures",
+      "mahayana"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein bedingt entstehender Fluss (die abhängige Natur), der sich als Subjekt darstellt, das Gegenständen gegenübersteht. Das unmittelbar Erlebte besteht vollständig aus Erscheinungen innerhalb der Erkenntnis.",
@@ -50,11 +62,11 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Das Speicherbewusstsein trägt karmische Samen über Wiedergeburten hinweg. Daher setzt sich ein Geistesstrom nach dem Tod des Körpers fort, obwohl kein dauerhaftes Selbst fortbesteht und das Speicherbewusstsein bei der Befreiung aufhört."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Das gesamte Modell des Geistes ist auf die Befreiung ausgerichtet: das konstruierte Selbst und die konstruierte Welt aufzulösen, um nichtduales Gewahrsein zu verwirklichen."
     },
     "virtual_immortality": {
@@ -64,18 +76,47 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Nāgārjuna’s Empty Consciousness: Experience Without Essence", "relationship": "Kontrast" },
-      { "name": "Buddhism's Empty, Illusory Phenomenal Consciousness", "relationship": "Überschneidung" },
-      { "name": "Berkeley’s Immaterialist Idealism", "relationship": "Kontrast" },
-      { "name": "Kant’s Transcendental Idealism", "relationship": "Überschneidung" }
+      {
+        "name": "Nāgārjuna’s Empty Consciousness: Experience Without Essence",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Buddhism's Empty, Illusory Phenomenal Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Berkeley’s Immaterialist Idealism",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Kant’s Transcendental Idealism",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Twenty Verses (Viṃśikā), Vasubandhu" },
-      { "title_with_names": "Seven Works of Vasubandhu: The Buddhist Psychological Doctor, Vasubandhu (trans. Stefan Anacker)", "year": 2005 },
-      { "title_with_names": "The Summary of the Great Vehicle (Mahāyānasaṃgraha), Asaṅga (trans. John P. Keenan)", "year": 1992 },
-      { "title_with_names": "Ālayavijñāna: On the Origin and the Early Development of a Central Concept of Yogācāra Philosophy, Lambert Schmithausen", "year": 1987 },
-      { "title_with_names": "Buddhist Phenomenology: A Philosophical Investigation of Yogācāra Buddhism and the Ch'eng Wei-shih lun, Dan Lusthaus", "year": 2002 },
-      { "title_with_names": "The Buddhist Unconscious: The Ālaya-vijñāna in the Context of Indian Buddhist Thought, William S. Waldron", "year": 2003 }
+      {
+        "title_with_names": "Twenty Verses (Viṃśikā), Vasubandhu"
+      },
+      {
+        "title_with_names": "Seven Works of Vasubandhu: The Buddhist Psychological Doctor, Vasubandhu (trans. Stefan Anacker)",
+        "year": 2005
+      },
+      {
+        "title_with_names": "The Summary of the Great Vehicle (Mahāyānasaṃgraha), Asaṅga (trans. John P. Keenan)",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Ālayavijñāna: On the Origin and the Early Development of a Central Concept of Yogācāra Philosophy, Lambert Schmithausen",
+        "year": 1987
+      },
+      {
+        "title_with_names": "Buddhist Phenomenology: A Philosophical Investigation of Yogācāra Buddhism and the Ch'eng Wei-shih lun, Dan Lusthaus",
+        "year": 2002
+      },
+      {
+        "title_with_names": "The Buddhist Unconscious: The Ālaya-vijñāna in the Context of Indian Buddhist Thought, William S. Waldron",
+        "year": 2003
+      }
     ]
   }
 }

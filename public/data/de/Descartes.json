@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Descartes’ Substanzdualismus",
     "summary": "René Descartes vertritt die Auffassung, dass Bewusstsein, das er Denken (cogitatio) nennt, das Wesen einer immateriellen denkenden Substanz (res cogitans) ist, die vollständig von dem ausgedehnten, mechanischen Körper (res extensa) verschieden ist. Jeder bewusste Zustand, vom Schlussfolgern und Wollen bis zum Schmerz, zur Farbe und zur Emotion, ist eine Modalität des denkenden Dinges und ihm unmittelbar gegenwärtig. Empfindungen und Leidenschaften entstehen jedoch nur in der Verbindung von Geist und Körper, wo Gehirnprozesse in regelmäßiger Beziehung zu Erfahrungen stehen, denen sie nicht ähneln.",
-    "associated_thinkers": ["René Descartes"],
+    "associated_thinkers": [
+      "René Descartes"
+    ],
     "category": "Dualismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als Wesen einer denkenden Substanz",
-    "classification_tags": ["substance dualism", "cogito", "res cogitans", "mind-body problem", "early modern philosophy"]
+    "classification_tags": [
+      "substance dualism",
+      "cogito",
+      "res cogitans",
+      "mind-body problem",
+      "early modern philosophy"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist Denken, definiert als alles, was in uns geschieht, insofern wir es unmittelbar bewusst wahrnehmen; es ist das Hauptattribut des Geistes.",
@@ -46,37 +54,70 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da das Denken nur der immateriellen Substanz zukommt und die Materie reine Ausdehnung ist, wäre eine Maschine, so komplex sie auch sei, Mechanismus ohne Geist."
     },
     "survival_beyond_death": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Descartes stellte die reale Verschiedenheit von Seele und Körper als das dar, was das Überleben der Seele verständlich macht; die Meditationen kündigen dieses Ziel in ihrem Untertitel an."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Descartes' System ruht auf einem nicht täuschenden Gott, der die Erkenntnis verbürgt und auch die ewigen Wahrheiten geschaffen hat."
     },
     "virtual_immortality": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Die Nachbildung des körperlichen Mechanismus würde die immaterielle denkende Substanz nicht nachbilden."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Trialism", "relationship": "Erweiterung" },
-      { "name": "Malebranche’s Divine Occasionalism: Inner Sensation and Phenomenal Experience", "relationship": "Erweiterung" },
-      { "name": "Avicenna’s Flying Man and Self-Present Soul", "relationship": "Überschneidung" },
-      { "name": "Swinburne's Substance Dualism", "relationship": "Erweiterung" }
+      {
+        "name": "Trialism",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Malebranche’s Divine Occasionalism: Inner Sensation and Phenomenal Experience",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Avicenna’s Flying Man and Self-Present Soul",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Swinburne's Substance Dualism",
+        "relationship": "Erweiterung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Meditations on First Philosophy, René Descartes (trans. J. Cottingham, R. Stoothoff, and D. Murdoch)", "year": 1984 },
-      { "title_with_names": "Principles of Philosophy, René Descartes (trans. J. Cottingham, R. Stoothoff, and D. Murdoch)", "year": 1985 },
-      { "title_with_names": "The Passions of the Soul, René Descartes (trans. J. Cottingham, R. Stoothoff, and D. Murdoch)", "year": 1985 },
-      { "title_with_names": "Discourse on the Method and Dioptrics, René Descartes (trans. J. Cottingham, R. Stoothoff, and D. Murdoch)", "year": 1985 },
-      { "title_with_names": "Descartes’s Dualism, M. Rozemond", "year": 1998 },
-      { "title_with_names": "Descartes and the Meditations, G. Hatfield", "year": 2003 },
-      { "title_with_names": "Cartesian Trialism, J. Cottingham", "year": 1985 }
+      {
+        "title_with_names": "Meditations on First Philosophy, René Descartes (trans. J. Cottingham, R. Stoothoff, and D. Murdoch)",
+        "year": 1984
+      },
+      {
+        "title_with_names": "Principles of Philosophy, René Descartes (trans. J. Cottingham, R. Stoothoff, and D. Murdoch)",
+        "year": 1985
+      },
+      {
+        "title_with_names": "The Passions of the Soul, René Descartes (trans. J. Cottingham, R. Stoothoff, and D. Murdoch)",
+        "year": 1985
+      },
+      {
+        "title_with_names": "Discourse on the Method and Dioptrics, René Descartes (trans. J. Cottingham, R. Stoothoff, and D. Murdoch)",
+        "year": 1985
+      },
+      {
+        "title_with_names": "Descartes’s Dualism, M. Rozemond",
+        "year": 1998
+      },
+      {
+        "title_with_names": "Descartes and the Meditations, G. Hatfield",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Cartesian Trialism, J. Cottingham",
+        "year": 1985
+      }
     ]
   }
 }

@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Hunt und Schoolers allgemeine Resonanztheorie",
     "summary": "Tam Hunt und Jonathan Schooler vertreten die Auffassung, dass alle Materie rudimentäre Erfahrung besitzt und dass geteilte Resonanz (übereinstimmende Schwingungsfrequenzen) das ist, was einfache Erfahrungen zu komplexen Geistern verbindet. Bei Säugetieren ist das wichtigste Medium ineinander geschachtelte elektromagnetische Felder, die nach ihrer Aussage bewusste Erfahrung konstituieren und nicht bloß mit ihr korrelieren.",
-    "associated_thinkers": ["Tam Hunt", "Jonathan Schooler"],
+    "associated_thinkers": [
+      "Tam Hunt",
+      "Jonathan Schooler"
+    ],
     "category": "Materialismus",
     "subcategory": "Elektromagnetisch",
     "core_identity_tagline": "Bewusstsein als resonierende elektromagnetische Felder",
-    "classification_tags": ["resonance", "electromagnetic fields", "panpsychism", "combination problem", "ephaptic coupling"]
+    "classification_tags": [
+      "resonance",
+      "electromagnetic fields",
+      "panpsychism",
+      "combination problem",
+      "ephaptic coupling"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist eine geschachtelte Menge wechselwirkender elektromagnetischer Felder, die durch Resonanz zu makro-bewussten Ganzheiten vereinigt werden.",
@@ -47,37 +56,70 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Hunt argumentiert, künstliche Systeme mit der richtigen resonanten elektromagnetischen Felddynamik wären bewusst, welchen Algorithmus sie auch ausführen; digitale Berechnung allein würde nicht genügen."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da das makro-bewusste Bewusstsein eines Menschen von den resonierenden Feldern des Gehirns abhängt, sollte es sich auflösen, wenn diese Resonanz aufhört, auch wenn die rudimentäre Erfahrung in der Materie fortbesteht."
     },
     "meaning_and_purpose": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Hunt und Schooler sehen Erfahrungsgrade in der ganzen Natur, was unser ethisches Verhältnis zur Biosphäre verändern könnte, sie beanspruchen aber keinen kosmischen Zweck."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Eine Softwaresimulation besitzt nicht die physische Feldresonanz, die die Theorie voraussetzt; ein hochgeladener Geist würde sein Bewusstsein daher nicht tragen, es sei denn, die Hardware reproduzierte diese Felder."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "McFadden's Conscious Electromagnetic Information Theory", "relationship": "Überschneidung" },
-      { "name": "Whitehead's Process Theory", "relationship": "Einfluss" },
-      { "name": "Integrated Information Theory", "relationship": "Kontrast" },
-      { "name": "Ephaptic Coupling", "relationship": "Grundlage" }
+      {
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Ephaptic Coupling",
+        "relationship": "Grundlage"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The easy part of the hard problem: A resonance theory of consciousness, Tam Hunt and Jonathan W. Schooler", "year": 2019 },
-      { "title_with_names": "Kicking the psychophysical laws into gear: A new approach to the combination problem, Tam Hunt", "year": 2011 },
-      { "title_with_names": "Calculating the boundaries of consciousness in General Resonance Theory, Tam Hunt", "year": 2020 },
-      { "title_with_names": "Where's my consciousness-ometer? How to test for the presence and complexity of consciousness, Tam Hunt, M. Ericson and Jonathan W. Schooler", "year": 2022 },
-      { "title_with_names": "Fields or firings? Comparing the spike code and the electromagnetic field hypothesis, Tam Hunt and M. Jones", "year": 2023 },
-      { "title_with_names": "Ephaptic coupling of cortical neurons, C. A. Anastassiou, R. Perin, H. Markram and C. Koch", "year": 2011 },
-      { "title_with_names": "Process and Reality, Alfred North Whitehead", "year": 1929 }
+      {
+        "title_with_names": "The easy part of the hard problem: A resonance theory of consciousness, Tam Hunt and Jonathan W. Schooler",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Kicking the psychophysical laws into gear: A new approach to the combination problem, Tam Hunt",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Calculating the boundaries of consciousness in General Resonance Theory, Tam Hunt",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Where's my consciousness-ometer? How to test for the presence and complexity of consciousness, Tam Hunt, M. Ericson and Jonathan W. Schooler",
+        "year": 2022
+      },
+      {
+        "title_with_names": "Fields or firings? Comparing the spike code and the electromagnetic field hypothesis, Tam Hunt and M. Jones",
+        "year": 2023
+      },
+      {
+        "title_with_names": "Ephaptic coupling of cortical neurons, C. A. Anastassiou, R. Perin, H. Markram and C. Koch",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Process and Reality, Alfred North Whitehead",
+        "year": 1929
+      }
     ]
   }
 }

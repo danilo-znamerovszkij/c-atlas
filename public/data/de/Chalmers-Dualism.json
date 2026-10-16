@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Chalmers’ naturalistischer Dualismus",
     "summary": "David Chalmers argumentiert, dass phänomenales Bewusstsein sich nicht auf physische Gehirnzustände reduzieren lässt, dass es aber nichts Übernatürliches gibt. Seine Antwort besteht darin, Erfahrung als grundlegendes Merkmal der Welt zu behandeln, neben Masse, Ladung und Raumzeit, und sie durch psychophysische Gesetze mit physischen Prozessen zu verknüpfen, die die Wissenschaft erst noch entdecken muss.",
-    "associated_thinkers": ["David Chalmers"],
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
     "category": "Dualismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als fundamentale, gesetzmäßig bestimmte natürliche Eigenschaft",
-    "classification_tags": ["property dualism", "hard problem", "zombies", "psychophysical laws", "naturalism"]
+    "classification_tags": [
+      "property dualism",
+      "hard problem",
+      "zombies",
+      "psychophysical laws",
+      "naturalism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusste Erfahrung ist eine grundlegende, nicht-physische Eigenschaft der natürlichen Welt, die durch fundamentale Gesetze systematisch mit physischen Eigenschaften verbunden ist.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Ob eine Maschine bewusst ist, hängt davon ab, woran die psychophysischen Gesetze Erfahrung knüpfen; folgen sie einer physischen oder informationellen Organisation, die eine Maschine teilen kann, hätte sie Erfahrung."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da Erfahrung durch Naturgesetze aus physischen Prozessen entsteht und Chalmers alles Übernatürliche ausschließt, bietet die Auffassung keine Grundlage dafür, dass Erfahrung ohne ihre physische Basis fortbesteht."
     },
     "meaning_and_purpose": {
@@ -58,19 +66,34 @@
       "rationale": ""
     },
     "virtual_immortality": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Eine Simulation trüge Erfahrung nur dann, wenn die psychophysischen Gesetze Erfahrung an die Merkmale knüpfen, die die Simulation reproduziert."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Chalmers’s Double-Aspect Theory of Information", "relationship": "Erweiterung" },
-      { "name": "Property Dualism", "relationship": "Überschneidung" },
-      { "name": "Descartes’s Substance Dualism", "relationship": "Kontrast" },
-      { "name": "Epiphenomenalism", "relationship": "Vereinbar" }
+      {
+        "name": "Chalmers’s Double-Aspect Theory of Information",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Conscious Mind, David Chalmers", "year": 1996 }
+      {
+        "title_with_names": "The Conscious Mind, David Chalmers",
+        "year": 1996
+      }
     ]
   }
 }

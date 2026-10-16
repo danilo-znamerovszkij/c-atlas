@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Mandiks Qualia-Quietismus",
     "summary": "Pete Mandik argumentiert, dass der Begriff „Qualia“ zu wenig Gehalt hat, als dass sich durch Bejahen oder Verneinen ihrer Existenz etwas Erhellendes sagen ließe. Deshalb lehnt er sowohl den Realismus als auch den Eliminativismus in Bezug auf Qualia ab. Stattdessen untersucht er Bewusstsein mit dem Neurofunktionalismus. Danach sind bewusste Zustände gehirnbasierte Repräsentationen, deren erlebter Charakter durch ihren Gehalt bestimmt wird und die sich selbst repräsentieren.",
-    "associated_thinkers": ["Pete Mandik"],
+    "associated_thinkers": [
+      "Pete Mandik"
+    ],
     "category": "Materialismus",
     "subcategory": "Eliminativ/Illusionismus",
     "core_identity_tagline": "Bewusstsein ohne Qualia-Rede: selbstrepräsentierende neuronale Zustände",
-    "classification_tags": ["qualia", "quietism", "representationalism", "self-representation", "neurofunctionalism"]
+    "classification_tags": [
+      "qualia",
+      "quietism",
+      "representationalism",
+      "self-representation",
+      "neurofunctionalism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusste Zustände sind neuronale repräsentationale Zustände, deren phänomenaler Charakter vollständig durch ihren intentionalen Gehalt bestimmt ist. Sie sind bewusst, weil sie eine Repräsentation ihrer selbst enthalten.",
@@ -46,11 +54,11 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Mandik führt die Frage, ob etwas, das Rot sieht, ein biologischer Organismus sein muss oder auch ein Artefakt sein könnte, als offene Frage auf, die sich statt der Qualia-Fragen zu stellen lohnt."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da bewusste Zustände hier neuronale Repräsentationen sind, würden sie mit dem Gehirn enden, auch wenn Mandik sich nicht auf den Physikalismus festlegt."
     },
     "meaning_and_purpose": {
@@ -64,13 +72,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Frankish’s Illusionism", "relationship": "Kontrast" },
-      { "name": "Dennett’s Illusionism", "relationship": "Kontrast" },
-      { "name": "Chalmers’s Naturalistic Dualism", "relationship": "Kritik" },
-      { "name": "Kriegel’s Cross-Order Self-Representation", "relationship": "Überschneidung" }
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Dennett’s Illusionism",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Kriegel’s Cross-Order Self-Representation",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Mandik’s Qualia Quietism (Landscape of Consciousness), Pete Mandik", "year": 2024 }
+      {
+        "title_with_names": "Mandik’s Qualia Quietism (Landscape of Consciousness), Pete Mandik",
+        "year": 2024
+      }
     ]
   }
 }

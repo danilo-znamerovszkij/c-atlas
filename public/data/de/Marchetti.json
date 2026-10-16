@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Marchettis aufmerksamkeitsbasierte Theorie",
     "summary": "Giorgio Marchetti argumentiert, dass Aufmerksamkeit phänomenales Bewusstsein erzeugt, indem sie das Energieniveau des neuronalen Systems moduliert, das sie ausführt. Er nennt dieses System das Aufmerksamkeitsorgan. Wo, wie stark und in welche Richtung sich diese Energie verschiebt, bestimmt Qualität, Intensität und Angenehmheit einer Erfahrung. Die daraus entstehende Erfahrung gibt dem Akteur ein Selbstgefühl und teilt ihm mit, wie seine eigenen Vorgänge dieses Selbst beeinflussen.",
-    "associated_thinkers": ["Giorgio Marchetti"],
+    "associated_thinkers": [
+      "Giorgio Marchetti"
+    ],
     "category": "Materialismus",
     "subcategory": "Homöostatisch",
     "core_identity_tagline": "Bewusstsein als Aufmerksamkeit, die neuronale Energie moduliert",
-    "classification_tags": ["attention", "self", "hedonic", "set-point", "neural energy"]
+    "classification_tags": [
+      "attention",
+      "self",
+      "hedonic",
+      "set-point",
+      "neural energy"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Der phänomenale Aspekt des Bewusstseins (PAC) ist die Modulation des Energieniveaus des Aufmerksamkeitsorgans durch aufmerksamkeitsbezogene Aktivität. Im Anschluss an Damasio vertritt Marchetti, dass der PAC dem Akteur ein Selbstgefühl und Informationen darüber liefert, wie seine eigenen Vorgänge auf dieses Selbst wirken.",
@@ -46,31 +54,45 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Bewusstsein erfordert die aufmerksamkeitsbedingte Modulation der Energie eines neuronalen Organs um einen Sollwert herum. Ob ein künstliches System ein gleichwertiges Äquivalent haben könnte, wird nicht behandelt."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da Erfahrung die Modulation der Energie eines neuronalen Substrats ist, kann sie nicht fortbestehen, wenn dieses Substrat nicht mehr arbeitet."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Marchetti verknüpft Bewusstsein mit der Entwicklung eines Selbst und mit symbolischen Tätigkeiten wie Sprache und Kunst, alles innerhalb des menschlichen Lebens."
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Marchetti sagt nicht, ob ein außerhalb des Gehirns reproduziertes Aufmerksamkeitsorgan dieselbe Erfahrung tragen würde."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness", "relationship": "Einfluss" },
-      { "name": "Graziano's Attention Schema Theory", "relationship": "Überschneidung" },
-      { "name": "Prinz's Neurofunctionalism: Attention Engenders Experience", "relationship": "Überschneidung" },
-      { "name": "Solms's Affect as the Hidden Spring of Consciousness", "relationship": "Vereinbar" }
+      {
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Prinz's Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Solms's Affect as the Hidden Spring of Consciousness",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Marchetti’s Attention-Based Theory, Giorgio Marchetti" }
+      {
+        "title_with_names": "Marchetti’s Attention-Based Theory, Giorgio Marchetti"
+      }
     ]
   }
 }

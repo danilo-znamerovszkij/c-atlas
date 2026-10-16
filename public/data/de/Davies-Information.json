@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Davies’ verborgenes Netz der Information",
     "summary": "Der Physiker Paul Davies spekuliert, Information könnte grundlegender sein als Materie oder Energie, und Bewusstsein sei an dieses informationelle Substrat gebunden, vielleicht als kausaler Akteur in einer „Mittelschicht“ zwischen physikalischem Gesetz und der Komplexität des Lebens. Außerdem neigt er zu Wheelers Auffassung, dass bewusste Beobachter an der Gestaltung der Geschichte des Universums teilhaben.",
-    "associated_thinkers": ["Paul Davies"],
+    "associated_thinkers": [
+      "Paul Davies"
+    ],
     "category": "Integrierte Info",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein verwurzelt in einer verborgenen informationellen Schicht",
-    "classification_tags": ["information", "physics", "cosmology", "participatory universe", "causation"]
+    "classification_tags": [
+      "information",
+      "physics",
+      "cosmology",
+      "participatory universe",
+      "causation"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist mit tiefen informationellen Strukturen verknüpft, und Davies vermutet, es „könnte ein tiefes informationelles Prinzip sein, das an der Wurzel des physikalischen Gesetzes selbst liegt“.",
@@ -54,7 +62,7 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Davies vertritt die Auffassung, dass Bewusstsein eine grundlegende Rolle in der Entwicklung des Universums spielt und dass das physikalische Gesetz darauf gerichtet sein könnte, es hervorzubringen."
     },
     "virtual_immortality": {
@@ -64,13 +72,28 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Davies's Consciousness in the Cosmos", "relationship": "Überschneidung" },
-      { "name": "Wigner–von Neumann’s Consciousness-Collapse: Experience at the Quantum Cut", "relationship": "Vereinbar" },
-      { "name": "Nagel's Mind and Cosmos", "relationship": "Vereinbar" },
-      { "name": "Integrated Information Theory", "relationship": "Überschneidung" }
+      {
+        "name": "Davies's Consciousness in the Cosmos",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Wigner–von Neumann’s Consciousness-Collapse: Experience at the Quantum Cut",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Nagel's Mind and Cosmos",
+        "relationship": "Vereinbar"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Davies’s Hidden Web of Information, Paul Davies", "year": 1999 }
+      {
+        "title_with_names": "Davies’s Hidden Web of Information, Paul Davies",
+        "year": 1999
+      }
     ]
   }
 }

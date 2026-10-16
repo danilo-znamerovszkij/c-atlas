@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Mikkilineni und Michaels’ emergenter Optimierungsprozess",
     "summary": "Rao Mikkilineni und Max Michaels argumentieren, dass sich Bewusstsein als Regulator entwickelt hat, der lebenden Systemen hilft, mit Unsicherheit umzugehen. Organismen leben in metastabilen Zuständen, die in Unordnung kippen können; das Bewusstsein erkennt sich nähernde Instabilität, greift auf gespeichertes Wissen aus Genom und Gedächtnis zurück und löst Handlungen aus, die das System kohärent halten.",
-    "associated_thinkers": ["Rao Mikkilineni", "Max Michaels"],
+    "associated_thinkers": [
+      "Rao Mikkilineni",
+      "Max Michaels"
+    ],
     "category": "Materialismus",
     "subcategory": "Komputational",
     "core_identity_tagline": "Bewusstsein als unsicherheitsbewältigender Optimierer des Lebens",
-    "classification_tags": ["general theory of information", "metastability", "genome", "complex adaptive systems", "mindful machines"]
+    "classification_tags": [
+      "general theory of information",
+      "metastability",
+      "genome",
+      "complex adaptive systems",
+      "mindful machines"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist ein emergenter Optimierungsprozess: ein Meta-Regulator, der kodiertes Wissen mit Echtzeit-Rückmeldung verbindet, sodass ein lebendes System unter schwankenden Bedingungen stabil bleibt.",
@@ -46,34 +55,58 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Mikkilineni und Michaels sehen Mindful Machines als mögliche Erweiterungen menschlichen Bewusstseins mit dem Potenzial zur Empfindungsfähigkeit, während sie zugleich einräumen, dass ihnen menschenähnliche Subjektivität fehlen würde."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Der Tod ist ein genomisches Gestaltungsmerkmal, und Bewusstsein ermöglicht dem Leben, innerhalb einer begrenzten Zeit zu gedeihen, statt den Tod zu besiegen."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Bewusstsein ist ein pragmatischer Regulator, um innerhalb von Grenzen ein sinnvolles Dasein zu maximieren, auch wenn die Autoren zugleich auf Aurobindos Vision eines kommenden höheren Bewusstseins verweisen."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Die Autoren schlagen vor, Maschinen mit geordneten Versagensmodi nach dem Vorbild des biologischen Todes auszustatten, um schädliches Fortbestehen zu verhindern."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Sri Aurobindo’s Evolving Consciousness", "relationship": "Einfluss" },
-      { "name": "Complex Adaptive Systems Models", "relationship": "Grundlage" },
-      { "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness", "relationship": "Überschneidung" }
+      {
+        "name": "Sri Aurobindo’s Evolving Consciousness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Complex Adaptive Systems Models",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "General Theory of Information, Mark Burgin", "year": 2010 },
-      { "title_with_names": "Why We Die, Venki Ramakrishnan", "year": 2023 },
-      { "title_with_names": "The Society of Genes, Itai Yanai and Martin Lercher", "year": 2016 },
-      { "title_with_names": "A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications, Robert Lawrence Kuhn", "year": 2024 },
-      { "title_with_names": "Mikkilineni and Michaels’s Emergent Optimization Process (Landscape of Consciousness), Rao Mikkilineni and Max Michaels", "year": 2025 }
+      {
+        "title_with_names": "General Theory of Information, Mark Burgin",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Why We Die, Venki Ramakrishnan",
+        "year": 2023
+      },
+      {
+        "title_with_names": "The Society of Genes, Itai Yanai and Martin Lercher",
+        "year": 2016
+      },
+      {
+        "title_with_names": "A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications, Robert Lawrence Kuhn",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Mikkilineni and Michaels’s Emergent Optimization Process (Landscape of Consciousness), Rao Mikkilineni and Max Michaels",
+        "year": 2025
+      }
     ]
   }
 }

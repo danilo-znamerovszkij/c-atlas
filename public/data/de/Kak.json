@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Kaks universelles Bewusstsein",
     "summary": "Subhash Kak argumentiert, dass Bewusstsein primär und nichtmateriell ist, ein Licht, das das physische Universum erhellt und keine Eigenschaft des Gehirns sein kann. Bewusstsein benutzt das Gehirn als Linse auf die Welt und wirkt auf die Materie ein, indem es die Wahrscheinlichkeiten physikalischer Zustandsübergänge verändert. Er vertritt die Auffassung, dass quantenmechanische Prinzipien Geist und Gehirn zugrunde liegen und dass die Struktur des inneren Kosmos den äußeren Kosmos spiegelt.",
-    "associated_thinkers": ["Subhash Kak"],
+    "associated_thinkers": [
+      "Subhash Kak"
+    ],
     "category": "Idealismus",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als das Licht, das das Universum erhellt",
-    "classification_tags": ["quantum mind", "idealism", "free will", "inner and outer cosmos", "observer"]
+    "classification_tags": [
+      "quantum mind",
+      "idealism",
+      "free will",
+      "inner and outer cosmos",
+      "observer"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist eine primäre, nichtmaterielle Wirklichkeit, die das physische Universum zugleich durchdringt und übersteigt und in der sich alles Verstehen der physischen Wirklichkeit vollzieht.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Kak stellt die aktive, freie Verarbeitung des Geistes einem Computer gegenüber, der nur seinem geladenen Programm folgt; daraus folgt, dass Maschinen als Computer kein Bewusstsein haben."
     },
     "survival_beyond_death": {
@@ -54,22 +62,34 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Kak gibt Beobachtern einen notwendigen Platz im Universum, zieht aber keine Schlüsse über einen kosmischen Zweck."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da Bewusstsein das Gehirn übersteigt und sich von deterministischer Berechnung unterscheidet, würde das Kopieren von Hirnprozessen in einen Computer das Bewusstsein nicht hinübertragen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"", "relationship": "Überschneidung" },
-      { "name": "Goswami's Self-Aware Universe", "relationship": "Überschneidung" },
-      { "name": "Indian Cosmic Consciousness", "relationship": "Vereinbar" }
+      {
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Goswami's Self-Aware Universe",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Indian Cosmic Consciousness",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Kak’s Universal Consciousness, Subhash Kak", "year": 2009 }
+      {
+        "title_with_names": "Kak’s Universal Consciousness, Subhash Kak",
+        "year": 2009
+      }
     ]
   }
 }

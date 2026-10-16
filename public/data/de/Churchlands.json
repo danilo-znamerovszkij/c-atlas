@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Churchlands eliminativer Materialismus",
     "summary": "Paul und Patricia Churchland vertreten die Auffassung, dass die Alltagspsychologie, also unser alltägliches Reden von Überzeugungen, Wünschen und Erfahrungen, eine radikal falsche Theorie ist, die eine vollendete Neurowissenschaft ersetzen und nicht glatt reduzieren wird. Bewusstsein, wie wir es gewöhnlich auffassen, ist ein vom Gehirn erzeugtes, durch die Evolution geformtes Bild, und unser Selbstverständnis, die Introspektion eingeschlossen, wird in neurowissenschaftlichen Begriffen neu aufgebaut.",
-    "associated_thinkers": ["Patricia Churchland", "Paul Churchland"],
+    "associated_thinkers": [
+      "Patricia Churchland",
+      "Paul Churchland"
+    ],
     "category": "Materialismus",
     "subcategory": "Eliminativ/Illusionismus",
     "core_identity_tagline": "Alltagspsychologie als falsche Theorie, die auf ihre Ablösung wartet",
-    "classification_tags": ["eliminative materialism", "neurophilosophy", "folk psychology", "neuroscience", "illusionism"]
+    "classification_tags": [
+      "eliminative materialism",
+      "neurophilosophy",
+      "folk psychology",
+      "neuroscience",
+      "illusionism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Was wir Bewusstsein nennen, so wie es die Alltagspsychologie beschreibt, existiert in dieser Form nicht. Die wirklichen Phänomene sind neuronale Prozesse, die nur eine ausgereifte Neurowissenschaft richtig beschreiben wird.",
@@ -50,11 +59,11 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da der Geist das Gehirn ist, überdauert nichts Mentales den Tod des Gehirns."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Patricia Churchland fordert uns auf, uns als Organismen in der Natur zu sehen, die mit wissenschaftlichen Methoden verstanden werden, ohne kosmischen Zweck."
     },
     "virtual_immortality": {
@@ -64,14 +73,31 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Feyerabend's Revisable, Disposable Mind", "relationship": "Grundlage" },
-      { "name": "Dennett’s Illusionism", "relationship": "Überschneidung" },
-      { "name": "Frankish’s Illusionism", "relationship": "Überschneidung" },
-      { "name": "Strawson's Realistic Monism and Real Materialism", "relationship": "Kritik" }
+      {
+        "name": "Feyerabend's Revisable, Disposable Mind",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Dennett’s Illusionism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Strawson's Realistic Monism and Real Materialism",
+        "relationship": "Kritik"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Neurophilosophy, Patricia Churchland", "year": 1986 },
-      { "title_with_names": "Churchland’s Eliminative Materialism (Landscape of Consciousness), Patricia Churchland" }
+      {
+        "title_with_names": "Neurophilosophy, Patricia Churchland",
+        "year": 1986
+      },
+      {
+        "title_with_names": "Churchland’s Eliminative Materialism (Landscape of Consciousness), Patricia Churchland"
+      }
     ]
   }
 }

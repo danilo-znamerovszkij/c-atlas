@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Heideggers Dasein (In-der-Welt-sein) ohne Qualia",
     "summary": "Martin Heidegger lehnt es ab, das Bewusstsein als inneres Subjekt zu behandeln, das mentale Inhalte prüft. Er geht stattdessen vom Dasein aus, dem Seienden, das wir selbst sind und das bereits in einer Welt aus Zeug, Mitmenschen, Stimmungen und Aufgaben aufgeht, und versteht das, was wir heute phänomenales Bewusstsein nennen, als spätere Abstraktion aus dieser praktischen, affektiven, zeitlichen Erschlossenheit der Dinge als bedeutsamer.",
-    "associated_thinkers": ["Martin Heidegger"],
+    "associated_thinkers": [
+      "Martin Heidegger"
+    ],
     "category": "Phänomenologie",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein abgeleitet aus dem In-der-Welt-sein",
-    "classification_tags": ["phenomenology", "dasein", "anti-cartesian", "embodiment", "hermeneutics"]
+    "classification_tags": [
+      "phenomenology",
+      "dasein",
+      "anti-cartesian",
+      "embodiment",
+      "hermeneutics"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Heidegger ersetzt das Bewusstsein durch die Erschlossenheit des Daseins: die Offenheit, in der Seiendes als brauchbar, bedrohlich, langweilig oder dringlich begegnet. Wahrnehmung, Schmerz und Stimmung sind Weisen, in denen eine Welt erschlossen wird, und keine inneren qualitativen Zustände.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Dreyfus nutzte Heidegger, um zu zeigen, dass die symbolische KI scheitert, weil sie unser Verhältnis zur Welt als repräsentational behandelt. Ein künstliches Dasein bräuchte ein verkörpertes, besorgendes Eingebundensein in eine Welt, und Heideggers Auffassung gibt keinen Grund, dies von Berechnung zu erwarten."
     },
     "survival_beyond_death": {
@@ -54,32 +62,73 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Sinn entsteht aus dem Eingebundensein des endlichen Daseins in eine Welt der Bedeutsamkeit und aus seinem Verhältnis zur eigenen Sterblichkeit, ohne dass eine kosmische Teleologie unterstellt wird."
     },
     "virtual_immortality": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da das Dasein durch endliches, verkörpertes, zeitliches Dasein in einer Welt bestimmt ist, würde ein kopiertes Muster von Hirnaktivität sein Sein nicht tragen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Husserl’s Transcendental Phenomenology", "relationship": "Kritik" },
-      { "name": "Enactivism", "relationship": "Einfluss" },
-      { "name": "A. Clark's Extended Mind", "relationship": "Kontrast" },
-      { "name": "Zahavi’s Pre-Reflective For-Me-Ness", "relationship": "Kontrast" }
+      {
+        "name": "Husserl’s Transcendental Phenomenology",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "A. Clark's Extended Mind",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Zahavi’s Pre-Reflective For-Me-Ness",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Being and Time, Martin Heidegger", "year": 1927 },
-      { "title_with_names": "Zollikon Seminars: Protocols, Conversations, Letters, Martin Heidegger (ed. M. Boss)", "year": 2001 },
-      { "title_with_names": "Being-in-the-World: A Commentary on Heidegger's Being and Time, Division I, H. L. Dreyfus", "year": 1991 },
-      { "title_with_names": "What Computers Still Can't Do: A Critique of Artificial Reason, H. L. Dreyfus", "year": 1992 },
-      { "title_with_names": "Why Heideggerian AI Failed and How Fixing It Would Require Making It More Heideggerian, H. L. Dreyfus", "year": 2007 },
-      { "title_with_names": "Making Sense of Heidegger: A Paradigm Shift, T. Sheehan", "year": 2015 },
-      { "title_with_names": "Heidegger's Analytic: Interpretation, Discourse, and Authenticity in Being and Time, T. Carman", "year": 2003 },
-      { "title_with_names": "Reconstructing the Cognitive World: The Next Step, M. Wheeler", "year": 2005 },
-      { "title_with_names": "Intentionality and Phenomenality: A Phenomenological Take on the Hard Problem, D. Zahavi", "year": 2003 },
-      { "title_with_names": "Heidegger’s Dasein (Being-In-The-World) Without Qualia, Landscape of Consciousness, Robert Lawrence Kuhn" }
+      {
+        "title_with_names": "Being and Time, Martin Heidegger",
+        "year": 1927
+      },
+      {
+        "title_with_names": "Zollikon Seminars: Protocols, Conversations, Letters, Martin Heidegger (ed. M. Boss)",
+        "year": 2001
+      },
+      {
+        "title_with_names": "Being-in-the-World: A Commentary on Heidegger's Being and Time, Division I, H. L. Dreyfus",
+        "year": 1991
+      },
+      {
+        "title_with_names": "What Computers Still Can't Do: A Critique of Artificial Reason, H. L. Dreyfus",
+        "year": 1992
+      },
+      {
+        "title_with_names": "Why Heideggerian AI Failed and How Fixing It Would Require Making It More Heideggerian, H. L. Dreyfus",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Making Sense of Heidegger: A Paradigm Shift, T. Sheehan",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Heidegger's Analytic: Interpretation, Discourse, and Authenticity in Being and Time, T. Carman",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Reconstructing the Cognitive World: The Next Step, M. Wheeler",
+        "year": 2005
+      },
+      {
+        "title_with_names": "Intentionality and Phenomenality: A Phenomenological Take on the Hard Problem, D. Zahavi",
+        "year": 2003
+      },
+      {
+        "title_with_names": "Heidegger’s Dasein (Being-In-The-World) Without Qualia, Landscape of Consciousness, Robert Lawrence Kuhn"
+      }
     ]
   }
 }

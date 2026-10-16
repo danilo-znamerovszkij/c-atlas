@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Kriegels Selbstrepräsentation über Ordnungen hinweg",
     "summary": "Uriah Kriegel vertritt die Auffassung, dass ein mentaler Zustand phänomenal bewusst ist, weil er sich selbst repräsentiert. Die Selbstrepräsentation entsteht, indem eine Repräsentation der Welt erster Ordnung funktional mit einer Repräsentation höherer Ordnung eben dieses Zustands integriert wird, wodurch ein einziger komplexer Zustand entsteht. Damit steht das Gewahrsein des Erlebens im Erleben selbst, und es ergibt sich eine prüfbare neuronale Hypothese: Bewusstsein setzt Integration zwischen präfrontalen und sensorischen Populationen voraus.",
-    "associated_thinkers": ["Uriah Kriegel"],
+    "associated_thinkers": [
+      "Uriah Kriegel"
+    ],
     "category": "Materialismus",
     "subcategory": "Höherer Ordnung",
     "core_identity_tagline": "Bewusstsein als Erleben, das sich selbst repräsentiert",
-    "classification_tags": ["self-representationalism", "for-me-ness", "higher-order theory", "neural correlates", "subjective character"]
+    "classification_tags": [
+      "self-representationalism",
+      "for-me-ness",
+      "higher-order theory",
+      "neural correlates",
+      "subjective character"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Ein phänomenal bewusster Zustand ist eine einzige komplexe Repräsentation, die sowohl einen Gegenstand der Welt als auch sich selbst repräsentiert, durch die ordnungsübergreifende Integration einer Komponente erster und einer Komponente höherer Ordnung.",
@@ -46,37 +54,70 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Da Bewusstsein von einer funktionalen Struktur integrierter Selbstrepräsentation abhängt, würde ein System, das diese Struktur verwirklicht, prinzipiell als bewusst gelten."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Bewusste Zustände werden durch integrierte neuronale Repräsentationen verwirklicht und können daher das Gehirn, das sie verwirklicht, nicht überdauern."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Die Theorie ist eine naturalistische Darstellung mentaler Repräsentation und impliziert keinen kosmischen Zweck."
     },
     "virtual_immortality": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Würde die integrierte selbstrepräsentierende Struktur auf einem anderen Substrat reproduziert, hätte die Theorie keinen prinzipiellen Grund anzunehmen, dass die Kopie kein Bewusstsein besäße."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Brentano’s Intentionality and Self-Awareness", "relationship": "Einfluss" },
-      { "name": "Rosenthal’s Higher-Order Thought", "relationship": "Kritik" },
-      { "name": "Zahavi’s Pre-Reflective For-Me-Ness", "relationship": "Überschneidung" },
-      { "name": "Ismael's Reflexive Representation and Situated Self", "relationship": "Kontrast" }
+      {
+        "name": "Brentano’s Intentionality and Self-Awareness",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Rosenthal’s Higher-Order Thought",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Zahavi’s Pre-Reflective For-Me-Ness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Ismael's Reflexive Representation and Situated Self",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Same-Order Monitoring Theory of Consciousness, Uriah Kriegel", "year": 2006 },
-      { "title_with_names": "Self-Representational Approaches to Consciousness, Uriah Kriegel and K. Williford (eds.)", "year": 2006 },
-      { "title_with_names": "A Cross-Order Integration Hypothesis for the Neural Correlate of Consciousness, Uriah Kriegel", "year": 2007 },
-      { "title_with_names": "Subjective Consciousness: A Self-Representational Theory, Uriah Kriegel", "year": 2009 },
-      { "title_with_names": "For-Me-Ness: What It Is and What It Is Not, D. Zahavi and Uriah Kriegel", "year": 2016 },
-      { "title_with_names": "Conscious States as Objects of Awareness, B. Gertler", "year": 2012 },
-      { "title_with_names": "Are Conscious States Conscious in Virtue of Representing Themselves?, B. Brogaard", "year": 2012 }
+      {
+        "title_with_names": "The Same-Order Monitoring Theory of Consciousness, Uriah Kriegel",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Self-Representational Approaches to Consciousness, Uriah Kriegel and K. Williford (eds.)",
+        "year": 2006
+      },
+      {
+        "title_with_names": "A Cross-Order Integration Hypothesis for the Neural Correlate of Consciousness, Uriah Kriegel",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Subjective Consciousness: A Self-Representational Theory, Uriah Kriegel",
+        "year": 2009
+      },
+      {
+        "title_with_names": "For-Me-Ness: What It Is and What It Is Not, D. Zahavi and Uriah Kriegel",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Conscious States as Objects of Awareness, B. Gertler",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Are Conscious States Conscious in Virtue of Representing Themselves?, B. Brogaard",
+        "year": 2012
+      }
     ]
   }
 }

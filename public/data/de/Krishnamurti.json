@@ -2,11 +2,20 @@
   "id_and_class": {
     "theory_title": "Krishnamurtis Bewusstsein ist sein Inhalt",
     "summary": "Jiddu Krishnamurti vertrat die These, dass das gewöhnliche Bewusstsein mit seinem Inhalt identisch ist, also mit dem bedingten Niederschlag von Gedächtnis, Glauben, Furcht und Selbstbild. Der Beobachter, der scheinbar außerhalb der Erfahrung steht, sei selbst ein Produkt des Denkens. Er schlug vor, dass eine wahlfreie Gewahrsamkeit, also Beobachtung ohne Auswählen, Benennen oder Urteilen, diese Spaltung offenlegen und den inneren Konflikt beenden kann, den sie aufrechterhält. In späten Dialogen mit dem Physiker David Bohm sprach er außerdem von einem unbedingten, universellen Geist, der nicht vom Gehirn hervorgebracht wird und durch ein stilles Gehirn wirken kann.",
-    "associated_thinkers": ["Jiddu Krishnamurti", "David Bohm"],
+    "associated_thinkers": [
+      "Jiddu Krishnamurti",
+      "David Bohm"
+    ],
     "category": "Phänomenologie",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als sein bedingter Inhalt; der Beobachter ist das Beobachtete",
-    "classification_tags": ["choiceless awareness", "conditioning", "no-self", "nonduality", "contemplative inquiry"]
+    "classification_tags": [
+      "choiceless awareness",
+      "conditioning",
+      "no-self",
+      "nonduality",
+      "contemplative inquiry"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Gewöhnliches Bewusstsein ist nichts über seinen Inhalt hinaus: Überzeugungen, Erinnerungen, Ängste, Lüste und Bilder, die das Denken hinterlässt. Es ist kein Behälter, kein Licht und kein Zeuge, in dem Inhalte erscheinen.",
@@ -51,11 +60,11 @@
       "rationale": ""
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da das persönliche Selbst vom Denken aus dem im Gehirn gespeicherten Gedächtnis zusammengesetzt wird, überdauert nichts Persönliches. Der universelle Geist der späten Dialoge ist unpersönlich."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "In den Bohm-Dialogen stimmt Krishnamurti vorsichtig zu, dass das Universum dem Körper eines absoluten Geistes gleicht und dass die kosmische Ordnung selbst in Meditation ist, mit Intelligenz und Mitgefühl jenseits des Gedächtnisses."
     },
     "virtual_immortality": {
@@ -65,21 +74,59 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Bohm's Implicate-Explicate Order", "relationship": "Überschneidung" },
-      { "name": "Buddhism's Empty, Illusory Phenomenal Consciousness", "relationship": "Überschneidung" },
-      { "name": "Hume’s Bundle Theory of Perceptions", "relationship": "Überschneidung" },
-      { "name": "Spira's Non-Duality", "relationship": "Vereinbar" }
+      {
+        "name": "Bohm's Implicate-Explicate Order",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Buddhism's Empty, Illusory Phenomenal Consciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Hume’s Bundle Theory of Perceptions",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Spira's Non-Duality",
+        "relationship": "Vereinbar"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The First and Last Freedom, Jiddu Krishnamurti", "year": 1954 },
-      { "title_with_names": "The Awakening of Intelligence, Jiddu Krishnamurti", "year": 1973 },
-      { "title_with_names": "The Wholeness of Life, Jiddu Krishnamurti", "year": 1978 },
-      { "title_with_names": "The Ending of Time, Jiddu Krishnamurti and David Bohm", "year": 1985 },
-      { "title_with_names": "The Future of Humanity: A Conversation, Jiddu Krishnamurti and David Bohm", "year": 1986 },
-      { "title_with_names": "Thought as a System, David Bohm", "year": 1994 },
-      { "title_with_names": "The phenomenological psychology of J. Krishnamurti, P. Butcher", "year": 1986 },
-      { "title_with_names": "Krishnamurti’s insistence on pathless enlightenment: A critique, Iddo Landau", "year": 2019 },
-      { "title_with_names": "Krishnamurti's Consciousness Is Its Content, Landscape of Consciousness (Closer To Truth)" }
+      {
+        "title_with_names": "The First and Last Freedom, Jiddu Krishnamurti",
+        "year": 1954
+      },
+      {
+        "title_with_names": "The Awakening of Intelligence, Jiddu Krishnamurti",
+        "year": 1973
+      },
+      {
+        "title_with_names": "The Wholeness of Life, Jiddu Krishnamurti",
+        "year": 1978
+      },
+      {
+        "title_with_names": "The Ending of Time, Jiddu Krishnamurti and David Bohm",
+        "year": 1985
+      },
+      {
+        "title_with_names": "The Future of Humanity: A Conversation, Jiddu Krishnamurti and David Bohm",
+        "year": 1986
+      },
+      {
+        "title_with_names": "Thought as a System, David Bohm",
+        "year": 1994
+      },
+      {
+        "title_with_names": "The phenomenological psychology of J. Krishnamurti, P. Butcher",
+        "year": 1986
+      },
+      {
+        "title_with_names": "Krishnamurti’s insistence on pathless enlightenment: A critique, Iddo Landau",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Krishnamurti's Consciousness Is Its Content, Landscape of Consciousness (Closer To Truth)"
+      }
     ]
   }
 }

@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Nichols’ Urauge",
     "summary": "Nichols schlägt vor, dass phänomenales Bewusstsein, REM-Träumen, abstraktes Denken und selbstgerichtete Modellbildung entstanden, als das ursprüngliche mediane (parietale oder ‚Ur‘-)Auge beim Übergang von kalt- zu warmblütigen Wirbeltieren verkümmerte. Befreit von der direkten Steuerung durch äußeres Licht, nutzte das Gehirn die Schaltkreise, die einst um dieses Auge herum organisiert waren, als ‚Phantom-Urauge‘ um, als inneren Raum für Simulation, Vorstellung und die Einheit der Erfahrung.",
-    "associated_thinkers": ["Steven Nichols"],
+    "associated_thinkers": [
+      "Steven Nichols"
+    ],
     "category": "Materialismus",
     "subcategory": "Phylogenetisch",
     "core_identity_tagline": "Bewusstsein als Phantom eines verlorenen Urauges",
-    "classification_tags": ["parietal eye", "evolution", "dreaming", "phantom sensation", "pineal complex"]
+    "classification_tags": [
+      "parietal eye",
+      "evolution",
+      "dreaming",
+      "phantom sensation",
+      "pineal complex"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist die Tätigkeit eines virtuellen Phantom-Urauges, das das Gehirn nach dem Verlust des realen Medianauges aus allgemeinen Aktionspotenzialsignalen rekonstruiert. Das Selbst ist ein entwickelter phantomsensorischer Integrator, der gewöhnliche Sinnessignale mit intern erzeugten Simulationen verbindet.",
@@ -46,7 +54,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Möglich",
+      "stance": "Possible",
       "rationale": "Nichols greift auf ungetaktete evolvierbare Schaltkreise zurück und erforscht ‚empfindungsfähige Schaltkreise‘, was nahelegt, dass von starrer Taktsteuerung befreite Hardware vergleichbare Dynamiken entwickeln könnte, wobei er die Analogie nur als illustrativ betrachtet."
     },
     "survival_beyond_death": {
@@ -54,7 +62,7 @@
       "rationale": ""
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Bewusstsein ist ein evolutionäres Nebenprodukt des Verlusts eines Sinnesorgans, und Nichols lehnt mystische Lehren eines ‚dritten Auges‘ über spirituelle Evolution ab."
     },
     "virtual_immortality": {
@@ -64,17 +72,44 @@
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Descartes’s Substance Dualism", "relationship": "Kritik" },
-      { "name": "Hobson’s Dreaming Protoconsciousness", "relationship": "Überschneidung" },
-      { "name": "Theosophy's Eclectic Soul and Consciousness", "relationship": "Kritik" },
-      { "name": "Freud's Surface Consciousness and Irreducible Affect", "relationship": "Kontrast" }
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Hobson’s Dreaming Protoconsciousness",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Theosophy's Eclectic Soul and Consciousness",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Freud's Surface Consciousness and Irreducible Affect",
+        "relationship": "Kontrast"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Phantom Eye (BSc Philosophy dissertation), Steven Nichols", "year": 1979 },
-      { "title_with_names": "The Primal Eye, Steven Nichols", "year": 2006 },
-      { "title_with_names": "Lost Primal Eye, Warm-Bloodedness and Birth of the Self: A New Framework for Psychology and Psychotherapy, Steven Nichols", "year": 2025 },
-      { "title_with_names": "Unconstrained Evolution and Hard Consequences, A. Thompson, I. Harvey and P. Husbands", "year": 1996 },
-      { "title_with_names": "Hardware Evolution: Automatic Design of Electronic Circuits in Reconfigurable Hardware by Artificial Evolution, A. Thompson", "year": 1998 }
+      {
+        "title_with_names": "Phantom Eye (BSc Philosophy dissertation), Steven Nichols",
+        "year": 1979
+      },
+      {
+        "title_with_names": "The Primal Eye, Steven Nichols",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Lost Primal Eye, Warm-Bloodedness and Birth of the Self: A New Framework for Psychology and Psychotherapy, Steven Nichols",
+        "year": 2025
+      },
+      {
+        "title_with_names": "Unconstrained Evolution and Hard Consequences, A. Thompson, I. Harvey and P. Husbands",
+        "year": 1996
+      },
+      {
+        "title_with_names": "Hardware Evolution: Automatic Design of Electronic Circuits in Reconfigurable Hardware by Artificial Evolution, A. Thompson",
+        "year": 1998
+      }
     ]
   }
 }

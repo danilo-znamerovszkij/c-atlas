@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Azarians selbstmodellierende Theorie der seltsamen Schleife",
     "summary": "Azarian argumentiert, dass Bewusstsein entsteht, wenn ein prädiktives Weltmodell, das ein Organismus zur Abwehr der Entropie aufbaut, sich rekursiv als den Akteur selbst modelliert, der das Modellieren vollzieht, und so ein Subjekt erzeugt. Jedes Quale ist eine Position in einem relationalen Raum möglicher Zustände, und seine Valenz ist sein Abstand vom Gleichgewicht, das der Organismus aufrechterhalten muss. Er nennt das Ergebnis einen mehrstufigen Monismus mit starker Emergenz.",
-    "associated_thinkers": ["Bobby Azarian"],
+    "associated_thinkers": [
+      "Bobby Azarian"
+    ],
     "category": "Nicht-reduktiv",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als Weltmodell, das seinen Modellierer modelliert",
-    "classification_tags": ["self-modeling", "strange loop", "free-energy principle", "strong emergence", "information geometry"]
+    "classification_tags": [
+      "self-modeling",
+      "strange loop",
+      "free-energy principle",
+      "strong emergence",
+      "information geometry"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist das, wonach es sich anfühlt, eine rekursiv selbstmodellierende Steuerarchitektur zu sein: ein integriertes Weltmodell, das den Modellierer als verkörpertes Zentrum von Wahrnehmung und Handlung enthält.",
@@ -46,35 +54,62 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Bewusstsein ist prinzipiell multipel realisierbar, braucht aber ein physisch rekurrentes Substrat, etwa neuromorphe oder selbstorganisierende Hardware oder kultiviertes neuronales Gewebe, nicht Software auf herkömmlichen Chips."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Da das Subjekt durch eine physisch verkörperte selbstmodellierende Architektur erzeugt wird, endet es, wenn diese Architektur aufhört."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Letztgültig",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Azarian stellt Leben und Geist in ein Universum, das sich auf größere Komplexität hin organisiert, und versteht Bewusstsein als Teil dieses kosmischen Prozesses."
     },
     "virtual_immortality": {
-      "stance": "Bedingt",
+      "stance": "Conditional",
       "rationale": "Eine Simulation auf herkömmlicher Hardware wäre nicht bewusst; jede Fortsetzung würde erfordern, die seltsame Schleife in einem rekurrenten physischen Substrat neu aufzubauen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Hofstadter’s Strange Loops", "relationship": "Erweiterung" },
-      { "name": "Safron’s Integrated World Modeling Theory", "relationship": "Überschneidung" },
-      { "name": "Friston's Free-Energy Principle and Active Inference", "relationship": "Grundlage" },
-      { "name": "Ellis's Strong Emergence and Top-Down Causation", "relationship": "Kompatibel" }
+      {
+        "name": "Hofstadter’s Strange Loops",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Safron’s Integrated World Modeling Theory",
+        "relationship": "Überschneidung"
+      },
+      {
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Ellis's Strong Emergence and Top-Down Causation",
+        "relationship": "Kompatibel"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Our Cosmic Purpose: A Practical Guide to Waking Up the Universe, Bobby Azarian", "year": 2027 },
-      { "title_with_names": "The Romance of Reality: How the Universe Organizes Itself to Create Life, Consciousness, and Cosmic Complexity, Bobby Azarian", "year": 2022 },
-      { "title_with_names": "I Am a Strange Loop, Douglas R. Hofstadter", "year": 2007 },
-      { "title_with_names": "The free-energy principle: A unified brain theory?, Karl Friston", "year": 2010 },
-      { "title_with_names": "An Integrated World Modeling Theory (IWMT) of consciousness, Adam Safron", "year": 2020 }
+      {
+        "title_with_names": "Our Cosmic Purpose: A Practical Guide to Waking Up the Universe, Bobby Azarian",
+        "year": 2027
+      },
+      {
+        "title_with_names": "The Romance of Reality: How the Universe Organizes Itself to Create Life, Consciousness, and Cosmic Complexity, Bobby Azarian",
+        "year": 2022
+      },
+      {
+        "title_with_names": "I Am a Strange Loop, Douglas R. Hofstadter",
+        "year": 2007
+      },
+      {
+        "title_with_names": "The free-energy principle: A unified brain theory?, Karl Friston",
+        "year": 2010
+      },
+      {
+        "title_with_names": "An Integrated World Modeling Theory (IWMT) of consciousness, Adam Safron",
+        "year": 2020
+      }
     ]
   }
 }

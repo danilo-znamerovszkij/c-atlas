@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Merleau-Pontys verkörperte Wahrnehmung und der gelebte Leib",
     "summary": "Maurice Merleau-Ponty verortet das Bewusstsein im gelebten Leib und in dessen vorreflexivem, motorischem Bezug zu einer Welt, die sich als Feld von Aufforderungen, Hindernissen und Möglichkeiten zeigt. Er argumentiert, dass die atomare ‚Empfindung‘, von der die meisten Theorien ausgehen, ein Artefakt der Analyse ist, und er formuliert das Bewusstsein vom ‚Ich denke‘ zum ‚Ich kann‘ um, einer leiblichen Macht des Greifens und der Orientierung. Seine späte Ontologie des ‚Fleisches‘ behandelt Wahrnehmendes und Wahrgenommenes als umkehrbare Aspekte eines einzigen Seinsgewebes.",
-    "associated_thinkers": ["Maurice Merleau-Ponty"],
+    "associated_thinkers": [
+      "Maurice Merleau-Ponty"
+    ],
     "category": "Phänomenologie",
     "subcategory": "",
     "core_identity_tagline": "Bewusstsein als Bezug des gelebten Leibes zu einer Welt",
-    "classification_tags": ["embodiment", "perception", "motor intentionality", "body schema", "flesh"]
+    "classification_tags": [
+      "embodiment",
+      "perception",
+      "motor intentionality",
+      "body schema",
+      "flesh"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewusstsein ist die vorreflexive Offenheit des gelebten Leibes für eine sinnhafte Welt, wahrnehmend, motorisch, affektiv, räumlich, zeitlich und intersubjektiv, und von der Welt, die es erschließt, untrennbar.",
@@ -46,38 +54,73 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da Bewusstsein hier das motorische Sich-Einlassen des gelebten Leibes auf eine Welt ist, würde einem unverkörperten Rechensystem das fehlen, worin Bewusstsein besteht. Merleau-Ponty hat Maschinen nicht behandelt."
     },
     "survival_beyond_death": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Es folgt aus der Auffassung, dass Bewusstsein das Sich-Einlassen des gelebten Leibes auf die Welt ist, und überdauert daher den Leib nicht."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Sinn entsteht im leiblichen, wahrnehmenden und intersubjektiven Bezug zur Welt, ohne Berufung auf einen transzendenten Zweck."
     },
     "virtual_immortality": {
-      "stance": "Nein",
+      "stance": "No",
       "rationale": "Eine Kopie von Information ohne einen gelebten Leib, der sich auf eine Welt einlässt, würde das Leib-Subjekt entbehren, das Bewusstsein ist."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Husserl’s Transcendental Phenomenology", "relationship": "Grundlage" },
-      { "name": "Enactivism", "relationship": "Einfluss" },
-      { "name": "Noë's \"Out of Our Heads\" Theory", "relationship": "Einfluss" },
-      { "name": "Gallagher’s Embodied Self and Interactive Consciousness", "relationship": "Einfluss" }
+      {
+        "name": "Husserl’s Transcendental Phenomenology",
+        "relationship": "Grundlage"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Noë's \"Out of Our Heads\" Theory",
+        "relationship": "Einfluss"
+      },
+      {
+        "name": "Gallagher’s Embodied Self and Interactive Consciousness",
+        "relationship": "Einfluss"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "The Structure of Behavior, Maurice Merleau-Ponty", "year": 1942 },
-      { "title_with_names": "Phenomenology of Perception, Maurice Merleau-Ponty", "year": 1945 },
-      { "title_with_names": "The Visible and the Invisible, Maurice Merleau-Ponty", "year": 1964 },
-      { "title_with_names": "Merleau-Ponty, Taylor Carman", "year": 2008 },
-      { "title_with_names": "Intelligence without representation: Merleau-Ponty's critique of mental representation, Hubert L. Dreyfus", "year": 2002 },
-      { "title_with_names": "The Embodied Mind: Cognitive Science and Human Experience, F. J. Varela, Evan Thompson, and E. Rosch", "year": 1991 },
-      { "title_with_names": "How the Body Shapes the Mind, Shaun Gallagher", "year": 2005 },
-      { "title_with_names": "Merleau-Ponty's Embodied Perception and the Lived Body, Landscape of Consciousness (Closer To Truth)" }
+      {
+        "title_with_names": "The Structure of Behavior, Maurice Merleau-Ponty",
+        "year": 1942
+      },
+      {
+        "title_with_names": "Phenomenology of Perception, Maurice Merleau-Ponty",
+        "year": 1945
+      },
+      {
+        "title_with_names": "The Visible and the Invisible, Maurice Merleau-Ponty",
+        "year": 1964
+      },
+      {
+        "title_with_names": "Merleau-Ponty, Taylor Carman",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Intelligence without representation: Merleau-Ponty's critique of mental representation, Hubert L. Dreyfus",
+        "year": 2002
+      },
+      {
+        "title_with_names": "The Embodied Mind: Cognitive Science and Human Experience, F. J. Varela, Evan Thompson, and E. Rosch",
+        "year": 1991
+      },
+      {
+        "title_with_names": "How the Body Shapes the Mind, Shaun Gallagher",
+        "year": 2005
+      },
+      {
+        "title_with_names": "Merleau-Ponty's Embodied Perception and the Lived Body, Landscape of Consciousness (Closer To Truth)"
+      }
     ]
   }
 }

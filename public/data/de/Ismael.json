@@ -2,11 +2,19 @@
   "id_and_class": {
     "theory_title": "Ismaels reflexive Repräsentation und das situierte Selbst",
     "summary": "Jenann Ismael erklärt die erstpersonale Struktur des Bewusstseins durch reflexive Repräsentation: Ein mentaler Zustand kann die Welt repräsentieren und zugleich seinen eigenen aktuellen Charakter darstellen, wodurch das Erleben Unmittelbarkeit, Privatheit und Zugehörigkeit erhält. Sie behandelt phänomenale Begriffe als indexikalisch, ähnlich wie ‚ich‘ und ‚jetzt‘, sodass die Erklärungslücke ein vorhersagbares Merkmal selbstlokalisierender Repräsentation ist und kein Beleg für den Dualismus. Sie behauptet nicht, dass Selbstrepräsentation phänomenales Erleben hervorbringt, und lässt die Frage offen, warum es sich überhaupt wie etwas anfühlt.",
-    "associated_thinkers": ["Jenann Ismael"],
+    "associated_thinkers": [
+      "Jenann Ismael"
+    ],
     "category": "Materialismus",
     "subcategory": "Höherer Ordnung",
     "core_identity_tagline": "Subjektivität als reflexive Oberfläche des Denkens",
-    "classification_tags": ["self-representation", "indexicality", "explanatory gap", "perspective", "naturalism"]
+    "classification_tags": [
+      "self-representation",
+      "indexicality",
+      "explanatory gap",
+      "perspective",
+      "naturalism"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Ismael identifiziert die erstpersonale Struktur des Erlebens mit einer Architektur doppelten Inhalts, in der Zustände die Welt repräsentieren und sich selbst präsentieren; das phänomenale Feld nennt sie die ‚reflexive Oberfläche‘ des Denkens, identifiziert die Phänomenalität selbst aber nicht mit dieser Architektur.",
@@ -46,37 +54,69 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Ismael vertritt die Auffassung, dass künstliche Systeme grundsätzlich Selbstbewusstsein ohne Bewusstsein haben könnten; ihre Theorie sagt nicht, was die qualitative Seite hinzufügen würde."
     },
     "survival_beyond_death": {
-      "stance": "Unwahrscheinlich",
+      "stance": "Unlikely",
       "rationale": "Da das Selbst eine Perspektive ist, die innerhalb eines verkörperten physikalischen Systems aufrechterhalten wird, und nicht eine cartesische Substanz, stützt nichts in dieser Auffassung seinen Fortbestand, nachdem dieses System aufhört."
     },
     "meaning_and_purpose": {
-      "stance": "Nur humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Die Darstellung ist naturalistisch und ordnet Akteure in die Physik ein, ohne einen kosmischen Zweck."
     },
     "virtual_immortality": {
-      "stance": "Ungewiss",
+      "stance": "Uncertain",
       "rationale": "Eine Organisation als virtuelle Maschine könnte grundsätzlich auf einem anderen Substrat laufen, doch ob die Kopie phänomenal bewusst wäre, ist genau die Frage, die Ismael offenlässt."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Kriegel’s Cross-Order Self-Representation", "relationship": "Kontrast" },
-      { "name": "Jackson's Representationalism and the Knowledge Argument", "relationship": "Kritik" },
-      { "name": "Levine’s Explanatory Gap", "relationship": "Erweiterung" },
-      { "name": "Rovelli's Relationship Physics", "relationship": "Überschneidung" }
+      {
+        "name": "Kriegel’s Cross-Order Self-Representation",
+        "relationship": "Kontrast"
+      },
+      {
+        "name": "Jackson's Representationalism and the Knowledge Argument",
+        "relationship": "Kritik"
+      },
+      {
+        "name": "Levine’s Explanatory Gap",
+        "relationship": "Erweiterung"
+      },
+      {
+        "name": "Rovelli's Relationship Physics",
+        "relationship": "Überschneidung"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Science and the Phenomenal, Jenann Ismael", "year": 1999 },
-      { "title_with_names": "Doublemindedness: A Model for a Dual Content Cognitive Architecture, Jenann Ismael", "year": 2006 },
-      { "title_with_names": "The Situated Self, Jenann Ismael", "year": 2007 },
-      { "title_with_names": "Précis of The Situated Self, Jenann Ismael", "year": 2011 },
-      { "title_with_names": "Why Physics Should Care About the Mind, and How to Think About It Without Worrying About the Mind-Body Problem, Jenann Ismael", "year": 2022 },
-      { "title_with_names": "How Physics Makes Us Free, Jenann Ismael" },
-      { "title_with_names": "Against Totalitarianism: Introduction to Tractatus Quanticum, Jenann Ismael and Huw Price", "year": 2026 }
+      {
+        "title_with_names": "Science and the Phenomenal, Jenann Ismael",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Doublemindedness: A Model for a Dual Content Cognitive Architecture, Jenann Ismael",
+        "year": 2006
+      },
+      {
+        "title_with_names": "The Situated Self, Jenann Ismael",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Précis of The Situated Self, Jenann Ismael",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Why Physics Should Care About the Mind, and How to Think About It Without Worrying About the Mind-Body Problem, Jenann Ismael",
+        "year": 2022
+      },
+      {
+        "title_with_names": "How Physics Makes Us Free, Jenann Ismael"
+      },
+      {
+        "title_with_names": "Against Totalitarianism: Introduction to Tractatus Quanticum, Jenann Ismael and Huw Price",
+        "year": 2026
+      }
     ]
   }
 }
