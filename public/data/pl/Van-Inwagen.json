@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Materializm chrześcijański i zmartwychwstanie umarłych van Inwagena",
     "summary": "Teoria ta proponuje formę materializmu chrześcijańskiego, w której osoba ludzka jest w całości bytem materialnym, odrzucając tym samym dualizm substancji zarówno na gruncie filozoficznym, jak i biblijnym. Głosi, że tożsamość osobowa poprzez śmierć zostaje zachowana dzięki temu, że Bóg przechowuje fizycznie i przyczynowo ciągłe „nagie jądro” pierwotnego ciała materialnego aż do ostatecznego zmartwychwstania.",
-    "associated_thinkers": ["Peter van Inwagen"],
+    "associated_thinkers": [
+      "Peter van Inwagen"
+    ],
     "category": "Fizykalizm nieredukcyjny",
     "subcategory": "Materializm chrześcijański",
     "core_identity_tagline": "Materializm pogodzony z biblijnym zmartwychwstaniem",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Osoba świadoma jest rzeczą materialną, która musi zachować ciągłość materialną i przyczynową, aby utrzymać tożsamość osobową.",
-    "ontological_status": "Materializm chrześcijański (osobliwe stanowisko fizykalistyczne, które włącza działanie boskie w celu zachowania ciągłości tożsamości).",
+    "ontological_status": "Christian Materialism (a unique physicalist stance that incorporates divine action for identity continuity).",
     "mind_body_relationship": "Teoria tożsamości: osoba (wraz z umysłem) jest tożsama z rzeczą materialną, choć dokładny mechanizm długotrwałego przetrwania opiera się na boskim przechowywaniu.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Teoria skupia się na ciągłości ontologicznej (przechowywaniu bytu materialnego przez Boga) raczej niż na konkretnych neurologicznych mechanizmach emergencji, zakłada jednak fizykalistyczne/materialistyczne ujęcie świadomości za życia.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "The theory focuses on ontological continuity (God's preservation of the material entity) rather than specific neurological emergence mechanisms, but assumes a physicalist/materialist account of consciousness during life.",
     "subjectivity_and_intentionality": "Subiektywność i intencjonalność są własnościami osoby materialnej/mózgu, zgodnie ze standardowymi stanowiskami materialistycznymi, ponieważ teoria skupia się przede wszystkim na ciągłości pośmiertnej, a nie na funkcji świadomości za życia.",
     "qualia_account": "Teoria dotyczy przede wszystkim ciągłości ontologicznej, lecz milcząco zakłada, że doświadczenie jakościowe jest w całości fizycznym zjawiskiem organizmu materialnego, zgodnie z jej leżącym u podstaw fundamentem materialistycznym.",
     "ontological_commitments": "Osoba/ciało materialne, atomy oraz moc Boga (do zabezpieczenia ciągłości materialnej i przyczynowej). Teoria odrzuca substancje niefizyczne, takie jak dusza.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Argument filozoficzny, egzegeza teologiczna/biblijna."
   },
   "empirics_and_critiques": {
-    "testability_status": "Spekulatywny/pojęciowy. Centralne twierdzenia o zmartwychwstaniu opierają się na argumentacji filozoficznej/teologicznej i nie są empirycznie testowalne przez naukę.",
+    "testability_status": "Speculative/Conceptual. The central claims about resurrection rely on philosophical/theological argument and are not empirically testable by science.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Teoria napotyka trudność w wyjaśnieniu, jak wszechmoc może ponownie złożyć osobę, której atomy uległy przepływowi i szeroko się rozproszyły (zagadka niezliczonych duplikatów). Ponadto argument przeciwko nieśmiertelnej duszy nie zdołał przekonać wielu chrześcijańskich dualistów.",
     "open_questions_and_limitations": "Dokładny mechanizm, dzięki któremu Bóg przechowuje „gumnos kókkos” i zapewnia tożsamość osobową wobec nieustannego przepływu i rozpraszania atomów cielesnych, pozostaje nierozwiązanym wymogiem.",
@@ -51,31 +53,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Jako teoria materialistyczna zakłada, że świadomość jest ostatecznie produktem złożonego układu fizycznego, co oznacza, że SI powinna w zasadzie móc urzeczywistnić świadomość, jeśli osiągnięty zostanie wymagany substrat fizyczny."
     },
     "survival_beyond_death": {
-      "stance": "Tak (warunkowo, przy interwencji boskiej)",
+      "stance": "Conditional",
       "rationale": "Głównym celem teorii jest dostarczenie mechanizmu (przechowywania przez Boga nagiego jądra), dzięki któremu osoba materialna osiąga biblijne zmartwychwstanie i pośmiertne przetrwanie."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmiczny/teologiczny",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Całe ramy teoretyczne są ugruntowane w teologicznym zobowiązaniu do zmartwychwstania umarłych, co implikuje ostateczny sens i cel w obrębie boskiego planu."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Ponieważ osoba jest rzeczą materialną, przesłanie pełnego stanu fizycznego mózgu powinno w zasadzie skutkować funkcjonalnym zduplikowaniem świadomej jaźni, umożliwiając wirtualną nieśmiertelność."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Krytyka" },
-      { "name": "Papineau’s Mind-Brain Identity", "relationship": "Nakładanie się" },
       {
-        "name": "Murphy’s Non-Reductive Physicalism",
-        "relationship": "Zgodność"
+        "name": "Dualism",
+        "relationship": "Critique"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Nakładanie się" }
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Murphy's Non-Reductive Physicalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Overlap"
+      }
     ],
     "sources_and_references": [
       {

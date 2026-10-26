@@ -1,0 +1,127 @@
+{
+  "id_and_class": {
+    "theory_title": "Wyuczona świadomość Cleeremansa dzięki radykalnej plastyczności",
+    "summary": "Axel Cleeremans dowodzi, że świadomość jest czymś, czego mózg się uczy: wychodząc z założenia, że aktywność neuronalna jest z natury nieświadoma, mózg stopniowo uczy się redeskrybować własne reprezentacje samemu sobie. Doświadczenie powstaje, gdy układ nauczył się zarówno tego, że znajduje się w pewnych stanach wewnętrznych, jak i tego, by niektórymi z nich przejmować się bardziej niż innymi. Późniejsza praca, Samoorganizujące się ujęcie metareprezentacyjne (SOMA), opisuje świadomość jako nieświadomą, ucieleśnioną, niepojęciową teorię mózgu o samym sobie.",
+    "associated_thinkers": [
+      "Axel Cleeremans"
+    ],
+    "category": "Materializm",
+    "subcategory": "Wyższego rzędu",
+    "core_identity_tagline": "Świadomość jako wyuczona teoria mózgu o samym sobie",
+    "classification_tags": [
+      "metarepresentation",
+      "learning",
+      "plasticity",
+      "metacognition",
+      "higher-order theory"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Świadomość fenomenalna polega na wyuczonych metareprezentacjach, które charakteryzują stany pierwszego rzędu (ich siłę, stabilność, wyrazistość, rzetelność i znaczenie emocjonalne) i są ważone wartością, jaką układ nauczył się do nich przypisywać.",
+    "ontological_status": "Physicalism (computational, learning-based)",
+    "mind_body_relationship": "Świadomość jest zdolnością, którą układ neuronalny nabywa dzięki plastyczności; żaden stan neuronalny nie jest świadomy z natury, a doświadczenie jest produktem wyuczonych przez mózg redeskrypcji jego własnej aktywności.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence, developmental: consciousness is built over time by the same learning mechanisms that produce skill and expertise.",
+    "subjectivity_and_intentionality": "Podmiot to układ, który nauczył się, że ma pewne stany pierwszego rzędu, i różnicuje swoje zainteresowanie nimi. Samoświadomość i teoria umysłu dzielą mechanizmy uczenia się za pośrednictwem pętli ja–inny.",
+    "qualia_account": "Doświadczenie istnieje tylko u doświadczających, którzy nauczyli się reprezentować i cenić własne stany, a Cleeremans traktuje wartość emocjonalną jako część tego, czym jest doświadczenie. Krytycy pytają, czy to wyjaśnia jakościowy charakter, czy go zakłada.",
+    "ontological_commitments": "Sieci neuronowe z plastycznością, reprezentacje pierwszego rzędu stopniowane jakością, wyuczone metareprezentacje tych reprezentacji oraz wyuczona wartość emocjonalna.",
+    "epistemic_access": "Badane w eksperymentach nad uczeniem się implicytnym i metapoznaniem oraz w obliczeniowych modelach sieciowych, w których jedna sieć uczy się przewidywać i kwalifikować drugą.",
+    "constituents_and_structure": "Trzy rodzaje reprezentacji ze względu na jakość: implicytne (zbyt słabe dla świadomości, a jednak zdolne wpływać na zachowanie), eksplicytne (dostępne dla świadomości i kontroli, miejsce doświadczenia) oraz automatyczne (poza kontrolą, ale wciąż dostępne dla świadomości)."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Doświadczenie fenomenalne, świadomość percepcyjna, samoświadomość, intencja i teoria umysłu.",
+    "distinctive_mechanism_or_principle": "Redeskrypcja reprezentacyjna zwrócona do wewnątrz: mózg nieświadomie uczy się metareprezentacji własnej aktywności, więc plastyczność jest generatywnym warunkiem świadomości, a nie jej modulatorem.",
+    "dynamics_of_emergence": "Świadomość ma trajektorię rozwojową. W miarę jak uczenie się poprawia siłę, stabilność i wyrazistość reprezentacji, stają się one dostępne dla doświadczenia, a Cleeremans dowodzi, że świadomość nieświadomie sama siebie projektuje.",
+    "location_and_distribution": "W oddziałujących ze sobą regionach neuronalnych, które uczą się przewidywać się nawzajem, zorganizowanych przez SOMA w pętlę wewnętrzną, pętlę percepcja–działanie i pętlę ja–inny.",
+    "causation_and_functional_role": "Metareprezentacje pozwalają układowi przewidywać konsekwencje własnej aktywności; na przykład nauczenie się, że aktywność dodatkowej kory ruchowej niezawodnie poprzedza działanie, jest doświadczane jako intencja.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Proces drugiego rzędu przyjmuje dane wejściowe i reprezentacje pierwszego rzędu jako własne wejście i uczy się je przewidywać i kwalifikować, jak w dwusieciowych modelach obliczeniowych Cleeremansa.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Aktywność neuronalna jest domyślnie nieświadoma, więc pytanie brzmi, jak jakikolwiek stan staje się świadomy, a nie które stany są świadome same w sobie.",
+      "Modele sieciowe, w których druga sieć uczy się przewidywać stany wewnętrzne pierwszej, realizują proponowany mechanizm metareprezentacyjny.",
+      "Jakość reprezentacji poprawia się wraz z uczeniem się, więc dostępność dla świadomości zmienia się w toku rozwoju.",
+      "Teoria umysłu, samoświadomość i świadomość percepcyjna opierają się na wspólnych mechanizmach uczenia się napędzanych przewidywaniem."
+    ],
+    "basis_of_belief_or_evidence_type": "Empiryczna i obliczeniowa, czerpiąca z badań nad uczeniem się implicytnym i metapoznaniem, psychologii rozwojowej i symulacji sieciowych."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Symulacje sieci metapoznawczych, miary świadomości oparte na metapoznaniu oraz paradygmaty uczenia się implicytnego; to ujęcie formułuje też przewidywania rozwojowe i porównawcze.",
+    "criticisms_and_tensions": "Podobnie jak inne ujęcia wyższego rzędu, staje przed pytaniem, dlaczego reprezentacja reprezentacji miałaby być czymkolwiek odczuwanym. Krytycy pytają, czy wyuczona wartość emocjonalna nie przemyca jakościowego charakteru, który teoria miała wyprowadzić.",
+    "open_questions_and_limitations": "Czy wyuczona redeskrypcja daje fenomenalność, czy tylko funkcjonalny surogat. Overgaard i Kirkeby-Hinrup zauważają, że jeśli uczenie się jest podstawą świadomości, przypisywanie doświadczenia niemowlętom, zwierzętom i maszynom niesie ogromne konsekwencje moralne.",
+    "ontological_coherence": "Zgodne z fizykalistyczną nauką kognitywną; odchodzi od standardowych teorii wyższego rzędu, czyniąc metareprezentacje wyuczonymi, niepojęciowymi i niezależnymi od dziedziny."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Skoro świadomość to wyuczona metareprezentacja ważona wartością, sztuczny układ mógłby być świadomy, gdyby nauczył się w ten sposób reprezentować własne stany i się nimi przejmować."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Świadomość jest zdolnością, którą żywy mózg nabywa dzięki plastyczności, więc kończy się wraz z tym mózgiem."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "To naturalistyczna teoria oparta na uczeniu się, bez wymiaru kosmicznego."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "Świadomość zależy tu od historii uczenia się i wyuczonych wartości, a Cleeremans nie rozstrzyga, czy skopiowanie wytrenowanego układu przeniosłoby doświadczenie."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Cleeremans and Tallon-Baudry's Functional Value",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Rosenthal’s Higher-Order Thought",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Influence"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Consciousness and Metarepresentation: A Computational Sketch, Axel Cleeremans, B. Timmermans, and A. Pasquali",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Consciousness: The Radical Plasticity Thesis, Axel Cleeremans",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Know Thyself: Metacognitive Networks and Measures of Consciousness, A. Pasquali, B. Timmermans, and Axel Cleeremans",
+        "year": 2010
+      },
+      {
+        "title_with_names": "The Radical Plasticity Thesis: How the Brain Learns to Be Conscious, Axel Cleeremans",
+        "year": 2011
+      },
+      {
+        "title_with_names": "Higher-Order Thoughts in Action: Consciousness as an Unconscious Redescription Process, B. Timmermans, L. Schilbach, A. Pasquali, and Axel Cleeremans",
+        "year": 2012
+      },
+      {
+        "title_with_names": "Consciousness (Unconsciously) Designs Itself, Axel Cleeremans",
+        "year": 2019
+      },
+      {
+        "title_with_names": "Learning to Be Conscious, Axel Cleeremans et al.",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Is Learning the Cognitive Basis of Consciousness? The Moral Implications of SOMA, M. Overgaard and A. Kirkeby-Hinrup",
+        "year": 2021
+      }
+    ]
+  }
+}

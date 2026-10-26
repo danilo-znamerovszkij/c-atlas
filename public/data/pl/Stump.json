@@ -2,18 +2,26 @@
   "id_and_class": {
     "theory_title": "Dualizm tomistyczny Stump",
     "summary": "Teoria ta przedstawia ujęcie duszy ludzkiej autorstwa św. Tomasza z Akwinu jako niekartezjańską formę dualizmu. Zakłada ona, że dusza jest w istocie niematerialnym lub konfiguracyjnym komponentem, który jednak jest urzeczywistniany w komponentach materialnych, co pozwala pogodzić materialność człowieka z przetrwaniem ducha po śmierci ciała.",
-    "associated_thinkers": ["Eleonore Stump", "St. Thomas Aquinas"],
+    "associated_thinkers": [
+      "Eleonore Stump",
+      "St. Thomas Aquinas"
+    ],
     "category": "Dualizmy",
     "subcategory": "Filozoficzny",
     "core_identity_tagline": "Niekartezjańska niematerialna dusza urzeczywistniona w materii",
-    "classification_tags": ["dualism", "thomism", "non-Cartesian", "soul"]
+    "classification_tags": [
+      "dualism",
+      "thomism",
+      "non-Cartesian",
+      "soul"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość, czyli dusza/duch ludzki, jest w istocie substancją niematerialną lub konfiguracyjną, która jest urzeczywistniana w komponentach materialnych (ciele).",
-    "ontological_status": "Dualizm substancji (wariant niekartezjański/tomistyczny)",
+    "ontological_status": "Substance Dualism (Non-Cartesian/Thomistic Variant)",
     "mind_body_relationship": "Niematerialna dusza/duch jest urzeczywistniana w komponentach materialnych, godząc zarówno materialną naturę osoby ('prochem jesteś'), jak i przetrwanie ducha po śmierci ('duch powróci do Boga').",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja silna/Nieredukcyjna (Uzasadnienie: Dusza opisywana jest jako zachowująca niematerialną istotę, która trwa niezależnie od ciała, co wskazuje, że nie jest w pełni redukowalna do procesów materialnych, z których się wyłania.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence/Non-reductive (Justification: The soul is described as retaining an immaterial essence that persists independently of the body, indicating that it is not fully reducible to the material processes from which it arises.)",
     "subjectivity_and_intentionality": "Subiektywność i intencjonalność są fundamentalnie osadzone w niematerialnej/konfiguracyjnej duszy, o czym świadczy jej zdolność do trwania jako duch po rozpadzie ciała.",
     "qualia_account": "Qualia są związane z własnościami niematerialnego/konfiguracyjnego komponentu duszy, który jest urzeczywistniany w materialnym ciele.",
     "ontological_commitments": "Ciało materialne (podlegające rozpadowi, jak 'proch') oraz w istocie niematerialna lub konfiguracyjna dusza/duch zdolna do niezależnego istnienia.",
@@ -37,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny i teologiczny"
   },
   "empirics_and_critiques": {
-    "testability_status": "W dużej mierze pojęciowa, skupiona na spójności filozoficznej i metafizycznej zgodności z doktrynami religijnymi dotyczącymi życia i śmierci.",
+    "testability_status": "Largely conceptual, focusing on philosophical coherence and metaphysical consistency with religious doctrines regarding life and death.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Próbuje odpowiedzieć na powszechny zarzut filozoficzny, że tradycyjny dualizm kartezjański jest szeroko uznawany za fałszywy lub niespójny, w szczególności w kwestii problemu interakcji.",
     "open_questions_and_limitations": "Dokładny mechanizm, poprzez który w istocie niematerialna/konfiguracyjna istota jest 'urzeczywistniana' w komponentach materialnych, oraz sposób, w jaki istota ta podtrzymuje świadomość po śmierci, pozostają w materiale źródłowym niezdefiniowane.",
@@ -45,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Warunkowo",
+      "stance": "Conditional",
       "rationale": "Jeśli świadomość jest związana z w istocie niematerialną lub konfiguracyjną duszą urzeczywistnianą w materii biologicznej, to systemy sztuczne zbudowane wyłącznie z komponentów fizycznych prawdopodobnie pozbawione byłyby tego niezbędnego niefizycznego składnika, chyba że prawa psychofizyczne generujące duszę mogłyby stosować się do podłoży niebiologicznych."
     },
     "survival_beyond_death": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Teoria jest wprost skonstruowana tak, by uwzględnić trwanie ducha/duszy, będącej siedliskiem świadomości osoby, po rozpadzie ciała."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmiczny/Teologiczny",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Rama ta jest zakorzeniona w chrześcijańskiej filozofii scholastycznej, integrując biblijne doktryny o stworzeniu i powrocie ducha do Boga, zapewniając tym samym ostateczny sens i cel."
     },
     "virtual_immortality": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Jako wariant dualizmu substancji wymagający substancji niefizycznej (duszy), zduplikowanie jedynie struktury fizycznej (jak w nieśmiertelności wirtualnej) pominęłoby niezbędny składnik niefizyczny konieczny dla ciągłości jaźni."
     }
   },
@@ -65,15 +73,15 @@
     "related_theories": [
       {
         "name": "Property Dualism",
-        "relationship": "Rozróżnienie (Choć dualizm własności neguje dualizm substancji, dualizm tomistyczny zmierza do przekroczenia tradycyjnej dychotomii między substancją a redukcjonizmem materialnym.)"
+        "relationship": "Distinction (While property dualism denies substance dualism, Thomistic dualism seeks to transcend the traditional dichotomy between substance and material reductionism.)"
       },
       {
-        "name": "Substance Dualism (Cartesian)",
-        "relationship": "Krytyka"
+        "name": "Dualism",
+        "relationship": "Critique"
       },
       {
-        "name": "Jaworski’s Hylomorphism",
-        "relationship": "Zachodzenie na siebie"
+        "name": "Jaworski's Hylomorphism",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

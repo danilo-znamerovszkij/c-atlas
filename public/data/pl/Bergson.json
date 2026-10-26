@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Wielość, trwanie, percepcja i pamięć u Bergsona",
     "summary": "Ta nieredukcyjna teoria ujmuje świadomość jako dynamiczną, nieustannie temporalną rzeczywistość, charakteryzującą się „trwaniem” i „wielością”, będącą w istocie pamięcią. Mózg nie wytwarza świadomości, lecz działa jako filtr, ograniczając przytłaczające uświadamianie, aby umożliwić skupione działanie w świecie.",
-    "associated_thinkers": ["Henri Bergson"],
+    "associated_thinkers": [
+      "Henri Bergson"
+    ],
     "category": "Stany anomalne i odmienne",
     "subcategory": "Wielość, trwanie, percepcja, pamięć",
     "core_identity_tagline": "Świadomość jako przefiltrowana pamięć i czyste trwanie",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość utożsamia się z „pamięcią ujętą jako całość” oraz „nieustannie dynamiczną, z natury temporalną substancją rzeczywistości”, przejawiającą się jako ciągły ruch między czystą percepcją (obrazami) a czystą pamięcią.",
-    "ontological_status": "Otwarcie dualistyczny. Bergson afirmuje realność zarówno materii, jak i ducha, postulując stanowisko pośrednie (czysta percepcja/obrazy) między realizmem a idealizmem.",
+    "ontological_status": "Frankly Dualist. Bergson affirms the reality of both matter and spirit, positing a middle ground (pure perception/images) between realism and idealism.",
     "mind_body_relationship": "Interakcjonistyczna / korelacja nieredukcyjna. Relacja jest intymna, lecz rola mózgu ogranicza się ściśle do transmisji i filtracji; mózg nie wytwarza świadomości/ducha.",
-    "primitive_or_emergent_status": "Pierwotny/fundamentalny. Świadomość jest uznawana za istniejącą substancję („ducha”), którą mózg filtruje, a nie za coś, co wyłania się z procesów fizycznych.",
-    "emergence_type": "Nie dotyczy. Świadomość jest ujmowana jako istniejąca substancja fundamentalna / dynamiczna rzeczywistość (duch), a nie jako własność emergentna materii.",
+    "primitive_or_emergent_status": "Primitive/Fundamental. Consciousness is considered an existing substance ('spirit') which the brain filters, rather than something that emerges from physical processes.",
+    "emergence_type": "Not Applicable. Consciousness is viewed as an existing fundamental substance/dynamic reality (spirit), not an emergent property of matter.",
     "subjectivity_and_intentionality": "Subiektywność jest zakorzeniona w „trwaniu”, jakościowej wielości, która konstytuuje bezpośrednie dane świadomości. Intencjonalność wyraża się poprzez zdolność świadomości do antycypowania przyszłości za pomocą pamięci oraz umożliwiania „wolnego aktu zwanego wyborem”.",
     "qualia_account": "Jakościowe odczucie („jak to jest”) jest ujmowane przez „wielość” i „trwanie” jako bezpośrednie, heterogeniczne i ciągłe dane świadomości. Sama materia jest rozumiana jako „tylko obrazy”, co bezpośrednio wiąże rzeczywistość fenomenalną z materią.",
     "ontological_commitments": "Duch (czyli ludzka dusza/umysł/świadomość); materia (jako obrazy); czysta percepcja; czysta pamięć; trwanie (jako czas jakościowy).",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzna, fenomenologiczna"
   },
   "empirics_and_critiques": {
-    "testability_status": "Spekulatywna/pojęciowa. Teoria, zakorzeniona w filozoficznych rozróżnieniach między trwaniem a wielością, jest przede wszystkim nieempiryczna i niemechanistyczna, w przeciwieństwie do teorii materialistycznych.",
+    "testability_status": "Speculative/Conceptual. The theory, rooted in philosophical distinctions between duration and multiplicity, is primarily non-empirical and non-mechanistic, contrasting with materialist theories.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Bergson dostrzegał tradycyjne trudności teoretyczne dualizmu. Jego poglądy stanowią wyzwanie dla teorii materialistycznych. Krytycy takich modeli filtra/transmisji mają trudność z pogodzeniem twierdzenia o niewytwarzaniu z rozległymi danymi neuronaukowymi wiążącymi treść świadomości z aktywnością mózgu.",
     "open_questions_and_limitations": "Głównym problemem pozostaje to, jak mózg/ciało (materia) i umysł/duch (świadomość) oddziałują na siebie oraz jak dokładnie funkcjonuje mechanizm filtra.",
@@ -51,39 +53,54 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest definiowana jako nieobliczeniowy duch/pamięć związana z trwaniem, co jest z natury niemechanistyczne. Układy sztuczne zbudowane na obliczeniach prawdopodobnie nie uchwycą tej fundamentalnej substancji temporalnej.",
       "justification": "Wnioskowane z ściśle niematerialistycznej, niemechanistycznej natury rdzennych pojęć."
     },
     "survival_beyond_death": {
-      "stance": "Możliwe",
+      "stance": "Possible",
       "rationale": "Ponieważ mózg jest filtrem, a nie generatorem świadomości (ducha/pamięci), sugeruje to, że świadomość jest niezależna od ciała fizycznego i może utrzymywać się po śmierci ciała.",
       "justification": "Teoria Bergsona „mogłaby nawet dopuszczać pewien rodzaj przetrwania po śmierci”."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmiczne/egzystencjalne",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Świadomość jest definiowana jako dynamiczna, fundamentalna substancja („duch”) zdolna do „wolnego aktu zwanego wyborem”, co implikuje wewnętrzny cel wykraczający poza czysto humanistyczne czy biologiczne ograniczenia.",
       "justification": "Wnioskowane z jej „otwarcie dualistycznej” natury oraz powiązania z duchem i wyborem."
     },
     "virtual_immortality": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Nieśmiertelność wirtualna opiera się na wgraniu stanów obliczeniowych lub fizycznych. Ponieważ świadomość jest nieredukcyjnym duchem/pamięcią (czystym trwaniem), które jest jedynie filtrowane przez fizyczny mózg, zduplikowanie stanów neuronalnych nie zduplikowałoby świadomego bytu.",
       "justification": "Wnioskowane na podstawie niematerialistycznej i niefunkcjonalistycznej definicji świadomości."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "William James's filter model", "relationship": "Zgodność" },
-      { "name": "Substance Dualism", "relationship": "Tożsamość/nakładanie się" },
-      { "name": "Process Theory", "relationship": "Wpływ" },
-      { "name": "Neurophenomenology (Varela)", "relationship": "Wpływ" }
+      {
+        "name": "James's Plural Consciousness, Brain as Filter of a Wider Consciousness",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "Identity/Overlap"
+      },
+      {
+        "name": "Whitehead's Process Theory",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Influence"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Time and Free Will: an Essay on the Immediate Data of Consciousness",
         "year": 1889
       },
-      { "title_with_names": "Matter and Memory", "year": 1896 },
+      {
+        "title_with_names": "Matter and Memory",
+        "year": 1896
+      },
       {
         "title_with_names": "Life and Consciousness (Mind-Energy)",
         "year": 1920

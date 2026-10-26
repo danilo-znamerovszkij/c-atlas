@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Język jako klasyfikator świadomości Smitha",
     "summary": "Teoria ta, zaklasyfikowana w ramach materializmu w kategorii relacji językowych, głosi, że język pełni fundamentalną funkcję kategoryzowania, strukturyzowania i artykułowania treści subiektywnego doświadczenia. Świadomość istnieje zatem jako treść, która została zorganizowana i uczyniona dostępną przez te struktury językowe.",
-    "associated_thinkers": ["Barry Smith"],
+    "associated_thinkers": [
+      "Barry Smith"
+    ],
     "category": "Teorie materialistyczne",
     "subcategory": "Relacje językowe",
     "core_identity_tagline": "Świadomość jako treść klasyfikowana językowo",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest utożsamiana z wewnętrzną treścią, która podlega procesom klasyfikacji językowej i jest przez nie stabilizowana.",
-    "ontological_status": "Fizykalizm",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Tożsamość lub korelacja. Jako teoria materialistyczna, umysł (ustrukturyzowany przez język) musi być tożsamy z leżącymi u jego podstaw procesami mózgowymi wspierającymi klasyfikację językową lub doskonale z nimi skorelowany.",
-    "primitive_or_emergent_status": "Emergentna",
-    "emergence_type": "Emergencja słaba",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Subiektywność wyłania się z niepowtarzalnego strukturyzowania językowego stosowanego do wewnętrznych stanów jednostki. Intencjonalność jest osiągana, gdyż język dostarcza ram reprezentacyjnych łączących stany umysłowe z zewnętrznymi przedmiotami lub pojęciami.",
     "qualia_account": "Qualia są postrzegane jako rozróżnienia lub klasyfikacje językowe stosowane do surowego wejścia zmysłowego. Subiektywne „odczucie” jest nieodłączne od konkretnej, złożonej struktury narzuconej przez system językowy.",
     "ontological_commitments": "Fizyczne mechanizmy neuronalne przeznaczone do przetwarzania języka, reprezentacja symboliczna oraz kategoryzacja.",
@@ -41,7 +43,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny, lingwistyczny, kognitywny"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empirycznie testowalna (warunkowo)",
+    "testability_status": "Empirically testable (conditional)",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Do powszechnych zarzutów wobec teorii skoncentrowanych na języku należą trudności z wyjaśnieniem świadomości u istot niejęzykowych (np. niemowląt, zwierząt) oraz z adekwatnym wyjaśnieniem jakościowych, niesymbolicznych aspektów doświadczenia fenomenalnego.",
     "open_questions_and_limitations": "Dokładny mechanizm neurobiologiczny, za pomocą którego język narzuca strukturę surowemu wejściu, aby wytworzyć subiektywne doświadczenie „klasyfikatora”, pozostaje w źródłach wyraźnie niezdefiniowany.",
@@ -49,35 +51,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobne",
+      "stance": "Likely",
       "rationale": "Jeśli świadomość jest produktem złożonych mechanizmów klasyfikacji językowej, to systemy sztuczne o dostatecznie zaawansowanych zdolnościach przetwarzania języka i symboli powinny być w stanie ją ustanowić."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest fundamentalnie związana z fizycznym, biologicznym podłożem wspierającym język i klasyfikację; jej wygaśnięcie jest trwałe wraz z rozpadem mózgu."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Jako teoria materialistyczna wspiera sens i wartość tworzone przez człowieka, wywodzone ze złożoności poznawczej i autorefleksji, lecz zaprzecza ostatecznej teleologii kosmicznej."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Ponieważ świadomość jest funkcjonalnie redukowalna do systemu klasyfikacji i reprezentacji informacji, doskonała cyfrowa duplikacja lub przesłanie tego systemu jest w zasadzie możliwe."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "T. Clark’s Content Hypothesis",
-        "relationship": "Zgodna"
+        "name": "T. Clark's Content Hypothesis",
+        "relationship": "Compatible"
       },
       {
         "name": "Functionalism",
-        "relationship": "Rozszerzenie"
+        "relationship": "Extension"
       },
       {
-        "name": "Chomsky’s Language and Consciousness",
-        "relationship": "Powiązana/kontrast"
+        "name": "Chomsky's Language and Consciousness",
+        "relationship": "Related/Contrast"
       }
     ],
     "sources_and_references": [

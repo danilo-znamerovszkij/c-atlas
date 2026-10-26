@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Stoljara ujęcie epistemiczne i niestandardowy fizykalizm",
     "summary": "Teoria ta broni fizykalizmu przed argumentami antymaterialistycznymi, wprowadzając hipotezę niewiedzy, która głosi, że jesteśmy głęboko nieświadomi pewnego rodzaju faktu lub własności fizycznej istotnej dla świadomości. Argumentuje, że rzekomy problem zgodności między świadomością a fizykalizmem wynika z naszych obecnych ograniczeń epistemicznych, a nie z ontologicznej wady samego fizykalizmu.",
-    "associated_thinkers": ["Daniel Stoljar"],
+    "associated_thinkers": [
+      "Daniel Stoljar"
+    ],
     "category": "Materializm",
     "subcategory": "Filozoficzne",
     "core_identity_tagline": "Fizykalizm broniony poprzez niewiedzę epistemiczną",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest zjawiskiem fizycznym, konstytuowanym przez pewien rodzaj faktu lub własności fizycznej obecnie nam nieznanej. Stany świadome są zależne od innych rzeczy i nie są fundamentalne.",
-    "ontological_status": "Fizykalizm niestandardowy",
+    "ontological_status": "Non-Standard Physicalism",
     "mind_body_relationship": "Świadomość jest tożsama z własnościami fizycznymi (tożsamość egzemplaryczna) lub przez nie konieczna, lecz konkretna natura tej własności fizycznej jest nieznana ze względu na niewiedzę epistemiczną. Relacja ta broni fizykalizmu jako prawdy empirycznej.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja epistemiczna. Uzasadnia się to tym, że choć teoria broni fizykalizmu (sugerując słabą emergencję lub tożsamość co do zasady), jej cechą definiującą jest to, że istotne fakty fizyczne są obecnie niepoznawalne metodami standardowymi, co utrzymuje lukę wyjaśniającą opartą na niewiedzy.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Epistemic Emergence. This is justified because while the theory defends physicalism (suggesting weak emergence or identity in principle), the defining characteristic is that the relevant physical facts are currently unknowable by standard methods, maintaining an explanatory gap based on ignorance.",
     "subjectivity_and_intentionality": "Subiektywność i intencjonalność są ostatecznie realizowane przez nieznane własności fizyczne istotne dla świadomości, zgodnie z całościową ontologią fizykalistyczną bronioną przez teorię. Konkretny mechanizm realizacji jest obecnie nieznany.",
     "qualia_account": "Jakościowy odczuwany charakter (qualia) odpowiada konkretnym, nieznanym faktom lub własnościom fizycznym. Argumenty antyfizykalistyczne oparte na qualiach (jak argument z pomyślności) zawodzą, ponieważ fałszywie zakładają pełną wiedzę o tych leżących u podstaw faktach fizycznych.",
     "ontological_commitments": "Własności fizyczne, w szczególności pewien rodzaj faktu lub własności fizycznej istotnej dla świadomości, którego natura jest obecnie głęboko nieznana. Zobowiązanie także do istnienia świadomości i ogólnej struktury fizykalizmu.",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny (analiza pojęciowa i obrona)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empirycznie ograniczona. Stoljar sądzi, że nauka o świadomości ustanawiająca prawa empiryczne jest możliwa, choć wątpi, by dało się zbudować kompletną, systematyczną teorię.",
+    "testability_status": "Empirically constrained. Stoljar believes a science of consciousness establishing empirical laws is possible, though he doubts a complete systematic theory can be constructed.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Teoria opiera się na założeniu głębokiej niewiedzy co do kluczowych faktów fizycznych, co krytycy mogą postrzegać jako odraczanie wyjaśnienia. Krytykuje też „standardowy fizykalizm”, sama pozostając nietradycyjna.",
     "open_questions_and_limitations": "Dokładna tożsamość i natura faktów lub własności fizycznych istotnych dla świadomości pozostają nieznane. Możliwość osiągnięcia systematycznej wiedzy o prawach rządzących świadomością Stoljar również uznaje za mało prawdopodobną.",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Jako obrona fizykalizmu teoria twierdzi, że świadomość jest fizyczna. Dlatego co do zasady każdy sztuczny układ realizujący konieczne fakty fizyczne (nawet te obecnie nieznane) powinien stać się świadomy."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest zależna od faktów i procesów fizycznych i nie jest fundamentalna. Wraz ze zniszczeniem podłoża fizycznego (mózgu) świadomość przestaje istnieć, zgodnie z fizykalizmem."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Zgodnie ze swoim fundamentalnym zobowiązaniem fizykalistycznym teoria nie daje podstaw dla ostatecznego kosmicznego sensu czy celu; sens jest konstruowany przez świadome podmioty."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Jeśli świadomość jest w całości fizyczna, pierwszoosobowa jaźń mentalna jest potencjalnie przesyłalna, o ile złożone podłoże fizyczne (w tym nieznane własności wskazane w hipotezie niewiedzy) da się powielić w niebiologicznym nośniku."
     }
   },
@@ -70,19 +72,19 @@
     "related_theories": [
       {
         "name": "Conceivability Argument",
-        "relationship": "Krytyka/odpowiedź"
+        "relationship": "Critique/Response"
       },
       {
         "name": "Knowledge Argument",
-        "relationship": "Krytyka/odpowiedź"
+        "relationship": "Critique/Response"
       },
       {
-        "name": "Standard Physicalism",
-        "relationship": "Krytyka"
+        "name": "Materialism",
+        "relationship": "Critique"
       },
       {
-        "name": "Kind’s Dualism 2.0",
-        "relationship": "Partner w debacie/wspólny projekt"
+        "name": "Kind's Dualism 2.0",
+        "relationship": "Debate Partner/Shared Project"
       }
     ],
     "sources_and_references": [

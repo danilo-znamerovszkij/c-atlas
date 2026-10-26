@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Monizm Bentleya Harta: świadomość, byt, Bóg",
     "summary": "Jest to teoria metafizyczna, która konstruuje ostateczny, zjednoczony monizm, twierdząc o głębokiej nierozłączności świadomości (umysłu) i samego bytu (istnienia). Głosi, że ostateczną rzeczywistością jest Bóg, będący absolutną jednością świadomości i bytu, i zasadniczo odrzuca redukcyjne wyjaśnienia fizykalistyczne.",
-    "associated_thinkers": ["David Bentley Hart"],
+    "associated_thinkers": [
+      "David Bentley Hart"
+    ],
     "category": "Monizmy",
     "subcategory": "Monizm wyższego rzędu / panpsychizm idealistyczny",
     "core_identity_tagline": "Świadomość jako absolutna jedność bytu i Boga",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość i byt (istnienie) są dwoma nierozłącznymi aspektami jednej, ostatecznej rzeczywistości ontologicznej.",
-    "ontological_status": "Monizm idealistyczny / monizm teistyczny",
+    "ontological_status": "Idealist Monism/Theistic Monism",
     "mind_body_relationship": "Nieredukcyjna korelacja / interakcja teistyczna (Uzasadnienie: Hart argumentuje, że przyczynowe opisy sfery materialnej i mentalnej są radykalnie odmienne i niewspółmierne, co czyni redukcjonizm niespójnym. Interakcja, choć problematyczna dla materialistów, jest możliwa, być może za sprawą mocy Boga).",
-    "primitive_or_emergent_status": "Pierwotny",
-    "emergence_type": "Brak (Uzasadnienie: Teoria wprost odrzuca nieredukowalną emergencję jako „logiczny nonsens” czy „mit”, argumentując, że własności muszą być implicytnie zawarte w swoich przyczynach).",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "None (Justification: The theory explicitly rejects irreducible emergence as 'logical nonsense' or 'a myth,' arguing that properties must be implicit in their causes).",
     "subjectivity_and_intentionality": "Sprawczość mentalna jest definiowana przez swoją wewnętrzną jedność, intencjonalność (będąc na wskroś teleologiczną) oraz status nieredukowalnie pierwszoosobowy (świadomy), co ostro kontrastuje z trzecioosobowymi strukturami materialnymi.",
     "qualia_account": "Jakościowe aspekty doświadczenia (rzeczywistość mentalna) są nieredukowalne. Nieredukowalność umysłu jest tym samym co nieredukowalność bytu, co sugeruje, że qualia są ugruntowane w ostatecznej zrozumiałości.",
     "ontological_commitments": "Bóg, jako nieograniczony akt rozumienia, jest ostateczną rzeczywistością, jednoczącą świadomość i byt. Umysłowi przyznaje się „pewien priorytet przyczynowy” nad materią.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzna, teologiczna, metafizyczna (Uzasadnienie: Wywiedziona z koherencji logicznej i przesłanek teologicznych dotyczących ostatecznej rzeczywistości i rozumu)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Spekulatywna / testowalna pojęciowo (Uzasadnienie: Teoria jest metafizycznymi ramami wysokiego poziomu, ufundowanymi na krytykach filozoficznych; Hart kwestionuje możliwość nauki o rzeczywistości mentalnej przy założeniach fizykalistycznych).",
+    "testability_status": "Speculative/Conceptually Testable (Justification: The theory is a high-level metaphysical framework founded on philosophical critiques; Hart questions the possibility of a science of mental reality under physicalist assumptions).",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Krytycy uznają wniosek jednoczący świadomość, byt i Boga za „dziwny”. Teoria napotyka standardowe wyzwanie polegające na wyartykułowaniu ciągłości lub interakcji między odmiennymi sferami mentalną a materialną bez odwoływania się do odrzuconych pojęć, takich jak emergencja silna.",
     "open_questions_and_limitations": "Dokładny sposób, w jaki świat materialny powstaje ze świadomości/Boga lub jest przez nie ustrukturyzowany, pozostaje wysoce abstrakcyjny, wymagając opisu za pomocą arystotelesowskiego lub innego nieredukcyjnego języka przyczynowego.",
@@ -51,39 +53,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest ograniczonym przypadkiem nieskończonego umysłu (Boga) i nie jest sprowadzalna do obliczeń ani przetwarzania fizycznego. Dlatego układy sztuczne oparte wyłącznie na mechanizmach fizycznych nie mogą realizować prawdziwej świadomości."
     },
     "survival_beyond_death": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Świadomość utożsamia się z ostatecznym bytem i Bogiem, co oznacza, że jest fundamentalna i nie może zostać zniszczona. Teologia Harta sugeruje, że jednostki są przeznaczone do zjednoczenia z Bogiem, stając się „niestworzonymi”."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmiczne/ostateczne",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Cała rzeczywistość jest racjonalnie koherentna i ugruntowana w Bogu, ostatecznym rozumie i świadomości, co z natury dostarcza ostatecznego sensu, celu i wartości."
     },
     "virtual_immortality": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest metafizycznie zjednoczoną, fizycznie niepodzielną sprawczością mentalną, przez co niemożliwe jest jej uchwycenie, zduplikowanie czy wgranie środkami obliczeniowymi, które odtworzyłyby jedynie procesy „trzecioosobowe”."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Idealisms",
-        "relationship": "Zgodność"
+        "name": "Idealism",
+        "relationship": "Compatible"
       },
       {
         "name": "Panpsychism",
-        "relationship": "Rozszerzenie (postać idealistyczna)"
+        "relationship": "Extension (Idealist form)"
       },
       {
-        "name": "Materialism Theories",
-        "relationship": "Krytyka"
+        "name": "Materialism",
+        "relationship": "Critique"
       },
       {
-        "name": "Strong Emergence Theories",
-        "relationship": "Krytyka"
+        "name": "Emergence",
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

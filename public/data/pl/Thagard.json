@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Reprezentacja neuronalna, wiązanie, koherencja i konkurencja Thagarda",
     "summary": "Teoria ta przypisuje świadome doświadczenia interakcjom czterech empirycznie wiarygodnych mechanizmów mózgowych: reprezentacji neuronalnej, wiązania, koherencji i konkurencji. Głosi, że świadomość wyłania się z tych interakcji w obrębie mózgu, dostarczając naukowo ugruntowanego wyjaśnienia złożonych zjawisk świadomych, takich jak sny, humor i samoświadomość.",
-    "associated_thinkers": ["Paul Thagard"],
+    "associated_thinkers": [
+      "Paul Thagard"
+    ],
     "category": "Materializm",
     "subcategory": "Reprezentacyjna",
     "core_identity_tagline": "„Świadomość zbudowana przez mechanizmy neuronalne”",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość utożsamiana jest z emergentnym rezultatem interakcji między określonymi mechanizmami mózgowymi: reprezentacją neuronalną, wiązaniem, koherencją i konkurencją.",
-    "ontological_status": "Fizykalizm redukcyjny/materializm (stanowisko to jest wywnioskowane, ponieważ teoria jest sklasyfikowana w obrębie materializmu i dąży do pełnego wyjaśnienia świadomości jako niezagadkowego biologicznego wytworu mózgu).",
+    "ontological_status": "Reductive Physicalism/Materialism (This stance is inferred because the theory is classified under Materialism and seeks to fully explain consciousness as a non-mysterious biological product of the brain.)",
     "mind_body_relationship": "Tożsamość/redukcja (świadome doświadczenia są w pełni wyjaśniane przez fizyczne stany i procesy mózgowe oraz z nich wyłaniają się, zgodnie z wysoką pewnością fizykalistyczną).",
-    "primitive_or_emergent_status": "Emergentna",
-    "emergence_type": "Słaba emergencja (wywnioskowana, ponieważ teoria opiera się na ścisłej, empirycznie ugruntowanej neuronauce i głosi, że świadomość przestaje być zagadką, gdy zrozumie się jej konstruowanie przez mózgi, co sugeruje redukowalność w zasadzie).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Inferred, as the theory relies on strict, empirically based neuroscience and claims that consciousness is not a mystery once its construction by brains is understood, suggesting reducibility in principle.)",
     "subjectivity_and_intentionality": "Subiektywne doświadczenia, w tym percepcje, doznania, emocje i myśli abstrakcyjne (takie jak autorefleksja), wyjaśniane są przez złożone interakcje czterech podstawowych mechanizmów mózgowych.",
     "qualia_account": "Qualia (doświadczenia fenomenalne, takie jak widzenie barwy czy odczuwanie bólu) wyjaśniane są wyczerpująco przez działanie czterech mechanizmów mózgowych (reprezentacji neuronalnej, wiązania, koherencji, konkurencji).",
     "ontological_commitments": "Biologiczne mózgi, reprezentacje neuronalne oraz ich dynamiczne procesy (wiązanie, koherencja, konkurencja), często modelowane obliczeniowo.",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Empiryczny, neuronaukowy, obliczeniowy"
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna empirycznie (mechanizmy są uznawane za empirycznie wiarygodne, a teoria zbudowana jest na ścisłej neuronauce, wykorzystując koherencję wyjaśniającą jako metodologiczny punkt odniesienia).",
+    "testability_status": "Empirically testable (Mechanisms are claimed to be empirically plausible and the theory is built on strict neuroscience, using explanatory coherence as a methodological touchstone.)",
     "known_empirical_interventions_or_tests": "Teoria jest zgodna z niedawnymi ustaleniami neuronauki dotyczącymi tego, jak komórki czasu umożliwiają mózgom śledzenie doświadczeń. (W źródle nie wyszczególniono konkretnych interwencji eksperymentalnych mających weryfikować lub falsyfikować teorię.)",
     "criticisms_and_tensions": "W materiale źródłowym nie przytoczono konkretnych zewnętrznych krytyk, co wskazuje, że krytyka jest minimalna lub dopiero ma zostać szerzej udokumentowana w danym kontekście.",
     "open_questions_and_limitations": "Dokładny mechanizm, poprzez który cztery procesy generują subiektywne odczucie „jak-to-jest” (qualia), nie został w pełni rozwinięty, co stanowi standardowe ograniczenie ujęć fizykalizmu redukcyjnego.",
@@ -52,35 +54,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Teoria sugeruje, że choć obecne komputery nie są świadome, nowe generatywne modele SI mają mechanizmy podobne do ludzkich, które mogłyby umożliwić pewien stopień świadomości, zwłaszcza jeśli cztery podstawowe mechanizmy mózgowe da się modelować obliczeniowo lub odtworzyć."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Jako teoria materializmu, świadomość jest całkowicie zależna od biologicznego mózgu; śmierć mózgu skutkuje zatem trwałym nieistnieniem osoby i świadomości."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Jako teoria materializmu przyjmuje ujęcie fizykalistyczne, które zasadniczo wyklucza ostateczny kosmiczny sens lub cel, uznając jedynie sens i wartość tworzone przez samych ludzi."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jeśli teoria materializmu wyjaśnia świadomość w całości poprzez mechanizmy fizyczne (reprezentację neuronalną, wiązanie, koherencję, konkurencję), to pierwszoosobowa jaźń mentalna jest przesyłalna, a wirtualna nieśmiertelność osiągalna dzięki zaawansowanej technologii zdolnej zduplikować owe procesy fizyczne."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Representational Theories",
-        "relationship": "Rozszerzenie"
+        "name": "First-Order",
+        "relationship": "Extension"
       },
       {
-        "name": "Higher-Order Theories",
-        "relationship": "Zgodna"
+        "name": "Higher-Order",
+        "relationship": "Compatible"
       },
       {
-        "name": "Mind-Brain Identity Theory",
-        "relationship": "Zgodna"
+        "name": "Mind-Brain Identity",
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

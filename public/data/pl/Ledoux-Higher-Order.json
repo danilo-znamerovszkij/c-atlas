@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "Teoria wyższego rzędu świadomości emocjonalnej LeDoux",
     "summary": "Teoria ta proponuje, że świadome uczucia emocjonalne, takie jak strach, nie różnią się zasadniczo od percepcyjnych doświadczeń świadomych, argumentując, że oba powstają z korowo osadzonych ogólnych sieci poznania (GNC), które generują reprezentacje wyższego rzędu (HOR) informacji niższego rzędu. Istota świadomości fenomenalnej leży w re-reprezentacji wcześniejszego stanu wyższego rzędu, określanej jako HOROR (Higher-Order Representation of a Representation).",
-    "associated_thinkers": ["Joseph LeDoux", "Richard Brown"],
+    "associated_thinkers": [
+      "Joseph LeDoux",
+      "Richard Brown"
+    ],
     "category": "Materializm",
     "subcategory": "Reprezentacyjne",
     "core_identity_tagline": "Świadomość jako reprezentacja wyższego rzędu stanów emocjonalnych i percepcyjnych",
@@ -16,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość utożsamia się ze stanem trzeciego rzędu (HOROR), konkretnie z odpowiednią reprezentacją wyższego rzędu (HOR) informacji niższego rzędu, ustanawianą przez korowo osadzone ogólne sieci poznania (GNC).",
-    "ontological_status": "Fizykalizm. Teoria ma charakter materialistyczny, argumentując, że świadomość powstaje z jednego układu w mózgu, ustanawianego w obwodach korowych.",
+    "ontological_status": "Physicalism. The theory is materialist, arguing that consciousness arises from one system in the brain, instantiated in cortical circuits.",
     "mind_body_relationship": "Tożsamość/zależność przyczynowa. Stany mentalne (świadome uczucia emocjonalne i doświadczenia percepcyjne) są całkowicie zależne od konkretnych procesów i sieci fizycznych (GNC, obwodów korowych) oraz w nich ustanawiane.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba (uzasadnienie: jako szczegółowa teoria neurobiologiczno-materialistyczna skupiona na odkrywalnych mechanizmach neuronalnych, zakłada, że złożoność świadomości jest w zasadzie wyprowadzalna z procesów fizycznych).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justified: As a detailed neurobiological/materialist theory focused on discoverable neural mechanisms, the complexity of consciousness is assumed, in principle, to be deducible from physical processes.)",
     "subjectivity_and_intentionality": "Subiektywność (emocjonalne, samoświadome doświadczenie) powstaje, gdy jaźń zostaje włączona do stanu HOROR. Intencjonalność zostaje osiągnięta, ponieważ świadomość jest fundamentalnie reprezentacyjna (HOR-y informacji).",
     "qualia_account": "Doświadczenie fenomenalne polega na posiadaniu odpowiedniego HOR-u informacji niższego rzędu, będącego stanem podobnym do myśli, który ustanawia fenomenalne, introspekcyjnie dostępne doświadczenie. Teoria dąży do wyjaśnienia subiektywnego „jak-to-jest” pośredniczonego przez te reprezentacje wyższego rzędu.",
     "ontological_commitments": "Korowo osadzone ogólne sieci poznania (GNC), reprezentacje wyższego rzędu (HOR), obwody neuronalne (np. PFC, kora czuciowa) oraz informacja niższego rzędu.",
@@ -44,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Neurobiologiczna, poznawcza"
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna empirycznie, w szczególności poprzez sprawdzanie korelacji między doświadczeniem świadomym a wzorcami aktywności w opisanych konkretnych hierarchicznych sieciach korowych (np. udziałem PFC w generowaniu stanów HOROR).",
+    "testability_status": "Empirically testable, particularly through testing the correlation between conscious experience and activity patterns in the specific hierarchical cortical networks described (e.g., PFC involvement in generating HOROR states).",
     "known_empirical_interventions_or_tests": "Opiera się na identyfikacji aktywności w strukturach korowych (np. PFC oraz obszarach czuciowych/pamięciowych) odpowiadającej hierarchicznemu przetwarzaniu reprezentacji, zgodnej z badaniami nad funkcjami poznawczymi i metapoznawczymi.",
     "criticisms_and_tensions": "Napotyka ogólne wyzwanie kierowane wobec teorii wyższego rzędu (HOT) dotyczące natury samego stanu wyższego rzędu, w szczególności tego, jak reprezentacja podobna do myśli czyni stan pierwszego rzędu świadomym („tajemnica” zauważona przez Blocka wobec ogólnej HOT). Podważa również tradycyjne poglądy na lokalizację emocji.",
     "open_questions_and_limitations": "Możliwość świadomej sprawczości (wolnej woli) powstającej z wynikowego świadomego modelu mentalnego pozostaje przedmiotem debaty.",
@@ -52,39 +55,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jako materialistyczna, funkcjonalna teoria oparta na hierarchicznym przetwarzaniu informacji (GNC/HOROR-y), świadomość jest w zasadzie odtwarzalna w układach niebiologicznych zdolnych do ustanowienia niezbędnych struktur obliczeniowych i reprezentacyjnych."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest w całości produktem wysoce złożonych, fizycznie ustanowionych układów biologicznych (obwodów korowych i GNC), nie dostarczając żadnych zasobów dla przetrwania poza fizycznym istnieniem ciała."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Świadomość jest wyewoluowanym mechanizmem biologicznym, który wzmacnia przetrwanie i umożliwia skupione na jaźni stany emocjonalne, lecz teoria nie zakłada żadnego ostatecznego, kosmicznego ani transcendentnego sensu czy celu."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Ponieważ pierwszoosobowa jaźń jest ugruntowana w złożonych, funkcjonalnych i reprezentacyjnych stanach mózgu, doskonałe zduplikowanie tych stanów fizycznych za pomocą technologii wgrywania powinno w zasadzie zachować jaźń i osiągnąć wirtualną nieśmiertelność."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Theories",
-        "relationship": "Rozszerzenie"
+        "name": "Higher-Order",
+        "relationship": "Extension"
       },
       {
-        "name": "Lau’s Perceptual Reality Monitoring Theory",
-        "relationship": "Zgodność"
+        "name": "Lau's Perceptual Reality Monitoring Theory",
+        "relationship": "Compatible"
       },
       {
-        "name": "First-Order Representationalism",
-        "relationship": "Krytyka"
+        "name": "First-Order",
+        "relationship": "Critique"
       },
       {
         "name": "Traditional Higher-Order Thought Theory (HOT)",
-        "relationship": "Uściślenie"
+        "relationship": "Refinement"
       }
     ],
     "sources_and_references": [

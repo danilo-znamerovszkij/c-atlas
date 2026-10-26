@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "Koch porównuje zintegrowaną teorię informacji z panpsychizmem",
     "summary": "Ten wpis przedstawia dokonane przez Christofa Kocha porównanie zintegrowanej teorii informacji (IIT) z panpsychizmem, argumentując, że oba podejścia podzielają intuicję, iż świadomość jest wewnętrzną, fundamentalną własnością rzeczywistości. IIT jest jednak pozycjonowana jako wyższa, ponieważ formułuje konkretne kryteria (kwantyfikowane przez Phi, $Phi$) świadomości, rozwiązuje problem łączenia za pomocą postulatu wykluczenia i oferuje konkretny empiryczny program badawczy, w przeciwieństwie do tradycyjnego panpsychizmu.",
-    "associated_thinkers": ["Christof Koch", "Giulio Tononi"],
+    "associated_thinkers": [
+      "Christof Koch",
+      "Giulio Tononi"
+    ],
     "category": "Zintegrowana teoria informacji",
     "subcategory": "Porównanie/krytyka",
     "core_identity_tagline": "IIT: teoria fundamentalnie świadoma, rozwiązująca problem łączenia panpsychizmu",
@@ -16,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest utożsamiana z rozwiniętą wewnętrzną mocą przyczynową, która jest zasadniczo podobna do panpsychistycznego ujęcia świadomości jako wewnętrznej, lecz matematycznie doprecyzowana jako maksymalnie nieredukowalna struktura pojęciowa (struktura $Phi$).",
-    "ontological_status": "Panpsychistyczny/monistyczny (uzasadnienie: porównanie opiera się na wspólnej przesłance, że świadomość jest wewnętrzna i fundamentalna dla rzeczywistości, co pojęciowo zbliża IIT do panpsychizmu, choć IIT precyzuje ścisłe kryteria matematyczne, których tradycyjnemu panpsychizmowi brakuje).",
+    "ontological_status": "Panpsychist/Monist (Justified: The comparison draws on the shared premise that consciousness is intrinsic and fundamental to reality, aligning IIT conceptually with panpsychism, although IIT specifies strict mathematical criteria that traditional panpsychism lacks.)",
     "mind_body_relationship": "Tożsamość wyjaśniająca (doświadczenie jest tożsame ze strukturą $Phi$ rozwiniętą z podłoża fizycznego). Relacja jest wewnętrzna, nie wymaga dualizmu ani emergencji, lecz domaga się określonej konfiguracji fizycznej.",
-    "primitive_or_emergent_status": "Fundamentalny",
-    "emergence_type": "Brak (uzasadnienie: Koch argumentuje, że IIT nie pozostawia miejsca na emergencję, zgodnie z fundamentalną naturą świadomości).",
+    "primitive_or_emergent_status": "Fundamental",
+    "emergence_type": "None (Justified: Koch argues IIT leaves no room for emergence, consistent with the fundamental nature of consciousness.)",
     "subjectivity_and_intentionality": "Subiektywność (doświadczenie) jest maksymalnie nieredukowalną strukturą pojęciową (strukturą $Phi$), która jest z natury dla-siebie. Intencjonalność odpowiada podstrukturom (fałdom $Phi$) w obrębie tej struktury.",
     "qualia_account": "IIT dostarcza szczegółowego matematycznego ujęcia tego, jak fenomenologię (aspekty jakościowe) można ująć za pomocą rozważań ilościowych (wewnętrznych mocy przyczynowych), przeciwstawiając się krytykom twierdzącym, że ramy ilościowe nie mogą ująć jakości. Qualia są tożsame z maksymalnie nieredukowalnymi strukturami pojęciowymi (strukturą $Phi$) w przestrzeni qualiów.",
     "ontological_commitments": "Wewnętrzna, fundamentalna własność rzeczywistości; moc przyczynowo-skutkowa; struktury pojęciowe (struktury $Phi$) istniejące w przestrzeni qualiów; fizyczne podłoża świadomości (PSC).",
@@ -44,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Fenomenologiczny, matematyczny, naukowy (aksjomatyczny fundament prowadzący do sprawdzalnych twierdzeń)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Sprawdzalny empirycznie (Koch podkreśla, że IIT oferuje empiryczny program badawczy poprzez obliczanie $Phi$ i sprawdzanie konkretnych przewidywań).",
+    "testability_status": "Empirically testable (Koch emphasizes IIT offers an empirical research program by calculating $Phi$ and testing specific predictions.)",
     "known_empirical_interventions_or_tests": [
       "Obliczanie $Phi$ dla określonych sieci neuronowych w ludzkim mózgu (np. w korze wzrokowej)",
       "Dane z obrazowania mózgu korelujące obliczenie $Phi$ ze stanami świadomości (np. podczas znieczulenia)",
@@ -56,19 +59,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Koch argumentuje, że IIT zasadniczo nie zgadza się z poglądem funkcjonalistycznym niezbędnym dla świadomości SI, twierdząc, że komputery cyfrowe nigdy nie będą czujące, ponieważ ich struktura sprzętowa skutkuje znikomą zintegrowaną informacją ($Phi$), niezależnie od ich mocy obliczeniowej czy inteligencji."
     },
     "survival_beyond_death": {
-      "stance": "Niepewne",
+      "stance": "Uncertain",
       "rationale": "Przetrwanie zależy od nieznanej natury i technologicznej modelowalności nieredukowalnej struktury rzeczywistości (przestrzeni qualiów) postulowanej przez IIT. Choć pewna forma trwania nie jest wykluczona, pierwszoosobowe przetrwanie pozostaje pytaniem otwartym."
     },
     "meaning_and_purpose": {
-      "stance": "Niepewny",
+      "stance": "Uncertain",
       "rationale": "Choć spekulatywne, niezliczone n-wymiarowe struktury IIT są dostatecznie nowatorskie, by wstrzymać się z sądem co do ostatecznego sensu, to rdzeń pomiaru i analizy świadomości przekazywany przez teorię nie oferuje ostatecznego sensu, celu ani wartości."
     },
     "virtual_immortality": {
-      "stance": "Niepewne",
+      "stance": "Uncertain",
       "rationale": "Przesłanie umysłu jest niemożliwe, jeśli świadomość jest strukturą związaną z fizyką złożonych systemów (jak utrzymuje IIT), a nie zwykłym algorytmem. Przesłanie dałoby 'deep fake' pozbawiony doświadczenia subiektywnego, o ile zaawansowana technologia nie zdoła manipulować wywołującą świadomość strukturą $Phi$."
     }
   },
@@ -76,19 +79,19 @@
     "related_theories": [
       {
         "name": "Panpsychism",
-        "relationship": "Wspólna intuicja/krytyka"
+        "relationship": "Shared Intuition/Critique"
       },
       {
-        "name": "Computational Functionalism",
-        "relationship": "Krytyka (świadomość nieobliczalna)"
+        "name": "Computational",
+        "relationship": "Critique (Non-computable consciousness)"
       },
       {
         "name": "Galileo’s Error (Philip Goff)",
-        "relationship": "Krytyka (Koch odpiera twierdzenie Goffa, że aspektów jakościowych nie da się ująć w ramach ilościowych.)"
+        "relationship": "Critique (Koch counters Goff's claim that qualitative aspects cannot be captured by quantitative frameworks.)"
       },
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Kontrast (domyślny, dotyczący lokalizacji oraz konieczności nawrotowości/globalnego rozgłaszania)"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Contrast (Implicit, regarding location and necessity of recurrence/global broadcast)"
       }
     ],
     "sources_and_references": [

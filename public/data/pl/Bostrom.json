@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Funkcjonalizm obliczeniowy Bostroma",
+    "summary": "Nick Bostrom twierdzi, że świadomość zależy od obliczeń, a nie od materiału, który je wykonuje, więc umysły mogłyby działać na podłożach innych niż biologiczne neurony. Rozwija to nie tyle jako teorię tego, czym jest świadomość, ile jako przesłankę dla swojego argumentu symulacji, rozumowania antropicznego i etyki sztucznych umysłów.",
+    "associated_thinkers": [
+      "Nick Bostrom"
+    ],
+    "category": "Materializm",
+    "subcategory": "Obliczeniowe",
+    "core_identity_tagline": "Świadomość jako obliczenie niezależne od podłoża",
+    "classification_tags": [
+      "functionalism",
+      "simulation argument",
+      "substrate independence",
+      "anthropic reasoning",
+      "ai ethics"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Świadomość jest produktem właściwych procesów obliczeniowych. Stany umysłowe są definiowane przez swoje role funkcjonalne, to, co robią, a nie przez to, z czego są zrobione.",
+    "ontological_status": "Physicalism (computational functionalism)",
+    "mind_body_relationship": "Wielorakie urzeczywistnienie. Bostrom pisze, że jeśli ludzkie umysły można symulować, a symulowane umysły mogą być świadome, to nasza własna świadomość mogłaby być zrealizowana w podłożu innym niż biologiczne neurony.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (from computational organization)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "Procesy obliczeniowe i dowolne podłoże fizyczne, które je realizuje, biologiczne lub sztuczne.",
+    "epistemic_access": "Przez neuronaukę obliczeniową i rozumowanie filozoficzne o obserwatorach, prawdopodobieństwie i symulacji.",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenalna (jako moralnie istotna); stopnie świadomości; status obserwatora",
+    "distinctive_mechanism_or_principle": "Niezależność od podłoża: to samo obliczenie wytwarza te same stany umysłowe, niezależnie od sprzętu, na którym działa.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Wszędzie tam, gdzie działa odpowiednie obliczenie: w mózgach, komputerach lub symulowanym świecie.",
+    "causation_and_functional_role": "Bycie świadomym kształtuje rozumowanie. Efekty selekcji obserwatora ograniczają to, w co świadomy obserwator powinien wierzyć na temat wszechświata, w tym czy żyje w symulacji.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Jeśli umysły można symulować, a symulowane umysły mogą być świadome, świadomość nie wymaga biologicznych neuronów.",
+      "Argument symulacji jest spójny tylko wtedy, gdy świadomość jest obliczeniowa, co czyni komputacjonizm jego warunkiem wstępnym.",
+      "Bostrom pisze, że status moralny bytu zależy przynajmniej częściowo od tego, czy jest świadomy i w jakim stopniu, co sugeruje, że świadomość występuje w stopniach.",
+      "Bostrom nie twierdzi, że żyjemy w symulacji; jego komputacjonizm opiera się na innych podstawach, w tym na neuronauce obliczeniowej."
+    ],
+    "basis_of_belief_or_evidence_type": "Argumentacja filozoficzna i probabilistyczna, oparta na neuronauce obliczeniowej."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Bostrom raczej zakłada funkcjonalizm obliczeniowy, niż go uzasadnia, i nie wyjaśnia, dlaczego obliczenia miałyby wytwarzać doświadczenie.",
+    "open_questions_and_limitations": "To, czy sztuczne umysły mogą być świadome i czy powinny mieć prawa, to pytania, które ten pogląd stawia, ale nie rozstrzyga. Ujęcie Bostroma jest bardziej epistemologiczne niż metafizyczne.",
+    "ontological_coherence": "Zgodny z głównym nurtem funkcjonalizmu i z jego pracami o symulacji, ryzyku egzystencjalnym i emulacji całego mózgu."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "Jeśli świadomość jest obliczeniem niezależnym od podłoża, systemy sztuczne realizujące właściwe procesy byłyby świadome, a Bostrom wiąże z tym ich status moralny."
+    },
+    "survival_beyond_death": {
+      "stance": "Conditional",
+      "rationale": "Śmierć biologiczna kończy świadomość, chyba że jej obliczenie zostanie odtworzone gdzie indziej; jeśli jesteśmy symulowani, to, co się z nami stanie, zależy od symulatorów."
+    },
+    "meaning_and_purpose": {
+      "stance": "Uncertain",
+      "rationale": "Jeśli nasz świat jest symulacją zbudowaną przez zaawansowaną cywilizację, może mieć cel wyznaczony przez swoich twórców, ale Bostrom nie twierdzi, że go zna."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Niezależność od podłoża implikuje, że symulowany umysł mógłby kontynuować świadomość osoby, zgodnie z zainteresowaniem Bostroma emulacją całego mózgu."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Putnam’s Machine Functionalism",
+        "relationship": "Foundation"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Agüera y Arcas’s Computational Functionalism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Searle's Biological Naturalism",
+        "relationship": "Contrast"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Bostrom’s Computational Functionalism (Landscape of Consciousness), Nick Bostrom",
+        "year": 2003
+      }
+    ]
+  }
+}

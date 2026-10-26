@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Tożsamość umysł–mózg Papineau",
     "summary": "Teoria ta broni fizykalizmu neurobiologicznego, twierdząc, że stany świadome są fundamentalnie i dosłownie tożsame ze specyficznymi stanami mózgu. Głosi, że tożsamość tę odkrywa się a posteriori na drodze wnioskowania naukowego, utrzymując zarazem, że odwieczna „luka wyjaśniająca” jest mylącym artefaktem głęboko zakorzenionych intuicji dualistycznych.",
-    "associated_thinkers": ["David Papineau"],
+    "associated_thinkers": [
+      "David Papineau"
+    ],
     "category": "Materializm",
     "subcategory": "Filozoficzne",
     "core_identity_tagline": "„Świadomość jako fundamentalna tożsamość umysł–mózg”",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Stany świadome (jak ból) są ściśle tożsame ze specyficznymi fizycznymi stanami mózgu (jak wyładowania neuronalne w danym obszarze). Nie są jedynie przez te stany fizyczne powodowane ani generowane.",
-    "ontological_status": "Fizykalizm redukcyjny (silna tożsamość umysł–mózg)",
+    "ontological_status": "Reductive Physicalism (Strong Mind-Brain Identity)",
     "mind_body_relationship": "Ścisła teoria tożsamości. Stany mentalne są fizycznie tożsame z określonymi stanami neuronalnymi; ich relacja jest relacją faktu (tożsamością a posteriori).",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba. Skoro stany mentalne są tożsame ze stanami fizycznymi, ostatecznie dają się zredukować lub wyjaśnić prawami fizyki, nawet jeśli tożsamość tę trzeba odkryć empirycznie (a posteriori).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Since mental states are identical to physical states, they are ultimately reducible or explicable by physical laws, even if the identity must be discovered empirically (a posteriori).",
     "subjectivity_and_intentionality": "Subiektywność (odczucie „jak-to-jest-być”) jest po prostu własnością samego fizycznego stanu mózgu, tym, jak on „się odczuwa”, gdy zostaje ustanowiony. Intencjonalność jest dziedziczona poprzez fizyczną funkcję zidentyfikowanego stanu mózgu.",
     "qualia_account": "Qualia są tożsame z leżącymi u ich podstaw własnościami fizycznymi stanu mózgu. Otaczającą je tajemnicę przypisuje się mylącej „spontanicznej myśli dualistycznej”, która fałszywie oddziela odczucie od stanu fizycznego.",
     "ontological_commitments": "Stany fizyczne; specyficzne procesy neuronalne; przyczynowa domkniętość dziedziny fizycznej.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzna, empiryczna, abdukcyjna"
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna empirycznie (warunkowo). Opiera się na znalezieniu rygorystycznych dowodów neuronaukowych wspierających tezy o tożsamości, choć niejasność pojęć fenomenalnych utrudnia zdefiniowanie niezbędnego korelatu fizycznego.",
+    "testability_status": "Empirically testable (Conditional). Relies on finding rigorous neuroscientific evidence supporting the identity claims, although the vagueness of phenomenal concepts makes defining the necessary physical correlate difficult.",
     "known_empirical_interventions_or_tests": "Badania korelacyjne wiążące specyficzne, złożone stany mózgu (np. mierzone wzorce wyładowań neuronalnych) z odpowiadającymi im doświadczeniami subiektywnymi (np. raportami o bólu).",
     "criticisms_and_tensions": "Krytycy twierdzą, że argument jedynie zakłada prawomocność fizykalizmu, zamiast dowodzić tożsamości. Teoria jest podatna na zarzut, że nawet doskonała wiedza o korelatach fizycznych nie pociąga logicznie subiektywnego odczucia (argument z wiedzy).",
     "open_questions_and_limitations": "Niejasna natura pojęć subiektywnych (fenomenalnych) uniemożliwia rygorystyczną identyfikację pojedynczej, precyzyjnej istoty materialnej danego stanu świadomego (swoistej „chimery”).",
@@ -51,39 +53,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jeśli stany świadome są fundamentalnie tożsame ze specyficznymi konfiguracjami materii i procesu, to stany te muszą być odtwarzalne w dowolnym medium zdolnym do zrealizowania niezbędnych konfiguracji i złożoności fizycznej, w tym w systemach sztucznych."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest ściśle zależna od specyficznej organizacji biologicznych procesów mózgu i z nią tożsama. Jej trwanie jest niemożliwe po nieodwracalnym ustaniu tego systemu fizycznego."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Jako teoria zakorzeniona w rygorystycznym fizykalizmie ujmuje umysł jako wytwór procesów naturalnych, nie dając żadnej podstawy dla kosmicznego lub transcendentnego sensu lub celu poza tym, który tworzy ludzka sprawczość."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Skoro świadomość jest specyficzną fizyczną organizacją mózgu, doskonałe zduplikowanie (przeniesienie) tej struktury do nowego substratu fizycznego jest, w zasadzie, wystarczające do zachowania tożsamości świadomej."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mind-Brain Identity Theory",
-        "relationship": "Rozszerzenie"
+        "name": "Mind-Brain Identity",
+        "relationship": "Extension"
       },
       {
         "name": "Functionalism",
-        "relationship": "Zgodna"
+        "relationship": "Compatible"
       },
       {
         "name": "Epiphenomenalism",
-        "relationship": "Krytyka"
+        "relationship": "Critique"
       },
       {
         "name": "David Chalmers' Hard Problem",
-        "relationship": "Krytyka"
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

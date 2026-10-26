@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Dualizm własności",
     "summary": "Dualizm własności zakłada, że choć substancja fizyczna jest jedyną fundamentalną substancją, istnieją dwie nieredukowalne kategorie własności: fizyczne i mentalne. Własności mentalne, takie jak świadome doświadczenie, są generowane przez fizyczne mózgi, lecz nie mogą zostać sprowadzone do własności fizycznych ani w całości przez nie wyjaśnione.",
-    "associated_thinkers": ["David Chalmers"],
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
     "category": "Dualizmy",
     "subcategory": "Dualizm własności",
     "core_identity_tagline": "Jedna substancja, dwie nieredukowalne własności (mentalna i fizyczna)",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość składa się z własności lub aspektów mentalnych (np. myśli, pojęć, idei), które są fundamentalnie nieredukowalne do własności fizycznych, mimo że jedne i drugie są instancjonowane przez układy fizyczne (mózgi).",
-    "ontological_status": "Fizykalizm (substancji) / dualizm własności (własności).",
+    "ontological_status": "Physicalism (of substance) / Property Dualism (of properties) .",
     "mind_body_relationship": "Umysł (własności mentalne) jest nieredukowalny i ontologicznie odrębny od własności fizycznych, a zarazem generowany w całości przez stany fizyczne (mózgi).",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja silna (jako że własności mentalne są w zasadzie nieredukowalne i niewyjaśnialne wyłącznie na gruncie praw fizycznych).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence (as mental properties are irreducible in principle and inexplicable solely by physical laws) .",
     "subjectivity_and_intentionality": "Subiektywność (pierwszoosobowe doświadczenie fenomenalne) powstaje jako wewnętrzna, nieredukowalna własność/aspekt fizycznej osoby ludzkiej. Intencjonalność jest niejawnie włączona jako jedna z fundamentalnych własności/aspektów mentalnych.",
     "qualia_account": "Qualia (jakościowo odczuwane doświadczenia) są nieredukowalnymi własnościami mentalnymi, które opierają się definicji wyłącznie w kategoriach własności mikrofizycznych.",
     "ontological_commitments": "Substancja fizyczna (materia) oraz nieredukowalne własności mentalne (w tym myśli, pojęcia, idee).",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzna; pojęciowa (odnosi się do pozornej niewystarczalności czysto redukcyjnego fizykalizmu)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Pojęciowa/filozoficzna (testowalność opiera się na logicznej możliwości oraz implikacjach scenariuszy kontrfaktycznych, takich jak zombi filozoficzne).",
+    "testability_status": "Conceptual/Philosophical (Testability rests on the logical possibility and implications of counterfactual scenarios like philosophical zombies) .",
     "known_empirical_interventions_or_tests": "Eksperymenty myślowe z fizycznie nieodróżnialnymi „zombi” lub osobami o odwróconym spektrum barw (załamanie się superweniencji).",
     "criticisms_and_tensions": "Musi wyjaśnić, jak odmienne stany mentalne powstają dokładnie z tego samego stanu mikrofizycznego, jeśli superweniencja zawodzi. Krytycy argumentują, że motywacje stojące za dualizmem własności ostatecznie prowadzą do dualizmu substancji.",
     "open_questions_and_limitations": "Dokładny sposób, w jaki własności mentalne wywierają wpływ przyczynowy na fizyczny mózg (przyczynowanie mentalne), pozostaje sporny i wymaga sprecyzowania.",
@@ -50,35 +52,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Warunkowa",
+      "stance": "Conditional",
       "rationale": "SI mogłaby być świadoma, jeśli układy niebiologiczne zdołają zinstancjonować specyficzną złożoną organizację fizyczną wymaganą do wygenerowania opisanych nieredukowalnych własności mentalnych."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość składa się z własności generowanych przez fizyczny mózg. Własności te przestają istnieć, gdy substancja fizyczna (mózg/ciało) ulega rozpadowi w chwili śmierci."
     },
     "meaning_and_purpose": {
-      "stance": "Niewyrażone/neutralne",
+      "stance": "Uncertain",
       "rationale": "Teoria skupia się na kategoriach ontologicznych i relacjach między własnościami; przyjmuje fundamentalnie fizyczną substancję i nie popiera z natury żadnej kosmicznej teleologii."
     },
     "virtual_immortality": {
-      "stance": "Możliwa",
+      "stance": "Possible",
       "rationale": "Jeśli świadomość jest emergentną własnością określonej organizacji fizycznej, odtworzenie tego kompletnego stanu fizycznego (struktury mózgu) w niebiologicznym podłożu powinno wygenerować te same własności mentalne."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Non-Reductive Physicalism",
-        "relationship": "Nakładanie się/zgodność (często traktowane jako synonimiczne lub blisko powiązane)"
+        "name": "Non-Reductive",
+        "relationship": "Overlap/Compatible (Often treated as synonymous or closely related)"
       },
       {
-        "name": "Substance Dualism",
-        "relationship": "Krytyka/kontrast (odrzuca dualizm substancji, lecz utrzymuje dualizm własności)"
+        "name": "Dualism",
+        "relationship": "Critique/Contrast (Rejects dualism of substance but maintains dualism of property)"
       },
       {
         "name": "Epiphenomenalism",
-        "relationship": "Krytyka/kontrast (dualizm własności na ogół przyznaje stanom mentalnym skuteczność przyczynową, w przeciwieństwie do epifenomenalizmu)"
+        "relationship": "Critique/Contrast (Property Dualism generally grants causal efficacy to mental states, unlike Epiphenomenalism)"
       }
     ],
     "sources_and_references": [

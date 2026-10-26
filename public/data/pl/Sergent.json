@@ -1,0 +1,94 @@
+{
+  "id_and_class": {
+    "theory_title": "Globalny plac zabaw Sergent",
+    "summary": "Claire Sergent argumentuje, że dostęp świadomy jest opóźniony i może się desynchronizować z wejściem zmysłowym, więc mózg może wprowadzić bodziec do świadomości „offline”, po jego zniknięciu, jeśli stanie się istotny. Rewiduje model globalnej przestrzeni roboczej neuronów: reprezentacje zmysłowe są najpierw współdzielone w szerokim „globalnym placu zabaw” obszarów mózgu, który zamienia się w pełną globalną przestrzeń roboczą, gdy zadanie angażuje podejmowanie decyzji.",
+    "associated_thinkers": [
+      "Claire Sergent"
+    ],
+    "category": "Materializm",
+    "subcategory": "Neurobiologiczne",
+    "core_identity_tagline": "Świadomość jako czasowo elastyczny dostęp globalny",
+    "classification_tags": [
+      "global workspace",
+      "conscious access",
+      "retro-perception",
+      "timing",
+      "attention"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Świadomość jest dostępem świadomym: globalnym współdzieleniem informacji w sieciach mózgowych, które nie musi podążać za kolejnością zdarzeń zewnętrznych w czasie rzeczywistym.",
+    "ontological_status": "Physicalism (functionalist)",
+    "mind_body_relationship": "Dostęp świadomy jest wzorcem aktywności mózgu na dużą skalę, tak jak w modelu globalnej przestrzeni roboczej neuronów, który rozszerza.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence, from information sharing among brain networks.",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "Rozproszone sieci korowe, reprezentacje zmysłowe utrzymywane przez kilkaset milisekund oraz procesy podejmowania decyzji, które je angażują.",
+    "epistemic_access": "Eksperymenty behawioralne nad czasem świadomości, EEG, MEG, rejestracje wewnątrzczaszkowe i fMRI u zdrowych dorosłych oraz pacjentów z zaburzeniami świadomości.",
+    "constituents_and_structure": "Dwa poziomy: globalny plac zabaw, na którym reprezentacje zmysłowe są współdzielone i utrzymywane bez określonego programu, oraz globalna przestrzeń robocza tworzona, gdy dołączają do niego procesy decyzyjne sterowane zadaniem."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Świadomość dostępowa, zwłaszcza jej czas.",
+    "distinctive_mechanism_or_principle": "Dostęp świadomy offline: informacja utrzymywana na globalnym placu zabaw może wejść do świadomości później, gdy uwaga lub istotność tego wymaga.",
+    "dynamics_of_emergence": "Dostęp świadomy pozostaje w tyle za stymulacją i może zostać wyzwolony po zniknięciu bodźca, więc doświadczenie nie musi odzwierciedlać sekwencji zdarzeń w świecie.",
+    "location_and_distribution": "Szeroka sieć obszarów mózgu, między którymi współdzielone są reprezentacje zmysłowe, podzbiór globalnej przestrzeni roboczej.",
+    "causation_and_functional_role": "Sergent sugeruje, że zdolność przetwarzania informacji offline sprawiła, iż przetwarzanie świadome było warte posiadania mimo swojej powolności i ograniczonej pojemności.",
+    "integration_or_binding": "Informacja jest integrowana dynamicznie w czasie zgodnie z kontekstem i istotnością.",
+    "information_flow_or_representation": "Reprezentacje zmysłowe są utrzymywane przez kilkaset milisekund na placu zabaw, oferując więcej opcji poznawczych niż automatyczne przetwarzanie nieświadome, i są pełniej rozgłaszane, gdy zadanie tego wymaga.",
+    "evolutionary_account": "Przetwarzanie offline uczyniłoby powolny, ograniczony pojemnościowo dostęp świadomy adaptacyjnym.",
+    "core_claims_and_evidence": [
+      "W retro-percepcji uwaga skierowana po zniknięciu bodźca może wyzwolić jego świadome postrzeganie.",
+      "Czasowa elastyczność dostępu pomaga wyjaśnić psychologiczny okres refrakcji, mrugnięcie uwagi, efekty postdykcyjne i pamięć ikoniczną.",
+      "Ukryty dostęp świadomy zależy od globalnego placu zabaw, który staje się globalną przestrzenią roboczą, gdy dodane zostaje podejmowanie decyzji."
+    ],
+    "basis_of_belief_or_evidence_type": "Empiryczna: psychologia eksperymentalna i elektrofizjologia człowieka."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Paradygmaty retro-wskazówek, mrugnięcie uwagi i zadania okresu refrakcji oraz badania przetwarzania przedświadomego i pamięci roboczej bez świadomości.",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "",
+    "ontological_coherence": "Zgodna z fizykalistycznymi ramami globalnej przestrzeni roboczej neuronów, które rewiduje."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Ponieważ dostęp świadomy jest wzorcem aktywności sieci mózgowych, kończy się wraz z mózgiem."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Teoria wyjaśnia dostęp świadomy jako adaptacyjny proces mózgowy."
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Sergent’s Global Playground, Claire Sergent",
+        "year": 2018
+      }
+    ]
+  }
+}

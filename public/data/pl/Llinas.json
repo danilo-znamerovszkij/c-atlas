@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Llinása teoria stanu umysłowości jako oscylacji",
     "summary": "Teoria ta głosi, że świadomy „stan umysłowości” jest z gruntu generowany przez oscylacje elektryczne wewnątrz neuronów oraz wynikającą stąd jednoczesną aktywność odległych grup neuronalnych, co stanowi neurobiologiczny korzeń poznania. Sugeruje, że rzeczywistość, tak jak jest doświadczana, jest swego rodzaju rzeczywistością wirtualną generowaną przez te wewnętrzne oscylacje, których główną funkcją jest umożliwianie przewidywania.",
-    "associated_thinkers": ["Rodolfo Llinas"],
+    "associated_thinkers": [
+      "Rodolfo Llinas"
+    ],
     "category": "Teorie materialistyczne",
     "subcategory": "Pole elektromagnetyczne",
     "core_identity_tagline": "„Świadomość jako oscylacje neuronalne i przewidywanie”",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość (stan umysłowości) utożsamia się z wewnętrznym stanem generowanym przez oscylujące zmiany minimalnych napięć neuronalnych oraz jednoczesność tej aktywności elektrycznej, co stanowi neurobiologiczny korzeń poznania.",
-    "ontological_status": "Fizykalizm / materializm",
+    "ontological_status": "Physicalism / Materialism",
     "mind_body_relationship": "Tożsamościowa/redukcjonistyczna. Stany mentalne są funkcjonalnym wytworem określonych procesów fizycznych (oscylacji i synchronii neuronalnej) w mózgu, zgodnie z materialistyczną przesłanką, że świadomość jest całkowicie fizyczna.",
-    "primitive_or_emergent_status": "Emergentna",
-    "emergence_type": "Emergencja słaba",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Subiektywność jest zakorzeniona w wewnętrznym stanie generowanym przez te oscylacje. Intencjonalność jest ujmowana w sposób implikowany poprzez podstawową funkcję świadomości, którą jest umożliwianie przewidywania i interakcji z otoczeniem.",
     "qualia_account": "Nie omówione wprost w dostarczonych źródłach. Podejście to zazwyczaj skupia się na obiektywnych mechanizmach świadomości, implikując, że doświadczenie subiektywne odpowiada bezpośrednio dynamice oscylacji neuronalnych i późniejszej reprezentacji poznawczej.",
     "ontological_commitments": "Neurony, aktywność elektryczna (oscylacje), funkcjonalne obwody mózgowe oraz wejścia sensoryczne.",
@@ -45,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Neurobiologiczny, konceptualny"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empirycznie testowalne",
+    "testability_status": "Empirically testable",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Nie omówione wprost, lecz jako wyjaśnienie materialistyczne teoria ta staje przed wyzwaniem wyjaśnienia, jak oscylacje elektryczne lub synchroniczność przekładają się na subiektywne, jakościowe doświadczenie (luka wyjaśniająca / trudny problem).",
     "open_questions_and_limitations": "Teoria musi wyszczególnić dokładną relację między oscylacjami/synchronią neuronalną a doświadczeniem pierwszoosobowym oraz wyjaśnić, jak „rzeczywistość wirtualna” trafnie odwzorowuje zewnętrzną rzeczywistość fizyczną.",
@@ -53,39 +55,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Jeśli świadomość jest zakorzeniona w obliczeniowej funkcji synchroniczności oscylacji i przewidywania, dynamiki te mogą w zasadzie zostać zrealizowane lub zasymulowane w wyrafinowanych układach sztucznych, zgodnie ze stanowiskiem fizykalistycznym."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest zdefiniowana jako stan generowany przez biologiczne mechanizmy neuronalne (oscylacje) w mózgu, co wyklucza przetrwanie po śmierci biologicznego podłoża."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Jako wyewoluowany mechanizm neurobiologiczny, cel świadomości jest przede wszystkim funkcjonalny (przewidywanie i przetrwanie), zgodnie z deflacyjnym poglądem materializmu, który odrzuca ostateczny sens kosmiczny."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jeśli świadomość jest w całości wyjaśniona przez wzorce oscylującej aktywności neuronalnej, to doskonałe powielenie lub wgranie tych dynamicznych wzorców do niebiologicznego nośnika powinno zachować pierwszoosobową jaźń, czyniąc wirtualną nieśmiertelność możliwą."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Electromagnetic Field Theories",
-        "relationship": "Przynależność kategorialna/Nakładanie się"
+        "name": "Electromagnetic",
+        "relationship": "Category Membership/Overlap"
       },
       {
-        "name": "Predictive Processing Theories",
-        "relationship": "Nakładanie się/Rozszerzenie"
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Overlap/Extension"
       },
       {
-        "name": "Recurrent Processing Theory (Lamme)",
-        "relationship": "Nakładanie się"
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Overlap"
       },
       {
-        "name": "Dendritic Integration Theory (Aru et al.)",
-        "relationship": "Nakładanie się"
+        "name": "Dendritic Integration Theory",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

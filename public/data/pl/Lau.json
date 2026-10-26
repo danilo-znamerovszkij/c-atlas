@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Teoria monitorowania rzeczywistości percepcyjnej Laua",
     "summary": "Ta empirycznie ugruntowana teoria wyższego rzędu proponuje, że świadoma percepcja zachodzi wtedy, gdy określona reprezentacja wyższego rzędu (HOR) waliduje reprezentację zmysłową pierwszego rzędu jako wiarygodne odzwierciedlenie świata zewnętrznego. HOR działa jako interfejs między percepcją a poznaniem, dostarczając subiektywnego poczucia uzasadnienia świadomego doświadczenia.",
-    "associated_thinkers": ["Hakwan Lau"],
+    "associated_thinkers": [
+      "Hakwan Lau"
+    ],
     "category": "Materializm",
     "subcategory": "Reprezentacyjne",
     "core_identity_tagline": "„Świadomość jako monitorowanie rzeczywistości percepcyjnej”",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest funkcjonalnym mechanizmem lub interfejsem między percepcją a poznaniem, urzeczywistnianym przez reprezentacje wyższego rzędu, które monitorują wiarygodność i status epistemiczny zmysłowych stanów pierwszego rzędu.",
-    "ontological_status": "Fizykalizm / funkcjonalizm",
+    "ontological_status": "Physicalism / Functionalism",
     "mind_body_relationship": "Świadomość jest tożsama z określoną aktywnością funkcjonalną mechanizmów neuronalnych wyższego rzędu (prawdopodobnie w korze przedczołowej) monitorujących zmysłowe reprezentacje pierwszego rzędu. Jest to ujęcie materialistyczne oparte na funkcji mózgu.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba. Świadomość jest funkcją powstającą z określonych złożonych struktur organizacyjnych (HOR) w mózgu, co sugeruje, że jest w zasadzie wyjaśnialna lub redukowalna, zgodnie z jej materialistyczną klasyfikacją.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consciousness is a function arising from specific complex organizational structures (HORs) in the brain, suggesting it is explainable or reducible in principle, consistent with its materialist classification.",
     "subjectivity_and_intentionality": "Subiektywność wynika z powiązania świadomości z formowaniem przekonań i uzasadnieniem epistemicznym na poziomie subiektywnym. Intencjonalność jest niesiona przez monitorowaną reprezentację percepcyjną pierwszego rzędu.",
     "qualia_account": "Subiektywne 'to, jak to jest' jest wyjaśniane przez reprezentacje wyższego rzędu uzyskujące dostęp do bogatszych, niższego poziomu analogowych sygnałów percepcyjnych. Analogowa natura tych sygnałów wyznacza subiektywne podobieństwo względem innych możliwych doświadczeń.",
     "ontological_commitments": "Reprezentacje percepcyjne pierwszego rzędu, monitorujące reprezentacje wyższego rzędu (HOR) oraz określone mechanizmy neuronalne zlokalizowane głównie w korze przedczołowej.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Empiryczny/kognitywno-neuronaukowy, funkcjonalistyczny"
   },
   "empirics_and_critiques": {
-    "testability_status": "Sprawdzalny empirycznie poprzez mapowanie i porównywanie korelatów neuronalnych świadomej percepcji i metapoznania zmysłowego oraz poprzez moc predykcyjną dotyczącą zjawisk widzenia ślepego.",
+    "testability_status": "Empirically testable by mapping and comparing the neural correlates of conscious perception and sensory metacognition, and through the predictive power regarding blindsight phenomena.",
     "known_empirical_interventions_or_tests": [
       "Badania neuroobrazowe korelujące aktywność przedczołową/ciemieniową z metapoznaniem zmysłowym i świadomą percepcją."
     ],
@@ -53,39 +55,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Jako teoria funkcjonalistyczna zakłada, że świadomość zależy od implementacji właściwej architektury informacyjnej/funkcjonalnej (mechanizmu HOR). Jeśli architekturę tę da się urzeczywistnić w robocie lub programie komputerowym, sztuczna świadomość jest możliwa."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest jawnie związana z określonymi, wyspecjalizowanymi mechanizmami neuronalnymi zlokalizowanymi w biologicznym mózgu (np. w korze przedczołowej), nie pozostawiając miejsca na trwanie po śmierci biologicznej."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Podstawowa rola mechanizmu jest funkcjonalna (odróżnianie rzeczywistości od fantazji i kierowanie informacją). Nie oferuje żadnego kosmicznego ani ostatecznego celu poza korzyściami adaptacyjnymi zapewnianymi przez ten mechanizm biologiczny."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Jeśli określoną architekturę funkcjonalną i informacyjną, w tym analogową naturę reprezentacji, da się doskonale przesłać i uruchomić na niebiologicznym podłożu, pierwszoosobowa jaźń mentalna zostałaby zachowana, ponieważ świadomość jest zdefiniowana przez tę strukturę funkcjonalną."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Theories",
-        "relationship": "Konkretny przypadek/rozszerzenie"
+        "name": "Higher-Order",
+        "relationship": "Specific Instance/Extension"
       },
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Krytyka (pozycjonowana jako wyższa alternatywa pośrednia)"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Critique (Positioned as a superior intermediate alternative)"
       },
       {
-        "name": "Recurrent Processing Theory",
-        "relationship": "Krytyka (pozycjonowana jako wyższa alternatywa pośrednia)"
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Critique (Positioned as a superior intermediate alternative)"
       },
       {
-        "name": "Graziano’s Attention Schema Theory",
-        "relationship": "Zgodny (dzieli funkcjonalistyczne/poznawcze podejście do wyjaśniania twierdzeń o świadomości)"
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "Compatible (Shares a functionalist/cognitive approach to explaining conscious claims)"
       }
     ],
     "sources_and_references": [

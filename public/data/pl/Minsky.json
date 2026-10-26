@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Społeczeństwo umysłu Minsky'ego",
     "summary": "Teoria głosi, że ludzkie poznanie i inteligencja wyłaniają się z równoległych, nieświadomych interakcji licznych wyspecjalizowanych, na wpół niezależnych elementów funkcjonalnych zwanych „agentami”, zlokalizowanych w mózgu. Sama świadomość jest traktowana jako „termin-walizka”, używany dwuznacznie do oznaczania zbioru tych rozmaitych procesów poznawczych i procesów świadomości, a nie jako pojedyncza, jednolita całość.",
-    "associated_thinkers": ["Marvin Minsky"],
+    "associated_thinkers": [
+      "Marvin Minsky"
+    ],
     "category": "Materializm",
     "subcategory": "Neurobiologiczne",
     "core_identity_tagline": "„Świadomość jako termin-walizka oznaczający agentów”",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest utożsamiana ze zbiorczym, wysokopoziomowym opisem stosowanym do różnorodnych procesów i zjawisk emergentnych (np. rodzajów pamięci, wyspecjalizowanych form świadomości) generowanych przez leżące u ich podstaw obliczeniowe agenty w mózgu.",
-    "ontological_status": "Fizykalizm",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Umysł/świadomość jest w całości wytwarzana przez fizyczną organizację i działania wyspecjalizowanych jednostek obliczeniowych („agentów”) w mózgu oraz stanowi ich wysokopoziomowy opis. Kluczowa jest organizacja, a nie materialny substrat.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba (Uzasadnienie: Jako obliczeniowo-materialistyczna rama teoretyczna, struktura i organizacja stanów umysłu, choć złożone, są w gruncie rzeczy redukowalne do zdefiniowanych interakcji nieświadomych agentów, co nie implikuje żadnej nieredukowalnej „magii” poza wysokopoziomowym opisem.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justification: As a computational materialist framework, the structure and organization of mind states, though complex, are fundamentally reducible to the defined interactions of the nonconscious agents, implying no irreducible 'magic' beyond the high-level description.)",
     "subjectivity_and_intentionality": "Subiektywność (poczucie jaźni) powstaje jako proces wysokopoziomowy: zdolność systemu do tworzenia modelu samego siebie jako istoty w świecie i wykorzystywania tego modelu do wysokopoziomowego myślenia o własnej przeszłości i przyszłości. Intencjonalność jest przenoszona przez wyjścia wyspecjalizowanych agentów.",
     "qualia_account": "Qualia są niejawnie odrzucane jako część zwodniczego „terminu-walizki”, jakim jest świadomość, który odwraca uwagę od złożonych procesów leżących u jej podstaw. Teoria rozkłada na czynniki różne formy świadomości (np. pamiętanie uczucia a pamiętanie słów), lecz odrzuca nieredukowalne odczucie fenomenalne.",
     "ontological_commitments": "Wyspecjalizowane agenty poznawcze, hierarchiczne poziomy organizacyjne, fizyczne struktury mózgu (np. kolumny korowe) oraz wysokopoziomowe opisy obliczeniowe.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Obliczeniowa, filozoficzna (perspektywa SI), neurobiologiczna (hierarchia organizacyjna)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna pojęciowo i obliczeniowo (Uzasadnienie: Ponieważ świadomość jest zdefiniowana wyłącznie poprzez mechanizmy funkcjonalne i hierarchię organizacyjną, jej zasady mogą być zaimplementowane i sprawdzone w zaawansowanych systemach sztucznych).",
+    "testability_status": "Conceptually and computationally testable (Justification: Since consciousness is defined purely through functional mechanisms and organizational hierarchy, the principles can be implemented and tested within advanced artificial systems).",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Główna krytyka wymierzona w poszukiwanie świadomości głosi, że badacze marnują czas, szukając jednego fizycznego „miejsca w mózgu, w którym zlokalizowana jest świadomość”, podczas gdy jest to jedynie słowo oznaczające wiele procesów. Teoria napotyka też standardowe zarzuty stawiane redukcyjnemu funkcjonalizmowi, dotyczące odrzucenia autentycznych subiektywnych qualiów.",
     "open_questions_and_limitations": "Ograniczeniem jest ogromne zadanie precyzyjnego ustalenia, jak działa każdy z procesów składowych spiętych „terminem-walizką” oraz jak są one wzajemnie powiązane.",
@@ -51,39 +53,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jeśli świadomość wynika z koniecznych interakcji obliczeniowych i wysokopoziomowych opisów wyspecjalizowanych agentów, to systemy sztuczne zdolne do zrealizowania tej konkretnej formy wysokopoziomowej organizacji powinny być świadome."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest w całości zależna od fizycznego istnienia i organizacji funkcjonalnej biologicznego mózgu/maszyny; jej rozpad oznacza trwały kres umysłu."
     },
     "meaning_and_purpose": {
-      "stance": "Humanistyczny/pragmatyczny",
+      "stance": "Humanistic only",
       "rationale": "Funkcjonalnym celem złożonej organizacji poznawczej (świadomości) jest pomaganie organizmowi w poruszaniu się w świecie, tworzeniu planów i modelowaniu samego siebie, co zapewnia subiektywny sens, lecz nie implikuje żadnego nadrzędnego celu kosmicznego."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Ponieważ umysł jest zdefiniowany przez swoje wzorce informacyjne i organizację funkcjonalną (opis wysokopoziomowy), całkowite powielenie lub przeniesienie do niebiologicznego nośnika zdolnego odtworzyć te złożone interakcje przeniosłoby pierwotną tożsamość świadomą."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Dennett’s Multiple Drafts Model",
-        "relationship": "Zgodna"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Compatible"
       },
       {
-        "name": "Graziano’s Attention Schema Theory",
-        "relationship": "Zgodna"
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "Compatible"
       },
       {
         "name": "Functionalism",
-        "relationship": "Rozszerzenie"
+        "relationship": "Extension"
       },
       {
         "name": "Computational Theories",
-        "relationship": "Rozszerzenie"
+        "relationship": "Extension"
       }
     ],
     "sources_and_references": [

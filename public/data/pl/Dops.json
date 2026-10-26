@@ -2,7 +2,11 @@
   "id_and_class": {
     "theory_title": "Ramy teoretyczne DOPS",
     "summary": "Ramy te, wsparte badaniami empirycznymi nad zjawiskami takimi jak doświadczenia z pogranicza śmierci (NDE) i reinkarnacja, opowiadają się za transmisyjnym lub filtrującym modelem świadomości, w którym mózg działa jak interfejs, a nie wytwórca świadomości. Systematycznie kwestionują konwencjonalny fizykalizm, argumentując, że świadomość jest niezależna od organizmu i potencjalnie fundamentalna dla rzeczywistości.",
-    "associated_thinkers": ["Ed Kelly", "Ian Stevenson", "Bruce Greyson"],
+    "associated_thinkers": [
+      "Ed Kelly",
+      "Ian Stevenson",
+      "Bruce Greyson"
+    ],
     "category": "Stany anomalne i odmienne",
     "subcategory": "Wyzwanie dla fizykalizmu/materializmu oparte na badaniach",
     "core_identity_tagline": "Świadomość jako przefiltrowane uniwersalne istnienie",
@@ -16,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest utożsamiana z bardziej obejmującym i pojemnym bytem („Więcej”), który istnieje niezależnie od organizmu, przejawiając się w codziennym doświadczeniu za pośrednictwem mechanizmu filtrującego w mózgu.",
-    "ontological_status": "Idealizm obiektywny lub realistyczny (albo panenteizm)",
+    "ontological_status": "Objective or Realist Idealism (or Panentheism)",
     "mind_body_relationship": "Model transmisyjny/filtrujący, w którym mózg służy jako interfejs sensomotoryczny filtrujący lub redukujący bardziej wszechstronną, niezależną świadomość, przeciwstawiając się fizykalistycznemu modelowi „wytwarzania”.",
-    "primitive_or_emergent_status": "Pierwotny",
-    "emergence_type": "Nie dotyczy; świadomość jest fundamentalnie pierwotna lub uniwersalna (podstawa idealistyczna/panenteistyczna), a mózg działa jako filtr/reduktor.",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "Not applicable; consciousness is fundamentally primitive or universal (Idealist/Panentheistic basis) , with the brain acting as a filter/reducer.",
     "subjectivity_and_intentionality": "Wywodzi się z interakcji między niezależną, wszechstronną świadomością („Więcej”) a interfejsem sensomotorycznym (mózgiem). Szczegóły konkretnego mechanizmu są ograniczone materiałem źródłowym.",
     "qualia_account": "Doświadczenie jakościowe jest nieodłączne dla niezależnej, wszechstronnej świadomości (podstawa idealistyczna) i jest transmitowane lub filtrowane przez mózg. Nieredukowalna natura świadomości fenomenalnej jest wykorzystywana do ataku na fizykalizm.",
     "ontological_commitments": "Niezależna, niefizyczna świadomość („Więcej”); zjawiska psychofizyczne (psi, dane o przetrwaniu) nieredukowalne do fizykalizmu; idealizm obiektywny lub realistyczny/panenteizm jako leżąca u podstaw metafizyka.",
@@ -43,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Empiryczny (poprzez ustrukturyzowane badania nad zjawiskami anomalnymi, np. CORT, NDE); filozoficzny (idealizm/panenteizm); fenomenologiczny (doświadczenia mistyczne i niestandardowe)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Empirycznie testowalna poprzez trwające badania zjawisk anomalnych (CORT, weryfikacja NDE) wykorzystywane do falsyfikacji fizykalizmu; pojęciowo testowalna poprzez spójność metafizyczną.",
+    "testability_status": "Empirically testable through ongoing investigation of anomalous phenomena (CORT, NDE verification) used to falsify physicalism; conceptually testable via metaphysical coherence.",
     "known_empirical_interventions_or_tests": [
       "Badanie przypadków typu reinkarnacyjnego (CORT) ",
       "Badanie NDE w skrajnych warunkach fizjologicznych (zatrzymanie akcji serca, głębokie znieczulenie) "
@@ -54,19 +58,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Słabe perspektywy",
+      "stance": "Unlikely",
       "rationale": "Ramy sugerują, że świadomość jest nieredukowalna i związana z fundamentalną, uniwersalną rzeczywistością (idealizm/panenteizm), co implikuje, że same sztuczne/obliczeniowe systemy prawdopodobnie jej nie posiadają, prowadząc do słabych perspektyw świadomości AGI."
     },
     "survival_beyond_death": {
-      "stance": "Prawdopodobne",
+      "stance": "Likely",
       "rationale": "Teoria jest motywowana dowodami empirycznymi (NDE, przypadki reinkarnacji) argumentującymi, że świadomość przetrwa śmierć cielesną, co wymaga niematerialnego modelu wytwarzania."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmiczny/ostateczny",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Podstawowa tendencja metafizyczna ku idealizmowi/panenteizmowi sugeruje, że świadomość jest ugruntowana w najwyższej świadomości, która zapewnia ostateczny sens, cel i wartość."
     },
     "virtual_immortality": {
-      "stance": "Nie (niepotrzebna)",
+      "stance": "Not needed",
       "rationale": "Skoro świadomość jest niefizyczna i potencjalnie ciągła/przetrwałą śmierć, duplikacja (wirtualna nieśmiertelność) prawdopodobnie nie uchwyciłaby pierwotnej pierwszoosobowej jaźni lub byłaby zbędna, jeśli zachodzi rzeczywiste przetrwanie."
     }
   },
@@ -74,20 +78,38 @@
     "related_theories": [
       {
         "name": "Myers/James Transmission Model",
-        "relationship": "Fundament"
+        "relationship": "Foundation"
       },
-      { "name": "Idealism/Panentheism", "relationship": "Zgodność/tendencja" },
+      {
+        "name": "Idealism/Panentheism",
+        "relationship": "Compatible/Tendency"
+      },
       {
         "name": "Interactive Dualism",
-        "relationship": "Alternatywne ramy pojęciowe"
+        "relationship": "Alternative Conceptual Framework"
       },
-      { "name": "Materialism Theories (General)", "relationship": "Krytyka" }
+      {
+        "name": "Materialism",
+        "relationship": "Critique"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Irreducible Mind", "year": 2007 },
-      { "title_with_names": "Beyond Physicalism", "year": 2015 },
-      { "title_with_names": "Consciousness Unbound", "year": 2021 },
-      { "title_with_names": "The Continuity of Consciousness", "year": 2022 }
+      {
+        "title_with_names": "Irreducible Mind",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Beyond Physicalism",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Consciousness Unbound",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Continuity of Consciousness",
+        "year": 2022
+      }
     ]
   }
 }

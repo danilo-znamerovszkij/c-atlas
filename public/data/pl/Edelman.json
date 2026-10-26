@@ -19,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest utożsamiana z wynikiem rozróżnień wysokiego rzędu wyłaniających się z nawrotnych interakcji w rdzeniu dynamicznym układu wzgórzowo-korowego.",
-    "ontological_status": "Fizykalizm",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Umysł i stany mentalne są w całości fizyczne, będąc wyłącznie wytworem biologicznych procesów mózgowych (teoria na wskroś materialistyczna).",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Słaba emergencja",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Subiektywność jest nieodłączna dla aktywności indywidualnego organizmu, odzwierciedlając jego unikalne własności fenotypowe i historię życia. Intencjonalność jest odzwierciedlona w selekcyjnej naturze systemu, który faworyzuje reakcje adaptacyjne.",
     "qualia_account": "Qualia są definiowane jako rozróżnienia wysokiego rzędu umożliwione przez leżącą u podstaw strukturę i dynamikę neuronalną. Trudny problem qualiów jest odrzucany jako źle postawiony, ponieważ teoria opisowa nie może odtworzyć subiektywnego doświadczenia, które wyjaśnia.",
     "ontological_commitments": "Biologiczne mózgi, grupy neuronów, nawrotna obwodowość neuronalna oraz zmiany skuteczności synaptycznej.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Biologiczny, ewolucyjny, neurofizjologiczny"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empirycznie testowalna",
+    "testability_status": "Empirically testable",
     "known_empirical_interventions_or_tests": [
       "Badania nad rolą nawrotnej aktywności neuronalnej w układzie wzgórzowo-korowym.",
       "Pomiary struktury i dynamiki neuronalnej korelujące z różnicami w qualiach."
@@ -58,35 +58,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobne",
+      "stance": "Likely",
       "rationale": "Jako mechanistyczna teoria biologiczna, świadomość powinna być możliwa w sztucznych systemach, jeśli mechanizmy selekcyjnej i nawrotnej obwodowości neuronalnej zostaną wystarczająco i poprawnie zaimplementowane w substratach niebiologicznych. Zwolennicy sugerowali, że zaprojektowanie świadomego artefaktu jest wykonalne."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest całkowicie zależna od fizycznych operacji biologicznego mózgu; ustaje więc wraz ze śmiercią organizmu."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Teoria jest oparta na funkcjach ewolucyjnych i adaptacyjnych, co implikuje, że sens i cel są własnościami emergentnymi tworzonymi przez świadome podmioty, a nie fundamentalnymi cechami kosmicznymi."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobne",
+      "stance": "Likely",
       "rationale": "Skoro świadomość jest wytworem specyficznej dynamiki i funkcji fizycznych/strukturalnych (darwinizm neuronalny/rdzeń dynamiczny), doskonała duplikacja lub przeniesienie tych mechanizmów do medium cyfrowego zachowałoby pierwszoosobową jaźń mentalną."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Nakładanie się"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Overlap"
       },
       {
-        "name": "Crick and Koch’s Neural Correlates of Consciousness",
-        "relationship": "Zgodność"
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "Compatible"
       },
       {
-        "name": "Mind-Brain Identity Theory",
-        "relationship": "Rozszerzenie"
+        "name": "Mind-Brain Identity",
+        "relationship": "Extension"
       }
     ],
     "sources_and_references": [

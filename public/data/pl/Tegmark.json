@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Stan materii Tegmarka",
     "summary": "Tegmark proponuje, by świadomość rozumieć jako szczególny stan materii, ukuty terminem „perceptronium”, definiowany przez wyróżniające zdolności przetwarzania informacji. Wychodząc z założenia, że wszelkie istnienie jest fizyczne, teoria poszukuje zasad odróżniających świadome, złożone przetwarzanie informacji od przetwarzania nieświadomego.",
-    "associated_thinkers": ["Max Tegmark"],
+    "associated_thinkers": [
+      "Max Tegmark"
+    ],
     "category": "Monizmy",
     "subcategory": "",
     "core_identity_tagline": "Świadomość jako stan materii: perceptronium",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest utożsamiana z subiektywnym doświadczeniem, czyli „odczuciem”, które powstaje, gdy informacja jest przetwarzana w pewien złożony sposób, konstytuując stan materii nazwany „perceptronium”.",
-    "ontological_status": "Fizykalizm / monizm",
+    "ontological_status": "Physicalism / Monism",
     "mind_body_relationship": "Implikowana jest relacja tożsamości, w której subiektywne doświadczenie (umysł) jest utożsamiane z określonym stanem fizycznym (stanem materii / przetwarzaniem informacji).",
-    "primitive_or_emergent_status": "Emergentna",
-    "emergence_type": "Słaba emergencja",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Subiektywność definiowana jest jako „sposób, w jaki informacja odczuwa się, gdy jest przetwarzana w pewien złożony sposób”. Intencjonalność jest traktowana implicite jako złożona, wysokopoziomowa zdolność informacyjna osiągalna przez perceptronium.",
     "qualia_account": "Qualia to implicite „odczucie” (subiektywne doświadczenie) związane ze specyficznymi konfiguracjami przetwarzania informacji w perceptronium, sformalizowanymi poprzez cztery zasady: informację, integrację, niezależność i dynamikę.",
     "ontological_commitments": "Układy fizyczne, informacja. Teoria wspiera się na szerszym twierdzeniu ontologicznym, że cała rzeczywistość jest fundamentalną strukturą matematyczną.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny, matematyczny, obliczeniowy"
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna empirycznie",
+    "testability_status": "Empirically testable",
     "known_empirical_interventions_or_tests": "Uogólnienie zintegrowanej teorii informacji implikuje istotność dla funkcji pomiarowej IIT (kwantyfikacji stopni świadomości). Teoria ma na celu zajęcie się konkretnymi problemami, takimi jak ocena pacjentów w śpiączce oraz zaawansowana SI.",
     "criticisms_and_tensions": "Jako uogólnienie IIT dziedziczy istniejące zarzuty, takie jak trudność w wyjaśnieniu subiektywnego odczucia wyłącznie za pomocą zasad fizycznych i informacyjnych.",
     "open_questions_and_limitations": "Dokładna zasada matematyczna odróżniająca przetwarzanie świadome od nieświadomego pozostaje do odnalezienia.",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Teoria jest ściśle fizykalistyczna („To wszystko fizyka”) i definiuje świadomość jako stan materii osiągalny poprzez złożone przetwarzanie informacji. Układy sztuczne mogą zatem w zasadzie osiągnąć ten stan."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest emergentnym stanem materii (perceptronium) fizycznego mózgu. Nieodwracalna śmierć i rozpad fizycznego podłoża pociągałyby za sobą ustanie świadomości."
     },
     "meaning_and_purpose": {
-      "stance": "Niepewny/wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Ugruntowanie w fizyce i strukturze matematycznej typowo sugeruje brak ostatecznego celu kosmicznego, zgodnie z deflacyjnymi ujęciami fizykalistycznymi. Teoria nie proponuje jawnie kosmicznej teleologii."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobny",
+      "stance": "Likely",
       "rationale": "Jeśli świadomość jest określonym informacyjnym stanem materii zdefiniowanym przez zasady matematyczne/fizyczne, stan ten mógłby potencjalnie zostać doskonale zduplikowany lub przesłany do niebiologicznego nośnika przez zaawansowaną technologię."
     }
   },
@@ -71,15 +73,15 @@
     "related_theories": [
       {
         "name": "Integrated Information Theory",
-        "relationship": "Rozszerzenie"
+        "relationship": "Extension"
       },
       {
         "name": "Mathematical Universe Hypothesis",
-        "relationship": "Podstawa"
+        "relationship": "Foundation"
       },
       {
-        "name": "Materialism Theories",
-        "relationship": "Zgodna"
+        "name": "Materialism",
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

@@ -17,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Stany fenomenalne są dosłownie tożsame z konkretnymi rodzajami stanów neurobiologicznych, scharakteryzowanych przez ich naturę elektrochemiczną.",
-    "ontological_status": "Redukcyjny fizykalizm",
+    "ontological_status": "Reductive Physicalism",
     "mind_body_relationship": "Teoria tożsamości umysł-mózg (jako silny kandydat do redukcji), w której stany mentalne są tożsame z fizycznymi stanami mózgu.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba (Uzasadnienie: Redukcjonizm implikuje, że świadomość jest w całości wyjaśnialna i sprowadzalna do własności fizycznych niższego poziomu, co pasuje do definicji emergencji słabej.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justification: Reductionism implies that consciousness is entirely explainable and reducible to lower-level physical properties, fitting the definition of weak emergence.)",
     "subjectivity_and_intentionality": "Subiektywność jest związana z konkretnym aparatem biologicznym wymaganym do redukcji. Teoria wspiera reprezentacjonizm pierwszego rzędu, wiążąc charakter fenomenalny bezpośrednio z intencjonalną treścią pierwszego rzędu.",
     "qualia_account": "Qualia utożsamia się z (lub sprowadza do) konkretnymi własnościami neurobiologicznymi i elektrochemicznymi zintegrowanego układu mózgu.",
     "ontological_commitments": "Aktywność elektrochemiczna neuronów, konkretne obwody neuronalne oraz łączność ze strukturami podkorowymi, takimi jak wzgórze.",
@@ -45,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzna (obrona redukcjonizmu), empiryczna (odwołanie do przykładów i danych neurobiologicznych)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna empirycznie (wymaga skutecznego zidentyfikowania własności fizycznej, która dosłownie realizuje rolę fenomenalną).",
+    "testability_status": "Empirically testable (requires successfully identifying the physical property that literally realizes the phenomenal role).",
     "known_empirical_interventions_or_tests": "Badanie aktywności neuronalnej i korelacji (np. aktywności elektrochemicznej, pętli rekurencyjnych) w układach sensorycznych i postsensorycznych w celu znalezienia kandydata do redukcji neurobiologicznej.",
     "criticisms_and_tensions": "Krytykowana za to, że nie domyka luki wyjaśniającej, nie czyniąc twierdzenia o tożsamości zrozumiałym. Sam Block argumentuje, że funkcjonalizm metafizyczny i redukcyjny fizykalizm są niezgodnymi rywalami. Eksperymenty myślowe, takie jak „zanikające qualia”, podważają konieczność konkretnego sprzętu biologicznego dla fenomenologii.",
     "open_questions_and_limitations": "Głównym wyzwaniem jest znalezienie konkretnej własności fizycznej, która skutecznie dopełnia redukcję („drugi krok”). Teoria musi w pełni wyjaśnić, dlaczego konkretny aparat biologiczny jest niezbędny dla qualiów.",
@@ -53,39 +53,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Jeśli świadomość jest sprowadzalna do konkretnej elektrochemicznej/biologicznej natury tkanki neuronalnej, to układy niebiologiczne (jak cyfrowa SI) pozbawione tego konkretnego składu fizycznego nie mogą realizować prawdziwej świadomości fenomenalnej."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Ponieważ świadomość utożsamia się z procesami biologicznymi mózgu i jest do nich sprowadzalna, zniszczenie mózgu pociąga za sobą ustanie świadomości."
     },
     "meaning_and_purpose": {
-      "stance": "Niepewne",
+      "stance": "Uncertain",
       "rationale": "Jako czysto fizykalistyczna redukcja teoria nie dostarcza żadnego kosmicznego sensu ani celu, choć niejawnie dopuszcza sens humanistyczny tworzony przez świadomy organizm (co jest wspólne większości teorii materialistycznych)."
     },
     "virtual_immortality": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Block sugeruje, że fenomenologia zależy od natury naszego aparatu biologicznego. Ponieważ nieśmiertelność wirtualna opiera się na obliczeniowej/funkcjonalnej replikacji w niebiologicznym nośniku, charakter fenomenalny (qualia) prawdopodobnie zostałby utracony w trakcie przeniesienia."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mind-Brain Identity Theory",
-        "relationship": "Nakładanie się"
+        "name": "Mind-Brain Identity",
+        "relationship": "Overlap"
       },
       {
         "name": "Functionalism",
-        "relationship": "Krytyka"
+        "relationship": "Critique"
       },
       {
-        "name": "First-Order Representationalism",
-        "relationship": "Zgodność"
+        "name": "First-Order",
+        "relationship": "Compatible"
       },
       {
-        "name": "Higher-Order Theories (HOT)",
-        "relationship": "Krytyka"
+        "name": "Higher-Order",
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

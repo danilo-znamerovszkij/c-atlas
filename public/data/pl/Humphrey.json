@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Reprezentacje mentalne i atraktory mózgowe Humphreya",
     "summary": "Ta materialistyczna teoria ujmuje świadomość fenomenalną jako późne osiągnięcie ewolucyjne, obecne jedynie u pewnych złożonych gatunków. Wrażenia są generowane w procesie dwuetapowym: gromadzenia informacji zmysłowej, po którym następuje interpretacyjne „świadome odczytanie” generujące reprezentacje mentalne posiadające własności fenomenalne (qualia), często stabilizowane przez złożone stany atraktorowe w mózgu.",
-    "associated_thinkers": ["Nicholas Humphrey"],
+    "associated_thinkers": [
+      "Nicholas Humphrey"
+    ],
     "category": "Materializm",
     "subcategory": "Reprezentacyjne",
     "core_identity_tagline": "Świadomość fenomenalna jako wyewoluowane reprezentacje mentalne w atraktorach",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest utożsamiana z reprezentacjami mentalnymi (ideami, które generujemy) bodźców, w szczególności z tymi własnościami powstającymi na etapie interpretacyjnym („świadomym odczytaniu”), które są stabilizowane w złożone stany atraktorowe w mózgu.",
-    "ontological_status": "Materializm / fizykalizm redukcyjny",
+    "ontological_status": "Materialism / Reductive Physicalism",
     "mind_body_relationship": "Stany mentalne (wrażenia/reprezentacje) są generowane przez fizyczny mózg. Choć własności fenomenalne nie są dosłownymi własnościami stanów mózgowych, są stanami mentalnymi (reprezentacjami) wymyślonymi przez mózg, co implikuje zależność.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Subiektywność powstaje z etapu interpretacyjnego, generując psychologicznie imponujące poczucie jaźni — „jaźń fenomenalną” — oparte na reprezentacjach tego, jak bodźce oddziałują na organizm. Intencjonalność jest wewnętrznie właściwa wrażeniom będącym reprezentacjami bodźców.",
     "qualia_account": "Qualia to „własności fenomenalne” powstające jedynie na etapie interpretacyjnym (świadomym odczytaniu). Są generowane jako reprezentacje mentalne dopracowane i ustabilizowane przez matematycznie złożone stany atraktorowe w mózgu.",
     "ontological_commitments": "Reprezentacje mentalne, stany atraktorowe mózgu, kopie eferentne oraz neuronalne pętle sprzężenia zwrotnego stabilizujące reprezentacje.",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Ewolucyjny, neuropsychologiczny, filozoficzny/konceptualny."
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna empirycznie. Teoria postuluje konkretne punkty kontrolne ewolucji i dynamikę mózgu (stany atraktorowe, kopie eferentne), które powinny korelować z doświadczeniem fenomenalnym i dystrybucją gatunkową.",
+    "testability_status": "Empirically testable. The theory posits specific evolutionary checkpoints and brain dynamics (attractor states, efference copies) that should correlate with phenomenal experience and species distribution.",
     "known_empirical_interventions_or_tests": "Teoria implikuje badanie dystrybucji świadomości fenomenalnej między gatunkami (np. odróżnianie ssaków/ptaków od mniej złożonych zwierząt, takich jak jaszczurki/żaby). Kieruje też badania z dala od oczekiwania bezpośredniego odwzorowania między aktywnością mózgu a własnościami fenomenalnymi.",
     "criticisms_and_tensions": "Potencjalne napięcie istnieje w tym, jak matematycznie złożone stany atraktorowe dają początek pozornie niewytłumaczalnym jakościom qualiów zmysłowych („znienacka”). Humphrey odrzuca też przesłankę trudnego problemu, co pozostaje kluczowym napięciem ze stanowiskami niematerialistycznymi.",
     "open_questions_and_limitations": "Precyzyjne zdefiniowanie ewolucyjnego punktu granicznego dla gatunków posiadających świadomość fenomenalną pozostaje pytaniem otwartym. Mechanizm, poprzez który złożone stany atraktorowe przekładają się na konkretne odczucia jakościowe, wymaga dalszego uszczegółowienia.",
@@ -52,35 +54,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobne",
+      "stance": "Likely",
       "rationale": "Jako teoria materialistyczna, w której świadomość jest realizowana przez złożone przetwarzanie informacji, reprezentacje i stany atraktorowe w mózgu, systemy sztuczne zdolne do odtworzenia tych mechanizmów powinny, w zasadzie, stać się świadome."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest całkowicie zależna od wyewoluowanego biologicznego mózgu i jego konkretnych mechanizmów neuronalnych (reprezentacji i stanów atraktorowych). Śmierć mózgu pociąga za sobą ustanie świadomości, zgodnie z materializmem."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Teoria jest ujęta ściśle w kontekście ewolucyjnym, w którym świadomość powstaje dla korzyści adaptacyjnych w „grze o dostosowanie”, co sugeruje, że sens i cel są tworzone przez człowieka lub subiektywne, a nie kosmiczne czy ostateczne."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Jeśli świadomość da się w całości wyjaśnić przez konkretne wzorce neuronalne, reprezentacje i stany atraktorowe generowane przez mózg (teorie materializmu), to doskonałe zduplikowanie tej dynamiki funkcjonalnej na nośniku niebiologicznym powinno zachować pierwszoosobowe ja mentalne."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Thought Theory",
-        "relationship": "Rozszerzenie"
+        "name": "Higher-Order",
+        "relationship": "Extension"
       },
       {
-        "name": "Dennett’s Evolution of Minds",
-        "relationship": "Nakładanie się"
+        "name": "Dennett's Evolution of Minds",
+        "relationship": "Overlap"
       },
       {
-        "name": "Recurrent Processing Theory",
-        "relationship": "Nakładanie się"
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

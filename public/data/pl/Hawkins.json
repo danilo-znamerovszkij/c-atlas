@@ -1,0 +1,124 @@
+{
+  "id_and_class": {
+    "theory_title": "Modelowanie zapamiętane Hawkinsa (Tysiąc Mózgów)",
+    "summary": "Jeff Hawkins dowodzi, że neokorteks buduje tysiące równoległych modeli świata, po jednym na każdą kolumnę korową, a modele te dochodzą do jednej percepcji w drodze głosowania. Świadomość to według niego mózg nieustannie zapamiętujący i przywołujący własne niedawne stany modeli, a qualia odzwierciedlają to, do czego akurat podłączony jest dany płat jednorodnej kory.",
+    "associated_thinkers": [
+      "Jeff Hawkins"
+    ],
+    "category": "Materializm",
+    "subcategory": "Neurobiologiczne",
+    "core_identity_tagline": "Świadomość jako zapamiętane stany modeli korowych",
+    "classification_tags": [
+      "neocortex",
+      "cortical columns",
+      "reference frames",
+      "memory",
+      "machine consciousness"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Świadomość jest generowaną przez mózg symulacją wytwarzaną przez modelowanie neokorowe. Świadomość (awareness) utożsamia się z ciągłym przechowywaniem i przywoływaniem niedawnych stanów modeli mózgu, a qualia z łącznością kolumn korowych.",
+    "ontological_status": "Physicalism (functionalist)",
+    "mind_body_relationship": "Umysł jest tym, co robi neokorteks. Doświadczenie jest wynikiem modeli korowych, głosowania, predykcji i działania, bez żadnego dodatkowego składnika poza architekturą funkcjonalną.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence, from distributed cortical modeling and memory of model states.",
+    "subjectivity_and_intentionality": "Model świata w mózgu zawiera model jaźni, a odczuwane poczucie bycia świadomym pochodzi stąd, że kora nieustannie rejestruje i przywołuje własne stany. Intencjonalność opiera się na sensomotorycznych układach odniesienia, które kolumny przypisują obiektom, miejscom i pojęciom.",
+    "qualia_account": "Ponieważ ten sam obwód obsługuje wzrok, dotyk i słuch, Hawkins wiąże różnice jakościowe między zmysłami z tym, do czego podłączona jest kolumna: jakie dane wejściowe odbiera i jakie zachowania napędza. Spodziewa się, że trudny problem rozpuści się, gdy takie ujęcia dojrzeją.",
+    "ontological_commitments": "Kolumny korowe, przypominające mapy układy odniesienia zaadaptowane z mechanizmów komórek siatkowych i komórek miejsca, predykcyjna aktywność neuronalna oraz ślady pamięciowe stanów modeli.",
+    "epistemic_access": "Badana przez neuroanatomię, modelowanie obliczeniowe obwodów korowych oraz eksperymenty myślowe dotyczące wymazanej pamięci i samoopisu.",
+    "constituents_and_structure": "Około 150 000 kolumn korowych, z których każda uczy się pełnych sensomotorycznych modeli obiektów i pojęć, bogato połączonych, tak że ich cząstkowe modele zbiegają się w drodze głosowania w jeden percept."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Świadomość (awareness), jedność percepcyjna, modelowanie jaźni, qualia (w ujęciu deflacyjnym); przede wszystkim teoria inteligencji.",
+    "distinctive_mechanism_or_principle": "Tysiące modeli na poziomie kolumn głosuje, by dojść do konsensualnego percepu, a świadomość to ciągła pamięć i przywoływanie niedawnych stanów modeli mózgu.",
+    "dynamics_of_emergence": "Proces ciągły. Kora wciąż przewiduje, aktualizuje symulację, gdy predykcje zawodzą, i rejestruje własne stany z chwili na chwilę.",
+    "location_and_distribution": "Rozproszona w neokorteksie, bez centralnego procesora; starszy mózg podkorowy dostarcza popędów i emocji.",
+    "causation_and_functional_role": "Przywołane wspomnienia niedawnych stanów napędzają bieżące działanie. Niezgodności predykcji przyciągają uwagę i skłaniają do rewizji modelu; spełnione predykcje pozostają niezauważone.",
+    "integration_or_binding": "Głosowanie między połączonymi kolumnami przekształca zniekształcone, fragmentaryczne dane wejściowe w jeden, stabilny percept skoncentrowany na obiekcie, co Hawkins przedstawia jako mechanistyczną odpowiedź na problem wiązania.",
+    "information_flow_or_representation": "Do kory nie dociera nic poza impulsami elektrycznymi. Kolumny używają układów odniesienia łączących dane zmysłowe z wyjściem motorycznym, więc wiedza jest z natury sensomotoryczna, a percepcja jest symulacją świata przez model.",
+    "evolutionary_account": "Hawkins dzieli mózg na stary mózg podkorowy niosący wyewoluowane popędy i nowy neokorteks budujący modele świata.",
+    "core_claims_and_evidence": [
+      "Idąc za Mountcastle’em, Hawkins uważa, że neokorteks wykonuje jeden wspólny algorytm, a regiony różnią się połączeniami, nie strukturą.",
+      "Każda kolumna korowa uczy się pełnych modeli obiektów, używając układów odniesienia wywiedzionych z mechanizmów komórek siatkowych i komórek miejsca.",
+      "Kolumny głosują, by wytworzyć zjednoczoną percepcję z fragmentarycznych danych zmysłowych.",
+      "Działanie wymazane z pamięci zostałoby uznane za nieświadome, co Hawkins uważa za dowód, że świadomość polega na zapamiętanych stanach.",
+      "Każdy system, który uczy się modelu świata oraz nieustannie przechowuje i przywołuje swoje stany, będzie świadomy."
+    ],
+    "basis_of_belief_or_evidence_type": "Neuronauka teoretyczna i modelowanie obliczeniowe oraz eksperymenty myślowe dotyczące pamięci."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Twierdzenia o korze (modele na poziomie kolumn, układy odniesienia podobne do komórek siatkowych, głosowanie) są ujęte jako hipotezy dla neuronauki i modelowania obliczeniowego; związek między zapamiętanymi stanami a świadomością opiera się głównie na eksperymencie myślowym.",
+    "criticisms_and_tensions": "Recenzenci życzliwi wobec neuronauki zarzucają, że utożsamianie qualiów z łącznością jedynie powtarza korelację, nie wyjaśniając, dlaczego jakikolwiek wzorzec jest odczuwany. Neuronaukowcy atakują też ostry podział na stary i nowy mózg jako odrodzenie zdyskredytowanego schematu mózgu trójjedynego, ponieważ neokorteks ssaków przypomina pallium ptaków i gadów.",
+    "open_questions_and_limitations": "Hawkins przyznaje, że nie rozwiązuje trudnego problemu; ujęcie obejmuje dostęp, jedność i modelowanie jaźni, a charakter fenomenalny pozostawia niewyjaśniony.",
+    "ontological_coherence": "Spójna jako fizykalizm funkcjonalistyczny, choć jej pewność, że trudny problem się rozpuści, jest predykcją, a nie argumentem."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "Hawkins uważa, że maszyny zbudowane na zasadach Tysiąca Mózgów byłyby świadome, choć pozbawione afektu, ponieważ brakuje im wyewoluowanych popędów starego mózgu."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Ponieważ świadomość jest tu generowana przez modelowanie neokorowe, nic nie przetrwa śmierci mózgu."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Teoria wyjaśnia doświadczenie jako funkcję mózgu i nie zakłada żadnego kosmicznego celu."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Jeśli właściwa architektura funkcjonalna wystarcza do świadomości, system odtwarzający modele korowe danej osoby mógłby ją w zasadzie nieść, choć Hawkins nie porusza kwestii przesyłania umysłu."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Budson’s Consciousness as a Memory System",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Chalmers's Panpsychism",
+        "relationship": "Contrast"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "A Thousand Brains: A New Theory of Intelligence, Jeff Hawkins",
+        "year": 2021
+      },
+      {
+        "title_with_names": "On Intelligence, Jeff Hawkins and Sandra Blakeslee",
+        "year": 2004
+      },
+      {
+        "title_with_names": "A framework for intelligence and cortical function based on grid cells in the neocortex, Jeff Hawkins, M. Lewis, M. Klukas, S. Purdy and S. Ahmad",
+        "year": 2019
+      },
+      {
+        "title_with_names": "A theory of how columns in the neocortex enable learning the structure of the world, Jeff Hawkins, S. Ahmad and Y. Cui",
+        "year": 2017
+      },
+      {
+        "title_with_names": "Why neurons have thousands of synapses, a theory of sequence memory in neocortex, Jeff Hawkins and S. Ahmad",
+        "year": 2016
+      },
+      {
+        "title_with_names": "An organizing principle for cerebral function: The unit module and the distributed system, Vernon B. Mountcastle",
+        "year": 1978
+      },
+      {
+        "title_with_names": "Facing up to the problem of consciousness, D. J. Chalmers",
+        "year": 1995
+      }
+    ]
+  }
+}

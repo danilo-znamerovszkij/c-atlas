@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Afekt jako ukryte źródło świadomości Solmsa",
     "summary": "Teoria ta utożsamia elementarną formę świadomości z afektem (odczuciem) i lokuje jej mechanizm fizjologiczny w górnej części pnia mózgu, funkcjonujący jako rozszerzona forma homeostazy. Stosuje ona zasadę wolnej energii Fristona, twierdząc, że doświadczenie afektywne (przyjemność/przykrość) jest wydajnym mechanizmem, którego złożone organizmy używają do monitorowania niepewności środowiskowej i optymalizowania zachowań sprzyjających przetrwaniu.",
-    "associated_thinkers": ["Mark Solms"],
+    "associated_thinkers": [
+      "Mark Solms"
+    ],
     "category": "Materializm",
     "subcategory": "Homeostatyczne i afektywne",
     "core_identity_tagline": "Afekt jako podstawowa forma świadomości",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość, w swej elementarnej formie odczuwającej subiektywności, jest konstytuowana przez afekt (odczucia), który operacjonalizuje minimalizację wolnej energii (nieoczekiwana niepewność jest odczuwana jako przykrość, podczas gdy jej spadki są odczuwane jako przyjemność).",
-    "ontological_status": "Monizm dwuaspektowy (interpretowany w ramach fizykalistycznych). Model ten postrzega zjawiska fizjologiczne i psychologiczne jako dwoiste manifestacje jednego leżącego u podstaw procesu, redukowalne do jednolitych przyczyn fizycznych, co w praktycznym zastosowaniu do mechanizmów biologicznych zbliża go do materializmu.",
+    "ontological_status": "Dual-Aspect Monism (interpreted within a Physicalist framework). This model views physiological and psychological phenomena as dual manifestations of a single underlying process, reducible to unitary physical causes, aligning with Materialism in its practical application to biological mechanisms.",
     "mind_body_relationship": "Dwuaspektowa; zjawiska fizjologiczne i psychologiczne są komplementarnymi manifestacjami jednego leżącego u podstaw jednolitego procesu (analogia wyładowania elektrycznego), a nie jednym powodującym drugie.",
-    "primitive_or_emergent_status": "Emergentna",
-    "emergence_type": "Emergencja słaba (uzasadnienie: twierdzi się, że funkcjonalny mechanizm świadomości jest redukowalny do praw fizycznych, takich jak prawo wolnej energii, co sugeruje, że choć świadomość może wydawać się nowa, jest w zasadzie wyjaśnialna przez fizykę fundamentalną).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justified: The functional mechanism of consciousness is claimed to be reducible to physical laws, such as the free-energy law, suggesting that although consciousness may seem novel, it is explainable in principle by fundamental physics.)",
     "subjectivity_and_intentionality": "Odczuwająca subiektywność jest dosłownie konstytuowana przez afekt, który pozwala organizmowi proaktywnie opierać się entropii. Intencjonalność powstaje, ponieważ systemy samoorganizujące się muszą chronicznie „stawiać” pytania o swoją wolną energię (potrzeby egzystencjalne), aby wyznaczać swoje działania.",
     "qualia_account": "Qualia są wyjaśniane jako „kolorowo kodowane” lub „aromatyzowane” zmienne kategorialne (afekty, np. pragnienie a strach), które wydajnie kodują liczne potrzeby złożonych organizmów, unikając obliczeniowo złożonej „eksplozji kombinatorycznej” na potrzeby optymalizacji przetrwania.",
     "ontological_commitments": "Prawa fizyczne (takie jak prawo wolnej energii), procesy fizjologiczne (rozszerzona homeostaza) oraz specyficzne struktury górnej części pnia mózgu / układu siatkowatego pobudzającego.",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Neurobiologiczny, fenomenologiczny, obliczeniowy (FEP)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empirycznie testowalna (w szczególności w odniesieniu do roli pnia mózgu i natury afektu).",
+    "testability_status": "Empirically testable (specifically regarding the role of the brainstem and the nature of affect).",
     "known_empirical_interventions_or_tests": [
       "Korelowanie utraty świadomości z uszkodzeniem układu siatkowatego pobudzającego (górnej części pnia mózgu).",
       "Empiryczne badanie parametrów FEP skorelowanych z subiektywną przyjemnością/przykrością."
@@ -55,19 +57,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobne",
+      "stance": "Likely",
       "rationale": "Jeśli teoria jest słuszna, to można zaprojektować sztucznie świadomy system samoorganizujący się, pod warunkiem że system ten jest zaprojektowany tak, aby proaktywnie opierać się entropii i zarządzać potrzebami egzystencjalnymi, generując stany afektywne jako sprzężenie zwrotne."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Jako teoria materialistyczna, świadomość jest całkowicie zależna od biologicznego mózgu i jego procesów fizycznych, co implikuje trwałe nieistnienie wraz ze śmiercią organizmu."
     },
     "meaning_and_purpose": {
-      "stance": "Humanistyczny/biologiczny",
+      "stance": "Humanistic only",
       "rationale": "Rdzeń świadomości jest zakorzeniony w biologicznym imperatywie przetrwania (unikaniu unicestwienia i minimalizowaniu wolnej energii), co wspiera sens biologiczny i konstruowany humanistycznie, lecz nie oferuje ostatecznego celu kosmicznego."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jako teoria materialistyczna, pierwszoosobowa jaźń umysłowa jest w zasadzie przesyłalna, pod warunkiem że złożone mechanizmy fizyczne (w tym dynamika afektywna i homeostatyczna) można wyczerpująco zduplikować w syntetycznym podłożu."
     }
   },
@@ -75,15 +77,15 @@
     "related_theories": [
       {
         "name": "Friston's Free-Energy Principle and Active Inference",
-        "relationship": "Wpływ/rozszerzenie"
+        "relationship": "Influence/Extension"
       },
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
-        "relationship": "Zgodna"
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Compatible"
       },
       {
         "name": "Integrated Information Theory",
-        "relationship": "Krytyka/kontrast"
+        "relationship": "Critique/Contrast"
       }
     ],
     "sources_and_references": [

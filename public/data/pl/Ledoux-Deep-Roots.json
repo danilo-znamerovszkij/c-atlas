@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Teoria świadomości głębokich korzeni LeDoux",
     "summary": "Teoria ta ujmuje ludzką świadomość i zachowanie przez pryzmat głębokiej historii ewolucyjnej, przyjmując, że świadomość wyłoniła się stosunkowo niedawno jako wyrafinowany produkt korowych obwodów poznawczych. Śledzi ona, w jaki sposób fundamentalne zdolności przetrwania, odziedziczone po najwcześniejszych organizmach, zostały wzmocnione przez ewolucję układów nerwowych, ostatecznie prowadząc do świadomości.",
-    "associated_thinkers": ["Joseph LeDoux"],
+    "associated_thinkers": [
+      "Joseph LeDoux"
+    ],
     "category": "Teorie materialistyczne",
     "subcategory": "Ewolucja filogenetyczna",
     "core_identity_tagline": "Świadomość jako emergentny produkt wzmocnionych mechanizmów przetrwania.",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość utożsamia się ze zbiorem korowych stanów poznawczych, które powstają z ewolucyjnego wzmocnienia głęboko zakorzenionych zdolności przetrwania.",
-    "ontological_status": "Fizykalizm redukcyjny",
+    "ontological_status": "Reductive Physicalism",
     "mind_body_relationship": "Świadomość jest zjawiskiem całkowicie fizycznym, które wyłania się z ewolucyjnego działania biologicznego mózgu i układu nerwowego.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Teoria wiąże świadomość z ewolucyjną koniecznością wzmacniania przetrwania i rozwoju. Subiektywność (jak uczucie strachu) wyłania się jako niedawny wyraz korowych obwodów poznawczych, odrębny od pradawnych, nieświadomych obwodów przetrwania.",
     "qualia_account": "Tekst opisujący tę teorię koncentruje się na historii ewolucyjnej i obwodach przetrwania, a nie na samych qualiach, lecz zgodnie z jej materialistycznym stanowiskiem qualia są niejawnie traktowane jako złożone wyrazy korowych obwodów poznawczych, mające płytką historię ewolucyjną w porównaniu z obwodami przetrwania.",
     "ontological_commitments": "Wyewoluowane układy nerwowe, biologiczne mózgi oraz obronne obwody przetrwania.",
@@ -40,7 +42,7 @@
     "basis_of_belief_or_evidence_type": "Neurobiologiczna, ewolucyjna, naukowa"
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna empirycznie",
+    "testability_status": "Empirically testable",
     "known_empirical_interventions_or_tests": "Badania śledzące filogenetyczny rozwój układów nerwowych oraz porównujące obronne obwody przetrwania między gatunkami.",
     "criticisms_and_tensions": "W dostarczonym tekście brak konkretnych zarzutów; ogólną krytyką odnoszącą się do teorii materialistycznych jest niezdolność do wyjaśnienia jakościowej istoty świadomości (trudny problem) pomimo zrozumienia jej biologicznej podstawy i ewolucji.",
     "open_questions_and_limitations": "Otwartymi pytaniami pozostają precyzyjne etapy prowadzące do wyłonienia się doświadczenia subiektywnego oraz odróżnienie korowych obwodów poznawczych odpowiedzialnych za świadome uczucia (płytka historia) od nieświadomych mechanizmów przetrwania (głęboka historia).",
@@ -48,19 +50,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Jako teoria materialistyczna skupiona na emergentnych mechanizmach biologicznych, jeśli niezbędne funkcje ewolucyjne i przetrwaniowe da się odtworzyć w sztucznym podłożu, świadomość SI powinna być w zasadzie możliwa."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest wyraźnie zależna od wyewoluowanego biologicznego mózgu i jego korowych obwodów poznawczych, które przestają funkcjonować wraz ze śmiercią."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Zgodnie z materializmem świadomość służy przede wszystkim biologicznej funkcji wzmacniania przetrwania i rozwoju, nie oferując żadnego wewnętrznego kosmicznego sensu ani teleologii poza tym, co ludzie sami dla siebie tworzą."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Ponieważ świadomość rozumiana jest jako czysto fizyczna i emergentna z złożonego biologicznego przetwarzania informacji, zduplikowanie wzorca neuronalnego powinno w zasadzie umożliwić wirtualną nieśmiertelność."
     }
   },
@@ -68,19 +70,19 @@
     "related_theories": [
       {
         "name": "LeDoux's Higher-Order Theory of Emotional Consciousness",
-        "relationship": "Rozszerzenie"
+        "relationship": "Extension"
       },
       {
-        "name": "Dennett’s Evolution of Minds",
-        "relationship": "Nakładanie się"
+        "name": "Dennett's Evolution of Minds",
+        "relationship": "Overlap"
       },
       {
-        "name": "Mitchell’s Free Agents",
-        "relationship": "Zgodność"
+        "name": "Mitchell's Free Agents",
+        "relationship": "Compatible"
       },
       {
         "name": "Feinberg/Mallatt’s Ancient Origins of Consciousness",
-        "relationship": "Nakładanie się"
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

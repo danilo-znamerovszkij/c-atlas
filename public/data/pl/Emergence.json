@@ -20,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest utożsamiana z jakościowo nowatorską własnością lub stanem psychologicznym wyłaniającym się z własności fizycznych. Pojęcie to definiuje relację między umysłem a materią na podstawie redukowalności lub nieredukowalności do fizyki fundamentalnej.",
-    "ontological_status": "Wysoce zmienny/sporny. Słaba emergencja wspiera fizykalizm redukcyjny. Silna emergencja często implikuje fizykalizm niredukcyjny lub potrzebę rozszerzenia koncepcji natury, potencjalnie wymagając nowych praw fundamentalnych (dualizm naturalistyczny lub dualizm własności).",
+    "ontological_status": "Highly variable/Contested. Weak Emergence supports reductive Physicalism. Strong Emergence often implies Non-Reductive Physicalism or a need to expand the conception of nature, potentially requiring new fundamental laws (Naturalistic Dualism or Property Dualism).",
     "mind_body_relationship": "Emergentystyczna. Umysł wyłania się z ciała (złożonych systemów fizycznych). Natura tej relacji zależy od rodzaju emergencji: słaba sugeruje redukcję z zasady; silna sugeruje nieredukowalność nawet z zasady, często obejmując przyczynowanie w dół.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Zarazem słaba i silna. Słaba emergencja implikuje redukowalność z zasady (choć trudną w praktyce), podczas gdy silna emergencja implikuje, że zjawisko jest niemożliwe do wyjaśnienia przez redukcję, nawet z zasady, wymagając fundamentalnych praw psychofizycznych.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Both Weak and Strong. Weak emergence implies reducibility in principle (though difficult in practice), while strong emergence implies that the phenomenon is impossible to explain by reduction, even in principle, requiring fundamental psychophysical laws.",
     "subjectivity_and_intentionality": "Emergencja dostarcza ram wyjaśniających, *jak* subiektywność wyłania się z części niesubiektywnych. Jeśli zachodzi silna emergencja, wynikające z niej własności subiektywne (jak qualia) są fundamentalnie niededukowalne z praw fizycznych rządzących dziedziną niskiego poziomu.",
     "qualia_account": "Qualia są nowatorskimi, jakościowo nowymi własnościami (np. jakościami zmysłowymi), które wyłaniają się z systemu fizycznego. Silna emergencja postrzega świadomość (a więc i qualia) jako najwyraźniejszy przypadek zjawiska silnie emergentnego, fundamentalnie nieredukowalnego do leżących u podstaw faktów fizycznych.",
     "ontological_commitments": "Własności fizyczne i prawa fizyczne. W przypadku silnej emergencji zobowiązanie to rozszerza się, by objąć być może nowe fundamentalne prawa lub zasady psychofizyczne, zwłaszcza te związane z przyczynowaniem odgórnym.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny, pojęciowy"
   },
   "empirics_and_critiques": {
-    "testability_status": "Spekulatywna i filozoficznie sporna. Słaba emergencja jest z zasady zgodna z nauką. Silna emergencja jest trudna do przetestowania empirycznie, ponieważ zakłada, że zjawiska są niededukowalne z nauki fundamentalnej.",
+    "testability_status": "Speculative and philosophically contentious. Weak emergence is scientifically aligned in principle. Strong emergence is difficult to test empirically because it posits phenomena are non-deducible from fundamental science.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Jest krytykowana przez fizykalistów redukcyjnych (jak materialiści eliminacyjni) jako mająca niewielką wartość wyjaśniającą, zbędna lub działająca jako „powtórzenie cudu”, które nie wyjaśnia, *jak* nieświadoma złożoność daje świadomość. Silna emergencja w szczególności kwestionuje domknięcie przyczynowe świata fizycznego.",
     "open_questions_and_limitations": "Fundamentalne rozróżnienie między emergencją słabą (redukowalność z zasady) a silną (nieredukowalność z zasady) pozostaje otwartym problemem filozoficznym, przesądzającym, czy jedynie opisuje ona złożone zjawiska, czy fundamentalnie zmienia ontologię.",
@@ -55,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Warunkowe/prawdopodobne",
+      "stance": "Conditional",
       "rationale": "Jeśli świadomość jest słabo emergentna, świadomość SI jest pewna przy wystarczającej złożoności. Jeśli jest silnie emergentna, świadomość SI wciąż jest możliwa, jeśli własności niefizyczne wyłonią się z niebiologicznej złożoności fizycznej, w zależności od zaangażowanych praw meta-psychofizycznych."
     },
     "survival_beyond_death": {
-      "stance": "Mało prawdopodobne (słaba); możliwe (silna)",
+      "stance": "Conditional",
       "rationale": "Słaba emergencja, bliska materializmowi, wyklucza przetrwanie. Silna emergencja, zwłaszcza w formie dualizmu emergentnego, mogłaby teoretycznie generować substancję niefizyczną (umysł/duszę) zależną od mózgu fizycznego, lecz nie ściśle z nim identyczną, dopuszczając potencjalne niezależne istnienie po śmierci, choć jest to spekulatywne."
     },
     "meaning_and_purpose": {
-      "stance": "Być może",
+      "stance": "Uncertain",
       "rationale": "Emergencja, zwłaszcza silna emergencja połączona z pojęciami takimi jak przyczynowanie odgórne, oferuje ramy, w których własności wyższego poziomu, takie jak świadomość i związane z nią wartości, mogłyby posiadać rzeczywistą moc przyczynową, potencjalnie wspierając cel lub sens kosmiczny, w zależności od wynikającej ontologii."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobne (słaba); wysoce warunkowe (silna)",
+      "stance": "Conditional",
       "rationale": "Jeśli świadomość jest słabo emergentna, duplikacja stanów fizycznych zduplikowałaby stany mentalne (prawdopodobne). Jeśli jest silnie emergentna, nieredukowalne własności i możliwe przyczynowanie w dół musiałyby zostać doskonale uchwycone i odtworzone w nowym medium, co stawia znaczące, być może niepokonalne wyzwania techniczne i pojęciowe."
     }
   },
@@ -75,19 +75,19 @@
     "related_theories": [
       {
         "name": "Reductionism",
-        "relationship": "Krytyka"
+        "relationship": "Critique"
       },
       {
-        "name": "Non-Reductive Physicalism",
-        "relationship": "Rozszerzenie"
+        "name": "Non-Reductive",
+        "relationship": "Extension"
       },
       {
         "name": "Emergent Dualism",
-        "relationship": "Rozszerzenie"
+        "relationship": "Extension"
       },
       {
         "name": "Biological Naturalism (Searle)",
-        "relationship": "Zgodność"
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

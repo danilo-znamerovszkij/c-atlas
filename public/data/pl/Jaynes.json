@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Jaynesowski rozpad umysłu dwuizbowego",
     "summary": "Teoria ta głosi, że świadomość, rozumiana jako introspekcja, jest zachowaniem wyuczonym, zakorzenionym w języku i kulturze, a nie wrodzonym czy fundamentalnym. Sugeruje, że świadomość wyłoniła się historycznie około II tysiąclecia p.n.e., w następstwie społecznego rozpadu nieświadomej mentalności zwanej umysłem dwuizbowym, charakteryzującej się halucynacjami słuchowymi.",
-    "associated_thinkers": ["Julian Jaynes"],
+    "associated_thinkers": [
+      "Julian Jaynes"
+    ],
     "category": "Teorie materialistyczne",
     "subcategory": "Relacje z językiem",
     "core_identity_tagline": "Świadomość jako wyuczony, językowy/metaforyczny analog świata",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość, czyli 'subiektywny umysł świadomy', jest analogiem rzeczywistego świata skonstruowanym ze słownika metafor wywiedzionych z zachowania zewnętrznego; funkcjonuje jako operator, a nie jako repozytorium czy rzecz.",
-    "ontological_status": "Fizykalizm/materializm (ta deflacyjna teoria jest klasyfikowana w ramach materializmu, co implikuje, że świadomość jest całkowicie materialna, choć stanowi nieoczywisty wytwór kulturowy).",
+    "ontological_status": "Physicalism/Materialism (This deflationary theory is classified under Materialism, implying consciousness is wholly material, albeit a non-obvious cultural product.)",
     "mind_body_relationship": "Teoria tożsamości (umysł jest domyślnie tożsamy z procesami mózgowymi realizującymi funkcje językowe i organizującymi metaforyczną 'przestrzeń umysłu'; Jaynes postulował korelat neurobiologiczny obejmujący półkule mózgowe).",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba (świadomość jest wyjaśniana jako ewolucyjnie niedawny, niefundamentalny konstrukt kulturowy zbudowany na leżącej u podstaw maszynerii biologicznej i językowej, co sugeruje redukowalność w zasadzie).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Consciousness is explained as an evolutionarily recent, non-fundamental cultural construct built upon underlying biological and linguistic machinery, suggesting reducibility in principle.)",
     "subjectivity_and_intentionality": "Subiektywność jest konstytuowana przez analogowe 'ja' odnoszące się do mentalnego 'widzenia' w metaforycznej 'przestrzeni umysłu'. Intencjonalność osiąga się poprzez narratyzację — nieustanne wpasowywanie zdarzeń w opowieść — która jest wyuczonym analogiem zachowania zewnętrznego.",
     "qualia_account": "Qualia są domyślnie przedefiniowane lub odrzucone, ponieważ uwaga skupia się na 'świadomości introspekcyjnej', którą wyraźnie odróżnia się od świadomości fenomenalnej ('surowego doświadczenia wewnętrznego').",
     "ontological_commitments": "Język/pola leksykalne, struktury kulturowe oraz obszary mózgu (jako korelat poprzedzającego stanu dwuizbowego sugeruje się półkule mózgowe).",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny, językowy, psychohistoryczny, spekulacja neurobiologiczna."
   },
   "empirics_and_critiques": {
-    "testability_status": "Sprawdzalny pojęciowo/spekulatywny (podstawowe twierdzenia historyczne i językowe podlegają raczej debacie naukowej niż tradycyjnej weryfikacji empirycznej, a teoria nie jest szeroko akceptowana przez ekspertów).",
+    "testability_status": "Conceptually testable/Speculative (The core historical and linguistic claims are subject to scholarly debate rather than traditional empirical verification, and the theory is not widely accepted by experts.)",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Teoria posługuje się idiosynkratyczną definicją świadomości ('świadomość introspekcyjna'), która wyklucza świadomość fenomenalną — główny przedmiot dociekań w tej dziedzinie. Nie jest akceptowana przez ekspertów od świadomości.",
     "open_questions_and_limitation": "Podstawowym ograniczeniem jest niezdolność do uwzględnienia lub uznania świadomości fenomenalnej ('surowego doświadczenia wewnętrznego') w tradycyjnym rozumieniu.",
@@ -51,35 +53,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Jeśli świadomość jest wyuczonym analogiem/operatorem zakorzenionym zasadniczo w języku i procesach informacyjnych, to postępy w wielkich modelach językowych i SI mogłyby prawdopodobnie urzeczywistnić tę formę świadomości."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Jako teoria fizykalistyczna i deflacyjna wiąże świadomość z fizyczną maszynerią mózgu i strukturami językowymi, które ta maszyneria wspiera, nie pozostawiając podstaw dla przetrwania po śmierci fizycznej."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Świadomość służy funkcjonalnemu, ukierunkowanemu na przetrwanie celowi (usprawnianiu podejmowania decyzji), wywiedzionemu z imperatywów biologicznych i kulturowych, nie oferując żadnego wpisanego sensu kosmicznego."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Ponieważ umysł jest zdefiniowany przez struktury językowe i metaforyczne, które można przesłać lub powielić w niebiologicznym podłożu (podobnie jak oprogramowanie), wirtualna nieśmiertelność byłaby w ramach tego modelu pojęciowo wykonalna."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Dennett’s Multiple Drafts Model",
-        "relationship": "Zgodny"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Compatible"
       },
       {
         "name": "Functionalism",
-        "relationship": "Nakładanie się"
+        "relationship": "Overlap"
       },
       {
         "name": "Language Theories (General)",
-        "relationship": "Rozszerzenie"
+        "relationship": "Extension"
       }
     ],
     "sources_and_references": [

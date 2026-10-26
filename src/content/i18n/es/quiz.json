@@ -1,0 +1,99 @@
+{
+  "questions": [
+    {
+      "axis": "mm", "topic": "Qué es real", "ends": ["Materia", "Mente"],
+      "text": "¿De qué está hecho el mundo en última instancia?",
+      "help": "La división más antigua del campo: materialismo, dualismo, idealismo y las posturas intermedias.",
+      "options": [
+        { "label": "Materia y energía. Una mente es algo que hace la materia.", "value": 0, "short": "materia", "agree": "Ambos pensáis que solo la materia es última realidad" },
+        { "label": "Materia, pero las mentes son reales por derecho propio, no solo una forma de describir cerebros.", "value": 1, "short": "materia, con mentes reales por derecho propio", "agree": "Ambos ponéis la materia primero, pero tomáis las mentes como reales" },
+        { "label": "Algo más profundo que se manifiesta como materia y como mente.", "value": 2, "short": "algo por debajo de ambas", "agree": "Ambos pensáis que mente y materia comparten un origen más profundo" },
+        { "label": "Dos tipos distintos de cosa: lo físico y lo mental.", "value": 3, "short": "dos tipos de cosa", "agree": "Ambos pensáis que mente y materia son tipos distintos de cosa" },
+        { "label": "Mente. El mundo físico es la forma en que la mente aparece.", "value": 4, "short": "mente", "agree": "Ambos pensáis que la mente viene primero" }
+      ]
+    },
+    {
+      "axis": "fu", "topic": "Cuán básica es", "ends": ["Ilusión", "Fundamento de la realidad"],
+      "text": "¿Cuán básica es la conciencia?",
+      "help": "Piensa en la cualidad sentida de ver rojo o sentir dolor.",
+      "options": [
+        { "label": "Menos real de lo que parece. El brillo interior es un relato que el cerebro se cuenta a sí mismo.", "value": 0, "short": "menos real de lo que parece", "agree": "Ambos dudáis de que la experiencia sea lo que parece" },
+        { "label": "Real pero rara. Requiere un cerebro complejo.", "value": 1, "short": "real pero rara", "agree": "Ambos pensáis que requiere un cerebro complejo" },
+        { "label": "Real en los seres vivos, en grados.", "value": 2, "short": "graduada a lo largo de la vida", "agree": "Ambos la veis en los seres vivos, en grados" },
+        { "label": "Real mucho más allá de los cerebros, quizá incluso en la materia simple.", "value": 3, "short": "presente más allá de los cerebros", "agree": "Ambos pensáis que llega más allá de los cerebros" },
+        { "label": "Lo más básico que existe.", "value": 4, "short": "el fundamento de todo", "agree": "Ambos tomáis la conciencia como fundamento de la realidad" }
+      ]
+    },
+    {
+      "axis": "lo", "topic": "Dónde está", "ends": ["En el cerebro", "En ningún lugar del espacio"],
+      "text": "¿Dónde está ocurriendo tu experiencia ahora mismo?",
+      "options": [
+        { "label": "En circuitos concretos de mi cerebro.", "value": 0, "short": "en circuitos cerebrales concretos", "agree": "Ambos la situáis en circuitos cerebrales concretos" },
+        { "label": "En mi cerebro, funcionando como un todo.", "value": 1, "short": "en el cerebro como un todo", "agree": "Ambos la situáis en el cerebro como un todo" },
+        { "label": "En mi cerebro, mi cuerpo y mi entorno juntos.", "value": 2, "short": "en cerebro, cuerpo y mundo juntos", "agree": "Ambos la extendéis por cerebro, cuerpo y mundo" },
+        { "label": "Extendida por la naturaleza, no solo en mí.", "value": 3, "short": "extendida por la naturaleza", "agree": "Ambos la veis extendida por la naturaleza" },
+        { "label": "En ningún lugar concreto. No está situada en el espacio.", "value": 4, "short": "no está en el espacio en absoluto", "agree": "Ambos pensáis que no está situada en el espacio" }
+      ]
+    },
+    {
+      "axis": "ev", "topic": "Mejor evidencia", "ends": ["Experimento", "Tradición y experiencia"],
+      "text": "¿Qué te convencería sobre la conciencia?",
+      "options": [
+        { "label": "Experimentos y datos cerebrales.", "value": 0, "short": "experimentos", "agree": "Ambos confiáis primero en los experimentos" },
+        { "label": "Ciencia y argumentación rigurosa, codo con codo.", "value": 1, "short": "ciencia más argumentación", "agree": "Ambos combináis ciencia y argumentación" },
+        { "label": "Un argumento filosófico sólido.", "value": 2, "short": "argumentación filosófica", "agree": "Ambos basáis el caso en la argumentación" },
+        { "label": "La atención cuidadosa a mi propia experiencia, mediante la meditación o la práctica.", "value": 3, "short": "práctica contemplativa", "agree": "Ambos valoráis la práctica en primera persona" },
+        { "label": "La tradición espiritual, o experiencias como los relatos de experiencias cercanas a la muerte.", "value": 4, "short": "tradición y experiencia extraordinaria", "agree": "Ambos dais peso a la tradición y a la experiencia extraordinaria" }
+      ]
+    },
+    {
+      "axis": "qu", "topic": "Física", "ends": ["Física ordinaria", "Cuántica o nueva física"],
+      "text": "¿Tiene la física actual espacio para las mentes?",
+      "options": [
+        { "label": "Sí. La física y la biología ordinarias bastan.", "value": 0, "short": "la física ordinaria basta", "agree": "Ambos pensáis que la física ordinaria basta" },
+        { "label": "La física cuántica puede tener un papel.", "value": 2, "short": "los efectos cuánticos pueden ayudar", "agree": "Ambos dejáis espacio a los efectos cuánticos" },
+        { "label": "Las mentes necesitan física cuántica, o una física que aún no tenemos.", "value": 4, "short": "hace falta física cuántica o nueva", "agree": "Ambos pensáis que las mentes necesitan física cuántica o nueva" }
+      ]
+    },
+    {
+      "key": "ai", "topic": "Conciencia de la IA",
+      "text": "¿Podría una IA llegar a ser consciente?",
+      "options": [
+        { "label": "Sí, si se construye del modo adecuado.", "value": 4, "short": "sí", "agree": "Ambos pensáis que la IA podría ser consciente" },
+        { "label": "Posiblemente, pero solo bajo ciertas condiciones.", "value": 3, "short": "posiblemente", "agree": "Ambos decís que la IA podría ser consciente bajo algunas condiciones" },
+        { "label": "Nadie puede saberlo.", "value": 2, "short": "nadie puede saberlo", "agree": "Ambos dejáis abierta la conciencia de la IA" },
+        { "label": "No. Las máquinas no pueden tener experiencias.", "value": 0, "short": "no", "agree": "Ambos pensáis que la IA no puede ser consciente" }
+      ]
+    },
+    {
+      "key": "survival", "topic": "Vida después de la muerte",
+      "text": "¿Sobrevive la conciencia a la muerte?",
+      "options": [
+        { "label": "Sí.", "value": 4, "short": "sí", "agree": "Ambos esperáis que la conciencia sobreviva a la muerte" },
+        { "label": "Posiblemente, de alguna forma.", "value": 3, "short": "posiblemente", "agree": "Ambos pensáis que es posible alguna forma de supervivencia" },
+        { "label": "Nadie puede saberlo.", "value": 2, "short": "nadie puede saberlo", "agree": "Ambos dejáis abierta la vida después de la muerte" },
+        { "label": "No. Termina con el cerebro.", "value": 0, "short": "no", "agree": "Ambos pensáis que termina con el cerebro" }
+      ]
+    },
+    {
+      "key": "virtual", "topic": "Carga de la mente",
+      "text": "¿Podría cargarse tu mente en un ordenador?",
+      "options": [
+        { "label": "Sí, en principio.", "value": 4, "short": "sí", "agree": "Ambos pensáis que una mente podría cargarse" },
+        { "label": "Posiblemente, con la tecnología adecuada.", "value": 3, "short": "posiblemente", "agree": "Ambos pensáis que la carga podría funcionar" },
+        { "label": "Nadie puede saberlo.", "value": 2, "short": "nadie puede saberlo", "agree": "Ambos dejáis abierta la carga de la mente" },
+        { "label": "No. Una copia no sería yo, o no sería consciente.", "value": 0, "short": "no", "agree": "Ambos dudáis de que una mente pueda cargarse" },
+        { "label": "No hace falta. La conciencia continúa sin cuerpo de todos modos.", "value": "n", "short": "no hace falta, continúa de todos modos", "agree": "Ambos pensáis que la conciencia continúa sin carga" }
+      ]
+    },
+    {
+      "key": "meaning", "topic": "Sentido",
+      "text": "¿Da la conciencia a la vida un sentido más allá del que le damos nosotros?",
+      "options": [
+        { "label": "Sí. El sentido está incorporado a la realidad.", "value": 4, "short": "sí, está incorporado", "agree": "Ambos veis el sentido incorporado a la realidad" },
+        { "label": "Nadie puede saberlo.", "value": 2, "short": "nadie puede saberlo", "agree": "Ambos dejáis abierta la cuestión del sentido" },
+        { "label": "No. El sentido lo creamos nosotros.", "value": 0, "short": "el sentido lo creamos nosotros", "agree": "Ambos pensáis que el sentido lo creamos nosotros" }
+      ]
+    }
+  ]
+}

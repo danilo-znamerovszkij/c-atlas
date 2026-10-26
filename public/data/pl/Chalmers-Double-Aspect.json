@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoria podwójnego aspektu informacji Chalmersa",
+    "summary": "David Chalmers wstępnie proponuje, że informacja jest ontologicznie fundamentalna i ma dwa aspekty: fizyczny, realizowany w układach takich jak mózgi i komputery, oraz fenomenalny, realizowany jako subiektywne doświadczenie. Ilekroć przestrzeń informacyjna jest realizowana w doświadczeniu, ta sama przestrzeń jest realizowana fizycznie, więc informacja służy jako wspólna waluta między tym, co fizyczne, a tym, co fenomenalne.",
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
+    "category": "Zintegrowana info",
+    "subcategory": "",
+    "core_identity_tagline": "Informacja z fizycznym i fenomenalnym obliczem",
+    "classification_tags": [
+      "information",
+      "double-aspect",
+      "hard problem",
+      "naturalistic dualism",
+      "neutral monism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Świadomość jest fenomenalnym aspektem informacji; ten sam stan informacyjny, który jest realizowany w podłożu fizycznym, jest też realizowany w doświadczeniu.",
+    "ontological_status": "Double-aspect monism (information-based)",
+    "mind_body_relationship": "Procesy fizyczne i doświadczenie są dwiema realizacjami jednej przestrzeni informacyjnej. Propozycja jest przedstawiona jako jeden ze sposobów, by dualizm naturalistyczny Chalmersa działał, w którym procesy fizyczne dają początek doświadczeniu, nie będąc z nim tożsame.",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "Not applicable (information and its phenomenal aspect are treated as fundamental rather than derived)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Qualia są wewnętrzną, doświadczeniową stroną stanów informacyjnych. Struktura doświadczenia odpowiada strukturze informacji realizowanej w jego podłożu fizycznym.",
+    "ontological_commitments": "Przestrzenie informacyjne jako fundamentalne, z aspektami fizycznym i fenomenalnym; układy fizyczne, zarówno żywe, jak i sztuczne.",
+    "epistemic_access": "Poprzez analizę filozoficzną strukturalnej odpowiedniości między doświadczeniem a jego podłożem fizycznym.",
+    "constituents_and_structure": "Przestrzenie i stany informacyjne, z których każdy jest realizowany podwójnie: raz fizycznie i, potencjalnie, raz fenomenalnie."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenalna",
+    "distinctive_mechanism_or_principle": "Podwójna realizacja: ta sama przestrzeń informacyjna jest realizowana fizycznie i fenomenalnie, a Chalmers sugeruje, że to „podwójne życie” może być fundamentalnym łączem między procesami fizycznymi a doświadczeniem.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Wszędzie tam, gdzie informacja jest realizowana fizycznie, istnieje potencjał doświadczenia, więc doświadczenie nie ogranicza się w zasadzie do mózgów.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Informacja jest pojęciem pomostowym: wszędzie tam, gdzie jest świadome doświadczenie, jest informacja, a wszędzie tam, gdzie jest informacja, istnieje potencjał świadomego doświadczenia.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Ilekroć przestrzeń informacyjna jest realizowana fenomenalnie, ta sama przestrzeń jest realizowana fizycznie.",
+      "Informację można traktować jako wspólną walutę między tym, co fizyczne, a tym, co fenomenalne.",
+      "Ta ontologia podwójnego aspektu odbija idee sięgające od Spinozy po monizm neutralny Russella.",
+      "Jeśli teoria zawiedzie, dualizm naturalistyczny nadal mógłby być prawdziwy na mocy jakiejś innej zasady."
+    ],
+    "basis_of_belief_or_evidence_type": "Filozoficzna (argument a priori z trudnego problemu i strukturalnej spójności między umysłem a mózgiem)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Sam Chalmers nazywa teorię spekulatywną i pyta, jak poważnie należy traktować mówienie o podwójnym aspekcie i czy nie urzeczowia ono informacji. Jeśli każdy stan informacyjny niesie potencjalne doświadczenie, ujęcie rozpościera doświadczenie bardzo szeroko.",
+    "open_questions_and_limitations": "Chalmers pozostawia otwarte, czy to, co fizyczne, to, co fenomenalne, czy oba zależą ontologicznie od tego, co informacyjne, oraz które stany informacyjne są faktycznie doświadczane.",
+    "ontological_coherence": "Mieści się w tradycjach monizmu neutralnego i russellowskiego oraz służy dualizmowi naturalistycznemu Chalmersa, choć dualizm naturalistyczny od niej nie zależy."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Informacja jest realizowana zarówno w komputerach, jak i w neuronach, a tam, gdzie jest informacja, istnieje potencjał doświadczenia."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Jeśli doświadczenie podąża za strukturą informacji, układ realizujący tę samą przestrzeń informacyjną co mózg realizowałby to samo doświadczenie."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Foundation"
+      },
+      {
+        "name": "Russellian Monism",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Spinoza’s One Reality: Embodied Mind and Graded Consciousness",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Overlap"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Chalmers’ Double-Aspect Theory of Information, David Chalmers",
+        "year": 1996
+      }
+    ]
+  }
+}

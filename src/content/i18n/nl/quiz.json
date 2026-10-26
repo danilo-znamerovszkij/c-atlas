@@ -1,0 +1,99 @@
+{
+  "questions": [
+    {
+      "axis": "mm", "topic": "Wat is werkelijk", "ends": ["Materie", "Geest"],
+      "text": "Waaruit bestaat de wereld uiteindelijk?",
+      "help": "De oudste scheidslijn in het vakgebied: materialisme, dualisme, idealisme en de opvattingen daartussen.",
+      "options": [
+        { "label": "Materie en energie. Een geest is iets wat materie doet.", "value": 0, "short": "materie", "agree": "Jullie denken allebei dat alleen materie uiteindelijk werkelijk is" },
+        { "label": "Materie, maar geesten zijn echt op zichzelf, niet slechts een manier om hersenen te beschrijven.", "value": 1, "short": "materie, met geesten die op zichzelf echt zijn", "agree": "Jullie zetten allebei materie voorop maar nemen geesten als echt" },
+        { "label": "Iets diepers dat zich als zowel materie als geest toont.", "value": 2, "short": "iets onder beide", "agree": "Jullie denken allebei dat geest en materie een diepere bron delen" },
+        { "label": "Twee verschillende soorten dingen: het fysieke en het mentale.", "value": 3, "short": "twee soorten dingen", "agree": "Jullie denken allebei dat geest en materie verschillende soorten dingen zijn" },
+        { "label": "Geest. De fysieke wereld is hoe geest zich toont.", "value": 4, "short": "geest", "agree": "Jullie denken allebei dat geest op de eerste plaats komt" }
+      ]
+    },
+    {
+      "axis": "fu", "topic": "Hoe fundamenteel", "ends": ["Illusie", "Grond van de werkelijkheid"],
+      "text": "Hoe fundamenteel is bewustzijn?",
+      "help": "Denk aan het gevoel van rood zien of pijn voelen.",
+      "options": [
+        { "label": "Minder echt dan het lijkt. De innerlijke gloed is een verhaal dat het brein zichzelf vertelt.", "value": 0, "short": "minder echt dan het lijkt", "agree": "Jullie twijfelen er allebei aan of ervaring is wat ze lijkt" },
+        { "label": "Echt maar zeldzaam. Er is een complex brein voor nodig.", "value": 1, "short": "echt maar zeldzaam", "agree": "Jullie denken allebei dat er een complex brein voor nodig is" },
+        { "label": "Echt bij alle levende wezens, in gradaties.", "value": 2, "short": "gradueel bij al het leven", "agree": "Jullie zien het allebei bij alle levende wezens, in gradaties" },
+        { "label": "Echt ver voorbij hersenen, misschien zelfs in eenvoudige materie.", "value": 3, "short": "aanwezig voorbij hersenen", "agree": "Jullie denken allebei dat het verder reikt dan hersenen" },
+        { "label": "Het meest fundamentele wat er is.", "value": 4, "short": "de grond van alles", "agree": "Jullie zien bewustzijn allebei als de grond van de werkelijkheid" }
+      ]
+    },
+    {
+      "axis": "lo", "topic": "Waar het is", "ends": ["In het brein", "Nergens in de ruimte"],
+      "text": "Waar vindt jouw ervaring op dit moment plaats?",
+      "options": [
+        { "label": "In specifieke circuits van mijn brein.", "value": 0, "short": "in specifieke hersencircuits", "agree": "Jullie plaatsen het allebei in specifieke hersencircuits" },
+        { "label": "In mijn brein, dat als geheel werkt.", "value": 1, "short": "in het brein als geheel", "agree": "Jullie plaatsen het allebei in het brein als geheel" },
+        { "label": "In mijn brein, lichaam en omgeving samen.", "value": 2, "short": "in brein, lichaam en wereld samen", "agree": "Jullie spreiden het allebei over brein, lichaam en wereld" },
+        { "label": "Verspreid door de natuur, niet alleen in mij.", "value": 3, "short": "verspreid door de natuur", "agree": "Jullie zien het allebei verspreid door de natuur" },
+        { "label": "Nergens in het bijzonder. Het is niet in de ruimte gelokaliseerd.", "value": 4, "short": "helemaal niet in de ruimte", "agree": "Jullie denken allebei dat het niet in de ruimte gelokaliseerd is" }
+      ]
+    },
+    {
+      "axis": "ev", "topic": "Beste bewijs", "ends": ["Experiment", "Traditie en ervaring"],
+      "text": "Wat zou jou over bewustzijn overtuigen?",
+      "options": [
+        { "label": "Experimenten en hersendata.", "value": 0, "short": "experimenten", "agree": "Jullie vertrouwen allebei eerst op experimenten" },
+        { "label": "Wetenschap en zorgvuldige argumentatie, naast elkaar.", "value": 1, "short": "wetenschap plus argumentatie", "agree": "Jullie combineren allebei wetenschap en argumentatie" },
+        { "label": "Een deugdelijk filosofisch argument.", "value": 2, "short": "filosofisch argument", "agree": "Jullie laten allebei de zaak op argumentatie rusten" },
+        { "label": "Nauwgezette aandacht voor mijn eigen ervaring, door meditatie of beoefening.", "value": 3, "short": "contemplatieve beoefening", "agree": "Jullie waarderen allebei beoefening vanuit de eerste persoon" },
+        { "label": "Spirituele traditie, of ervaringen zoals bijna-doodverslagen.", "value": 4, "short": "traditie en buitengewone ervaring", "agree": "Jullie geven allebei gewicht aan traditie en buitengewone ervaring" }
+      ]
+    },
+    {
+      "axis": "qu", "topic": "Natuurkunde", "ends": ["Gewone natuurkunde", "Kwantum- of nieuwe natuurkunde"],
+      "text": "Heeft de huidige natuurkunde ruimte voor geesten?",
+      "options": [
+        { "label": "Ja. Gewone natuurkunde en biologie volstaan.", "value": 0, "short": "gewone natuurkunde volstaat", "agree": "Jullie denken allebei dat gewone natuurkunde volstaat" },
+        { "label": "Kwantumfysica kan een rol spelen.", "value": 2, "short": "kwantumeffecten kunnen helpen", "agree": "Jullie laten allebei ruimte voor kwantumeffecten" },
+        { "label": "Geesten hebben kwantumfysica nodig, of natuurkunde die we nog niet hebben.", "value": 4, "short": "kwantum- of nieuwe natuurkunde is nodig", "agree": "Jullie denken allebei dat geesten kwantum- of nieuwe natuurkunde nodig hebben" }
+      ]
+    },
+    {
+      "key": "ai", "topic": "AI-bewustzijn",
+      "text": "Kan een AI ooit bewust zijn?",
+      "options": [
+        { "label": "Ja, als hij op de juiste manier is gebouwd.", "value": 4, "short": "ja", "agree": "Jullie denken allebei dat AI bewust kan zijn" },
+        { "label": "Mogelijk, maar alleen onder bepaalde voorwaarden.", "value": 3, "short": "mogelijk", "agree": "Jullie zeggen allebei dat AI onder sommige voorwaarden bewust kan zijn" },
+        { "label": "Niemand kan het zeggen.", "value": 2, "short": "niemand kan het zeggen", "agree": "Jullie laten allebei AI-bewustzijn open" },
+        { "label": "Nee. Machines kunnen geen ervaringen hebben.", "value": 0, "short": "nee", "agree": "Jullie denken allebei dat AI niet bewust kan zijn" }
+      ]
+    },
+    {
+      "key": "survival", "topic": "Leven na de dood",
+      "text": "Overleeft bewustzijn de dood?",
+      "options": [
+        { "label": "Ja.", "value": 4, "short": "ja", "agree": "Jullie verwachten allebei dat bewustzijn de dood overleeft" },
+        { "label": "Mogelijk, in een of andere vorm.", "value": 3, "short": "mogelijk", "agree": "Jullie denken allebei dat overleving in een of andere vorm mogelijk is" },
+        { "label": "Niemand kan het zeggen.", "value": 2, "short": "niemand kan het zeggen", "agree": "Jullie laten allebei leven na de dood open" },
+        { "label": "Nee. Het eindigt met het brein.", "value": 0, "short": "nee", "agree": "Jullie denken allebei dat het eindigt met het brein" }
+      ]
+    },
+    {
+      "key": "virtual", "topic": "Mind uploading",
+      "text": "Zou jouw geest naar een computer geüpload kunnen worden?",
+      "options": [
+        { "label": "Ja, in principe.", "value": 4, "short": "ja", "agree": "Jullie denken allebei dat een geest geüpload kan worden" },
+        { "label": "Mogelijk, met de juiste technologie.", "value": 3, "short": "mogelijk", "agree": "Jullie denken allebei dat uploaden zou kunnen werken" },
+        { "label": "Niemand kan het zeggen.", "value": 2, "short": "niemand kan het zeggen", "agree": "Jullie laten allebei uploaden open" },
+        { "label": "Nee. Een kopie zou niet ik zijn, of niet bewust zijn.", "value": 0, "short": "nee", "agree": "Jullie twijfelen er allebei aan of een geest geüpload kan worden" },
+        { "label": "Niet nodig. Bewustzijn gaat sowieso door zonder lichaam.", "value": "n", "short": "niet nodig, het gaat sowieso door", "agree": "Jullie denken allebei dat bewustzijn doorgaat zonder uploaden" }
+      ]
+    },
+    {
+      "key": "meaning", "topic": "Zin",
+      "text": "Geeft bewustzijn het leven een zin die verder gaat dan wat wij ervan maken?",
+      "options": [
+        { "label": "Ja. Zin is ingebouwd in de werkelijkheid.", "value": 4, "short": "ja, het is ingebouwd", "agree": "Jullie zien zin allebei ingebouwd in de werkelijkheid" },
+        { "label": "Niemand kan het zeggen.", "value": 2, "short": "niemand kan het zeggen", "agree": "Jullie laten allebei de vraag naar zin open" },
+        { "label": "Nee. Zin moeten we zelf maken.", "value": 0, "short": "zin moeten we zelf maken", "agree": "Jullie denken allebei dat zin ons eigen werk is" }
+      ]
+    }
+  ]
+}

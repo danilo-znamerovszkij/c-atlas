@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Teoria panpsychizmu Strawsona",
     "summary": "Strawson twierdzi, że każdy filozof zajmujący realistyczne stanowisko wobec fizykalizmu musi przyjąć, iż wszystkie zjawiska fizyczne są z natury doświadczeniowe lub fenomenalne, co prowadzi do panpsychizmu (lub paneksperiencjalizmu) jako koniecznego wniosku 'realnego materializmu'. Istnienia świadomego doświadczenia, będącego najpewniejszym faktem, nie może zanegować autentyczny fizykalizm .",
-    "associated_thinkers": ["Galen Strawson"],
+    "associated_thinkers": [
+      "Galen Strawson"
+    ],
     "category": "Panpsychizmy",
     "subcategory": "Paneksperiencjalizm",
     "core_identity_tagline": "'Realny materializm pociąga za sobą panpsychizm'",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość (doświadczenie) zostaje utożsamiona z wewnętrzną, nieredukowalną własnością fenomenalną wszelkiej fundamentalnej materii fizycznej lub energii (paneksperiencjalizm).",
-    "ontological_status": "Monizm realistyczny / realny materializm",
+    "ontological_status": "Realistic Monism / Real Materialism",
     "mind_body_relationship": "Teoria tożsamości (w mocnym sensie). Zjawiska mentalne uznaje się za konkretne zjawiska fizyczne, ponieważ realny fizykalizm obejmuje wszystkie realne zjawiska, w tym doświadczenie.",
-    "primitive_or_emergent_status": "Pierwotny/Fundamentalny",
-    "emergence_type": "Nie dotyczy (Świadomość jest pierwotna). Teoria opiera się na niemożliwości 'radykalnej' emergencji, aby poprzeć twierdzenie, że panpsychizm jest pociągany przez fizykalizm .",
+    "primitive_or_emergent_status": "Primitive/Fundamental",
+    "emergence_type": "N/A (Consciousness is primitive). The theory relies on the impossibility of 'radical' emergence to support its claim that panpsychism is entailed by physicalism .",
     "subjectivity_and_intentionality": "Subiektywny charakter doświadczenia (cechy typu 'jak to jest') jest konkretnym, fundamentalnym danym faktem przyrodniczym, który musi zostać uznany przez każdego realistycznego fizykalistę.",
     "qualia_account": "Qualia są realnymi, konkretnymi i fizycznymi własnościami świata; ich negowanie uznaje się za 'najgłupsze twierdzenie, jakie kiedykolwiek wygłoszono'.",
     "ontological_commitments": "Fizyczne byty ostateczne (energia/materia fizyczna) oraz przynależne im własności fenomenalne/doświadczeniowe.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny, pojęciowy, fenomenologiczny"
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalny pojęciowo. Jest to propozycja metafizyczna wywiedziona z filozoficznych przesłanek dotyczących natury świata fizycznego. Nagasawa zauważa, że panpsychizm, nawet jeśli jest prawdziwy, może osiągnąć 'poznawczą ślepą uliczkę', ponieważ nie da się go udowodnić .",
+    "testability_status": "Conceptually testable. It is a metaphysical proposal derived from philosophical premises about the nature of the physical world. Nagasawa notes that panpsychism, even if true, may reach a 'cognitive dead end' because it cannot be proven .",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Przez niektórych krytyków powszechnie uznawany za 'absurdalny' . Cierpi na problem kombinacji, wymagając wyjaśnienia, w jaki sposób doświadczenia na poziomie mikro agregują się, dając własności makrofenomenalne.",
     "open_questions_and_limitations": "Znalezienie rozsądnego rozwiązania problemu kombinacji jest konieczne, by pogląd ten stał się najbardziej obiecującym rozwiązaniem problemu psychofizycznego .",
@@ -51,35 +53,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Zapewne",
+      "stance": "Likely",
       "rationale": "Jeśli świadomość jest nieredukowalną własnością każdego elementarnego bytu fizycznego, to również SI, jako zbudowana z materii fizycznej, powinna posiadać wewnętrzną świadomość, o ile da się rozwiązać problem kombinacji, a zaawansowana technologia potrafi manipulować aspektami mikropsychicznymi ."
     },
     "survival_beyond_death": {
-      "stance": "Mało prawdopodobne (bardzo wątpliwe)",
+      "stance": "Unlikely",
       "rationale": "Choć świat jest przepojony świadomością, przetrwanie wymagałoby odwrócenia złożonego procesu scalania się elementów mikroskopowych w świadomość makroskopową, co wydaje się trudne w odniesieniu do przetrwania pierwszoosobowego po rozpadzie mózgu ."
     },
     "meaning_and_purpose": {
-      "stance": "Możliwe",
+      "stance": "Uncertain",
       "rationale": "Panpsychizm sytuuje się pomiędzy materializmem (brak ostatecznego celu) a dualizmem/idealizmem (ostateczny cel), sugerując możliwy ostateczny sens/cel/wartość ."
     },
     "virtual_immortality": {
-      "stance": "Zapewne",
+      "stance": "Likely",
       "rationale": "Jeśli świadomość jest wewnętrzną, regularną własnością tkanki rzeczywistości, zaawansowana technologia mogłaby potencjalnie poznać regularności potrzebne do agregowania lub manipulowania siłami mikropsychicznymi, aby zduplikować lub wgrać świadomość ."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Chalmers’s Panpsychism",
-        "relationship": "Zgodność/Wpływ"
+        "name": "Chalmers's Panpsychism",
+        "relationship": "Compatible/Influence"
       },
       {
         "name": "Russellian Monism",
-        "relationship": "Zachodzenie na siebie/Synteza"
+        "relationship": "Overlap/Synthesis"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
-        "relationship": "Krytyka"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

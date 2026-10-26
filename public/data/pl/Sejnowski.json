@@ -1,0 +1,124 @@
+{
+  "id_and_class": {
+    "theory_title": "Obliczeniowe dwa poziomy i fale wędrujące Sejnowskiego",
+    "summary": "Sejnowski proponuje, że świadomość wyłania się z drugiego, poznawczego poziomu przetwarzania korowego, nałożonego na zwykły poziom sensomotoryczny. Poziom sensomotoryczny koduje informację w częstościach wyładowań, natomiast poziom poznawczy wykorzystuje milisekundowo precyzyjny czas impulsów, zorganizowany przez fale wędrujące i tymczasową plastyczność synaptyczną, by utrzymywać kontekst w czasie i podtrzymywać myślenie bez bodźców z zewnątrz. Spodziewa się, że gdy te mechanizmy zostaną zrozumiane, problem świadomości może zniknąć „jak kot z Cheshire”.",
+    "associated_thinkers": [
+      "Terrence J. Sejnowski"
+    ],
+    "category": "Materializm",
+    "subcategory": "Obliczeniowe",
+    "core_identity_tagline": "Świadomość jako samoistne myślenie w poziomie korowym o precyzyjnym czasie impulsów",
+    "classification_tags": [
+      "computational neuroscience",
+      "spike timing",
+      "traveling waves",
+      "postdiction",
+      "thalamus"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Świadomość jest globalnym stanem dynamicznym mózgu myślącego o myśleniu: samoistną aktywnością w poznawczym poziomie korowym, który buduje wewnętrzne reprezentacje z minionego doświadczenia.",
+    "ontological_status": "Physicalism (computational, neural dynamics)",
+    "mind_body_relationship": "Zjawiska mentalne są mechanizmami neuronalnymi, a Sejnowski oczekuje, że filozoficzne pytania o umysł otrzymają odpowiedzi naukowe w miarę rozumienia tych mechanizmów.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (from the global dynamics of spiking neurons and traveling waves)",
+    "subjectivity_and_intentionality": "Zjednoczone „teraz” doświadczenia jest konstruowane postdykcyjnie: mózg rewiduje niedawną historię, tak by świadoma teraźniejszość pasowała do tego, co dzieje się dalej.",
+    "qualia_account": "",
+    "ontological_commitments": "Wyładowujące neurony korowe, plastyczność zależna od czasu impulsów, fale wędrujące, hamujące komórki koszyczkowe parwalbuminowe oraz rdzeniowy i macierzowy system wzgórzowy.",
+    "epistemic_access": "Poprzez elektrofizjologię laboratoryjną, psychofizykę, taką jak efekt flash-lag, modelowanie obliczeniowe i dane z uszkodzeń.",
+    "constituents_and_structure": "Dwa poziomy. Poziom 1 to długotrwała sieć sensomotoryczna wykorzystująca kody częstościowe i wzgórze rdzeniowe. Poziom 2 to tymczasowa sieć poznawcza wykorzystująca precyzyjny czas impulsów, fale wędrujące i wzgórze macierzowe."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Dostęp i poznanie (samoistna myśl, pamięć robocza, podejmowanie decyzji, planowanie); czasowa jedność doświadczenia",
+    "distinctive_mechanism_or_principle": "Fale wędrujące porządkują precyzyjnie wyznaczone w czasie impulsy w kod populacyjny czasoprzestrzenny, który wyzwala plastyczność zależną od czasu impulsów trwającą godzinami i tworzy tymczasową sieć poznawczą nad siecią sensomotoryczną.",
+    "dynamics_of_emergence": "Świadomość jest postdykcyjna. Postrzeganie danej chwili zależy od zdarzeń z następnych około 80 milisekund, a okna integracji rosną od około 100 milisekund w pierwotnej korze wzrokowej do nawet 10 sekund w korze przedczołowej.",
+    "location_and_distribution": "Kora mózgowa, z macierzowym systemem wzgórzowym projektującym szeroko do powierzchownych warstw korowych. Małe uszkodzenia w jądrach śródblaszkowych wzgórza mogą znieść świadomość.",
+    "causation_and_functional_role": "Poziom poznawczy wspiera długotrwałą pamięć roboczą, podejmowanie decyzji i myśl, która trwa po ustaniu zewnętrznych bodźców, ściągając kontekst z różnych momentów, by kierować działaniem.",
+    "integration_or_binding": "Globalna koordynacja szlaków macierzowego wzgórza jednoczy doświadczenie, a fale wędrujące wiążą informację w przestrzeni i czasie w obrębie jednej populacji neuronów.",
+    "information_flow_or_representation": "Fale wędrujące tworzą kod podobny do holograficznego, w którym czas jest jednym wymiarem, więc jedna populacja może reprezentować okno czasowe, podobnie jak samouwaga w transformerach SI wiąże słowa w zdaniu.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Mainen i Sejnowski stwierdzili, że neurony korowe inicjują impulsy z milisekundową precyzją, gdy są pobudzane fluktuującym wejściem „zamrożonego szumu”, a czas wyznacza odbicie po hamowaniu z komórek koszyczkowych.",
+      "Efekt flash-lag pokazuje, że postrzeganie błysku zależy od tego, co dzieje się po nim, co Eagleman i Sejnowski interpretują jako postdykcję.",
+      "Fale wędrujące obserwowane w wielu pasmach częstotliwości mogłyby wyzwalać plastyczność zależną od czasu impulsów trwającą godzinami, wspierając długotrwałą pamięć roboczą.",
+      "Sejnowski proponuje, że sygnał BOLD w fMRI odzwierciedla koszt metaboliczny plastyczności synaptycznej i uwagi bardziej niż wyładowań.",
+      "W przeciwieństwie do dużych modeli językowych, których aktywność jednokierunkowa ustaje wraz z końcem promptu, mózg podtrzymuje samoistną aktywność w pętlach nawrotowych."
+    ],
+    "basis_of_belief_or_evidence_type": "Empiryczna (elektrofizjologia, psychofizyka, dane z uszkodzeń) i modelowanie obliczeniowe"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Wstrzykiwanie prądu zamrożonego szumu do neuronów korowych; psychofizyka flash-lag; rejestracje korowych fal wędrujących; uszkodzenia jąder śródblaszkowych wzgórza; BOLD fMRI.",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "Sejnowski opisuje problem świadomości jako taki, który może się rozpuścić przy lepszym zrozumieniu percepcji, podejmowania decyzji i planowania, więc ramy te dotyczą mechanizmów poznawczych bardziej niż tego, dlaczego są one w ogóle jakoś odczuwane. Związek między plastycznością wyzwalaną przez fale wędrujące a długotrwałą pamięcią roboczą jest przedstawiany jako prawdopodobny, a nie wykazany.",
+    "ontological_coherence": "Zgodne z fizykalizmem i z programem Cricka dotyczącym neuronalnych mechanizmów świadomości. Sejnowski porównuje poziom poznawczy do globalnej przestrzeni roboczej."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Obecnym dużym modelom językowym brakuje samoistnej aktywności, ale Sejnowski sugeruje, że maszyny zbudowane z samogenerującą dynamiką „Systemu 2”, zorganizowaną przez fale wędrujące i plastyczność, mogłyby zyskać poznanie bliższe ludzkiemu doświadczeniu."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Ponieważ świadomość jest globalnym stanem dynamicznym obwodów korowych i wzgórzowych, z tego poglądu wynika, że kończy się, gdy ta dynamika ustaje."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Sejnowski ujmuje samopoznanie jako rozumienie mechanizmów myślenia, bez udziału kosmicznego celu."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "Pogląd jest obliczeniowy i dopuszcza w zasadzie poznanie maszynowe, ale Sejnowski nie zajmuje się kopiowaniem indywidualnego umysłu."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "Foundation"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Eagleman's Possibilianism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reliability of Spike Timing in Neocortical Neurons, Z. F. Mainen and T. J. Sejnowski",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Motion Integration and Postdiction in Visual Awareness, D. M. Eagleman and T. J. Sejnowski",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Regulation of Spike Timing in Visual Cortical Circuits, P. Tiesinga, J. M. Fellous, and T. J. Sejnowski",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Consciousness, Terrence J. Sejnowski",
+        "year": 2015
+      },
+      {
+        "title_with_names": "The Deep Learning Revolution, Terrence J. Sejnowski",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Transformers and Cortical Waves: Encoders for Pulling in Context Across Time, L. Muller, P. S. Churchland, and T. J. Sejnowski",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Dynamical Mechanisms for Coordinating Long-term Working Memory Based on the Precision of Spike-timing in Cortical Neurons, Terrence J. Sejnowski",
+        "year": 2026
+      }
+    ]
+  }
+}

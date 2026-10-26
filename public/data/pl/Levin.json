@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Levina technologiczne podejście do umysłu wszędzie (TAME)",
     "summary": "Ramy te ujmują umysł i poznanie poprzez funkcjonalną, ukierunkowaną na cel aktywność zachodzącą na rozmaitych, często niekonwencjonalnych podłożach, w tym w materiałach inżynieryjnych i biologii syntetycznej. Zakłada się, że świadomość lub czucie jest ciągłe i stopniowalne, a umysły zwierzęce traktuje się jako przypadek zbiorowej inteligencji grup komórek.",
-    "associated_thinkers": ["Michael Levin"],
+    "associated_thinkers": [
+      "Michael Levin"
+    ],
     "category": "Teorie materialistyczne",
     "subcategory": "Ewolucja filogenetyczna",
     "core_identity_tagline": "Technologiczne podejście do umysłu wszędzie (TAME)",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość/czucie utożsamia się z ukierunkowaną na cel aktywnością realizowaną w rozmaitych ucieleśnionych podłożach, często zorganizowanych jako złożone układy percepcyjno-działaniowe.",
-    "ontological_status": "Fizykalizm (materializm)",
+    "ontological_status": "Physicalism (Materialism)",
     "mind_body_relationship": "Świadomość jest z gruntu ucieleśniona, wyłaniając się z konfiguracji i dynamiki fizycznego podłoża (którym może być konwencjonalna tkanka biologiczna lub nowatorskie architektury chimeryczne).",
-    "primitive_or_emergent_status": "Emergentna",
-    "emergence_type": "Emergencja słaba (Ciągłość świadomości sugeruje, że jej złożona dynamika funkcjonalna, która jest fizyczna, prowadzi do jej pojawienia się bez konieczności ostrych, niewyjaśnialnych przejść fazowych.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (The continuity of consciousness suggests that its complex functional dynamics, which are physical, lead to its appearance without requiring sharp, inexplicable phase transitions.)",
     "subjectivity_and_intentionality": "Subiektywność (świadomość jako taka) jest trudna do uchwycenia obiektywnie. Intencjonalność jest centralna, powiązana bezpośrednio z aktywnością ukierunkowaną na cel oraz z ucieleśnioną sprawczością.",
     "qualia_account": "Teoria skupia się na funkcji poznawczej i w dużej mierze pozostaje sceptyczna wobec definiowania świadomości fenomenalnej (qualiów) z perspektywy trzecioosobowej, obiektywnej.",
     "ontological_commitments": "Podłoża fizyczne, biologiczne i niebiologiczne (architektury chimeryczne), grupy komórek przejawiające zbiorową inteligencję oraz układy percepcyjno-działaniowe operujące w abstrakcyjnych przestrzeniach (np. morfogenetycznej, transkrypcyjnej).",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Eksperymentalny (biologia syntetyczna), obliczeniowy, filozoficzny (ciągłość poznania)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Empirycznie testowalne poprzez tworzenie i modyfikowanie nowatorskich ucieleśnionych układów poznawczych metodami bioinżynieryjnymi.",
+    "testability_status": "Empirically testable through the creation and manipulation of novel embodied cognitive systems using bioengineering methods.",
     "known_empirical_interventions_or_tests": [
       "Syntetyczne tworzenie chimerycznych układów poznawczych w rozmaitych materiałach",
       "Przyszłe wdrożenie radykalnych interfejsów mózg–komputer w celu obserwacji zmian w świadomości"
@@ -55,35 +57,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Ponieważ TAME stosuje się do materiałów zaprojektowanych i chimerycznych, układy sztuczne (jeśli skonfigurowane jako ukierunkowane na cel, ucieleśnione układy percepcyjno-działaniowe) mogłyby wiarygodnie realizować świadomość."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Jako materialistyczne ramy wiążące świadomość z bieżącym funkcjonowaniem ucieleśnionego podłoża fizycznego, nie dopuszczają przetrwania poza istnieniem tego podłoża."
     },
     "meaning_and_purpose": {
-      "stance": "Humanistyczne/Powiązane ze sprawczością",
+      "stance": "Humanistic only",
       "rationale": "Świadomość jest powiązana z aktywnością ukierunkowaną na cel, co sugeruje, że sens wywodzi się z wewnętrznej sprawczości układu, a nie z teleologii kosmicznej."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Założenie, że umysł można zaprojektować i zainstancjonować w nowatorskich, niebiologicznych architekturach, sugeruje, że powielenie i przeniesienie złożonego, ucieleśnionego układu percepcyjno-działaniowego powinno być w zasadzie możliwe."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Embodied Cognition",
-        "relationship": "Zgodność/Wpływ"
+        "name": "Embodied",
+        "relationship": "Compatible/Influence"
       },
       {
-        "name": "Ginsburg and Jablonka’s Associative Learning During Evolution",
-        "relationship": "Nakładanie się"
+        "name": "Ginsburg and Jablonka's Associative Learning During Evolution",
+        "relationship": "Overlap"
       },
       {
-        "name": "Computational and Informational Theories",
-        "relationship": "Nakładanie się"
+        "name": "Computational",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

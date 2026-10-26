@@ -1,0 +1,136 @@
+{
+  "id_and_class": {
+    "theory_title": "Intencjonalna neurodynamika W. Freemana",
+    "summary": "Walter J. Freeman III uważa, że świadomość fenomenalna jest ciągiem krótkich, globalnie spójnych stanów aktywności kory, ramek powstających w wyniku przejść fazowych w dużych populacjach neuronów. Percepcja zaczyna się od celów wyznaczanych przez układ limbiczny, a mózg konstruuje znaczenie bodźca na podstawie historii zwierzęcia, zamiast kopiować sam bodziec. Uświadomienie pojawia się późno w tym cyklu działania i percepcji jako globalny stan porządkujący, który wstrzymuje działanie, dopóki rozważane są opcje.",
+    "associated_thinkers": [
+      "Walter J. Freeman III",
+      "Giuseppe Vitiello"
+    ],
+    "category": "Materializm",
+    "subcategory": "Neurobiologiczne",
+    "core_identity_tagline": "Świadomość jako ramki spójnej dynamiki korowej",
+    "classification_tags": [
+      "neurodynamics",
+      "phase transitions",
+      "intentionality",
+      "circular causality",
+      "eeg"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Świadomość jest ciągiem makroskopowych stanów porządkujących w korze, z których każdy jest globalnie spójnym wzorcem aktywności populacji neuronów, działającym jak parametr porządku na aktywność, która go wytwarza.",
+    "ontological_status": "Physicalism (dynamical, non-reductive)",
+    "mind_body_relationship": "Przyczynowość kolista: mikroskopowa aktywność neuronalna wytwarza stan globalny, a stan globalny ogranicza tę mikroskopową aktywność, bez żadnego podmiotu poza pętlą. Freeman opisuje świadomość jako pole sił skupione w mózgu, działające przez ciało na otoczenie i znane tylko przez swoje skutki.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Emergence through self-organizing phase transitions in neural populations, with downward constraint from the global state on its parts",
+    "subjectivity_and_intentionality": "Intencjonalność jest pierwotna: idąc za Akwinatą, Freeman traktuje intencję jako całego organizmu wyciągającego się ku światu. Ramię przednie pętli jest intencjonalnym ja, a ramię sprzężenia zwrotnego jest świadomością ja i jego działań.",
+    "qualia_account": "Freeman odkłada trudny problem na bok. Treść jest konstruowana w każdym mózgu, więc znaczenia każdego mózgu są jego własne, lecz nie wyjaśnia on, dlaczego spójne stany korowe są odczuwane.",
+    "ontological_commitments": "Oddziałujące populacje neuronów pobudzających i hamujących, mezoskopowe pola prądu dendrytycznego, chaotyczna aktywność tła, krajobrazy atraktorów kształtowane przez uczenie się oraz układ limbiczny jako źródło celów.",
+    "epistemic_access": "Freeman uważa, że nie istnieje bezpośredni fizjologiczny pomiar świadomości. Opiera się na zapisach EEG i elektrokortykogramu oraz na behawioralnych testach pobudzenia, intencji i uwagi, które dają jedynie dostęp pośredni.",
+    "constituents_and_structure": "Hierarchia „K-zbiorów” od nieoddziałujących populacji, przez oscylujące i chaotyczne układy zmysłowe, po globalne interakcje między obszarami kory. Doświadczenie jest zbudowane z dyskretnych ramek, czyli pakietów falowych, rozdzielonych szybkimi przejściami."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenalna (organizacja i treść doświadczenia); znaczenie percepcyjne; intencjonalność; samoświadomość; strumień świadomości; sprawczość uświadomienia.",
+    "distinctive_mechanism_or_principle": "Endogenne przejścia fazowe w populacjach korowych: chaotyczna aktywność tła przeskakuje do wyuczonego basenu atraktora, wytwarzając przestrzenny wzorzec modulacji amplitudy, który wyraża, co bodziec znaczy dla zwierzęcia. Późne, wielkoskalowe synchronie w paśmie beta w korach zmysłowych i korze entorinalnej są jego kandydatem na korelaty uświadomienia.",
+    "dynamics_of_emergence": "Strumień świadomości jest „kinematograficzny”, to ciąg ramek, z których każda powstaje w przejściu fazowym. Jego pozorna ciągłość nie musi odzwierciedlać stale utrzymywanej treści neuronalnej.",
+    "location_and_distribution": "Globalna dynamika korowa, z układem limbicznym (kora entorinalna i hipokamp) organizującym intencję. Freeman ogranicza świadomość do zwierząt z warstwowym neuropilem korowym i odrzuca panpsychizm.",
+    "causation_and_functional_role": "Uświadomienie nie jest ani epifenomenalne, ani inicjatorem działania. „Pojawia się jako makroskopowy stan porządkujący, który odracza działanie, aż samoorganizujący się proces mikroskopowy osiągnie domknięcie w refleksyjnej predykcji”, wygaszając lokalne fluktuacje i opóźniając zobowiązanie się do działania.",
+    "integration_or_binding": "Globalna spójność: późne wzorce w paśmie beta synchronizują się we wszystkich pierwotnych obszarach zmysłowych i korze entorinalnej, wiążąc wczesne wzorce gamma specyficzne dla modalności w jeden stan.",
+    "information_flow_or_representation": "Freeman odrzuca przechowywane reprezentacje. Gdy surowe wejście zmysłowe wybierze atraktor, jest odrzucane, a powstały wzorzec niesie znaczenie zbudowane z historii i celów zwierzęcia. Układ limbiczny wysyła wyładowania towarzyszące (corollary discharges), które przygotowują korę zmysłową na oczekiwane skutki działania (preaferencja).",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "U wytrenowanych królików każde wciągnięcie nosem wyuczonego zapachu wywoływało salwę gamma w opuszce węchowej, której przestrzenny wzorzec amplitudy odróżniał zapachy.",
+      "Wzorce te zmieniały się, gdy zmieniały się warunki wzmocnienia lub uczono się nowych zapachów, co Freeman odczytywał jako dowód, że kodują znaczenie, a nie bodziec.",
+      "Ta sama dynamika występuje w korze wzrokowej, słuchowej i somatosensorycznej, więc mechanizm uogólnia się poza węch.",
+      "Późne, rozległe zdarzenia beta pasują do opisanego przez Libeta około półsekundowego opóźnienia zgłaszanego uświadomienia."
+    ],
+    "basis_of_belief_or_evidence_type": "Empiryczna (elektrofizjologia zwierzęca i nieliniowe modelowanie dynamiczne), z filozoficznym ujęciem zaczerpniętym od Akwinaty, Merleau-Ponty'ego i pragmatystów."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Zapisy elektrokortykogramu i EEG z opuszki węchowej i neokorteksu u wytrenowanych zwierząt; analiza przestrzenna modulacji amplitudy aktywności gamma i beta; paradygmaty odwrócenia wzmocnienia i uczenia się nowych zapachów.",
+    "criticisms_and_tensions": "Czasowo segmentowane wzorce neuronalne mogą wspierać model organizacji percepcyjnej, nie wykazując, że samo doświadczenie ma przerwy, a klasyfikowanie bodźców na podstawie zapisów ze zwierząt nie ujawnia, czego zwierzę doświadcza. Rozszerzenie o kwantową teorię pola z Vitiello nie jest ustalone przez dane o oscylacjach, a nawet gdyby było słuszne, nadal wymagałoby wyjaśnienia swojego związku z doświadczeniem.",
+    "open_questions_and_limitations": "Dowody pochodzą głównie z elektrofizjologii zwierzęcej, więc rozciągnięcie ich na doświadczenie człowieka jest wnioskowaniem. Które własności dynamiczne są konieczne lub wystarczające dla doświadczenia, czym różnią się od poznania nieświadomego i dlaczego są odczuwane, pozostaje otwarte.",
+    "ontological_coherence": "Zgodna z fizykalizmem, który dopuszcza ograniczanie części przez stany globalne. Model dyssypatywnego kwantowego pola Freemana i Vitiello zachowuje klasyczność obserwabli i nie traktuje neuronów ani glej jako obiektów kwantowych."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "Freeman ogranicza świadomość do zwierząt z warstwowym neuropilem korowym, a znaczenie w jego ujęciu pochodzi z celowego, cielesnego zaangażowania organizmu w jego świat."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Skoro świadomość jest tu wzorcem żywej dynamiki korowej, kończy się, gdy ta dynamika ustaje."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Aquinas’s Hylomorphism",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Globus's Quantum Thermofield Brain Dynamics",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mass Action in the Nervous System, Walter J. Freeman",
+        "year": 1975
+      },
+      {
+        "title_with_names": "How Brains Make Chaos in Order to Make Sense of the World, C. A. Skarda and Walter J. Freeman",
+        "year": 1987
+      },
+      {
+        "title_with_names": "Consciousness, Intentionality and Causality, Walter J. Freeman",
+        "year": 1999
+      },
+      {
+        "title_with_names": "How Brains Make Up Their Minds, Walter J. Freeman",
+        "year": 2000
+      },
+      {
+        "title_with_names": "A Cinematographic Hypothesis of Cortical Dynamics in Perception, Walter J. Freeman",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Indirect Biological Measures of Consciousness from Field Studies of Brains as Dynamical Systems, Walter J. Freeman",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Nonlinear Brain Dynamics and Intention According to Aquinas, Walter J. Freeman",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Nonlinear Brain Dynamics as Macroscopic Manifestation of Underlying Many-Body Field Dynamics, Walter J. Freeman and Giuseppe Vitiello",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Cognitive Phase Transitions in the Cerebral Cortex, R. Kozma and Walter J. Freeman",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Societies of Brains, Walter J. Freeman",
+        "year": 1995
+      }
+    ]
+  }
+}

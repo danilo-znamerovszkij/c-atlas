@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "Dusza w religiach rdzennych",
     "summary": "Kategoria ta gromadzi rozmaite pojęcia duszy występujące w religiach rdzennych i ludowych na całym świecie. Wierzenia te zazwyczaj obejmują wielorakie, niefizyczne komponenty duszy, z których niektóre uważa się za zanikające w chwili śmierci, podczas gdy inne trwają, odzwierciedlając aspekty tradycyjnego dualizmu.",
-    "associated_thinkers": ["Claude Rivière", "Stevan Harrell"],
+    "associated_thinkers": [
+      "Claude Rivière",
+      "Stevan Harrell"
+    ],
     "category": "Dualizmy",
     "subcategory": "Dusza w religiach rdzennych",
     "core_identity_tagline": "Wielorakie, wszechobecne, odporne na czas wierzenia o duszy",
@@ -16,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość, czyli „jaźń”, jest utożsamiana z czymś, co pochodzi z jednej lub więcej duchowych albo niefizycznych substancji duszy lub się z nich składa, odrębnym od ciała fizycznego.",
-    "ontological_status": "Dualizm tradycyjny / spirytualizm wieloaspektowy. Systemy te postulują wiele odrębnych, fundamentalnych kategorii istnienia (duchową/duszę i materialną/ciało).",
+    "ontological_status": "Traditional Dualism/Poly-aspect Spiritualism. These systems posit multiple distinct, fundamental categories of existence (spiritual/soul and material/body).",
     "mind_body_relationship": "Złożona, często częściowa, dualistyczna interakcja/korelacja. Komponent duszy informuje lub ożywia ciało, lecz pewne komponenty duszy mogą przetrwać ciało fizyczne lub istnieć przed nim, co wskazuje na niezależność.",
-    "primitive_or_emergent_status": "Pierwotny",
-    "emergence_type": "Nie dotyczy. Ponieważ dusza jest często opisywana jako preegzystująca lub wyprowadzona od stwórcy, uznaje się ją za byt fundamentalny, a nie wyłaniający się z procesów materialnych.",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "N/A. Since the soul is often described as pre-existing or derived from a creator, it is considered a fundamental entity rather than emerging from material processes.",
     "subjectivity_and_intentionality": "Subiektywność i intencjonalność są inherentne dla samego niefizycznego bytu duszy, o którym często się sądzi, że wybiera przeznaczenie (np. tradycja Ewe) lub definiuje osobowość.",
     "qualia_account": "Nie zdefiniowano jawnie. Nacisk pada na istnienie i trwanie bytu duszy, co implikuje, że doświadczenie jakościowe jest inherentną własnością komponentu duchowego.",
     "ontological_commitments": "Ciało fizyczne oraz wiele niefizycznych substancji duszy (np. różne typy duszy, tchnienie życia, duchy bezcielesne).",
@@ -43,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Dane antropologiczne, tradycja religijna, historia kulturowa."
   },
   "empirics_and_critiques": {
-    "testability_status": "Spekulatywny/antropologiczny. Jako starożytne systemy wierzeń pojęcia te nie podlegają nowoczesnym naukowym metodom eksperymentowania ani falsyfikacji.",
+    "testability_status": "Speculative/Anthropological. As ancient belief systems, these concepts are not subject to modern scientific methods of experimentation or falsification.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Często kategoryzowane przez głównonurtowych badaczy jako „przednowoczesne” lub „przednaukowe” ze względu na brak wyrafinowania filozoficznego lub ugruntowania empirycznego. Nie wysuwa się twierdzeń, jakoby wierzenia te rygorystycznie potwierdzały nowoczesny dualizm filozoficzny.",
     "open_questions_and_limitations": "Relacja między rozmaitymi aspektami duszy a świadomością fenomenalną jest luźno zdefiniowana. Model nie oferuje mechanizmu przyczynowego zgodnego ze współczesną fizyką, który wyjaśniałby interakcję.",
@@ -51,35 +54,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość wymaga komponentu duchowego (duszy/ducha) wyprowadzonego ze źródeł niefizycznych lub od stwórcy, którego systemom sztucznym z natury by brakowało."
     },
     "survival_beyond_death": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Przetrwanie pośmiertne jest cechą centralną, jako że postuluje się, iż kilka komponentów duszy trwa po śmierci biologicznego ciała."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmiczne/egzystencjalne",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Systemy wierzeń pociągają za sobą ostateczny sens poprzez postulowanie preegzystencji, duchowego pochodzenia od stwórcy oraz nadrzędnej struktury rządzącej indywidualnym przeznaczeniem."
     },
     "virtual_immortality": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Nieśmiertelność jest osiągana poprzez trwanie pierwotnej duchowej duszy i nie da się jej uzyskać za pomocą technologicznego zduplikowania lub symulacji funkcjonalnych wzorców ciała fizycznego."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Substance Dualism",
-        "relationship": "Nakładanie się"
+        "name": "Dualism",
+        "relationship": "Overlap"
       },
       {
         "name": "Historical and Traditional Dualisms",
-        "relationship": "Zgodna"
+        "relationship": "Compatible"
       },
       {
         "name": "Soul in Islamic Philosophy",
-        "relationship": "Nakładanie się"
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

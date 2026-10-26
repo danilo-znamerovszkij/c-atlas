@@ -20,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Charakter fenomenalny (Q) zostaje utożsamiony z jedną i tą samą własnością fizyczną (R), gdzie R może obejmować stany funkcjonalne lub stany postulowane przez reprezentacjonizm. Tożsamość ta zachodzi w naszym świecie jedynie kontyngentnie.",
-    "ontological_status": "Fizykalizm redukcyjny (rozumiany szeroko, tak by obejmował funkcjonalizm i reprezentacjonizm), choć Tye później wyraził dystans wobec pełnego fizykalizmu redukcyjnego.",
+    "ontological_status": "Reductive Physicalism (broadly construed to include functionalism and representationalism), although Tye later expressed distance from thoroughgoing reductive physicalism.",
     "mind_body_relationship": "Kontyngentna teoria tożsamości. Stany mentalne (wrażenia) są dosłownie tożsame ze stanami fizycznymi/procesami mózgowymi, lecz tożsamość ta jest faktem kontyngentnym, a nie koniecznością we wszystkich światach możliwych.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Subiektywność i charakter fenomenalny zostają zredukowane do treści reprezentacyjnej lub z nią utożsamione (reprezentacjonizm pierwszego rzędu). Charakter fenomenalny jest wyznaczany nie tylko przez stany aktualne, lecz także przez stany przeszłe („historia ma kluczowe znaczenie dla fenomenologii”).",
     "qualia_account": "Charakter jakościowy (Q) jest tożsamy z własnością fizyczną (R). Zdolność do wyobrażenia sobie Q bez R (zombie) jest uznawana za zrozumiałą, lecz odrzucana jako nieistotna, ponieważ opisuje jedynie świat metafizycznie możliwy, a nie świat rzeczywisty, co rozwiązuje lukę wyjaśniającą.",
     "ontological_commitments": "Stany fizyczne pewnego rodzaju, obejmujące stany neurofizjologiczne, stany funkcjonalne oraz treści reprezentacyjne, ugruntowane w stanach mikrofizycznych.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny, pojęciowy"
   },
   "empirics_and_critiques": {
-    "testability_status": "Spekulatywna/pojęciowa. Centralne twierdzenie opiera się na modalnych argumentach filozoficznych dotyczących tożsamości i konieczności, a nie na empirycznej falsyfikacji lub weryfikacji samej tożsamości.",
+    "testability_status": "Speculative/Conceptual. The central claim relies on modal philosophical arguments about identity and necessity rather than empirical falsification or verification of the identity itself.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Rdzenna teza opiera się na utrzymywaniu, że tożsamość stanów świadomych jest kontyngentna, podczas gdy inne naukowe zdania o tożsamości są konieczne, co krytycy mogą podważać. Argument uznaje pomyślność zombie filozoficznych, jednocześnie negując ich istotność dla świata rzeczywistego.",
     "open_questions_and_limitations": "Tye ostatecznie wyraził wątpliwość co do pełnego fizykalizmu redukcyjnego, uznając, że pewnego elementu świadomości nie da się uchwycić za pomocą redukcji na wyższym poziomie, co skłoniło go ku pewnej formie panpsychizmu.",
@@ -55,35 +55,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Jeśli świadomość jest kontyngentnie tożsama ze stanami fizycznymi/funkcjonalnymi/reprezentacyjnymi w naszym świecie, a stany te można zrealizować w układach niebiologicznych, to świadomość SI jest z zasady możliwa."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest zależna od fizycznych procesów mózgowych i tożsama z nimi w świecie rzeczywistym; rozpad mózgu pociąga za sobą kres świadomej jaźni pierwszoosobowej."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Jako teoria zakorzeniona w materializmie i fizykalizmie redukcyjnym nie oferuje żadnych podstaw dla ostatecznego sensu ani celu kosmicznego wykraczającego poza ten tworzony przez świadome ludzkie podmioty."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Ponieważ świadomość fenomenalna jest utożsamiona ze stanami fizycznymi (R), zduplikowanie R, na przykład poprzez cyfrowe przesłanie, skutecznie przesłałoby Q, czyniąc nieśmiertelność wirtualną z zasady osiągalną."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "First-Order Representationalism",
-        "relationship": "Zgodna"
+        "name": "First-Order",
+        "relationship": "Compatible"
       },
       {
-        "name": "Mind-Brain Identity Theory",
-        "relationship": "Wpływ"
+        "name": "Mind-Brain Identity",
+        "relationship": "Influence"
       },
       {
-        "name": "Panpsychisms",
-        "relationship": "Rozszerzenie/przesunięcie"
+        "name": "Panpsychism",
+        "relationship": "Extension/Shift"
       }
     ],
     "sources_and_references": [

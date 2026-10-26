@@ -21,10 +21,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest utożsamiana nie z rzeczywistym bytem ontologicznym (jak konwencjonalnie rozumiana), lecz ze zwodniczą iluzją, czyli iluzją użytkownika, generowaną przez złożone, leżące u podstaw fizyczne procesy mózgowe.",
-    "ontological_status": "Fizykalizm maksymalistyczny",
+    "ontological_status": "Maximalist Physicalism",
     "mind_body_relationship": "Zdroworozsądkowa koncepcja zjawisk psychologicznych (umysłu) jest radykalnie fałszywa i zostanie w całości wyparta (wyeliminowana) przez ramy pojęciowe ukończonej neuronauki (stany mózgu), a nie płynnie zredukowana.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Słaba emergencja (Uzasadnienie: teoria głosi, że iluzja wyłania się ze złożonych procesów fizycznych i wyraźnie odrzuca potrzebę nieredukowalnych, tajemniczych własności mentalnych, co jest zgodne ze słabą emergencją, mimo że samo pojęcie „świadomości” jako bytu zostaje wyeliminowane).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justification: The theory posits that the illusion arises from complex physical processes and explicitly rejects the need for irreducible, mysterious mental properties, consistent with weak emergence, even though the concept of 'consciousness' itself is eliminated as an entity.)",
     "subjectivity_and_intentionality": "Subiektywność oraz intencjonalne treści psychologii potocznej są albo iluzoryczne, albo niespójne i muszą zostać zrekonstytuowane w ramach pojęciowych ukończonej neuronauki.",
     "qualia_account": "Qualia (jakościowe cechy świadomości fenomenalnej) są odrzucane jako iluzoryczne i niespójne, rozumiane zamiast tego jako „iluzje użytkownika” generowane przez złożone, aktywowane sieci neuronalne, które skłaniają nas do relacjonowania doświadczeń.",
     "ontological_commitments": "Byty fizyczne opisywane przez obraz naukowy (fizykę, chemię, biologię molekularną i neurofizjologię). Zdroworozsądkowe byty mentalne są negowane/eliminowane.",
@@ -48,7 +48,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny, ewolucyjny, pojęciowy, antycypowany empiryczny (poleganie na przyszłej neuronauce)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Pojęciowo testowalna (weryfikacja jest uzależniona od zdolności przyszłej, ukończonej neuronauki do całkowitego wyparcia i zastąpienia psychologii potocznej).",
+    "testability_status": "Conceptually testable (verification is contingent on the ability of future completed neuroscience to entirely displace and replace folk psychology).",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Krytycy argumentują, że teoria nie wyjaśnia konkretnej rzeczywistości subiektywnego doświadczenia i qualiów. Zarzuca się jej albo ignorowanie emergentnych własności ośrodkowego układu nerwowego, albo implicytne zobowiązanie do zaprzeczenia określonej treści myśli.",
     "open_questions_and_limitations": "Teoria opiera się w całości na pomyślnym ukończeniu neuronauki, aby uzasadnić wyparcie psychologii potocznej — zadaniu jeszcze nieosiągniętym. Ma trudność z uczynieniem utożsamienia świadomości z aktywnością neuronalną zrozumiałym dla sceptyków filozoficznych.",
@@ -56,19 +56,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Skoro świadomość jest złożoną iluzją generowaną przez procesy fizyczne/obliczeniowe (adaptacją zwiększającą przystosowanie), inteligencja niebiologiczna (SI) musi być w stanie z zasady odtworzyć te procesy i zinstancjonować wynikającą z nich iluzję/funkcjonalność."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Jako maksymalistyczna teoria materialistyczna, świadomość jest całkowicie związana ze złożonymi procesami fizycznymi biologicznego mózgu i ustaje wraz ze śmiercią biologiczną."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Jako teoria materialistyczna nie implikuje żadnego ostatecznego sensu ani celu w kosmosie; wartość i sens są konstruktami ludzkimi wywodzącymi się z wyewoluowanych zdolności."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jeśli świadomość (iluzja) jest w całości ujęta przez leżący u podstaw fizyczny i funkcjonalny opis mózgu, to doskonała duplikacja tych stanów do medium niebiologicznego (przeniesienie) zachowałaby pierwszoosobową jaźń mentalną."
     }
   },
@@ -76,19 +76,19 @@
     "related_theories": [
       {
         "name": "Functionalism",
-        "relationship": "Nakładanie się"
+        "relationship": "Overlap"
       },
       {
-        "name": "Mind-Brain Identity Theory",
-        "relationship": "Zgodność"
+        "name": "Mind-Brain Identity",
+        "relationship": "Compatible"
       },
       {
-        "name": "Dennett’s Multiple Drafts Model",
-        "relationship": "Rozszerzenie"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Extension"
       },
       {
-        "name": "Feser’s Neo-Thomistic Dualism",
-        "relationship": "Krytyka"
+        "name": "Feser's Neo-Thomistic, Neo-Aristotelian, Common-Sense Dualism",
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

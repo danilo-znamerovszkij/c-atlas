@@ -1,0 +1,99 @@
+{
+  "questions": [
+    {
+      "axis": "mm", "topic": "Was wirklich ist", "ends": ["Materie", "Geist"],
+      "text": "Woraus besteht die Welt letztlich?",
+      "help": "Die älteste Trennlinie des Fachs: Materialismus, Dualismus, Idealismus und die Ansichten dazwischen.",
+      "options": [
+        { "label": "Aus Materie und Energie. Ein Geist ist etwas, das Materie tut.", "value": 0, "short": "Materie", "agree": "Sie beide halten nur Materie für letztlich wirklich" },
+        { "label": "Aus Materie, aber Geister sind eigenständig wirklich, nicht bloß eine Beschreibung von Gehirnen.", "value": 1, "short": "Materie, mit eigenständig wirklichen Geistern", "agree": "Sie beide stellen die Materie an die erste Stelle, nehmen Geister aber als wirklich" },
+        { "label": "Aus etwas Tieferem, das sich als Materie und als Geist zeigt.", "value": 2, "short": "etwas unter beidem", "agree": "Sie beide meinen, Geist und Materie teilen eine tiefere Quelle" },
+        { "label": "Aus zwei verschiedenen Arten von Dingen: dem Physischen und dem Mentalen.", "value": 3, "short": "zwei Arten von Dingen", "agree": "Sie beide meinen, Geist und Materie seien verschiedene Arten von Dingen" },
+        { "label": "Aus Geist. Die physische Welt ist die Weise, wie der Geist erscheint.", "value": 4, "short": "Geist", "agree": "Sie beide meinen, der Geist kommt zuerst" }
+      ]
+    },
+    {
+      "axis": "fu", "topic": "Wie grundlegend es ist", "ends": ["Illusion", "Grund der Wirklichkeit"],
+      "text": "Wie grundlegend ist Bewusstsein?",
+      "help": "Denken Sie an das erlebte Rot beim Sehen oder den Schmerz beim Verletzen.",
+      "options": [
+        { "label": "Weniger wirklich, als es scheint. Das innere Leuchten ist eine Geschichte, die das Gehirn sich selbst erzählt.", "value": 0, "short": "weniger wirklich, als es scheint", "agree": "Sie beide bezweifeln, dass Erfahrung ist, was sie zu sein scheint" },
+        { "label": "Wirklich, aber selten. Es braucht ein komplexes Gehirn.", "value": 1, "short": "wirklich, aber selten", "agree": "Sie beide meinen, es braucht ein komplexes Gehirn" },
+        { "label": "Wirklich bei allen Lebewesen, in Abstufungen.", "value": 2, "short": "abgestuft im ganzen Leben", "agree": "Sie beide sehen es bei allen Lebewesen, in Abstufungen" },
+        { "label": "Wirklich weit über Gehirne hinaus, vielleicht sogar in einfacher Materie.", "value": 3, "short": "über Gehirne hinaus vorhanden", "agree": "Sie beide meinen, es reicht über Gehirne hinaus" },
+        { "label": "Das Grundlegendste, was es gibt.", "value": 4, "short": "der Grund von allem", "agree": "Sie beide sehen im Bewusstsein den Grund der Wirklichkeit" }
+      ]
+    },
+    {
+      "axis": "lo", "topic": "Wo es ist", "ends": ["Im Gehirn", "Nirgends im Raum"],
+      "text": "Wo findet Ihr Erleben gerade statt?",
+      "options": [
+        { "label": "In bestimmten Schaltkreisen meines Gehirns.", "value": 0, "short": "in bestimmten Gehirnschaltkreisen", "agree": "Sie beide verorten es in bestimmten Gehirnschaltkreisen" },
+        { "label": "In meinem Gehirn, das als Ganzes arbeitet.", "value": 1, "short": "im Gehirn als Ganzem", "agree": "Sie beide verorten es im Gehirn als Ganzem" },
+        { "label": "In Gehirn, Körper und Umgebung zusammen.", "value": 2, "short": "in Gehirn, Körper und Welt zusammen", "agree": "Sie beide verteilen es auf Gehirn, Körper und Welt" },
+        { "label": "In der ganzen Natur verteilt, nicht nur in mir.", "value": 3, "short": "in der Natur verteilt", "agree": "Sie beide sehen es in der Natur verteilt" },
+        { "label": "Nirgends im Besonderen. Es liegt nicht im Raum.", "value": 4, "short": "gar nicht im Raum", "agree": "Sie beide meinen, es liegt nicht im Raum" }
+      ]
+    },
+    {
+      "axis": "ev", "topic": "Beste Belege", "ends": ["Experiment", "Tradition und Erfahrung"],
+      "text": "Was würde Sie in Sachen Bewusstsein überzeugen?",
+      "options": [
+        { "label": "Experimente und Gehirndaten.", "value": 0, "short": "Experimente", "agree": "Sie beide vertrauen zuerst auf Experimente" },
+        { "label": "Wissenschaft und sorgfältige Argumente, Seite an Seite.", "value": 1, "short": "Wissenschaft plus Argument", "agree": "Sie beide verbinden Wissenschaft und Argument" },
+        { "label": "Ein stichhaltiges philosophisches Argument.", "value": 2, "short": "philosophisches Argument", "agree": "Sie beide stützen die Sache auf Argumente" },
+        { "label": "Genaue Aufmerksamkeit für das eigene Erleben, durch Meditation oder Übung.", "value": 3, "short": "kontemplative Praxis", "agree": "Sie beide schätzen die Praxis der ersten Person" },
+        { "label": "Spirituelle Tradition oder Erfahrungen wie Nahtodberichte.", "value": 4, "short": "Tradition und außergewöhnliche Erfahrung", "agree": "Sie beide geben Tradition und außergewöhnlicher Erfahrung Gewicht" }
+      ]
+    },
+    {
+      "axis": "qu", "topic": "Physik", "ends": ["Gewöhnliche Physik", "Quanten oder neue Physik"],
+      "text": "Hat die heutige Physik Platz für Geister?",
+      "options": [
+        { "label": "Ja. Gewöhnliche Physik und Biologie genügen.", "value": 0, "short": "gewöhnliche Physik genügt", "agree": "Sie beide meinen, gewöhnliche Physik genügt" },
+        { "label": "Die Quantenphysik könnte eine Rolle spielen.", "value": 2, "short": "Quanteneffekte könnten helfen", "agree": "Sie beide lassen Raum für Quanteneffekte" },
+        { "label": "Geister brauchen Quantenphysik oder eine Physik, die wir noch nicht haben.", "value": 4, "short": "Quanten oder neue Physik nötig", "agree": "Sie beide meinen, Geister brauchen Quanten oder neue Physik" }
+      ]
+    },
+    {
+      "key": "ai", "topic": "KI-Bewusstsein",
+      "text": "Könnte eine KI jemals bewusst sein?",
+      "options": [
+        { "label": "Ja, wenn sie richtig gebaut ist.", "value": 4, "short": "ja", "agree": "Sie beide meinen, eine KI könnte bewusst sein" },
+        { "label": "Möglicherweise, aber nur unter bestimmten Bedingungen.", "value": 3, "short": "möglicherweise", "agree": "Sie beide sagen, eine KI könnte unter manchen Bedingungen bewusst sein" },
+        { "label": "Das kann niemand sagen.", "value": 2, "short": "das kann niemand sagen", "agree": "Sie beide lassen KI-Bewusstsein offen" },
+        { "label": "Nein. Maschinen können keine Erfahrungen haben.", "value": 0, "short": "nein", "agree": "Sie beide meinen, eine KI kann nicht bewusst sein" }
+      ]
+    },
+    {
+      "key": "survival", "topic": "Leben nach dem Tod",
+      "text": "Überlebt das Bewusstsein den Tod?",
+      "options": [
+        { "label": "Ja.", "value": 4, "short": "ja", "agree": "Sie beide erwarten, dass das Bewusstsein den Tod überlebt" },
+        { "label": "Möglicherweise, in irgendeiner Form.", "value": 3, "short": "möglicherweise", "agree": "Sie beide halten ein Überleben in irgendeiner Form für möglich" },
+        { "label": "Das kann niemand sagen.", "value": 2, "short": "das kann niemand sagen", "agree": "Sie beide lassen das Leben nach dem Tod offen" },
+        { "label": "Nein. Es endet mit dem Gehirn.", "value": 0, "short": "nein", "agree": "Sie beide meinen, es endet mit dem Gehirn" }
+      ]
+    },
+    {
+      "key": "virtual", "topic": "Mind Uploading",
+      "text": "Könnte Ihr Geist in einen Computer hochgeladen werden?",
+      "options": [
+        { "label": "Ja, im Prinzip.", "value": 4, "short": "ja", "agree": "Sie beide meinen, ein Geist könnte hochgeladen werden" },
+        { "label": "Möglicherweise, mit der richtigen Technik.", "value": 3, "short": "möglicherweise", "agree": "Sie beide meinen, Hochladen könnte funktionieren" },
+        { "label": "Das kann niemand sagen.", "value": 2, "short": "das kann niemand sagen", "agree": "Sie beide lassen das Hochladen offen" },
+        { "label": "Nein. Eine Kopie wäre nicht ich oder nicht bewusst.", "value": 0, "short": "nein", "agree": "Sie beide bezweifeln, dass ein Geist hochgeladen werden kann" },
+        { "label": "Nicht nötig. Bewusstsein besteht auch ohne Körper fort.", "value": "n", "short": "nicht nötig, es besteht ohnehin fort", "agree": "Sie beide meinen, Bewusstsein besteht auch ohne Hochladen fort" }
+      ]
+    },
+    {
+      "key": "meaning", "topic": "Sinn",
+      "text": "Gibt das Bewusstsein dem Leben einen Sinn, der über das hinausgeht, was wir daraus machen?",
+      "options": [
+        { "label": "Ja. Sinn ist in der Wirklichkeit angelegt.", "value": 4, "short": "ja, er ist angelegt", "agree": "Sie beide sehen Sinn in der Wirklichkeit angelegt" },
+        { "label": "Das kann niemand sagen.", "value": 2, "short": "das kann niemand sagen", "agree": "Sie beide lassen die Frage nach dem Sinn offen" },
+        { "label": "Nein. Sinn müssen wir selbst schaffen.", "value": 0, "short": "Sinn schaffen wir selbst", "agree": "Sie beide meinen, Sinn schaffen wir selbst" }
+      ]
+    }
+  ]
+}

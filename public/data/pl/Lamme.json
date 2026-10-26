@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Teoria przetwarzania nawrotowego Lammego",
     "summary": "Teoria przetwarzania nawrotowego (RPT) Lammego głosi, że świadomość jest zarazem konieczna i wystarczająca, gdy między obszarami neuronalnymi, zwłaszcza w układach zmysłowych, zachodzą wzajemne (nawrotowe) połączenia zwrotne. Przetwarzanie to, dokonujące się lokalnie w obszarach zmysłowych i pozazmysłowych (etap 3), generuje doświadczenie fenomenalne bez konieczności globalnego dostępu rozgłoszeniowego.",
-    "associated_thinkers": ["Victor Lamme"],
+    "associated_thinkers": [
+      "Victor Lamme"
+    ],
     "category": "Materializm",
     "subcategory": "Reprezentacyjne",
     "core_identity_tagline": "„Świadomość jako przetwarzanie nawrotowe w układach zmysłowych”",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest utożsamiana z określonym stanem przetwarzania nawrotowego zachodzącym w obrębie odpowiednich obwodów neuronalnych, takich jak układ wzrokowy.",
-    "ontological_status": "Fizykalizm",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Podejście tożsamościowe/redukcjonistyczne, argumentujące, że pojęcie umysłu musi zbliżyć się do pojęcia mózgu, a świadomość jest tożsama ze stanem przetwarzania nawrotowego w fizycznych obwodach.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Subiektywność (świadomość fenomenalna) jest samym stanem przetwarzania nawrotowego. Intencjonalność jest niesiona przez treść reprezentowaną w obrębie tych pętli (wywnioskowane jako teoria reprezentacyjna/pierwszego rzędu).",
     "qualia_account": "Qualia są generowane, gdy określony stan przetwarzania nawrotowego zachodzi w odpowiednich obwodach wzrokowych, czyniąc stan wzrokowy świadomym.",
     "ontological_commitments": "Zmysłowe układy mózgu, obwody neuronalne (obwody wzrokowe), połączenia dośrodkowe i zwrotne.",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Empiryczny, neurobiologiczny, pojęciowy"
   },
   "empirics_and_critiques": {
-    "testability_status": "Sprawdzalny empirycznie",
+    "testability_status": "Empirically testable",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Krytykuje teorię globalnej przestrzeni roboczej (GWT) jako 'dotyczącą całkowicie dostępu, a nie widzenia'. Sama jest krytykowana przez Neda Blocka jako 'okrojona forma ujęcia globalnej przestrzeni roboczej'.",
     "open_questions_and_limitations": "Aktywacje nawrotowe są wystarczające dla świadomości jedynie przy określonych 'warunkach tła', takich jak nienaruszona łączność ze strukturami podkorowymi.",
@@ -50,35 +52,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Jako teoria materialistyczna zakłada, że świadomość SI musi być w zasadzie możliwa, o ile wymagany wzorzec przetwarzania nawrotowego dałoby się sztucznie odtworzyć w niebiologicznym podłożu."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest związana z fizyczną aktywnością mózgu i określonymi obwodami neuronalnymi (stanami przetwarzania nawrotowego), co sugeruje jej ustanie wraz ze śmiercią ciała."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Teoria skupia się na czysto fizykalistycznym, neurobiologicznym wyjaśnieniu doświadczenia fenomenalnego i nie wspiera żadnego ostatecznego sensu ani celu kosmicznego."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Ponieważ świadomość jest samym stanem przetwarzania nawrotowego, doskonała duplikacja tego procesu na nowym nośniku (przesłanie) wygenerowałaby pierwszoosobową jaźń, umożliwiając wirtualną nieśmiertelność."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Krytyka"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Critique"
       },
       {
-        "name": "First-Order Representationalism",
-        "relationship": "Rozszerzenie"
+        "name": "First-Order",
+        "relationship": "Extension"
       },
       {
-        "name": "Block’s Biological Reductionism",
-        "relationship": "Nakładanie się"
+        "name": "Block's Biological Reductionism",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

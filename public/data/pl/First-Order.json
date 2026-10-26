@@ -20,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Fenomenalne aspekty doświadczeń percepcyjnych są jednym i tym samym co zewnętrzne, realne własności świata, które doświadczenie przypisuje przedmiotom.",
-    "ontological_status": "Fizykalizm",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Teoria tożsamości/korelacja redukcjonistyczna. Stany mentalne są utożsamiane z reprezentacjami zrealizowanymi w stanach mózgu, które nabywają swoiste funkcje informacyjne.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Intencjonalność (skierowanie myśli) jest pierwotna. Subiektywność jest w całości wyznaczana przez treść reprezentacyjną, ponieważ reprezentacje zmysłowe są bezpośrednio dostępne podmiotowi.",
     "qualia_account": "Qualia (charakter fenomenalny) są utożsamiane z treścią reprezentacyjną (silny reprezentacjonizm) lub z zewnętrznymi własnościami reprezentowanymi przez doświadczenie, co rozwiązuje trudny problem poprzez wyjaśnienie redukcyjne.",
     "ontological_commitments": "Reprezentacje mentalne, stany mózgu nabywające funkcje informacyjne, obwody zmysłowe/percepcyjne.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny (redukcja pojęciowa, nacisk na intencjonalność) i empiryczny (dane korelacyjne z neuronauki)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Empirycznie testowalna",
+    "testability_status": "Empirically testable",
     "known_empirical_interventions_or_tests": [
       "Mapowanie korelatów neuronalnych ogólnej i swoistej świadomości (kora zmysłowa, jądra wzgórza)",
       "Badania korelujące świadomość z globalnym rozgłaszaniem treści pierwszego rzędu"
@@ -58,39 +58,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jako teoria materialistyczna, w której świadomość zależy od treści informacyjnej i architektury funkcjonalnej, sztuczne systemy mogłyby zaktualizować świadomość, jeśli zrealizują niezbędne struktury reprezentacyjne i funkcje informacyjne."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest w całości realizowana przez fizyczne procesy mózgowe; przetrwanie po zniszczeniu substratu biologicznego jest wykluczone."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Jako teoria materializmu nie uzasadnia żadnego ostatecznego sensu ani celu kosmicznego, a jedynie sens generowany przez same świadome podmioty."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jeśli pierwszoosobowa jaźń jest w całości ujęta przez treść reprezentacyjną i stany informacyjne, to doskonałe powielenie (przesłanie) tych stanów do medium niebiologicznego powinno zachować pierwotną mentalną jaźń."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Theories",
-        "relationship": "Krytyka/kontrast"
+        "name": "Higher-Order",
+        "relationship": "Critique/Contrast"
       },
       {
-        "name": "Recurrent Processing Theory",
-        "relationship": "Rozszerzenie/nakładanie się"
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Extension/Overlap"
       },
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Zgodna/nakładanie się"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Compatible/Overlap"
       },
       {
         "name": "Transparency Thesis",
-        "relationship": "Wpływ"
+        "relationship": "Influence"
       }
     ],
     "sources_and_references": [

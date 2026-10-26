@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Looritsa realizm strukturalny",
     "summary": "Teoria ta głosi, że doświadczenia świadome są w pełni zjawiskami strukturalnymi, rezydującymi w mózgu jako złożone wzorce wyższego rzędu w aktywności neuronalnej. Rozwiązuje trudny problem, argumentując, że qualia, choć jawią się jako jakościowe i niestrukturalne, są w istocie złożonymi strukturami kompozycyjnymi, błędnie postrzeganymi jako własności monadyczne przez sam wzorzec neuronalny.",
-    "associated_thinkers": ["Kristjan Loorits"],
+    "associated_thinkers": [
+      "Kristjan Loorits"
+    ],
     "category": "Materializm",
     "subcategory": "Relacyjne",
     "core_identity_tagline": "Świadomość jako w pełni strukturalne wzorce neuronalne",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość utożsamia się ze złożonymi wzorcami wyższego rzędu w aktywności neuronalnej, które są wewnętrznie zjawiskami strukturalnymi. Qualia są strukturami kompozycyjnymi rozległych sieci nieświadomych skojarzeń.",
-    "ontological_status": "Realizm strukturalny (fizykalizm)",
+    "ontological_status": "Structural Realism (Physicalism)",
     "mind_body_relationship": "Tożsamość/redukcja (Doświadczenia świadome są zjawiskami strukturalnymi rezydującymi w mózgu i dającymi się analizować w kategoriach w pełni strukturalnych).",
-    "primitive_or_emergent_status": "Emergentna",
-    "emergence_type": "Emergencja słaba (Wywnioskowana, gdyż teoria głosi, że świadomość jest w pełni strukturalna i analizowalna w kategoriach fizycznych, mieszcząc się w materialistycznych ramach redukcjonistycznych, mimo konceptualnego rozwiązania trudnego problemu).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Inferred, as the theory claims consciousness is fully structural and analyzable in physical terms, fitting within a Materialist reductionist framework despite solving the Hard Problem conceptually).",
     "subjectivity_and_intentionality": "Subiektywność powstaje, ponieważ złożony wzorzec neuronalny błędnie postrzega swoje własne wysoce złożone własności strukturalne jako proste, monadyczne jakości. Doświadczenia świadome pojmuje się jako obiektywne struktury istniejące w świecie.",
     "qualia_account": "Qualia są w pełni zjawiskami strukturalnymi — strukturami kompozycyjnymi nieświadomych skojarzeń — jedynie *postrzeganymi* przez układ jako niestrukturalne lub jakościowe (zjawiska perspektywiczne).",
     "ontological_commitments": "Złożone wzorce neuronalne wyższego rzędu; obiektywne struktury istniejące w świecie; rozległe sieci nieświadomych skojarzeń.",
@@ -34,7 +36,7 @@
     "causation_and_functional_role": "Materiał źródłowy skupia się na tożsamości strukturalnej i epistemologii świadomości, a nie na jej wyraźnej przyczynowej roli funkcjonalnej."
   },
   "empirics_and_critiques": {
-    "testability_status": "Empirycznie testowalna (Przewidywanie opiera się na rozwoju technologii stymulacji mózgu).",
+    "testability_status": "Empirically testable (Prediction relies on the development of brain-stimulating technology).",
     "known_empirical_interventions_or_tests": [
       "Przewidywanie, że odpowiednia technologia stymulacji mózgu powinna ujawnić strukturalną naturę qualiów bezpośrednio doświadczającemu podmiotowi."
     ],
@@ -44,35 +46,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Jako teoria materialistyczna utożsamiająca świadomość ze strukturalnymi wzorcami neuronalnymi, wzorce te są konceptualnie odtwarzalne w niebiologicznych podłożach obliczeniowych."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Teoria definiuje świadomość jako w pełni strukturalne zjawiska rezydujące w mózgach biologicznych; w konsekwencji świadomość ustałaby wraz z ustaniem tych procesów neuronalnych."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Jako teoria materialistyczna dostarcza fizykalistycznego ujęcia świadomości fenomenalnej, lecz nie wspiera ostatecznego, kosmicznego sensu ani celu."
     },
     "virtual_immortality": {
-      "stance": "Tak (prawdopodobna)",
+      "stance": "Likely",
       "rationale": "Ponieważ świadomość utożsamia się w całości ze strukturalnymi własnościami fizycznymi (wzorcami neuronalnymi), powielenie tych wzorców w niebiologicznym nośniku powinno skutkować doskonałą kontynuacją świadomej jaźni, zgodnie z zasadami materializmu/funkcjonalizmu."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Eliminative Materialism / Illusionism",
-        "relationship": "Rozszerzenie/Wsparcie (Loorits wspiera ideę, że cechy niestrukturalne są w pełni strukturalne, ujmując „jawienia się” jako zjawiska perspektywiczne)"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Extension/Support (Loorits supports the idea that non-structural features are fully structural, viewing 'seemings' as perspectival phenomena)"
       },
       {
-        "name": "Representational Theories",
-        "relationship": "Nakładanie się (Teoria opiera się na strukturalnej reprezentacji qualiów, choć błędnie postrzeganej)"
+        "name": "First-Order",
+        "relationship": "Overlap (The theory relies on the structural representation of qualia, albeit misperceived)"
       },
       {
         "name": "Functionalism",
-        "relationship": "Zgodność (Skupia się na funkcji/roli struktur ponad podłożem, dopuszczając realizację w różnych nośnikach)"
+        "relationship": "Compatible (Focuses on function/role of structures over substrate, allowing for realization in different mediums)"
       }
     ],
     "sources_and_references": [

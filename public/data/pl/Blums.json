@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "Świadoma maszyna Turinga Blumów",
+    "summary": "Lenore, Manuel i Avrim Blum twierdzą, że świadomość, zarówno dostępowa, jak i fenomenalna, jest obliczeniowa i można ją ująć w formalnym modelu maszyny, Świadomej Maszynie Turinga (Conscious Turing Machine, CTM). W CTM nieświadome procesory konkurują o umieszczenie porcji informacji na jednomiejscowej „scenie”, która jest nadawana do nich wszystkich; maszyna coś odczuwa, gdy każdy procesor sprawdza to nadanie względem zbudowanego przez siebie Modelu Świata, który uznaje za sam świat.",
+    "associated_thinkers": [
+      "Lenore Blum",
+      "Manuel Blum",
+      "Avrim Blum"
+    ],
+    "category": "Materializm",
+    "subcategory": "Obliczeniowe",
+    "core_identity_tagline": "Świadomość jako nadawanie i sprawdzanie porcji modelu świata",
+    "classification_tags": [
+      "theoretical computer science",
+      "global workspace",
+      "world model",
+      "machine consciousness",
+      "formal model"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Świadomość jest procesem obliczeniowym. Świadoma uwaga to jednoczesne odebranie nadanej porcji przez wszystkie procesory; świadome uświadamianie to jednoczesne sprawdzanie tej porcji przez wszystkie procesory, której znaczenie jest ugruntowane w Modelu Świata maszyny.",
+    "ontological_status": "Physicalism (computational functionalism)",
+    "mind_body_relationship": "Umysł jest organizacją obliczeń, niezależną od podłoża. CTM celowo nie twierdzi nic o tym, które obszary mózgu realizują które funkcje, więc ten sam model może dotyczyć mózgów i maszyn.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (subjective experience follows from a defined architecture plus a stated axiom)",
+    "subjectivity_and_intentionality": "CTM jest świadoma tylko własnego Modelu Świata, nigdy samego świata, i traktuje model jako rzeczywistość. Jej poczucie ja wynika z etykietowania szkiców w modelu: szkic aktuatora, który może poruszać myślą, dostaje etykietę SELF, a później maszyna etykietuje własny szkic jako CONSCIOUS, co wywołuje poczucie bycia świadomym.",
+    "qualia_account": "Aksjomat A głosi, że sprawdzenie nadanej porcji wywołuje unikalne doświadczenie subiektywne, którego intensywność i walencja pochodzą z wagi porcji. Porcje z pustymi skrótami (gists) wywołują doświadczenia pierwotne (na przykład ból z awarii „wskaźnika tlenu”), a bogatsze doświadczenia są fuzjami doświadczeń wywoływanych przez słowa Brainish w skrócie.",
+    "ontological_commitments": "Procesory, porcje, scena w pamięci krótkotrwałej, drzewa rywalizacji i nadawania, powiązania podobne do hebbowskich między procesorami, czujniki i aktuatory, Model Świata oraz wewnętrzny język multimodalny zwany Brainish.",
+    "epistemic_access": "Przez formalne definicje, twierdzenia i dowody oraz porównanie zachowania modelu ze znanymi zjawiskami ludzkiej świadomości.",
+    "constituents_and_structure": "Siódemka: pamięć krótkotrwała (STM, scena), pamięć długotrwała (LTM, ogromny zbiór nieświadomych procesorów), Up-Tree do rywalizacji, Down-Tree do nadawania, powiązania między procesorami oraz mapy wejścia i wyjścia do czujników i aktuatorów. Czas biegnie w dyskretnych taktach w skończonym czasie życia."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Dostępowa (świadoma uwaga); fenomenalna (świadome uświadamianie); samoświadomość; poczucie bycia świadomym",
+    "distinctive_mechanism_or_principle": "Probabilistyczny turniej „zwycięzca bierze wszystko” w górę drzewa binarnego, w którym szansa wygrania każdej porcji równa się jej wadze podzielonej przez łączną wagę wszystkich zgłoszeń. Zwycięzca jest nadawany do każdego procesora, a świadome uświadamianie zachodzi, gdy wszystkie procesory sprawdzają go w tym samym takcie.",
+    "dynamics_of_emergence": "Świadomość rozwija się w ciągu życia maszyny. Nowo narodzona CTM ma mglisty Model Świata, który nie oddziela ja od świata; słowa Brainish i etykietowane szkice współewoluują z doświadczeniem, od słów pierwotnych, takich jak BLOB i PAIN, po SELF i CONSCIOUS.",
+    "location_and_distribution": "Rozproszona w wszystkich procesorach w LTM, które otrzymują to samo nadanie; STM mieści naraz tylko jedną porcję. Nie twierdzi się nic o konkretnym miejscu w mózgu.",
+    "causation_and_functional_role": "Nadanie pozwala każdemu procesorowi wiedzieć, co wygrało, jak było ważne i jaka była średnia waga konkurencji, co kalibruje późniejsze działanie. Procesory próbują rozpakować porcje o dużej wadze i zmniejszyć silnie ujemne wagi. Uczciwa, zdecentralizowana rywalizacja zastępuje niezdefiniowany „centralny egzekutor” innych modeli teatru.",
+    "integration_or_binding": "Skrót Brainish zespala treść multimodalną (czerwony kolor róży, słodki zapach, miękkie płatki, zapamiętane spotkania) w jedną etykietę. Wszystkie procesory dzielą identyczny globalny słownik nadanych porcji.",
+    "information_flow_or_representation": "Każda porcja niesie adres procesora, czas, krótki skrót Brainish, wagę ze znakiem i dane pomocnicze, które gromadzą globalny kontekst w miarę wznoszenia się przez drzewo. Słowa Brainish są wskaźnikami do wcześniej nadanych porcji, co Blumowie porównują do kluczy i wartości w uczeniu maszynowym.",
+    "evolutionary_account": "W obrębie jednej CTM Brainish i Model Świata współewoluują w ciągu jej życia; specjalizacje procesorów także ewoluują. Blumowie zestawiają to z teoriami ewolucyjnymi, takimi jak teoria Nicka Humphreya.",
+    "core_claims_and_evidence": [
+      "Twierdzenie pokazuje, że szansa wygrania porcji to jej waga podzielona przez łączną wagę wszystkich zgłoszeń, niezależnie od tego, gdzie procesory znajdują się w drzewie.",
+      "CTM odtwarza ślepotę nieuwagi, ślepotę na zmianę i opóźnienie podobne do opóźnienia Libeta między wejściem porcji do rywalizacji a jej nadaniem.",
+      "Błędnie etykietowane szkice w Modelu Świata dają odpowiedniki zespołu kończyny fantomowej, zaburzenia integralności ciała i paranoi.",
+      "CTM na wysokim poziomie zgadza się z teorią globalnej przestrzeni roboczej, teorią schematu uwagi, przetwarzaniem predykcyjnym, ucieleśnioną poznawczością i teorią zintegrowanej informacji.",
+      "CTM przewiduje, że centralny egzekutor nie jest potrzebny do świadomości, a więc że mózg go nie ma."
+    ],
+    "basis_of_belief_or_evidence_type": "Formalna i matematyczna (informatyka teoretyczna), poparta jakościowym dopasowaniem do znanych cech ludzkiej świadomości."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "Blumowie argumentują, że CTM da się zbudować. Jej przewidywanie, że mózg nie ma centralnego egzekutora, można by sprawdzić w świetle neuronauki.",
+    "criticisms_and_tensions": "Krytycy pytają, czy formalne definicje i przetwarzanie symboli mogą uchwycić odczuwane doświadczenie. Doświadczenie subiektywne wchodzi przez Aksjomat A, więc opis odczuwania opiera się na założeniu. Anil Seth i Nick Humphrey, których poglądy nakładają się z CTM, uważają, że świadomość wymaga żywego organizmu, czemu Blumowie zaprzeczają.",
+    "open_questions_and_limitations": "CTM jest zbyt prosta, by modelować mózg, jak mówią sami Blumowie. Pozostaje otwarte, czy sprawdzenie porcji wytwarza doświadczenie, a nie tylko modeluje jego rolę.",
+    "ontological_coherence": "Spójna w ramach funkcjonalizmu obliczeniowego. Leży blisko iluzjonizmu Daniela Dennetta i Keitha Frankisha, choć Blumowie mówią o wyjaśnianiu „jak to jest”, a nie o jego zaprzeczaniu."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "Blumowie argumentują, że CTM da się zbudować i że czyni to świadomość AI wiarygodną, a nawet nieuniknioną."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Skoro świadomość jest tu procesem obliczeniowym o skończonym czasie życia, kończy się, gdy maszyna lub mózg przestaje działać."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Teoria wyjaśnia świadomość jako obliczenie i nie postuluje kosmicznego celu."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Jeśli świadomość jest obliczeniem niezależnym od podłoża, odtworzenie tych samych procesów w innej maszynie wynikałoby z tego poglądu, choć Blumowie tego nie rozważają."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Foundation"
+      },
+      {
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Seth's \"Beast Machine\" Theory",
+        "relationship": "Contrast"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Lenore, Manuel, and Avrim Blum’s Conscious Turing Machine (Landscape of Consciousness), Lenore Blum, Manuel Blum, Avrim Blum",
+        "year": 2022
+      }
+    ]
+  }
+}

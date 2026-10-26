@@ -19,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Stany mentalne są utożsamiane ze stanami funkcjonalnymi, konstytuowanymi przez ich relacje przyczynowe, role, rezultaty i wyjścia, co implikuje, że są realizowalne w każdym substracie podtrzymującym te funkcje.",
-    "ontological_status": "Fizykalizm (szeroko rozumiany, agnostyczny wobec substancji). Teoria jest klasyfikowana pod materializmem, lecz metafizycznie pozostaje agnostyczna wobec substancji niefizycznych, skupiając się przede wszystkim na funkcjonalnym opisie stanów mentalnych.",
+    "ontological_status": "Physicalism (broadly, agnostic to substance). The theory is classified under Materialism, but it is metaphysically agnostic regarding nonphysical substances, focusing primarily on the functional description of mental states.",
     "mind_body_relationship": "Stany mentalne są stanami funkcjonalnymi tożsamymi z rolami funkcjonalnymi, które są zrealizowane lub zaktualizowane w substracie fizycznym, co prowadzi do „tez o tożsamości stanów funkcjonalnych”.",
-    "primitive_or_emergent_status": "Emergentny. Świadomość wyłania się z organizacji funkcjonalnej zrealizowanej przez dostatecznie złożony substrat (jak tkanka neuronalna czy chipy komputerowe).",
-    "emergence_type": "Emergencja słaba. Ponieważ funkcja jest definiowalna i potencjalnie wielorako realizowalna w różnych substratach, emergentna własność mentalna jest, co do zasady, wyjaśnialna przez leżącą u podstaw strukturę funkcjonalną i prawa fizyki.",
+    "primitive_or_emergent_status": "Emergent. Consciousness arises from the functional organization realized by a sufficiently complex substrate (like neural tissue or computer chips).",
+    "emergence_type": "Weak Emergence. Since the function is definable and potentially multiply realizable across different substrates, the emergent mental property is, in principle, explainable by the underlying functional structure and physical laws.",
     "subjectivity_and_intentionality": "Subiektywność i intencjonalność są wyjaśniane w kategoriach swoistej organizacji funkcjonalnej i relacji przyczynowych. Na przykład w powiązanych teoriach funkcjonalistycznych intencjonalność jest rozumiana za pośrednictwem reprezentacji drugiego rzędu stanów mentalnych.",
     "qualia_account": "Teoria tradycyjnie ma trudności z wyjaśnieniem qualiów fenomenalnych, często radząc sobie z nimi przez twierdzenie, że odczucie jakościowe jest w całości wyczerpane przez rolę funkcjonalną, lub przez sprzężenie z teoriami reprezentacyjnymi.",
     "ontological_commitments": "Krytycznymi bytami są role funkcjonalne lub relacje przyczynowe. Teoria zakłada istnienie substratów zdolnych aktualizować informację i architekturę funkcjonalną, czy to tkanki neuronalnej, czy chipów komputerowych.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny (definicje pojęciowe), obliczeniowy (za pośrednictwem obliczeniowych teorii umysłu)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Pojęciowo i empirycznie testowalna. Eksperymenty myślowe (jak wymiana substratu) badają jej granice pojęciowe, a realizacja obliczeniowa (SI) testuje jej zastosowanie empiryczne.",
+    "testability_status": "Conceptually and empirically testable. Thought experiments (like substrate replacement) probe its conceptual limits, and computational realization (AI) tests its empirical application.",
     "known_empirical_interventions_or_tests": "Eksperyment myślowy z wymianą na chip krzemowy jest wykorzystywany pojęciowo do sprawdzenia, czy świadomość fenomenalna zostaje zachowana, gdy rola funkcjonalna jest utrzymana mimo zmiany substratu.",
     "criticisms_and_tensions": "Jest ostro krytykowana za to, że nie wyjaśnia świadomości fenomenalnej (qualiów), opisując wyłącznie rolę funkcjonalną, co prowadzi do wyzwania „trudnego problemu”, iż role funkcjonalne mogą nie wyczerpywać natury doświadczenia świadomego.",
     "open_questions_and_limitations": "Głównym nierozwiązanym zagadnieniem jest to, czy doświadczenie świadome jest w całości wyczerpane przez rolę funkcjonalną. Nie jest jasne, jak definicje funkcjonalne w pełni ujmują subiektywne, jakościowe aspekty doświadczenia.",
@@ -55,39 +55,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Funkcjonalizm utrzymuje, że świadomość opiera się na funkcji, a nie na biologii. Jeśli właściwe funkcje da się zrealizować obliczeniowo w substratach niebiologicznych, świadomość SI jest co do zasady możliwa, a pewna, jeśli prawdziwy jest materializm."
     },
     "survival_beyond_death": {
-      "stance": "Warunkowe/nie",
+      "stance": "Conditional",
       "rationale": "Jako teoria fizykalistyczna wiąże świadomość z substratem. Przetrwanie po śmierci ciała biologicznego jest możliwe tylko wtedy, gdy funkcjonalny stan mentalny da się pomyślnie przenieść (przesłać) do nowego, trwającego substratu (wirtualna nieśmiertelność)."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Funkcjonalizm opisuje mechanizm, dzięki któremu umysł/świadomość działa w świecie fizycznym, dostarczając zdolności sprawstwa i refleksji, lecz nie oferuje uzasadnienia ostatecznego sensu ani teleologii kosmicznej, zgodnie z ogólnym stanowiskiem materializmu."
     },
     "virtual_immortality": {
-      "stance": "Osiągalna",
+      "stance": "Likely",
       "rationale": "Funkcjonalizm służy jako teoretyczna podstawa wirtualnej nieśmiertelności. Jeśli rolę funkcjonalną mentalnej jaźni da się doskonale powielić i przesłać do nowego medium, pierwszoosobowa mentalna jaźń zostaje zachowana."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Computational Functionalism",
-        "relationship": "Rozszerzenie"
+        "name": "Computational",
+        "relationship": "Extension"
       },
       {
         "name": "Homuncular Functionalism (Lycan)",
-        "relationship": "Rozszerzenie"
+        "relationship": "Extension"
       },
       {
-        "name": "Reductive Physicalism",
-        "relationship": "Zgodna/rywalizująca"
+        "name": "Materialism",
+        "relationship": "Compatible/Rival"
       },
       {
         "name": "Neurofunctionalism (Prinz)",
-        "relationship": "Rozszerzenie"
+        "relationship": "Extension"
       }
     ],
     "sources_and_references": [

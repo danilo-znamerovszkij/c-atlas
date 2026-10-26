@@ -16,10 +16,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość utożsamia się z funkcją lub wytworem złożonych, wielkoskalowych struktur mózgowych (obwodów) oraz wynikającej z nich masowej synchronicznej aktywności elektrycznej (cykli) w obrębie biologicznego mózgu.",
-    "ontological_status": "Fizykalizm (materializm redukcyjny)",
+    "ontological_status": "Physicalism (Reductive Materialism)",
     "mind_body_relationship": "Tożsamość/korelacja. Stany mentalne są tożsame z konkretnymi stanami fizycznymi wielkoskalowych obwodów neuronalnych i dynamicznych wzorców lub bezpośrednio z nimi korelują.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba (Domyślnie: powstaje ze złożonej organizacji znanych komponentów fizycznych, zgodnie z klasycznym redukcjonizmem neurobiologicznym).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Implicit: arises from complex organization of known physical components, consistent with classic neurobiological reductionism).",
     "subjectivity_and_intentionality": "Skupia się na dostarczeniu fizycznego podłoża niezbędnego dla stanów świadomych; konkretny mechanizm generowania nieredukowalnej pierwszoosobowej subiektywności czy intencjonalności jest często nierozwinięty lub odłożony do teorii następczych.",
     "qualia_account": "Konkretne jakościowe odczucie doświadczenia (qualia) nie jest bezpośrednio wyjaśniane przez tę teorię, która skupia się przede wszystkim na mechanizmach organizacyjnych (obwodach i cyklach) skorelowanych ze świadomością.",
     "ontological_commitments": "Wielkoskalowe struktury neuronalne (np. drogi, wstępujący układ siatkowaty pobudzający, kora), elektrofizjologia neuronalna (synchroniczne wyładowania) oraz mierzalne cykle mózgowe (np. fale EEG).",
@@ -43,7 +43,7 @@
     "basis_of_belief_or_evidence_type": "Empiryczna, neurofizjologiczna"
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna empirycznie poprzez pomiary neurofizjologiczne (np. EEG, obrazowanie funkcjonalne) śledzące wielkoskalową synchronizację mózgu i aktywność w zidentyfikowanych obwodach.",
+    "testability_status": "Empirically testable through neurophysiological measurements (e.g., EEG, functional imaging) that track large-scale brain synchronization and activity in the identified circuits.",
     "known_empirical_interventions_or_tests": [
       "Pomiar EEG pasm częstotliwości (np. fal gamma 40 Hz) związanych ze stanami świadomymi.",
       "Badania dwukierunkowego transferu informacji w drogach korowo-wzgórzowych podczas stanów świadomych i nieświadomych."
@@ -54,39 +54,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jeśli świadomość jest w całości wytworem konkretnych fizycznych obwodów neuronalnych i dynamicznych wzorców aktywności, to mechanizmy te mogą w zasadzie zostać doskonale zduplikowane w niebiologicznych podłożach, umożliwiając świadomość SI."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Jako teoria materialistyczna wiąże świadomość w całości z biologicznym mózgiem; ustanie tych konkretnych obwodów i cykli neuronalnych oznacza kres świadomości."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Zgodnie z materializmem teoria nie oferuje żadnego ostatecznego kosmicznego sensu ani celu; wszelki sens jest tworzony przez same świadome byty."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Ponieważ pierwszoosobowa jaźń utożsamia się ze złożoną fizyczną organizacją wzorców i dróg neuronalnych, doskonałe zduplikowanie tych obwodów w niebiologicznym nośniku powinno zachować świadomość fenomenalną."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Rozszerzenie"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Extension"
       },
       {
-        "name": "Recurrent Processing Theory",
-        "relationship": "Rozszerzenie/nakładanie się"
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Extension/Overlap"
       },
       {
         "name": "Dendritic Integration Theory",
-        "relationship": "Doprecyzowanie"
+        "relationship": "Refinement"
       },
       {
-        "name": "Electromagnetic Field Theories",
-        "relationship": "Nakładanie się (cykle mózgowe wiążą się z polami elektromagnetycznymi)"
+        "name": "Electromagnetic",
+        "relationship": "Overlap (Brain cycles relate to electromagnetic fields)"
       }
     ],
     "sources_and_references": [

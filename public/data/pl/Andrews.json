@@ -17,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość utożsamia się z leżącą u podstaw zdolnością umożliwiającą wytrzymałe profile behawioralne (np. unikanie bólu, poszukiwanie składników odżywczych), które mogą być realizowane przez bardzo różne układy fizyczne (wieloraka realizowalność).",
-    "ontological_status": "Fizykalizm",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Świadomość koreluje z procesami fizycznymi i jest przez nie realizowana, lecz relacja ta jest elastyczna, dopuszczając niezłożone i filogenetycznie odległe podłoża neuronalne (wieloraka realizowalność), w przeciwieństwie do ścisłych teorii tożsamości skupionych wyłącznie na złożonych mózgach.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Subiektywność i intencjonalność są wnioskowane z wytrzymałych profili behawioralnych wykazywanych przez zwierzęta (np. celowego ruchu ku pożądanym bodźcom), co sugeruje, że te zdolności umysłowe są powiązane z różnorodnymi mechanizmami fizycznymi.",
     "qualia_account": "Podejście zakłada istnienie doświadczenia fenomenalnego (odczuwania) u prostszych zwierząt, dążąc do zidentyfikowania istotowej fizycznej podstawy świadomości, niezależnej od cech złożonego mózgu tradycyjnie kojarzonych z qualiami.",
     "ontological_commitments": "Układy fizyczne zdolne do podtrzymywania zachowań opartych na odczuwaniu, w szczególności różnorodne układy neurologiczne (głowonogi, stawonogi, kręgowce).",
@@ -44,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Biologia porównawcza, filozoficzna, empiryczna"
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna empirycznie poprzez porównawcze badania behawioralne, choć trudna ze względu na ograniczenia oceny międzygatunkowej.",
+    "testability_status": "Empirically testable through comparative behavioral studies, although challenging due to limitations in cross-species assessment.",
     "known_empirical_interventions_or_tests": [
       "Analiza markerów świadomości wskazanych w Deklaracji z Cambridge (np. homologicznych obwodów mózgowych, samorozpoznania w lustrze)",
       "Obserwacja behawioralna reakcji adaptacyjnych (np. unikania bólu, poszukiwania składników odżywczych)"
@@ -55,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Jeśli świadomość jest wielorako realizowalna w różnorodnych układach biologicznych, to jest wysoce prawdopodobne, że może być realizowana w układach niebiologicznych (sztucznych), które osiągają niezbędną organizację funkcjonalną i złożoność behawioralną, choć zrozumienie umysłów zwierząt ma dla tego celu kluczowe znaczenie."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Jako teoria zakorzeniona w materializmie i ewolucji filogenetycznej, świadomość jest fundamentalnie zależna od fizycznego/biologicznego sprzętu i nie postuluje niefizycznej substancji zdolnej do przetrwania po śmierci."
     },
     "meaning_and_purpose": {
-      "stance": "Humanistyczne/adaptacyjne",
+      "stance": "Humanistic only",
       "rationale": "Nacisk pada na wyewoluowaną funkcjonalną i adaptacyjną rolę świadomości w sprzyjaniu przetrwaniu i rozkwitowi, co wspiera sens humanistyczny wywiedziony z istnienia biologicznego, a nie z teleologii kosmicznej."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Centralne pojęcie „wielorakiej realizowalności” implikuje, że świadoma jaźń umysłowa mogłaby zostać odtworzona w niebiologicznym sprzęcie, pod warunkiem dokładnego zduplikowania własności funkcjonalnych."
     }
   },
@@ -75,15 +75,15 @@
     "related_theories": [
       {
         "name": "Functionalism",
-        "relationship": "Zgodność"
+        "relationship": "Compatible"
       },
       {
-        "name": "Crick and Koch’s Neural Correlates of Consciousness",
-        "relationship": "Krytyka"
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "Critique"
       },
       {
-        "name": "Dennett’s Evolution of Minds",
-        "relationship": "Nakładanie się"
+        "name": "Dennett's Evolution of Minds",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

@@ -19,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość (lub stany mentalne w ogólności) jest utożsamiana z wykonywaniem obliczeń określonego, dającego się odkryć rodzaju. Stany mentalne są definiowane przez swoją rolę funkcjonalną lub wynik, a nie przez wewnętrzną konstytucję czy substrat materialny.",
-    "ontological_status": "Fizykalizm",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Tożsamościowa/funkcjonalistyczna. Stany mentalne są stanami funkcjonalnymi, które mogą być ustanawiane (lub realizowane) w dowolnej formie materii zdolnej do przetwarzania informacji, takiej jak tkanka neuronalna lub chipy komputerowe.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Słaba emergencja. Zgodnie z ramami materialistycznymi zakłada się, że własności mentalne, choć wysokopoziomowe, mogą w zasadzie zostać w pełni wyjaśnione lub zredukowane do fundamentalnych leżących u podstaw procesów obliczeniowych i fizycznych, nawet jeśli praktyczne wyjaśnienie jest złożone.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consistent with the materialist framework, it is assumed that mental properties, though high-level, can in principle be fully explained or reduced to the fundamental underlying computational and physical processes, even if the practical explanation is complex.",
     "subjectivity_and_intentionality": "Intencjonalność (ukierunkowanie myśli) jest wyjaśniana poprzez symbole poznawcze, którymi można manipulować, by opisywać pojęcia. Subiektywność (świadomość fenomenalna) pozostaje wyzwaniem, ponieważ nacisk położony jest przede wszystkim na zewnętrzną funkcjonalność i przetwarzanie informacji, a nie na doświadczenie wewnętrzne.",
     "qualia_account": "Niepewne/deflacyjne. Teoria zmaga się z dostarczeniem przekonującej demonstracji świadomości fenomenalnej, skupiając się zamiast tego na ujęciu korelatów poznawczych i behawioralnych. Niektóre podejścia zgodne z tym poglądem mogą traktować qualia jako iluzoryczne lub niespójne, podczas gdy inne twierdzą, że odpowiadają one zintegrowanym, raportowalnym stanom obliczeniowym.",
     "ontological_commitments": "Algorytmy, systematyczne instrukcje krok po kroku, maszyny Turinga (abstrakcyjne modele obliczeń) oraz każdy substrat fizyczny zdolny do ustanawiania informacji.",
@@ -46,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Obliczeniowa, filozoficzna (funkcjonalizm) i logiczna."
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna empirycznie. Metodologia obejmuje wykorzystanie modelowania obliczeniowego do oceny, czy systemy skutecznie symulują znane neurobiologiczne, poznawcze i behawioralne korelaty przetwarzania świadomego.",
+    "testability_status": "Empirically testable. The methodology involves using computational modeling to assess whether systems successfully simulate known neurobiological, cognitive, and behavioral correlates of conscious processing.",
     "known_empirical_interventions_or_tests": [
       "Rozwijanie i testowanie modeli obliczeniowych oraz maszynowych symulacji korelatów poznawczych."
     ],
@@ -56,19 +56,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Ponieważ funkcjonalizm obliczeniowy zakłada, że świadomość jest wynikiem wykonywania właściwego rodzaju obliczeń, świadomość SI jest nie tylko możliwa, lecz nieuchronna, biorąc pod uwagę wykładniczy wzrost wyrafinowania obliczeniowego inteligencji niebiologicznych."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest związana z fizyczną lub funkcjonalną realizacją w substracie. Tradycyjne przetrwanie po śmierci jest odrzucane, lecz kontynuacja jest możliwa jedynie poprzez cyfrowe przeniesienie umysłu (wirtualna nieśmiertelność)."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Jako teoria materialistyczna nie wspiera żadnego ostatecznego kosmicznego sensu ani celu; sens i wartość są uważane za zjawiska emergentne, samotworzone, wyłaniające się ze złożonych funkcji istot świadomych."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jeśli świadomość jest czysto obliczeniowa/funkcjonalna (co oznacza, że jej istota jest algorytmiczna), to doskonałe zduplikowanie funkcjonalnych wzorców mózgu w medium niebiologicznym zachowałoby pierwszoosobowe mentalne ja, czyniąc wirtualną nieśmiertelność w zasadzie osiągalną."
     }
   },
@@ -76,19 +76,19 @@
     "related_theories": [
       {
         "name": "Functionalism",
-        "relationship": "Zasada rdzenna"
+        "relationship": "Core principle"
       },
       {
-        "name": "Computational Functionalism",
-        "relationship": "Rozszerzenie"
+        "name": "Computational",
+        "relationship": "Extension"
       },
       {
-        "name": "Eliminative Materialism/Illusionism",
-        "relationship": "Zgodna"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Compatible"
       },
       {
         "name": "Integrated Information Theory",
-        "relationship": "Krytyka"
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

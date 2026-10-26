@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Hylemorfizm Jaworskiego",
     "summary": "Teoria Jaworskiego głosi, że świadomość jest zasadniczo zjawiskiem strukturalnym wynikającym z hylemorfizmu — podstawowej zasady ontologicznej, zgodnie z którą struktura tłumaczy moce i zdolności fizycznych jednostek. Definiując świadome doświadczenia jako ustrukturyzowane czynności postrzegającego, teoria twierdzi, że rozwiązuje trudny problem świadomości i umieszcza zjawiska mentalne bezproblemowo w świecie przyrody.",
-    "associated_thinkers": ["William Jaworski"],
+    "associated_thinkers": [
+      "William Jaworski"
+    ],
     "category": "Materializm",
     "subcategory": "Relacyjne",
     "core_identity_tagline": "„Świadomość jako fundamentalna struktura i moce”",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest utożsamiana ze zjawiskiem strukturalnym — wysoce zorganizowanymi i skoordynowanymi czynnościami oraz zdolnościami wynikającymi z fizycznych materiałów tworzących postrzegającego.",
-    "ontological_status": "Fizykalizm",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Tożsamość strukturalna. Zjawiska mentalne są zjawiskami strukturalnymi, a zatem częścią świata fizycznego. Klasyczny problem umysł-ciało jest postrzegany jako produkt uboczny światopoglądów odrzucających strukturę jako podstawową zasadę ontologiczną.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Źródła nie precyzują, czy słaba, czy silna. Skoro struktura w pełni wyjaśnia charakter fenomenalny, sugeruje to pogląd zmierzający ku redukcji do struktury lub ku emergencji słabej, zgodny z jego materialistyczną klasyfikacją.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "The sources do not specify weak or strong. Given that the structure fully explains the phenomenal character, this suggests a view aiming for reduction to structure or Weak Emergence, compatible with its materialist classification.",
     "subjectivity_and_intentionality": "Subiektywność wynika z koordynacji, która jednoczy czynności podsystemów postrzegającego w całość. Intencjonalność jest domyślnie ujmowana jako jedna z fundamentalnych mocy lub zdolności nadawanych przez określoną strukturę fizyczną.",
     "qualia_account": "Charakter fenomenalny doświadczenia jest w pełni wyjaśniany przez opis leżącej u podstaw struktury postrzegającego, obejmującej podsystemy percepcyjne, ich swoiste moce oraz ogólną koordynację jednoczącą te czynności.",
     "ontological_commitments": "Materiały fizyczne oraz struktura, przy czym strukturę przyjmuje się za podstawową zasadę ontologiczną i wyjaśniającą, odpowiedzialną za wyznaczanie mocy i zdolności jednostek.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny i ontologiczny"
   },
   "empirics_and_critiques": {
-    "testability_status": "Sprawdzalny pojęciowo. Centralny argument jest metafizyczny i oferuje ramy (hylemorfizm) rozwiązujące problem, które można sprawdzać filozoficznie poprzez analizę ich przesłanek.",
+    "testability_status": "Conceptually Testable. The central argument is metaphysical, offering a framework (hylomorphism) to dissolve the problem, which is testable philosophically by analyzing its premises.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Głównym napięciem teorii jest konieczność, by osoby jej nieprzyjmujące zaakceptowały strukturę jako podstawową zasadę ontologiczną zdolną wyjaśnić wszystkie aspekty subiektywne. Krytycy fizykalizmu odrzuciliby przesłankę, że sama struktura wystarcza do rozwiązania trudnego problemu.",
     "open_questions_and_limitations": "Ramy teoretyczne wymagają obszernej pracy, by dokładnie określić, jak obserwowane struktury neuronalne lub biologiczne w sposób wyczerpujący odpowiadają postrzeganemu charakterowi fenomenalnemu, nawet jeśli metafizyczna podstawa zostanie przyjęta.",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Jeśli świadomość jest bezpośrednim wynikiem osiągnięcia określonej złożonej struktury i organizacji fizycznej (hylemorfizm), to każdy sztuczny system zaprojektowany tak, by posiadać wymaganą strukturę i moce, urzeczywistniłby autentyczną świadomość."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest nierozerwalnie związana z wysoce zorganizowaną fizyczną materią jednostki. Ustanie lub rozpad tej struktury oznacza kres świadomości."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Sklasyfikowana jako materializm, świadomość jest wytworem naturalnych zjawisk strukturalnych. Wszelki sens lub cel jest zatem generowany przez strukturalne zdolności i czynności ludzi w obrębie świata przyrody, a nie wpisany kosmicznie."
     },
     "virtual_immortality": {
-      "stance": "Możliwa",
+      "stance": "Possible",
       "rationale": "Jeśli świadomość jest w całości zdefiniowana przez zawiłą 'strukturę' i wynikające z niej 'moce', to duplikacja lub przesłanie tego wyczerpującego układu strukturalnego do nowego, niebiologicznego podłoża powinny zachować świadomą jaźń, zgodnie z funkcjonalistycznym aspektem teorii."
     }
   },
@@ -71,15 +73,15 @@
     "related_theories": [
       {
         "name": "Functionalism",
-        "relationship": "Zgodny"
+        "relationship": "Compatible"
       },
       {
         "name": "Mind-Body Identity Theory",
-        "relationship": "Rozszerzenie"
+        "relationship": "Extension"
       },
       {
-        "name": "Feser’s Neo-Thomistic Dualism",
-        "relationship": "Powiązany"
+        "name": "Feser's Neo-Thomistic, Neo-Aristotelian, Common-Sense Dualism",
+        "relationship": "Related"
       }
     ],
     "sources_and_references": [

@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Lycana funkcjonalizm homunkularny",
     "summary": "Teoria ta twierdzi, że świadomość jest w pełni fizyczna i funkcjonalna, stanowiąc hierarchicznie zorganizowany układ przetwarzania informacji. Świadomość wyłania się w szczególności z reprezentacji drugiego rzędu, funkcjonując jako mechanizm zmysłu wewnętrznego skierowany ku własnym stanom mentalnym niższego rzędu układu.",
-    "associated_thinkers": ["William Lycan"],
+    "associated_thinkers": [
+      "William Lycan"
+    ],
     "category": "Materializm",
     "subcategory": "Reprezentacyjne",
     "core_identity_tagline": "„Świadomość jako reprezentacja drugiego rzędu i uwaga wewnętrzna”",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość (umysł) utożsamia się z organizacją funkcjonalną układu przetwarzania informacji, w pełni wyjaśnianą przez intencjonalność oraz reprezentację drugiego rzędu stanów mentalnych. Qualia utożsamia się z intencjonalnymi treściami tych reprezentacji.",
-    "ontological_status": "Redukcyjny fizykalizm/materializm. Lycan broni materializmu w ogólności.",
+    "ontological_status": "Reductive Physicalism/Materialism. Lycan defends materialism generally.",
     "mind_body_relationship": "Teoria tożsamości, a ściślej funkcjonalizm (lub teleofunkcjonalizm), w którym stany mentalne są definiowane przez ich rolę funkcjonalną w obrębie układu fizycznego.",
-    "primitive_or_emergent_status": "Emergentna",
-    "emergence_type": "Emergencja słaba. Jest to ujęcie materialistyczne argumentujące, że natura fenomenalna wyczerpuje się w faktach funkcjonalnych i reprezentacyjnych, co implikuje, że to, co mentalne, wyłania się z leżących u podstaw procesów fizycznych i jest przez nie w pełni wyjaśnialne (stanowisko konieczne, by uniknąć kompromitacji materializmu).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. It is a materialist account arguing that phenomenal nature is exhausted by functional and representational facts, implying that the mental arises from, and is fully explainable by, the underlying physical processes (a stance necessary to avoid embarrassing materialism).",
     "subjectivity_and_intentionality": "Intencjonalność (czyli „bycie o czymś”) oraz organizacja funkcjonalna wyjaśniają w całości umysł/świadomość („hegemonia reprezentacji”). Subiektywność powstaje z działania mechanizmów uwagi wewnętrznej skierowanych ku stanom niższego rzędu (ujęcie zmysłu wewnętrznego).",
     "qualia_account": "Cechy jakościowe (qualia) są ujmowane reprezentacyjnie; są one intencjonalnymi przedmiotami (representata) doświadczenia, co oznacza, że nie jest zaangażowana żadna niefizyczna ani niereprezentacyjna „mentalna łata”. Qualia wyczerpują się w intencjonalnej/reprezentacyjnej naturze odnośnych stanów mentalnych.",
     "ontological_commitments": "Komponenty fizyczne (brak części ani własności niefizycznych), funkcjonalnie zorganizowane układy przetwarzania informacji, treści intencjonalne oraz stany mentalne drugiego rzędu.",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Obrona filozoficzna (obrona materializmu/funkcjonalizmu) oraz analiza konceptualna."
   },
   "empirics_and_critiques": {
-    "testability_status": "Konceptualnie oraz, w zasadzie, empirycznie testowalna. Jeśli natura fenomenalna wyczerpuje się w roli funkcjonalnej/reprezentacyjnej, to adekwatne neuronaukowe/obliczeniowe wykazanie tych ról powinno wystarczyć, choć Lycan podkreśla filozoficzny charakter argumentów przeciwko materializmowi.",
+    "testability_status": "Conceptually and, in principle, empirically testable. If phenomenal nature is exhausted by functional/representational role, adequate neuroscientific/computational demonstration of those roles should suffice, though Lycan emphasizes the philosophical nature of the arguments against materialism.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Próba obalenia przez Lycana argumentu z wiedzy (eksperyment myślowy z Mary) poprzez argumentację, że charakter fenomenalny wyczerpuje się w charakterze reprezentacyjnym, jest odrzucana przez krytyków. Krytycy podają w wątpliwość, czy role funkcjonalne mogą rzeczywiście uchwycić jakościowe aspekty doświadczenia.",
     "open_questions_and_limitations": "Kluczowym ograniczeniem jest przekonanie sceptyków (jak Jackson przed wycofaniem swojego stanowiska), że redukcja qualiów do treści reprezentacyjnej/funkcjonalnej rzeczywiście rozwiewa fenomenalną tajemnicę.",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jako teoria funkcjonalistyczna, jeśli układy sztuczne mogą zrealizować niezbędną organizację funkcjonalną oraz zdolności reprezentacyjne drugiego rzędu, to w zasadzie muszą być świadome."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Teoria jest ściśle materialistyczna i głosi, że świadomość jest w całości realizowana w obrębie funkcjonalnie zorganizowanego mózgu fizycznego; nie może zatem przetrwać po śmierci ciała."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Zgodnie z jej materialistycznym fundamentem, świadomość umożliwia intencjonalność i sprawczość, dostarczając sensu tworzonego przez sam układ biologiczny, lecz nie implikuje żadnego ostatecznego celu kosmicznego."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Ponieważ świadomość jest zdefiniowana przez organizację funkcjonalną i treść reprezentacyjną, doskonałe funkcjonalne powielenie (wgranie) wzorców i szlaków neuronalnych do niebiologicznego nośnika w zasadzie zachowałoby pierwszoosobową jaźń mentalną."
     }
   },
@@ -70,19 +72,19 @@
     "related_theories": [
       {
         "name": "Higher-Order Theories of Consciousness",
-        "relationship": "Nakładanie się/Rozszerzenie"
+        "relationship": "Overlap/Extension"
       },
       {
-        "name": "First-Order Representationalism",
-        "relationship": "Rozszerzenie/Kontrast"
+        "name": "First-Order",
+        "relationship": "Extension/Contrast"
       },
       {
         "name": "Functionalism",
-        "relationship": "Klasyfikacja/Fundament"
+        "relationship": "Classification/Foundation"
       },
       {
-        "name": "Jackson’s Representationalism and the Knowledge Argument",
-        "relationship": "Krytyka"
+        "name": "Jackson's Representationalism and the Knowledge Argument",
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

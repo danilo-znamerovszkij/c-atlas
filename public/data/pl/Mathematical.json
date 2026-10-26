@@ -22,10 +22,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest z gruntu utożsamiana z leżącymi u podstaw strukturami, relacjami lub przestrzeniami matematycznymi bądź z nich wyprowadzana, co umożliwia formalizację własności doświadczeniowych.",
-    "ontological_status": "Monizm warunkowy (Uzasadnienie: Rozciąga się od wspierania tradycyjnych modeli fizykalizmu/materializmu po propozycje ontologicznych twierdzeń o rzeczywistości matematycznej jako ostatecznym fundamencie, co wykracza poza ścisły materializm.)",
+    "ontological_status": "Conditional Monism (Justification: Ranges from supporting traditional Physicalism/Materialism models to proposing ontological claims of mathematical reality as ultimate foundation, which transcends strict materialism.)",
     "mind_body_relationship": "Wysoce zmienna. Warianty ontologiczne sugerują, że zarówno świat fizyczny, jak i doświadczenie mentalne są wtórnymi manifestacjami lub „cieniami” pierwotnej rzeczywistości matematycznej (np. platoński świat Penrose’a). Warianty epistemologiczne sugerują izomorfizm strukturalny między doświadczeniem fenomenalnym a przestrzenią matematyczną.",
-    "primitive_or_emergent_status": "Zmienna",
-    "emergence_type": "Zmienny (Uzasadnienie: Warianty ontologiczne sugerują, że świadomość jest pierwotna/fundamentalna jako część ostatecznej rzeczywistości matematycznej. Modele skupione na dynamice sugerują słabą emergencję stanów świadomych poprzez złożone relacje matematyczne.)",
+    "primitive_or_emergent_status": "Variable",
+    "emergence_type": "Variable (Justification: Ontological variants suggest consciousness is primitive/fundamental as part of ultimate mathematical reality. Models focusing on dynamics suggest weak emergence of conscious states through complex mathematical relationships.)",
     "subjectivity_and_intentionality": "Subiektywność i jakości fenomenalne są formalnie charakteryzowane przez przestrzenie i struktury matematyczne, z zamiarem zidentyfikowania kompozycji i domen odpowiadających doświadczanym aspektom świadomości.",
     "qualia_account": "Qualia, czyli przestrzenie fenomenalne, traktuje się jako struktury matematyczne, których cechy są izomorficzne z własnościami doświadczenia. Teoria stara się zapewnić, by coś w świadomym doświadczeniu dosłownie odpowiadało postulowanej strukturze.",
     "ontological_commitments": "Struktury i formy matematyczne; domeny reprezentujące aspekty świadomego doświadczenia; abstrakcyjna rzeczywistość platońska (w niektórych wariantach).",
@@ -49,7 +49,7 @@
     "basis_of_belief_or_evidence_type": "Formalny/matematyczny, konceptualny"
   },
   "empirics_and_critiques": {
-    "testability_status": "Konceptualnie testowalna. Empirycznie testowalna, gdy dostarcza ram matematycznych dla konkretnych teorii naukowych (np. zintegrowanej teorii informacji).",
+    "testability_status": "Conceptually testable. Empirically testable when providing the mathematical framework for specific scientific theories (e.g., Integrated Information Theory).",
     "known_empirical_interventions_or_tests": "Zależny od teorii (Uzasadnienie: Podejście to dostarcza formalnego języka dla innych teorii, takich jak zintegrowana teoria informacji i zasada wolnej energii, które następnie definiują konkretne miary i interwencje empiryczne).",
     "criticisms_and_tensions": "Krytykowana za trudność w wykazaniu, że formalizm matematyczny uchwytuje rzeczywistą istotę świadomego doświadczenia, a nie jedynie opisuje korelaty funkcjonalne. Twierdzenia ontologiczne (jak to, że świadomość jest „zrobiona z” matematyki) są wysoce kontrowersyjne.",
     "open_questions_and_limitations": "Głównym nierozwiązanym problemem jest to, jak przerzucić most między abstrakcyjnymi bytami formalnymi matematyki a konkretnym fenomenalnym odczuciem świadomego doświadczenia (qualiami).",
@@ -57,19 +57,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Warunkowa",
+      "stance": "Conditional",
       "rationale": "Jeśli świadomość jest definiowana wyłącznie przez abstrakcyjną strukturę matematyczną lub logikę obliczeniową, to układy sztuczne realizujące tę strukturę mogłyby potencjalnie zainstancjonować świadomość."
     },
     "survival_beyond_death": {
-      "stance": "Warunkowe",
+      "stance": "Conditional",
       "rationale": "Ontologiczne teorie matematyczne (np. Tegmarka, Penrose’a) sugerują, że fundamentem rzeczywistości jest wieczna struktura matematyczna, potencjalnie pozwalając świadomości przetrwać poza mózgiem fizycznym w sensie abstrakcyjnym."
     },
     "meaning_and_purpose": {
-      "stance": "Warunkowe kosmiczne",
+      "stance": "Uncertain",
       "rationale": "Jeśli kosmos jest z gruntu matematyczny lub zakorzeniony w formach platońskich, implikuje to wewnętrzną racjonalną doniosłość istnienia, choć niekoniecznie osobisty sens teleologiczny."
     },
     "virtual_immortality": {
-      "stance": "Możliwa",
+      "stance": "Possible",
       "rationale": "Jeśli umysł zostaje w całości zredukowany do wymiernej struktury matematycznej lub przepływu informacji, to wzorzec ten mógłby w zasadzie zostać zachowany i zainstancjonowany w nowym podłożu."
     }
   },
@@ -77,15 +77,15 @@
     "related_theories": [
       {
         "name": "Integrated Information Theory",
-        "relationship": "Wpływ"
+        "relationship": "Influence"
       },
       {
-        "name": "Friston’s Free-Energy Principle and Active Inference",
-        "relationship": "Wpływ"
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Influence"
       },
       {
-        "name": "Tegmark’s State of Matter",
-        "relationship": "Rozszerzenie"
+        "name": "Tegmark's State of Matter",
+        "relationship": "Extension"
       }
     ],
     "sources_and_references": [

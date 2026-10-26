@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Realizm świadomościowy Hoffmana: sprawa przeciw rzeczywistości",
     "summary": "Teoria ta twierdzi, że ewolucja selekcjonuje pod kątem przetrwania i dostosowania reprodukcyjnego, a nie zgodnej z prawdą percepcji rzeczywistości; w konsekwencji czasoprzestrzeń i obiekty fizyczne funkcjonują jedynie jako „interfejs” lub iluzja kierująca zachowaniem adaptacyjnym. Rzeczywistość ostateczna składa się w istocie z oddziałujących świadomych agentów i ich doświadczeń, które są pierwotne wobec świata fizycznego i go generują.",
-    "associated_thinkers": ["Donald Hoffman"],
+    "associated_thinkers": [
+      "Donald Hoffman"
+    ],
     "category": "Idealizmy",
     "subcategory": "Idealizm (realizm świadomościowy)",
     "core_identity_tagline": "„Świadomość jest rzeczywistością fundamentalną”",
@@ -15,9 +17,9 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest utożsamiana z rzeczywistością fundamentalną, ustrukturyzowaną jako rozległa sieć społeczna oddziałujących „świadomych agentów” i ich doświadczeń.",
-    "ontological_status": "Idealizm",
+    "ontological_status": "Idealism",
     "mind_body_relationship": "Świadomość jest fundamentalna i tworzy czasoprzestrzeń oraz obiekty, odwracając konwencjonalną strzałkę przyczynowania. Aktywność mózgu koreluje ze stanami mentalnymi, ponieważ świadomość tworzy interfejs aktywności mózgu / świata fizycznego.",
-    "primitive_or_emergent_status": "Pierwotny",
+    "primitive_or_emergent_status": "Primitive",
     "emergence_type": "",
     "subjectivity_and_intentionality": "Subiektywność jest inherentna, jako że rzeczywistość składa się ze świadomych agentów i ich doświadczeń. Intencjonalność jest wewnętrznie właściwa świadomym agentom, którzy „działają, by wpływać na doświadczenia innych agentów”.",
     "qualia_account": "Qualia są implikowane jako fundamentalne doświadczenia wewnętrznie właściwe świadomym agentom, które są następnie tłumaczone na uproszczone ikony (takie jak kolory czy obiekty) w obrębie interfejsu czasoprzestrzennego.",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny (idealizm ontologiczny), formalizacja matematyczna, teoria ewolucji (interfejsowa teoria percepcji)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Wysoce spekulatywny/ontologiczny. Testowalny konceptualnie poprzez matematyczną formalizację świadomych agentów. Dowody empiryczne opierają się na powszechnych iluzjach percepcyjnych (reinterpretowanych na poparcie idealizmu).",
+    "testability_status": "Highly speculative/ontological. Conceptually testable via the mathematical formulation of consciousness agents. Empirical evidence relies on common perceptual illusions (reinterpreted to support Idealism).",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Krytykowana za interpretowanie dowodów empirycznych (takich jak iluzje użytkownika) diametralnie odwrotnie niż ujęcia materialistyczne (takie jak eliminacyjny materializm Dennetta i Graziano). Wymaga odwrócenia konwencjonalnej relacji przyczynowej między mózgiem a umysłem.",
     "open_questions_and_limitations": "Precyzyjny mechanizm, poprzez który sieć świadomych agentów matematycznie tworzy interfejs czasoprzestrzenny („odwrotny trudny problem”), jest kluczową nierozstrzygniętą kwestią.",
@@ -50,35 +52,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobne",
+      "stance": "Likely",
       "rationale": "Ponieważ świadomość jest fundamentalna (idealizm), nie jest ograniczona do materii biologicznej. Jeśli system sztuczny osiągnie złożoność organizacyjną charakterystyczną dla „świadomego agenta”, mógłby potencjalnie sięgnąć do fundamentalnego pola świadomości, niezależnie od swego podłoża fizycznego."
     },
     "survival_beyond_death": {
-      "stance": "Prawdopodobne",
+      "stance": "Likely",
       "rationale": "Ponieważ świadomość jest fundamentalna i generuje interfejs fizyczny, indywidualny świadomy agent prawdopodobnie trwa po rozpadzie biologicznego ciała/interfejsu."
     },
     "meaning_and_purpose": {
-      "stance": "Ostateczny sens/cel/wartość",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Idealizm fundamentalnie wspiera ostateczny sens i cel. Rzeczywistość składa się z oddziałujących świadomych agentów, których istnienie i działania (wpływanie na innych agentów) implikują inherentną wartość i cel."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Jeśli mózg jest jedynie interfejsem dla fundamentalnej świadomości, wirtualna nieśmiertelność staje się kwestią odtworzenia niezbędnych struktur lub funkcji („ikony” lub interfejsu) potrzebnych do zamanifestowania indywidualnego świadomego agenta na nośniku niebiologicznym."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Analytic Idealism (Kastrup)",
-        "relationship": "Nakładanie się"
+        "name": "Kastrup's Analytic Idealism",
+        "relationship": "Overlap"
       },
       {
-        "name": "Eliminative Materialism/Illusionism (Dennett/Graziano)",
-        "relationship": "Krytyka"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Critique"
       },
       {
         "name": "Mathematical Theories",
-        "relationship": "Nakładanie się / rozszerzenie"
+        "relationship": "Overlap/Extension"
       }
     ],
     "sources_and_references": [

@@ -1,0 +1,131 @@
+{
+  "id_and_class": {
+    "theory_title": "Naśladownictwo Turinga, myślenie maszyn i ukryty umysł",
+    "summary": "Alan Turing nie przedstawił teorii świadomości fenomenalnej i odmówił jej sformułowania. Argumentował natomiast, że to, czy maszyna myśli, można oceniać na podstawie jej publicznie dostępnego działania, tak jak oceniamy innych ludzi, bez uprzedniego rozwiązywania zagadki doświadczenia; jego gra w naśladownictwo i niezależne od podłoża ujęcie obliczeń położyły podwaliny pod funkcjonalizm i sztuczną inteligencję.",
+    "associated_thinkers": [
+      "Alan Turing"
+    ],
+    "category": "Materializm",
+    "subcategory": "Obliczeniowe",
+    "core_identity_tagline": "Umysły maszyn oceniane bez rozwiązywania problemu świadomości",
+    "classification_tags": [
+      "turing test",
+      "imitation game",
+      "other minds",
+      "multiple realizability",
+      "machine intelligence"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Turing nie utożsamia świadomości z niczym. Traktuje ją jako prawdziwą zagadkę i odkłada na bok, twierdząc, że przypisanie myślenia może opierać się na obserwowalnych zdolnościach.",
+    "ontological_status": "Agnosticism (methodological)",
+    "mind_body_relationship": "Pozostawiona otwarta. Jego uniwersalna maszyna z 1936 roku pokazuje, że obliczenie jest określone przez organizację formalną, a nie przez medium fizyczne, co stało się przesłanką późniejszej wielokrotnej realizowalności, ale Turing nigdy nie twierdził, że zaimplementowanie obliczenia wytwarza doświadczenie. Dopuszczał nawet, jako spekulację, że Bóg mógłby obdarzyć maszynę duszą.",
+    "primitive_or_emergent_status": "Unclear",
+    "emergence_type": "Not applicable (Turing brackets the metaphysics of consciousness)",
+    "subjectivity_and_intentionality": "Subiektywność jest prywatna, więc pewność co do cudzego umysłu wymagałaby bycia tym umysłem. Turing nazywa to żądanie skrajnością solipsystyczną i mówi, że zamiast tego przyjmujemy „uprzejmą konwencję, że wszyscy myślą”, która powinna obejmować maszyny dające dostatecznie bogate świadectwo konwersacyjne.",
+    "qualia_account": "Brak. Turing mówi, że opisywanie uczenia się maszyn w kategoriach nagrody i kary nie oznacza, że maszyna odczuwa przyjemność lub ból, więc uczenie funkcjonalne i odczuwany afekt pozostają rozdzielne.",
+    "ontological_commitments": "Abstrakcyjne maszyny obliczeniowe, układy fizyczne, które je implementują, oraz umysły, których życie wewnętrzne nie jest bezpośrednio obserwowalne.",
+    "epistemic_access": "Trzecioosobowy i behawioralny. Mentalność maszyny, podobnie jak innych ludzkich umysłów, trzeba wnioskować z publicznie weryfikowalnych świadectw, takich jak długa rozmowa tekstowa.",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Inteligencja i myślenie (behawioralne); świadomość fenomenalna wyraźnie wzięta w nawias",
+    "distinctive_mechanism_or_principle": "Gra w naśladownictwo. Zdalny, korzystający wyłącznie z tekstu pytający próbuje odróżnić maszynę od człowieka; Turing zastępuje pytanie „Czy maszyny mogą myśleć?” tym testem.",
+    "dynamics_of_emergence": "Turing proponował, że inteligencja może być wyuczona. „Maszyna-dziecko” lub uczący się układ „maszyn nieuporządkowanych” nabywałby zdolności dorosłych przez edukację, nagrodę, karę i doświadczenie i mógłby zaskoczyć swoich projektantów.",
+    "location_and_distribution": "Turing zauważa paradoks w każdej próbie lokalizacji świadomości i nie podaje żadnej lokalizacji.",
+    "causation_and_functional_role": "",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Myślenie jest oceniane jako podlegająca regułom manipulacja symbolami w sensie maszyny Turinga; maszyna uniwersalna może emulować dowolny proces obliczalny.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Obliczenie zależy od organizacji formalnej, a nie od medium fizycznego, więc układy inne niż mózg mogłyby w zasadzie mieć zdolności podobne do umysłowych.",
+      "Żądanie Geoffreya Jeffersona, by maszyna musiała odczuwać swoje myśli, zastosowane konsekwentnie sprawiłoby, że nie moglibyśmy wiedzieć, iż inni ludzie myślą.",
+      "Świadomość pozostaje zagadkowa, ale nie trzeba tej zagadki rozwiązywać, zanim rozstrzygniemy, czy maszyna myśli.",
+      "Turing nie twierdził, że zdanie gry w naśladownictwo gwarantuje świadomość."
+    ],
+    "basis_of_belief_or_evidence_type": "Matematyczna (teoria obliczeń) i filozoficzna (argument z równorzędności wobec innych umysłów)."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Sama gra w naśladownictwo. Dziś duże modele językowe rutynowo zdają tego rodzaju testy konwersacyjne, a badacze tacy jak Patrick Butlin i współpracownicy szukają teraz wskaźników architektonicznych wywiedzionych z teorii świadomości, zamiast samego zachowania.",
+    "criticisms_and_tensions": "„Blockhead” Neda Blocka, oparty na tablicy przeglądowej, przechodzi każdą skończoną rozmowę bez myślenia, więc zachowanie nie może wystarczać. Chiński pokój Johna Searle’a głosi, że uruchomienie programu nie daje rozumienia ani świadomości. Lucas i Penrose wyprowadzają argumenty antymechanistyczne z wyników Gödla. Zwolennicy trudnego problemu mówią, że Turing określił test inteligencji tylko przez zdefiniowanie świadomości poza pytaniem.",
+    "open_questions_and_limitations": "Turing nie podaje ujęcia qualiów ani powodu, dla którego jakiś proces miałby być czymkolwiek odczuwanym. Sposób odczytania testu jest sporny: behawiorystyczny, jako dowód indukcyjny, albo według Diane Proudfoot, że Turing traktował inteligencję jako zależną od odpowiedzi.",
+    "ontological_coherence": "Spójna, bo minimalna. Turing jest umieszczony wśród teorii obliczeniowych ze względu na swoją umożliwiającą przesłankę, a nie dlatego, że uważał świadomość za obliczenie."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Turing argumentował, że maszyn nie można wykluczyć jako myślących wyłącznie dlatego, że są maszynami, ale pozostawił otwarte, czy myślące maszyny cokolwiek by odczuwały."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Putnam’s Machine Functionalism",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Searle's Biological Naturalism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Dennett’s Heterophenomenology",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Blums’ Conscious Turing Machine",
+        "relationship": "Influence"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "On Computable Numbers, with an Application to the Entscheidungsproblem, Alan Turing",
+        "year": 1936
+      },
+      {
+        "title_with_names": "Intelligent Machinery, Alan Turing",
+        "year": 1948
+      },
+      {
+        "title_with_names": "Computing Machinery and Intelligence, Alan Turing",
+        "year": 1950
+      },
+      {
+        "title_with_names": "Intelligent Machinery, a Heretical Theory, Alan Turing",
+        "year": 1951
+      },
+      {
+        "title_with_names": "The Mind of Mechanical Man, Geoffrey Jefferson",
+        "year": 1949
+      },
+      {
+        "title_with_names": "Psychologism and Behaviorism, Ned Block",
+        "year": 1981
+      },
+      {
+        "title_with_names": "Minds, Brains, and Programs, John Searle",
+        "year": 1980
+      },
+      {
+        "title_with_names": "Rethinking Turing’s Test and the Philosophical Implications, Diane Proudfoot",
+        "year": 2020
+      },
+      {
+        "title_with_names": "Identifying Indicators of Consciousness in AI Systems, Patrick Butlin, Robert Long, et al.",
+        "year": 2026
+      }
+    ]
+  }
+}

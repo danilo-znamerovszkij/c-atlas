@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Nieredukcyjna neurofilozofia Northoffa",
     "summary": "Teoria ta jest przede wszystkim strategią metodologiczną służącą analizie złożonej relacji między mózgiem a umysłem poprzez systematyczne, dwukierunkowe łączenie pojęć filozoficznych i teorii ontologicznych z empirycznymi danymi neuronaukowymi. Jej celem jest zapewnienie wglądu w subiektywność bez sprowadzania pojęć mentalnych do faktów fizycznych.",
-    "associated_thinkers": ["Georg Northoff"],
+    "associated_thinkers": [
+      "Georg Northoff"
+    ],
     "category": "Fizykalizm nieredukcyjny",
     "subcategory": "Neurofilozofia nieredukcyjna",
     "core_identity_tagline": "Narzędzie metodologiczne na styku filozofii i neuronauki",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Podejście to jest przede wszystkim metodologiczne i koncentruje się na rygorystycznej relacji między pojęciami a faktami. Podstawowy wymiar świadomości (sentiencja) zostaje określony jako wewnętrznie czasoprzestrzenna struktura wynikająca ze spontanicznej aktywności mózgu.",
-    "ontological_status": "Fizykalizm nieredukcyjny",
+    "ontological_status": "Non-reductive Physicalism",
     "mind_body_relationship": "Stany świadome ujmowane są w dynamicznych kategoriach czasoprzestrzennych, co uzupełnia i rozszerza ich charakterystykę poznawczą bez sprowadzania tego, co mentalne, do tego, co fizyczne. Cechy mentalne postrzegane są jako zagnieżdżone w aktywności mózgu.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Metodologiczna nieredukcja. (Uzasadnienie: nacisk kładziony jest wyraźnie na zachowanie nieredukowalności pojęć mentalnych przy jednoczesnym potwierdzeniu ich fizycznej podstawy, co zgodne jest z filozoficznymi celami fizykalizmu nieredukcyjnego.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Methodological Non-Reduction. (Justification: The explicit focus is maintaining the irreducibility of mental concepts while affirming a physical basis, aligning with the philosophical goals of non-reductive physicalism.)",
     "subjectivity_and_intentionality": "Podejście metodologiczne nastawione jest na zapewnienie wglądu w subiektywność połączenia mózg–umysł. Cechy mentalne, takie jak intencjonalność, postrzegane są jako aspekty oderwane od leżącej u ich podstaw złożonej, dynamicznej czasoprzestrzennej rzeczywistości mózgu.",
     "qualia_account": "Ujmuje zdolność odczuwania, definiowaną jako „sentiencja” — podstawowy i fundamentalny wymiar świadomości wyłaniający się z dokonywanej przez mózg integracji bodźców pochodzących z ciała i środowiska w obrębie jego czasoprzestrzennej matrycy.",
     "ontological_commitments": "Aktywność mózgu, relacje czasoprzestrzenne (skale zagnieżdżone) oraz funkcjonalna zdolność do sentiencji.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzna (rama metodologiczna) i empiryczna (wywiedziona z badań neuronauki czasoprzestrzennej)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna empirycznie i pojęciowo, ponieważ zdefiniowana jest jako strategia metodologiczna stosowana do danych neuronauki czasoprzestrzennej.",
+    "testability_status": "Empirically and conceptually testable, as it is defined as a methodological strategy applied to spatiotemporal neuroscience data.",
     "known_empirical_interventions_or_tests": "Badania z zakresu neuronauki czasoprzestrzennej skupione na analizie aktywności, struktury i relacji czasoprzestrzennych mózgu.",
     "criticisms_and_tensions": "Wobec tej konkretnej teorii nie wymieniono wprost żadnych zarzutów, choć dąży ona do rozwiązania ogólnych problemów filozoficznych, takich jak problem umysł–ciało, poprzez przeniesienie uwagi na relację świat–mózg.",
     "open_questions_and_limitations": "Wymaga większego uszczegółowienia sposobu zagnieżdżania różnych skal czasoprzestrzennych oraz tego, jak wyczerpująco ujmuje to cechy mentalne.",
@@ -51,35 +53,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobne",
+      "stance": "Likely",
       "rationale": "Jako podejście nieredukcyjnie fizykalistyczne wiąże świadomość z ustanowieniem specyficznych złożonych dynamik (mechanizmów czasoprzestrzennych); jeśli dynamiki te da się odtworzyć sztucznie, świadomość w SI powinna być możliwa."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Teoria opiera się na fizycznych mechanizmach mózgu (neuroekologicznych, neurotrzewnych, matrycy aktywności spontanicznej). Ustanie tych procesów fizycznych oznacza ustanie emergentnej struktury świadomej (sentiencji)."
     },
     "meaning_and_purpose": {
-      "stance": "Niepewne",
+      "stance": "Uncertain",
       "rationale": "Teoria jest przede wszystkim metodologiczna i koncentruje się na mechanice oraz strukturze świadomości, a nie na ostatecznym kosmicznym sensie. Jej nieredukcyjne stanowisko jest jednak zgodne z afirmacją sensu i wartości wyłaniających się z subiektywności."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobne",
+      "stance": "Likely",
       "rationale": "Jeśli świadomość jest emergentna względem złożonych, nieredukcyjnych dynamik czasoprzestrzennych, to istnieje teoretyczna możliwość, że doskonała replikacja i przeniesienie tych złożonych wzorców skutecznie zachowałyby pierwszoosobową świadomą jaźń, co zgodne jest z aspektami funkcjonalistycznymi domniemanymi w tej kategorii."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Northoff’s Temporo-Spatial Sentience",
-        "relationship": "Rozszerzenie"
+        "name": "Northoff's Temporo-Spatial Sentience",
+        "relationship": "Extension"
       },
       {
-        "name": "Embodied and Enactive Theories",
-        "relationship": "Zgodna"
+        "name": "Embodied",
+        "relationship": "Compatible"
       },
       {
         "name": "Mind-Body Problem",
-        "relationship": "Krytyka"
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

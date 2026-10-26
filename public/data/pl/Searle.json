@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Naturalizm biologiczny Searle'a",
     "summary": "Naturalizm biologiczny głosi, że świadomość jest rzeczywistą, nieredukowalną, subiektywną biologiczną cechą mózgu, w całości wywoływaną przez procesy neurobiologiczne niższego poziomu i zrealizowaną jako cechy systemowe wyższego poziomu. Podejście to dąży do rozwiązania problemu umysł-ciało poprzez przyjęcie naukowego światopoglądu przy jednoczesnym uznaniu pierwszoosobowej ontologii świadomego doświadczenia.",
-    "associated_thinkers": ["John Searle"],
+    "associated_thinkers": [
+      "John Searle"
+    ],
     "category": "Materializm",
     "subcategory": "Filozoficzne",
     "core_identity_tagline": "Świadomość jako nieredukowalna biologiczna cecha mózgu",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Stany świadome zostają utożsamione z rzeczywistymi częściami rzeczywistego świata, będącymi wyższego poziomu, systemowymi cechami mózgu, definiowanymi jako stany uświadomienia, czucia lub odczuwania, które trwają podczas czuwania.",
-    "ontological_status": "Fizykalizm (naturalizm biologiczny). Głosi, że świadomość jest częścią przyrody jako subiektywna, jakościowa cecha biologiczna, odrzucając próby jej „naturalizacji” poprzez zaprzeczenie jej subiektywnej ontologii.",
+    "ontological_status": "Physicalism (Biological Naturalism). It holds that consciousness is part of nature as a subjective, qualitative biological property, rejecting attempts to 'naturalize' it by denying its subjective ontology.",
     "mind_body_relationship": "Stany świadome są przyczynowo redukowalne do procesów mózgowych niższego poziomu (redukowalność przyczynowa), lecz są ontologicznie nieredukowalne do tych procesów, ponieważ świadomość ma ontologię subiektywną (pierwszoosobową), podczas gdy jej podstawa ma ontologię obiektywną (trzecioosobową).",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Źródła nie klasyfikują wprost typu emergencji. Ponieważ świadomość jest w całości wywoływana przez procesy fizyczne (materializm), a zarazem jest ontologicznie nieredukowalna, model ten zajmuje wyjątkowe miejsce w krajobrazie fizykalistycznym, potwierdzając solidną, nieusuwalną emergentną rzeczywistość ściśle związaną z przyczynowością biologiczną.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "The sources do not explicitly classify the emergence type. Since consciousness is entirely caused by physical processes (Materialism) yet is ontologically irreducible, this model sits uniquely in the physicalist landscape, asserting a robust, non-eliminable emergent reality tied strictly to biological causality.",
     "subjectivity_and_intentionality": "Stany świadome są ontologicznie subiektywne (istniejące tylko jako doświadczane przez podmiot), a większość stanów świadomych jest intencjonalna (dotyczą przedmiotów i stanów rzeczy lub odnoszą się do nich).",
     "qualia_account": "Stany świadome są z natury jakościowe, w tym sensie, że istnieje odrębny jakościowy odczuwalny charakter bycia w jakimkolwiek konkretnym stanie świadomym, a ten jakościowy odczuwalny charakter jest rzeczywistą i nieredukowalną częścią świata.",
     "ontological_commitments": "Biologiczne mózgi i ich procesy neurobiologiczne niższego poziomu; stany świadome charakteryzujące się jakościowym odczuwalnym charakterem, subiektywnością ontologiczną, jednością i intencjonalnością.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny (definiowanie istotnych cech) i empiryczny (neuronaukowe dowody na korelację umysł-mózg)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Empirycznie sprawdzalna w zasadzie, ponieważ teoria wymaga odnalezienia dokładnych przyczynowych szczegółów tego, jak procesy mózgowe niższego poziomu wywołują świadomość.",
+    "testability_status": "Empirically testable in principle, as the theory requires finding the exact causal details of how lower-level brain processes cause consciousness.",
     "known_empirical_interventions_or_tests": "Teoria jest ogólnie wspierana przez dowody empiryczne z neuronauki wykazujące związek między świadomością a aktywnością mózgu (np. uszkodzenie mózgu, stymulacja mózgu).",
     "criticisms_and_tensions": "Krytycy kwestionują twierdzenie, że przyczynowy związek między stanami mózgu a świadomością jest w pełni ustalony. Napięcie istnieje w utrzymywaniu materializmu przy jednoczesnym argumentowaniu, że świadomość jest ontologicznie subiektywna i nieredukowalna do obiektywnych procesów fizycznych.",
     "open_questions_and_limitations": "Konkretne szczegóły tego, jak dokładnie świadomość jest wywoływana przez procesy mózgowe, są nieznane, co uniemożliwia sztuczne odtworzenie świadomości.",
@@ -51,35 +53,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Warunkowy/możliwy",
+      "stance": "Conditional",
       "rationale": "Searle odrzuca świadomość poprzez symulację (argument chińskiego pokoju), lecz argumentuje, że jeśli poznany zostanie przyczynowo wystarczający mechanizm biologiczny, sztuczna maszyna implementująca ten sam mechanizm mogłaby być świadoma, ponieważ świadomość nie wymaga ściśle biologicznych neuronów, a jedynie dostatecznej mocy przyczynowej."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest w całości fizyczna i jest wyłącznie produktem biologicznych mózgów; dlatego śmierć mózgu i ciała oznacza nieodwołalne, trwałe nieistnienie."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Jako teoria materialistyczna naturalizm biologiczny ma trudność z racjonalizowaniem ostatecznego kosmicznego sensu lub celu, choć humanistyczny sens tworzony przez nas samych pozostaje możliwy."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jeśli świadomość jest w całości wyjaśnialna przez stany fizyczne/biologiczne, to duplikacja tych stanów (i ich relacji przyczynowych) w podłożu niebiologicznym umożliwiłaby w zasadzie przesłanie i kontynuację pierwszoosobowego mentalnego ja."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mind-Brain Identity Theory",
-        "relationship": "Nakładanie się/rozwinięcie (bardziej wyrafinowana forma materializmu oparta na tożsamości mózgu)"
+        "name": "Mind-Brain Identity",
+        "relationship": "Overlap/Evolution (A more sophisticated form of materialism based on brain identity)"
       },
       {
-        "name": "Dennett’s Multiple Drafts Model",
-        "relationship": "Kontrast (obaj są naturalistami biologicznymi, lecz Dennett stawia na pierwszym miejscu treść/funkcję, podczas gdy Searle świadomość/subiektywność)"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Contrast (Both are biological naturalists, but Dennett prioritizes content/function, while Searle prioritizes consciousness/subjectivity)"
       },
       {
         "name": "Property Dualism",
-        "relationship": "Krytyka (Searle odrzuca tę i inne tradycyjne teorie jako nieistotne, gdy wychodzi się od nowoczesnego naukowego światopoglądu)"
+        "relationship": "Critique (Searle rejects this and other traditional theories as irrelevant when starting from a modern scientific worldview)"
       }
     ],
     "sources_and_references": [

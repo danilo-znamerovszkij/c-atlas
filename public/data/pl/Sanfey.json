@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Realizm abstrakcyjny (AR)",
     "summary": "Realizm abstrakcyjny proponuje komplementarność perspektywy pierwszoosobowej (doświadczającego) i trzecioosobowej (obserwowanego), z których każda zawiera równoważną funkcję obserwatora, aby przerzucić most nad luką wyjaśniającą między umysłem a materią . Świadomość jest generowana w mózgu przez dwukierunkowe, przyczynowe oddziaływanie dwóch systemów informacyjnych, zrealizowanych jako pola elektromagnetyczne, w którym jeden pełni funkcję obserwującego układu odniesienia dla drugiego .",
-    "associated_thinkers": ["John Sanfey"],
+    "associated_thinkers": [
+      "John Sanfey"
+    ],
     "category": "Fizykalizm niereduktywny",
     "subcategory": "Realizm abstrakcyjny",
     "core_identity_tagline": "„Świadomość jako komplementarność perspektyw”",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest wynikowym stanem przyczynowego, dwukierunkowego oddziaływania między dwoma systemami informacyjnymi (dwoma polami elektromagnetycznymi) w mózgu, skonfigurowanymi tak, że jeden jest obserwującym układem odniesienia dla drugiego .",
-    "ontological_status": "Fizykalizm niereduktywny ",
+    "ontological_status": "Non-Reductive Physicalism ",
     "mind_body_relationship": "Świadomość ma moc przyczynową i jest wytwarzana przez systemy fizyczne (mózg), gdy zostają zorganizowane w dostatecznie złożony sposób . Umysł i materia są ujmowane jako komplementarność perspektywy pierwszo- i trzecioosobowej, integrująca świadomość z fizyką .",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Silna emergencja (implikowana). Mechanika przyczynowa świadomości jest w zasadzie nieobserwowalna, co czyni świadomość nieodróżnialną od silnej emergencji .",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence (Implied). The causal mechanics of consciousness are unobservable in principle, making consciousness indistinguishable from strong emergence .",
     "subjectivity_and_intentionality": "Subiektywność jest zakorzeniona w symultaniczności fenomenalnej, w której żaden czas nie oddziela doświadczającego od doświadczanego . Intencjonalność nie jest w źródle wyraźnie omawiana, lecz model implikuje, że wyłania się ona ze zintegrowanych procesów przyczynowych.",
     "qualia_account": "Doświadczenie jakościowe (np. „jest jakoś doświadczać czerwieni”) jest związane z symultanicznością fenomenalną i obecnością .",
     "ontological_commitments": "Systemy fizyczne (mózgi), systemy informacyjne, pola elektromagnetyczne . Materia jest fundamentalnie definiowana przez prawa fizyki i postrzegana jako model zmysłowy lub pojęciowy .",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Argument filozoficzny, analiza fenomenologiczna (symultaniczność fenomenalna) ."
   },
   "empirics_and_critiques": {
-    "testability_status": "Spekulatywna i ugruntowana pojęciowo. Testowanie empiryczne jest utrudnione przez to, że podstawowy mechanizm jest „w zasadzie nieobserwowalny” .",
+    "testability_status": "Speculative and conceptually grounded. Empirical testing is challenged by the core mechanism being 'unobservable in principle' .",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Teoria opiera się na mechanice przyczynowej, która jest w zasadzie nieobserwowalna , co ogranicza weryfikację empiryczną. Czerpie z teorii pól elektromagnetycznych, które same są zróżnicowane (9.3) .",
     "open_questions_and_limitations": "Trudność w empirycznym obserwowaniu lub mierzeniu mechaniki przyczynowej symultaniczności fenomenalnej oraz leżących u jej podstaw dwóch systemów informacyjnych .",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Teoria głosi, że świadomość może być wytwarzana przez systemy fizyczne, „nawet syntetyczne”, o ile osiągną niezbędną dwukierunkową złożoność przyczynową (tj. oddziaływanie dwóch systemów informacyjnych / pól elektromagnetycznych) ."
     },
     "survival_beyond_death": {
-      "stance": "Mało prawdopodobne",
+      "stance": "Unlikely",
       "rationale": "Jako teoria fizykalizmu niereduktywnego wiąże świadomość ze złożonymi mechanizmami fizycznymi (polami elektromagnetycznymi w mózgu) . Choć obecność fenomenalna stwarza logiczną możliwość umysłu bezcielesnego, centralny mechanizm zależy od fizycznego działania mózgu ."
     },
     "meaning_and_purpose": {
-      "stance": "Niepewny",
+      "stance": "Uncertain",
       "rationale": "Teoria skupia się na rozwiązaniu luki wyjaśniającej między umysłem a materią. Fizykalizm niereduktywny zajmuje ogólnie pozycję pośrednią w kwestii ostatecznego sensu/celu, czyniąc go możliwym, lecz niewynikającym wprost z samej teorii ."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Jeśli świadomość jest generowana przez systemy fizyczne o wykazanej mocy przyczynowej, to zaawansowana technologia niezbędna do zduplikowania tych złożonych dynamik informacyjnych i polowych w wirtualnym podłożu powinna umożliwić przesłanie mentalnego ja, zgodnie z kategoryzacją fizykalizmu niereduktywnego ."
     }
   },
@@ -71,19 +73,19 @@
     "related_theories": [
       {
         "name": "Conscious Electromagnetic Information Theory (CEMI)",
-        "relationship": "Nakładanie się (uwzględnia mechanizm dwóch pól elektromagnetycznych)"
+        "relationship": "Overlap (incorporates the mechanism of two electromagnetic fields)"
       },
       {
-        "name": "Strong Emergence",
-        "relationship": "Zgodność (świadomość uznaje się za nieodróżnialną od silnej emergencji)"
+        "name": "Emergence",
+        "relationship": "Compatible (consciousness is deemed indistinguishable from strong emergence)"
       },
       {
-        "name": "Reductive Physicalism",
-        "relationship": "Krytyka (AR wyraźnie unika odwoływania się do fizykalizmu redukcyjnego)"
+        "name": "Materialism",
+        "relationship": "Critique (AR explicitly avoids appealing to reductive physicalism)"
       },
       {
         "name": "Dualism and Idealism",
-        "relationship": "Krytyka (AR dąży do integracji w obrębie fizyki bez odwoływania się do dualizmu czy idealizmu)"
+        "relationship": "Critique (AR seeks integration within physics without appealing to dualism or idealism)"
       }
     ],
     "sources_and_references": [

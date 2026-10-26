@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Wolni sprawcy Mitchella",
     "summary": "Teoria ta głosi, że wolna wola, czyli sprawczość, jest realnym zjawiskiem, które w całości wyłania się z czysto fizycznych procesów mózgu. Podkreśla ewolucyjną drogę, na której układy nerwowe rozwinęły zdolność do uczenia się, modelowania, przewidywania i symulowania, umożliwiając istotom żywym dokonywanie rzeczywistych wyborów.",
-    "associated_thinkers": ["Kevin Mitchell"],
+    "associated_thinkers": [
+      "Kevin Mitchell"
+    ],
     "category": "Materializm",
     "subcategory": "Neurobiologiczne",
     "core_identity_tagline": "Wolni sprawcy wyłaniający się z czysto fizycznych procesów mózgu",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość i zachowanie są utożsamiane z emergentnymi produktami wyłaniającymi się w całości z fizycznych procesów i wzorców aktywności neuronalnej w mózgu.",
-    "ontological_status": "Fizykalizm",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Tożsamościowa/emergentystyczna. Myśli są fizycznie zrealizowane we wzorcach aktywności neuronalnej, co oznacza, że „duch” jest maszyną w działaniu.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Subiektywność i poczucie „jaźni” są wyjaśniane jako aspekty działającej fizycznej maszyny. Intencjonalność wyłania się z wyewoluowanych zdolności, które pozwalają organizmowi modelować, przewidywać i symulować świat, umożliwiając sprawczość ukierunkowaną na cel.",
     "qualia_account": "Jakościowy charakter doznań jest implicytnie wyjaśniany jako produkt złożonych fizycznych procesów mózgu i swoistych wzorców aktywności neuronalnej. Materiał źródłowy nie przedstawia wprost natury qualiów fenomenalnych poza stwierdzeniem, że wyłaniają się one fizycznie.",
     "ontological_commitments": "Fizyczne mózgi, układy nerwowe, wzorce aktywności neuronalnej.",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny, ewolucyjny"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empirycznie ograniczona (przez dane neurobiologiczne i ewolucyjne); mechanizm emergencji sprawczości jest pojęciowo zakotwiczony w fizykalizmie.",
+    "testability_status": "Empirically constrained (by neurobiological and evolutionary data); mechanism for emergence of agency is conceptually grounded in physicalism.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Teoria jest kwestionowana przez twardych deterministów i sceptyków wolnej woli. Jest znacząca właśnie dlatego, że broni „rzeczywistej” wolnej woli, zachowując zarazem bezkompromisowe przywiązanie do fizykalizmu, co odróżnia ją od wielu innych stanowisk materialistycznych.",
     "open_questions_and_limitations": "Dokładne mechanizmy wyjaśniające, w jaki sposób czysto fizyczne procesy mózgu generują nieiluzoryczną sprawczość i subiektywne doświadczenie, pozostają do pełnego wyszczególnienia.",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Świadomość i sprawczość są całkowicie fizycznymi zjawiskami wyłaniającymi się ze złożonych systemów. Dlatego przy dostatecznym postępie technologicznym systemy sztuczne mogą zrealizować niezbędne procesy fizyczne i osiągnąć świadomość."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest całkowicie zależna od czysto fizycznych procesów i wzorców aktywności w biologicznym mózgu; „duch” jest działającą maszyną, co implikuje ustanie wraz ze śmiercią mózgu."
     },
     "meaning_and_purpose": {
-      "stance": "Humanistyczne/ewolucyjne",
+      "stance": "Humanistic only",
       "rationale": "Sprawczość pozwala jednostkom świadomie kształtować swoją przyszłość i działać celowo, dostarczając wewnętrznego, samodzielnie wytworzonego sensu, lecz leżący u podstaw porządek kosmiczny jest materialistyczny (emergentny z materii nieożywionej)."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jako teoria fizykalistyczna dopuszcza wirtualną nieśmiertelność w zasadzie osiągalną, jeśli istotne wzorce aktywności neuronalnej i wspierana przez nie emergentna sprawczość mogłyby zostać doskonale zduplikowane w nośnikach niebiologicznych."
     }
   },
@@ -72,15 +74,15 @@
     "related_theories": [
       {
         "name": "Papineau's Mind-Brain Identity",
-        "relationship": "Zgodna"
+        "relationship": "Compatible"
       },
       {
         "name": "Functionalism",
-        "relationship": "Zgodna"
+        "relationship": "Compatible"
       },
       {
         "name": "Sapolsky's Hard Incompatibilism",
-        "relationship": "Krytyka"
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

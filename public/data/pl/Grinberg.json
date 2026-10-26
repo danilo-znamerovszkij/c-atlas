@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Teoria pola synergicznego/neuronalnego Grinberga",
     "summary": "Ta teoria psychofizjologiczna zakłada, że mózg tworzy hiperzłożone wewnętrzne „pole neuronalne” wynikające z aktywacji i unifikacji wszystkich jego elementów neuronalnych. Świadomość jest ściśle powiązana z tym polem, które wytwarza zniekształcenie w podstawowej strukturze czasoprzestrzeni; nasze percepty są percepcją tego zniekształcenia.",
-    "associated_thinkers": ["Jacobo Grinberg-Zylberbaum"],
+    "associated_thinkers": [
+      "Jacobo Grinberg-Zylberbaum"
+    ],
     "category": "Stany anomalne i zmienione",
     "subcategory": "Teoria pola",
     "core_identity_tagline": "Świadomość jako zniekształcenie podstawowej struktury czasoprzestrzeni",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest interakcją między polem neuronalnym a energetyczną (synergiczną) organizacją przestrzeni. Samo doświadczenie istnieje w wymiarze odmiennym od zlokalizowanej aktywności fizjologicznej mózgu.",
-    "ontological_status": "Monizm anomalny / dwuaspektowość (uzasadnienie: teoria zakłada „Rzeczywistość” jako „niezróżnicowaną matrycę energetyczną” przekształcaną przez mózg, co sugeruje jedną fundamentalną rzeczywistość, lecz manifestowaną poprzez odrębne pola.)",
+    "ontological_status": "Anomalous Monism/Dual-Aspect (Justified: The theory posits 'Reality' as an 'undifferentiated energetic matrix' converted by the brain, suggesting a single fundamental reality but manifested via distinct fields.)",
     "mind_body_relationship": "Ludzki mózg przekształca „niezróżnicowaną matrycę energetyczną” (Rzeczywistość) w aktywność neuronalną i doświadczenie subiektywne. Pole neuronalne mózgu oddziałuje z kontinuum przestrzeni-materii.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja silna (uzasadnienie: świadomość jest osiągana poprzez hipotetyczne „energetyczne przekształcenia o charakterze jakościowym” i istnieje w wymiarze odmiennym od aktywności fizjologicznej, co sugeruje nieredukowalność.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence (Justified: Consciousness is reached through hypothesized 'energetic transformations of a qualitative nature' and exists in a different dimension than physiological activity , suggesting non-reducibility.)",
     "subjectivity_and_intentionality": "Subiektywność jest ujmowana jako „percepcja tego zniekształcenia” czasoprzestrzeni wytworzonego przez pole neuronalne. Przekształcenia obejmują zjawiska subiektywne, takie jak „miłość, strach”.",
     "qualia_account": "Doświadczenie jakościowe (qualia) wynika z „energetycznych przekształceń o charakterze jakościowym”, które zachodzą, gdy mózgowe zmiany elektrochemiczne łączą się z doświadczeniami światła, dźwięku, miłości, strachu itd.",
     "ontological_commitments": "Pola neuronalne, „niezróżnicowana matryca energetyczna” (Rzeczywistość) oraz kontinuum przestrzeni-materii.",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Psychofizjologiczny, spekulatywny, nietradycyjny empiryczny (eksperymenty peryferyjne)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalny empirycznie / spekulatywny. Teoria wysuwa twierdzenia o zjawiskach mierzalnych (pola neuronalne, potencjały przenoszone), lecz wiąże je z niestandardowymi, nielokalnymi pojęciami fizycznymi.",
+    "testability_status": "Empirically testable/Speculative. The theory makes claims about quantifiable phenomena (neuronal fields, transferred potentials) but links them to non-standard, non-local physical concepts.",
     "known_empirical_interventions_or_tests": [
       "Pomiar „potencjałów przenoszonych” między elektrycznie izolowanymi podmiotami w celu wykazania efektów kwantowych na poziomie makro "
     ],
@@ -54,19 +56,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Niepewne",
+      "stance": "Uncertain",
       "rationale": "Teoria wymaga struktury „równie złożonej jak mózg”, by aktywować pole, i opiera się na nielokalnych, energetycznych interakcjach, których odtworzenie w systemach sztucznych nie jest zagwarantowane."
     },
     "survival_beyond_death": {
-      "stance": "Możliwe",
+      "stance": "Possible",
       "rationale": "Świadomość i doświadczenie mają istnieć w wymiarze odmiennym od zlokalizowanej fizjologicznej aktywności mózgu. Włączenie efektów kwantowych i interakcji nielokalnych sugeruje potencjał trwania poza ciałem fizycznym."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmiczne/filozoficzne",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Teoria wiąże świadomość z fundamentalną strukturą rzeczywistości, ujmując mózg jako przekształcający pierwotną matrycę energetyczną w doświadczenie, co sugeruje głębokie znaczenie kosmiczne i integrację z samym istnieniem."
     },
     "virtual_immortality": {
-      "stance": "Mało prawdopodobna",
+      "stance": "Unlikely",
       "rationale": "Wirtualna nieśmiertelność wymagałaby technologicznego zduplikowania dokładnego przekształcenia energetycznego oraz interakcji pola neuronalnego z synergiczną organizacją przestrzeni, co jest wysoce nieprawdopodobne ze względu na nielokalne i niekonwencjonalne założenia fizyczne tej teorii."
     }
   },
@@ -74,13 +76,16 @@
     "related_theories": [
       {
         "name": "Conscious Electromagnetic Information (CEMI) Theory",
-        "relationship": "Nakładanie się"
+        "relationship": "Overlap"
       },
       {
         "name": "Quantum Theories of Consciousness",
-        "relationship": "Zgodna"
+        "relationship": "Compatible"
       },
-      { "name": "Idealisms", "relationship": "Zgodna" }
+      {
+        "name": "Idealism",
+        "relationship": "Compatible"
+      }
     ],
     "sources_and_references": [
       {

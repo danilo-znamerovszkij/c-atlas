@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Teoria nieteoretycznego fizykalizmu Nagasawy",
     "summary": "Teoria ta głosi, że świat jest całkowicie fizyczny, a mimo to zawiera określone fizyczne fakty dotyczące świadomości, których nie sposób uchwycić ani wyjaśnić nawet za pomocą kompletnych teorii nauk fizycznych. Funkcjonuje jako alternatywne sformułowanie fizykalizmu, które dąży do pogodzenia fizycznej ontologii z widocznymi niepowodzeniami teorii redukcyjnych w uchwyceniu świadomości fenomenalnej.",
-    "associated_thinkers": ["Yujin Nagasawa"],
+    "associated_thinkers": [
+      "Yujin Nagasawa"
+    ],
     "category": "Fizykalizm nieredukcyjny",
     "subcategory": "Alternatywne sformułowanie fizykalizmu",
     "core_identity_tagline": "Fizykalizm poza teorią fizyczną",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest konstytuowana przez fizyczne fakty oparte na bytach, które istnieją poza ramami pojęciowymi kompletnej teoretycznej nauki fizycznej.",
-    "ontological_status": "Fizykalizm",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Umysł/świadomość jest tożsama z rzeczywistością fizyczną; jednakże pewne fakty dotyczące świadomości są niedostępne tradycyjnej wiedzy teoretycznej (luka epistemiczna), co wymusza rozumienie tej tożsamości oparte na bytach, a nie na teorii.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja silna",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence",
     "subjectivity_and_intentionality": "Doświadczenie subiektywne jest ugruntowane w określonych, „nieteoretycznych” faktach fizycznych, których nie sposób uchwycić za pomocą kompletnego wyjaśnienia naukowego, co zachowuje epistemiczną tajemnicę subiektywności przy jednoczesnym potwierdzeniu jej fizycznej natury.",
     "qualia_account": "Fakty dotyczące qualiów są faktami fizycznymi, lecz należą do obszaru rzeczywistości fizycznej, który wymyka się uchwyceniu przez obecne lub kompletne teorie fizyczne.",
     "ontological_commitments": "Rzeczywistość fizyczna, byty fizyczne oraz nieteoretyczne fakty fizyczne.",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzna"
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna pojęciowo (za pomocą argumentów filozoficznych); empirycznie ograniczona/spekulatywna z uwagi na definicję „faktów nieteoretycznych”.",
+    "testability_status": "Conceptually testable (via philosophical arguments); empirically limited/speculative due to the definition of 'nontheoretical facts'.",
     "known_empirical_interventions_or_tests": "Nie sprecyzowano; opiera się na argumentach pojęciowych/epistemologicznych (np. krytyce argumentu z wiedzy), a nie na empirycznym testowaniu swych podstawowych twierdzeń.",
     "criticisms_and_tensions": "Napotyka napięcie nieodłączne od definiowania fizykalizmu przez odwołanie do aspektów rzeczywistości, które z konieczności wymykają się pełnej teoretyzacji naukowej, ryzykując ontologiczną niejednoznaczność. Jest obroną przed niepowodzeniami tradycyjnego fizykalizmu.",
     "open_questions_and_limitations": "Otwarte pozostają dokładna natura i struktura nieteoretycznych faktów fizycznych oraz uzasadnienie, dlaczego te konkretne fakty są z natury nieuchwytne.",
@@ -50,35 +52,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Ponieważ świat jest całkowicie fizyczny, a świadomość zakorzeniona jest w opartych na bytach faktach fizycznych, złożone systemy sztuczne mogłyby w zasadzie zrealizować konieczne nieteoretyczne fakty fizyczne."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Jako forma fizykalizmu, świadomość jest związana ze światem fizycznym i nie ma przesłanek, by dopuszczała trwanie po rozpadzie fizycznego substratu."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Ontologia jest ściśle fizyczna, co nie pociąga z natury żadnego ostatecznego kosmicznego sensu ani celu, choć uznaje istnienie fizycznych faktów niedostępnych dla teorii naukowej."
     },
     "virtual_immortality": {
-      "stance": "Warunkowa (ograniczona technologicznie)",
+      "stance": "Conditional",
       "rationale": "Jeśli określony byt fizyczny (lub jego konfiguracja) ucieleśniający nieteoretyczne fakty dotyczące świadomości może zostać doskonale powielony lub przeniesiony na nośnik niebiologiczny, wirtualna nieśmiertelność jest technicznie możliwa, choć niezwykle trudna."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Physicalism",
-        "relationship": "Rozszerzenie"
+        "name": "Materialism",
+        "relationship": "Extension"
       },
       {
-        "name": "Non-Reductive Physicalism",
-        "relationship": "Krytyka/alternatywa"
+        "name": "Non-Reductive",
+        "relationship": "Critique/Alternative"
       },
       {
         "name": "The Knowledge Argument",
-        "relationship": "Wpływ"
+        "relationship": "Influence"
       }
     ],
     "sources_and_references": [

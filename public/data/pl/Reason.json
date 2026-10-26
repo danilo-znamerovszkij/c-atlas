@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Twierdzenie o niemożliwości Reason przeciw materializmowi i superweniencji",
+    "summary": "Catherine M. Reason przedstawia formalny dowód, że żaden system fizyczny ani żaden model superweniujący na nim nie może mieć samopewności, dzięki której świadomy człowiek wie, że jest świadomy. Twierdzenie mówi, czym świadomość być nie może, a Reason wnioskuje z niego, że każda teoria fizykalistyczna opisująca samoświadomy, racjonalny system musi być wewnętrznie sprzeczna.",
+    "associated_thinkers": [
+      "Catherine M. Reason",
+      "Gilbert Caplain"
+    ],
+    "category": "Wyzwanie",
+    "subcategory": "",
+    "core_identity_tagline": "Samopewność nie może superweniować na procesach fizycznych",
+    "classification_tags": [
+      "no-go theorem",
+      "supervenience",
+      "self-certainty",
+      "anti-physicalism",
+      "formal proof"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Twierdzenie nie podaje pozytywnej tożsamości świadomości. Definiuje system świadomy jako zdolny do rozumowania podobnego do ludzkiego i do absolutnej samopewności oraz dowodzi, że taki system nie może być w całości fizyczny.",
+    "ontological_status": "Anti-physicalism (non-supervenience)",
+    "mind_body_relationship": "Reason przyjmuje, że mózgi korelują ze świadomością i że znaczną część poznania można badać w ujęciu trzecioosobowym. Odrzuca mocniejszą tezę, że w pełni samoświadome stany są całkowicie wyznaczone przez obiektywnie obserwowalne stany fizyczne.",
+    "primitive_or_emergent_status": "Unclear",
+    "emergence_type": "Not emergent from physical systems; Reason and Shah argue conscious macrostates neither emerge from nor supervene on physical microstates, because consciousness is not measurable like proven emergent properties.",
+    "subjectivity_and_intentionality": "Subiektywność jest zakotwiczona w kartezjańskim cogito: podmiot świadomy może z pewnością stwierdzić, że jest świadomy, co zoperacjonalizowano jako wiedzę, że nie jest w śnie bez marzeń sennych.",
+    "qualia_account": "",
+    "ontological_commitments": "Przynajmniej niektóre stany w każdym świadomym systemie podobnym do ludzkiego, które nie superweniują na stanach fizycznych.",
+    "epistemic_access": "Samopewność z perspektywy pierwszej osoby, analizowana formalnymi narzędziami: funkcją samopewności ω, predykatową logiką modalną i „urządzeniem wnioskującym” Wolperta dla systemów fizycznych zdolnych do obserwacji, przewidywania i pamięci.",
+    "constituents_and_structure": "Trzy postulaty, które według Reason nie mogą zachodzić jednocześnie: obiektywność (stany mentalne superweniują na obserwowalnej dynamice), samoświadomość i racjonalność podobna do ludzkiej."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Samoświadomość (samopewność); granice fizykalistycznych ujęć świadomości fenomenalnej",
+    "distinctive_mechanism_or_principle": "Regres diagonalny. Poświadczenie, że korelat neuronalny działa poprawnie, wymaga innego, odrębnego korelatu (NCC*), potem kolejnego (NCC**), bez końca, a żaden mózg nie może mieć nieskończenie wielu rozróżnialnych stanów.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "",
+    "causation_and_functional_role": "Świadome mózgi oddziałują na urządzenia rejestrujące, a mimo to nie da się ich w pełni opisać żadną teorią fizyczną, więc Reason i Shah wnioskują, że muszą w jakiś sposób naruszać zasadę zachowania energii, być może za pośrednictwem relacji nieoznaczoności energia–czas.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Aby wykonać ω, system musi wykonać funkcję ξ poświadczającą, że jego procesy są fizycznie realne, ale zweryfikowanie ξ wymaga zastosowania ξ do samej siebie, więc wynik jest potrzebny, zanim da się go obliczyć.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Twierdzenie 1a głosi, że żaden system fizyczny zdolny do poprawnego rozumowania podobnego do ludzkiego nie może wykonać funkcji samopewności ω ani zostać zarejestrowany, jak stwierdza „jestem samopewny”.",
+      "Twierdzenie 1b rozciąga to na każdy model superweniujący na systemie fizycznym, co zmuszałoby urządzenie rejestrujące do dwóch sprzecznych stanów.",
+      "Regres ma diagonalną strukturę dowodu Turinga dla problemu stopu, co według Reason odróżnia go od zwykłych argumentów z nieskończonego regresu.",
+      "Dualizm własności, monizm refleksyjny, monizm realistyczny i iluzjonizm są wykluczone w obecnej postaci, a pogląd Chalmersa się ostaje tylko wtedy, gdy ludzie zachowują się irracjonalnie."
+    ],
+    "basis_of_belief_or_evidence_type": "Formalny dowód logiczny i matematyczny zbudowany na kartezjańskim cogito."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Cały wynik zależy od przyjęcia kartezjańskiego cogito za ważną podstawę absolutnej samopewności. Przeskok od ograniczenia teoretycznych modeli do naruszeń zachowania energii w prawdziwych mózgach wykracza daleko poza ścisły wniosek.",
+    "open_questions_and_limitations": "Reason zaznacza, że twierdzenie ogranicza modele systemów, a nie same systemy. Ściśle rzecz biorąc, wynika z niego tylko, że niektóre stany świadome nie superweniują na stanach fizycznych, a to, czy cogito ugruntowuje samopewność, jest według niej pytaniem empirycznym, którego żaden argument teoretyczny nie rozstrzygnie.",
+    "ontological_coherence": "Spójna jako wynik negatywny. Zostawia otwarte, czym świadomość pozytywnie jest, a Reason zauważa, że postulat fizykalizmu musi być tylko możliwy, a nie konieczny, aby argument działał."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "Ponieważ żaden fizykalistyczny model systemu nie może być zdolny do samopewności, czysto obliczeniowa lub fizyczna maszyna nie mogłaby być świadoma w sensie zdefiniowanym przez Reason."
+    },
+    "survival_beyond_death": {
+      "stance": "Uncertain",
+      "rationale": "Twierdzenie implikuje, że niektóre stany świadome nie są fizyczne, ale nic nie mówi o tym, czy trwają po śmierci mózgu."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Jeśli samopewna świadomość nie może superweniować na żadnym procesie fizycznym, cyfrowa kopia działająca na sprzęcie fizycznym nie mogłaby jej odtworzyć."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Kim’s Supervenience",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Chalmers’s Naturalistic Dualism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Velmans's Reflexive Monism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Frankish’s Illusionism",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reason's No-Go Theorem against Materialism/Supervenience (Landscape of Consciousness entry), Catherine M. Reason",
+        "year": 2019
+      }
+    ]
+  }
+}

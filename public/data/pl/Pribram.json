@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "Holonomiczna teoria mózgu Pribrama",
     "summary": "Teoria ta proponuje, że ludzka świadomość powstaje z efektów kwantowych zachodzących wewnątrz komórek mózgowych lub między nimi, sprawiając, że mózg funkcjonuje jako holograficzna sieć przechowywania informacji. Ta holograficzna natura oznacza, że informacja, zwłaszcza pamięć, jest przechowywana nielokalnie w sieciach neuronalnych, umożliwiając odporne działanie nawet po uszkodzeniu.",
-    "associated_thinkers": ["Karl Pribram", "David Bohm"],
+    "associated_thinkers": [
+      "Karl Pribram",
+      "David Bohm"
+    ],
     "category": "Teorie materialistyczne",
     "subcategory": "Obliczeniowe i informacyjne",
     "core_identity_tagline": "„Świadomość jako holograficzne przechowywanie kwantowe”",
@@ -16,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość utożsamia się ze wzorcami interferencji falowej w neuronalnych sieciach dendrytycznych, charakterystycznymi dla holograficznego kodowania informacji wywodzącego się z efektów kwantowych.",
-    "ontological_status": "Fizykalizm (rozszerzony/kwantowo-biologiczny)",
+    "ontological_status": "Physicalism (Extended/Quantum-Biological)",
     "mind_body_relationship": "Umysł/świadomość jest tożsamy z określonymi procesami kwantowymi i strukturami informacyjnymi w obrębie fizycznego mózgu, co sugeruje teorię tożsamości na poziomie kwantowym.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja silna",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence",
     "subjectivity_and_intentionality": "Świadomość jest powiązana ze zorganizowanym odzyskiwaniem i rekonstrukcją holograficznych wzorców informacyjnych, ułatwiając szybką pamięć asocjacyjną niezbędną dla subiektywnego doświadczenia oraz umożliwiając percepcję wykraczającą poza proste przetwarzanie w przód.",
     "qualia_account": "Qualia są niejawnie ujmowane przez nielokalną, holograficzną strukturę przechowywania, która pozwala odtworzyć całość i jedność złożonej przechowywanej informacji (pamięci/percepcji) z dowolnej jej części.",
     "ontological_commitments": "Efekty/procesy kwantowe, sieci dendrytyczne, wzorce interferencji falowej, przestrzeń fazowa Hilberta oraz nielokalne rozproszenie pamięci.",
@@ -43,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Pojęciowa, matematyczna (modele holograficzne), empiryczna (neurobiologiczne badania nad uszkodzeniami), teoretyczna (fizyka kwantowa)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna pojęciowo, lecz napotyka skrajną trudność empiryczną w weryfikacji koniecznych warunków kwantowo-biologicznych w obrębie mózgu.",
+    "testability_status": "Conceptually testable, but faces extreme empirical difficulty in verifying the necessary quantum biological conditions within the brain.",
     "known_empirical_interventions_or_tests": [
       "Eksperymenty Lashleya nad engramem, wykazujące odporne funkcjonowanie pamięci mimo rozległych uszkodzeń kory mózgowej."
     ],
@@ -53,19 +56,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Warunkowa",
+      "stance": "Conditional",
       "rationale": "Jeśli świadomość zależy od określonych własności kwantowych/fizycznych (jak oscylacje dendrytyczne i interferencja falowa), a nie od samych obliczeń klasycznych, to układy sztuczne mogłyby być świadome tylko wtedy, gdyby odtworzyły tę specyficzną, obecnie nieznaną, strukturę fizyczną."
     },
     "survival_beyond_death": {
-      "stance": "Wysoce nieprawdopodobne/nie",
+      "stance": "Unlikely",
       "rationale": "Świadomość jest związana z emergentną dynamiką kwantową w obrębie sieci dendrytycznych fizycznego mózgu; zniszczenie tej struktury fizycznej pociągałoby zwykle za sobą ustanie świadomości, zgodnie z ontologią fizykalistyczną."
     },
     "meaning_and_purpose": {
-      "stance": "Niepewne/wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Jako teoria czysto mechanistyczna i fizykalistyczna (choć odwołująca się do niekonwencjonalnej fizyki), nie wymaga żadnego wewnętrznego kosmicznego sensu ani wartości, choć wyjaśnia fizyczną podstawę ludzkiego doświadczenia i tworzenia wartości."
     },
     "virtual_immortality": {
-      "stance": "Warunkowa",
+      "stance": "Conditional",
       "rationale": "Nieśmiertelność wirtualna jest teoretycznie możliwa tylko wtedy, gdy technologia zdoła doskonale zmierzyć, odwzorować i odtworzyć niezwykle złożone, wysoce czułe kwantowe/holograficzne wzorce i dynamikę biologicznego mózgu w niebiologicznym podłożu."
     }
   },
@@ -73,19 +76,19 @@
     "related_theories": [
       {
         "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
-        "relationship": "Rozszerzenie/współpraca"
+        "relationship": "Extension/Collaboration"
       },
       {
         "name": "Bohm's Implicate-Explicate Order",
-        "relationship": "Wpływ/współpraca"
+        "relationship": "Influence/Collaboration"
       },
       {
         "name": "Holonomic Principle",
-        "relationship": "Wpływ"
+        "relationship": "Influence"
       },
       {
-        "name": "Electromagnetic Field Theories",
-        "relationship": "Nakładanie się"
+        "name": "Electromagnetic",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

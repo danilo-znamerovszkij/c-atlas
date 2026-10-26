@@ -1,0 +1,123 @@
+{
+  "id_and_class": {
+    "theory_title": "Mezookwód przedniego przodomózgowia Schiffa w powrocie świadomości",
+    "summary": "Nicholas D. Schiff proponuje, że utrata i odzyskiwanie świadomości po ciężkim uszkodzeniu mózgu zależą od pętli łączącej centralne wzgórze, korę czołową, prążkowie i gałkę bladą wewnętrzną. Rozległe uszkodzenie pozbawia prążkowie wejścia, co uwalnia hamowanie z gałki bladej na centralne wzgórze i wprowadza całe przednie przodomózgowie w samowzmacniający się stan obniżonej aktywności. Ponieważ obwód można z powrotem przepchnąć przez próg, model wyjaśnia powrót do zdrowia i przewiduje, które terapie zadziałają.",
+    "associated_thinkers": [
+      "Nicholas D. Schiff"
+    ],
+    "category": "Materializm",
+    "subcategory": "Neurobiologiczne",
+    "core_identity_tagline": "Poziom świadomości jako funkcja obwodu wzgórzowo-korowego",
+    "classification_tags": [
+      "disorders of consciousness",
+      "thalamus",
+      "deep brain stimulation",
+      "brain injury",
+      "neurology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Schiff nie mówi, czym jest świadomość. Wskazuje warunki umożliwiające poziom świadomości: aktywny mezookwód przedniego przodomózgowia, który podtrzymuje aktywność nawrotową, od której zależą stany świadome.",
+    "ontological_status": "Physicalism (neurobiological)",
+    "mind_body_relationship": "Poziom świadomości zależy od określonego obwodu podkorowo-korowego; jego awaria znosi świadomość nawet wtedy, gdy przeżywa duża część tkanki korowej. Model milczy na temat tego, jak aktywność mózgu wiąże się z doświadczaną treścią.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (conscious level depends on the dynamic state of a brain circuit)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Nie jest omawiane. Schiff przedstawia hipotezę jako model poziomu świadomości, a nie charakteru fenomenalnego.",
+    "ontological_commitments": "Obwody nerwowe (centralne wzgórze, średnie neurony kolczaste prążkowia, gałka blada wewnętrzna, kora czołowa), napęd synaptyczny, neuromodulacja i metabolizm.",
+    "epistemic_access": "Diagnoza behawioralna, regionalny metabolizm mózgu (PET), widmowe wzorce EEG ze skóry głowy oraz reakcje na leki i głęboką stymulację mózgu.",
+    "constituents_and_structure": "Pętla: kora i wzgórze pobudzają prążkowie, prążkowie hamuje gałkę bladą wewnętrzną, gałka blada hamuje centralne wzgórze, a centralne wzgórze pobudza korę czołową i prążkowie."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Poziom świadomości i pobudzenia; zdolność do uwagi, pamięci roboczej, zachowania intencjonalnego i komunikacji; świadomość ukryta. Nie treść fenomenalna.",
+    "distinctive_mechanism_or_principle": "Obniżenie aktywności mezookwodu: gdy neurony prążkowia tracą zbieżne wejście korowe i wzgórzowe, hamowanie centralnego wzgórza przez gałkę bladą rośnie, napęd wzgórzowo-korowy się załamuje, a zmniejszona aktywność utrzymuje prążkowie w milczeniu.",
+    "dynamics_of_emergence": "Zaburzenia świadomości to stopniowane stany obwodu. Pacjenci mogą przechodzić od śpiączki przez stan nieresponsywnego czuwania do stanów minimalnej świadomości, a drobne zmiany skuteczności synaptycznej, neuromodulacji, metabolizmu lub stymulacji mogą przepchnąć pętlę przez próg, więc powrót do zdrowia bywa nieliniowy.",
+    "location_and_distribution": "Przednie przodomózgowie: centralne wzgórze (w tym jądro centralne boczne), prążkowie, gałka blada wewnętrzna i kora czołowa; późniejsze prace dodają gałkę bladą zewnętrzną.",
+    "causation_and_functional_role": "Aktywny mezookwód pozwala sieciom wielkiej skali podtrzymywać pobudzenie, uwagę, pamięć roboczą, zachowanie intencjonalne i komunikację.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Pacjenci w stanie wegetatywnym i minimalnej świadomości wykazują hipometabolizm skoncentrowany w korze czołowej, wzgórzu i prążkowiu, nieproporcjonalny do ich ogniskowych uszkodzeń (Fridman i współpracownicy).",
+      "Zolpidem, środek uspokajający, przywraca responsywność u niewielkiej podgrupy pacjentów, hamując gałkę bladą wewnętrzną i uwalniając centralne wzgórze; osoby reagujące wykazują podwyższony metabolizm przedczołowy i mniej aktywności EEG o niskiej częstotliwości.",
+      "Obustronna głęboka stymulacja mózgu centralnego wzgórza przyniosła trwałą poprawę u pacjenta w stanie minimalnej świadomości przez sześć lat, a badanie fazy 1 wykazało poprawę kontroli wykonawczej po urazowym uszkodzeniu mózgu.",
+      "W modelu ABCD powrót w EEG przebiega od aktywności poniżej 1 Hz przez rytm theta, a następnie alfa i beta, w miarę przywracania pętli wzgórzowo-korowych."
+    ],
+    "basis_of_belief_or_evidence_type": "Empiryczna: neurologia kliniczna, metabolizm w PET, EEG, farmakologia i badania interwencyjne."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Test zolpidemem; głęboka stymulacja mózgu centralnego wzgórza (w tym randomizowane badanie wykonalności fazy 1); regionalne mapowanie metabolizmu w PET; klasyfikacja widmowa EEG za pomocą modelu ABCD do prognozowania i doboru kandydatów do neuromodulacji.",
+    "criticisms_and_tensions": "Model wyjaśnia, kiedy świadomość może wystąpić, a nie czym jest ani dlaczego jest w ogóle jakoś odczuwana. Kilka ogniw jego łańcucha wnioskowania zostało już zrewidowanych, w tym dodanie gałki bladej zewnętrznej.",
+    "open_questions_and_limitations": "Nic w mezookwodzie nie określa treści doświadczenia ani ich jakościowego charakteru, co Schiff przyznaje. Podobne diagnozy behawioralne mogą skrywać różne zachowane zdolności, więc świadomość ukryta pozostaje trudna do wykrycia.",
+    "ontological_coherence": "Zgodny z fizykalizmem i neutralny wobec teorii ontologicznych, które ogranicza, zamiast z nimi konkurować. Stanowi problem dla ujęć umieszczających świadomość w całości w dynamice korowej."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Ponieważ poziom świadomości zależy tu od aktywnego obwodu przodomózgowia, świadomość nie może przetrwać trwałej awarii tego obwodu."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Merker’s Midbrain-Centered Reality Space",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Llinas's Mindness State of Oscillations",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Recovery of Consciousness after Brain Injury: A Mesocircuit Hypothesis, Nicholas D. Schiff",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Behavioural Improvements with Thalamic Stimulation after Severe Traumatic Brain Injury, Nicholas D. Schiff et al.",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Regional Cerebral Metabolic Patterns Demonstrate the Role of Anterior Forebrain Mesocircuit Dysfunction in the Severely Injured Brain, E. A. Fridman et al.",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Common Resting Brain Dynamics Indicate a Possible Mechanism Underlying Zolpidem Response in Severe Brain Injury, S. T. Williams et al.",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Large-Scale Brain Dynamics in Disorders of Consciousness, Nicholas D. Schiff, T. Nauvel and J. D. Victor",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Central Thalamic Deep Brain Stimulation to Support Anterior Forebrain Mesocircuit Function in the Severely Injured Brain, Nicholas D. Schiff",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Thalamic Deep Brain Stimulation in Traumatic Brain Injury: A Phase 1, Randomized Feasibility Study, Nicholas D. Schiff et al.",
+        "year": 2023
+      }
+    ]
+  }
+}

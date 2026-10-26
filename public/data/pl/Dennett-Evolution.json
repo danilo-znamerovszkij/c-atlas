@@ -18,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość i umysł są utożsamiane z wysoce złożonymi procesami fizycznymi — wyewoluowanym zestawem narzędzi myślenia zbudowanym na procesach materialnych, w którym „magia” umysłu dokonuje się bez magii.",
-    "ontological_status": "Fizykalizm",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Teoria tożsamości/redukcjonizm. Stany mentalne są w całości wytworem biologicznych mózgów, w pełni wyjaśnialnym przez stany fizyczne, zgodnie z szerszym materialistycznym stanowiskiem Dennetta.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Słaba emergencja. Świadomość jest w zasadzie w pełni wyjaśnialna przez leżące u jej podstaw procesy fizyczne, co odrzuca potrzebę silnej emergencji czy interwencji niefizycznej.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consciousness is fully explainable in principle by underlying physical processes, rejecting the need for strong emergence or non-physical intervention.",
     "subjectivity_and_intentionality": "Subiektywność jest konstruowana poprzez wyewoluowane struktury organizacyjne, takie jak „środek ciężkości narracji”. Intencjonalność („bycie o czymś”) powstaje, gdy skomplikowane skupiska molekuł wykształcają zdolność do posiadania znaczenia lub treści.",
     "qualia_account": "Qualia (jakościowe odczucie) traktowane są jako niespójne i iluzoryczne „iluzje użytkownika” — złożone, aktywowane sieci neuronalne wynikające z procesu ewolucyjnego, a nie wewnętrzne, nieanalizowalne własności mentalne.",
     "ontological_commitments": "Świat fizyczny, prawa przyrody, biologiczne mózgi oraz procesy doboru naturalnego.",
@@ -45,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Argument filozoficzny, biologia ewolucyjna, logika"
   },
   "empirics_and_critiques": {
-    "testability_status": "Pojęciowo testowalna pod kątem zgodności z biologią i neodarwinizmem; pośrednio wspierana przez wyniki neuronaukowe skorelowane z modelami funkcjonalistycznymi.",
+    "testability_status": "Conceptually testable against biological and neo-Darwinian consistency; indirectly supported by neuroscientific findings correlated with functionalist models.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Krytykowana za omijanie „trudnego problemu” poprzez stwierdzenie, że świadomość (qualia) jest iluzją lub problemem pozornym. Oponenci kwestionują ewolucyjną przewagę doświadczenia subiektywnego, jeśli jest ono jedynie iluzją lub epifenomenem.",
     "open_questions_and_limitations": "Nie dostarcza bezpośredniego wyjaśnienia subiektywnego odczucia doświadczenia, a jedynie wyjaśnienie tego, dlaczego *zgłaszamy* posiadanie takiego doświadczenia.",
@@ -53,39 +53,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Skoro świadomość jest całkowicie materialna i wynika ze złożonej organizacji (funkcjonalizm/materializm), nie ma zasadniczego zakazu, by inteligencje niebiologiczne osiągały świadomość, o ile odtworzy się właściwą złożoność."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest w całości związana z mózgiem fizycznym; śmierć prowadzi do nieodwracalnego i trwałego nieistnienia, chyba że jaźń zostanie zachowana cyfrowo (wirtualna nieśmiertelność)."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Proces ewolucyjny działa poprzez „projekt bez projektanta”, co oznacza, że nie istnieje wewnętrzny kosmiczny sens ani cel; sens jest tworzony przez świadomych ludzi samodzielnie."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jeśli świadomość jest w całości wyjaśniona przez wyewoluowaną fizyczną/funkcjonalną organizację mózgu, to doskonała duplikacja tych wzorców i szlaków neuronalnych w medium niebiologicznym powinna zachować pierwszoosobową jaźń mentalną."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Multiple Drafts Model",
-        "relationship": "Fundament"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Foundation"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
-        "relationship": "Nakładanie się"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Overlap"
       },
       {
-        "name": "Lycan’s Homuncular Functionalism",
-        "relationship": "Zgodność"
+        "name": "Lycan's Homuncular Functionalism",
+        "relationship": "Compatible"
       },
       {
-        "name": "LeDoux’s Deep Roots of Consciousness",
-        "relationship": "Zgodność"
+        "name": "LeDoux's Deep Roots of Consciousness",
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

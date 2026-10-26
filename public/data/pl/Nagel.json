@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Umysł i kosmos Nagela",
     "summary": "Perspektywa ta stanowi wyzwanie dla dominującej materialistycznej, neodarwinowskiej koncepcji przyrody, argumentując, że nie zdaje ona sprawy z nieredukowalnej natury doświadczenia subiektywnego, czyli tego, „jak to jest” być świadomym organizmem. Proponuje, aby umysł został włączony jako fundamentalna zasada samej przyrody.",
-    "associated_thinkers": ["Thomas Nagel"],
+    "associated_thinkers": [
+      "Thomas Nagel"
+    ],
     "category": "Teorie stanowiące wyzwanie",
     "subcategory": "Umysł i kosmos Nagela",
     "core_identity_tagline": "Umysł jako fundamentalna zasada przyrody",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest w gruncie rzeczy doświadczeniem subiektywnym — „jak to jest dla samego podmiotu” — które opiera się redukcji do czysto fizycznych, trzecioosobowych opisów.",
-    "ontological_status": "Wyzwanie filozoficzne (skłaniające się ku monizmowi uniwersalnemu/panpsychizmowi)",
+    "ontological_status": "Philosophical Challenge (leaning towards Universal Monism/Panpsychism)",
     "mind_body_relationship": "Krytykuje obecną koncepcję relacji umysł-ciało, twierdząc, że brakuje nam jakiejkolwiek koncepcji tego, w jaki sposób aspekty fizyczne i fenomenologiczne mogłyby być powiązane lub tożsame.",
-    "primitive_or_emergent_status": "Pierwotny (lub fundamentalny)",
-    "emergence_type": "Zakwestionowana/odrzucona",
+    "primitive_or_emergent_status": "Primitive (or fundamental)",
+    "emergence_type": "Challenged/Rejected",
     "subjectivity_and_intentionality": "Subiektywność (jakość „jak to jest”) stanowi definicyjny rdzeń świadomości. Intencjonalność jest niejawnie nieredukowalna do samych faktów fizycznych.",
     "qualia_account": "Qualia (odczuwane jakości) są rdzeniem problemu, a Nagel argumentuje, że żadne obiektywne ani fizykalistyczne wyjaśnienie sformułowane dotychczas nie może zdać sprawy z ich subiektywnej rzeczywistości.",
     "ontological_commitments": "Odrzucenie materialistycznej, neodarwinowskiej koncepcji przyrody. Uznanie świadomości za cechę rzeczywistości, która wymaga rozszerzonego świeckiego rozumienia przyrody, być może obejmującego powszechnie dostępne podstawowe elementy mentalne.",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzna, pojęciowa"
   },
   "empirics_and_critiques": {
-    "testability_status": "Niepewna/przede wszystkim pojęciowa. Siła teorii tkwi w jej diagnozie luki wyjaśniającej, a nie w weryfikacji empirycznej. Jego proponowana alternatywa (panpsychizm) jest wysoce spekulatywna.",
+    "testability_status": "Uncertain/Primarily Conceptual. The theory's strength lies in its diagnosis of the explanatory gap, not in empirical verification. His suggested alternative (panpsychism) is highly speculative.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Krytykowana za odwrót ku „misterianizmowi” oraz za odrzucanie ugruntowanych ram naukowych (neodarwinowskiego materializmu) bez zaoferowania konkretnej, solidnej i szczegółowej świeckiej ontologii jako alternatywy.",
     "open_questions_and_limitations": "Nagel przyznaje, że nie ma „żadnej koncepcji” tego, jak mogłoby działać wyjaśnienie zjawisk mentalnych w kategoriach fizycznych. Proponowana alternatywa (panpsychizm) napotyka wyzwanie polegające na tym, jak mikroelementy łączą się, tworząc złożone umysły.",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Niepewny/warunkowy",
+      "stance": "Uncertain",
       "rationale": "Jako krytyka funkcjonalizmu i redukcjonizmu, pogląd Nagela sugeruje, że czysto obliczeniowe byty pozbawione fundamentalnych własności mentalnych są prawdopodobnie zombi filozoficznymi; wynik zależy od tego, czy przyszła SI zdoła zrealizować hipotetyczne uniwersalne zasady mentalne."
     },
     "survival_beyond_death": {
-      "stance": "Warunkowy",
+      "stance": "Conditional",
       "rationale": "Jeśli świadomość jest uniwersalną, fundamentalną własnością, a nie biologicznym efektem emergentnym, jej istota może przetrwać po rozpadzie ciała (wywnioskowano ze skłonności panpsychistycznych), choć prawdopodobnie bez zachowania tożsamości osobowej."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmiczny",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Wprost dąży do włączenia umysłu jako fundamentalnej zasady przyrody, aby przezwyciężyć „bezcelowość” implikowaną przez materializm, sugerując nieteistyczny, wewnętrzny cel lub wartość kosmiczną."
     },
     "virtual_immortality": {
-      "stance": "Nieprawdopodobny/warunkowy",
+      "stance": "Unlikely",
       "rationale": "Nieredukowalność doświadczenia subiektywnego oznacza, że samo powielenie wzorców fizycznych/funkcjonalnych nie zdołałoby przenieść pierwotnej pierwszoosobowej świadomości."
     }
   },
@@ -72,19 +74,19 @@
     "related_theories": [
       {
         "name": "Chalmers’s Hard Problem of Consciousness",
-        "relationship": "Wpływ"
+        "relationship": "Influence"
       },
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
-        "relationship": "Zgodna"
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
+        "relationship": "Compatible"
       },
       {
-        "name": "Panpsychisms",
-        "relationship": "Rozszerzenie"
+        "name": "Panpsychism",
+        "relationship": "Extension"
       },
       {
-        "name": "Papineau’s Mind-Brain Identity",
-        "relationship": "Krytyka"
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

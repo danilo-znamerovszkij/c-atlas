@@ -1,0 +1,118 @@
+{
+  "id_and_class": {
+    "theory_title": "Kolaps wywołany świadomością Wignera i von Neumanna: doświadczenie na kwantowym cięciu",
+    "summary": "Teoria głosi, że liniowa dynamika kwantowa sama nigdy nie daje jednego określonego wyniku, a łańcuch oddziaływań od mierzonego układu przez aparaturę i mózg kończy się dopiero wtedy, gdy świadomy obserwator ma doświadczenie. Von Neumann zbudował formalną konstrukcję i pokazał, że cięcie między układem a obserwatorem można dowolnie przesuwać; Wigner wyciągnął jawny wniosek, że świadomość powoduje kolaps, ponieważ doświadczenie jest zawsze określone i nigdy nie jest superpozycją. Wigner później porzucił ten pogląd, ale odrodził się on w matematycznie precyzyjnej formie.",
+    "associated_thinkers": [
+      "Eugene Wigner",
+      "John von Neumann",
+      "Fritz London",
+      "Edmond Bauer"
+    ],
+    "category": "Kwantowe",
+    "subcategory": "",
+    "core_identity_tagline": "Świadomość jako to, co kończy łańcuch pomiaru kwantowego",
+    "classification_tags": [
+      "measurement problem",
+      "wave function collapse",
+      "wigner's friend",
+      "interactionism",
+      "quantum mechanics"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Wigner definiuje świadomość fenomenalnie, jako „własność posiadania wrażeń”, i czyni wejście wrażenia do świadomości punktem, w którym superpozycja kwantowa staje się jednym określonym wynikiem.",
+    "ontological_status": "Interactionist dualism",
+    "mind_body_relationship": "Stany fizyczne działają na świadomość w percepcji, a zgodnie z zasadą wzajemnego oddziaływania Wignera świadomość musi działać zwrotnie na świat fizyczny, co czyni w pomiarze. Sam von Neumann powoływał się na paralelizm psychofizyczny i nie przypisywał „abstrakcyjnemu ego” obserwatora żadnej mocy przyczynowej.",
+    "primitive_or_emergent_status": "Unclear",
+    "emergence_type": "Wigner held that suitable physicochemical organization gives rise to consciousness, with richness varying by the complexity of its substrate, yet he gave consciousness a fundamental role in quantum dynamics and offered no account of how it arises.",
+    "subjectivity_and_intentionality": "Argument opiera się na danej pierwszoosobowej: obserwator zawsze doświadcza jednego określonego wyniku. W Przyjacielu Wignera przyjaciel wewnątrz laboratorium zgłasza określone doświadczenie, mimo że opisany z zewnątrz powinien znajdować się w superpozycji.",
+    "qualia_account": "Fenomenalność jest zakładana, a nie wyjaśniana. Wigner pyta, jak warunki fizykochemiczne dają początek wrażeniom, ale nie podaje mechanizmu dla czerwieni, bólu ani dźwięku.",
+    "ontological_commitments": "Stany kwantowe z dwoma rodzajami zmiany (ciągła ewolucja unitarna i nieciągły pomiar); świadomi obserwatorzy, których doświadczenie jest zawsze określone; fizyczny wpływ świadomości na ewolucję kwantową.",
+    "epistemic_access": "Przez introspekcję (określoność własnego doświadczenia) w połączeniu z formalną analizą pomiaru kwantowego.",
+    "constituents_and_structure": "Łańcuch pomiaru biegnący od przedmiotu przez przyrząd, światło, siatkówkę, nerw wzrokowy i mózg do subiektywnej percepcji, z cięciem, które można umieścić w dowolnym miejscu."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Przyczynowość mentalna; kwantowy problem pomiaru; określoność doświadczenia.",
+    "distinctive_mechanism_or_principle": "Świadomość kończy ewolucję unitarną: gdy wrażenie wchodzi do świadomości, spójna superpozycja staje się statystyczną mieszaniną określonych alternatyw. Wigner sugerował, że liniowe równania mechaniki kwantowej mogą zawodzić dla układów świadomych.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Na końcu łańcucha pomiaru po stronie obserwatora. Najbardziej skrajny podział von Neumanna pozostawia poza opisem fizycznym tylko abstrakcyjne ego; Stapp później umiejscowił efekt w mózgu.",
+    "causation_and_functional_role": "Świadomość jest przyczynowo sprawcza: wybiera, lub wywołuje wybór, określonej alternatywy kwantowej i tym samym zmienia późniejszą ewolucję fizyczną.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Wigner traktuje mechanikę kwantową jako łączącą prawdopodobieństwa między kolejnymi wrażeniami rejestrowanymi przez obserwatorów.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Von Neumann udowodnił, że miejsce cięcia między układem a obserwatorem nie zmienia przewidywań teorii, ale musi ono zostać gdzieś umieszczone, aby pojawił się jakikolwiek określony wynik.",
+      "London i Bauer (1939) jako pierwsi opublikowali jawne twierdzenie, lokując rozwiązanie w zdolności obserwatora do introspekcji.",
+      "Przyjaciel Wignera pokazuje konflikt między opisem świadomego obserwatora w superpozycji a jego relacją o określonym doświadczeniu.",
+      "Fizyka nie zna oddziaływań jednokierunkowych, więc jeśli świat działa na świadomość, świadomość musi działać na świat."
+    ],
+    "basis_of_belief_or_evidence_type": "Fizyka teoretyczna połączona z fenomenologiczną przesłanką o określoności doświadczenia."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Bezpośrednie testy eksperymentalne nie wykazały kolapsu wywołanego świadomością (Yu i Nikolić, 2011). Współczesne modele kolapsu wywołanego świadomością, takie jak połączenie IIT z ciągłą spontaniczną lokalizacją u Chalmersa i McQueena, są w zasadzie testowalne na komputerach kwantowych.",
+    "criticisms_and_tensions": "Dekoherencja (Zeh, Zurek) pokazuje, jak splątanie ze środowiskiem tłumi interferencję na długo przed dotarciem do układu nerwowego, co sprawia, że świadomość wygląda na zbędną. Bell pytał, czy funkcja falowa świata czekała miliardy lat na jednokomórkowe stworzenie, czy na kogoś z doktoratem. Zastosowane konsekwentnie, to rozumowanie grozi solipsyzmem, a interpretacje Bohma, Everetta i obiektywnego kolapsu radzą sobie z pomiarem bez świadomości.",
+    "open_questions_and_limitations": "Teoria nie podaje kryterium, które układy są dość świadome, by powodować kolaps, więc nie może powiedzieć, kiedy kolaps zachodzi. Nie wyjaśnia ani tego, dlaczego świadomość istnieje, ani jej charakteru jakościowego, a introspekcja pokazuje jedynie, że własne obecne doświadczenie jest określone.",
+    "ontological_coherence": "Spójna jako interakcjonizm oparty na fizyce, a nie na metafizyce, choć opiera się na przesłance, której fizyka nie dostarcza. Wigner porzucił ją po pracach Zeha i zwrócił się ku obiektywnemu kolapsowi, a późniejsi teoretycy, tacy jak Penrose, Hameroff i Stapp, zachowali sprzężenie, lecz odwrócili jego kierunek."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Teoria nie podaje zasadniczego kryterium, które układy fizyczne są świadome, więc nie może powiedzieć, czy maszyna byłaby świadoma."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Wigner uważał, że organizacja fizykochemiczna daje początek świadomości i kształtuje jej treści, więc pogląd ten nie daje podstaw do doświadczenia bez ciała."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers and McQueen’s Quantum Collapse",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Interactive Dualism",
+        "relationship": "Overlap"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mathematical Foundations of Quantum Mechanics, John von Neumann",
+        "year": 1932
+      },
+      {
+        "title_with_names": "Remarks on the mind-body question, Eugene P. Wigner",
+        "year": 1961
+      },
+      {
+        "title_with_names": "The problem of measurement, Eugene P. Wigner",
+        "year": 1963
+      },
+      {
+        "title_with_names": "La théorie de l'observation en mécanique quantique, Fritz London and Edmond Bauer",
+        "year": 1939
+      },
+      {
+        "title_with_names": "Consciousness and the collapse of the wave function, David J. Chalmers and Kelvin J. McQueen",
+        "year": 2022
+      }
+    ]
+  }
+}

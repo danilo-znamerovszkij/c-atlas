@@ -20,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość fenomenalna jest utożsamiana z wyższopoziomowym uchwytywaniem lub reprezentacją (stanem poznawczym lub myślą) skierowaną na stan mentalny lub percepcję pierwszego rzędu.",
-    "ontological_status": "Fizykalizm redukcyjny / funkcjonalizm (uzasadnienie: jako teoria materialistyczna redukuje świadomość do procesów funkcjonalnych/poznawczych realizowanych przez mózg, często ujmowanych w kategoriach mentalistycznych.)",
+    "ontological_status": "Reductive Physicalism/Functionalism (Justification: As a Materialist theory, it reduces consciousness to functional/cognitive processes implemented by the brain, often framed in mentalistic terms.)",
     "mind_body_relationship": "Świadomość powstaje poprzez relację przyczynową między dwoma poziomami mentalnymi (stanami pierwszego i drugiego rzędu), z których oba są w pełni realizowane przez procesy fizyczne w mózgu.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba (uzasadnienie: jako rdzenna teoria materialistyczna świadomość jest uznawana za redukowalną w zasadzie, nawet jeśli redukcja jest formułowana w kategoriach mentalistycznych lub funkcjonalnych, a nie bezpośrednio neurofizjologicznych.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justification: As a core Materialist theory, consciousness is held to be reducible in principle, even if the reduction is phrased in mentalistic or functional terms rather than direct neurophysiology.)",
     "subjectivity_and_intentionality": "Subiektywność powstaje, gdy stan pierwszego rzędu staje się przedmiotem myśli drugiego rzędu, nadając wymiar „jawienia się” lub samoświadomości. Intencjonalność działa na obu poziomach: pierwszego rzędu (o świecie) i drugiego rzędu (o stanie pierwszego rzędu).",
     "qualia_account": "Qualia, czyli charakter fenomenalny, są ujmowane przez obecność towarzyszącego stanu poznawczego wyższego rzędu dotyczącego percepcji, z zamiarem redukcyjnego wyjaśnienia świadomości fenomenalnej w kategoriach mentalistycznych.",
     "ontological_commitments": "Stany mentalne pierwszego rzędu (percepcje/wrażenia), stany poznawcze drugiego rzędu (myśli/reprezentacje) oraz złożone sieci korowe (np. kora przedczołowa), które ustanawiają te reprezentacje.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny (wyjaśnienie rozróżnienia świadome/nieświadome), poznawczy, modelowanie neuronaukowe (np. badania nad widzeniem ślepym)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna empirycznie (zwłaszcza w odniesieniu do różnicy między przetwarzaniem pierwszego rzędu a odpowiadającą mu aktywnością wyższego rzędu w korze mózgowej).",
+    "testability_status": "Empirically testable (especially regarding the difference between first-order processing and corresponding higher-order activity in the cortex).",
     "known_empirical_interventions_or_tests": "Dowody empiryczne są często poszukiwane poprzez porównania percepcji świadomej i nieświadomej (jak widzenie ślepe) w celu sprawdzenia istnienia lub aktywności wymaganej reprezentacji wyższego rzędu.",
     "criticisms_and_tensions": "Krytykowana za trudność w wyszczególnieniu dokładnej relacji wymaganej między myślą wyższego rzędu a percepcją pierwszego rzędu, by nadać świadomość, co prowadzi do niedostatków w opisie treści. Podejście „podwójnej reprezentacji” jest postrzegane jako konceptualnie zagadkowe.",
     "open_questions_and_limitations": "Precyzyjna natura relacji, jaka musi zachodzić między stanem wyższego rzędu a percepcją pierwszego rzędu, by powstała świadomość, pozostaje pytaniem otwartym. Napotyka też na ogólny zarzut dotyczący luki wyjaśniającej w odniesieniu do qualiów.",
@@ -55,39 +55,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobne",
+      "stance": "Likely",
       "rationale": "Jako teoria materialistyczna oparta na strukturach poznawczych i reprezentacyjnych, świadomość jest w istocie obliczeniowa lub funkcjonalna, co oznacza, że zaawansowane systemy SI zdolne do samomonitorowania i tworzenia reprezentacji wysokiego poziomu mogłyby osiągnąć świadomość."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest w całości realizowana przez złożone, oparte na korze mózgowej mechanizmy mózgu; dlatego nie może trwać po rozpadzie podłoża biologicznego."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Powstając z emergentnych procesów biologicznych, świadomość zapewnia samorefleksję i sprawczość, lecz nie implikuje żadnej ostatecznej teleologii kosmicznej, zgodnie z deflacyjnym stanowiskiem materializmu."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Jeśli świadomość jest w całości definiowana przez relacje reprezentacyjne i funkcjonalne, doskonałe zduplikowanie i przeniesienie tych złożonych stanów poznawczych na nośnik niebiologiczny powinno zachować pierwszoosobowe ja mentalne."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "First-Order Representationalism",
-        "relationship": "Krytyka"
+        "name": "First-Order",
+        "relationship": "Critique"
       },
       {
-        "name": "Attention Schema Theory (Graziano)",
-        "relationship": "Zgodna"
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "Compatible"
       },
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Nakładanie się"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Overlap"
       },
       {
-        "name": "Lau’s Perceptual Reality Monitoring Theory",
-        "relationship": "Rozszerzenie"
+        "name": "Lau's Perceptual Reality Monitoring Theory",
+        "relationship": "Extension"
       }
     ],
     "sources_and_references": [

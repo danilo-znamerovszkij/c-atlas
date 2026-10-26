@@ -1,0 +1,119 @@
+{
+  "id_and_class": {
+    "theory_title": "Warstwowa architektura i informatyka poznawcza Wanga",
+    "summary": "Wang traktuje świadomość jako najwyższy stan zbiorowy w warstwowej architekturze funkcjonalnej mózgu, zbudowanej na homeostazie metabolicznej, przetwarzaniu nieświadomym i przetwarzaniu podświadomym. Świadomość rejestruje informacje w czasie rzeczywistym o stanie ciała i emocji w proponowanej móżdżkowej „Pamięci Stanu Świadomego” (Conscious Status Memory), a wzgórze przetwarza je dynamicznie. Wang zapisuje ten proces we własnej matematyce denotacyjnej, tak aby komputery poznawcze i roboty mogły go zaimplementować.",
+    "associated_thinkers": [
+      "Yingxu Wang"
+    ],
+    "category": "Materializm",
+    "subcategory": "Obliczeniowe",
+    "core_identity_tagline": "Świadomość jako górna warstwa formalnej architektury mózgu",
+    "classification_tags": [
+      "cognitive informatics",
+      "layered model",
+      "denotational mathematics",
+      "thalamus",
+      "cognitive computing"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Świadomość jest zbiorowym stanem samoświadomości, świadomości środowiska i intencjonalnej responsywności, generowanym przez leżące pod nią warstwy. Wang nazywa ją także poczuciem jaźni i znakiem życia w naturalnej inteligencji.",
+    "ontological_status": "Physicalism (functionalist, information-processing)",
+    "mind_body_relationship": "Procesy umysłowe są funkcjami struktur fizjologicznych, zorganizowanych w modelu referencyjnym, który odwzorowuje funkcje poznawcze na mechanizmy neuronalne.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (consciousness is inductively synthesized from lower layers of homeostasis, unconsciousness, and subconsciousness)",
+    "subjectivity_and_intentionality": "Subiektywność jest samoświadomością stanu ciała i emocji. Wyższe, nabyte procesy są intencjonalne, ukierunkowane na cel i podlegają świadomej kontroli.",
+    "qualia_account": "",
+    "ontological_commitments": "Struktury neuronalne i fizjologiczne (zwłaszcza móżdżek i wzgórze), kilka typów pamięci, w tym proponowana Pamięć Stanu Świadomego, oraz formalne procesy poznawcze opisywalne w matematyce denotacyjnej.",
+    "epistemic_access": "Poprzez specyfikację formalną i modelowanie obliczeniowe, z odwzorowaniem neuroanatomicznym jako sprawdzianem.",
+    "constituents_and_structure": "Trzydzieści siedem procesów poznawczych w sześciu warstwach (doznawanie, pamięć, percepcja, działanie, metapoznanie, poznanie wyższe), podzielonych na funkcje odziedziczone i nabyte oraz zagnieżdżonych w czteropoziomowej hierarchii homeostazy, nieświadomości, podświadomości i świadomości. Niektóre późniejsze wersje używają siedmiu warstw, dodając wnioskowanie."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Dostępowa, samomonitorowanie, świadomość środowiska i intencjonalna kontrola; charakter fenomenalny nieporuszany",
+    "distinctive_mechanism_or_principle": "Stan świadomy jest funkcją, która odwzorowuje bieżące zdarzenia (bodźce zewnętrzne i motywacje wewnętrzne) wraz z zawartością Pamięci Stanu Świadomego na zaktualizowany stan tej pamięci.",
+    "dynamics_of_emergence": "Świadomość jest dynamiczną funkcją czasu rzeczywistego, wykonywaną nieustannie przez wzgórze, aktualizującą stan ciała i emocji w miarę napływu zdarzeń.",
+    "location_and_distribution": "Pamięć Stanu Świadomego w móżdżku, przetwarzanie dynamiczne we wzgórzu (które Wang nazywa centralną jednostką przetwarzającą mózgu) oraz treść dostarczana przez aktywność kory.",
+    "causation_and_functional_role": "Świadomość integruje informacje o stanie wewnętrznym organizmu, jego środowisku i relacjach między nimi oraz koordynuje intencjonalne reakcje.",
+    "integration_or_binding": "Integracja przebiega przez wzgórze, które ma połączenia z niemal wszystkimi strukturami korowymi i podkorowymi.",
+    "information_flow_or_representation": "Reprezentacja i przetwarzanie są rozdzielone: móżdżek przechowuje drobnoziarnistą rejestrację stanu każdej części ciała, a wzgórze ją przetwarza.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Procesy umysłowe mózgu tworzą warstwową hierarchię od funkcji odziedziczonych, automatycznych, do nabytych, plastycznych, kontrolowanych celem.",
+      "Homeostaza nie jest świadomością, ale dostarcza stabilności fizjologicznej, której świadomość wymaga.",
+      "Móżdżek pełni funkcję Pamięci Stanu Świadomego, typu pamięci obok pamięci krótkotrwałej, długotrwałej, bufora zmysłowego i bufora działania.",
+      "Algebra pojęć, algebra procesów czasu rzeczywistego i algebra systemów mogą specyfikować świadomość dostatecznie precyzyjnie dla implementacji maszynowej."
+    ],
+    "basis_of_belief_or_evidence_type": "Modelowanie obliczeniowe i formalne (nauka o oprogramowaniu, inżynieria systemów)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Umieszczenie Pamięci Stanu Świadomego w móżdżku kłóci się z dowodami klinicznymi, że osoby z agenezją móżdżku lub po jego usunięciu pozostają w zasadzie świadome. Aparat formalny jest rozwijany głównie w ramach własnego programu i czasopism Wanga, przy ograniczonym kontakcie z szerszą literaturą o świadomości.",
+    "open_questions_and_limitations": "Ramy dotyczą dostępu, samomonitorowania i organizacji funkcjonalnej, a nic w nich nie wyjaśnia, dlaczego stan Pamięci Stanu Świadomego miałby być czymkolwiek odczuwanym. Jego twierdzenia neuroanatomiczne są bardziej spekulatywne niż aparat formalny.",
+    "ontological_coherence": "Zgodna z fizykalizmem funkcjonalistycznym. Liczby i etykiety warstw różnią się w prezentacjach Wanga."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "Wang formalizuje świadomość wprost po to, aby komputery poznawcze i roboty mogły ją zaimplementować, co zakłada, że świadomość maszyn jest osiągalna."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Skoro świadomość jest generowana przez struktury fizjologiczne i zależy od homeostazy, z poglądu tego wynika, że kończy się wraz z ciałem."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "Model dopuszcza świadomość w maszynach, ale Wang nie omawia przenoszenia świadomości konkretnej osoby."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Computational Theories",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Minsky's Society of Mind",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "On Cognitive Informatics, Yingxu Wang",
+        "year": 2003
+      },
+      {
+        "title_with_names": "A Layered Reference Model of the Brain (LRMB), Y. Wang, Y. Wang, S. Patel, and D. Patel",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Cognitive Informatics Models of the Brain, Y. Wang and Y. Wang",
+        "year": 2006
+      },
+      {
+        "title_with_names": "The OAR Model of Neural Informatics for Internal Knowledge Representation in the Brain, Yingxu Wang",
+        "year": 2007
+      },
+      {
+        "title_with_names": "On Contemporary Denotational Mathematics for Computational Intelligence, Yingxu Wang",
+        "year": 2008
+      },
+      {
+        "title_with_names": "The Cognitive Mechanisms and Formal Models of Consciousness, Yingxu Wang",
+        "year": 2012
+      }
+    ]
+  }
+}

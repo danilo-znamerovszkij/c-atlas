@@ -2,7 +2,11 @@
   "id_and_class": {
     "theory_title": "Teoria tożsamości umysł-mózg",
     "summary": "Ta klasyczna filozoficzna teoria świadomości głosi, że stany, zdarzenia lub procesy mentalne są ściśle tożsame z określonymi stanami, zdarzeniami lub procesami zachodzącymi w mózgu. Pełni funkcję wzorcowego przykładu materializmu, twierdząc, że świadomość jest całkowicie fizyczna.",
-    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "associated_thinkers": [
+      "J.J.C. Smart",
+      "U.T. Place",
+      "Herbert Feigl"
+    ],
     "category": "Materializm",
     "subcategory": "Filozoficzna",
     "core_identity_tagline": "Stany mentalne są stanami mózgu",
@@ -15,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość (stany/procesy mentalne) jest dosłownie tożsama z fizycznymi stanami/procesami mózgu. Jest to twierdzenie o tożsamości w sensie mocnym, podobne do porównania Gwiazdy Porannej i Gwiazdy Wieczornej do Wenus.",
-    "ontological_status": "Fizykalizm/materializm redukcyjny",
+    "ontological_status": "Reductive Physicalism/Materialism",
     "mind_body_relationship": "Teoria tożsamości: zdarzenia mentalne i zdarzenia fizyczne są tymi samymi rzeczami, radykalnie tożsamymi, co oznacza, że owych „dwóch” nie da się rozdzielić.",
-    "primitive_or_emergent_status": "Emergentna",
-    "emergence_type": "Słaba emergencja",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Subiektywność i intencjonalność są ściśle tożsame z pewnymi stanami fizycznymi. Pogląd ten implikuje, że pytanie, dlaczego odczucie towarzyszy stanowi fizycznemu, jest błędne, ponieważ są one jednym i tym samym.",
     "qualia_account": "Qualia (odczuwane doświadczenie), takie jak ból czy widzenie czerwieni, są dosłownie tożsame z określonymi stanami fizycznymi mózgu, takimi jak wyładowania neuronów swoiście nocyceptywnych.",
     "ontological_commitments": "Fizyczne stany i procesy mózgu. Teoria zobowiązuje się do tego, że świadomość jest w pełni fizyczna.",
@@ -41,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Wnioskowanie filozoficzne wsparte narastającymi dowodami empirycznymi korelacji."
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna empirycznie co do zasady poprzez mapowanie korelacji między określonymi stanami mentalnymi a fizycznymi.",
+    "testability_status": "Empirically testable in principle by mapping correlations between specific mental and physical states.",
     "known_empirical_interventions_or_tests": "Dowody empirycznej korelacji (np. wiązanie bólu z wyładowaniami neuronów swoiście nocyceptywnych).",
     "criticisms_and_tensions": "Ogólnie uznawana za podważoną w swej pierwotnej postaci przez zarzuty, najbardziej znany wieloraką realizowalność (ten sam stan mentalny mógłby być realizowany przez różne mechanizmy fizyczne). Rdzennym wyzwaniem filozoficznym jest „luka wyjaśniająca”, czyli pytanie, dlaczego stany mózgu są jakoś odczuwane.",
     "open_questions_and_limitations": "Teoria zmaga się z rozwiązaniem intuicji, że zombi filozoficzne (istoty fizycznie identyczne, lecz pozbawione świadomości) są pomyślne, co implikuje, że owych „dwóch” da się rozdzielić. Nie rozróżnia jasno, które typy aktywności neuronalnej konstytuują świadomość.",
@@ -49,39 +53,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Ponieważ teoria tożsamości umysł-mózg twierdzi, że świadomość jest redukowalna do procesów fizycznych, jeśli owe określone procesy fizyczne da się odtworzyć w sztucznym, niebiologicznym podłożu, świadomość zostaje z konieczności zinstancjonowana."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest ściśle tożsama z funkcjonalną i fizyczną integralnością mózgu; jej rozpad wraz ze śmiercią skutkuje trwałym ustaniem świadomej jaźni."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Jako teoria materialistyczna, teoria tożsamości umysł-mózg nie pociąga za sobą żadnego ostatecznego kosmicznego sensu ani celu. Sens i wartość są właściwościami emergentnymi tworzonymi przez świadome ludzkie podmioty."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jeśli świadomość (dokładny wzorzec fizyczny) da się zeskanować i doskonale zduplikować/przesłać do nowego medium fizycznego (cyfrowego lub innego), teoria gwarantuje przetrwanie tożsamej świadomej jaźni."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Papineau’s Mind-Brain Identity",
-        "relationship": "Rozszerzenie"
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Extension"
       },
       {
         "name": "Functionalism",
-        "relationship": "Nakładanie się"
+        "relationship": "Overlap"
       },
       {
         "name": "Property Dualism",
-        "relationship": "Krytyka"
+        "relationship": "Critique"
       },
       {
-        "name": "Tye’s Contingentism",
-        "relationship": "Wpływ"
+        "name": "Tye's Contingentism",
+        "relationship": "Influence"
       }
     ],
     "sources_and_references": [

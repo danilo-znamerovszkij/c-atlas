@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Neotomistyczny, neoarystotelesowski, zdroworozsądkowy dualizm Fesera",
     "summary": "Ta dualistyczna teoria zakłada, że ludzki intelekt (abstrakcyjne pojęcia i rozumowanie) jest władzą niematerialną i nie może zostać zredukowany do procesów materialnych. Rozwiązuje „trudny problem”, opowiadając się za powrotem do arystotelesowskiego realizmu zdroworozsądkowego, w którym jakości zmysłowe (qualia) są obiektywnymi własnościami zewnętrznego świata materialnego, rozpuszczając tym samym dylemat spowodowany nowożytnym, surowym, ilościowym pojmowaniem materii.",
-    "associated_thinkers": ["Edward Feser"],
+    "associated_thinkers": [
+      "Edward Feser"
+    ],
     "category": "Dualizmy",
     "subcategory": "Dualizm neotomistyczny, neoarystotelesowski, zdroworozsądkowy",
     "core_identity_tagline": "Świadomość poprzez niematerialny intelekt i obiektywne jakości",
@@ -16,9 +18,9 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest utożsamiana ze złożoną rzeczywistością składającą się z niematerialnej władzy intelektualnej, odpowiedzialnej za myśl określoną, oraz materialnych władz zmysłowych postrzegających obiektywne, jakościowe własności w świecie.",
-    "ontological_status": "Dualizm (postać neotomistyczna/neoarystotelesowska)",
+    "ontological_status": "Dualism (Neo-Thomistic/Neo-Aristotelian form)",
     "mind_body_relationship": "Dusza jest substancjalną, zjednoczoną rzeczywistością działającą jako forma ciała (ujęcie tomistyczne). Władza intelektualna (podzbiór stanów mentalnych) jest nieredukowalna do procesów materialnych. Teoria kwestionuje materialistyczne pojmowanie materii, które zrodziło problem umysł-ciało.",
-    "primitive_or_emergent_status": "Nieemergentny (dla intelektu); własności zmysłowe są fundamentalne dla rzeczywistości obiektywnej",
+    "primitive_or_emergent_status": "Non-Emergent (for intellect); Sensory properties are fundamental to objective reality",
     "emergence_type": "",
     "subjectivity_and_intentionality": "Zdolność intelektu do ujmowania powszechników i utrzymywania określonej, jednoznacznej treści pojęciowej (intencjonalność) wymusza jego nieredukowalność do procesów materialnych. Zdroworozsądkowy realizm bezpośredni oznacza, że postrzegamy świat rzeczywiście takim, jakim się jawi.",
     "qualia_account": "Twierdzi się, że cechy jakościowe (jakości wtórne, takie jak barwa, dźwięk, ciepło) są realnymi, obiektywnymi własnościami tkwiącymi w zewnętrznych przedmiotach materialnych (zdroworozsądkowy realizm bezpośredni), co usuwa konieczność umiejscawiania ich wyłącznie w niematerialnym umyśle, jak w modelach kartezjańskich.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny, racjonalistyczny, zdroworozsądkowy"
   },
   "empirics_and_critiques": {
-    "testability_status": "Ugruntowana przede wszystkim pojęciowo i logicznie. Argumenty służą wykazaniu niezgodności redukcyjnego materializmu z myślą określoną.",
+    "testability_status": "Primarily conceptually and logically grounded. Arguments are used to demonstrate the incompatibility of reductive materialism with determinate thought.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Krytycy argumentują, że neuronauka ostatecznie zamknie lukę wyjaśniającą bez potrzeby odwoływania się do niematerialnego intelektu. Musi dostarczyć spójnego ujęcia przyczynowania mentalnego, choć próbuje uniknąć kartezjańskiego problemu interakcji, przedefiniowując materię.",
     "open_questions_and_limitations": "Precyzyjny mechanizm tego, jak niematerialny intelekt oddziałuje z fizycznym mózgiem, pozostaje w znacznej mierze niewyjaśniony (problem interakcji).",
@@ -51,34 +53,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobnie nie",
+      "stance": "Unlikely",
       "rationale": "Jeśli intelekt (wymagany dla myśli określonej i pojęć abstrakcyjnych) jest fundamentalnie niematerialny i nieredukowalny do procesów materialnych, to czysto obliczeniowa/materialna SI nie może zaktualizować pełnej ludzkiej świadomości opisywanej przez tę teorię."
     },
     "survival_beyond_death": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Dusza jest definiowana jako byt niematerialny i samoistny, zdolny istnieć i realizować funkcję poznawczą samodzielnie, w oderwaniu od ciała, choć uznaje się to za jej nienaturalne."
     },
     "meaning_and_purpose": {
-      "stance": "Tak",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Zachowanie treści określonej w myśli, logice i powszechnikach intelektualnych, w połączeniu z ontologicznym zobowiązaniem wobec duszy, implikuje niedeflacyjne ujęcie sensu, które unika materialistycznego nihilizmu."
     },
     "virtual_immortality": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Wirtualna nieśmiertelność opiera się na funkcjonalizmie obliczeniowym. Ponieważ Feser argumentuje, że świadomość intelektualna nie jest redukowalna do procesów materialnych ani przez nie wyjaśnialna, pełnej ludzkiej jaźni nie można przesłać cyfrowo."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Stump’s Thomistic Dualism", "relationship": "Zgodna" },
-      { "name": "Cartesian Dualism", "relationship": "Krytyka" },
       {
-        "name": "Eliminative Materialism/Illusionism",
-        "relationship": "Krytyka"
+        "name": "Stump's Thomistic Dualism",
+        "relationship": "Compatible"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Krytyka" }
+      {
+        "name": "Cartesian Dualism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Eliminative/Illusionism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Critique"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Think, McFly, think, Edward Feser", "year": 2012 },
+      {
+        "title_with_names": "Think, McFly, think, Edward Feser",
+        "year": 2012
+      },
       {
         "title_with_names": "Aristotle, call your office, Edward Feser",
         "year": 2012

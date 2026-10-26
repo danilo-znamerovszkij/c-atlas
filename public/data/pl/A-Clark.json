@@ -18,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość utożsamia się z funkcją całego sprzężonego układu poznawczego, obejmującego zarówno wewnętrzne procesy neuronalne, jak i zewnętrzne narzędzia oraz środowisko, z naciskiem na jej zależność od eksternalizmu aktywnego.",
-    "ontological_status": "Fizykalizm (funkcjonalistyczny/relacyjny)",
+    "ontological_status": "Physicalism (Functionalist/Relational)",
     "mind_body_relationship": "Korelacja/rozszerzenie. Umysł jest własnością emergentną lub procesem funkcjonalnym rozproszonym w mózgu, ciele i istotnym środowisku, co podważa tradycyjny pogląd, że umysł jest zamknięty w czaszce.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Źródła skupiają się przede wszystkim na funkcjonalnej roli poznania i kompetencji behawioralnej, nie zaś wprost na tym, jak powstaje fenomenalna subiektywność czy intencjonalność. Subiektywność jest niejawnie traktowana jako cecha funkcjonującego układu poznawczego, gdziekolwiek się on znajduje.",
     "qualia_account": "Teoria skupia się na rozszerzeniu procesów poznawczych i osiąganiu kompetencji behawioralnej, jednak źródła nie wyjaśniają wprost, w jaki sposób fenomenalne qualia (jakościowy wymiar doświadczenia) są ujmowane lub rozszerzane w obrębie sprzężonego układu.",
     "ontological_commitments": "Mózg, ciało, zewnętrzne przedmioty/narzędzia oraz środowisko fizyczne, wszystkie odgrywające aktywną rolę przyczynową w obrębie sprzężonego układu.",
@@ -45,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Argument filozoficzny, pojęciowy (funkcjonalistyczny)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna pojęciowo/warunkowo",
+    "testability_status": "Conceptually Testable/Conditional",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Teoria napotyka napięcie filozoficzne dotyczące dokładnego umiejscowienia i granicy umysłu, podważając tradycyjne uprzywilejowanie wewnętrznych, biologicznych i neuronalnych procesów.",
     "open_questions_and_limitations": "Teoria skupia się w znacznym stopniu na procesach poznawczych, pozostawiając otwartą kwestię, w jaki sposób sama świadomość fenomenalna jest rozszerzana lub doświadczana w obrębie sprzężonego układu.",
@@ -53,35 +53,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Teoria jest zgodna z funkcjonalizmem obliczeniowym, sugerując, że jeśli procesy poznawcze i relacje funkcjonalne mogą być realizowane sztucznie, to umysł może zostać rozprzestrzeniony na protezy poznawcze, co czyni świadomość SI wiarygodną."
     },
     "survival_beyond_death": {
-      "stance": "Warunkowe",
+      "stance": "Conditional",
       "rationale": "Choć teoria jest zakorzeniona w materializmie (który na ogół neguje przetrwanie), jeśli istotowa jaźń jest definiowana przez rozproszony, funkcjonalny wzorzec zdolny trwać niezależnie od swojego biologicznego podłoża, przetrwanie tego wzorca mogłoby być możliwe."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Jako teoria materialistyczna nie zakłada żadnego kosmicznego sensu, celu ani wartości; sens jest natomiast tworzony przez organizm ludzki."
     },
     "virtual_immortality": {
-      "stance": "Możliwa",
+      "stance": "Possible",
       "rationale": "Nieśmiertelność wirtualna jest wiarygodna, ponieważ teoria ujmuje umysł jako funkcjonalny wzorzec, z natury rozszerzalny za pośrednictwem zewnętrznych „protez poznawczych”, a replikacja w niebiologicznym nośniku jest zgodna z jej funkcjonalistycznymi podstawami."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Embodied and Enactive Theories",
-        "relationship": "Nakładanie się"
+        "name": "Embodied",
+        "relationship": "Overlap"
       },
       {
-        "name": "Computational functionalism",
-        "relationship": "Wpływ"
+        "name": "Computational",
+        "relationship": "Influence"
       },
       {
-        "name": "Predictive Processing",
-        "relationship": "Zgodność"
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

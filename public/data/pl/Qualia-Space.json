@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "Teoria przestrzeni qualiów",
     "summary": "Teoria ta zakłada, że świadomość jest niezależną, nieredukowalną cechą rzeczywistości istniejącą obok fundamentalnych praw fizycznych, takich jak cztery oddziaływania, czasoprzestrzeń oraz masa-energia . Cecha ta jest pojmowana jako radykalnie nowa struktura lub organizacja, potencjalnie istniejąca jako odmienny wymiar rzeczywistości .",
-    "associated_thinkers": ["Giulio Tononi", "Christof Koch"],
+    "associated_thinkers": [
+      "Giulio Tononi",
+      "Christof Koch"
+    ],
     "category": "Panpsychizmy",
     "subcategory": "Kategoria pojęciowa",
     "core_identity_tagline": "Świadomość jako niezależna, nieredukowalna wymiarowa cecha rzeczywistości",
@@ -16,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest utożsamiana z niezależną, nieredukowalną cechą rzeczywistości, ustrukturyzowaną jako radykalnie nowa organizacja lub wymiar zwany 'przestrzenią qualiów' .",
-    "ontological_status": "Nieredukowalna cecha fundamentalna (uzasadnienie: zdefiniowana jako niezależna i nieredukowalna, istniejąca 'obok' fizyki fundamentalnej, co umieszcza ją w rozszerzonym frameworku ontologicznym, takim jak panpsychizm, gdzie zostaje sklasyfikowana ).",
+    "ontological_status": "Non-Reducible Fundamental Feature (Justification: Defined as independent and non-reducible, existing 'in addition to' fundamental physics, placing it in an expanded ontology framework like Panpsychism, where it is classified ).",
     "mind_body_relationship": "Wymaga korelacji lub interakcji, w której fizyczny mózg uzyskuje dostęp do tej nieredukowalnej cechy istniejącej obok rzeczywistości fizycznej lub ją manifestuje . (Szczegóły zależą od konkretnej instancjacji teorii).",
-    "primitive_or_emergent_status": "Pierwotny",
-    "emergence_type": "Nie dotyczy (zdefiniowana jako cecha fundamentalna/nieredukowalna ).",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "Not applicable (Defined as a fundamental/non-reducible feature ).",
     "subjectivity_and_intentionality": "Subiektywność jest inherentna dla samego istnienia struktury przestrzeni qualiów. Intencjonalność jest odwzorowywana na określone właściwości organizacyjne w obrębie tej struktury, odpowiadające świadomym perceptom .",
     "qualia_account": "Qualia są radykalnie nowymi strukturami lub organizacjami, które konstytuują przestrzeń qualiów . Jakość doświadczenia odpowiada bezpośrednio cechom matematycznym lub strukturom pojęciowym w obrębie tej przestrzeni .",
     "ontological_commitments": "Fundamentalne prawa i byty fizyczne (cztery oddziaływania, czasoprzestrzeń, masa-energia); oraz niezależna, nieredukowalna przestrzeń qualiów / struktura .",
@@ -43,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Konceptualny, fenomenologiczny, matematyczny"
   },
   "empirics_and_critiques": {
-    "testability_status": "Spekulatywny i konceptualnie testowalny (uzasadnienie: postuluje radykalnie nową, nieznaną strukturę/wymiar, co utrudnia bezpośrednie testowanie empiryczne, choć teorie odnoszące się do jego struktury pojęciowej głoszą testowalność) .",
+    "testability_status": "Speculative and conceptually testable (Justification: Postulates a radically new, unknown structure/dimension, making direct empirical testing difficult, though theories related to its conceptual structure claim testability) .",
     "known_empirical_interventions_or_tests": "Poleganie na modelowaniu matematycznym i korelacji fenomenologicznej (np. definiowanie struktury/geometrii doświadczenia) (uzasadnienie: czerpanie z pokrewnych teorii, takich jak IIT lub QRI, które wykorzystują tę strukturę pojęciową) .",
     "criticisms_and_tensions": "Krytykowana za wymóg rozszerzenia rzeczywistości poza to, co jest obecnie znane w fizyce, co prowadzi do teorii mogących 'wymykać się opisowi naukowemu' . Kwestionowana jest konieczność postulowania nowego wymiaru .",
     "open_questions_and_limitations": "Dokładna natura i mechanizmy przyczynowe cechy wywołującej świadomość są nieznane . Nie jest jasne, czy cecha ta jest wszechobecna (klasyczny panpsychizm), czy zlokalizowana (jak sugeruje jej najwyraźniejszy przykład, IIT) .",
@@ -51,35 +54,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Niepewna",
+      "stance": "Uncertain",
       "rationale": "Zależy od tego, czy nieredukowalna cecha wywołująca świadomość w przestrzeni qualiów mogłaby być technologicznie kontrolowana lub instancjonowana przez systemy niebiologiczne ."
     },
     "survival_beyond_death": {
-      "stance": "Prawdopodobnie",
+      "stance": "Possible",
       "rationale": "Jeśli świadomość jest fundamentalną strukturą lub wymiarem rzeczywistości, jej trwałości nie można odrzucić, co pozostawia otwartą możliwość przetrwania, nawet jeśli niekoniecznie jako świadomość osobowa ."
     },
     "meaning_and_purpose": {
-      "stance": "Niepewny",
+      "stance": "Uncertain",
       "rationale": "Postulowanie niezależnej, niefizycznej cechy sugeruje możliwą podstawę dla ostatecznego sensu, umieszczając teorię w środkowej kategorii teorii (jak panpsychizm czy monizm) z możliwym ostatecznym sensem/celem/wartością ."
     },
     "virtual_immortality": {
-      "stance": "Możliwa",
+      "stance": "Possible",
       "rationale": "Nieśmiertelność wirtualna zależy od tego, czy strukturą wywołującą świadomość w obrębie przestrzeni qualiów da się kierować lub manipulować za pomocą zaawansowanej technologii poprzez przewidywalne regularności ."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Integrated Information Theory (IIT)",
-        "relationship": "Nakładanie się"
+        "name": "Integrated Information Theory",
+        "relationship": "Overlap"
       },
       {
         "name": "Panpsychism",
-        "relationship": "Kategoria"
+        "relationship": "Category"
       },
       {
         "name": "Qualia Research Institute (QRI)",
-        "relationship": "Nakładanie się"
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

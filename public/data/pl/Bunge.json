@@ -18,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość (umysł) zostaje utożsamiona ze zbiorem funkcji (aktywności, zdarzeń) niezwykle złożonego ośrodkowego układu nerwowego, w szczególności tych stanów mentalnych, które przejawiają plastyczność neuronalną i uczenie się.",
-    "ontological_status": "Materializm emergentny / monizm psychoneuronalny (określony jako materialistyczny, lecz wyraźnie niefizykalistyczny, co oznacza, że świat jest całkowicie materialny, lecz fizyka nie potrafi wyjaśnić wszystkich zjawisk).",
+    "ontological_status": "Emergent Materialism / Psychoneural Monism (defined as materialist but explicitly non-physicalist, meaning the world is entirely material but physics cannot explain all phenomena).",
     "mind_body_relationship": "Stany umysłu są identyczne z wyróżnionym podzbiorem stanów/procesów mózgowych (monizm psychoneuronalny). Relacja ta obejmuje redukcję ontologiczną bez pełnej redukcji epistemologicznej.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Sugerowana jest silna emergencja, ponieważ własności mentalne są swoiste dla systemu OUN i nie dają się zredukować do ich konstytutywnych własności fizycznych i chemicznych.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence is implied, as the mental properties are unique to the CNS system and are not reducible to their constituent physical and chemical properties.",
     "subjectivity_and_intentionality": "Ujęte jako wysoce złożone, emergentne funkcje OUN. Teoria odrzuca potrzebę odrębnej bytowości mentalnej, traktując doświadczenie subiektywne jako wytwór tych złożonych funkcji systemowych, choć szczegółowe mechanizmy pozostają programowe.",
     "qualia_account": "Qualia muszą być identyczne z określonymi emergentnymi funkcjami/stanami OUN przejawiającymi plastyczność neuronalną. Teoria odrzuca dualizm i materializm redukcyjny za ignorowanie tych osobliwych emergentnych własności OUN.",
     "ontological_commitments": "Świat materialny; ośrodkowy układ nerwowy (OUN); własności emergentne; przestrzenie stanów (używane dla matematycznie precyzyjnego języka).",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzna (zobowiązanie monistyczne/materialistyczne); naukowo-empiryczna (oparta na dostępnych danych i istniejących modelach psychologicznych); teoria systemów/matematyczna."
   },
   "empirics_and_critiques": {
-    "testability_status": "Programowa i potencjalnie testowalna, ponieważ Bunge zaproponował ją jako hipotezę wymagającą szczegółowych mechanizmów, zwłaszcza matematycznych, opartych na danych psychobiologicznych.",
+    "testability_status": "Programmatic and potentially testable, as Bunge proposed it as a hypothesis requiring detailed mechanisms, especially mathematical ones, based on psychobiological data.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Teoria jest programowa i wymaga szczegółowego rozwinięcia matematycznego i mechanistycznego. Bunge krytykuje konkurencyjne teorie materialistyczne (jak materializm eliminacyjny i redukcyjny) za ignorowanie osobliwych emergentnych własności OUN.",
     "open_questions_and_limitations": "Teoria potrzebuje szczegółowych mechanizmów matematycznych, by w pełni wyjaśnić, jak zachodzi emergencja i jak stany mentalne odwzorowują się na określone stany mózgowe.",
@@ -56,39 +56,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Jako materialistyczny monizm, w którym świadomość jest określoną funkcją złożonego systemu fizycznego (OUN), nie ma zasadniczego zakazu realizowania niezbędnych złożonych funkcji emergentnych w substracie sztucznym."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość zostaje zdefiniowana jako aktywności/funkcje biologicznego ośrodkowego układu nerwowego, co wyraźnie odrzuca jakąkolwiek 'odrębną bytowość mentalną' lub duszę niezbędną do przetrwania po śmierci."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Zgodnie z teoriami materialistycznymi, teoria dostarcza czysto fizykalistycznego ujęcia świadomości, sugerując, że ostateczny kosmiczny sens lub cel jest nieprawdopodobny, choć ludzki sens i wartość są tworzone przez świadome podmioty."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Ponieważ pierwszoosobowe mentalne ja zostaje utożsamione ze zbiorem funkcji/procesów OUN, doskonałe zduplikowanie i symulacja (przeniesienie) tych funkcji do medium niebiologicznego powinny w zasadzie zapewnić ciągłość świadomości."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Searle’s Biological Naturalism",
-        "relationship": "Zgodna"
+        "name": "Searle's Biological Naturalism",
+        "relationship": "Compatible"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
-        "relationship": "Krytyka"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Critique"
       },
       {
         "name": "Reductive Materialism",
-        "relationship": "Krytyka"
+        "relationship": "Critique"
       },
       {
-        "name": "Non-Reductive Physicalism",
-        "relationship": "Nakładanie się"
+        "name": "Non-Reductive",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

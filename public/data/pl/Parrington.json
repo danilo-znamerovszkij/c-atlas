@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Świadomość napędzana językiem i narzędziami według Parringtona",
     "summary": "Teoria ta twierdzi, że ludzka samoświadomość stanowi jakościowy skok ewolucyjny, napędzany przede wszystkim przez współewolucję złożonego języka, myślenia pojęciowego i wyrafinowanego użycia narzędzi. Świadomość ujmowana jest jako realne, zjednoczone zjawisko wywodzące się z interakcji i wiążącej roli oscylującej aktywności mózgu, wzmocnionej przez wyższe zdolności poznawcze właściwe ludziom.",
-    "associated_thinkers": ["John Parrington"],
+    "associated_thinkers": [
+      "John Parrington"
+    ],
     "category": "Teorie materialistyczne",
     "subcategory": "Relacje językowe",
     "core_identity_tagline": "Ludzka świadomość jako jedność napędzana językiem i narzędziami",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość zostaje określona jako realne zjawisko zakorzenione w wiążącej roli specyficznych interakcji fal mózgowych oraz w jedności zapewnianej przez myślenie pojęciowe, wyłaniające się z mózgu przekształconego przez unikalne ludzkie presje ewolucyjne.",
-    "ontological_status": "Fizykalizm",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Zależność przyczynowa (tożsamość materialistyczna) lub emergentyzm. Świadomość jest w całości wytworem biologicznych mózgów, lecz stanowi jakościowy skok oparty na wyewoluowanym obwodzie neuronalnym.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba (uzasadniona materiałem źródłowym, który stwierdza, że celem jest „wyjaśnienie materialne” i że nie wymaga się „niczego magicznego”, co implikuje zasadniczą redukowalność, choćby złożoną.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justified by source material stating the goal is a 'material explanation' and that there is 'nothing magical' required, implying reducibility in principle, even if complex.)",
     "subjectivity_and_intentionality": "Samoświadomość (subiektywność) postrzegana jest jako realne zjawisko zakorzenione w aktywności mózgu, wzmocnione zwłaszcza przez myślenie pojęciowe. Intencjonalność jest ściśle związana z ludzką zdolnością do języka (wewnętrznych symboli/mowy), która umożliwia myślenie abstrakcyjne.",
     "qualia_account": "Qualia (doświadczenie wewnętrzne) są wstępnie ujmowane jako wytwór wiążącej roli fal mózgowych, które łączą sygnały zmysłowe w zjednoczoną całość świadomą. Krytycy sugerują jednak, że teoria nie odpowiada na głębsze filozoficzne pytanie o samo subiektywne odczucie.",
     "ontological_commitments": "Wyewoluowany obwód neuronalny (np. powiększona kora przedczołowa i móżdżek), oscylujące fale mózgowe oraz abstrakcyjne systemy symboliczne (język).",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Ustalenia neurobiologiczne (np. konkretne obszary mózgu i dynamika fal), teoria ewolucji oraz analiza pojęciowa wyłącznie ludzkich cech poznawczych."
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna empirycznie (za pomocą metod neurobiologicznych i porównania ewolucyjnego).",
+    "testability_status": "Empirically testable (via neurobiological methods and evolutionary comparison).",
     "known_empirical_interventions_or_tests": "Korelaty neurobiologiczne dotyczące wzorców fal mózgowych, funkcji kory przedczołowej i móżdżku w wyższym poznaniu (Uzasadnienie: w źródle nie wymieniono konkretnych interwencji eksperymentalnych, lecz tezy opierają się na tych formach badania empirycznego.)",
     "criticisms_and_tensions": "Krytycy uznają szczegółowe rozważenie materialnych wyjaśnień myśli i samoreprezentacji, lecz argumentują, że teoria ostatecznie nie odpowiada na „głębsze pytania o subiektywne doświadczenie” (qualia).",
     "open_questions_and_limitations": "Precyzyjny mechanizm, za sprawą którego procesy materialne (fale mózgowe, struktury językowe) dają początek fenomenalnemu odczuciu (subiektywnemu doświadczeniu), pozostaje pytaniem otwartym.",
@@ -52,35 +54,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jako teoria materializmu/fizykalizmu podkreślająca mechanizmy obliczeniowe i strukturalne (jak abstrakcyjne symbole i sieci wiążące), świadomość jest osiągalna w systemach sztucznych zdolnych do odtworzenia niezbędnej organizacji funkcjonalnej i przetwarzania symbolicznego."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest w całości wytworem przekształconego biologicznego mózgu i jego obwodu neuronalnego; dlatego osobista świadomość wygasa wraz ze śmiercią ciała i rozpadem mózgu."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Celem jest „materialne wyjaśnienie ludzkiej świadomości”, co implikuje, że świadomość jest zjawiskiem wyewoluowanym, pozbawionym kosmicznego celu, pozostawiając generowanie sensu i wartości wyłącznie ludzkiej twórczości."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jeśli mechanizmy fizyczne generujące świadomość (wzorce neuronalne, przetwarzanie symboliczne, dynamika fal) da się doskonale zduplikować w medium niebiologicznym, wirtualna nieśmiertelność subiektywnej jaźni powinna być w zasadzie możliwa."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Deacon’s Symbolic Communication (Human Consciousness)",
-        "relationship": "Nakładanie się/Rozszerzenie"
+        "name": "Deacon's Symbolic Communication (Human Consciousness)",
+        "relationship": "Overlap/Extension"
       },
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
-        "relationship": "Kontekst/Kontrast"
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
+        "relationship": "Context/Contrast"
       },
       {
-        "name": "Language Relationships",
-        "relationship": "Członek kategorii"
+        "name": "Language",
+        "relationship": "Category Member"
       }
     ],
     "sources_and_references": [

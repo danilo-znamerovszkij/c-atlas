@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "Relacyjne podejście Tsuchiyi do świadomości",
     "summary": "Podejście to jest przede wszystkim metodologią, która dąży do scharakteryzowania i zdefiniowania świadomości poprzez wyczerpujące opisy jej relacji do wszystkich innych świadomości. Wykorzystuje teorię kategorii, narzędzie oparte na strukturach matematycznych i ich relacjach, do opisania z matematyczną precyzją struktury i wzajemnych powiązań fenomenologii świadomej.",
-    "associated_thinkers": ["Nao Tsuchiya", "Hayato Saigo"],
+    "associated_thinkers": [
+      "Nao Tsuchiya",
+      "Hayato Saigo"
+    ],
     "category": "Materializm",
     "subcategory": "Relacyjne",
     "core_identity_tagline": "Świadomość jako relacje scharakteryzowane matematycznie",
@@ -15,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość zostaje utożsamiona ze strukturą relacji scharakteryzowaną za pomocą teorii kategorii (struktur matematycznych i ich relacji) stosowanej do doświadczenia fenomenalnego.",
-    "ontological_status": "Fizykalizm (relacyjny). Uzasadnienie: teoria jest zaklasyfikowana w nadrzędnej kategorii teorii materialistycznych.",
+    "ontological_status": "Physicalism (Relational). Justification: The theory is classified under the overarching category of Materialism Theories.",
     "mind_body_relationship": "Korelacja/tożsamość oparta na złożonych relacjach strukturalnych. Uzasadnienie: wywnioskowana z zaklasyfikowania w ramach teorii materialistycznych/relacyjnych, ze skupieniem na definiowaniu struktur, a nie nieredukowalnej substancji mentalnej.",
-    "primitive_or_emergent_status": "Emergentny. Uzasadnienie: wywnioskowany z zaklasyfikowania podejścia w ramach teorii materialistycznych.",
-    "emergence_type": "Emergencja słaba. Uzasadnienie: przyjęta na podstawie konsekwentnego umieszczenia w ramach materializmu, co sugeruje, że złożoność relacji wyłania się z komponentów fizycznych niższego poziomu i jest z zasady przez nie wyjaśnialna.",
+    "primitive_or_emergent_status": "Emergent. Justification: Inferred from the classification of the approach within Materialism Theories.",
+    "emergence_type": "Weak Emergence. Justification: Assumed based on its consistent placement within the Materialism framework, suggesting that the complexity of relationships arises from, and is in principle explainable by, lower-level physical components.",
     "subjectivity_and_intentionality": "Nie omówione wprost, lecz podejście definiuje kategorie świadomości, które w sposób niejawny strukturyzują treść fenomenalną. Uzasadnienie: metodologia koncentruje się na definiowaniu treści i poziomów, a nie na samym trudnym problemie subiektywnego odczucia.",
     "qualia_account": "Qualia odpowiadają definiowalnym, relacyjnym strukturom fenomenologicznym scharakteryzowanym z matematyczną precyzją. Uzasadnienie: wywiedzione z wyraźnego skupienia teorii na charakteryzowaniu struktury fenomenologii świadomej za pomocą matematyki.",
     "ontological_commitments": "Struktury matematyczne (teoria kategorii), fenomenologia świadoma oraz podłoża fizyczne realizujące te relacje (sugerowane przez zaklasyfikowanie do materializmu).",
@@ -41,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Pojęciowy, matematyczny, metodologiczny"
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna pojęciowo i empirycznie. Podejście ma na celu zainspirowanie dalszych badań teoretycznych i empirycznych.",
+    "testability_status": "Conceptually and Empirically testable. The approach aims to inspire further theoretical and empirical research.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Nie omówione wprost w źródle. Uzasadnienie: tekst opisuje podejście neutralnie, jako metodologię.",
     "open_questions_and_limitations": "Głównym ograniczeniem jest to, czy proponowane narzędzia pojęciowe mogą skutecznie wyjaśnić i zdefiniować świadomość oraz czy mogą zainspirować rozstrzygającą walidację empiryczną.",
@@ -49,35 +52,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Jeśli świadomość jest fundamentalnie zdefiniowana przez relacje i struktury, które można precyzyjnie opisać matematycznie (za pomocą teorii kategorii), struktury te powinny być realizowalne w zaawansowanych niebiologicznych układach obliczeniowych."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Teoria jest zaklasyfikowana do materializmu, co implikuje, że świadomość jest zależna od podłoża fizycznego (prawdopodobnie mózgu) realizującego struktury relacyjne, a więc ustaje wraz ze śmiercią biologiczną."
     },
     "meaning_and_purpose": {
-      "stance": "Humanistyczne/pragmatyczne",
+      "stance": "Humanistic only",
       "rationale": "Jako strukturalna, materialistyczna metodologia oferuje narzędzia do definiowania świadomości, lecz nie dostarcza żadnego wewnętrznego sensu kosmicznego ani ostatecznego wykraczającego poza ten tworzony przez ludzkie doświadczenie."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Ponieważ świadomość jest charakteryzowana przez precyzyjnie mierzalne i definiowalne relacje oraz kategorie, zduplikowanie tych struktur w wirtualnym lub cyfrowym nośniku powinno z zasady umożliwić kontynuację świadomej jaźni."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Relational Theories",
-        "relationship": "Wspierana przez"
+        "name": "Relational",
+        "relationship": "Supported By"
       },
       {
-        "name": "Jaworski’s Hylomorphism",
-        "relationship": "Powiązana (wspólna kategoria)"
+        "name": "Jaworski's Hylomorphism",
+        "relationship": "Related (Shared category)"
       },
       {
         "name": "Category Theory in Mathematics",
-        "relationship": "Podstawa"
+        "relationship": "Foundation"
       }
     ],
     "sources_and_references": [

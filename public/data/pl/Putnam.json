@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "Funkcjonalizm maszynowy Putnama",
+    "summary": "Wczesny funkcjonalizm maszynowy Putnama definiuje stany umysłowe przez ich role funkcjonalne, czyli związki przyczynowe między wejściami zmysłowymi, stanami wewnętrznymi i wyjściami motorycznymi, a nie przez to, z czego są zbudowane. Ponieważ tę samą rolę mogą pełnić bardzo różne układy fizyczne, ból mógłby istnieć u ośmiornic, kosmitów czy komputerów, co skłoniło Putnama do odrzucenia teorii tożsamości umysł–mózg. Później odrzucił ścisły funkcjonalizm jako ślepy na znaczenie, ucieleśnienie i doświadczenie jakościowe i przeszedł do „liberalnego funkcjonalizmu” i pragmatycznego pluralizmu.",
+    "associated_thinkers": [
+      "Hilary Putnam"
+    ],
+    "category": "Materializm",
+    "subcategory": "Obliczeniowe",
+    "core_identity_tagline": "Stany umysłowe jako role funkcjonalne, jak oprogramowanie",
+    "classification_tags": [
+      "functionalism",
+      "multiple realizability",
+      "computational theory of mind",
+      "semantic externalism",
+      "liberal functionalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Stan umysłowy jest stanem funkcjonalnym układu, określonym przez jego związki przyczynowe z wejściami, wyjściami i innymi stanami wewnętrznymi. W analogii Putnama umysł jest oprogramowaniem, a mózg sprzętem, na którym ono działa.",
+    "ontological_status": "Functionalism (machine-state; later liberal functionalism)",
+    "mind_body_relationship": "Stany umysłowe są realizowane przez stany fizyczne, ale nie są tożsame z żadnym ich szczególnym rodzajem. Putnam zawsze odrzucał dualizm substancji, a pod koniec kariery zaprzeczał, że zjawiska umysłowe dałoby się w pełni opisać jedną fundamentalną teorią fizyczną.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (mental states are defined by functional organization, which any suitable physical system can realize)",
+    "subjectivity_and_intentionality": "Eksternalizm semantyczny Putnama głosi, że treść myśli zależy od interakcji ze światem zewnętrznym, a nie tylko od stanów wewnętrznych. Odrzucał „wewnętrzną intencjonalność” daną w samym doświadczeniu myślenia.",
+    "qualia_account": "Putnam doszedł do uznania, że funkcjonalizm nie może uchwycić doświadczenia jakościowego, i pozostał niepewny, jaką pracę teoretyczną wykonuje pojęcie qualiów.",
+    "ontological_commitments": "Układy fizyczne dowolnego składu, ich organizacja funkcjonalna oraz (w późniejszym poglądzie) środowisko i ucieleśniona interakcja, które ustalają treść umysłową.",
+    "epistemic_access": "Poprzez analizę funkcjonalną relacji wejście–wyjście i stanów wewnętrznych. Później Putnam opowiedział się za pragmatycznym pluralizmem, w którym mówienie o umyśle jest jednym schematem pojęciowym spośród innych, przystosowanym do różnych celów.",
+    "constituents_and_structure": "Stany funkcjonalne definiowane przez organizację układu, analogiczne do stanów maszyny liczącej."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Stany umysłowe w ogóle (wrażenia, przekonania, emocje); intencjonalność i znaczenie; qualia uznane za niewyjaśnione",
+    "distinctive_mechanism_or_principle": "Wielokrotna realizowalność. Ten sam stan umysłowy może być realizowany w różnych układach fizycznych, o ile ich stany wewnętrzne pełnią tę samą rolę funkcjonalną.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Wszędzie tam, gdzie realizowana jest właściwa organizacja funkcjonalna, czy to w mózgach ludzkich, zwierzęcych, kosmicznych, czy w komputerach.",
+    "causation_and_functional_role": "Stan umysłowy jest swoją rolą przyczynową: tym, co zwykle go powoduje, co on powoduje i jak oddziałuje z innymi stanami wewnętrznymi.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Wczesny pogląd traktuje umysł jako układ obliczeniowy realizowany przez aktywność neuronalną. Późniejszy pogląd głosi, że znaczenie nie jest „w głowie”, lecz zależy od świata.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Organizacja funkcjonalna układu jest zbiorem związków przyczynowych między jego wejściami zmysłowymi, wyjściami motorycznymi i stanami wewnętrznymi, i to przez nią definiuje się stany umysłowe.",
+      "Ból powiązany z pobudzeniem włókien C u ssaków mógłby być realizowany w istotach o innej biologii, więc stany umysłowe nie są tożsame z określonymi stanami mózgu.",
+      "Putnam argumentował później, że eksternalizm semantyczny podkopuje funkcjonalizm, ponieważ stany funkcjonalne są wewnętrzne, a treść umysłowa zależy od środowiska.",
+      "W późnej pracy Putnam uważał, że funkcjonalizm nie jest kompletną filozofią umysłu, i bronił liberalnego funkcjonalizmu opartego na ucieleśnionych zdolnościach angażujących środowisko."
+    ],
+    "basis_of_belief_or_evidence_type": "Filozoficzna (analiza pojęciowa, analogia z maszynami liczącymi)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Putnam stał się własnym głównym krytykiem. Argumentował, że ścisły funkcjonalizm upraszcza zjawiska umysłowe, pomija semantyczne i intencjonalne aspekty myśli i nie może uchwycić doświadczenia jakościowego.",
+    "open_questions_and_limitations": "Putnam pozostawił qualia nierozstrzygnięte i wątpił, że istnieje jeden, zunifikowany problem świadomości do rozwiązania raz na zawsze.",
+    "ontological_coherence": "Wczesny pogląd jest spójny w ramach fizykalizmu obliczeniowego. Późniejszy pluralizm odmawia sprowadzenia mówienia o umyśle do jakiegokolwiek pojedynczego opisu leżącego u podstaw, co rozluźnia jego dopasowanie do fizykalizmu redukcyjnego."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Wielokrotna realizowalność pozwala stanom umysłowym „działać” na komputerach tak samo jak w mózgach. Późniejsze wątpliwości Putnama, czy funkcjonalizm ujmuje qualia i znaczenie, pozostawiają kwestię świadomości maszyn otwartą."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Putnam odrzucał dualizm substancji, więc stany umysłowe potrzebują jakiegoś układu fizycznego, który je zrealizuje, a nic w tym poglądzie nie wspiera przetrwania bez niego."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Pragmatyczny pluralizm Putnama traktuje mówienie o umyśle jako ludzki schemat pojęciowy przystosowany do ludzkich celów, bez odwołania do celu kosmicznego."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "W funkcjonalizmie maszynowym odtworzenie organizacji funkcjonalnej umysłu w innym substracie odtworzyłoby jego stany umysłowe, choć późniejszy eksternalizm Putnama wiąże treść także ze światem."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Functionalism",
+        "relationship": "Foundation"
+      },
+      {
+        "name": "Smart’s Topic-Neutral Identity",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Lewis’s Analytic Functionalism and Causal-Role Identity Theory",
+        "relationship": "Contrast"
+      },
+      {
+        "name": "Turing’s Imitation, Machine Thought, and the Hidden Mind",
+        "relationship": "Influence"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Putnam’s Machine Functionalism (Landscape of Consciousness entry), Hilary Putnam",
+        "year": 1988
+      }
+    ]
+  }
+}

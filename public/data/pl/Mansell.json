@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Mansella teoria kontroli percepcyjnej (PCT)",
     "summary": "Teoria ta proponuje, że świadomość wyłania się z żywotnego procesu reorganizacji niezbędnego do adaptacyjnej modyfikacji układów kontroli. Modyfikacja ta ma na celu redukcję błędu w wewnętrznych mechanizmach rządzących istotnymi, w większości fizjologicznymi, zmiennymi. Świadomość obejmuje aspekty pierwotne (fenomenalne), wtórne (dostępowe) oraz trzeciorzędne (samoświadomość), powiązane z hierarchicznymi funkcjami kontroli.",
-    "associated_thinkers": ["Warren Mansell"],
+    "associated_thinkers": [
+      "Warren Mansell"
+    ],
     "category": "Materializm",
     "subcategory": "Homeostatyczne i afektywne",
     "core_identity_tagline": "Świadomość jako reorganizacja minimalizująca błąd wewnętrzny",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość pierwotna (fenomenalna) utożsamia się z tym, co wyłania się bezpośrednio z procesu reorganizacji wymaganego do adaptacyjnej modyfikacji układów kontroli minimalizujących błąd w wewnętrznych układach fizjologicznych.",
-    "ontological_status": "Fizykalizm",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Emergentystyczna. Umysł powstaje w wyniku procesów reorganizacji zachodzących w obrębie fizycznych układów kontroli (mózgu/ciała).",
-    "primitive_or_emergent_status": "Emergentna",
-    "emergence_type": "Emergencja słaba. Na mocy klasyfikacji w ramach materializmu zakłada się, że fundamentalne procesy rządzące świadomością (reorganizacja, redukcja błędu) są w zasadzie wyjaśnialne przez leżące u podstaw prawa fizyczne.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Based on its classification under Materialism, the fundamental processes governing consciousness (reorganization, error reduction) are assumed to be explainable in principle by underlying physical laws.",
     "subjectivity_and_intentionality": "Subiektywność powstaje w sposób implikowany z kontroli hierarchicznie zorganizowanych zmiennych percepcyjnych. Intencjonalność ujmuje się poprzez „celowość”, czyli kontrolę sprawowaną nad tymi zmiennymi percepcyjnymi w celu osiągnięcia celu (wartości odniesienia).",
     "qualia_account": "Świadomość pierwotna (fenomenalna) wyłania się ze specyficznego procesu reorganizacji wymaganego do redukcji błędu w wewnętrznych układach kontrolujących podstawowe zmienne fizjologiczne.",
     "ontological_commitments": "Hierarchiczne układy kontroli, zmienne fizjologiczne, zmienne percepcyjne oraz symbole (dla świadomości trzeciorzędnej).",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Konceptualny, psychologiczny, neurofilozoficzny"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empirycznie testowalna. Teoria opiera się na wymiernych procesach psychologicznych (uwadze, wyobraźni) oraz fizjologicznych sygnałach redukcji błędu.",
+    "testability_status": "Empirically testable. The theory relies on quantifiable psychological processes (attention, imagination) and physiological error reduction signals.",
     "known_empirical_interventions_or_tests": "Testowalna za pomocą eksperymentów zaprojektowanych tak, by mierzyć tempo adaptacyjnej modyfikacji (reorganizacji) w odpowiedzi na nieprzewidywalne zakłócenia fizjologiczne lub percepcyjne, korelując te zmiany z relacjonowanymi doświadczeniami fenomenalnymi lub dostępowymi.",
     "criticisms_and_tensions": "Prawdopodobnie staje przed wyzwaniem wyjaśnienia, jak czysto funkcjonalny, redukujący błąd proces (reorganizacja) w pełni wyjaśnia jakościowe odczucie (qualia) świadomości pierwotnej — jest to powszechny zarzut wysuwany wobec teorii funkcjonalistycznych i obliczeniowych.",
     "open_questions_and_limitations": "Dokładna fizyczna implementacja mechanizmu reorganizacji oraz wyraźne powiązanie między fizjologiczną redukcją błędu a subiektywnym wyłanianiem się doświadczenia fenomenalnego (qualiów) są raczej implikowane niż w pełni wyszczególnione.",
@@ -52,39 +54,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Ponieważ świadomość jest definiowana mechanistycznie przez procesy takie jak redukcja błędu, kontrola hierarchiczna i manipulacja symboliczna (dla samoświadomości), funkcje te są teoretycznie realizowalne w dostatecznie złożonych sztucznych układach obliczeniowych."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest z gruntu powiązana z dynamicznym wyłanianiem się z reorganizacji biologicznych układów kontroli (w domyśle fizycznego/neuronalnego podłoża), co implikuje jej ustanie wraz z rozpadem tego podłoża."
     },
     "meaning_and_purpose": {
-      "stance": "Pragmatyczne/Egzystencjalne",
+      "stance": "Humanistic only",
       "rationale": "Istnienie świadomości wyjaśnia się jej funkcją w promowaniu zachowań adaptacyjnych, utrzymywaniu kontroli (celowości) oraz zaradzaniu ograniczeniom życia nieświadomego, bez postulowania celu kosmicznego czy ostatecznego."
     },
     "virtual_immortality": {
-      "stance": "Możliwa",
+      "stance": "Possible",
       "rationale": "Jeśli świadomość jest w całości uchwytywana przez leżącą u podstaw strukturę informacyjną i dynamikę hierarchii układu kontroli, ten wzorzec funkcjonalny mógłby potencjalnie zostać powielony i podtrzymany w niebiologicznym podłożu."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
-        "relationship": "Nakładanie się"
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Overlap"
       },
       {
-        "name": "Friston’s Free-Energy Principle and Active Inference",
-        "relationship": "Nakładanie się"
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Overlap"
       },
       {
         "name": "Functionalism",
-        "relationship": "Wpływ"
+        "relationship": "Influence"
       },
       {
         "name": "Predictive Theories (Top-Down)",
-        "relationship": "Zgodność"
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

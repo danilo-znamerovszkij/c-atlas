@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Reprezentacyjna teoria subiektywności bez jaźni Metzingera",
     "summary": "Teoria ta oferuje reprezentacjonistyczną i funkcjonalną analizę subiektywności, głosząc, że jaźń fenomenalna — świadomie doświadczana perspektywa pierwszoosobowa — nie jest realnym bytem, lecz trwającym procesem, konkretnie treścią przezroczystego modelu jaźni w mózgu. Świadoma myśl jest w dużej mierze charakteryzowana jako niesprawcza, nieintencjonalna forma zachowania wewnętrznego.",
-    "associated_thinkers": ["Thomas Metzinger"],
+    "associated_thinkers": [
+      "Thomas Metzinger"
+    ],
     "category": "Teorie materialistyczne",
     "subcategory": "Reprezentacyjna",
     "core_identity_tagline": "„Jaźń fenomenalna jako przezroczysty model jaźni”",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość, czyli jaźń fenomenalna, jest identyfikowana jako treść „przezroczystego modelu jaźni”, którym są funkcjonalnie zintegrowane zdarzenia reprezentacyjne (model podmiotu epistemicznego, EAM).",
-    "ontological_status": "Fizykalizm (wnioskowany). Teoria mieści się w ramach materializmu i próbuje rozwiać intuicje dualistyczne, wyjaśniając je jako artefakty struktury reprezentacyjnej.",
+    "ontological_status": "Physicalism (Inferred). The theory falls under Materialism and attempts to dissolve dualistic intuitions by explaining them as artifacts of representational structure.",
     "mind_body_relationship": "Umysł/jaźń fenomenalna jest rezultatem fizycznych, subpersonalnych procesów w mózgu (funkcjonalnej integracji zdarzeń reprezentacyjnych). Tradycyjny problem umysł-ciało powstaje, ponieważ nasze doświadczenie fenomenalne jest zakorzenione w samej reprezentacyjnej strukturze świadomego umysłu.",
-    "primitive_or_emergent_status": "Emergentna (wnioskowana). Świadomość analizowana jest jako trwający proces powstający ze złożonej funkcjonalnej integracji zdarzeń reprezentacyjnych w mózgu, zgodnie z materialistyczną emergencją.",
-    "emergence_type": "Słaba emergencja (uzasadniona). Jako ujęcie materialistyczne, reprezentacjonistyczne i funkcjonalistyczne, jaźń fenomenalna powstaje ze złożonej organizacji fizycznej (neuronalnej/obliczeniowej) i jest w zasadzie niejawnie redukowalna, nawet jeśli subiektywnie odczuwana jest jako nieredukowalna z powodu struktury modelu jaźni.",
+    "primitive_or_emergent_status": "Emergent (Inferred). Consciousness is analyzed as an ongoing process arising from complex functional integration of representational events within the brain, consistent with materialist emergence.",
+    "emergence_type": "Weak Emergence (Justified). As a materialist, representationalist, and functionalist account, the phenomenal self arises from complex physical (neural/computational) organization and is implicitly reducible in principle, even if subjectively felt as irreducible due to the self-model structure.",
     "subjectivity_and_intentionality": "Subiektywność (perspektywa pierwszoosobowa) jest wyjaśniana jako treść przezroczystego modelu jaźni/EAM. Intencjonalność (ukierunkowanie) jest wpisana w jaźń fenomenalną, lecz świadoma myśl często pozostaje niesprawcza (pozbawiona kontroli wetującej) , .",
     "qualia_account": "Qualia (odczucie jakościowe) są ujmowane jako specyficzne treści w obrębie jaźni fenomenalnej/modelu jaźni, wynikające z funkcjonalnej integracji zdarzeń reprezentacyjnych , .",
     "ontological_commitments": "Jaźnie fenomenalne (jako procesy, nie byty), układy reprezentacyjne, mechanizmy integracji funkcjonalnej oraz model podmiotu epistemicznego (EAM) , , .",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny, funkcjonalny, empiryczny, fenomenologiczny"
   },
   "empirics_and_critiques": {
-    "testability_status": "Wsparta empirycznie, w szczególności w odniesieniu do myśli niesprawczej i zmienności perspektywy pierwszoosobowej, w oparciu o dane psychometryczne i neurobiologiczne , .",
+    "testability_status": "Empirically supported, particularly concerning non-agentive thought and the variability of the first-person perspective, based on psychometric and neurobiological data , .",
     "known_empirical_interventions_or_tests": [
       "Badania psychometryczne medytujących skupione na doświadczeniach nieegoicznych w celu naświetlenia samoświadomości ",
       "Badania empiryczne dotyczące kontroli sprawczej i hamowania świadomej myśli , "
@@ -55,39 +57,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Jako teoria funkcjonalistyczna i reprezentacyjna, jeśli sztuczny system może zrealizować niezbędną organizację funkcjonalną i złożoność, by instancjonować przezroczysty model jaźni (EAM), osiągnąłby świadomość , ."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Jaźń fenomenalna jest definiowana jako proces powstający z podłoża fizycznego (mózgu/struktury reprezentacyjnej). Ponieważ nie istnieje żadna faktyczna „jaźń” ani substancja niematerialna, świadomość ustaje wraz ze śmiercią cielesną , , ."
     },
     "meaning_and_purpose": {
-      "stance": "Humanistyczne/pragmatyczne",
+      "stance": "Humanistic only",
       "rationale": "Świadomość jest przyczynowo niezbędna dla optymalizacji elastycznych interakcji oraz wyłonienia się kultury kumulatywnej i odpowiedzialności, dostarczając sensu wyewoluowanego, lecz nie kosmicznego ."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Jeśli świadomość jest fundamentalnie funkcjonalną organizacją układu reprezentacyjnego (modelu jaźni), to doskonałe odtworzenie tej struktury funkcjonalnej na niebiologicznym medium powinno zachować perspektywę pierwszoosobową , ."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Eliminative Materialism / Illusionism",
-        "relationship": "Nakładanie się"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Overlap"
       },
       {
         "name": "Functionalism",
-        "relationship": "Wpływ"
+        "relationship": "Influence"
       },
       {
-        "name": "T. Clark’s Content Hypothesis",
-        "relationship": "Zgodność"
+        "name": "T. Clark's Content Hypothesis",
+        "relationship": "Compatible"
       },
       {
         "name": "Perceptual Reality Monitoring Theory (Lau’s)",
-        "relationship": "Zgodność"
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

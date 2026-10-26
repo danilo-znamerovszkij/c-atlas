@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Teoria hipotezy treści T. Clarka",
     "summary": "Teoria ta zakłada, że świadomość fenomenalna jest treścią reprezentacyjną wywiedzioną z dostatecznie ustrukturyzowanego przetwarzania systemu poznawczego . Doświadczenie świadome jest kategorialnie subiektywne i fundamentalnie związane z fizycznym mózgiem, działając jako zjawisko materialne uobecniane przez mózg .",
-    "associated_thinkers": ["Thomas Clark"],
+    "associated_thinkers": [
+      "Thomas Clark"
+    ],
     "category": "Materializm",
     "subcategory": "Reprezentacyjny",
     "core_identity_tagline": "Świadomość fenomenalna jako ustrukturyzowana treść reprezentacyjna",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość fenomenalna zostaje utożsamiona z treścią reprezentacyjną dostatecznie ustrukturyzowanego przetwarzania reprezentacyjnego systemu poznawczego .",
-    "ontological_status": "Fizykalizm",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Tożsamościowa/Emergentystyczna. Świadomość opisywana jest jako ściśle fizyczne zjawisko uobecniane przez mózg .",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba. Świadomość wyłania się z dostatecznie złożonego i ustrukturyzowanego przetwarzania materialnego (podstawowe założenie stanowiska materialistycznego) .",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consciousness arises from sufficiently complex and structured material processing (a core assumption of a materialist position) .",
     "subjectivity_and_intentionality": "Doświadczenie świadome jest kategorialnie subiektywne, ponieważ istnieje wyłącznie dla systemu świadomego . Subiektywność jest związana ze skończonością systemu samorefleksyjnego, która nie pozwala mu być świadkiem własnego początku ani końca, funkcjonującego jako 'nieprzekraczalny obiekt' .",
     "qualia_account": "Qualia (podstawowe jakości zmysłowe) są prymitywami epistemicznymi opierającymi się dalszej reprezentacji, co wyjaśnia ich niedekomponowalny, monadyczny charakter .",
     "ontological_commitments": "Systemy poznawcze, ustrukturyzowane przetwarzanie reprezentacyjne, treść reprezentacyjna oraz prymitywy epistemiczne .",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Pojęciowy, filozoficzny, obliczeniowy (przewidywane potwierdzenie w nauce o reprezentacji) "
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna pojęciowo. Poszukuje potwierdzenia w 'rozwoju nauki o reprezentacji i treści reprezentacyjnej' .",
+    "testability_status": "Conceptually testable. It seeks vindication from 'Developments in the science of representation and representational content' .",
     "known_empirical_interventions_or_tests": "Nie wymieniono żadnych konkretnych testów, lecz model jest zgodny (a zatem mógłby być zasilany) z badaniami związanymi z teorią zintegrowanej informacji (IIT), teorią globalnej przestrzeni roboczej (GWT) oraz przetwarzaniem predykcyjnym .",
     "criticisms_and_tensions": "Podobnie jak inne teorie reprezentacyjne, prawdopodobnie mierzy się z wyzwaniem wyjaśnienia, jak jakościowe, nieredukowalne doświadczenie fenomenalne daje się w pełni ująć jedynie za pomocą ustrukturyzowanej treści informacyjnej .",
     "open_questions_and_limitations": "Jawne empiryczne potwierdzenie hipotezy treści oraz szczegółowa struktura wymaganego przetwarzania reprezentacyjnego pozostają otwarte .",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Ponieważ świadomość jest ujmowana jako ściśle fizyczne zjawisko wynikające z dostatecznie ustrukturyzowanego przetwarzania, odtworzenie tej struktury w zaawansowanych systemach sztucznych powinno umożliwić świadomość ."
     },
     "survival_beyond_death": {
-      "stance": "Nie (dla osobowej jaźni) / Tak (dla subiektywności generycznej)",
+      "stance": "No",
       "rationale": "Indywidualna świadomość jest uobecnieniem fizycznym i ulega rozpadowi wraz ze śmiercią mózgu. Jednakże 'generyczna ciągłość subiektywna' sugeruje, że świadomość trwa dalej w innych kontekstach, choć nie jako zmarła jednostka ."
     },
     "meaning_and_purpose": {
-      "stance": "Egzystencjalny/Wewnętrzny",
+      "stance": "Humanistic only",
       "rationale": "Świadomość, napędzana skończonością samorefleksyjnego systemu, z natury tworzy świat wewnętrzny, dostarczając celu związanego z podtrzymywaniem ciągłości subiektywnej ."
     },
     "virtual_immortality": {
-      "stance": "Warunkowo",
+      "stance": "Conditional",
       "rationale": "Jako teoria materialistyczna, jeśli definiujące 'dostatecznie ustrukturyzowane przetwarzanie reprezentacyjne' da się dokładnie zduplikować w podłożu niebiologicznym, transfer osobowej świadomości jest możliwy ."
     }
   },
@@ -71,19 +73,19 @@
     "related_theories": [
       {
         "name": "Integrated Information Theory",
-        "relationship": "Zgodność"
+        "relationship": "Consistent"
       },
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Zgodność"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Consistent"
       },
       {
-        "name": "Predictive Processing",
-        "relationship": "Zgodność"
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Consistent"
       },
       {
-        "name": "Metzinger’s No-Self Representational Theory of Subjectivity",
-        "relationship": "Wpływ"
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
+        "relationship": "Influence"
       }
     ],
     "sources_and_references": [

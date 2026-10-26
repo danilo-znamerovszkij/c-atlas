@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Monizm anomalny Davidsona",
     "summary": "Monizm anomalny głosi, że każde zdarzenie mentalne jest identyczne z pewnym zdarzeniem fizycznym (tożsamość egzemplarzy), zachowując monistyczną ontologię. Teoria utrzymuje jednak, że nie istnieją ścisłe, bezwyjątkowe prawa przyrody łączące pojęcia mentalne (typy) z pojęciami fizycznymi, co prowadzi do nieredukowalności psychologii do fizyki. To podwójne stwierdzenie rozwiązuje pozorny konflikt między przyczynowaniem mentalnym a przyczynową zupełnością świata fizycznego.",
-    "associated_thinkers": ["Donald Davidson"],
+    "associated_thinkers": [
+      "Donald Davidson"
+    ],
     "category": "Monizmy",
     "subcategory": "Monizm anomalny",
     "core_identity_tagline": "Egzemplarze mentalne są fizyczne, typy mentalne są anomalne",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Byty mentalne (poszczególne, ograniczone czasowo i przestrzennie obiekty i zdarzenia, czyli egzemplarze) są bytami fizycznymi. Pojęcia mentalne są jednak z definicji lub na mocy prawa przyrody nieredukowalne do pojęć fizycznych.",
-    "ontological_status": "Monizm (fizykalizm tożsamości egzemplarzy / dualizm własności). Teoria utrzymuje, że zdarzenia mentalne mają ontologię fizyczną.",
+    "ontological_status": "Monism (Token Identity Physicalism/Property Dualism). The theory holds that mental events have a physical ontology.",
     "mind_body_relationship": "Tożsamość egzemplarzy: zdarzenia mentalne są identyczne ze zdarzeniami fizycznymi. Uzasadnia się to poprzez argumentację na rzecz niemożliwości tożsamości typów między własnościami mentalnymi a fizycznymi. Teoria jest formą dualizmu własności.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Silna emergencja. (Uzasadnienie: własności mentalne są z zasady nieredukowalne i nie mogą zostać ujęte przez ścisłe prawa psychofizyczne, co odpowiada silnej nieredukowalności).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence. (Justification: The mental properties are irreducible in principle and cannot be captured by strict psychophysical laws , aligning with strong irreducibility.)",
     "subjectivity_and_intentionality": "Teoria odnosi się do intencjonalnej istoty zjawisk mentalnych (np. ich „bycia o czymś”) jako do własności odróżniającej zjawiska mentalne od praw czy rzeczy fizycznych.",
     "qualia_account": "Jakościowe odczucie (qualia) zostaje włączone do szerszej kategorii własności/pojęć mentalnych, które są anomalne — co oznacza, że nie podlegają redukcji przez pojęcia ani prawa fizyczne.",
     "ontological_commitments": "Byty i zdarzenia fizyczne (egzemplarze); nieredukowalne własności/pojęcia mentalne (typy).",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny (argument dedukcyjny oparty na trzech przesłankach dotyczących przyczynowości i charakteru nomologicznego)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Pojęciowy/filozoficzny. (Uzasadnienie: podstawowe twierdzenia teorii opierają się na filozoficznej konieczności dotyczącej natury przyczynowości i wyjaśnienia psychologicznego).",
+    "testability_status": "Conceptual/Philosophical. (Justification: The theory's core claims rest on philosophical necessity regarding the nature of causality and psychological explanation.)",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Główne napięcie wynika z połączenia trzech twierdzeń: (i) przyczynowanie mentalne istnieje, (ii) wszelkie przyczynowanie jest podparte prawem oraz (iii) nie istnieją prawa psychofizyczne. Ta koniunkcja na pierwszy rzut oka wydaje się niespójna lub sprzeczna.",
     "open_questions_and_limitations": "Ramy teoretyczne muszą w pełni wyjaśnić, w jaki sposób przyczynowanie mentalne może zachodzić, jeśli nie istnieją ścisłe prawa wiążące typy własności mentalnych z typami własności fizycznych (problem skuteczności przyczynowej własności anomalnych).",
@@ -52,33 +54,42 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Możliwe",
+      "stance": "Possible",
       "rationale": "Ponieważ ontologia jest zasadniczo monistyczna (wszystkie zdarzenia mentalne są zdarzeniami fizycznymi), świadomość SI jest z zasady możliwa, o ile odpowiednie złożone systemy fizyczne dadzą się odtworzyć w sztucznym medium, choć brak przewidywalnych praw mentalnych (anomalność) utrudnia ocenę."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Zdarzenia mentalne są zależne od zdarzeń fizycznych (tożsamość egzemplarzy). Przetrwanie po zniszczeniu substratu biologicznego jest wykluczone przy tym materialistycznym założeniu."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Jako teoria monizmu ontologicznego jest zgodna z kategoriami materialistycznymi, które na ogół nie uzasadniają ostatecznego sensu ani celu poza tym, jaki ludzie tworzą sami dla siebie."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobne",
+      "stance": "Likely",
       "rationale": "Jeśli substrat fizyczny (wzorzec mózgu) zostanie zduplikowany, zdarzenia mentalne (które są z tymi egzemplarzami identyczne) również powinny zostać zduplikowane, co czyni wirtualną nieśmiertelność osiągalną, podobnie jak w innych ujęciach fizykalizmu niredukcyjnego."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Non-Reductive Physicalism", "relationship": "Nakładanie się" },
-      { "name": "Property Dualism", "relationship": "Nakładanie się" },
       {
-        "name": "Mind-Brain Identity Theory (Type Identity)",
-        "relationship": "Krytyka"
+        "name": "Non-Reductive",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [
-      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+      {
+        "title_with_names": "Thinking Causes, Donald Davidson",
+        "year": 1993
+      }
     ]
   }
 }

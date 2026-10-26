@@ -19,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest identyfikowana jako uczucia homeostatyczne — spontanicznie świadome procesy o hybrydowej naturze, łączące cechy mentalne i cechy cielesne. Uczucia te przekładają fundamentalne stany homeostatyczne (np. głód, ból, dobrostan).",
-    "ontological_status": "Fizykalizm (naturalizm biologiczny)",
+    "ontological_status": "Physicalism (Biological Naturalism)",
     "mind_body_relationship": "Rdzenne procesy fenomenalne (uczucia homeostatyczne) są hybrydowe, łącząc cechy mentalne i cielesne. Umysł jest nierozerwalnie związany z biologicznymi procesami ciała, w szczególności z regulacją wewnętrzną (interocepcją).",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Słaba emergencja. Choć nie jest to wprost etykietowane, jako teoria materialistyczna oparta na określonych mechanizmach biologicznych (homeostazie) implikuje ona, że świadomość, choć złożona, wyłania się z leżących u podstaw procesów fizycznych/neuronalnych i jest do nich w zasadzie redukowalna.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Though not explicitly labeled, as a Materialism theory based on specific biological mechanisms (homeostasis), it implies that consciousness, while complex, arises from and is reducible in principle to underlying physical/neural processes.",
     "subjectivity_and_intentionality": "Subiektywność jest wytwarzana, gdy uczucia homeostatyczne łączą się z obrazami generowanymi przez kanały eksteroceptywne (takie jak wzrok). Intencjonalność odzwierciedla się w spontanicznym prowadzeniu, jakiego uczucia dostarczają w podejmowaniu decyzji związanych z regulacją życia.",
     "qualia_account": "Qualia są zakorzenione w uczuciach homeostatycznych. Uczucia te (które przekładają fundamentalne stany homeostatyczne, jak ból czy dobrostan) są 'naturalnym źródłem doświadczeń'.",
     "ontological_commitments": "Złożone organizmy wyposażone w układy nerwowe, mechanizmy homeostatyczne, procesy interoceptywne oraz cechy cielesne/mentalne.",
@@ -46,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Neurobiologiczna, ewolucyjna, fenomenologiczna"
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna empirycznie. Jako teoria materialistyczna ugruntowana w procesach fizjologicznych układu nerwowego, może być badana metodami biologicznymi i neuronaukowymi.",
+    "testability_status": "Empirically testable. As a Materialist theory founded on physiological processes in the nervous system, it can be investigated using biological and neuroscientific methods.",
     "known_empirical_interventions_or_tests": "Źródła nie wymieniają konkretnych nazwanych interwencji empirycznych, lecz walidacja obejmowałaby badanie korelacji między fizjologicznymi stanami homeostatycznymi/sygnalizacją interoceptywną a raportowanymi uczuciami świadomymi (uzasadnienie).",
     "criticisms_and_tensions": "Podobnie jak wiele ujęć biologicznych, teoria ta skupia się przede wszystkim na funkcjonalnej i adaptacyjnej roli świadomości ('łatwe problemy'), potencjalnie pozostawiając 'trudny problem' (dlaczego stany homeostatyczne są czymś odczuwanym) niewyjaśnionym, choć postuluje, że uczucia inherentnie posiadają świadomość.",
     "open_questions_and_limitations": "Dokładny mechanizm, za pomocą którego uczucia homeostatyczne nabywają swojej 'wewnętrznej natury świadomej' lub 'łaski', pozostaje nieuchwytny w obrębie dostarczonych ram opisowych.",
@@ -54,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Warunkowa",
+      "stance": "Conditional",
       "rationale": "Jeśli systemy sztuczne mogą osiągnąć substrat zdolny do złożonej regulacji homeostatycznej i generowania wymaganych 'uczuć homeostatycznych' odzwierciedlających stan 'życia' systemu (lub równoważny imperatyw przetrwania), to świadomość SI byłaby możliwa, zgodnie z materializmem."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest fundamentalnie zależna od procesów biologicznych, w szczególności od uczuć homeostatycznych powstających w obrębie układu nerwowego złożonych organizmów. Nie ma miejsca na komponent niefizyczny przeżywający śmierć substratu biologicznego."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Świadomość wyewoluowała, by służyć regulacji życia i przetrwaniu. Jako teoria materialistyczna współgra z poglądem, że ostateczny sens/cel są nieobecne, lecz sens i wartość są tworzone przez świadomych ludzi."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Jeśli procesy fizyczne (w tym wszystkie mechanizmy związane z generowaniem uczuć homeostatycznych i ich integracją z obrazami poznawczymi) dałoby się doskonale zduplikować w medium niebiologicznym, powstałe doskonałe zduplikowanie stanów fizycznych pociągałoby za sobą doskonałe zduplikowanie stanów mentalnych, umożliwiając tym samym wirtualną nieśmiertelność."
     }
   },
@@ -74,15 +74,15 @@
     "related_theories": [
       {
         "name": "Friston’s Free-Energy Principle",
-        "relationship": "Nakładanie się"
+        "relationship": "Overlap"
       },
       {
-        "name": "Neurobiological Theories",
-        "relationship": "Rozszerzenie"
+        "name": "Neurobiological",
+        "relationship": "Extension"
       },
       {
-        "name": "Embodied and Enactive Theories",
-        "relationship": "Zgodna"
+        "name": "Embodied",
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

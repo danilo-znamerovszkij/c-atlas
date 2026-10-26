@@ -20,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość fenomenalna (charakter fenomenalny) zostaje utożsamiona z treścią reprezentacyjną (treścią intencjonalną) doświadczenia lub do niej zredukowana.",
-    "ontological_status": "Fizykalizm/materializm redukcyjny (teoria jest wykorzystywana do podważenia argumentów przeciwko fizykalizmowi).",
+    "ontological_status": "Reductive Physicalism/Materialism (The theory is used to undermine arguments against physicalism).",
     "mind_body_relationship": "Teoria tożsamości/redukcjonizm (charakter fenomenalny zostaje zredukowany do treści intencjonalnej, o której zakłada się, że jest realizowana fizycznie, co wpisuje się w obóz materialistyczny).",
-    "primitive_or_emergent_status": "Nie pierwotny; emergentny w sensie redukcyjnym (superweniuje na neuronalnej treści reprezentacyjnej)",
-    "emergence_type": "Emergencja słaba (teoria zmierza do wykazania, że własności fenomenalne są w całości wyczerpane przez treść reprezentacyjną lub do niej redukowalne, co jest zgodne z zasadami emergencji słabej/redukcjonizmu).",
+    "primitive_or_emergent_status": "Not primitive; reductively emergent (supervenient on neural representational content)",
+    "emergence_type": "Weak Emergence (The theory aims to show that phenomenal properties are entirely exhausted or reducible to representational content, which aligns with the principles of weak emergence/reductionism).",
     "subjectivity_and_intentionality": "Subiektywna jakość fenomenalna jest w całości zdefiniowana i wyczerpana przez postrzegalne własności prezentowane podmiotowi. Intencjonalność (własność reprezentowania przedmiotów zewnętrznych) jest fundamentalna dla stanu świadomego.",
     "qualia_account": "Qualia, czyli jakościowe cechy świadomości fenomenalnej, są iluzoryczne lub niespójne, jeśli traktuje się je jako własności stanu percepcyjnego wykraczające ponad jego własności reprezentacyjne. Charakter fenomenalny zostaje zredukowany do treści intencjonalnej.",
     "ontological_commitments": "Przedmioty zewnętrzne i ich pozorne własności, stany percepcyjne oraz treść reprezentacyjna. Teoria wprost odrzuca istnienie wewnętrznych, niereprezentacyjnych własności mentalnych.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Filozoficzny (argument oparty na obserwacji fenomenologicznej i introspekcji)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna pojęciowo/ograniczona fenomenologicznie (jej głównym sprawdzianem jest spójność twierdzenia introspekcyjnego, choć obiektywne metody falsyfikacji nie są tu centralne).",
+    "testability_status": "Conceptually testable/Phenomenologically constrained (Its main test is the consistency of the introspective claim, although objective falsification methods are not central).",
     "known_empirical_interventions_or_tests": "Introspekcja (teoria zależy od tego, czy „najbardziej zdeterminowana introspekcja kiedykolwiek ujawnia jakiekolwiek takie dodatkowe własności”). Przypadki problematyczne, takie jak nieostre widzenie, są rozważane przez zwolenników.",
     "criticisms_and_tensions": "Krytycy przywołują zjawiska takie jak nieostre widzenie jako potencjalne kontrprzykłady dla twierdzenia, że wszystkie postrzegane własności są zewnętrznymi własnościami przedmiotu. Teza neguje ideę, że jakości fenomenalne są niezależnymi własnościami stanu mentalnego.",
     "open_questions_and_limitations": "Musi rozwiązać pozorne niespójności, takie jak to, w jaki sposób stany wewnętrzne, np. nieostre widzenie, mogą być doświadczane, jeśli doświadczenie zawiera wyłącznie własności zewnętrzne.",
@@ -55,43 +55,43 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobna",
+      "stance": "Likely",
       "rationale": "Jako filozoficzna obrona teorii materialistycznych wspiera pogląd, że świadomość jest obliczeniowa lub reprezentacyjna, co oznacza, że świadomość SI jest z zasady całkowicie możliwa."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest ugruntowana w stanach reprezentacyjnych wywodzących się z fizycznego mózgu. Zgodnie z paradygmatem materialistycznym zniszczenie mózgu oznacza trwałe nieistnienie osoby."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Teoria służy wzmocnieniu materializmu, który zazwyczaj wspiera jedynie sens, cel i wartość tworzone humanistycznie."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jeśli świadomość jest w całości wyjaśniona przez treść reprezentacyjną, to informacja ta mogłaby teoretycznie zostać zduplikowana i przesłana do niebiologicznego nośnika, czyniąc nieśmiertelność wirtualną osiągalną."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Representational Theories",
-        "relationship": "Podstawa"
+        "name": "First-Order",
+        "relationship": "Basis"
       },
       {
         "name": "Intentionalism",
-        "relationship": "Podobna/równoważna"
+        "relationship": "Similar/Equivalent"
       },
       {
-        "name": "Materialism Theories",
-        "relationship": "Obrona/wsparcie"
+        "name": "Materialism",
+        "relationship": "Defense/Support"
       },
       {
         "name": "Jackson’s Representationalism",
-        "relationship": "Rozszerzenie/wsparcie"
+        "relationship": "Extension/Support"
       },
       {
         "name": "Amy Kind",
-        "relationship": "Krytyka/uściślenie"
+        "relationship": "Critique/Refinement"
       }
     ],
     "sources_and_references": [

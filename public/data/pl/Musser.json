@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Musser, „Czy to naprawdę takie trudne?”",
     "summary": "Ta perspektywa kwestionuje pogląd, że świadomość jest ostateczną tajemnicą, argumentując natomiast, że jest ona prawdopodobnie zrozumiałym zjawiskiem dostępnym metodom naukowym, zwłaszcza poprzez integrację pojęć z fizyki relacyjnej i badań nad sztuczną inteligencją (SI). Podtrzymuje ostrożny optymizm, że trudny problem da się ostatecznie rozwiązać.",
-    "associated_thinkers": ["George Musser"],
+    "associated_thinkers": [
+      "George Musser"
+    ],
     "category": "Teorie kontestujące",
     "subcategory": "Teorie kontestujące",
     "core_identity_tagline": "„Świadomość jako problem trudny, lecz poznawalny”",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest ujmowana przez pryzmat struktur relacyjnych, co sugeruje, że można ją rozumieć jako relacyjny lub perspektywiczny aspekt rzeczywistości fizycznej, wyłaniający się ze sposobu, w jaki rzeczy oddziałują na siebie i przejawiają się sobie nawzajem.",
-    "ontological_status": "Fizykalizm/realizm relacyjny",
+    "ontological_status": "Physicalism/Relational Realism",
     "mind_body_relationship": "Relacyjna (umysł jest ściśle związany ze światem fizycznym, prawdopodobnie nabywając własności poprzez kontakt relacyjny, zgodnie z poglądem, że fizyka jest „siecią relacji”).",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Subiektywność jest prawdopodobnie ugruntowana we własnościach perspektywicznych lub relacyjnych, gdzie natura świadomości ujawnia się poprzez relację umysłu do innych rzeczy i jego rolę w obserwowaniu świata.",
     "qualia_account": "Qualia mogą być własnościami relacyjnymi, powstającymi w „punkcie styku” między bytami w świecie fizycznym, a nie cechami wewnętrznymi i pojedynczymi.",
     "ontological_commitments": "Świat naturalny, fizyka fundamentalna oraz struktury relacyjne/perspektywiczne (wywnioskowane z odrzucenia dodatków niefizycznych i skupienia na badaniu naukowym).",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Badanie empiryczne, integracja teoretyczna, rozumowanie filozoficzne"
   },
   "empirics_and_critiques": {
-    "testability_status": "Sprawdzalna empirycznie i obliczeniowo (poprzez integrację neuronauki, fizyki kwantowej i badań nad SI).",
+    "testability_status": "Empirically and computationally testable (via integration of neuroscience, quantum physics, and AI research).",
     "known_empirical_interventions_or_tests": "Musser wskazuje obszary eksploracyjne, takie jak badania nad sieciami neuronowymi, obliczeniami kwantowymi, kodowaniem predykcyjnym i zintegrowaną teorią informacji (IIT).",
     "criticisms_and_tensions": "Interpretacja relacyjna napotyka napięcie polegające na tym, że doświadczenie subiektywne (qualia) nie wydaje się relacyjne z perspektywy pierwszoosobowej, co może pozostawiać trudny problem nierozwiązanym.",
     "open_questions_and_limitations": "Czy qualia są naprawdę relacyjne za kulisami oraz jak powstaje poczucie wewnętrznej subiektywności, jeśli są one relacyjne; możliwość, że SI odkryje rozwiązania pojęciowo nieprzeniknione dla ludzi.",
@@ -51,39 +53,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Prawdopodobnie",
+      "stance": "Likely",
       "rationale": "Optymistyczna wiara w moc nauki/obliczeń sugeruje, że świadomość SI jest osiągalna, a systemy SI mogą być wręcz koniecznymi narzędziami w odkryciu rozwiązania zagadki świadomości."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Pogląd Mussera jest zakorzeniony w przekonaniu, że świadomość jest „z tego świata” i emergentna ze struktury fizycznej, co implikuje jej ustanie wraz z fizycznym rozpadem (zgodnie z materialistycznym kontekstem argumentu)."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Skupienie leży na znalezieniu rozwiązania w obrębie znanego wszechświata fizycznego, nie dostarczając podstawy dla teleologii kosmicznej, a jedynie humanistyczny sens wywiedziony ze zdolności umysłu do rozumienia kosmosu."
     },
     "virtual_immortality": {
-      "stance": "Prawdopodobna (warunkowo)",
+      "stance": "Conditional",
       "rationale": "Jeśli kompletne relacyjne/fizyczne wzorce umysłu można w pełni zamodelować, symulować obliczeniowo i odtworzyć, wirtualna ciągłość powinna być możliwa, choć ogromna złożoność pozostaje wyzwaniem praktycznym."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Rovelli’s Relational Physics",
-        "relationship": "Wpływ"
+        "name": "Rovelli's Relationship Physics",
+        "relationship": "Influence"
       },
       {
         "name": "Integrated Information Theory",
-        "relationship": "Kontekst eksploracji"
+        "relationship": "Exploration Context"
       },
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
-        "relationship": "Krytyka"
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
+        "relationship": "Critique"
       },
       {
         "name": "Predictive Theories (Top-Down)",
-        "relationship": "Kontekst eksploracji"
+        "relationship": "Exploration Context"
       }
     ],
     "sources_and_references": [

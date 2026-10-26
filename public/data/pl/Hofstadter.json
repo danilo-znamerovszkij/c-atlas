@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Dziwne pętle Hofstadtera",
+    "summary": "Douglas Hofstadter twierdzi, że świadomość i jaźń wyłaniają się z „dziwnych pętli”: abstrakcyjnych, samoodnoszących się pętli sprzężenia zwrotnego w systemie symboli mózgu, które wspinają się przez kolejne poziomy abstrakcji i wracają do punktu wyjścia. „Ja” jest najbardziej centralnym i złożonym symbolem mózgu, samodzielnie zbudowanym wzorcem, który Hofstadter nazywa rodzajem iluzji, a jednocześnie przypisuje mu realną moc przyczynową wobec neuronów, które go podtrzymują.",
+    "associated_thinkers": [
+      "Douglas Hofstadter"
+    ],
+    "category": "Materializm",
+    "subcategory": "Relacyjne",
+    "core_identity_tagline": "„Świadomość jako samoodnosząca się dziwna pętla”",
+    "classification_tags": [
+      "self-reference",
+      "strange loop",
+      "emergence",
+      "self",
+      "downward causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Świadomość i jaźń są wysokopoziomowym, samoodnoszącym się wzorcem symboli: dziwną pętlą, w której mózg reprezentuje siebie i własne reprezentacje.",
+    "ontological_status": "Physicalism (non-reductive, emergentist)",
+    "mind_body_relationship": "Umysł jest emergentną własnością organizacji mózgu, a nie odrębnym bytem duchowym; Hofstadter odrzuca dualizm. Umysł i mózg to różne poziomy opisu jednego systemu.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Emergence with downward causation (the high-level ‘I’ is as causally potent as low-level physical rules)",
+    "subjectivity_and_intentionality": "„Ja” jest symbolem, który mózg buduje na swój temat, narracyjną fikcją aktualizowaną przez każde nowe doświadczenie. Samoodniesienie pozwala systemowi postrzegać siebie jako przyczynę własnych odczuć i działań, co daje poczucie sprawczości.",
+    "qualia_account": "Hofstadter nie podaje odrębnego opisu jakościowego charakteru doświadczenia. Doświadczenie wyjaśnia się przez samoodnoszące się wzorce symboliczne, a otwartym pytaniem pozostaje, czy oddaje to bogactwo przeżycia subiektywnego.",
+    "ontological_commitments": "Neurony, symbole i abstrakcyjne wzorce, które tworzą one na wyższych poziomach, w tym samoodnoszące się pętle i splątane hierarchie.",
+    "epistemic_access": "Analogia formalna (twierdzenia Gödla o niezupełności), kognitywistyka i refleksja nad samoodniesieniem, a nie konkretna neurobiologia.",
+    "constituents_and_structure": "Splątana hierarchia symboli bez wyraźnego poziomu najwyższego ani najniższego, w której reprezentacje reprezentacji zawracają do samych siebie."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Samoświadomość; jaźń; wolna wola (jako postrzegana iluzja); świadomość fenomenalna jako rozszerzenie",
+    "distinctive_mechanism_or_principle": "Dziwna pętla: konsekwentne poruszanie się w górę lub w dół przez poziomy abstrakcji sprowadza system, w przekształconej postaci, z powrotem do punktu wyjścia, tworząc samoodniesienie.",
+    "dynamics_of_emergence": "Świadomość jest stopniowalna, a nie typu „wszystko albo nic”, i pogłębia się wraz z rosnącą złożonością symbolicznego modelu siebie. Ludzie mają złożone pętle, podczas gdy inne zwierzęta mogą mieć prostsze lub płytsze.",
+    "location_and_distribution": "W mózgu, ale jako abstrakcyjna pętla, a nie fizyczny obwód. Hofstadter nie wiąże jej z konkretnymi strukturami nerwowymi.",
+    "causation_and_functional_role": "Przyczynowość zstępująca: emergentne „ja” wpływa na neurony, z których się wyłania, co daje doświadczenie sprawczości i wolnej woli, mimo że Hofstadter uważa wolną wolę za iluzję.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Mózg buduje reprezentacje siebie i swoich doświadczeń, w tym reprezentacje tych reprezentacji, a to rekurencyjne modelowanie tworzy pętlę.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Świadomość wyłania się z kipiącej aktywności mózgu na niższych poziomach, podobnie jak życie wyłania się z chemii komórki.",
+      "Twierdzenia Gödla o niezupełności pokazują, jak system formalny może zawierać zdania odnoszące się do samych siebie, co stanowi model jaźni.",
+      "Jaźń jest dynamicznym wzorcem, a nie stałą substancją, budowanym przez każde nowe doświadczenie.",
+      "Wysokopoziomowe, samoodnoszące się znaczenia mogą być równie realne przyczynowo jak niskopoziomowe prawa fizyczne systemu."
+    ],
+    "basis_of_belief_or_evidence_type": "Argument teoretyczny i obliczeniowy czerpiący z logiki matematycznej i kognitywistyki"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Krytycy pytają, czy samo abstrakcyjne sprzężenie zwrotne może wyjaśnić bogactwo doświadczenia subiektywnego i sprawczości. Przyczynowość zstępująca budzi kontrowersje, a opisywanie jaźni jednocześnie jako iluzji i czynnika przyczynowo skutecznego pozostawia pozorne napięcie.",
+    "open_questions_and_limitations": "Hofstadter nie wskazuje struktur neurobiologicznych realizujących dziwne pętle, a teoria nie określa mierzalnych kryteriów tego, kiedy pętla jest świadoma.",
+    "ontological_coherence": "Spójna w ramach fizykalizmu nieredukcyjnego. Odrzuca zarówno dualizm, jak i ścisły redukcjonizm, traktując „ja” jako realne i przyczynowo skuteczne, choć emergentne."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "Skoro świadomość jest abstrakcyjnym wzorcem samoodniesienia, a nie własnością jakiegokolwiek konkretnego podłoża, wystarczająco bogaty, modelujący samego siebie system symboli w maszynie powinien ją wytworzyć."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Skoro jaźń jest wzorcem podtrzymywanym przez aktywność mózgu, kończy się wraz z ustaniem tej aktywności."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Jaźń jest samotworzącym się wzorcem w systemie fizycznym; sens wyłania się z tego wzorca, a nie z jakiegokolwiek kosmicznego celu."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Jeśli tożsamość jest wzorcem, a nie substancją, odtworzenie tego wzorca w innym medium mogłoby w zasadzie zachować jaźń."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Azarian’s Self-Modeling Strange Loop Theory",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Ellis's Strong Emergence and Top-Down Causation",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
+        "relationship": "Overlap"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Gödel, Escher, Bach: An Eternal Golden Braid, Douglas Hofstadter",
+        "year": 1979
+      },
+      {
+        "title_with_names": "I Am a Strange Loop, Douglas Hofstadter",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Hofstadter’s Strange Loops, Landscape of Consciousness, Robert Lawrence Kuhn"
+      }
+    ]
+  }
+}

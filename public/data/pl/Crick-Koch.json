@@ -19,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość (świadomość fenomenalna/qualia) jest identyfikowana jako neuronalny korelat świadomości (NCC), dokładny minimalny wzorzec aktywności neuronalnej w mózgu konieczny i wystarczający dla doświadczenia subiektywnego.",
-    "ontological_status": "Redukcyjny fizykalizm/materializm. Podejście NCC jest uważane za materializm makroskopowy.",
+    "ontological_status": "Reductive Physicalism/Materialism. The NCC approach is considered macroscopic materialism.",
     "mind_body_relationship": "Teoria tożsamości. Stany mentalne są całkowicie identyczne ze stanami fizycznymi NCC i w pełni przez nie wyjaśnione.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Słaba emergencja. Zgodna ze stanowiskiem redukcyjnego materializmu, w którym świadomość, jako produkt biologicznego mózgu, jest w zasadzie wyjaśnialna przez prawa fizyczne niższego poziomu, nawet jeśli wyraźne powiązanie jest obecnie nieuchwytne.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consistent with a reductive materialist position where consciousness, as a product of the biological brain, is in principle explainable by lower-level physical laws, even if the explicit link is currently elusive.",
     "subjectivity_and_intentionality": "Subiektywność (wewnętrzna świadomość) i doświadczenie fenomenalne są bezpośrednio skorelowane z zidentyfikowanym NCC lub z nim identyczne. Intencjonalność byłaby podobnie wyjaśniana przez procesy fizyczne konstytuujące NCC.",
     "qualia_account": "Qualia (jakościowe odczucie doświadczenia) są utożsamiane z minimalnymi aktywnościami neuronalnymi (NCC), które są łącznie wystarczające dla konkretnej świadomej percepcji, choć mechanizm tej tożsamości pozostaje centralnym wyzwaniem 'trudnego problemu'.",
     "ontological_commitments": "Biologiczne mózgi, neurony, aktywność elektrofizjologiczna (wyładowania), neurochemiczne przepływy neuroprzekaźników oraz określone obwody nawrotowe mózgu.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Empiryczna, naukowa, neurobiologiczna"
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna empirycznie. Poszukiwanie NCC jest zdefiniowane jako program naukowy poszukujący testowalnych biologicznych podstaw świadomości.",
+    "testability_status": "Empirically testable. The search for the NCC is defined as a scientific program seeking testable biological bases for consciousness.",
     "known_empirical_interventions_or_tests": [
       "Identyfikowanie określonych skupisk neuronów lub obszarów mózgu (jak przedmurze lub kora tylna), które są aktywne podczas doświadczenia świadomego.",
       "Pomiar aktywności elektrofizjologicznej (np. potencjałów czynnościowych i obwodów neuronalnych)."
@@ -58,35 +58,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jeśli świadomość jest całkowicie redukowalna do fizycznych wzorców organizacyjnych (NCC), to systemy niebiologiczne zdolne do odtworzenia tych dokładnych wzorców również powinny stać się świadome, o ile nie przeszkodzą temu ograniczenia technologiczne."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Jako teoria materialistyczna, świadomość jest całkowicie zależna od fizycznego mózgu; ustanie funkcji mózgu pociąga za sobą kres świadomości."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczny",
+      "stance": "Humanistic only",
       "rationale": "Zgodnie z materializmem świadomość jest biologicznym produktem ewolucji i fizyki, nie nadając żadnego ostatecznego kosmicznego sensu ani teleologii poza tym, co ludzie tworzą dla siebie."
     },
     "virtual_immortality": {
-      "stance": "Tak",
+      "stance": "Yes",
       "rationale": "Jeśli stany NCC dają się doskonale zmierzyć i odtworzyć w medium cyfrowym lub sztucznym (przeniesienie umysłu), powstały system byłby funkcjonalnie i fenomenalnie identyczny, osiągając wirtualną nieśmiertelność w zasadzie."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Recurrent Processing Theory (Lamme)",
-        "relationship": "Nakładanie się"
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Overlap"
       },
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Nakładanie się/kontrast"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Overlap/Contrast"
       },
       {
         "name": "Integrated Information Theory",
-        "relationship": "Kontrast"
+        "relationship": "Contrast"
       }
     ],
     "sources_and_references": [

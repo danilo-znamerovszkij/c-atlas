@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Świadome i nieświadome wzorce Pockett",
     "summary": "Ta teoria pola elektromagnetycznego głosi, że doświadczenia świadome są tożsame z określonymi wzorcami elektromagnetycznymi generowanymi przez mózg. Podkreśla, że świadomość jest rzeczą fizyczną — przestrzennym wzorcem elektromagnetycznym — a nie procesem neuronalnym, co wymaga zdefiniowania konkretnego trójwymiarowego kształtu wzorców świadomych.",
-    "associated_thinkers": ["Susan Pockett"],
+    "associated_thinkers": [
+      "Susan Pockett"
+    ],
     "category": "Teorie materializmu",
     "subcategory": "Pole elektromagnetyczne",
     "core_identity_tagline": "„Świadomość jako przestrzenne wzorce elektromagnetyczne”",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Świadomość jest utożsamiana z przestrzennymi wzorcami elektromagnetycznymi (EM) lub „rzeczami” generowanymi przez mózg, przy czym twierdzi się w szczególności o tożsamości między doświadczeniami świadomymi a pewnymi wzorcami EM.",
-    "ontological_status": "Fizykalizm",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Teoria tożsamości. Doświadczenia świadome są dosłownie tożsame z pewnymi wzorcami elektromagnetycznymi.",
-    "primitive_or_emergent_status": "Emergentny",
-    "emergence_type": "Emergencja słaba. Świadomość powstaje z nieustannego przetwarzania nieświadomego, co implikuje, że jej własności są zasadniczo redukowalne do leżącej u podstaw fizyki/elektromagnetyzmu, choć w materiale źródłowym jest to raczej domyślne niż wprost określone jako emergencja słaba.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consciousness arises from ongoing unconscious processing, implying that its properties are reducible in principle to underlying physics/electromagnetism, although this is implicit rather than explicitly stated as weak emergence in the source material.",
     "subjectivity_and_intentionality": "Nieopisane wprost, ponieważ nacisk położony jest na obiektywną naturę fizyczną (kształt 3D) wzorca świadomego, a nie na subiektywny proces odczuwania czy intencjonalność.",
     "qualia_account": "Qualia odpowiadają konkretnym cechom jakościowym określonym przez jedyny w swoim rodzaju kształt 3D świadomych wzorców elektromagnetycznych.",
     "ontological_commitments": "Fizyczne pola elektromagnetyczne (EM), neuronalne „wetware” oraz odrębne geometryczne wzorce 3D w polu EM.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Argument filozoficzny połączony z potencjalną testowalnością empiryczną dotyczącą geometrii pól mózgowych."
   },
   "empirics_and_critiques": {
-    "testability_status": "Testowalna empirycznie",
+    "testability_status": "Empirically testable",
     "known_empirical_interventions_or_tests": "Leżącą u podstaw przesłanką jest testowalna hipoteza dotycząca określenia cech 3D odróżniających świadome pola elektromagnetyczne od nieświadomych.",
     "criticisms_and_tensions": "Teoria zasadniczo przeczy dominującemu w psychologii poznawczej poglądowi, że świadomość jest procesem (dogmat funkcjonalistyczny). Głównym wyzwaniem jest rygorystyczne zdefiniowanie konkretnych przestrzennych cech 3D, które konstytuują wzorzec świadomy.",
     "open_questions_and_limitations": "Dokładny kształt lub wzorzec 3D charakteryzujący świadome pola elektromagnetyczne pozostaje nieokreślony, przez co warunki konieczne i wystarczające dla świadomości pozostają niejasne.",
@@ -51,35 +53,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Możliwe",
+      "stance": "Possible",
       "rationale": "Świadome wzorce EM mogłyby w zasadzie być generowane przez wyspecjalizowany sprzęt, a nie przez biologiczne „wetware”, pod warunkiem że sprzęt potrafi odtworzyć wymagane cechy pola."
     },
     "survival_beyond_death": {
-      "stance": "Nie",
+      "stance": "No",
       "rationale": "Świadomość jest tożsama z konkretnymi wzorcami EM generowanymi przez fizyczny mózg. Wraz z biologiczną śmiercią i rozpadem mózgu wzorce te przestałyby istnieć."
     },
     "meaning_and_purpose": {
-      "stance": "Wyłącznie humanistyczne",
+      "stance": "Humanistic only",
       "rationale": "Jako teoria czysto materialistyczna i fizykalistyczna sugeruje, że świadomość, choć jest realnym zjawiskiem fizycznym, nie dostarcza dowodów na kosmiczny cel czy ostateczną wartość wykraczającą poza tę tworzoną przez ludzkie doświadczenie."
     },
     "virtual_immortality": {
-      "stance": "Możliwe",
+      "stance": "Possible",
       "rationale": "Gdyby konstytuujący świadomość wzorzec EM dało się doskonale zmierzyć oraz odtworzyć lub zasymulować za pomocą sprzętu niebiologicznego, pierwszoosobowa jaźń mogłaby teoretycznie przetrwać w nowym podłożu."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McFadden’s Conscious Electromagnetic Information Theory",
-        "relationship": "Nakładanie się"
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
+        "relationship": "Overlap"
       },
       {
-        "name": "Jones’s Electromagnetic Fields",
-        "relationship": "Nakładanie się"
+        "name": "Jones's Electromagnetic Fields",
+        "relationship": "Overlap"
       },
       {
         "name": "Functionalism",
-        "relationship": "Krytyka"
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [
