@@ -97,6 +97,38 @@ const contentDate = (root) => {
   }
 };
 
+// Every hub.* string passed through h(), key -> English (for seeding en.json).
+export const HUB_STRINGS = new Map();
+
+// h(key, english, vars?): chrome string for a locale. `ui` is that locale's flat
+// public/i18n/ui dictionary; the English literal is the fallback. {name}
+// placeholders are filled from vars. The result is not HTML-escaped.
+export const makeH = (ui) => (key, english, vars = {}) => {
+  HUB_STRINGS.set(key, english);
+  return (ui[key] || english).replace(/\{(\w+)\}/g, (m, k) => (k in vars ? vars[k] : m));
+};
+
+// Copy for a locale: src/content/i18n/{locale}/{questions,comparisons,quiz}.json
+// merged over the English files, per key (a missing key or field falls back to English).
+// Quiz overrides are { questions: [{ axis|key, text, help, ends, ... }] } matched by axis or key.
+export function loadCopy(root, locale) {
+  const read = (p) => (existsSync(p) ? JSON.parse(readFileSync(p, "utf-8")) : null);
+  const dir = join(root, "src", "content");
+  const merge = (name) => {
+    const base = read(join(dir, `${name}.json`)) ?? {};
+    const over = read(join(dir, "i18n", locale, `${name}.json`)) ?? {};
+    return Object.fromEntries(Object.entries(base).map(([k, v]) => [k, over[k] ? { ...v, ...over[k] } : v]));
+  };
+  const quiz = read(join(dir, "quiz.json")) ?? { questions: [] };
+  const qo = read(join(dir, "i18n", locale, "quiz.json"))?.questions ?? [];
+  const byId = new Map(qo.map((q) => [q.axis || q.key, q]));
+  return {
+    questions: merge("questions"),
+    comparisons: merge("comparisons"),
+    quiz: { ...quiz, questions: quiz.questions.map((q) => ({ ...q, ...byId.get(q.axis || q.key) })) },
+  };
+}
+
 export function buildPages({ root, publicDir, baseData, generateSlug, resolveTheoryFileStem, locales, defaultLocale, buildLocalizedPath }) {
   const out = join(publicDir, "_pages");
   const modified = contentDate(root) || new Date().toISOString().slice(0, 10);
@@ -107,8 +139,16 @@ export function buildPages({ root, publicDir, baseData, generateSlug, resolveThe
   const photosOf = (thinkers) => thinkers.slice(0, 3).map((n) => portraits.get(portraitKey(n))).filter(Boolean).map((p) => ({ src: p.src, title: portraitTitle(p) }));
   const en = readJson(join(publicDir, "i18n", "taxonomy", "en.json"), { categories: {}, subcategories: {}, fullNames: {} });
   const categoryTexts = readJson(join(publicDir, "categories", "en.json"), {});
-  const questionCopy = readJson(join(root, "src", "content", "questions.json"), {});
-  const comparisonCopy = readJson(join(root, "src", "content", "comparisons.json"), {});
+  const copy = loadCopy(root, defaultLocale);
+  const questionCopy = copy.questions;
+  const comparisonCopy = copy.comparisons;
+  const h = makeH(readJson(join(publicDir, "i18n", "ui", "en.json"), {}));
+  const SN = h("hub.site.name", "Consciousness Atlas");
+  // Questions with localizable names; shadows the exported English QS.
+  const QS = QUESTIONS.map((q) => ({
+    ...q, short: h(`hub.question.${q.key}.short`, q.short),
+    buckets: q.buckets.map(([k, name, st]) => [k, h(`hub.bucket.${k}`, name), st]),
+  }));
   const label = (key) => en.categories[key] || en.subcategories[key] || key;
 
   // Every chart theory with its English content.
@@ -154,24 +194,24 @@ export function buildPages({ root, publicDir, baseData, generateSlug, resolveThe
 
   // ---- shared layout --------------------------------------------------------
   const nav = `
-    <nav class="hub-nav" aria-label="Sections">
-      <a href="/theories">All theories</a>
-      <a href="/questions">Big questions</a>
-      <a href="/compare">Compare</a>
-      <a href="/quiz">Quiz</a>
+    <nav class="hub-nav" aria-label="${esc(h("hub.nav.label", "Sections"))}">
+      <a href="/theories">${esc(h("hub.nav.allTheories", "All theories"))}</a>
+      <a href="/questions">${esc(h("hub.nav.questions", "Big questions"))}</a>
+      <a href="/compare">${esc(h("hub.nav.compare", "Compare"))}</a>
+      <a href="/quiz">${esc(h("hub.nav.quiz", "Quiz"))}</a>
     </nav>`;
   const page = ({ path, title, description, h1, eyebrow = "", lead = "", body, jsonLd = [], crumbs = [], css = "", scripts = "", wide = false }) => {
     const canonical = SITE + path;
     const breadcrumb = {
       "@type": "BreadcrumbList",
-      itemListElement: [{ name: "Consciousness Atlas", path: "/" }, ...crumbs, { name: h1, path }].map((c, i) => ({
+      itemListElement: [{ name: SN, path: "/" }, ...crumbs, { name: h1, path }].map((c, i) => ({
         "@type": "ListItem", position: i + 1, name: c.name, item: SITE + c.path,
       })),
     };
     // Every page's main node names the publisher, language, image and date.
     const enriched = jsonLd.map((node, i) => (i === 0 ? {
       inLanguage: "en", image: `${SITE}/banner.jpg`, dateModified: modified,
-      publisher: { "@type": "Organization", name: "Consciousness Atlas", url: SITE + "/" }, ...node,
+      publisher: { "@type": "Organization", name: SN, url: SITE + "/" }, ...node,
     } : node));
     const ld = JSON.stringify({ "@context": "https://schema.org", "@graph": [...enriched, breadcrumb] }).replace(/</g, "\\u003c");
     return `<!doctype html>
@@ -186,7 +226,7 @@ export function buildPages({ root, publicDir, baseData, generateSlug, resolveThe
 <meta name="description" content="${esc(description)}" />
 <link rel="canonical" href="${canonical}" />
 <meta property="og:type" content="website" />
-<meta property="og:site_name" content="Consciousness Atlas" />
+<meta property="og:site_name" content="${esc(SN)}" />
 <meta property="og:url" content="${canonical}" />
 <meta property="og:title" content="${esc(title)}" />
 <meta property="og:description" content="${esc(description)}" />
@@ -210,20 +250,20 @@ ${ANALYTICS(path)}
 </head>
 <body${wide ? ' class="is-wide"' : ""}>
 <header class="hub-header">
-  <a class="hub-logo" href="/">Consciousness Atlas</a>
+  <a class="hub-logo" href="/">${esc(SN)}</a>
   ${nav}
-  <a class="hub-cta" href="/">Open the map</a>
+  <a class="hub-cta" href="/">${esc(h("hub.header.openMap", "Open the map"))}</a>
 </header>
 <main class="hub-main${wide ? " hub-wide" : ""}">
-  <nav class="hub-crumbs" aria-label="Breadcrumb"><a href="/">Atlas</a>${crumbs.map((c) => ` › <a href="${c.path}">${esc(c.name)}</a>`).join("")} › <span>${esc(h1)}</span></nav>
+  <nav class="hub-crumbs" aria-label="${esc(h("hub.crumbs.label", "Breadcrumb"))}"><a href="/">${esc(h("hub.crumbs.atlas", "Atlas"))}</a>${crumbs.map((c) => ` › <a href="${c.path}">${esc(c.name)}</a>`).join("")} › <span>${esc(h1)}</span></nav>
   ${eyebrow ? `<p class="hub-eyebrow">${esc(eyebrow)}</p>` : ""}
   <h1>${esc(h1)}</h1>
   ${lead ? `<p class="hub-lead">${esc(lead)}</p>` : ""}
   ${body}
 </main>
 <footer class="hub-footer">
-  <p>Consciousness Atlas maps theories from Robert Lawrence Kuhn's <a href="https://loc.closertotruth.com/">Landscape of Consciousness</a>. It describes theories; it does not rank them.</p>
-  <p><a href="/">Open the interactive map</a> · <a href="/theories">All theories A–Z</a> · <a href="/questions">Big questions</a> · <a href="/compare">Compare theories</a> · <a href="/quiz">Which theory fits you?</a> · <a href="/mentions">What people say</a> · <a href="/credits">Photo credits</a> · <a href="/paper">Kuhn's paper</a></p>
+  <p>${h("hub.footer.about", "{site} maps theories from Robert Lawrence Kuhn's {link}. It describes theories; it does not rank them.", { site: esc(SN), link: `<a href="https://loc.closertotruth.com/">${esc(h("hub.footer.landscape", "Landscape of Consciousness"))}</a>` })}</p>
+  <p><a href="/">${esc(h("hub.footer.map", "Open the interactive map"))}</a> · <a href="/theories">${esc(h("hub.footer.az", "All theories A–Z"))}</a> · <a href="/questions">${esc(h("hub.footer.questions", "Big questions"))}</a> · <a href="/compare">${esc(h("hub.footer.compare", "Compare theories"))}</a> · <a href="/quiz">${esc(h("hub.footer.quiz", "Which theory fits you?"))}</a> · <a href="/mentions">${esc(h("hub.footer.mentions", "What people say"))}</a> · <a href="/credits">${esc(h("hub.footer.credits", "Photo credits"))}</a> · <a href="/paper">${esc(h("hub.footer.paper", "Kuhn's paper"))}</a></p>
 </footer>
 ${scripts}
 </body>
@@ -244,7 +284,7 @@ ${scripts}
     const d = distribution(list, q).filter((b) => b.n);
     const total = d.reduce((s, b) => s + b.n, 0) || 1;
     return `<div class="hub-dist" role="img" aria-label="${esc(d.map((b) => `${b.name}: ${b.n}`).join(", "))}">${d
-      .map((b) => `<span class="hub-dist-seg seg-${b.key}" style="flex:${b.n}" tabindex="0" data-tip="${esc(b.name)}: ${b.n} ${b.n === 1 ? "theory" : "theories"} (${Math.round((100 * b.n) / total)}%)"></span>`)
+      .map((b) => `<span class="hub-dist-seg seg-${b.key}" style="flex:${b.n}" tabindex="0" data-tip="${esc(b.name)}: ${h("hub.dist.tip", "{n} {unit} ({pct}%)", { n: b.n, unit: b.n === 1 ? h("hub.unit.theory", "theory") : h("hub.unit.theories", "theories"), pct: Math.round((100 * b.n) / total) })}"></span>`)
       .join("")}</div><ul class="hub-dist-legend">${d
       .map((b) => `<li><i class="seg-${b.key}"></i>${esc(b.name)} <b>${b.n}</b> <small>${Math.round((100 * b.n) / total)}%</small></li>`)
       .join("")}</ul>`;
@@ -267,69 +307,69 @@ ${scripts}
           return `<section class="hub-section" id="${generateSlug(s.name)}">
             <h2>${esc(label(s.name))} <small>${members.length}</small></h2>
             ${st ? `<p>${esc(st.summary)}</p>` : ""}
-            <p><a class="hub-link" href="${groupUrl(key, s.name)}">Open ${esc(label(s.name))} on the map →</a></p>
+            <p><a class="hub-link" href="${groupUrl(key, s.name)}">${esc(h("hub.category.openSub", "Open {name} on the map →", { name: label(s.name) }))}</a></p>
             <ul class="hub-theories">${members.map((t) => theoryItem(t)).join("")}</ul>
           </section>`;
         }).join("")
-      : `<section class="hub-section"><h2>All ${list.length} theories</h2><ul class="hub-theories">${list.map((t) => theoryItem(t)).join("")}</ul></section>`;
+      : `<section class="hub-section"><h2>${esc(h("hub.category.all", "All {n} theories", { n: list.length }))}</h2><ul class="hub-theories">${list.map((t) => theoryItem(t)).join("")}</ul></section>`;
     const others = baseData.filter((c) => c.name !== key);
     write(`category/${generateSlug(key)}.html`, page({
       path,
-      title: `${label(key)}: ${list.length} Theories of Consciousness | Consciousness Atlas`,
-      description: truncate(text.summary || `${list.length} ${label(key)} theories of consciousness, each with a structured summary.`, 155),
-      h1: `${label(key)}: theories of consciousness`,
-      crumbs: [{ name: "All theories", path: "/theories" }],
-      eyebrow: `${list.length} theories${subs.length ? ` · ${subs.length} subcategories` : ""}`,
+      title: `${h("hub.category.title", "{name}: {n} Theories of Consciousness | {site}", { name: label(key), n: list.length, site: SN })}`,
+      description: truncate(text.summary || h("hub.category.description", "{n} {name} theories of consciousness, each with a structured summary.", { n: list.length, name: label(key) }), 155),
+      h1: h("hub.category.h1", "{name}: theories of consciousness", { name: label(key) }),
+      crumbs: [{ name: h("hub.crumbs.allTheories", "All theories"), path: "/theories" }],
+      eyebrow: h("hub.category.eyebrow", "{n} theories", { n: list.length }) + (subs.length ? h("hub.category.eyebrowSubs", " · {n} subcategories", { n: subs.length }) : ""),
       lead: text.summary,
       body: `
-        <p class="hub-actions"><a class="hub-button" href="${groupUrl(key)}">Open ${esc(label(key))} on the map</a><a class="hub-button hub-button-quiet" href="/theories">All theories A–Z</a></p>
+        <p class="hub-actions"><a class="hub-button" href="${groupUrl(key)}">${esc(h("hub.category.open", "Open {name} on the map", { name: label(key) }))}</a><a class="hub-button hub-button-quiet" href="/theories">${esc(h("hub.category.azButton", "All theories A–Z"))}</a></p>
         ${(text.overview || []).map((p) => `<p>${esc(p)}</p>`).join("")}
-        ${examples.length ? `<section class="hub-section"><h2>Good places to start</h2><ul class="hub-theories">${examples.map((t) => theoryItem(t)).join("")}</ul></section>` : ""}
+        ${examples.length ? `<section class="hub-section"><h2>${esc(h("hub.category.start", "Good places to start"))}</h2><ul class="hub-theories">${examples.map((t) => theoryItem(t)).join("")}</ul></section>` : ""}
         ${groups}
-        <section class="hub-section"><h2>Other families</h2><ul class="hub-pills">${others.map((c) => `<li><a href="${categoryUrl(c.name)}">${esc(label(c.name))}</a></li>`).join("")}</ul></section>`,
+        <section class="hub-section"><h2>${esc(h("hub.category.others", "Other families"))}</h2><ul class="hub-pills">${others.map((c) => `<li><a href="${categoryUrl(c.name)}">${esc(label(c.name))}</a></li>`).join("")}</ul></section>`,
       jsonLd: [{
-        "@type": "CollectionPage", name: `${label(key)} theories of consciousness`, url: SITE + path, description: text.summary,
-        isPartOf: { "@type": "WebSite", name: "Consciousness Atlas", url: SITE + "/" },
+        "@type": "CollectionPage", name: h("hub.category.ldName", "{name} theories of consciousness", { name: label(key) }), url: SITE + path, description: text.summary,
+        isPartOf: { "@type": "WebSite", name: SN, url: SITE + "/" },
         mainEntity: { "@type": "ItemList", numberOfItems: list.length, itemListElement: list.map((t, i) => ({ "@type": "ListItem", position: i + 1, name: t.title, url: SITE + t.url })) },
       }],
     }));
   }
 
   // ---- question hubs ---------------------------------------------------------
-  const otherQuestions = (slug) => QUESTIONS.filter((q) => q.slug !== slug)
+  const otherQuestions = (slug) => QS.filter((q) => q.slug !== slug)
     .map((q) => `<li><a href="/questions/${q.slug}">${esc(questionCopy[q.slug]?.title || q.short)}</a></li>`).join("");
-  for (const q of QUESTIONS) {
-    const copy = questionCopy[q.slug] || { title: q.short, seoTitle: `${q.short} | Consciousness Atlas`, metaDescription: "", intro: [] };
+  for (const q of QS) {
+    const copy = questionCopy[q.slug] || { title: q.short, seoTitle: `${q.short} | ${SN}`, metaDescription: "", intro: [] };
     const path = `/questions/${q.slug}`;
     const sections = q.buckets.map(([key, name, stances]) => {
       const members = theories.filter((t) => stances.includes(stanceOf(t, q)));
       if (!members.length) return "";
       return `<section class="hub-section" id="${key}">
         <h2>${esc(name)} <small>${members.length}</small></h2>
-        <p><a class="hub-link" href="${mapUrl({ filter: `${q.key}:${key}` })}">Highlight these on the map →</a></p>
+        <p><a class="hub-link" href="${mapUrl({ filter: `${q.key}:${key}` })}">${esc(h("hub.question.highlight", "Highlight these on the map →"))}</a></p>
         <ul class="hub-theories">${members.map((t) => theoryItem(t, `<span class="hub-why">${esc(truncate(t.implications[q.field]?.rationale, 240))}</span><span class="hub-family">${esc(label(t.category))}</span>`)).join("")}</ul>
       </section>`;
     }).join("");
     const unaddressed = theories.filter((t) => !bucketOf(t, q));
     write(`questions/${q.slug}.html`, page({
-      path, title: copy.seoTitle, description: copy.metaDescription, h1: copy.title, eyebrow: "Big question",
-      crumbs: [{ name: "Big questions", path: "/questions" }],
+      path, title: copy.seoTitle, description: copy.metaDescription, h1: copy.title, eyebrow: h("hub.question.eyebrow", "Big question"),
+      crumbs: [{ name: h("hub.crumbs.questions", "Big questions"), path: "/questions" }],
       body: `
         ${(copy.intro || []).map((p) => `<p>${esc(p)}</p>`).join("")}
-        <section class="hub-section"><h2>How the theories answer</h2>${distBar(theories, q)}
-          <p class="hub-note">${unaddressed.length} theories don't take a position on this question.</p></section>
+        <section class="hub-section"><h2>${esc(h("hub.question.how", "How the theories answer"))}</h2>${distBar(theories, q)}
+          <p class="hub-note">${esc(h("hub.question.noPositionNote", "{n} theories don't take a position on this question.", { n: unaddressed.length }))}</p></section>
         ${sections}
-        ${unaddressed.length ? `<details class="hub-section"><summary>No position (${unaddressed.length})</summary><ul class="hub-theories">${unaddressed.map((t) => theoryItem(t)).join("")}</ul></details>` : ""}
-        <section class="hub-section"><h2>Other big questions</h2><ul class="hub-pills">${otherQuestions(q.slug)}</ul></section>`,
-      jsonLd: [{ "@type": "Article", headline: copy.title, description: copy.metaDescription, url: SITE + path, isPartOf: { "@type": "WebSite", name: "Consciousness Atlas", url: SITE + "/" } }],
+        ${unaddressed.length ? `<details class="hub-section"><summary>${esc(h("hub.question.noPosition", "No position ({n})", { n: unaddressed.length }))}</summary><ul class="hub-theories">${unaddressed.map((t) => theoryItem(t)).join("")}</ul></details>` : ""}
+        <section class="hub-section"><h2>${esc(h("hub.question.others", "Other big questions"))}</h2><ul class="hub-pills">${otherQuestions(q.slug)}</ul></section>`,
+      jsonLd: [{ "@type": "Article", headline: copy.title, description: copy.metaDescription, url: SITE + path, isPartOf: { "@type": "WebSite", name: SN, url: SITE + "/" } }],
     }));
   }
   write("questions/index.html", page({
-    path: "/questions", title: "Big Questions About Consciousness | Consciousness Atlas",
-    description: "Can AI be conscious? Does consciousness survive death? See how hundreds of theories of consciousness answer four big questions.",
-    h1: "Big questions about consciousness",
-    lead: "The Atlas records how every theory answers four questions. Pick one to see how the theories split, and why.",
-    body: `<ul class="hub-cards">${QUESTIONS.map((q) => {
+    path: "/questions", title: h("hub.questions.title", "Big Questions About Consciousness | {site}", { site: SN }),
+    description: h("hub.questions.description", "Can AI be conscious? Does consciousness survive death? See how hundreds of theories of consciousness answer four big questions."),
+    h1: h("hub.questions.h1", "Big questions about consciousness"),
+    lead: h("hub.questions.lead", "The Atlas records how every theory answers four questions. Pick one to see how the theories split, and why."),
+    body: `<ul class="hub-cards">${QS.map((q) => {
       const c = questionCopy[q.slug];
       return `<li><a href="/questions/${q.slug}"><b>${esc(c?.title || q.short)}</b><span>${esc(truncate(c?.metaDescription || "", 140))}</span></a>${distBar(theories, q)}</li>`;
     }).join("")}</ul>`,
@@ -352,7 +392,7 @@ ${scripts}
   const stanceCell = (sd, q) => {
     if (sd.kind === "theory") {
       const imp = sd.members[0].implications[q.field];
-      return imp?.stance ? `<b>${esc(imp.stance)}</b><span>${esc(truncate(imp.rationale, 160))}</span>` : "<span>No position</span>";
+      return imp?.stance ? `<b>${esc(imp.stance)}</b><span>${esc(truncate(imp.rationale, 160))}</span>` : `<span>${esc(h("hub.compare.noPosition", "No position"))}</span>`;
     }
     return distribution(sd.members, q).filter((b) => b.n).map((b) => `${esc(b.name)} <b>${b.n}</b>`).join("<br />");
   };
@@ -365,25 +405,25 @@ ${scripts}
       <h3><a href="${s.url}">${esc(s.name)}</a></h3>
       <p>${esc(truncate(s.summary, 360))}</p>
       ${s.examples?.length ? `<ul class="hub-theories">${s.examples.map((t) => `<li class="hub-theory"><a href="${t.url}">${esc(t.title)}</a></li>`).join("")}</ul>` : ""}
-      <p><a class="hub-link" href="${s.url}">${s.kind === "theory" ? "Read the full entry →" : `All ${s.members.length} theories →`}</a></p>
+      <p><a class="hub-link" href="${s.url}">${s.kind === "theory" ? h("hub.compare.readEntry", "Read the full entry →") : h("hub.compare.allN", "All {n} theories →", { n: s.members.length })}</a></p>
     </div>`;
     write(`compare/${c.slug}.html`, page({
-      path, title: copy.seoTitle, description: copy.metaDescription, h1: copy.title, eyebrow: "Comparison",
-      crumbs: [{ name: "Compare", path: "/compare" }],
+      path, title: copy.seoTitle, description: copy.metaDescription, h1: copy.title, eyebrow: h("hub.compare.eyebrow", "Comparison"),
+      crumbs: [{ name: h("hub.crumbs.compare", "Compare"), path: "/compare" }],
       body: `
         ${copy.intro.map((p) => `<p>${esc(p)}</p>`).join("")}
-        ${copy.commonGround ? `<p class="hub-callout"><b>Common ground.</b> ${esc(copy.commonGround)}</p>` : ""}
-        <section class="hub-section"><h2>Key differences</h2><div class="hub-table-wrap"><table class="hub-table">
+        ${copy.commonGround ? `<p class="hub-callout"><b>${esc(h("hub.compare.commonGround", "Common ground."))}</b> ${esc(copy.commonGround)}</p>` : ""}
+        <section class="hub-section"><h2>${esc(h("hub.compare.differences", "Key differences"))}</h2><div class="hub-table-wrap"><table class="hub-table">
           <thead><tr><th></th><th>${esc(a.name)}</th><th>${esc(b.name)}</th></tr></thead>
           <tbody>${copy.differences.map((r) => `<tr><th>${esc(r.aspect)}</th><td>${esc(r.a)}</td><td>${esc(r.b)}</td></tr>`).join("")}</tbody>
         </table></div></section>
-        <section class="hub-section"><h2>On the big questions</h2><div class="hub-table-wrap"><table class="hub-table">
+        <section class="hub-section"><h2>${esc(h("hub.compare.onQuestions", "On the big questions"))}</h2><div class="hub-table-wrap"><table class="hub-table">
           <thead><tr><th></th><th>${esc(a.name)}</th><th>${esc(b.name)}</th></tr></thead>
-          <tbody>${QUESTIONS.map((q) => `<tr><th><a href="/questions/${q.slug}">${esc(q.short)}</a></th><td>${stanceCell(a, q)}</td><td>${stanceCell(b, q)}</td></tr>`).join("")}</tbody>
+          <tbody>${QS.map((q) => `<tr><th><a href="/questions/${q.slug}">${esc(q.short)}</a></th><td>${stanceCell(a, q)}</td><td>${stanceCell(b, q)}</td></tr>`).join("")}</tbody>
         </table></div></section>
         <section class="hub-section hub-sides">${sideCard(a)}${sideCard(b)}</section>
-        <section class="hub-section"><h2>More comparisons</h2><ul class="hub-pills">${COMPARISONS.filter((o) => o.slug !== c.slug && comparisonCopy[o.slug]).map((o) => `<li><a href="/compare/${o.slug}">${esc(comparisonCopy[o.slug].title)}</a></li>`).join("")}</ul></section>`,
-      jsonLd: [{ "@type": "Article", headline: copy.title, description: copy.metaDescription, url: SITE + path, isPartOf: { "@type": "WebSite", name: "Consciousness Atlas", url: SITE + "/" } }],
+        <section class="hub-section"><h2>${esc(h("hub.compare.more", "More comparisons"))}</h2><ul class="hub-pills">${COMPARISONS.filter((o) => o.slug !== c.slug && comparisonCopy[o.slug]).map((o) => `<li><a href="/compare/${o.slug}">${esc(comparisonCopy[o.slug].title)}</a></li>`).join("")}</ul></section>`,
+      jsonLd: [{ "@type": "Article", headline: copy.title, description: copy.metaDescription, url: SITE + path, isPartOf: { "@type": "WebSite", name: SN, url: SITE + "/" } }],
     }));
   }
   const comparisonPaths = COMPARISONS.filter((c) => comparisonCopy[c.slug]).map((c) => `/compare/${c.slug}`);
@@ -395,7 +435,7 @@ ${scripts}
   const pairKeys = Object.keys(PAIR_NAMES);
   // Most viewed first, then the head-to-head set, then everything else.
   const rank = (leaf) => (viewed.includes(leaf) ? viewed.indexOf(leaf) : pairKeys.includes(leaf) ? 100 + pairKeys.indexOf(leaf) : 1000);
-  const shortName = (t) => PAIR_NAMES[t.leaf] || shortLabels[t.leaf] || t.leaf;
+  const shortName = (t) => (PAIR_NAMES[t.leaf] ? h(`hub.pair.${generateSlug(t.leaf)}`, PAIR_NAMES[t.leaf]) : shortLabels[t.leaf] || t.leaf);
   const entryOf = (t) => ({
     slug: generateSlug(t.leaf), short: shortName(t), title: t.title, family: label(t.category),
     familyUrl: categoryUrl(t.category), url: t.url, thinkers: t.thinkers, data: t.data, photos: photosOf(t.thinkers),
@@ -422,22 +462,22 @@ ${scripts}
     for (let j = i + 1; j < featured.length; j++) pairs.push(ordered(featured[i], featured[j]));
   }
   pairs.sort((p, q) => rank(p[0].leaf) + rank(p[1].leaf) - rank(q[0].leaf) - rank(q[1].leaf));
-  const pairLink = ([x, y]) => `<li><a href="${pairUrl(x, y)}">${esc(shortName(x))} vs ${esc(shortName(y))}</a></li>`;
+  const pairLink = ([x, y]) => `<li><a href="${pairUrl(x, y)}">${esc(h("hub.pair.vs", "{a} vs {b}", { a: shortName(x), b: shortName(y) }))}</a></li>`;
 
   const nature = (t) => {
     const word = String(t.data.conceptual_ground?.primitive_or_emergent_status || "").trim().split(/[\s(,;:/.]/)[0];
     return word === "Primitive" ? "fundamental" : word === "Emergent" ? "emergent" : "";
   };
-  const listJoin = (xs) => (xs.length < 2 ? xs.join("") : `${xs.slice(0, -1).join(", ")} and ${xs[xs.length - 1]}`);
+  const listJoin = (xs) => (xs.length < 2 ? xs.join("") : `${xs.slice(0, -1).join(", ")}${h("hub.list.and", " and ")}${xs[xs.length - 1]}`);
   const glance = (x, y, a, b) => {
     const lines = [x.category === y.category
-      ? `Both belong to the ${label(x.category)} family in Kuhn's Landscape of Consciousness.`
-      : `${a.short} belongs to the ${label(x.category)} family in Kuhn's Landscape of Consciousness, ${b.short} to ${label(y.category)}.`];
+      ? h("hub.pair.glance.sameFamily", "Both belong to the {family} family in Kuhn's Landscape of Consciousness.", { family: label(x.category) })
+      : h("hub.pair.glance.family", "{a} belongs to the {fa} family in Kuhn's Landscape of Consciousness, {b} to {fb}.", { a: a.short, fa: label(x.category), b: b.short, fb: label(y.category) })];
     const [na, nb] = [nature(x), nature(y)];
-    if (na && nb) lines.push(na === nb ? `Both treat consciousness as ${na}.` : `${a.short} treats consciousness as ${na}; ${b.short} treats it as ${nb}.`);
+    if (na && nb) lines.push(na === nb ? h("hub.pair.glance.sameNature", "Both treat consciousness as {nature}.", { nature: h(`hub.nature.${na}`, na) }) : h("hub.pair.glance.nature", "{a} treats consciousness as {na}; {b} treats it as {nb}.", { a: a.short, na: h(`hub.nature.${na}`, na), b: b.short, nb: h(`hub.nature.${nb}`, nb) }));
     const { agree, split } = agreement([a, b]);
-    if (agree.length) lines.push(`They give the same kind of answer on ${listJoin(agree.map((r) => r.q.short))}.`);
-    for (const { q, stances } of split) lines.push(`On ${q.short}, ${a.short} says “${stances[0]}” and ${b.short} says “${stances[1]}”.`);
+    if (agree.length) lines.push(h("hub.pair.glance.agree", "They give the same kind of answer on {list}.", { list: listJoin(agree.map((r) => r.q.short)) }));
+    for (const { q, stances } of split) lines.push(h("hub.pair.glance.split", "On {q}, {a} says “{sa}” and {b} says “{sb}”.", { q: q.short, a: a.short, sa: stances[0], b: b.short, sb: stances[1] }));
     return lines;
   };
 
@@ -455,34 +495,34 @@ wireClamps(document);</script>`;
       .map((o) => pairLink([t, o])).join("");
     write(`${path.slice(1)}.html`, page({
       path, wide: true, css: CMP_CSS, scripts: pairScript,
-      title: `${a.short} vs ${b.short}: Compared Side by Side | Consciousness Atlas`,
-      description: truncate(`${a.short}${people(x)} and ${b.short}${people(y)} compared: core claims, mechanism, evidence, criticisms, and their answers on AI consciousness and life after death.`, 158),
-      h1: `${a.short} vs ${b.short}`, eyebrow: "Head to head",
-      lead: `${x.title} and ${y.title}, compared field by field from their entries in the Atlas.`,
-      crumbs: [{ name: "Compare", path: "/compare" }],
+      title: h("hub.pair.title", "{a} vs {b}: Compared Side by Side | {site}", { a: a.short, b: b.short, site: SN }),
+      description: truncate(h("hub.pair.description", "{a}{pa} and {b}{pb} compared: core claims, mechanism, evidence, criticisms, and their answers on AI consciousness and life after death.", { a: a.short, pa: people(x), b: b.short, pb: people(y) }), 158),
+      h1: h("hub.pair.vs", "{a} vs {b}", { a: a.short, b: b.short }), eyebrow: h("hub.pair.eyebrow", "Head to head"),
+      lead: h("hub.pair.lead", "{a} and {b}, compared field by field from their entries in the Atlas.", { a: x.title, b: y.title }),
+      crumbs: [{ name: h("hub.crumbs.compare", "Compare"), path: "/compare" }],
       body: `
-        <div class="cmp-glance"><h2>At a glance</h2><ul>${glance(x, y, a, b).map((l) => `<li>${esc(l)}</li>`).join("")}</ul></div>
-        <p class="hub-actions"><a class="hub-button" href="/compare?t=${a.slug},${b.slug}">Add more theories to this comparison</a><a class="hub-button hub-button-quiet" href="/compare">Compare other theories</a></p>
+        <div class="cmp-glance"><h2>${esc(h("hub.pair.glanceTitle", "At a glance"))}</h2><ul>${glance(x, y, a, b).map((l) => `<li>${esc(l)}</li>`).join("")}</ul></div>
+        <p class="hub-actions"><a class="hub-button" href="/compare?t=${a.slug},${b.slug}">${esc(h("hub.pair.addMore", "Add more theories to this comparison"))}</a><a class="hub-button hub-button-quiet" href="/compare">${esc(h("hub.pair.compareOthers", "Compare other theories"))}</a></p>
         ${renderComparison([a, b])}
-        <section class="hub-section"><h2>More comparisons</h2>
-          <div class="cmp-more-pairs"><div><h3>${esc(a.short)} vs …</h3><ul class="hub-pills">${more(x, y)}</ul></div><div><h3>${esc(b.short)} vs …</h3><ul class="hub-pills">${more(y, x)}</ul></div></div>
-          <p><a class="hub-link" href="/compare/all">All head-to-head comparisons →</a></p>
+        <section class="hub-section"><h2>${esc(h("hub.compare.more", "More comparisons"))}</h2>
+          <div class="cmp-more-pairs"><div><h3>${esc(h("hub.pair.vsEllipsis", "{a} vs …", { a: a.short }))}</h3><ul class="hub-pills">${more(x, y)}</ul></div><div><h3>${esc(h("hub.pair.vsEllipsis", "{a} vs …", { a: b.short }))}</h3><ul class="hub-pills">${more(y, x)}</ul></div></div>
+          <p><a class="hub-link" href="/compare/all">${esc(h("hub.pair.allLink", "All head-to-head comparisons →"))}</a></p>
         </section>`,
       jsonLd: [{
-        "@type": "Article", headline: `${a.short} vs ${b.short}`, url: SITE + path,
+        "@type": "Article", headline: h("hub.pair.vs", "{a} vs {b}", { a: a.short, b: b.short }), url: SITE + path,
         about: [x, y].map((t) => ({ "@type": "Thing", name: t.title, url: SITE + t.url })),
-        isPartOf: { "@type": "WebSite", name: "Consciousness Atlas", url: SITE + "/" },
+        isPartOf: { "@type": "WebSite", name: SN, url: SITE + "/" },
       }],
     }));
   }
 
   write("compare/all.html", page({
-    path: "/compare/all", title: `All ${pairPaths.length + curatedPairs.size} Head-to-Head Theory Comparisons | Consciousness Atlas`,
-    description: `Every head-to-head comparison in the Consciousness Atlas, from IIT vs Global Workspace Theory to Kastrup vs Hoffman, grouped by theory.`,
-    h1: "All head-to-head comparisons", eyebrow: "Compare",
-    lead: `Pairs of the most discussed theories in the Atlas, grouped by theory. For any other combination, use the comparison tool.`,
-    crumbs: [{ name: "Compare", path: "/compare" }],
-    body: `<p class="hub-actions"><a class="hub-button" href="/compare">Open the comparison tool</a></p>
+    path: "/compare/all", title: h("hub.all.title", "All {n} Head-to-Head Theory Comparisons | {site}", { n: pairPaths.length + curatedPairs.size, site: SN }),
+    description: h("hub.all.description", "Every head-to-head comparison in the Consciousness Atlas, from IIT vs Global Workspace Theory to Kastrup vs Hoffman, grouped by theory."),
+    h1: h("hub.all.h1", "All head-to-head comparisons"), eyebrow: h("hub.compare.toolEyebrow", "Compare"),
+    lead: h("hub.all.lead", "Pairs of the most discussed theories in the Atlas, grouped by theory. For any other combination, use the comparison tool."),
+    crumbs: [{ name: h("hub.crumbs.compare", "Compare"), path: "/compare" }],
+    body: `<p class="hub-actions"><a class="hub-button" href="/compare">${esc(h("hub.all.openTool", "Open the comparison tool"))}</a></p>
       ${[...featured].sort((p, q) => shortName(p).localeCompare(shortName(q))).map((t) => `<section class="hub-section"><h2>${esc(shortName(t))} <small>${esc(t.title)}</small></h2><ul class="hub-pills">${featured.filter((o) => o !== t).sort((p, q) => shortName(p).localeCompare(shortName(q))).map((o) => pairLink([t, o])).join("")}</ul></section>`).join("")}`,
   }));
 
@@ -493,41 +533,41 @@ wireClamps(document);</script>`;
   }));
   const renderSrc = readFileSync(join(here, "compare", "render.js"), "utf-8").replace(/^export /gm, "");
   const toolSrc = readFileSync(join(here, "compare", "tool.js"), "utf-8");
-  const presets = PRESETS.map(([text, keys]) => `<button type="button" class="cmp-preset" data-pair="${keys.map((k) => generateSlug(k)).join(",")}">${esc(text)}</button>`).join("");
+  const presets = PRESETS.map(([text, keys], i) => `<button type="button" class="cmp-preset" data-pair="${keys.map((k) => generateSlug(k)).join(",")}">${esc(h(`hub.preset.${i}`, text))}</button>`).join("");
   write("compare/index.html", page({
     path: "/compare", wide: true, css: CMP_CSS,
-    title: "Compare Theories of Consciousness Side by Side | Consciousness Atlas",
-    description: "Pick up to five theories of consciousness, from IIT and global workspace to panpsychism and idealism, and compare their claims, mechanisms, evidence and answers to the big questions.",
-    h1: "Compare theories of consciousness", eyebrow: "Compare",
-    lead: `Pick up to ${MAX_THEORIES} theories and read them side by side: what each claims, how it explains experience, and where they part ways on AI, death and meaning.`,
+    title: h("hub.tool.title", "Compare Theories of Consciousness Side by Side | {site}", { site: SN }),
+    description: h("hub.tool.description", "Pick up to five theories of consciousness, from IIT and global workspace to panpsychism and idealism, and compare their claims, mechanisms, evidence and answers to the big questions."),
+    h1: h("hub.tool.h1", "Compare theories of consciousness"), eyebrow: h("hub.compare.toolEyebrow", "Compare"),
+    lead: h("hub.tool.lead", "Pick up to {max} theories and read them side by side: what each claims, how it explains experience, and where they part ways on AI, death and meaning.", { max: MAX_THEORIES }),
     body: `
       <div class="cmp-tool">
         <div class="cmp-picker" id="cmp-picker">
-          <ul class="cmp-chips" id="cmp-chips" role="list" aria-label="Selected theories"></ul>
-          <input id="cmp-input" class="cmp-input" type="text" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="cmp-options" aria-label="Add a theory to compare" autocomplete="off" spellcheck="false" placeholder="Search 450+ theories, e.g. IIT, Kastrup, illusionism…" />
-          <ul class="cmp-options" id="cmp-options" role="listbox" aria-label="Theories" hidden></ul>
+          <ul class="cmp-chips" id="cmp-chips" role="list" aria-label="${esc(h("hub.tool.selected", "Selected theories"))}"></ul>
+          <input id="cmp-input" class="cmp-input" type="text" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="cmp-options" aria-label="${esc(h("hub.tool.addLabel", "Add a theory to compare"))}" autocomplete="off" spellcheck="false" placeholder="${esc(h("hub.tool.placeholder", "Search 450+ theories, e.g. IIT, Kastrup, illusionism…"))}" />
+          <ul class="cmp-options" id="cmp-options" role="listbox" aria-label="${esc(h("hub.tool.options", "Theories"))}" hidden></ul>
         </div>
         <div class="cmp-actions" id="cmp-actions" hidden>
-          <button type="button" class="cmp-action" id="cmp-copy"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/></svg><span>Copy link</span></button>
-          <button type="button" class="cmp-action cmp-action-quiet" id="cmp-clear">Clear all</button>
+          <button type="button" class="cmp-action" id="cmp-copy"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/></svg><span>${esc(h("hub.tool.copy", "Copy link"))}</span></button>
+          <button type="button" class="cmp-action cmp-action-quiet" id="cmp-clear">${esc(h("hub.tool.clear", "Clear all"))}</button>
         </div>
         <p class="cmp-sr" id="cmp-status" aria-live="polite"></p>
         <div class="cmp-start" id="cmp-start">
-          <p>Or start with a well-known pairing</p>
+          <p>${esc(h("hub.tool.start", "Or start with a well-known pairing"))}</p>
           <div class="cmp-presets">${presets}</div>
         </div>
         <div id="cmp-results"></div>
-        <noscript><p class="hub-note">The comparison tool needs JavaScript. The pages below work without it.</p></noscript>
+        <noscript><p class="hub-note">${esc(h("hub.tool.noscript", "The comparison tool needs JavaScript. The pages below work without it."))}</p></noscript>
       </div>
-      <section class="hub-section"><h2>What a comparison covers</h2>
-        <p>Each column comes from a theory's entry in the Atlas: its core claim, what it says consciousness is, its answers on AI consciousness, life after death, mind uploading and meaning, its view of mind and body, whether consciousness is fundamental or emergent, its account of qualia, the mechanism it proposes, where it locates consciousness, how testable it is, the tests run so far, the main criticisms, and key sources. Rows where all the theories give the same kind of answer are marked.</p></section>
-      <section class="hub-section"><h2>Written comparisons</h2>${curatedCards}</section>
-      <section class="hub-section"><h2>Popular head-to-heads</h2><ul class="hub-pills">${pairs.slice(0, 24).map(pairLink).join("")}</ul>
-        <p><a class="hub-link" href="/compare/all">All ${pairPaths.length + curatedPairs.size} head-to-head comparisons →</a></p></section>`,
+      <section class="hub-section"><h2>${esc(h("hub.tool.covers", "What a comparison covers"))}</h2>
+        <p>${esc(h("hub.tool.coversBody", "Each column comes from a theory's entry in the Atlas: its core claim, what it says consciousness is, its answers on AI consciousness, life after death, mind uploading and meaning, its view of mind and body, whether consciousness is fundamental or emergent, its account of qualia, the mechanism it proposes, where it locates consciousness, how testable it is, the tests run so far, the main criticisms, and key sources. Rows where all the theories give the same kind of answer are marked."))}</p></section>
+      <section class="hub-section"><h2>${esc(h("hub.tool.written", "Written comparisons"))}</h2>${curatedCards}</section>
+      <section class="hub-section"><h2>${esc(h("hub.tool.popular", "Popular head-to-heads"))}</h2><ul class="hub-pills">${pairs.slice(0, 24).map(pairLink).join("")}</ul>
+        <p><a class="hub-link" href="/compare/all">${esc(h("hub.tool.allN", "All {n} head-to-head comparisons →", { n: pairPaths.length + curatedPairs.size }))}</a></p></section>`,
     scripts: `<script type="application/json" id="cmp-index" data-build="${Date.now().toString(36)}">${JSON.stringify(toolIndex).replace(/</g, "\\u003c")}</script>
 <script type="module">${renderSrc}
 ${toolSrc}</script>`,
-    jsonLd: [{ "@type": "WebApplication", name: "Compare theories of consciousness", url: SITE + "/compare", applicationCategory: "EducationalApplication", isAccessibleForFree: true }],
+    jsonLd: [{ "@type": "WebApplication", name: h("hub.tool.ldName", "Compare theories of consciousness"), url: SITE + "/compare", applicationCategory: "EducationalApplication", isAccessibleForFree: true }],
   }));
 
   // ---- A–Z -------------------------------------------------------------------
@@ -538,34 +578,34 @@ ${toolSrc}</script>`,
   };
   const letters = [...new Set(sorted.map(letterOf))];
   write("theories.html", page({
-    path: "/theories", title: `All ${theories.length} Theories of Consciousness, A–Z | Consciousness Atlas`,
-    description: `An A–Z list of ${theories.length} theories of consciousness, from materialism to idealism, each with a structured summary and its view on AI and life after death.`,
-    h1: "All theories of consciousness, A–Z",
-    lead: `${theories.length} theories from Robert Lawrence Kuhn's Landscape of Consciousness. Each links to its full entry; the family links open that part of the map.`,
+    path: "/theories", title: h("hub.az.title", "All {n} Theories of Consciousness, A–Z | {site}", { n: theories.length, site: SN }),
+    description: h("hub.az.description", "An A–Z list of {n} theories of consciousness, from materialism to idealism, each with a structured summary and its view on AI and life after death.", { n: theories.length }),
+    h1: h("hub.az.h1", "All theories of consciousness, A–Z"),
+    lead: h("hub.az.lead", "{n} theories from Robert Lawrence Kuhn's Landscape of Consciousness. Each links to its full entry; the family links open that part of the map.", { n: theories.length }),
     body: `
-      <nav class="hub-letters" aria-label="Jump to letter">${letters.map((l) => `<a href="#letter-${l === "#" ? "num" : l}">${l}</a>`).join("")}</nav>
+      <nav class="hub-letters" aria-label="${esc(h("hub.az.jump", "Jump to letter"))}">${letters.map((l) => `<a href="#letter-${l === "#" ? "num" : l}">${l}</a>`).join("")}</nav>
       ${letters.map((l) => `<section class="hub-section" id="letter-${l === "#" ? "num" : l}"><h2>${l}</h2><ul class="hub-theories">${sorted.filter((t) => letterOf(t) === l).map((t) => theoryItem(t, `<span class="hub-family"><a href="${categoryUrl(t.category)}">${esc(label(t.category))}</a>${t.thinkers.length ? ` · ${esc(t.thinkers.slice(0, 3).join(", "))}` : ""}</span>`)).join("")}</ul></section>`).join("")}`,
-    jsonLd: [{ "@type": "CollectionPage", name: "All theories of consciousness", url: SITE + "/theories", mainEntity: { "@type": "ItemList", numberOfItems: theories.length } }],
+    jsonLd: [{ "@type": "CollectionPage", name: h("hub.az.ldName", "All theories of consciousness"), url: SITE + "/theories", mainEntity: { "@type": "ItemList", numberOfItems: theories.length } }],
   }));
 
   // ---- photo credits ---------------------------------------------------------------
   const people = [...new Map([...portraits.values()].map((p) => [p.name, p])).values()].sort((a, b) => a.name.split(" ").pop().localeCompare(b.name.split(" ").pop()));
   write("credits.html", page({
-    path: "/credits", title: "Photo Credits | Consciousness Atlas",
-    description: "Credits and sources for the thinker portraits used in the Consciousness Atlas.",
-    h1: "Photo credits", eyebrow: "About",
-    lead: `Credits for the ${people.length} thinker portraits. Most come from Wikimedia Commons under public-domain or Creative Commons licences. The rest come from university, publisher and personal pages, credited to the page they were taken from and used with thanks to their rights holders. Every portrait is cropped to a circle, shown in black and white and linked to its source. If you hold the rights to a photo here and want it changed or removed, get in touch.`,
+    path: "/credits", title: h("hub.credits.title", "Photo Credits | {site}", { site: SN }),
+    description: h("hub.credits.description", "Credits and sources for the thinker portraits used in the Consciousness Atlas."),
+    h1: h("hub.credits.h1", "Photo credits"), eyebrow: h("hub.credits.eyebrow", "About"),
+    lead: h("hub.credits.lead", `Credits for the {n} thinker portraits. Most come from Wikimedia Commons under public-domain or Creative Commons licences. The rest come from university, publisher and personal pages, credited to the page they were taken from and used with thanks to their rights holders. Every portrait is cropped to a circle, shown in black and white and linked to its source. If you hold the rights to a photo here and want it changed or removed, get in touch.`, { n: people.length }),
     css: `.credits{list-style:none;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px 24px;margin-top:24px}
 .credits li{display:grid;grid-template-columns:56px 1fr;gap:4px 14px;align-items:center}
 .credits img{grid-row:span 2;width:56px;height:56px;border-radius:50%;object-fit:cover;filter:grayscale(1);border:1px solid var(--line)}
 .credits b{color:#fff;font-weight:500}
 .credits span{color:var(--muted);font-size:13px}
 .credits span a{color:var(--gold-soft)}`,
-    body: `<ul class="credits">${people.map((p) => `<li><img src="${esc(p.src)}" alt="" width="56" height="56" loading="lazy" decoding="async" /><b>${esc(p.name)}</b><span>${p.author ? `${esc(p.author)} · ` : ""}${p.licenseUrl ? `<a href="${esc(p.licenseUrl)}" rel="noopener nofollow" target="_blank">${esc(p.license)}</a>` : esc(p.license)} ${p.source ? `· <a href="${esc(p.source)}" rel="noopener nofollow" target="_blank">Source</a>` : ""}</span></li>`).join("")}</ul>`,
+    body: `<ul class="credits">${people.map((p) => `<li><img src="${esc(p.src)}" alt="" width="56" height="56" loading="lazy" decoding="async" /><b>${esc(p.name)}</b><span>${p.author ? `${esc(p.author)} · ` : ""}${p.licenseUrl ? `<a href="${esc(p.licenseUrl)}" rel="noopener nofollow" target="_blank">${esc(p.license)}</a>` : esc(p.license)} ${p.source ? `· <a href="${esc(p.source)}" rel="noopener nofollow" target="_blank">${esc(h("hub.credits.source", "Source"))}</a>` : ""}</span></li>`).join("")}</ul>`,
   }));
 
   // ---- quiz ----------------------------------------------------------------------
-  const quiz = readJson(join(root, "src", "content", "quiz.json"), { questions: [] });
+  const quiz = copy.quiz;
   const quizScores = readJson(join(root, "src", "content", "quizScores.json"), { scores: {} }).scores;
   const STANCE_VALUE = { Yes: 4, Likely: 3.5, Possible: 3, Conditional: 3, Uncertain: 2, Unlikely: 1, No: 0, "Not needed": "n", "Cosmic/Ultimate": 4, "Humanistic only": 0 };
   const stance = (t, field) => STANCE_VALUE[String(t.implications?.[field]?.stance ?? "").trim()] ?? null;
@@ -586,22 +626,22 @@ ${toolSrc}</script>`,
   if (unscored.length) console.warn(`pages: quiz scores missing for ${unscored.join(", ")}`);
   write("quiz.html", page({
     path: "/quiz", css: QUIZ_CSS + readFileSync(join(root, "src", "shared", "share.css"), "utf-8"),
-    title: "Which Theory of Consciousness Fits You? A 2-Minute Quiz | Consciousness Atlas",
-    description: `Answer ${quiz.questions.length} questions about mind, matter, AI and death, and see which of ${theories.length} theories of consciousness are closest to your view.`,
-    h1: "Which theory of consciousness fits you?", eyebrow: "Quiz",
-    lead: `${quiz.questions.length} questions about mind, matter, machines and death. Your answers are matched against ${theories.length} theories from Kuhn's Landscape of Consciousness, and you see the five closest, with where you agree and where you part ways.`,
-    body: `<div class="quiz" id="quiz"><noscript><p class="hub-note">The quiz needs JavaScript. You can <a href="/theories">browse every theory</a> instead.</p></noscript></div>
-      <p class="hub-note quiz-note">There are no right answers. The Atlas describes theories; it does not rank them. Each theory's position comes from its entry in the Atlas, scored on the same scale as your answers.</p>
+    title: h("hub.quiz.title", "Which Theory of Consciousness Fits You? A 2-Minute Quiz | {site}", { site: SN }),
+    description: h("hub.quiz.description", "Answer {q} questions about mind, matter, AI and death, and see which of {n} theories of consciousness are closest to your view.", { q: quiz.questions.length, n: theories.length }),
+    h1: h("hub.quiz.h1", "Which theory of consciousness fits you?"), eyebrow: h("hub.quiz.eyebrow", "Quiz"),
+    lead: h("hub.quiz.lead", "{q} questions about mind, matter, machines and death. Your answers are matched against {n} theories from Kuhn's Landscape of Consciousness, and you see the five closest, with where you agree and where you part ways.", { q: quiz.questions.length, n: theories.length }),
+    body: `<div class="quiz" id="quiz"><noscript><p class="hub-note">${h("hub.quiz.noscript", "The quiz needs JavaScript. You can {link} instead.", { link: `<a href="/theories">${esc(h("hub.quiz.browse", "browse every theory"))}</a>` })}</p></noscript></div>
+      <p class="hub-note quiz-note">${esc(h("hub.quiz.note", "There are no right answers. The Atlas describes theories; it does not rank them. Each theory's position comes from its entry in the Atlas, scored on the same scale as your answers."))}</p>
       <section class="hub-section quiz-method">
-        <h2>How the quiz works</h2>
-        <p>Every theory in the Atlas has a position on five axes, read from its entry: what is ultimately real (matter to mind), how basic consciousness is (an illusion to the ground of reality), where it is (particular brain circuits to nowhere in space), what evidence the theory rests on (experiment to tradition and extraordinary experience), and whether it needs quantum physics. Each theory also gives its own answer on AI consciousness, life after death, mind uploading and meaning.</p>
-        <p>Your answers are placed on the same scales and compared with all ${theories.length} theories. Questions about what is real and how basic consciousness is count most. The five closest theories are shown with where you agree and where you differ, and the eleven families are ranked by how close their nearest theories are.</p>
-        <details><summary>All ${quiz.questions.length} questions and answers</summary><ol class="quiz-method-list">${quiz.questions.map((q) => `<li><b>${esc(q.text)}</b><ul>${q.options.map((o) => `<li>${esc(o.label)}</li>`).join("")}</ul></li>`).join("")}</ol></details>
+        <h2>${esc(h("hub.quiz.how", "How the quiz works"))}</h2>
+        <p>${esc(h("hub.quiz.method1", "Every theory in the Atlas has a position on five axes, read from its entry: what is ultimately real (matter to mind), how basic consciousness is (an illusion to the ground of reality), where it is (particular brain circuits to nowhere in space), what evidence the theory rests on (experiment to tradition and extraordinary experience), and whether it needs quantum physics. Each theory also gives its own answer on AI consciousness, life after death, mind uploading and meaning."))}</p>
+        <p>${esc(h("hub.quiz.method2", "Your answers are placed on the same scales and compared with all {n} theories. Questions about what is real and how basic consciousness is count most. The five closest theories are shown with where you agree and where you differ, and the eleven families are ranked by how close their nearest theories are.", { n: theories.length }))}</p>
+        <details><summary>${esc(h("hub.quiz.all", "All {n} questions and answers", { n: quiz.questions.length }))}</summary><ol class="quiz-method-list">${quiz.questions.map((q) => `<li><b>${esc(q.text)}</b><ul>${q.options.map((o) => `<li>${esc(o.label)}</li>`).join("")}</ul></li>`).join("")}</ol></details>
       </section>`,
     scripts: `<script type="application/json" id="quiz-data">${JSON.stringify(quizData).replace(/</g, "\\u003c")}</script>
 <script>${readFileSync(join(root, "src", "shared", "share.js"), "utf-8").replace(/^export /gm, "")}
 ${readFileSync(join(here, "quiz", "quiz.js"), "utf-8")}</script>`,
-    jsonLd: [{ "@type": "WebApplication", name: "Which theory of consciousness fits you?", url: SITE + "/quiz", applicationCategory: "EducationalApplication", isAccessibleForFree: true }],
+    jsonLd: [{ "@type": "WebApplication", name: h("hub.quiz.h1", "Which theory of consciousness fits you?"), url: SITE + "/quiz", applicationCategory: "EducationalApplication", isAccessibleForFree: true }],
   }));
 
   // ---- mentions wall -----------------------------------------------------------
@@ -609,7 +649,7 @@ ${readFileSync(join(here, "quiz", "quiz.js"), "utf-8")}</script>`,
   const month = (d) => {
     if (!d) return "";
     const [y, m] = d.split("-");
-    return m ? `${["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"][+m - 1]} ${y}` : y;
+    return m ? `${h(`hub.month.${+m}`, ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"][+m - 1])} ${y}` : y;
   };
   // Verbatim text: markdown links show their text, bare URLs become links.
   const quoteHtml = (text) => esc(text.replace(/\[([^\]]*)\]\(([^)]+)\)/g, (_, t, u) => (t.trim() ? t : u)))
@@ -618,7 +658,7 @@ ${readFileSync(join(here, "quiz", "quiz.js"), "utf-8")}</script>`,
   const platformKey = (p) => ({ Reddit: "reddit", Bluesky: "bluesky", "Hacker News": "hn" })[p] || "web";
   const card = (q, big = false) => `<figure class="wall-card${big ? " wall-big" : ""}" data-platform="${platformKey(q.platform)}">
       <blockquote${q.lang ? ` lang="${esc(q.lang)}"` : ""}>${quoteHtml(q.quote)}</blockquote>
-      ${q.translation ? `<p class="wall-translation">${esc(q.translation)} <span>(translated)</span></p>` : ""}
+      ${q.translation ? `<p class="wall-translation">${esc(q.translation)} <span>(${esc(h("hub.mentions.translated", "translated"))})</span></p>` : ""}
       <figcaption>
         <span class="wall-avatar" aria-hidden="true">${esc([...q.name][0].toUpperCase())}</span>
         <span class="wall-who"><b>${esc(q.name)}</b><span>${esc([q.platform === "Article" || q.platform === "Forum" ? q.handle : q.community || q.handle, month(q.date)].filter(Boolean).join(" · "))}</span></span>
@@ -627,31 +667,31 @@ ${readFileSync(join(here, "quiz", "quiz.js"), "utf-8")}</script>`,
     </figure>`;
   const featuredQuotes = wall.quotes.filter((q) => q.featured);
   const sites = new Set([...wall.quotes.map((q) => q.community || q.platform), ...wall.citedIn.map((c) => c.site)]);
-  const filters = [["all", "All"], ["reddit", "Reddit"], ["bluesky", "Bluesky"], ["hn", "Hacker News"], ["web", "Articles and forums"]]
+  const filters = [["all", h("hub.mentions.filterAll", "All")], ["reddit", "Reddit"], ["bluesky", "Bluesky"], ["hn", "Hacker News"], ["web", h("hub.mentions.filterWeb", "Articles and forums")]]
     .filter(([k]) => k === "all" || wall.quotes.some((q) => platformKey(q.platform) === k));
   write("mentions.html", page({
     path: "/mentions", wide: true, css: WALL_CSS,
-    title: "What People Say About the Consciousness Atlas | Consciousness Atlas",
-    description: "Quotes from researchers, readers and writers who use and cite the Consciousness Atlas, copied word for word from public posts on Reddit, Bluesky, Hacker News and the web.",
-    h1: "What people say about the Atlas", eyebrow: "In the wild",
-    lead: "Researchers, students and curious readers use the Atlas and point others to it. These quotes are copied word for word from public posts, typos included, and each links to the original.",
+    title: h("hub.mentions.title", "What People Say About the Consciousness Atlas | {site}", { site: SN }),
+    description: h("hub.mentions.description", "Quotes from researchers, readers and writers who use and cite the Consciousness Atlas, copied word for word from public posts on Reddit, Bluesky, Hacker News and the web."),
+    h1: h("hub.mentions.h1", "What people say about the Atlas"), eyebrow: h("hub.mentions.eyebrow", "In the wild"),
+    lead: h("hub.mentions.lead", "Researchers, students and curious readers use the Atlas and point others to it. These quotes are copied word for word from public posts, typos included, and each links to the original."),
     body: `
       <ul class="wall-stats">
-        <li><b>${wall.quotes.length}</b> quotes</li>
-        <li><b>${sites.size}</b> communities and sites</li>
-        <li><b>${wall.citedIn.length}</b> articles, newsletters, wikis and podcasts</li>
+        <li><b>${wall.quotes.length}</b> ${esc(h("hub.mentions.statQuotes", "quotes"))}</li>
+        <li><b>${sites.size}</b> ${esc(h("hub.mentions.statSites", "communities and sites"))}</li>
+        <li><b>${wall.citedIn.length}</b> ${esc(h("hub.mentions.statCited", "articles, newsletters, wikis and podcasts"))}</li>
       </ul>
-      <section class="wall-featured" aria-label="Featured quotes">${featuredQuotes.map((q) => card(q, true)).join("")}</section>
-      <div class="wall-filters" role="group" aria-label="Filter by source">${filters.map(([k, label], i) => `<button type="button" data-filter="${k}" aria-pressed="${i === 0}">${esc(label)}</button>`).join("")}</div>
-      <section class="wall-grid" aria-label="All quotes">${wall.quotes.filter((q) => !q.featured).map((q) => card(q)).join("")}</section>
-      <section class="hub-section"><h2>Linked from</h2>
+      <section class="wall-featured" aria-label="${esc(h("hub.mentions.featured", "Featured quotes"))}">${featuredQuotes.map((q) => card(q, true)).join("")}</section>
+      <div class="wall-filters" role="group" aria-label="${esc(h("hub.mentions.filterBy", "Filter by source"))}">${filters.map(([k, label], i) => `<button type="button" data-filter="${k}" aria-pressed="${i === 0}">${esc(label)}</button>`).join("")}</div>
+      <section class="wall-grid" aria-label="${esc(h("hub.mentions.allQuotes", "All quotes"))}">${wall.quotes.filter((q) => !q.featured).map((q) => card(q)).join("")}</section>
+      <section class="hub-section"><h2>${esc(h("hub.mentions.linked", "Linked from"))}</h2>
         <ul class="wall-cited">${wall.citedIn.map((c) => `<li>
           <span class="wall-kind">${esc(c.kind)}</span>
           <a href="${esc(c.url)}" rel="noopener nofollow" target="_blank">${esc(c.title)}</a>
           <span class="wall-meta">${esc([c.site, c.author, month(c.date)].filter(Boolean).join(" · "))}${c.note ? ` · ${esc(c.note)}` : ""}</span>
         </li>`).join("")}</ul>
       </section>
-      <p class="hub-note">Wrote about the Atlas or cited it somewhere? Tell us with the feedback button on the <a href="/">map</a> and we’ll add it here.</p>`,
+      <p class="hub-note">${h("hub.mentions.tell", "Wrote about the Atlas or cited it somewhere? Tell us with the feedback button on the {link} and we’ll add it here.", { link: `<a href="/">${esc(h("hub.mentions.map", "map"))}</a>` })}</p>`,
     scripts: `<script>(() => {
   const buttons = document.querySelectorAll("[data-filter]");
   buttons.forEach((b) => b.addEventListener("click", () => {
@@ -662,7 +702,7 @@ ${readFileSync(join(here, "quiz", "quiz.js"), "utf-8")}</script>`,
     });
   }));
 })();</script>`,
-    jsonLd: [{ "@type": "CollectionPage", name: "What people say about the Consciousness Atlas", url: SITE + "/mentions", isPartOf: { "@type": "WebSite", name: "Consciousness Atlas", url: SITE + "/" } }],
+    jsonLd: [{ "@type": "CollectionPage", name: h("hub.mentions.ldName", "What people say about the Consciousness Atlas"), url: SITE + "/mentions", isPartOf: { "@type": "WebSite", name: SN, url: SITE + "/" } }],
   }));
 
   // ---- homepage directory (per locale) --------------------------------------
@@ -702,7 +742,7 @@ ${readFileSync(join(here, "quiz", "quiz.js"), "utf-8")}</script>`,
   <h2 id="explore-title">${esc(ui["home.explore.title"] || "Explore the theories")}</h2>
   <a class="atlas-explore-quiz" href="/quiz"><b>${esc(ui["home.explore.quiz"] || "Which theory of consciousness fits you?")}</b><span>${esc(ui["home.explore.quizCta"] || "Take the two-minute quiz")} →</span></a>
   <div class="atlas-explore-grid">
-    <div><h3><a href="/questions">${esc(ui["home.directory.questions"] || "Big questions")}</a></h3>${list(QUESTIONS.map((q) => [`/questions/${q.slug}`, questionCopy[q.slug]?.title || q.short]))}</div>
+    <div><h3><a href="/questions">${esc(ui["home.directory.questions"] || "Big questions")}</a></h3>${list(QS.map((q) => [`/questions/${q.slug}`, questionCopy[q.slug]?.title || q.short]))}</div>
     <div><h3><a href="/compare">${esc(ui["home.directory.compare"] || "Comparisons")}</a></h3>${list(COMPARISONS.filter((c) => comparisonCopy[c.slug]).map((c) => [`/compare/${c.slug}`, comparisonCopy[c.slug].title]))}
       <p><a href="/compare">${esc(ui["home.explore.compareTool"] || "Compare any theories side by side")} →</a></p></div>
     <div><h3><a href="/theories">${esc(ui["home.explore.families"] || "Theory families")}</a></h3>${list(baseData.map((top) => [categoryUrl(top.name), names.categories?.[top.name] || label(top.name), theories.filter((t) => t.category === top.name).length]))}
@@ -714,7 +754,7 @@ ${readFileSync(join(here, "quiz", "quiz.js"), "utf-8")}</script>`,
   // ---- llms.txt (llmstxt.org) and llms-full.txt --------------------------------
   // Plain-text guides for AI crawlers and assistants, written to the site root.
   const families = baseData.map((top) => ({ top, list: theories.filter((t) => t.category === top.name) }));
-  const stanceLine = (t) => QUESTIONS.map((q) => `${q.short}: ${t.implications?.[q.field]?.stance || "no position"}`).join(" · ");
+  const stanceLine = (t) => QS.map((q) => `${q.short}: ${t.implications?.[q.field]?.stance || "no position"}`).join(" · ");
   writeFileSync(join(publicDir, "llms.txt"), `# Consciousness Atlas
 
 > An interactive map of ${theories.length} theories of consciousness from Robert Lawrence Kuhn's "A Landscape of Consciousness: Toward a Taxonomy of Explanations and Implications" (Progress in Biophysics and Molecular Biology, 2024). Every theory has a structured entry: what it claims, how it explains experience, its evidence and criticisms, and its answers on AI consciousness, life after death, mind uploading and meaning. Built by Danilo Znamerovszkij. The Atlas describes theories; it does not rank them.
@@ -734,7 +774,7 @@ Theory pages live at ${SITE}/{family}/{theory}. Cite as: Consciousness Atlas (${
 ${families.map(({ top, list }) => `- [${label(top.name)}](${SITE}${categoryUrl(top.name)}): ${categoryTexts[top.name]?.summary || ""} (${list.length} theories)`).join("\n")}
 
 ## Big questions
-${QUESTIONS.map((q) => `- [${questionCopy[q.slug]?.title || q.short}](${SITE}/questions/${q.slug}): ${questionCopy[q.slug]?.metaDescription || ""}`).join("\n")}
+${QS.map((q) => `- [${questionCopy[q.slug]?.title || q.short}](${SITE}/questions/${q.slug}): ${questionCopy[q.slug]?.metaDescription || ""}`).join("\n")}
 
 ## Comparisons
 ${COMPARISONS.filter((c) => comparisonCopy[c.slug]).map((c) => `- [${comparisonCopy[c.slug].title}](${SITE}/compare/${c.slug}): ${comparisonCopy[c.slug].metaDescription}`).join("\n")}
@@ -760,7 +800,7 @@ ${t.summary}
 ${stanceLine(t)}
 `).join("\n")}`).join("\n")}`);
 
-  return [...categoryPages, "/questions", ...QUESTIONS.map((q) => `/questions/${q.slug}`), "/compare", ...comparisonPaths, "/compare/all", ...pairPaths, "/theories", "/mentions", "/quiz"];
+  return [...categoryPages, "/questions", ...QS.map((q) => `/questions/${q.slug}`), "/compare", ...comparisonPaths, "/compare/all", ...pairPaths, "/theories", "/mentions", "/quiz"];
 }
 
 // Mixpanel page view for hub pages (they don't load the app bundle). Same
