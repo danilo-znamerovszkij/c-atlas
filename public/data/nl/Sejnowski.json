@@ -1,0 +1,124 @@
+{
+  "id_and_class": {
+    "theory_title": "Sejnowski’s computationele twee lagen en lopende golven",
+    "summary": "Sejnowski stelt dat bewustzijn voortkomt uit een tweede, cognitieve laag van corticale verwerking die bovenop de gewone sensomotorische laag draait. De sensomotorische laag codeert informatie in vuurfrequenties, terwijl de cognitieve laag spiketiming met milliseconde-precisie gebruikt, georganiseerd door lopende golven en tijdelijke synaptische plasticiteit, om context over de tijd vast te houden en het denken gaande te houden zonder invoer van buiten. Hij verwacht dat het probleem van het bewustzijn, zodra deze mechanismen zijn begrepen, kan verdwijnen ‘als de Cheshire Cat’.",
+    "associated_thinkers": [
+      "Terrence J. Sejnowski"
+    ],
+    "category": "Materialisme",
+    "subcategory": "Computationeel",
+    "core_identity_tagline": "Bewustzijn als zelfgegenereerd denken in een door spiketiming bepaalde corticale laag",
+    "classification_tags": [
+      "computational neuroscience",
+      "spike timing",
+      "traveling waves",
+      "postdiction",
+      "thalamus"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewustzijn is de globale dynamische toestand van een brein dat nadenkt over denken: zelfgegenereerde activiteit in een cognitieve corticale laag die interne representaties opbouwt uit eerdere ervaring.",
+    "ontological_status": "Physicalism (computational, neural dynamics)",
+    "mind_body_relationship": "Mentale verschijnselen zijn neurale mechanismen, en Sejnowski verwacht dat filosofische vragen over de geest wetenschappelijke antwoorden krijgen naarmate die mechanismen worden begrepen.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (from the global dynamics of spiking neurons and traveling waves)",
+    "subjectivity_and_intentionality": "Het verenigde ‘nu’ van de ervaring wordt postdictief geconstrueerd: het brein herziet de recente geschiedenis zodat het bewuste heden past bij wat daarna gebeurt.",
+    "qualia_account": "",
+    "ontological_commitments": "Vurende corticale neuronen, van spiketiming afhankelijke plasticiteit, lopende golven, remmende parvalbumine-positieve korfcellen en kern- en matrixsystemen van de thalamus.",
+    "epistemic_access": "Via elektrofysiologie in het laboratorium, psychofysica zoals het flash-lag-effect, computationele modellering en laesiebewijs.",
+    "constituents_and_structure": "Twee lagen. Laag 1 is een langetermijn sensomotorisch netwerk dat frequentiecodes en de kernthalamus gebruikt. Laag 2 is een tijdelijk cognitief netwerk dat precieze spiketiming, lopende golven en de matrixthalamus gebruikt."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Toegang en cognitie (zelfgegenereerde gedachte, werkgeheugen, besluitvorming, planning); temporele eenheid van de ervaring",
+    "distinctive_mechanism_or_principle": "Lopende golven organiseren nauwkeurig getimede spikes tot een ruimtetijdelijke populatiecode, die uren durende van spiketiming afhankelijke plasticiteit in gang zet en een tijdelijk cognitief netwerk vormt bovenop het sensomotorische netwerk.",
+    "dynamics_of_emergence": "Gewaarzijn is postdictief. De waarneming van een moment hangt af van gebeurtenissen in de daaropvolgende ongeveer 80 milliseconden, en integratievensters groeien van ongeveer 100 milliseconden in de primaire visuele cortex tot wel 10 seconden in de prefrontale cortex.",
+    "location_and_distribution": "Hersenschors, waarbij het matrixsysteem van de thalamus breed projecteert naar oppervlakkige corticale lagen. Kleine laesies in de intralaminaire thalamuskernen kunnen het bewustzijn uitschakelen.",
+    "causation_and_functional_role": "De cognitieve laag ondersteunt langetermijnwerkgeheugen, besluitvorming en gedachten die doorgaan nadat externe prikkels zijn opgehouden, en haalt context over de tijd binnen om handelen te sturen.",
+    "integration_or_binding": "Globale coördinatie van matrixbanen in de thalamus verenigt de ervaring, en lopende golven binden informatie over ruimte en tijd binnen één neurale populatie.",
+    "information_flow_or_representation": "Lopende golven vormen een holografie-achtige code waarin tijd één dimensie is, zodat één populatie een tijdvenster kan representeren, zoals zelfaandacht in AI-Transformers woorden binnen een zin aan elkaar relateert.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Mainen en Sejnowski vonden dat corticale neuronen spikes met milliseconde-precisie initiëren wanneer ze worden aangestuurd door fluctuerende ‘bevroren ruis’, met timing bepaald door post-inhibitoire rebound van korfcellen.",
+      "Het flash-lag-effect laat zien dat de waarneming van een flits afhangt van wat erna gebeurt, wat Eagleman en Sejnowski interpreteren als postdictie.",
+      "Lopende golven die in veel frequentiebanden worden waargenomen, kunnen uren durende van spiketiming afhankelijke plasticiteit in gang zetten, ter ondersteuning van langetermijnwerkgeheugen.",
+      "Sejnowski stelt voor dat het BOLD-fMRI-signaal de metabolische kosten van synaptische plasticiteit en aandacht weerspiegelt, meer dan spiking.",
+      "In tegenstelling tot grote taalmodellen, waarvan de feedforward-activiteit stopt wanneer een prompt eindigt, houdt het brein zelfgegenereerde activiteit in stand via recurrente lussen."
+    ],
+    "basis_of_belief_or_evidence_type": "Empirisch (elektrofysiologie, psychofysica, laesiegegevens) en computationele modellering"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Injectie van bevroren-ruisstroom in corticale neuronen; flash-lag-psychofysica; opnamen van corticale lopende golven; intralaminaire thalamuslaesies; BOLD-fMRI.",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "Sejnowski beschrijft het probleem van het bewustzijn als een probleem dat kan oplossen met een beter begrip van waarneming, besluitvorming en planning, dus het kader behandelt cognitieve mechanismen meer dan waarom ze ergens naar aanvoelen. Het verband tussen door lopende golven getriggerde plasticiteit en langetermijnwerkgeheugen wordt als aannemelijk gepresenteerd, niet als aangetoond.",
+    "ontological_coherence": "Verenigbaar met fysicalisme en met het programma van Crick over neurale mechanismen van gewaarzijn. Sejnowski vergelijkt de cognitieve laag met een global workspace."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Huidige grote taalmodellen missen zelfgenererende activiteit, maar Sejnowski suggereert dat machines met zelfgenererende ‘Systeem 2’-dynamiek, georganiseerd door lopende golven en plasticiteit, een cognitie kunnen krijgen die dichter bij de menselijke ervaring ligt."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Omdat bewustzijn de globale dynamische toestand van corticale en thalamische circuits is, volgt uit de opvatting dat het eindigt wanneer die dynamiek stopt."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "Sejnowski beschouwt zelfkennis als het begrijpen van de mechanismen van het denken, zonder dat een kosmisch doel in het spel is."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "De opvatting is computationeel en staat machinecognitie in principe toe, maar Sejnowski gaat niet in op het kopiëren van een individuele geest."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "Foundation"
+      },
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Eagleman's Possibilianism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Reliability of Spike Timing in Neocortical Neurons, Z. F. Mainen and T. J. Sejnowski",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Motion Integration and Postdiction in Visual Awareness, D. M. Eagleman and T. J. Sejnowski",
+        "year": 2000
+      },
+      {
+        "title_with_names": "Regulation of Spike Timing in Visual Cortical Circuits, P. Tiesinga, J. M. Fellous, and T. J. Sejnowski",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Consciousness, Terrence J. Sejnowski",
+        "year": 2015
+      },
+      {
+        "title_with_names": "The Deep Learning Revolution, Terrence J. Sejnowski",
+        "year": 2018
+      },
+      {
+        "title_with_names": "Transformers and Cortical Waves: Encoders for Pulling in Context Across Time, L. Muller, P. S. Churchland, and T. J. Sejnowski",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Dynamical Mechanisms for Coordinating Long-term Working Memory Based on the Precision of Spike-timing in Cortical Neurons, Terrence J. Sejnowski",
+        "year": 2026
+      }
+    ]
+  }
+}

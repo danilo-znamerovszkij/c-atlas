@@ -2,7 +2,11 @@
   "id_and_class": {
     "theory_title": "Еврейская теория души",
     "summary": "Традиционная еврейская концепция рассматривает «душу» (*nephesh*) не как отдельную, бессмертную, нефизическую субстанцию, а как целостного, интегрированного живого человека или чувствующее существо, установленное, когда Бог вдохнул жизнь в физическую форму. Сознание, таким образом, неразрывно связано с живым, воплощённым состоянием.",
-    "associated_thinkers": ["Hebrew Bible", "Jewish tradition", "Eduard Shyfrin"],
+    "associated_thinkers": [
+      "Hebrew Bible",
+      "Jewish tradition",
+      "Eduard Shyfrin"
+    ],
     "category": "Дуализмы",
     "subcategory": "Душа в еврейской Библии и еврейской философии",
     "core_identity_tagline": "«Душа» (*Nephesh*) как целостный живой человек",
@@ -16,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание отождествляется с «живым существом» или «человеком» (*nephesh*), возникающим из соединения физической формы и «дыхания жизни» (*ruach*). Позднейшая еврейская философия (каббала) отождествляет душу с информационной сущностью, обладающей измерением самости.",
-    "ontological_status": "Интегрированный монизм / холистический физикализм. Этот взгляд принципиально отвергает представление о независимой, бессмертной душе (субстанциальный дуализм), характерное для эллинистической философии, подчёркивая единую природу человеческого существа.",
+    "ontological_status": "Integrated Monism/Holistic Physicalism. The view fundamentally rejects the notion of an independent, immortal soul (substance dualism) characteristic of Hellenistic philosophy, emphasizing the unified nature of the human being.",
     "mind_body_relationship": "Единство / тождество. Тело и «душа» (*nephesh*) неразделимы, отсылая к целостному живому человеку, который не сводим к сугубо физическим частям, но тем не менее всецело воплощён. Это согласуется с такими взглядами, как нередуктивный физикализм, в подчёркивании интегрированного человека.",
-    "primitive_or_emergent_status": "Эмерджентное. Человек стал живым существом (*nephesh*) после получения дыхания жизни, что указывает на эмерджентное состояние или условие составного существа.",
-    "emergence_type": "Холистическая эмерджентность. «Душа» — это составное целое, возникающее из соединения физических компонентов и «духа» или «дыхания», представляющее всю совокупность живого организма, а не свойство, слабо эмерджентное из материи.",
+    "primitive_or_emergent_status": "Emergent. The human became a living being (*nephesh*) after the breath of life was received, indicating it is an emergent state or condition of the composite creature.",
+    "emergence_type": "Holistic Emergence. The 'soul' is the composite resulting from the assembly of physical components and the 'spirit' or 'breath,' representing the entirety of the living organism rather than a property weakly emerging from matter.",
     "subjectivity_and_intentionality": "Субъективность внутренне присуща *nephesh* (живому существу), охватывая способность переживать жизнь, эмоции (сердце) и желания. Переживание самости напрямую связано с состоянием бытия живым и функционирующим.",
     "qualia_account": "Явно не детализировано, поскольку фокус скорее антропологический, чем феноменологический. Сознание/жизнь (*nephesh*) применимы ко всем чувствующим существам, что подразумевает, что качественный опыт связан с состоянием бытия живым организмом.",
     "ontological_commitments": "Живой, дышащий человек (физический организм), дыхание/дух (*ruach*) и информационные структуры (в позднейших мистических толкованиях, таких как каббала).",
@@ -43,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Теологическое и философское толкование, опирающееся преимущественно на лингвистический анализ библейских текстов и их изначального антропологического контекста."
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально проверяемо через философскую и теологическую согласованность. Оно не проверяемо эмпирически в современном научном смысле, поскольку опирается на нарративы божественного творения и лингвистические определения древних текстов.",
+    "testability_status": "Conceptually testable through philosophical and theological coherence. It is not empirically testable in the contemporary scientific sense, as it relies on divine creation narratives and linguistic definitions of ancient texts.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Главное напряжение возникает из-за его позднейшего смешения с эллинистическими / платоновскими понятиями бессмертной, отделимой души, ведущего к субстанциальному дуализму, который изначальный еврейский взгляд отвергает. Его критикуют как антропологическую модель, не способную обратиться к современной трудной проблеме феноменального сознания.",
     "open_questions_and_limitations": "Опора теории на божественное действие и древний язык ограничивает её способность напрямую взаимодействовать с нейронаучными данными о порождении феноменального сознания. Она также сталкивается с неоднозначностью относительно природы духа (*ruach*) после смерти.",
@@ -51,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Условно",
+      "stance": "Conditional",
       "rationale": "Изначальная библейская концепция, связывающая сознание с биологической жизнью и дыханием, предполагает «Нет». Однако позднейшее каббалистическое толкование, определяющее душу как «информационную сущность», могло бы допустить, что искусственные системы с достаточной информационной сложностью и требуемым «измерением самости» достигают сознания."
     },
     "survival_beyond_death": {
-      "stance": "Нет (без божественного вмешательства)",
+      "stance": "Conditional",
       "rationale": "Основная концепция *nephesh* связана с биологической жизнью и не является внутренне бессмертной. Выживание после смерти опирается на теологическое учение о воскресении мёртвых (воссоздании Богом), а не на сохранение бестелесной души."
     },
     "meaning_and_purpose": {
-      "stance": "Предельное / теистическое",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Сознание / жизнь происходят от «дыхания жизни», данного Богом, что устанавливает внутренний, божественно предустановленный предельный смысл и цель."
     },
     "virtual_immortality": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Виртуальное бессмертие требует дублирования функций мозга, опираясь на физикалистские / функционалистские допущения. Поскольку изначальная еврейская концепция *nephesh* внутренне биологична и интегрирована, простая симуляция или загрузка информационных паттернов не смогла бы схватить сущность живого существа."
     }
   },
@@ -71,19 +75,19 @@
     "related_theories": [
       {
         "name": "Soul in the New Testament and Christian Philosophy",
-        "relationship": "Влияние / критика"
+        "relationship": "Influence/Critique"
       },
       {
-        "name": "Non-Reductive Physicalism",
-        "relationship": "Совместима"
+        "name": "Non-Reductive",
+        "relationship": "Compatible"
       },
       {
-        "name": "Swinburne’s Substance Dualism",
-        "relationship": "Критика"
+        "name": "Swinburne's Substance Dualism",
+        "relationship": "Critique"
       },
       {
         "name": "Kabbalah Panpsychism",
-        "relationship": "Расширение"
+        "relationship": "Extension"
       }
     ],
     "sources_and_references": [

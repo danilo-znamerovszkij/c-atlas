@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "O Funcionalismo Computacional de Bostrom",
+    "summary": "Nick Bostrom defende que a consciência depende da computação, e não do material que a realiza, pelo que as mentes poderiam correr em substratos que não os neurónios biológicos. Desenvolve isto menos como uma teoria sobre o que é a consciência e mais como premissa do seu argumento da simulação, do raciocínio antrópico e da ética das mentes artificiais.",
+    "associated_thinkers": [
+      "Nick Bostrom"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Computacional",
+    "core_identity_tagline": "«A consciência como computação independente do substrato»",
+    "classification_tags": [
+      "functionalism",
+      "simulation argument",
+      "substrate independence",
+      "anthropic reasoning",
+      "ai ethics"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é um produto dos processos computacionais certos. Os estados mentais definem-se pelos seus papéis funcionais, pelo que fazem, e não pelo material de que são feitos.",
+    "ontological_status": "Physicalism (computational functionalism)",
+    "mind_body_relationship": "Realizabilidade múltipla. Bostrom escreve que, se as mentes humanas podem ser simuladas e as mentes simuladas podem ser conscientes, a nossa própria consciência poderá estar realizada num substrato que não os neurónios biológicos.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (from computational organization)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "Processos computacionais e o substrato físico, biológico ou artificial, que os implementa.",
+    "epistemic_access": "Através da neurociência computacional e do raciocínio filosófico sobre observadores, probabilidade e simulação.",
+    "constituents_and_structure": ""
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (como moralmente relevante); graus de consciência; estatuto de observador",
+    "distinctive_mechanism_or_principle": "Independência do substrato: a mesma computação produz os mesmos estados mentais, qualquer que seja o hardware que a execute.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Onde quer que a computação relevante seja executada, em cérebros, computadores ou num mundo simulado.",
+    "causation_and_functional_role": "Ser consciente molda o raciocínio. Os efeitos de seleção de observadores restringem aquilo em que um observador consciente deve acreditar sobre o universo, incluindo se vive numa simulação.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Se as mentes podem ser simuladas e as mentes simuladas podem ser conscientes, a consciência não exige neurónios biológicos.",
+      "O argumento da simulação só é coerente se a consciência for computacional, o que faz do computacionalismo uma condição prévia dele.",
+      "Bostrom escreve que o estatuto moral de uma entidade depende, pelo menos em parte, de ela ser consciente e em que grau, o que implica que a consciência admite graus.",
+      "Bostrom não afirma que vivemos numa simulação; o seu computacionalismo assenta noutros fundamentos, incluindo a neurociência computacional."
+    ],
+    "basis_of_belief_or_evidence_type": "Argumentação filosófica e probabilística, informada pela neurociência computacional."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Bostrom pressupõe o funcionalismo computacional mais do que argumenta a seu favor, e não explica por que razão a computação deveria produzir experiência.",
+    "open_questions_and_limitations": "Se as mentes artificiais podem ser conscientes, e se deveriam ter direitos, são questões que esta perspetiva levanta mas não resolve. A explicação de Bostrom é mais epistemológica do que metafísica.",
+    "ontological_coherence": "Coerente com o funcionalismo dominante e com o seu trabalho sobre simulação, risco existencial e emulação de cérebro inteiro."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "Se a consciência é computação independente do substrato, os sistemas artificiais que executem os processos certos seriam conscientes, e Bostrom associa a isso o seu estatuto moral."
+    },
+    "survival_beyond_death": {
+      "stance": "Conditional",
+      "rationale": "A morte biológica põe fim à consciência a menos que a sua computação seja reproduzida noutro lugar; se somos simulados, o que nos acontece depende de quem nos simula."
+    },
+    "meaning_and_purpose": {
+      "stance": "Uncertain",
+      "rationale": "Se o nosso mundo é uma simulação construída por uma civilização avançada, pode ter um propósito definido pelos seus criadores, mas Bostrom não afirma sabê-lo."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "A independência do substrato implica que uma mente simulada poderia dar continuidade à consciência de uma pessoa, em linha com o interesse de Bostrom na emulação de cérebro inteiro."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Putnam’s Machine Functionalism",
+        "relationship": "Foundation"
+      },
+      {
+        "name": "Functionalism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Agüera y Arcas’s Computational Functionalism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Searle's Biological Naturalism",
+        "relationship": "Contrast"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Bostrom’s Computational Functionalism (Landscape of Consciousness), Nick Bostrom",
+        "year": 2003
+      }
+    ]
+  }
+}

@@ -20,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість ототожнюється з цілком нематеріальною, субстанційною душею (самістю, его, Я), відокремленою від фізичного тіла, наданою Богом.",
-    "ontological_status": "Субстанційний дуалізм (теїстичний/теологічний)",
+    "ontological_status": "Substance Dualism (Theistic/Theological)",
     "mind_body_relationship": "Інтеракціоністський/креаціоністський дуалізм, у якому нематеріальна душа, створена Богом, взаємодіє з фізичним мозком/тілом (наприклад, дуалістичний інтеракціонізм).",
-    "primitive_or_emergent_status": "Первинна",
-    "emergence_type": "Незастосовно",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "N/A",
     "subjectivity_and_intentionality": "Суб'єктивність є притаманною нематеріальній субстанції (душі), яка обґрунтовує особисту ідентичність. Єдина реальність душі пояснює інтенційність та уніфіковане усвідомлення.",
     "qualia_account": "Квалія перебувають у нефізичній субстанції/душі; якісний досвід є внутрішньою властивістю нематеріальної свідомої субстанції, незводимою до фізичних процесів.",
     "ontological_commitments": "Бог, нефізична субстанція (душа/дух) та фізичний мозок/тіло.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Теологічний, філософський, феноменологічний"
   },
   "empirics_and_critiques": {
-    "testability_status": "Спекулятивна/концептуально перевірна (спирається на теологічні передумови та концептуальні аргументи; пряма емпірична фальсифікація ускладнена природою нефізичної субстанції).",
+    "testability_status": "Speculative/Conceptually Testable (Relies on theological premises and conceptual arguments; direct empirical falsification is challenged by the nature of nonphysical substance).",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Стикається з класичною проблемою взаємодії: поясненням того, як нематеріальна субстанція може причинно взаємодіяти з фізичним мозком. Її також критикують за порушення бритви Оккама через постулювання другої субстанції.",
     "open_questions_and_limitations": "Механізм, за яким Бог визначає, яка конкретна індивідуальна свідомість (душа) наділяється якому тілу, та як взаємодія відбувається без порушення причинної замкненості фізики, залишається нерозв'язаним.",
@@ -55,35 +55,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ні (переважно)",
+      "stance": "Unlikely",
       "rationale": "Якщо свідомість вимагає радикально відокремленої, нефізичної субстанції (душі), наданої Богом, то людській технології неможливо продукувати чи наділяти цією субстанцією штучні інтелекти."
     },
     "survival_beyond_death": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Дуалізм забезпечує найясніший механізм виживання, оскільки нефізична душа чи дух, «справжня самість», існує незалежно від фізичного тіла."
     },
     "meaning_and_purpose": {
-      "stance": "Граничний/космічний",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Витік свідомості лежить у божественному творці, передбачаючи притаманний граничний сенс, мету та цінність, часто пов'язані з ученнями про призначення чи спасіння."
     },
     "virtual_immortality": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Віртуальне безсмертя через завантаження мозку є неможливим, оскільки дублювання фізичної структури мозку не змогло б відтворити божественно надану, нефізичну душу, необхідну для ідентичності від першої особи."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Substance Dualism (Generic)",
-        "relationship": "Розширення"
+        "name": "Dualism",
+        "relationship": "Extension"
       },
       {
-        "name": "Moreland’s Christian Soul",
-        "relationship": "Перекриття"
+        "name": "Moreland's Christian Soul",
+        "relationship": "Overlap"
       },
       {
-        "name": "Materialism Theories",
-        "relationship": "Критика"
+        "name": "Materialism",
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

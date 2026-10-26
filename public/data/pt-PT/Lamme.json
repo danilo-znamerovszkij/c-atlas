@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "A Teoria do Processamento Recorrente de Lamme",
     "summary": "A Teoria do Processamento Recorrente (TPR) de Lamme sustenta que a consciência é necessária e suficiente quando ocorrem conexões de retroação (recorrentes) recíprocas entre áreas neuronais, particularmente nos sistemas sensoriais. Este processamento, que ocorre localmente em áreas sensoriais e pós-sensoriais (Fase 3), gera a experiência fenomenal sem exigir acesso de difusão global.",
-    "associated_thinkers": ["Victor Lamme"],
+    "associated_thinkers": [
+      "Victor Lamme"
+    ],
     "category": "Materialismo",
     "subcategory": "Representacional",
     "core_identity_tagline": "'A Consciência como Processamento Recorrente nos Sistemas Sensoriais'",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada como um estado específico de processamento recorrente que se verifica na circuitaria neuronal relevante, como o sistema visual.",
-    "ontological_status": "Fisicalismo",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Abordagem de identidade/reducionista, que argumenta que a noção de mente deve evoluir em direção à de cérebro, sendo a consciência idêntica a um estado de processamento recorrente na circuitaria física.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "A subjetividade (consciência fenomenal) é o próprio estado de processamento recorrente. A intencionalidade é veiculada pelo conteúdo representado no interior destes ciclos (inferida enquanto teoria representacional/de primeira ordem).",
     "qualia_account": "Os qualia são gerados quando um certo estado de processamento recorrente se verifica na circuitaria visual relevante, tornando o estado visual consciente.",
     "ontological_commitments": "Sistemas sensoriais do cérebro, circuitaria neuronal (circuitaria visual), conexões de propagação para a frente e de retroação.",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Empírico, neurobiológico, conceptual"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável",
+    "testability_status": "Empirically testable",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Critica a Teoria do Espaço de Trabalho Global (TETG) por ser 'toda sobre acesso, mas não sobre o ver'. É, por sua vez, criticada por Ned Block como uma 'forma truncada da explicação do espaço de trabalho global'.",
     "open_questions_and_limitations": "As ativações recorrentes só são suficientes para a consciência dadas certas 'condições de fundo', como uma conectividade intacta com as estruturas subcorticais.",
@@ -50,35 +52,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Enquanto Teoria do Materialismo, a consciência da IA tem, em princípio, de ser possível se o padrão requerido de processamento recorrente puder ser artificialmente duplicado num substrato não-biológico."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A consciência está ligada à atividade cerebral física e à circuitaria neuronal específica (estados de processamento recorrente), o que sugere a sua cessação com a morte corporal."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanista",
+      "stance": "Humanistic only",
       "rationale": "A teoria foca-se numa explicação puramente fisicalista e neurobiológica da experiência fenomenal e não sustenta qualquer sentido ou propósito cósmico último."
     },
     "virtual_immortality": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Uma vez que a consciência é o próprio estado de processamento recorrente, uma duplicação perfeita desse processo num novo meio (carregamento) geraria o eu em primeira pessoa, possibilitando a imortalidade virtual."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Crítica"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Critique"
       },
       {
-        "name": "First-Order Representationalism",
-        "relationship": "Extensão"
+        "name": "First-Order",
+        "relationship": "Extension"
       },
       {
-        "name": "Block’s Biological Reductionism",
-        "relationship": "Sobreposição"
+        "name": "Block's Biological Reductionism",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

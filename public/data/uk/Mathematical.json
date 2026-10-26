@@ -22,10 +22,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість за своєю суттю ототожнюється з підлеглими математичними структурами, відношеннями чи просторами або виводиться з них, уможливлюючи формалізацію властивостей досвіду.",
-    "ontological_status": "Умовний монізм (обґрунтування: від підтримки традиційних фізикалістських/матеріалістичних моделей до пропозиції онтологічних тверджень про математичну реальність як остаточну основу, що виходить за межі суворого матеріалізму.)",
+    "ontological_status": "Conditional Monism (Justification: Ranges from supporting traditional Physicalism/Materialism models to proposing ontological claims of mathematical reality as ultimate foundation, which transcends strict materialism.)",
     "mind_body_relationship": "Дуже мінлива. Онтологічні варіанти припускають, що і фізичний світ, і ментальний досвід є вторинними виявами чи «тінями» первинної математичної реальності (наприклад, платонівський світ Пенроуза). Епістемологічні варіанти припускають структурний ізоморфізм між феноменальним досвідом і математичним простором.",
-    "primitive_or_emergent_status": "Мінливий",
-    "emergence_type": "Мінливий (обґрунтування: онтологічні варіанти припускають, що свідомість є первинною/фундаментальною як частина остаточної математичної реальності. Моделі, зосереджені на динаміці, припускають слабку емерджентність свідомих станів через складні математичні відношення.)",
+    "primitive_or_emergent_status": "Variable",
+    "emergence_type": "Variable (Justification: Ontological variants suggest consciousness is primitive/fundamental as part of ultimate mathematical reality. Models focusing on dynamics suggest weak emergence of conscious states through complex mathematical relationships.)",
     "subjectivity_and_intentionality": "Суб'єктивність і феноменальні якості формально характеризуються математичними просторами та структурами, маючи на меті виявити склад і домени, що відповідають переживаним аспектам свідомості.",
     "qualia_account": "Квалія, або феноменальні простори, трактуються як математичні структури, чиї риси ізоморфні властивостям досвіду. Теорія намагається забезпечити, щоб щось у свідомому досвіді буквально відповідало ствердженій структурі.",
     "ontological_commitments": "Математичні структури та форми; домени, що репрезентують аспекти свідомого досвіду; абстрактна платонівська реальність (у деяких варіантах).",
@@ -49,7 +49,7 @@
     "basis_of_belief_or_evidence_type": "Формальний/математичний, концептуальний"
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально перевірна. Емпірично перевірна, коли надає математичну рамку для конкретних наукових теорій (наприклад, теорії інтегрованої інформації).",
+    "testability_status": "Conceptually testable. Empirically testable when providing the mathematical framework for specific scientific theories (e.g., Integrated Information Theory).",
     "known_empirical_interventions_or_tests": "Залежить від теорії (обґрунтування: цей підхід надає формальну мову для інших теорій, як-от теорії інтегрованої інформації та принципу вільної енергії, які потім визначають конкретні емпіричні міри та втручання).",
     "criticisms_and_tensions": "Критикується за складність продемонструвати, що математичний формалізм охоплює справжню сутність свідомого досвіду, а не просто описує функціональні корелятори. Онтологічні твердження (як-от що свідомість «зроблена з» математики) є вельми суперечливими.",
     "open_questions_and_limitations": "Головним нерозв'язаним питанням є те, як перекинути місток між абстрактними формальними сутностями математики та конкретним феноменальним відчуттям свідомого досвіду (квалія).",
@@ -57,19 +57,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Умовно",
+      "stance": "Conditional",
       "rationale": "Якщо свідомість визначається суто абстрактною математичною структурою чи обчислювальною логікою, то штучні системи, що реалізують цю структуру, потенційно могли б інстанціювати свідомість."
     },
     "survival_beyond_death": {
-      "stance": "Умовно",
+      "stance": "Conditional",
       "rationale": "Онтологічні математичні теорії (наприклад, Тегмарка, Пенроуза) припускають, що основою реальності є вічна математична структура, що потенційно дозволяє свідомості зберігатися поза фізичним мозком в абстрактному сенсі."
     },
     "meaning_and_purpose": {
-      "stance": "Умовно космічний",
+      "stance": "Uncertain",
       "rationale": "Якщо космос є за своєю суттю математичним чи вкоріненим у платонівських формах, це передбачає внутрішньо притаманну раціональну значущість існування, хоча й не обов'язково особистісний телеологічний сенс."
     },
     "virtual_immortality": {
-      "stance": "Можливо",
+      "stance": "Possible",
       "rationale": "Якщо розум зводиться цілком до квантифіковної математичної структури чи потоку інформації, то цей патерн можна було б у принципі зберегти й інстанціювати в новому субстраті."
     }
   },
@@ -77,15 +77,15 @@
     "related_theories": [
       {
         "name": "Integrated Information Theory",
-        "relationship": "Вплив"
+        "relationship": "Influence"
       },
       {
-        "name": "Friston’s Free-Energy Principle and Active Inference",
-        "relationship": "Вплив"
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Influence"
       },
       {
-        "name": "Tegmark’s State of Matter",
-        "relationship": "Розширення"
+        "name": "Tegmark's State of Matter",
+        "relationship": "Extension"
       }
     ],
     "sources_and_references": [

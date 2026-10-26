@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "Koch vergelijkt de geïntegreerde-informatietheorie met de panpsychismetheorie",
     "summary": "Dit lemma schetst Christof Kochs vergelijking van de geïntegreerde-informatietheorie (IIT) en het panpsychisme, en betoogt dat beide de intuïtie delen dat bewustzijn een intrinsieke, fundamentele eigenschap van de werkelijkheid is. IIT wordt echter als superieur gepositioneerd omdat zij specifieke criteria formuleert (gekwantificeerd door Phi, $Phi$) voor bewustzijn, het combinatieprobleem oplost via het uitsluitingspostulaat en een concreet empirisch onderzoeksprogramma biedt, anders dan het traditionele panpsychisme.",
-    "associated_thinkers": ["Christof Koch", "Giulio Tononi"],
+    "associated_thinkers": [
+      "Christof Koch",
+      "Giulio Tononi"
+    ],
     "category": "Geïntegreerde-informatietheorie",
     "subcategory": "Vergelijking/kritiek",
     "core_identity_tagline": "IIT: een fundamenteel bewuste theorie die het combinatieprobleem van het panpsychisme oplost",
@@ -16,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewustzijn wordt geïdentificeerd als ontvouwde intrinsieke causale macht, wat fundamenteel vergelijkbaar is met de opvatting van het panpsychisme over bewustzijn als intrinsiek, maar wiskundig gespecificeerd als een maximaal onherleidbare conceptuele structuur ($Phi$-structuur).",
-    "ontological_status": "Panpsychistisch/monistisch (gerechtvaardigd: de vergelijking berust op de gedeelde premisse dat bewustzijn intrinsiek en fundamenteel is voor de werkelijkheid, waardoor IIT conceptueel aansluit bij het panpsychisme, hoewel IIT strikte wiskundige criteria specificeert die het traditionele panpsychisme ontbeert.)",
+    "ontological_status": "Panpsychist/Monist (Justified: The comparison draws on the shared premise that consciousness is intrinsic and fundamental to reality, aligning IIT conceptually with panpsychism, although IIT specifies strict mathematical criteria that traditional panpsychism lacks.)",
     "mind_body_relationship": "Verklarende identiteit (ervaring is identiek aan een $Phi$-structuur die zich ontvouwt uit het fysieke substraat). De verhouding is intrinsiek en vereist geen dualisme of emergentie, maar vergt een specifieke fysieke configuratie.",
-    "primitive_or_emergent_status": "Fundamenteel",
-    "emergence_type": "Geen (gerechtvaardigd: Koch betoogt dat IIT geen ruimte laat voor emergentie, in overeenstemming met de fundamentele aard van het bewustzijn.)",
+    "primitive_or_emergent_status": "Fundamental",
+    "emergence_type": "None (Justified: Koch argues IIT leaves no room for emergence, consistent with the fundamental nature of consciousness.)",
     "subjectivity_and_intentionality": "Subjectiviteit (ervaring) is de maximaal onherleidbare conceptuele structuur ($Phi$-structuur), die inherent voor zichzelf is. Intentionaliteit komt overeen met substructuren ($Phi$-plooien) binnen deze structuur.",
     "qualia_account": "IIT biedt een gedetailleerde wiskundige verklaring van hoe de fenomenologie (kwalitatieve aspecten) kan worden gevat door kwantitatieve overwegingen (intrinsieke causale machten), waarmee zij critici weerlegt die beweren dat kwantitatieve kaders geen kwaliteit kunnen vatten. Qualia zijn identiek aan de maximaal onherleidbare conceptuele structuren ($Phi$-structuur) in de qualia-ruimte.",
     "ontological_commitments": "Intrinsieke, fundamentele eigenschap van de werkelijkheid; oorzaak-gevolgmacht; conceptuele structuren ($Phi$-structuren) die bestaan in de qualia-ruimte; fysieke substraten van bewustzijn (PSC's).",
@@ -44,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Fenomenologisch, wiskundig, wetenschappelijk (axiomatische grondslag die leidt tot toetsbare proposities)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empirisch toetsbaar (Koch benadrukt dat IIT een empirisch onderzoeksprogramma biedt door $Phi$ te berekenen en specifieke voorspellingen te toetsen.)",
+    "testability_status": "Empirically testable (Koch emphasizes IIT offers an empirical research program by calculating $Phi$ and testing specific predictions.)",
     "known_empirical_interventions_or_tests": [
       "Het berekenen van $Phi$ voor specifieke neurale netwerken in het menselijk brein (bijv. de visuele cortex)",
       "Hersenscangegevens die de berekening van $Phi$ correleren met bewustzijnstoestanden (bijv. tijdens anesthesie)",
@@ -56,19 +59,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Nee",
+      "stance": "No",
       "rationale": "Koch betoogt dat IIT het fundamenteel oneens is met de functionalistische opvatting die nodig is voor AI-bewustzijn, en stelt dat digitale computers nooit gewaarwordend zullen zijn omdat hun hardwarestructuur resulteert in verwaarloosbare geïntegreerde informatie ($Phi$), ongeacht hun rekenkracht of intelligentie."
     },
     "survival_beyond_death": {
-      "stance": "Onzeker",
+      "stance": "Uncertain",
       "rationale": "Voortbestaan hangt af van de onbekende aard en de technologische manipuleerbaarheid van de onherleidbare structuur van de werkelijkheid (qualia-ruimte) die IIT poneert. Hoewel een of andere vorm van voortbestaan niet wordt uitgesloten, is eerstepersoons voortbestaan een open vraag."
     },
     "meaning_and_purpose": {
-      "stance": "Onzeker",
+      "stance": "Uncertain",
       "rationale": "Hoewel de speculatieve, ontelbare n-dimensionale structuren van IIT nieuw genoeg zijn om het oordeel over ultieme zin op te schorten, bieden de kernmeting en -analyse van bewustzijn die de theorie overbrengt geen ultieme zin, doel of waarde."
     },
     "virtual_immortality": {
-      "stance": "Onzeker",
+      "stance": "Uncertain",
       "rationale": "Het uploaden van de geest is onmogelijk als bewustzijn een structuur is die verbonden is met de fysica van complexe systemen (zoals IIT stelt) in plaats van louter een algoritme. Uploaden zou resulteren in een 'deep fake' die subjectieve ervaring mist, tenzij geavanceerde technologie de bewustzijn-veroorzakende $Phi$-structuur kan manipuleren."
     }
   },
@@ -76,19 +79,19 @@
     "related_theories": [
       {
         "name": "Panpsychism",
-        "relationship": "Gedeelde intuïtie/kritiek"
+        "relationship": "Shared Intuition/Critique"
       },
       {
-        "name": "Computational Functionalism",
-        "relationship": "Kritiek (niet-berekenbaar bewustzijn)"
+        "name": "Computational",
+        "relationship": "Critique (Non-computable consciousness)"
       },
       {
         "name": "Galileo’s Error (Philip Goff)",
-        "relationship": "Kritiek (Koch weerlegt Goffs bewering dat kwalitatieve aspecten niet door kwantitatieve kaders kunnen worden gevat.)"
+        "relationship": "Critique (Koch counters Goff's claim that qualitative aspects cannot be captured by quantitative frameworks.)"
       },
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Contrast (impliciet, aangaande locatie en de noodzaak van recurrentie/globale uitzending)"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Contrast (Implicit, regarding location and necessity of recurrence/global broadcast)"
       }
     ],
     "sources_and_references": [

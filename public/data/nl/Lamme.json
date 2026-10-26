@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Lammes theorie van recurrente verwerking",
     "summary": "Lammes theorie van recurrente verwerking (Recurrent Processing Theory, RPT) stelt dat bewustzijn zowel noodzakelijk als voldoende is wanneer er wederkerige (recurrente) terugkoppelverbindingen optreden tussen neurale gebieden, in het bijzonder in zintuiglijke systemen. Deze verwerking, die lokaal plaatsvindt in zintuiglijke en post-zintuiglijke gebieden (fase 3), brengt fenomenale ervaring voort zonder dat globale uitzendtoegang vereist is.",
-    "associated_thinkers": ["Victor Lamme"],
+    "associated_thinkers": [
+      "Victor Lamme"
+    ],
     "category": "Materialisme",
     "subcategory": "Representationeel",
     "core_identity_tagline": "‘Bewustzijn als recurrente verwerking in zintuiglijke systemen’",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewustzijn wordt geïdentificeerd als een specifieke toestand van recurrente verwerking die geldt binnen de relevante neurale circuits, zoals het visuele systeem.",
-    "ontological_status": "Fysicalisme",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Identiteits-/reductionistische benadering, die stelt dat het begrip geest moet opschuiven richting dat van de hersenen, en dat bewustzijn identiek is aan een toestand van recurrente verwerking in fysische circuits.",
     "primitive_or_emergent_status": "Emergent",
-    "emergence_type": "Zwakke emergentie",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Subjectiviteit (fenomenaal bewustzijn) is de toestand van recurrente verwerking zelf. Intentionaliteit wordt gedragen door de inhoud die binnen deze lussen wordt gerepresenteerd (afgeleid als een representationele/eerste-orde-theorie).",
     "qualia_account": "Qualia worden voortgebracht wanneer een bepaalde toestand van recurrente verwerking geldt van de relevante visuele circuits, waardoor de visuele toestand bewust wordt.",
     "ontological_commitments": "Zintuiglijke systemen van de hersenen, neurale circuits (visuele circuits), voorwaartse en terugkoppelverbindingen.",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Empirisch, neurobiologisch, conceptueel"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empirisch toetsbaar",
+    "testability_status": "Empirically testable",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Bekritiseert de theorie van de globale werkruimte (GWT) omdat deze 'geheel over toegang gaat en niet over zien'. Wordt zelf bekritiseerd door Ned Block als een 'afgeknotte vorm van de globale-werkruimteverklaring'.",
     "open_questions_and_limitations": "Recurrente activaties zijn alleen voldoende voor bewustzijn onder bepaalde 'achtergrondcondities', zoals intacte connectiviteit met subcorticale structuren.",
@@ -50,34 +52,34 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Waarschijnlijk",
+      "stance": "Likely",
       "rationale": "Als materialistische theorie moet AI-bewustzijn in principe mogelijk zijn indien het vereiste patroon van recurrente verwerking kunstmatig kan worden gedupliceerd in een niet-biologisch substraat."
     },
     "survival_beyond_death": {
-      "stance": "Nee",
+      "stance": "No",
       "rationale": "Bewustzijn is verbonden met fysische hersenactiviteit en specifieke neurale circuits (toestanden van recurrente verwerking), wat wijst op het ophouden ervan bij de lichamelijke dood."
     },
     "meaning_and_purpose": {
-      "stance": "Uitsluitend humanistisch",
+      "stance": "Humanistic only",
       "rationale": "De theorie richt zich op een zuiver fysicalistische, neurobiologische verklaring van de fenomenale ervaring en ondersteunt geen uiteindelijke kosmische zin of doel."
     },
     "virtual_immortality": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Aangezien bewustzijn de toestand van recurrente verwerking zelf is, zou een perfecte duplicatie van dat proces op een nieuw medium (upload) het eerstepersoonszelf voortbrengen, wat virtuele onsterfelijkheid mogelijk maakt."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Kritiek"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Critique"
       },
       {
-        "name": "First-Order Representationalism",
-        "relationship": "Uitbreiding"
+        "name": "First-Order",
+        "relationship": "Extension"
       },
       {
-        "name": "Block’s Biological Reductionism",
+        "name": "Block's Biological Reductionism",
         "relationship": "Overlap"
       }
     ],

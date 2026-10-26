@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Teoria do Estado de Mentalidade das Oscilações de Llinás",
     "summary": "Esta teoria postula que o «estado de mentalidade» consciente é fundamentalmente gerado por oscilações elétricas no interior dos neurónios e pela consequente atividade simultânea em grupos neurais distantes, que constitui a raiz neurobiológica da cognição. Sugere que a realidade, tal como é experienciada, é uma espécie de realidade virtual gerada por estas oscilações internas, cuja função primordial é possibilitar a predição.",
-    "associated_thinkers": ["Rodolfo Llinas"],
+    "associated_thinkers": [
+      "Rodolfo Llinas"
+    ],
     "category": "Teorias do Materialismo",
     "subcategory": "Campo Eletromagnético",
     "core_identity_tagline": "«A consciência como oscilações neuronais e predição»",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência (o estado de mentalidade) é identificada como um estado interno gerado por variações oscilatórias em ínfimas voltagens neuronais e pela simultaneidade desta atividade elétrica, constituindo a raiz neurobiológica da cognição.",
-    "ontological_status": "Fisicalismo / materialismo",
+    "ontological_status": "Physicalism / Materialism",
     "mind_body_relationship": "Identidade/reducionista. Os estados mentais são o produto funcional de processos físicos específicos (oscilações e sincronia neuronais) no cérebro, em coerência com a premissa materialista de que a consciência é inteiramente física.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "A subjetividade radica no estado interno gerado por estas oscilações. A intencionalidade é abordada implicitamente através da função primordial da consciência, que consiste em possibilitar a predição e a interação com o ambiente.",
     "qualia_account": "Não é explicitamente detalhado nas fontes fornecidas. Esta abordagem centra-se tipicamente nos mecanismos objetivos da consciência, dando a entender que a experiência subjetiva corresponde diretamente à dinâmica das oscilações neuronais e à subsequente representação cognitiva.",
     "ontological_commitments": "Neurónios, atividade elétrica (oscilações), circuitos cerebrais funcionais e inputs sensoriais.",
@@ -45,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Neurobiológica, conceptual"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável",
+    "testability_status": "Empirically testable",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Não é explicitamente detalhado, mas, enquanto explicação materialista, enfrenta o desafio de explicar como as oscilações elétricas ou a sincronicidade se traduzem em experiência subjetiva e qualitativa (a lacuna explicativa/problema difícil).",
     "open_questions_and_limitations": "A teoria tem de especificar a relação precisa entre as oscilações/sincronia neuronais e a experiência na primeira pessoa, e explicar como a «realidade virtual» corresponde com exatidão à realidade física externa.",
@@ -53,39 +55,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Se a consciência radica na função computacional da sincronicidade das oscilações e da predição, estas dinâmicas podem, em princípio, ser realizadas ou simuladas em sistemas artificiais sofisticados, em conformidade com a posição fisicalista."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A consciência é definida como um estado gerado por mecanismos neurais biológicos (oscilações) no interior do cérebro, o que exclui a sobrevivência após a morte do substrato biológico."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanístico",
+      "stance": "Humanistic only",
       "rationale": "Enquanto mecanismo neurobiológico evoluído, o propósito da consciência é primordialmente funcional (predição e sobrevivência), em coerência com a visão materialista deflacionária que rejeita um sentido cósmico último."
     },
     "virtual_immortality": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Se a consciência é inteiramente explicada por padrões de atividade neural oscilatória, então uma duplicação ou carregamento (uploading) perfeito destes padrões dinâmicos para um meio não biológico deveria preservar a individualidade na primeira pessoa, tornando possível a imortalidade virtual."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Electromagnetic Field Theories",
-        "relationship": "Pertença à categoria/sobreposição"
+        "name": "Electromagnetic",
+        "relationship": "Category Membership/Overlap"
       },
       {
-        "name": "Predictive Processing Theories",
-        "relationship": "Sobreposição/extensão"
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Overlap/Extension"
       },
       {
-        "name": "Recurrent Processing Theory (Lamme)",
-        "relationship": "Sobreposição"
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Overlap"
       },
       {
-        "name": "Dendritic Integration Theory (Aru et al.)",
-        "relationship": "Sobreposição"
+        "name": "Dendritic Integration Theory",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

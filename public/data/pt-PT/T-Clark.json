@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "A teoria da hipótese do conteúdo de T. Clark",
     "summary": "Esta teoria postula que a consciência fenoménica é o conteúdo representacional derivado do processamento suficientemente estruturado de um sistema cognitivo . A experiência consciente é categoricamente subjetiva e fundamentalmente ligada ao cérebro físico, operando como um fenómeno material instanciado pelo cérebro .",
-    "associated_thinkers": ["Thomas Clark"],
+    "associated_thinkers": [
+      "Thomas Clark"
+    ],
     "category": "Materialismo",
     "subcategory": "Representacional",
     "core_identity_tagline": "A consciência fenoménica como conteúdo representacional estruturado",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência fenoménica é identificada como o conteúdo representacional do processamento representacional suficientemente estruturado de um sistema cognitivo .",
-    "ontological_status": "Fisicalismo",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Identidade/emergentista. A consciência é descrita como um fenómeno estritamente físico instanciado pelo cérebro .",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca. A consciência surge de um processamento material suficientemente complexo e estruturado (um pressuposto central de uma posição materialista) .",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consciousness arises from sufficiently complex and structured material processing (a core assumption of a materialist position) .",
     "subjectivity_and_intentionality": "A experiência consciente é categoricamente subjetiva porque existe apenas para o sistema consciente . A subjetividade está ligada à finitude do sistema autorreflexivo, que o impede de testemunhar o seu próprio início ou fim, funcionando como um «objeto intranscendível» .",
     "qualia_account": "Os qualia (as qualidades sensoriais básicas) são primitivos epistémicos que resistem a maior representação, o que explica o seu caráter monádico e não decomponível .",
     "ontological_commitments": "Sistemas cognitivos, processamento representacional estruturado, conteúdo representacional e primitivos epistémicos .",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Conceptual, filosófico, computacional (vindicação antecipada na ciência da representação) "
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptualmente testável. Procura vindicação a partir dos «desenvolvimentos na ciência da representação e do conteúdo representacional» .",
+    "testability_status": "Conceptually testable. It seeks vindication from 'Developments in the science of representation and representational content' .",
     "known_empirical_interventions_or_tests": "Não são enumerados testes específicos, mas o modelo é consistente com (e, portanto, poderia ser informado por) a investigação relacionada com a Teoria da Informação Integrada (IIT), a Teoria do Espaço de Trabalho Global (GWT) e o Processamento Preditivo .",
     "criticisms_and_tensions": "Tal como outras teorias representacionais, enfrenta provavelmente o desafio de explicar como a experiência fenoménica qualitativa e irredutível é plenamente explicada apenas por conteúdo informacional estruturado .",
     "open_questions_and_limitations": "A vindicação empírica explícita da hipótese do conteúdo e a estrutura detalhada do processamento representacional exigido permanecem em aberto .",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Uma vez que a consciência é postulada como um fenómeno estritamente físico resultante de um processamento suficientemente estruturado, a replicação desta estrutura em sistemas artificiais avançados deveria possibilitar a consciência ."
     },
     "survival_beyond_death": {
-      "stance": "Não (para o eu pessoal) / Sim (para a subjetividade genérica)",
+      "stance": "No",
       "rationale": "A consciência individual é uma instanciação física e dissolve-se com a morte cerebral. Contudo, a «continuidade subjetiva genérica» sugere que a consciência continua noutros contextos, embora não como o indivíduo falecido ."
     },
     "meaning_and_purpose": {
-      "stance": "Existencial/Intrínseco",
+      "stance": "Humanistic only",
       "rationale": "A consciência, impulsionada pela finitude do sistema autorreflexivo, cria inerentemente um mundo interno, fornecendo um propósito ligado à manutenção da continuidade subjetiva ."
     },
     "virtual_immortality": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "Enquanto teoria materialista, se o «processamento representacional suficientemente estruturado» definidor puder ser duplicado com precisão num meio não biológico, a transferência da consciência pessoal é possível ."
     }
   },
@@ -71,19 +73,19 @@
     "related_theories": [
       {
         "name": "Integrated Information Theory",
-        "relationship": "Consistente"
+        "relationship": "Consistent"
       },
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Consistente"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Consistent"
       },
       {
-        "name": "Predictive Processing",
-        "relationship": "Consistente"
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Consistent"
       },
       {
-        "name": "Metzinger’s No-Self Representational Theory of Subjectivity",
-        "relationship": "Influência"
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
+        "relationship": "Influence"
       }
     ],
     "sources_and_references": [

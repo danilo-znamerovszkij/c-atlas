@@ -19,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість і мислення визначаються як значущі виходи, породжені нейронними схемами, сполученими з тілом, що характеризує втілений досвід, де структура мислення походить із природи тіла.",
-    "ontological_status": "Фізикалізм",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Розум є глибоко втіленим; сама структура думок спирається на сенсомоторні системи тіла та емоції, розширюючи необхідний субстрат розуму за межі самого лише мозку.",
-    "primitive_or_emergent_status": "Емерджентний",
-    "emergence_type": "Слабка емерджентність (Виведено, оскільки це матеріалістична теорія, що має на увазі, що свідомість є звідною в принципі, хоча складність є високою.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Inferred, as it is a materialist theory implying that consciousness is reducible in principle, although complexity is high.)",
     "subjectivity_and_intentionality": "Суб'єктивність пов'язана з утіленим досвідом; інтенційність (спрямованість мислення) притаманна тому, як абстрактні ідеї та мова метафорично втілюються сенсомоторними системами.",
     "qualia_account": "Квалія характеризуються сенсомоторними системами тіла та емоційними системами, які породжують чи становлять «втілений досвід».",
     "ontological_commitments": "Фізичні нейронні схеми, сенсомоторні системи тіла, емоції та метафори, похідні від тілесного досвіду.",
@@ -46,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Філософське, когнітивно-лінгвістичне, емпіричне (засноване на пов'язуванні нейронної активності з тілесним досвідом)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Емпірично перевірне (Виведено, оскільки воно має справу з вимірюваними нейронними схемами та фізіологічними системами).",
+    "testability_status": "Empirically testable (Inferred, as it deals with measurable neural circuits and physiological systems).",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Воно критикується імпліцитно через зауваження, що когніція та свідомість не є тим самим, що порушує питання про те, чи достатньо пояснення втіленого мислення для пояснення феноменальної свідомості.",
     "open_questions_and_limitations": "Точні засоби, за допомогою яких утілена когніція переходить у феноменальну свідомість, оскільки поняття когніції та свідомості часто є відмінними.",
@@ -54,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Умовно",
+      "stance": "Conditional",
       "rationale": "Якщо свідомість вимагає специфічного втілення, штучні системи могли б стати свідомими лише тоді, коли матеріалізму вдасться побудувати небіологічний субстрат, що досконало відтворює необхідні тілесні та сенсомоторні системи."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Свідомість заплутано залежить від існування та операцій біологічного тіла та його систем; вона не може зберігатися, щойно ці фізичні компоненти припиняють функціонувати."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичне",
+      "stance": "Humanistic only",
       "rationale": "Як матеріалістична теорія, вона узгоджується з поглядом, що немає жодного найвищого космічного сенсу, але свідомість надає основу для створення самовизначеного сенсу та цінності."
     },
     "virtual_immortality": {
-      "stance": "Невизначено",
+      "stance": "Uncertain",
       "rationale": "Дублювання вимагає відтворення всієї втіленої системи та її сенсомоторних механізмів, додаючи значні, потенційно нездоланні, порядки складності поза самим лише відтворенням мозкової активності."
     }
   },
@@ -74,15 +74,15 @@
     "related_theories": [
       {
         "name": "Enactivism",
-        "relationship": "Перетин"
+        "relationship": "Overlap"
       },
       {
-        "name": "Projective Consciousness Model (PCM)",
-        "relationship": "Вплив"
+        "name": "Projective Consciousness Model",
+        "relationship": "Influence"
       },
       {
-        "name": "Gibson’s Ecological Psychology",
-        "relationship": "Перетин"
+        "name": "Gibson's Ecological Psychology",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

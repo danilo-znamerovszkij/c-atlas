@@ -2,7 +2,11 @@
   "id_and_class": {
     "theory_title": "Geest-brein-identiteitstheorie",
     "summary": "Deze klassieke filosofische theorie van bewustzijn stelt dat mentale toestanden, gebeurtenissen of processen strikt identiek zijn aan specifieke toestanden, gebeurtenissen of processen die zich in het brein voordoen. Zij fungeert als het exemplarische geval van het materialisme door te stellen dat bewustzijn volledig fysiek is.",
-    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "associated_thinkers": [
+      "J.J.C. Smart",
+      "U.T. Place",
+      "Herbert Feigl"
+    ],
     "category": "Materialisme",
     "subcategory": "Filosofisch",
     "core_identity_tagline": "Mentale toestanden zijn breintoestanden",
@@ -15,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewustzijn (mentale toestanden/processen) is letterlijk identiek aan fysieke toestanden/processen van het brein. Dit is een identiteitsclaim in de sterke zin, vergelijkbaar met het vergelijken van de Morgenster en de Avondster met Venus.",
-    "ontological_status": "Reductief fysicalisme/materialisme",
+    "ontological_status": "Reductive Physicalism/Materialism",
     "mind_body_relationship": "Identiteitstheorie: mentale gebeurtenissen en fysieke gebeurtenissen zijn dezelfde dingen, radicaal identiek, wat betekent dat de 'twee' niet uit elkaar kunnen worden gehaald.",
     "primitive_or_emergent_status": "Emergent",
-    "emergence_type": "Zwakke emergentie",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Subjectiviteit en intentionaliteit zijn strikt identiek aan bepaalde fysieke toestanden. De visie impliceert dat de vraag waarom een gevoel een fysieke toestand vergezelt misleidend is, omdat zij een en hetzelfde zijn.",
     "qualia_account": "Qualia (gevoelde ervaring), zoals pijn of het zien van rood, zijn letterlijk identiek aan specifieke fysieke toestanden van het brein, zoals het vuren van nociceptief-specifieke neuronen.",
     "ontological_commitments": "Fysieke toestanden en processen van het brein. De theorie is verbonden aan de opvatting dat bewustzijn volledig fysiek is.",
@@ -41,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filosofische gevolgtrekking, ondersteund door zich opstapelend empirisch bewijs van correlatie."
   },
   "empirics_and_critiques": {
-    "testability_status": "In principe empirisch toetsbaar door correlaties tussen specifieke mentale en fysieke toestanden in kaart te brengen.",
+    "testability_status": "Empirically testable in principle by mapping correlations between specific mental and physical states.",
     "known_empirical_interventions_or_tests": "Empirisch correlatiebewijs (bijv. het verbinden van pijn met het vuren van nociceptief-specifieke neuronen).",
     "criticisms_and_tensions": "Wordt in haar oorspronkelijke vorm algemeen als ondermijnd beschouwd door bezwaren, met name de meervoudige realiseerbaarheid (dezelfde mentale toestand zou door verschillende fysieke mechanismen gerealiseerd kunnen worden). De centrale filosofische uitdaging is de 'verklaringskloof', oftewel waarom breintoestanden ergens naar aanvoelen.",
     "open_questions_and_limitations": "De theorie worstelt met het oplossen van de intuïtie dat filosofische zombies (fysiek identieke wezens zonder bewustzijn) denkbaar zijn, wat impliceert dat de 'twee' uit elkaar kunnen worden gehaald. Zij maakt niet duidelijk welke soorten neurale activiteit bewustzijn constitueren.",
@@ -49,27 +53,27 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Aangezien de geest-brein-identiteitstheorie stelt dat bewustzijn herleidbaar is tot fysieke processen, wordt bewustzijn noodzakelijkerwijs geïnstantieerd indien die specifieke fysieke processen in een kunstmatig, niet-biologisch substraat gereproduceerd kunnen worden."
     },
     "survival_beyond_death": {
-      "stance": "Nee",
+      "stance": "No",
       "rationale": "Bewustzijn is strikt identiek aan de functionele en fysieke integriteit van het brein; de ontbinding ervan bij de dood resulteert in het permanente ophouden van het bewuste zelf."
     },
     "meaning_and_purpose": {
-      "stance": "Uitsluitend humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Als materialistische theorie brengt de geest-brein-identiteitstheorie geen ultieme kosmische betekenis of doel met zich mee. Betekenis en waarde zijn emergente eigenschappen die door bewuste menselijke actoren worden gecreëerd."
     },
     "virtual_immortality": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Als het bewustzijn (het precieze fysieke patroon) gescand en perfect gedupliceerd/geüpload kan worden in een nieuw fysiek medium (digitaal of anderszins), garandeert de theorie het voortbestaan van het identieke bewuste zelf."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Papineau’s Mind-Brain Identity",
-        "relationship": "Uitbreiding"
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Extension"
       },
       {
         "name": "Functionalism",
@@ -77,11 +81,11 @@
       },
       {
         "name": "Property Dualism",
-        "relationship": "Kritiek"
+        "relationship": "Critique"
       },
       {
-        "name": "Tye’s Contingentism",
-        "relationship": "Invloed"
+        "name": "Tye's Contingentism",
+        "relationship": "Influence"
       }
     ],
     "sources_and_references": [

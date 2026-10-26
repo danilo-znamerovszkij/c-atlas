@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Тайна сознания С. Харриса",
     "summary": "Эта позиция, предлагаемая скорее как вызов, нежели как предписывающая теория, представляет сознание как непреодолимую тайну, которую нельзя разрешить чисто физическими средствами. Харрис утверждает, что физические описания «немы» в отношении субъективного опыта; единственное, что свидетельствует о разумности, — само сознание, что создаёт фундаментальный объяснительный разрыв. Он сохраняет пессимизм относительно того, что наука сможет развеять эту тайну.",
-    "associated_thinkers": ["Sam Harris"],
+    "associated_thinkers": [
+      "Sam Harris"
+    ],
     "category": "Теории-вызовы",
     "subcategory": "Тайна сознания",
     "core_identity_tagline": "«Сознание как непреодолимый разрыв»",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание отождествляется с субъективностью или разумностью, которая фундаментально загадочна и необъяснима чисто физическими процессами.",
-    "ontological_status": "Скептицизм/мистерианство (обоснование: этот взгляд утверждает философскую неразрешимость и непреодолимую природу проблемы «разум-тело», что согласуется с основными положениями мистерианства, хотя и без принятия какой-либо конкретной альтернативной онтологии).",
+    "ontological_status": "Skeptical/Mysterianism (Justified: The view asserts the philosophical intractability and unbridgeable nature of the mind-body problem, aligning with core tenets of mysterianism, though without adopting a specific alternative ontology.)",
     "mind_body_relationship": "Непреодолимый разрыв / нередуктивная корреляция (обоснование: Харрис утверждает, что, хотя физические процессы коррелируют с сознанием, никакой анализ этих процессов не может логически привести к картине сознания, оставляя непреодолимый разрыв).",
-    "primitive_or_emergent_status": "Тайна (обоснование: Харрис отказывается полностью поддержать эмерджентность, заявляя, что, хотя сознание может быть закономерным продуктом бессознательной обработки, он не находит это утверждение осмысленным в объяснении разумности).",
-    "emergence_type": "Тайна / необъяснённое (обоснование: основная посылка состоит в том, что механизм, связывающий сложность с разумностью, фундаментально неизвестен и, вероятно, непознаваем для человеческого интеллекта, что препятствует классификации в рамках стандартной эмерджентности).",
+    "primitive_or_emergent_status": "Mystery (Justified: Harris declines to fully endorse emergence, stating that while consciousness may be the lawful product of unconscious processing, he does not find that sentence meaningful in explaining sentience.)",
+    "emergence_type": "Mystery / Unexplained (Justified: The core premise is that the mechanism linking complexity to sentience is fundamentally unknown and likely unknowable by human intelligence, preventing classification under standard emergence.)",
     "subjectivity_and_intentionality": "Субъективность есть единственное свидетельство сознания; единственный ключ к субъективности — сама субъективность.",
     "qualia_account": "Квалиа (то, каково это — «быть чем-то») суть тот феномен, в отношении которого физические события «немы», что и создаёт непреодолимую тайну.",
     "ontological_commitments": "Физические процессы и несводимая разумность (обоснование: допускается существование обеих областей, но принимается обязательство относительно несводимости последней на основании интроспективного свидетельства, а не физического описания).",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Философский, интроспекция, скептицизм"
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально непроверяема (обоснование: если разрыв непреодолим, как утверждает Харрис, тайну нельзя развеять эмпирической наукой в её нынешнем виде).",
+    "testability_status": "Conceptually Untestable (Justified: If the gap is unbridgeable, as Harris claims, the mystery cannot be dispelled by empirical science as currently practiced.)",
     "known_empirical_interventions_or_tests": "Отсутствуют (обоснование: эта концепция есть диагноз несостоятельности науки перед трудной проблемой и не предлагает эмпирических проверок самой тайны).",
     "criticisms_and_tensions": "Функционирует прежде всего как критика редукционизма и научного оптимизма относительно сознания, классифицируя проблему как предельную тайну, что редукционисты отвергают как пессимизм (мистерианство).",
     "open_questions_and_limitations": "Фундаментальное ограничение — неспособность понять, как сознание соотносится с бессознательной обработкой информации или сложностью, что делает происхождение разумности необъяснимым.",
@@ -50,35 +52,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Если сознание есть несводимая субъективность, отсутствующая в физических описаниях, то передовые вычисления (ИИ, который есть чисто физическая сложность) не смогут породить подлинную разумность."
     },
     "survival_beyond_death": {
-      "stance": "Нет (условно)",
+      "stance": "No",
       "rationale": "Как натуралист, Харрис имплицитно разделяет взгляд, что сознание привязано к физическому организму, а значит, его прекращение ведёт к постоянному небытию, несмотря на загадочность его природы при жизни."
     },
     "meaning_and_purpose": {
-      "stance": "Только гуманистический",
+      "stance": "Humanistic only",
       "rationale": "Тайна не подразумевает космической цели, но Харрис призывает искать личные истины через интроспекцию, что согласуется с самостоятельно открытой (натурализованной) духовностью и смыслом."
     },
     "virtual_immortality": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Если сознание нельзя объяснить чисто физическими процессами, то дублирование или загрузка физического субстрата не смогут уловить или воссоздать сущностную субъективную самость."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
-        "relationship": "Пересечение"
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
+        "relationship": "Overlap"
       },
       {
-        "name": "Materialism Theories",
-        "relationship": "Критика"
+        "name": "Materialism",
+        "relationship": "Critique"
       },
       {
-        "name": "Eliminative Materialism/Illusionism",
-        "relationship": "Совместимо (как отвержение наивного реализма относительно физического объяснения, хотя Харрис всё же утверждает реальность сознания)"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Compatible (as a rejection of naive realism about physical explanation, though Harris still asserts the reality of consciousness)"
       }
     ],
     "sources_and_references": [

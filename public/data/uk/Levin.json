@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Технологічний підхід Левіна до «розуму всюди» (TAME)",
     "summary": "Ця рамка розуміє розум і когніцію через функціональну, цілеспрямовану активність у розмаїтих, часто нетрадиційних субстратах, включно зі сконструйованими матеріалами та синтетичною біологією. Вона постулює, що свідомість чи чутливість є неперервною й градуйованою, розглядаючи розуми тварин як приклад колективного інтелекту серед груп клітин.",
-    "associated_thinkers": ["Michael Levin"],
+    "associated_thinkers": [
+      "Michael Levin"
+    ],
     "category": "Матеріалістичні теорії",
     "subcategory": "Філогенетична еволюція",
     "core_identity_tagline": "Технологічний підхід до «розуму всюди» (TAME)",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість/чутливість ототожнюється з цілеспрямованою активністю, реалізованою в різних втілених субстратах, часто організованих як складні системи сприйняття-дії.",
-    "ontological_status": "Фізикалізм (матеріалізм)",
+    "ontological_status": "Physicalism (Materialism)",
     "mind_body_relationship": "Свідомість є за своєю суттю втіленою, постаючи з конфігурації та динаміки фізичного субстрату (яким може бути звичайна біологічна тканина або нові химерні архітектури).",
-    "primitive_or_emergent_status": "Емерджентний",
-    "emergence_type": "Слабка емерджентність (неперервність свідомості припускає, що її складна функціональна динаміка, яка є фізичною, веде до її появи без потреби в різких, непоясненних фазових переходах.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (The continuity of consciousness suggests that its complex functional dynamics, which are physical, lead to its appearance without requiring sharp, inexplicable phase transitions.)",
     "subjectivity_and_intentionality": "Суб'єктивність (сама свідомість) важко доступна об'єктивно. Інтенційність є центральною, безпосередньо пов'язаною з цілеспрямованою активністю та втіленою агентністю.",
     "qualia_account": "Теорія зосереджується на когнітивній функції та значною мірою залишається скептичною щодо визначення феноменальної свідомості (квалія) з об'єктивної перспективи від третьої особи.",
     "ontological_commitments": "Фізичні субстрати, біологічні та небіологічні (химерні архітектури), групи клітин, що виявляють колективний інтелект, і системи сприйняття-дії, що діють в абстрактних просторах (наприклад, морфогенетичному, транскрипційному).",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Експериментальний (синтетична біологія), обчислювальний, філософський (неперервність когніції)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Емпірично перевірна через створення та маніпулювання новими втіленими когнітивними системами за допомогою методів біоінженерії.",
+    "testability_status": "Empirically testable through the creation and manipulation of novel embodied cognitive systems using bioengineering methods.",
     "known_empirical_interventions_or_tests": [
       "Синтетичне створення химерних когнітивних систем у розмаїтих матеріалах",
       "Майбутнє впровадження радикальних інтерфейсів мозок-комп'ютер для спостереження зсувів у свідомості"
@@ -55,35 +57,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ймовірно",
+      "stance": "Likely",
       "rationale": "Оскільки TAME застосовується до сконструйованих і химерних матеріалів, штучні системи (якщо їх сконфігуровано як цілеспрямовані, втілені системи сприйняття-дії) могли б правдоподібно реалізувати свідомість."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Як матеріалістична рамка, що пов'язує свідомість із поточною функцією втіленого фізичного субстрату, виживання поза існуванням цього субстрату не підтримується."
     },
     "meaning_and_purpose": {
-      "stance": "Гуманістичний/пов'язаний з агентністю",
+      "stance": "Humanistic only",
       "rationale": "Свідомість пов'язана з цілеспрямованою активністю, що передбачає, що сенс виводиться з притаманної системі агентності, а не з космічної телеології."
     },
     "virtual_immortality": {
-      "stance": "Ймовірно",
+      "stance": "Likely",
       "rationale": "Засновок, що розум можна інженерно створити й інстанціювати в нових, небіологічних архітектурах, передбачає, що дублювання та перенесення складної, втіленої системи сприйняття-дії має бути в принципі можливим."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Embodied Cognition",
-        "relationship": "Сумісна/вплив"
+        "name": "Embodied",
+        "relationship": "Compatible/Influence"
       },
       {
-        "name": "Ginsburg and Jablonka’s Associative Learning During Evolution",
-        "relationship": "Перекриття"
+        "name": "Ginsburg and Jablonka's Associative Learning During Evolution",
+        "relationship": "Overlap"
       },
       {
-        "name": "Computational and Informational Theories",
-        "relationship": "Перекриття"
+        "name": "Computational",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "A Mente e o Cosmos de Nagel",
     "summary": "Esta perspetiva questiona a conceção materialista neodarwiniana da natureza, hoje dominante, argumentando que esta não consegue dar conta da natureza irredutível da experiência subjetiva, isto é, de 'como é' ser um organismo consciente. Propõe que a mente tem de ser incorporada como um princípio fundamental da própria natureza.",
-    "associated_thinkers": ["Thomas Nagel"],
+    "associated_thinkers": [
+      "Thomas Nagel"
+    ],
     "category": "Teorias de Desafio",
     "subcategory": "A Mente e o Cosmos de Nagel",
     "core_identity_tagline": "A Mente como Princípio Fundamental da Natureza",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é fundamentalmente experiência subjetiva — 'como é para o próprio sujeito' — que resiste à redução a descrições puramente físicas, na terceira pessoa.",
-    "ontological_status": "Desafio Filosófico (com inclinação para o Monismo Universal/Panpsiquismo)",
+    "ontological_status": "Philosophical Challenge (leaning towards Universal Monism/Panpsychism)",
     "mind_body_relationship": "Critica a conceção atual da relação mente-corpo, afirmando que não dispomos de qualquer conceção de como os aspetos físicos e fenomenológicos poderiam estar relacionados ou ser idênticos.",
-    "primitive_or_emergent_status": "Primitivo (ou fundamental)",
-    "emergence_type": "Contestada/Rejeitada",
+    "primitive_or_emergent_status": "Primitive (or fundamental)",
+    "emergence_type": "Challenged/Rejected",
     "subjectivity_and_intentionality": "A subjetividade (a qualidade do 'como é') é o cerne definidor da consciência. A intencionalidade é implicitamente não redutível apenas a factos físicos.",
     "qualia_account": "Os qualia (as qualidades sentidas) são o cerne do problema, e Nagel argumenta que nenhuma explicação objetiva ou fisicalista atualmente formulada consegue dar conta da sua realidade subjetiva.",
     "ontological_commitments": "Rejeição da conceção materialista neodarwiniana da natureza. Compromisso com a consciência como uma característica da realidade que exige uma compreensão secular alargada da natureza, envolvendo possivelmente elementos mentais básicos universalmente disponíveis.",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico, Conceptual"
   },
   "empirics_and_critiques": {
-    "testability_status": "Incerta/Primordialmente Conceptual. A força da teoria reside no seu diagnóstico da lacuna explicativa, e não na verificação empírica. A sua alternativa sugerida (o panpsiquismo) é altamente especulativa.",
+    "testability_status": "Uncertain/Primarily Conceptual. The theory's strength lies in its diagnosis of the explanatory gap, not in empirical verification. His suggested alternative (panpsychism) is highly speculative.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Criticada por recuar para o 'misterianismo' e por rejeitar quadros científicos estabelecidos (o materialismo neodarwiniano) sem oferecer, como alternativa, uma ontologia secular concreta, robusta e detalhada.",
     "open_questions_and_limitations": "Nagel admite não ter 'qualquer conceção' de como poderia funcionar uma explicação dos fenómenos mentais em termos físicos. A alternativa proposta (o panpsiquismo) enfrenta o desafio de saber como os microelementos se combinam para formar mentes complexas.",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Incerto/Condicional",
+      "stance": "Uncertain",
       "rationale": "Enquanto crítica do funcionalismo e do reducionismo, a visão de Nagel sugere que entidades puramente computacionais desprovidas de propriedades mentais fundamentais são provavelmente zombies filosóficos; o resultado depende de saber se a IA futura poderá instanciar os hipotéticos princípios mentais universais."
     },
     "survival_beyond_death": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "Se a consciência for uma propriedade universal e fundamental, e não um emergente biológico, a sua essência poderá persistir após a dissolução corporal (inferido das inclinações panpsiquistas), embora provavelmente sem retenção da identidade pessoal."
     },
     "meaning_and_purpose": {
-      "stance": "Cósmico",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Procura explicitamente incorporar a mente como um princípio natural fundamental para superar a 'falta de sentido' implícita no materialismo, sugerindo um propósito ou valor cósmico inerente e não teísta."
     },
     "virtual_immortality": {
-      "stance": "Improvável/Condicional",
+      "stance": "Unlikely",
       "rationale": "A irredutibilidade da experiência subjetiva significa que a duplicação apenas de padrões físicos/funcionais não conseguiria transferir a consciência original na primeira pessoa."
     }
   },
@@ -72,19 +74,19 @@
     "related_theories": [
       {
         "name": "Chalmers’s Hard Problem of Consciousness",
-        "relationship": "Influência"
+        "relationship": "Influence"
       },
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
-        "relationship": "Compatível"
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
+        "relationship": "Compatible"
       },
       {
-        "name": "Panpsychisms",
-        "relationship": "Extensão"
+        "name": "Panpsychism",
+        "relationship": "Extension"
       },
       {
-        "name": "Papineau’s Mind-Brain Identity",
-        "relationship": "Crítica"
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

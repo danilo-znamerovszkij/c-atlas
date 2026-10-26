@@ -21,10 +21,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание отождествляется с эволюционировавшим механизмом, оптимизирующим интеграцию информации, который функционирует как алгоритм максимизации устойчивости. Сознательные состояния отражают действие проективных преобразований.",
-    "ontological_status": "Физикализм",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Воплощённое сознание, где разум не сводится исключительно к воплощённости, но требует физической структуры; «переживаемое тело» служит важнейшей выводной репрезентацией фактического тела.",
-    "primitive_or_emergent_status": "Возникший",
-    "emergence_type": "Слабая эмерджентность",
+    "primitive_or_emergent_status": "Emerged",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "PCM объясняет пространственную феноменологию субъективного опыта и связывает интенциональность с аффективными процессами. FoC оформляет опыт, отбирая точки зрения в соответствии с предпочтениями.",
     "qualia_account": "Теория объясняет пространственную феноменологию субъективного опыта, предполагая, что сознательные состояния возникают посредством проективных преобразований, хотя конкретные детали качественного переживания («квалиа») явно не приводятся.",
     "ontological_commitments": "Проективная геометрия, свободная энергия, воплощённые системы, мультимодальная сенсорная информация, следы памяти.",
@@ -48,7 +48,7 @@
     "basis_of_belief_or_evidence_type": "Математический, вычислительный, феноменологический, функциональный"
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально проверяемо",
+    "testability_status": "Conceptually testable",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "",
     "open_questions_and_limitations": "",
@@ -56,35 +56,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Условно",
+      "stance": "Conditional",
       "rationale": "Если математические и вычислительные структуры проективной геометрии и активного вывода могут быть успешно реализованы в искусственных, предпочтительно воплощённых, системах, то сознание ИИ возможно."
     },
     "survival_beyond_death": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Модель укоренена в физической реальности, подчёркивая воплощённое сознание и гомеостатические принципы, привязанные к биологическому мозгу, и не даёт оснований для постбиологического сохранения."
     },
     "meaning_and_purpose": {
-      "stance": "Только функциональный",
+      "stance": "Humanistic only",
       "rationale": "Сознание определяется прежде всего как эволюционировавший механизм максимизации устойчивости и оптимизации обработки информации, что подразумевает адаптивную цель, а не высший космический смысл."
     },
     "virtual_immortality": {
-      "stance": "Условно",
+      "stance": "Conditional",
       "rationale": "Как функциональная математическая модель, виртуальное бессмертие мыслимо, если требуемая сложная динамика проективной структуры и воплощённый аспект могут быть совершенно симулированы/воспроизведены в небиологическом субстрате."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Friston’s Free-Energy Principle and Active Inference",
-        "relationship": "Основание"
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Foundation"
       },
       {
         "name": "Predictive Theories (Top-Down)",
-        "relationship": "Основание"
+        "relationship": "Foundation"
       },
       {
-        "name": "Embodied and Enactive Theories",
-        "relationship": "Совместимо"
+        "name": "Embodied",
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Аналітичний ідеалізм",
     "summary": "Аналітичний ідеалізм — це онтологія «лише свідомості», яка стверджує, що феноменальна свідомість є фундаментальною, єдиним примітивом реальності. Усе інше в природі, включно з фізичним світом та індивідуальними розумами, ґрунтується на патернах збудження або є виявами цієї просторово необмеженої космічної свідомості.",
-    "associated_thinkers": ["Bernardo Kastrup"],
+    "associated_thinkers": [
+      "Bernardo Kastrup"
+    ],
     "category": "Ідеалізми",
     "subcategory": "Онтологічний ідеалізм",
     "core_identity_tagline": "Свідомість як остаточна реальність та єдиний онтологічний примітив",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість ототожнюється з єдиним, просторово необмеженим, фундаментальним онтологічним примітивом (космічною свідомістю).",
-    "ontological_status": "Ідеалізм (сучасна аналітична метафізика)",
+    "ontological_status": "Idealism (Modern analytic metaphysics)",
     "mind_body_relationship": "Індивідуальні розуми є дисоційованими альтерами космічної свідомості. Неживий фізичний світ є зовнішнім виглядом думок та емоцій у межах цієї універсальної свідомості, тобто фізичний світ, незалежний від свідомості, є хибною інтелектуальною абстракцією.",
-    "primitive_or_emergent_status": "Первинна (фундаментальна)",
-    "emergence_type": "Незастосовно",
+    "primitive_or_emergent_status": "Primitive (Fundamental)",
+    "emergence_type": "N/A",
     "subjectivity_and_intentionality": "Індивідуальна суб'єктивність постає з локалізації, створеної дисоціацією космічної свідомості. Інтенційність ґрунтується на внутрішньо притаманних властивостях фундаментального усвідомлення.",
     "qualia_account": "Квалія є внутрішньо реальними та фундаментальними, становлячи патерни збудження в межах фундаментальної феноменальної свідомості.",
     "ontological_commitments": "Феноменальна свідомість (космічна свідомість); дисоційовані альтери; патерни збудження.",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Філософський аргумент, феноменологічне осягнення, концептуальна ощадливість, опосередковані емпіричні свідчення."
   },
   "empirics_and_critiques": {
-    "testability_status": "Спекулятивна/концептуальна. Перевірна насамперед через демонстрацію непослідовності чи браку ощадливості конкурентних метафізичних теорій та через передбачення наслідків досвіду в екстремальних станах.",
+    "testability_status": "Speculative/Conceptual. Testable primarily by demonstrating the incoherence or lack of parsimony of rival metaphysical theories and by predicting experiential outcomes in extreme states.",
     "known_empirical_interventions_or_tests": [
       "Наводить нейровізуалізацію психоделічних станів (багатий досвід, що корелює зі зниженою активністю мозку) для критики фізикалістських теорій."
     ],
@@ -52,43 +54,43 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Каструп припускає, що свідомий ШІ є фантазією, стверджуючи, що свідомість не редуковна до обчислень чи обробки інформації, які виконують сучасні комп'ютери. Свідомість пов'язана з фундаментальною феноменальною реальністю, а не з функцією апаратного забезпечення."
     },
     "survival_beyond_death": {
-      "stance": "Ймовірне",
+      "stance": "Likely",
       "rationale": "Прогнозується, що тілесна смерть призводить до припинення локальної межі (дисоційованого альтера), спричиняючи розширення свідомого внутрішнього життя назад в базову універсальну свідомість. Це опосередковано підтримується повідомленнями про навколосмертні переживання (НСП)."
     },
     "meaning_and_purpose": {
-      "stance": "Космічні та остаточні",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Оскільки свідомість є остаточною реальністю, існування фундаментально ґрунтується в розумі/усвідомленні, внутрішньо забезпечуючи сенс і мету, вкорінені в єдиній, фундаментальній свідомості."
     },
     "virtual_immortality": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Свідомість не є алгоритмом чи програмним забезпеченням, редуковним до фізичної структури; тому завантаження нейронних патернів (симульоване продовження) дало б лише функціональне дублювання («діпфейк»), позбавлене справжнього суб'єктивного досвіду."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Physicalism",
-        "relationship": "Критика"
+        "name": "Materialism",
+        "relationship": "Critique"
       },
       {
         "name": "Bottom-Up Panpsychism",
-        "relationship": "Критика"
+        "relationship": "Critique"
       },
       {
         "name": "Cosmopsychism",
-        "relationship": "Критика"
+        "relationship": "Critique"
       },
       {
         "name": "Faggin's Quantum Information-based Panpsychism",
-        "relationship": "Сумісна/вплив"
+        "relationship": "Compatible/Influence"
       },
       {
-        "name": "Jung’s Synchronicity and the Collective Unconscious",
-        "relationship": "Сумісна/вплив"
+        "name": "Jung's Collective Unconscious and Synchronicity",
+        "relationship": "Compatible/Influence"
       }
     ],
     "sources_and_references": [

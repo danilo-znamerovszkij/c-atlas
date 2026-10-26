@@ -1,0 +1,112 @@
+{
+  "id_and_class": {
+    "theory_title": "Nevens vorming van kwantumsuperpositie",
+    "summary": "Neven stelt dat bewuste ervaring ontstaat telkens wanneer een kwantumsuperpositie zich vormt, en niet wanneer die instort, zoals bij Penrose. Binnen Everetts veelwereldenbeeld stelt hij dat een systeem meerdere takken tegelijk volgt, die elk een reeks bepaalde bewuste momenten opleveren, terwijl verstrengeling de ervaring tot een eenheid bindt. Hij wil dit idee toetsen door qubits in een menselijk brein te verstrengelen met een kwantumcomputer en na te gaan of de ervaring van de proefpersoon rijker wordt.",
+    "associated_thinkers": [
+      "Hartmut Neven",
+      "Christof Koch"
+    ],
+    "category": "Kwantum",
+    "subcategory": "",
+    "core_identity_tagline": "‘Bewustzijn ontstaat wanneer een kwantumsuperpositie zich vormt’",
+    "classification_tags": [
+      "quantum superposition",
+      "entanglement",
+      "many-worlds",
+      "quantum computing",
+      "binding problem"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Een bewust moment is het eerstepersoonsaspect van een kwantumsysteem dat zich vertakt in bepaalde klassieke toestanden, wat gebeurt telkens wanneer een superpositie zich vormt.",
+    "ontological_status": "Quantum physicalism (Everettian)",
+    "mind_body_relationship": "Ervaring is gekoppeld aan een specifieke fysieke gebeurtenis, de vorming van een superpositie, en niet alleen aan klassieke neurale berekening. Neven beschouwt bewustzijn ook als het ene gegeven dat niet geëlimineerd kan worden: ‘zonder geest doet niets ertoe’.",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "Not applicable: experience accompanies a basic quantum event rather than arising from complexity, though its richness grows with the number of entangled degrees of freedom.",
+    "subjectivity_and_intentionality": "Een systeem ervaart altijd alleen bepaalde klassieke toestanden. Wanneer het in superpositie raakt, volgt het meerdere Feynman-paden, elk een aparte reeks bewuste momenten, zodat één kwantumsysteem veel eenvoudige ervarende geesten kan bevatten.",
+    "qualia_account": "Het kwalitatieve karakter van ervaring wordt bepaald door de structuur van de superpositie. De fenomenologie is van binnenuit klassiek, ook al is haar substraat kwantummechanisch.",
+    "ontological_commitments": "Een universele golffunctie die nooit letterlijk instort (Everett), decoherentie die effectief gescheiden klassieke takken oplevert, verstrengelde qubits in het brein, en een voorkeursbasis die bepaalt wat wordt ervaren.",
+    "epistemic_access": "Via eerstepersoonsverslagen die worden gecorreleerd met gemeten kwantumtoestanden in experimenten met brein en processor, waarbij kwantummaten van geïntegreerde informatie een manier zijn om ervaring te kwantificeren.",
+    "constituents_and_structure": "Bewuste momenten die bij de vorming van een superpositie ontstaan en door verstrengeling gebonden zijn; één rijk moment kan honderden of duizenden verstrengelde qubits vereisen."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenaal (qualia); eenheid van ervaring; handelingsvrijheid en vrije wil.",
+    "distinctive_mechanism_or_principle": "Ervaring wordt voortgebracht door de vorming van een superpositie, niet door instorting. Neven laat de zwaartekracht uit Penroses model vallen en steunt op decoherentie voor een ‘effectieve instorting’.",
+    "dynamics_of_emergence": "Ervaring komt in discrete momenten, elk gekoppeld aan een bepaalde toestand die unitair evolueert tot een superpositie. Bewustzijn is ‘hoe wij het ontstaan van één unieke klassieke werkelijkheid ervaren’ uit de vele takken.",
+    "location_and_distribution": "Overal waar superposities zich vormen; bij mensen vermoedelijk verstrengelde qubits in het brein. Ervaring zou in principe kunnen reiken tot een kwantumprocessor die met een brein is verstrengeld.",
+    "causation_and_functional_role": "De vorming van een superpositie kan samengaan met een moment van handelingsvrijheid. Boven ongeveer 100 verstrengelde qubits kan een buitenstaander de evolutie van het systeem zelfs probabilistisch niet meer voorspellen, en het team vermoedt dat een organisme kan kiezen welke klassieke configuratie het vervolgens ervaart.",
+    "integration_or_binding": "Verstrengeling lost het bindingsprobleem op; Neven noemt het ‘de enige echte bindende factor die we in de natuurkunde hebben’. De rijkdom van een ervaring wordt begrensd door het aantal verstrengelde vrijheidsgraden.",
+    "information_flow_or_representation": "Welke basis met ervaring overeenkomt, is open: kandidaten zijn Deutsch' interpretatiebasis, Zureks basis van wijzertoestanden, of een basis die de kwantumgeïntegreerde informatie maximaliseert.",
+    "evolutionary_account": "Genot volgt gedrag dat een organisme in stand houdt en pijn gedrag dat het bedreigt. Het team stelt dat deze koppeling zinloos zou zijn voor een deterministische automaat, wat erop wijst dat bewustzijn is geëvolueerd met echte keuzevrijheid.",
+    "core_claims_and_evidence": [
+      "Ervaring koppelen aan instorting zou signalering sneller dan het licht tussen verstrengelde qubits kunnen toelaten; door ervaring bij de vorming te plaatsen wordt dit vermeden, evenals het probleem van het bepalen wanneer een meting plaatsvindt.",
+      "Laboratoriumonderzoek naar door zwaartekracht veroorzaakte instorting heeft tot nu toe niets opgeleverd, wat aanleiding geeft de zwaartekracht uit Penroses voorstel te laten vallen.",
+      "Klassieke Turingmachines kunnen intelligent worden maar nooit bewust; gevoel vereist een kwantum-Turingmachine.",
+      "Het verstrengelen van een brein met een kwantumprocessor zou verslagen van rijkere ervaring moeten opleveren, en het tijdstip van die verrijking zou vorming van instorting onderscheiden."
+    ],
+    "basis_of_belief_or_evidence_type": "Theoretische natuurkunde en kwantumcomputing, met een voorgesteld experimenteel programma."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Het voorgestelde ‘uitbreidingsprotocol’ koppelt N qubits in het brein van een proefpersoon aan M qubits in een processor tot een N+M-superpositie, en vergelijkt vervolgens de verslagen van de proefpersoon met gemeten kwantumtoestanden.",
+    "criticisms_and_tensions": "De meeste reguliere natuurkundigen delen Nevens veelwerelden-interpretatie niet, ook niet zijn opvatting dat Googles Willow-processor iets aanboort dat groter is dan ons universum. Ervaring is geen standaard experimentele waarneembare grootheid, dus de toets hangt af van subjectieve rapportage. Superpositie is basisafhankelijk, en de theorie heeft nog niet vastgelegd welke basis wordt ervaren.",
+    "open_questions_and_limitations": "Of het brein überhaupt verstrengelde qubits in stand houdt, is niet vastgesteld. De suggestie dat psychedelische, mystieke en bijna-doodervaringen meer verstrengelde qubits betreffen, is zeer speculatief.",
+    "ontological_coherence": "Door haar opzet consistent met de Everettiaanse kwantummechanica en de speciale relativiteitstheorie. De implicatie dat overal waar superposities ontstaan veel eenvoudige ervarende geesten bestaan, verruimt bewustzijn ver voorbij de hersenen."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Neven stelt dat klassieke computers intelligent kunnen worden maar nooit bewust; een kwantumprocessor zou als kwantum-Turingmachine ervaring kunnen huisvesten."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Conditional",
+      "rationale": "Een simulatie op klassieke hardware zou volgens deze opvatting niet bewust zijn; alleen kwantumhardware zou ervaring kunnen dragen, en Neven spreekt over het uitbreiden van bewustzijn door breinen met kwantumcomputers te verstrengelen."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Chalmers and McQueen’s Quantum Collapse",
+        "relationship": "Contrast"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Testing the Conjecture That Quantum Processes Create Conscious Experience, Hartmut Neven, Christof Koch, et al.",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Experiments Prepare to Test Whether Consciousness Arises from Quantum Weirdness, Hartmut Neven and Christof Koch",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Do Robots powered by a Quantum Processor have the Freedom to swerve?, Hartmut Neven, P. Read, and T. Rees",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Can we use quantum computers to test a radical consciousness theory?, T. Lewton",
+        "year": 2024
+      },
+      {
+        "title_with_names": "The Emperor's New Mind, Roger Penrose",
+        "year": 1989
+      }
+    ]
+  }
+}

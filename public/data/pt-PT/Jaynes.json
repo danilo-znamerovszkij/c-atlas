@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "A Rutura da Mente Bicameral de Jaynes",
     "summary": "Esta teoria sustenta que a consciência, definida como introspeção, é um comportamento aprendido, radicado na linguagem e na cultura, em vez de ser inata ou fundamental. Sugere que a consciência surgiu historicamente por volta do 2.º milénio a.C., na sequência da rutura social de uma mentalidade não-consciente denominada mente bicameral, caracterizada por alucinações auditivas.",
-    "associated_thinkers": ["Julian Jaynes"],
+    "associated_thinkers": [
+      "Julian Jaynes"
+    ],
     "category": "Teorias do Materialismo",
     "subcategory": "Relações com a Linguagem",
     "core_identity_tagline": "A Consciência como Análogo Linguístico/Metafórico Aprendido do Mundo",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência, ou 'mente consciente subjetiva', é um análogo do mundo real construído a partir de um vocabulário de metáforas derivadas do comportamento externo; funciona como um operador, e não como um repositório ou uma coisa.",
-    "ontological_status": "Fisicalismo/materialismo (esta teoria deflacionária é classificada sob o materialismo, o que implica que a consciência é inteiramente material, ainda que seja um produto cultural não-óbvio.)",
+    "ontological_status": "Physicalism/Materialism (This deflationary theory is classified under Materialism, implying consciousness is wholly material, albeit a non-obvious cultural product.)",
     "mind_body_relationship": "Teoria da identidade (a mente é implicitamente idêntica aos processos cerebrais que executam funções linguísticas e organizam o 'espaço-mental' metafórico; Jaynes postulou um correlato neurobiológico envolvendo os hemisférios cerebrais.)",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca (a consciência é explicada como uma construção cultural evolutivamente recente e não-fundamental, edificada sobre um maquinário biológico e linguístico subjacente, o que sugere redutibilidade em princípio.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Consciousness is explained as an evolutionarily recent, non-fundamental cultural construct built upon underlying biological and linguistic machinery, suggesting reducibility in principle.)",
     "subjectivity_and_intentionality": "A subjetividade é constituída por um 'eu' análogo que se relaciona com um 'ver' mental num 'espaço-mental' metafórico. A intencionalidade é alcançada através da narratização — o encaixe constante dos acontecimentos numa história — que é um análogo aprendido do comportamento externo.",
     "qualia_account": "Os qualia são implicitamente redefinidos ou descartados, pois o foco está na 'consciência introspetiva', que é explicitamente distinguida da consciência fenomenal ('experiência interior bruta').",
     "ontological_commitments": "Linguagem/campos lexicais, estruturas culturais e regiões cerebrais (os hemisférios cerebrais são sugeridos como o correlato do estado bicameral precedente).",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico, linguístico, psico-histórico, especulação neurobiológica."
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptualmente testável/especulativo (as alegações históricas e linguísticas centrais estão sujeitas a debate académico e não a verificação empírica tradicional, e a teoria não é amplamente aceite pelos especialistas.)",
+    "testability_status": "Conceptually testable/Speculative (The core historical and linguistic claims are subject to scholarly debate rather than traditional empirical verification, and the theory is not widely accepted by experts.)",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "A teoria usa uma definição idiossincrática de consciência ('consciência introspetiva') que exclui a consciência fenomenal, que é o principal alvo de investigação da área. Não é aceite pelos especialistas em consciência.",
     "open_questions_and_limitation": "A limitação primordial é a sua incapacidade de explicar ou reconhecer a consciência fenomenal ('experiência interior bruta') tal como tradicionalmente definida.",
@@ -51,35 +53,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Se a consciência é um análogo/operador aprendido, radicado fundamentalmente na linguagem e em processos informacionais, os avanços nos grandes modelos de linguagem e na IA poderiam plausivelmente instanciar esta forma de consciência."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "Enquanto teoria fisicalista e deflacionária, a consciência está ligada ao maquinário físico do cérebro e às estruturas linguísticas que este sustenta, não deixando qualquer base para a sobrevivência para além da morte física."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanista",
+      "stance": "Humanistic only",
       "rationale": "A consciência serve um propósito funcional e orientado para a sobrevivência (melhorar a tomada de decisão) derivado de imperativos biológicos e culturais, não oferecendo qualquer sentido cósmico inerente."
     },
     "virtual_immortality": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Uma vez que a mente é definida por estruturas linguísticas e metafóricas passíveis de serem carregadas ou replicadas em substratos não-biológicos (à semelhança de software), a imortalidade virtual seria conceptualmente viável neste modelo."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Dennett’s Multiple Drafts Model",
-        "relationship": "Compatível"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Compatible"
       },
       {
         "name": "Functionalism",
-        "relationship": "Sobreposição"
+        "relationship": "Overlap"
       },
       {
         "name": "Language Theories (General)",
-        "relationship": "Extensão"
+        "relationship": "Extension"
       }
     ],
     "sources_and_references": [

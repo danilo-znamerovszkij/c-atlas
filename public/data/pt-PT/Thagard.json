@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "A representação neuronal, ligação, coerência e competição de Thagard",
     "summary": "Esta teoria atribui as experiências conscientes às interações de quatro mecanismos cerebrais empiricamente plausíveis: representação neuronal, ligação, coerência e competição. Afirma que a consciência emerge destas interações por todo o cérebro, fornecendo uma explicação cientificamente fundamentada para fenómenos conscientes complexos como os sonhos, o humor e a autoconsciência.",
-    "associated_thinkers": ["Paul Thagard"],
+    "associated_thinkers": [
+      "Paul Thagard"
+    ],
     "category": "Materialismo",
     "subcategory": "Representacional",
     "core_identity_tagline": "«A consciência construída por mecanismos neuronais»",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada como o resultado emergente das interações entre mecanismos cerebrais específicos: representação neuronal, ligação, coerência e competição.",
-    "ontological_status": "Fisicalismo/materialismo redutivo (esta posição é inferida porque a teoria é classificada sob o materialismo e procura explicar plenamente a consciência como um produto biológico não misterioso do cérebro.)",
+    "ontological_status": "Reductive Physicalism/Materialism (This stance is inferred because the theory is classified under Materialism and seeks to fully explain consciousness as a non-mysterious biological product of the brain.)",
     "mind_body_relationship": "Identidade/redução (as experiências conscientes são plenamente explicadas pelos estados e processos cerebrais físicos e emergem deles, de forma coerente com uma elevada confiança fisicalista.)",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca (inferida, dado que a teoria assenta numa neurociência estrita e de base empírica e afirma que a consciência não é um mistério uma vez compreendida a sua construção pelos cérebros, sugerindo redutibilidade em princípio.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Inferred, as the theory relies on strict, empirically based neuroscience and claims that consciousness is not a mystery once its construction by brains is understood, suggesting reducibility in principle.)",
     "subjectivity_and_intentionality": "As experiências subjetivas, incluindo perceções, sensações, emoções e pensamentos abstratos (como a autorreflexão), são explicadas pelas interações complexas dos quatro mecanismos cerebrais centrais.",
     "qualia_account": "Os qualia (experiências fenoménicas como ver a cor ou sentir dor) são explicados de forma abrangente pela operação dos quatro mecanismos cerebrais (representação neuronal, ligação, coerência, competição).",
     "ontological_commitments": "Cérebros biológicos, representações neuronais e os seus processos dinâmicos (ligação, coerência, competição), frequentemente modelados computacionalmente.",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Empírico, neurocientífico, computacional"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável (afirma-se que os mecanismos são empiricamente plausíveis e que a teoria assenta numa neurociência estrita, usando a coerência explicativa como pedra de toque metodológica.)",
+    "testability_status": "Empirically testable (Mechanisms are claimed to be empirically plausible and the theory is built on strict neuroscience, using explanatory coherence as a methodological touchstone.)",
     "known_empirical_interventions_or_tests": "A teoria é consistente com os resultados neurocientíficos recentes relativos ao modo como as células do tempo permitem aos cérebros acompanhar as experiências. (Não foram detalhadas na fonte intervenções experimentais específicas destinadas a verificar ou falsificar a teoria.)",
     "criticisms_and_tensions": "Não são citadas críticas externas específicas no material de origem, o que indica que a crítica é mínima ou ainda não amplamente documentada no contexto fornecido.",
     "open_questions_and_limitations": "O mecanismo preciso pelo qual os quatro processos geram a sensação subjetiva do «como é ser» (qualia) não é plenamente elaborado, o que constitui uma limitação padrão das explicações fisicalistas redutivas.",
@@ -52,35 +54,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "A teoria sugere que, embora os computadores atuais não sejam conscientes, os novos modelos de IA generativa têm mecanismos semelhantes aos dos humanos, o que poderia possibilitar algum grau de consciência, sobretudo se os quatro mecanismos cerebrais centrais puderem ser modelados ou replicados computacionalmente."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "Enquanto teoria materialista, a consciência depende inteiramente do cérebro biológico; por conseguinte, a morte do cérebro resulta na não existência permanente da pessoa e da consciência."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanístico",
+      "stance": "Humanistic only",
       "rationale": "Enquanto teoria materialista, adere a uma explicação fisicalista que geralmente exclui um sentido ou propósito cósmico último, reconhecendo apenas o sentido e o valor criados pelos próprios seres humanos."
     },
     "virtual_immortality": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Se a teoria materialista explica a consciência inteiramente através de mecanismos físicos (representação neuronal, ligação, coerência, competição), então o eu mental na primeira pessoa é transferível e a imortalidade virtual é alcançável por tecnologia avançada capaz de duplicar esses processos físicos."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Representational Theories",
-        "relationship": "Extensão"
+        "name": "First-Order",
+        "relationship": "Extension"
       },
       {
-        "name": "Higher-Order Theories",
-        "relationship": "Compatível"
+        "name": "Higher-Order",
+        "relationship": "Compatible"
       },
       {
-        "name": "Mind-Brain Identity Theory",
-        "relationship": "Compatível"
+        "name": "Mind-Brain Identity",
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

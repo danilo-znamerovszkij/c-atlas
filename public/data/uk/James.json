@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "Теорія відсутності важкої проблеми у психології Вільяма Джеймса",
     "summary": "Цей погляд, що ґрунтується на інтерпретації праці Вільяма Джеймса, перевертає парадигму важкої проблеми, стверджуючи, що свідомість є не таємницею суб'єктивного досвіду, а еволюційно сформованим механізмом, призначеним для розв'язання «проблеми відбору». Цей механізм підвищує пристосованість організму, відбираючи адаптивні реакції серед розмаїття варіантів, породжених складним мозком, віддаючи перевагу наслідкам, узгодженим із довгостроковими інтересами мозку.",
-    "associated_thinkers": ["William James", "Tracy Witham"],
+    "associated_thinkers": [
+      "William James",
+      "Tracy Witham"
+    ],
     "category": "Матеріалізм",
     "subcategory": "Філогенетична еволюція",
     "core_identity_tagline": "Свідомість як механізм адаптивного відбору",
@@ -15,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість ототожнюється з механізмом відбору, який чинить тиск на користь дій, що слугують найтривалішим інтересам організму, і вкорінена в наданні переваг певним відчуттям (фактичним цілям).",
-    "ontological_status": "Функціоналістський/фізикалістський (Обґрунтування: Теорія розчиняє важку проблему, приписуючи свідомості суто функціональну, адаптивну роль, узгоджуючи її з метою матеріалізму пояснити свідомість виключно через фізичні системи).",
+    "ontological_status": "Functionalist/Physicalist (Justified: The theory dissolves the Hard Problem by assigning consciousness a purely functional, adaptive role, aligning it with Materialism's goal of explaining consciousness solely through physical systems).",
     "mind_body_relationship": "Свідомість функціонально задіяна у складних процесах мозку, зокрема пов'язана з формуванням «церебральних рефлексів», де переваги впливають на взаємодію організму й середовища.",
-    "primitive_or_emergent_status": "Емерджентна",
-    "emergence_type": "Слабка емерджентність (Обґрунтування: Свідомість постає як адаптивна необхідність, коли складність мозку призводить до розмаїття неоптимальних варіантів реакції, що передбачає емерджентність зі складної фізичної організації).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justified: Consciousness emerges as an adaptive necessity when brain complexity leads to a proliferation of non-optimal response options, implying emergence from sophisticated physical organization).",
     "subjectivity_and_intentionality": "Суб'єктивність трактується функціонально, оскільки свідомість надає перевагу одним відчуттям над іншими, тим самим визначаючи джерело «фактичних цілей» організму (інтенційних мішеней).",
     "qualia_account": "Важка проблема (пояснення квалія або «як воно — це переживати») по суті розчиняється шляхом зміщення фокусу на функціональну проблему, яку розв'язує свідомість (проблему відбору).",
     "ontological_commitments": "Складні біологічні мозки, ситуації середовища, що вимагають адаптивного відбору, та еволюційно сформовані психологічні функції (механізми відбору, переваги).",
@@ -33,7 +36,7 @@
     "causation_and_functional_role": "Свідомість є причинно дієвою, накладаючи тиск на дії, що сприяють пристосованості; її функція — розв'язувати «проблему відбору», притаманну складним системам."
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально перевірна/емпірично правдоподібна (Обґрунтування: Ґрунтується на еволюційних принципах і біологічній пристосованості, які сумісні з науковим дослідженням, класифікуючи її в межах філогенетичної еволюції).",
+    "testability_status": "Conceptually testable/Empirically plausible (Justified: Grounded in evolutionary principles and biological fitness, which are compatible with scientific study, classifying it under Phylogenetic Evolution).",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Головна концептуальна суперечність полягає в тому, чи справді свідомість добре підходить, навіть prima facie, для розв'язання «проблеми відбору» в описаному вигляді.",
     "open_questions_and_limitations": "Точна відповідність між свідомістю та «проблемою відбору» залишається відкритим питанням, як і розуміння значення схем «церебральних рефлексів».",
@@ -41,19 +44,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ймовірно",
+      "stance": "Likely",
       "rationale": "Якщо свідомість є насамперед функціональним механізмом відбору, то будь-яка штучна система, що досягає достатньої складності й потребує подібного механізму для пріоритизації адаптивних виходів, імовірно, вважалася б свідомою."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Ця інтерпретація свідомості міцно вкорінена в еволюційно сформованій біологічній необхідності та функції мозку, не залишаючи місця для тривання після біологічної смерті."
     },
     "meaning_and_purpose": {
-      "stance": "Прагматичні",
+      "stance": "Humanistic only",
       "rationale": "Сенс і мета пов'язані з біологічною функцією: підвищенням еволюційної пристосованості та досягненням «найтриваліших інтересів власника мозку»."
     },
     "virtual_immortality": {
-      "stance": "Ймовірне",
+      "stance": "Likely",
       "rationale": "Як функціоналістська теорія, дублювання або завантаження базового механізму відбору та функціональної організації мало б привести до успішного продовження свідомості."
     }
   },
@@ -61,15 +64,15 @@
     "related_theories": [
       {
         "name": "Functionalism",
-        "relationship": "Сумісна"
+        "relationship": "Compatible"
       },
       {
-        "name": "Dennett’s Multiple Drafts Model",
-        "relationship": "Сумісна"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Compatible"
       },
       {
         "name": "Chalmers’s Hard Problem",
-        "relationship": "Критика"
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

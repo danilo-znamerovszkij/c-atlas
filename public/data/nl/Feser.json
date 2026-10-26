@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Fesers neothomistische, neoaristotelische commonsense-dualisme",
     "summary": "Deze dualistische theorie stelt dat het menselijke intellect (abstracte begrippen en redeneren) een immateriële vermogen is en niet kan worden herleid tot materiële processen. Zij lost het 'moeilijke probleem' op door te pleiten voor een terugkeer naar het aristotelische commonsense-realisme, waarin zintuiglijke kwaliteiten (qualia) objectieve eigenschappen van de externe materiële wereld zijn, en ontbindt daarmee het dilemma dat wordt veroorzaakt door de moderne kale, kwantitatieve opvatting van materie.",
-    "associated_thinkers": ["Edward Feser"],
+    "associated_thinkers": [
+      "Edward Feser"
+    ],
     "category": "Dualismen",
     "subcategory": "Neothomistisch, neoaristotelisch commonsense-dualisme",
     "core_identity_tagline": "Bewustzijn via immaterieel intellect en objectieve kwaliteiten",
@@ -16,9 +18,9 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewustzijn wordt geïdentificeerd als een samengestelde werkelijkheid die bestaat uit een immaterieel intellectueel vermogen, verantwoordelijk voor bepaalde gedachte, en materiële zintuiglijke vermogens die objectieve, kwalitatieve eigenschappen in de wereld waarnemen.",
-    "ontological_status": "Dualisme (neothomistische/neoaristotelische vorm)",
+    "ontological_status": "Dualism (Neo-Thomistic/Neo-Aristotelian form)",
     "mind_body_relationship": "De ziel is een substantiële, eengemaakte werkelijkheid die fungeert als de vorm van het lichaam (thomistische opvatting). Het intellectuele vermogen (een deelverzameling van mentale toestanden) is onherleidbaar tot materiële processen. De theorie daagt de materialistische opvatting van materie uit die het geest-lichaamprobleem heeft voortgebracht.",
-    "primitive_or_emergent_status": "Niet-emergent (voor het intellect); zintuiglijke eigenschappen zijn fundamenteel voor de objectieve werkelijkheid",
+    "primitive_or_emergent_status": "Non-Emergent (for intellect); Sensory properties are fundamental to objective reality",
     "emergence_type": "",
     "subjectivity_and_intentionality": "Het vermogen van het intellect om universalia te vatten en bepaalde, ondubbelzinnige conceptuele inhoud (intentionaliteit) te behouden noodzaakt zijn onherleidbaarheid tot materiële processen. Commonsense-direct realisme betekent dat wij de wereld daadwerkelijk waarnemen zoals zij verschijnt.",
     "qualia_account": "Van kwalitatieve kenmerken (secundaire kwaliteiten zoals kleur, geluid, warmte) wordt betoogd dat het reële, objectieve eigenschappen zijn die inherent zijn aan externe materiële objecten (commonsense-direct realisme), waardoor de noodzaak vervalt om ze uitsluitend in een immateriële geest te lokaliseren zoals in cartesiaanse modellen.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filosofisch, rationalistisch, commonsense"
   },
   "empirics_and_critiques": {
-    "testability_status": "Primair conceptueel en logisch gefundeerd. Argumenten worden gebruikt om de onverenigbaarheid van reductief materialisme met bepaalde gedachte aan te tonen.",
+    "testability_status": "Primarily conceptually and logically grounded. Arguments are used to demonstrate the incompatibility of reductive materialism with determinate thought.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Critici betogen dat de neurowetenschap de verklaringskloof uiteindelijk zal dichten zonder een immaterieel intellect nodig te hebben. Zij moet een coherente verklaring van mentale causaliteit bieden, hoewel zij het cartesiaanse interactieprobleem tracht te vermijden door materie te herdefiniëren.",
     "open_questions_and_limitations": "Het precieze mechanisme waardoor het immateriële intellect met de fysische hersenen interageert blijft grotendeels onverklaard (het interactieprobleem).",
@@ -51,34 +53,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Waarschijnlijk niet",
+      "stance": "Unlikely",
       "rationale": "Indien het intellect (vereist voor bepaalde gedachte en abstracte begrippen) fundamenteel immaterieel en onherleidbaar tot materiële processen is, kan zuiver computationele/materiële AI niet het volledige menselijke bewustzijn instantiëren dat de theorie beschrijft."
     },
     "survival_beyond_death": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "De ziel wordt gedefinieerd als een immateriële en zelfstandig bestaande entiteit, in staat om op zichzelf, los van het lichaam, te bestaan en cognitieve functie uit te oefenen, al wordt dit als onnatuurlijk voor haar beschouwd."
     },
     "meaning_and_purpose": {
-      "stance": "Ja",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Het behoud van bepaalde inhoud in de gedachte, logica en intellectuele universalia, gekoppeld aan de ontologische verplichting aan de ziel, impliceert een niet-deflationaire opvatting van zin die materialistisch nihilisme vermijdt."
     },
     "virtual_immortality": {
-      "stance": "Nee",
+      "stance": "No",
       "rationale": "Virtuele onsterfelijkheid berust op computationeel functionalisme. Aangezien Feser betoogt dat intellectueel bewustzijn niet herleidbaar is tot, of verklaarbaar door, materiële processen, kan het volledige menselijke zelf niet digitaal worden geüpload."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Stump’s Thomistic Dualism", "relationship": "Verenigbaar" },
-      { "name": "Cartesian Dualism", "relationship": "Kritiek" },
       {
-        "name": "Eliminative Materialism/Illusionism",
-        "relationship": "Kritiek"
+        "name": "Stump's Thomistic Dualism",
+        "relationship": "Compatible"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Kritiek" }
+      {
+        "name": "Cartesian Dualism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Eliminative/Illusionism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Critique"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Think, McFly, think, Edward Feser", "year": 2012 },
+      {
+        "title_with_names": "Think, McFly, think, Edward Feser",
+        "year": 2012
+      },
       {
         "title_with_names": "Aristotle, call your office, Edward Feser",
         "year": 2012

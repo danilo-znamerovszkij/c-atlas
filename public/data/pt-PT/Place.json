@@ -1,0 +1,119 @@
+{
+  "id_and_class": {
+    "theory_title": "A Identidade Empírica de Place e a Falácia Fenomenológica",
+    "summary": "U. T. Place argumenta que as experiências conscientes (sensações, aparências percetivas, sonhos, imagens mentais) são processos cerebrais, tal como o relâmpago é uma descarga elétrica. Apresenta isto como uma hipótese científica contingente e diagnostica a «falácia fenomenológica», o erro de tratar relatos sobre o modo como as coisas aparecem como descrições de objetos privados que têm literalmente essas qualidades.",
+    "associated_thinkers": [
+      "Ullin Thomas Place"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Identidade mente-cérebro",
+    "core_identity_tagline": "A consciência como processo cerebral identificado empiricamente",
+    "classification_tags": [
+      "identity theory",
+      "phenomenological fallacy",
+      "behaviorism",
+      "philosophy of mind",
+      "neural process"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é constituída por processos no cérebro. A identidade é de composição, descoberta empiricamente, e não de definição ou de significado.",
+    "ontological_status": "Physicalism (reductive, type identity)",
+    "mind_body_relationship": "Identidade mente-cérebro, restrita aos processos conscientes. A introspeção e a neurofisiologia são dois modos de observação de um mesmo acontecimento, tal como a visão direta e as leituras de instrumentos identificam ambas o relâmpago.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (identity: conscious processes are brain processes, not something arising from them).",
+    "subjectivity_and_intentionality": "Place trata a consciência como um genuíno processo interior e rejeita a visão de Ryle dos relatos em primeira pessoa como meras declarações. Os conceitos disposicionais, como crença, desejo e intenção, deixa-os para uma análise genericamente behaviorista.",
+    "qualia_account": "Descrever uma pós-imagem como verde não atribui verdura a um objeto interior; relata ter o tipo de experiência que normalmente se tem ao olhar para uma mancha de luz verde. Nenhuma coisa verde está no cérebro, nem em lado nenhum, e a teoria continua a dever uma explicação da própria cor.",
+    "ontological_commitments": "Apenas processos cerebrais físicos; nenhum campo fenoménico, ecrã interior ou substância mental não física.",
+    "epistemic_access": "O relato introspetivo e a neurofisiologia dão descrições independentes do mesmo acontecimento; a identidade vale quando a fisiologia explica porque é que os sujeitos relatam o que relatam.",
+    "constituents_and_structure": "Processos conscientes ocorrentes, identificados com tipos repetíveis de processo neuronal, embora estes possam requerer uma individuação mais flexível do que as primeiras formulações supunham."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica: sensações, aparências percetivas, sonhos e imagens mentais. Os estados mentais disposicionais ficam excluídos.",
+    "distinctive_mechanism_or_principle": "Dois movimentos: separar o «é» da definição do «é» da composição, e diagnosticar a falácia fenomenológica.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "No cérebro; cabe à neurociência determinar que padrões neuronais são conscientes.",
+    "causation_and_functional_role": "Em trabalho tardio, Place propôs que um subsistema automático, «o zombie interior», trata as entradas não problemáticas e alerta a consciência apenas para as problemáticas.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Place separa as propriedades representadas na experiência das propriedades do processo que experiencia: um estado cerebral não precisa de ser verde para ser uma experiência de verde, antecipando conceções adverbiais e representacionais.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Frases como «a consciência é um processo cerebral» não precisam de afirmar sinonímia mais do que «esta mesa é uma velha caixa de embalagem».",
+      "As diferenças de significado e de método de verificação não mostram que duas descrições identificam coisas diferentes.",
+      "A convicção de que a experiência não pode ser neuronal assenta na falácia fenomenológica, que postula um ecrã interior com qualidades aparentes.",
+      "A identidade é mais forte do que a correlação e vale quando o processo neuronal explica os relatos introspetivos do sujeito."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica: análise conceptual de enunciados de identidade, ficando a própria identidade como hipótese empírica."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "Place deixa a confirmação à neurociência: a hipótese confirma-se se a neurofisiologia conseguir explicar o que a introspeção relata.",
+    "criticisms_and_tensions": "Explicar porque é que um sujeito relata uma pós-imagem verde não é obviamente o mesmo que explicar porque é que o processo neuronal tem carácter fenoménico verde. A realização múltipla em organismos com sistemas nervosos diferentes ameaça a identidade de tipo irrestrita, e as identidades relativas à espécie ou funcionais respondem-lhe apenas abdicando de mapeamentos universais simples.",
+    "open_questions_and_limitations": "Place mostrou que a identidade é uma hipótese razoável que a lógica não pode descartar, e não que seja verdadeira; as identidades neuronais detalhadas e a sua inteligibilidade explicativa ficam por conta da ciência.",
+    "ontological_coherence": "Fisicalismo coerente e deliberadamente modesto; remove obstáculos conceptuais à identidade em vez de construir um sistema completo."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Uncertain",
+      "rationale": "Place identifica os processos conscientes com tipos de processo cerebral, o que torna duvidosa a consciência das máquinas, a menos que esses tipos possam ser individuados de forma mais flexível, uma questão que deixou em aberto."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Como os episódios conscientes são processos cerebrais, não podem continuar quando o cérebro para."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "A perspetiva rejeita qualquer domínio interior não físico e trata a consciência como um processo biológico."
+    },
+    "virtual_immortality": {
+      "stance": "Unlikely",
+      "rationale": "Numa perspetiva de identidade de tipo, uma simulação só reproduziria as experiências de uma pessoa se executasse os mesmos tipos de processo cerebral."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Smart’s Topic-Neutral Identity",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Ryle’s Category-Dissolution of Inner-Theater Consciousness",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Feigl's Double Knowledge of Raw Feels",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Putnam’s Machine Functionalism",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Is consciousness a brain process?, U. T. Place",
+        "year": 1956
+      },
+      {
+        "title_with_names": "The concept of heed, U. T. Place",
+        "year": 1954
+      },
+      {
+        "title_with_names": "Thirty years on: Is consciousness still a brain process?, U. T. Place",
+        "year": 1988
+      },
+      {
+        "title_with_names": "Connectionism and the problem of consciousness, U. T. Place",
+        "year": 1999
+      },
+      {
+        "title_with_names": "Identifying the Mind: Selected Papers of U. T. Place, G. Graham and E. R. Valentine (eds.)",
+        "year": 2004
+      },
+      {
+        "title_with_names": "The Concept of Mind, Gilbert Ryle",
+        "year": 1949
+      }
+    ]
+  }
+}

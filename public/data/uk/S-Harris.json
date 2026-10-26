@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Таємниця свідомості С. Гарріса",
     "summary": "Ця перспектива, запропонована радше як виклик, ніж як приписова теорія, обрамлює свідомість як непереборну таємницю, яку не можна розв'язати суто фізичними засобами. Гарріс доводить, що фізичні описи «німі» щодо суб'єктивного досвіду; єдине, що засвідчує чутливість, — це сама свідомість, що створює фундаментальну пояснювальну прірву. Він залишається песимістом щодо того, чи здатна наука розвіяти цю таємницю.",
-    "associated_thinkers": ["Sam Harris"],
+    "associated_thinkers": [
+      "Sam Harris"
+    ],
     "category": "Теорії-виклики",
     "subcategory": "Таємниця свідомості",
     "core_identity_tagline": "«Свідомість як непереборна прірва»",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість визначається як суб'єктивність чи чутливість, яка є фундаментально таємничою й непоясненною суто фізичними процесами.",
-    "ontological_status": "Скептицизм/містеріанство (Обґрунтування: погляд утверджує філософську нерозв'язність і непереборну природу проблеми розуму й тіла, узгоджуючись з основними засадами містеріанства, хоча й не приймаючи конкретної альтернативної онтології.)",
+    "ontological_status": "Skeptical/Mysterianism (Justified: The view asserts the philosophical intractability and unbridgeable nature of the mind-body problem, aligning with core tenets of mysterianism, though without adopting a specific alternative ontology.)",
     "mind_body_relationship": "Непереборна прірва / нередуктивна кореляція (Обґрунтування: Гарріс стверджує, що хоча фізичні процеси корелюють зі свідомістю, жоден аналіз цих процесів не може логічно дати картину свідомості, залишаючи непереборну прірву.)",
-    "primitive_or_emergent_status": "Таємниця (Обґрунтування: Гарріс відмовляється повністю підтримати емерджентність, стверджуючи, що хоча свідомість може бути закономірним продуктом несвідомої обробки, він не вважає це твердження змістовним для пояснення чутливості.)",
-    "emergence_type": "Таємниця / непоясненна (Обґрунтування: основна засновок полягає в тому, що механізм, який пов'язує складність із чутливістю, фундаментально невідомий і, ймовірно, непізнаваний людським інтелектом, що унеможливлює класифікацію за стандартною емерджентністю.)",
+    "primitive_or_emergent_status": "Mystery (Justified: Harris declines to fully endorse emergence, stating that while consciousness may be the lawful product of unconscious processing, he does not find that sentence meaningful in explaining sentience.)",
+    "emergence_type": "Mystery / Unexplained (Justified: The core premise is that the mechanism linking complexity to sentience is fundamentally unknown and likely unknowable by human intelligence, preventing classification under standard emergence.)",
     "subjectivity_and_intentionality": "Суб'єктивність є єдиним засвідченням свідомості; єдиним ключем до суб'єктивності є сама суб'єктивність.",
     "qualia_account": "Квалія (те, яко́во «бути чимось») є феноменом, щодо якого фізичні події «німі», що й створює непереборну таємницю.",
     "ontological_commitments": "Фізичні процеси та нередукована чутливість (Обґрунтування: припускає існування обох царин, але зобов'язується визнати нередукованість останньої на основі інтроспективних, а не фізично-описових даних.)",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Філософський, інтроспекція, скептицизм"
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально неперевірна (Обґрунтування: якщо прірва непереборна, як стверджує Гарріс, то таємницю не можна розвіяти емпіричною наукою в її нинішній практиці.)",
+    "testability_status": "Conceptually Untestable (Justified: If the gap is unbridgeable, as Harris claims, the mystery cannot be dispelled by empirical science as currently practiced.)",
     "known_empirical_interventions_or_tests": "Немає (Обґрунтування: рамка є діагнозом неспроможності науки розв'язати важку проблему й не пропонує емпіричних перевірок самої таємниці.)",
     "criticisms_and_tensions": "Функціонує насамперед як критика проти редукціонізму й наукового оптимізму щодо свідомості, класифікуючи це питання як остаточну таємницю, що редукціоністи відкидають як песимізм (містеріанство).",
     "open_questions_and_limitations": "Фундаментальним обмеженням є нездатність зрозуміти, як свідомість пов'язана з несвідомою обробкою інформації чи складністю, що робить походження чутливості непоясненним.",
@@ -50,35 +52,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Якщо свідомість є нередукованою суб'єктивністю, відсутньою у фізичних описах, то розвинені обчислення (ШІ, який є суто фізичною складністю) не зможуть породити справжню чутливість."
     },
     "survival_beyond_death": {
-      "stance": "Ні (умовно)",
+      "stance": "No",
       "rationale": "Будучи натуралістом, Гарріс імпліцитно узгоджується з поглядом, що свідомість прив'язана до фізичного організму, а отже її припинення призводить до остаточного неіснування, попри таємничість її природи за життя."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичний",
+      "stance": "Humanistic only",
       "rationale": "Таємниця не передбачає космічної мети, але Гарріс обстоює пошук особистих істин через інтроспекцію, узгоджуючись із самостійно відкритою (натуралізованою) духовністю та сенсом."
     },
     "virtual_immortality": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Якщо свідомість не можна пояснити суто фізичними процесами, то відтворення чи завантаження фізичного субстрату не зможе вловити чи відтворити суттєву суб'єктивну самість."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
-        "relationship": "Перетин"
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
+        "relationship": "Overlap"
       },
       {
-        "name": "Materialism Theories",
-        "relationship": "Критика"
+        "name": "Materialism",
+        "relationship": "Critique"
       },
       {
-        "name": "Eliminative Materialism/Illusionism",
-        "relationship": "Сумісна (як відкидання наївного реалізму щодо фізичного пояснення, хоча Гарріс усе ж утверджує реальність свідомості)"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Compatible (as a rejection of naive realism about physical explanation, though Harris still asserts the reality of consciousness)"
       }
     ],
     "sources_and_references": [

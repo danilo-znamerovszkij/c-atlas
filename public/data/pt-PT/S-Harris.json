@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "O Mistério da Consciência de S. Harris",
     "summary": "Esta perspetiva, apresentada como um desafio e não como uma teoria prescritiva, enquadra a consciência como um mistério intransponível que não pode ser resolvido por meios puramente físicos. Harris argumenta que as descrições físicas são 'mudas' quanto à experiência subjetiva; a única coisa que atesta a senciência é a própria consciência, criando um abismo explicativo fundamental. Mantém-se pessimista quanto à capacidade de a ciência dissipar este mistério.",
-    "associated_thinkers": ["Sam Harris"],
+    "associated_thinkers": [
+      "Sam Harris"
+    ],
     "category": "Teorias de Desafio",
     "subcategory": "Mistério da Consciência",
     "core_identity_tagline": "‘A Consciência como Abismo Intransponível’",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada como subjetividade ou senciência, que é fundamentalmente misteriosa e inexplicável por processos puramente físicos.",
-    "ontological_status": "Ceticismo/Misterianismo (Justificação: a visão afirma a intratabilidade filosófica e a natureza intransponível do problema mente-corpo, alinhando-se com os princípios centrais do misterianismo, embora sem adotar uma ontologia alternativa específica.)",
+    "ontological_status": "Skeptical/Mysterianism (Justified: The view asserts the philosophical intractability and unbridgeable nature of the mind-body problem, aligning with core tenets of mysterianism, though without adopting a specific alternative ontology.)",
     "mind_body_relationship": "Abismo intransponível / correlação não redutiva (Justificação: Harris afirma que, embora os processos físicos se correlacionem com a consciência, nenhuma análise desses processos pode produzir logicamente uma imagem da consciência, deixando um abismo intransponível.)",
-    "primitive_or_emergent_status": "Mistério (Justificação: Harris recusa-se a subscrever plenamente a emergência, afirmando que, ainda que a consciência possa ser o produto conforme a leis do processamento inconsciente, não considera essa frase esclarecedora quanto à senciência.)",
-    "emergence_type": "Mistério / Inexplicado (Justificação: a premissa central é que o mecanismo que liga a complexidade à senciência é fundamentalmente desconhecido e provavelmente incognoscível pela inteligência humana, o que impede a sua classificação sob a emergência padrão.)",
+    "primitive_or_emergent_status": "Mystery (Justified: Harris declines to fully endorse emergence, stating that while consciousness may be the lawful product of unconscious processing, he does not find that sentence meaningful in explaining sentience.)",
+    "emergence_type": "Mystery / Unexplained (Justified: The core premise is that the mechanism linking complexity to sentience is fundamentally unknown and likely unknowable by human intelligence, preventing classification under standard emergence.)",
     "subjectivity_and_intentionality": "A subjetividade é o único testemunho da consciência; o único indício da subjetividade é a própria subjetividade.",
     "qualia_account": "Os qualia (o que é 'como ser algo') são o fenómeno sobre o qual os eventos físicos são 'mudos', criando assim o mistério intransponível.",
     "ontological_commitments": "Processos físicos e senciência irredutível (Justificação: assume a existência de ambos os domínios, mas compromete-se com a irredutibilidade do segundo com base em evidência introspetiva, e não em descrição física.)",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico, Introspeção, Ceticismo"
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptualmente não testável (Justificação: se o abismo é intransponível, como Harris afirma, o mistério não pode ser dissipado pela ciência empírica tal como é atualmente praticada.)",
+    "testability_status": "Conceptually Untestable (Justified: If the gap is unbridgeable, as Harris claims, the mystery cannot be dispelled by empirical science as currently practiced.)",
     "known_empirical_interventions_or_tests": "Nenhum (Justificação: o enquadramento é um diagnóstico do fracasso da ciência em abordar o problema difícil e não propõe testes empíricos para o próprio mistério.)",
     "criticisms_and_tensions": "Funciona sobretudo como uma crítica ao reducionismo e ao otimismo científico relativamente à consciência, classificando a questão como um mistério último, que os reducionistas rejeitam como pessimismo (misterianismo).",
     "open_questions_and_limitations": "A limitação fundamental é a incapacidade de compreender como a consciência se relaciona com o processamento inconsciente de informação ou com a complexidade, tornando inexplicável a origem da senciência.",
@@ -50,35 +52,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "Se a consciência é subjetividade irredutível, ausente das descrições físicas, então a computação avançada (a IA, que é pura complexidade física) não conseguirá gerar senciência genuína."
     },
     "survival_beyond_death": {
-      "stance": "Não (Condicional)",
+      "stance": "No",
       "rationale": "Enquanto naturalista, Harris alinha-se implicitamente com a visão de que a consciência está ligada ao organismo físico, o que significa que a sua cessação resulta em inexistência permanente, apesar do mistério da sua natureza enquanto vivo."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanístico",
+      "stance": "Humanistic only",
       "rationale": "O mistério não implica propósito cósmico, mas Harris defende a busca de verdades pessoais através da introspeção, alinhando-se com uma espiritualidade e um sentido autodescobertos (naturalizados)."
     },
     "virtual_immortality": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "Se a consciência não pode ser explicada por processos puramente físicos, então a duplicação ou o carregamento do substrato físico não conseguirá captar ou recriar o eu subjetivo essencial."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
-        "relationship": "Sobreposição"
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
+        "relationship": "Overlap"
       },
       {
-        "name": "Materialism Theories",
-        "relationship": "Crítica"
+        "name": "Materialism",
+        "relationship": "Critique"
       },
       {
-        "name": "Eliminative Materialism/Illusionism",
-        "relationship": "Compatível (enquanto rejeição do realismo ingénuo acerca da explicação física, embora Harris continue a afirmar a realidade da consciência)"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Compatible (as a rejection of naive realism about physical explanation, though Harris still asserts the reality of consciousness)"
       }
     ],
     "sources_and_references": [

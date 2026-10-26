@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "O Fisicalismo Não Redutivo de Murphy",
     "summary": "Esta teoria afirma que a consciência é totalmente física, surgindo unicamente dos cérebros biológicos, mas considera as propriedades ou os estados mentais ontologicamente distintos e irredutíveis aos estados físicos subjacentes . Procura oferecer uma explicação não dualista da pessoa humana que seja filosoficamente robusta, cientificamente compatível e teologicamente aceitável .",
-    "associated_thinkers": ["Nancey Murphy"],
+    "associated_thinkers": [
+      "Nancey Murphy"
+    ],
     "category": "Fisicalismo Não Redutivo",
     "subcategory": "Fisicalismo Não Redutivo",
     "core_identity_tagline": "A Mente é uma Propriedade Física Irredutivelmente Distinta",
@@ -15,16 +17,15 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência (os estados ou propriedades mentais) é identificada como distinta, mas totalmente dependente dos estados físicos do cérebro e por estes gerada, partilhando frequentemente características com o dualismo de propriedades .",
-    "ontological_status": "Fisicalismo Não Redutivo",
+    "ontological_status": "Non-Reductive Physicalism",
     "mind_body_relationship": "Os estados mentais são inteiramente físicos na sua origem (causalmente gerados pelo cérebro), mas são ontologicamente irredutíveis . Esta relação é frequentemente caracterizada pela causação descendente .",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência Forte (Inferida, justificada pela dependência que Murphy tem da teoria dos sistemas, da teoria do caos e da causação descendente para alcançar a irredutibilidade em princípio e derrotar o determinismo reducionista) .",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence (Inferred, justified by Murphy's reliance on systems theory, chaos theory, and downward causation to achieve irreducibility in principle and defeat reductionist determinism) .",
     "subjectivity_and_intentionality": "Presume-se que estas características mentais são propriedades/aspetos reais e irredutíveis do organismo humano como um todo, necessárias à consciência .",
     "qualia_account": "As propriedades fenomenais qualitativas são estados mentais irredutíveis que surgem dos processos físicos do cérebro . O cerne da teoria assenta na manutenção da realidade destas propriedades ao mesmo tempo que rejeita o reducionismo .",
     "ontological_commitments": "Substância física; propriedades ou estados mentais não redutíveis; organização causal hierárquica (causação descendente) .",
-    "epistemic_access": "A consciência é cognoscível tanto através da investigação filosófica, que demonstra a irredutibilidade, como pela compatibilidade com a neurociência cognitiva empírica .",
-    "constituents_and_structure": "A substância única é inteiramente física; os estados mentais são características de nível superior do sistema deste organismo físico, surgindo através de dinâmicas complexas e não lineares .",
-    "epistemic_access": "Acessível através de argumentos filosóficos que demonstram a não redutibilidade, aliados a descobertas empíricas da neurociência cognitiva ."
+    "epistemic_access": "Acessível através de argumentos filosóficos que demonstram a não redutibilidade, aliados a descobertas empíricas da neurociência cognitiva .",
+    "constituents_and_structure": "A substância única é inteiramente física; os estados mentais são características de nível superior do sistema deste organismo físico, surgindo através de dinâmicas complexas e não lineares ."
   },
   "mechanism_and_dynamics": {
     "scope_of_consciousness": "Fenomenal; Propriedades Mentais (incluindo a intencionalidade); Eficácia Causal; Autoconsciência (inferida através de uma antropologia não dualista) .",
@@ -43,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico, Neurocientífico (compatibilidade), Teológico"
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptualmente testável face a argumentos filosóficos (como o fecho causal)  e consistente com a evidência empírica que mostra uma forte correlação mente-cérebro .",
+    "testability_status": "Conceptually testable against philosophical arguments (like causal closure)  and consistent with empirical evidence showing strong mind-brain correlation .",
     "known_empirical_interventions_or_tests": [
       "Estudos de localização em neurociência (utilizados para argumentar a favor da dependência física) "
     ],
@@ -53,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Se a consciência é uma propriedade emergente não redutível, embora totalmente física, de sistemas físicos complexos (o 'tipo certo' de física), deverá ser instanciável em substratos artificiais suficientemente complexos ."
     },
     "survival_beyond_death": {
-      "stance": "Não, com exceção condicional",
+      "stance": "Conditional",
       "rationale": "Como a consciência depende inteiramente do cérebro biológico, perece com a morte corporal . A sobrevivência requer um mecanismo externo específico, como a intervenção divina (ressurreição dos mortos) ."
     },
     "meaning_and_purpose": {
-      "stance": "Último",
+      "stance": "Cosmic/Ultimate",
       "rationale": "A teoria é frequentemente empregue num quadro teísta (antropologia cristã) para sustentar um sentido, propósito e valor últimos derivados das intenções de Deus para a pessoa psicossomática ."
     },
     "virtual_immortality": {
-      "stance": "Altamente Provável",
+      "stance": "Likely",
       "rationale": "Pressupondo a duplicação perfeita do complexo sistema físico necessário (o cérebro), as propriedades mentais emergentes e irredutíveis também têm de ser duplicadas, assegurando a continuidade na primeira pessoa se a tecnologia conseguir alcançar essa complexidade ."
     }
   },
@@ -73,19 +74,19 @@
     "related_theories": [
       {
         "name": "Property Dualism",
-        "relationship": "Sobreposição (frequentemente vista como uma forma de dualismo de propriedades)"
+        "relationship": "Overlap (often seen as a form of property dualism)"
       },
       {
-        "name": "Emergence (Strong)",
-        "relationship": "Influência (requer causação descendente para coerência filosófica)"
+        "name": "Emergence",
+        "relationship": "Influence (requires downward causation for philosophical coherence)"
       },
       {
-        "name": "Substance Dualism",
-        "relationship": "Crítica (sinaliza explicitamente oposição aos dualismos antropológicos de corpo e alma)"
+        "name": "Dualism",
+        "relationship": "Critique (explicitly signals opposition to anthropological dualisms of body and soul)"
       },
       {
         "name": "Polkinghorne's Dual-Aspect Monism",
-        "relationship": "Compatível (partilha o objetivo de um fisicalismo teísta não dualista e a dependência de informação/padrão/complexidade)"
+        "relationship": "Compatible (Shares goal of nondualistic theistic physicalism and reliance on information/pattern/complexity)"
       }
     ],
     "sources_and_references": [

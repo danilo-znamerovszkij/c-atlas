@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "O Computacionalismo Biológico de Malinkovic e Aru",
+    "summary": "Milinkovic e Aru defendem que a consciência depende de um tipo de computação que só substratos biológicos realizam, no qual as propriedades físicas, energéticas e químicas do tecido fazem parte da própria computação. Sob limites metabólicos rigorosos, o cérebro processa informação em escalas que não podem ser separadas e mistura impulsos discretos com processos contínuos, como os potenciais graduados e os campos elétricos. Os sistemas digitais separam o algoritmo do hardware, pelo que, nesta perspetiva, carecem daquilo que a consciência exige.",
+    "associated_thinkers": [
+      "Borjan Milinkovic",
+      "Jaan Aru"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Computacional",
+    "core_identity_tagline": "«A consciência como computação biológica multiescala, ligada ao substrato»",
+    "classification_tags": [
+      "substrate dependence",
+      "multiscale",
+      "metabolism",
+      "hybrid computation",
+      "artificial consciousness"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência depende de uma computação biológica em que o substrato é o algoritmo. Potenciais de membrana, fluxos iónicos, difusão química e campos fazem a computação, sem nenhuma camada que separe o software do hardware.",
+    "ontological_status": "Physicalism (biological computationalism)",
+    "mind_body_relationship": "O processamento consciente está ligado à dinâmica física concreta do tecido vivo. Os autores contrapõem a sua perspetiva ao funcionalismo computacional, que torna o meio irrelevante, e dão ao naturalismo biológico uma explicação computacional.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Emergence through cross-scale closure, in which lower scales generate higher ones while higher-scale dynamics constrain the lower (‘dynamico-structural co-determination’)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "Neurónios, dendrites, potenciais graduados, fluxos iónicos, campos elétricos extracelulares, moléculas de sinalização subcelulares como a Proteína Quinase A e o orçamento metabólico que os molda.",
+    "epistemic_access": "Através da neurociência da dinâmica neuronal multiescala e da comparação entre arquiteturas biológicas e digitais.",
+    "constituents_and_structure": "Uma heterarquia: impulsos discretos montados sobre potenciais de membrana graduados, fluxos iónicos e potenciais de campo, que por sua vez assentam numa anatomia cortical em camadas, sem nenhuma escala privilegiada."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Processamento consciente em geral; as condições para a consciência artificial",
+    "distinctive_mechanism_or_principle": "Inseparabilidade das escalas mais computação híbrida. As computações a uma escala não se podem separar das de outras escalas, e uma «aritmética contínua» de valores contínuos funciona a par dos impulsos discretos.",
+    "dynamics_of_emergence": "Processos subcelulares lentos acumulam evidência durante intervalos mais longos e desencadeiam transições discretas ao nível da rede. A Proteína Quinase A, por exemplo, compara a atividade interna com a dos neurónios pós-sinápticos e sinaliza quando um objetivo da rede é atingido.",
+    "location_and_distribution": "Distribuída por várias escalas do cérebro, desde a química subcelular e as dendrites até aos campos e às redes corticais.",
+    "causation_and_functional_role": "Os campos extracelulares transportam informação que orienta e sincroniza a descarga neuronal através do acoplamento efáptico, e a dinâmica de escala superior condiciona a atividade de escala inferior.",
+    "integration_or_binding": "A informação é integrada entre escalas por agregação (coarse-graining) de eventos discretos microscópicos em dinâmica contínua macroscópica, mantendo as interdependências entre escalas.",
+    "information_flow_or_representation": "As dendrites realizam localmente operações não lineares e agregam as entradas antes de chegarem ao soma. Neurónios sem impulsos retransmitem sinais graduados que transportam mais informação por segundo do que os impulsos, dispendiosos.",
+    "evolutionary_account": "A organização do cérebro evoluiu sob um orçamento energético estrito de cerca de 20 watts, o que o obrigou a maximizar a computação por unidade de energia através da agregação e da integração entre escalas.",
+    "core_claims_and_evidence": [
+      "As restrições metabólicas são forças constitutivas que moldam a forma como os sistemas neuronais processam, transmitem e integram informação entre escalas.",
+      "Os sistemas biológicos computam de forma heterárquica, com co-determinação contínua entre escalas, ao contrário das camadas de abstração unidirecionais das máquinas digitais.",
+      "O tecido neuronal combina impulsos discretos com processos contínuos, como os potenciais graduados e os efeitos de campo efáticos.",
+      "As máquinas de Von Neumann, incluindo os grandes modelos de linguagem, separam memória, processamento e controlo e dissociam a informação do substrato, pelo que carecem da estrutura causal de que a consciência necessita."
+    ],
+    "basis_of_belief_or_evidence_type": "Neurociência teórica, apoiada em resultados sobre computação dendrítica, acoplamento efáptico e energética neuronal"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Esta perspetiva desafia diretamente o funcionalismo computacional, cujos defensores sustentam que o padrão certo de processamento de informação basta, seja qual for o meio.",
+    "open_questions_and_limitations": "Os autores notam que ainda nenhum quadro coerente explica como a computação biológica difere da digital e por que razão essa diferença importa para a consciência, o que a sua proposta pretende fornecer. Não especifica de que modo a computação biológica multiescala dá origem à experiência subjetiva.",
+    "ontological_coherence": "Coerente com o fisicalismo e próxima do naturalismo biológico, mantendo um vocabulário computacional."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "A IA digital atual, incluindo os grandes modelos de linguagem, não pode ser consciente. Milinkovic e Aru admitem que substratos biomiméticos com dinâmica híbrida, multiescala e limitada pela energia possam sê-lo."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Dado que a consciência depende da dinâmica, limitada pela energia, do tecido vivo, decorre desta perspetiva que termina quando essa dinâmica cessa."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "No",
+      "rationale": "Uma simulação digital modela as escalas do cérebro como objetos matemáticos separados e não consegue replicar a computação ligada ao substrato que os autores consideram necessária."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Searle's Biological Naturalism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Computational Theories",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Ephaptic Coupling",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Dendritic Integration Theory",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Biological Computationalism (Landscape of Consciousness entry), Borjan Milinkovic and Jaan Aru",
+        "year": 2025
+      }
+    ]
+  }
+}

@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "A visão epistémica e o fisicalismo não padronizado de Stoljar",
     "summary": "Esta teoria defende o fisicalismo contra os argumentos antimaterialistas ao introduzir a hipótese da ignorância, que postula que desconhecemos profundamente um tipo de facto ou propriedade física relevante para a consciência. Argumenta que o alegado problema da compatibilidade entre a consciência e o fisicalismo decorre das nossas atuais limitações epistémicas, e não de uma falha ontológica do próprio fisicalismo.",
-    "associated_thinkers": ["Daniel Stoljar"],
+    "associated_thinkers": [
+      "Daniel Stoljar"
+    ],
     "category": "Materialismo",
     "subcategory": "Filosófico",
     "core_identity_tagline": "O fisicalismo defendido através da ignorância epistémica",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é um fenómeno físico, constituído por um tipo de facto ou propriedade física atualmente desconhecido para nós. Os estados conscientes dependem de outras coisas e não são fundamentais.",
-    "ontological_status": "Fisicalismo não padronizado",
+    "ontological_status": "Non-Standard Physicalism",
     "mind_body_relationship": "A consciência é idêntica a propriedades físicas (identidade de ocorrências) ou necessitada por elas, mas a natureza específica desta propriedade física é desconhecida devido à ignorância epistémica. Esta relação defende o fisicalismo como uma verdade empírica.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência epistémica. Justifica-se porque, embora a teoria defenda o fisicalismo (sugerindo emergência fraca ou identidade em princípio), a característica definidora é que os factos físicos relevantes são atualmente incognoscíveis pelos métodos padrão, mantendo uma lacuna explicativa baseada na ignorância.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Epistemic Emergence. This is justified because while the theory defends physicalism (suggesting weak emergence or identity in principle), the defining characteristic is that the relevant physical facts are currently unknowable by standard methods, maintaining an explanatory gap based on ignorance.",
     "subjectivity_and_intentionality": "A subjetividade e a intencionalidade são em última análise realizadas pelas propriedades físicas desconhecidas relevantes para a consciência, de forma coerente com a ontologia fisicalista global defendida pela teoria. O mecanismo específico de realização é atualmente desconhecido.",
     "qualia_account": "O caráter qualitativo (qualia) corresponde a factos ou propriedades físicas específicos e desconhecidos. Os argumentos antifisicalistas baseados nos qualia (como o Argumento da Concebibilidade) falham porque pressupõem falsamente um conhecimento completo destes factos físicos subjacentes.",
     "ontological_commitments": "Propriedades físicas, especificamente um tipo de facto ou propriedade física relevante para a consciência, cuja natureza é atualmente objeto de profunda ignorância. Compromete-se também com a existência da consciência e com a estrutura global do fisicalismo.",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico (análise e defesa conceptual)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente restringido. Stoljar acredita ser possível uma ciência da consciência que estabeleça leis empíricas, embora duvide que se possa construir uma teoria sistemática completa.",
+    "testability_status": "Empirically constrained. Stoljar believes a science of consciousness establishing empirical laws is possible, though he doubts a complete systematic theory can be constructed.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "A teoria assenta no pressuposto de uma profunda ignorância quanto a factos físicos-chave, o que os críticos poderão ver como um adiamento da explicação. Critica também o «fisicalismo padrão», mantendo-se ela própria não tradicional.",
     "open_questions_and_limitations": "A identidade e a natureza precisas dos factos ou propriedades físicos relevantes para a consciência permanecem desconhecidas. A possibilidade de alcançar um conhecimento sistemático das leis que regem a consciência é também considerada implausível por Stoljar.",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Enquanto defesa do fisicalismo, a teoria afirma que a consciência é física. Por conseguinte, em princípio, qualquer sistema artificial que realize os factos físicos necessários (mesmo os atualmente desconhecidos) deveria tornar-se consciente."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A consciência depende de factos e processos físicos e não é fundamental. Com a destruição do substrato físico (o cérebro), a consciência deixa de existir, de forma coerente com o fisicalismo."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanístico",
+      "stance": "Humanistic only",
       "rationale": "De forma coerente com o seu compromisso fisicalista fundacional, a teoria não fornece qualquer base para um sentido ou propósito cósmico último; o sentido é construído por agentes conscientes."
     },
     "virtual_immortality": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Se a consciência é inteiramente física, o eu mental na primeira pessoa é potencialmente transferível, desde que o substrato físico complexo (incluindo as propriedades desconhecidas identificadas na hipótese da ignorância) possa ser duplicado num meio não biológico."
     }
   },
@@ -70,19 +72,19 @@
     "related_theories": [
       {
         "name": "Conceivability Argument",
-        "relationship": "Crítica/Resposta"
+        "relationship": "Critique/Response"
       },
       {
         "name": "Knowledge Argument",
-        "relationship": "Crítica/Resposta"
+        "relationship": "Critique/Response"
       },
       {
-        "name": "Standard Physicalism",
-        "relationship": "Crítica"
+        "name": "Materialism",
+        "relationship": "Critique"
       },
       {
-        "name": "Kind’s Dualism 2.0",
-        "relationship": "Interlocutor em debate/Projeto partilhado"
+        "name": "Kind's Dualism 2.0",
+        "relationship": "Debate Partner/Shared Project"
       }
     ],
     "sources_and_references": [

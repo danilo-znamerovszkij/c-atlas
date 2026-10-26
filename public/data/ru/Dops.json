@@ -2,7 +2,11 @@
   "id_and_class": {
     "theory_title": "Теоретическая система DOPS",
     "summary": "Эта система, поддерживаемая эмпирическими исследованиями таких явлений, как околосмертные переживания и реинкарнация, отстаивает трансмиссионную, или фильтрационную, модель сознания, где мозг действует как интерфейс, а не как производитель сознания. Она систематически бросает вызов конвенциональному физикализму, доказывая, что сознание независимо от организма и потенциально основоположно для реальности.",
-    "associated_thinkers": ["Ed Kelly", "Ian Stevenson", "Bruce Greyson"],
+    "associated_thinkers": [
+      "Ed Kelly",
+      "Ian Stevenson",
+      "Bruce Greyson"
+    ],
     "category": "Аномальные и изменённые состояния",
     "subcategory": "Исследовательский вызов физикализму/материализму",
     "core_identity_tagline": "Сознание как отфильтрованное универсальное существование",
@@ -16,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание отождествляется с более всеобъемлющей и вместительной сущностью («Большим»), которая существует независимо от организма и проявляется в повседневном опыте через фильтрующий механизм в мозге.",
-    "ontological_status": "Объективный, или реалистический, идеализм (или панентеизм)",
+    "ontological_status": "Objective or Realist Idealism (or Panentheism)",
     "mind_body_relationship": "Трансмиссионная/фильтрационная модель, где мозг служит сенсомоторным интерфейсом, который фильтрует или редуцирует более всеобъемлющее, независимое сознание, противостоя физикалистской модели «производства».",
-    "primitive_or_emergent_status": "Первичный",
-    "emergence_type": "Неприменимо; сознание фундаментально первично или универсально (идеалистическая/панентеистическая основа), а мозг действует как фильтр/редуктор.",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "Not applicable; consciousness is fundamentally primitive or universal (Idealist/Panentheistic basis) , with the brain acting as a filter/reducer.",
     "subjectivity_and_intentionality": "Производна от взаимодействия между независимым, всеобъемлющим сознанием («Большим») и сенсомоторным интерфейсом (мозгом). Детали конкретного механизма ограничены исходным материалом.",
     "qualia_account": "Качественный опыт присущ независимому, всеобъемлющему сознанию (идеалистическая основа) и передаётся или фильтруется мозгом. Несводимая природа феноменального сознания используется для атаки на физикализм.",
     "ontological_commitments": "Независимое, нефизическое сознание («Большое»); психофизические явления (пси, данные о выживании), несводимые к физикализму; объективный или реалистический идеализм/панентеизм как лежащая в основе метафизика.",
@@ -43,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Эмпирическое (через структурированные исследования аномальных явлений, например CORT, околосмертных переживаний); философское (идеализм/панентеизм); феноменологическое (мистические и нестандартные переживания)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Эмпирически проверяема через продолжающееся исследование аномальных явлений (CORT, верификация околосмертных переживаний), используемое для фальсификации физикализма; концептуально проверяема через метафизическую согласованность.",
+    "testability_status": "Empirically testable through ongoing investigation of anomalous phenomena (CORT, NDE verification) used to falsify physicalism; conceptually testable via metaphysical coherence.",
     "known_empirical_interventions_or_tests": [
       "Исследование случаев типа реинкарнации (CORT) ",
       "Исследование околосмертных переживаний при экстремальных физиологических условиях (остановка сердца, глубокая анестезия) "
@@ -54,19 +58,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Слабые перспективы",
+      "stance": "Unlikely",
       "rationale": "Система указывает, что сознание несводимо и связано с фундаментальной, универсальной реальностью (идеализм/панентеизм), из чего следует, что сугубо искусственные/вычислительные системы вряд ли будут им обладать, что ведёт к слабым перспективам сознания AGI."
     },
     "survival_beyond_death": {
-      "stance": "Вероятно",
+      "stance": "Likely",
       "rationale": "Теория мотивирована эмпирическими свидетельствами (околосмертные переживания, случаи реинкарнации), доказывающими, что сознание переживает телесную смерть, и потому требует нематериальной модели производства."
     },
     "meaning_and_purpose": {
-      "stance": "Космический/высший",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Основная метафизическая склонность к идеализму/панентеизму указывает, что сознание укоренено в высшем сознании, которое предоставляет высший смысл, цель и ценность."
     },
     "virtual_immortality": {
-      "stance": "Нет (не требуется)",
+      "stance": "Not needed",
       "rationale": "Поскольку сознание нефизично и потенциально непрерывно/переживает смерть, дублирование (виртуальное бессмертие), вероятно, не сумело бы охватить исходную самость от первого лица или было бы нерелевантным, если происходит подлинное выживание."
     }
   },
@@ -74,20 +78,38 @@
     "related_theories": [
       {
         "name": "Myers/James Transmission Model",
-        "relationship": "Основание"
+        "relationship": "Foundation"
       },
-      { "name": "Idealism/Panentheism", "relationship": "Совместимость/склонность" },
+      {
+        "name": "Idealism/Panentheism",
+        "relationship": "Compatible/Tendency"
+      },
       {
         "name": "Interactive Dualism",
-        "relationship": "Альтернативная концептуальная система"
+        "relationship": "Alternative Conceptual Framework"
       },
-      { "name": "Materialism Theories (General)", "relationship": "Критика" }
+      {
+        "name": "Materialism",
+        "relationship": "Critique"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Irreducible Mind", "year": 2007 },
-      { "title_with_names": "Beyond Physicalism", "year": 2015 },
-      { "title_with_names": "Consciousness Unbound", "year": 2021 },
-      { "title_with_names": "The Continuity of Consciousness", "year": 2022 }
+      {
+        "title_with_names": "Irreducible Mind",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Beyond Physicalism",
+        "year": 2015
+      },
+      {
+        "title_with_names": "Consciousness Unbound",
+        "year": 2021
+      },
+      {
+        "title_with_names": "The Continuity of Consciousness",
+        "year": 2022
+      }
     ]
   }
 }

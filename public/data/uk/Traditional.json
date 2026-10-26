@@ -22,10 +22,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість ототожнюється з нефізичною субстанцією (часто називаною душею або духом), яка є незалежною від мозку й тіла.",
-    "ontological_status": "Субстанційний дуалізм",
+    "ontological_status": "Substance Dualism",
     "mind_body_relationship": "Зазвичай характеризується як інтеракціонізм, за якого фізичні стани спричиняють ментальні стани й навпаки, що вимагає, аби фізичний світ не був каузально замкненим.",
-    "primitive_or_emergent_status": "Первинний",
-    "emergence_type": "Не застосовно",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "N/A",
     "subjectivity_and_intentionality": "Суб'єктивність є притаманною нефізичній субстанції (душі/духу), яка діє як той, хто переживає від першої особи, або «Я». Інтенційність часто розглядається як властивість цієї окремої ментальної субстанції.",
     "qualia_account": "Якісні риси (квалія) цілковито перебувають у нефізичній субстанції (розумі/душі), яка є відмінною від фізичної матерії.",
     "ontological_commitments": "Фізична матерія/мозок та окрема нефізична субстанція (душа, дух, purusha).",
@@ -50,7 +50,7 @@
     "basis_of_belief_or_evidence_type": "Філософський, релігійний/традиційний, інтуїтивний"
   },
   "empirics_and_critiques": {
-    "testability_status": "Спекулятивна/філософська",
+    "testability_status": "Speculative/Philosophical",
     "known_empirical_interventions_or_tests": "Не застосовно",
     "criticisms_and_tensions": "Стикається з проблемою взаємодії (як нефізична субстанція спричиняє фізичну зміну), проблемою неощадливості (бритва Оккама) та браком об'єктивного наукового знання щодо душі.",
     "open_questions_and_limitations": "Фундаментальний механізм, що уможливлює взаємодію між фізичною та нефізичною субстанціями (проблема взаємодії), залишається нерозв'язаним.",
@@ -58,39 +58,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ні (здебільшого)",
+      "stance": "Unlikely",
       "rationale": "Свідомість вимагає радикально окремої, нефізичної субстанції (душі), не детермінованої каузально фізичним світом; тому небіологічні інтелекти не можуть переживати справжнє внутрішнє усвідомлення."
     },
     "survival_beyond_death": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Нефізична душа/дух, будучи незалежною від тіла, надає найясніший механізм для того, щоб самість від першої особи пережила розпад фізичного тіла, домінуючи в релігійних традиціях."
     },
     "meaning_and_purpose": {
-      "stance": "Остаточний сенс/мета/цінність",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Дуалізм тісно пов'язаний із релігійними системами переконань (наприклад, авраамічними релігіями), які за своєю суттю приписують космічний сенс, мету та цінність існуванню й людському життю."
     },
     "virtual_immortality": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Завантаження мозку не зможе дублювати необхідний нефізичний компонент (душу), потрібний для свідомості, що унеможливлює віртуальне безсмертя."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Substance Dualism (Generic)",
-        "relationship": "Тотожність"
+        "name": "Dualism",
+        "relationship": "Identity"
       },
       {
         "name": "Property Dualism",
-        "relationship": "Контраст"
+        "relationship": "Contrast"
       },
       {
         "name": "Interactive Dualism",
-        "relationship": "Перетин"
+        "relationship": "Overlap"
       },
       {
         "name": "Emergent Dualism",
-        "relationship": "Контраст/розширення"
+        "relationship": "Contrast/Extension"
       }
     ],
     "sources_and_references": [

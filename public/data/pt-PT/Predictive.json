@@ -21,10 +21,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada como a síntese complexa da expectativa preditiva e do estímulo sensorial, decorrendo de uma sinalização descendente que transmite predições acerca das causas do estímulo sensorial.",
-    "ontological_status": "Fisicalismo",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "A mente (perceção consciente) é uma função ou processo inteiramente radicado em mecanismos físicos do cérebro (o processamento preditivo), mediando a experiência do corpo e do mundo.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "A subjetividade decorre da síntese interna de predição e sensação, viabilizando a consciência atencional e a reatividade. A intencionalidade (direcionalidade do pensamento) é inerente ao enfoque do sistema em antecipar resultados e minimizar erros de predição.",
     "qualia_account": "A teoria centra-se sobretudo na função e no processo da perceção via predição. Os qualia estão implicitamente relacionados com os modelos ou representações internas gerados pelo cérebro preditivo, embora o «carácter» subjetivo continue a ser um desafio para a visão puramente mecanicista.",
     "ontological_commitments": "Cérebros biológicos, modelos preditivos, sinais sensoriais, erros de expectativa e vias de sinalização descendente/ascendente.",
@@ -49,7 +49,7 @@
     "basis_of_belief_or_evidence_type": "Computacional, Neurobiológica, Evolutiva"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável (dependente de modelos mecanicistas específicos, p. ex., relacionados com o Princípio da Energia Livre).",
+    "testability_status": "Empirically testable (conditional on specific mechanistic models, e.g., related to the Free-Energy Principle).",
     "known_empirical_interventions_or_tests": "Os métodos implícitos envolvem a medição de respostas neurológicas relacionadas com a codificação preditiva e o teste da dinâmica dos erros de expectativa (p. ex., estudos relacionados com a Inferência Ativa).",
     "criticisms_and_tensions": "A principal crítica, comum às teorias funcionais, é a incapacidade de explicar o «porquê» subjetivo — por que razão o processo de predição e síntese haveria de resultar em experiência sentida (qualia) em vez de um mero produto funcional.",
     "open_questions_and_limitations": "A limitação central é colmatar a lacuna entre a descrição funcional/computacional da predição e a realização fenomenal da consciência. O modelo centra-se fortemente no «como» o cérebro funciona, mais do que no «que» a consciência fundamentalmente é.",
@@ -57,19 +57,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Se a consciência for entendida sobretudo como a função computacional de gerar e testar predições para sintetizar a perceção, então os sistemas de IA suficientemente complexos que desempenhem estas funções deveriam tornar-se conscientes."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A teoria ancora a consciência nos processos biológicos evoluídos do cérebro. A consciência está ligada ao substrato físico e cessaria com a morte biológica."
     },
     "meaning_and_purpose": {
-      "stance": "Humanista/Evolutivo",
+      "stance": "Humanistic only",
       "rationale": "A consciência evoluiu para resolver o problema biológico fundamental da sobrevivência e da adaptação, conferindo propósito na maximização da aptidão, mas não implica um sentido cósmico."
     },
     "virtual_immortality": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "A natureza computacional e funcional da teoria sugere que, em princípio, a organização preditiva que constitui o eu poderia ser digitalizada e recriada num substrato não biológico, permitindo uma continuação funcional."
     }
   },
@@ -77,19 +77,19 @@
     "related_theories": [
       {
         "name": "Friston's Free-Energy Principle and Active Inference",
-        "relationship": "Fundamento"
+        "relationship": "Foundation"
       },
       {
-        "name": "Seth’s “Beast Machine” Theory",
-        "relationship": "Extensão"
+        "name": "Seth's \"Beast Machine\" Theory",
+        "relationship": "Extension"
       },
       {
-        "name": "Lamme’s Recurrent Processing Theory",
-        "relationship": "Sobreposição"
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Overlap"
       },
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Contraste"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Contrast"
       }
     ],
     "sources_and_references": [

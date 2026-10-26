@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Чуттєвість Перейри",
     "summary": "Ця теорія постулює, що свідомість має дві виразні модальності: засадничу чуттєвість, яку характеризують базові відчуття на кшталт болю та голоду, і вищого рівня когнітивну свідомість, що охоплює абстрактне мислення та репрезентацію. Головне твердження полягає в тому, що когнітивна здатність залежить від цього базового чуттєвого стану, який біологічно вкорінений у гомеостатичних системах.",
-    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "associated_thinkers": [
+      "Antonio Pereira, Jr."
+    ],
     "category": "Матеріалізм",
     "subcategory": "Гомеостатичний та афективний",
     "core_identity_tagline": "Свідомість як дворівнева система, укорінена в чуттєвості",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість є складеною біологічною системою, що складається з чуттєвості (корельованої з динамічним контролем біохімічного гомеостазу) та когнітивної свідомості (корельованої з патернами біоелектричної активності в нейронних мережах).",
-    "ontological_status": "Фізикалізм/натуралізм (виведений з його категоризації в межах матеріалізму та зосередження на фізіологічних/нейронних корелятах)",
+    "ontological_status": "Physicalism/Naturalism (Inferred from its categorization under Materialism and focus on physiological/neural correlates)",
     "mind_body_relationship": "Свідомі модальності (чуттєвість і когніція) функціонально залежать від біологічного організму, зокрема гомеостатичних систем і нейронних мереж, та мають у них точні фізіологічні кореляти.",
-    "primitive_or_emergent_status": "Емерджентний",
-    "emergence_type": "Слабка емерджентність (обґрунтована суворою вкоріненістю у спостережуваних і вимірюваних біологічних/фізіологічних процесах, що вказує на її принципову пояснюваність фізичними законами, попри складність.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justified by its strict grounding in observable and measurable biological/physiological processes, suggesting it is, in principle, explainable by physical laws, despite complexity.)",
     "subjectivity_and_intentionality": "Суб'єктивність виникає з чуттєвості — здатності відчувати базові відчуття (напр., голод, біль). Інтенційність присутня в когнітивній свідомості через опрацювання лінгвістичних і образних репрезентацій.",
     "qualia_account": "Квалія пояснюються через засадничу модальність чуттєвості, яка безпосередньо відповідає здатності відчувати базові, якісні відчуття (напр., біль, спрагу).",
     "ontological_commitments": "Фізіологічні системи, що контролюють біохімічний гомеостаз; патерни біоелектричної активності в нейронних мережах; ієрархічна нейронна організація.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Нейронауковий, клінічний/медичний, філософський"
   },
   "empirics_and_critiques": {
-    "testability_status": "Емпірично перевірна через клінічне оцінювання та втручання, особливо в аналізі мінімальної свідомості у вегетативних станах або під анестезією.",
+    "testability_status": "Empirically testable through clinical assessment and intervention, especially in analyzing minimal consciousness in vegetative states or under anesthesia.",
     "known_empirical_interventions_or_tests": [
       "Оцінювання здатності відчувати базові відчуття (голод, біль) як стандарт для діагностики тривалих розладів свідомості."
     ],
@@ -53,35 +55,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Умовно",
+      "stance": "Conditional",
       "rationale": "Якщо штучні системи зможуть повністю відтворити фізіологічні системи, що керують динамічним біохімічним гомеостазом (необхідним для чуттєвості), та необхідну біоелектричну мережеву активність (для когніції), то штучна свідомість є можливою."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Оскільки свідомість суворо залежить від функціональних біологічних систем (контроль гомеостазу та нейронні мережі), припускається, що вона припиняється після незворотного розпаду тіла й мозку."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичний",
+      "stance": "Humanistic only",
       "rationale": "Теорія зосереджується на функціональній, адаптивній ролі свідомості в підтриманні біологічної стабільності (гомеостазу) та уможливленні гнучкої когніції, не даючи підстав для космічної чи остаточної мети."
     },
     "virtual_immortality": {
-      "stance": "Умовно",
+      "stance": "Conditional",
       "rationale": "Теоретично можливе лише за умови, що специфічні динамічні гомеостатичні та біоелектричні патерни, визначені як кореляти чуттєвості та когніції, можна ідеально оцифрувати й відтворити в небіологічному середовищі."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
-        "relationship": "Перетин"
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Overlap"
       },
       {
-        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
-        "relationship": "Сумісна"
+        "name": "Solms's Affect as the Hidden Spring of Consciousness",
+        "relationship": "Compatible"
       },
       {
-        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
-        "relationship": "Сумісна"
+        "name": "Prinz's Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

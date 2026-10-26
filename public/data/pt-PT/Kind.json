@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Dualismo 2.0 de Kind",
     "summary": "Esta é uma versão moderna do dualismo desligada das conotações religiosas ou não-científicas tradicionais, que argumenta que o fisicalismo não consegue captar adequadamente a plena realidade qualitativa da experiência consciente. Postula que os estados, acontecimentos e processos fenomenais são um tipo de atividade irredutivelmente real, distinta da atividade física, conduzindo a uma dualidade de atividade sem necessariamente postular substâncias separadas.",
-    "associated_thinkers": ["Amy Kind"],
+    "associated_thinkers": [
+      "Amy Kind"
+    ],
     "category": "Dualismos",
     "subcategory": "Variante do Dualismo",
     "core_identity_tagline": "Dualidade da atividade fenomenal e física",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada como atividade fenomenal (estados, acontecimentos e processos) que constitui uma parte irredutivelmente real do mundo, existindo a par da atividade física e irredutível a ela.",
-    "ontological_status": "Dualismo (especificamente, uma dualidade de atividade), consistente com uma conceção amplamente naturalista do mundo, ao mesmo tempo que rejeita o reducionismo.",
+    "ontological_status": "Dualism (specifically, a duality of activity), consistent with a broadly naturalistic conception of the world while rejecting reductionism.",
     "mind_body_relationship": "A relação é dualista: a atividade fenomenal e a atividade física são partes irredutivelmente reais do mundo que não podem ser reduzidas uma à outra. A mente caracteriza-se por esta atividade fenomenal.",
-    "primitive_or_emergent_status": "Irredutivelmente real/emergente não-reducionista. A consciência (atividade fenomenal) é fundamentalmente irredutível ao físico, embora a teoria não exija que a fenomenalidade seja fundamental ao nível micro.",
-    "emergence_type": "Emergência forte. A atividade fenomenal é irredutivelmente real e não pode ser explicada em termos de propriedades físicas, alinhando-se conceptualmente com a emergência forte.",
+    "primitive_or_emergent_status": "Irreducibly Real/Non-Reductively Emergent. Consciousness (phenomenal activity) is fundamentally irreducible to the physical, though the theory does not require phenomenality to be fundamental down to the micro-level.",
+    "emergence_type": "Strong Emergence. The phenomenal activity is irreducibly real and cannot be explained in terms of physical properties, aligning conceptually with strong emergence.",
     "subjectivity_and_intentionality": "Foca-se em captar a plena realidade qualitativa da experiência consciente. O mecanismo explícito da intencionalidade não é fornecido no material de origem, mas a teoria argumenta a favor da natureza qualitativa da experiência, contra as explicações reducionistas.",
     "qualia_account": "Os qualia (a natureza qualitativa da experiência) são tidos como características irredutíveis e essenciais da consciência que não podem ser captadas por um quadro puramente fisicalista.",
     "ontological_commitments": "Estados, acontecimentos e processos físicos (atividade física) e estados, acontecimentos e processos fenomenais (atividade fenomenal) como partes irredutivelmente reais do mundo.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico, baseado em argumentos sobre os constrangimentos do fisicalismo e a natureza da experiência consciente."
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptualmente testável através de argumentos filosóficos sobre os compromissos metafísicos (por exemplo, se o fisicalismo tem de se comprometer com a redução da fenomenalidade), mas especulativo quanto à natureza das leis fenomenais.",
+    "testability_status": "Conceptually testable via philosophical arguments regarding metaphysical commitments (e.g., whether physicalism must commit to the reduction of phenomenality), but speculative regarding the nature of phenomenal laws.",
     "known_empirical_interventions_or_tests": "Nenhuma fornecida no material de origem, uma vez que a crítica ao fisicalismo é primordialmente conceptual e metafísica.",
     "criticisms_and_tensions": "Os críticos enfrentam a dificuldade de especificar as leis fenomenais. Deve também rebater a crítica de que rejeitar o fisicalismo equivale a acreditar em 'coisas fantasmagóricas' ou 'magia', sublinhando os seus objetivos amplamente naturalistas.",
     "open_questions_and_limitations": "A teoria reconhece a questão por resolver de especificar as pretensas leis fenomenais necessárias para descrever a atividade fenomenal irredutível. Assenta também numa futura 'compreensão melhor e mais ampla da natureza da causação' para garantir a eficácia mental.",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "Se os sistemas artificiais conseguirem instanciar a complexidade física necessária para que surja uma atividade fenomenal irredutivelmente real (que não é puramente redutível à computação), então a consciência da IA é possível. Contudo, as condições precisas para esta emergência são desconhecidas."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "O Dualismo 2.0 de Kind evita postular uma substância separada e não-física (anima) em favor de uma dualidade de atividade, alinhando-se com uma perspetiva amplamente naturalista em que a consciência está ligada a processos ativos, o que torna improvável a persistência após a cessação biológica."
     },
     "meaning_and_purpose": {
-      "stance": "Valor intrínseco (inferido)",
+      "stance": "Uncertain",
       "rationale": "Embora compatível com uma perspetiva naturalista (sugerindo um sentido humanista), a afirmação central de que a experiência qualitativa é uma característica irredutivelmente real do mundo implica que a consciência possui um valor inerente e fundamental que não pode ser reduzido à utilidade ou à sobrevivência."
     },
     "virtual_immortality": {
-      "stance": "Incerto",
+      "stance": "Uncertain",
       "rationale": "Uma vez que o carácter fenomenal é irredutivelmente real, a mera duplicação dos estados físicos ou funcionais poderá não garantir a duplicação da atividade fenomenal, a menos que as leis desconhecidas que regem a emergência fenomenal sejam perfeitamente captadas e simuladas."
     }
   },
@@ -71,19 +73,19 @@
     "related_theories": [
       {
         "name": "Property Dualism",
-        "relationship": "Sobreposição"
+        "relationship": "Overlap"
       },
       {
-        "name": "Non-Reductive Physicalism",
-        "relationship": "Sobreposição"
+        "name": "Non-Reductive",
+        "relationship": "Overlap"
       },
       {
         "name": "Russellian Monism",
-        "relationship": "Distinção"
+        "relationship": "Distinction"
       },
       {
         "name": "Representationalism",
-        "relationship": "Crítica"
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

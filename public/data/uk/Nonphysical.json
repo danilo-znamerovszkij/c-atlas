@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Теорія нефізичного компонента в людському розумі",
     "summary": "Це узагальнене, спекулятивне поняття, що пропонує, що унікальна складність людського розуму вимагає нематеріального компонента для роботи з фізичним мозком. Постулюється, що цей нефізичний компонент володіє потенційною силою, необхідною для перетворення біологічного мозку на виразно вищий людський розум, що відрізняє його від тваринної свідомості.",
-    "associated_thinkers": ["Robert Lawrence Kuhn"],
+    "associated_thinkers": [
+      "Robert Lawrence Kuhn"
+    ],
     "category": "Дуалізми",
     "subcategory": "Узагальнений дуалізм",
     "core_identity_tagline": "Нефізичний компонент для людської ментальності",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість/розум спирається на нефізичний компонент, який взаємодіє зі складним фізичним мозком, щоб перетворити його на людський розум.",
-    "ontological_status": "Дуалізм",
+    "ontological_status": "Dualism",
     "mind_body_relationship": "Інтеракціоністський/композитний (компонент працює з мозком, щоб перетворити його, що передбачає необхідну синергетичну композитну структуру, хоча точний механізм взаємодії невідомий).",
-    "primitive_or_emergent_status": "Емерджентний",
-    "emergence_type": "Радикальна (виведено: постання необхідного нефізичного компонента зі складної фізичної структури вказує на сильну чи радикальну емерджентність, подібну до емерджентного дуалізму).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Radical (Inferred: The emergence of a necessary nonphysical component from a complex physical structure suggests a strong or radical emergence, akin to emergent dualism).",
     "subjectivity_and_intentionality": "Необхідність компонента ґрунтується на поясненні величезної якісної відмінності та вищості людського ментального продукту, що охоплює складну суб'єктивність та інтенційність, над тваринною ментальністю.",
     "qualia_account": "Експліцитно не деталізовано, але компонент імпліцитно відповідає за уможливлення чи посилення людського феноменального досвіду до рівня, якісно вищого за тваринну свідомість.",
     "ontological_commitments": "Фізичний мозок (який включає тваринну/базову свідомість) та окремий нефізичний компонент (який може бути абстрактним інформаційним патерном або ядром із силою).",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Філософське припущення, спекуляція (порівняння поведінкової складності людини й тварини)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Вельми спекулятивне/емпірично неперевірне (Обґрунтування: за визначенням основний компонент є нефізичним, що робить його недоступним для сучасної емпіричної наукової методології).",
+    "testability_status": "Highly speculative/Not empirically testable (Justification: By definition, the core component is nonphysical, rendering it inaccessible to current empirical scientific methodology).",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Стикається з класичним дуалістичним викликом пояснення механізму нефізично-фізичної причинності (проблемою поєднання) і спирається на можливість сильної емерджентності нефізичної субстанції.",
     "open_questions_and_limitations": "Склад і точне функціонування цього нефізичного компонента залишаються невідомими, а його обґрунтування значною мірою спирається на сприйнятий якісний стрибок у складності людського розуму.",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ні (здебільшого)",
+      "stance": "Unlikely",
       "rationale": "Якщо людська свідомість спирається на унікальний нефізичний компонент, штучним системам, що дублюють лише фізичні/обчислювальні структури, бракувало б цього необхідного елемента для справжнього внутрішнього досвіду людського рівня."
     },
     "survival_beyond_death": {
-      "stance": "Так (умовно)",
+      "stance": "Conditional",
       "rationale": "Як нефізичний компонент, він забезпечує теоретичну основу для виживання, особливо якщо він зберігає існування поза межами розпаду тіла/мозку (подібно до інших форм емерджентного дуалізму)."
     },
     "meaning_and_purpose": {
-      "stance": "Можливо",
+      "stance": "Uncertain",
       "rationale": "Існування компонента підтверджує виразний статус людської ментальності, узгоджуючись із дуалістичними рамками, що часто підтримують космічну мету чи сенс поза межами людського творення."
     },
     "virtual_immortality": {
-      "stance": "Ні (здебільшого)",
+      "stance": "Unlikely",
       "rationale": "Завантаження розуму, що спирається на дублювання фізичних патернів, неминуче не зуміло б охопити необхідний нефізичний компонент, що призвело б до несвідомого дубліката індивіда."
     }
   },
@@ -71,15 +73,15 @@
     "related_theories": [
       {
         "name": "Emergent Dualism",
-        "relationship": "Перетин/попередник"
+        "relationship": "Overlap/Precursor"
       },
       {
-        "name": "Polkinghorne’s Dual-Aspect Monism",
-        "relationship": "Паралель/порівняння (у концептуалізації нефізичної інформаційної структури)"
+        "name": "Polkinghorne's Dual-Aspect Monism",
+        "relationship": "Parallel/Comparison (in conceptualizing a nonphysical information-bearing structure)"
       },
       {
-        "name": "Van Inwagen’s Christian Materialism and Resurrection of the Dead",
-        "relationship": "Паралель/порівняння (у концептуалізації основної самості/ядра, що зберігається)"
+        "name": "van Inwagen's Christian Materialism and Resurrection of the Dead",
+        "relationship": "Parallel/Comparison (in conceptualizing a core self/kernel that persists)"
       }
     ],
     "sources_and_references": [

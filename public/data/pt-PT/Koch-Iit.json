@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "Koch Compara a Teoria da Informação Integrada com o Panpsiquismo",
     "summary": "Esta entrada expõe a comparação de Christof Koch entre a Teoria da Informação Integrada (TII) e o panpsiquismo, argumentando que ambos partilham a intuição de que a consciência é uma propriedade intrínseca e fundamental da realidade. Contudo, a TII é posicionada como superior porque articula critérios específicos (quantificados por Phi, $Phi$) para a consciência, resolve o problema da combinação através do Postulado da Exclusão e oferece um programa de investigação empírica concreto, ao contrário do panpsiquismo tradicional.",
-    "associated_thinkers": ["Christof Koch", "Giulio Tononi"],
+    "associated_thinkers": [
+      "Christof Koch",
+      "Giulio Tononi"
+    ],
     "category": "Teoria da Informação Integrada",
     "subcategory": "Comparação/Crítica",
     "core_identity_tagline": "TII: Uma Teoria Fundamentalmente Consciente que Resolve o Problema da Combinação do Panpsiquismo",
@@ -16,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada como poder causal intrínseco desdobrado, o que é fundamentalmente semelhante à visão panpsiquista da consciência como intrínseca, mas matematicamente especificado como uma estrutura conceptual maximamente irredutível (estrutura-$Phi$).",
-    "ontological_status": "Panpsiquista/monista (justificação: a comparação assenta na premissa partilhada de que a consciência é intrínseca e fundamental para a realidade, alinhando a TII conceptualmente com o panpsiquismo, embora a TII especifique critérios matemáticos estritos que o panpsiquismo tradicional não possui.)",
+    "ontological_status": "Panpsychist/Monist (Justified: The comparison draws on the shared premise that consciousness is intrinsic and fundamental to reality, aligning IIT conceptually with panpsychism, although IIT specifies strict mathematical criteria that traditional panpsychism lacks.)",
     "mind_body_relationship": "Identidade explicativa (a experiência é idêntica a uma estrutura-$Phi$ desdobrada a partir do substrato físico). A relação é intrínseca, não exigindo dualismo nem emergência, mas exigindo uma configuração física específica.",
     "primitive_or_emergent_status": "Fundamental",
-    "emergence_type": "Nenhuma (justificação: Koch argumenta que a TII não deixa espaço para a emergência, em consonância com a natureza fundamental da consciência.)",
+    "emergence_type": "None (Justified: Koch argues IIT leaves no room for emergence, consistent with the fundamental nature of consciousness.)",
     "subjectivity_and_intentionality": "A subjetividade (experiência) é a estrutura conceptual maximamente irredutível (estrutura-$Phi$), que é inerentemente para-si. A intencionalidade corresponde a subestruturas (dobras-$Phi$) no seio desta estrutura.",
     "qualia_account": "A TII fornece uma explicação matemática detalhada de como a fenomenologia (aspetos qualitativos) pode ser captada por considerações quantitativas (poderes causais intrínsecos), contrariando os críticos que alegam que os quadros quantitativos não conseguem captar a qualidade. Os qualia são idênticos às estruturas conceptuais maximamente irredutíveis (estrutura-$Phi$) no espaço dos qualia.",
     "ontological_commitments": "Propriedade intrínseca e fundamental da realidade; poder causa-efeito; estruturas conceptuais (estruturas-$Phi$) existentes no espaço dos qualia; substratos físicos da consciência (SFC).",
@@ -44,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Fenomenológico, matemático, científico (fundamento axiomático que conduz a proposições testáveis)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável (Koch salienta que a TII oferece um programa de investigação empírica ao calcular $Phi$ e ao testar previsões específicas.)",
+    "testability_status": "Empirically testable (Koch emphasizes IIT offers an empirical research program by calculating $Phi$ and testing specific predictions.)",
     "known_empirical_interventions_or_tests": [
       "Calcular $Phi$ para redes neuronais específicas no cérebro humano (por exemplo, o córtex visual)",
       "Dados de imagiologia cerebral que correlacionam o cálculo de $Phi$ com estados de consciência (por exemplo, durante a anestesia)",
@@ -56,19 +59,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "Koch argumenta que a TII discorda fundamentalmente da visão funcionalista necessária para a consciência da IA, afirmando que os computadores digitais nunca serão sencientes porque a sua estrutura de hardware resulta numa informação integrada negligenciável ($Phi$), independentemente do seu poder computacional ou inteligência."
     },
     "survival_beyond_death": {
-      "stance": "Incerto",
+      "stance": "Uncertain",
       "rationale": "A sobrevivência depende da natureza desconhecida e da manipulabilidade tecnológica da estrutura não-redutível da realidade (espaço dos qualia) postulada pela TII. Embora não se exclua alguma forma de persistência, a sobrevivência em primeira pessoa é uma questão em aberto."
     },
     "meaning_and_purpose": {
-      "stance": "Incerto",
+      "stance": "Uncertain",
       "rationale": "Embora as estruturas especulativas e inumeráveis de n-ésima dimensão da TII sejam suficientemente novas para suspender o juízo quanto ao sentido último, a medição e a análise centrais da consciência transmitidas pela teoria não oferecem sentido, propósito ou valor últimos."
     },
     "virtual_immortality": {
-      "stance": "Incerto",
+      "stance": "Uncertain",
       "rationale": "O carregamento da mente é impossível se a consciência é uma estrutura associada à física de sistemas complexos (como a TII sustenta), e não um mero algoritmo. O carregamento resultaria num 'deep fake' desprovido de experiência subjetiva, a menos que uma tecnologia avançada consiga manipular a estrutura-$Phi$ causadora da consciência."
     }
   },
@@ -76,19 +79,19 @@
     "related_theories": [
       {
         "name": "Panpsychism",
-        "relationship": "Intuição partilhada/crítica"
+        "relationship": "Shared Intuition/Critique"
       },
       {
-        "name": "Computational Functionalism",
-        "relationship": "Crítica (consciência não-computável)"
+        "name": "Computational",
+        "relationship": "Critique (Non-computable consciousness)"
       },
       {
         "name": "Galileo’s Error (Philip Goff)",
-        "relationship": "Crítica (Koch contraria a alegação de Goff de que os aspetos qualitativos não podem ser captados por quadros quantitativos.)"
+        "relationship": "Critique (Koch counters Goff's claim that qualitative aspects cannot be captured by quantitative frameworks.)"
       },
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Contraste (implícito, quanto à localização e à necessidade de recorrência/difusão global)"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Contrast (Implicit, regarding location and necessity of recurrence/global broadcast)"
       }
     ],
     "sources_and_references": [

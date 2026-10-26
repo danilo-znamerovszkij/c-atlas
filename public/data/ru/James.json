@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "Отсутствие трудной проблемы в психологической теории Уильяма Джеймса",
     "summary": "Этот взгляд, основанный на интерпретации работ Уильяма Джеймса, переворачивает парадигму трудной проблемы, доказывая, что сознание есть не тайна субъективного опыта, а эволюционировавший механизм, призванный решать «проблему отбора». Этот механизм повышает приспособленность организма, отбирая адаптивные реакции среди множества вариантов, порождаемых сложным мозгом, отдавая предпочтение исходам, согласующимся с долгосрочными интересами мозга.",
-    "associated_thinkers": ["William James", "Tracy Witham"],
+    "associated_thinkers": [
+      "William James",
+      "Tracy Witham"
+    ],
     "category": "Материализм",
     "subcategory": "Филогенетическая эволюция",
     "core_identity_tagline": "Сознание как механизм адаптивного отбора",
@@ -15,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание отождествляется с механизмом отбора, который оказывает давление в пользу действий, служащих наиболее устойчивым интересам организма, укоренённым в наделении предпочтениями определённых ощущений (фактических целей).",
-    "ontological_status": "Функционалистский/физикалистский (обоснование: теория растворяет трудную проблему, приписывая сознанию чисто функциональную, адаптивную роль, что согласуется с целью материализма — объяснить сознание исключительно через физические системы).",
+    "ontological_status": "Functionalist/Physicalist (Justified: The theory dissolves the Hard Problem by assigning consciousness a purely functional, adaptive role, aligning it with Materialism's goal of explaining consciousness solely through physical systems).",
     "mind_body_relationship": "Сознание функционально вовлечено в сложные процессы мозга, в частности связано с формированием «церебральных рефлексов», где предпочтения влияют на взаимодействия организма со средой.",
-    "primitive_or_emergent_status": "Эмерджентный",
-    "emergence_type": "Слабая эмерджентность (обоснование: сознание возникает как адаптивная необходимость, когда сложность мозга приводит к множеству неоптимальных вариантов реакции, что подразумевает эмерджентность из сложной физической организации).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justified: Consciousness emerges as an adaptive necessity when brain complexity leads to a proliferation of non-optimal response options, implying emergence from sophisticated physical organization).",
     "subjectivity_and_intentionality": "Субъективность трактуется функционально, поскольку сознание наделяет предпочтениями одни ощущения перед другими, тем самым определяя источник «фактических целей» организма (интенциональных мишеней).",
     "qualia_account": "Трудная проблема (объяснение квалиа, или «каково это») по существу растворяется путём смещения фокуса на функциональную проблему, которую решает сознание (проблему отбора).",
     "ontological_commitments": "Сложные биологические мозги, ситуации среды, требующие адаптивного отбора, и эволюционировавшие психологические функции (механизмы отбора, предпочтения).",
@@ -33,7 +36,7 @@
     "causation_and_functional_role": "Сознание каузально эффективно, оказывая давление на действия, способствующие приспособленности; его функция — решать «проблему отбора», присущую сложным системам."
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально проверяема/эмпирически правдоподобна (обоснование: основана на эволюционных принципах и биологической приспособленности, которые совместимы с научным изучением, что относит её к филогенетической эволюции).",
+    "testability_status": "Conceptually testable/Empirically plausible (Justified: Grounded in evolutionary principles and biological fitness, which are compatible with scientific study, classifying it under Phylogenetic Evolution).",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Главное концептуальное противоречие — действительно ли сознание хорошо подходит, хотя бы prima facie, для решения «проблемы отбора» в описанном виде.",
     "open_questions_and_limitations": "Точное соответствие между сознанием и «проблемой отбора» остаётся открытым вопросом, равно как и понимание значения схем «церебрального рефлекса».",
@@ -41,19 +44,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Вероятно",
+      "stance": "Likely",
       "rationale": "Если сознание есть прежде всего функциональный механизм отбора, то любая искусственная система, достигшая достаточной сложности и требующая сходного механизма для приоритезации адаптивных выходов, вероятно, считалась бы сознательной."
     },
     "survival_beyond_death": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Эта интерпретация сознания прочно укоренена в эволюционной биологической необходимости и функции мозга и не предусматривает сохранения после биологической смерти."
     },
     "meaning_and_purpose": {
-      "stance": "Прагматические",
+      "stance": "Humanistic only",
       "rationale": "Смысл и цель связаны с биологической функцией: повышением эволюционной приспособленности и достижением «наиболее устойчивых интересов обладателя мозга»."
     },
     "virtual_immortality": {
-      "stance": "Вероятно",
+      "stance": "Likely",
       "rationale": "Как функционалистская теория, дублирование или загрузка лежащего в основе механизма отбора и функциональной организации должны привести к успешному продолжению сознания."
     }
   },
@@ -61,15 +64,15 @@
     "related_theories": [
       {
         "name": "Functionalism",
-        "relationship": "Совместима"
+        "relationship": "Compatible"
       },
       {
-        "name": "Dennett’s Multiple Drafts Model",
-        "relationship": "Совместима"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Compatible"
       },
       {
         "name": "Chalmers’s Hard Problem",
-        "relationship": "Критика"
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

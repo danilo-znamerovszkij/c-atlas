@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "A Senciência de Pereira",
     "summary": "Esta teoria sustenta que a consciência tem duas modalidades distintas: a senciência fundacional, caracterizada por sentimentos básicos como a dor e a fome, e a consciência cognitiva de nível superior, que envolve o pensamento abstrato e a representação. A afirmação central é a de que a capacidade cognitiva depende deste estado senciente subjacente, o qual está biologicamente ancorado em sistemas homeostáticos.",
-    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "associated_thinkers": [
+      "Antonio Pereira, Jr."
+    ],
     "category": "Materialismo",
     "subcategory": "Homeostático e Afetivo",
     "core_identity_tagline": "A consciência como um sistema de dois níveis ancorado na senciência",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é um sistema biológico compósito constituído pela senciência (correlacionada com o controlo dinâmico da homeostase bioquímica) e pela consciência cognitiva (correlacionada com padrões de atividade bioelétrica em redes neuronais).",
-    "ontological_status": "Fisicalismo/Naturalismo (inferido da sua categorização sob o Materialismo e do enfoque em correlatos fisiológicos/neuronais)",
+    "ontological_status": "Physicalism/Naturalism (Inferred from its categorization under Materialism and focus on physiological/neural correlates)",
     "mind_body_relationship": "As modalidades conscientes (senciência e cognição) são funcionalmente dependentes do organismo biológico, e têm correlatos fisiológicos precisos no seu interior, especificamente nos sistemas homeostáticos e nas redes neuronais.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca (justificada pela sua estrita ancoragem em processos biológicos/fisiológicos observáveis e mensuráveis, o que sugere que é, em princípio, explicável por leis físicas, apesar da sua complexidade.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justified by its strict grounding in observable and measurable biological/physiological processes, suggesting it is, in principle, explainable by physical laws, despite complexity.)",
     "subjectivity_and_intentionality": "A subjetividade decorre da senciência, a capacidade de sentir sensações básicas (p. ex., fome, dor). A intencionalidade está presente na consciência cognitiva através da elaboração de representações linguísticas e imagéticas.",
     "qualia_account": "Os qualia são explicados através da modalidade fundacional da senciência, que corresponde diretamente à capacidade de sentir sensações qualitativas básicas (p. ex., dor, sede).",
     "ontological_commitments": "Sistemas fisiológicos que controlam a homeostase bioquímica; padrões de atividade bioelétrica em redes neuronais; organização neuronal hierárquica.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Neurocientífica, Clínica/Médica, Filosófica"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável através de avaliação e intervenção clínicas, sobretudo na análise da consciência mínima em estados vegetativos ou sob anestesia.",
+    "testability_status": "Empirically testable through clinical assessment and intervention, especially in analyzing minimal consciousness in vegetative states or under anesthesia.",
     "known_empirical_interventions_or_tests": [
       "Avaliar a capacidade de sentir sensações básicas (fome, dor) como critério para diagnosticar perturbações prolongadas da consciência."
     ],
@@ -53,35 +55,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "Se os sistemas artificiais conseguirem replicar plenamente os sistemas fisiológicos que governam a homeostase bioquímica dinâmica (necessária à senciência) e a atividade bioelétrica das redes que é indispensável (para a cognição), então a consciência artificial é possível."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "Como a consciência depende estritamente de sistemas biológicos funcionais (controlo da homeostase e redes neuronais), presume-se que cesse com a dissolução irreversível do corpo e do cérebro."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanista",
+      "stance": "Humanistic only",
       "rationale": "A teoria centra-se no papel funcional e adaptativo da consciência na manutenção da estabilidade biológica (homeostase) e na viabilização de uma cognição flexível, não fornecendo qualquer base para um propósito cósmico ou último."
     },
     "virtual_immortality": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "Teoricamente possível apenas se os padrões homeostáticos e bioelétricos dinâmicos específicos identificados como correlatos da senciência e da cognição puderem ser perfeitamente digitalizados e replicados num meio não biológico."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
-        "relationship": "Sobreposição"
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Overlap"
       },
       {
-        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
-        "relationship": "Compatível"
+        "name": "Solms's Affect as the Hidden Spring of Consciousness",
+        "relationship": "Compatible"
       },
       {
-        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
-        "relationship": "Compatível"
+        "name": "Prinz's Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

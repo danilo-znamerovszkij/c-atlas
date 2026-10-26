@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Теория Коха о независимости сознания от языка",
     "summary": "Эта теория утверждает, что феноменальное сознание, или базовый внутренний опыт, функционально независимо от языковой способности. Она подкрепляется клиническими случаями, где языковая способность серьёзно нарушена или утрачена, однако фундаментальное осознавание сохраняется, что ведёт к выводу о том, что базовая чувствительность есть широко распространённое свойство, разделяемое со многими неязыковыми животными.",
-    "associated_thinkers": ["Christof Koch"],
+    "associated_thinkers": [
+      "Christof Koch"
+    ],
     "category": "Материалистические теории",
     "subcategory": "Связь с языком",
     "core_identity_tagline": "Сознание независимо от языка",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание отождествляется с физическим/биологическим феноменом в мозге, чей фундаментальный механизм отличен от символической языковой обработки и независим от неё.",
-    "ontological_status": "Физикализм",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Разум (базовое феноменальное сознание) связан с физическими процессами мозга, которые отделены от лингвистических процессов.",
-    "primitive_or_emergent_status": "Эмерджентный",
-    "emergence_type": "Слабая эмерджентность",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Базовая субъективность (чувствительность) сохраняется даже без языка. Язык колоссально способствует самости как «нарративному центру», который составляет аспекты субъективности более высокого порядка.",
     "qualia_account": "Квалиа (базовый внутренний опыт) существуют в неязыковых сущностях и независимы от символических способностей.",
     "ontological_commitments": "Биологические мозги и лежащие в основе физические механизмы, порождающие базовое осознавание.",
@@ -43,46 +45,46 @@
     "basis_of_belief_or_evidence_type": "Эмпирический, клинический и философский"
   },
   "empirics_and_critiques": {
-    "testability_status": "Эмпирически проверяема через нейронаучное изучение неязыковых животных и клинические исследования пострадавших от травмы мозга, демонстрирующих устойчивое осознавание несмотря на афазические состояния.",
+    "testability_status": "Empirically testable through neuroscientific study of non-linguistic animals and clinical research on brain trauma victims demonstrating persistent awareness despite aphasiac conditions.",
     "critiques_and_challenges": "Хотя Кох возражает против классических взглядов, связывающих язык и сознание, современный научный консенсус уже согласен с тем, что базовое сознание не требует языка.",
     "open_questions_and_limitations": "Теория подтверждает, от чего сознание *не* зависит (от языка), но не предлагает положительного решения трудной проблемы сознания (то есть того, чем буквально является феноменальный опыт).",
     "ontological_coherence": "Крайне связна в рамках материалистической категории, в частности для аргументов, различающих базовое осознавание и сложное, опосредованное языком самосознание."
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Условно",
+      "stance": "Conditional",
       "rationale": "Поскольку язык не необходим для сознания, языковая способность ИИ (большие языковые модели) нерелевантна. Сознание ИИ целиком зависит от того, может ли необходимый неязыковой физический субстрат быть воспроизведён в искусственных системах."
     },
     "survival_beyond_death": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "В согласии с его материалистической категоризацией сознание связано с физическим субстратом (мозгом) и не может сохраниться после биологической смерти."
     },
     "meaning_and_purpose": {
-      "stance": "Только гуманистические",
+      "stance": "Humanistic only",
       "rationale": "Сознание позволяет самости функционировать как нарративный центр посредством языка, что делает возможным создаваемый человеком смысл, но лежащая в основе материальная реальность не предполагает никакой предельной космической цели."
     },
     "virtual_immortality": {
-      "stance": "Условно",
+      "stance": "Conditional",
       "rationale": "Если сознание отделено от языка, фокус целиком смещается на дублирование неязыкового, физического субстрата базового осознавания. Если эту конкретную неязыковую нейронную структуру можно дублировать, виртуальное бессмертие возможно."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
-        "relationship": "Критика"
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
+        "relationship": "Critique"
       },
       {
-        "name": "Searle’s Language and Consciousness",
-        "relationship": "Критика"
+        "name": "Searle's Language and Consciousness",
+        "relationship": "Critique"
       },
       {
-        "name": "Andrews’s Consciousness Without Complex Brains",
-        "relationship": "Совместима"
+        "name": "Andrews's Consciousness Without Complex Brains",
+        "relationship": "Compatible"
       },
       {
-        "name": "Smith’s Language as Classifier of Consciousness",
-        "relationship": "Пересечение"
+        "name": "Smith's Language as Classifier of Consciousness",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

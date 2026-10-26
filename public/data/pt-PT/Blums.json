@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "A Máquina de Turing Consciente dos Blum",
+    "summary": "Lenore, Manuel e Avrim Blum defendem que a consciência, tanto de acesso como fenoménica, é computacional e pode ser captada num modelo formal de máquina, a Máquina de Turing Consciente (CTM, na sigla inglesa). Na CTM, processadores inconscientes competem para colocar um pedaço de informação num «palco» de um só item que é difundido a todos eles; a máquina sente algo quando cada processador inspeciona essa difusão confrontando-a com o seu Modelo do Mundo, construído por si, que toma como sendo o próprio mundo.",
+    "associated_thinkers": [
+      "Lenore Blum",
+      "Manuel Blum",
+      "Avrim Blum"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Computacional",
+    "core_identity_tagline": "«A consciência como difusão e inspeção de pedaços do modelo do mundo»",
+    "classification_tags": [
+      "theoretical computer science",
+      "global workspace",
+      "world model",
+      "machine consciousness",
+      "formal model"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é um processo computacional. A atenção consciente é a receção simultânea de um pedaço difundido por todos os processadores; a perceção consciente é todos os processadores a inspecionarem em simultâneo esse pedaço, cujo significado se funda no Modelo do Mundo da máquina.",
+    "ontological_status": "Physicalism (computational functionalism)",
+    "mind_body_relationship": "A mente é a organização da computação, independente do substrato. A CTM deliberadamente não afirma nada sobre que áreas cerebrais implementam que funções, pelo que o mesmo modelo se pode aplicar a cérebros e a máquinas.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (subjective experience follows from a defined architecture plus a stated axiom)",
+    "subjectivity_and_intentionality": "A CTM só tem consciência do seu próprio Modelo do Mundo, nunca do mundo diretamente, e trata o modelo como realidade. O seu sentido de eu vem de rotular esboços no modelo: o esboço de um atuador que pode mover pelo pensamento recebe o rótulo EU (SELF) e, mais tarde, a máquina rotula o seu próprio esboço como CONSCIENTE, o que evoca a sensação de ser consciente.",
+    "qualia_account": "O Axioma A afirma que inspecionar um pedaço difundido evoca uma experiência subjetiva única, cuja intensidade e valência vêm do peso do pedaço. Pedaços com essências vazias evocam experiências primordiais (dor causada por um «indicador de oxigénio» em falha, por exemplo), e as experiências mais ricas são fusões das experiências evocadas pelas palavras em Brainish de uma essência.",
+    "ontological_commitments": "Processadores, pedaços, um palco de memória de curto prazo, árvores de competição e de difusão, ligações de tipo hebbiano entre processadores, sensores e atuadores, um Modelo do Mundo e uma linguagem multimodal interna chamada Brainish.",
+    "epistemic_access": "Através de definições formais, teoremas e demonstrações, além da comparação do comportamento do modelo com fenómenos conhecidos da consciência humana.",
+    "constituents_and_structure": "Um 7-tuplo: memória de curto prazo (STM, o palco), memória de longo prazo (LTM, um vasto conjunto de processadores inconscientes), uma Árvore Ascendente para a competição, uma Árvore Descendente para a difusão, Ligações entre processadores e mapas de Entrada e Saída para sensores e atuadores. O tempo decorre em instantes discretos ao longo de uma vida finita."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Acesso (atenção consciente); fenoménica (perceção consciente); autoconsciência; a sensação de ser consciente",
+    "distinctive_mechanism_or_principle": "Um torneio probabilístico em que o vencedor fica com tudo, ao longo de uma árvore binária, onde a probabilidade de cada pedaço vencer é igual ao seu peso dividido pelo peso total de todas as entradas. O vencedor é difundido a todos os processadores, e a perceção consciente ocorre quando todos os processadores o inspecionam no mesmo instante.",
+    "dynamics_of_emergence": "A consciência desenvolve-se ao longo da vida da máquina. Uma CTM recém-nascida tem um Modelo do Mundo difuso, que não separa o eu do mundo; as palavras em Brainish e os esboços rotulados coevoluem com a experiência, desde palavras primordiais como BLOB e DOR (PAIN) até EU (SELF) e CONSCIENTE.",
+    "location_and_distribution": "Distribuída por todos os processadores da LTM, que recebem a mesma difusão; a STM contém apenas um pedaço de cada vez. Não se reivindica nenhuma localização cerebral específica.",
+    "causation_and_functional_role": "A difusão permite a cada processador saber o que venceu, quão importante era e o peso médio da concorrência, o que calibra a ação posterior. Os processadores tentam desdobrar pedaços de peso elevado e reduzir pesos fortemente negativos. A competição justa e descentralizada substitui o «executivo central» indefinido de outros modelos de teatro.",
+    "integration_or_binding": "Uma essência em Brainish funde conteúdo multimodal (a cor vermelha de uma rosa, o cheiro doce, as pétalas macias, encontros recordados) num único rótulo. Todos os processadores partilham um dicionário global idêntico de pedaços difundidos.",
+    "information_flow_or_representation": "Cada pedaço transporta um endereço de processador, um instante, uma breve essência em Brainish, um peso com sinal e dados auxiliares que acumulam contexto global à medida que sobe pela árvore. As palavras em Brainish são apontadores para pedaços difundidos anteriormente, que os Blum comparam a chaves e valores na aprendizagem automática.",
+    "evolutionary_account": "Dentro de uma CTM, o Brainish e o Modelo do Mundo coevoluem ao longo da sua vida; as especializações dos processadores também evoluem. Os Blum alinham isto com teorias evolutivas como a de Nick Humphrey.",
+    "core_claims_and_evidence": [
+      "Um teorema mostra que a probabilidade de um pedaço vencer é o seu peso dividido pelo peso total de todas as entradas, independentemente da posição dos processadores na árvore.",
+      "A CTM reproduz a cegueira por desatenção, a cegueira à mudança e um atraso do tipo Libet entre a entrada de um pedaço na competição e a sua difusão.",
+      "Esboços mal rotulados no Modelo do Mundo produzem análogos da síndrome do membro fantasma, da perturbação de integridade corporal e da paranoia.",
+      "A CTM alinha-se, a um nível geral, com a teoria do espaço de trabalho global, a teoria do esquema de atenção, o processamento preditivo, a cognição corporizada e a teoria da informação integrada.",
+      "A CTM prevê que um executivo central é desnecessário para a consciência e, portanto, que o cérebro não tem nenhum."
+    ],
+    "basis_of_belief_or_evidence_type": "Formal e matemática (ciência da computação teórica), apoiada numa correspondência qualitativa com características conhecidas da consciência humana."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "Os Blum argumentam que a CTM é construível. A sua previsão de que o cérebro não tem executivo central poderia ser confrontada com a neurociência.",
+    "criticisms_and_tensions": "Os críticos questionam se definições formais e o processamento de símbolos conseguem captar a experiência sentida. A experiência subjetiva entra através do Axioma A, pelo que a explicação do sentir assenta num pressuposto. Anil Seth e Nick Humphrey, cujas posições se sobrepõem à CTM, sustentam que a consciência exige um organismo vivo, o que os Blum rejeitam.",
+    "open_questions_and_limitations": "A CTM é demasiado simples para modelar o cérebro, como os próprios Blum dizem. Se inspecionar um pedaço produz experiência, e não apenas modela o seu papel, continua em aberto.",
+    "ontological_coherence": "Coerente dentro do funcionalismo computacional. Situa-se perto do ilusionismo de Daniel Dennett e Keith Frankish, embora os Blum falem de explicar «como é ser» e não de o negar."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "Os Blum argumentam que a CTM é construível e que torna a consciência da IA plausível, até inevitável."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Dado que aqui a consciência é um processo computacional com um tempo de vida finito, termina quando a máquina ou o cérebro deixam de funcionar."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "A teoria explica a consciência como computação e não postula nenhum propósito cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Se a consciência é computação independente do substrato, reproduzir os mesmos processos noutra máquina decorreria desta perspetiva, embora os Blum não abordem o assunto."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Foundation"
+      },
+      {
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Seth's \"Beast Machine\" Theory",
+        "relationship": "Contrast"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Lenore, Manuel, and Avrim Blum’s Conscious Turing Machine (Landscape of Consciousness), Lenore Blum, Manuel Blum, Avrim Blum",
+        "year": 2022
+      }
+    ]
+  }
+}

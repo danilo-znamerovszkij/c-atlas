@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Jacksons diafaan representationalisme en het kennisargument",
     "summary": "Frank Jacksons diafaan representationalisme stelt dat het fenomenale karakter van perceptuele ervaring volledig wordt uitgeput door haar representationele inhoud, wat betekent dat we 'dwars door' de ervaring heen kijken naar de eigenschappen van het object. Deze positie werd voornamelijk ontwikkeld om de conclusie van zijn eigen beroemde gedachte-experiment, het kennisargument, te ondergraven, dat eerder tegen het fysicalisme argumenteerde.",
-    "associated_thinkers": ["Frank Jackson"],
+    "associated_thinkers": [
+      "Frank Jackson"
+    ],
     "category": "Materialismetheorieën",
     "subcategory": "Representationeel",
     "core_identity_tagline": "'Het fenomenale karakter wordt uitgeput door representationele inhoud'",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewustzijn (fenomenaal karakter) wordt geïdentificeerd met de representationele inhoud van relevante mentale toestanden die aan bepaalde voorwaarden voldoen, vaak verbonden met de eigenschappen van het object van ervaring.",
-    "ontological_status": "Reductief fysicalisme. (Rechtvaardiging: Het primaire doel van de theorie is het kennisargument te weerleggen en zo de toereikendheid van het fysicalisme/materialisme met betrekking tot het fenomenale bewustzijn te handhaven.)",
+    "ontological_status": "Reductive Physicalism. (Justification: The theory's primary goal is to defeat the Knowledge Argument, thereby maintaining the sufficiency of physicalism/materialism regarding phenomenal consciousness).",
     "mind_body_relationship": "Identiteit. De fenomenale aard wordt uitgeput door de functionele en intentionele inhouden (representationele feiten), die fysiek worden geïnstantieerd.",
-    "primitive_or_emergent_status": "Emergent. (Rechtvaardiging: Bewustzijn wordt volledig gevat door de representationele inhoud die door fysieke processen wordt geïnstantieerd, wat betekent dat het niet fundamenteel is voor de werkelijkheid.)",
-    "emergence_type": "Zwakke emergentie. (Rechtvaardiging: Als reductief fysicalistische verdediging worden de fenomenale eigenschappen volledig gevat door, of zijn ze identiek aan, de fysieke/representationele inhouden en functionele rollen, wat afleidbaarheid in principe impliceert.)",
+    "primitive_or_emergent_status": "Emergent. (Justification: Consciousness is fully captured by the representational content instantiated by physical processes, meaning it is not fundamental to reality).",
+    "emergence_type": "Weak Emergence. (Justification: As a reductive physicalist defense, the phenomenal properties are fully captured by, or identical to, the physical/representational contents and functional roles, implying derivability in principle).",
     "subjectivity_and_intentionality": "Subjectiviteit wordt verklaard door de diafaanheidsthese: toegang krijgen tot de aard van de ervaring is eenvoudigweg toegang krijgen tot de eigenschappen van het object ervan. Intentionaliteit, het 'over-iets-gaan' van mentale toestanden, staat centraal, aangezien ervaring in wezen representationeel is.",
     "qualia_account": "Qualia (fenomenaal karakter) worden volledig verklaard door of uitgeput door de representationele inhouden van de relevante mentale toestanden. Dit is bedoeld om aan te tonen dat geen enkele niet-fysieke kennis (zoals 'hoe het is om rood te zien') onverklaard blijft door fysieke/representationele feiten.",
     "ontological_commitments": "Mentale representaties, fysieke feiten en de functionele rol/intentionele inhouden van mentale toestanden.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filosofisch/conceptueel (gebaseerd op logische analyse van fenomenale concepten en de aard van introspectie)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptueel toetsbaar. (Het succes van de theorie berust op het filosofische argument dat representationele inhoud het fenomenale karakter logisch kan uitputten en zo gedachte-experimenten als het kennisargument oplost.)",
+    "testability_status": "Conceptually Testable. (The theory's success rests on the philosophical argument that representational content can logically exhaust phenomenal character, thereby resolving thought experiments like the Knowledge Argument).",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "De belangrijkste spanning is dat critici stellen dat het representationalisme het kennisargument niet logisch verwerpt, aangezien een representationalistische versie van de 'Mary-uitdaging' de moeilijkheid voor het fysicalisme in stand houdt.",
     "open_questions_and_limitations": "De precieze voorwaarden waaronder representationele inhoud het fenomenale karakter vat, moeten worden gespecificeerd, en de conceptuele coherentie van het volledig herleiden van fenomenale eigenschappen tot intentionele eigenschappen blijft betwist.",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Als bewustzijn wordt uitgeput door representationele inhoud en functionele rol, en deze eigenschappen computationeel kunnen worden verwezenlijkt, dan kunnen AI-systemen bewustzijn bereiken."
     },
     "survival_beyond_death": {
-      "stance": "Nee",
+      "stance": "No",
       "rationale": "De theorie is een verdediging van het materialisme/fysicalisme en impliceert dat bewustzijn uitsluitend gebonden is aan het fysieke systeem (het brein of het functionele/representationele equivalent ervan), wat voortbestaan na het biologische einde verhindert."
     },
     "meaning_and_purpose": {
-      "stance": "Enkel humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Als materialistische theorie biedt ze geen ultieme zin of doel buiten wat de mens voor zichzelf schept."
     },
     "virtual_immortality": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Aangezien het fenomenale karakter volledig wordt gevat door de functionele/representationele inhoud, zou een perfecte duplicatie (uploaden) van die inhouden het oorspronkelijke eerstepersoons mentale zelf behouden."
     }
   },
@@ -71,14 +73,14 @@
     "related_theories": [
       {
         "name": "Knowledge Argument (Mary's Room)",
-        "relationship": "Kritiek/oorsprong"
+        "relationship": "Critique/Origin"
       },
       {
         "name": "Transparency Thesis",
-        "relationship": "Fundament"
+        "relationship": "Foundation"
       },
       {
-        "name": "First-Order Representationalism",
+        "name": "First-Order",
         "relationship": "Overlap"
       },
       {

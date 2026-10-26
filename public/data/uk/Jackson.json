@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Діафанний репрезентаціоналізм Джексона та аргумент знання",
     "summary": "Діафанний репрезентаціоналізм Френка Джексона стверджує, що феноменальний характер перцептивного досвіду вичерпується його репрезентаційним змістом, тобто ми «бачимо наскрізь» досвід до властивостей об'єкта. Ця позиція була розроблена насамперед для того, щоб підважити висновок його власного знаменитого мисленнєвого експерименту — аргументу знання, який раніше слугував доводом проти фізикалізму.",
-    "associated_thinkers": ["Frank Jackson"],
+    "associated_thinkers": [
+      "Frank Jackson"
+    ],
     "category": "Теорії матеріалізму",
     "subcategory": "Репрезентаційна",
     "core_identity_tagline": "«Феноменальний характер вичерпується репрезентаційним змістом»",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість (феноменальний характер) ототожнюється з репрезентаційним змістом відповідних ментальних станів, який задовольняє певні умови, часто пов'язані з властивостями об'єкта досвіду.",
-    "ontological_status": "Редуктивний фізикалізм. (Обґрунтування: Головна мета теорії — спростувати аргумент знання, тим самим зберігши достатність фізикалізму/матеріалізму щодо феноменальної свідомості).",
+    "ontological_status": "Reductive Physicalism. (Justification: The theory's primary goal is to defeat the Knowledge Argument, thereby maintaining the sufficiency of physicalism/materialism regarding phenomenal consciousness).",
     "mind_body_relationship": "Тотожність. Феноменальна природа вичерпується функціональним та інтенційним змістом (репрезентаційними фактами), який утілюється фізично.",
-    "primitive_or_emergent_status": "Емерджентний. (Обґрунтування: Свідомість повністю схоплюється репрезентаційним змістом, утіленим фізичними процесами, тобто вона не є фундаментальною для реальності).",
-    "emergence_type": "Слабка емерджентність. (Обґрунтування: Як редуктивно-фізикалістський захист, феноменальні властивості повністю схоплюються фізичним/репрезентаційним змістом і функціональними ролями або тотожні їм, що передбачає виводимість у принципі).",
+    "primitive_or_emergent_status": "Emergent. (Justification: Consciousness is fully captured by the representational content instantiated by physical processes, meaning it is not fundamental to reality).",
+    "emergence_type": "Weak Emergence. (Justification: As a reductive physicalist defense, the phenomenal properties are fully captured by, or identical to, the physical/representational contents and functional roles, implying derivability in principle).",
     "subjectivity_and_intentionality": "Суб'єктивність пояснюється тезою про діафанність: доступ до природи досвіду є просто доступом до властивостей його об'єкта. Інтенційність, «спрямованість» ментальних станів, є центральною, оскільки досвід за своєю суттю є репрезентаційним.",
     "qualia_account": "Квалія (феноменальний характер) повністю пояснюються репрезентаційним змістом відповідних ментальних станів або вичерпуються ним. Це має показати, що жодне нефізичне знання (як-от «як воно — бачити червоне») не залишається непоясненим фізичними/репрезентаційними фактами.",
     "ontological_commitments": "Ментальні репрезентації, фізичні факти та функціональна роль/інтенційний зміст ментальних станів.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Філософський/концептуальний (на основі логічного аналізу феноменальних понять та природи інтроспекції)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально перевірна. (Успіх теорії спирається на філософський аргумент, що репрезентаційний зміст може логічно вичерпати феноменальний характер, тим самим розв'язуючи мисленнєві експерименти на кшталт аргументу знання).",
+    "testability_status": "Conceptually Testable. (The theory's success rests on the philosophical argument that representational content can logically exhaust phenomenal character, thereby resolving thought experiments like the Knowledge Argument).",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Головна суперечність полягає в тому, що критики стверджують, що репрезентаціоналізм логічно не відкидає аргумент знання, оскільки репрезентаціоналістська версія «виклику Мері» зберігає складність для фізикалізму.",
     "open_questions_and_limitations": "Мають бути уточнені точні умови, за яких репрезентаційний зміст схоплює феноменальний характер, а концептуальна узгодженість зведення феноменальних властивостей цілковито до інтенційних властивостей залишається під сумнівом.",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Якщо свідомість вичерпується репрезентаційним змістом і функціональною роллю, і ці властивості можуть бути реалізовані обчислювально, то системи ШІ можуть досягти свідомості."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Теорія є захистом матеріалізму/фізикалізму, з чого випливає, що свідомість пов'язана виключно з фізичною системою (мозком або його функціональним/репрезентаційним еквівалентом), що унеможливлює виживання після біологічного припинення."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичні",
+      "stance": "Humanistic only",
       "rationale": "Як матеріалістична теорія, вона не пропонує остаточного сенсу чи мети поза тим, що люди створюють для себе самі."
     },
     "virtual_immortality": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Оскільки феноменальний характер повністю схоплюється функціональним/репрезентаційним змістом, досконале дублювання (завантаження) цього змісту зберегло б первинну ментальну самість від першої особи."
     }
   },
@@ -71,19 +73,19 @@
     "related_theories": [
       {
         "name": "Knowledge Argument (Mary's Room)",
-        "relationship": "Критика/витік"
+        "relationship": "Critique/Origin"
       },
       {
         "name": "Transparency Thesis",
-        "relationship": "Підґрунтя"
+        "relationship": "Foundation"
       },
       {
-        "name": "First-Order Representationalism",
-        "relationship": "Перекриття"
+        "name": "First-Order",
+        "relationship": "Overlap"
       },
       {
         "name": "Epiphenomenalism",
-        "relationship": "Протиставлення"
+        "relationship": "Contrast"
       }
     ],
     "sources_and_references": [

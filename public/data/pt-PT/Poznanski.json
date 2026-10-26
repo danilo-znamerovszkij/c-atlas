@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Teoria da Organicidade Dinâmica (DOT)",
     "summary": "Trata-se de uma teoria biológica quântica, enraizada no materialismo do Tipo B, que modela a consciência recorrendo a um quadro temporal-topológico multiescalar. Afirma-se que a consciência surge espontaneamente quando a funcionalidade da complexidade multiescalar num estado negentrópico vivo do cérebro excede a funcionalidade derivada da complexidade máxima.",
-    "associated_thinkers": ["Roman Poznanski"],
+    "associated_thinkers": [
+      "Roman Poznanski"
+    ],
     "category": "Teorias Quânticas",
     "subcategory": "Organicidade Dinâmica (Biológica Quântica)",
     "core_identity_tagline": "A Consciência como Funcionalidade da Complexidade Multiescalar",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada como a realização biológica singular de processos físicos no cérebro, surgindo quando a funcionalidade da complexidade multiescalar ($F_{MultiComplexity}$) excede a funcionalidade da complexidade máxima ($F_{MaxComplexity}$)",
-    "ontological_status": "Materialismo do Tipo B",
+    "ontological_status": "Type-B Materialism",
     "mind_body_relationship": "A consciência é um processo físico, mas o conhecimento epistemicamente objetivo, por si só, não define o fisicalismo. A teoria emprega vias dinâmicas autorreferenciais para estabelecer a consciência no interior do cérebro material.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência forte (inferida)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence (Inferred)",
     "subjectivity_and_intentionality": "A subjetividade é abordada de forma epistémica, avaliando-se as propriedades físicas subjetivamente através de efeitos biológicos quânticos. A intencionalidade é o produto do processo espontâneo, funcionando como uma instrução para agir na seleção de vias e dando origem a um sentido de eu através da autorreferência.",
     "qualia_account": "Os qualia são evitados na discussão, uma vez que não se aplicam à realidade consciente sob o realismo funcional-estrutural, surgindo antes como uma caixa negra do «ser». Contudo, a teoria implica que as interações funcionais singulares não são fenomenalmente equivalentes noutros sistemas.",
     "ontological_commitments": "Complexidade multiescalar (funcional e estrutural), estado negentrópico vivo do cérebro e energia potencial quântica (implicitamente, enquanto fonte de graus de liberdade adicionais).",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Conceptual, Filosófica (modelação metafísica)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Especulativa/Conceptualmente testável",
+    "testability_status": "Speculative/Conceptually Testable",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "A condição $F_{MultiComplexity} > F_{MaxComplexity}$ é estabelecida apenas como necessária, não como suficiente. A rejeição das propriedades fenomenológicas tradicionais (os qualia) constitui uma grande tensão com outras teorias da consciência.",
     "open_questions_and_limitations": "A suficiência da condição $F_{MultiComplexity} > F_{MaxComplexity}$ permanece em aberto. A dependência de quadros topológicos não espaciais e da autorreferência para abordar a subjetividade/os qualia é uma limitação.",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condicional/Provável",
+      "stance": "Conditional",
       "rationale": "Enquanto materialismo do Tipo B, a consciência é um processo físico. Se os sistemas artificiais conseguissem replicar com êxito a complexa arquitetura funcional, a dinâmica multiescalar e utilizar os graus de liberdade biológicos quânticos exigidos para $F_{MultiComplexity} > F_{MaxComplexity}$, então a consciência emergiria."
     },
     "survival_beyond_death": {
-      "stance": "Incerto/Não",
+      "stance": "Unlikely",
       "rationale": "A consciência depende do «estado negentrópico vivo» e das dinâmicas específicas do cérebro material; a sobrevivência independente deste sistema orgânico não é sustentada pelos princípios fundamentais do materialismo da teoria."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanista",
+      "stance": "Humanistic only",
       "rationale": "A teoria centra-se na eficiência biológica e funcional, identificando a intencionalidade interna como orientação para a ação, o que confere um sentido de eu e de propósito, mas não implica qualquer teleologia externa ou cósmica."
     },
     "virtual_immortality": {
-      "stance": "Possível/Condicional",
+      "stance": "Possible",
       "rationale": "A imortalidade virtual é possível se as restrições biológicas e quântico-funcionais subjacentes, exigidas para gerar $F_{MultiComplexity} > F_{MaxComplexity}$, pudessem ser duplicadas e instanciadas com êxito num meio não biológico, permitindo a replicação do eu consciente."
     }
   },
@@ -72,19 +74,19 @@
     "related_theories": [
       {
         "name": "Integrated Information Theory",
-        "relationship": "Contraste"
+        "relationship": "Contrast"
       },
       {
         "name": "Type-B Materialism",
-        "relationship": "Fundamento"
+        "relationship": "Basis"
       },
       {
         "name": "Functionalism",
-        "relationship": "Crítica"
+        "relationship": "Critique"
       },
       {
-        "name": "Quantum Theories",
-        "relationship": "Sobreposição"
+        "name": "Quantum & Dimensions",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

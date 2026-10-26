@@ -2,7 +2,11 @@
   "id_and_class": {
     "theory_title": "Єврейська теорія душі",
     "summary": "Традиційне єврейське поняття розглядає «душу» (*nephesh*) не як окрему, безсмертну, нефізичну субстанцію, а як цілісну, інтегровану живу особу або чутливу істоту, установлену тоді, коли Бог вдихнув життя у фізичну форму. Отже, свідомість нерозривно пов'язана з живим, утіленим станом.",
-    "associated_thinkers": ["Hebrew Bible", "Jewish tradition", "Eduard Shyfrin"],
+    "associated_thinkers": [
+      "Hebrew Bible",
+      "Jewish tradition",
+      "Eduard Shyfrin"
+    ],
     "category": "Дуалізми",
     "subcategory": "Душа в єврейській Біблії та єврейській філософії",
     "core_identity_tagline": "«Душа» (*Nephesh*) як цілісна жива особа",
@@ -16,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість ототожнюється з «живою істотою» або «особою» (*nephesh*), що постає з поєднання фізичної форми та «дихання життя» (*ruach*). Пізніша єврейська філософія (Каббала) ототожнює душу з інформаційною сутністю, яка має вимір самості.",
-    "ontological_status": "Інтегрований монізм/холістичний фізикалізм. Цей погляд фундаментально відкидає уявлення про незалежну, безсмертну душу (субстанційний дуалізм), характерне для елліністичної філософії, наголошуючи на єдиній природі людської істоти.",
+    "ontological_status": "Integrated Monism/Holistic Physicalism. The view fundamentally rejects the notion of an independent, immortal soul (substance dualism) characteristic of Hellenistic philosophy, emphasizing the unified nature of the human being.",
     "mind_body_relationship": "Єдність/тотожність. Тіло та «душа» (*nephesh*) є нероздільними, позначаючи цілісну живу особу, яку не можна звести суто до фізичних частин, але яка, проте, є цілком утіленою. Це суголосно з поглядами на кшталт нередуктивного фізикалізму в наголосі на інтегрованій особі.",
-    "primitive_or_emergent_status": "Емерджентний. Людина стала живою істотою (*nephesh*) після того, як отримала дихання життя, що вказує на емерджентний стан або умову складеної істоти.",
-    "emergence_type": "Холістична емерджентність. «Душа» є складеним цілим, що постає зі з'єднання фізичних компонентів і «духу», або «дихання», представляючи цілісність живого організму, а не властивість, що слабко емерджує з матерії.",
+    "primitive_or_emergent_status": "Emergent. The human became a living being (*nephesh*) after the breath of life was received, indicating it is an emergent state or condition of the composite creature.",
+    "emergence_type": "Holistic Emergence. The 'soul' is the composite resulting from the assembly of physical components and the 'spirit' or 'breath,' representing the entirety of the living organism rather than a property weakly emerging from matter.",
     "subjectivity_and_intentionality": "Суб'єктивність є властивою *nephesh* (живій істоті), охоплюючи здатність переживати життя, емоції (серце) та бажання. Досвід самості безпосередньо пов'язаний зі станом бути живим і функціонувати.",
     "qualia_account": "Явно не деталізовано, оскільки фокус є радше антропологічним, ніж феноменологічним. Свідомість/життя (*nephesh*) поширюється на всіх чутливих істот, з чого випливає, що якісний досвід пов'язаний зі станом бути живим організмом.",
     "ontological_commitments": "Жива, дихаюча особа (фізичний організм), дихання/дух (*ruach*) та інформаційні структури (у пізніших містичних інтерпретаціях на кшталт Каббали).",
@@ -43,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Богословська та філософська інтерпретація, що спирається насамперед на лінгвістичний аналіз біблійних текстів і їхній первісний антропологічний контекст."
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально перевірна через філософську та богословську узгодженість. Вона не є емпірично перевірною в сучасному науковому сенсі, оскільки спирається на наративи божественного творіння та лінгвістичні означення давніх текстів.",
+    "testability_status": "Conceptually testable through philosophical and theological coherence. It is not empirically testable in the contemporary scientific sense, as it relies on divine creation narratives and linguistic definitions of ancient texts.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Головна суперечність постає з її пізнішого злиття з елліністичними/платонівськими поняттями безсмертної, відокремлюваної душі, що веде до субстанційного дуалізму, який первісний єврейський погляд відкидає. Її критикують за те, що вона є антропологічною моделлю, яка не спромоглася розглянути сучасну важку проблему феноменальної свідомості.",
     "open_questions_and_limitations": "Опертя теорії на божественну дію та давню мову обмежує її здатність безпосередньо взаємодіяти з нейронауковими висновками щодо породження феноменальної свідомості. Вона також стикається з неоднозначністю щодо природи духу (*ruach*) після смерті.",
@@ -51,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Умовна",
+      "stance": "Conditional",
       "rationale": "Первісне біблійне поняття, що прив'язує свідомість до біологічного життя та дихання, вказує на «Ні». Проте пізніша каббалістична інтерпретація, що визначає душу як «інформаційну сутність», могла б дозволити штучним системам із достатньою інформаційною складністю та необхідним «виміром самості» досягти свідомості."
     },
     "survival_beyond_death": {
-      "stance": "Ні (без божественного втручання)",
+      "stance": "Conditional",
       "rationale": "Осердне поняття *nephesh* прив'язане до біологічного життя й не є за своєю суттю безсмертним. Виживання після смерті спирається на богословське вчення про воскресіння мертвих (відтворення Богом), а не на збереження безтілесної душі."
     },
     "meaning_and_purpose": {
-      "stance": "Граничний/теїстичний",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Свідомість/життя походить від «дихання життя», наданого Богом, установлюючи властивий, богоданий граничний сенс і мету."
     },
     "virtual_immortality": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Віртуальне безсмертя вимагає дублювання функцій мозку, спираючись на фізикалістські/функціоналістські припущення. Оскільки первісне єврейське поняття *nephesh* є за своєю суттю біологічним та інтегрованим, сама лише симуляція або завантаження інформаційних патернів не спромоглася б схопити сутність живої істоти."
     }
   },
@@ -71,19 +75,19 @@
     "related_theories": [
       {
         "name": "Soul in the New Testament and Christian Philosophy",
-        "relationship": "Вплив/критика"
+        "relationship": "Influence/Critique"
       },
       {
-        "name": "Non-Reductive Physicalism",
-        "relationship": "Сумісна"
+        "name": "Non-Reductive",
+        "relationship": "Compatible"
       },
       {
-        "name": "Swinburne’s Substance Dualism",
-        "relationship": "Критика"
+        "name": "Swinburne's Substance Dualism",
+        "relationship": "Critique"
       },
       {
         "name": "Kabbalah Panpsychism",
-        "relationship": "Розширення"
+        "relationship": "Extension"
       }
     ],
     "sources_and_references": [

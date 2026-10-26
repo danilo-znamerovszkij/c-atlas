@@ -19,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание отождествляется с феноменальными свойствами, которые онтологически отличны от физических свойств, но каузально зависят от них (Физическое → Феноменальное).",
-    "ontological_status": "Слабая форма дуализма или нередуктивный физикализм. Утверждает полную каузальную замкнутость физического.",
+    "ontological_status": "Weak form of Dualism or Non-Reductive Physicalism. It affirms the complete causal closure of the physical.",
     "mind_body_relationship": "Ментальные состояния полностью являются продуктом биологического мозга. Физические состояния вызывают феноменальные состояния, но феноменальные состояния не оказывают каузального воздействия на физическое (однонаправленная причинность).",
-    "primitive_or_emergent_status": "Эмерджентный. Сознание есть исключительно продукт биологического мозга.",
-    "emergence_type": "Свойства несводимы и онтологически отличны от физических свойств, что указывает на некую форму сильной эмерджентности феноменального свойства, даже если оно каузально инертно. (Обосновано на основании тезиса о несводимости).",
+    "primitive_or_emergent_status": "Emergent. Consciousness is solely the product of biological brains.",
+    "emergence_type": "The properties are irreducible and ontologically distinct from physical properties , suggesting a form of strong emergence for the phenomenal property, even if it is causally inert. (Justified based on irreducibility claim ).",
     "subjectivity_and_intentionality": "Осознавание сознания реально. Субъективность (феноменальные свойства) онтологически отлична. Ощущение ментальной причинности иллюзорно.",
     "qualia_account": "Феноменальные свойства (квалиа) реальны и онтологически отличны от физических свойств, но они являются эпифеноменами и потому каузально инертны.",
     "ontological_commitments": "Физические состояния (мозг) и онтологически отличные феноменальные свойства (ментальные состояния), возникающие из них.",
@@ -46,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Философское (движимо прежде всего объяснительным бременем ментальной причинности и приверженностью каузальной замкнутости физического)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально проблематично. Его главный тезис — что сознательные состояния лишены каузальной силы — контринтуитивен и труден для эмпирической проверки, поскольку требует доказательства отсутствия каузальной связи.",
+    "testability_status": "Conceptually challenged. Its primary claim—that conscious states lack causal force—is counterintuitive and difficult to test empirically, as it involves proving a negative causal link.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Теория контринтуитивна, поскольку нам настойчиво кажется, что наши феноменально сознательные состояния каузально значимы. Она вынуждает принять, что наше ощущение ментальной причинности (мысли, вызывающие события) есть «своего рода иллюзия или обман».",
     "open_questions_and_limitations": "Центральной является интеграция ментальной причинности, поскольку эпифеноменализм решает проблему, отрицая причинность, но это требует принятия крайне контринтуитивного результата.",
@@ -54,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Вероятно",
+      "stance": "Likely",
       "rationale": "Если сознание есть лишь некаузальный побочный продукт (пена) физических процессов в мозге, то воспроизведение этих физических процессов в ИИ должно порождать те же сознательные состояния, причём некаузальные ментальные состояния не будут препятствовать функциональному воспроизведению."
     },
     "survival_beyond_death": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Сознание всецело физично и является исключительно продуктом биологического мозга. Эта физическая зависимость исключает выживание после телесной смерти."
     },
     "meaning_and_purpose": {
-      "stance": "Только гуманистический",
+      "stance": "Humanistic only",
       "rationale": "Будучи философской материалистической теорией, она не предоставляет предельного смысла или цели. Поскольку сознание каузально инертно, оно не может придавать космической телеологической ценности."
     },
     "virtual_immortality": {
-      "stance": "Весьма вероятно",
+      "stance": "Likely",
       "rationale": "Инертная природа сознания означает, что загрузка физических состояний с необходимостью продублирует эпифеноменальные ментальные состояния. Инертная «пена» должна мало сказываться на достижении виртуального бессмертия."
     }
   },
@@ -74,19 +74,19 @@
     "related_theories": [
       {
         "name": "Property Dualism",
-        "relationship": "Слабая форма/тип"
+        "relationship": "Weak form/Type"
       },
       {
-        "name": "Non-Reductive Physicalism",
-        "relationship": "Более слабая форма/перекрытие"
+        "name": "Non-Reductive",
+        "relationship": "Weaker form/Overlap"
       },
       {
         "name": "Parallelism",
-        "relationship": "Сходная, но менее популярная альтернатива"
+        "relationship": "Similar but less popular alternative"
       },
       {
         "name": "Emergent Dualism",
-        "relationship": "Противопоставление (эмерджентный дуализм утверждает каузальную эффективность, эпифеноменализм её отрицает)"
+        "relationship": "Contrast (Emergent Dualism affirms causal efficacy, Epiphenomenalism denies it )"
       }
     ],
     "sources_and_references": [

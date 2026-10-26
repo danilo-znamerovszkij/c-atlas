@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Representacionalismo Diáfano de Jackson e o Argumento do Conhecimento",
     "summary": "O Representacionalismo Diáfano de Frank Jackson sustenta que o carácter fenomenal da experiência percetiva se esgota no seu conteúdo representacional, o que significa que 'vemos através' da experiência até às propriedades do objeto. Esta posição foi desenvolvida sobretudo para minar a conclusão da sua própria e célebre experiência mental, o Argumento do Conhecimento, que anteriormente argumentava contra o fisicalismo.",
-    "associated_thinkers": ["Frank Jackson"],
+    "associated_thinkers": [
+      "Frank Jackson"
+    ],
     "category": "Teorias do Materialismo",
     "subcategory": "Representacional",
     "core_identity_tagline": "'O Carácter Fenomenal Esgota-se no Conteúdo Representacional'",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência (carácter fenomenal) é identificada com o conteúdo representacional dos estados mentais relevantes que satisfaça certas condições, frequentemente ligado às propriedades do objeto da experiência.",
-    "ontological_status": "Fisicalismo reducionista. (Justificação: o objetivo primordial da teoria é derrotar o Argumento do Conhecimento, mantendo assim a suficiência do fisicalismo/materialismo quanto à consciência fenomenal).",
+    "ontological_status": "Reductive Physicalism. (Justification: The theory's primary goal is to defeat the Knowledge Argument, thereby maintaining the sufficiency of physicalism/materialism regarding phenomenal consciousness).",
     "mind_body_relationship": "Identidade. A natureza fenomenal esgota-se nos conteúdos funcionais e intencionais (factos representacionais), que são instanciados fisicamente.",
-    "primitive_or_emergent_status": "Emergente. (Justificação: a consciência é plenamente captada pelo conteúdo representacional instanciado por processos físicos, o que significa que não é fundamental para a realidade).",
-    "emergence_type": "Emergência fraca. (Justificação: enquanto defesa fisicalista reducionista, as propriedades fenomenais são plenamente captadas pelos conteúdos físicos/representacionais e papéis funcionais, ou idênticas a eles, o que implica derivabilidade em princípio).",
+    "primitive_or_emergent_status": "Emergent. (Justification: Consciousness is fully captured by the representational content instantiated by physical processes, meaning it is not fundamental to reality).",
+    "emergence_type": "Weak Emergence. (Justification: As a reductive physicalist defense, the phenomenal properties are fully captured by, or identical to, the physical/representational contents and functional roles, implying derivability in principle).",
     "subjectivity_and_intentionality": "A subjetividade é explicada pela tese da diafaneidade: aceder à natureza da experiência é simplesmente aceder às propriedades do seu objeto. A intencionalidade, o 'ser-acerca-de' dos estados mentais, é central, pois a experiência é essencialmente representacional.",
     "qualia_account": "Os qualia (carácter fenomenal) são plenamente explicados pelos conteúdos representacionais dos estados mentais relevantes, ou neles se esgotam. Com isto pretende-se mostrar que nenhum conhecimento não-físico (como 'o que é ver vermelho') permanece por explicar pelos factos físicos/representacionais.",
     "ontological_commitments": "Representações mentais, factos físicos e o papel funcional/conteúdos intencionais dos estados mentais.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico/conceptual (baseado na análise lógica dos conceitos fenomenais e na natureza da introspeção)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptualmente testável. (O sucesso da teoria assenta no argumento filosófico de que o conteúdo representacional pode logicamente esgotar o carácter fenomenal, resolvendo assim experiências mentais como o Argumento do Conhecimento).",
+    "testability_status": "Conceptually Testable. (The theory's success rests on the philosophical argument that representational content can logically exhaust phenomenal character, thereby resolving thought experiments like the Knowledge Argument).",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "A principal tensão é que os críticos argumentam que o representacionalismo não rejeita logicamente o Argumento do Conhecimento, pois uma versão representacionalista do 'desafio de Mary' mantém a dificuldade para o fisicalismo.",
     "open_questions_and_limitations": "As condições precisas sob as quais o conteúdo representacional capta o carácter fenomenal têm de ser especificadas, e a coerência conceptual de reduzir inteiramente as propriedades fenomenais a propriedades intencionais permanece contestada.",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Se a consciência se esgota no conteúdo representacional e no papel funcional, e se estas propriedades podem ser realizadas computacionalmente, então os sistemas de IA podem alcançar consciência."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A teoria é uma defesa do materialismo/fisicalismo, o que implica que a consciência está ligada exclusivamente ao sistema físico (o cérebro ou o seu equivalente funcional/representacional), impedindo a sobrevivência para além da cessação biológica."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanista",
+      "stance": "Humanistic only",
       "rationale": "Enquanto teoria materialista, não oferece nenhum sentido ou propósito último para além do que os humanos criam para si próprios."
     },
     "virtual_immortality": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Uma vez que o carácter fenomenal é plenamente captado pelo conteúdo funcional/representacional, uma duplicação perfeita (carregamento) desses conteúdos preservaria o eu mental original em primeira pessoa."
     }
   },
@@ -71,19 +73,19 @@
     "related_theories": [
       {
         "name": "Knowledge Argument (Mary's Room)",
-        "relationship": "Crítica/origem"
+        "relationship": "Critique/Origin"
       },
       {
         "name": "Transparency Thesis",
-        "relationship": "Fundamento"
+        "relationship": "Foundation"
       },
       {
-        "name": "First-Order Representationalism",
-        "relationship": "Sobreposição"
+        "name": "First-Order",
+        "relationship": "Overlap"
       },
       {
         "name": "Epiphenomenalism",
-        "relationship": "Contraste"
+        "relationship": "Contrast"
       }
     ],
     "sources_and_references": [

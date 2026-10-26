@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "A Sociedade da Mente de Minsky",
     "summary": "A teoria postula que a cognição e a inteligência humanas emergem das interações paralelas e não conscientes de numerosos elementos funcionais especializados e semi-independentes, conhecidos como «agentes», localizados no cérebro. A própria consciência é encarada como um «termo-mala», usado de forma ambígua para rotular um conjunto destes variados processos cognitivos e de consciência, e não como uma entidade única e unificada.",
-    "associated_thinkers": ["Marvin Minsky"],
+    "associated_thinkers": [
+      "Marvin Minsky"
+    ],
     "category": "Materialismo",
     "subcategory": "Neurobiológica",
     "core_identity_tagline": "«A consciência como termo-mala para agentes»",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada como uma descrição coletiva, de alto nível, usada para uma variedade de processos e fenómenos emergentes (por exemplo, tipos de memória, formas especializadas de consciência atencional) gerados por agentes computacionais subjacentes no cérebro.",
-    "ontological_status": "Fisicalismo",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "A mente/consciência é inteiramente produzida por, e é uma descrição de alto nível da, organização física e das atividades de unidades computacionais especializadas («agentes») no cérebro. O crucial é a organização, e não o substrato material.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca (justificação: enquanto quadro materialista computacional, a estrutura e a organização dos estados mentais, embora complexas, são fundamentalmente redutíveis às interações definidas dos agentes não conscientes, o que não implica qualquer «magia» irredutível para além da descrição de alto nível.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justification: As a computational materialist framework, the structure and organization of mind states, though complex, are fundamentally reducible to the defined interactions of the nonconscious agents, implying no irreducible 'magic' beyond the high-level description.)",
     "subjectivity_and_intentionality": "A subjetividade (o sentido de eu) surge como um processo de alto nível: a capacidade de o sistema fazer um modelo de si próprio enquanto ser num mundo e usar este modelo para pensar, de forma elevada, sobre o seu passado e o seu futuro. A intencionalidade é veiculada pelo output dos agentes especializados.",
     "qualia_account": "Os qualia são implicitamente rejeitados como parte do enganador «termo-mala» da consciência, que desvia a atenção dos complexos processos subjacentes. A teoria disseca várias formas de consciência atencional (por exemplo, recordar uma sensação vs. recordar palavras), mas rejeita uma sensação fenoménica irredutível.",
     "ontological_commitments": "Agentes cognitivos especializados, níveis organizacionais hierárquicos, estruturas cerebrais físicas (por exemplo, colunas corticais) e descrições computacionais de alto nível.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Computacional, filosófica (perspetiva da IA), neurobiológica (hierarquia organizacional)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptual e computacionalmente testável (justificação: uma vez que a consciência é definida puramente através de mecanismos funcionais e de uma hierarquia organizacional, os princípios podem ser implementados e testados em sistemas artificiais avançados).",
+    "testability_status": "Conceptually and computationally testable (Justification: Since consciousness is defined purely through functional mechanisms and organizational hierarchy, the principles can be implemented and tested within advanced artificial systems).",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "A principal crítica dirigida à procura da consciência é que os investigadores desperdiçam o seu tempo à procura de um único «lugar no cérebro onde a consciência se localiza», quando esta é apenas uma palavra para muitos processos. Enfrenta também as críticas habituais ao funcionalismo redutivo relativas à rejeição de qualia subjetivos genuínos.",
     "open_questions_and_limitations": "A limitação é a imensa tarefa de determinar com precisão como funciona cada um dos processos componentes agrupados sob o «termo-mala» e como se inter-relacionam.",
@@ -51,39 +53,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Se a consciência resulta das interações computacionais necessárias e das descrições de alto nível de agentes especializados, os sistemas artificiais capazes de instanciar esta forma específica de organização de alto nível deveriam ser conscientes."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A consciência depende inteiramente da existência física e da organização funcional do cérebro/máquina biológico; a sua dissolução implica o fim permanente da mente."
     },
     "meaning_and_purpose": {
-      "stance": "Humanístico/pragmático",
+      "stance": "Humanistic only",
       "rationale": "O propósito funcional da organização cognitiva complexa (consciência) é ajudar o organismo a navegar no mundo, a fazer planos e a modelar-se a si próprio, proporcionando sentido subjetivo, mas não implicando qualquer propósito cósmico abrangente."
     },
     "virtual_immortality": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Uma vez que a mente é definida pelos seus padrões informacionais e pela sua organização funcional (descrição de alto nível), a duplicação total ou o carregamento num meio não biológico capaz de replicar estas interações complexas transferiria a identidade consciente original."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Dennett’s Multiple Drafts Model",
-        "relationship": "Compatível"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Compatible"
       },
       {
-        "name": "Graziano’s Attention Schema Theory",
-        "relationship": "Compatível"
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "Compatible"
       },
       {
         "name": "Functionalism",
-        "relationship": "Extensão"
+        "relationship": "Extension"
       },
       {
         "name": "Computational Theories",
-        "relationship": "Extensão"
+        "relationship": "Extension"
       }
     ],
     "sources_and_references": [

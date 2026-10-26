@@ -20,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Ментальні активності визначаються як утілені активності, що постають із динамічних, двоспрямованих обмінів між організмом та його оточенням, регульованих сенсомоторними процесами.",
-    "ontological_status": "Фізикалізм",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Розум і ментальне життя розгалужуються через тіло й довкілля, тобто їх не можна звести просто до процесів мозку всередині голови. Відношення є відношенням динамічної взаємодії та співвідношення, часто зване «утіленим динамізмом».",
-    "primitive_or_emergent_status": "Емерджентний",
-    "emergence_type": "Природна емерджентність. Свідомість постає через еволюційні етапи когніції та протосвідомості. Підхід прагне пояснити перехід від життя до розуму, використовуючи той самий вид процесів, що уможливлюють перехід від неживого до живого.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Natural Emergence. Consciousness arises via evolutionary stages of cognition and proto-consciousness. The approach seeks to explain the transition from life to mind using the same kind of processes that enable the transition from nonlife to life.",
     "subjectivity_and_intentionality": "Суб'єктивність досліджується через першість прожитого досвіду (феноменологія). Інтенційність (спрямованість мислення) пояснюється ідеєю, що розум активно конституює свої об'єкти, приводячи світ до усвідомлення чи розкриваючи його через взаємодію.",
     "qualia_account": "Пов'язана з теорією методологія, нейрофеноменологія, підкреслює незвідну природу свідомого досвіду та прожитого досвіду. Хоча механістичні деталі породження квалія явно не деталізовано в наданому тексті, зосередження робиться на прямій, прожитій якості досвіду.",
     "ontological_commitments": "Живі системи, взаємодії організму з довкіллям, сенсомоторні процеси та самоорганізаційні обмеження. Підхід іноді характеризують як онтологічний прорив, що підкреслює першість утілення.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Філософське (феноменологічне), теоретичне, біологічне/еволюційне."
   },
   "empirics_and_critiques": {
-    "testability_status": "Емпірично перевірне через застосування нейрофеноменології, яка координує описи від першої особи з нейробіологічними даними від третьої особи.",
+    "testability_status": "Empirically testable through the application of Neurophenomenology, which coordinates first-person descriptions with third-person neurobiological data.",
     "known_empirical_interventions_or_tests": [
       "Нейрофеноменологічні дослідницькі методи (наприклад, мікрофеноменологічні інтерв'ю) ",
       "Дослідження досвіду меж самості з використанням неврологічних та феноменологічних даних "
@@ -58,39 +58,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Імовірно",
+      "stance": "Likely",
       "rationale": "Енактивізм є теорією матеріалізму (утіленою). Матеріалізм загалом стверджує, що свідомість ШІ має бути можливою в принципі, за умови, що необхідну фізичну та втілену організаційну складність (зокрема здатність динамічно взаємодіяти з довкіллям) відтворено у штучній системі."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Свідомість щільно пов'язана з утіленим, живим організмом та його біологічними процесами. Оскільки організм є фізичним, очікується, що свідомість припиняється при біологічній смерті (стандартна матеріалістична позиція)."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичне",
+      "stance": "Humanistic only",
       "rationale": "Як теорія матеріалізму, енактивізм не надає жодних доказів найвищого космічного сенсу чи мети, визнаючи лише сенс і цінність, які люди створюють для себе самі через агентність та взаємодію."
     },
     "virtual_immortality": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Якщо енактивізм є правильним, то віртуальне безсмертя було б досяжним, якби складні, динамічні процеси, що конституюють утілений, самоорганізаційний розум, можна було досконало продублювати чи симулювати в небіологічному середовищі."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Embodied Cognition",
-        "relationship": "Перетин"
+        "name": "Embodied",
+        "relationship": "Overlap"
       },
       {
-        "name": "Neurophenomenology",
-        "relationship": "Розширення"
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Extension"
       },
       {
         "name": "Ecological Psychology (Gibson’s)",
-        "relationship": "Сумісна"
+        "relationship": "Compatible"
       },
       {
         "name": "Dynamic Systems Approach",
-        "relationship": "Вплив"
+        "relationship": "Influence"
       }
     ],
     "sources_and_references": [

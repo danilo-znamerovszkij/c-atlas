@@ -19,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Os estados mentais são identificados como estados funcionais, constituídos pelas suas relações causais, papéis, resultados e saídas, o que implica que são realizáveis em qualquer substrato que suporte essas funções.",
-    "ontological_status": "Fisicalismo (em sentido lato, agnóstico quanto à substância). A teoria é classificada no Materialismo, mas é metafisicamente agnóstica quanto a substâncias não físicas, centrando-se sobretudo na descrição funcional dos estados mentais.",
+    "ontological_status": "Physicalism (broadly, agnostic to substance). The theory is classified under Materialism, but it is metaphysically agnostic regarding nonphysical substances, focusing primarily on the functional description of mental states.",
     "mind_body_relationship": "Os estados mentais são estados funcionais idênticos aos papéis funcionais que são realizados ou instanciados num substrato físico, conduzindo a «teses de identidade de estados funcionais».",
-    "primitive_or_emergent_status": "Emergente. A consciência surge da organização funcional realizada por um substrato suficientemente complexo (como o tecido neuronal ou os chips de computador).",
-    "emergence_type": "Emergência fraca. Uma vez que a função é definível e potencialmente realizável de múltiplas formas em substratos diferentes, a propriedade mental emergente é, em princípio, explicável pela estrutura funcional subjacente e pelas leis físicas.",
+    "primitive_or_emergent_status": "Emergent. Consciousness arises from the functional organization realized by a sufficiently complex substrate (like neural tissue or computer chips).",
+    "emergence_type": "Weak Emergence. Since the function is definable and potentially multiply realizable across different substrates, the emergent mental property is, in principle, explainable by the underlying functional structure and physical laws.",
     "subjectivity_and_intentionality": "A subjetividade e a intencionalidade são explicadas em termos de organização funcional específica e de relações causais. Por exemplo, em teorias funcionalistas relacionadas, a intencionalidade é entendida através da representação de segunda ordem dos estados mentais.",
     "qualia_account": "A teoria tem tradicionalmente dificuldade em explicar os qualia fenomenais, abordando-os frequentemente ao afirmar que a sensação qualitativa se esgota inteiramente no papel funcional, ou por conjugação com teorias representacionais.",
     "ontological_commitments": "Os papéis funcionais ou as relações causais são as entidades essenciais. A teoria pressupõe a existência de substratos capazes de instanciar a informação e a arquitetura funcional, quer se trate de tecido neuronal quer de chips de computador.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Filosófica (definições conceptuais), computacional (através de teorias computacionais da mente)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptual e empiricamente testável. Experiências mentais (como a substituição do substrato) sondam os seus limites conceptuais, e a realização computacional (IA) testa a sua aplicação empírica.",
+    "testability_status": "Conceptually and empirically testable. Thought experiments (like substrate replacement) probe its conceptual limits, and computational realization (AI) tests its empirical application.",
     "known_empirical_interventions_or_tests": "A experiência mental da substituição por chips de silício é usada conceptualmente para testar se a consciência fenomenal é preservada quando o papel funcional se mantém através de uma mudança de substrato.",
     "criticisms_and_tensions": "É fortemente criticada por não explicar a consciência fenomenal (qualia), descrevendo apenas o papel funcional, o que conduz ao desafio do «problema difícil» — o de que os papéis funcionais poderão não esgotar a natureza da experiência consciente.",
     "open_questions_and_limitations": "A grande questão por resolver é saber se a experiência consciente se esgota inteiramente no papel funcional. Não é claro como é que as definições funcionais captam plenamente os aspetos subjetivos e qualitativos da experiência.",
@@ -55,39 +55,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "O Funcionalismo sustenta que a consciência assenta na função, não na biologia. Se as funções corretas puderem ser realizadas computacionalmente em substratos não biológicos, a consciência em IA é possível em princípio e certa se o Materialismo for verdadeiro."
     },
     "survival_beyond_death": {
-      "stance": "Condicional/Não",
+      "stance": "Conditional",
       "rationale": "Enquanto teoria fisicalista, a consciência está ligada ao substrato. A sobrevivência para além da morte do corpo biológico só é possível se o estado mental funcional puder ser transferido (carregado) com êxito para um novo substrato de continuidade (imortalidade virtual)."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanista",
+      "stance": "Humanistic only",
       "rationale": "O Funcionalismo descreve o mecanismo pelo qual a mente/consciência opera num mundo físico, fornecendo capacidades de agência e reflexão, mas não oferece qualquer fundamento para um sentido ou teleologia cósmica última, alinhando-se com a posição geral do Materialismo."
     },
     "virtual_immortality": {
-      "stance": "Alcançável",
+      "stance": "Likely",
       "rationale": "O Funcionalismo serve de base teórica para a imortalidade virtual. Se o papel funcional do eu mental puder ser perfeitamente duplicado e carregado para um novo suporte, o eu mental na primeira pessoa é preservado."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Computational Functionalism",
-        "relationship": "Extensão"
+        "name": "Computational",
+        "relationship": "Extension"
       },
       {
         "name": "Homuncular Functionalism (Lycan)",
-        "relationship": "Extensão"
+        "relationship": "Extension"
       },
       {
-        "name": "Reductive Physicalism",
-        "relationship": "Compatível/rival"
+        "name": "Materialism",
+        "relationship": "Compatible/Rival"
       },
       {
         "name": "Neurofunctionalism (Prinz)",
-        "relationship": "Extensão"
+        "relationship": "Extension"
       }
     ],
     "sources_and_references": [

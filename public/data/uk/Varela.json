@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Нейрофеноменологія Варели",
     "summary": "Нейрофеноменологія є методологічним підходом, що прагне встановити взаємні обмеження між феноменами від першої особи, наявними в пережитому досвіді (феноменологія), та нейронними феноменами від третьої особи, встановленими когнітивними науками. Метою є поєднати строгу науку з дисциплінованим дослідженням людського досвіду, помістивши структуру досвіду в осердя наукового пошуку.",
-    "associated_thinkers": ["Francisco Varela"],
+    "associated_thinkers": [
+      "Francisco Varela"
+    ],
     "category": "Матеріалізм",
     "subcategory": "Втілений та енактивний",
     "core_identity_tagline": "Свідомість як взаємне обмеження досвіду й мозку",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість визначається своєю нередукованою природою як поле феноменів із перших рук, яке діє як провідник чи обмеження для корелятивного нейробіологічного дослідження.",
-    "ontological_status": "Методологічний фізикалізм",
+    "ontological_status": "Methodological Physicalism",
     "mind_body_relationship": "Співдетермінація/взаємне обмеження (Феноменальна та нейробіологічна царини наділені рівним статусом і взаємно висвітлюють одна одну.)",
-    "primitive_or_emergent_status": "Методологічний/агностичний",
-    "emergence_type": "Не застосовно",
+    "primitive_or_emergent_status": "Methodological/Agnostic",
+    "emergence_type": "N/A",
     "subjectivity_and_intentionality": "Суб'єктивність (досвід від першої особи) береться як нередукований відправний пункт та центральний фокус дослідження, необхідний для відновлення «людського життя» в науковому поясненні.",
     "qualia_account": "Квалія включаються як нередуковані, пережиті якості досвіду з перших рук, які мають бути строго досліджені та співвіднесені з нейробіологічними даними.",
     "ontological_commitments": "Досвід/феномени від першої особи; нейробіологічні феномени (дані когнітивних наук); «акт розрізнення».",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Феноменологічний, концептуальний, емпіричний/нейробіологічний."
   },
   "empirics_and_critiques": {
-    "testability_status": "Емпірично перевірна/методологічна (Підхід визначає відкриту дослідницьку програму з використанням нових інструментів, як-от нейрофеноменологічна лабораторія).",
+    "testability_status": "Empirically testable/Methodological (The approach defines an open-ended research program using new tools, such as the neurophenomenological laboratory).",
     "known_empirical_interventions_or_tests": [
       "Переплетення досвідних методів від першої особи (наприклад, медитації) з дослідженнями мозку від третьої особи (нейрофеноменологічна лабораторія)"
     ],
@@ -53,39 +55,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Малоймовірно",
+      "stance": "Unlikely",
       "rationale": "Свідомість значною мірою спирається на втілений, пережитий досвід та динаміку, пов'язану з біологічними процесами, що робить саме лише обчислювальне відтворення недостатнім."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Теорію віднесено до матеріалістичних/втілених теорій, з фокусом на свідомості як укоріненій у живому, біологічному організмі та розгалуженій через нього, що передбачає припинення після тілесної смерті."
     },
     "meaning_and_purpose": {
-      "stance": "Гуманістичний/прагматичний",
+      "stance": "Humanistic only",
       "rationale": "Методологія прагне відновити «людське життя» та суб'єктивний досвід у науковому поясненні, надаючи сенс через поціновування пережитого досвіду понад відчуження суто функцією, не постулюючи космічної мети."
     },
     "virtual_immortality": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Якщо свідомість укорінена у втіленому, пережитому досвіді, що простягається поза межі мозку, просте завантаження нейронних/функціональних даних не змогло б охопити необхідну динаміку відношення організм-середовище."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Thompson’s Mind in Life",
-        "relationship": "Розширення"
+        "name": "Thompson's Mind in Life",
+        "relationship": "Extension"
       },
       {
-        "name": "Bitbol’s Radical Neurophenomenology",
-        "relationship": "Розширення/уточнення"
+        "name": "Bitbol's Radical Neurophenomenology",
+        "relationship": "Extension/Refinement"
       },
       {
         "name": "Enactivism",
-        "relationship": "Перетин категорій"
+        "relationship": "Category Overlap"
       },
       {
         "name": "Chalmers's Hard Problem",
-        "relationship": "Критика/рамка для розчинення"
+        "relationship": "Critique/Framework for Dissolution"
       }
     ],
     "sources_and_references": [

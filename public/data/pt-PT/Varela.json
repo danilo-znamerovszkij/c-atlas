@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Neurofenomenologia de Varela",
     "summary": "A neurofenomenologia é uma abordagem metodológica que procura estabelecer constrangimentos mútuos entre os fenómenos na primeira pessoa presentes na experiência vivida (fenomenologia) e os fenómenos neurais na terceira pessoa estabelecidos pelas ciências cognitivas. O objetivo é conjugar a ciência rigorosa com um exame disciplinado da experiência humana, colocando a estrutura da experiência no centro da investigação científica.",
-    "associated_thinkers": ["Francisco Varela"],
+    "associated_thinkers": [
+      "Francisco Varela"
+    ],
     "category": "Materialismo",
     "subcategory": "Corporizado e Enativo",
     "core_identity_tagline": "A consciência como constrangimento mútuo da experiência e do cérebro",
@@ -16,9 +18,9 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência identifica-se pela sua natureza irredutível como um campo de fenómenos em primeira mão, que atua como guia ou constrangimento da investigação neurobiológica correlativa.",
-    "ontological_status": "Fisicalismo metodológico",
+    "ontological_status": "Methodological Physicalism",
     "mind_body_relationship": "Codeterminação/constrangimento mútuo (os domínios fenoménico e neurobiológico recebem estatuto igual e iluminam-se reciprocamente.)",
-    "primitive_or_emergent_status": "Metodológico/agnóstico",
+    "primitive_or_emergent_status": "Methodological/Agnostic",
     "emergence_type": "N/A",
     "subjectivity_and_intentionality": "A subjetividade (a experiência na primeira pessoa) é tomada como o ponto de partida irredutível e o foco central da investigação, essencial para restituir a ‘vida humana’ ao relato científico.",
     "qualia_account": "Os qualia são incorporados como as qualidades irredutíveis e vividas da experiência em primeira mão, que devem ser rigorosamente examinadas e correlacionadas com os dados neurobiológicos.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Fenomenológico, concetual, empírico/neurobiológico."
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável/metodológico (a abordagem define um programa de investigação em aberto que recorre a novas ferramentas, como o laboratório neurofenomenológico).",
+    "testability_status": "Empirically testable/Methodological (The approach defines an open-ended research program using new tools, such as the neurophenomenological laboratory).",
     "known_empirical_interventions_or_tests": [
       "Entrançar métodos experienciais na primeira pessoa (por exemplo, a meditação) com investigações cerebrais na terceira pessoa (laboratório neurofenomenológico)"
     ],
@@ -53,39 +55,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Improvável",
+      "stance": "Unlikely",
       "rationale": "A consciência assenta em larga medida na experiência corporizada e vivida e em dinâmicas ligadas a processos biológicos, o que torna insuficiente a mera replicação computacional."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A teoria classifica-se sob as teorias materialistas/corporizadas, concebendo a consciência como enraizada no organismo vivo e biológico e ramificando-se através dele, o que implica a sua cessação com a morte corporal."
     },
     "meaning_and_purpose": {
-      "stance": "Humanista/pragmático",
+      "stance": "Humanistic only",
       "rationale": "A metodologia procura restituir a ‘vida humana’ e a experiência subjetiva ao relato científico, proporcionando sentido ao valorizar a experiência vivida em vez da alienação pela pura função, sem postular um propósito cósmico."
     },
     "virtual_immortality": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "Se a consciência está enraizada numa experiência corporizada e vivida que se estende para além do cérebro, o mero carregamento de dados neurais/funcionais não conseguiria captar as dinâmicas necessárias da relação organismo-ambiente."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Thompson’s Mind in Life",
-        "relationship": "Extensão"
+        "name": "Thompson's Mind in Life",
+        "relationship": "Extension"
       },
       {
-        "name": "Bitbol’s Radical Neurophenomenology",
-        "relationship": "Extensão/Refinamento"
+        "name": "Bitbol's Radical Neurophenomenology",
+        "relationship": "Extension/Refinement"
       },
       {
         "name": "Enactivism",
-        "relationship": "Sobreposição de categoria"
+        "relationship": "Category Overlap"
       },
       {
         "name": "Chalmers's Hard Problem",
-        "relationship": "Crítica/Quadro para a sua dissolução"
+        "relationship": "Critique/Framework for Dissolution"
       }
     ],
     "sources_and_references": [

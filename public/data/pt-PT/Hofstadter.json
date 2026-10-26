@@ -1,0 +1,106 @@
+{
+  "id_and_class": {
+    "theory_title": "Laços Estranhos de Hofstadter",
+    "summary": "Douglas Hofstadter defende que a consciência e o self surgem de «laços estranhos»: laços de retroalimentação abstratos e autorreferenciais no sistema de símbolos do cérebro, que sobem através de níveis de abstração e regressam ao ponto de partida. O «eu» é o símbolo mais central e complexo do cérebro, um padrão construído por si próprio que Hofstadter descreve como uma espécie de ilusão, mas a que reconhece um poder causal real sobre os neurónios que o sustentam.",
+    "associated_thinkers": [
+      "Douglas Hofstadter"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Relacional",
+    "core_identity_tagline": "«A consciência como laço estranho autorreferencial»",
+    "classification_tags": [
+      "self-reference",
+      "strange loop",
+      "emergence",
+      "self",
+      "downward causation"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência e o eu são um padrão de símbolos autorreferencial e de alto nível: um laço estranho em que o cérebro representa a si próprio e as suas representações.",
+    "ontological_status": "Physicalism (non-reductive, emergentist)",
+    "mind_body_relationship": "A mente é uma propriedade emergente da organização do cérebro, e não uma entidade espiritual separada; Hofstadter rejeita o dualismo. Mente e cérebro são níveis de descrição diferentes de um único sistema.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Emergence with downward causation (the high-level ‘I’ is as causally potent as low-level physical rules)",
+    "subjectivity_and_intentionality": "O «eu» é um símbolo que o cérebro constrói sobre si próprio, uma ficção narrativa atualizada por cada nova experiência. A autorreferência permite ao sistema perceber-se como a causa dos seus sentimentos e ações, o que dá origem ao sentido de agência.",
+    "qualia_account": "Hofstadter não apresenta uma explicação separada para a qualidade sentida. A experiência é explicada através de padrões simbólicos autorreferenciais, e saber se isso capta a riqueza da experiência subjetiva é a questão em aberto.",
+    "ontological_commitments": "Neurónios, símbolos e os padrões abstratos que estes formam a níveis superiores, incluindo laços autorreferenciais e hierarquias entrelaçadas.",
+    "epistemic_access": "Analogia formal (teoremas da incompletude de Gödel), ciência cognitiva e reflexão sobre a autorreferência, e não neurobiologia específica.",
+    "constituents_and_structure": "Uma hierarquia entrelaçada de símbolos, sem nível superior ou inferior claro, através da qual representações de representações regressam sobre si mesmas."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Autoconsciência; o eu; o livre-arbítrio (como ilusão percebida); consciência fenoménica por extensão",
+    "distinctive_mechanism_or_principle": "O laço estranho: subir ou descer de forma consistente através de níveis de abstração devolve o sistema, transformado, ao ponto de partida, criando autorreferência.",
+    "dynamics_of_emergence": "A consciência é gradual e não tudo-ou-nada, e aprofunda-se à medida que o automodelo simbólico se torna mais sofisticado. Os humanos têm laços complexos, enquanto outros animais podem ter laços mais simples ou menos profundos.",
+    "location_and_distribution": "No cérebro, mas como um laço abstrato e não como um circuito físico. Hofstadter não o associa a estruturas neurais específicas.",
+    "causation_and_functional_role": "Causação descendente: o «eu» emergente influencia os neurónios de que emerge, o que dá a experiência de agência e livre-arbítrio, ainda que Hofstadter considere o livre-arbítrio uma ilusão.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "O cérebro constrói representações de si próprio e das suas experiências, incluindo representações dessas representações, e é esta modelação recursiva que forma o laço.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "A consciência emerge da atividade fervilhante do cérebro a níveis inferiores, tal como a vida emerge da química da célula.",
+      "Os teoremas da incompletude de Gödel mostram como um sistema formal pode conter enunciados que se referem a si próprios, um modelo para o eu.",
+      "O eu é um padrão dinâmico, e não uma substância fixa, construído por cada nova experiência.",
+      "Os significados autorreferenciais de alto nível podem ser tão causalmente reais como as regras físicas de baixo nível do sistema."
+    ],
+    "basis_of_belief_or_evidence_type": "Argumento teórico e computacional que recorre à lógica matemática e à ciência cognitiva"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Speculative",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Os críticos perguntam se a retroalimentação abstrata, por si só, consegue explicar a riqueza da experiência subjetiva e da agência. A causação descendente é controversa, e descrever o eu como ilusão e, ao mesmo tempo, causalmente potente deixa uma tensão aparente.",
+    "open_questions_and_limitations": "Hofstadter não identifica as estruturas neurobiológicas que implementam os laços estranhos, e a teoria não estabelece critérios mensuráveis para determinar quando um laço é consciente.",
+    "ontological_coherence": "Coerente no âmbito do fisicalismo não redutivo. Rejeita tanto o dualismo como o reducionismo estrito, tratando o «eu» como real e causalmente eficaz, embora emergente."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Likely",
+      "rationale": "Sendo a consciência um padrão abstrato de autorreferência e não uma propriedade de um substrato particular, um sistema de símbolos com automodelação suficientemente rica numa máquina deveria dar origem a ela."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Sendo o eu um padrão sustentado pela atividade cerebral, termina quando essa atividade termina."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "O eu é um padrão que se inventa a si próprio dentro de um sistema físico; o sentido nasce desse padrão, e não de qualquer propósito cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Se a identidade é um padrão e não uma substância, reproduzir o padrão noutro meio poderia, em princípio, preservar o eu."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Azarian’s Self-Modeling Strange Loop Theory",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Ellis's Strong Emergence and Top-Down Causation",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
+        "relationship": "Overlap"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Gödel, Escher, Bach: An Eternal Golden Braid, Douglas Hofstadter",
+        "year": 1979
+      },
+      {
+        "title_with_names": "I Am a Strange Loop, Douglas Hofstadter",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Hofstadter’s Strange Loops, Landscape of Consciousness, Robert Lawrence Kuhn"
+      }
+    ]
+  }
+}

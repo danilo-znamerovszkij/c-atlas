@@ -19,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание отождествляется с деятельностью отслеживания, поддержания контакта, внимания к миру и взаимодействия с ним. Это процесс доступа к миру и обеспечения того, чтобы мир «являлся» организму, определяемый активной вовлечённостью.",
-    "ontological_status": "Физикализм",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Разум есть деятельность, порождаемая совместной работой мозга, тела и среды. Мозг предоставляет необходимый механический субстрат, но недостаточен для сознания; он есть локус символов, а не само сознание.",
-    "primitive_or_emergent_status": "Эмерджентный",
-    "emergence_type": "Слабая эмерджентность",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Субъективность (то, как мир «является нам») и интенциональность возникают из активной, умелой вовлечённости организма в среду, обусловленной контекстом, интересом, знанием и пониманием.",
     "qualia_account": "Подразумевается, что квалиа являются частью плотности, детализации и устойчивости реальных жизненных переживаний, возникающих из непрерывного взаимодействия с миром, что и отличает подлинное сознание от одних лишь сновидческих переживаний.",
     "ontological_commitments": "Физическая среда, биологический мозг/тело и динамическое взаимодействие/деятельность между ними.",
@@ -46,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Философский аргумент, феноменологическое усмотрение, критика традиционного интернализма"
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально проверяемый",
+    "testability_status": "Conceptually testable",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Главное напряжение заключается в том, чтобы точно объяснить, каким образом взаимодействие есть сознание в сильном смысле, а не просто обеспечивает или влияет на него. Критики отвергают утверждение, что изучения внутренних мозговых событий недостаточно для понимания сознания.",
     "open_questions_and_limitations": "Теории недостаёт ясного определения того, как внешнее взаимодействие/деятельность конституирует внутренний опыт или квалиа и как строго отличить эту деятельность от простой несознательной обработки.",
@@ -54,38 +54,62 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Неопределённо/условно",
+      "stance": "Uncertain",
       "rationale": "Стандартного вычисления недостаточно; сознание возможно лишь в том случае, если системы ИИ достигают полной воплощённости, навыков и непрерывного, автономного взаимодействия с миром (отвечая тем же требованиям, что предъявляются к живым организмам)."
     },
     "survival_beyond_death": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Сознание неотделимо от непрерывного, активного физического контура, включающего взаимодействие мозга и тела с миром; его прекращение означает прекращение сознательной деятельности."
     },
     "meaning_and_purpose": {
-      "stance": "Только гуманистический",
+      "stance": "Humanistic only",
       "rationale": "Сознание позволяет агенту приобретать контекст, знание и понимание, наделяя способностью придавать значение взаимодействиям и направлять проактивное поведение, но не подразумевает никакой трансцендентной цели."
     },
     "virtual_immortality": {
-      "stance": "Крайне неправдоподобно",
+      "stance": "Unlikely",
       "rationale": "Загрузка одних лишь внутренних процессов мозга («механического локуса») не может охватить не привязанную к мозгу, внешнюю и непрерывную интерактивную деятельность, определяемую как сознание."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Enactivism (Varela & Thompson)", "relationship": "Составляющая система" },
-      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "Основополагающее влияние" },
-      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "Философское влияние" },
-      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "Частично совместима / пересекающаяся" },
-      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "Родственная / дополняющая (активное восприятие, модель разделяемых контуров)" },
-      { "name": "Internalist Materialism", "relationship": "Критика" },
-      { "name": "Dualism", "relationship": "Критика" }
+      {
+        "name": "Enactivism",
+        "relationship": "Constituent Framework"
+      },
+      {
+        "name": "Ecological Psychology (James J. Gibson)",
+        "relationship": "Foundational Influence"
+      },
+      {
+        "name": "Embodied Phenomenology (Maurice Merleau-Ponty)",
+        "relationship": "Philosophical Influence"
+      },
+      {
+        "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)",
+        "relationship": "Partially Compatible / Overlapping"
+      },
+      {
+        "name": "Susan Hurley — Action/Perception & Shared Circuits",
+        "relationship": "Related / Complementary (active perception, shared circuits model)"
+      },
+      {
+        "name": "Internalist Materialism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "Critique"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
         "year": 2010
       },
-      { "title_with_names": "Varieties of Presence, Alva Noë", "year": 2012 },
+      {
+        "title_with_names": "Varieties of Presence, Alva Noë",
+        "year": 2012
+      },
       {
         "title_with_names": "Is consciousness an illusion, Alva Noë",
         "year": 2007

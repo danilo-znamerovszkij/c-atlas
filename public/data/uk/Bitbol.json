@@ -18,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість є дієвою первинністю пережитого досвіду, означуючи реальність як те, що є даним і проявленим, за умови чого об'єктивність конституюється через видобування структурних інваріантів.",
-    "ontological_status": "Феноменологічна онтологія / Нестандартний монізм. Вона призупиняє судження про об'єктивну зовнішню царину та прагне «ендо-онтології» (залученої онтології буття), а не об'єктивної реальності.",
+    "ontological_status": "Phenomenological Ontology / Non-standard Monism. It suspends judgment on an objective external domain and strives toward an 'endo-ontology' (an engaged ontology of being) rather than objective reality.",
     "mind_body_relationship": "«Заплутана діалектика тіла й свідомості» або «динамічна та партисипативна концепція». Нейрофеноменологічна кореляція розглядається як розширення пережитого відчуття втіленості, а не як ознака однонапрямленої залежності від мозку.",
-    "primitive_or_emergent_status": "Дієво первинний/Фундаментальний. Підхід зсуває фокус із пошуку фізичного *походження* суб'єктивності на визнання її незвідного статусу як передумови знання.",
-    "emergence_type": "Розчинення. Теорія прагне цілком розчинити важку проблему через зміну засадничої настанови щодо неї, тим самим роблячи традиційні поняття емерджентності нерелевантними.",
+    "primitive_or_emergent_status": "Effectively primary/Fundamental. The approach shifts the focus from seeking the physical *origin* of subjectivity to recognizing its irreducible status as a precondition of knowledge.",
+    "emergence_type": "Dissolution. The theory aims to dissolve the hard problem entirely by changing the fundamental attitude toward it, thereby making traditional emergence concepts irrelevant.",
     "subjectivity_and_intentionality": "Суб'єктивність (перспектива від першої особи/пережитий досвід) є центральною й первинною. Інтенційність осмислюється як активність свідомості у конституюванні чи розкритті світу та його об'єктів.",
     "qualia_account": "Квалія, або чистий досвід, є фундаментальними, і підхід покликаний розвіяти відчуття, буцімто їхнє походження вимагає теоретичного, об'єктивного розв'язання. Феноменологічним описам досвіду надається онтологічний статус, рівнозначний нейронауковим даним.",
     "ontological_commitments": "Пережитий досвід, втіленість, «ендо-онтологія» Мерло-Понті (самопроявне буття) та формалізм «кібернетичної діалектики» Варели.",
@@ -46,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Філософський, феноменологічний, методологічний."
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально та методологічно перевірний. Спирається на розвиток суворого першоособового дослідження (мікрофеноменологічних інтерв'ю), що відповідає на заперечення проти інтроспекції.",
+    "testability_status": "Conceptually and methodologically testable. It relies on developing rigorous first-person inquiry (microphenomenological interviews), which addresses objections against introspection.",
     "known_empirical_interventions_or_tests": [
       "Мікрофеноменологічні інтерв'ю (методологія дослідження пережитого досвіду)"
     ],
@@ -56,39 +56,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Невизначено/Умовно",
+      "stance": "Uncertain",
       "rationale": "Свідомість вимагає «заплутаної діалектики тіла й свідомості» та надання пріоритету пережитому, суб'єктивному досвіду, які загалом суперечать суто об'єктивним/обчислювальним поясненням, необхідним для стандартних моделей свідомості ШІ. Свідомість не є засадничо обчислювальною."
     },
     "survival_beyond_death": {
-      "stance": "Можливо",
+      "stance": "Possible",
       "rationale": "Підхід відкидає однонапрямлену, засадничу залежність свідомості від тілесного мозку, розглядаючи нейрофеноменологічну кореляцію як розширення втіленості. Цей концептуальний простір вказує на те, що нефізикалістське збереження може бути можливим, особливо з огляду на використання рамки для тлумачення змінених станів свідомості."
     },
     "meaning_and_purpose": {
-      "stance": "Екзистенційний/Філософський",
+      "stance": "Humanistic only",
       "rationale": "Підхід перетворює важку проблему на «екзистенційний вибір» і зосереджується на «інтра-онтології» Мерло-Понті (процесі того, як це — бути), що вказує на невід'ємну прив'язаність сенсу до пережитого буття та саморозкриття."
     },
     "virtual_immortality": {
-      "stance": "Малоймовірно",
+      "stance": "Unlikely",
       "rationale": "Віртуальне безсмертя спирається на функціоналістське дублювання, але ця теорія стверджує «дієву первинність пережитого досвіду» та втіленість. Завантаження об'єктивних даних, імовірно, оминуло б незвідний, суб'єктивний модус буття (ендо-онтологію), необхідний для збереження ідентичності."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Varela’s Neurophenomenology",
-        "relationship": "Вплив"
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Influence"
       },
       {
         "name": "Enactivism",
-        "relationship": "Критика (радикальніше розчинення)"
+        "relationship": "Critique (more radical dissolution)"
       },
       {
-        "name": "Merleau-Ponty's Phenomenology",
-        "relationship": "Вплив"
+        "name": "Merleau-Ponty's Embodied Perception and the Lived Body",
+        "relationship": "Influence"
       },
       {
-        "name": "Physicalist Monism",
-        "relationship": "Критика"
+        "name": "Materialism",
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

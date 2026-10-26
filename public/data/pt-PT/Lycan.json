@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Funcionalismo Homuncular de Lycan",
     "summary": "Esta teoria sustenta que a consciência é inteiramente física e funcional, consistindo num sistema de processamento de informação hierarquicamente organizado. A consciência decorre especificamente de representações de segunda ordem, funcionando como um mecanismo de sentido interno dirigido aos próprios estados mentais de ordem inferior do sistema.",
-    "associated_thinkers": ["William Lycan"],
+    "associated_thinkers": [
+      "William Lycan"
+    ],
     "category": "Materialismo",
     "subcategory": "Representacional",
     "core_identity_tagline": "«A consciência como representação de segunda ordem e atenção interna»",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência (mente) é identificada como a organização funcional de um sistema de processamento de informação, inteiramente dada conta pela intencionalidade e pela representação de segunda ordem dos estados mentais. Os qualia são identificados com os conteúdos intencionais destas representações.",
-    "ontological_status": "Fisicalismo redutivo/materialismo. Lycan defende o materialismo em geral.",
+    "ontological_status": "Reductive Physicalism/Materialism. Lycan defends materialism generally.",
     "mind_body_relationship": "Teoria da identidade, especificamente o funcionalismo (ou teleofuncionalismo), em que os estados mentais são definidos pelo seu papel funcional no sistema físico.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca. É uma explicação materialista que argumenta que a natureza fenoménica se esgota em factos funcionais e representacionais, dando a entender que o mental decorre de, e é plenamente explicável por, os processos físicos subjacentes (posição necessária para evitar embaraçar o materialismo).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. It is a materialist account arguing that phenomenal nature is exhausted by functional and representational facts, implying that the mental arises from, and is fully explainable by, the underlying physical processes (a stance necessary to avoid embarrassing materialism).",
     "subjectivity_and_intentionality": "A intencionalidade (ou «ser acerca de») e a organização funcional dão inteiramente conta da mente/consciência (a «hegemonia da representação»). A subjetividade decorre do funcionamento de mecanismos de atenção interna dirigidos a estados de ordem inferior (explicação do sentido interno).",
     "qualia_account": "As características qualitativas (qualia) são interpretadas representacionalmente; são objetos intencionais (representata) da experiência, o que significa que não está envolvida qualquer «mancha mental» não física ou não representacional. Os qualia esgotam-se na natureza intencional/representacional dos estados mentais pertinentes.",
     "ontological_commitments": "Componentes físicos (sem partes ou propriedades não físicas), sistemas de processamento de informação funcionalmente organizados, conteúdos intencionais e estados mentais de segunda ordem.",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Defesa filosófica (defesa do materialismo/funcionalismo) e análise conceptual."
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptual e, em princípio, empiricamente testável. Se a natureza fenoménica se esgota no papel funcional/representacional, uma demonstração neurocientífica/computacional adequada desses papéis deveria bastar, embora Lycan sublinhe a natureza filosófica dos argumentos contra o materialismo.",
+    "testability_status": "Conceptually and, in principle, empirically testable. If phenomenal nature is exhausted by functional/representational role, adequate neuroscientific/computational demonstration of those roles should suffice, though Lycan emphasizes the philosophical nature of the arguments against materialism.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "A tentativa de Lycan de refutar o argumento do conhecimento (a experiência mental de Mary) argumentando que o carácter fenoménico se esgota no carácter representacional é rejeitada pelos críticos. Os críticos questionam se os papéis funcionais conseguem realmente captar os aspetos qualitativos da experiência.",
     "open_questions_and_limitations": "A limitação central consiste em convencer os céticos (como Jackson, antes da sua retratação) de que a redução dos qualia a conteúdo representacional/funcional dissolve verdadeiramente o mistério fenoménico.",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Enquanto teoria funcionalista, se os sistemas artificiais conseguirem realizar a organização funcional e as capacidades representacionais de segunda ordem necessárias, terão, em princípio, de ser conscientes."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A teoria é estritamente materialista e postula que a consciência é realizada inteiramente no cérebro físico funcionalmente organizado; por conseguinte, não pode persistir após a morte corporal."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanístico",
+      "stance": "Humanistic only",
       "rationale": "Em coerência com o seu fundamento materialista, a consciência possibilita a intencionalidade e a agência, proporcionando um sentido criado pelo próprio sistema biológico, mas não implica qualquer propósito cósmico último."
     },
     "virtual_immortality": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Uma vez que a consciência é definida pela organização funcional e pelo conteúdo representacional, uma duplicação funcional perfeita (carregamento) dos padrões e das vias neurais para um meio não biológico preservaria, em princípio, o eu mental na primeira pessoa."
     }
   },
@@ -70,19 +72,19 @@
     "related_theories": [
       {
         "name": "Higher-Order Theories of Consciousness",
-        "relationship": "Sobreposição/extensão"
+        "relationship": "Overlap/Extension"
       },
       {
-        "name": "First-Order Representationalism",
-        "relationship": "Extensão/contraste"
+        "name": "First-Order",
+        "relationship": "Extension/Contrast"
       },
       {
         "name": "Functionalism",
-        "relationship": "Classificação/fundamento"
+        "relationship": "Classification/Foundation"
       },
       {
-        "name": "Jackson’s Representationalism and the Knowledge Argument",
-        "relationship": "Crítica"
+        "name": "Jackson's Representationalism and the Knowledge Argument",
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

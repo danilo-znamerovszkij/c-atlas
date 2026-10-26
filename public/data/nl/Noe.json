@@ -19,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Het bewustzijn wordt geïdentificeerd als de activiteit van het bijhouden, in contact blijven, aandacht schenken aan en interacteren met de wereld. Het is het proces van het benaderen van en het mogelijk maken dat de wereld voor het organisme 'verschijnt', gedefinieerd door actieve betrokkenheid.",
-    "ontological_status": "Fysicalisme",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "De geest is de activiteit die wordt voortgebracht door het brein, het lichaam en de omgeving die samenwerken. Het brein levert het noodzakelijke mechanische substraat, maar is niet toereikend voor het bewustzijn; het is de plaats van de symbolen, niet het bewustzijn zelf.",
     "primitive_or_emergent_status": "Emergent",
-    "emergence_type": "Zwakke emergentie",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Subjectiviteit (hoe de wereld 'voor ons verschijnt') en intentionaliteit komen voort uit de actieve, bekwame betrokkenheid van het organisme bij de omgeving, beïnvloed door context, belangstelling, kennis en begrip.",
     "qualia_account": "Er wordt geïmpliceerd dat qualia deel uitmaken van de dichtheid, het detail en de robuustheid van werkelijke ervaringen die voortkomen uit continue wereldinteractie, wat waarachtig bewustzijn onderscheidt van louter droomervaringen.",
     "ontological_commitments": "Fysieke omgeving, biologisch brein/lichaam, en de dynamische interactie/activiteit daartussen.",
@@ -46,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Filosofisch argument, fenomenologisch inzicht, kritiek op het traditionele internalisme"
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptueel toetsbaar",
+    "testability_status": "Conceptually testable",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "De voornaamste spanning is het precies verklaren hoe de interactie in sterke zin het bewustzijn ís, in plaats van het louter mogelijk te maken of te beïnvloeden. Critici verwerpen de opvatting dat het bestuderen van interne breingebeurtenissen ontoereikend is voor het begrijpen van het bewustzijn.",
     "open_questions_and_limitations": "De theorie ontbeert een heldere definitie van hoe de externe interactie/activiteit de innerlijke ervaring of qualia constitueert, en hoe deze activiteit rigoureus te onderscheiden is van louter niet-bewuste verwerking.",
@@ -54,38 +54,62 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Onzeker/voorwaardelijk",
+      "stance": "Uncertain",
       "rationale": "Standaardberekening is ontoereikend; bewustzijn is enkel mogelijk indien AI-systemen volledige belichaming, vaardigheden en continue, autonome interactie met een wereld bereiken (waarbij zij aan dezelfde eisen voldoen die aan levende organismen worden gesteld)."
     },
     "survival_beyond_death": {
-      "stance": "Nee",
+      "stance": "No",
       "rationale": "Het bewustzijn is onafscheidelijk van de continue, actieve fysieke lus waarin het brein en het lichaam met de wereld interacteren; het ophouden daarvan betekent de beëindiging van de bewuste activiteit."
     },
     "meaning_and_purpose": {
-      "stance": "Uitsluitend humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Het bewustzijn stelt de agent in staat context, kennis en begrip te verwerven, waardoor deze de capaciteit krijgt om betekenis toe te kennen aan interacties en proactief gedrag te sturen, maar impliceert geen transcendente zin."
     },
     "virtual_immortality": {
-      "stance": "Zeer onaannemelijk",
+      "stance": "Unlikely",
       "rationale": "Het uploaden van enkel de interne breinprocessen (de 'mechanische plaats') kan de niet-breingebonden, externe en continue interactieve activiteit die als bewustzijn wordt gedefinieerd, niet vatten."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Enactivism (Varela & Thompson)", "relationship": "Constituerend kader" },
-      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "Grondleggende invloed" },
-      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "Filosofische invloed" },
-      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "Deels verenigbaar / overlappend" },
-      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "Verwant / complementair (actieve waarneming, model van gedeelde circuits)" },
-      { "name": "Internalist Materialism", "relationship": "Kritiek" },
-      { "name": "Dualism", "relationship": "Kritiek" }
+      {
+        "name": "Enactivism",
+        "relationship": "Constituent Framework"
+      },
+      {
+        "name": "Ecological Psychology (James J. Gibson)",
+        "relationship": "Foundational Influence"
+      },
+      {
+        "name": "Embodied Phenomenology (Maurice Merleau-Ponty)",
+        "relationship": "Philosophical Influence"
+      },
+      {
+        "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)",
+        "relationship": "Partially Compatible / Overlapping"
+      },
+      {
+        "name": "Susan Hurley — Action/Perception & Shared Circuits",
+        "relationship": "Related / Complementary (active perception, shared circuits model)"
+      },
+      {
+        "name": "Internalist Materialism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "Critique"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
         "year": 2010
       },
-      { "title_with_names": "Varieties of Presence, Alva Noë", "year": 2012 },
+      {
+        "title_with_names": "Varieties of Presence, Alva Noë",
+        "year": 2012
+      },
       {
         "title_with_names": "Is consciousness an illusion, Alva Noë",
         "year": 2007

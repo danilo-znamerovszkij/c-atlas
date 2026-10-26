@@ -1,0 +1,98 @@
+{
+  "id_and_class": {
+    "theory_title": "A Informação e o Representacionalismo de Dretske",
+    "summary": "Fred Dretske identifica as experiências conscientes com representações de primeira ordem do mundo: estados cerebrais que transportam informação e que adquiriram, por seleção natural, a função de a transportar. Aquilo que separa os estados conscientes dos inconscientes é a forma como a informação é representada e disponibilizada ao raciocínio, à ação e ao relato, e os qualia são simplesmente as propriedades que as coisas são representadas como tendo.",
+    "associated_thinkers": [
+      "Fred Dretske"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Primeira ordem",
+    "core_identity_tagline": "A consciência como representação que transporta informação",
+    "classification_tags": [
+      "representationalism",
+      "information",
+      "first-order",
+      "transparency",
+      "naturalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "As experiências conscientes são idênticas a representações mentais de primeira ordem de objetos e características externos, estados cuja função biológica é transportar informação sobre o mundo.",
+    "ontological_status": "Physicalism (representationalist)",
+    "mind_body_relationship": "Os estados mentais são estados cerebrais que representam. Dretske rejeita o dualismo e trata a intencionalidade e a consciência como naturalizáveis num quadro científico e materialista.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (representation arises when a brain state acquires the function of carrying information)",
+    "subjectivity_and_intentionality": "A intencionalidade vem da informação natural: uma relação causal entre um sinal e uma condição, posta em uso por um sistema. Temos consciência daquilo que as nossas representações representam, e não das representações em si.",
+    "qualia_account": "Os qualia são propriedades de estados representacionais, as formas como as coisas são representadas como sendo, e não propriedades intrínsecas não físicas. Vê-se o vermelho da maçã, e não um item interior vermelho.",
+    "ontological_commitments": "Estados cerebrais, informação natural (covariação causal entre sinais e condições), funções biológicas adquiridas por seleção e objetos e propriedades externos.",
+    "epistemic_access": "Através do mundo: a introspeção revela as propriedades representadas dos objetos, uma vez que a experiência é transparente. A própria teoria é apoiada por uma análise naturalista da informação e da função.",
+    "constituents_and_structure": "Estados representacionais com conteúdo externo, distinguidos como conscientes pelo seu modo de representação e pela sua disponibilidade para o raciocínio e o controlo posteriores."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (naturalizada como representação); acesso; perceção; intencionalidade",
+    "distinctive_mechanism_or_principle": "Um estado cerebral torna-se consciente quando transporta informação sobre o mundo de forma utilizável e está posicionado para influenciar o raciocínio, o planeamento, a ação e o relato, sem que seja necessário um pensamento de ordem superior sobre ele.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Nos estados cerebrais que transportam e usam informação sobre o ambiente.",
+    "causation_and_functional_role": "As representações conscientes são causalmente ativas no comportamento, orientando a ação e a comunicação. Dretske liga a consciência à atenção e ao uso da informação.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Dretske separa a informação natural (um sinal que indica de forma fiável uma condição) da representação, que exige um sistema que use essa informação. A informação reduz a incerteza e orienta a ação.",
+    "evolutionary_account": "Os estados cerebrais adquirem a função de transportar informação por seleção natural, o que os torna representações mentais aptas a ser conscientes.",
+    "core_claims_and_evidence": [
+      "As experiências conscientes são representações de primeira ordem do mundo externo, e não representações de outros estados mentais.",
+      "A experiência é transparente: temos consciência das coisas que experienciamos, e não das nossas experiências.",
+      "Os estados conscientes e inconscientes diferem na forma como o conteúdo é representado e usado, e não naquilo que é representado.",
+      "Uma vez compreendido como o conteúdo é representado e usado, defende Dretske, não resta nenhuma lacuna explicativa adicional."
+    ],
+    "basis_of_belief_or_evidence_type": "Naturalismo filosófico a partir da teoria da informação e da função biológica"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Os críticos questionam se a representação e a disponibilidade funcional explicam a sensação subjetiva, o «como é ser» da experiência. Os teóricos de ordem superior contestam a afirmação de Dretske de que não é necessária consciência dos próprios estados para haver consciência.",
+    "open_questions_and_limitations": "Continua por esclarecer o que torna exatamente o «modo» como um estado representa o seu conteúdo consciente e não inconsciente.",
+    "ontological_coherence": "Enquadra-se numa ontologia materialista e naturalista e lançou as bases para representacionalistas posteriores, como Michael Tye e William Lycan."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Dado que a consciência é uma questão de representação com a função adequada, uma máquina poderia, em princípio, qualificar-se. Dretske fundamenta essa função na seleção natural, pelo que não é claro se os estados de um sistema concebido contariam."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Dado que os estados conscientes são estados cerebrais representacionais, nada resta para ser consciente quando o cérebro deixa de funcionar."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "A teoria é inteiramente naturalista e atribui à consciência uma função biológica, e não um propósito cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "Uma cópia precisaria de estados cuja função fosse transportar informação sobre o mundo, e o recurso de Dretske à função evoluída deixa em aberto se uma simulação os teria."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Carruthers’s First-Order Representationalism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Lycan's Homuncular Functionalism",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Rosenthal’s Higher-Order Thought",
+        "relationship": "Contrast"
+      },
+      {
+        "name": "Transparency Thesis",
+        "relationship": "Overlap"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dretske’s Information and Representationalism, Landscape of Consciousness, Robert Lawrence Kuhn"
+      }
+    ]
+  }
+}

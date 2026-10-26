@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Теорія Коха про незалежність свідомості від мови",
     "summary": "Ця теорія стверджує, що феноменальна свідомість, або базовий внутрішній досвід, є функціонально незалежною від мовної здатності. Вона підтримується клінічними випадками, коли мовна здатність серйозно порушена або втрачена, проте фундаментальне усвідомлення зберігається, що веде до висновку, що базова чуттєвість є поширеною властивістю, спільною з багатьма немовними тваринами.",
-    "associated_thinkers": ["Christof Koch"],
+    "associated_thinkers": [
+      "Christof Koch"
+    ],
     "category": "Теорії матеріалізму",
     "subcategory": "Мовні зв'язки",
     "core_identity_tagline": "Свідомість незалежна від мови",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість ототожнюється з фізичним/біологічним феноменом у мозку, фундаментальний механізм якого є відмінним від символічної обробки мови та незалежним від неї.",
-    "ontological_status": "Фізикалізм",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Розум (базова феноменальна свідомість) пов'язаний із фізичними процесами мозку, які є окремими від лінгвістичних процесів.",
-    "primitive_or_emergent_status": "Емерджентна",
-    "emergence_type": "Слабка емерджентність",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Базова суб'єктивність (чуттєвість) зберігається навіть без мови. Мова масштабно сприяє самості як «наративному центру», що становить вищого порядку аспекти суб'єктивності.",
     "qualia_account": "Квалія (базовий внутрішній досвід) існують у немовних сутностях і є незалежними від символічних здатностей.",
     "ontological_commitments": "Біологічні мозки та базові фізичні механізми, що породжують базове усвідомлення.",
@@ -43,46 +45,46 @@
     "basis_of_belief_or_evidence_type": "Емпіричний, клінічний та філософський"
   },
   "empirics_and_critiques": {
-    "testability_status": "Емпірично перевірна через нейронаукове дослідження немовних тварин та клінічні дослідження жертв мозкової травми, що демонструють стійке усвідомлення попри афазичні стани.",
+    "testability_status": "Empirically testable through neuroscientific study of non-linguistic animals and clinical research on brain trauma victims demonstrating persistent awareness despite aphasiac conditions.",
     "critiques_and_challenges": "Хоча Кох аргументує проти класичних поглядів, що пов'язують мову й свідомість, сучасний науковий консенсус уже погоджується, що базова свідомість не потребує мови.",
     "open_questions_and_limitations": "Теорія підтверджує, від чого свідомість *не* залежить (мови), але не надає позитивного розв'язання важкої проблеми свідомості (тобто того, чим феноменальний досвід є буквально).",
     "ontological_coherence": "Вельми узгоджена в межах категорії матеріалізму, особливо для аргументів, що відрізняють базове усвідомлення від складної, опосередкованої мовою самосвідомості."
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Умовна",
+      "stance": "Conditional",
       "rationale": "Оскільки мова не є необхідною для свідомості, лінгвістична здатність ШІ (великі мовні моделі) є нерелевантною. Свідомість ШІ цілковито залежить від того, чи можна відтворити необхідний немовний фізичний субстрат у штучних системах."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Узгоджено з її матеріалістичною категоризацією, свідомість пов'язана з фізичним субстратом (мозком) і не може тривати після біологічної смерті."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичні",
+      "stance": "Humanistic only",
       "rationale": "Свідомість уможливлює функціонування самості як наративного центру через мову, дозволяючи створений людиною сенс, але базова матеріальна реальність не передбачає остаточної космічної мети."
     },
     "virtual_immortality": {
-      "stance": "Умовне",
+      "stance": "Conditional",
       "rationale": "Якщо свідомість відв'язана від мови, фокус повністю зміщується на дублювання немовного, фізичного субстрату базового усвідомлення. Якщо цю конкретну немовну нейронну структуру можна дублювати, віртуальне безсмертя є можливим."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
-        "relationship": "Критика"
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
+        "relationship": "Critique"
       },
       {
-        "name": "Searle’s Language and Consciousness",
-        "relationship": "Критика"
+        "name": "Searle's Language and Consciousness",
+        "relationship": "Critique"
       },
       {
-        "name": "Andrews’s Consciousness Without Complex Brains",
-        "relationship": "Сумісна"
+        "name": "Andrews's Consciousness Without Complex Brains",
+        "relationship": "Compatible"
       },
       {
-        "name": "Smith’s Language as Classifier of Consciousness",
-        "relationship": "Перекриття"
+        "name": "Smith's Language as Classifier of Consciousness",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

@@ -18,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание и разум отождествляются с в высшей степени сложными физическими процессами — эволюционировавшим набором инструментов мышления, построенным на материальных процессах, где «магия» разума достигается без магии.",
-    "ontological_status": "Физикализм",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Теория тождества/редукционизм. Ментальные состояния целиком являются продуктом биологического мозга и полностью объясняются физическими состояниями, что согласуется с более широкой материалистической позицией Деннета.",
-    "primitive_or_emergent_status": "Эмерджентный",
-    "emergence_type": "Слабая эмерджентность. Сознание в принципе полностью объяснимо через лежащие в основе физические процессы, что отвергает потребность в сильной эмерджентности или нефизическом вмешательстве.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consciousness is fully explainable in principle by underlying physical processes, rejecting the need for strong emergence or non-physical intervention.",
     "subjectivity_and_intentionality": "Субъективность конструируется через эволюционировавшие организационные структуры, такие как «центр нарративной гравитации». Интенциональность (направленность-на) возникает, когда сложные скопления молекул эволюционируют способность обладать значением или содержанием.",
     "qualia_account": "Квалиа (качественное переживание) трактуются как непоследовательные и иллюзорные «пользовательские иллюзии» — сложные активированные нейронные сети, возникшие в результате эволюционного процесса, а не как внутренние, неанализируемые ментальные свойства.",
     "ontological_commitments": "Физический мир, естественные законы, биологический мозг и процессы естественного отбора.",
@@ -45,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Философский аргумент, эволюционная биология, логика"
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально проверяема на предмет согласованности с биологией и неодарвинизмом; косвенно поддержана нейронаучными данными, коррелирующими с функционалистскими моделями.",
+    "testability_status": "Conceptually testable against biological and neo-Darwinian consistency; indirectly supported by neuroscientific findings correlated with functionalist models.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Критикуется за обход «трудной проблемы» посредством утверждения, что сознание (квалиа) есть иллюзия или псевдопроблема. Оппоненты ставят под вопрос эволюционное преимущество субъективного опыта, если он есть лишь иллюзия или эпифеномен.",
     "open_questions_and_limitations": "Не предоставляет прямого объяснения субъективного переживания опыта, а лишь объяснение того, почему мы *сообщаем* о наличии такого опыта.",
@@ -53,39 +53,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Да",
+      "stance": "Yes",
       "rationale": "Поскольку сознание целиком материально и является результатом сложной организации (функционализм/материализм), не существует принципиального запрета на достижение сознания небиологическими интеллектами при условии воспроизведения правильной сложности."
     },
     "survival_beyond_death": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Сознание целиком связано с физическим мозгом; смерть приводит к необратимому и постоянному небытию, если только самость не сохранена в цифровом виде (виртуальное бессмертие)."
     },
     "meaning_and_purpose": {
-      "stance": "Только гуманистический",
+      "stance": "Humanistic only",
       "rationale": "Эволюционный процесс действует через «замысел без проектировщика», а значит, не существует внутреннего космического смысла или цели; смысл создаётся сознательными людьми самостоятельно."
     },
     "virtual_immortality": {
-      "stance": "Да",
+      "stance": "Yes",
       "rationale": "Если сознание целиком объясняется эволюционировавшей физической/функциональной организацией мозга, то совершенное дублирование этих нейронных паттернов и путей в небиологической среде должно сохранить ментальную самость от первого лица."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Multiple Drafts Model",
-        "relationship": "Основание"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Foundation"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
-        "relationship": "Пересечение"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Overlap"
       },
       {
-        "name": "Lycan’s Homuncular Functionalism",
-        "relationship": "Совместимость"
+        "name": "Lycan's Homuncular Functionalism",
+        "relationship": "Compatible"
       },
       {
-        "name": "LeDoux’s Deep Roots of Consciousness",
-        "relationship": "Совместимость"
+        "name": "LeDoux's Deep Roots of Consciousness",
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

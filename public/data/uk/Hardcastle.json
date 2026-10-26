@@ -18,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість є частиною фізичного світу, як і все інше, і матеріалісти припускають, що для неї зрештою буде відкрито твердження про тотожність.",
-    "ontological_status": "Переконаний матеріалізм",
+    "ontological_status": "Committed Materialism",
     "mind_body_relationship": "Це відношення тотожності, де свідомі стани є тотожними фізичним станам. Нинішня відсутність «зрозумілого» твердження про тотожність розглядається як проблема ставлення, а не онтології.",
-    "primitive_or_emergent_status": "Емерджентний",
-    "emergence_type": "Слабка емерджентність (виведено, оскільки Гардкасл має «цілковиту й абсолютну віру» в те, що наука в її нинішньому вигляді колись пояснить свідомість, що передбачає редукованість у принципі.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Inferred, as Hardcastle has 'total and absolute faith' that science as currently construed will someday explain consciousness, implying reducibility in principle.)",
     "subjectivity_and_intentionality": "Зацикленість скептиків на нередукованих якісних аспектах (суб'єктивності/квалія) подається як концептуальна помилка. В інших місцях Гардкасл обговорює ментальні стани як каузально дієві чинники (інтенційність) у межах фізикалістської рамки.",
     "qualia_account": "Нездатність скептиків уявити, як нейронна активність схоплює якісні аспекти, є з їхнього боку концептуальною хибою або питанням «ставлення», яке «нічого не важить для науки». Квалія повністю враховуються майбутнім науковим твердженням про тотожність.",
     "ontological_commitments": "Фізичний світ, керований науковим методом; нейронна активність і складні динамічні структури; каузально дієві ментальні стани (у деяких контекстах).",
@@ -46,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Філософський (захист засновків), емпіричний (віра в спроможність науки)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Перевірна в принципі, оскільки ця позиція спирається на передбачення, що наука зрештою зуміє пояснити свідомість через твердження про тотожність.",
+    "testability_status": "Testable in principle, as the position rests on the prediction that science will eventually succeed in explaining consciousness via an identity statement.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Скептики стверджують, що матеріалісти не спромоглися зробити необхідне твердження про тотожність «зрозумілим, правдоподібним, обґрунтованим», тим самим не закривши пояснювальну прогалину. Її погляд ризикує бути позначеним просто як питання «ставлення», а не змістовний філософський аргумент.",
     "open_questions_and_limitations": "Гардкасл визнає, що конкретне твердження про тотожність для свідомості ще не знайдено і що ніщо зі сказаного нею не буде достатнім для тих, хто вже переконаний у таємничості свідомості.",
@@ -54,39 +54,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Позиція Гардкасл є твердо матеріалістичною, наполягаючи, що свідомість є продуктом фізичного світу. Тому, у принципі, будь-яка достатньо складна фізична система, біологічна чи штучна, має бути здатна до свідомості, якщо реалізовано необхідні фізичні структури."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Матеріалізм стверджує, що свідомість є виключно продуктом біологічного мозку. Щойно мозок помирає, свідомість припиняє існувати."
     },
     "meaning_and_purpose": {
-      "stance": "Умовний",
+      "stance": "Humanistic only",
       "rationale": "Як матеріалістична теорія, вона не спричиняє граничного чи космічного сенсу/мети, але визнає, що люди можуть створювати гуманістичний сенс, мету й цінність для себе."
     },
     "virtual_immortality": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Оскільки свідомість є цілком фізичною й нетаємничою, самість від першої особи є редукованою до фізичних патернів. Якщо ці патерни можна досконало продублювати й завантажити на небіологічний носій, віртуальне безсмертя можливе."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Papineau’s Mind-Brain Identity",
-        "relationship": "Сумісна"
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Compatible"
       },
       {
         "name": "David Chalmers's Hard Problem Arguments",
-        "relationship": "Критика"
+        "relationship": "Critique"
       },
       {
-        "name": "Eliminative Materialism/Illusionism",
-        "relationship": "Перетин (поділяє дефляційне ставлення до суб'єктивної інтуїції)"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Overlap (Shares a deflationary attitude toward subjective intuition)"
       },
       {
-        "name": "Block’s Biological Reductionism",
-        "relationship": "Сумісна"
+        "name": "Block's Biological Reductionism",
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

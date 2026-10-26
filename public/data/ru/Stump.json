@@ -2,18 +2,26 @@
   "id_and_class": {
     "theory_title": "Томистский дуализм Стамп",
     "summary": "Данная теория представляет учение св. Фомы Аквинского о человеческой душе как некартезианскую форму дуализма. Она полагает душу существенно нематериальным или конфигурационным компонентом, который тем не менее реализуется в материальных компонентах, что позволяет примирить материальность человека с выживанием духа после телесной смерти.",
-    "associated_thinkers": ["Eleonore Stump", "St. Thomas Aquinas"],
+    "associated_thinkers": [
+      "Eleonore Stump",
+      "St. Thomas Aquinas"
+    ],
     "category": "Дуализмы",
     "subcategory": "Философские теории",
     "core_identity_tagline": "Некартезианская нематериальная душа, реализованная в материи",
-    "classification_tags": ["dualism", "thomism", "non-Cartesian", "soul"]
+    "classification_tags": [
+      "dualism",
+      "thomism",
+      "non-Cartesian",
+      "soul"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание, или человеческая душа/дух, есть существенно нематериальная или конфигурационная субстанция, которая реализуется в материальных компонентах (теле).",
-    "ontological_status": "Субстанциальный дуализм (некартезианский/томистский вариант)",
+    "ontological_status": "Substance Dualism (Non-Cartesian/Thomistic Variant)",
     "mind_body_relationship": "Нематериальная душа/дух реализуется в материальных компонентах, вмещая как материальную природу человека («прах ты»), так и выживание духа после смерти («и дух возвратится к Богу»).",
-    "primitive_or_emergent_status": "Эмерджентное",
-    "emergence_type": "Сильная эмерджентность/нередуктивное (обоснование: душа описывается как сохраняющая нематериальную сущность, которая существует независимо от тела, что указывает на её несводимость целиком к материальным процессам, из которых она возникает).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence/Non-reductive (Justification: The soul is described as retaining an immaterial essence that persists independently of the body, indicating that it is not fully reducible to the material processes from which it arises.)",
     "subjectivity_and_intentionality": "Субъективность и интенциональность фундаментально коренятся в нематериальной/конфигурационной душе, о чём свидетельствует её способность сохраняться как дух после телесного распада.",
     "qualia_account": "Квалиа связаны со свойствами нематериального/конфигурационного компонента души, реализуемого в материальном теле.",
     "ontological_commitments": "Материальное тело (подверженное распаду, как «прах») и существенно нематериальная или конфигурационная душа/дух, способная к независимому существованию.",
@@ -37,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Философский и теологический"
   },
   "empirics_and_critiques": {
-    "testability_status": "В значительной мере концептуально, с упором на философскую согласованность и метафизическую совместимость с религиозными доктринами о жизни и смерти.",
+    "testability_status": "Largely conceptual, focusing on philosophical coherence and metaphysical consistency with religious doctrines regarding life and death.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Она пытается ответить на распространённую философскую критику, согласно которой традиционный картезианский дуализм широко считается ложным или несвязным, в частности в отношении проблемы взаимодействия.",
     "open_questions_and_limitations": "Точный механизм, посредством которого нематериальная/конфигурационная сущность «реализуется» в материальных компонентах, и то, как эта сущность поддерживает сознание посмертно, остаётся неопределённым в исходном материале.",
@@ -45,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Условно",
+      "stance": "Conditional",
       "rationale": "Если сознание связано с существенно нематериальной или конфигурационной душой, реализуемой в биологической материи, то искусственные системы, построенные лишь из физических компонентов, вероятно, будут лишены этой необходимой нефизической составляющей, если только психофизические законы, порождающие душу, не смогут применяться к небиологическим субстратам."
     },
     "survival_beyond_death": {
-      "stance": "Да",
+      "stance": "Yes",
       "rationale": "Теория явно построена так, чтобы вместить сохранение духа/души, которая есть средоточие сознания личности, после распада тела."
     },
     "meaning_and_purpose": {
-      "stance": "Космический/теологический",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Данная рамка коренится в христианской схоластической философии, интегрируя библейские доктрины о творении и возвращении духа к Богу, тем самым наделяя предельным смыслом и целью."
     },
     "virtual_immortality": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Как вариант субстанциального дуализма, требующий нефизической субстанции (души), дублирование лишь физической структуры (как при виртуальном бессмертии) упустило бы существенный нефизический компонент, необходимый для непрерывности «я»."
     }
   },
@@ -65,15 +73,15 @@
     "related_theories": [
       {
         "name": "Property Dualism",
-        "relationship": "Различение (хотя дуализм свойств отрицает субстанциальный дуализм, томистский дуализм стремится преодолеть традиционную дихотомию между субстанцией и материальным редукционизмом.)"
+        "relationship": "Distinction (While property dualism denies substance dualism, Thomistic dualism seeks to transcend the traditional dichotomy between substance and material reductionism.)"
       },
       {
-        "name": "Substance Dualism (Cartesian)",
-        "relationship": "Критика"
+        "name": "Dualism",
+        "relationship": "Critique"
       },
       {
-        "name": "Jaworski’s Hylomorphism",
-        "relationship": "Пересечение"
+        "name": "Jaworski's Hylomorphism",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

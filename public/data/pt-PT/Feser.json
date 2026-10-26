@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Dualismo Neotomista, Neoaristotélico e de Senso Comum de Feser",
     "summary": "Esta teoria dualista sustenta que o intelecto humano (conceitos abstratos e raciocínio) é uma faculdade imaterial e não pode ser reduzido a processos materiais. Resolve o «problema difícil» ao defender um regresso ao realismo aristotélico de senso comum, no qual as qualidades sensoriais (qualia) são propriedades objetivas do mundo material externo, dissolvendo assim o dilema causado pela conceção moderna, austera e quantitativa, da matéria.",
-    "associated_thinkers": ["Edward Feser"],
+    "associated_thinkers": [
+      "Edward Feser"
+    ],
     "category": "Dualismos",
     "subcategory": "Dualismo neotomista, neoaristotélico e de senso comum",
     "core_identity_tagline": "A consciência através do intelecto imaterial e de qualidades objetivas",
@@ -16,9 +18,9 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada como uma realidade compósita constituída por uma faculdade intelectual imaterial, responsável pelo pensamento determinado, e por faculdades sensoriais materiais que percecionam propriedades objetivas e qualitativas no mundo.",
-    "ontological_status": "Dualismo (forma neotomista/neoaristotélica)",
+    "ontological_status": "Dualism (Neo-Thomistic/Neo-Aristotelian form)",
     "mind_body_relationship": "A anima é uma realidade substancial e unificada que atua como forma do corpo (perspetiva tomista). A faculdade intelectual (um subconjunto dos estados mentais) é irredutível a processos materiais. A teoria contesta a conceção materialista da matéria que gerou o problema mente-corpo.",
-    "primitive_or_emergent_status": "Não emergente (quanto ao intelecto); as propriedades sensoriais são fundamentais para a realidade objetiva",
+    "primitive_or_emergent_status": "Non-Emergent (for intellect); Sensory properties are fundamental to objective reality",
     "emergence_type": "",
     "subjectivity_and_intentionality": "A capacidade do intelecto para apreender universais e manter um conteúdo conceptual determinado e inequívoco (intencionalidade) exige a sua irredutibilidade a processos materiais. O realismo direto de senso comum significa que percecionamos o mundo tal como ele efetivamente aparece.",
     "qualia_account": "Argumenta-se que as características qualitativas (qualidades secundárias como a cor, o som e o calor) são propriedades reais e objetivas inerentes aos objetos materiais externos (realismo direto de senso comum), eliminando a necessidade de estas serem localizadas exclusivamente numa mente imaterial, como nos modelos cartesianos.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filosófica, racionalista, de senso comum"
   },
   "empirics_and_critiques": {
-    "testability_status": "Fundamentada sobretudo em termos conceptuais e lógicos. Recorre-se a argumentos para demonstrar a incompatibilidade do materialismo redutivo com o pensamento determinado.",
+    "testability_status": "Primarily conceptually and logically grounded. Arguments are used to demonstrate the incompatibility of reductive materialism with determinate thought.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Os críticos argumentam que a neurociência acabará por fechar o hiato explicativo sem necessitar de um intelecto imaterial. A teoria tem de fornecer uma explicação coerente da causação mental, embora procure evitar o problema cartesiano da interação ao redefinir a matéria.",
     "open_questions_and_limitations": "O mecanismo preciso pelo qual o intelecto imaterial interage com o cérebro físico permanece em larga medida por explicar (o problema da interação).",
@@ -51,34 +53,46 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provavelmente não",
+      "stance": "Unlikely",
       "rationale": "Se o intelecto (exigido para o pensamento determinado e para os conceitos abstratos) é fundamentalmente imaterial e irredutível a processos materiais, então uma IA puramente computacional/material não pode instanciar a consciência humana completa descrita pela teoria."
     },
     "survival_beyond_death": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "A anima é definida como uma entidade imaterial e subsistente, capaz de existir e de exercer a função cognitiva por si só, à parte do corpo, embora tal seja considerado não natural para ela."
     },
     "meaning_and_purpose": {
-      "stance": "Sim",
+      "stance": "Cosmic/Ultimate",
       "rationale": "A preservação do conteúdo determinado no pensamento, na lógica e nos universais intelectuais, aliada ao compromisso ontológico com a anima, implica uma visão não deflacionária do sentido que evita o niilismo materialista."
     },
     "virtual_immortality": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A imortalidade virtual assenta no funcionalismo computacional. Uma vez que Feser argumenta que a consciência intelectual não é redutível a, nem explicável por, processos materiais, o eu humano completo não pode ser carregado digitalmente."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Stump’s Thomistic Dualism", "relationship": "Compatível" },
-      { "name": "Cartesian Dualism", "relationship": "Crítica" },
       {
-        "name": "Eliminative Materialism/Illusionism",
-        "relationship": "Crítica"
+        "name": "Stump's Thomistic Dualism",
+        "relationship": "Compatible"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Crítica" }
+      {
+        "name": "Cartesian Dualism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Eliminative/Illusionism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Critique"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Think, McFly, think, Edward Feser", "year": 2012 },
+      {
+        "title_with_names": "Think, McFly, think, Edward Feser",
+        "year": 2012
+      },
       {
         "title_with_names": "Aristotle, call your office, Edward Feser",
         "year": 2012

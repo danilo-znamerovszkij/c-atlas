@@ -1,0 +1,102 @@
+{
+  "id_and_class": {
+    "theory_title": "De Conscious Turing Machine van de Blums",
+    "summary": "Lenore, Manuel en Avrim Blum houden staande dat bewustzijn, zowel toegangsbewustzijn als fenomenaal bewustzijn, computationeel is en kan worden vastgelegd in een formeel machinemodel, de Conscious Turing Machine (CTM). In de CTM strijden onbewuste processoren erom een brokje informatie op een ‘podium’ van één plaats te zetten, dat naar al die processoren wordt uitgezonden; de machine voelt iets wanneer elke processor die uitzending toetst aan haar zelfgebouwde Model van de Wereld, dat zij voor de wereld zelf houdt.",
+    "associated_thinkers": [
+      "Lenore Blum",
+      "Manuel Blum",
+      "Avrim Blum"
+    ],
+    "category": "Materialisme",
+    "subcategory": "Computationeel",
+    "core_identity_tagline": "Bewustzijn als uitzending en inspectie van brokken uit het wereldmodel",
+    "classification_tags": [
+      "theoretical computer science",
+      "global workspace",
+      "world model",
+      "machine consciousness",
+      "formal model"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Bewustzijn is een computationeel proces. Bewuste aandacht is de gelijktijdige ontvangst van een uitgezonden brok door alle processoren; bewust gewaarzijn is dat alle processoren dat brok gelijktijdig inspecteren, waarvan de betekenis is gegrond in het Model van de Wereld van de machine.",
+    "ontological_status": "Physicalism (computational functionalism)",
+    "mind_body_relationship": "De geest is de organisatie van berekening, onafhankelijk van het substraat. De CTM doet bewust geen uitspraak over welke hersengebieden welke functies implementeren, zodat hetzelfde model op hersenen en machines kan worden toegepast.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (subjective experience follows from a defined architecture plus a stated axiom)",
+    "subjectivity_and_intentionality": "De CTM is zich alleen bewust van haar eigen Model van de Wereld, nooit rechtstreeks van de wereld, en behandelt het model als werkelijkheid. Haar zelfgevoel komt voort uit het labelen van schetsen in het model: een schets van een actuator die ze met de gedachte kan bewegen krijgt het label ZELF, en later labelt de machine haar eigen schets BEWUST, wat het gevoel van bewust zijn oproept.",
+    "qualia_account": "Axioma A stelt dat het inspecteren van een uitgezonden brok een unieke subjectieve ervaring oproept waarvan intensiteit en valentie uit het gewicht van het brok komen. Brokken met lege samenvattingen (gists) roepen primaire ervaringen op (bijvoorbeeld pijn van een falende ‘zuurstofmeter’), en rijkere ervaringen zijn fusies van de ervaringen die de Brainish-woorden in een gist oproepen.",
+    "ontological_commitments": "Processoren, brokken, een kortetermijngeheugenpodium, competitie- en uitzendbomen, hebbiaanse koppelingen tussen processoren, sensoren en actuatoren, een Model van de Wereld en een interne multimodale taal genaamd Brainish.",
+    "epistemic_access": "Via formele definities, stellingen en bewijzen, plus vergelijking van het gedrag van het model met bekende verschijnselen van menselijk bewustzijn.",
+    "constituents_and_structure": "Een 7-tupel: kortetermijngeheugen (STM, het podium), langetermijngeheugen (LTM, een enorme verzameling onbewuste processoren), een Up-Tree voor competitie, een Down-Tree voor uitzending, Links tussen processoren, en Input- en Output-afbeeldingen naar sensoren en actuatoren. De tijd loopt in discrete tikken over een eindige levensduur."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Toegang (bewuste aandacht); fenomenaal (bewust gewaarzijn); zelfbewustzijn; het gevoel van bewust zijn",
+    "distinctive_mechanism_or_principle": "Een probabilistisch winner-takes-all-toernooi omhoog langs een binaire boom, waarin de kans van elk brok om te winnen gelijk is aan zijn gewicht gedeeld door het totale gewicht van alle deelnemers. De winnaar wordt naar elke processor uitgezonden, en bewust gewaarzijn treedt op wanneer alle processoren het in dezelfde tik inspecteren.",
+    "dynamics_of_emergence": "Bewustzijn ontwikkelt zich gedurende het leven van de machine. Een pasgeboren CTM heeft een mistig Model van de Wereld dat zelf en wereld niet scheidt; Brainish-woorden en gelabelde schetsen ontwikkelen zich samen met ervaring, van primaire woorden als BLOB en PIJN tot ZELF en BEWUST.",
+    "location_and_distribution": "Verdeeld over alle processoren in het LTM, die dezelfde uitzending ontvangen; het STM houdt slechts één brok tegelijk vast. Er wordt geen specifieke locatie in de hersenen beweerd.",
+    "causation_and_functional_role": "De uitzending laat elke processor weten wat won, hoe belangrijk het was en wat het gemiddelde gewicht van de concurrentie was, wat latere actie kalibreert. Processoren proberen brokken met hoog gewicht uit te pakken en sterk negatieve gewichten te verminderen. De eerlijke, gedecentraliseerde competitie vervangt de ongedefinieerde ‘centrale uitvoerder’ van andere theatermodellen.",
+    "integration_or_binding": "Een Brainish-gist fuseert multimodale inhoud (de rode kleur, zoete geur, zachte bloemblaadjes van een roos en herinnerde ontmoetingen) tot één label. Alle processoren delen een identiek globaal woordenboek van uitgezonden brokken.",
+    "information_flow_or_representation": "Elk brok draagt een processoradres, een tijd, een korte Brainish-gist, een gewicht met teken en aanvullende data die globale context verzamelt terwijl het door de boom omhoog gaat. Brainish-woorden zijn verwijzingen naar eerder uitgezonden brokken, wat de Blums vergelijken met keys en values in machine learning.",
+    "evolutionary_account": "Binnen één CTM ontwikkelen Brainish en het Model van de Wereld zich samen tijdens haar leven; ook specialisaties van processoren evolueren. De Blums brengen dit in lijn met evolutionaire theorieën zoals die van Nick Humphrey.",
+    "core_claims_and_evidence": [
+      "Een stelling toont aan dat de kans van een brok om te winnen zijn gewicht is gedeeld door het totale gewicht van alle deelnemers, onafhankelijk van waar processoren in de boom zitten.",
+      "De CTM reproduceert onoplettendheidsblindheid, veranderingsblindheid en een Libet-achtige vertraging tussen het moment dat een brok de competitie ingaat en zijn uitzending.",
+      "Verkeerd gelabelde schetsen in het Model van de Wereld leveren analogieën op van fantoomledemaatsyndroom, body integrity disorder en paranoia.",
+      "De CTM sluit op hoog niveau aan bij de global workspace-theorie, de attentieschematheorie, predictieve verwerking, belichaamde cognitie en de geïntegreerde-informatietheorie.",
+      "De CTM voorspelt dat een centrale uitvoerder niet nodig is voor bewustzijn, en dat het brein er dus geen heeft."
+    ],
+    "basis_of_belief_or_evidence_type": "Formeel en wiskundig (theoretische informatica), ondersteund door een kwalitatieve overeenkomst met bekende kenmerken van menselijk bewustzijn."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "De Blums betogen dat de CTM bouwbaar is. Haar voorspelling dat het brein geen centrale uitvoerder heeft, zou aan de neurowetenschap getoetst kunnen worden.",
+    "criticisms_and_tensions": "Critici vragen zich af of formele definities en symboolverwerking gevoelde ervaring kunnen vatten. Subjectieve ervaring komt binnen via Axioma A, dus de verklaring van gevoel berust op een aanname. Anil Seth en Nick Humphrey, wier opvattingen overlappen met de CTM, stellen dat bewustzijn een levend organisme vereist, wat de Blums verwerpen.",
+    "open_questions_and_limitations": "De CTM is te simpel om het brein te modelleren, zoals de Blums zeggen. Of het inspecteren van een brok ervaring oplevert, en niet alleen zijn rol modelleert, blijft open.",
+    "ontological_coherence": "Consistent binnen computationeel functionalisme. Ze ligt dicht bij het illusionisme van Daniel Dennett en Keith Frankish, al spreken de Blums van het verklaren van ‘what it is like’ in plaats van het ontkennen ervan."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Yes",
+      "rationale": "De Blums betogen dat de CTM bouwbaar is en dat ze AI-bewustzijn aannemelijk, zelfs onvermijdelijk maakt."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Omdat bewustzijn hier een computationeel proces met een eindige levensduur is, eindigt het wanneer de machine of het brein stopt met draaien."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "De theorie verklaart bewustzijn als berekening en veronderstelt geen kosmisch doel."
+    },
+    "virtual_immortality": {
+      "stance": "Possible",
+      "rationale": "Als bewustzijn substraatonafhankelijke berekening is, zou het reproduceren van dezelfde processen in een andere machine uit de opvatting volgen, al behandelen de Blums dit niet."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Foundation"
+      },
+      {
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Seth's \"Beast Machine\" Theory",
+        "relationship": "Contrast"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Lenore, Manuel, and Avrim Blum’s Conscious Turing Machine (Landscape of Consciousness), Lenore Blum, Manuel Blum, Avrim Blum",
+        "year": 2022
+      }
+    ]
+  }
+}

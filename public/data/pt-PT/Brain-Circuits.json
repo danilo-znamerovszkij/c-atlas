@@ -16,10 +16,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada como a função ou o produto de estruturas cerebrais complexas e de grande escala (circuitos) e da consequente atividade elétrica síncrona maciça (ciclos) no interior do cérebro biológico.",
-    "ontological_status": "Fisicalismo (materialismo redutivo)",
+    "ontological_status": "Physicalism (Reductive Materialism)",
     "mind_body_relationship": "Identidade/Correlação. Os estados mentais são idênticos a, ou correlacionam-se diretamente com, estados físicos específicos de circuitos neuronais de grande escala e padrões dinâmicos.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca (Implícita: surge da organização complexa de componentes físicos conhecidos, de forma consistente com o reducionismo neurobiológico clássico).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Implicit: arises from complex organization of known physical components, consistent with classic neurobiological reductionism).",
     "subjectivity_and_intentionality": "Concentra-se em fornecer o substrato físico necessário aos estados conscientes; o mecanismo específico de geração de uma subjetividade ou intencionalidade irredutíveis na primeira pessoa fica frequentemente por desenvolver ou é remetido para teorias sucessoras.",
     "qualia_account": "O sentir qualitativo específico da experiência (qualia) não é diretamente explicado por esta teoria, que se concentra sobretudo nos mecanismos organizacionais (circuitos e ciclos) correlacionados com a consciência.",
     "ontological_commitments": "Estruturas neuronais de grande escala (por exemplo, vias, sistema reticular ativador, córtex), eletrofisiologia neuronal (disparo síncrono) e ciclos cerebrais mensuráveis (por exemplo, ondas de EEG).",
@@ -43,7 +43,7 @@
     "basis_of_belief_or_evidence_type": "Empírica, neurofisiológica"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável através de medições neurofisiológicas (por exemplo, EEG, imagiologia funcional) que acompanham a sincronização e a atividade cerebrais de grande escala nos circuitos identificados.",
+    "testability_status": "Empirically testable through neurophysiological measurements (e.g., EEG, functional imaging) that track large-scale brain synchronization and activity in the identified circuits.",
     "known_empirical_interventions_or_tests": [
       "Medição por EEG das bandas de frequência (por exemplo, ondas gama a 40 Hz) associadas aos estados conscientes.",
       "Estudos da transferência bidirecional de informação nas vias cortico-talâmicas durante estados conscientes versus inconscientes."
@@ -54,39 +54,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Se a consciência é inteiramente o produto de circuitos neuronais físicos específicos e de padrões de atividade dinâmica, então estes mecanismos podem, em princípio, ser perfeitamente duplicados em substratos não biológicos, possibilitando a consciência da IA."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "Enquanto teoria materialista, a consciência está inteiramente ligada ao cérebro biológico; a cessação destes circuitos e ciclos neuronais específicos significa o fim da consciência."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanista",
+      "stance": "Humanistic only",
       "rationale": "De forma consistente com o materialismo, a teoria não oferece qualquer sentido ou propósito cósmico último; todo o sentido é criado pelas próprias entidades conscientes."
     },
     "virtual_immortality": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Uma vez que o eu na primeira pessoa é identificado com a organização física complexa dos padrões e vias neuronais, a duplicação perfeita destes circuitos num meio não biológico deveria preservar a consciência fenoménica."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Extensão"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Extension"
       },
       {
-        "name": "Recurrent Processing Theory",
-        "relationship": "Extensão/Sobreposição"
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Extension/Overlap"
       },
       {
         "name": "Dendritic Integration Theory",
-        "relationship": "Refinamento"
+        "relationship": "Refinement"
       },
       {
-        "name": "Electromagnetic Field Theories",
-        "relationship": "Sobreposição (os ciclos cerebrais relacionam-se com os campos eletromagnéticos)"
+        "name": "Electromagnetic",
+        "relationship": "Overlap (Brain cycles relate to electromagnetic fields)"
       }
     ],
     "sources_and_references": [

@@ -17,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Os estados fenoménicos são literalmente idênticos a tipos específicos de estados neurobiológicos, caracterizados pela sua natureza eletroquímica.",
-    "ontological_status": "Fisicalismo redutivo",
+    "ontological_status": "Reductive Physicalism",
     "mind_body_relationship": "Teoria da identidade mente-cérebro (enquanto forte candidata à redução), na qual os estados mentais são idênticos a estados físicos do cérebro.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca (Justificação: O reducionismo implica que a consciência é inteiramente explicável e redutível a propriedades físicas de nível inferior, o que se ajusta à definição de emergência fraca.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justification: Reductionism implies that consciousness is entirely explainable and reducible to lower-level physical properties, fitting the definition of weak emergence.)",
     "subjectivity_and_intentionality": "A subjetividade está ligada à maquinaria biológica específica necessária à redução. Sustenta o representacionalismo de primeira ordem, ligando o carácter fenoménico diretamente ao conteúdo intencional de primeira ordem.",
     "qualia_account": "Os qualia são identificados com (ou redutíveis a) as propriedades neurobiológicas e eletroquímicas específicas do sistema integrado do cérebro.",
     "ontological_commitments": "Atividade eletroquímica dos neurónios, circuitos neuronais específicos e conectividade com estruturas subcorticais como o tálamo.",
@@ -45,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filosófica (defesa do reducionismo), empírica (recurso a exemplos e dados neurobiológicos)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável (exige identificar com sucesso a propriedade física que realiza literalmente o papel fenoménico).",
+    "testability_status": "Empirically testable (requires successfully identifying the physical property that literally realizes the phenomenal role).",
     "known_empirical_interventions_or_tests": "Investigar a atividade neuronal e as correlações (por exemplo, atividade eletroquímica, circuitos recorrentes) nos sistemas sensoriais e pós-sensoriais para encontrar a candidata à redução neurobiológica.",
     "criticisms_and_tensions": "Criticada por não colmatar a lacuna explicativa, ao não tornar inteligível o enunciado de identidade. O próprio Block argumenta que o funcionalismo metafísico e o fisicalismo redutivo são rivais incompatíveis. Experiências mentais como a dos «qualia que se esvanecem» questionam a necessidade de um hardware biológico específico para a fenomenologia.",
     "open_questions_and_limitations": "O principal desafio é encontrar a propriedade física específica que complete com sucesso a redução (o «segundo passo»). Tem de explicar plenamente por que razão a maquinaria biológica específica é necessária aos qualia.",
@@ -53,39 +53,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "Se a consciência é redutível à natureza eletroquímica/biológica específica do tecido neuronal, então os sistemas não biológicos (como a IA digital) que carecem desta composição física específica não podem instanciar consciência fenoménica verdadeira."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "Uma vez que a consciência é identificada com, e redutível a, processos biológicos do cérebro, a destruição do cérebro acarreta a cessação da consciência."
     },
     "meaning_and_purpose": {
-      "stance": "Incerto",
+      "stance": "Uncertain",
       "rationale": "Enquanto redução puramente fisicalista, a teoria não proporciona qualquer sentido ou propósito cósmico, embora permita implicitamente um sentido humanista criado pelo organismo consciente (comum à maioria das teorias materialistas)."
     },
     "virtual_immortality": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "Block sugere que a fenomenologia depende da natureza da nossa maquinaria biológica. Uma vez que a imortalidade virtual assenta na replicação computacional/funcional num meio não biológico, o carácter fenoménico (qualia) perder-se-ia provavelmente na transferência."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mind-Brain Identity Theory",
-        "relationship": "Sobreposição"
+        "name": "Mind-Brain Identity",
+        "relationship": "Overlap"
       },
       {
         "name": "Functionalism",
-        "relationship": "Crítica"
+        "relationship": "Critique"
       },
       {
-        "name": "First-Order Representationalism",
-        "relationship": "Compatível"
+        "name": "First-Order",
+        "relationship": "Compatible"
       },
       {
-        "name": "Higher-Order Theories (HOT)",
-        "relationship": "Crítica"
+        "name": "Higher-Order",
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

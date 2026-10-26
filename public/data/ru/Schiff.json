@@ -1,0 +1,123 @@
+{
+  "id_and_class": {
+    "theory_title": "Мезоконтур передних отделов переднего мозга Шиффа и восстановление сознания",
+    "summary": "Николас Д. Шифф предполагает, что утрата и восстановление сознания после тяжёлого повреждения мозга зависят от петли, связывающей центральный таламус, лобную кору, полосатое тело и внутренний сегмент бледного шара. Обширное повреждение лишает полосатое тело входных сигналов, что снимает паллидарное торможение с центрального таламуса и переводит весь передний мозг в самоподдерживающееся угнетённое состояние. Поскольку контур можно вновь перевести через порог, модель объясняет восстановление и предсказывает, какие методы лечения сработают.",
+    "associated_thinkers": [
+      "Nicholas D. Schiff"
+    ],
+    "category": "Материализм",
+    "subcategory": "Нейробиологические",
+    "core_identity_tagline": "Уровень сознания как функция таламокортикального контура",
+    "classification_tags": [
+      "disorders of consciousness",
+      "thalamus",
+      "deep brain stimulation",
+      "brain injury",
+      "neurology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Шифф не говорит, что такое сознание. Он выявляет условия, делающие возможным уровень сознания: активный мезоконтур переднего мозга, способный поддерживать рекуррентную активность, от которой зависят сознательные состояния.",
+    "ontological_status": "Physicalism (neurobiological)",
+    "mind_body_relationship": "Уровень сознания зависит от определённого подкорково-корковым контуром; его отказ устраняет сознание, даже когда значительная часть коры сохранена. Модель молчит о том, как активность мозга соотносится с переживаемым содержанием.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (conscious level depends on the dynamic state of a brain circuit)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Не рассматривается. Шифф представляет гипотезу как модель уровня сознания, а не феноменального характера.",
+    "ontological_commitments": "Нейронные контуры (центральный таламус, средние шипиковые нейроны полосатого тела, внутренний сегмент бледного шара, лобная кора), синаптическое возбуждение, нейромодуляция и метаболизм.",
+    "epistemic_access": "Поведенческая диагностика, региональный метаболизм мозга (ПЭТ), спектральные паттерны скальповой ЭЭГ, а также ответы на лекарства и глубокую стимуляцию мозга.",
+    "constituents_and_structure": "Петля: кора и таламус возбуждают полосатое тело, полосатое тело тормозит внутренний сегмент бледного шара, бледный шар тормозит центральный таламус, а центральный таламус возбуждает лобную кору и полосатое тело."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Уровень сознания и бодрствования; способность к вниманию, рабочей памяти, намеренному поведению и коммуникации; скрытое сознание. Не феноменальное содержание.",
+    "distinctive_mechanism_or_principle": "Даунрегуляция мезоконтура: когда нейроны полосатого тела теряют сходящиеся корковые и таламические входы, паллидарное торможение центрального таламуса возрастает, таламокортикальное возбуждение схлопывается, а сниженная активность удерживает полосатое тело в молчании.",
+    "dynamics_of_emergence": "Нарушения сознания — градуированные состояния контура. Пациенты могут переходить от комы через состояние ареактивного бодрствования к состояниям минимального сознания, а небольшие изменения синаптической эффективности, нейромодуляции, метаболизма или стимуляции могут перевести петлю через порог, поэтому восстановление может быть нелинейным.",
+    "location_and_distribution": "Передний мозг: центральный таламус (включая центральное латеральное ядро), полосатое тело, внутренний сегмент бледного шара и лобная кора; более поздние работы добавляют наружный сегмент бледного шара.",
+    "causation_and_functional_role": "Активный мезоконтур позволяет крупномасштабным сетям поддерживать бодрствование, внимание, рабочую память, намеренное поведение и коммуникацию.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "У вегетативных пациентов и пациентов в состоянии минимального сознания гипометаболизм сосредоточен в лобной коре, таламусе и полосатом теле и несоразмерен очаговому повреждению (Фридман с коллегами).",
+      "Золпидем, седативное средство, восстанавливает реактивность у небольшой части пациентов, подавляя внутренний сегмент бледного шара и освобождая центральный таламус; у ответивших на лечение повышен префронтальный метаболизм и снижена низкочастотная активность ЭЭГ.",
+      "Двусторонняя глубокая стимуляция центрального таламуса дала устойчивое улучшение у пациента, шесть лет находившегося в состоянии минимального сознания, а испытание фазы 1 показало улучшение исполнительного контроля после черепно-мозговой травмы.",
+      "В модели ABCD восстановление ЭЭГ идёт от активности ниже 1 Гц через тета-, а затем альфа- и бета-ритмы по мере восстановления таламокортикальных петель."
+    ],
+    "basis_of_belief_or_evidence_type": "Эмпирический: клиническая неврология, метаболизм по данным ПЭТ, ЭЭГ, фармакология и интервенционные испытания."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Проба с золпидемом; глубокая стимуляция центрального таламуса (включая рандомизированное пилотное исследование фазы 1); региональное метаболическое картирование по ПЭТ; спектральная классификация ЭЭГ по модели ABCD для прогноза и отбора кандидатов на нейромодуляцию.",
+    "criticisms_and_tensions": "Модель объясняет, когда возможно сознание, но не что оно есть и почему оно сопровождается переживанием. Ряд звеньев её цепи умозаключений уже пересмотрен, включая добавление наружного сегмента бледного шара.",
+    "open_questions_and_limitations": "Ничто в мезоконтуре не определяет содержание переживания и его качественный характер, что Шифф признаёт. Схожие поведенческие диагнозы могут скрывать разные остаточные способности, поэтому скрытое сознание по-прежнему трудно обнаружить.",
+    "ontological_coherence": "Согласуется с физикализмом и нейтральна среди онтологических теорий, которые она ограничивает, а не конкурирует с ними. Создаёт проблему для концепций, целиком помещающих сознание в динамику коры."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Поскольку уровень сознания здесь зависит от активного контура переднего мозга, сознание не может пережить необратимый отказ этого контура."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Merker’s Midbrain-Centered Reality Space",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Llinas's Mindness State of Oscillations",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Recovery of Consciousness after Brain Injury: A Mesocircuit Hypothesis, Nicholas D. Schiff",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Behavioural Improvements with Thalamic Stimulation after Severe Traumatic Brain Injury, Nicholas D. Schiff et al.",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Regional Cerebral Metabolic Patterns Demonstrate the Role of Anterior Forebrain Mesocircuit Dysfunction in the Severely Injured Brain, E. A. Fridman et al.",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Common Resting Brain Dynamics Indicate a Possible Mechanism Underlying Zolpidem Response in Severe Brain Injury, S. T. Williams et al.",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Large-Scale Brain Dynamics in Disorders of Consciousness, Nicholas D. Schiff, T. Nauvel and J. D. Victor",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Central Thalamic Deep Brain Stimulation to Support Anterior Forebrain Mesocircuit Function in the Severely Injured Brain, Nicholas D. Schiff",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Thalamic Deep Brain Stimulation in Traumatic Brain Injury: A Phase 1, Randomized Feasibility Study, Nicholas D. Schiff et al.",
+        "year": 2023
+      }
+    ]
+  }
+}

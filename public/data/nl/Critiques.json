@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Kritiektheorie",
     "summary": "Dit item vertegenwoordigt de essentiële en alomtegenwoordige sceptische functie binnen de bewustzijnsstudies, die de verklarende coherentie, empirische geldigheid en metafysische veronderstellingen van alle voorgestelde theorieën van het bewustzijn systematisch ter discussie stelt. Het legt aanhoudende conceptuele spanningen bloot, zoals de verklaringskloof en het correlatie-causatievraagstuk, en dwingt theorieën hun interne consistentie en empirische onderbouwing te verdedigen.",
-    "associated_thinkers": ["Robert Lawrence Kuhn"],
+    "associated_thinkers": [
+      "Robert Lawrence Kuhn"
+    ],
     "category": "Uitdagende theorieën",
     "subcategory": "Kritiek/scepticisme",
     "core_identity_tagline": "De essentiële sceptische functie",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Kritiek wordt geïdentificeerd als de systematische beoordeling en diagnose van verklarende gebreken (bijv. verklaringskloven, gebrek aan coherentie, onvoldoende empirische rechtvaardiging) die inherent zijn aan alle concurrerende verklaringen van het bewustzijn.",
-    "ontological_status": "Epistemologisch/methodologisch standpunt (Kritiek beoordeelt in de eerste plaats de kennisclaims en methodologieën van andere theorieën in plaats van een positieve ontologie te presenteren.)",
+    "ontological_status": "Epistemological/Methodological Stance (Critique primarily assesses the knowledge claims and methodologies of other theories rather than presenting a positive ontology.)",
     "mind_body_relationship": "Niet van toepassing (Als methodologisch concept analyseert Kritiek de coherentie van bestaande ontologische voorstellen, zoals pogingen om het geest-lichaamprobleem op te lossen, zonder haar eigen positieve oplossing voor te stellen.)",
-    "primitive_or_emergent_status": "Geen van beide (Kritiek is een discursieve en analytische praktijk, geen fundamentele eigenschap of een emergent proces van de werkelijkheid.)",
-    "emergence_type": "Niet van toepassing (Het concept is zuiver methodologisch.)",
+    "primitive_or_emergent_status": "Neither (Critique is a discursive and analytical practice, not a fundamental property or an emergent process of reality.)",
+    "emergence_type": "Not Applicable (The concept is purely methodological.)",
     "subjectivity_and_intentionality": "Kritieken richten zich vaak op het onvermogen van fysicalistische theorieën om de subjectieve eerstepersoonservaring (subjectiviteit) en de gerichtheid van het denken (intentionaliteit) te verklaren, met het argument dat deze aspecten door zuiver kwantitatieve modellen worden gemist.",
     "qualia_account": "Beoordelingsinstrument (Kritiek zet de kwalitatieve dimensie van ervaring—qualia—in als de voornaamste uitdaging tegen materialistische en reductionistische verklaringen, en benadrukt het 'moeilijke probleem' als een onopgelost analytisch tekort.)",
     "ontological_commitments": "De verplichtingen variëren naargelang de specifieke kritiek die wordt ingezet; er bestaat geen unitaire ontologie van een 'Kritiektheorie', al berust zij vaak op de verplichting dat het huidige wetenschappelijke wereldbeeld onvolledig of gebrekkig is.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Conceptuele/filosofische analyse (Steunend op het identificeren van logische en epistemologische inconsistenties in argumenten voor en tegen specifieke theorieën.)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Toetsbaar in relatie tot specifieke theoretische claims (Kritiek genereert expliciete uitdagingen die empirische onderzoeksprogramma's op gang brengen, zoals experimenten in adversariële samenwerking, om gerichte voorspellingen te verifiëren of te falsifiëren.)",
+    "testability_status": "Testable in relation to specific theoretical claims (Critique generates explicit challenges that initiate empirical research programs, such as adversarial collaboration experiments, to verify or falsify targeted predictions.)",
     "known_empirical_interventions_or_tests": [
       "Experimenten in adversariële samenwerking (ontworpen om contrasterende voorspellingen van concurrerende theorieën zoals IIT en de Global Workspace-theorie te toetsen)",
       "Gedachte-experimenten (bijv. het zombieargument, het kennisargument) die worden gebruikt als conceptuele tests tegen fysicalistische claims"
@@ -54,39 +56,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Voorwaardelijk",
+      "stance": "Conditional",
       "rationale": "Kritiek benadrukt de moeilijkheid om echt innerlijk gewaarzijn in AI te verifiëren, en beklemtoont dat berekende complexiteit slechts tot *schijnbaar* bewustzijn zou kunnen leiden (de simulatie-uitdaging), waardoor bepaalde claims onbetrouwbaar worden."
     },
     "survival_beyond_death": {
-      "stance": "Onzeker",
+      "stance": "Uncertain",
       "rationale": "Kritiek erkent dat, indien hoogst afwijkende verschijnselen (zoals verifieerbare bijna-doodervaringen) empirisch werden bevestigd, zij onmiddellijk materialistische productiemodellen zouden falsifiëren en de theoretische steun zouden verschuiven naar niet-fysische overlevingshypothesen."
     },
     "meaning_and_purpose": {
-      "stance": "Diagnosticeert het ontbreken van ultieme zin",
+      "stance": "Humanistic only",
       "rationale": "Kritieken stellen vaak materialistische en reductionistische verklaringen ter discussie omdat zij er niet in slagen ultieme zin of waarde te rationaliseren, waardoor slechts de humanistische zelfschepping van doel overblijft."
     },
     "virtual_immortality": {
-      "stance": "Voorwaardelijk",
+      "stance": "Conditional",
       "rationale": "Kritiek houdt vol dat, zonder het metafysische raadsel op te lossen van wat bewustzijn *is* (bijv. aantonen dat uploaden het eerstepersoons zelf perfect bewaart), virtuele onsterfelijkheid conceptueel problematisch en ongeverifieerd blijft."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mysterianism (McGinn's Ultimate Mystery)",
+        "name": "Challenge",
         "relationship": "Overlap"
       },
       {
         "name": "Meta-Problem of Consciousness",
-        "relationship": "Uitbreiding"
+        "relationship": "Extension"
       },
       {
         "name": "Integrated Information Theory",
-        "relationship": "Kritiek"
+        "relationship": "Critique"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
-        "relationship": "Invloed"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Influence"
       }
     ],
     "sources_and_references": [

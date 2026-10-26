@@ -1,0 +1,112 @@
+{
+  "id_and_class": {
+    "theory_title": "A Formação de Sobreposição Quântica de Neven",
+    "summary": "Neven propõe que a experiência consciente surge sempre que se forma uma sobreposição quântica, e não quando esta colapsa, como na proposta de Penrose. Trabalhando no quadro dos muitos mundos de Everett, defende que um sistema segue vários ramos em simultâneo, cada um dando origem a uma sequência de momentos conscientes definidos, ao passo que o entrelaçamento une a experiência numa unidade. Pretende testar a ideia entrelaçando qubits do cérebro humano com um computador quântico e perguntando se a experiência do sujeito se torna mais rica.",
+    "associated_thinkers": [
+      "Hartmut Neven",
+      "Christof Koch"
+    ],
+    "category": "Quântico",
+    "subcategory": "",
+    "core_identity_tagline": "A consciência surge quando se forma uma sobreposição quântica",
+    "classification_tags": [
+      "quantum superposition",
+      "entanglement",
+      "many-worlds",
+      "quantum computing",
+      "binding problem"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Um momento consciente é o aspeto em primeira pessoa de um sistema quântico que se ramifica em estados clássicos definidos, o que acontece sempre que se forma uma sobreposição.",
+    "ontological_status": "Quantum physicalism (Everettian)",
+    "mind_body_relationship": "A experiência está ligada a um acontecimento físico específico, a formação de sobreposição, e não apenas à computação neuronal clássica. Neven trata também a consciência como o único dado que não pode ser eliminado: «sem mente, nada importa».",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "Not applicable: experience accompanies a basic quantum event rather than arising from complexity, though its richness grows with the number of entangled degrees of freedom.",
+    "subjectivity_and_intentionality": "Um sistema só experiencia estados clássicos definidos. Quando entra em sobreposição, segue múltiplos caminhos de Feynman, cada um uma sequência distinta de momentos conscientes, pelo que um único sistema quântico pode albergar muitas mentes experienciadoras simples.",
+    "qualia_account": "O carácter qualitativo da experiência é determinado pela estrutura da sobreposição. A fenomenologia é clássica vista de dentro, embora o seu substrato seja quântico.",
+    "ontological_commitments": "Uma função de onda universal que nunca colapsa literalmente (Everett), a decoerência a produzir ramos clássicos efetivamente separados, qubits entrelaçados no cérebro e uma base preferencial que fixa o que é experienciado.",
+    "epistemic_access": "Através de relatos em primeira pessoa correlacionados com estados quânticos medidos em experiências cérebro-processador, sendo as medidas de informação integrada quântica uma forma de quantificar a experiência.",
+    "constituents_and_structure": "Momentos conscientes gerados na formação da sobreposição, unidos pelo entrelaçamento; um único momento rico pode exigir centenas ou milhares de qubits entrelaçados."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenomenal (qualia); unidade da experiência; agência e livre-arbítrio.",
+    "distinctive_mechanism_or_principle": "É a formação da sobreposição, e não o colapso, que gera a experiência. Neven retira a gravidade do modelo de Penrose e recorre à decoerência para o «colapso efetivo».",
+    "dynamics_of_emergence": "A experiência surge em momentos discretos, cada um ligado a um estado definido que evolui unitariamente para uma sobreposição. A consciência é «a forma como experienciamos a emergência de uma realidade clássica única» a partir dos muitos ramos.",
+    "location_and_distribution": "Onde quer que se formem sobreposições; nos humanos, hipotéticos qubits entrelaçados no cérebro. A experiência poderia, em princípio, estender-se a um processador quântico entrelaçado com um cérebro.",
+    "causation_and_functional_role": "A formação de sobreposição pode acompanhar um momento de agência. Para além de cerca de 100 qubits entrelaçados, um observador externo não consegue prever a evolução do sistema nem sequer probabilisticamente, e a equipa conjetura que um organismo pode escolher que configuração clássica experiencia a seguir.",
+    "integration_or_binding": "O entrelaçamento resolve o problema da ligação; Neven chama-lhe «o único verdadeiro agente de ligação que temos na física». A riqueza de uma experiência é limitada pelo número de graus de liberdade entrelaçados.",
+    "information_flow_or_representation": "Está em aberto qual a base que corresponde à experiência: entre os candidatos contam-se a base de interpretação de Deutsch, a base de estados-ponteiro de Zurek ou uma base que maximize a informação integrada quântica.",
+    "evolutionary_account": "O prazer acompanha os comportamentos que sustentam um organismo e a dor os que o ameaçam. A equipa argumenta que esta associação seria inútil para um autómato determinista, o que sugere que a consciência evoluiu com escolha real.",
+    "core_claims_and_evidence": [
+      "Ligar a experiência ao colapso poderia permitir sinalização mais rápida do que a luz entre qubits entrelaçados; situá-la na formação evita isto e o problema de definir quando ocorre a medição.",
+      "As buscas laboratoriais de colapso induzido pela gravidade nada encontraram até agora, o que motiva a retirada da gravidade da proposta de Penrose.",
+      "As máquinas de Turing clássicas podem tornar-se inteligentes, mas nunca conscientes; a senciência requer uma máquina de Turing quântica.",
+      "Entrelaçar um cérebro com um processador quântico deveria produzir relatos de experiência mais rica, e o momento dessa intensificação distinguiria a formação do colapso."
+    ],
+    "basis_of_belief_or_evidence_type": "Física teórica e computação quântica, com um programa experimental proposto."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "O «protocolo de expansão» proposto acopla N qubits do cérebro de um sujeito a M qubits de um processador para formar uma sobreposição N+M, comparando depois os relatos do sujeito com os estados quânticos medidos.",
+    "criticisms_and_tensions": "A maioria dos físicos convencionais não partilha a leitura dos muitos mundos de Neven, incluindo a sua opinião de que o processador Willow da Google acede a algo maior do que o nosso universo. A experiência não é um observável experimental padrão, pelo que o teste depende do relato subjetivo. A sobreposição depende da base, e a teoria não definiu qual a base que é experienciada.",
+    "open_questions_and_limitations": "Não está estabelecido que o cérebro sustente sequer qubits entrelaçados. A sugestão de que as experiências psicadélicas, místicas e de quase-morte envolvem mais qubits entrelaçados é altamente conjetural.",
+    "ontological_coherence": "Consistente, por conceção, com a mecânica quântica everettiana e a relatividade restrita. A sua implicação de que existem muitas mentes experienciadoras simples onde quer que se formem sobreposições alarga a consciência muito para além dos cérebros."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Neven argumenta que os computadores clássicos podem tornar-se inteligentes, mas nunca conscientes; um processador quântico, enquanto máquina de Turing quântica, poderia albergar experiência."
+    },
+    "survival_beyond_death": {
+      "stance": "",
+      "rationale": ""
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Conditional",
+      "rationale": "Segundo esta perspetiva, uma simulação em hardware clássico não seria consciente; só o hardware quântico poderia suportar experiência, e Neven fala em expandir a consciência entrelaçando cérebros com computadores quânticos."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Integrated Information Theory",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Chalmers and McQueen’s Quantum Collapse",
+        "relationship": "Contrast"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Testing the Conjecture That Quantum Processes Create Conscious Experience, Hartmut Neven, Christof Koch, et al.",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Experiments Prepare to Test Whether Consciousness Arises from Quantum Weirdness, Hartmut Neven and Christof Koch",
+        "year": 2024
+      },
+      {
+        "title_with_names": "Do Robots powered by a Quantum Processor have the Freedom to swerve?, Hartmut Neven, P. Read, and T. Rees",
+        "year": 2021
+      },
+      {
+        "title_with_names": "Can we use quantum computers to test a radical consciousness theory?, T. Lewton",
+        "year": 2024
+      },
+      {
+        "title_with_names": "The Emperor's New Mind, Roger Penrose",
+        "year": 1989
+      }
+    ]
+  }
+}

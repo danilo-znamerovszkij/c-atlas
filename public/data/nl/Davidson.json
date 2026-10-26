@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Davidsons anomaal monisme",
     "summary": "Het anomaal monisme stelt dat elke mentale gebeurtenis identiek is aan een fysieke gebeurtenis (token-identiteit), waarmee het een monistische ontologie handhaaft. De theorie houdt echter vol dat er geen strikte, uitzonderingsloze natuurwetten bestaan die mentale begrippen (typen) met fysieke begrippen verbinden, wat leidt tot de onherleidbaarheid van de psychologie tot de fysica. Deze dubbele bewering lost het schijnbare conflict op tussen mentale causaliteit en de causale volledigheid van de fysieke wereld.",
-    "associated_thinkers": ["Donald Davidson"],
+    "associated_thinkers": [
+      "Donald Davidson"
+    ],
     "category": "Monismen",
     "subcategory": "Anomaal monisme",
     "core_identity_tagline": "Mentale tokens zijn fysiek, mentale typen zijn anomaal",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Mentale entiteiten (bepaalde tijd- en ruimtegebonden objecten en gebeurtenissen, oftewel tokens) zijn fysieke entiteiten. Mentale begrippen zijn echter per definitie of natuurwet niet te herleiden tot fysieke begrippen.",
-    "ontological_status": "Monisme (token-identiteitsfysicalisme/eigenschapsdualisme). De theorie stelt dat mentale gebeurtenissen een fysieke ontologie hebben.",
+    "ontological_status": "Monism (Token Identity Physicalism/Property Dualism). The theory holds that mental events have a physical ontology.",
     "mind_body_relationship": "Token-identiteit: mentale gebeurtenissen zijn identiek aan fysieke gebeurtenissen. Dit wordt gerechtvaardigd door te betogen dat type-identiteiten tussen mentale en fysieke eigenschappen onmogelijk zijn. De theorie is een vorm van eigenschapsdualisme.",
     "primitive_or_emergent_status": "Emergent",
-    "emergence_type": "Sterke emergentie. (Rechtvaardiging: de mentale eigenschappen zijn in principe onherleidbaar en kunnen niet door strikte psychofysische wetten worden gevangen, wat aansluit bij sterke onherleidbaarheid.)",
+    "emergence_type": "Strong Emergence. (Justification: The mental properties are irreducible in principle and cannot be captured by strict psychophysical laws , aligning with strong irreducibility.)",
     "subjectivity_and_intentionality": "De theorie behandelt de intentionele essentie van mentale verschijnselen (bijv. gerichtheid, aboutness) als een eigenschap die mentale verschijnselen onderscheidt van fysieke wetten of dingen.",
     "qualia_account": "Het kwalitatieve aanvoelen (qualia) wordt ondergebracht in de bredere categorie van mentale eigenschappen/begrippen die anomaal zijn, dat wil zeggen niet onderworpen aan reductie door fysieke begrippen of wetten.",
     "ontological_commitments": "Fysieke entiteiten en gebeurtenissen (tokens); onherleidbare mentale eigenschappen/begrippen (typen).",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Filosofisch (deductief argument op basis van drie premissen over causaliteit en het nomologische karakter)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptueel/filosofisch. (Rechtvaardiging: de kernclaims van de theorie berusten op filosofische noodzakelijkheid betreffende de aard van causaliteit en psychologische verklaring.)",
+    "testability_status": "Conceptual/Philosophical. (Justification: The theory's core claims rest on philosophical necessity regarding the nature of causality and psychological explanation.)",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "De voornaamste spanning ontstaat uit de samenvoeging van drie claims: (i) mentale causaliteit bestaat, (ii) alle causaliteit wordt door wetten geschraagd, en (iii) er zijn geen psychofysische wetten. Deze samenvoeging lijkt op het eerste gezicht inconsistent of tegenstrijdig.",
     "open_questions_and_limitations": "Het kader moet volledig verantwoorden hoe mentale causaliteit kan optreden als er geen strikte wetten zijn die de mentale eigenschapstypen met de fysieke eigenschapstypen verbinden (het probleem van de causale werkzaamheid van de anomale eigenschappen).",
@@ -52,33 +54,42 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Mogelijk",
+      "stance": "Possible",
       "rationale": "Aangezien de ontologie fundamenteel monistisch is (alle mentale gebeurtenissen zijn fysieke gebeurtenissen), is AI-bewustzijn in principe mogelijk als de relevante complexe fysieke systemen in kunstmatige media gereproduceerd kunnen worden, hoewel het ontbreken van voorspelbare mentale wetten (anomalisme) de beoordeling bemoeilijkt."
     },
     "survival_beyond_death": {
-      "stance": "Nee",
+      "stance": "No",
       "rationale": "Mentale gebeurtenissen zijn afhankelijk van fysieke gebeurtenissen (token-identiteit). Voortbestaan na de vernietiging van het biologische substraat is onder deze materialistische aanname uitgesloten."
     },
     "meaning_and_purpose": {
-      "stance": "Uitsluitend humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Als ontologisch-monistische theorie sluit zij aan bij materialistische categorieën die doorgaans geen ultieme zin of doel rechtvaardigen buiten datgene wat mensen voor zichzelf scheppen."
     },
     "virtual_immortality": {
-      "stance": "Waarschijnlijk",
+      "stance": "Likely",
       "rationale": "Als het fysieke substraat (het hersenpatroon) wordt gedupliceerd, zouden de mentale gebeurtenissen (die identiek zijn aan die tokens) eveneens gedupliceerd worden, waardoor virtuele onsterfelijkheid haalbaar wordt, vergelijkbaar met andere niet-reductief-fysicalistische opvattingen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Non-Reductive Physicalism", "relationship": "Overlap" },
-      { "name": "Property Dualism", "relationship": "Overlap" },
       {
-        "name": "Mind-Brain Identity Theory (Type Identity)",
-        "relationship": "Kritiek"
+        "name": "Non-Reductive",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [
-      { "title_with_names": "Thinking Causes, Donald Davidson", "year": 1993 }
+      {
+        "title_with_names": "Thinking Causes, Donald Davidson",
+        "year": 1993
+      }
     ]
   }
 }

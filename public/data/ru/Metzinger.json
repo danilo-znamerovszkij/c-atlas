@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Репрезентационалистская теория субъективности без самости Метцингера",
     "summary": "Эта теория предлагает репрезентационалистский и функциональный анализ субъективности, полагая, что феноменальная самость — сознательно переживаемая перспектива от первого лица — не является реальной сущностью, но представляет собой непрерывный процесс, а именно содержание прозрачной само-модели в мозге. Сознательное мышление в значительной мере характеризуется как неагентивная, непреднамеренная форма внутреннего поведения.",
-    "associated_thinkers": ["Thomas Metzinger"],
+    "associated_thinkers": [
+      "Thomas Metzinger"
+    ],
     "category": "Материалистические теории",
     "subcategory": "Репрезентационалистские",
     "core_identity_tagline": "«Феноменальная самость как прозрачная само-модель»",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание, или феноменальная самость, отождествляется с содержанием «прозрачной само-модели», которая есть функционально интегрированные репрезентационные события (Модель эпистемического агента, Epistemic Agent Model, EAM).",
-    "ontological_status": "Физикализм (вывод). Теория относится к материализму и пытается растворить дуалистические интуиции, объясняя их как артефакты репрезентационной структуры.",
+    "ontological_status": "Physicalism (Inferred). The theory falls under Materialism and attempts to dissolve dualistic intuitions by explaining them as artifacts of representational structure.",
     "mind_body_relationship": "Разум/феноменальная самость есть результат физических субперсональных процессов в мозге (функциональной интеграции репрезентационных событий). Традиционная проблема соотношения сознания и тела возникает потому, что наш феноменальный опыт коренится в самой репрезентационной структуре сознательного разума.",
-    "primitive_or_emergent_status": "Эмерджентное (вывод). Сознание анализируется как непрерывный процесс, возникающий из сложной функциональной интеграции репрезентационных событий внутри мозга, что согласуется с материалистической эмерджентностью.",
-    "emergence_type": "Слабая эмерджентность (обоснованно). Как материалистическое, репрезентационалистское и функционалистское объяснение, феноменальная самость возникает из сложной физической (нейронной/вычислительной) организации и в принципе имплицитно редуцируема, даже если субъективно ощущается как нередуцируемая из-за структуры само-модели.",
+    "primitive_or_emergent_status": "Emergent (Inferred). Consciousness is analyzed as an ongoing process arising from complex functional integration of representational events within the brain, consistent with materialist emergence.",
+    "emergence_type": "Weak Emergence (Justified). As a materialist, representationalist, and functionalist account, the phenomenal self arises from complex physical (neural/computational) organization and is implicitly reducible in principle, even if subjectively felt as irreducible due to the self-model structure.",
     "subjectivity_and_intentionality": "Субъективность (перспектива от первого лица) объясняется как содержание прозрачной само-модели/EAM. Интенциональность (направленность) присуща феноменальной самости, но сознательное мышление часто остаётся неагентивным (лишённым права вето) , .",
     "qualia_account": "Квалиа (качественное ощущение) объясняются как специфические содержания внутри феноменальной самости/само-модели, возникающие из функциональной интеграции репрезентационных событий , .",
     "ontological_commitments": "Феноменальные самости (как процессы, а не сущности), репрезентационные системы, механизмы функциональной интеграции и Модель эпистемического агента (EAM) , , .",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Философский, функциональный, эмпирический, феноменологический"
   },
   "empirics_and_critiques": {
-    "testability_status": "Эмпирически поддержано, в особенности в отношении неагентивного мышления и изменчивости перспективы от первого лица, на основе психометрических и нейробиологических данных , .",
+    "testability_status": "Empirically supported, particularly concerning non-agentive thought and the variability of the first-person perspective, based on psychometric and neurobiological data , .",
     "known_empirical_interventions_or_tests": [
       "Психометрические исследования практикующих медитацию с акцентом на неэгоические переживания для прояснения самосознания ",
       "Эмпирические исследования, связанные с агентивным контролем и торможением сознательного мышления , "
@@ -55,39 +57,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Вероятно",
+      "stance": "Likely",
       "rationale": "Как функционалистская и репрезентационная теория: если искусственная система способна реализовать необходимую функциональную организацию и сложность для инстанцирования прозрачной само-модели (EAM), она обрела бы сознание , ."
     },
     "survival_beyond_death": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Феноменальная самость определяется как процесс, возникающий из физического субстрата (мозга/репрезентационной структуры). Поскольку не существует действительной «самости» или нематериальной субстанции, сознание прекращается со смертью тела , , ."
     },
     "meaning_and_purpose": {
-      "stance": "Гуманистический/прагматический",
+      "stance": "Humanistic only",
       "rationale": "Сознание каузально необходимо для оптимизации гибких взаимодействий и для возникновения кумулятивной культуры и ответственности, обеспечивая эволюционно выработанный, но не космический смысл ."
     },
     "virtual_immortality": {
-      "stance": "Вероятно",
+      "stance": "Likely",
       "rationale": "Если сознание есть фундаментально функциональная организация репрезентационной системы (само-модели), то совершенное воспроизведение этой функциональной структуры в небиологической среде должно сохранить перспективу от первого лица , ."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Eliminative Materialism / Illusionism",
-        "relationship": "Пересечение"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Overlap"
       },
       {
         "name": "Functionalism",
-        "relationship": "Влияние"
+        "relationship": "Influence"
       },
       {
-        "name": "T. Clark’s Content Hypothesis",
-        "relationship": "Совместимо"
+        "name": "T. Clark's Content Hypothesis",
+        "relationship": "Compatible"
       },
       {
         "name": "Perceptual Reality Monitoring Theory (Lau’s)",
-        "relationship": "Совместимо"
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

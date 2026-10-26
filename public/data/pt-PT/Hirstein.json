@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "A Fusão Mental (Mindmelding) de Hirstein",
     "summary": "William Hirstein argumenta que o principal obstáculo que impede uma explicação física direta da mente consciente é o infundado 'pressuposto da privacidade'. Ao eliminar este pressuposto metafísico — a ideia de que uma pessoa nunca pode experienciar os estados conscientes de outra — fica minada a motivação para criar dualismos vexatórios, panpsiquismos e teorias que reivindicam a insolubilidade.",
-    "associated_thinkers": ["William Hirstein"],
+    "associated_thinkers": [
+      "William Hirstein"
+    ],
     "category": "Materialismo",
     "subcategory": "Neurobiológico",
     "core_identity_tagline": "A consciência explicada pela rejeição da privacidade metafísica",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é um fenómeno físico explicável em termos físicos diretos, desde que se descarte a falsa premissa filosófica da privacidade intrínseca.",
-    "ontological_status": "Fisicalismo / Fisicalismo Redutivo (Inferido: A teoria visa contrariar as ontologias não-fisicalistas ao argumentar a favor de uma explicação inteiramente física e está classificada no Materialismo.)",
+    "ontological_status": "Physicalism / Reductive Physicalism (Inferred: The theory aims to counter non-physicalist ontologies by arguing for a fully physical explanation and is categorized under Materialism.)",
     "mind_body_relationship": "Identidade (Inferida: Ao visar explicar a mente consciente em 'termos físicos diretos', a teoria sustenta fundamentalmente uma posição de identidade mente-cérebro, superando as barreiras conceptuais que motivam o dualismo.)",
-    "primitive_or_emergent_status": "Emergente (Inferido: Enquanto teoria Materialista/Neurobiológica, presume-se que a consciência resulta de processos físicos subjacentes complexos, em vez de ser fundamental.)",
-    "emergence_type": "Emergência Fraca ou Redução (Justificação: O objetivo é mostrar que a consciência pode ser explicada fisicamente e sem resíduo, o que indica que as propriedades são, em princípio, redutíveis ou fracamente emergentes.)",
+    "primitive_or_emergent_status": "Emergent (Inferred: As a Materialist/Neurobiological theory , consciousness is presumed to arise from complex underlying physical processes rather than being fundamental.)",
+    "emergence_type": "Weak Emergence or Reduction (Justification: The goal is to show consciousness can be explained physically and without residue, indicating that the properties are reducible or weakly emergent in principle.)",
     "subjectivity_and_intentionality": "A subjetividade é concebida como plenamente compatível com a explicação fisicalista uma vez rejeitado o 'pressuposto da privacidade' — que cria a ilusão de uma distância metafísica.",
     "qualia_account": "A sensação qualitativa da consciência é fundamentalmente explicada no âmbito de uma explicação fisicalista, uma vez dissolvida a necessidade conceptual de explicações não-físicas (impulsionada pelo pressuposto da privacidade).",
     "ontological_commitments": "Processos físicos e mecanismos neurobiológicos (Inferido: A teoria situa-se na categoria do Materialismo, o que sugere que a realidade física, especificamente o cérebro, é o substrato.)",
@@ -41,7 +43,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico (crítica das barreiras metafísicas) e inferido Neurobiológico/Empírico (enquanto base da explicação positiva, 'diretamente física')."
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptualmente testável, dado que a afirmação principal assenta na refutação de uma premissa filosófica (o 'pressuposto da privacidade'). A testabilidade empírica depende do sucesso da subsequente teoria fisicalista implícita.",
+    "testability_status": "Conceptually testable, as the primary claim relies on refuting a philosophical premise ('assumption of privacy'). Empirical testability relies on the success of the implied subsequent physicalist theory.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "A principal crítica centrar-se-ia provavelmente na questão de saber se a mera identificação do 'pressuposto da privacidade' como o erro basta efetivamente para fechar o hiato explicativo e fornecer uma explicação física completa e detalhada da consciência.",
     "open_questions_and_limitations": "A teoria tem, em última análise, de apresentar a descrição física positiva e detalhada que explica a consciência (por exemplo, correlatos ou mecanismos neurais específicos) uma vez removido o obstáculo filosófico.",
@@ -49,30 +51,42 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Uma vez que a teoria procura uma explicação 'diretamente física' para a consciência e está classificada como Materialismo, não existe qualquer proibição de princípio à criação de uma IA consciente."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A teoria é um modelo Materialista que visa derrotar os dualismos. O Materialismo sustenta que a consciência é unicamente um produto do cérebro biológico, o que significa que cessa com a morte biológica."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanístico",
+      "stance": "Humanistic only",
       "rationale": "As Teorias do Materialismo afirmam, em geral, que embora os seres humanos possam criar sentido e valor para si próprios, não existe qualquer sentido ou propósito cósmico último."
     },
     "virtual_immortality": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Se a consciência é inteiramente explicável em termos físicos (como Hirstein argumenta), então transferir os padrões e as vias neurais completos de uma pessoa preservaria, em princípio, o eu mental na primeira pessoa."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Crítica" },
-      { "name": "Panpsychisms", "relationship": "Crítica" },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Compatível" }
+      {
+        "name": "Dualism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Compatible"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Hirstein’s mindmelding", "year": "" },
+      {
+        "title_with_names": "Hirstein’s mindmelding",
+        "year": ""
+      },
       {
         "title_with_names": "Mindmelding: Consciousness, Neuroscience, and the Mind’s Privacy, William Hirstein",
         "year": 2012

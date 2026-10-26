@@ -21,10 +21,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість визначається не як справжня онтологічна сутність (як зазвичай розуміють), а як оманлива ілюзія, або ілюзія користувача, породжена складними, базовими фізичними процесами мозку.",
-    "ontological_status": "Максималістський фізикалізм",
+    "ontological_status": "Maximalist Physicalism",
     "mind_body_relationship": "Уявлення про психологічні явища (розум) із позиції здорового глузду є радикально хибним і буде цілковито витіснене (усунуте) концептуальною рамкою завершеної нейронауки (станами мозку), а не плавно зведене.",
-    "primitive_or_emergent_status": "Емерджентний",
-    "emergence_type": "Слабка емерджентність (Обґрунтування: теорія постулює, що ілюзія постає зі складних фізичних процесів і явно відкидає потребу в незвідних, таємничих ментальних властивостях, що узгоджується зі слабкою емерджентністю, хоча саме поняття «свідомості» усувається як сутність.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justification: The theory posits that the illusion arises from complex physical processes and explicitly rejects the need for irreducible, mysterious mental properties, consistent with weak emergence, even though the concept of 'consciousness' itself is eliminated as an entity.)",
     "subjectivity_and_intentionality": "Суб'єктивність та інтенційні змісти народної психології є або ілюзорними, або непослідовними й мають бути реконституйовані в межах концептуальної рамки завершеної нейронауки.",
     "qualia_account": "Квалія (якісні риси феноменальної свідомості) відкидаються як ілюзорні та непослідовні, натомість розуміючись як «ілюзії користувача», породжені складними активованими нейронними мережами, які схиляють нас повідомляти про переживання.",
     "ontological_commitments": "Фізичні сутності, описані науковим образом (фізика, хімія, молекулярна біологія та нейрофізіологія). Ментальні сутності здорового глузду заперечуються/усуваються.",
@@ -48,7 +48,7 @@
     "basis_of_belief_or_evidence_type": "Філософське, еволюційне, концептуальне, очікуване емпіричне (опора на майбутню нейронауку)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально перевірне (верифікація залежить від здатності майбутньої завершеної нейронауки цілковито витіснити й замінити народну психологію).",
+    "testability_status": "Conceptually testable (verification is contingent on the ability of future completed neuroscience to entirely displace and replace folk psychology).",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Критики доводять, що теорія не пояснює конкретної реальності суб'єктивного досвіду та квалія. Її критикують за те, що вона або ігнорує емерджентні властивості центральної нервової системи, або імпліцитно зобов'язується до заперечення визначеного змісту думки.",
     "open_questions_and_limitations": "Теорія цілковито спирається на успішне завершення нейронауки для виправдання витіснення народної психології — завдання, ще не досягнуте. Їй важко зробити ототожнення свідомості з нейронною активністю зрозумілим для філософських скептиків.",
@@ -56,19 +56,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Оскільки свідомість є складною ілюзією, породженою фізичними/обчислювальними процесами (адаптацією, що підвищує пристосованість), небіологічний інтелект (ШІ) має бути здатним відтворити ці процеси та інстанціювати кінцеву ілюзію/функціональність у принципі."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Як максималістська матеріалістична теорія, свідомість цілковито пов'язана зі складними фізичними процесами біологічного мозку й припиняється при біологічній смерті."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичне",
+      "stance": "Humanistic only",
       "rationale": "Як теорія матеріалізму, вона не передбачає жодного найвищого сенсу чи мети в космосі; цінність і сенс є людськими конструктами, похідними від еволюційно сформованих здатностей."
     },
     "virtual_immortality": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Якщо свідомість (ілюзія) цілковито пояснюється базовим фізичним та функціональним описом мозку, то досконале дублювання цих станів у небіологічне середовище (завантаження) зберегло б ментальну самість від першої особи."
     }
   },
@@ -76,19 +76,19 @@
     "related_theories": [
       {
         "name": "Functionalism",
-        "relationship": "Перетин"
+        "relationship": "Overlap"
       },
       {
-        "name": "Mind-Brain Identity Theory",
-        "relationship": "Сумісна"
+        "name": "Mind-Brain Identity",
+        "relationship": "Compatible"
       },
       {
-        "name": "Dennett’s Multiple Drafts Model",
-        "relationship": "Розширення"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Extension"
       },
       {
-        "name": "Feser’s Neo-Thomistic Dualism",
-        "relationship": "Критика"
+        "name": "Feser's Neo-Thomistic, Neo-Aristotelian, Common-Sense Dualism",
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

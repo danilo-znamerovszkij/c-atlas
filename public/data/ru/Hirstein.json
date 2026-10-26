@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Слияние разумов Хирштейна",
     "summary": "Уильям Хирштейн доказывает, что главное препятствие, мешающее прямому физическому объяснению сознающего разума, — это необоснованное «допущение приватности». Устраняя это метафизическое допущение — идею о том, что один человек никогда не может переживать сознательные состояния другого, — подрывается мотивация к созданию мучительных дуализмов, панпсихизмов и теорий, провозглашающих неразрешимость.",
-    "associated_thinkers": ["William Hirstein"],
+    "associated_thinkers": [
+      "William Hirstein"
+    ],
     "category": "Материализм",
     "subcategory": "Нейробиологические",
     "core_identity_tagline": "Сознание, объяснённое через отказ от метафизической приватности",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание — это физическое явление, объяснимое в прямых физических терминах при условии, что ложная философская посылка внутренней приватности отвергнута.",
-    "ontological_status": "Физикализм / редуктивный физикализм (выводится: теория стремится противостоять нефизикалистским онтологиям, отстаивая полностью физическое объяснение, и отнесена к материализму.)",
+    "ontological_status": "Physicalism / Reductive Physicalism (Inferred: The theory aims to counter non-physicalist ontologies by arguing for a fully physical explanation and is categorized under Materialism.)",
     "mind_body_relationship": "Тождество (выводится: стремясь объяснить сознающий разум в «прямых физических терминах», теория по сути поддерживает позицию тождества сознания и мозга, преодолевая концептуальные барьеры, мотивирующие дуализм.)",
-    "primitive_or_emergent_status": "Эмерджентное (выводится: как материалистическая / нейробиологическая теория, она полагает, что сознание возникает из сложных базовых физических процессов, а не является фундаментальным.)",
-    "emergence_type": "Слабая эмерджентность или редукция (обоснование: цель — показать, что сознание можно объяснить физически и без остатка, что указывает на сводимость или слабую эмерджентность свойств в принципе.)",
+    "primitive_or_emergent_status": "Emergent (Inferred: As a Materialist/Neurobiological theory , consciousness is presumed to arise from complex underlying physical processes rather than being fundamental.)",
+    "emergence_type": "Weak Emergence or Reduction (Justification: The goal is to show consciousness can be explained physically and without residue, indicating that the properties are reducible or weakly emergent in principle.)",
     "subjectivity_and_intentionality": "Субъективность мыслится как полностью совместимая с физикалистским объяснением, как только отвергнуто «допущение приватности», создающее иллюзию метафизической дистанции.",
     "qualia_account": "Качественное переживание сознания по сути объясняется в рамках физикалистского объяснения, как только растворяется концептуальная нужда в нефизических объяснениях (порождённая допущением приватности).",
     "ontological_commitments": "Физические процессы и нейробиологические механизмы (выводится: теория пребывает в категории материализма, что предполагает, что физическая реальность, в частности мозг, есть субстрат.)",
@@ -41,7 +43,7 @@
     "basis_of_belief_or_evidence_type": "Философское (критика метафизических барьеров) и выводимое нейробиологическое / эмпирическое (как основа для положительного, «прямо физического» объяснения)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально проверяемо, поскольку главное утверждение опирается на опровержение философской посылки («допущения приватности»). Эмпирическая проверяемость зависит от успеха подразумеваемой последующей физикалистской теории.",
+    "testability_status": "Conceptually testable, as the primary claim relies on refuting a philosophical premise ('assumption of privacy'). Empirical testability relies on the success of the implied subsequent physicalist theory.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Главная критика, вероятно, сосредоточилась бы на том, достаточно ли простого выявления «допущения приватности» как ошибки, чтобы действительно закрыть объяснительный разрыв и дать полное, детальное физическое объяснение сознания.",
     "open_questions_and_limitations": "Теория должна в конечном счёте представить детальное положительное физическое описание, объясняющее сознание (например, конкретные нейронные корреляты или механизмы), как только устранено философское препятствие.",
@@ -49,30 +51,42 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Вероятно",
+      "stance": "Likely",
       "rationale": "Поскольку теория ищет «прямо физическое» объяснение сознания и отнесена к материализму, нет принципиального запрета на создание сознательного ИИ."
     },
     "survival_beyond_death": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Теория — это материалистическая модель, нацеленная на победу над дуализмами. Материализм полагает, что сознание есть исключительно продукт биологического мозга, а значит оно прекращается при биологической смерти."
     },
     "meaning_and_purpose": {
-      "stance": "Только гуманистические",
+      "stance": "Humanistic only",
       "rationale": "Материалистические теории обычно утверждают, что, хотя люди могут создавать смысл и ценность для самих себя, никакого предельного космического смысла или цели не существует."
     },
     "virtual_immortality": {
-      "stance": "Да",
+      "stance": "Yes",
       "rationale": "Если сознание всецело объяснимо в физических терминах (как доказывает Хирштейн), то загрузка полных нейронных паттернов и путей человека, в принципе, сохранила бы ментальное «я» от первого лица."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Критика" },
-      { "name": "Panpsychisms", "relationship": "Критика" },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Совместима" }
+      {
+        "name": "Dualism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Panpsychism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Compatible"
+      }
     ],
     "sources_and_references": [
-      { "title_with_names": "Hirstein’s mindmelding", "year": "" },
+      {
+        "title_with_names": "Hirstein’s mindmelding",
+        "year": ""
+      },
       {
         "title_with_names": "Mindmelding: Consciousness, Neuroscience, and the Mind’s Privacy, William Hirstein",
         "year": 2012

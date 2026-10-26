@@ -2,7 +2,11 @@
   "id_and_class": {
     "theory_title": "«Сліпа пляма» Френка/Ґлайзера/Томпсона",
     "summary": "Ця рамка критикує традиційні матеріалістичні та дуалістичні підходи, стверджуючи взаємну першість свідомості й утілення та доводячи, що будь-яке наукове дослідження неминуче відбувається в межах «горизонту свідомості». Вона визначає «важку проблему» як артефакт «сліпої плями» — нездатності визнати незводиму передумову досвіду в пошуку об'єктивної істини — і пропонує радикальний зсув до нейрофеноменології.",
-    "associated_thinkers": ["Adam Frank", "Marcello Gleiser", "Evan Thompson"],
+    "associated_thinkers": [
+      "Adam Frank",
+      "Marcello Gleiser",
+      "Evan Thompson"
+    ],
     "category": "Теорії матеріалізму",
     "subcategory": "Втілені та енактивні",
     "core_identity_tagline": "Свідомість як незводима передумова та втілена дивна петля",
@@ -16,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість ототожнюється з незводимою передумовою наукового знання, що перебуває в межах невідворотного «горизонту», взаємно згорнутого з утіленням.",
-    "ontological_status": "Нередуктивний фізикалізм/феноменологічний реалізм (виведена позиція, оскільки теорія явно відкидає редукціонізм та фізикалізм, але обстоює науково поінформований погляд на основі першості досвіду й утілення. Джерело класифікує її в межах матеріалізму/втілених та енактивних).",
+    "ontological_status": "Non-Reductive Physicalism/Phenomenological Realism (Inferred stance, as the theory explicitly rejects reductionism and physicalism, but advocates a scientifically informed view based on the primacy of experience and embodiment. The source classifies it under Materialism/Embodied and Enactive ).",
     "mind_body_relationship": "Відношення описується як «дивна петля», у якій «першість свідомості» охоплює втілення, а «першість утілення» охоплює свідомість, зумовлюючи інтегрований погляд.",
-    "primitive_or_emergent_status": "Первинна/фундаментальна (свідомість характеризується як «незводима передумова» та «неусувна першість» знання, а не як щось, що виникає послідовно з фізичної матерії, хоча вона є взаємозалежною з утіленням).",
-    "emergence_type": "Незастосовно (теорія відкидає рамку редукціонізму, фізикалізму та об'єктивізму, які зумовлюють традиційні аргументи слабкої чи сильної емерджентності. Відношення є відношенням «згортання»).",
+    "primitive_or_emergent_status": "Primitive/Fundamental (Consciousness is characterized as an 'irreducible precondition' and 'ineliminable primacy' of knowledge, not something that arises sequentially from physical matter, although it is mutually dependent on embodiment ).",
+    "emergence_type": "Not Applicable (The theory rejects the framework of reductionism, physicalism, and objectivism that necessitate traditional weak or strong emergence arguments. The relation is one of 'enfolding' ).",
     "subjectivity_and_intentionality": "Суб'єктивності (досвіду від першої особи) надається «першість», і вона є центральною для теорії, відкидаючи підходи, що прагнуть осягнути свідомість поза цією перспективою (сліпа пляма). Інтенційність імпліцитно інтегрується через пов'язані поняття, як-от нейрофеноменологія.",
     "qualia_account": "Якісна природа досвіду (важка проблема) відкидається як «артефакт сліпої плями», тобто це проблема, вбудована в редуктивну метафізику, і вона не є розв'язною в цих термінах.",
     "ontological_commitments": "Першість свідомості, першість утілення та відношення дивної петлі між ними.",
@@ -34,7 +38,7 @@
     "causation_and_functional_role": "Свідомість слугує необхідним контекстом (горизонтом) та передумовою для набуття знання, включно з науковим знанням. Її функціональна роль укорінена в невіддільному зв'язку між розумом та життєвими процесами."
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально перевірна через застосування нейрофеноменологічних методів, спрямованих на створення нових переживань, що слугують орієнтирами для просування як феноменології, так і нейронауки.",
+    "testability_status": "Conceptually testable through the application of neurophenomenological methods, aiming to produce new experiences that serve as touchstones for advancing both phenomenology and neuroscience.",
     "known_empirical_interventions_or_tests": [
       "Нейрофеноменологія (сплітання досвідних звітів від першої особи з даними мозку від третьої особи)",
       "Досвідні методи від першої особи (наприклад, медитація) для витончення уваги та усвідомлення"
@@ -45,31 +49,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Невизначено",
+      "stance": "Uncertain",
       "rationale": "Теорія розглядає свідомість як внутрішньо пов'язану з утіленим досвідом від першої особи в межах «дивної петлі». Оскільки автори критикують обчислювальний функціоналізм, що лежить в основі більшості підходів до ШІ, незрозуміло, чи могло б саме лише небіологічне обчислення досягти цієї незводимої, утіленої свідомості."
     },
     "survival_beyond_death": {
-      "stance": "Невизначено",
+      "stance": "Uncertain",
       "rationale": "Теорія наголошує на першості утілення, що вказує на пов'язаність свідомості з організмом. Проте її нередуктивна позиція, що підтримує науку на основі першості досвіду, не виключає можливостей виживання, хоча джерела не вказують конкретної позиції."
     },
     "meaning_and_purpose": {
-      "stance": "Внутрішній/екзистенційний",
+      "stance": "Humanistic only",
       "rationale": "Теорія прагне повернути «центральне місце людського досвіду в науковому підприємстві», маючи на увазі, що сенс і цінність фундаментально присутні в незводимій реальності свідомості й досвіду."
     },
     "virtual_immortality": {
-      "stance": "Малоймовірно",
+      "stance": "Unlikely",
       "rationale": "Віртуальне безсмертя спирається на успішну цифровізацію та відтворення ментальних станів (обчислювальний функціоналізм). Оскільки теорія розглядає свідомість як незводиме, утілене явище — «дивну петлю», — вона сильно передбачає, що завантаження розуму було б неможливим через її відкидання базової редукціоністської філософії."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Neurophenomenology", "relationship": "Підтримка/розширення" },
-      { "name": "Embodied and Enactive Theories", "relationship": "Узгодження" },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Support/Extension"
+      },
+      {
+        "name": "Embodied",
+        "relationship": "Alignment"
+      },
       {
         "name": "Reductionism/Physicalism",
-        "relationship": "Критика/відкидання"
+        "relationship": "Critique/Rejection"
       },
-      { "name": "Francisco Varela’s work", "relationship": "Вплив" }
+      {
+        "name": "Francisco Varela’s work",
+        "relationship": "Influence"
+      }
     ],
     "sources_and_references": [
       {

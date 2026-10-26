@@ -20,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência fenoménica (o carácter fenoménico) é identificada com, ou reduzida a, o conteúdo representacional (conteúdo intencional) da experiência.",
-    "ontological_status": "Fisicalismo/materialismo redutivo (a teoria é usada para minar os argumentos contra o fisicalismo).",
+    "ontological_status": "Reductive Physicalism/Materialism (The theory is used to undermine arguments against physicalism).",
     "mind_body_relationship": "Teoria da identidade/reducionismo (o carácter fenoménico é reduzido ao conteúdo intencional, que se pressupõe fisicamente realizado, enquadrando-se no campo materialista).",
-    "primitive_or_emergent_status": "Não primitivo; redutivamente emergente (superveniente ao conteúdo representacional neural)",
-    "emergence_type": "Emergência fraca (a teoria visa mostrar que as propriedades fenoménicas se esgotam inteiramente no conteúdo representacional, ou lhe são redutíveis, o que se alinha com os princípios da emergência fraca/reducionismo).",
+    "primitive_or_emergent_status": "Not primitive; reductively emergent (supervenient on neural representational content)",
+    "emergence_type": "Weak Emergence (The theory aims to show that phenomenal properties are entirely exhausted or reducible to representational content, which aligns with the principles of weak emergence/reductionism).",
     "subjectivity_and_intentionality": "A qualidade fenoménica subjetiva é inteiramente definida e esgotada pelas propriedades sensíveis apresentadas ao sujeito. A intencionalidade (a qualidade de representar objetos externos) é fundamental para o estado consciente.",
     "qualia_account": "Os qualia, ou os traços qualitativos da consciência fenoménica, são ilusórios ou incoerentes se forem tomados como propriedades do estado percetivo para além das suas propriedades representacionais. O carácter fenoménico é reduzido ao conteúdo intencional.",
     "ontological_commitments": "Os objetos externos e as suas propriedades aparentes, os estados percetivos e o conteúdo representacional. A teoria nega explicitamente a existência de propriedades mentais intrínsecas e não representacionais.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Filosófica (argumento baseado na observação fenomenológica e na introspeção)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Concetualmente testável/constrangida fenomenologicamente (o seu principal teste é a consistência da alegação introspetiva, embora os métodos objetivos de falsificação não sejam centrais).",
+    "testability_status": "Conceptually testable/Phenomenologically constrained (Its main test is the consistency of the introspective claim, although objective falsification methods are not central).",
     "known_empirical_interventions_or_tests": "Introspeção (a teoria depende de saber se ‘a introspeção mais determinada alguma vez revela quaisquer dessas propriedades adicionais’). Os casos-problema, como a visão desfocada, são tratados pelos seus defensores.",
     "criticisms_and_tensions": "Os críticos apontam fenómenos como a visão desfocada enquanto potenciais contraexemplos à alegação de que todas as propriedades percecionadas são propriedades externas do objeto. A tese nega a ideia de que as qualidades fenoménicas sejam propriedades independentes do estado mental.",
     "open_questions_and_limitations": "Tem de resolver aparentes inconsistências, tais como o modo como estados internos como a visão desfocada podem ser experienciados se a experiência apenas contém propriedades externas.",
@@ -55,43 +55,43 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Enquanto defesa filosófica das teorias materialistas, apoia a ideia de que a consciência é computacional ou representacional, o que significa que a consciência da IA é, em princípio, absolutamente possível."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A consciência assenta em estados representacionais derivados do cérebro físico. Seguindo o paradigma materialista, a destruição do cérebro implica a inexistência permanente da pessoa."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanista",
+      "stance": "Humanistic only",
       "rationale": "A teoria funciona no sentido de reforçar o materialismo, que tipicamente apenas admite sentido, propósito e valor criados de forma humanista."
     },
     "virtual_immortality": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Se a consciência for inteiramente explicada pelo conteúdo representacional, então essa informação poderia, em teoria, ser duplicada e carregada para um substrato não biológico, tornando alcançável a imortalidade virtual."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Representational Theories",
-        "relationship": "Fundamento"
+        "name": "First-Order",
+        "relationship": "Basis"
       },
       {
         "name": "Intentionalism",
-        "relationship": "Semelhante/Equivalente"
+        "relationship": "Similar/Equivalent"
       },
       {
-        "name": "Materialism Theories",
-        "relationship": "Defesa/Apoio"
+        "name": "Materialism",
+        "relationship": "Defense/Support"
       },
       {
         "name": "Jackson’s Representationalism",
-        "relationship": "Extensão/Apoio"
+        "relationship": "Extension/Support"
       },
       {
         "name": "Amy Kind",
-        "relationship": "Crítica/Refinamento"
+        "relationship": "Critique/Refinement"
       }
     ],
     "sources_and_references": [

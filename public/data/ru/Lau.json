@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Теория мониторинга перцептивной реальности Лау",
     "summary": "Эта эмпирически обоснованная теория более высокого порядка предлагает, что сознательное восприятие происходит, когда определённая репрезентация более высокого порядка (РВП) удостоверяет репрезентацию первого порядка как надёжное отражение внешнего мира. РВП выступает интерфейсом между восприятием и познанием, обеспечивая субъективное чувство обоснованности сознательного опыта.",
-    "associated_thinkers": ["Hakwan Lau"],
+    "associated_thinkers": [
+      "Hakwan Lau"
+    ],
     "category": "Материализм",
     "subcategory": "Репрезентативные",
     "core_identity_tagline": "«Сознание как мониторинг перцептивной реальности»",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание есть функциональный механизм, или интерфейс, между восприятием и познанием, инстанцируемый репрезентациями более высокого порядка, которые отслеживают надёжность и эпистемический статус сенсорных состояний первого порядка.",
-    "ontological_status": "Физикализм / функционализм",
+    "ontological_status": "Physicalism / Functionalism",
     "mind_body_relationship": "Сознание тождественно конкретной функциональной активности нейронных механизмов более высокого порядка (вероятно, в префронтальной коре), отслеживающих сенсорные репрезентации первого порядка. Это материалистическое объяснение, основанное на функции мозга.",
-    "primitive_or_emergent_status": "Эмерджентный",
-    "emergence_type": "Слабая эмерджентность. Сознание есть функция, возникающая из конкретных сложных организационных структур (РВП) в мозге, что предполагает, что оно объяснимо или сводимо в принципе, в согласии с его материалистической классификацией.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consciousness is a function arising from specific complex organizational structures (HORs) in the brain, suggesting it is explainable or reducible in principle, consistent with its materialist classification.",
     "subjectivity_and_intentionality": "Субъективность возникает из связи сознания с формированием убеждений и эпистемической обоснованностью на субъективном уровне. Интенциональность несётся перцептивной репрезентацией первого порядка, которая отслеживается.",
     "qualia_account": "Субъективное «каково это» объясняется тем, что репрезентации более высокого порядка получают доступ к более богатым аналоговым перцептивным сигналам нижнего уровня. Аналоговая природа этих сигналов определяет субъективное сходство относительно других возможных переживаний.",
     "ontological_commitments": "Перцептивные репрезентации первого порядка, отслеживающие репрезентации более высокого порядка (РВП) и конкретные нейронные механизмы, локализованные преимущественно в префронтальной коре.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Эмпирический/когнитивно-нейронаучный, функционалистский"
   },
   "empirics_and_critiques": {
-    "testability_status": "Эмпирически проверяема путём картирования и сравнения нейронных коррелятов сознательного восприятия и сенсорной метапознания, а также через предсказательную силу относительно феноменов слепозрения.",
+    "testability_status": "Empirically testable by mapping and comparing the neural correlates of conscious perception and sensory metacognition, and through the predictive power regarding blindsight phenomena.",
     "known_empirical_interventions_or_tests": [
       "Нейровизуализационные исследования, коррелирующие префронтальную/теменную активность с сенсорной метапознанием и сознательным восприятием."
     ],
@@ -53,39 +55,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Вероятно",
+      "stance": "Likely",
       "rationale": "Как функционалистская теория, сознание зависит от реализации правильной информационной/функциональной архитектуры (механизма РВП). Если эту архитектуру можно инстанцировать в роботе или компьютерной программе, искусственное сознание возможно."
     },
     "survival_beyond_death": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Сознание явно связано с конкретными, специализированными нейронными механизмами, локализованными в биологическом мозге (например, префронтальной коре), не оставляя места для сохранения после биологической смерти."
     },
     "meaning_and_purpose": {
-      "stance": "Только гуманистические",
+      "stance": "Humanistic only",
       "rationale": "Основная роль механизма функциональна (различение реальности и фантазии и направление информации). Он не предлагает никакой космической или предельной цели помимо адаптивных преимуществ, придаваемых этим биологическим механизмом."
     },
     "virtual_immortality": {
-      "stance": "Вероятно",
+      "stance": "Likely",
       "rationale": "Если конкретную функциональную и информационную архитектуру, включая аналоговую природу репрезентаций, можно совершенно загрузить и запустить на небиологическом субстрате, ментальная самость от первого лица была бы сохранена, поскольку сознание определяется этой функциональной структурой."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Theories",
-        "relationship": "Конкретный случай/расширение"
+        "name": "Higher-Order",
+        "relationship": "Specific Instance/Extension"
       },
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Критика (позиционируется как превосходящая промежуточная альтернатива)"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Critique (Positioned as a superior intermediate alternative)"
       },
       {
-        "name": "Recurrent Processing Theory",
-        "relationship": "Критика (позиционируется как превосходящая промежуточная альтернатива)"
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Critique (Positioned as a superior intermediate alternative)"
       },
       {
-        "name": "Graziano’s Attention Schema Theory",
-        "relationship": "Совместима (разделяет функционалистский/когнитивный подход к объяснению притязаний на сознание)"
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "Compatible (Shares a functionalist/cognitive approach to explaining conscious claims)"
       }
     ],
     "sources_and_references": [

@@ -19,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание (феноменальное сознание/квалиа) отождествляется с нейронным коррелятом сознания (NCC) — точным минимальным паттерном нейронной активности в мозге, необходимым и достаточным для субъективного переживания.",
-    "ontological_status": "Редуктивный физикализм/материализм. Подход NCC считается макроскопическим материализмом.",
+    "ontological_status": "Reductive Physicalism/Materialism. The NCC approach is considered macroscopic materialism.",
     "mind_body_relationship": "Теория тождества. Ментальные состояния всецело тождественны физическим состояниям NCC и полностью ими объясняются.",
-    "primitive_or_emergent_status": "Эмерджентный",
-    "emergence_type": "Слабая эмерджентность. В согласии с редуктивно-материалистической позицией, где сознание, как продукт биологического мозга, в принципе объяснимо законами физики более низкого уровня, даже если явная связь в настоящее время ускользает.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consistent with a reductive materialist position where consciousness, as a product of the biological brain, is in principle explainable by lower-level physical laws, even if the explicit link is currently elusive.",
     "subjectivity_and_intentionality": "Субъективность (внутреннее осознавание) и феноменальный опыт напрямую коррелируют с выявленным NCC или тождественны ему. Интенциональность аналогичным образом объяснялась бы физическими процессами, составляющими NCC.",
     "qualia_account": "Квалиа (качественное переживание опыта) отождествляются с минимальными нейронными активностями (NCC), которые совместно достаточны для конкретного сознательного восприятия, хотя механизм этого тождества остаётся центральным вызовом «трудной проблемы».",
     "ontological_commitments": "Биологические мозги, нейроны, электрофизиологическая активность (спайки), потоки нейрохимических медиаторов и конкретные рекуррентные мозговые контуры.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Эмпирический, научный, нейробиологический"
   },
   "empirics_and_critiques": {
-    "testability_status": "Эмпирически проверяема. Поиск NCC определяется как научная программа, ищущая проверяемые биологические основания сознания.",
+    "testability_status": "Empirically testable. The search for the NCC is defined as a scientific program seeking testable biological bases for consciousness.",
     "known_empirical_interventions_or_tests": [
       "Выявление конкретных скоплений нейронов или областей мозга (таких как клауструм или задняя кора), активных во время сознательного опыта.",
       "Измерение электрофизиологической активности (например, потенциалов действия и нейронных контуров)."
@@ -58,35 +58,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Да",
+      "stance": "Yes",
       "rationale": "Если сознание целиком сводимо к физическим организационным паттернам (NCC), то небиологические системы, способные воспроизвести эти точные паттерны, также должны стать сознательными, за исключением технологических ограничений."
     },
     "survival_beyond_death": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Как материалистическая теория, сознание всецело зависит от физического мозга; прекращение функции мозга влечёт за собой конец сознания."
     },
     "meaning_and_purpose": {
-      "stance": "Только гуманистический",
+      "stance": "Humanistic only",
       "rationale": "В согласии с материализмом, сознание есть биологический продукт эволюции и физики, не придающий никакого предельного космического смысла или телеологии сверх того, что люди создают для себя сами."
     },
     "virtual_immortality": {
-      "stance": "Да",
+      "stance": "Yes",
       "rationale": "Если состояния NCC могут быть идеально измерены и воспроизведены в цифровом или искусственном носителе (загрузка разума), то результирующая система была бы функционально и феноменально тождественной, достигая виртуального бессмертия в принципе."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Recurrent Processing Theory (Lamme)",
-        "relationship": "Пересечение"
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Overlap"
       },
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Пересечение/контраст"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Overlap/Contrast"
       },
       {
         "name": "Integrated Information Theory",
-        "relationship": "Контраст"
+        "relationship": "Contrast"
       }
     ],
     "sources_and_references": [

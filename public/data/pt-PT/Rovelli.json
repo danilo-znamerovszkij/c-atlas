@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "A Física Relacional de Rovelli",
     "summary": "Esta teoria adota uma visão deflacionária do problema difícil, ao sustentar que a consciência é suficientemente explicada pelo aspeto profundamente relacional da física, sobretudo a mecânica quântica e a relatividade geral. A física, quando corretamente entendida como perspetival — descrevendo o modo como as entidades se manifestam umas às outras —, dissolve a aparente incompatibilidade entre o mundo físico e a experiência subjetiva.",
-    "associated_thinkers": ["Carlo Rovelli"],
+    "associated_thinkers": [
+      "Carlo Rovelli"
+    ],
     "category": "Teorias Quânticas",
     "subcategory": "Física Relacional",
     "core_identity_tagline": "‘A Consciência como Realidade Perspetival’",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência, ou os 'pensamentos', é explicada pelas manifestações relacionais, dependentes da perspetiva, de sistemas físicos em interação, o que é suficiente no âmbito da descrição fornecida pela física moderna.",
-    "ontological_status": "Fisicalismo/Monismo Relacional (Justificação: a teoria procura explicar plenamente a consciência dentro de uma visão alargada da física, sugerindo uma realidade fundamentalmente física mas relacional que sustenta uma forma muito ténue de panpsiquismo.)",
+    "ontological_status": "Relational Physicalism/Monism (Justification: The theory seeks to fully account for consciousness within an expanded view of physics, suggesting a fundamentally physical yet relational reality that supports a very mild form of panpsychism.)",
     "mind_body_relationship": "Identidade/suficiência deflacionária. Quando a realidade é descrita como uma teia de sistemas em interação, a discrepância entre o mental e o físico parece muito menos dramática, sugerindo uma correlação profunda em que a física é suficiente para explicar os pensamentos.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência Fraca/Deflacionária (Justificação: a consciência é explicada pelas propriedades suficientes de sistemas físicos complexos em interação, o que se alinha com os princípios da emergência fraca, mesmo que o resultado seja subjetivamente profundo.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence/Deflationary (Justification: Consciousness is accounted for by the sufficient properties of complex, interacting physical systems, which aligns with the principles of weak emergence, even if the result is subjectively profound.)",
     "subjectivity_and_intentionality": "A subjetividade é explicada porque a realidade física é inerentemente perspetival, ou seja, é sempre descrita relativamente a um sistema físico. Esta natureza inerentemente perspetival faz paralelo com o fluxo privado da consciência. A intencionalidade não é explicitamente abordada, mas está implicitamente coberta como característica da interação de sistemas complexos.",
     "qualia_account": "A incompatibilidade entre a física em terceira pessoa e a experiência em primeira pessoa (qualia) dissolve-se ao afirmar-se que a física é relacional, logo específica de cada observador, o que torna os dois lados menos discrepantes.",
     "ontological_commitments": "Sistemas físicos (simples e complexos), relações, perspetivas e os campos e partículas fundamentais da física moderna.",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico; Conceptual; Princípios da Mecânica Quântica Relacional."
   },
   "empirics_and_critiques": {
-    "testability_status": "Especulativa/Conceptual. (Justificação: a teoria centra-se sobretudo num reenquadramento conceptual e fundacional da física, em vez de propor testes empíricos específicos para a consciência, embora os defensores da física relacional possam procurar confirmações mais amplas.)",
+    "testability_status": "Speculative/Conceptual. (Justification: The theory focuses primarily on a foundational conceptual re-framing of physics rather than proposing specific empirical tests for consciousness, though proponents of relational physics might seek broader confirmations.)",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Os críticos assinalam que, mesmo que a física seja relacional, a experiência subjetiva não parece necessariamente relacional, e esta visão pode não conseguir explicar plenamente os aspetos subjetivos e qualitativos da consciência.",
     "open_questions_and_limitations": "A teoria exige aceitar uma resolução deflacionária do problema difícil, confiando em que a suficiência da física relacional para explicar os pensamentos resolve o mistério da experiência subjetiva.",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Se a consciência (os pensamentos) é plenamente explicada pela interação de sistemas físicos complexos descrita relacionalmente, então qualquer sistema artificial suficientemente complexo cujo funcionamento seja regido por estas leis físicas alcançaria a consciência."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A teoria rejeita explicitamente que a consciência desempenhe um papel especial e íntimo na mecânica quântica e explica os pensamentos através de sistemas físicos complexos. Por conseguinte, a consciência está ligada à existência do sistema físico (por exemplo, o cérebro), que se dissolve com a morte."
     },
     "meaning_and_purpose": {
-      "stance": "Improvável/Apenas humanístico",
+      "stance": "Humanistic only",
       "rationale": "O foco recai sobre a descrição do modo como a realidade se estrutura através de relações. Embora os sistemas emergentes complexos (os humanos) possam criar sentido, a realidade física fundamental descrita pela física relacional não oferece qualquer teleologia cósmica ou propósito último."
     },
     "virtual_immortality": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Dado que a consciência é explicada pela estrutura e pela interação de sistemas físicos, a duplicação ou simulação precisa destes estados físicos relacionais complexos num substrato artificial deveria alcançar a imortalidade virtual, desde que a tecnologia seja suficientemente avançada."
     }
   },
@@ -70,15 +72,15 @@
     "related_theories": [
       {
         "name": "Panpsychism",
-        "relationship": "Compatível (apoia uma 'forma muito ténue')"
+        "relationship": "Compatible (Supports a 'very mild form')"
       },
       {
-        "name": "Stapp’s Collapsing the Wave Function via Asking “Questions”",
-        "relationship": "Crítica (Rovelli argumenta contra a atribuição à consciência de um papel especial no colapso da mecânica quântica.)"
+        "name": "Stapp's Collapsing the Wave Function via Asking \"Questions\"",
+        "relationship": "Critique (Rovelli argues against consciousness having a special role in quantum mechanics' collapse.)"
       },
       {
-        "name": "Musser’s 'Is It Really So Hard?'",
-        "relationship": "Influência (Musser cita com aprovação a abordagem relacional de Rovelli.)"
+        "name": "Musser's \"Is It Really So Hard?\"",
+        "relationship": "Influence (Musser approvingly quotes Rovelli’s relational approach.)"
       }
     ],
     "sources_and_references": [

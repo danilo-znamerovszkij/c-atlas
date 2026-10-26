@@ -20,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "O carácter fenoménico (Q) é identificado como uma e a mesma coisa que uma propriedade física (R), em que R pode incluir estados funcionais ou estados postulados pelo representacionalismo. Esta identidade vigora apenas de forma contingente no nosso mundo.",
-    "ontological_status": "Fisicalismo redutivo (entendido em sentido amplo, de modo a incluir o funcionalismo e o representacionalismo), embora Tye tenha posteriormente manifestado distanciamento em relação a um fisicalismo redutivo integral.",
+    "ontological_status": "Reductive Physicalism (broadly construed to include functionalism and representationalism), although Tye later expressed distance from thoroughgoing reductive physicalism.",
     "mind_body_relationship": "Teoria da identidade contingente. Os estados mentais (sensações) são literalmente idênticos a estados físicos/processos cerebrais, mas esta identidade é um facto contingente, e não uma necessidade em todos os mundos possíveis.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "A subjetividade e o carácter fenoménico são reduzidos a, ou identificados com, o conteúdo representacional (representacionalismo de primeira ordem). O carácter fenoménico é fixado não só pelos estados atuais mas também pelos estados passados (‘a história importa de forma crucial para a fenomenologia’).",
     "qualia_account": "O carácter qualitativo (Q) é idêntico a uma propriedade física (R). A capacidade de imaginar Q sem R (zombies) é reconhecida como inteligível, mas descartada como irrelevante, pois descreve apenas um mundo metafisicamente possível, e não o mundo real, resolvendo assim o hiato explicativo.",
     "ontological_commitments": "Estados físicos de algum tipo, abrangendo estados neurofisiológicos, estados funcionais e conteúdos representacionais, que assentam em estados microfísicos.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico, concetual"
   },
   "empirics_and_critiques": {
-    "testability_status": "Especulativo/concetual. A alegação central assenta em argumentos filosóficos modais sobre identidade e necessidade, e não na falsificação ou verificação empírica da própria identidade.",
+    "testability_status": "Speculative/Conceptual. The central claim relies on modal philosophical arguments about identity and necessity rather than empirical falsification or verification of the identity itself.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "O princípio fundamental assenta em sustentar que a identidade dos estados conscientes é contingente, ao passo que outros enunciados de identidade científica são necessários, o que os críticos poderão contestar. O argumento reconhece a concebibilidade dos zombies filosóficos, negando ao mesmo tempo a sua relevância para o mundo real.",
     "open_questions_and_limitations": "Tye acabou por manifestar dúvidas quanto a um fisicalismo redutivo integral, considerando que um elemento da consciência não pode ser captado por reduções de nível superior, o que o encaminhou para uma forma de panpsiquismo.",
@@ -55,35 +55,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Se a consciência for contingentemente idêntica a estados físicos/funcionais/representacionais no nosso mundo, e se esses estados puderem ser instanciados em sistemas não biológicos, então a consciência da IA é, em princípio, possível."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A consciência é contingente relativamente a, e idêntica a, processos cerebrais físicos no mundo real; a dissolução do cérebro implica o fim do eu consciente na primeira pessoa."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanista",
+      "stance": "Humanistic only",
       "rationale": "Enquanto teoria enraizada no materialismo e no fisicalismo redutivo, não oferece fundamento para um sentido ou propósito cósmico último para além do que é criado por agentes humanos conscientes."
     },
     "virtual_immortality": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Uma vez que a consciência fenoménica é identificada com estados físicos (R), duplicar R, por exemplo através do carregamento digital, carregaria com sucesso Q, tornando a imortalidade virtual, em princípio, alcançável."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "First-Order Representationalism",
-        "relationship": "Compatível"
+        "name": "First-Order",
+        "relationship": "Compatible"
       },
       {
-        "name": "Mind-Brain Identity Theory",
-        "relationship": "Influência"
+        "name": "Mind-Brain Identity",
+        "relationship": "Influence"
       },
       {
-        "name": "Panpsychisms",
-        "relationship": "Extensão/Desvio"
+        "name": "Panpsychism",
+        "relationship": "Extension/Shift"
       }
     ],
     "sources_and_references": [

@@ -20,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Феноменальні аспекти перцептивних переживань є одним і тим самим, що й зовнішні, реальні властивості, як такі, що досвід репрезентує об'єкти як їх маючими.",
-    "ontological_status": "Фізикалізм",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Теорія тотожності/редукціоністська кореляція. Ментальні стани ототожнюються з репрезентаціями, реалізованими в мозкових станах, які набувають специфічних інформаційних функцій.",
-    "primitive_or_emergent_status": "Емерджентна",
-    "emergence_type": "Слабка емерджентність",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Інтенційність (спрямованість думки) є первинною. Суб'єктивність цілком визначається репрезентаційним змістом, оскільки сенсорні репрезентації є безпосередньо доступними суб'єкту.",
     "qualia_account": "Квалія (феноменальний характер) ототожнюються з репрезентаційним змістом (сильний репрезентаціоналізм) або зовнішніми властивостями, репрезентованими досвідом, тим самим розв'язуючи важку проблему через редуктивне пояснення.",
     "ontological_commitments": "Ментальні репрезентації, мозкові стани, що набувають інформаційних функцій, сенсорні/перцептивні контури.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Філософський (концептуальна редукція, фокус на інтенційності) та емпіричний (нейронаукові кореляційні дані)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Емпірично перевірна",
+    "testability_status": "Empirically testable",
     "known_empirical_interventions_or_tests": [
       "Картування нейронних корелятів загальної та специфічної свідомості (сенсорна кора, ядра таламуса)",
       "Дослідження, що корелюють свідомість із глобальним транслюванням змісту першого порядку"
@@ -58,39 +58,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Як матеріалістична теорія, у якій свідомість залежить від інформаційного змісту та функціональної архітектури, штучні системи могли б реалізувати свідомість, якщо вони втілюють необхідні репрезентаційні структури та інформаційні функції."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Свідомість цілком реалізується фізичними мозковими процесами; виживання після знищення біологічного субстрату виключається."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичний",
+      "stance": "Humanistic only",
       "rationale": "Як теорія матеріалізму, вона не обґрунтовує жодного граничного космічного сенсу чи мети, лише сенс, породжений самими свідомими агентами."
     },
     "virtual_immortality": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Якщо самість від першої особи цілком охоплюється репрезентаційним змістом та інформаційними станами, досконале дублювання (завантаження) цих станів у небіологічне середовище мало б зберегти первісну ментальну самість."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Theories",
-        "relationship": "Критика/контраст"
+        "name": "Higher-Order",
+        "relationship": "Critique/Contrast"
       },
       {
-        "name": "Recurrent Processing Theory",
-        "relationship": "Розширення/перекриття"
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Extension/Overlap"
       },
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Сумісна/перекриття"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Compatible/Overlap"
       },
       {
         "name": "Transparency Thesis",
-        "relationship": "Вплив"
+        "relationship": "Influence"
       }
     ],
     "sources_and_references": [

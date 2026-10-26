@@ -2,18 +2,26 @@
   "id_and_class": {
     "theory_title": "Stumps thomistisch dualisme",
     "summary": "Deze theorie presenteert de opvatting van de heilige Thomas van Aquino over de menselijke ziel als een niet-cartesiaanse vorm van dualisme. Zij poneert de ziel als een wezenlijk immateriële of configurationele component die niettemin binnen materiële componenten wordt gerealiseerd, waardoor de menselijke materialiteit verzoend kan worden met het voortbestaan van de geest na de lichamelijke dood.",
-    "associated_thinkers": ["Eleonore Stump", "St. Thomas Aquinas"],
+    "associated_thinkers": [
+      "Eleonore Stump",
+      "St. Thomas Aquinas"
+    ],
     "category": "Dualismen",
     "subcategory": "Filosofisch",
     "core_identity_tagline": "Niet-cartesiaanse immateriële ziel gerealiseerd in materie",
-    "classification_tags": ["dualism", "thomism", "non-Cartesian", "soul"]
+    "classification_tags": [
+      "dualism",
+      "thomism",
+      "non-Cartesian",
+      "soul"
+    ]
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Het bewustzijn, of de menselijke ziel/geest, is een wezenlijk immateriële of configurationele substantie die wordt gerealiseerd in materiële componenten (het lichaam).",
-    "ontological_status": "Substantiedualisme (niet-cartesiaanse/thomistische variant)",
+    "ontological_status": "Substance Dualism (Non-Cartesian/Thomistic Variant)",
     "mind_body_relationship": "De immateriële ziel/geest wordt gerealiseerd in materiële componenten, en verzoent zowel de materiële natuur van de persoon ('stof zijt gij') als het voortbestaan van de geest na de dood ('de geest zal terugkeren tot God').",
     "primitive_or_emergent_status": "Emergent",
-    "emergence_type": "Sterke emergentie/niet-reductief (Rechtvaardiging: de ziel wordt beschreven als iets dat een immateriële essentie behoudt die onafhankelijk van het lichaam voortbestaat, wat aangeeft dat zij niet volledig herleidbaar is tot de materiële processen waaruit zij voortkomt.)",
+    "emergence_type": "Strong Emergence/Non-reductive (Justification: The soul is described as retaining an immaterial essence that persists independently of the body, indicating that it is not fully reducible to the material processes from which it arises.)",
     "subjectivity_and_intentionality": "Subjectiviteit en intentionaliteit zijn fundamenteel gezeteld in de immateriële/configurationele ziel, zoals blijkt uit haar vermogen om als geest voort te bestaan na de lichamelijke ontbinding.",
     "qualia_account": "Qualia worden geassocieerd met de eigenschappen van de immateriële/configurationele zielscomponent die in het materiële lichaam wordt gerealiseerd.",
     "ontological_commitments": "Materieel lichaam (onderhevig aan ontbinding, zoals 'stof') en een wezenlijk immateriële of configurationele ziel/geest die in staat is tot onafhankelijk bestaan.",
@@ -37,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filosofisch en theologisch"
   },
   "empirics_and_critiques": {
-    "testability_status": "Grotendeels conceptueel, gericht op filosofische coherentie en metafysische consistentie met religieuze leerstellingen omtrent leven en dood.",
+    "testability_status": "Largely conceptual, focusing on philosophical coherence and metaphysical consistency with religious doctrines regarding life and death.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Zij tracht de gangbare filosofische kritiek te ondervangen dat het traditionele cartesiaanse dualisme breed als onjuist of incoherent wordt beschouwd, met name wat betreft het interactieprobleem.",
     "open_questions_and_limitations": "Het precieze mechanisme waardoor een immateriële/configurationele essentie in materiële componenten wordt 'gerealiseerd', en hoe deze essentie het bewustzijn na de dood in stand houdt, wordt door het bronmateriaal ongedefinieerd gelaten.",
@@ -45,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Voorwaardelijk",
+      "stance": "Conditional",
       "rationale": "Indien het bewustzijn verbonden is met een wezenlijk immateriële of configurationele ziel die in biologische materie wordt gerealiseerd, zouden kunstmatige systemen die uitsluitend uit fysieke componenten zijn opgebouwd waarschijnlijk dit noodzakelijke niet-fysieke bestanddeel ontberen, tenzij de psychofysische wetten die de ziel voortbrengen ook op niet-biologische substraten van toepassing zouden kunnen zijn."
     },
     "survival_beyond_death": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "De theorie is expliciet geconstrueerd om het voortbestaan van de geest/ziel, die de zetel is van het bewustzijn van de persoon, na de ontbinding van het lichaam te accommoderen."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/Theologisch",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Het kader is geworteld in de christelijke scholastieke filosofie en integreert bijbelse leerstellingen over de schepping en de terugkeer van de geest tot God, en verschaft daarmee uiteindelijke zin en doel."
     },
     "virtual_immortality": {
-      "stance": "Nee",
+      "stance": "No",
       "rationale": "Als variant van het substantiedualisme die een niet-fysieke substantie (de ziel) vereist, zou het dupliceren van uitsluitend de fysieke structuur (zoals bij virtuele onsterfelijkheid) het essentiële niet-fysieke bestanddeel weglaten dat noodzakelijk is voor de continuïteit van het zelf."
     }
   },
@@ -65,14 +73,14 @@
     "related_theories": [
       {
         "name": "Property Dualism",
-        "relationship": "Onderscheid (Terwijl het eigenschapsdualisme het substantiedualisme ontkent, tracht het thomistisch dualisme de traditionele tweedeling tussen substantie en materieel reductionisme te overstijgen.)"
+        "relationship": "Distinction (While property dualism denies substance dualism, Thomistic dualism seeks to transcend the traditional dichotomy between substance and material reductionism.)"
       },
       {
-        "name": "Substance Dualism (Cartesian)",
-        "relationship": "Kritiek"
+        "name": "Dualism",
+        "relationship": "Critique"
       },
       {
-        "name": "Jaworski’s Hylomorphism",
+        "name": "Jaworski's Hylomorphism",
         "relationship": "Overlap"
       }
     ],

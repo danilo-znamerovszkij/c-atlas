@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "Душа в корінних релігіях",
     "summary": "Ця категорія збирає розмаїті поняття душі, наявні в корінних і народних релігіях по всьому світу. Ці вірування зазвичай передбачають численні, нефізичні компоненти душі, деякі з яких, як вважається, зникають при смерті, тоді як інші зберігаються, відображаючи аспекти традиційного дуалізму.",
-    "associated_thinkers": ["Claude Rivière", "Stevan Harrell"],
+    "associated_thinkers": [
+      "Claude Rivière",
+      "Stevan Harrell"
+    ],
     "category": "Дуалізми",
     "subcategory": "Душа в корінних релігіях",
     "core_identity_tagline": "Численні, повсюдні, стійкі в часі вірування в душу",
@@ -16,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість, або «самість», ототожнюється з такою, що походить від однієї чи кількох духовних або нефізичних субстанцій душі чи складається з них, відмінних від фізичного тіла.",
-    "ontological_status": "Традиційний дуалізм/полі-аспектний спіритуалізм. Ці системи постулюють кілька відмінних, фундаментальних категорій існування (духовну/душу та матеріальну/тіло).",
+    "ontological_status": "Traditional Dualism/Poly-aspect Spiritualism. These systems posit multiple distinct, fundamental categories of existence (spiritual/soul and material/body).",
     "mind_body_relationship": "Складна, часто часткова, дуалістична взаємодія/кореляція. Компонент душі інформує чи оживлює тіло, але певні компоненти душі можуть переживати фізичне тіло або передіснувати щодо нього, що вказує на незалежність.",
-    "primitive_or_emergent_status": "Первинний",
-    "emergence_type": "Незастосовно. Оскільки душа часто описується як передіснуюча або похідна від творця, вона вважається фундаментальною сутністю, а не такою, що емерджує з матеріальних процесів.",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "N/A. Since the soul is often described as pre-existing or derived from a creator, it is considered a fundamental entity rather than emerging from material processes.",
     "subjectivity_and_intentionality": "Суб'єктивність та інтенційність є властивими самій нефізичній сутності душі, яка часто, як вважається, обирає долю (наприклад, традиція еве) або визначає особовість.",
     "qualia_account": "Явно не означено. Фокус — на існуванні та збереженні сутності душі, з чого випливає, що якісний досвід є властивою характеристикою духовного компонента.",
     "ontological_commitments": "Фізичне тіло та численні нефізичні субстанції душі (наприклад, різні типи душі, дихання життя, розвтілені духи).",
@@ -43,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Антропологічні дані, релігійна традиція, культурна історія."
   },
   "empirics_and_critiques": {
-    "testability_status": "Спекулятивна/антропологічна. Як давні системи вірувань, ці поняття не підлягають сучасним науковим методам експериментування чи фальсифікації.",
+    "testability_status": "Speculative/Anthropological. As ancient belief systems, these concepts are not subject to modern scientific methods of experimentation or falsification.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Часто категоризуються панівними дослідниками як «домодерні» чи «донаукові» через брак філософської витонченості чи емпіричного обґрунтування. Не висувається тверджень, що ці вірування строго підтверджують сучасний філософський дуалізм.",
     "open_questions_and_limitations": "Відношення між різними аспектами душі та феноменальною свідомістю означено нечітко. Модель не пропонує каузального механізму, сумісного із сучасною фізикою, щоб пояснити взаємодію.",
@@ -51,35 +54,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Свідомість вимагає духовного компонента (душі/духу), похідного від нефізичних джерел чи творця, якого штучним системам за своєю суттю бракувало б."
     },
     "survival_beyond_death": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Посмертне виживання є центральною рисою, оскільки постулюється, що кілька компонентів душі зберігаються після смерті біологічного тіла."
     },
     "meaning_and_purpose": {
-      "stance": "Космічний/екзистенційний",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Ці системи вірувань спричиняють граничний сенс, постулюючи передіснування, духовне походження від творця та всеохопну структуру, що керує індивідуальною долею."
     },
     "virtual_immortality": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Безсмертя досягається через збереження первісної духовної душі й не може бути здобуте через технологічне дублювання чи симуляцію функціональних патернів фізичного тіла."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Substance Dualism",
-        "relationship": "Перетин"
+        "name": "Dualism",
+        "relationship": "Overlap"
       },
       {
         "name": "Historical and Traditional Dualisms",
-        "relationship": "Сумісна"
+        "relationship": "Compatible"
       },
       {
         "name": "Soul in Islamic Philosophy",
-        "relationship": "Перетин"
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

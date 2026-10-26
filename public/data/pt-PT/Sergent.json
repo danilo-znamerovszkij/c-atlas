@@ -1,0 +1,94 @@
+{
+  "id_and_class": {
+    "theory_title": "O Recreio Global de Sergent",
+    "summary": "Claire Sergent argumenta que o acesso consciente é atrasado e pode dessincronizar-se da entrada sensorial, pelo que o cérebro pode trazer um estímulo à consciência «offline», depois de ele ter desaparecido, se este se tornar relevante. Revê o modelo do espaço de trabalho neuronal global: as representações sensoriais são primeiro partilhadas por um vasto «recreio global» de áreas cerebrais, que se transforma num espaço de trabalho global completo quando uma tarefa recruta a tomada de decisão.",
+    "associated_thinkers": [
+      "Claire Sergent"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "A consciência como acesso global temporalmente flexível",
+    "classification_tags": [
+      "global workspace",
+      "conscious access",
+      "retro-perception",
+      "timing",
+      "attention"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é acesso consciente: partilha global de informação entre redes cerebrais, que não tem de seguir a ordem em tempo real dos acontecimentos externos.",
+    "ontological_status": "Physicalism (functionalist)",
+    "mind_body_relationship": "O acesso consciente é um padrão de atividade cerebral de larga escala, tal como no modelo do espaço de trabalho neuronal global que ela alarga.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence, from information sharing among brain networks.",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "",
+    "ontological_commitments": "Redes corticais distribuídas, representações sensoriais mantidas durante várias centenas de milissegundos e processos de tomada de decisão que as recrutam.",
+    "epistemic_access": "Experiências comportamentais sobre a temporização da consciência, EEG, MEG, registos intracranianos e fMRI em adultos saudáveis e em doentes com perturbações da consciência.",
+    "constituents_and_structure": "Dois níveis: um recreio global onde as representações sensoriais são partilhadas e mantidas sem agenda específica, e um espaço de trabalho global formado quando os processos de decisão orientados por tarefas se lhe juntam."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Consciência de acesso, sobretudo a sua temporização.",
+    "distinctive_mechanism_or_principle": "Acesso consciente offline: a informação mantida no recreio global pode entrar na consciência mais tarde, quando a atenção ou a relevância o exigem.",
+    "dynamics_of_emergence": "O acesso consciente fica atrás da estimulação e pode ser desencadeado depois de o estímulo desaparecer, pelo que a experiência não tem de espelhar a sequência dos acontecimentos no mundo.",
+    "location_and_distribution": "Uma ampla rede de áreas cerebrais entre as quais as representações sensoriais são partilhadas, um subconjunto do espaço de trabalho global.",
+    "causation_and_functional_role": "Sergent sugere que a capacidade de processar informação offline tornou o processamento consciente digno de ter, apesar da sua lentidão e capacidade limitada.",
+    "integration_or_binding": "A informação é integrada dinamicamente ao longo do tempo de acordo com o contexto e a relevância.",
+    "information_flow_or_representation": "As representações sensoriais são mantidas durante várias centenas de milissegundos no recreio, oferecendo mais opções cognitivas do que o processamento inconsciente automático, e são difundidas de forma mais plena quando uma tarefa o exige.",
+    "evolutionary_account": "O processamento offline teria tornado adaptativo um acesso consciente lento e de capacidade limitada.",
+    "core_claims_and_evidence": [
+      "Na retropercepção, a atenção dirigida depois de um estímulo desaparecer pode desencadear a perceção consciente dele.",
+      "A flexibilidade temporal do acesso ajuda a explicar o período refratário psicológico, o pestanejar atencional, os efeitos pós-dictivos e a memória icónica.",
+      "O acesso consciente encoberto depende de um recreio global, que se torna um espaço de trabalho global quando se acrescenta a tomada de decisão."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírico: psicologia experimental e eletrofisiologia humana."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Paradigmas de retroindicação, tarefas de pestanejar atencional e de período refratário, e estudos de processamento pré-consciente e de memória de trabalho sem consciência.",
+    "criticisms_and_tensions": "",
+    "open_questions_and_limitations": "",
+    "ontological_coherence": "Consistente com o quadro fisicalista do espaço de trabalho neuronal global que reformula."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Como o acesso consciente é um padrão de atividade de redes cerebrais, termina com o cérebro."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "A teoria explica o acesso consciente como um processo cerebral adaptativo."
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Sergent’s Global Playground, Claire Sergent",
+        "year": 2018
+      }
+    ]
+  }
+}

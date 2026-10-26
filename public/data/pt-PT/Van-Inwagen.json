@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Materialismo Cristão e Ressurreição dos Mortos de van Inwagen",
     "summary": "Esta teoria propõe uma forma de materialismo cristão em que a pessoa humana é inteiramente uma entidade material, rejeitando assim o dualismo de substâncias tanto por razões filosóficas como bíblicas. Sustenta que a identidade pessoal ao longo da morte é mantida por Deus, que preserva um ‘núcleo despojado’ do corpo material original, física e causalmente contínuo, até à ressurreição final.",
-    "associated_thinkers": ["Peter van Inwagen"],
+    "associated_thinkers": [
+      "Peter van Inwagen"
+    ],
     "category": "Fisicalismo Não Redutivo",
     "subcategory": "Materialismo Cristão",
     "core_identity_tagline": "O materialismo reconciliado com a ressurreição bíblica",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A pessoa consciente é uma coisa material que tem de manter continuidade material e causal para conservar a identidade pessoal.",
-    "ontological_status": "Materialismo cristão (uma posição fisicalista singular que incorpora a ação divina para a continuidade da identidade).",
+    "ontological_status": "Christian Materialism (a unique physicalist stance that incorporates divine action for identity continuity).",
     "mind_body_relationship": "Teoria da identidade: a pessoa (incluindo a mente) é idêntica a uma coisa material, embora o mecanismo preciso da sobrevivência a longo prazo assente na preservação divina.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "A teoria centra-se na continuidade ontológica (a preservação da entidade material por Deus) em vez de mecanismos neurológicos específicos de emergência, mas pressupõe uma explicação fisicalista/materialista da consciência durante a vida.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "The theory focuses on ontological continuity (God's preservation of the material entity) rather than specific neurological emergence mechanisms, but assumes a physicalist/materialist account of consciousness during life.",
     "subjectivity_and_intentionality": "A subjetividade e a intencionalidade são propriedades da pessoa/cérebro material, de forma consistente com as posições materialistas correntes, dado que a teoria se centra sobretudo na continuidade post-mortem e não na função consciente durante a vida.",
     "qualia_account": "A teoria ocupa-se sobretudo da continuidade ontológica, mas pressupõe implicitamente que a experiência qualitativa é um fenómeno inteiramente físico do organismo material, de forma consistente com o seu fundamento materialista subjacente.",
     "ontological_commitments": "A pessoa/corpo material, os átomos e o poder de Deus (para assegurar a continuidade material e causal). Rejeita substâncias não físicas como a anima.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Argumento filosófico, exegese teológica/bíblica."
   },
   "empirics_and_critiques": {
-    "testability_status": "Especulativo/concetual. As alegações centrais sobre a ressurreição assentam em argumentos filosófico-teológicos e não são empiricamente testáveis pela ciência.",
+    "testability_status": "Speculative/Conceptual. The central claims about resurrection rely on philosophical/theological argument and are not empirically testable by science.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "A teoria tem dificuldade em explicar como a omnipotência pode reconstituir uma pessoa cujos átomos fluíram e se dispersaram amplamente (o enigma dos inúmeros duplicados). Além disso, o argumento contra uma anima imortal não convenceu muitos dualistas cristãos.",
     "open_questions_and_limitations": "O mecanismo preciso pelo qual Deus preserva o ‘gumnos kókkos’ e assegura a identidade pessoal, dado o constante fluxo e dispersão dos átomos corporais, permanece uma exigência por resolver.",
@@ -51,31 +53,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Enquanto teoria materialista, a consciência é, em última análise, produto de uma disposição física complexa, o que significa que a IA deveria, em princípio, poder instanciar consciência caso se alcance o substrato físico requerido."
     },
     "survival_beyond_death": {
-      "stance": "Sim (condicionada à intervenção divina)",
+      "stance": "Conditional",
       "rationale": "O objetivo primordial da teoria é fornecer um mecanismo (Deus a preservar um núcleo despojado) para que a pessoa material alcance a ressurreição bíblica e a sobrevivência post-mortem."
     },
     "meaning_and_purpose": {
-      "stance": "Cósmico/teológico",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Todo o quadro assenta num compromisso teológico com a ressurreição dos mortos, o que implica sentido e propósito últimos no âmbito de um plano divino."
     },
     "virtual_immortality": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Uma vez que a pessoa é uma coisa material, o carregamento do estado físico completo do cérebro deveria, em princípio, resultar numa duplicação funcional do eu consciente, permitindo a imortalidade virtual."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Crítica" },
-      { "name": "Papineau’s Mind-Brain Identity", "relationship": "Sobreposição" },
       {
-        "name": "Murphy’s Non-Reductive Physicalism",
-        "relationship": "Compatível"
+        "name": "Dualism",
+        "relationship": "Critique"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Sobreposição" }
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Murphy's Non-Reductive Physicalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Overlap"
+      }
     ],
     "sources_and_references": [
       {

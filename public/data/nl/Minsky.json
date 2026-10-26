@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Minskys Society of Mind",
     "summary": "De theorie stelt dat menselijke cognitie en intelligentie voortkomen uit de parallelle, niet-bewuste interacties van talrijke gespecialiseerde, semi-onafhankelijke functionele elementen die bekendstaan als 'agents' en die zich in het brein bevinden. Bewustzijn zelf wordt beschouwd als een 'koffertjesterm', dubbelzinnig gebruikt om een verzameling van deze uiteenlopende cognitie- en gewaarzijnprocessen te benoemen, in plaats van als één verenigde entiteit.",
-    "associated_thinkers": ["Marvin Minsky"],
+    "associated_thinkers": [
+      "Marvin Minsky"
+    ],
     "category": "Materialisme",
     "subcategory": "Neurobiologisch",
     "core_identity_tagline": "‘Bewustzijn als koffertjesterm voor agents’",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewustzijn wordt geïdentificeerd als een collectieve beschrijving op hoog niveau die wordt gebruikt voor een verscheidenheid aan emergente processen en verschijnselen (bijv. soorten geheugen, gespecialiseerde vormen van gewaarzijn) die worden voortgebracht door onderliggende computationele agents in het brein.",
-    "ontological_status": "Fysicalisme",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "De geest/het bewustzijn wordt volledig voortgebracht door, en is een beschrijving op hoog niveau van, de fysieke organisatie en activiteiten van gespecialiseerde computationele eenheden ('agents') in het brein. De organisatie is cruciaal, niet het materiële substraat.",
     "primitive_or_emergent_status": "Emergent",
-    "emergence_type": "Zwakke emergentie (Rechtvaardiging: als computationeel-materialistisch kader zijn de structuur en organisatie van geesttoestanden, hoewel complex, fundamenteel herleidbaar tot de gedefinieerde interacties van de niet-bewuste agents, wat impliceert dat er geen onherleidbare 'magie' is voorbij de beschrijving op hoog niveau.)",
+    "emergence_type": "Weak Emergence (Justification: As a computational materialist framework, the structure and organization of mind states, though complex, are fundamentally reducible to the defined interactions of the nonconscious agents, implying no irreducible 'magic' beyond the high-level description.)",
     "subjectivity_and_intentionality": "Subjectiviteit (het gevoel van een zelf) ontstaat als een proces op hoog niveau: het vermogen van het systeem om een model van zichzelf te maken als een wezen in een wereld en dit model te gebruiken voor denken op hoog niveau over zijn verleden en toekomst. Intentionaliteit wordt gedragen door de output van gespecialiseerde agents.",
     "qualia_account": "Qualia wordt impliciet terzijde geschoven als onderdeel van de misleidende 'koffertjesterm' bewustzijn, die de aandacht afleidt van de complexe onderliggende processen. De theorie ontleedt diverse vormen van gewaarzijn (bijv. het zich herinneren van een gevoel versus het zich herinneren van woorden), maar verwerpt een onherleidbaar fenomenaal gevoel.",
     "ontological_commitments": "Gespecialiseerde cognitieve agents, hiërarchische organisatieniveaus, fysieke breinstructuren (bijv. corticale kolommen) en computationele beschrijvingen op hoog niveau.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Computationeel, filosofisch (AI-perspectief), neurobiologisch (organisatiehiërarchie)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptueel en computationeel toetsbaar (Rechtvaardiging: aangezien bewustzijn zuiver wordt gedefinieerd via functionele mechanismen en organisatiehiërarchie, kunnen de principes binnen geavanceerde kunstmatige systemen worden geïmplementeerd en getoetst).",
+    "testability_status": "Conceptually and computationally testable (Justification: Since consciousness is defined purely through functional mechanisms and organizational hierarchy, the principles can be implemented and tested within advanced artificial systems).",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "De voornaamste kritiek op de zoektocht naar bewustzijn is dat onderzoekers hun tijd verspillen aan het zoeken naar één fysieke 'plek in het brein waar bewustzijn zich bevindt', terwijl het slechts een woord is voor vele processen. Zij staat ook bloot aan de gebruikelijke kritiek op reductief functionalisme betreffende het terzijde schuiven van werkelijke subjectieve qualia.",
     "open_questions_and_limitations": "De beperking is de enorme taak om precies vast te stellen hoe elk van de componentprocessen die onder de 'koffertjesterm' zijn gebundeld werkt en hoe zij zich tot elkaar verhouden.",
@@ -51,39 +53,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Als bewustzijn voortkomt uit de noodzakelijke computationele interacties en beschrijvingen op hoog niveau van gespecialiseerde agents, dan zouden kunstmatige systemen die deze specifieke vorm van organisatie op hoog niveau kunnen instantiëren bewust moeten zijn."
     },
     "survival_beyond_death": {
-      "stance": "Nee",
+      "stance": "No",
       "rationale": "Bewustzijn is volledig afhankelijk van het fysieke bestaan en de functionele organisatie van het biologische brein/de biologische machine; de ontbinding ervan impliceert het permanente einde van de geest."
     },
     "meaning_and_purpose": {
-      "stance": "Humanistisch/Pragmatisch",
+      "stance": "Humanistic only",
       "rationale": "Het functionele doel van complexe cognitieve organisatie (bewustzijn) is het organisme te helpen zich in de wereld te bewegen, plannen te maken en zichzelf te modelleren, wat subjectieve betekenis biedt maar geen overkoepelend kosmisch doel impliceert."
     },
     "virtual_immortality": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Aangezien de geest wordt gedefinieerd door zijn informationele patronen en functionele organisatie (beschrijving op hoog niveau), zou volledige duplicatie of het uploaden naar een niet-biologisch medium dat deze complexe interacties kan repliceren de oorspronkelijke bewuste identiteit overdragen."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Dennett’s Multiple Drafts Model",
-        "relationship": "Verenigbaar"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Compatible"
       },
       {
-        "name": "Graziano’s Attention Schema Theory",
-        "relationship": "Verenigbaar"
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "Compatible"
       },
       {
         "name": "Functionalism",
-        "relationship": "Uitbreiding"
+        "relationship": "Extension"
       },
       {
         "name": "Computational Theories",
-        "relationship": "Uitbreiding"
+        "relationship": "Extension"
       }
     ],
     "sources_and_references": [

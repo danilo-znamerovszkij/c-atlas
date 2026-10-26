@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Біологічний натуралізм Серла",
     "summary": "Біологічний натуралізм стверджує, що свідомість є реальною, нередукованою, суб'єктивною біологічною рисою мозку, цілком спричиненою нижчерівневими нейробіологічними процесами й реалізованою як вищерівневі системні риси. Цей підхід прагне розв'язати проблему розуму й тіла, приймаючи науковий світогляд і водночас визнаючи онтологію свідомого досвіду від першої особи.",
-    "associated_thinkers": ["John Searle"],
+    "associated_thinkers": [
+      "John Searle"
+    ],
     "category": "Матеріалізм",
     "subcategory": "Філософський",
     "core_identity_tagline": "Свідомість як нередукована біологічна риса мозку",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомі стани визначаються як реальні частини реального світу, що є вищерівневими, системними рисами мозку, визначеними як стани усвідомлення, чутливості чи відчування, які тривають під час неспання.",
-    "ontological_status": "Фізикалізм (біологічний натуралізм). Стверджує, що свідомість є частиною природи як суб'єктивна, якісна біологічна властивість, відкидаючи спроби «натуралізувати» її через заперечення її суб'єктивної онтології.",
+    "ontological_status": "Physicalism (Biological Naturalism). It holds that consciousness is part of nature as a subjective, qualitative biological property, rejecting attempts to 'naturalize' it by denying its subjective ontology.",
     "mind_body_relationship": "Свідомі стани причинно редуковані до нижчерівневих процесів мозку (причинна редукованість), але онтологічно нередуковані до цих процесів, оскільки свідомість має суб'єктивну (від першої особи) онтологію, тоді як її основа має об'єктивну (від третьої особи) онтологію.",
-    "primitive_or_emergent_status": "Емерджентна",
-    "emergence_type": "Джерела явно не класифікують тип емерджентності. Оскільки свідомість цілком спричинена фізичними процесами (матеріалізм), але при цьому онтологічно нередукована, ця модель посідає унікальне місце у фізикалістському ландшафті, утверджуючи міцну, невилучну емерджентну реальність, строго прив'язану до біологічної причинності.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "The sources do not explicitly classify the emergence type. Since consciousness is entirely caused by physical processes (Materialism) yet is ontologically irreducible, this model sits uniquely in the physicalist landscape, asserting a robust, non-eliminable emergent reality tied strictly to biological causality.",
     "subjectivity_and_intentionality": "Свідомі стани онтологічно суб'єктивні (існують лише як пережиті суб'єктом), а більшість свідомих станів інтенційні (спрямовані на об'єкти й стани справ або відсилають до них).",
     "qualia_account": "Свідомі стани за своєю природою якісні в тому сенсі, що є виразне якісне відчуття перебування в будь-якому конкретному свідомому стані, і це якісне відчуття є реальною й нередукованою частиною світу.",
     "ontological_commitments": "Біологічні мозки та їхні нижчерівневі нейробіологічні процеси; свідомі стани, що характеризуються якісним відчуттям, онтологічною суб'єктивністю, єдністю та інтенційністю.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Філософський (визначення суттєвих рис) та емпіричний (нейронаукові дані про кореляцію розуму й мозку)."
   },
   "empirics_and_critiques": {
-    "testability_status": "У принципі емпірично перевірна, оскільки теорія вимагає з'ясування точних причинних деталей того, як нижчерівневі процеси мозку спричиняють свідомість.",
+    "testability_status": "Empirically testable in principle, as the theory requires finding the exact causal details of how lower-level brain processes cause consciousness.",
     "known_empirical_interventions_or_tests": "Теорія загалом підтримується емпіричними даними нейронауки, що показують зв'язок між свідомістю та активністю мозку (наприклад, ураження мозку, стимуляція мозку).",
     "criticisms_and_tensions": "Критики оскаржують твердження, що причинний зв'язок між станами мозку та свідомістю повністю засвідчений. Існує суперечність у збереженні матеріалізму й водночас доведенні, що свідомість онтологічно суб'єктивна й нередукована до об'єктивних фізичних процесів.",
     "open_questions_and_limitations": "Конкретні деталі того, як саме свідомість спричиняється процесами мозку, невідомі, що перешкоджає штучному відтворенню свідомості.",
@@ -51,35 +53,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Умовно/можливо",
+      "stance": "Conditional",
       "rationale": "Серл відкидає свідомість через симуляцію (аргумент китайської кімнати), але доводить, що якщо причинно достатній біологічний механізм відомий, то штучна машина, яка реалізує той самий механізм, могла б бути свідомою, оскільки свідомість не вимагає строго біологічних нейронів, а лише достатньої причинної сили."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Свідомість цілком фізична й є виключно продуктом біологічних мозків; отже, смерть мозку й тіла означає безповоротне, остаточне неіснування."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичний",
+      "stance": "Humanistic only",
       "rationale": "Будучи матеріалістичною теорією, біологічний натуралізм насилу раціоналізує остаточний космічний сенс чи мету, хоча гуманістичний сенс, створений нами самими, залишається можливим."
     },
     "virtual_immortality": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Якщо свідомість цілком пояснювана фізичними/біологічними станами, то відтворення цих станів (та їхніх причинних відношень) у небіологічному середовищі, у принципі, дозволило б завантаження й продовження ментальної самості від першої особи."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mind-Brain Identity Theory",
-        "relationship": "Перетин/еволюція (витонченіша форма матеріалізму на основі тотожності мозку)"
+        "name": "Mind-Brain Identity",
+        "relationship": "Overlap/Evolution (A more sophisticated form of materialism based on brain identity)"
       },
       {
-        "name": "Dennett’s Multiple Drafts Model",
-        "relationship": "Контраст (обидва є біологічними натуралістами, але Деннет ставить на перше місце зміст/функцію, тоді як Серл — свідомість/суб'єктивність)"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Contrast (Both are biological naturalists, but Dennett prioritizes content/function, while Searle prioritizes consciousness/subjectivity)"
       },
       {
         "name": "Property Dualism",
-        "relationship": "Критика (Серл відкидає цю та інші традиційні теорії як нерелевантні, коли відправною точкою є сучасний науковий світогляд)"
+        "relationship": "Critique (Searle rejects this and other traditional theories as irrelevant when starting from a modern scientific worldview)"
       }
     ],
     "sources_and_references": [

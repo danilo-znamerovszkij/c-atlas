@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Теорія гіпотези змісту Т. Кларка",
     "summary": "Ця теорія постулює, що феноменальна свідомість є репрезентаційним змістом, похідним від достатньо структурованої обробки в когнітивній системі. Свідомий досвід є категорично суб'єктивним і фундаментально пов'язаним із фізичним мозком, функціонуючи як матеріальне явище, інстанційоване мозком.",
-    "associated_thinkers": ["Thomas Clark"],
+    "associated_thinkers": [
+      "Thomas Clark"
+    ],
     "category": "Матеріалізм",
     "subcategory": "Репрезентаційний",
     "core_identity_tagline": "Феноменальна свідомість як структурований репрезентаційний зміст",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Феноменальна свідомість ототожнюється з репрезентаційним змістом достатньо структурованої репрезентаційної обробки в когнітивній системі .",
-    "ontological_status": "Фізикалізм",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Тотожнісне/емерджентистське. Свідомість описується як строго фізичне явище, інстанційоване мозком .",
-    "primitive_or_emergent_status": "Емерджентний",
-    "emergence_type": "Слабка емерджентність. Свідомість виникає з достатньо складної та структурованої матеріальної обробки (базове припущення матеріалістичної позиції) .",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consciousness arises from sufficiently complex and structured material processing (a core assumption of a materialist position) .",
     "subjectivity_and_intentionality": "Свідомий досвід є категорично суб'єктивним, оскільки він існує лише для свідомої системи . Суб'єктивність пов'язана зі скінченністю саморефлексивної системи, яка перешкоджає їй засвідчити власний початок чи кінець, функціонуючи як «нетрансцендовний об'єкт» .",
     "qualia_account": "Квалія (базові сенсорні якості) є епістемічними примітивами, які чинять опір подальшій репрезентації, що пояснює їхній нерозкладний, монадичний характер .",
     "ontological_commitments": "Когнітивні системи, структурована репрезентаційна обробка, репрезентаційний зміст та епістемічні примітиви .",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Концептуальний, філософський, обчислювальний (очікуване підтвердження в науці про репрезентацію) "
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально перевірна. Вона прагне підтвердження від «розробок у науці про репрезентацію та репрезентаційний зміст» .",
+    "testability_status": "Conceptually testable. It seeks vindication from 'Developments in the science of representation and representational content' .",
     "known_empirical_interventions_or_tests": "Конкретні тести не наведено, але модель узгоджується з (і, отже, могла б бути поінформована) дослідженнями, пов'язаними з теорією інтегрованої інформації (IIT), теорією глобального робочого простору (GWT) та передбачувальною обробкою .",
     "criticisms_and_tensions": "Як і інші репрезентаційні теорії, вона, ймовірно, стикається з викликом пояснити, як якісний, незвідний феноменальний досвід повністю пояснюється лише структурованим інформаційним змістом .",
     "open_questions_and_limitations": "Явне емпіричне підтвердження гіпотези змісту та детальна структура необхідної репрезентаційної обробки залишаються відкритими .",
@@ -51,19 +53,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Імовірно",
+      "stance": "Likely",
       "rationale": "Оскільки свідомість постулюється як строго фізичне явище, що постає з достатньо структурованої обробки, відтворення цієї структури в передових штучних системах повинне уможливлювати свідомість ."
     },
     "survival_beyond_death": {
-      "stance": "Ні (для особистої самості) / Так (для загальної суб'єктивності)",
+      "stance": "No",
       "rationale": "Індивідуальна свідомість є фізичною інстанціацією й розпадається зі смертю мозку. Однак «загальна суб'єктивна безперервність» вказує на те, що свідомість продовжується в інших контекстах, хоча й не як покійний індивід ."
     },
     "meaning_and_purpose": {
-      "stance": "Екзистенційний/внутрішньо притаманний",
+      "stance": "Humanistic only",
       "rationale": "Свідомість, рухома скінченністю саморефлексивної системи, внутрішньо притаманно створює внутрішній світ, надаючи мету, пов'язану з підтриманням суб'єктивної безперервності ."
     },
     "virtual_immortality": {
-      "stance": "Умовно",
+      "stance": "Conditional",
       "rationale": "Як матеріалістична теорія, якщо визначальну «достатньо структуровану репрезентаційну обробку» можна точно продублювати в небіологічному носії, перенесення особистої свідомості є можливим ."
     }
   },
@@ -71,19 +73,19 @@
     "related_theories": [
       {
         "name": "Integrated Information Theory",
-        "relationship": "Узгоджена"
+        "relationship": "Consistent"
       },
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Узгоджена"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Consistent"
       },
       {
-        "name": "Predictive Processing",
-        "relationship": "Узгоджена"
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Consistent"
       },
       {
-        "name": "Metzinger’s No-Self Representational Theory of Subjectivity",
-        "relationship": "Вплив"
+        "name": "Metzinger's No-Self Representational Theory of Subjectivity",
+        "relationship": "Influence"
       }
     ],
     "sources_and_references": [

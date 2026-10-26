@@ -2,7 +2,11 @@
   "id_and_class": {
     "theory_title": "Teoria da Identidade Mente-Cérebro",
     "summary": "Esta teoria filosófica clássica da consciência postula que os estados, acontecimentos ou processos mentais são estritamente idênticos a estados, acontecimentos ou processos específicos que ocorrem no cérebro. Funciona como o exemplar do materialismo ao afirmar que a consciência é inteiramente física.",
-    "associated_thinkers": ["J.J.C. Smart", "U.T. Place", "Herbert Feigl"],
+    "associated_thinkers": [
+      "J.J.C. Smart",
+      "U.T. Place",
+      "Herbert Feigl"
+    ],
     "category": "Materialismo",
     "subcategory": "Filosófica",
     "core_identity_tagline": "Os estados mentais são estados cerebrais",
@@ -15,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência (estados/processos mentais) é literalmente idêntica a estados/processos físicos do cérebro. Trata-se de uma afirmação de identidade no sentido forte, semelhante a comparar a Estrela da Manhã e a Estrela da Tarde com Vénus.",
-    "ontological_status": "Fisicalismo redutivo/materialismo",
+    "ontological_status": "Reductive Physicalism/Materialism",
     "mind_body_relationship": "Teoria da identidade: os acontecimentos mentais e os acontecimentos físicos são as mesmas coisas, radicalmente idênticos, o que significa que «os dois» não podem separar-se.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "A subjetividade e a intencionalidade são estritamente idênticas a certos estados físicos. A visão implica que perguntar por que motivo uma sensação acompanha um estado físico é equivocado, porque são uma e a mesma coisa.",
     "qualia_account": "Os qualia (experiência sentida), como a dor ou ver vermelho, são literalmente idênticos a estados físicos específicos do cérebro, como o disparo de neurónios especificamente nociceptivos.",
     "ontological_commitments": "Estados e processos físicos do cérebro. A teoria compromete-se com o facto de a consciência ser inteiramente física.",
@@ -41,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Inferência filosófica sustentada por evidência empírica acumulada de correlação."
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável em princípio através do mapeamento de correlações entre estados mentais e físicos específicos.",
+    "testability_status": "Empirically testable in principle by mapping correlations between specific mental and physical states.",
     "known_empirical_interventions_or_tests": "Evidência empírica de correlação (por exemplo, associar a dor ao disparo de neurónios especificamente nociceptivos).",
     "criticisms_and_tensions": "É geralmente considerada minada na sua forma original por objeções, sobretudo a realizabilidade múltipla (o mesmo estado mental poderia ser realizado por diferentes mecanismos físicos). O desafio filosófico central é a «lacuna explicativa», ou por que motivo os estados cerebrais são sentidos como algo.",
     "open_questions_and_limitations": "A teoria tem dificuldade em resolver a intuição de que os zombies filosóficos (criaturas fisicamente idênticas destituídas de consciência) são concebíveis, o que implica que «os dois» podem separar-se. Não distingue claramente quais os tipos de atividade neural que constituem a consciência.",
@@ -49,39 +53,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Uma vez que a teoria da identidade mente-cérebro afirma que a consciência é redutível a processos físicos, se esses processos físicos específicos puderem ser reproduzidos num substrato artificial não biológico, a consciência é necessariamente instanciada."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A consciência é estritamente idêntica à integridade funcional e física do cérebro; a sua dissolução com a morte resulta na cessação permanente do eu consciente."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanístico",
+      "stance": "Humanistic only",
       "rationale": "Enquanto teoria materialista, a teoria da identidade mente-cérebro não implica qualquer sentido ou propósito cósmico último. O sentido e o valor são propriedades emergentes criadas por agentes humanos conscientes."
     },
     "virtual_immortality": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Se a consciência (o padrão físico preciso) puder ser digitalizada e perfeitamente duplicada/carregada num novo meio físico (digital ou outro), a teoria garante a sobrevivência do eu consciente idêntico."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Papineau’s Mind-Brain Identity",
-        "relationship": "Extensão"
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Extension"
       },
       {
         "name": "Functionalism",
-        "relationship": "Sobreposição"
+        "relationship": "Overlap"
       },
       {
         "name": "Property Dualism",
-        "relationship": "Crítica"
+        "relationship": "Critique"
       },
       {
-        "name": "Tye’s Contingentism",
-        "relationship": "Influência"
+        "name": "Tye's Contingentism",
+        "relationship": "Influence"
       }
     ],
     "sources_and_references": [

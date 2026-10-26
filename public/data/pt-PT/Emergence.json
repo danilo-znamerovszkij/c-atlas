@@ -20,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada como uma propriedade ou um estado psicológico qualitativamente novo que surge de propriedades físicas. Este conceito define a relação entre mente e matéria com base na redutibilidade ou na não-redutibilidade à física fundamental.",
-    "ontological_status": "Altamente variável/Contestado. A Emergência Fraca apoia um Fisicalismo redutivo. A Emergência Forte implica frequentemente um Fisicalismo Não-Redutivo ou a necessidade de alargar a concepção da natureza, exigindo potencialmente novas leis fundamentais (Dualismo Naturalista ou Dualismo de Propriedades).",
+    "ontological_status": "Highly variable/Contested. Weak Emergence supports reductive Physicalism. Strong Emergence often implies Non-Reductive Physicalism or a need to expand the conception of nature, potentially requiring new fundamental laws (Naturalistic Dualism or Property Dualism).",
     "mind_body_relationship": "Emergentista. A mente surge do corpo (sistemas físicos complexos). A natureza da relação depende do tipo de emergência: a Fraca sugere redução em princípio; a Forte sugere não-redutibilidade mesmo em princípio, envolvendo frequentemente causação descendente.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Simultaneamente Fraca e Forte. A emergência fraca implica redutibilidade em princípio (ainda que difícil na prática), ao passo que a emergência forte implica que o fenómeno é impossível de explicar por redução, mesmo em princípio, exigindo leis psicofísicas fundamentais.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Both Weak and Strong. Weak emergence implies reducibility in principle (though difficult in practice), while strong emergence implies that the phenomenon is impossible to explain by reduction, even in principle, requiring fundamental psychophysical laws.",
     "subjectivity_and_intentionality": "A emergência fornece o quadro para o *modo como* a subjetividade surge de partes não-subjetivas. Se estiver envolvida a emergência forte, as propriedades subjetivas resultantes (como os qualia) são fundamentalmente não-deduzíveis a partir das leis físicas que regem o domínio de baixo nível.",
     "qualia_account": "Os qualia são as propriedades novas e qualitativamente inéditas (por exemplo, qualidades sensoriais) que surgem do sistema físico. A emergência forte vê a consciência (e, portanto, os qualia) como o caso mais claro de fenómeno fortemente emergente, fundamentalmente irredutível aos factos físicos subjacentes.",
     "ontological_commitments": "Propriedades físicas e leis físicas. Para a Emergência Forte, este compromisso alarga-se de modo a incluir possivelmente novas leis ou princípios psicofísicos fundamentais, sobretudo os relacionados com a causação descendente.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico, Conceptual"
   },
   "empirics_and_critiques": {
-    "testability_status": "Especulativa e filosoficamente controversa. A emergência fraca está em princípio cientificamente alinhada. A emergência forte é difícil de testar empiricamente porque postula fenómenos não-deduzíveis a partir da ciência fundamental.",
+    "testability_status": "Speculative and philosophically contentious. Weak emergence is scientifically aligned in principle. Strong emergence is difficult to test empirically because it posits phenomena are non-deducible from fundamental science.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "É criticada pelos fisicalistas reducionistas (como os Materialistas Eliminativos) por ter escasso valor explicativo, por ser supérflua ou por atuar como uma 'reformulação de um milagre' que não explica *como* a complexidade não-consciente gera a consciência. A emergência forte desafia especificamente o fecho causal do mundo físico.",
     "open_questions_and_limitations": "A distinção fundamental entre emergência fraca (redutibilidade em princípio) e emergência forte (não-redutibilidade em princípio) permanece um problema filosófico em aberto, que determina se ela apenas descreve fenómenos complexos ou se altera fundamentalmente a ontologia.",
@@ -55,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condicional/Provável",
+      "stance": "Conditional",
       "rationale": "Se a consciência for fracamente emergente, a consciência da IA é certa dada complexidade suficiente. Se for fortemente emergente, a consciência da IA continua a ser possível caso propriedades não-físicas emerjam de uma complexidade física não-biológica, dependendo das metaleis psicofísicas envolvidas."
     },
     "survival_beyond_death": {
-      "stance": "Improvável (Fraca); Possível (Forte)",
+      "stance": "Conditional",
       "rationale": "A emergência fraca, estando próxima do Materialismo, exclui a sobrevivência. A emergência forte, particularmente na forma de Dualismo Emergente, poderia teoricamente gerar uma substância não-física (mente/anima) dependente do cérebro físico, mas não estritamente idêntica a ele, permitindo uma potencial existência independente após a morte, embora tal seja especulativo."
     },
     "meaning_and_purpose": {
-      "stance": "Possivelmente",
+      "stance": "Uncertain",
       "rationale": "A emergência, sobretudo a emergência forte combinada com conceitos como a causação descendente, oferece um quadro em que propriedades de nível superior, como a consciência e os valores que lhe estão associados, poderiam possuir um poder causal genuíno, apoiando potencialmente um propósito ou sentido cósmico, dependendo da ontologia resultante."
     },
     "virtual_immortality": {
-      "stance": "Provável (Fraca); Altamente Condicional (Forte)",
+      "stance": "Conditional",
       "rationale": "Se a consciência for fracamente emergente, duplicar os estados físicos duplicaria os estados mentais (provável). Se for fortemente emergente, as propriedades não-redutíveis e a possível causação descendente teriam de ser perfeitamente captadas e recriadas no novo meio, colocando desafios técnicos e conceptuais significativos, e talvez intransponíveis."
     }
   },
@@ -75,19 +75,19 @@
     "related_theories": [
       {
         "name": "Reductionism",
-        "relationship": "Crítica"
+        "relationship": "Critique"
       },
       {
-        "name": "Non-Reductive Physicalism",
-        "relationship": "Extensão"
+        "name": "Non-Reductive",
+        "relationship": "Extension"
       },
       {
         "name": "Emergent Dualism",
-        "relationship": "Extensão"
+        "relationship": "Extension"
       },
       {
         "name": "Biological Naturalism (Searle)",
-        "relationship": "Compatível"
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

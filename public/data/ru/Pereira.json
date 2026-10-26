@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Сентиентность по Перейре",
     "summary": "Эта теория постулирует, что у сознания есть две различные модальности: основополагающая сентиентность, характеризуемая базовыми ощущениями вроде боли и голода, и когнитивное сознание более высокого уровня, включающее абстрактное мышление и репрезентацию. Ключевое утверждение состоит в том, что когнитивная способность зависит от этого лежащего в основе сентиентного состояния, которое биологически укоренено в гомеостатических системах.",
-    "associated_thinkers": ["Antonio Pereira, Jr."],
+    "associated_thinkers": [
+      "Antonio Pereira, Jr."
+    ],
     "category": "Материализм",
     "subcategory": "Гомеостатические и аффективные",
     "core_identity_tagline": "Сознание как двухуровневая система, укоренённая в сентиентности",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание есть составная биологическая система, состоящая из сентиентности (коррелирующей с динамическим контролем биохимического гомеостаза) и когнитивного сознания (коррелирующего с паттернами биоэлектрической активности в нейронных сетях).",
-    "ontological_status": "Физикализм/натурализм (выведено из его отнесения к материализму и акцента на физиологических/нейронных коррелятах)",
+    "ontological_status": "Physicalism/Naturalism (Inferred from its categorization under Materialism and focus on physiological/neural correlates)",
     "mind_body_relationship": "Сознательные модальности (сентиентность и когниция) функционально зависят от биологического организма — в частности, от гомеостатических систем и нейронных сетей — и имеют внутри него точные физиологические корреляты.",
-    "primitive_or_emergent_status": "Эмерджентное",
-    "emergence_type": "Слабая эмерджентность (обоснована её строгой укоренённостью в наблюдаемых и измеримых биологических/физиологических процессах, что предполагает, что она в принципе объяснима физическими законами, несмотря на сложность.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justified by its strict grounding in observable and measurable biological/physiological processes, suggesting it is, in principle, explainable by physical laws, despite complexity.)",
     "subjectivity_and_intentionality": "Субъективность возникает из сентиентности — способности испытывать базовые ощущения (например, голод, боль). Интенциональность присутствует в когнитивном сознании через выработку лингвистических и образных репрезентаций.",
     "qualia_account": "Квалиа объясняются через основополагающую модальность сентиентности, которая напрямую соответствует способности испытывать базовые, качественные ощущения (например, боль, жажду).",
     "ontological_commitments": "Физиологические системы, контролирующие биохимический гомеостаз; паттерны биоэлектрической активности в нейронных сетях; иерархическая нейронная организация.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Нейронаучный, клинический/медицинский, философский"
   },
   "empirics_and_critiques": {
-    "testability_status": "Эмпирически проверяемо через клиническую оценку и вмешательство, особенно при анализе минимального сознания в вегетативных состояниях или под анестезией.",
+    "testability_status": "Empirically testable through clinical assessment and intervention, especially in analyzing minimal consciousness in vegetative states or under anesthesia.",
     "known_empirical_interventions_or_tests": [
       "Оценка способности испытывать базовые ощущения (голод, боль) как критерий диагностики продолжительных расстройств сознания."
     ],
@@ -53,35 +55,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Условно",
+      "stance": "Conditional",
       "rationale": "Если искусственные системы смогут полностью воспроизвести физиологические системы, управляющие динамическим биохимическим гомеостазом (необходимым для сентиентности), и необходимую биоэлектрическую сетевую активность (для когниции), тогда искусственное сознание возможно."
     },
     "survival_beyond_death": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Поскольку сознание строго зависит от функциональных биологических систем (контроля гомеостаза и нейронных сетей), предполагается, что оно прекращается при необратимом распаде тела и мозга."
     },
     "meaning_and_purpose": {
-      "stance": "Только гуманистический",
+      "stance": "Humanistic only",
       "rationale": "Теория сосредоточена на функциональной, адаптивной роли сознания в поддержании биологической стабильности (гомеостаза) и обеспечении гибкой когниции, не давая основания для космической или предельной цели."
     },
     "virtual_immortality": {
-      "stance": "Условно",
+      "stance": "Conditional",
       "rationale": "Теоретически возможно лишь в том случае, если специфические динамические гомеостатические и биоэлектрические паттерны, определённые как корреляты сентиентности и когниции, могут быть в совершенстве оцифрованы и воспроизведены в небиологической среде."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
-        "relationship": "Пересечение"
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Overlap"
       },
       {
-        "name": "Solms’s Affect as the Hidden Spring of Consciousness",
-        "relationship": "Совместимо"
+        "name": "Solms's Affect as the Hidden Spring of Consciousness",
+        "relationship": "Compatible"
       },
       {
-        "name": "Prinz’s Neurofunctionalism: Attention Engenders Experience",
-        "relationship": "Совместимо"
+        "name": "Prinz's Neurofunctionalism: Attention Engenders Experience",
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

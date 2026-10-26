@@ -1,0 +1,100 @@
+{
+  "id_and_class": {
+    "theory_title": "Teoria da Integração Dendrítica",
+    "summary": "A Teoria da Integração Dendrítica sustenta que a perceção consciente depende de um evento celular: a integração não linear de sinais descendentes e ascendentes nas dendrites apicais dos neurónios piramidais da camada 5 do neocórtex. Quando o feedback de áreas superiores coincide com a entrada sensorial feedforward, a dendrite dispara um pico de cálcio que amplifica a saída do neurónio, e Larkum e Aru propõem que esta amplificação filtra a informação que chega à consciência.",
+    "associated_thinkers": [
+      "Matthew Larkum",
+      "Jaan Aru"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "A consciência como integração dendrítica de sinais descendentes e ascendentes",
+    "classification_tags": [
+      "neuroscience",
+      "dendrites",
+      "pyramidal neurons",
+      "anesthesia",
+      "microcircuits"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência identifica-se com a integração de dois fluxos de informação no interior dos neurónios piramidais da camada 5, com o feedback a chegar às dendrites apicais distais e a entrada feedforward a chegar perto do corpo celular. Aru e colegas sugerem que a consciência é fortemente influenciada por esta integração, ou possivelmente sinónima dela.",
+    "ontological_status": "Physicalism (neurobiological)",
+    "mind_body_relationship": "Os estados conscientes dependem de eventos biofísicos específicos nos neurónios corticais, e podem ser idênticos a eles. A teoria trata a mente como um produto da microcircuitaria cerebral e não postula nada para além dela.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (conscious states arise from identifiable biophysical events in neurons and the thalamocortical dynamics they enable)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "A DIT não explica por que razão a integração dendrítica se sente como algo. Especifica quais os eventos neurais que permitem que um conteúdo chegue à consciência. A sua antecessora, a Teoria da Dendrite Apical de LaBerge e Kasevich, especulava que o campo eletromagnético em torno de uma dendrite apical ativa pudesse transportar a própria impressão fenoménica.",
+    "ontological_commitments": "Neurónios piramidais com compartimentos dendríticos funcionalmente separados, picos dendríticos de cálcio, vias corticais de feedback e feedforward, e o sistema tálamo-cortical.",
+    "epistemic_access": "Estudada na terceira pessoa através da eletrofisiologia celular e de comparações entre estados conscientes e inconscientes, como a vigília e a anestesia geral.",
+    "constituents_and_structure": "A unidade básica é o neurónio piramidal da camada 5 a funcionar como integrador de dois níveis, com a dendrite apical a receber a entrada descendente e a região perto do soma a receber a entrada ascendente. Muitos destes neurónios, acoplados através de circuitos tálamo-corticais, moldam os padrões globais de atividade dos estados conscientes."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Acesso (que conteúdos percetivos chegam à consciência); estados conscientes versus inconscientes (vigília versus anestesia).",
+    "distinctive_mechanism_or_principle": "Deteção de coincidências na dendrite apical. Quando o feedback de áreas superiores corresponde à entrada sensorial feedforward, a dendrite gera um pico de cálcio que amplifica a atividade de disparo do neurónio, e esta amplificação seleciona o que entra na consciência.",
+    "dynamics_of_emergence": "A perceção consciente ocorre de momento a momento, sempre que os sinais descendentes e ascendentes coincidem. Nos estados conscientes, o acoplamento dendrite-soma permite que se construa uma atividade complexa e sustentada por todo o sistema tálamo-cortical; sob anestesia geral, esse acoplamento quebra-se e a propagação do sinal estagna.",
+    "location_and_distribution": "As árvores dendríticas dos neurónios piramidais da camada 5 do neocórtex, integradas em circuitos tálamo-corticais. O mecanismo é local e celular, mas os seus efeitos moldam a atividade cerebral global.",
+    "causation_and_functional_role": "Os neurónios piramidais funcionam como portas que controlam a evolução dos padrões de ativação globais. A amplificação dendrítica seleciona as entradas relevantes, decidindo que informação passa a moldar o processamento cortical seguinte.",
+    "integration_or_binding": "A ligação começa dentro de neurónios individuais, que combinam o feedback contextual e os sinais sensoriais feedforward em compartimentos diferentes. A saída filtrada de muitos destes neurónios sustenta depois uma dinâmica integrada em todo o sistema tálamo-cortical.",
+    "information_flow_or_representation": "Os dados sensoriais ascendentes chegam às dendrites proximais, e as previsões descendentes de áreas superiores chegam ao tufo apical distal. Uma correspondência entre ambos amplifica o sinal, aquilo a que Aru e colegas chamam a integração flexível de dados ascendentes e descendentes ao nível celular.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "As dendrites apicais dos neurónios piramidais da camada 5 realizam uma integração não linear de entradas descendentes e ascendentes.",
+      "A entrada distal e proximal coincidente desencadeia picos dendríticos de cálcio que amplificam a resposta do neurónio, e Larkum formula a hipótese de que esta correspondência está na base da consciência percetiva.",
+      "A anestesia geral perturba o acoplamento dendrite-soma, bloqueando a consciência enquanto grande parte da restante atividade cerebral prossegue.",
+      "Nos estados conscientes, o mecanismo dendrítico permite uma dinâmica tálamo-cortical sustentada que é bloqueada nos estados inconscientes."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírica (eletrofisiologia celular e estudos de anestesia), ligada teoricamente a explicações da consciência em larga escala."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Registos de picos dendríticos de cálcio em neurónios piramidais da camada 5; medições do acoplamento dendrite-soma sob anestesia geral.",
+    "criticisms_and_tensions": "Os resultados sobre a anestesia mostram que o acoplamento dendrite-soma é necessário para a consciência, o que fica aquém de mostrar que é suficiente. A afirmação mais forte de que a consciência pode ser sinónima da integração dendrítica vai além das provas que ligam o mecanismo aos estados conscientes.",
+    "open_questions_and_limitations": "Os proponentes oscilam entre a consciência ser «fortemente influenciada» pela integração dendrítica e ser «sinónima» dela. A teoria deixa em aberto por que razão este evento celular deveria ser experienciado.",
+    "ontological_coherence": "Coerente com o fisicalismo neurobiológico. Os seus proponentes apresentam-na como compatível com as teorias do Espaço de Trabalho Neuronal Global e do processamento preditivo, fornecendo um mecanismo celular subjacente às suas explicações em larga escala."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Dado que a consciência depende aqui de um mecanismo biofísico específico nos neurónios corticais, um sistema artificial só qualificaria se reproduzisse essa integração dendrítica de dois compartimentos e o seu papel de filtragem."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Dado que a consciência é aqui um produto da atividade dendrítica no córtex vivo, nada sobrevive à morte do cérebro."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "A teoria explica a consciência através de mecanismos neurais e não implica qualquer propósito cósmico."
+    },
+    "virtual_immortality": {
+      "stance": "Conditional",
+      "rationale": "Uma cópia digital só seria consciente se reproduzisse a integração dendrítica e a dinâmica tálamo-cortical que a teoria exige."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Predictive Theories (Top-Down)",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Overlap"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Dendritic Integration Theory, Matthew Larkum and Jaan Aru",
+        "year": 2013
+      },
+      {
+        "title_with_names": "The Apical Dendrite Theory of Consciousness, David LaBerge and Ray Kasevich",
+        "year": 2007
+      }
+    ]
+  }
+}

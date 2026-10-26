@@ -17,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada como a capacidade subjacente que possibilita perfis comportamentais robustos (por exemplo, evitação da dor, procura de nutrientes), que podem ser instanciados por sistemas físicos muito distintos (realizabilidade múltipla).",
-    "ontological_status": "Fisicalismo",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "A consciência correlaciona-se com processos físicos, e é instanciada por eles, mas esta relação é flexível, admitindo substratos neuronais não complexos e filogeneticamente distantes (realizabilidade múltipla), por contraste com as teorias de identidade estritas centradas apenas em cérebros complexos.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "A subjetividade e a intencionalidade são inferidas a partir dos perfis comportamentais robustos exibidos pelos animais (por exemplo, o movimento intencional em direção a estímulos desejados), o que sugere que estas capacidades mentais estão ligadas a diversos mecanismos físicos.",
     "qualia_account": "A abordagem pressupõe a existência de experiência fenoménica (senciência) em animais mais simples, procurando identificar a base física essencial da consciência, independentemente das características cerebrais complexas tradicionalmente associadas aos qualia.",
     "ontological_commitments": "Sistemas físicos capazes de sustentar comportamento senciente, em particular sistemas neurológicos diversos (cefalópodes, artrópodes, vertebrados).",
@@ -44,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Biologia comparada, filosófica, empírica"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável através de estudos comportamentais comparativos, ainda que desafiante devido às limitações da avaliação entre espécies.",
+    "testability_status": "Empirically testable through comparative behavioral studies, although challenging due to limitations in cross-species assessment.",
     "known_empirical_interventions_or_tests": [
       "Análise dos marcadores de consciência identificados na Declaração de Cambridge (por exemplo, circuitos cerebrais homólogos, autorreconhecimento no espelho)",
       "Observação comportamental de respostas adaptativas (por exemplo, evitação da dor, procura de nutrientes)"
@@ -55,19 +55,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Se a consciência é multiplamente realizável em diversos sistemas biológicos, é altamente provável que possa ser instanciada em sistemas não biológicos (artificiais) que alcancem a organização funcional e a complexidade comportamental necessárias, embora a compreensão das mentes animais seja crucial para esse objetivo."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "Enquanto teoria enraizada no materialismo e na evolução filogenética, a consciência depende fundamentalmente de hardware físico/biológico e não postula uma substância não física capaz de sobreviver após a morte."
     },
     "meaning_and_purpose": {
-      "stance": "Humanista/Adaptativo",
+      "stance": "Humanistic only",
       "rationale": "O foco recai sobre o papel funcional e adaptativo evoluído da consciência na promoção da sobrevivência e do florescimento, o que sustenta um sentido humanista derivado da existência biológica, e não de uma teleologia cósmica."
     },
     "virtual_immortality": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "O conceito central de «realizabilidade múltipla» implica que o eu mental consciente poderia ser reproduzido em hardware não biológico, desde que as propriedades funcionais fossem duplicadas com exatidão."
     }
   },
@@ -75,15 +75,15 @@
     "related_theories": [
       {
         "name": "Functionalism",
-        "relationship": "Compatível"
+        "relationship": "Compatible"
       },
       {
-        "name": "Crick and Koch’s Neural Correlates of Consciousness",
-        "relationship": "Crítica"
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "Critique"
       },
       {
-        "name": "Dennett’s Evolution of Minds",
-        "relationship": "Sobreposição"
+        "name": "Dennett's Evolution of Minds",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

@@ -19,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada com a atividade de acompanhar, manter contacto, prestar atenção e interagir com o mundo. É o processo de aceder ao mundo e de permitir que este 'apareça' para o organismo, definido pelo envolvimento ativo.",
-    "ontological_status": "Fisicalismo",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "A mente é a atividade gerada pelo cérebro, o corpo e o ambiente a funcionarem em conjunto. O cérebro fornece o substrato mecânico necessário, mas não é suficiente para a consciência; é o lugar dos símbolos, não a consciência em si.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência Fraca",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "A subjetividade (o modo como o mundo 'aparece para nós') e a intencionalidade decorrem do envolvimento ativo e hábil do organismo com o ambiente, influenciado pelo contexto, pelo interesse, pelo conhecimento e pela compreensão.",
     "qualia_account": "Infere-se que os qualia fazem parte da densidade, do detalhe e da robustez das experiências da vida real que decorrem da interação contínua com o mundo, o que distingue a verdadeira consciência das meras experiências oníricas.",
     "ontological_commitments": "Ambiente físico, cérebro/corpo biológico e a interação/atividade dinâmica entre eles.",
@@ -46,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Argumento filosófico, Perceção fenomenológica, Crítica do internalismo tradicional"
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptualmente testável",
+    "testability_status": "Conceptually testable",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "A principal tensão é explicar com precisão como a interação é consciência num sentido forte, e não apenas a possibilita ou influencia. Os críticos rejeitam a ideia de que estudar os acontecimentos cerebrais internos é insuficiente para compreender a consciência.",
     "open_questions_and_limitations": "A teoria carece de uma definição clara de como a interação/atividade externa constitui a experiência interna ou os qualia, e de como distinguir rigorosamente esta atividade do mero processamento não consciente.",
@@ -54,38 +54,62 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Incerto/Condicional",
+      "stance": "Uncertain",
       "rationale": "A computação padrão é insuficiente; a consciência só é possível se os sistemas de IA alcançarem plena corporização, competências e uma interação contínua e autónoma com um mundo (satisfazendo as mesmas exigências colocadas aos organismos vivos)."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A consciência é inseparável do ciclo físico contínuo e ativo que envolve o cérebro e o corpo em interação com o mundo; a sua cessação significa o fim da atividade consciente."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanista",
+      "stance": "Humanistic only",
       "rationale": "A consciência permite ao agente adquirir contexto, conhecimento e compreensão, conferindo a capacidade de atribuir significado às interações e orientar um comportamento proativo, mas não implica qualquer propósito transcendente."
     },
     "virtual_immortality": {
-      "stance": "Altamente Implausível",
+      "stance": "Unlikely",
       "rationale": "Carregar apenas os processos internos do cérebro (o 'lugar mecânico') não consegue captar a atividade interativa externa, contínua e não confinada ao cérebro, definida como consciência."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Enactivism (Varela & Thompson)", "relationship": "Quadro Constituinte" },
-      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "Influência Fundacional" },
-      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "Influência Filosófica" },
-      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "Parcialmente Compatível / Sobreposta" },
-      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "Relacionada / Complementar (perceção ativa, modelo de circuitos partilhados)" },
-      { "name": "Internalist Materialism", "relationship": "Crítica" },
-      { "name": "Dualism", "relationship": "Crítica" }
+      {
+        "name": "Enactivism",
+        "relationship": "Constituent Framework"
+      },
+      {
+        "name": "Ecological Psychology (James J. Gibson)",
+        "relationship": "Foundational Influence"
+      },
+      {
+        "name": "Embodied Phenomenology (Maurice Merleau-Ponty)",
+        "relationship": "Philosophical Influence"
+      },
+      {
+        "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)",
+        "relationship": "Partially Compatible / Overlapping"
+      },
+      {
+        "name": "Susan Hurley — Action/Perception & Shared Circuits",
+        "relationship": "Related / Complementary (active perception, shared circuits model)"
+      },
+      {
+        "name": "Internalist Materialism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "Critique"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
         "year": 2010
       },
-      { "title_with_names": "Varieties of Presence, Alva Noë", "year": 2012 },
+      {
+        "title_with_names": "Varieties of Presence, Alva Noë",
+        "year": 2012
+      },
       {
         "title_with_names": "Is consciousness an illusion, Alva Noë",
         "year": 2007

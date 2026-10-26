@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "van Inwagens christelijk materialisme en de opstanding der doden",
     "summary": "Deze theorie stelt een vorm van christelijk materialisme voor waarin de menselijke persoon geheel een materiële entiteit is, en verwerpt daarmee het substantiedualisme op zowel filosofische als bijbelse gronden. Zij betoogt dat de persoonlijke identiteit doorheen de dood in stand wordt gehouden doordat God een fysisch en causaal continue ‘kale kern’ van het oorspronkelijke materiële lichaam bewaart tot aan de uiteindelijke opstanding.",
-    "associated_thinkers": ["Peter van Inwagen"],
+    "associated_thinkers": [
+      "Peter van Inwagen"
+    ],
     "category": "Niet-reductief fysicalisme",
     "subcategory": "Christelijk materialisme",
     "core_identity_tagline": "Materialisme verzoend met de bijbelse opstanding",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "De bewuste persoon is een materieel ding dat materiële en causale continuïteit moet behouden om zijn persoonlijke identiteit te bewaren.",
-    "ontological_status": "Christelijk materialisme (een uniek fysicalistisch standpunt dat goddelijk handelen inbouwt voor de continuïteit van identiteit).",
+    "ontological_status": "Christian Materialism (a unique physicalist stance that incorporates divine action for identity continuity).",
     "mind_body_relationship": "Identiteitstheorie: de persoon (met inbegrip van de geest) is identiek aan een materieel ding, hoewel het precieze mechanisme voor voortbestaan op lange termijn berust op goddelijke bewaring.",
     "primitive_or_emergent_status": "Emergent",
-    "emergence_type": "De theorie richt zich op ontologische continuïteit (Gods bewaring van de materiële entiteit) veeleer dan op specifieke neurologische emergentiemechanismen, maar veronderstelt een fysicalistische/materialistische verklaring van het bewustzijn tijdens het leven.",
+    "emergence_type": "The theory focuses on ontological continuity (God's preservation of the material entity) rather than specific neurological emergence mechanisms, but assumes a physicalist/materialist account of consciousness during life.",
     "subjectivity_and_intentionality": "Subjectiviteit en intentionaliteit zijn eigenschappen van de materiële persoon/het brein, in overeenstemming met de standaard materialistische posities, aangezien de theorie zich in de eerste plaats richt op de postmortale continuïteit veeleer dan op de bewuste functie tijdens het leven.",
     "qualia_account": "De theorie houdt zich in de eerste plaats bezig met ontologische continuïteit, maar veronderstelt impliciet dat de kwalitatieve ervaring een geheel fysiek fenomeen van het materiële organisme is, in overeenstemming met haar onderliggende materialistische grondslag.",
     "ontological_commitments": "De materiële persoon/het lichaam, atomen en Gods macht (om materiële en causale continuïteit te verzekeren). Zij verwerpt niet-fysieke substanties zoals de ziel.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filosofisch argument, theologische/bijbelse exegese."
   },
   "empirics_and_critiques": {
-    "testability_status": "Speculatief/conceptueel. De centrale beweringen over de opstanding berusten op filosofisch/theologisch argument en zijn niet empirisch toetsbaar door de wetenschap.",
+    "testability_status": "Speculative/Conceptual. The central claims about resurrection rely on philosophical/theological argument and are not empirically testable by science.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "De theorie stuit op moeilijkheden bij het verklaren hoe almacht een persoon kan herassembleren wiens atomen zijn gefluctueerd en wijd verspreid zijn geraakt (het raadsel van de talloze duplicaten). Bovendien slaagde het argument tegen een onsterfelijke ziel er niet in veel christelijke dualisten te overtuigen.",
     "open_questions_and_limitations": "Het precieze mechanisme waardoor God de ‘gumnos kókkos’ bewaart en de persoonlijke identiteit verzekert, gegeven de voortdurende flux en verspreiding van de lichamelijke atomen, blijft een onopgeloste vereiste.",
@@ -51,31 +53,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Waarschijnlijk",
+      "stance": "Likely",
       "rationale": "Als materialistische theorie is het bewustzijn uiteindelijk een product van complexe fysieke ordening, wat betekent dat AI in beginsel bewustzijn zou moeten kunnen instantiëren indien het vereiste fysieke substraat wordt bereikt."
     },
     "survival_beyond_death": {
-      "stance": "Ja (afhankelijk van goddelijk ingrijpen)",
+      "stance": "Conditional",
       "rationale": "Het voornaamste doel van de theorie is een mechanisme te bieden (God die een kale kern bewaart) waardoor de materiële persoon de bijbelse opstanding en het postmortale voortbestaan kan bereiken."
     },
     "meaning_and_purpose": {
-      "stance": "Kosmisch/theologisch",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Het gehele kader is onderbouwd door een theologische toewijding aan de opstanding der doden, wat een ultieme zin en doel binnen een goddelijk plan impliceert."
     },
     "virtual_immortality": {
-      "stance": "Waarschijnlijk",
+      "stance": "Likely",
       "rationale": "Aangezien de persoon een materieel ding is, zou het uploaden van de volledige fysieke toestand van het brein in beginsel moeten resulteren in een functionele duplicatie van het bewuste zelf, wat virtuele onsterfelijkheid mogelijk maakt."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Kritiek" },
-      { "name": "Papineau’s Mind-Brain Identity", "relationship": "Overlap" },
       {
-        "name": "Murphy’s Non-Reductive Physicalism",
-        "relationship": "Verenigbaar"
+        "name": "Dualism",
+        "relationship": "Critique"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Overlap" }
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Murphy's Non-Reductive Physicalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Overlap"
+      }
     ],
     "sources_and_references": [
       {

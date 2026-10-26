@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Субстанційний дуалізм Свінберна",
     "summary": "Ця теорія постулює, що особа складається з двох радикально відмінних компонентів: фізичного тіла/мозку та окремої, нефізичної субстанції, чи душі, яка незалежна від фізичного світу. Нефізична душа є суттєвою й незвідною сутністю, потрібною для пояснення свідомого життя та підтримання особистої ідентичності в часі.",
-    "associated_thinkers": ["Richard Swinburne"],
+    "associated_thinkers": [
+      "Richard Swinburne"
+    ],
     "category": "Дуалізми",
     "subcategory": "Субстанційний дуалізм",
     "core_identity_tagline": "Свідомість як радикально відокремлена нефізична субстанція",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість ототожнюється з внутрішнім свідомим життям, яким володіє окрема, нефізична субстанція (душа), відмінна від фізичних процесів.",
-    "ontological_status": "Субстанційний дуалізм",
+    "ontological_status": "Substance Dualism",
     "mind_body_relationship": "Інтеракціоністський дуалізм. Хоча конкретний механізм є вкрай дискусійним, нефізична субстанція має корелювати з фізичним мозком чи взаємодіяти з ним, щоб пояснити свідоме життя в межах людської особи.",
-    "primitive_or_emergent_status": "Первинний. Душа є окремою, фундаментальною, нефізичною субстанцією, незвідною до фізичних станів і не підвладною суто фізичному поясненню.",
-    "emergence_type": "Незастосовно; свідомість ототожнюється з первинною нефізичною субстанцією (душею). Існування душі визначається або творчим актом (Богом), або незвідними законами, а не суто фізичними процесами, що зростають до складності.",
+    "primitive_or_emergent_status": "Primitive. The soul is a separate, fundamental, nonphysical substance, not reducible to physical states or subject to purely physical explanation.",
+    "emergence_type": "Not applicable; consciousness is identified with a primitive nonphysical substance (the soul). The soul's existence is determined either by a creative act (God) or irreducible laws, not purely by physical processes rising to complexity.",
     "subjectivity_and_intentionality": "Суб'єктивність (досвід від першої особи) є незвідною властивістю, якою володіє нефізична субстанція (душа), роблячи душу суттєвим суб'єктом досвіду й відповідальною за свідоме життя.",
     "qualia_account": "Квалія (якісне відчуття досвіду) є властивостями окремої ментальної сутності (душі), які становлять «свідоме життя» і не можуть пояснюватися лише фізичним тілом чи мозком.",
     "ontological_commitments": "Фізичні субстанції (тіла, мозки, атоми) та нефізичні субстанції (душі/ментальні сутності).",
@@ -44,7 +46,7 @@
     ]
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально перевірна через філософські та логічні аргументи щодо особистої ідентичності, але загалом вважається емпірично спекулятивною чи неперевірною фізикалістськими парадигмами через її опертя на нефізичну субстанцію.",
+    "testability_status": "Conceptually testable through philosophical and logical arguments regarding personal identity, but generally considered empirically speculative or untestable by physicalist paradigms due to its reliance on a nonphysical substance.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Основною суперечністю є проблема взаємодії: дуалізм насилу пояснює, як нефізична субстанція може каузально взаємодіяти з фізичним мозком, не порушуючи фізичних законів, як-от збереження енергії. Погляд Свінберна також критикується щодо того, як закони могли б керувати створенням *конкретної* індивідуальної душі.",
     "open_questions_and_limitations": "Точний механізм, за яким нефізична субстанція взаємодіє з фізичним мозком (проблема взаємодії), залишається нерозв'язаним.",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ні (переважно)",
+      "stance": "Unlikely",
       "rationale": "Системам ШІ бракувало б необхідної, радикально відокремленої, нефізичної субстанції (душі), потрібної для справжнього внутрішнього усвідомлення. Дуалізм загалом вважається головним осередком спротиву свідомості ШІ."
     },
     "survival_beyond_death": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Оскільки особа конституюється нефізичною субстанцією, ця субстанція (душа) потенційно могла б підтримувати свідоме існування після смерті та розпаду фізичного тіла й мозку."
     },
     "meaning_and_purpose": {
-      "stance": "Так",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Дуалістичні та ідеалістичні теорії загалом пропонують певний різновид остаточного сенсу, мети чи цінності, на противагу суто матеріалістичним теоріям."
     },
     "virtual_immortality": {
-      "stance": "Ні (переважно)",
+      "stance": "Unlikely",
       "rationale": "Завантаження самої лише фізичної структури мозку було б недостатнім, оскільки необхідний нефізичний компонент (душу) не можна продублювати чи завантажити технологією, що призводить до відсутності первісної ментальної самості від першої особи."
     }
   },
@@ -72,19 +74,19 @@
     "related_theories": [
       {
         "name": "Interactive Dualism",
-        "relationship": "Сумісна"
+        "relationship": "Compatible"
       },
       {
         "name": "Property Dualism",
-        "relationship": "Контраст"
+        "relationship": "Contrast"
       },
       {
         "name": "Emergent Dualism",
-        "relationship": "Контраст"
+        "relationship": "Contrast"
       },
       {
-        "name": "Mind-Brain Identity Theory",
-        "relationship": "Критика"
+        "name": "Mind-Brain Identity",
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

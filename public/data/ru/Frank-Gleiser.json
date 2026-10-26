@@ -2,7 +2,11 @@
   "id_and_class": {
     "theory_title": "«Слепое пятно» Франка/Глейзера/Томпсона",
     "summary": "Данная концепция критикует традиционные материалистические и дуалистические подходы, утверждая взаимную первичность сознания и воплощённости и доказывая, что всякое научное исследование с необходимостью происходит в пределах «горизонта сознания». Она определяет «трудную проблему» как артефакт «Слепого пятна» — неспособности признать несводимую предпосылку опыта в поиске объективной истины — и предлагает радикальный сдвиг в сторону нейрофеноменологии.",
-    "associated_thinkers": ["Adam Frank", "Marcello Gleiser", "Evan Thompson"],
+    "associated_thinkers": [
+      "Adam Frank",
+      "Marcello Gleiser",
+      "Evan Thompson"
+    ],
     "category": "Теории материализма",
     "subcategory": "Воплощённое и энактивное",
     "core_identity_tagline": "Сознание как несводимая предпосылка и воплощённая странная петля",
@@ -16,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание отождествляется с несводимой предпосылкой научного знания, пребывающей в пределах неизбежного «горизонта» и взаимосвёрнутой с воплощённостью.",
-    "ontological_status": "Нередуктивный физикализм/феноменологический реализм (выводимая позиция, поскольку теория явно отвергает редукционизм и физикализм, но отстаивает научно осведомлённый взгляд, основанный на первичности опыта и воплощённости. Источник относит её к материализму/воплощённому и энактивному).",
+    "ontological_status": "Non-Reductive Physicalism/Phenomenological Realism (Inferred stance, as the theory explicitly rejects reductionism and physicalism, but advocates a scientifically informed view based on the primacy of experience and embodiment. The source classifies it under Materialism/Embodied and Enactive ).",
     "mind_body_relationship": "Отношение описывается как «странная петля», в которой «первичность сознания» вбирает в себя воплощённость, а «первичность воплощённости» вбирает в себя сознание, что требует интегрированного взгляда.",
-    "primitive_or_emergent_status": "Первичный/фундаментальный (сознание характеризуется как «несводимая предпосылка» и «неустранимая первичность» знания, а не нечто, последовательно возникающее из физической материи, хотя оно взаимозависимо с воплощённостью).",
-    "emergence_type": "Неприменимо (теория отвергает рамку редукционизма, физикализма и объективизма, которые делают необходимыми традиционные аргументы о слабой или сильной эмерджентности. Отношение есть отношение «свёртывания»).",
+    "primitive_or_emergent_status": "Primitive/Fundamental (Consciousness is characterized as an 'irreducible precondition' and 'ineliminable primacy' of knowledge, not something that arises sequentially from physical matter, although it is mutually dependent on embodiment ).",
+    "emergence_type": "Not Applicable (The theory rejects the framework of reductionism, physicalism, and objectivism that necessitate traditional weak or strong emergence arguments. The relation is one of 'enfolding' ).",
     "subjectivity_and_intentionality": "Субъективности (опыту от первого лица) придаётся «первичность», и она занимает центральное место в теории, отвергающей подходы, стремящиеся постичь сознание вне этой перспективы (Слепое пятно). Интенциональность имплицитно интегрирована через связанные понятия, такие как нейрофеноменология.",
     "qualia_account": "Качественная природа опыта (трудная проблема) отвергается как «артефакт Слепого пятна», то есть как проблема, встроенная в редуктивную метафизику и неразрешимая в её терминах.",
     "ontological_commitments": "Первичность сознания, первичность воплощённости и отношение странной петли между ними.",
@@ -34,7 +38,7 @@
     "causation_and_functional_role": "Сознание служит необходимым контекстом (горизонтом) и предпосылкой приобретения знания, включая научное знание. Его функциональная роль коренится в неотделимой связи между разумом и жизненными процессами."
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально проверяемо через применение нейрофеноменологических методов, направленных на порождение нового опыта, служащего пробным камнем для продвижения как феноменологии, так и нейронауки.",
+    "testability_status": "Conceptually testable through the application of neurophenomenological methods, aiming to produce new experiences that serve as touchstones for advancing both phenomenology and neuroscience.",
     "known_empirical_interventions_or_tests": [
       "Нейрофеноменология (переплетение отчётов об опыте от первого лица с данными о мозге от третьего лица)",
       "Методы опыта от первого лица (напр., медитация) для уточнения внимания и осознавания"
@@ -45,31 +49,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Неопределённо",
+      "stance": "Uncertain",
       "rationale": "Теория рассматривает сознание как внутренне связанное с воплощённым опытом от первого лица в рамках «странной петли». Поскольку она критикует вычислительный функционализм, лежащий в основе большинства подходов к ИИ, неясно, могут ли одни лишь небиологические вычисления достичь этого несводимого, воплощённого сознания."
     },
     "survival_beyond_death": {
-      "stance": "Неопределённо",
+      "stance": "Uncertain",
       "rationale": "Теория подчёркивает первичность воплощённости, что предполагает привязанность сознания к организму. Однако её нередуктивная позиция, поддерживающая науку, основанную на первичности опыта, не исключает возможностей выживания, хотя источники не уточняют позицию."
     },
     "meaning_and_purpose": {
-      "stance": "Внутренний/экзистенциальный",
+      "stance": "Humanistic only",
       "rationale": "Теория стремится вернуть «центральное место человеческого опыта в научном предприятии», подразумевая, что смысл и ценность фундаментально присутствуют в несводимой реальности сознания и опыта."
     },
     "virtual_immortality": {
-      "stance": "Маловероятно",
+      "stance": "Unlikely",
       "rationale": "Виртуальное бессмертие опирается на успешную оцифровку и воспроизведение ментальных состояний (вычислительный функционализм). Поскольку теория рассматривает сознание как несводимый, воплощённый феномен — «странную петлю», — она настойчиво подразумевает, что загрузка разума была бы невозможна в силу её отвержения лежащей в основе редукционистской философии."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Neurophenomenology", "relationship": "Поддержка/расширение" },
-      { "name": "Embodied and Enactive Theories", "relationship": "Согласование" },
+      {
+        "name": "Varela's Neurophenomenology",
+        "relationship": "Support/Extension"
+      },
+      {
+        "name": "Embodied",
+        "relationship": "Alignment"
+      },
       {
         "name": "Reductionism/Physicalism",
-        "relationship": "Критика/отвержение"
+        "relationship": "Critique/Rejection"
       },
-      { "name": "Francisco Varela’s work", "relationship": "Влияние" }
+      {
+        "name": "Francisco Varela’s work",
+        "relationship": "Influence"
+      }
     ],
     "sources_and_references": [
       {

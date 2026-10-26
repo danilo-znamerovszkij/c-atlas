@@ -16,10 +16,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание отождествляется с разумным, динамическим и адаптивным поведением, вытекающим из сложных, нелинейных взаимодействий внутри мозга, который действует как сложная адаптивная система.",
-    "ontological_status": "Физикализм",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Эмерджентистское. Разум возникает как эмерджентные свойства из высокосложных и нелинейных взаимодействий физической системы (мозга).",
-    "primitive_or_emergent_status": "Эмерджентный",
-    "emergence_type": "Слабая эмерджентность, тяготеющая к сильной ввиду крайне хаотической и непредсказуемой природы динамики системы.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence, tending toward strong due to the highly chaotic and unpredictable nature of the system's dynamics.",
     "subjectivity_and_intentionality": "Субъективность неявно возникает из внутренней сложности и способности системы к самоорганизации; интенциональность объясняется потребностью опосредовать сенсорный вход и поведенческий выход для решения задач (разумная САС).",
     "qualia_account": "Квалиа отождествляются с эмерджентными свойствами, возникающими непосредственно из коллективной, сложной, нелинейной динамики лежащего в основе физического субстрата.",
     "ontological_commitments": "Динамические сети, сложные и нелинейные взаимодействия, информация и результирующие эмерджентные свойства.",
@@ -43,7 +43,7 @@
     "basis_of_belief_or_evidence_type": "Вычислительный, математическое моделирование, теория систем, нейрофилософский"
   },
   "empirics_and_critiques": {
-    "testability_status": "Эмпирически и вычислительно проверяемая, на основе количественной оценки сложности, хаоса и нелинейной динамики в нейронных сетях.",
+    "testability_status": "Empirically and computationally testable, based on quantifying complexity, chaos, and non-linear dynamics within neural networks.",
     "known_empirical_interventions_or_tests": "Проверки, включающие анализ нелинейного, хаотического отношения между входами и выходами сложной системы, а также оценку адаптивных поведенческих реакций после возмущений.",
     "criticisms_and_tensions": "Теорию, как и другие функционалистские подходы, часто критикуют за описание *структуры* эмерджентного поведения системы без объяснения фундаментальной природы субъективного опыта (квалиа).",
     "open_questions_and_limitations": "Точный порог или конкретные характеристики в рамках хаотической динамики, необходимые для возникновения феноменального сознания (в отличие от бессознательной сложной обработки), остаются неустановленными.",
@@ -51,19 +51,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Вероятно",
+      "stance": "Likely",
       "rationale": "Если сознание есть прежде всего эмерджентное и адаптивное поведение достаточно сложной самоорганизующейся сети, то эти атрибуты теоретически воспроизводимы в передовых искусственных системах."
     },
     "survival_beyond_death": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Сознание укоренено в физической реальности динамических сетей внутри тела (мозга), что подразумевает его прекращение при распаде биологического субстрата."
     },
     "meaning_and_purpose": {
-      "stance": "Прагматический/экзистенциальный",
+      "stance": "Humanistic only",
       "rationale": "Функциональная роль сознания — адаптация и решение задач ради выживания, что предполагает, что смысл присущ лишь продолжающемуся существованию самой системы, а не космическому замыслу."
     },
     "virtual_immortality": {
-      "stance": "Возможно/условно",
+      "stance": "Possible",
       "rationale": "Виртуальное бессмертие было бы возможно, если сложную, нелинейную, самоорганизующуюся динамику биологической САС удастся уловить и поддерживать в небиологической среде."
     }
   },
@@ -71,19 +71,19 @@
     "related_theories": [
       {
         "name": "Functionalism",
-        "relationship": "Влияние"
+        "relationship": "Influence"
       },
       {
-        "name": "Bunge’s Emergent Materialism",
-        "relationship": "Пересечение"
+        "name": "Bunge's Emergent Materialism",
+        "relationship": "Overlap"
       },
       {
-        "name": "Combs’s Chaotic Attractor and Autopoietic Systems",
-        "relationship": "Расширение"
+        "name": "Combs's Chaotic Attractor and Autopoietic Systems",
+        "relationship": "Extension"
       },
       {
         "name": "Predictive Theories (Top-Down)",
-        "relationship": "Совместимо"
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

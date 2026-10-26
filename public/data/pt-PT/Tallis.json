@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "O ceticismo anti-neuromania de Tallis",
     "summary": "Esta perspetiva critica e rejeita as tentativas naturalistas e materialistas de explicar a consciência, argumentando que quantificar a atividade neuronal é fundamentalmente autocontraditório com o acesso à experiência qualitativa e subjetiva. Postula que o cérebro é necessário mas não suficiente, deixando a essência profunda da consciência, do eu e da intencionalidade como um mistério irredutível.",
-    "associated_thinkers": ["Raymond Tallis"],
+    "associated_thinkers": [
+      "Raymond Tallis"
+    ],
     "category": "Teorias de Desafio",
     "subcategory": "Ceticismo Anti-Neuromania",
     "core_identity_tagline": "«A consciência como mistério intacto»",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é uma realidade subjetiva irredutível (os «aparecimentos» fenoménicos na primeira pessoa) que é fundamentalmente inacessível e inexplicável pelas metodologias objetivas e quantitativas da ciência física.",
-    "ontological_status": "Agnosticismo ontológico/antimaterialismo (justificação: Tallis é ateu e rejeita as explicações sobrenaturais, o dualismo cartesiano e o panpsiquismo, comprometendo-se antes com um profundo ceticismo quanto à cognoscibilidade do fundamento da consciência).",
+    "ontological_status": "Ontological Agnosticism/Anti-Materialism (Justification: Tallis is an atheist who rejects supernatural explanations, Cartesian dualism, and panpsychism, committing instead to a deep skepticism regarding the knowability of consciousness's foundation).",
     "mind_body_relationship": "O cérebro é necessário mas não suficiente para a consciência. Qualquer alegação de identidade proposta entre a atividade neuronal e a aparência fenoménica é rejeitada porque ambas são radicalmente distintas entre si.",
-    "primitive_or_emergent_status": "Mistério irredutível (justificação: Tallis encara a lacuna explicativa como uma tarefa autocontraditória inerente à abordagem materialista, o que impede a determinação da sua natureza fundamental).",
-    "emergence_type": "N/A (justificação: Tallis critica o quadro reducionista sob o qual a emergência é habitualmente discutida; rejeita implicitamente a emergência fraca ao observar a incapacidade dos factos materiais de explicarem os factos subjetivos).",
+    "primitive_or_emergent_status": "Irreducible mystery (Justification: Tallis views the explanation gap as a self-contradictory task inherent to the materialist approach, preventing a determination of its fundamental nature).",
+    "emergence_type": "N/A (Justification: Tallis critiques the reductionist framework under which emergence is usually discussed; he rejects weak emergence implicitly by noting the inability of material facts to explain subjective facts).",
     "subjectivity_and_intentionality": "Estas são características mentais centrais não explicadas pelo materialismo; a atividade neuronal não consegue dar conta do «acerca-de» (intencionalidade) das entidades mentais nem da construção do eu.",
     "qualia_account": "Os qualia (o caráter qualitativo) são «aparecimentos» subjetivos na primeira pessoa que não podem ser captados por uma abordagem objetiva centrada na massa/energia. Por exemplo, a atividade neuronal correspondente à cor amarela é fisicamente distinta da experiência fenoménica da amarelidade.",
     "ontological_commitments": "A consciência subjetiva (a presença fenoménica, a agência, o eu) é real, mas o compromisso com qualquer ontologia subjacente específica (material/não material) é suspenso devido ao mistério generalizado.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Análise filosófica, crítica lógica e avaliação fenomenológica."
   },
   "empirics_and_critiques": {
-    "testability_status": "Crítica conceptual (justificação: o objetivo primordial da teoria é demonstrar os limites conceptuais das teorias empíricas atualmente disponíveis, em vez de propor um novo modelo empiricamente testável).",
+    "testability_status": "Conceptual Critique (Justification: The theory's primary goal is to demonstrate the conceptual limits of currently available empirical theories, rather than proposing a new empirically testable model).",
     "known_empirical_interventions_or_tests": "Nenhum proposto por Tallis. (Justificação: Tallis critica a dependência das correlações fracas observadas entre a atividade neuronal e a consciência).",
     "criticisms_and_tensions": "Tallis reconhece fragilidades fundamentais nas alternativas propostas: o dualismo é uma «causa perdida», o panpsiquismo não consegue resolver o problema da combinação (como o pó-mental forma um sujeito) e as explicações sobrenaturais são um empacotamento contraditório de incertezas.",
     "open_questions_and_limitations": "A teoria resulta em ceticismo, admitindo que os fundamentos da consciência fenoménica e do conhecimento acabam por escapar à compreensão humana.",
@@ -51,35 +53,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "Uma vez que a consciência exige qualidades subjetivas irredutíveis e intencionalidade que não podem ser explicadas por ações puramente físicas, os sistemas computacionais artificiais (que operam sobre descrições físicas/funcionais) não podem alcançar uma verdadeira consciência."
     },
     "survival_beyond_death": {
-      "stance": "Incerta",
+      "stance": "Uncertain",
       "rationale": "Embora Tallis rejeite o dualismo e as respostas sobrenaturais, o seu agnosticismo ontológico e a sua convicção de que «tudo é possível» implicam que as possibilidades não materialistas de sobrevivência não podem ser excluídas, embora ele não forneça qualquer teoria positiva que a sustente."
     },
     "meaning_and_purpose": {
-      "stance": "Humanístico/Indefinido",
+      "stance": "Humanistic only",
       "rationale": "A teoria rejeita as explicações naturalistas que deixam por explicar a consciência, o eu e as características humanas, abrindo implicitamente a porta a um sentido criado humanisticamente, mas não oferece qualquer propósito cósmico último."
     },
     "virtual_immortality": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "Se a consciência não é redutível à atividade cerebral, mas exige características radicalmente não materialistas (como os «aparecimentos» fenoménicos), uma duplicação funcional do substrato neuronal falharia em duplicar o eu consciente."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
-        "relationship": "Compatível"
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
+        "relationship": "Compatible"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
-        "relationship": "Crítica"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Critique"
       },
       {
         "name": "Panpsychism",
-        "relationship": "Crítica"
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

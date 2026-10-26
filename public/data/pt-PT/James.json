@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "A Ausência de Problema Difícil na Teoria Psicológica de William James",
     "summary": "Esta perspetiva, baseada numa interpretação da obra de William James, inverte o paradigma do Problema Difícil ao argumentar que a consciência não é um mistério da experiência subjetiva, mas um mecanismo evoluído concebido para resolver o 'problema da seleção'. Este mecanismo aumenta a aptidão do organismo ao selecionar respostas adaptativas de entre uma proliferação de opções geradas por um cérebro complexo, favorecendo resultados alinhados com os interesses de longo prazo do cérebro.",
-    "associated_thinkers": ["William James", "Tracy Witham"],
+    "associated_thinkers": [
+      "William James",
+      "Tracy Witham"
+    ],
     "category": "Materialismo",
     "subcategory": "Evolução Filogenética",
     "core_identity_tagline": "A Consciência como Mecanismo de Seleção Adaptativa",
@@ -15,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada como um mecanismo de seleção que exerce pressão em favor dos desempenhos que servem os interesses mais permanentes do organismo, radicado na atribuição de preferências por certas sensações (fins de facto).",
-    "ontological_status": "Funcionalista/fisicalista (justificação: a teoria dissolve o Problema Difícil ao atribuir à consciência um papel puramente funcional e adaptativo, alinhando-a com o objetivo do materialismo de explicar a consciência exclusivamente através de sistemas físicos).",
+    "ontological_status": "Functionalist/Physicalist (Justified: The theory dissolves the Hard Problem by assigning consciousness a purely functional, adaptive role, aligning it with Materialism's goal of explaining consciousness solely through physical systems).",
     "mind_body_relationship": "A consciência está funcionalmente empenhada em processos cerebrais complexos, especificamente ligada à formação de 'reflexos cerebrais' em que as preferências influenciam as interações organismo-ambiente.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca (justificação: a consciência emerge como uma necessidade adaptativa quando a complexidade cerebral conduz a uma proliferação de opções de resposta não-ótimas, implicando emergência a partir de uma organização física sofisticada).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justified: Consciousness emerges as an adaptive necessity when brain complexity leads to a proliferation of non-optimal response options, implying emergence from sophisticated physical organization).",
     "subjectivity_and_intentionality": "A subjetividade é tratada funcionalmente, uma vez que a consciência confere preferências por umas sensações em detrimento de outras, determinando assim a origem dos 'fins de facto' do organismo (alvos intencionais).",
     "qualia_account": "O Problema Difícil (explicar os qualia ou o 'como-é-ser') é essencialmente dissolvido ao deslocar o foco para o problema funcional que a consciência resolve (o problema da seleção).",
     "ontological_commitments": "Cérebros biológicos complexos, situações ambientais que exigem seleção adaptativa e funções psicológicas evoluídas (mecanismos de seleção, preferências).",
@@ -33,7 +36,7 @@
     "causation_and_functional_role": "A consciência é causalmente eficaz ao impor pressão sobre os desempenhos que promovem a aptidão; a sua função é resolver o 'problema da seleção' inerente aos sistemas complexos."
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptualmente testável/empiricamente plausível (justificação: assente em princípios evolutivos e na aptidão biológica, que são compatíveis com o estudo científico, classificando-a sob a rubrica da Evolução Filogenética).",
+    "testability_status": "Conceptually testable/Empirically plausible (Justified: Grounded in evolutionary principles and biological fitness, which are compatible with scientific study, classifying it under Phylogenetic Evolution).",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "A principal tensão conceptual é saber se a consciência é verdadeiramente adequada, mesmo prima facie, para abordar o 'problema da seleção' tal como descrito.",
     "open_questions_and_limitations": "A adequação precisa entre a consciência e o 'problema da seleção' permanece uma questão em aberto, tal como a compreensão da implicação dos esquemas de 'reflexo cerebral'.",
@@ -41,19 +44,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Se a consciência é primordialmente um mecanismo funcional de seleção, então qualquer sistema artificial que atinja complexidade suficiente e que exija um mecanismo semelhante para priorizar saídas adaptativas seria provavelmente considerado consciente."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "Esta interpretação da consciência está firmemente radicada na necessidade biológica evoluída e na função do cérebro, não prevendo qualquer persistência após a morte biológica."
     },
     "meaning_and_purpose": {
-      "stance": "Pragmático",
+      "stance": "Humanistic only",
       "rationale": "O sentido e o propósito estão ligados à função biológica: aumentar a aptidão evolutiva e alcançar os 'interesses mais permanentes do dono do cérebro'."
     },
     "virtual_immortality": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Enquanto teoria funcionalista, a duplicação ou o carregamento do mecanismo de seleção subjacente e da organização funcional deveria resultar na continuação bem-sucedida da consciência."
     }
   },
@@ -61,15 +64,15 @@
     "related_theories": [
       {
         "name": "Functionalism",
-        "relationship": "Compatível"
+        "relationship": "Compatible"
       },
       {
-        "name": "Dennett’s Multiple Drafts Model",
-        "relationship": "Compatível"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Compatible"
       },
       {
         "name": "Chalmers’s Hard Problem",
-        "relationship": "Crítica"
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

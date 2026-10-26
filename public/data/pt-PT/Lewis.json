@@ -1,0 +1,140 @@
+{
+  "id_and_class": {
+    "theory_title": "O Funcionalismo Analítico e a Teoria da Identidade de Papel Causal, de Lewis",
+    "summary": "Lewis define cada experiência pelo papel causal que a psicologia popular lhe atribui (as suas causas e efeitos típicos e as ligações a outros estados mentais) e deixa depois que a ciência descubra que estado físico preenche esse papel, geralmente um estado neural. A dor é aquilo que ocupa o papel da dor, pelo que a dor é esse estado neural. Os qualia são reais, mas são os ocupantes de papéis funcionais, e saber como é ter uma experiência é um conjunto de capacidades, e não o conhecimento de um facto não físico.",
+    "associated_thinkers": [
+      "David Lewis"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Identidade mente-cérebro",
+    "core_identity_tagline": "«As experiências como os ocupantes físicos de papéis causais»",
+    "classification_tags": [
+      "functionalism",
+      "identity theory",
+      "folk psychology",
+      "ability hypothesis",
+      "reductive physicalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Uma experiência é o estado físico, tipicamente neural, que ocupa o papel causal que a psicologia popular define para ela. A dor é o estado tipicamente causado por lesão e que tipicamente causa aversão.",
+    "ontological_status": "Physicalism (reductive, realizer functionalism)",
+    "mind_body_relationship": "Identidade psicofísica alcançada por argumento. Se a dor é, por definição, o ocupante do papel R e o estado neural N ocupa R, então a dor é N, por transitividade da identidade. As identidades são contingentes e relativas a uma população, pelo que a dor humana e a dor marciana podem ser estados físicos diferentes.",
+    "primitive_or_emergent_status": "Neither",
+    "emergence_type": "Not applicable (experiences are identical with their physical realizers, so nothing emerges beyond them)",
+    "subjectivity_and_intentionality": "Os termos mentais, intencionais e fenoménicos por igual, são definidos em conjunto pelo seu lugar na rede causal da psicologia popular. A familiaridade subjetiva com uma experiência consiste em capacidades de a recordar, imaginar e reconhecer.",
+    "qualia_account": "Os qualia existem como merecedores imperfeitos do nome: estados físicos suficientemente bons para preencher o papel popular. Lewis rejeita a doutrina da revelação, a ideia de que ter uma experiência revela por completo a sua natureza intrínseca, porque a natureza de uma propriedade física é assunto para a neurociência.",
+    "ontological_commitments": "Estados e acontecimentos físicos, sobretudo estados neurais, juntamente com as relações causais entre estímulos, estados internos e comportamento. Nenhuma qualidade intrínseca não física.",
+    "epistemic_access": "A análise concetual da psicologia popular fixa os papéis, e a ciência empírica encontra os seus ocupantes. A introspeção dá acesso às experiências, mas não revela a sua natureza.",
+    "constituents_and_structure": "Uma rede de estados mentais definidos reciprocamente, especificados através da frase de Ramsey da psicologia popular, cada um realizado por um estado físico concreto numa dada população."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (deflacionada, não eliminativa); sensações, crenças, desejos e os seus papéis causais",
+    "distinctive_mechanism_or_principle": "Uma redução em dois passos. Primeiro, definir um estado mental como o ocupante único de um papel causal ao ramseyficar a psicologia popular; depois, identificar empiricamente esse ocupante com um estado físico.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Em quaisquer estados físicos que preencham os papéis, tipicamente estados neurais nos humanos e possivelmente outro hardware noutras populações.",
+    "causation_and_functional_role": "As experiências são causalmente eficazes porque são os estados físicos que causam o comportamento e outros estados mentais. O papel causal é o que faz de um estado a experiência que ele é.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "Lewis nega que a experiência transporte informação indisponível para a ciência física. O que Mary ganha ao ver vermelho pela primeira vez são capacidades, e não nova informação proposicional.",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "A psicologia popular funciona como uma teoria implícita cujos termos mentais são definidos em conjunto pela rede causal que ela postula.",
+      "A identidade da dor com um estado neural decorre por transitividade, assim que a ciência encontra o ocupante do papel da dor.",
+      "Em «Mad Pain and Martian Pain», relativizar os papéis a populações permite que um louco com dor atípica e um marciano com dor hidráulica contem ambos como estando com dor.",
+      "A hipótese da capacidade responde ao argumento do conhecimento de Jackson ao tratar o saber como é ter uma experiência como saber-fazer, e não como conhecimento de um facto.",
+      "Lewis responde «sim e não» à questão de se um materialista deve acreditar em qualia, aceitando estados físicos que merecem o nome de forma imperfeita."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica (análise concetual, experiências de pensamento)"
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Conee e Alter argumentam que as capacidades e o conhecimento fenoménico podem separar-se, podendo conservar-se um sem o outro, o que mina a hipótese da capacidade. Tanto os dualistas como os fisicalistas que aceitam um fosso epistémico genuíno contestam as duas reclassificações de Lewis: o conhecimento fenoménico como saber-fazer e o acesso introspetivo como algo distinto da revelação.",
+    "open_questions_and_limitations": "Lewis não propõe nenhum mecanismo nem nenhum correlato neural da consciência. Seres únicos e «marcianos loucos» deixam indeterminação semântica nas margens da tipificação relativa a populações.",
+    "ontological_coherence": "Muito sistemático no interior do materialismo redutivo, unificando o funcionalismo com a identidade mente-cérebro. Depende de rejeitar a intuição da revelação que alimenta os argumentos dualistas."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Possible",
+      "rationale": "Lewis admite que o mesmo papel seja preenchido por hardware diferente em populações diferentes, como na dor marciana, pelo que um sistema artificial cujos estados ocupem os papéis causais certos poderia ter experiências."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Uma vez que toda a experiência é um estado físico do organismo, decorre da posição que a experiência termina quando esses estados cessam."
+    },
+    "meaning_and_purpose": {
+      "stance": "Humanistic only",
+      "rationale": "A posição é um materialismo radical, sem lugar para um propósito cósmico na explicação da mente."
+    },
+    "virtual_immortality": {
+      "stance": "Uncertain",
+      "rationale": "Uma cópia que realize os mesmos papéis poderia contar como tendo os mesmos tipos de estados, mas Lewis não abordou o carregamento da mente (uploading), e a ocupação de papéis é relativa a populações."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Smart’s Topic-Neutral Identity",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Armstrong’s Causal-Role Central-State Materialism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Putnam’s Machine Functionalism",
+        "relationship": "Contrast"
+      },
+      {
+        "name": "Jackson's Representationalism and the Knowledge Argument",
+        "relationship": "Critique"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "An Argument for the Identity Theory, David Lewis",
+        "year": 1966
+      },
+      {
+        "title_with_names": "How to Define Theoretical Terms, David Lewis",
+        "year": 1970
+      },
+      {
+        "title_with_names": "Psychophysical and Theoretical Identifications, David Lewis",
+        "year": 1972
+      },
+      {
+        "title_with_names": "Mad Pain and Martian Pain, David Lewis",
+        "year": 1980
+      },
+      {
+        "title_with_names": "What Experience Teaches, David Lewis",
+        "year": 1988
+      },
+      {
+        "title_with_names": "Reduction of Mind, David Lewis",
+        "year": 1994
+      },
+      {
+        "title_with_names": "Should a Materialist Believe in Qualia?, David Lewis",
+        "year": 1995
+      },
+      {
+        "title_with_names": "Epiphenomenal Qualia, F. Jackson",
+        "year": 1982
+      },
+      {
+        "title_with_names": "Physicalism and the Cognitive Role of Acquaintance, L. Nemirow",
+        "year": 1990
+      },
+      {
+        "title_with_names": "Phenomenal Knowledge, E. Conee",
+        "year": 1994
+      },
+      {
+        "title_with_names": "Know-How, Ability, and the Ability Hypothesis, T. Alter",
+        "year": 2001
+      }
+    ]
+  }
+}

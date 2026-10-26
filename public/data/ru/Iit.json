@@ -19,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание отождествляется с &Phi;-структурой, максимально редуцированной концептуальной структурой, существующей в «пространстве квалиа». Переживание тождественно этой концептуальной структуре, а значит его феноменальные свойства в точности соответствуют физическим свойствам причинно-следственной структуры, развёрнутой из физического субстрата сознания (PSC).",
-    "ontological_status": "Фундаментальная онтология IIT — это онтологическая первичность феноменального существования, основанная на воззрении о внутренних силах, согласно которому в физических терминах истинно существуют внутренние сущности, способные к причине и следствию. Кох отмечает, что теория настаивает: сознание должно быть включено в базовое описание реальности на самом фундаментальном уровне.",
+    "ontological_status": "IIT's fundamental ontology is the ontological primacy of phenomenal existence, based on an intrinsic powers view where what truly exists in physical terms are intrinsic entities capable of cause and effect. Koch notes that the theory insists consciousness must be incorporated into the basic description of reality at the rock-bottom level.",
     "mind_body_relationship": "IIT утверждает объяснительное тождество: переживание тождественно &Phi;-структуре. Она полагает, что сознательная сущность есть &Phi;-структура, выражающая свои каузальные силы, а не сам нейронный субстрат. Эта рамка не оставляет места для эмерджентности или дуализма.",
-    "primitive_or_emergent_status": "Сознание определяется внутренним существованием и характеризуется как принадлежащее базовому описанию реальности. Теория отвергает эмерджентность.",
-    "emergence_type": "Теория отвергает эмерджентность.",
+    "primitive_or_emergent_status": "Consciousness is defined by intrinsic existence and characterized as belonging to the basic description of reality. The theory rejects emergence.",
+    "emergence_type": "The theory rejects emergence.",
     "subjectivity_and_intentionality": "Субъективность рассматривается аксиомой внутреннего существования: сознание существует в силу своей внутренней природы и внутренней перспективы. Содержания переживания, включая мысли и намерения, соответствуют подструктурам (&Phi;-складкам) внутри &Phi;-структуры.",
     "qualia_account": "Различные сознательные переживания суть концептуальные структуры в «пространстве квалиа». Качественное переживание (феноменальные свойства) соответствует один к одному физическим свойствам максимально нередуцируемой причинно-следственной структуры, которая также называется квале.",
     "ontological_commitments": "Внутренние сущности, обладающие внутренней причинно-следственной силой; концептуальные структуры (&Phi;-структуры); пространство квалиа.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Феноменологическое, математическое, научное / эмпирическое."
   },
   "empirics_and_critiques": {
-    "testability_status": "IIT заявляет о научной проверяемости, применяя количественное измерение. Однако критики доказывают, что теория не проверена эмпирически по-настоящему и что её основные предсказания могут быть идиосинкразическими.",
+    "testability_status": "IIT claims scientific testability, employing quantitative measurement. However, critics argue that the theory is not truly empirically tested, and its core predictions may be idiosyncratic.",
     "known_empirical_interventions_or_tests": [
       "Вычисление &Phi;(Phi) для конкретных нейронных сетей (например, зрительной коры).",
       "Мониторинг мозговой активности по мере погружения субъектов в анестезию.",
@@ -59,39 +59,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Нет (строго условно)",
+      "stance": "No",
       "rationale": "Кох, сторонник теории, доказывает, что сознание невычислимо. Цифровые компьютеры имеют пренебрежимо малую интегрированную информацию (&Phi;(Phi)) из-за структуры оборудования, а значит они никогда не могут быть чувствующими, независимо от интеллекта."
     },
     "survival_beyond_death": {
-      "stance": "Неопределённо",
+      "stance": "Uncertain",
       "rationale": "Если феноменальное сознание требует радикально новой структуры (как постулаты IIT), потенциальную неизменность этих «непостижимых вещей» нельзя отвергнуть, что оставляет возможность выживания открытой, хотя IIT явно не отстаивает жизнь после смерти."
     },
     "meaning_and_purpose": {
-      "stance": "Воздержаться от суждения",
+      "stance": "Uncertain",
       "rationale": "Хотя измерение и анализ сознания не сообщают предельного смысла, спекулятивная природа и новизна бесчисленных n-мерных концептуальных структур (сознательных перцептов) оправдывают воздержание от суждения о предельном смысле / цели / ценности."
     },
     "virtual_immortality": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Если сознание есть фундаментальное свойство, связанное с реальной причинно-следственной силой, цифровая симуляция (загрузка) создала бы лишь «совершенного зомби» — сущность, действующую как оригинал, но лишённую субъективного сознания, — потому что симуляция виртуальна и лишена требуемой реальной причинно-следственной силы."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Критика (IIT радикально расходится с функционалистским подходом GWT, а сторонники критиковали состязательные сотрудничества, проверяющие GWT против IIT.)"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Critique (IIT disagrees radically with the functionalist approach of GWT, and advocates criticized adversarial collaborations testing GWT against IIT.)"
       },
       {
         "name": "Panpsychism",
-        "relationship": "Общие интуиции / дистанцирование (IIT разделяет интуицию, что сознание фундаментально и градуировано, но заявляет, что специфицирует, какие системы сознательны, отчасти решая проблему комбинации — крупный недостаток панпсихизма.)"
+        "relationship": "Shared intuitions/Distancing (IIT shares the intuition that consciousness is fundamental and graded, but claims to specify which systems are conscious, partially solving the combination problem, a major shortcoming of panpsychism.)"
       },
       {
-        "name": "Max Tegmark’s State of Matter",
-        "relationship": "Расширение (подход Тегмарка обобщает IIT для сознания на основе нейронных сетей и произвольных квантовых систем.)"
+        "name": "Tegmark's State of Matter",
+        "relationship": "Extension (Tegmark’s approach generalizes IIT for neural-network-based consciousness and arbitrary quantum systems.)"
       },
       {
         "name": "Qualia Research Institute’s State-Space",
-        "relationship": "Совместима / влияние (QRI использует концепцию математического изоморфизма из IIT и наиболее совместим с ней.)"
+        "relationship": "Compatible/Influence (QRI leverages the mathematical isomorphism concept from IIT and is most compatible with it.)"
       }
     ],
     "sources_and_references": [

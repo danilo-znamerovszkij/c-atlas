@@ -18,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість і розум визначаються як вельми складні фізичні процеси — еволюційно сформований набір знарядь мислення, побудований на матеріальних процесах, де «магія» розуму досягається без магії.",
-    "ontological_status": "Фізикалізм",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Теорія тотожності/редукціоністська. Ментальні стани є цілковито продуктом біологічних мізків, повністю пояснюваним фізичними станами, що узгоджується з ширшою матеріалістичною позицією Деннета.",
-    "primitive_or_emergent_status": "Емерджентний",
-    "emergence_type": "Слабка емерджентність. Свідомість повністю пояснювана в принципі базовими фізичними процесами, що відкидає потребу в сильній емерджентності чи нефізичному втручанні.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consciousness is fully explainable in principle by underlying physical processes, rejecting the need for strong emergence or non-physical intervention.",
     "subjectivity_and_intentionality": "Суб'єктивність конструюється через еволюційно сформовані організаційні структури, як-от «центр наративної гравітації». Інтенційність (спрямованість на об'єкт) постає, коли складні скупчення молекул еволюціонують здатність мати значення чи зміст.",
     "qualia_account": "Квалія (якісне відчуття) розглядаються як непослідовні та ілюзорні «ілюзії користувача» — складні, активовані нейронні мережі, що є результатом еволюційного процесу, а не внутрішні, неаналізовані ментальні властивості.",
     "ontological_commitments": "Фізичний світ, природні закони, біологічні мізки та процеси природного добору.",
@@ -45,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Філософський аргумент, еволюційна біологія, логіка"
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально перевірне на біологічну та неодарвінівську узгодженість; опосередковано підтримане нейронауковими висновками, корельованими з функціоналістськими моделями.",
+    "testability_status": "Conceptually testable against biological and neo-Darwinian consistency; indirectly supported by neuroscientific findings correlated with functionalist models.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Критикується за обхід «важкої проблеми» через утвердження того, що свідомість (квалія) є ілюзією чи псевдопроблемою. Опоненти ставлять під сумнів еволюційну перевагу суб'єктивного досвіду, якщо він є лише ілюзією чи епіфеноменом.",
     "open_questions_and_limitations": "Не надає прямого пояснення суб'єктивного відчуття досвіду, лише пояснення того, чому ми *повідомляємо* про наявність такого досвіду.",
@@ -53,39 +53,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Оскільки свідомість є цілковито матеріальною й постає зі складної організації (функціоналізм/матеріалізм), немає принципової заборони на досягнення свідомості небіологічними інтелектами, якщо відтворено правильну складність."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Свідомість цілковито пов'язана з фізичним мозком; смерть спричиняє безповоротне й остаточне неіснування, якщо тільки самість не збережено цифрово (віртуальне безсмертя)."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичне",
+      "stance": "Humanistic only",
       "rationale": "Еволюційний процес діє через «задум без проєктувальника», тобто немає притаманного космічного сенсу чи мети; сенс самостворюється свідомими людьми."
     },
     "virtual_immortality": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Якщо свідомість цілковито пояснюється еволюційно сформованою фізичною/функціональною організацією мозку, то досконале дублювання цих нейронних патернів і шляхів у небіологічному середовищі мало б зберегти ментальну самість від першої особи."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Multiple Drafts Model",
-        "relationship": "Основа"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Foundation"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
-        "relationship": "Перетин"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Overlap"
       },
       {
-        "name": "Lycan’s Homuncular Functionalism",
-        "relationship": "Сумісна"
+        "name": "Lycan's Homuncular Functionalism",
+        "relationship": "Compatible"
       },
       {
-        "name": "LeDoux’s Deep Roots of Consciousness",
-        "relationship": "Сумісна"
+        "name": "LeDoux's Deep Roots of Consciousness",
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

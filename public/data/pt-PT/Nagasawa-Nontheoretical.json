@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "A Teoria do Fisicalismo Não Teórico de Nagasawa",
     "summary": "Esta teoria afirma que o mundo é inteiramente físico, embora contenha factos físicos específicos acerca da consciência que não podem ser captados nem explicados sequer por teorias completas das ciências físicas. Funciona como uma formulação alternativa do fisicalismo que procura reconciliar a ontologia física com as aparentes falhas das teorias redutivas em apreender a consciência fenomenal.",
-    "associated_thinkers": ["Yujin Nagasawa"],
+    "associated_thinkers": [
+      "Yujin Nagasawa"
+    ],
     "category": "Fisicalismo Não Redutivo",
     "subcategory": "Formulação Alternativa do Fisicalismo",
     "core_identity_tagline": "Fisicalismo para além da teoria física",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é constituída por factos físicos baseados em entidades que existem fora do quadro conceptual da ciência física teórica completa.",
-    "ontological_status": "Fisicalismo",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "A mente/consciência é idêntica à realidade física; contudo, certos factos acerca da consciência são inacessíveis ao conhecimento teórico tradicional (lacuna epistémica), o que exige uma compreensão desta identidade baseada em entidades, e não em teoria.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência Forte",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence",
     "subjectivity_and_intentionality": "A experiência subjetiva está fundamentada em factos físicos específicos e 'não teóricos' que não podem ser captados por uma explicação científica completa, preservando assim o mistério epistémico da subjetividade ao mesmo tempo que afirma a sua natureza física.",
     "qualia_account": "Os factos dos qualia são factos físicos, mas pertencem ao domínio da realidade física que escapa à captação pelas teorias físicas atuais ou completas.",
     "ontological_commitments": "Realidade física, entidades físicas e factos físicos não teóricos.",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico"
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptualmente testável (através de argumentos filosóficos); empiricamente limitada/especulativa devido à definição de 'factos não teóricos'.",
+    "testability_status": "Conceptually testable (via philosophical arguments); empirically limited/speculative due to the definition of 'nontheoretical facts'.",
     "known_empirical_interventions_or_tests": "Não especificado; assenta em argumentos conceptuais/epistemológicos (por exemplo, a crítica do Argumento do Conhecimento) em vez de testes empíricos das suas alegações centrais.",
     "criticisms_and_tensions": "Enfrenta a tensão inerente a definir o fisicalismo apelando a aspetos da realidade que escapam necessariamente a uma teorização científica completa, correndo o risco de ambiguidade ontológica. É uma defesa contra as falhas do fisicalismo tradicional.",
     "open_questions_and_limitations": "A natureza e a estrutura precisas dos factos físicos não teóricos, e a justificação de por que motivo estes factos específicos são inerentemente incaptáveis, continuam a ser questões em aberto.",
@@ -50,35 +52,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Como o mundo é inteiramente físico e a consciência assenta em factos físicos baseados em entidades, os sistemas artificiais complexos poderiam, em princípio, instanciar os factos físicos não teóricos necessários."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "Enquanto forma de fisicalismo, a consciência está ligada ao mundo físico, e não há qualquer indício de que permita a persistência após a dissolução do substrato físico."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanista",
+      "stance": "Humanistic only",
       "rationale": "A ontologia é estritamente física, o que não implica inerentemente um sentido ou propósito cósmico último, embora reconheça factos físicos inacessíveis à teoria científica."
     },
     "virtual_immortality": {
-      "stance": "Condicional (Tecnologicamente limitada)",
+      "stance": "Conditional",
       "rationale": "Se a entidade física específica (ou a sua configuração) que incorpora os factos não teóricos da consciência puder ser perfeitamente duplicada ou carregada para suportes não biológicos, a imortalidade virtual é tecnicamente possível, embora altamente desafiante."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Physicalism",
-        "relationship": "Extensão"
+        "name": "Materialism",
+        "relationship": "Extension"
       },
       {
-        "name": "Non-Reductive Physicalism",
-        "relationship": "Crítica/Alternativa"
+        "name": "Non-Reductive",
+        "relationship": "Critique/Alternative"
       },
       {
         "name": "The Knowledge Argument",
-        "relationship": "Influência"
+        "relationship": "Influence"
       }
     ],
     "sources_and_references": [

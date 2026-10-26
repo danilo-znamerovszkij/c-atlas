@@ -21,10 +21,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість і розум ґрунтуються на субстанційній, єдиній, цілком нематеріальній душі, яка є сутністю, що має переживання й обґрунтовує особистісну ідентичність.",
-    "ontological_status": "Субстанційний дуалізм. Реальність складається щонайменше з двох онтологічних категорій: фізичної (мозок/тіло) та нефізичної (душа).",
+    "ontological_status": "Substance Dualism. Reality consists of at least two ontological categories: physical (brain/body) and nonphysical (soul).",
     "mind_body_relationship": "Інтеракціоністське: нематеріальна душа співвідноситься з фізичним тілом/мозком інформуючим та причинно-наслідковим чином, тобто фізичні стани спричиняють феноменальні стани, а феноменальні стани спричиняють фізичні стани.",
-    "primitive_or_emergent_status": "Первинний. Душа є субстанційною, нефізичною субстанцією, яку часто вважають створеною та наділеною Богом (креаціонізм), а не такою, що виникає з матеріальних процесів.",
-    "emergence_type": "Незастосовно. Душа визначається як субстанційна сутність, незалежна від фізичного світу, яка зазвичай створюється чи наділяється, а не є емерджентною з процесів нижчого рівня.",
+    "primitive_or_emergent_status": "Primitive. The soul is a substantial, nonphysical substance, often held to be created and allocated by God (Creationism) rather than arising from material processes.",
+    "emergence_type": "Not Applicable (N/A). The soul is defined as a substantial entity that is independent of the physical world and is typically created or allocated, rather than being emergent from lower-level processes.",
     "subjectivity_and_intentionality": "Суб'єктивність є властивою душі, яка є неподільно єдиним, свідомим носієм свідомих властивостей від першої особи. Фундаментальна єдність свідомості свідчить проти того, щоб мозок (агрегат відокремлюваних частин) був джерелом.",
     "qualia_account": "Квалія (якісне відчуття) є феноменальними властивостями, які несе нематеріальна душа, що забезпечує єдине, цілісне усвідомлення складних переживань.",
     "ontological_commitments": "Нефізична, субстанційна душа («нематеріальне окреме»); фізичне тіло/мозок; і часто Бог (як творець чи податель душ).",
@@ -53,7 +53,7 @@
     "basis_of_belief_or_evidence_type": "Філософський (напр., модальні аргументи щодо нередуковності), богословський (тлумачення Писання), феноменологічний (інтроспекція/самоусвідомлення)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Спекулятивний/філософський. Пряма емпірична перевірка неможлива через нефізичну природу душі. Стверджується, що емпіричні докази виживання після смерті (як-от навколосмертні/позатілесні переживання) миттєво фальсифікували б матеріалізм і підтримали б дуалізм.",
+    "testability_status": "Speculative/Philosophical. Direct empirical testing is impossible due to the soul’s nonphysical nature. It is argued that empirical evidence for survival beyond death (like NDEs/OBEs) would instantaneously falsify materialism and support dualism.",
     "known_empirical_interventions_or_tests": "Повідомлювані спостереження, як-от навколосмертні переживання (NDE) та позатілесні переживання (OBE), наводяться прихильниками як явища, що потребують нефізичного пояснення, яке надає душа.",
     "criticisms_and_tensions": "Головною суперечністю є проблема ментальної причинності (як нематеріальна душа може причинно взаємодіяти з фізичним тілом/мозком) та конфлікт із широко прийнятим науковим принципом причинної замкненості фізичного світу. Критики часто пояснюють збереження цього погляду «народними міфами» чи стійкими традиціями.",
     "open_questions_and_limitations": "Вона не пояснює точного складу чи сутності душі (її відмінність від інших душ є «остаточною, неаналізовною»). Вона стикається з глибокою складністю врахування ментальної причинності без порушення фізики.",
@@ -61,28 +61,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ні (переважно)",
+      "stance": "Unlikely",
       "rationale": "Якщо свідомість потребує радикально відокремленої, нефізичної субстанції (душі), яка божественно створюється чи наділяється, небіологічні інтелекти не могли б породити цей необхідний компонент, роблячи свідомість ШІ неможливою."
     },
     "survival_beyond_death": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Душа є «справжнім тобою», існуючи незалежно від тіла й надаючи найчіткіший механізм для збереження індивідуальної свідомості після смерті, виконуючи засадниче положення авраамічних релігій."
     },
     "meaning_and_purpose": {
-      "stance": "Остаточний/космічний",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Як богословська теорія, вона надає остаточний сенс, мету й цінність, пов'язані з божественним творенням, призначенням та духовною природою людського існування."
     },
     "virtual_immortality": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Завантаження нейронних патернів і шляхів лише дублювало б фізичну основу свідомості. Оскільки необхідна нефізична субстанція (душа) була б відсутня в дублікаті, збереження ментальної самості від першої особи було б неможливим."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Перекриття" },
-      { "name": "Thomistic Dualism", "relationship": "Розширення" },
-      { "name": "Non-Reductive Physicalism", "relationship": "Критика" },
-      { "name": "Emergent Dualism", "relationship": "Варіація" }
+      {
+        "name": "Dualism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Thomistic Dualism",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Non-Reductive",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Variation"
+      }
     ],
     "sources_and_references": [
       {

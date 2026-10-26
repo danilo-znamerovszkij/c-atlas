@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "Реляційний підхід Цучії до свідомості",
     "summary": "Цей підхід є насамперед методологією, що прагне охарактеризувати та визначити свідомість через вичерпні описи її відношень до всіх інших свідомостей. Він використовує теорію категорій, інструмент, заснований на математичних структурах та їхніх відношеннях, щоб описати структуру та взаємозв'язки свідомої феноменології з математичною точністю.",
-    "associated_thinkers": ["Nao Tsuchiya", "Hayato Saigo"],
+    "associated_thinkers": [
+      "Nao Tsuchiya",
+      "Hayato Saigo"
+    ],
     "category": "Матеріалістичні теорії",
     "subcategory": "Реляційний",
     "core_identity_tagline": "Свідомість як математично охарактеризовані відношення",
@@ -15,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість ототожнюється зі структурою відношень, охарактеризованою теорією категорій (математичними структурами та їхніми відношеннями), застосованою до феноменального досвіду.",
-    "ontological_status": "Фізикалізм (реляційний). Обґрунтування: Теорію віднесено до загальної категорії матеріалістичних теорій.",
+    "ontological_status": "Physicalism (Relational). Justification: The theory is classified under the overarching category of Materialism Theories.",
     "mind_body_relationship": "Кореляція/тотожність на основі складних структурних відношень. Обґрунтування: Виводиться з її класифікації в межах матеріалістичних/реляційних теорій, з фокусом на визначенні структур, а не нередукованої ментальної субстанції.",
-    "primitive_or_emergent_status": "Емерджентний. Обґрунтування: Виводиться з класифікації підходу в межах матеріалістичних теорій.",
-    "emergence_type": "Слабка емерджентність. Обґрунтування: Припускається на основі його послідовного розміщення в межах матеріалістичної рамки, що вказує на те, що складність відношень постає з фізичних компонентів нижчого рівня та в принципі пояснюється ними.",
+    "primitive_or_emergent_status": "Emergent. Justification: Inferred from the classification of the approach within Materialism Theories.",
+    "emergence_type": "Weak Emergence. Justification: Assumed based on its consistent placement within the Materialism framework, suggesting that the complexity of relationships arises from, and is in principle explainable by, lower-level physical components.",
     "subjectivity_and_intentionality": "Явно не деталізовано, але підхід визначає категорії свідомості, які імпліцитно структурують феноменальний зміст. Обґрунтування: Методологія зосереджується на визначенні змістів та рівнів, а не на самій важкій проблемі суб'єктивного відчуття.",
     "qualia_account": "Квалія відповідають визначуваним, реляційним феноменологічним структурам, охарактеризованим з математичною точністю. Обґрунтування: Виводиться з явного фокусу теорії на характеризації структури свідомої феноменології за допомогою математики.",
     "ontological_commitments": "Математичні структури (теорія категорій), свідома феноменологія та фізичні субстрати, що реалізують ці відношення (мається на увазі класифікацією як матеріалізм).",
@@ -41,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Концептуальний, математичний, методологічний"
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально та емпірично перевірна. Підхід має на меті надихнути подальші теоретичні та емпіричні дослідження.",
+    "testability_status": "Conceptually and Empirically testable. The approach aims to inspire further theoretical and empirical research.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Явно не деталізовано в джерелі. Обґрунтування: Текст описує підхід нейтрально як методологію.",
     "open_questions_and_limitations": "Головним обмеженням є те, чи запропоновані концептуальні інструменти можуть успішно прояснити та визначити свідомість, і чи можуть вони надихнути вирішальну емпіричну валідацію.",
@@ -49,35 +52,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Імовірно",
+      "stance": "Likely",
       "rationale": "Якщо свідомість фундаментально визначається відношеннями та структурами, які можна точно описати математично (через теорію категорій), ці структури мають бути реалізовними в передових небіологічних обчислювальних системах."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Теорію віднесено до матеріалізму, що передбачає залежність свідомості від фізичного субстрату (імовірно, мозку), який реалізує реляційні структури, а отже, вона припиняється після біологічної смерті."
     },
     "meaning_and_purpose": {
-      "stance": "Гуманістичний/прагматичний",
+      "stance": "Humanistic only",
       "rationale": "Як структурна, матеріалістична методологія, вона пропонує інструменти для визначення свідомості, але не надає притаманного космічного чи остаточного сенсу поза тим, що створений людським досвідом."
     },
     "virtual_immortality": {
-      "stance": "Імовірно",
+      "stance": "Likely",
       "rationale": "Оскільки свідомість характеризується точно кількісно вимірюваними та визначуваними відношеннями й категоріями, дублювання цих структур у віртуальному чи цифровому субстраті мало б, у принципі, дозволити продовження свідомої самості."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Relational Theories",
-        "relationship": "Підтримується"
+        "name": "Relational",
+        "relationship": "Supported By"
       },
       {
-        "name": "Jaworski’s Hylomorphism",
-        "relationship": "Пов'язана (спільна категорія)"
+        "name": "Jaworski's Hylomorphism",
+        "relationship": "Related (Shared category)"
       },
       {
         "name": "Category Theory in Mathematics",
-        "relationship": "Основа"
+        "relationship": "Foundation"
       }
     ],
     "sources_and_references": [

@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "A Teoria da Neurofilosofia Não Redutiva de Northoff",
     "summary": "Esta teoria é primordialmente uma estratégia metodológica concebida para analisar a intrincada relação entre o cérebro e a mente, ligando de forma sistemática e bilateral conceitos filosóficos e teorias ontológicas aos dados empíricos da neurociência. O seu objetivo é proporcionar uma visão da subjetividade sem reduzir os conceitos mentais a factos físicos.",
-    "associated_thinkers": ["Georg Northoff"],
+    "associated_thinkers": [
+      "Georg Northoff"
+    ],
     "category": "Fisicalismo Não Redutivo",
     "subcategory": "Neurofilosofia Não Redutiva",
     "core_identity_tagline": "Ferramenta Metodológica na Interface entre Filosofia e Neurociência",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A abordagem é primordialmente metodológica, concentrando-se na relação rigorosa entre conceitos e factos. A dimensão fundacional da consciência (a senciência) é identificada como uma estrutura intrinsecamente têmporo-espacial resultante da atividade espontânea do cérebro.",
-    "ontological_status": "Fisicalismo não redutivo",
+    "ontological_status": "Non-reductive Physicalism",
     "mind_body_relationship": "Os estados conscientes são concebidos em termos dinâmicos espácio-temporais, complementando e alargando a sua caracterização cognitiva sem reduzir o mental ao físico. As características mentais são vistas como aninhadas dentro da atividade do cérebro.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Não Redução Metodológica. (Justificação: O enfoque explícito é manter a irredutibilidade dos conceitos mentais afirmando simultaneamente uma base física, em consonância com os objetivos filosóficos do fisicalismo não redutivo.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Methodological Non-Reduction. (Justification: The explicit focus is maintaining the irreducibility of mental concepts while affirming a physical basis, aligning with the philosophical goals of non-reductive physicalism.)",
     "subjectivity_and_intentionality": "A abordagem metodológica está orientada para proporcionar uma visão da subjetividade da ligação cérebro-mente. Características mentais como a intencionalidade são vistas como aspetos destacados da complexa e dinâmica realidade têmporo-espacial subjacente do cérebro.",
     "qualia_account": "Dá conta da capacidade de sentir, definida como 'senciência', uma dimensão básica e fundamental da consciência que decorre da integração, pelo cérebro, dos aportes do corpo e do ambiente dentro da sua matriz têmporo-espacial.",
     "ontological_commitments": "Atividade cerebral, relações espácio-temporais (escalas aninhadas) e a capacidade funcional de senciência.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico (quadro metodológico) e Empírico (derivado da investigação em neurociência espácio-temporal)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Empírica e conceptualmente testável, dado que é definida como uma estratégia metodológica aplicada a dados de neurociência espácio-temporal.",
+    "testability_status": "Empirically and conceptually testable, as it is defined as a methodological strategy applied to spatiotemporal neuroscience data.",
     "known_empirical_interventions_or_tests": "Estudos que recorrem à neurociência espácio-temporal e se concentram na análise da atividade, da estrutura e das relações espácio-temporais do cérebro.",
     "criticisms_and_tensions": "Nenhuma explicitamente listada contra esta teoria em particular, embora vise dissolver questões filosóficas gerais como o problema mente-corpo, deslocando o enfoque para a relação mundo-cérebro.",
     "open_questions_and_limitations": "Requer maior detalhe sobre como as diferentes escalas espácio-temporais se aninham e como isto capta de forma abrangente as características mentais.",
@@ -51,35 +53,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Enquanto abordagem fisicalista não redutiva, a consciência está ligada à instanciação de dinâmicas complexas específicas (mecanismos têmporo-espaciais); se estas dinâmicas puderem ser replicadas artificialmente, a consciência na IA deverá ser possível."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A teoria está fundamentada em mecanismos físicos do cérebro (neuroecológicos, neuroviscerais, matriz de atividade espontânea). A cessação destes processos físicos implica a cessação da estrutura consciente emergente (a senciência)."
     },
     "meaning_and_purpose": {
-      "stance": "Incerto",
+      "stance": "Uncertain",
       "rationale": "A teoria é primordialmente metodológica, concentrando-se na mecânica e na estrutura da consciência, e não num sentido cósmico último. Contudo, a sua postura não redutiva é compatível com a afirmação de um sentido e de um valor que decorrem da subjetividade."
     },
     "virtual_immortality": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Se a consciência é emergente de dinâmicas espácio-temporais complexas e não redutivas, existe a possibilidade teórica de que uma replicação e um carregamento perfeitos destes padrões complexos preservem com êxito o eu consciente na primeira pessoa, em consonância com os aspetos funcionalistas implícitos nesta categoria."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Northoff’s Temporo-Spatial Sentience",
-        "relationship": "Extensão"
+        "name": "Northoff's Temporo-Spatial Sentience",
+        "relationship": "Extension"
       },
       {
-        "name": "Embodied and Enactive Theories",
-        "relationship": "Compatível"
+        "name": "Embodied",
+        "relationship": "Compatible"
       },
       {
         "name": "Mind-Body Problem",
-        "relationship": "Crítica"
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

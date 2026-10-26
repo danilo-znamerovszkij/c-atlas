@@ -1,0 +1,99 @@
+{
+  "id_and_class": {
+    "theory_title": "O Dualismo Naturalista de Chalmers",
+    "summary": "David Chalmers defende que a consciência fenoménica não pode ser reduzida a estados físicos do cérebro, mas que nada de sobrenatural existe. A sua resposta é tratar a experiência como uma característica fundamental do mundo, a par da massa, da carga e do espaço-tempo, ligada aos processos físicos por leis psicofísicas que a ciência ainda não descobriu.",
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
+    "category": "Dualismo",
+    "subcategory": "",
+    "core_identity_tagline": "A consciência como propriedade natural fundamental, regida por leis",
+    "classification_tags": [
+      "property dualism",
+      "hard problem",
+      "zombies",
+      "psychophysical laws",
+      "naturalism"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A experiência consciente é uma propriedade básica, não física, do mundo natural, sistematicamente ligada às propriedades físicas por leis fundamentais.",
+    "ontological_status": "Property dualism (naturalistic)",
+    "mind_body_relationship": "As propriedades mentais são distintas das físicas e não redutíveis a elas, mas estão regularmente correlacionadas com processos físicos. Chalmers rejeita a substância mental cartesiana e qualquer «fantasma na máquina» que faça trabalho causal adicional, porque o mundo físico é, mais ou menos, causalmente fechado.",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "Not applicable (experience is a fundamental property; bridging laws say how it arises from physical processes but do not derive it from them)",
+    "subjectivity_and_intentionality": "A experiência subjetiva é tomada como um dado que nenhuma explicação física ou funcional pode implicar logicamente. A intencionalidade não é abordada em separado.",
+    "qualia_account": "Os qualia são reais e irredutíveis. Como é concebível um mundo fisicamente idêntico sem experiência (um «mundo de zombies»), os factos físicos não fixam logicamente os factos qualitativos, pelo que os qualia têm de ser acrescentados como básicos.",
+    "ontological_commitments": "Entidades e propriedades físicas tal como descritas pela física, mais propriedades fenoménicas fundamentais e as leis psicofísicas que ligam as duas. Sem almas, espíritos ou causas sobrenaturais.",
+    "epistemic_access": "A experiência é conhecida em primeira pessoa e é inegável. As leis psicofísicas hão de ser encontradas correlacionando a experiência com processos físicos, tal como a física encontra regularidades.",
+    "constituents_and_structure": "Um universo que se reduz a uma rede de entidades básicas que obedecem a leis simples, em que as propriedades básicas incluem a experiência, além das quantidades físicas."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Consciência fenoménica (o problema difícil).",
+    "distinctive_mechanism_or_principle": "Leis-ponte psicofísicas: novos princípios fundamentais, acrescentados às leis básicas da natureza, que ligam os processos físicos à experiência. Chalmers aponta a sua teoria da informação de duplo aspeto como candidata ao modo como estas leis funcionam.",
+    "dynamics_of_emergence": "",
+    "location_and_distribution": "Onde quer que as leis psicofísicas liguem estados físicos à experiência; a perspetiva não localiza a consciência numa região cerebral específica.",
+    "causation_and_functional_role": "Chalmers sustenta que os acontecimentos físicos têm causas físicas suficientes, o que não deixa lugar para que uma mente não física faça trabalho causal adicional. Entende que a indeterminação quântica provavelmente não pode ser explorada para dar à mente um papel causal.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "A experiência consciente não sobrevém logicamente ao físico, porque é concebível um mundo de zombies fisicamente idêntico.",
+      "Se assim for, nenhuma explicação redutiva da consciência pode ter êxito.",
+      "A consciência deve ser tratada como fundamental, com leis fundamentais próprias, tal como a física trata a massa e a carga.",
+      "Este dualismo não contradiz nada na teoria física; limita-se a acrescentar princípios-ponte."
+    ],
+    "basis_of_belief_or_evidence_type": "Filosófica: argumentos de concebibilidade e modais, mais o dado em primeira pessoa da experiência."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Conceptually testable",
+    "known_empirical_interventions_or_tests": "",
+    "criticisms_and_tensions": "Se o mundo físico é causalmente fechado e a experiência é não física, a experiência parece não fazer qualquer trabalho causal, o que empurra a perspetiva para o epifenomenalismo. O argumento dos zombies depende também da passagem da concebibilidade à possibilidade genuína.",
+    "open_questions_and_limitations": "As leis psicofísicas são desconhecidas, e a perspetiva afirma a sua existência sem as enunciar.",
+    "ontological_coherence": "Chalmers apresenta-o como um dualismo «inocente», que mantém uma visão científica do mundo alargando a lista de propriedades básicas em vez de acrescentar uma substância mental."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Conditional",
+      "rationale": "Saber se uma máquina é consciente depende daquilo a que as leis psicofísicas associam a experiência; se acompanham uma organização física ou informacional que uma máquina possa partilhar, teria experiência."
+    },
+    "survival_beyond_death": {
+      "stance": "Unlikely",
+      "rationale": "Como a experiência surge de processos físicos através de leis naturais e Chalmers exclui tudo o que seja sobrenatural, a perspetiva não dá fundamento para que a experiência continue sem a sua base física."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "Conditional",
+      "rationale": "Uma simulação só transportaria experiência se as leis psicofísicas associassem a experiência às características que a simulação reproduz."
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Chalmers’s Double-Aspect Theory of Information",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Property Dualism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Descartes’s Substance Dualism",
+        "relationship": "Contrast"
+      },
+      {
+        "name": "Epiphenomenalism",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "The Conscious Mind, David Chalmers",
+        "year": 1996
+      }
+    ]
+  }
+}

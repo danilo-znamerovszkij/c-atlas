@@ -18,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание отождествляется с высокоуровневой, абстрактной репрезентацией лежащей в основе нейронной активности, необходимой для суммирования сложности и постановки долгосрочных целей.",
-    "ontological_status": "Агностический поссибилианизм. Признаёт сильную эмпирическую связь с физикализмом, но остаётся открытым к альтернативным (нематериалистическим) объяснениям ввиду концептуальной трудности трудной проблемы.",
+    "ontological_status": "Agnostic Possibilianism. It acknowledges the strong empirical link to physicalism but remains open to alternative (non-materialist) explanations due to the conceptual difficulty of the hard problem.",
     "mind_body_relationship": "Неотъемлемая зависимость. Сознание неотъемлемо зависит от мозга, что демонстрируется последствиями повреждений мозга, но само отношение зависимости явно оставлено открытым вопросом (то есть необходимость против достаточности).",
-    "primitive_or_emergent_status": "Эмерджентный/неопределённый. Сознание описывается как надстройка над сложной машинерией, что подразумевает эмерджентность, хотя субъективное «переживание» считается неразрешённой тайной, которая может бросать вызов чистой эмерджентности.",
-    "emergence_type": "Неопределённый. Хотя наблюдаемая корреляция подразумевает эмерджентность из физических процессов, неспособность концептуально объяснить, как возникает качественное переживание, указывает на возможную необходимость нематериальных факторов, если материализм недостаточен.",
+    "primitive_or_emergent_status": "Emergent/Uncertain. Consciousness is described as riding on top of complex machinery, implying emergence, though the subjective 'feel' is considered an unsolved mystery that might challenge pure emergence.",
+    "emergence_type": "Uncertain. While the observed correlation implies emergence from physical processes, the inability to explain how the qualitative feel arises conceptually suggests the possible necessity of non-material factors if materialism is insufficient.",
     "subjectivity_and_intentionality": "Субъективность («переживание») признаётся центральной тайной, которую нынешние наука и математика не могут объяснить. Интенциональность имплицитно обрабатывается высокоуровневыми абстрактными репрезентациями, связанными с отслеживанием состояний целей (например, успех/неудача).",
     "qualia_account": "Квалиа (внутренний опыт) признаются фундаментально таинственными, лишёнными какого-либо нынешнего теоретического объяснения. Неспособность концептуально навести мост между физическими процессами и качественным опытом выделяется как критическое ограничение всех нынешних теорий.",
     "ontological_commitments": "Принимает существование массивного нейронного субстрата и высокоуровневых абстрактных репрезентаций. Ввиду тайны квалиа сохраняет интеллектуальную открытость относительно возможности дополнительных, ныне неизвестных физических или нефизических элементов.",
@@ -45,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Эмпирическое (нейронаука), концептуальное, философское (агностическое/поссибилианское)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Частично эмпирически проверяема в отношении функциональной модели абстракции (роль генерального директора) и её нейронных коррелятов, но основная философская проблема субъективного переживания считается концептуально неразрешимой.",
+    "testability_status": "Partially empirically testable concerning the functional abstraction model (CEO role) and its neural correlates, but the core philosophical problem of subjective feel is deemed conceptually intractable.",
     "known_empirical_interventions_or_tests": "Наблюдение корреляций между изменениями в биологии (например, повреждением мозга) и изменениями в сознательном состоянии, подтверждающее зависимость.",
     "criticisms_and_tensions": "Критики отмечают, что эта позиция есть диагноз проблемы, а не её решение, предлагая философскую открытость без научного предписания. Она фундаментально скептична к нынешним редукционистским притязаниям.",
     "open_questions_and_limitations": "Главное ограничение — «трудная проблема»: почему высокоуровневая абстракция ощущается как нечто? Неизвестно, является ли отсутствие решения провалом воображения или фальсификацией материализма.",
@@ -53,35 +53,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Вероятно (условно)",
+      "stance": "Conditional",
       "rationale": "Если сознание есть прежде всего высокоуровневая абстрагирующая функция, достаточно сложный ИИ мог бы инстанциировать эту функцию. Однако тайна субъективного «переживания» (квалиа) остаётся открытым концептуальным барьером."
     },
     "survival_beyond_death": {
-      "stance": "Нет (условно)",
+      "stance": "Unlikely",
       "rationale": "Разум явно считается «неотъемлемо зависимым от мозга». Однако поссибилианская философия допускает, что будущая наука может выявить ныне невообразимые нефизические компоненты, допускающие выживание."
     },
     "meaning_and_purpose": {
-      "stance": "Неопределённый/гуманистический",
+      "stance": "Uncertain",
       "rationale": "Как скептическая теория-возражение, она избегает космической или высшей приверженности (поссибилианизм). Смысл выводится гуманистически из функции сознания (постановки целей и осуществления агентности)."
     },
     "virtual_immortality": {
-      "stance": "Возможно (условно)",
+      "stance": "Possible",
       "rationale": "Если сознание успешно сведено к высокоуровневой абстрактной репрезентации, надстроенной над биологической машинерией, эти репрезентации могли бы в принципе быть загружены при условии преодоления технологической сложности и сохранения субъективного «переживания»."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Dennett’s Multiple Drafts Model",
-        "relationship": "Пересечение (в сведении сознания к необходимому функциональному/репрезентационному механизму)"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Overlap (in reducing consciousness to a necessary functional/representational mechanism)"
       },
       {
-        "name": "Mysterianism",
-        "relationship": "Пересечение (в заключении, что фундаментальная природа квалиа может быть концептуально недоступна)"
+        "name": "Challenge",
+        "relationship": "Overlap (in concluding that the fundamental nature of qualia may be conceptually inaccessible)"
       },
       {
-        "name": "Materialism Theories",
-        "relationship": "Критика (оспаривает достаточность материализма, несмотря на принятие зависимости от мозга)"
+        "name": "Materialism",
+        "relationship": "Critique (Challenges the sufficiency of materialism despite accepting dependence on the brain)"
       }
     ],
     "sources_and_references": [

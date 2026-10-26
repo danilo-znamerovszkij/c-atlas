@@ -18,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание является частью физического мира, как и всё остальное, и материалисты полагают, что для него в конце концов будет обнаружено утверждение о тождестве.",
-    "ontological_status": "Убеждённый материализм",
+    "ontological_status": "Committed Materialism",
     "mind_body_relationship": "Отношение есть отношение тождества, где сознательные состояния тождественны физическим состояниям. Нынешнее отсутствие «постижимого» утверждения о тождестве рассматривается как проблема установки, а не онтологии.",
-    "primitive_or_emergent_status": "Эмерджентное",
-    "emergence_type": "Слабая эмерджентность (выводится из того, что Хардкасл питает «полную и абсолютную веру» в то, что наука в её нынешнем понимании когда-нибудь объяснит сознание, что подразумевает сводимость в принципе).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Inferred, as Hardcastle has 'total and absolute faith' that science as currently construed will someday explain consciousness, implying reducibility in principle.)",
     "subjectivity_and_intentionality": "Фиксация скептиков на нередуцируемых качественных аспектах (субъективности / квалиа) представлена как концептуальная ошибка. В других работах Хардкасл рассматривает ментальные состояния как каузально действенные агенты (интенциональность) в рамках физикалистской рамки.",
     "qualia_account": "Неспособность скептиков вообразить, как нейронная активность схватывает качественные аспекты, — это концептуальная несостоятельность или вопрос их «установки», который «не производит впечатления на науку». Квалиа полностью укладываются в будущее научное утверждение о тождестве.",
     "ontological_commitments": "Физический мир, управляемый научным методом; нейронная активность и сложные динамические структуры; каузально действенные ментальные состояния (в некоторых контекстах).",
@@ -46,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Философское (защита посылок), эмпирическое (вера в способность науки)"
   },
   "empirics_and_critiques": {
-    "testability_status": "Проверяемо в принципе, поскольку позиция опирается на предсказание, что наука в конце концов преуспеет в объяснении сознания через утверждение о тождестве.",
+    "testability_status": "Testable in principle, as the position rests on the prediction that science will eventually succeed in explaining consciousness via an identity statement.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Скептики доказывают, что материалисты не могут сделать требуемое утверждение о тождестве «постижимым, правдоподобным, разумным», тем самым не закрывая объяснительный разрыв. Её взгляд рискует быть заклеймён как просто вопрос «установки», а не содержательный философский аргумент.",
     "open_questions_and_limitations": "Хардкасл признаёт, что конкретное утверждение о тождестве для сознания ещё не найдено и что ничто из сказанного ею не убедит тех, кто уже привержен мистичности сознания.",
@@ -54,39 +54,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Да",
+      "stance": "Yes",
       "rationale": "Позиция Хардкасл твёрдо материалистична и утверждает, что сознание есть продукт физического мира. Следовательно, в принципе любая достаточно сложная физическая система, биологическая или искусственная, должна быть способна к сознанию, если реализованы необходимые физические структуры."
     },
     "survival_beyond_death": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Материализм полагает, что сознание есть исключительно продукт биологического мозга. Как только мозг умирает, сознание перестаёт существовать."
     },
     "meaning_and_purpose": {
-      "stance": "Условно",
+      "stance": "Humanistic only",
       "rationale": "Будучи материалистической теорией, она не влечёт предельного или космического смысла / цели, но признаёт, что люди могут создавать гуманистический смысл, цель и ценность для самих себя."
     },
     "virtual_immortality": {
-      "stance": "Да",
+      "stance": "Yes",
       "rationale": "Поскольку сознание всецело физично и немистично, «я» от первого лица сводимо к физическим паттернам. Если эти паттерны могут быть в точности воспроизведены и загружены в небиологический носитель, виртуальное бессмертие возможно."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Papineau’s Mind-Brain Identity",
-        "relationship": "Совместима"
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Compatible"
       },
       {
         "name": "David Chalmers's Hard Problem Arguments",
-        "relationship": "Критика"
+        "relationship": "Critique"
       },
       {
-        "name": "Eliminative Materialism/Illusionism",
-        "relationship": "Пересечение (разделяет дефляционную установку к субъективной интуиции)"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Overlap (Shares a deflationary attitude toward subjective intuition)"
       },
       {
-        "name": "Block’s Biological Reductionism",
-        "relationship": "Совместима"
+        "name": "Block's Biological Reductionism",
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

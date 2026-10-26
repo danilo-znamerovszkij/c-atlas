@@ -20,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Феноменальна свідомість (феноменальний характер) ототожнюється з репрезентаційним змістом (інтенційним змістом) досвіду або редукується до нього.",
-    "ontological_status": "Редуктивний фізикалізм/матеріалізм (Теорія використовується для підриву аргументів проти фізикалізму).",
+    "ontological_status": "Reductive Physicalism/Materialism (The theory is used to undermine arguments against physicalism).",
     "mind_body_relationship": "Теорія тотожності/редукціонізм (Феноменальний характер редукується до інтенційного змісту, який передбачається фізично реалізованим, що вписується в матеріалістичний табір).",
-    "primitive_or_emergent_status": "Не первинний; редуктивно емерджентний (супервентний щодо нейронного репрезентаційного змісту)",
-    "emergence_type": "Слабка емерджентність (Теорія прагне показати, що феноменальні властивості цілковито вичерпуються репрезентаційним змістом або редукуються до нього, що узгоджується з принципами слабкої емерджентності/редукціонізму).",
+    "primitive_or_emergent_status": "Not primitive; reductively emergent (supervenient on neural representational content)",
+    "emergence_type": "Weak Emergence (The theory aims to show that phenomenal properties are entirely exhausted or reducible to representational content, which aligns with the principles of weak emergence/reductionism).",
     "subjectivity_and_intentionality": "Суб'єктивна феноменальна якість цілковито визначається та вичерпується чуттєвими властивостями, представленими суб'єкту. Інтенційність (властивість репрезентувати зовнішні об'єкти) є фундаментальною для свідомого стану.",
     "qualia_account": "Квалія, або якісні риси феноменальної свідомості, є ілюзорними чи незв'язними, якщо їх вважати властивостями перцептивного стану понад його репрезентаційні властивості. Феноменальний характер редукується до інтенційного змісту.",
     "ontological_commitments": "Зовнішні об'єкти та їхні уявні властивості, перцептивні стани та репрезентаційний зміст. Теорія явно заперечує існування внутрішніх, нерепрезентаційних ментальних властивостей.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Філософський (Аргумент, що ґрунтується на феноменологічному спостереженні та інтроспекції)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально перевірна/феноменологічно обмежена (Її головним випробуванням є узгодженість інтроспективного твердження, хоча об'єктивні методи фальсифікації не є центральними).",
+    "testability_status": "Conceptually testable/Phenomenologically constrained (Its main test is the consistency of the introspective claim, although objective falsification methods are not central).",
     "known_empirical_interventions_or_tests": "Інтроспекція (Теорія тримається на тому, чи «найрішучіша інтроспекція коли-небудь виявляє будь-які такі додаткові властивості»). Проблемні випадки, як-от розмите бачення, розглядаються прибічниками.",
     "criticisms_and_tensions": "Критики наводять такі явища, як розмите бачення, як потенційні контрприклади до твердження, що всі сприйняті властивості є зовнішніми властивостями об'єкта. Теза заперечує ідею, що феноменальні якості є незалежними властивостями ментального стану.",
     "open_questions_and_limitations": "Мусить розв'язати очевидні неузгодженості, як-от те, як внутрішні стани на кшталт розмитого бачення можна переживати, якщо досвід містить лише зовнішні властивості.",
@@ -55,43 +55,43 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Імовірно",
+      "stance": "Likely",
       "rationale": "Як філософський захист матеріалістичних теорій, вона підтримує погляд, що свідомість є обчислювальною або репрезентаційною, а це означає, що свідомість ШІ абсолютно можлива в принципі."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Свідомість ґрунтується на репрезентаційних станах, похідних від фізичного мозку. Слідуючи матеріалістичній парадигмі, знищення мозку означає остаточне неіснування особи."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичні",
+      "stance": "Humanistic only",
       "rationale": "Теорія функціонує для підкріплення матеріалізму, який зазвичай підтримує лише гуманістично створений сенс, мету та цінність."
     },
     "virtual_immortality": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Якщо свідомість цілковито пояснюється репрезентаційним змістом, тоді цю інформацію теоретично можна дублювати та завантажити на небіологічний субстрат, роблячи віртуальне безсмертя досяжним."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Representational Theories",
-        "relationship": "Основа"
+        "name": "First-Order",
+        "relationship": "Basis"
       },
       {
         "name": "Intentionalism",
-        "relationship": "Подібна/еквівалентна"
+        "relationship": "Similar/Equivalent"
       },
       {
-        "name": "Materialism Theories",
-        "relationship": "Захист/підтримка"
+        "name": "Materialism",
+        "relationship": "Defense/Support"
       },
       {
         "name": "Jackson’s Representationalism",
-        "relationship": "Розширення/підтримка"
+        "relationship": "Extension/Support"
       },
       {
         "name": "Amy Kind",
-        "relationship": "Критика/уточнення"
+        "relationship": "Critique/Refinement"
       }
     ],
     "sources_and_references": [

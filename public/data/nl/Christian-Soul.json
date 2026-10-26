@@ -21,10 +21,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewustzijn en geest zijn gegrond in de substantiële, verenigde, geheel immateriële ziel, die de entiteit is die ervaringen heeft en de persoonlijke identiteit grondt.",
-    "ontological_status": "Substantiedualisme. De werkelijkheid bestaat uit ten minste twee ontologische categorieën: fysiek (hersenen/lichaam) en niet-fysiek (ziel).",
+    "ontological_status": "Substance Dualism. Reality consists of at least two ontological categories: physical (brain/body) and nonphysical (soul).",
     "mind_body_relationship": "Interactionistisch: de immateriële ziel verhoudt zich tot het fysieke lichaam/de fysieke hersenen op een informerende en oorzaak-gevolgwijze, wat betekent dat fysische toestanden fenomenale toestanden veroorzaken, en fenomenale toestanden fysische toestanden veroorzaken.",
-    "primitive_or_emergent_status": "Primitief. De ziel is een substantiële, niet-fysieke substantie, waarvan vaak wordt gehouden dat zij door God wordt geschapen en toegewezen (creationisme) veeleer dan dat zij uit materiële processen voortkomt.",
-    "emergence_type": "Niet van toepassing (N.v.t.). De ziel wordt gedefinieerd als een substantiële entiteit die onafhankelijk is van de fysieke wereld en die doorgaans wordt geschapen of toegewezen, veeleer dan dat zij emergent is uit processen op een lager niveau.",
+    "primitive_or_emergent_status": "Primitive. The soul is a substantial, nonphysical substance, often held to be created and allocated by God (Creationism) rather than arising from material processes.",
+    "emergence_type": "Not Applicable (N/A). The soul is defined as a substantial entity that is independent of the physical world and is typically created or allocated, rather than being emergent from lower-level processes.",
     "subjectivity_and_intentionality": "Subjectiviteit is inherent aan de ziel, die de ondeelbaar verenigde, eerstepersoons bewuste drager van bewuste eigenschappen is. De fundamentele eenheid van bewustzijn pleit ertegen dat de hersenen (een aggregaat van scheidbare delen) de bron zouden zijn.",
     "qualia_account": "Qualia (kwalitatief gevoel) zijn fenomenale eigenschappen die door de immateriële ziel worden gedragen, welke het enkele, unitaire gewaarzijn van complexe ervaringen verschaft.",
     "ontological_commitments": "Niet-fysieke, substantiële ziel (een 'immaterieel particulier'); fysiek lichaam/fysieke hersenen; en vaak God (als schepper of verschaffer van zielen).",
@@ -53,7 +53,7 @@
     "basis_of_belief_or_evidence_type": "Filosofisch (bijv. modale argumenten voor onherleidbaarheid), theologisch (schriftuitleg), fenomenologisch (introspectie/zelfbewustzijn)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Speculatief/filosofisch. Directe empirische toetsing is onmogelijk vanwege de niet-fysieke aard van de ziel. Er wordt betoogd dat empirisch bewijs voor voortbestaan na de dood (zoals bijna-doodervaringen/uittredingservaringen) het materialisme ogenblikkelijk zou falsificeren en het dualisme zou ondersteunen.",
+    "testability_status": "Speculative/Philosophical. Direct empirical testing is impossible due to the soul’s nonphysical nature. It is argued that empirical evidence for survival beyond death (like NDEs/OBEs) would instantaneously falsify materialism and support dualism.",
     "known_empirical_interventions_or_tests": "Gerapporteerde observaties zoals bijna-doodervaringen (BDE's) en uittredingservaringen (UTE's) worden door aanhangers aangehaald als verschijnselen die een niet-fysieke verklaring vereisen, die de ziel verschaft.",
     "criticisms_and_tensions": "De voornaamste spanning is het probleem van de mentale causaliteit (hoe een immateriële ziel causaal kan interacteren met het fysieke lichaam/de fysieke hersenen) en het conflict met het algemeen aanvaarde wetenschappelijke beginsel van de causale geslotenheid van de fysieke wereld. Critici schrijven de volharding in deze opvatting vaak toe aan 'volksmythen' of hardnekkige tradities.",
     "open_questions_and_limitations": "Zij slaagt er niet in de precieze samenstelling of essentie van de ziel te verklaren (het verschil met andere zielen is 'uiteindelijk, onanalyseerbaar'). Zij wordt geconfronteerd met de diepe moeilijkheid om mentale causaliteit te accommoderen zonder de fysica te schenden.",
@@ -61,28 +61,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Nee (grotendeels)",
+      "stance": "Unlikely",
       "rationale": "Indien bewustzijn een radicaal afzonderlijke, niet-fysieke substantie (ziel) vereist die goddelijk wordt geschapen of toegewezen, zouden niet-biologische intelligenties dit noodzakelijke bestanddeel niet kunnen genereren, waardoor AI-bewustzijn onmogelijk is."
     },
     "survival_beyond_death": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "De ziel is de 'echte jij', die onafhankelijk van het lichaam bestaat en het duidelijkste mechanisme verschaft voor het voortbestaan van individueel bewustzijn na de dood, en zo de kernstelling van de abrahamitische religies vervult."
     },
     "meaning_and_purpose": {
-      "stance": "Uiteindelijk/kosmisch",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Als een theologische theorie verschaft zij uiteindelijke zin, doel en waarde, verbonden met goddelijke schepping, bestemming en de spirituele aard van het menselijk bestaan."
     },
     "virtual_immortality": {
-      "stance": "Nee",
+      "stance": "No",
       "rationale": "Het uploaden van neurale patronen en banen zou slechts de fysieke basis van bewustzijn dupliceren. Aangezien de noodzakelijke niet-fysieke substantie (de ziel) in de duplicaat zou ontbreken, zou het behoud van het eerstepersoons mentale zelf onmogelijk zijn."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Overlap" },
-      { "name": "Thomistic Dualism", "relationship": "Uitbreiding" },
-      { "name": "Non-Reductive Physicalism", "relationship": "Kritiek" },
-      { "name": "Emergent Dualism", "relationship": "Variatie" }
+      {
+        "name": "Dualism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Thomistic Dualism",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Non-Reductive",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Variation"
+      }
     ],
     "sources_and_references": [
       {

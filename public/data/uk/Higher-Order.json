@@ -20,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Феноменальна свідомість ототожнюється з відчуванням або репрезентацією вищого рівня (когнітивним станом чи думкою), спрямованими на ментальний стан або сприйняття першого порядку.",
-    "ontological_status": "Редуктивний фізикалізм/функціоналізм (обґрунтування: як матеріалістична теорія, вона редукує свідомість до функціональних/когнітивних процесів, реалізованих мозком, часто сформульованих у менталістичних термінах.)",
+    "ontological_status": "Reductive Physicalism/Functionalism (Justification: As a Materialist theory, it reduces consciousness to functional/cognitive processes implemented by the brain, often framed in mentalistic terms.)",
     "mind_body_relationship": "Свідомість постає через причинне відношення між двома ментальними рівнями (станами першого та другого порядку), обидва з яких повністю реалізуються фізичними процесами в мозку.",
-    "primitive_or_emergent_status": "Емерджентний",
-    "emergence_type": "Слабка емерджентність (обґрунтування: як осердна матеріалістична теорія, вона вважає свідомість редукованою в принципі, навіть якщо редукція сформульована в менталістичних або функціональних термінах, а не в термінах прямої нейрофізіології.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justification: As a core Materialist theory, consciousness is held to be reducible in principle, even if the reduction is phrased in mentalistic or functional terms rather than direct neurophysiology.)",
     "subjectivity_and_intentionality": "Суб'єктивність постає, коли стан першого порядку стає об'єктом думки другого порядку, надаючи вимір «видавання» або самоусвідомлення. Інтенційність діє на обох рівнях: першого порядку (про світ) і другого порядку (про стан першого порядку).",
     "qualia_account": "Квалія, або феноменальний характер, пояснюються наявністю супровідного когнітивного стану вищого порядку щодо сприйняття, прагнучи редуктивно пояснити феноменальну свідомість у менталістичних термінах.",
     "ontological_commitments": "Ментальні стани першого порядку (перцепції/відчуття), когнітивні стани другого порядку (думки/репрезентації) та складні кортикальні мережі (наприклад, префронтальна кора), що інстанціюють ці репрезентації.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Філософський (пояснення розрізнення свідоме/несвідоме), когнітивний, нейронаукове моделювання (наприклад, дослідження сліпозору)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Емпірично перевірна (особливо щодо різниці між обробкою першого порядку та відповідною активністю вищого порядку в корі).",
+    "testability_status": "Empirically testable (especially regarding the difference between first-order processing and corresponding higher-order activity in the cortex).",
     "known_empirical_interventions_or_tests": "Емпіричні докази часто шукають через порівняння свідомого та несвідомого сприйняття (як-от сліпозір), щоб перевірити існування або активність необхідної репрезентації вищого порядку.",
     "criticisms_and_tensions": "Критикується за складність визначення точного відношення, необхідного між думкою вищого порядку та сприйняттям першого порядку для надання свідомості, що веде до неадекватностей в описі змісту. Підхід «подвійної репрезентації» вважається концептуально таємничим.",
     "open_questions_and_limitations": "Точна природа відношення, яке має справджуватися між станом вищого порядку та сприйняттям першого порядку для виникнення свідомості, залишається відкритим питанням. Вона також стикається із загальним запереченням щодо пояснювальної прогалини для квалія.",
@@ -55,39 +55,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Імовірно",
+      "stance": "Likely",
       "rationale": "Як матеріалістична теорія, заснована на когнітивних і репрезентаційних структурах, вона вважає свідомість фундаментально обчислювальною чи функціональною, тобто розвинені системи ШІ, здатні до самомоніторингу та формування репрезентацій вищого рівня, могли б досягти свідомості."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Свідомість цілком реалізується складними, кортикально заснованими механізмами мозку; тому вона не може зберігатися після розпаду біологічного субстрату."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичні",
+      "stance": "Humanistic only",
       "rationale": "Постаючи з емерджентних біологічних процесів, свідомість забезпечує саморефлексію та агентність, але не передбачає жодної граничної космічної телеології, що узгоджується з дефляційною позицією матеріалізму."
     },
     "virtual_immortality": {
-      "stance": "Імовірне",
+      "stance": "Likely",
       "rationale": "Якщо свідомість повністю означена репрезентаційними та функціональними відношеннями, то досконале дублювання й завантаження цих складних когнітивних станів на небіологічний носій мало б зберегти ментальну самість від першої особи."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "First-Order Representationalism",
-        "relationship": "Критика"
+        "name": "First-Order",
+        "relationship": "Critique"
       },
       {
-        "name": "Attention Schema Theory (Graziano)",
-        "relationship": "Сумісна"
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "Compatible"
       },
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Перетин"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Overlap"
       },
       {
-        "name": "Lau’s Perceptual Reality Monitoring Theory",
-        "relationship": "Розширення"
+        "name": "Lau's Perceptual Reality Monitoring Theory",
+        "relationship": "Extension"
       }
     ],
     "sources_and_references": [

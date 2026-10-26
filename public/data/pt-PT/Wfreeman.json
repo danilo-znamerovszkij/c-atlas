@@ -1,0 +1,136 @@
+{
+  "id_and_class": {
+    "theory_title": "A Neurodinâmica Intencional de W. Freeman",
+    "summary": "Walter J. Freeman III sustenta que a consciência fenoménica é uma sequência de estados breves e globalmente coerentes de atividade cortical, quadros formados por transições de fase em grandes populações neuronais. A perceção começa com objetivos definidos pelo sistema límbico, e o cérebro constrói o significado de um estímulo a partir da história do animal, em vez de copiar o estímulo. A consciência chega tarde neste ciclo ação-perceção, como um estado global de ordenação que retém a ação enquanto as opções são ponderadas.",
+    "associated_thinkers": [
+      "Walter J. Freeman III",
+      "Giuseppe Vitiello"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "A consciência como quadros de dinâmica cortical coerente",
+    "classification_tags": [
+      "neurodynamics",
+      "phase transitions",
+      "intentionality",
+      "circular causality",
+      "eeg"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "A consciência é uma sequência de estados macroscópicos de ordenação no córtex, cada um deles um padrão globalmente coerente de atividade de populações neuronais que atua como parâmetro de ordem sobre a atividade que o gera.",
+    "ontological_status": "Physicalism (dynamical, non-reductive)",
+    "mind_body_relationship": "Causalidade circular: a atividade neuronal microscópica gera um estado global, e o estado global condiciona essa atividade microscópica, sem qualquer agente exterior ao circuito. Freeman descreve a consciência como um campo de força centrado num cérebro, que atua através do corpo sobre o que o rodeia e só é conhecido pelos seus efeitos.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Emergence through self-organizing phase transitions in neural populations, with downward constraint from the global state on its parts",
+    "subjectivity_and_intentionality": "A intencionalidade vem primeiro: na linha de Aquino, Freeman trata a intenção como o organismo inteiro a estender-se em direção ao mundo. O ramo de avanço do circuito é o eu intencional, e o ramo de retroalimentação é a consciência do eu e das suas ações.",
+    "qualia_account": "Freeman põe de parte o problema difícil. O conteúdo é construído no interior de cada cérebro, pelo que os significados de cada cérebro são seus, mas não explica por que razão os estados corticais coerentes são sentidos.",
+    "ontological_commitments": "Populações neuronais excitatórias e inibitórias em interação, campos mesoscópicos de corrente dendrítica, atividade de fundo caótica, paisagens de atratores moldadas pela aprendizagem e o sistema límbico como fonte de objetivos.",
+    "epistemic_access": "Freeman defende que não existe nenhuma medida fisiológica direta da consciência. Baseia-se em registos de EEG e de eletrocorticograma, além de ensaios comportamentais de ativação, intenção e atenção, que dão apenas acesso indireto.",
+    "constituents_and_structure": "Uma hierarquia de «conjuntos K» que vai de populações sem interação, passando por sistemas sensoriais oscilantes e caóticos, até interações globais entre áreas corticais. A experiência é construída a partir de quadros discretos, ou pacotes de ondas, separados por transições rápidas."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Fenoménica (organização e conteúdo da experiência); significado perceptivo; intencionalidade; autoconsciência; o fluxo da consciência; eficácia causal da consciência.",
+    "distinctive_mechanism_or_principle": "Transições de fase endógenas em populações corticais: a atividade de fundo caótica salta para uma bacia de atração aprendida, produzindo um padrão espacial de modulação de amplitude que exprime o que um estímulo significa para o animal. As sincronias beta tardias e de grande escala nos córtices sensoriais e no córtex entorrinal são os seus candidatos a correlatos da consciência.",
+    "dynamics_of_emergence": "O fluxo da consciência é «cinematográfico», uma sucessão de quadros formados cada um por uma transição de fase. A sua aparente continuidade não tem de refletir um conteúdo neuronal mantido de forma contínua.",
+    "location_and_distribution": "Dinâmica cortical global, com o sistema límbico (córtex entorrinal e hipocampo) a organizar a intenção. Freeman restringe a consciência aos animais com neurópilo cortical laminado e rejeita o panpsiquismo.",
+    "causation_and_functional_role": "A consciência não é epifenoménica nem inicia a ação. «Sobrevém como um estado macroscópico de ordenação, que adia a ação até o processo microscópico de auto-organização ter alcançado o fecho numa predição reflexiva», atenuando as flutuações locais e retardando o compromisso.",
+    "integration_or_binding": "Coerência global: padrões tardios na banda beta sincronizam-se por todas as áreas sensoriais primárias e pelo córtex entorrinal, ligando os padrões gama precoces, específicos de cada modalidade, num único estado.",
+    "information_flow_or_representation": "Freeman rejeita as representações armazenadas. Uma vez que a entrada sensorial bruta selecionou um atrator, é descartada, e o padrão resultante transporta um significado construído a partir da história e dos objetivos do animal. O sistema límbico envia descargas de corolário que preparam o córtex sensorial para os resultados esperados da ação (preaferência).",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Em coelhos treinados, cada fungada de um odor aprendido produzia uma rajada gama em todo o bolbo olfativo, cujo padrão espacial de amplitude distinguia os odores.",
+      "Esses padrões mudavam quando se alteravam as contingências de reforço ou se aprendiam odores novos, o que Freeman interpretou como prova de que codificam significado e não o estímulo.",
+      "A mesma dinâmica surge nos córtices visual, auditivo e somático, pelo que o mecanismo se generaliza para além do olfato.",
+      "Eventos beta tardios e generalizados ajustam-se ao atraso de cerca de meio segundo na consciência reportada, descrito por Libet."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírica (eletrofisiologia animal e modelização dinâmica não linear), com enquadramento filosófico retirado de Aquino, Merleau-Ponty e dos pragmatistas."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Registos de eletrocorticograma e EEG do bolbo olfativo e do neocórtex em animais treinados; análise espacial da modulação de amplitude da atividade gama e beta; paradigmas de inversão de reforço e de aprendizagem de odores novos.",
+    "criticisms_and_tensions": "Padrões neuronais segmentados no tempo podem sustentar um modelo de organização percetiva sem mostrar que a própria experiência tem lacunas, e classificar estímulos a partir de registos animais não revela o que o animal experiencia. A extensão de campo quântico com Vitiello não é estabelecida pelos dados de oscilação e, mesmo que fosse válida, continuaria a precisar de uma explicação da sua ligação à experiência.",
+    "open_questions_and_limitations": "Os dados são sobretudo de eletrofisiologia animal, pelo que estendê-los à experiência humana é inferencial. Quais as propriedades dinâmicas necessárias ou suficientes para a experiência, como diferem da cognição inconsciente e por que razão são sentidas continuam em aberto.",
+    "ontological_coherence": "Consistente com um fisicalismo que permite que os estados globais condicionem as suas partes. O modelo de campo quântico dissipativo de Freeman e Vitiello mantém as observáveis clássicas e não trata os neurónios ou a glia como objetos quânticos."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "Unlikely",
+      "rationale": "Freeman restringe a consciência aos animais com neurópilo cortical laminado e, na sua perspetiva, o significado provém do envolvimento corporal de um organismo, orientado para objetivos, com o seu mundo."
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Dado que a consciência é aqui um padrão de dinâmica cortical viva, termina quando essa dinâmica cessa."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Aquinas’s Hylomorphism",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Enactivism",
+        "relationship": "Influence"
+      },
+      {
+        "name": "Globus's Quantum Thermofield Brain Dynamics",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Libet's Mind Time: Readiness Potential, Unconscious Initiation, Delayed Awareness, Antedating Consciousness",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Mass Action in the Nervous System, Walter J. Freeman",
+        "year": 1975
+      },
+      {
+        "title_with_names": "How Brains Make Chaos in Order to Make Sense of the World, C. A. Skarda and Walter J. Freeman",
+        "year": 1987
+      },
+      {
+        "title_with_names": "Consciousness, Intentionality and Causality, Walter J. Freeman",
+        "year": 1999
+      },
+      {
+        "title_with_names": "How Brains Make Up Their Minds, Walter J. Freeman",
+        "year": 2000
+      },
+      {
+        "title_with_names": "A Cinematographic Hypothesis of Cortical Dynamics in Perception, Walter J. Freeman",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Indirect Biological Measures of Consciousness from Field Studies of Brains as Dynamical Systems, Walter J. Freeman",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Nonlinear Brain Dynamics and Intention According to Aquinas, Walter J. Freeman",
+        "year": 2008
+      },
+      {
+        "title_with_names": "Nonlinear Brain Dynamics as Macroscopic Manifestation of Underlying Many-Body Field Dynamics, Walter J. Freeman and Giuseppe Vitiello",
+        "year": 2006
+      },
+      {
+        "title_with_names": "Cognitive Phase Transitions in the Cerebral Cortex, R. Kozma and Walter J. Freeman",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Societies of Brains, Walter J. Freeman",
+        "year": 1995
+      }
+    ]
+  }
+}

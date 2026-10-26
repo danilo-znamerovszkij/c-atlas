@@ -19,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість ототожнюється з діяльністю стеження, підтримання контакту, звертання уваги та взаємодії зі світом. Це процес доступу до світу й уможливлення його «явлення» організмові, визначений активною залученістю.",
-    "ontological_status": "Фізикалізм",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Розум є діяльністю, що породжується спільною роботою мозку, тіла й середовища. Мозок забезпечує необхідний механічний субстрат, але його недостатньо для свідомості; він є осередком символів, а не самою свідомістю.",
-    "primitive_or_emergent_status": "Емерджентний",
-    "emergence_type": "Слабка емерджентність",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "Суб'єктивність (те, як світ «являється нам») та інтенційність постають з активної, вправної залученості організму до середовища, зумовленої контекстом, інтересом, знанням і розумінням.",
     "qualia_account": "Квалія імпліцитно є частиною щільності, деталізованості та насиченості реальних життєвих переживань, що постають із безперервної взаємодії зі світом, яка відрізняє справжню свідомість від самих лише сновидних переживань.",
     "ontological_commitments": "Фізичне середовище, біологічний мозок/тіло та динамічна взаємодія/діяльність між ними.",
@@ -46,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Філософський аргумент, феноменологічний здобуток, критика традиційного інтерналізму"
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально перевірне",
+    "testability_status": "Conceptually testable",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Головне напруження полягає в поясненні того, як саме взаємодія є свідомістю в сильному сенсі, а не просто уможливлює чи впливає на неї. Критики відкидають те, що вивчення внутрішніх подій мозку є недостатнім для розуміння свідомості.",
     "open_questions_and_limitations": "Теорії бракує чіткого визначення того, як зовнішня взаємодія/діяльність конституює внутрішній досвід чи квалія та як строго відрізнити цю діяльність від самого лише несвідомого оброблення.",
@@ -54,38 +54,62 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Невизначено/умовно",
+      "stance": "Uncertain",
       "rationale": "Стандартного обчислення недостатньо; свідомість можлива лише в тому разі, якщо системи ШІ досягають повного втілення, навичок і безперервної, автономної взаємодії зі світом (задовольняючи ті самі вимоги, що ставляться до живих організмів)."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Свідомість невіддільна від безперервного, активного фізичного циклу, що охоплює взаємодію мозку й тіла зі світом; її припинення означає завершення свідомої діяльності."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичне",
+      "stance": "Humanistic only",
       "rationale": "Свідомість дає агентові змогу здобувати контекст, знання й розуміння, надаючи здатність приписувати значення взаємодіям і скеровувати проактивну поведінку, але не передбачає жодної трансцендентної мети."
     },
     "virtual_immortality": {
-      "stance": "Вельми неправдоподібно",
+      "stance": "Unlikely",
       "rationale": "Завантаження лише внутрішніх процесів мозку («механічного осередку») не може охопити позамозкової, зовнішньої та безперервної інтерактивної діяльності, визначеної як свідомість."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Enactivism (Varela & Thompson)", "relationship": "Конститутивна рамка" },
-      { "name": "Ecological Psychology (James J. Gibson)", "relationship": "Засадничий вплив" },
-      { "name": "Embodied Phenomenology (Maurice Merleau-Ponty)", "relationship": "Філософський вплив" },
-      { "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)", "relationship": "Частково сумісна / та, що перетинається" },
-      { "name": "Susan Hurley — Action/Perception & Shared Circuits", "relationship": "Пов'язана / комплементарна (активне сприйняття, модель спільних контурів)" },
-      { "name": "Internalist Materialism", "relationship": "Критика" },
-      { "name": "Dualism", "relationship": "Критика" }
+      {
+        "name": "Enactivism",
+        "relationship": "Constituent Framework"
+      },
+      {
+        "name": "Ecological Psychology (James J. Gibson)",
+        "relationship": "Foundational Influence"
+      },
+      {
+        "name": "Embodied Phenomenology (Maurice Merleau-Ponty)",
+        "relationship": "Philosophical Influence"
+      },
+      {
+        "name": "Extended Mind Hypothesis (Andy Clark & David Chalmers)",
+        "relationship": "Partially Compatible / Overlapping"
+      },
+      {
+        "name": "Susan Hurley — Action/Perception & Shared Circuits",
+        "relationship": "Related / Complementary (active perception, shared circuits model)"
+      },
+      {
+        "name": "Internalist Materialism",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Dualism",
+        "relationship": "Critique"
+      }
     ],
     "sources_and_references": [
       {
         "title_with_names": "Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness, Alva Noë",
         "year": 2010
       },
-      { "title_with_names": "Varieties of Presence, Alva Noë", "year": 2012 },
+      {
+        "title_with_names": "Varieties of Presence, Alva Noë",
+        "year": 2012
+      },
       {
         "title_with_names": "Is consciousness an illusion, Alva Noë",
         "year": 2007

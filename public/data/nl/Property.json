@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Eigenschapsdualisme",
     "summary": "Het eigenschapsdualisme stelt dat, hoewel de fysische substantie de enige fundamentele substantie is, er twee onherleidbare categorieën van eigenschappen bestaan: fysische en mentale . Mentale eigenschappen, zoals de bewuste ervaring, worden voortgebracht door fysische breinen maar kunnen niet worden herleid tot, of volledig worden verklaard door, fysische eigenschappen alleen .",
-    "associated_thinkers": ["David Chalmers"],
+    "associated_thinkers": [
+      "David Chalmers"
+    ],
     "category": "Dualismen",
     "subcategory": "Eigenschapsdualisme",
     "core_identity_tagline": "Eén substantie, twee onherleidbare eigenschappen (mentaal en fysisch)",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewustzijn bestaat uit mentale eigenschappen of aspecten (bijv. gedachten, concepten, ideeën) die fundamenteel onherleidbaar zijn tot fysische eigenschappen, ook al worden beide geïnstantieerd door fysische systemen (breinen) .",
-    "ontological_status": "Fysicalisme (van substantie) / eigenschapsdualisme (van eigenschappen) .",
+    "ontological_status": "Physicalism (of substance) / Property Dualism (of properties) .",
     "mind_body_relationship": "De geest (mentale eigenschappen) is onherleidbaar en ontologisch onderscheiden van fysische eigenschappen, en wordt niettemin geheel voortgebracht door fysische toestanden (breinen) .",
     "primitive_or_emergent_status": "Emergent",
-    "emergence_type": "Sterke emergentie (aangezien mentale eigenschappen in principe onherleidbaar zijn en niet uitsluitend door fysische wetten verklaarbaar) .",
+    "emergence_type": "Strong Emergence (as mental properties are irreducible in principle and inexplicable solely by physical laws) .",
     "subjectivity_and_intentionality": "Subjectiviteit (eerstepersoons fenomenale ervaring) ontstaat als een inherente, onherleidbare eigenschap/aspect van de fysische menselijke persoon . Intentionaliteit is impliciet begrepen als een van de fundamentele mentale eigenschappen/aspecten .",
     "qualia_account": "Qualia (kwalitatief gevoelde ervaringen) zijn de onherleidbare mentale eigenschappen die zich verzetten tegen een definitie zuiver in termen van microfysische eigenschappen alleen .",
     "ontological_commitments": "Fysische substantie (materie) en onherleidbare mentale eigenschappen (waaronder gedachten, concepten, ideeën) .",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Filosofisch; conceptueel (behandelt de schijnbare ontoereikendheid van zuiver reductief fysicalisme) ."
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptueel/filosofisch (toetsbaarheid berust op de logische mogelijkheid en implicaties van contrafeitelijke scenario's zoals filosofische zombies) .",
+    "testability_status": "Conceptual/Philosophical (Testability rests on the logical possibility and implications of counterfactual scenarios like philosophical zombies) .",
     "known_empirical_interventions_or_tests": "Gedachte-experimenten met fysisch niet-onderscheidbare 'zombies' of mensen met een omgekeerd kleurenspectrum (falen van superveniëntie) .",
     "criticisms_and_tensions": "Moet verhelderen hoe verschillende mentale toestanden kunnen ontstaan uit precies dezelfde microfysische toestand als de superveniëntie faalt . Critici betogen dat de motieven voor eigenschapsdualisme uiteindelijk tot substantiedualisme leiden .",
     "open_questions_and_limitations": "De precieze wijze waarop mentale eigenschappen causale invloed uitoefenen op het fysische brein (mentale causaliteit) blijft omstreden en vereist nadere specificatie .",
@@ -50,35 +52,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Voorwaardelijk",
+      "stance": "Conditional",
       "rationale": "AI zou bewust kunnen zijn indien niet-biologische systemen de specifieke complexe fysische organisatie kunnen instantiëren die vereist is om de beschreven onherleidbare mentale eigenschappen voort te brengen ."
     },
     "survival_beyond_death": {
-      "stance": "Nee",
+      "stance": "No",
       "rationale": "Bewustzijn bestaat uit eigenschappen die door het fysische brein worden voortgebracht. Deze eigenschappen houden op te bestaan wanneer de fysische substantie (brein/lichaam) bij de dood uiteenvalt ."
     },
     "meaning_and_purpose": {
-      "stance": "Onvermeld/neutraal",
+      "stance": "Uncertain",
       "rationale": "De theorie richt zich op ontologische categorieën en eigenschapsrelaties; zij aanvaardt een fundamenteel fysische substantie en onderschrijft niet inherent een kosmische teleologie ."
     },
     "virtual_immortality": {
-      "stance": "Mogelijk",
+      "stance": "Possible",
       "rationale": "Als bewustzijn een emergente eigenschap van een specifieke fysische organisatie is, zou het repliceren van die volledige fysische toestand (breinstructuur) in een niet-biologisch substraat dezelfde mentale eigenschappen moeten voortbrengen ."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Non-Reductive Physicalism",
-        "relationship": "Overlap/verenigbaar (vaak als synoniem of nauw verwant behandeld)"
+        "name": "Non-Reductive",
+        "relationship": "Overlap/Compatible (Often treated as synonymous or closely related)"
       },
       {
-        "name": "Substance Dualism",
-        "relationship": "Kritiek/contrast (verwerpt het substantiedualisme maar handhaaft het eigenschapsdualisme)"
+        "name": "Dualism",
+        "relationship": "Critique/Contrast (Rejects dualism of substance but maintains dualism of property)"
       },
       {
         "name": "Epiphenomenalism",
-        "relationship": "Kritiek/contrast (het eigenschapsdualisme kent mentale toestanden doorgaans causale werkzaamheid toe, in tegenstelling tot het epifenomenalisme)"
+        "relationship": "Critique/Contrast (Property Dualism generally grants causal efficacy to mental states, unlike Epiphenomenalism)"
       }
     ],
     "sources_and_references": [

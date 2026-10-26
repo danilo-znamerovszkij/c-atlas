@@ -18,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість (розум) ототожнюється із сукупністю функцій (активностей, подій) надзвичайно складної центральної нервової системи, зокрема тих ментальних станів, які виявляють нейронну пластичність і научання.",
-    "ontological_status": "Емерджентний матеріалізм / психонейральний монізм (визначається як матеріалістичний, але явно нефізикалістський, тобто світ є цілком матеріальним, проте фізика не може пояснити всі явища).",
+    "ontological_status": "Emergent Materialism / Psychoneural Monism (defined as materialist but explicitly non-physicalist, meaning the world is entirely material but physics cannot explain all phenomena).",
     "mind_body_relationship": "Ментальні стани тотожні виокремленій підмножині станів/процесів мозку (психонейральний монізм). Це відношення передбачає онтологічну редукцію без повної епістемологічної редукції.",
-    "primitive_or_emergent_status": "Емерджентний",
-    "emergence_type": "Мається на увазі сильна емерджентність, оскільки ментальні властивості притаманні саме системі ЦНС і не редукуються до їхніх складових фізичних і хімічних властивостей.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence is implied, as the mental properties are unique to the CNS system and are not reducible to their constituent physical and chemical properties.",
     "subjectivity_and_intentionality": "Пояснюються як надзвичайно складні, емерджентні функції ЦНС. Теорія відкидає потребу в окремій ментальній сутності, трактуючи суб'єктивний досвід як продукт цих складних системних функцій, хоча детальні механізми залишаються програмними.",
     "qualia_account": "Квалія мають бути тотожними специфічним емерджентним функціям/станам ЦНС, що виявляють нейронну пластичність. Теорія відкидає дуалізм і редуктивний матеріалізм за те, що вони ігнорують ці особливі емерджентні властивості ЦНС.",
     "ontological_commitments": "Матеріальний світ; центральна нервова система (ЦНС); емерджентні властивості; простори станів (використовувані для математично точної мови).",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Філософський (моністичне/матеріалістичне зобов'язання); науковий/емпіричний (на основі доступних даних та наявних психологічних моделей); теорія систем/математичний."
   },
   "empirics_and_critiques": {
-    "testability_status": "Програмний і потенційно перевірний, оскільки Бунге запропонував його як гіпотезу, що потребує детальних механізмів, особливо математичних, заснованих на психобіологічних даних.",
+    "testability_status": "Programmatic and potentially testable, as Bunge proposed it as a hypothesis requiring detailed mechanisms, especially mathematical ones, based on psychobiological data.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Теорія є програмною й потребує детального математичного та механістичного розроблення. Бунге критикує конкурентні матеріалістичні теорії (як-от елімінативний та редуктивний матеріалізм) за ігнорування особливих емерджентних властивостей ЦНС.",
     "open_questions_and_limitations": "Теорія потребує детальних математичних механізмів, щоб повною мірою сформулювати, як відбувається емерджентність і як ментальні стани відображаються на специфічні стани мозку.",
@@ -56,39 +56,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Імовірно",
+      "stance": "Likely",
       "rationale": "Як матеріалістичний монізм, у якому свідомість є специфічною функцією складної фізичної системи (ЦНС), не існує принципової заборони проти реалізації необхідних складних емерджентних функцій у штучному субстраті."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Свідомість визначається як активності/функції біологічної центральної нервової системи, з явним відкиданням будь-якої «окремої ментальної сутності» чи душі, необхідної для посмертного виживання."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичний",
+      "stance": "Humanistic only",
       "rationale": "Відповідно до матеріалістичних теорій, теорія надає суто фізикалістське пояснення свідомості, що вказує на малоймовірність остаточного космічного сенсу чи мети, хоча людський сенс і цінність створюються свідомими агентами."
     },
     "virtual_immortality": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Оскільки ментальна самість від першої особи ототожнюється із сукупністю функцій/процесів ЦНС, досконале дублювання та симуляція (завантаження) цих функцій у небіологічне середовище мали б, у принципі, забезпечити безперервність свідомості."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Searle’s Biological Naturalism",
-        "relationship": "Сумісна"
+        "name": "Searle's Biological Naturalism",
+        "relationship": "Compatible"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
-        "relationship": "Критика"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Critique"
       },
       {
         "name": "Reductive Materialism",
-        "relationship": "Критика"
+        "relationship": "Critique"
       },
       {
-        "name": "Non-Reductive Physicalism",
-        "relationship": "Перекриття"
+        "name": "Non-Reductive",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

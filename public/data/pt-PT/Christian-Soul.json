@@ -21,10 +21,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência e a mente fundam-se na anima substancial, unificada e inteiramente imaterial, que é a entidade que tem experiências e funda a identidade pessoal.",
-    "ontological_status": "Dualismo de Substâncias. A realidade consiste em pelo menos duas categorias ontológicas: física (cérebro/corpo) e não física (anima).",
+    "ontological_status": "Substance Dualism. Reality consists of at least two ontological categories: physical (brain/body) and nonphysical (soul).",
     "mind_body_relationship": "Interacionista: a anima imaterial relaciona-se com o corpo/cérebro físico de um modo informador e causal, o que significa que os estados físicos causam estados fenoménicos, e os estados fenoménicos causam estados físicos.",
-    "primitive_or_emergent_status": "Primitivo. A anima é uma substância não física e substancial, muitas vezes tida como criada e atribuída por Deus (criacionismo), em vez de surgir de processos materiais.",
-    "emergence_type": "Não aplicável (N/A). A anima é definida como uma entidade substancial independente do mundo físico e é tipicamente criada ou atribuída, em vez de ser emergente a partir de processos de nível inferior.",
+    "primitive_or_emergent_status": "Primitive. The soul is a substantial, nonphysical substance, often held to be created and allocated by God (Creationism) rather than arising from material processes.",
+    "emergence_type": "Not Applicable (N/A). The soul is defined as a substantial entity that is independent of the physical world and is typically created or allocated, rather than being emergent from lower-level processes.",
     "subjectivity_and_intentionality": "A subjetividade é inerente à anima, que é o portador consciente, na primeira pessoa e indivisivelmente unificado, das propriedades conscientes. A unidade fundamental da consciência argumenta contra o cérebro (um agregado de partes separáveis) ser a fonte.",
     "qualia_account": "Os qualia (o carácter qualitativo sentido) são propriedades fenoménicas suportadas pela anima imaterial, que fornece a consciência única e unitária de experiências complexas.",
     "ontological_commitments": "Anima não física e substancial (um 'particular imaterial'); corpo/cérebro físico; e, frequentemente, Deus (como criador ou fornecedor das animas).",
@@ -53,7 +53,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico (por exemplo, argumentos modais para a irredutibilidade), teológico (interpretação das Escrituras), fenomenológico (introspeção/autoconsciência)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Especulativa/filosófica. O teste empírico direto é impossível devido à natureza não física da anima. Argumenta-se que a evidência empírica de sobrevivência para além da morte (como as EQM/EFC) falsificaria instantaneamente o materialismo e sustentaria o dualismo.",
+    "testability_status": "Speculative/Philosophical. Direct empirical testing is impossible due to the soul’s nonphysical nature. It is argued that empirical evidence for survival beyond death (like NDEs/OBEs) would instantaneously falsify materialism and support dualism.",
     "known_empirical_interventions_or_tests": "Observações relatadas, como as experiências de quase-morte (EQM) e as experiências fora do corpo (EFC), são citadas pelos adeptos como fenómenos que requerem uma explicação não física, que a anima fornece.",
     "criticisms_and_tensions": "A principal tensão é o problema da causação mental (como pode uma anima imaterial interagir causalmente com o corpo/cérebro físico) e o conflito com o princípio científico amplamente aceite do fecho causal do mundo físico. Os críticos atribuem frequentemente a persistência desta visão a 'mitos populares' ou a tradições persistentes.",
     "open_questions_and_limitations": "Não consegue explicar a composição ou essência precisas da anima (a sua diferença face a outras animas sendo 'última, inanalisável'). Enfrenta a profunda dificuldade de acomodar a causação mental sem violar a física.",
@@ -61,28 +61,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Não (na maioria dos casos)",
+      "stance": "Unlikely",
       "rationale": "Se a consciência requer uma substância radicalmente separada e não física (a anima) que é criada ou atribuída de forma divina, as inteligências não biológicas não poderiam gerar este componente necessário, tornando impossível a consciência da IA."
     },
     "survival_beyond_death": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "A anima é o 'verdadeiro tu', existindo independentemente do corpo e fornecendo o mecanismo mais claro para a persistência da consciência individual post-mortem, cumprindo o princípio nuclear das religiões abraâmicas."
     },
     "meaning_and_purpose": {
-      "stance": "Último/Cósmico",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Enquanto teoria teológica, fornece sentido, propósito e valor últimos ligados à criação divina, ao destino e à natureza espiritual da existência humana."
     },
     "virtual_immortality": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "Carregar os padrões e vias neurais apenas duplicaria a base física da consciência. Uma vez que a substância não física necessária (a anima) estaria ausente do duplicado, a preservação do eu mental na primeira pessoa seria impossível."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Sobreposição" },
-      { "name": "Thomistic Dualism", "relationship": "Extensão" },
-      { "name": "Non-Reductive Physicalism", "relationship": "Crítica" },
-      { "name": "Emergent Dualism", "relationship": "Variação" }
+      {
+        "name": "Dualism",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Thomistic Dualism",
+        "relationship": "Extension"
+      },
+      {
+        "name": "Non-Reductive",
+        "relationship": "Critique"
+      },
+      {
+        "name": "Emergent Dualism",
+        "relationship": "Variation"
+      }
     ],
     "sources_and_references": [
       {

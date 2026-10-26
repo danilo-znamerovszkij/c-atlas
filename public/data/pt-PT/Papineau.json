@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "A Identidade Mente-Cérebro de Papineau",
     "summary": "Esta teoria defende o fisicalismo neurobiológico, afirmando que os estados conscientes são fundamental e literalmente idênticos a estados cerebrais específicos. Sustenta que esta identidade é descoberta a posteriori, por inferência científica, defendendo que a perene 'lacuna explicativa' é um artefacto enganador de intuições dualistas profundamente enraizadas.",
-    "associated_thinkers": ["David Papineau"],
+    "associated_thinkers": [
+      "David Papineau"
+    ],
     "category": "Materialismo",
     "subcategory": "Filosófico",
     "core_identity_tagline": "«A Consciência como Identidade Fundamental Mente-Cérebro»",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Os estados conscientes (como a dor) são estritamente idênticos a estados cerebrais físicos específicos (como o disparo neuronal numa determinada área). Não são meramente causados ou gerados por esses estados físicos.",
-    "ontological_status": "Fisicalismo Redutivo (Identidade Mente-Cérebro Forte)",
+    "ontological_status": "Reductive Physicalism (Strong Mind-Brain Identity)",
     "mind_body_relationship": "Teoria da Identidade Estrita. Os estados mentais são fisicamente idênticos a certos estados neuronais; a sua relação é de facto (identidade a posteriori).",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência Fraca. Uma vez que os estados mentais são idênticos a estados físicos, são em última análise redutíveis ou explicáveis pelas leis físicas, mesmo que a identidade tenha de ser descoberta empiricamente (a posteriori).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Since mental states are identical to physical states, they are ultimately reducible or explicable by physical laws, even if the identity must be discovered empirically (a posteriori).",
     "subjectivity_and_intentionality": "A subjetividade (o sentimento do 'como é') é simplesmente uma propriedade do próprio estado cerebral físico, ou seja, aquilo que se 'sente' quando ele é instanciado. A intencionalidade é herdada através da função física do estado cerebral identificado.",
     "qualia_account": "Os qualia são idênticos a propriedades físicas subjacentes do estado cerebral. O mistério em torno dos qualia é atribuído ao enganador 'pensamento dualista espontâneo' que separa falsamente o sentir do estado físico.",
     "ontological_commitments": "Estados físicos; processos neurais específicos; o fecho causal do domínio físico.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico, Empírico, Abdutivo"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável (Condicional). Assenta na obtenção de evidência neurocientífica rigorosa que apoie as alegações de identidade, embora a vagueza dos conceitos fenomenais dificulte a definição do correlato físico necessário.",
+    "testability_status": "Empirically testable (Conditional). Relies on finding rigorous neuroscientific evidence supporting the identity claims, although the vagueness of phenomenal concepts makes defining the necessary physical correlate difficult.",
     "known_empirical_interventions_or_tests": "Estudos correlacionais que ligam estados cerebrais específicos e complexos (por exemplo, padrões de disparo neuronal medidos) às experiências subjetivas correspondentes (por exemplo, relatos de dor).",
     "criticisms_and_tensions": "Os críticos argumentam que o argumento se limita a pressupor a validade do fisicalismo, em vez de provar a identidade. A teoria é vulnerável à alegação de que mesmo o conhecimento perfeito dos correlatos físicos não implica logicamente o sentimento subjetivo (o Argumento do Conhecimento).",
     "open_questions_and_limitations": "A natureza vaga dos conceitos subjetivos (fenomenais) impede a identificação rigorosa de uma única e precisa essência material para qualquer estado consciente dado (uma 'quimera').",
@@ -51,39 +53,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Se os estados conscientes são fundamentalmente idênticos a configurações específicas de matéria e de processo, então esses estados têm de ser reproduzíveis em qualquer suporte capaz de realizar as configurações físicas e a complexidade necessárias, incluindo os sistemas artificiais."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A consciência depende estritamente da organização específica dos processos cerebrais biológicos e é idêntica a esta. A sua persistência é impossível após a cessação irreversível desse sistema físico."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanista",
+      "stance": "Humanistic only",
       "rationale": "Enquanto teoria enraizada num fisicalismo rigoroso, vê a mente como um produto de processos naturais, não fornecendo qualquer base para um sentido ou propósito cósmico ou transcendente para além do criado pela agência humana."
     },
     "virtual_immortality": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Uma vez que a consciência é a organização física específica do cérebro, a duplicação perfeita (carregamento) desta estrutura num novo substrato físico é, em princípio, suficiente para preservar a identidade consciente."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mind-Brain Identity Theory",
-        "relationship": "Extensão"
+        "name": "Mind-Brain Identity",
+        "relationship": "Extension"
       },
       {
         "name": "Functionalism",
-        "relationship": "Compatível"
+        "relationship": "Compatible"
       },
       {
         "name": "Epiphenomenalism",
-        "relationship": "Crítica"
+        "relationship": "Critique"
       },
       {
         "name": "David Chalmers' Hard Problem",
-        "relationship": "Crítica"
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "Teoria de Ordem Superior da Consciência Emocional de LeDoux",
     "summary": "Esta teoria propõe que as sensações emocionais conscientes, como o medo, não são fundamentalmente diferentes das experiências conscientes percetivas, defendendo que ambas decorrem de redes gerais de cognição de base cortical (GNC) que geram representações de ordem superior (HOR) de informação de ordem inferior. A essência da consciência fenoménica reside numa rerrepresentação de um estado de ordem superior anterior, designado HOROR (Representação de Ordem Superior de uma Representação).",
-    "associated_thinkers": ["Joseph LeDoux", "Richard Brown"],
+    "associated_thinkers": [
+      "Joseph LeDoux",
+      "Richard Brown"
+    ],
     "category": "Materialismo",
     "subcategory": "Representacional",
     "core_identity_tagline": "A consciência como representação de ordem superior de estados emocionais e percetivos",
@@ -16,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada como um estado de terceira ordem (HOROR), especificamente a representação de ordem superior (HOR) adequada de informação de ordem inferior, instanciada por Redes Gerais de Cognição (GNC) de base cortical.",
-    "ontological_status": "Fisicalismo. A teoria é materialista, defendendo que a consciência decorre de um sistema no cérebro, instanciado em circuitos corticais.",
+    "ontological_status": "Physicalism. The theory is materialist, arguing that consciousness arises from one system in the brain, instantiated in cortical circuits.",
     "mind_body_relationship": "Identidade/dependência causal. Os estados mentais (sensações emocionais conscientes e experiências percetivas) dependem inteiramente de, e estão instanciados em, processos e redes físicas específicas (GNC, circuitos corticais).",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca (justificada: enquanto teoria neurobiológica/materialista detalhada centrada em mecanismos neurais descobríveis, assume-se que a complexidade da consciência é, em princípio, dedutível a partir de processos físicos.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Justified: As a detailed neurobiological/materialist theory focused on discoverable neural mechanisms, the complexity of consciousness is assumed, in principle, to be deducible from physical processes.)",
     "subjectivity_and_intentionality": "A subjetividade (a experiência emocional e autoconsciente) surge quando o eu é incluído no estado HOROR. A intencionalidade é alcançada porque a consciência é fundamentalmente representacional (HOR de informação).",
     "qualia_account": "A experiência fenoménica consiste em ter a HOR adequada de informação de ordem inferior, que é um estado de tipo pensamento que instancia a experiência fenoménica, acedida introspetivamente. A teoria visa explicar o «como-é-ser» subjetivo mediado por estas representações de ordem superior.",
     "ontological_commitments": "Redes Gerais de Cognição (GNC) de base cortical, representações de ordem superior (HOR), circuitos neurais (por exemplo, o córtex pré-frontal, o córtex sensorial) e informação de ordem inferior.",
@@ -44,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Neurobiológica, cognitiva"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável, em particular através do teste da correlação entre a experiência consciente e os padrões de atividade nas redes corticais hierárquicas específicas descritas (por exemplo, o envolvimento do córtex pré-frontal na geração de estados HOROR).",
+    "testability_status": "Empirically testable, particularly through testing the correlation between conscious experience and activity patterns in the specific hierarchical cortical networks described (e.g., PFC involvement in generating HOROR states).",
     "known_empirical_interventions_or_tests": "Baseia-se na identificação de atividade em estruturas corticais (por exemplo, o córtex pré-frontal e as áreas sensoriais/de memória) correspondente ao processamento de representação hierárquica, em consonância com a investigação sobre funções cognitivas e metacognitivas.",
     "criticisms_and_tensions": "Enfrenta o desafio geral dirigido às Teorias de Ordem Superior (HOT) relativo à natureza do próprio estado de ordem superior, especificamente à forma como uma representação de tipo pensamento torna consciente um estado de primeira ordem (o «mistério» apontado por Block quanto à HOT em geral). Também põe em causa as visões tradicionais da localização da emoção.",
     "open_questions_and_limitations": "A possibilidade de a agência consciente (livre-arbítrio) surgir do modelo mental consciente resultante continua a ser objeto de debate.",
@@ -52,39 +55,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Enquanto teoria materialista e funcional baseada no processamento hierárquico de informação (GNC/HOROR), a consciência é, em princípio, replicável em sistemas não biológicos capazes de instanciar as estruturas computacionais e representacionais necessárias."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A consciência é inteiramente um produto de sistemas biológicos altamente complexos e fisicamente instanciados (circuitos corticais e GNC), não oferecendo recursos para a sobrevivência para além da existência física do corpo."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanístico",
+      "stance": "Humanistic only",
       "rationale": "A consciência é um mecanismo biológico evoluído que potencia a sobrevivência e possibilita estados emocionais centrados no eu, mas a teoria não postula qualquer sentido ou propósito último, cósmico ou transcendental."
     },
     "virtual_immortality": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Uma vez que o eu na primeira pessoa está fundado em estados cerebrais complexos, funcionais e representacionais, uma duplicação perfeita destes estados físicos através de tecnologia de carregamento (uploading) preservaria, em princípio, o eu e alcançaria a imortalidade virtual."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Theories",
-        "relationship": "Extensão"
+        "name": "Higher-Order",
+        "relationship": "Extension"
       },
       {
-        "name": "Lau’s Perceptual Reality Monitoring Theory",
-        "relationship": "Compatível"
+        "name": "Lau's Perceptual Reality Monitoring Theory",
+        "relationship": "Compatible"
       },
       {
-        "name": "First-Order Representationalism",
-        "relationship": "Crítica"
+        "name": "First-Order",
+        "relationship": "Critique"
       },
       {
         "name": "Traditional Higher-Order Thought Theory (HOT)",
-        "relationship": "Refinamento"
+        "relationship": "Refinement"
       }
     ],
     "sources_and_references": [

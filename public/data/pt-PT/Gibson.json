@@ -18,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é entendida, por extensão, como uma função da interação contínua e do fluxo informacional no interior do sistema organismo-ambiente, caracterizada pela perceção direta de invariantes e affordances, e não por representações mentais internas.",
-    "ontological_status": "Fisicalismo/Realismo Direto",
+    "ontological_status": "Physicalism/Direct Realism",
     "mind_body_relationship": "A mente/perceção é contínua com a ação, centrando-se no sistema organismo-ambiente enquanto unidade de análise e rejeitando a ideia de que a mente é exclusivamente redutível a processos que ocorrem dentro da cabeça.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "A subjetividade é constituída pela relação dinâmica e situada do organismo com o ambiente (sistema organismo-ambiente). A intencionalidade (o carácter dirigido do pensamento) é explicada pela perceção de affordances, que são possibilidades de ação inerentes ao ambiente.",
     "qualia_account": "A teoria é não representacional e está geralmente alinhada com perspetivas que rejeitam os dados sensoriais internos (qualia) tal como tradicionalmente concebidos, favorecendo a perceção direta de propriedades ambientais (invariantes e affordances).",
     "ontological_commitments": "Sistema organismo-ambiente, informação ótica (invariantes), affordances.",
@@ -46,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Experimental, filosófica, ecológica"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável, em particular no âmbito da psicologia ecológica e dos estudos da perceção.",
+    "testability_status": "Empirically testable, particularly within ecological psychology and perception studies.",
     "known_empirical_interventions_or_tests": "Observação empírica da perceção e análise detalhada dos campos de interação organismo-ambiente.",
     "criticisms_and_tensions": "A teoria critica as teorias dominantes da perceção, atacando especificamente tanto o behaviorismo como o cognitivismo/processamento de informação. A sua extensão à consciência fenomenal é especulativa e sujeita ao ceticismo dos que estão comprometidos com teorias da representação interna.",
     "open_questions_and_limitations": "O núcleo da teoria aborda a perceção e a cognição; a aplicação ou extensão à explicação da consciência fenomenal (o aspeto do «como é») exige uma inferência cautelosa.",
@@ -54,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Possível",
+      "stance": "Possible",
       "rationale": "Se a consciência é um produto da interação direta e situada no interior de um sistema organismo-ambiente (como implica esta teoria do Materialismo), então a IA poderia alcançar a consciência caso fosse concebida para se corporizar e interagir num ambiente físico capaz de percecionar affordances."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A teoria enquadra-se no Materialismo, centrando-se no organismo vivo e biológico e no seu ambiente físico. Não se postula qualquer componente não físico que pudesse sobreviver à morte corporal."
     },
     "meaning_and_purpose": {
-      "stance": "Humanista/adaptativo",
+      "stance": "Humanistic only",
       "rationale": "O papel funcional primário da perceção é o comportamento adaptativo através da deteção de affordances, em consonância com uma visão materialista na qual o sentido é criado pelos seres humanos no seu ambiente, para a sobrevivência e o florescimento."
     },
     "virtual_immortality": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "Uma vez que a consciência está ligada à unidade física organismo-ambiente, a imortalidade virtual só seria alcançável se as interações corporizadas e não representacionais essenciais pudessem ser perfeitamente captadas e simuladas num novo suporte físico."
     }
   },
@@ -74,15 +74,15 @@
     "related_theories": [
       {
         "name": "Direct Perception Theory",
-        "relationship": "Sobreposição"
+        "relationship": "Overlap"
       },
       {
         "name": "Enactivism",
-        "relationship": "Compatível"
+        "relationship": "Compatible"
       },
       {
         "name": "Computational Theories",
-        "relationship": "Crítica"
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

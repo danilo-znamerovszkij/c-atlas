@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Os Agentes Livres de Mitchell",
     "summary": "Esta teoria afirma que o livre-arbítrio, ou a agência, é um fenómeno real que emerge inteiramente do funcionamento puramente físico do cérebro. Sublinha o percurso evolutivo através do qual os sistemas nervosos desenvolveram a capacidade de aprender, modelar, prever e simular, permitindo que os seres vivos façam escolhas reais.",
-    "associated_thinkers": ["Kevin Mitchell"],
+    "associated_thinkers": [
+      "Kevin Mitchell"
+    ],
     "category": "Materialismo",
     "subcategory": "Neurobiológico",
     "core_identity_tagline": "Agentes Livres a Partir do Funcionamento Puramente Físico do Cérebro",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência e o comportamento são identificados como produtos emergentes que resultam inteiramente do funcionamento físico e dos padrões de atividade neural do cérebro.",
-    "ontological_status": "Fisicalismo",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Identidade/Emergentista. Os pensamentos estão fisicamente instanciados em padrões de atividade neural, o que significa que o 'fantasma' é a própria máquina em funcionamento.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência Fraca",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "A subjetividade e o sentido de 'eu' são explicados como aspetos da máquina física em funcionamento. A intencionalidade decorre de faculdades evoluídas que permitem ao organismo modelar, prever e simular o mundo para possibilitar uma agência orientada para fins.",
     "qualia_account": "A qualidade sentida é implicitamente explicada como um produto do complexo funcionamento físico do cérebro e de padrões específicos de atividade neural. O material de origem não detalha explicitamente a natureza dos qualia fenomenais para além de afirmar que emergem fisicamente.",
     "ontological_commitments": "Cérebros físicos, sistemas nervosos, padrões de atividade neural.",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico, Evolutivo"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente restringida (por dados neurobiológicos e evolutivos); o mecanismo de emergência da agência está conceptualmente fundamentado no fisicalismo.",
+    "testability_status": "Empirically constrained (by neurobiological and evolutionary data); mechanism for emergence of agency is conceptually grounded in physicalism.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "A teoria é contestada por deterministas radicais e por céticos do livre-arbítrio. É significativa precisamente porque defende o livre-arbítrio 'real' mantendo simultaneamente um compromisso inflexível com o fisicalismo, o que a distingue de muitas outras visões materialistas.",
     "open_questions_and_limitations": "Os mecanismos precisos que detalham como processos cerebrais puramente físicos geram uma agência não ilusória e a experiência subjetiva permanecem por especificar plenamente.",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "A consciência e a agência são fenómenos inteiramente físicos que emergem de sistemas complexos. Por conseguinte, dado um avanço tecnológico suficiente, os sistemas artificiais podem instanciar o funcionamento físico necessário e alcançar a consciência."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A consciência depende totalmente do funcionamento puramente físico e dos padrões de atividade dentro do cérebro biológico; o 'fantasma' é a máquina em funcionamento, o que implica a sua cessação com a morte cerebral."
     },
     "meaning_and_purpose": {
-      "stance": "Humanista/Evolutivo",
+      "stance": "Humanistic only",
       "rationale": "A agência permite aos indivíduos moldar conscientemente o seu futuro e agir com propósito, proporcionando um sentido interno e criado, mas a ordem cósmica subjacente é materialista (emergente da matéria inanimada)."
     },
     "virtual_immortality": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Enquanto teoria fisicalista, a imortalidade virtual é alcançável em princípio se os padrões essenciais de atividade neural e a agência emergente que sustentam puderem ser duplicados com perfeição em suportes não biológicos."
     }
   },
@@ -72,15 +74,15 @@
     "related_theories": [
       {
         "name": "Papineau's Mind-Brain Identity",
-        "relationship": "Compatível"
+        "relationship": "Compatible"
       },
       {
         "name": "Functionalism",
-        "relationship": "Compatível"
+        "relationship": "Compatible"
       },
       {
         "name": "Sapolsky's Hard Incompatibilism",
-        "relationship": "Crítica"
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

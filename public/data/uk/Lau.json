@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Теорія моніторингу перцептивної реальності Лау",
     "summary": "Ця емпірично обґрунтована теорія вищого порядку пропонує, що свідоме сприйняття відбувається, коли конкретна репрезентація вищого порядку (РВП) підтверджує сенсорну репрезентацію першого порядку як надійне відображення зовнішнього світу. РВП діє як інтерфейс між сприйняттям і когніцією, забезпечуючи суб'єктивне відчуття обґрунтованості свідомого досвіду.",
-    "associated_thinkers": ["Hakwan Lau"],
+    "associated_thinkers": [
+      "Hakwan Lau"
+    ],
     "category": "Матеріалізм",
     "subcategory": "Репрезентаційна",
     "core_identity_tagline": "«Свідомість як моніторинг перцептивної реальності»",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість є функціональним механізмом або інтерфейсом між сприйняттям і когніцією, утіленим репрезентаціями вищого порядку, які моніторять надійність та епістемічний статус сенсорних станів першого порядку.",
-    "ontological_status": "Фізикалізм / функціоналізм",
+    "ontological_status": "Physicalism / Functionalism",
     "mind_body_relationship": "Свідомість тотожна конкретній функціональній активності нейронних механізмів вищого порядку (ймовірно, в префронтальній корі), що моніторять сенсорні репрезентації першого порядку. Це матеріалістичне пояснення, засноване на функції мозку.",
-    "primitive_or_emergent_status": "Емерджентна",
-    "emergence_type": "Слабка емерджентність. Свідомість є функцією, що постає з конкретних складних організаційних структур (РВП) у мозку, вказуючи на те, що вона є пояснюваною чи редуковною в принципі, узгоджено з її матеріалістичною класифікацією.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consciousness is a function arising from specific complex organizational structures (HORs) in the brain, suggesting it is explainable or reducible in principle, consistent with its materialist classification.",
     "subjectivity_and_intentionality": "Суб'єктивність постає зі зв'язку свідомості з формуванням переконань та епістемічним обґрунтуванням на суб'єктивному рівні. Інтенційність переноситься перцептивною репрезентацією першого порядку, яку моніторять.",
     "qualia_account": "Суб'єктивне «як воно — це переживати» пояснюється репрезентаціями вищого порядку, що отримують доступ до багатших, нижчого рівня аналогових перцептивних сигналів. Аналогова природа цих сигналів визначає суб'єктивну подібність відносно інших можливих переживань.",
     "ontological_commitments": "Перцептивні репрезентації першого порядку, моніторингові репрезентації вищого порядку (РВП) та конкретні нейронні механізми, розташовані переважно в префронтальній корі.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Емпіричний/когнітивно-нейронауковий, функціоналістський"
   },
   "empirics_and_critiques": {
-    "testability_status": "Емпірично перевірна через картографування та порівняння нейронних корелятів свідомого сприйняття й сенсорної метакогніції та через передбачувальну силу щодо феноменів сліпозору.",
+    "testability_status": "Empirically testable by mapping and comparing the neural correlates of conscious perception and sensory metacognition, and through the predictive power regarding blindsight phenomena.",
     "known_empirical_interventions_or_tests": [
       "Дослідження нейровізуалізації, що корелюють префронтальну/тім'яну активність із сенсорною метакогніцією та свідомим сприйняттям."
     ],
@@ -53,39 +55,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ймовірно",
+      "stance": "Likely",
       "rationale": "Як функціоналістська теорія, свідомість залежить від реалізації правильної інформаційної/функціональної архітектури (механізму РВП). Якщо цю архітектуру можна втілити в роботі чи комп'ютерній програмі, штучна свідомість є можливою."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Свідомість явно пов'язана з конкретними, спеціалізованими нейронними механізмами, розташованими в біологічному мозку (напр., префронтальна кора), не залишаючи місця для тривання після біологічної смерті."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичні",
+      "stance": "Humanistic only",
       "rationale": "Первинна роль механізму є функціональною (відрізнення реальності від фантазії та маршрутизація інформації). Він не пропонує жодної космічної чи остаточної мети поза адаптивними перевагами, наданими цим біологічним механізмом."
     },
     "virtual_immortality": {
-      "stance": "Ймовірне",
+      "stance": "Likely",
       "rationale": "Якщо конкретну функціональну та інформаційну архітектуру, включно з аналоговою природою репрезентацій, можна досконало завантажити та запустити на небіологічному субстраті, ментальна самість від першої особи була б збережена, оскільки свідомість визначається цією функціональною структурою."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Theories",
-        "relationship": "Конкретний випадок/розширення"
+        "name": "Higher-Order",
+        "relationship": "Specific Instance/Extension"
       },
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Критика (позиціонується як переважна проміжна альтернатива)"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Critique (Positioned as a superior intermediate alternative)"
       },
       {
-        "name": "Recurrent Processing Theory",
-        "relationship": "Критика (позиціонується як переважна проміжна альтернатива)"
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Critique (Positioned as a superior intermediate alternative)"
       },
       {
-        "name": "Graziano’s Attention Schema Theory",
-        "relationship": "Сумісна (поділяє функціоналістський/когнітивний підхід до пояснення свідомих тверджень)"
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "Compatible (Shares a functionalist/cognitive approach to explaining conscious claims)"
       }
     ],
     "sources_and_references": [

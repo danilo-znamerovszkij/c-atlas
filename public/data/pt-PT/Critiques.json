@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Teoria das Críticas",
     "summary": "Esta entrada representa a função cética essencial e omnipresente nos estudos da consciência, desafiando sistematicamente a coerência explicativa, a validade empírica e os pressupostos metafísicos de todas as teorias da consciência propostas. Salienta tensões conceptuais persistentes, como a lacuna explicativa e o enigma da correlação-causação, obrigando as teorias a defender a sua consistência interna e o seu fundamento empírico.",
-    "associated_thinkers": ["Robert Lawrence Kuhn"],
+    "associated_thinkers": [
+      "Robert Lawrence Kuhn"
+    ],
     "category": "Teorias de Contestação",
     "subcategory": "Crítica/Ceticismo",
     "core_identity_tagline": "A Função Cética Essencial",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A crítica é identificada como a avaliação e o diagnóstico sistemáticos das falhas explicativas (por exemplo, lacunas explicativas, ausência de coerência, garantia empírica insuficiente) inerentes a todas as explicações concorrentes da consciência.",
-    "ontological_status": "Posição Epistemológica/Metodológica (a crítica avalia primariamente as pretensões de conhecimento e as metodologias de outras teorias, em vez de apresentar uma ontologia positiva).",
+    "ontological_status": "Epistemological/Methodological Stance (Critique primarily assesses the knowledge claims and methodologies of other theories rather than presenting a positive ontology.)",
     "mind_body_relationship": "Não aplicável (enquanto conceito metodológico, a crítica analisa a coerência de propostas ontológicas existentes, tais como as tentativas de resolver o problema mente-corpo, sem propor a sua própria solução positiva).",
-    "primitive_or_emergent_status": "Nenhum (a crítica é uma prática discursiva e analítica, não uma propriedade fundamental nem um processo emergente da realidade).",
-    "emergence_type": "Não aplicável (o conceito é puramente metodológico).",
+    "primitive_or_emergent_status": "Neither (Critique is a discursive and analytical practice, not a fundamental property or an emergent process of reality.)",
+    "emergence_type": "Not Applicable (The concept is purely methodological.)",
     "subjectivity_and_intentionality": "As críticas centram-se frequentemente no fracasso das teorias fisicalistas em explicar a experiência subjetiva na primeira pessoa (subjetividade) e a direcionalidade do pensamento (intencionalidade), argumentando que estes aspetos escapam aos modelos puramente quantitativos.",
     "qualia_account": "Ferramenta de Avaliação (a crítica converte a dimensão qualitativa da experiência — os qualia — na principal objeção contra as explicações materialistas e reducionistas, salientando o 'problema difícil' como um défice analítico por resolver).",
     "ontological_commitments": "Os compromissos variam consoante a crítica específica que está a ser mobilizada; não existe uma ontologia unitária da 'Teoria das Críticas', embora assente frequentemente no compromisso de que a atual visão científica do mundo é incompleta ou falha.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Análise Conceptual/Filosófica (assente na identificação de inconsistências lógicas e epistemológicas nos argumentos a favor e contra teorias específicas)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Testável em relação a pretensões teóricas específicas (a crítica gera desafios explícitos que iniciam programas de investigação empírica, como as experiências de colaboração adversarial, para verificar ou falsificar previsões visadas).",
+    "testability_status": "Testable in relation to specific theoretical claims (Critique generates explicit challenges that initiate empirical research programs, such as adversarial collaboration experiments, to verify or falsify targeted predictions.)",
     "known_empirical_interventions_or_tests": [
       "Experiências de colaboração adversarial (concebidas para testar previsões contrastantes de teorias concorrentes, como a IIT e a Teoria do Espaço de Trabalho Global)",
       "Experiências mentais (por exemplo, o argumento do zombie, o argumento do conhecimento) usadas como testes conceptuais contra as pretensões fisicalistas"
@@ -54,39 +56,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "A crítica salienta a dificuldade em verificar a verdadeira consciência interior na IA, enfatizando que a complexidade computada poderá conduzir apenas a uma consciência *aparente* (o desafio da simulação), tornando pouco fiáveis certas afirmações."
     },
     "survival_beyond_death": {
-      "stance": "Incerta",
+      "stance": "Uncertain",
       "rationale": "A crítica reconhece que, se fenómenos altamente anómalos (como experiências de quase-morte verificáveis) fossem empiricamente confirmados, falsificariam instantaneamente os modelos materialistas de produção, deslocando o apoio teórico para as hipóteses de sobrevivência não física."
     },
     "meaning_and_purpose": {
-      "stance": "Diagnostica a ausência de sentido último",
+      "stance": "Humanistic only",
       "rationale": "As críticas contestam frequentemente as explicações materialistas e reducionistas por não conseguirem racionalizar um sentido ou valor últimos, restando apenas a autocriação humanista do propósito."
     },
     "virtual_immortality": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "A crítica sustenta que, sem resolver o enigma metafísico daquilo que a consciência *é* (por exemplo, demonstrar que o carregamento preserva perfeitamente o eu na primeira pessoa), a imortalidade virtual permanece conceptualmente problemática e não verificada."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mysterianism (McGinn's Ultimate Mystery)",
-        "relationship": "Sobreposição"
+        "name": "Challenge",
+        "relationship": "Overlap"
       },
       {
         "name": "Meta-Problem of Consciousness",
-        "relationship": "Extensão"
+        "relationship": "Extension"
       },
       {
         "name": "Integrated Information Theory",
-        "relationship": "Crítica"
+        "relationship": "Critique"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
-        "relationship": "Influência"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Influence"
       }
     ],
     "sources_and_references": [

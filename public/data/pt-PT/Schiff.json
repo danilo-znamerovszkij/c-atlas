@@ -1,0 +1,123 @@
+{
+  "id_and_class": {
+    "theory_title": "O mesocircuito do prosencéfalo anterior de Schiff na recuperação da consciência",
+    "summary": "Nicholas D. Schiff propõe que a perda e a recuperação da consciência após uma lesão cerebral grave dependem de um circuito que liga o tálamo central, o córtex frontal, o estriado e o globo pálido interno. Uma lesão extensa priva o estriado de aferências, o que liberta a inibição palidal sobre o tálamo central e leva todo o prosencéfalo anterior para um estado deprimido que se autorreforça. Como o circuito pode ser empurrado de novo para lá do limiar, o modelo explica a recuperação e prevê que tratamentos funcionarão.",
+    "associated_thinkers": [
+      "Nicholas D. Schiff"
+    ],
+    "category": "Materialismo",
+    "subcategory": "Neurobiológico",
+    "core_identity_tagline": "O nível de consciência como função do circuito tálamo-cortical",
+    "classification_tags": [
+      "disorders of consciousness",
+      "thalamus",
+      "deep brain stimulation",
+      "brain injury",
+      "neurology"
+    ]
+  },
+  "conceptual_ground": {
+    "explanatory_identity_claim": "Schiff não diz o que é a consciência. Identifica as condições habilitantes do nível de consciência: um mesocircuito ativo do prosencéfalo anterior capaz de sustentar a atividade recorrente de que dependem os estados conscientes.",
+    "ontological_status": "Physicalism (neurobiological)",
+    "mind_body_relationship": "O nível de consciência depende de um circuito subcortical-cortical específico; a sua falência abole a consciência mesmo quando sobrevive muito tecido cortical. O modelo é omisso quanto ao modo como a atividade cerebral se relaciona com o conteúdo vivido.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak emergence (conscious level depends on the dynamic state of a brain circuit)",
+    "subjectivity_and_intentionality": "",
+    "qualia_account": "Não abordado. Schiff apresenta a hipótese como um modelo do nível de consciência, não do caráter fenoménico.",
+    "ontological_commitments": "Circuitos neuronais (tálamo central, neurónios espinhosos médios do estriado, globo pálido interno, córtex frontal), impulso sináptico, neuromodulação e metabolismo.",
+    "epistemic_access": "Diagnóstico comportamental, metabolismo cerebral regional (PET), padrões espetrais de EEG de escalpe e respostas a fármacos e à estimulação cerebral profunda.",
+    "constituents_and_structure": "Um circuito: o córtex e o tálamo ativam o estriado, o estriado inibe o globo pálido interno, o pálido inibe o tálamo central e o tálamo central excita o córtex frontal e o estriado."
+  },
+  "mechanism_and_dynamics": {
+    "scope_of_consciousness": "Nível de consciência e de ativação; capacidade de atenção, memória de trabalho, comportamento intencional e comunicação; consciência encoberta. Não o conteúdo fenoménico.",
+    "distinctive_mechanism_or_principle": "Infrarregulação do mesocircuito: quando os neurónios estriatais perdem as aferências convergentes corticais e talâmicas, a inibição palidal do tálamo central aumenta, o impulso tálamo-cortical colapsa e a atividade reduzida mantém o estriado silencioso.",
+    "dynamics_of_emergence": "As perturbações da consciência são estados graduais do circuito. Os doentes podem passar do coma à vigília sem resposta e aos estados de consciência mínima, e pequenas alterações na eficácia sináptica, na neuromodulação, no metabolismo ou na estimulação podem empurrar o circuito para lá de um limiar, pelo que a recuperação pode ser não linear.",
+    "location_and_distribution": "Prosencéfalo anterior: tálamo central (incluindo o núcleo central lateral), estriado, globo pálido interno e córtex frontal; trabalhos posteriores acrescentam o globo pálido externo.",
+    "causation_and_functional_role": "Um mesocircuito ativo permite que as redes de larga escala suportem a ativação, a atenção, a memória de trabalho, o comportamento intencional e a comunicação.",
+    "integration_or_binding": "",
+    "information_flow_or_representation": "",
+    "evolutionary_account": "",
+    "core_claims_and_evidence": [
+      "Os doentes em estado vegetativo e de consciência mínima apresentam hipometabolismo concentrado no córtex frontal, no tálamo e no estriado, desproporcionado em relação à sua lesão focal (Fridman e colegas).",
+      "O zolpidem, um sedativo, restaura a capacidade de resposta num pequeno subconjunto de doentes ao inibir o globo pálido interno e libertar o tálamo central; os que respondem mostram metabolismo pré-frontal aumentado e menos atividade de baixa frequência no EEG.",
+      "A estimulação cerebral profunda talâmica central bilateral produziu uma melhoria sustentada num doente em consciência mínima havia seis anos, e um ensaio de fase 1 relatou melhor controlo executivo após lesão cerebral traumática.",
+      "No modelo ABCD, a recuperação do EEG vai da atividade abaixo de 1 Hz ao ritmo teta e depois aos ritmos alfa e beta, à medida que os circuitos tálamo-corticais são restaurados."
+    ],
+    "basis_of_belief_or_evidence_type": "Empírico: neurologia clínica, metabolismo por PET, EEG, farmacologia e ensaios de intervenção."
+  },
+  "empirics_and_critiques": {
+    "testability_status": "Empirically testable",
+    "known_empirical_interventions_or_tests": "Prova com zolpidem; estimulação cerebral profunda do tálamo central (incluindo um estudo de viabilidade aleatorizado de fase 1); mapeamento metabólico regional por PET; classificação espetral do EEG com o modelo ABCD para prognóstico e seleção de candidatos à neuromodulação.",
+    "criticisms_and_tensions": "O modelo explica quando a consciência pode ocorrer, não o que ela é nem por que razão se sente como algo. Vários elos da sua cadeia de inferência já foram revistos, incluindo o acréscimo do globo pálido externo.",
+    "open_questions_and_limitations": "Nada no mesocircuito especifica os conteúdos da experiência nem o seu caráter qualitativo, o que Schiff reconhece. Diagnósticos comportamentais semelhantes podem ocultar capacidades residuais diferentes, pelo que a consciência encoberta continua difícil de detetar.",
+    "ontological_coherence": "Consistente com o fisicalismo e neutro entre as teorias ontológicas, que restringe em vez de com elas competir. Coloca um problema às explicações que situam a consciência inteiramente na dinâmica cortical."
+  },
+  "implications": {
+    "AI_consciousness": {
+      "stance": "",
+      "rationale": ""
+    },
+    "survival_beyond_death": {
+      "stance": "No",
+      "rationale": "Como o nível de consciência depende aqui de um circuito ativo do prosencéfalo, a consciência não pode sobreviver à falência permanente do circuito."
+    },
+    "meaning_and_purpose": {
+      "stance": "",
+      "rationale": ""
+    },
+    "virtual_immortality": {
+      "stance": "",
+      "rationale": ""
+    }
+  },
+  "relations_and_sources": {
+    "related_theories": [
+      {
+        "name": "Ward's Thalamic Dynamic Core and Min's Thalamic Reticular Gate",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Merker’s Midbrain-Centered Reality Space",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Llinas's Mindness State of Oscillations",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Crick and Koch's Neural Correlates of Consciousness",
+        "relationship": "Compatible"
+      }
+    ],
+    "sources_and_references": [
+      {
+        "title_with_names": "Recovery of Consciousness after Brain Injury: A Mesocircuit Hypothesis, Nicholas D. Schiff",
+        "year": 2010
+      },
+      {
+        "title_with_names": "Behavioural Improvements with Thalamic Stimulation after Severe Traumatic Brain Injury, Nicholas D. Schiff et al.",
+        "year": 2007
+      },
+      {
+        "title_with_names": "Regional Cerebral Metabolic Patterns Demonstrate the Role of Anterior Forebrain Mesocircuit Dysfunction in the Severely Injured Brain, E. A. Fridman et al.",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Common Resting Brain Dynamics Indicate a Possible Mechanism Underlying Zolpidem Response in Severe Brain Injury, S. T. Williams et al.",
+        "year": 2013
+      },
+      {
+        "title_with_names": "Large-Scale Brain Dynamics in Disorders of Consciousness, Nicholas D. Schiff, T. Nauvel and J. D. Victor",
+        "year": 2014
+      },
+      {
+        "title_with_names": "Central Thalamic Deep Brain Stimulation to Support Anterior Forebrain Mesocircuit Function in the Severely Injured Brain, Nicholas D. Schiff",
+        "year": 2016
+      },
+      {
+        "title_with_names": "Thalamic Deep Brain Stimulation in Traumatic Brain Injury: A Phase 1, Randomized Feasibility Study, Nicholas D. Schiff et al.",
+        "year": 2023
+      }
+    ]
+  }
+}

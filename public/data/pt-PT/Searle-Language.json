@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "A Linguagem e a Consciência de Searle",
     "summary": "Searle argumenta que a linguagem é crucial para a consciência humana, servindo para moldar e enriquecer a experiência consciente. Esta relação é entendida como um \"efeito de alavancagem\" evolutivo, em que a consciência pré-linguística permitiu a linguagem, a qual, por sua vez, elaborou a estrutura da consciência.",
-    "associated_thinkers": ["John Searle"],
+    "associated_thinkers": [
+      "John Searle"
+    ],
     "category": "Materialismo",
     "subcategory": "Relações com a Linguagem",
     "core_identity_tagline": "‘A Linguagem como Potenciadora e Moldadora da Consciência’",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada como estados reais, subjetivos e qualitativos de perceção causados por, e realizados em, processos neuronais biológicos no cérebro. A linguagem funciona então como um mecanismo para criar e estruturar conteúdo consciente complexo e de ordem superior.",
-    "ontological_status": "Fisicalismo/Naturalismo Biológico (a consciência é uma característica biológica subjetiva do cérebro, ontologicamente irredutível)",
+    "ontological_status": "Physicalism/Biological Naturalism (consciousness is an ontologically irreducible, subjective biological feature of the brain) ",
     "mind_body_relationship": "Os estados conscientes são realizados no cérebro como características de nível superior do sistema, causadas por processos cerebrais de nível inferior. A mente é ontologicamente irredutível (subjetiva), mas causalmente redutível ao cérebro. As capacidades linguísticas expandem enormemente o alcance dos estados mentais realizados.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência Sistémica/Biológica (a consciência é uma característica de nível superior causada pela organização neuronal. É encarada como parte do mundo natural, à semelhança da digestão ou da fotossíntese.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Systemic/Biological Emergence (Consciousness is a higher-level feature caused by neuronal organization . It is viewed as part of the natural world, like digestion or photosynthesis .)",
     "subjectivity_and_intentionality": "A consciência é ontologicamente subjetiva, existindo apenas enquanto experienciada por um sujeito. A linguagem permite estados intencionais simbólicos e complexos (por exemplo, preencher a declaração de rendimentos ou escrever poesia), indisponíveis para os animais não linguísticos, apesar de estes possuírem estados intencionais básicos.",
     "qualia_account": "Os estados conscientes são qualitativos; possuem um \"carácter qualitativo\" intrínseco (qualia). Estes estados qualitativos são reais, subjetivos e ontologicamente irredutíveis, mas são causalmente produzidos pelo cérebro. A linguagem molda e enriquece estas experiências conscientes.",
     "ontological_commitments": "Cérebros biológicos, processos neuronais, estados conscientes causalmente eficazes (enquanto características reais, subjetivas e de nível superior do sistema) e estruturas linguísticas/simbólicas.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico, Conceptual, Neurobiológico (pressuposto de causação cerebral subjacente)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável (Justificação: enquanto teoria materialista baseada no Naturalismo Biológico, a relação causal entre processos neurais específicos, a capacidade linguística e os estados conscientes complexos resultantes deveria ser testável pela neurociência, ainda que testar a irredutibilidade ontológica seja complexo).",
+    "testability_status": "Empirically testable (Justified: As a Materialist theory based on Biological Naturalism, the causal relationship between specific neural processes, language capacity, and resultant complex conscious states should be testable via neuroscience, although testing ontological irreducibility is complex) .",
     "known_empirical_interventions_or_tests": "Dependência implícita de evidência neurobiológica e linguística geral. (Não são detalhados nas fontes testes canónicos específicos exclusivos do aspeto da Teoria da Linguagem.)",
     "criticisms_and_tensions": "Criticada pelas alegações mais amplas do Naturalismo Biológico, em particular por manter a irredutibilidade ontológica enquanto afirma o reducionismo causal. A distinção entre simulação e causação biológica é também altamente disputada (por exemplo, o argumento do Quarto Chinês).",
     "open_questions_and_limitations": "O mecanismo preciso pelo qual os processos cerebrais geram a consciência é ainda desconhecido, o que limita a explicação de como a linguagem estrutura esta propriedade emergente.",
@@ -51,39 +53,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "Rejeita que a mera simulação (computação) possa alcançar uma consciência semelhante à humana (Quarto Chinês). No entanto, se construíssemos uma máquina artificial que replicasse os processos biológicos/causais necessários do cérebro, ela poderia, em princípio, ser consciente. A centralidade da linguagem pode tornar a consciência da IA mais provável se sistemas linguísticos avançados replicarem a crucial sintaxe interna."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A consciência é uma característica biológica causada por, e realizada no, cérebro. Cessa quando o substrato biológico se dissolve."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanístico",
+      "stance": "Humanistic only",
       "rationale": "Enquanto teoria do Materialismo, não pode racionalizar cosmicamente qualquer sentido ou propósito últimos. A consciência, potenciada pela linguagem, permite que os humanos gerem o seu próprio sentido, propósito e agência complexa."
     },
     "virtual_immortality": {
-      "stance": "Condicional/Provável",
+      "stance": "Conditional",
       "rationale": "A imortalidade virtual (o carregamento do eu mental) só é atingível se a duplicação replicar o sistema biológico/causal exigido, uma vez que a simulação por si só é rejeitada. Se a linguagem é central para a essência profunda da consciência, a duplicação bem-sucedida dos processos linguísticos/simbólicos facilita essa atingibilidade."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Searle’s Biological Naturalism",
-        "relationship": "Fundamento"
+        "name": "Searle's Biological Naturalism",
+        "relationship": "Basis"
       },
       {
-        "name": "Chomsky’s Language and Consciousness",
-        "relationship": "Sobreposição"
+        "name": "Chomsky's Language and Consciousness",
+        "relationship": "Overlap"
       },
       {
-        "name": "Koch’s Consciousness does not Depend on Language",
-        "relationship": "Crítica"
+        "name": "Koch's Consciousness does not Depend on Language",
+        "relationship": "Critique"
       },
       {
-        "name": "Jaynes’s Breakdown of the Bicameral Mind",
-        "relationship": "Sobreposição/Contraste"
+        "name": "Jaynes's Breakdown of the Bicameral Mind",
+        "relationship": "Overlap/Contrast"
       }
     ],
     "sources_and_references": [

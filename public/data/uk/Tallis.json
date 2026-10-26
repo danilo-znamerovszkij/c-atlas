@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Скептицизм проти нейроманії Талліса",
     "summary": "Ця перспектива критикує та відкидає натуралістичні й матеріалістичні спроби пояснити свідомість, стверджуючи, що кількісне вимірювання нейронної активності фундаментально самосуперечливе доступові до якісного, суб'єктивного досвіду. Вона постулює, що мозок є необхідним, але не достатнім, залишаючи глибоку сутність свідомості, самості та інтенційності незвідною таємницею.",
-    "associated_thinkers": ["Raymond Tallis"],
+    "associated_thinkers": [
+      "Raymond Tallis"
+    ],
     "category": "Теорії-виклики",
     "subcategory": "Скептицизм проти нейроманії",
     "core_identity_tagline": "«Свідомість як недоторкана таємниця»",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість є незвідною суб'єктивною реальністю (феноменальними «явленнями» від першої особи), яка фундаментально недоступна й непояснювана об'єктивними, кількісними методологіями фізичної науки.",
-    "ontological_status": "Онтологічний агностицизм/антиматеріалізм (Обґрунтування: Талліс є атеїстом, який відкидає надприродні пояснення, картезіанський дуалізм та панпсихізм, натомість тримаючись глибокого скептицизму щодо пізнаваності основи свідомості).",
+    "ontological_status": "Ontological Agnosticism/Anti-Materialism (Justification: Tallis is an atheist who rejects supernatural explanations, Cartesian dualism, and panpsychism, committing instead to a deep skepticism regarding the knowability of consciousness's foundation).",
     "mind_body_relationship": "Мозок є необхідним, але не достатнім для свідомості. Будь-яке запропоноване твердження про тотожність між нейронною активністю та феноменальним явленням відкидається, бо ці двоє радикально несхожі одне на одне.",
-    "primitive_or_emergent_status": "Незвідна таємниця (Обґрунтування: Талліс розглядає пояснювальну прогалину як самосуперечливе завдання, притаманне матеріалістичному підходу, що унеможливлює визначення її фундаментальної природи).",
-    "emergence_type": "Незастосовно (Обґрунтування: Талліс критикує редукціоністську структуру, у межах якої зазвичай обговорюється емерджентність; він імпліцитно відкидає слабку емерджентність, зазначаючи нездатність матеріальних фактів пояснити суб'єктивні факти).",
+    "primitive_or_emergent_status": "Irreducible mystery (Justification: Tallis views the explanation gap as a self-contradictory task inherent to the materialist approach, preventing a determination of its fundamental nature).",
+    "emergence_type": "N/A (Justification: Tallis critiques the reductionist framework under which emergence is usually discussed; he rejects weak emergence implicitly by noting the inability of material facts to explain subjective facts).",
     "subjectivity_and_intentionality": "Це основні ментальні риси, непояснені матеріалізмом; нейронна активність не може пояснити «напрямленість» (aboutness, інтенційність) ментальних сутностей чи конструювання самості.",
     "qualia_account": "Квалія (якісне відчуття) є суб'єктивними «явленнями» від першої особи, які не можна охопити об'єктивним підходом, зосередженим на масі/енергії. Наприклад, нейронна активність, що відповідає жовтому кольору, фізично несхожа на феноменальне переживання жовтизни.",
     "ontological_commitments": "Суб'єктивна свідомість (феноменальна присутність, агентність, самість) є реальною, але зобов'язання щодо будь-якої конкретної фундаментальної онтології (матеріальної/нематеріальної) стримується через всеосяжну таємницю.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Філософський аналіз, логічна критика та феноменологічне оцінювання."
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуальна критика (Обґрунтування: основною метою теорії є продемонструвати концептуальні межі наявних емпіричних теорій, а не запропонувати нову емпірично перевірну модель).",
+    "testability_status": "Conceptual Critique (Justification: The theory's primary goal is to demonstrate the conceptual limits of currently available empirical theories, rather than proposing a new empirically testable model).",
     "known_empirical_interventions_or_tests": "Жодних, запропонованих Таллісом. (Обґрунтування: Талліс критикує опертя на слабкі кореляції, спостережувані між нейронною активністю та свідомістю).",
     "criticisms_and_tensions": "Талліс визнає фундаментальні слабкості запропонованих альтернатив: дуалізм є «безнадійною справою», панпсихізм не здатен розв'язати проблему комбінації (як «розумний пил» формує суб'єкта), а надприродні пояснення є суперечливим пакуванням невизначеностей.",
     "open_questions_and_limitations": "Теорія призводить до скептицизму, визнаючи, що основи феноменальної свідомості та знання зрештою вислизають від людського розуміння.",
@@ -51,35 +53,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Оскільки свідомість вимагає незвідних суб'єктивних якостей та інтенційності, які не можна пояснити суто фізичними діями, штучні обчислювальні системи (які функціонують на фізичних/функціональних описах) не можуть досягти справжньої свідомості."
     },
     "survival_beyond_death": {
-      "stance": "Невизначено",
+      "stance": "Uncertain",
       "rationale": "Хоча Талліс відкидає дуалізм та надприродні відповіді, його онтологічний агностицизм та переконання, що «можливе будь-що», передбачає, що нематеріалістичні можливості виживання не можна виключити, хоча він і не надає позитивної теорії на її підтримку."
     },
     "meaning_and_purpose": {
-      "stance": "Гуманістичний/невизначений",
+      "stance": "Humanistic only",
       "rationale": "Теорія відкидає натуралістичні пояснення, які залишають свідомість, самість та людські риси непоясненими, імпліцитно відчиняючи двері для гуманістично створеного сенсу, але не пропонує остаточної, космічної мети."
     },
     "virtual_immortality": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Якщо свідомість не звідна до активності мозку, а вимагає радикально нематеріалістичних рис (як-от феноменальні «явлення»), функціональне дублювання нейронного субстрату не змогло б продублювати свідому самість."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McGinn’s Ultimate Mystery (Mysterianism)",
-        "relationship": "Сумісна"
+        "name": "McGinn's Ultimate Mystery (Mysterianism)",
+        "relationship": "Compatible"
       },
       {
-        "name": "Eliminative Materialism / Illusionism",
-        "relationship": "Критика"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Critique"
       },
       {
         "name": "Panpsychism",
-        "relationship": "Критика"
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "Lahavs relativistische theorie",
     "summary": "Deze theorie karakteriseert bewustzijn als een fysisch fenomeen dat relatief is ten opzichte van de metingen die worden uitgevoerd door een 'cognitief referentiekader'. Analoog aan snelheid in de natuurkunde zullen verschillende waarnemers die in verschillende cognitieve kaders opereren verschillende fysische eigenschappen manifesteren (bewust gewaarzijn voor zichzelf tegenover gemeten hersenactiviteit voor een ander) wanneer zij hetzelfde fenomeen waarnemen.",
-    "associated_thinkers": ["Nir Lahav", "Z.A. Neemeh"],
+    "associated_thinkers": [
+      "Nir Lahav",
+      "Z.A. Neemeh"
+    ],
     "category": "Materialisme",
     "subcategory": "Relationeel",
     "core_identity_tagline": "Bewustzijn als een fysisch fenomeen relatief aan een cognitief referentiekader",
@@ -15,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewuste ervaringen worden geïdentificeerd als ontstaand ten gevolge van het proces van fysische meting relatief aan een 'cognitief referentiekader'.",
-    "ontological_status": "Fysicalisme",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "De relatie is relativistisch: hetzelfde onderliggende fenomeen manifesteert zich als bewust gewaarzijn (vanuit het interne kader) of als hersenactiviteit (vanuit een extern kader), afhankelijk van de meetcontext. Dit suggereert een kaderafhankelijke identiteit of correlatie.",
     "primitive_or_emergent_status": "Emergent",
-    "emergence_type": "Niet expliciet uitgewerkt, maar waarschijnlijk zwakke emergentie, aangezien de theorie berust op gevestigde (of analoge) fysische principes (relativiteit, meting) in plaats van nieuwe fundamentele wetten te postuleren voor het bestaan van bewustzijn zelf.",
+    "emergence_type": "Not explicitly detailed, but likely Weak Emergence, as it relies on established (or analogous) physical principles (relativity, measurement) rather than postulating new fundamental laws for the existence of consciousness itself.",
     "subjectivity_and_intentionality": "Subjectiviteit is inherent aan de definitie van het 'cognitief referentiekader'; twee personen die zich in verschillende cognitieve kaders bevinden, ervaren bewustzijn verschillend. Intentionaliteit (de gerichtheid van het denken) wordt in de aangeleverde bronnen niet expliciet behandeld.",
     "qualia_account": "Qualia worden impliciet verantwoord als subjectieve fysische eigenschappen die zich binnen een specifiek cognitief referentiekader manifesteren, hoewel de intrinsieke kwalitatieve aard van de ervaring zelf niet wordt uitgewerkt.",
     "ontological_commitments": "Fysische werkelijkheid, processen van fysische meting, en een 'cognitief referentiekader' dat naar analogie van de relativistische natuurkunde is opgesteld.",
@@ -42,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Conceptueel/theoretisch argument gebaseerd op de analogie met de natuurkunde (relativiteit)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptueel toetsbaar, aangezien de theorie zich bezighoudt met het definiëren van fysische fenomenen en meting, hoewel empirische toetsing afhangt van het ontwikkelen van mechanismen om de analogie van het cognitieve kader te toetsen.",
+    "testability_status": "Conceptually testable, as the theory deals with defining physical phenomena and measurement, though empirical testing relies on developing mechanisms to test the cognitive frame analogy.",
     "known_empirical_interventions_or_tests": "In de bronnen worden geen specifieke empirische interventies of tests vermeld.",
     "criticisms_and_tensions": "De bron biedt een beschrijving, geen kritiekgedeelte. Een mogelijke spanning ligt in het vertalen van de analogie van fysische relativiteit (zoals snelheid) naar verifieerbare, niet-metaforische cognitieve of neurobiologische processen.",
     "open_questions_and_limitations": "De precieze fysische of neurale instantiëring en definitie van het 'cognitief referentiekader' blijft een open vraag.",
@@ -50,7 +53,7 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Voorwaardelijk",
+      "stance": "Conditional",
       "rationale": "Aangezien de theorie stelt dat bewustzijn voortkomt uit fysische meting en niet uit berekening, zouden AI-systemen niet-computationele processen van fysische meting nodig hebben die een cognitief referentiekader constitueren, waardoor het voorwaardelijk is aan een hardware-implementatie die verder gaat dan eenvoudige berekening."
     },
     "survival_beyond_death": {
@@ -62,7 +65,7 @@
       "rationale": "Dit veld wordt niet behandeld in het aangeleverde bronmateriaal."
     },
     "virtual_immortality": {
-      "stance": "Onwaarschijnlijk",
+      "stance": "Unlikely",
       "rationale": "Aangezien bewustzijn niet-computationeel is en afhankelijk is van het proces van fysische meting, is standaard virtuele onsterfelijkheid (het uploaden van software/gegevens) onwaarschijnlijk, hoewel fysische duplicatie van het relativistische fysische systeem theoretisch mogelijk zou kunnen zijn."
     }
   },
@@ -74,11 +77,11 @@
       },
       {
         "name": "Computational Theories of Mind",
-        "relationship": "Kritiek"
+        "relationship": "Critique"
       },
       {
         "name": "Rovelli's Relationship Physics",
-        "relationship": "Invloed"
+        "relationship": "Influence"
       }
     ],
     "sources_and_references": [

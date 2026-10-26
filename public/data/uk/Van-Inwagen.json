@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Християнський матеріалізм та воскресіння мертвих ван Інвагена",
     "summary": "Ця теорія пропонує форму християнського матеріалізму, за якої людська особа є цілковито матеріальною сутністю, тим самим відкидаючи субстанційний дуалізм як на філософських, так і на біблійних підставах. Вона стверджує, що особиста ідентичність зберігається через смерть завдяки тому, що Бог зберігає фізично й каузально неперервне «голе зерно» первісного матеріального тіла до остаточного воскресіння.",
-    "associated_thinkers": ["Peter van Inwagen"],
+    "associated_thinkers": [
+      "Peter van Inwagen"
+    ],
     "category": "Нередуктивний фізикалізм",
     "subcategory": "Християнський матеріалізм",
     "core_identity_tagline": "Матеріалізм, примирений із біблійним воскресінням",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідома особа є матеріальною річчю, яка мусить підтримувати матеріальну й каузальну неперервність, щоб зберегти особисту ідентичність.",
-    "ontological_status": "Християнський матеріалізм (унікальна фізикалістська позиція, що включає божественну дію задля неперервності ідентичності).",
+    "ontological_status": "Christian Materialism (a unique physicalist stance that incorporates divine action for identity continuity).",
     "mind_body_relationship": "Теорія тотожності: особа (зокрема розум) є тотожною матеріальній речі, хоча точний механізм довготривалого виживання спирається на божественне збереження.",
-    "primitive_or_emergent_status": "Емерджентний",
-    "emergence_type": "Теорія зосереджується на онтологічній неперервності (Божому збереженні матеріальної сутності), а не на конкретних неврологічних механізмах емерджентності, але припускає фізикалістське/матеріалістичне пояснення свідомості за життя.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "The theory focuses on ontological continuity (God's preservation of the material entity) rather than specific neurological emergence mechanisms, but assumes a physicalist/materialist account of consciousness during life.",
     "subjectivity_and_intentionality": "Суб'єктивність та інтенційність є властивостями матеріальної особи/мозку, що узгоджується зі стандартними матеріалістичними позиціями, оскільки теорія зосереджується насамперед на посмертній неперервності, а не на свідомій функції за життя.",
     "qualia_account": "Теорія стосується насамперед онтологічної неперервності, але імпліцитно припускає, що якісний досвід є цілковито фізичним явищем матеріального організму, узгоджуючись зі своєю засадничою матеріалістичною основою.",
     "ontological_commitments": "Матеріальна особа/тіло, атоми та Божа сила (для забезпечення матеріальної й каузальної неперервності). Вона відкидає нефізичні субстанції, як-от душу.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Філософський аргумент, богословська/біблійна екзегеза."
   },
   "empirics_and_critiques": {
-    "testability_status": "Спекулятивна/концептуальна. Центральні твердження про воскресіння спираються на філософсько-богословський аргумент і не є емпірично перевірними наукою.",
+    "testability_status": "Speculative/Conceptual. The central claims about resurrection rely on philosophical/theological argument and are not empirically testable by science.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Теорія стикається з труднощами в поясненні того, як усемогутність може знову зібрати особу, чиї атоми зазнали плину та широко розсіялися (головоломка незліченних двійників). Крім того, аргумент проти безсмертної душі не переконав багатьох християнських дуалістів.",
     "open_questions_and_limitations": "Точний механізм, за яким Бог зберігає «gumnos kókkos» та забезпечує особисту ідентичність з огляду на постійний плин та розсіювання тілесних атомів, залишається нерозв'язаною вимогою.",
@@ -51,31 +53,40 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Імовірно",
+      "stance": "Likely",
       "rationale": "Як матеріалістична теорія, свідомість зрештою є продуктом складного фізичного впорядкування, а це означає, що ШІ мав би, в принципі, бути здатним інстанціювати свідомість, якщо досягнуто необхідного фізичного субстрату."
     },
     "survival_beyond_death": {
-      "stance": "Так (за умови божественного втручання)",
+      "stance": "Conditional",
       "rationale": "Головною метою теорії є надати механізм (Бог зберігає голе зерно) для того, щоб матеріальна особа досягла біблійного воскресіння та посмертного виживання."
     },
     "meaning_and_purpose": {
-      "stance": "Космічний/богословський",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Уся рамка спирається на богословське зобов'язання щодо воскресіння мертвих, що передбачає остаточний сенс і мету в межах божественного плану."
     },
     "virtual_immortality": {
-      "stance": "Імовірно",
+      "stance": "Likely",
       "rationale": "Оскільки особа є матеріальною річчю, завантаження повного фізичного стану мозку мало б, у принципі, привести до функціонального дублювання свідомої самості, уможливлюючи віртуальне безсмертя."
     }
   },
   "relations_and_sources": {
     "related_theories": [
-      { "name": "Substance Dualism", "relationship": "Критика" },
-      { "name": "Papineau’s Mind-Brain Identity", "relationship": "Перетин" },
       {
-        "name": "Murphy’s Non-Reductive Physicalism",
-        "relationship": "Сумісна"
+        "name": "Dualism",
+        "relationship": "Critique"
       },
-      { "name": "Mind-Brain Identity Theory", "relationship": "Перетин" }
+      {
+        "name": "Papineau's Mind-Brain Identity",
+        "relationship": "Overlap"
+      },
+      {
+        "name": "Murphy's Non-Reductive Physicalism",
+        "relationship": "Compatible"
+      },
+      {
+        "name": "Mind-Brain Identity",
+        "relationship": "Overlap"
+      }
     ],
     "sources_and_references": [
       {

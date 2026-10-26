@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Свідомі та несвідомі патерни Поккетт",
     "summary": "Ця теорія електромагнітного поля постулює, що свідомі переживання є тотожними специфічним електромагнітним патернам, породженим мозком. Вона наголошує, що свідомість є фізичною річчю — просторовим електромагнітним патерном, — а не нейронним процесом, що вимагає визначення специфічної тривимірної форми свідомих патернів.",
-    "associated_thinkers": ["Susan Pockett"],
+    "associated_thinkers": [
+      "Susan Pockett"
+    ],
     "category": "Теорії матеріалізму",
     "subcategory": "Електромагнітне поле",
     "core_identity_tagline": "«Свідомість як просторові електромагнітні патерни»",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість ототожнюється з просторовими електромагнітними (ЕМ) патернами або «речами», породженим мозком, зокрема стверджуючи тотожність між свідомими переживаннями та певними ЕМ-патернами.",
-    "ontological_status": "Фізикалізм",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Теорія тотожності. Свідомі переживання буквально тотожні певним електромагнітним патернам.",
-    "primitive_or_emergent_status": "Емерджентний",
-    "emergence_type": "Слабка емерджентність. Свідомість виникає з поточної несвідомої обробки, що означає, що її властивості принципово зводяться до базової фізики/електромагнетизму, хоча у вихідному матеріалі це радше неявне, ніж явно сформульоване як слабка емерджентність.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consciousness arises from ongoing unconscious processing, implying that its properties are reducible in principle to underlying physics/electromagnetism, although this is implicit rather than explicitly stated as weak emergence in the source material.",
     "subjectivity_and_intentionality": "Явно не деталізовано, оскільки увага зосереджена на об'єктивній фізичній природі (3D-формі) свідомого патерну, а не на суб'єктивному процесі відчуття чи інтенційності.",
     "qualia_account": "Квалія відповідають специфічним якісним характеристикам, визначеним унікальною 3D-формою свідомих електромагнітних патернів.",
     "ontological_commitments": "Фізичні електромагнітні поля (ЕМ), нейронний субстрат та виразні 3D-геометричні патерни в ЕМ-полі.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Філософський аргумент у поєднанні з потенційною емпіричною перевірністю щодо геометрії полів мозку."
   },
   "empirics_and_critiques": {
-    "testability_status": "Емпірично перевірна",
+    "testability_status": "Empirically testable",
     "known_empirical_interventions_or_tests": "Базовою передумовою є перевірна гіпотеза щодо специфікації 3D-характеристик, що розрізняють свідомі та несвідомі електромагнітні поля.",
     "criticisms_and_tensions": "Теорія фундаментально суперечить панівному погляду в когнітивній психології, що свідомість є процесом (функціоналістська догма). Головним викликом є суворе визначення специфічних 3D-просторових характеристик, що утворюють свідомий патерн.",
     "open_questions_and_limitations": "Точна 3D-форма або патерн, що характеризує свідомі електромагнітні поля, залишається неуточненою, лишаючи нез'ясованими необхідні та достатні умови для свідомості.",
@@ -51,35 +53,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Можливо",
+      "stance": "Possible",
       "rationale": "Свідомі ЕМ-патерни могли б у принципі породжуватися спеціалізованим апаратним забезпеченням, а не біологічним субстратом, за умови, що апаратура здатна відтворити необхідні характеристики поля."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Свідомість тотожна специфічним ЕМ-патернам, породженим фізичним мозком. Після біологічної смерті та розпаду мозку ці патерни припинили б існування."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичний",
+      "stance": "Humanistic only",
       "rationale": "Як суто матеріалістична та фізикалістська теорія, вона припускає, що свідомість, хоч і є реальним фізичним явищем, не дає доказів космічної мети чи граничної цінності поза тими, що створені людським досвідом."
     },
     "virtual_immortality": {
-      "stance": "Можливо",
+      "stance": "Possible",
       "rationale": "Якщо свідомість-утворювальний ЕМ-патерн можна було б ідеально виміряти та відтворити або симулювати небіологічною апаратурою, самість від першої особи могла б теоретично зберегтися в новому середовищі."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "McFadden’s Conscious Electromagnetic Information Theory",
-        "relationship": "Перетин"
+        "name": "McFadden's Conscious Electromagnetic Information Theory",
+        "relationship": "Overlap"
       },
       {
-        "name": "Jones’s Electromagnetic Fields",
-        "relationship": "Перетин"
+        "name": "Jones's Electromagnetic Fields",
+        "relationship": "Overlap"
       },
       {
         "name": "Functionalism",
-        "relationship": "Критика"
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

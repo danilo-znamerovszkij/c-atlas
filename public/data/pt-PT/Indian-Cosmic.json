@@ -22,9 +22,9 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência (Brahman/Cit) é a única realidade não-dual. A consciência individual é identificada com a Consciência Cósmica que tudo permeia, expressando-se através do complexo corpo-mente.",
-    "ontological_status": "Idealismo (Idealismo Ontológico/Não-dualismo).",
+    "ontological_status": "Idealism (Ontological Idealism/Nondualism).",
     "mind_body_relationship": "A mente e o mundo físico são manifestações derivadas ou ilusórias da consciência fundamental. A consciência resplandece através do complexo corpo-mente, mas não é o próprio corpo nem a própria mente.",
-    "primitive_or_emergent_status": "Primitivo (Fundamental). A consciência é definida como o único existente fundamental.",
+    "primitive_or_emergent_status": "Primitive (Fundamental). Consciousness is defined as the singular fundamental existent.",
     "emergence_type": "",
     "subjectivity_and_intentionality": "A subjetividade e as experiências interiores na primeira pessoa (os qualia) são geradas pela consciência cósmica que tudo permeia. O 'eu' ou a 'pessoa' individual é considerado convencionalmente real ou ilusório, ao passo que a natureza essencial é o Eu/Brahman não-diferente.",
     "qualia_account": "Os qualia (experiências interiores na primeira pessoa) são gerados pela consciência cósmica que tudo permeia. A experiência é categorizada em consciência intransitiva (consciência pura, desprovida de conteúdo) e consciência transitiva (consciência fenomenal, que é um reflexo ou uma aparência da consciência real).",
@@ -49,7 +49,7 @@
     "basis_of_belief_or_evidence_type": "Filosófico, Ontológico, Tradicional/Religioso (escrituras védicas e Upanishads)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Especulativo/Conceptual/Espiritual. A teoria centra-se na realidade ontológica última, que não está tipicamente sujeita ao método científico.",
+    "testability_status": "Speculative/Conceptual/Spiritual. The theory focuses on ultimate ontological reality, which is not typically subject to the scientific method.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Criticada por ser anti-fisicalista e por se apoiar na tradição religiosa. Enfrenta o desafio de explicar como o mundo físico emerge ou é derivado da consciência fundamental, uma ideia estranha e alheia às experiências correntes da vida. É contrastada com outras escolas indianas, como a Vedanta GV, que apresenta diferenças quanto à realidade ontológica da matéria e dos eus individuais.",
     "open_questions_and_limitations": "O mecanismo preciso pelo qual a consciência fundamental gera a matéria e a energia, ou interage com elas, continua a ser um grande desafio. Debate-se também a questão de saber se a identidade individual persiste (comer açúcar) ou se dissolve (ser açúcar) aquando da libertação.",
@@ -57,19 +57,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável (Condicional)",
+      "stance": "Conditional",
       "rationale": "Se a consciência é fundamental e permeante em toda a realidade, então os sistemas artificiais poderiam potencialmente instanciar a consciência cósmica ou participar nela, desde que cumpram os requisitos estruturais/de complexidade para a sua manifestação, embora alguns idealistas rejeitem a IA consciente com base nos modelos computacionais atuais."
     },
     "survival_beyond_death": {
-      "stance": "Sim (Redefinida)",
+      "stance": "Yes",
       "rationale": "A sobrevivência é uma doutrina fundamental nas tradições indianas (por exemplo, a reencarnação). Contudo, a sobrevivência significa frequentemente a eventual perda da atual consciência na primeira pessoa, à medida que a consciência é reabsorvida na Consciência Cósmica última."
     },
     "meaning_and_purpose": {
-      "stance": "Cósmico/Último",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Ao postular a consciência como fundamento de todo o ser e realidade última, a teoria proporciona inerentemente um sentido e um propósito cósmicos. As visões idealistas evolutivas também veem a evolução da consciência como uma característica primária do sentido do mundo."
     },
     "virtual_immortality": {
-      "stance": "Não necessária",
+      "stance": "Not needed",
       "rationale": "Se a consciência já é fundamental e eterna (Idealismo), as conceções tradicionais de sobrevivência ou vida eterna já estão teoricamente disponíveis, tornando irrelevante a imortalidade virtual tecnológica."
     }
   },
@@ -77,14 +77,20 @@
     "related_theories": [
       {
         "name": "Kastrup's Analytic Idealism",
-        "relationship": "Sobreposição/Compatível"
+        "relationship": "Overlap/Compatible"
       },
-      { "name": "Panpsychisms", "relationship": "Sobreposição" },
       {
-        "name": "Buddhism's Empty, Illusory Phenomenal Consciousness (Yogācāra)",
-        "relationship": "Sobreposição/Contraste"
+        "name": "Panpsychism",
+        "relationship": "Overlap"
       },
-      { "name": "Gomatam's GV Vedanta", "relationship": "Contraste" }
+      {
+        "name": "Buddhism's Empty, Illusory Phenomenal Consciousness",
+        "relationship": "Overlap/Contrasting"
+      },
+      {
+        "name": "Gomatam's GV Vedanta",
+        "relationship": "Contrasting"
+      }
     ],
     "sources_and_references": [
       {

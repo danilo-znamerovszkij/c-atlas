@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "O dualismo de substâncias de Swinburne",
     "summary": "Esta teoria postula que uma pessoa é constituída por duas componentes radicalmente distintas: um corpo/cérebro físico e uma substância não física separada, ou anima, que é independente do mundo físico. A anima não física é uma entidade essencial e irredutível, necessária para dar conta da vida consciente e para manter a identidade pessoal ao longo do tempo.",
-    "associated_thinkers": ["Richard Swinburne"],
+    "associated_thinkers": [
+      "Richard Swinburne"
+    ],
     "category": "Dualismos",
     "subcategory": "Dualismo de Substâncias",
     "core_identity_tagline": "A consciência como substância não física radicalmente separada",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada com a vida consciente interior possuída pela substância não física separada (a anima), que é distinta dos processos físicos.",
-    "ontological_status": "Dualismo de substâncias",
+    "ontological_status": "Substance Dualism",
     "mind_body_relationship": "Dualismo interacionista. Embora o mecanismo específico seja muito debatido, a substância não física tem de se correlacionar ou interagir com o cérebro físico para dar conta da vida consciente numa pessoa humana.",
-    "primitive_or_emergent_status": "Primitiva. A anima é uma substância separada, fundamental e não física, não redutível a estados físicos nem sujeita a uma explicação puramente física.",
-    "emergence_type": "Não aplicável; a consciência é identificada com uma substância não física primitiva (a anima). A existência da anima é determinada quer por um acto criativo (Deus) quer por leis irredutíveis, e não puramente por processos físicos que atingem complexidade.",
+    "primitive_or_emergent_status": "Primitive. The soul is a separate, fundamental, nonphysical substance, not reducible to physical states or subject to purely physical explanation.",
+    "emergence_type": "Not applicable; consciousness is identified with a primitive nonphysical substance (the soul). The soul's existence is determined either by a creative act (God) or irreducible laws, not purely by physical processes rising to complexity.",
     "subjectivity_and_intentionality": "A subjetividade (experiência na primeira pessoa) é uma propriedade irredutível possuída pela substância não física (a anima), fazendo da anima o sujeito essencial da experiência e responsável pela vida consciente.",
     "qualia_account": "Os qualia (o caráter qualitativo da experiência) são propriedades da entidade mental separada (a anima) que constituem a «vida consciente» e não podem ser explicados apenas pelo corpo ou cérebro físico.",
     "ontological_commitments": "Substâncias físicas (corpos, cérebros, átomos) e substâncias não físicas (animas/entidades mentais).",
@@ -44,7 +46,7 @@
     ]
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptualmente testável através de argumentos filosóficos e lógicos relativos à identidade pessoal, mas geralmente considerada empiricamente especulativa ou não testável pelos paradigmas fisicalistas, devido à sua dependência de uma substância não física.",
+    "testability_status": "Conceptually testable through philosophical and logical arguments regarding personal identity, but generally considered empirically speculative or untestable by physicalist paradigms due to its reliance on a nonphysical substance.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "A principal tensão é o problema da interação: o dualismo tem dificuldade em explicar como uma substância não física pode interagir causalmente com um cérebro físico sem violar leis físicas, como a conservação da energia . A visão de Swinburne é também criticada quanto ao modo como as leis poderiam reger a criação de uma anima individual *específica* .",
     "open_questions_and_limitations": "O mecanismo preciso pelo qual a substância não física interage com o cérebro físico (o problema da interação) permanece por resolver .",
@@ -52,19 +54,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Não (na maioria dos casos)",
+      "stance": "Unlikely",
       "rationale": "Os sistemas de IA careceriam da substância não física necessária, radicalmente separada (anima), exigida para uma verdadeira consciência interior. O dualismo é geralmente considerado o principal reduto contra a consciência da IA."
     },
     "survival_beyond_death": {
-      "stance": "Sim",
+      "stance": "Yes",
       "rationale": "Uma vez que a pessoa é constituída por uma substância não física, essa substância (a anima) poderia potencialmente manter a existência consciente após a morte e a dissolução do corpo e do cérebro físico."
     },
     "meaning_and_purpose": {
-      "stance": "Sim",
+      "stance": "Cosmic/Ultimate",
       "rationale": "As teorias dualistas e idealistas oferecem geralmente algum tipo de sentido, propósito ou valor último, em contraste com as teorias puramente materialistas ."
     },
     "virtual_immortality": {
-      "stance": "Não (na maioria dos casos)",
+      "stance": "Unlikely",
       "rationale": "Carregar apenas a estrutura física do cérebro seria insuficiente, pois a componente não física necessária (a anima) não poderia ser duplicada ou carregada pela tecnologia, resultando na ausência do eu mental original na primeira pessoa ."
     }
   },
@@ -72,19 +74,19 @@
     "related_theories": [
       {
         "name": "Interactive Dualism",
-        "relationship": "Compatível"
+        "relationship": "Compatible"
       },
       {
         "name": "Property Dualism",
-        "relationship": "Contraste"
+        "relationship": "Contrast"
       },
       {
         "name": "Emergent Dualism",
-        "relationship": "Contraste"
+        "relationship": "Contrast"
       },
       {
-        "name": "Mind-Brain Identity Theory",
-        "relationship": "Crítica"
+        "name": "Mind-Brain Identity",
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

@@ -20,10 +20,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Феноменальное сознание (феноменальный характер) отождествляется с репрезентационным содержанием (интенциональным содержанием) опыта или сводится к нему.",
-    "ontological_status": "Редуктивный физикализм/материализм (теория используется для подрыва аргументов против физикализма).",
+    "ontological_status": "Reductive Physicalism/Materialism (The theory is used to undermine arguments against physicalism).",
     "mind_body_relationship": "Теория тождества/редукционизм (феноменальный характер сводится к интенциональному содержанию, которое предполагается физически реализованным, что вписывается в материалистический лагерь).",
-    "primitive_or_emergent_status": "Не первичный; редуктивно эмерджентный (супервентен на нейронном репрезентационном содержании)",
-    "emergence_type": "Слабая эмерджентность (теория стремится показать, что феноменальные свойства полностью исчерпываются репрезентационным содержанием или сводимы к нему, что согласуется с принципами слабой эмерджентности/редукционизма).",
+    "primitive_or_emergent_status": "Not primitive; reductively emergent (supervenient on neural representational content)",
+    "emergence_type": "Weak Emergence (The theory aims to show that phenomenal properties are entirely exhausted or reducible to representational content, which aligns with the principles of weak emergence/reductionism).",
     "subjectivity_and_intentionality": "Субъективное феноменальное качество полностью определяется и исчерпывается чувственными свойствами, представленными субъекту. Интенциональность (свойство репрезентировать внешние объекты) является фундаментальной для сознательного состояния.",
     "qualia_account": "Квалиа, или качественные черты феноменального сознания, иллюзорны или несостоятельны, если их считать свойствами перцептивного состояния сверх его репрезентационных свойств. Феноменальный характер сводится к интенциональному содержанию.",
     "ontological_commitments": "Внешние объекты и их видимые свойства, перцептивные состояния и репрезентационное содержание. Теория явно отрицает существование внутренних, нерепрезентационных ментальных свойств.",
@@ -47,7 +47,7 @@
     "basis_of_belief_or_evidence_type": "Философский (аргумент, основанный на феноменологическом наблюдении и интроспекции)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально проверяемый/феноменологически ограниченный (главной его проверкой является согласованность интроспективного утверждения, хотя методы объективной фальсификации не являются центральными).",
+    "testability_status": "Conceptually testable/Phenomenologically constrained (Its main test is the consistency of the introspective claim, although objective falsification methods are not central).",
     "known_empirical_interventions_or_tests": "Интроспекция (теория зависит от того, обнаруживает ли «самая настойчивая интроспекция когда-либо какие-либо такие дополнительные свойства»). Проблемные случаи, такие как размытое зрение, разбираются сторонниками теории.",
     "criticisms_and_tensions": "Критики приводят такие явления, как размытое зрение, в качестве потенциальных контрпримеров к утверждению, что все воспринимаемые свойства суть внешние свойства объекта. Тезис отрицает идею, что феноменальные качества являются независимыми свойствами ментального состояния.",
     "open_questions_and_limitations": "Должна разрешить кажущиеся несогласованности, например, каким образом внутренние состояния вроде размытого зрения могут переживаться, если опыт содержит лишь внешние свойства.",
@@ -55,43 +55,43 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Вероятно",
+      "stance": "Likely",
       "rationale": "Как философская защита материалистических теорий, он поддерживает взгляд, что сознание вычислительно или репрезентационно, а значит, сознание ИИ в принципе абсолютно возможно."
     },
     "survival_beyond_death": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Сознание укоренено в репрезентационных состояниях, производных от физического мозга. Согласно материалистической парадигме, разрушение мозга означает окончательное несуществование личности."
     },
     "meaning_and_purpose": {
-      "stance": "Только гуманистический",
+      "stance": "Humanistic only",
       "rationale": "Теория служит подкреплению материализма, который обычно поддерживает лишь гуманистически созданные смысл, цель и ценность."
     },
     "virtual_immortality": {
-      "stance": "Да",
+      "stance": "Yes",
       "rationale": "Если сознание полностью объясняется репрезентационным содержанием, то эта информация теоретически могла бы быть скопирована и загружена на небиологический субстрат, делая виртуальное бессмертие достижимым."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Representational Theories",
-        "relationship": "Основа"
+        "name": "First-Order",
+        "relationship": "Basis"
       },
       {
         "name": "Intentionalism",
-        "relationship": "Сходная/эквивалентная"
+        "relationship": "Similar/Equivalent"
       },
       {
-        "name": "Materialism Theories",
-        "relationship": "Защита/поддержка"
+        "name": "Materialism",
+        "relationship": "Defense/Support"
       },
       {
         "name": "Jackson’s Representationalism",
-        "relationship": "Развитие/поддержка"
+        "relationship": "Extension/Support"
       },
       {
         "name": "Amy Kind",
-        "relationship": "Критика/уточнение"
+        "relationship": "Critique/Refinement"
       }
     ],
     "sources_and_references": [

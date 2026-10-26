@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Teoria do Controlo Percetivo (PCT) de Mansell",
     "summary": "Esta teoria propõe que a consciência emerge do processo vital de reorganização necessário para modificar adaptativamente os sistemas de controlo. Esta modificação visa reduzir o erro nos mecanismos intrínsecos que regem variáveis essenciais, na sua maioria fisiológicas. A consciência abrange aspetos primários (fenoménico), secundários (de acesso) e terciários (autoconsciência), associados a funções de controlo hierárquicas.",
-    "associated_thinkers": ["Warren Mansell"],
+    "associated_thinkers": [
+      "Warren Mansell"
+    ],
     "category": "Materialismo",
     "subcategory": "Homeostática e Afetiva",
     "core_identity_tagline": "A consciência como reorganização que minimiza o erro intrínseco",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência primária (fenoménica) é identificada como emergindo diretamente do processo de reorganização exigido pela modificação adaptativa dos sistemas de controlo que minimizam o erro nos sistemas fisiológicos intrínsecos.",
-    "ontological_status": "Fisicalismo",
+    "ontological_status": "Physicalism",
     "mind_body_relationship": "Emergentista. A mente decorre de processos de reorganização que ocorrem no interior de sistemas de controlo físicos (cérebro/corpo).",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca. Com base na sua classificação no materialismo, assume-se que os processos fundamentais que regem a consciência (reorganização, redução do erro) são explicáveis em princípio por leis físicas subjacentes.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Based on its classification under Materialism, the fundamental processes governing consciousness (reorganization, error reduction) are assumed to be explainable in principle by underlying physical laws.",
     "subjectivity_and_intentionality": "A subjetividade decorre implicitamente do controlo de variáveis percetivas hierarquicamente organizadas. A intencionalidade é abordada através da «intencionalidade prática» (purposiveness), que é o controlo exercido sobre estas variáveis percetivas para alcançar um objetivo (valor de referência).",
     "qualia_account": "A consciência primária (fenoménica) emerge do processo específico de reorganização exigido pela redução do erro nos sistemas intrínsecos que controlam as variáveis fisiológicas básicas.",
     "ontological_commitments": "Sistemas de controlo hierárquicos, variáveis fisiológicas, variáveis percetivas e símbolos (para a consciência terciária).",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Conceptual, psicológica, neurofilosófica"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável. A teoria baseia-se em processos psicológicos quantificáveis (atenção, imaginação) e em sinais fisiológicos de redução do erro.",
+    "testability_status": "Empirically testable. The theory relies on quantifiable psychological processes (attention, imagination) and physiological error reduction signals.",
     "known_empirical_interventions_or_tests": "Testável através de experiências concebidas para medir a taxa de modificação adaptativa (reorganização) em resposta a perturbações fisiológicas ou percetivas imprevisíveis, correlacionando estas alterações com as experiências fenoménicas ou de acesso relatadas.",
     "criticisms_and_tensions": "Enfrenta provavelmente o desafio de explicar como um processo puramente funcional e redutor do erro (reorganização) dá inteiramente conta da sensação qualitativa (qualia) da consciência primária, uma crítica comum dirigida às teorias funcionalistas e computacionais.",
     "open_questions_and_limitations": "A implementação física precisa do mecanismo de reorganização e a ligação explícita entre a redução do erro fisiológico e a emergência subjetiva da experiência fenoménica (qualia) são implícitas mais do que plenamente especificadas.",
@@ -52,39 +54,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Uma vez que a consciência é definida mecanisticamente por processos como a redução do erro, o controlo hierárquico e a manipulação simbólica (para a autoconsciência), estas funções são teoricamente realizáveis em sistemas computacionais artificiais suficientemente complexos."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A consciência está intrinsecamente ligada à emergência dinâmica a partir da reorganização de sistemas de controlo biológicos (substrato implicitamente físico/neural), o que implica a sua cessação com a dissolução deste substrato."
     },
     "meaning_and_purpose": {
-      "stance": "Pragmático/existencial",
+      "stance": "Humanistic only",
       "rationale": "A existência da consciência é explicada pela sua função de promover o comportamento adaptativo, manter o controlo (intencionalidade prática) e colmatar as limitações da vida não consciente, sem postular um propósito cósmico ou último."
     },
     "virtual_immortality": {
-      "stance": "Possível",
+      "stance": "Possible",
       "rationale": "Se a consciência é inteiramente captada pela estrutura informacional subjacente e pela dinâmica da hierarquia dos sistemas de controlo, este padrão funcional poderia potencialmente ser replicado e sustentado num substrato não biológico."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Damasio’s Homeostatic Feelings and Emergence of Consciousness",
-        "relationship": "Sobreposição"
+        "name": "Damasio's Homeostatic Feelings and Emergence of Consciousness",
+        "relationship": "Overlap"
       },
       {
-        "name": "Friston’s Free-Energy Principle and Active Inference",
-        "relationship": "Sobreposição"
+        "name": "Friston's Free-Energy Principle and Active Inference",
+        "relationship": "Overlap"
       },
       {
         "name": "Functionalism",
-        "relationship": "Influência"
+        "relationship": "Influence"
       },
       {
         "name": "Predictive Theories (Top-Down)",
-        "relationship": "Compatível"
+        "relationship": "Compatible"
       }
     ],
     "sources_and_references": [

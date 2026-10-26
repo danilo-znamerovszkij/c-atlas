@@ -311,7 +311,12 @@ export class TheoryChart {
 
   // Drill into a category/subcategory by chart key path (e.g. from the sidebar).
   openPath(path: string[]) {
-    if (path.join('/') === this.currentPath.join('/')) return
+    if (path.join('/') === this.currentPath.join('/')) {
+      // Already at this level, but ECharts may still be zoomed on a theory
+      // the reader clicked (its default click zooms to any node).
+      if (path.length === 0) this.resetToOverview()
+      return
+    }
     this.batching = true
     try {
       while (this.currentPath.length > 0) this.goBack()
@@ -329,6 +334,12 @@ export class TheoryChart {
     this.handleTheoryClick({ ...node, parent: this.currentPath[this.currentPath.length - 1] })
   }
 
+  private resetToOverview() {
+    this.chartContainer.resetZoomPan()
+    setMobileLabelVisibility(false)
+    this.chartContainer.getChart()?.setOption(getChartOptions(), true)
+  }
+
   private goBack() {
     if (this.currentPath.length === 0) return
 
@@ -337,8 +348,7 @@ export class TheoryChart {
     const chart = this.chartContainer.getChart()
 
     if (this.currentPath.length === 0) {
-      setMobileLabelVisibility(false)
-      chart?.setOption(getChartOptions(), true)
+      this.resetToOverview()
     } else {
       const parentName = this.currentPath[this.currentPath.length - 1]
       if (parentName !== 'Materialism') {

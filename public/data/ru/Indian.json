@@ -21,10 +21,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Сознание (*purusha*) отождествляется с вечным, абсолютным, независимым, чувствующим духом или самостью. Оно отлично от всех материальных аспектов реальности, включая разум, который есть лишь тонкая материя.",
-    "ontological_status": "Метафизический дуализм (в частности, между пурушей / сознанием и пракрити / материей)",
+    "ontological_status": "Metaphysical Dualism (specifically, between purusha/consciousness and prakriti/matter)",
     "mind_body_relationship": "Разум — это тонкая материальная сущность (*prakriti*), действующая как внутренний орган (antaḥkaraṇa). Он пассивно освещается *purusha* (нематериальным сознанием), что заставляет его казаться сознательным, при этом два не тождественны и не сводимы друг к другу.",
-    "primitive_or_emergent_status": "Первичное",
-    "emergence_type": "Неприменимо",
+    "primitive_or_emergent_status": "Primitive",
+    "emergence_type": "N/A",
     "subjectivity_and_intentionality": "Субъективность (чувствование) есть внутренняя природа *purusha*, служащей сознанием-свидетелем. Интенциональность (например, мысли, воля) пребывает в разуме (*prakriti*), который обретает видимость сознания через освещение *purusha*.",
     "qualia_account": "Качественное переживание объясняется ролью *purusha* как чувствующего сознания-свидетеля, которое освещает нечувствующий разум (где пребывают сенсорные различения и переживания), тем самым делая их сознательными переживаниями.",
     "ontological_commitments": "Две фундаментальные, универсальные и различные реальности: *purusha* (сознательный дух) и *prakriti* (несознательная природа / материя, включая разум).",
@@ -48,7 +48,7 @@
     "basis_of_belief_or_evidence_type": "Философское, логическое, древнее традиционное учение"
   },
   "empirics_and_critiques": {
-    "testability_status": "Спекулятивно / философично. Центральное утверждение касается нематериальной сущности (*purusha*), недоступной стандартному научному наблюдению или эмпирической проверке.",
+    "testability_status": "Speculative/Philosophical. The central claim involves a non-material entity (*purusha*) that is not accessible to standard scientific observation or empirical testing.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Сталкивается с классической проблемой интеракционизма: объяснением каузального механизма, посредством которого нефизическая, вечная субстанция (*purusha*) освещает физическую, преходящую субстанцию (*prakriti*) или относится к ней. Также оспаривается по вопросу о том, как нечувствующая материя (разум) может производить когнитивное содержание и интенциональность.",
     "open_questions_and_limitations": "Конкретная природа и механизм «освещения», посредством которого нематериальная *purusha* взаимодействует с тонким материальным разумом, сообщая сознание, остаётся необъяснённым. Сама *purusha* за пределами обычного описания.",
@@ -56,35 +56,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Сознание (*purusha*) — это вечная, нематериальная субстанция. Поскольку системы ИИ суть продукты материи (*prakriti*), им с необходимостью недоставало бы фундаментальной *purusha*, требуемой для подлинного чувствования."
     },
     "survival_beyond_death": {
-      "stance": "Да",
+      "stance": "Yes",
       "rationale": "*Purusha* (сознание / дух) вечна, существует независимо от тела и разума и является основой личностной идентичности через циклы рождения, смерти и перерождения (реинкарнации)."
     },
     "meaning_and_purpose": {
-      "stance": "Космическое / экзистенциальное",
+      "stance": "Cosmic/Ultimate",
       "rationale": "Сознание — фундаментальная реальность, что подразумевает предельный космический порядок, хотя цель в индийских традициях часто мыслится в терминах освобождения от цикла перерождений, а не телеологии физического мира."
     },
     "virtual_immortality": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Виртуальное бессмертие требует дублирования ментальной самости путём захвата нейронных паттернов, но эта дуалистическая теория требует отдельной, нефизической субстанции (*purusha*), которую нельзя дублировать или загрузить материальными процессами."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Substance Dualism",
-        "relationship": "Пересечение (разделяет приверженность нередуцируемой нефизической субстанции)"
+        "name": "Dualism",
+        "relationship": "Overlap (Shares commitment to irreducible nonphysical substance)"
       },
       {
-        "name": "Advaita Vedānta (Indian Cosmic Consciousness)",
-        "relationship": "Критика (санкхья дуалистична; адвайта-веданта недвойственна, постулируя сознание как единственно фундаментальное сущее)"
+        "name": "Indian Cosmic Consciousness",
+        "relationship": "Critique (Samkhya is dualist; Advaita Vedānta is nondualist, positing consciousness as the sole fundamental existent)"
       },
       {
         "name": "Gaudíya Vaiṣṇava (GV) Vedānta",
-        "relationship": "Различие (GV-веданта предполагает, что многие свойства сознания могут инстанцироваться в материи, тогда как санкхья полагает комплекс разума / тела строго нечувствующей материей)"
+        "relationship": "Distinction (GV Vedānta suggests many properties of consciousness can be instantiated in matter, while Samkhya holds the mind/body complex as strictly insentient matter)"
       }
     ],
     "sources_and_references": [

@@ -18,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Феноменальное сознание отождествляется функционально с самым недавним воспоминанием о том, на что была направлена внимание префронтальной коры, сохранённым и воссозданным посредством протокола дирижёра. Действительность самого опыта считается несущественной.",
-    "ontological_status": "Физикализм/материализм (как функционалистская модель сознания, укоренённая в вычислительных структурах мозга).",
+    "ontological_status": "Physicalism/Materialism (as a functionalist model of consciousness rooted in computational structures of the brain).",
     "mind_body_relationship": "Сознательные состояния реализуются определёнными вычислительными структурами внутри коры (дирижёром и его интегрированным протоколом), что отражает отношение функциональной реализации/тождества, согласующееся с материализмом.",
-    "primitive_or_emergent_status": "Эмерджентный",
-    "emergence_type": "Слабая эмерджентность (сознательное состояние полностью объясняется и выводится из функций и структур лежащих в основе корковых механизмов и управляемого вознаграждением научения.)",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (The conscious state is fully explained and derived from the functions and structures of the underlying cortical mechanisms and reward-driven learning.)",
     "subjectivity_and_intentionality": "«Дирижёр» направляет внимание и интегрирует процессы в протокол, используемый для рефлексии и порождения связной модели самости, что объясняет субъективность и интенциональность.",
     "qualia_account": "Квалиа (феноменальное сознание) понимаются функционально как воспоминание или реконструкция того, что опыт имел место, отражённое в протоколе дирижёра.",
     "ontological_commitments": "Корковые структуры, вычислительные структуры («дирижёр»), сигналы управляемого вознаграждением научения и интегрированные информационные протоколы.",
@@ -46,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Вычислительный, функционалистский, когнитивная наука."
   },
   "empirics_and_critiques": {
-    "testability_status": "Эмпирически проверяемая/моделируемая (определяется необходимыми и достаточными условиями, привязанными к вычислительным и корковым структурам).",
+    "testability_status": "Empirically testable/Modelable (Defined by necessary and sufficient conditions tied to computational and cortical structures).",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Главное напряжение состоит в определении феноменального сознания всего лишь как воспоминания об опыте, что обходит трудную проблему через утверждение, будто действительность самого опыта несущественна.",
     "open_questions_and_limitations": "Теория сильно опирается на функциональное определение, избегающее объяснения внутренней качественной природы «каково это» — иметь тот или иной опыт, — сосредоточиваясь вместо этого на доступном воспоминании о нём.",
@@ -54,35 +54,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Да",
+      "stance": "Yes",
       "rationale": "Бах оптимистичен в отношении сознания ИИ, поскольку функциональное определение сознания как воспоминания об опыте упрощает его реализацию в искусственных системах, способных к вычислению и к отчёту об этом воспоминании."
     },
     "survival_beyond_death": {
-      "stance": "Нет",
+      "stance": "No",
       "rationale": "Как материалистическая теория, связывающая сознание с определёнными корковыми и вычислительными структурами (дирижёром), она полагает, что сознание прекращается при отказе физического субстрата."
     },
     "meaning_and_purpose": {
-      "stance": "Гуманистический/производный",
+      "stance": "Humanistic only",
       "rationale": "Как материалистическая теория, она не предполагает предельного космического смысла. Смысл и цель выводятся внутренне через способность дирижёра создавать связную модель самости и направлять исполнительную функцию на основе управляемого вознаграждением научения."
     },
     "virtual_immortality": {
-      "stance": "Вероятно",
+      "stance": "Likely",
       "rationale": "Поскольку сознание определяется как информационный протокол/память, возникающие из вычислительной структуры, совершенное воспроизведение и загрузка этого функционального состояния в небиологическую среду должны привести к виртуальному бессмертию."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Dennett’s Multiple Drafts Model",
-        "relationship": "Сходство/совместимо"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Similarity/Compatible"
       },
       {
-        "name": "Graziano’s Attention Schema Theory",
-        "relationship": "Сходство/совместимо"
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "Similarity/Compatible"
       },
       {
         "name": "Integrated Information Theory",
-        "relationship": "Контраст (ТКД функционалистична, в отличие от структурного определения ИИТ)"
+        "relationship": "Contrast (CTC is functionalist, unlike IIT’s structural definition)"
       }
     ],
     "sources_and_references": [

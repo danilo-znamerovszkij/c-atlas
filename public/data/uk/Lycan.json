@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Гомункулярний функціоналізм Лайкена",
     "summary": "Ця теорія стверджує, що свідомість є цілком фізичною та функціональною, складаючись з ієрархічно організованої системи обробки інформації. Свідомість постає саме з репрезентацій другого порядку, функціонуючи як внутрішній механізм чуття, спрямований на власні ментальні стани нижчого порядку самої системи.",
-    "associated_thinkers": ["William Lycan"],
+    "associated_thinkers": [
+      "William Lycan"
+    ],
     "category": "Матеріалізм",
     "subcategory": "Репрезентаційний",
     "core_identity_tagline": "«Свідомість як репрезентація другого порядку та внутрішня увага»",
@@ -15,10 +17,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість (розум) ототожнюється з функціональною організацією системи обробки інформації, цілком поясненою інтенційністю та репрезентацією ментальних станів другого порядку. Квалія ототожнюються з інтенційним змістом цих репрезентацій.",
-    "ontological_status": "Редуктивний фізикалізм/матеріалізм. Лайкен захищає матеріалізм загалом.",
+    "ontological_status": "Reductive Physicalism/Materialism. Lycan defends materialism generally.",
     "mind_body_relationship": "Теорія тотожності, зокрема функціоналізм (або телефункціоналізм), де ментальні стани визначаються своєю функціональною роллю в межах фізичної системи.",
-    "primitive_or_emergent_status": "Емерджентний",
-    "emergence_type": "Слабка емерджентність. Це матеріалістичне пояснення, що стверджує, що феноменальна природа вичерпується функціональними та репрезентаційними фактами, з чого випливає, що ментальне постає з підлеглих фізичних процесів і цілком пояснюване ними (позиція, необхідна для уникнення незручностей для матеріалізму).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. It is a materialist account arguing that phenomenal nature is exhausted by functional and representational facts, implying that the mental arises from, and is fully explainable by, the underlying physical processes (a stance necessary to avoid embarrassing materialism).",
     "subjectivity_and_intentionality": "Інтенційність (або «спрямованість на») і функціональна організація цілком пояснюють розум/свідомість («гегемонія репрезентації»). Суб'єктивність постає з функціонування механізмів внутрішньої уваги, спрямованих на стани нижчого порядку (пояснення через внутрішнє чуття).",
     "qualia_account": "Якісні риси (квалія) тлумачаться репрезентаційно; вони є інтенційними об'єктами (репрезентатами) досвіду, тобто немає жодної нефізичної чи нерепрезентаційної «ментальної латки». Квалія вичерпуються інтенційною/репрезентаційною природою відповідних ментальних станів.",
     "ontological_commitments": "Фізичні компоненти (жодних нефізичних частин чи властивостей), функціонально організовані системи обробки інформації, інтенційний зміст і ментальні стани другого порядку.",
@@ -42,7 +44,7 @@
     "basis_of_belief_or_evidence_type": "Філософський захист (захист матеріалізму/функціоналізму) та концептуальний аналіз."
   },
   "empirics_and_critiques": {
-    "testability_status": "Концептуально та, в принципі, емпірично перевірна. Якщо феноменальна природа вичерпується функціональною/репрезентаційною роллю, адекватна нейронаукова/обчислювальна демонстрація цих ролей мала б бути достатньою, хоча Лайкен наголошує на філософській природі аргументів проти матеріалізму.",
+    "testability_status": "Conceptually and, in principle, empirically testable. If phenomenal nature is exhausted by functional/representational role, adequate neuroscientific/computational demonstration of those roles should suffice, though Lycan emphasizes the philosophical nature of the arguments against materialism.",
     "known_empirical_interventions_or_tests": "",
     "criticisms_and_tensions": "Спробу Лайкена спростувати аргумент від знання (уявний експеримент із Мері) через твердження, що феноменальний характер вичерпується репрезентаційним характером, критики відкидають. Критики ставлять під сумнів, чи можуть функціональні ролі справді охопити якісні аспекти досвіду.",
     "open_questions_and_limitations": "Основним обмеженням є переконування скептиків (як-от Джексона, до його зречення), що зведення квалія до репрезентаційного/функціонального змісту справді розчиняє феноменальну таємницю.",
@@ -50,19 +52,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Як функціоналістська теорія, якщо штучні системи здатні реалізувати необхідну функціональну організацію та здатності до репрезентації другого порядку, вони мають бути в принципі свідомими."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Теорія є суворо матеріалістичною й постулює, що свідомість реалізується цілком у межах функціонально організованого фізичного мозку; отже, вона не може зберігатися після смерті тіла."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичний",
+      "stance": "Humanistic only",
       "rationale": "Узгоджуючись зі своєю матеріалістичною основою, свідомість уможливлює інтенційність та агентність, надаючи сенс, створений самою біологічною системою, але не передбачає жодної остаточної космічної мети."
     },
     "virtual_immortality": {
-      "stance": "Ймовірно",
+      "stance": "Likely",
       "rationale": "Оскільки свідомість визначається функціональною організацією та репрезентаційним змістом, досконале функціональне дублювання (завантаження) нейронних патернів і шляхів на небіологічний носій в принципі зберегло б ментальну самість від першої особи."
     }
   },
@@ -70,19 +72,19 @@
     "related_theories": [
       {
         "name": "Higher-Order Theories of Consciousness",
-        "relationship": "Перекриття/розширення"
+        "relationship": "Overlap/Extension"
       },
       {
-        "name": "First-Order Representationalism",
-        "relationship": "Розширення/контраст"
+        "name": "First-Order",
+        "relationship": "Extension/Contrast"
       },
       {
         "name": "Functionalism",
-        "relationship": "Класифікація/основа"
+        "relationship": "Classification/Foundation"
       },
       {
-        "name": "Jackson’s Representationalism and the Knowledge Argument",
-        "relationship": "Критика"
+        "name": "Jackson's Representationalism and the Knowledge Argument",
+        "relationship": "Critique"
       }
     ],
     "sources_and_references": [

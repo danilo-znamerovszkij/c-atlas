@@ -2,7 +2,10 @@
   "id_and_class": {
     "theory_title": "A Teoria Holonómica do Cérebro de Pribram",
     "summary": "Esta teoria propõe que a consciência humana decorre de efeitos quânticos que ocorrem no interior das células cerebrais ou entre elas, fazendo com que o cérebro funcione como uma rede holográfica de armazenamento de informação. Esta natureza holográfica significa que a informação, em particular a memória, é armazenada de forma não local ao longo das redes neuronais, permitindo um funcionamento robusto mesmo após uma lesão.",
-    "associated_thinkers": ["Karl Pribram", "David Bohm"],
+    "associated_thinkers": [
+      "Karl Pribram",
+      "David Bohm"
+    ],
     "category": "Teorias do Materialismo",
     "subcategory": "Computacional e Informacional",
     "core_identity_tagline": "«A consciência como armazenamento quântico holográfico»",
@@ -16,10 +19,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada como padrões de interferência de ondas nas redes dendríticas dos neurónios, característicos da codificação holográfica de informação derivada de efeitos quânticos.",
-    "ontological_status": "Fisicalismo (alargado/biológico-quântico)",
+    "ontological_status": "Physicalism (Extended/Quantum-Biological)",
     "mind_body_relationship": "A mente/consciência é idêntica a processos quânticos e estruturas de informação específicos no interior do cérebro físico, o que sugere uma teoria da identidade ao nível quântico.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência forte",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Strong Emergence",
     "subjectivity_and_intentionality": "A consciência está ligada à recuperação e reconstrução organizadas de padrões de informação holográficos, facilitando a memória associativa rápida necessária à experiência subjetiva e permitindo uma perceção que transcende o simples processamento em avanço (feedforward).",
     "qualia_account": "Os qualia são implicitamente explicados pela estrutura de armazenamento holográfica e não local, que permite reconstruir, a partir de qualquer parte, a totalidade e a unidade da complexa informação armazenada (memória/perceção).",
     "ontological_commitments": "Efeitos/processos quânticos, redes dendríticas, padrões de interferência de ondas, espaço de fase de Hilbert e distribuição não local da memória.",
@@ -43,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Conceptual, Matemática (modelos holográficos), Empírica (estudos de lesões neurobiológicas), Teórica (física quântica)."
   },
   "empirics_and_critiques": {
-    "testability_status": "Conceptualmente testável, mas enfrenta uma extrema dificuldade empírica na verificação das condições biológicas quânticas necessárias no interior do cérebro.",
+    "testability_status": "Conceptually testable, but faces extreme empirical difficulty in verifying the necessary quantum biological conditions within the brain.",
     "known_empirical_interventions_or_tests": [
       "As experiências de Lashley sobre o engrama, que demonstram um funcionamento robusto da memória apesar de grandes lesões no córtex cerebral."
     ],
@@ -53,19 +56,19 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "Se a consciência depender de propriedades quânticas/físicas específicas (como as oscilações dendríticas e a interferência de ondas) e não apenas da computação clássica, os sistemas artificiais só poderiam ser conscientes se replicassem esta estrutura física específica, atualmente desconhecida."
     },
     "survival_beyond_death": {
-      "stance": "Altamente improvável/Não",
+      "stance": "Unlikely",
       "rationale": "A consciência está ligada à dinâmica quântica emergente no interior das redes dendríticas do cérebro físico; a destruição desta estrutura física implicaria tipicamente o termo da consciência, em consonância com uma ontologia fisicalista."
     },
     "meaning_and_purpose": {
-      "stance": "Incerto/Apenas humanista",
+      "stance": "Humanistic only",
       "rationale": "Enquanto teoria puramente mecanicista e fisicalista (ainda que invocando uma física não convencional), não exige qualquer sentido ou valor cósmico inerente, embora esclareça a base física da experiência humana e da criação de valor."
     },
     "virtual_immortality": {
-      "stance": "Condicional",
+      "stance": "Conditional",
       "rationale": "A imortalidade virtual só é teoricamente possível se a tecnologia conseguir medir, mapear e replicar na perfeição os padrões e dinâmicas quânticos/holográficos, incrivelmente complexos e altamente sensíveis, do cérebro biológico num substrato não biológico."
     }
   },
@@ -73,19 +76,19 @@
     "related_theories": [
       {
         "name": "Penrose-Hameroff's Orchestrated Objective Reduction",
-        "relationship": "Extensão/Colaboração"
+        "relationship": "Extension/Collaboration"
       },
       {
         "name": "Bohm's Implicate-Explicate Order",
-        "relationship": "Influência/Colaboração"
+        "relationship": "Influence/Collaboration"
       },
       {
         "name": "Holonomic Principle",
-        "relationship": "Influência"
+        "relationship": "Influence"
       },
       {
-        "name": "Electromagnetic Field Theories",
-        "relationship": "Sobreposição"
+        "name": "Electromagnetic",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Структурний реалізм Лооритса",
     "summary": "Ця теорія постулює, що свідомий досвід є цілком структурними явищами, що перебувають у мозку як складні патерни вищого порядку в нейронній активності. Вона розв'язує важку проблему, стверджуючи, що квалія, хоч і видаються якісними й неструктурними, насправді є складними композиційними структурами, помилково сприйнятими як монадичні властивості самим нейронним патерном.",
-    "associated_thinkers": ["Kristjan Loorits"],
+    "associated_thinkers": [
+      "Kristjan Loorits"
+    ],
     "category": "Матеріалізм",
     "subcategory": "Реляційний",
     "core_identity_tagline": "Свідомість як цілком структурні нейронні патерни",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість ототожнюється зі складними патернами вищого порядку в нейронній активності, які є за своєю суттю структурними явищами. Квалія є композиційними структурами величезних мереж несвідомих асоціацій.",
-    "ontological_status": "Структурний реалізм (фізикалізм)",
+    "ontological_status": "Structural Realism (Physicalism)",
     "mind_body_relationship": "Тотожність/редукція (свідомий досвід є структурними явищами, що перебувають у мозку й аналізовними в цілком структурних термінах).",
-    "primitive_or_emergent_status": "Емерджентний",
-    "emergence_type": "Слабка емерджентність (виведена, оскільки теорія стверджує, що свідомість є цілком структурною й аналізовною у фізичних термінах, вписуючись у матеріалістичну редукціоністську рамку, попри концептуальне розв'язання важкої проблеми).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Inferred, as the theory claims consciousness is fully structural and analyzable in physical terms, fitting within a Materialist reductionist framework despite solving the Hard Problem conceptually).",
     "subjectivity_and_intentionality": "Суб'єктивність постає тому, що складний нейронний патерн хибно сприймає свої власні надзвичайно складні структурні властивості як прості, монадичні якості. Свідомий досвід розуміється як об'єктивні структури, що існують у світі.",
     "qualia_account": "Квалія є цілком структурними явищами — композиційними структурами несвідомих асоціацій, — які лише *сприймаються* системою як неструктурні чи якісні (перспективні явища).",
     "ontological_commitments": "Складні нейронні патерни вищого порядку; об'єктивні структури, що існують у світі; величезні мережі несвідомих асоціацій.",
@@ -34,7 +36,7 @@
     "causation_and_functional_role": "Вихідний матеріал зосереджується на структурній тотожності та епістемології свідомості, а не на її явній причинній функціональній ролі."
   },
   "empirics_and_critiques": {
-    "testability_status": "Емпірично перевірна (передбачення покладається на розвиток технології стимуляції мозку).",
+    "testability_status": "Empirically testable (Prediction relies on the development of brain-stimulating technology).",
     "known_empirical_interventions_or_tests": [
       "Передбачення, що належна технологія стимуляції мозку має розкрити структурну природу квалія безпосередньо переживаючому суб'єкту."
     ],
@@ -44,35 +46,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Ймовірно",
+      "stance": "Likely",
       "rationale": "Як матеріалістична теорія, що ототожнює свідомість зі структурними нейронними патернами, ці патерни є концептуально відтворюваними в небіологічних обчислювальних субстратах."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Теорія визначає свідомість як цілком структурні явища, що перебувають у біологічних мозках; отже, свідомість припинилася б із припиненням цих нейронних процесів."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичний",
+      "stance": "Humanistic only",
       "rationale": "Як матеріалістична теорія, вона надає фізикалістське пояснення феноменальної свідомості, але не підтримує остаточного, космічного сенсу чи мети."
     },
     "virtual_immortality": {
-      "stance": "Так (ймовірно)",
+      "stance": "Likely",
       "rationale": "Оскільки свідомість ототожнюється цілком зі структурними фізичними властивостями (нейронними патернами), дублювання цих патернів на небіологічному носії мало б призвести до досконалого продовження свідомої самості, що узгоджується з принципами матеріалізму/функціоналізму."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Eliminative Materialism / Illusionism",
-        "relationship": "Розширення/підтримка (Лооритс підтримує ідею, що неструктурні риси є цілком структурними, розглядаючи «видавання» як перспективні явища)"
+        "name": "Eliminative/Illusionism",
+        "relationship": "Extension/Support (Loorits supports the idea that non-structural features are fully structural, viewing 'seemings' as perspectival phenomena)"
       },
       {
-        "name": "Representational Theories",
-        "relationship": "Перекриття (теорія покладається на структурну репрезентацію квалія, хоч і хибно сприйняту)"
+        "name": "First-Order",
+        "relationship": "Overlap (The theory relies on the structural representation of qualia, albeit misperceived)"
       },
       {
         "name": "Functionalism",
-        "relationship": "Сумісна (зосереджується на функції/ролі структур понад субстрат, дозволяючи реалізацію в різних носіях)"
+        "relationship": "Compatible (Focuses on function/role of structures over substrate, allowing for realization in different mediums)"
       }
     ],
     "sources_and_references": [

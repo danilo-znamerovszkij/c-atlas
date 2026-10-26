@@ -16,10 +16,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Свідомість ототожнюється з функцією чи продуктом складних, великомасштабних мозкових структур (контурів) та наслідкової масивної синхронної електричної активності (циклів) у межах біологічного мозку.",
-    "ontological_status": "Фізикалізм (редуктивний матеріалізм)",
+    "ontological_status": "Physicalism (Reductive Materialism)",
     "mind_body_relationship": "Тотожність/Кореляція. Ментальні стани тотожні специфічним фізичним станам великомасштабних нейронних контурів і динамічних патернів або безпосередньо корелюють з ними.",
-    "primitive_or_emergent_status": "Емерджентний",
-    "emergence_type": "Слабка емерджентність (Неявно: постає зі складної організації відомих фізичних компонентів, узгоджено з класичним нейробіологічним редукціонізмом).",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence (Implicit: arises from complex organization of known physical components, consistent with classic neurobiological reductionism).",
     "subjectivity_and_intentionality": "Зосереджується на забезпеченні фізичного субстрату, необхідного для свідомих станів; специфічний механізм генерування незвідної першоособової суб'єктивності чи інтенційності часто нерозроблений або відкладений на теорії-наступниці.",
     "qualia_account": "Специфічне якісне відчуття досвіду (квалія) не пояснюється безпосередньо цією теорією, яка зосереджується насамперед на організаційних механізмах (контурах і циклах), корельованих зі свідомістю.",
     "ontological_commitments": "Великомасштабні нейронні структури (наприклад, шляхи, ретикулярна активуюча система, кора), нейронна електрофізіологія (синхронне збудження) та вимірювані мозкові цикли (наприклад, ЕЕГ-хвилі).",
@@ -43,7 +43,7 @@
     "basis_of_belief_or_evidence_type": "Емпіричний, нейрофізіологічний"
   },
   "empirics_and_critiques": {
-    "testability_status": "Емпірично перевірний через нейрофізіологічні виміри (наприклад, ЕЕГ, функціональну візуалізацію), що відстежують великомасштабну мозкову синхронізацію та активність у визначених контурах.",
+    "testability_status": "Empirically testable through neurophysiological measurements (e.g., EEG, functional imaging) that track large-scale brain synchronization and activity in the identified circuits.",
     "known_empirical_interventions_or_tests": [
       "ЕЕГ-вимірювання частотних діапазонів (наприклад, гамма-хвиль 40 Гц), пов'язаних зі свідомими станами.",
       "Дослідження двонапрямленого передавання інформації в кортико-таламічних шляхах під час свідомих проти несвідомих станів."
@@ -54,39 +54,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Якщо свідомість є цілком продуктом специфічних фізичних нейронних контурів і динамічних патернів активності, то ці механізми можна, в принципі, досконало продублювати в небіологічних субстратах, уможливлюючи свідомість ШІ."
     },
     "survival_beyond_death": {
-      "stance": "Ні",
+      "stance": "No",
       "rationale": "Як матеріалістична теорія, свідомість цілком прив'язана до біологічного мозку; припинення цих специфічних нейронних контурів і циклів означає кінець свідомості."
     },
     "meaning_and_purpose": {
-      "stance": "Лише гуманістичний",
+      "stance": "Humanistic only",
       "rationale": "Узгоджено з матеріалізмом, теорія не пропонує остаточного космічного сенсу чи мети; будь-який сенс твориться самими свідомими сутностями."
     },
     "virtual_immortality": {
-      "stance": "Так",
+      "stance": "Yes",
       "rationale": "Оскільки першоособова самість ототожнюється зі складною фізичною організацією нейронних патернів і шляхів, досконале дублювання цих контурів у небіологічне середовище мало б зберегти феноменальну свідомість."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Розширення"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Extension"
       },
       {
-        "name": "Recurrent Processing Theory",
-        "relationship": "Розширення/Перетин"
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Extension/Overlap"
       },
       {
         "name": "Dendritic Integration Theory",
-        "relationship": "Уточнення"
+        "relationship": "Refinement"
       },
       {
-        "name": "Electromagnetic Field Theories",
-        "relationship": "Перетин (Мозкові цикли пов'язані з електромагнітними полями)"
+        "name": "Electromagnetic",
+        "relationship": "Overlap (Brain cycles relate to electromagnetic fields)"
       }
     ],
     "sources_and_references": [

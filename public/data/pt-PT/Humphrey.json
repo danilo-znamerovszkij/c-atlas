@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "As Representações Mentais e os Atratores Cerebrais de Humphrey",
     "summary": "Esta teoria materialista vê a consciência fenomenal como um desenvolvimento evolutivo tardio, presente apenas em certas espécies complexas. As sensações são geradas num processo de duas etapas: a recolha de informação sensorial, seguida de uma \"leitura consciente\" interpretativa que gera representações mentais dotadas de propriedades fenomenais (qualia), muitas vezes estabilizadas por estados atratores complexos no cérebro.",
-    "associated_thinkers": ["Nicholas Humphrey"],
+    "associated_thinkers": [
+      "Nicholas Humphrey"
+    ],
     "category": "Materialismo",
     "subcategory": "Representacional",
     "core_identity_tagline": "A consciência fenomenal como representações mentais evoluídas em atratores",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é identificada com representações mentais (ideias que geramos) dos estímulos, especificamente as propriedades que surgem durante a etapa interpretativa (\"leitura consciente\") e que se estabilizam em estados atratores complexos no cérebro.",
-    "ontological_status": "Materialismo / Fisicalismo Redutivo",
+    "ontological_status": "Materialism / Reductive Physicalism",
     "mind_body_relationship": "Os estados mentais (sensações/representações) são gerados pelo cérebro físico. Embora as propriedades fenomenais não sejam propriedades literais dos estados cerebrais, são estados mentais (representações) imaginados pelo cérebro, o que implica dependência.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência Fraca",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence",
     "subjectivity_and_intentionality": "A subjetividade surge da etapa interpretativa, gerando um sentido de eu psicologicamente impressionante — um \"eu fenomenal\" — assente em representações de como os estímulos afetam o organismo. A intencionalidade é inerente ao facto de as sensações serem representações de estímulos.",
     "qualia_account": "Os qualia são as \"propriedades fenomenais\" que surgem apenas na etapa interpretativa (a leitura consciente). São gerados como representações mentais, refinadas e estabilizadas por estados atratores matematicamente complexos no cérebro.",
     "ontological_commitments": "Representações mentais, estados atratores cerebrais, cópias de eferência e ciclos de retroação neural que estabilizam as representações.",
@@ -44,7 +46,7 @@
     "basis_of_belief_or_evidence_type": "Evolutivo, Neuropsicológico, Filosófico/Conceptual."
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável. A teoria postula pontos de controlo evolutivos específicos e dinâmicas cerebrais (estados atratores, cópias de eferência) que deveriam correlacionar-se com a experiência fenomenal e com a distribuição pelas espécies.",
+    "testability_status": "Empirically testable. The theory posits specific evolutionary checkpoints and brain dynamics (attractor states, efference copies) that should correlate with phenomenal experience and species distribution.",
     "known_empirical_interventions_or_tests": "A teoria implica testar a distribuição da consciência fenomenal pelas espécies (por exemplo, distinguindo mamíferos/aves de animais menos complexos como lagartos/rãs). Orienta também a investigação a afastar-se da expectativa de um mapa direto entre a atividade cerebral e as propriedades fenomenais.",
     "criticisms_and_tensions": "Existe uma tensão potencial no modo como os estados atratores matematicamente complexos dão origem às qualidades aparentemente inexplicáveis dos qualia sensoriais ('do nada'). Humphrey rejeita também a premissa do problema difícil, o que continua a ser uma tensão fundamental com as posições não-materialistas.",
     "open_questions_and_limitations": "Definir com precisão o ponto de corte evolutivo para as espécies que possuem consciência fenomenal permanece uma questão em aberto. O mecanismo pelo qual os estados atratores complexos se traduzem em sensações qualitativas específicas carece de maior detalhe.",
@@ -52,35 +54,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Enquanto teoria materialista em que a consciência é realizada por processamento informacional complexo, representações e estados atratores no cérebro, os sistemas artificiais que consigam replicar estes mecanismos deveriam, em princípio, tornar-se conscientes."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A consciência depende inteiramente do cérebro biológico evoluído e dos seus mecanismos neurais específicos (representações e estados atratores). A morte do cérebro acarreta a cessação da consciência, em consonância com o materialismo."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanístico",
+      "stance": "Humanistic only",
       "rationale": "A teoria enquadra-se estritamente num contexto evolutivo, em que a consciência surge por benefícios adaptativos no 'jogo da aptidão', o que sugere que o sentido e o propósito são criados pelo ser humano ou subjetivos, e não cósmicos ou últimos."
     },
     "virtual_immortality": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Se a consciência é inteiramente explicável pelos padrões neurais, representações e estados atratores específicos gerados pelo cérebro (Teorias do Materialismo), então uma duplicação perfeita destas dinâmicas funcionais num meio não-biológico deveria preservar o eu mental na primeira pessoa."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Thought Theory",
-        "relationship": "Extensão"
+        "name": "Higher-Order",
+        "relationship": "Extension"
       },
       {
-        "name": "Dennett’s Evolution of Minds",
-        "relationship": "Sobreposição"
+        "name": "Dennett's Evolution of Minds",
+        "relationship": "Overlap"
       },
       {
-        "name": "Recurrent Processing Theory",
-        "relationship": "Sobreposição"
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Overlap"
       }
     ],
     "sources_and_references": [

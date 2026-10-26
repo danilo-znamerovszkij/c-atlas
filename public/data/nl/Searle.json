@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "Searle’s biologisch naturalisme",
     "summary": "Het biologisch naturalisme stelt dat bewustzijn een reëel, onherleidbaar, subjectief biologisch kenmerk van de hersenen is, volledig veroorzaakt door neurobiologische processen op een lager niveau en gerealiseerd als kenmerken van een hoger systeemniveau. Deze benadering tracht het geest-lichaamprobleem op te lossen door het wetenschappelijke wereldbeeld te aanvaarden en tegelijk de eerstepersoonsontologie van de bewuste ervaring te erkennen.",
-    "associated_thinkers": ["John Searle"],
+    "associated_thinkers": [
+      "John Searle"
+    ],
     "category": "Materialisme",
     "subcategory": "Filosofisch",
     "core_identity_tagline": "Bewustzijn als een onherleidbaar biologisch kenmerk van de hersenen",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "Bewuste toestanden worden geïdentificeerd als reële delen van de reële wereld die kenmerken van een hoger systeemniveau van de hersenen zijn, gedefinieerd als toestanden van gewaarzijn, sentientie of gevoel die tijdens de waaktoestand voortduren.",
-    "ontological_status": "Fysicalisme (biologisch naturalisme). Het houdt in dat bewustzijn deel is van de natuur als een subjectieve, kwalitatieve biologische eigenschap, en verwerpt pogingen om het te 'naturaliseren' door zijn subjectieve ontologie te ontkennen.",
+    "ontological_status": "Physicalism (Biological Naturalism). It holds that consciousness is part of nature as a subjective, qualitative biological property, rejecting attempts to 'naturalize' it by denying its subjective ontology.",
     "mind_body_relationship": "Bewuste toestanden worden causaal herleid tot hersenprocessen op een lager niveau (causale herleidbaarheid), maar zijn ontologisch onherleidbaar tot deze processen, omdat bewustzijn een subjectieve (eerstepersoons) ontologie heeft, terwijl zijn grondslag een objectieve (derdepersoons) ontologie heeft.",
     "primitive_or_emergent_status": "Emergent",
-    "emergence_type": "De bronnen classificeren het type emergentie niet expliciet. Aangezien bewustzijn volledig wordt veroorzaakt door fysieke processen (materialisme) en toch ontologisch onherleidbaar is, neemt dit model een unieke plaats in het fysicalistische landschap in, door een robuuste, niet-elimineerbare emergente realiteit te poneren die strikt gebonden is aan biologische causaliteit.",
+    "emergence_type": "The sources do not explicitly classify the emergence type. Since consciousness is entirely caused by physical processes (Materialism) yet is ontologically irreducible, this model sits uniquely in the physicalist landscape, asserting a robust, non-eliminable emergent reality tied strictly to biological causality.",
     "subjectivity_and_intentionality": "Bewuste toestanden zijn ontologisch subjectief (bestaand enkel zoals ervaren door een subject) en de meeste bewuste toestanden zijn intentioneel (over, of verwijzend naar, objecten en toedrachten).",
     "qualia_account": "Bewuste toestanden zijn inherent kwalitatief, in die zin dat er een onderscheiden kwalitatief gevoel is bij het verkeren in enige bepaalde bewuste toestand, en dit kwalitatieve gevoel is een reëel en onherleidbaar deel van de wereld.",
     "ontological_commitments": "Biologische hersenen en hun neurobiologische processen op een lager niveau; bewuste toestanden gekenmerkt door kwalitatief gevoel, ontologische subjectiviteit, eenheid en intentionaliteit.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Filosofisch (het definiëren van wezenlijke eigenschappen) en empirisch (neurowetenschappelijk bewijs voor de geest-hersencorrelatie)."
   },
   "empirics_and_critiques": {
-    "testability_status": "In principe empirisch toetsbaar, aangezien de theorie vereist dat de exacte causale details worden gevonden van hoe hersenprocessen op een lager niveau bewustzijn veroorzaken.",
+    "testability_status": "Empirically testable in principle, as the theory requires finding the exact causal details of how lower-level brain processes cause consciousness.",
     "known_empirical_interventions_or_tests": "De theorie wordt over het algemeen ondersteund door empirisch bewijs uit de neurowetenschap dat het verband tussen bewustzijn en hersenactiviteit aantoont (bijv. hersenbeschadiging, hersenstimulatie).",
     "criticisms_and_tensions": "Critici betwisten de bewering dat het causale verband tussen hersentoestanden en bewustzijn volledig vaststaat. Er bestaat spanning in het handhaven van het materialisme terwijl wordt betoogd dat bewustzijn ontologisch subjectief en onherleidbaar tot objectieve fysieke processen is.",
     "open_questions_and_limitations": "De specifieke details van hoe bewustzijn precies door hersenprocessen wordt veroorzaakt zijn onbekend, wat het kunstmatig repliceren van bewustzijn belet.",
@@ -51,35 +53,35 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Voorwaardelijk/mogelijk",
+      "stance": "Conditional",
       "rationale": "Searle verwerpt bewustzijn via simulatie (het Chinese-kamerargument), maar betoogt dat, indien het causaal toereikende biologische mechanisme bekend is, een kunstmatige machine die datzelfde mechanisme implementeert bewust zou kunnen zijn, aangezien bewustzijn niet strikt biologische neuronen vereist, maar enkel voldoende causale kracht."
     },
     "survival_beyond_death": {
-      "stance": "Nee",
+      "stance": "No",
       "rationale": "Bewustzijn is geheel fysiek en uitsluitend het product van biologische hersenen; de dood van de hersenen en het lichaam betekent derhalve onherroepelijke, permanente niet-existentie."
     },
     "meaning_and_purpose": {
-      "stance": "Uitsluitend humanistisch",
+      "stance": "Humanistic only",
       "rationale": "Als materialistische theorie heeft het biologisch naturalisme moeite om een ultieme kosmische zin of doel te rationaliseren, hoewel humanistische zin die wij zelf scheppen mogelijk blijft."
     },
     "virtual_immortality": {
-      "stance": "Ja",
+      "stance": "Yes",
       "rationale": "Indien bewustzijn geheel verklaarbaar is uit fysieke/biologische toestanden, dan zou het dupliceren van die toestanden (en hun causale relaties) in een niet-biologisch medium in principe het uploaden en voortbestaan van het eerstepersoons mentale zelf mogelijk maken."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Mind-Brain Identity Theory",
-        "relationship": "Overlap/evolutie (een geraffineerdere vorm van materialisme gebaseerd op hersenidentiteit)"
+        "name": "Mind-Brain Identity",
+        "relationship": "Overlap/Evolution (A more sophisticated form of materialism based on brain identity)"
       },
       {
-        "name": "Dennett’s Multiple Drafts Model",
-        "relationship": "Contrast (beiden zijn biologische naturalisten, maar Dennett geeft voorrang aan inhoud/functie, terwijl Searle voorrang geeft aan bewustzijn/subjectiviteit)"
+        "name": "Dennett's Multiple Drafts Model",
+        "relationship": "Contrast (Both are biological naturalists, but Dennett prioritizes content/function, while Searle prioritizes consciousness/subjectivity)"
       },
       {
         "name": "Property Dualism",
-        "relationship": "Kritiek (Searle verwerpt deze en andere traditionele theorieën als irrelevant bij het vertrekken vanuit een modern wetenschappelijk wereldbeeld)"
+        "relationship": "Critique (Searle rejects this and other traditional theories as irrelevant when starting from a modern scientific worldview)"
       }
     ],
     "sources_and_references": [

@@ -23,7 +23,6 @@ interface ItemData {
   subcategory?: string
 }
 
-const FULLSCREEN_STORAGE_KEY = 'atlas.panelFullscreen'
 const PORTRAITS = portraitIndex(portraitData.portraits)
 
 // Lets the panel open things outside itself (set by TheoryChart).
@@ -185,7 +184,7 @@ export class ItemDetailsPanel {
     }
   }
 
-  private setFullscreen(on: boolean, persist = true) {
+  private setFullscreen(on: boolean) {
     const panel = this.container.querySelector('.item-details-panel')
     const btn = this.container.querySelector('#fullscreen-panel')
     panel?.classList.toggle('fullscreen', on)
@@ -195,8 +194,6 @@ export class ItemDetailsPanel {
       btn.setAttribute('aria-label', label)
       btn.setAttribute('title', label)
     }
-    if (!persist) return
-    try { localStorage.setItem(FULLSCREEN_STORAGE_KEY, on ? '1' : '0') } catch { /* storage blocked */ }
   }
 
   // Lock page scroll whenever the open panel covers the whole viewport.
@@ -215,9 +212,7 @@ export class ItemDetailsPanel {
 
   private attachEventListeners() {
     this.watchScrollLock()
-    let savedFullscreen = false
-    try { savedFullscreen = localStorage.getItem(FULLSCREEN_STORAGE_KEY) === '1' } catch { /* storage blocked */ }
-    this.setFullscreen(savedFullscreen, false)
+    // Always starts in the side panel; not remembered across visits.
     this.container.querySelector('#fullscreen-panel')?.addEventListener('click', () => {
       const on = !this.container.querySelector('.item-details-panel')?.classList.contains('fullscreen')
       analytics.trackClick(on ? 'panel_fullscreen_on' : 'panel_fullscreen_off')

@@ -2,7 +2,9 @@
   "id_and_class": {
     "theory_title": "A Teoria da Monitorização da Realidade Percetiva de Lau",
     "summary": "Esta teoria de ordem superior, empiricamente fundamentada, propõe que a perceção consciente ocorre quando uma representação de ordem superior (ROS) específica valida uma representação sensorial de primeira ordem como um reflexo fiável do mundo externo. A ROS atua como uma interface entre a perceção e a cognição, fornecendo o sentido subjetivo de justificação para a experiência consciente.",
-    "associated_thinkers": ["Hakwan Lau"],
+    "associated_thinkers": [
+      "Hakwan Lau"
+    ],
     "category": "Materialismo",
     "subcategory": "Representacional",
     "core_identity_tagline": "'A Consciência como Monitorização da Realidade Percetiva'",
@@ -16,10 +18,10 @@
   },
   "conceptual_ground": {
     "explanatory_identity_claim": "A consciência é um mecanismo funcional ou uma interface entre a perceção e a cognição, instanciada por representações de ordem superior que monitorizam a fiabilidade e o estatuto epistémico dos estados sensoriais de primeira ordem.",
-    "ontological_status": "Fisicalismo / funcionalismo",
+    "ontological_status": "Physicalism / Functionalism",
     "mind_body_relationship": "A consciência é idêntica à atividade funcional específica de mecanismos neuronais de ordem superior (provavelmente no córtex pré-frontal) que monitorizam as representações sensoriais de primeira ordem. Trata-se de uma explicação materialista baseada na função cerebral.",
-    "primitive_or_emergent_status": "Emergente",
-    "emergence_type": "Emergência fraca. A consciência é uma função que surge de estruturas organizacionais complexas específicas (ROS) no cérebro, o que sugere que é explicável ou redutível em princípio, em consonância com a sua classificação materialista.",
+    "primitive_or_emergent_status": "Emergent",
+    "emergence_type": "Weak Emergence. Consciousness is a function arising from specific complex organizational structures (HORs) in the brain, suggesting it is explainable or reducible in principle, consistent with its materialist classification.",
     "subjectivity_and_intentionality": "A subjetividade surge da conexão da consciência à formação de crenças e à justificação epistémica a um nível subjetivo. A intencionalidade é veiculada pela representação percetiva de primeira ordem que está a ser monitorizada.",
     "qualia_account": "O 'como-é-ser' subjetivo é explicado por representações de ordem superior que acedem a sinais percetivos analógicos mais ricos e de nível inferior. A natureza analógica destes sinais determina a semelhança subjetiva relativamente a outras experiências possíveis.",
     "ontological_commitments": "Representações percetivas de primeira ordem, representações de monitorização de ordem superior (ROS) e mecanismos neuronais específicos localizados sobretudo no córtex pré-frontal.",
@@ -43,7 +45,7 @@
     "basis_of_belief_or_evidence_type": "Empírico/neurocientífico-cognitivo, funcionalista"
   },
   "empirics_and_critiques": {
-    "testability_status": "Empiricamente testável ao mapear e comparar os correlatos neuronais da perceção consciente e da metacognição sensorial, e através do poder preditivo relativo aos fenómenos de visão cega.",
+    "testability_status": "Empirically testable by mapping and comparing the neural correlates of conscious perception and sensory metacognition, and through the predictive power regarding blindsight phenomena.",
     "known_empirical_interventions_or_tests": [
       "Estudos de neuroimagiologia que correlacionam a atividade pré-frontal/parietal com a metacognição sensorial e a perceção consciente."
     ],
@@ -53,39 +55,39 @@
   },
   "implications": {
     "AI_consciousness": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Enquanto teoria funcionalista, a consciência depende da implementação da arquitetura informacional/funcional correta (o mecanismo da ROS). Se esta arquitetura puder ser instanciada num robô ou programa de computador, a consciência artificial é possível."
     },
     "survival_beyond_death": {
-      "stance": "Não",
+      "stance": "No",
       "rationale": "A consciência está explicitamente ligada a mecanismos neuronais específicos e especializados, localizados no cérebro biológico (por exemplo, o córtex pré-frontal), não deixando espaço para a persistência após a morte biológica."
     },
     "meaning_and_purpose": {
-      "stance": "Apenas humanista",
+      "stance": "Humanistic only",
       "rationale": "O papel primordial do mecanismo é funcional (distinguir a realidade da fantasia e encaminhar a informação). Não oferece qualquer propósito cósmico ou último para além das vantagens adaptativas conferidas por este mecanismo biológico."
     },
     "virtual_immortality": {
-      "stance": "Provável",
+      "stance": "Likely",
       "rationale": "Se a arquitetura funcional e informacional específica, incluindo a natureza analógica das representações, puder ser perfeitamente carregada e executada num substrato não-biológico, o eu mental em primeira pessoa seria preservado, porque a consciência é definida por essa estrutura funcional."
     }
   },
   "relations_and_sources": {
     "related_theories": [
       {
-        "name": "Higher-Order Theories",
-        "relationship": "Instância específica/extensão"
+        "name": "Higher-Order",
+        "relationship": "Specific Instance/Extension"
       },
       {
-        "name": "Global Workspace Theory",
-        "relationship": "Crítica (posicionada como alternativa intermédia superior)"
+        "name": "Baars's and Dehaene's Global Workspace Theory",
+        "relationship": "Critique (Positioned as a superior intermediate alternative)"
       },
       {
-        "name": "Recurrent Processing Theory",
-        "relationship": "Crítica (posicionada como alternativa intermédia superior)"
+        "name": "Lamme's Recurrent Processing Theory",
+        "relationship": "Critique (Positioned as a superior intermediate alternative)"
       },
       {
-        "name": "Graziano’s Attention Schema Theory",
-        "relationship": "Compatível (partilha uma abordagem funcionalista/cognitiva para explicar as alegações de consciência)"
+        "name": "Graziano's Attention Schema Theory",
+        "relationship": "Compatible (Shares a functionalist/cognitive approach to explaining conscious claims)"
       }
     ],
     "sources_and_references": [
